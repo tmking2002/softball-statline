@@ -104,11 +104,11 @@
         <div class="w3-third">
           <div class="w3-card w3-container" style="min-height:460px">
           <h3>Conference Standings</h3><br>
+          <div id="conf-name" style="font-size: 20px; font-weight: bold"></div>
           <div class="w3-dropdown-hover">
             <button class="w3-button w3-padding-16">
                Select Conference<i class="fa fa-caret-down"></i>
             </button>
-            <div id="conf-name"></div>
             <div class="w3-dropdown-content w3-card-4 w3-bar-block">
                 <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'AAC')">AAC</button>
                 <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ACC')">ACC</button>
@@ -469,6 +469,9 @@
                     
                         // Add the table to the container
                         tableContainer.appendChild(table);
+                  
+                        const heading = document.getElementById('conf-name');
+                        heading.textContent = confName;
                     })
             }
             
