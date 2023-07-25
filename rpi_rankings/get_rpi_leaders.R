@@ -1,0 +1,75 @@
+library(tidyverse)
+
+cur_season <- 2023
+
+get_current_rpi <- function(scoreboard){
+
+  team1_scoreboard <- scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+  team2_scoreboard <- scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+
+  scoreboard_upd <- rbind(team1_scoreboard, team2_scoreboard) %>%
+    mutate(win = case_when(runs > opponent_runs ~ 1,
+                           runs < opponent_runs ~ 0,
+                           runs == opponent_runs ~ 0.5)) %>%
+    drop_na(team_name, runs, opponent_runs)
+
+
+  win_perc <- scoreboard_upd %>%
+    group_by(team_name) %>%
+    summarise(games = n(),
+              win_perc = mean(win, na.rm = T)) %>%
+    filter(games >= quantile(games, .15)) %>%
+    select(-games) %>%
+    drop_na()
+
+  scoreboard_upd_2 <- scoreboard_upd %>%
+    merge(win_perc, by.x = "opponent_name", by.y = "team_name", all = T) %>%
+    rename(opponent_win_perc = win_perc) %>%
+    merge(win_perc, by = "team_name", all = T)
+
+
+  opponent_win_perc <- scoreboard_upd_2 %>%
+    group_by(team_name) %>%
+    summarise(opponent_opponent_win_perc = mean(opponent_win_perc, na.rm = T))
+
+  scoreboard_upd_3 <- scoreboard_upd_2 %>%
+    merge(opponent_win_perc, by.x = "opponent_name", by.y = "team_name", all = T)
+
+
+  rpi <- scoreboard_upd_3 %>%
+    group_by(team_name) %>%
+    summarise(rpi_coef = (.5 * mean(win_perc) + .25 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
+              record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-")) %>%
+    ungroup() %>%
+    mutate(rpi_rank = rank(-rpi_coef))
+
+
+  return(rpi)
+}
+
+d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")))
+
+d1_rpi <- get_current_rpi(d1_scoreboard) %>%
+  slice_max(n = 25, order_by = rpi_coef) %>%
+  select(rpi_rank, team_name, record) %>%
+  `names<-`(c("Rank", "Team", "Record"))
+
+write_csv(d1_rpi, "~/Projects/softball-statline/rpi_rankings/d1_rpi.csv")
+
+d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS")))
+
+d2_rpi <- get_current_rpi(d2_scoreboard) %>%
+  slice_max(n = 25, order_by = rpi_coef) %>%
+  select(rpi_rank, team_name, record) %>%
+  `names<-`(c("Rank", "Team", "Record"))
+
+write_csv(d2_rpi, "~/Projects/softball-statline/rpi_rankings/d2_rpi.csv")
+
+d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_{cur_season}.RDS")))
+
+d3_rpi <- get_current_rpi(d3_scoreboard) %>%
+  slice_max(n = 25, order_by = rpi_coef) %>%
+  select(rpi_rank, team_name, record) %>%
+  `names<-`(c("Rank", "Team", "Record"))
+
+write_csv(d3_rpi, "~/Projects/softball-statline/rpi_rankings/d3_rpi.csv")
