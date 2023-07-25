@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Softball Statline - Players</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+<body>
+    <h1>Live Search Suggestions</h1>
+    <form id="search-form">
+        <input type="text" id="search-input" placeholder="Enter your search query">
+        <div id="suggestions-container">
+            <!-- Suggestions will be displayed here -->
+        </div>
+    </form>
+
+    <script>
+        // Sample array of suggestions
+        const suggestions = [
+            "apple", "banana", "orange", "grapes", "strawberry", "pineapple", "mango"
+        ];
+
+        // Function to handle search and display suggestions
+        function handleSearch(event) {
+            const searchQuery = event.target.value.toLowerCase();
+            const suggestionsContainer = document.getElementById('suggestions-container');
+            suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+
+            // Filter the suggestions based on the search query
+            const filteredSuggestions = suggestions.filter(suggestion =>
+                suggestion.toLowerCase().startsWith(searchQuery)
+            );
+
+            // Display the filtered suggestions in the container
+            filteredSuggestions.forEach(suggestion => {
+                const suggestionDiv = document.createElement('div');
+                suggestionDiv.textContent = suggestion;
+                suggestionsContainer.appendChild(suggestionDiv);
+            });
+        }
+
+        // Add an event listener to the search input for live suggestions
+        const searchInput = document.getElementById('search-input');
+        searchInput.addEventListener('input', handleSearch);
+    </script>
+
+    <!-- Add some CSS styles for the suggestions container -->
+    <style>
+        #suggestions-container {
+            border: 1px solid #ccc;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+
+        #suggestions-container div {
+            padding: 5px;
+            cursor: pointer;
+        }
+
+        #suggestions-container div:hover {
+            background-color: #f2f2f2;
+        }
+    </style>
+</body>
+</html>
