@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Softball Statline - Players</title>
+    <link rel="icon" type = image/png href="logo_small.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+    
+    <style>
+        .search-container {
+        display: flex;
+        justify-content: center; /* Horizontally center the input */
+        margin-top: 10px;
+        margin-bottom: 10px;
+        }
+
+        #searchInput {
+        width: 300px;
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        }
+
+        .player-container {
+        max-width: 300px;
+        margin: 0 auto; /* Center the player list container */
+        }
+
+        #playerList {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        }
+
+        #playerList li {
+        margin-bottom: 5px;
+        background-color: #f7f7f7;
+        padding: 10px;
+        border-radius: 4px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        #playerList li:hover {
+        background-color: #e0e0e0;
+        }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YFFKCYZJXV');
+    </script>
+
+    </head>
+    <body>
+        
+        <div class="w3-top">
+            <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+              <a href="/" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
+              <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Players</a>
+              <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
+              <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Games</a>
+              <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
+            </div>
+        </div>
+  
+          <!-- Header -->
+          <header class="w3-container w3-theme w3-padding" id="myHeader">
+            <div class="w3-center">
+                <img src="logo.png" style="height: 200px;">
+            </div>
+          </header>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search by first or last name">
+        </div>
+
+        <div class="player-container">
+            <ul id="playerList"></ul>
+        </div>
+        
+        <script src="papaparse.min.js"></script>
+
+        <script>
+            const playersArray = [];
+
+            function displayPlayers(playersArray) {
+                const playerList = document.getElementById("playerList");
+                playerList.innerHTML = "";
+                
+                const playersToDisplay = playersArray.slice(0, 20);
+
+                playersToDisplay.forEach(player => {
+                const li = document.createElement("li");
+                li.textContent = `${player.first} ${player.last} (${player.team})`;
+                playerList.appendChild(li);
+                });
+            }
+
+            function filterPlayers(searchTerm) {
+                const filteredPlayers = playersArray.filter(player => {
+                const fullName = `${player.first} ${player.last}`;
+                return fullName.toLowerCase().includes(searchTerm.toLowerCase());
+                });
+
+                displayPlayers(filteredPlayers);
+            }
+
+            const searchInput = document.getElementById("searchInput");
+            searchInput.addEventListener("input", () => filterPlayers(searchInput.value));
+            
+            // Initial display of all players
+            displayPlayers(playersArray);
+
+            Papa.parse("players/data/sample_players.csv", {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function (results) {
+                    playersArray.push(...results.data);
+                    displayPlayers(playersArray);
+                }
+            });
+        </script>
+
+    <!-- Add some CSS styles for the suggestions container -->
+    <style>
+        #suggestions-container {
+            border: 1px solid #ccc;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+
+        #suggestions-container div {
+            padding: 5px;
+            cursor: pointer;
+        }
+
+        #suggestions-container div:hover {
+            background-color: #f2f2f2;
+        }
+    </style>
+</body>
+</html>
