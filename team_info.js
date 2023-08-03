@@ -3,6 +3,7 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const teamID = urlParams.get('teamID');
 
+
 function findTeam(csvData, teamID) {
     const lines = csvData.split("\n");
 
@@ -28,8 +29,6 @@ fetch("teams/data/all_teams.csv")
     .then(response => response.text())
     .then(csvData => {
         const teamName = findTeam(csvData, teamID);
-
-        console.log(teamName)
 
         const pageTitle = document.querySelector('title');
         const pageTitleText = pageTitle.textContent;
@@ -89,14 +88,21 @@ function displayInfo(teamInfo) {
         const row = document.createElement("tr");
         for (const header of headers) {
             const td = document.createElement("td");
-            td.textContent = rowData[header];
+            if (header === "Season") {
+                const seasonLink = document.createElement("a");
+                seasonLink.href = `team_season_info?teamID=${teamID}&season=${rowData[header]}`;
+                seasonLink.textContent = rowData[header];
+                td.appendChild(seasonLink);
+            } else {
+                td.textContent = rowData[header];
+            }
             row.appendChild(td);
-    }
+        }
         table.appendChild(row);
     }
 
     tableContainer.appendChild(table);
-    }
+}
 
  fetch(csvFileName)
     .then(response => response.text())
