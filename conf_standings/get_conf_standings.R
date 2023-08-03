@@ -39,14 +39,19 @@ create_standings <- function(conference){
     summarise(W = sum(result == "W"),
               L = sum(result == "L"),
               T = sum(result == "T"),
-              win_perc = (W + T / 2) / (W + L + T)) %>%
+              win_perc = (W + T / 2) / (W + L + T),
+              record = paste(W, L, T, sep = "-")) %>%
+    merge(team_ids, by = "team_name") %>% 
     arrange(desc(win_perc)) %>%
-    select(-win_perc) %>%
-    `names<-`(c("Team", "W", "L", "T"))
+    select(team_name, record, team_id) %>% 
+    `names<-`(c("Team", "Record", "Team ID"))
 
   return(standings)
 
 }
+
+team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+  select(team_name, team_id)
 
 for(i in 1:length(unique(conf_scoreboard$home_conference))){
 

@@ -116,27 +116,35 @@ get_games <- function(division_id, date){
     dplyr::mutate(home_team_runs = as.numeric(home_team_runs),
                   away_team_runs = as.numeric(away_team_runs),
                   game_date = substr(game_date, 1, 10)) %>%
-    dplyr::distinct() %>%
-    select(home_team_logo, home_team_runs, away_team_logo, away_team_runs, game_date)
+    dplyr::distinct() %>% 
+    select(-c(home_team_id, away_team_id)) %>% 
+    merge(team_ids, by.x = "home_team", by.y = "team_name") %>% 
+    rename(home_team_id = team_id) %>% 
+    merge(team_ids, by.x = "away_team", by.y = "team_name") %>% 
+    rename(away_team_id = team_id) %>% 
+    select(home_team_logo, home_team_runs, away_team_logo, away_team_runs, game_date, home_team_id, away_team_id)
 
   return(games_df)
 
 }
 
+team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+  select(team_name, team_id)
+
 d1_schedule <- get_games(d1_id, cur_date) %>%
   mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date"))
+  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
 
 write_csv(d1_schedule, "~/Projects/softball-statline/schedule/d1_schedule.csv")
 
 d2_schedule <- get_games(d2_id, cur_date) %>%
   mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date"))
+  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
 
 write_csv(d2_schedule, "~/Projects/softball-statline/schedule/d2_schedule.csv")
 
 d3_schedule <- get_games(d3_id, cur_date) %>%
   mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date"))
+  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
 
 write_csv(d3_schedule, "~/Projects/softball-statline/schedule/d3_schedule.csv")

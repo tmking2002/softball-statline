@@ -22,14 +22,13 @@
         <style>
             
             #table-container {
-                max-width: 800px; 
-                margin: 0 auto; 
+            max-width: 800px; 
+            margin: 0 auto; 
             }
 
             table {
                 width: 100%;
                 border-collapse: collapse;
-                table-layout: fixed; 
             }
 
             th,
@@ -37,7 +36,7 @@
                 border: 1px solid #ccc;
                 padding: 4px;
                 text-align: center;
-                width: calc(100% / 3);
+                width: auto;
             }
 
             th {
@@ -172,7 +171,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0,-1);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -183,12 +182,26 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
-                            rowData.forEach(cellData => {
-                                const cell = document.createElement('td');
-                                cell.textContent = cellData;
-                                row.appendChild(cell);
+                            const rowData = rows[i].split(',').slice(0,-1);
+                            
+                            rowData.forEach((cellData, index) => {
+                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            let teamID = rows[i].split(',')[3];
+                            
+                            if(index !== 3){
+                                if (index === 1) {
+                                    const teamLink = document.createElement('a');
+                                    teamLink.href = `team_info?teamID=${teamID}`;
+                                    teamLink.textContent = cellData;
+                                    cell.appendChild(teamLink);
+                                } else {
+                                    cell.textContent = cellData;
+                                }   
+                            }
+
+                            row.appendChild(cell);
                             });
+
                             table.appendChild(row);
                         }
 
@@ -207,7 +220,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0, -2);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -218,16 +231,22 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(0,-2);
+                            let homeID = rows[i].split(',')[5];
+                            let awayID = rows[i].split(',')[6];
 
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { // Assuming the image URL is in the fourth column (index 3)
+                                if (index === 0 | index === 2) { 
                                     const img = document.createElement('img');
                                     img.src = cellData;
-                                    img.width = 50; // Set the desired width of the image
-                                    img.height = 50; // Set the desired height of the image
-                                    cell.appendChild(img);
+                                    img.width = 50;
+                                    img.height = 50;
+                                    const link = document.createElement('a');
+                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
+                                    link.appendChild(img);
+
+                                    cell.appendChild(link);
                                 } else {
                                     cell.textContent = cellData;
                                 }
@@ -255,7 +274,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0,-1);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -266,12 +285,26 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
-                            rowData.forEach(cellData => {
-                                const cell = document.createElement('td');
-                                cell.textContent = cellData;
-                                row.appendChild(cell);
+                            const rowData = rows[i].split(',').slice(0,-1);
+                            
+                            rowData.forEach((cellData, index) => {
+                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            let teamID = rows[i].split(',')[3];
+                            
+                            if(index !== 3){
+                                if (index === 1) {
+                                    const teamLink = document.createElement('a');
+                                    teamLink.href = `team_info?teamID=${teamID}`;
+                                    teamLink.textContent = cellData;
+                                    cell.appendChild(teamLink);
+                                } else {
+                                    cell.textContent = cellData;
+                                }   
+                            }
+
+                            row.appendChild(cell);
                             });
+
                             table.appendChild(row);
                         }
 
@@ -290,7 +323,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0, -2);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -301,16 +334,22 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(0,-2);
+                            let homeID = rows[i].split(',')[5];
+                            let awayID = rows[i].split(',')[6];
 
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { // Assuming the image URL is in the fourth column (index 3)
+                                if (index === 0 | index === 2) { 
                                     const img = document.createElement('img');
                                     img.src = cellData;
-                                    img.width = 50; // Set the desired width of the image
-                                    img.height = 50; // Set the desired height of the image
-                                    cell.appendChild(img);
+                                    img.width = 50;
+                                    img.height = 50;
+                                    const link = document.createElement('a');
+                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
+                                    link.appendChild(img);
+
+                                    cell.appendChild(link);
                                 } else {
                                     cell.textContent = cellData;
                                 }
@@ -319,8 +358,8 @@
 
                             table.appendChild(row);
                         }
-                        
-                        table.deleteRow(table.rows.length - 1)     
+
+                        table.deleteRow(table.rows.length - 1) 
                     
                         // Add the table to the container
                         tableContainer.appendChild(table);
@@ -338,7 +377,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0,-1);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -349,17 +388,31 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
-                            rowData.forEach(cellData => {
-                                const cell = document.createElement('td');
-                                cell.textContent = cellData;
-                                row.appendChild(cell);
+                            const rowData = rows[i].split(',').slice(0,-1);
+                            
+                            rowData.forEach((cellData, index) => {
+                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            let teamID = rows[i].split(',')[3];
+                            
+                            if(index !== 3){
+                                if (index === 1) {
+                                    const teamLink = document.createElement('a');
+                                    teamLink.href = `team_info?teamID=${teamID}`;
+                                    teamLink.textContent = cellData;
+                                    cell.appendChild(teamLink);
+                                } else {
+                                    cell.textContent = cellData;
+                                }   
+                            }
+
+                            row.appendChild(cell);
                             });
+
                             table.appendChild(row);
                         }
-                    
-                        table.deleteRow(table.rows.length - 1) 
 
+                        table.deleteRow(table.rows.length - 1) 
+                    
                         // Add the table to the container
                         tableContainer.appendChild(table);
                     })
@@ -373,7 +426,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0, -2);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -384,16 +437,22 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(0,-2);
+                            let homeID = rows[i].split(',')[5];
+                            let awayID = rows[i].split(',')[6];
 
                             rowData.forEach((cellData, index) => {
                                 const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { // Assuming the image URL is in the fourth column (index 3)
+                                if (index === 0 | index === 2) { 
                                     const img = document.createElement('img');
                                     img.src = cellData;
-                                    img.width = 50; // Set the desired width of the image
-                                    img.height = 50; // Set the desired height of the image
-                                    cell.appendChild(img);
+                                    img.width = 50;
+                                    img.height = 50;
+                                    const link = document.createElement('a');
+                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
+                                    link.appendChild(img);
+
+                                    cell.appendChild(link);
                                 } else {
                                     cell.textContent = cellData;
                                 }
@@ -403,7 +462,7 @@
                             table.appendChild(row);
                         }
 
-                        table.deleteRow(table.rows.length - 1)    
+                        table.deleteRow(table.rows.length - 1) 
                     
                         // Add the table to the container
                         tableContainer.appendChild(table);
@@ -426,7 +485,6 @@
               for (i = 0; i < x.length; i++) {
                 activebtn[i].className = activebtn[i].className.replace(" w3-dark-grey", "");
               }
-              console.log(document.getElementById(cityName))
               document.getElementById(cityName).style.display = "block";
             }
             
@@ -453,7 +511,7 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',');
+                        const headers = rows[0].split(',').slice(0,-1);
                         headers.forEach(header => {
                             const th = document.createElement('th');
                             th.textContent = header;
@@ -464,12 +522,26 @@
                         // Create table rows
                         for (let i = 1; i < rows.length; i++) {
                             const row = document.createElement('tr');
-                            const rowData = rows[i].split(',');
-                            rowData.forEach(cellData => {
-                                const cell = document.createElement('td');
-                                cell.textContent = cellData;
-                                row.appendChild(cell);
+                            const rowData = rows[i].split(',').slice(0,-1);
+                            
+                            rowData.forEach((cellData, index) => {
+                            const cell = document.createElement(index === 0 ? 'th' : 'td');
+                            let teamID = rows[i].split(',')[2];
+                            
+                            if(index !== 2){
+                                if (index === 0) {
+                                    const teamLink = document.createElement('a');
+                                    teamLink.href = `team_info?teamID=${teamID}`;
+                                    teamLink.textContent = cellData;
+                                    cell.appendChild(teamLink);
+                                } else {
+                                    cell.textContent = cellData;
+                                }   
+                            }
+
+                            row.appendChild(cell);
                             });
+
                             table.appendChild(row);
                         }
                   

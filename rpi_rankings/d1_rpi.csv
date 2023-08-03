@@ -1,26 +1,25 @@
-Rank,Team,Record
-1,Oklahoma,61-1-0
-2,UCLA,52-7-0
-3,Florida St.,58-11-0
-4,Tennessee,51-10-0
-5,Duke,48-12-0
-6,Stanford,47-15-0
-7,Clemson,49-12-0
-8,Northwestern,42-13-0
-9,Oklahoma St.,47-16-0
-10,Louisiana,50-16-0
-11,Washington,44-15-0
-12,Texas,45-15-1
-13,Central Ark.,45-12-0
-14,Boston U.,52-10-0
-15,Georgia,42-15-0
-16,Marshall,45-10-0
-17,LSU,42-17-0
-18,Utah,42-16-0
-19,McNeese,47-16-0
-20,Oregon,38-17-0
-21,Alabama,45-22-0
-22,Auburn,43-19-0
-23,Grand Canyon,47-13-0
-24,South Alabama,39-14-0
-25,Arkansas,40-19-0
+Rank,Team,Record,Team ID
+1,Oklahoma,61-1-0,522
+2,Tennessee,51-10-0,694
+3,Duke,48-12-0,193
+4,Stanford,47-15-0,674
+5,Clemson,49-12-0,147
+6,Northwestern,42-13-0,509
+7,Washington,44-15-0,756
+8,Louisiana,50-16-0,671
+9,Georgia,42-15-0,257
+10,Marshall,45-10-0,388
+11,Alabama,45-22-0,8
+12,Indiana,44-18-0,306
+13,UNI,39-12-0,504
+14,Minnesota,38-19-0,428
+15,Liberty,40-22-0,355
+17,UCF,40-21-0,128
+18,UConn,34-15-0,164
+19,Ohio St.,33-20-0,518
+20,Kentucky,31-22-1,334
+21,Troy,33-19-1,716
+22,Charlotte,35-23-0,458
+23,Omaha,33-16-0,464
+24,North Texas,35-22-0,497
+25,Villanova,37-22-0,739

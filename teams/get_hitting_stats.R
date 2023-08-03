@@ -1,4 +1,4 @@
-box <- readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2020.RDS") 
+box <- readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2018.RDS") 
 teams <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
@@ -11,7 +11,7 @@ stats <- box %>%
   mutate(first =  proper(trimws(str_remove(first, "\\."))),
          last = proper(trimws(str_remove(last, "\\."))),
          player = paste(first, last),
-         season = 2020) %>% 
+         season = 2018) %>% 
   filter(str_length(first) > 1,
          str_length(last) > 1,
          first != "Unknown") %>% 
@@ -27,4 +27,4 @@ stats <- box %>%
   select(team_id, season, player, ab, h, x2b, x3b, hr, rbi, r, bb, hbp, k, sb, cs, avg, obp, ops) %>% 
   arrange(desc(ops))
 
-write.csv(stats, "~/Projects/softball-statline/teams/data/rosters/d1_hitting_stats_2020.csv")
+write.csv(stats, "~/Projects/softball-statline/teams/data/rosters/d1_hitting_stats_2018.csv")
