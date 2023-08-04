@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Softball Statline - Players</title>
+    <title>Softball Statline - coach</title>
     <link rel="icon" type = image/png href="logo_small.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,18 +25,18 @@
         border-radius: 4px;
         }
 
-        .player-container {
+        .coach-container {
         max-width: 300px;
-        margin: 0 auto; /* Center the player list container */
+        margin: 0 auto; /* Center the coach list container */
         }
 
-        #playerList {
+        #coachList {
         list-style-type: none;
         padding: 0;
         margin: 0;
         }
 
-        #playerList li {
+        #coachList li {
         margin-bottom: 5px;
         background-color: #f7f7f7;
         padding: 10px;
@@ -44,7 +44,7 @@
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         }
 
-        #playerList li:hover {
+        #coachList li:hover {
         background-color: #e0e0e0;
         }
     </style>
@@ -65,9 +65,9 @@
         <div class="w3-top">
             <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
               <a href="../softball-statline/" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
-              <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Players</a>
+              <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Players</a>
               <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
-              <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
+              <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Coaches</a>
               <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
             </div>
         </div>
@@ -83,50 +83,54 @@
             <input type="text" id="searchInput" placeholder="Search by first or last name">
         </div>
 
-        <div class="player-container">
-            <ul id="playerList"></ul>
+        <div class="coach-container">
+            <ul id="coachList"></ul>
         </div>
         
         <script src="papaparse.min.js"></script>
 
         <script>
-            const playersArray = [];
+            const coachArray = [];
 
-            function displayPlayers(playersArray) {
-                const playerList = document.getElementById("playerList");
-                playerList.innerHTML = "";
+            function displaycoach(coachArray) {
+                const coachList = document.getElementById("coachList");
+                coachList.innerHTML = "";
                 
-                const playersToDisplay = playersArray.slice(0, 20);
+                const coachsToDisplay = coachArray.slice(0, 20);
 
-                playersToDisplay.forEach(player => {
+                coachsToDisplay.forEach(coach => {
                 const li = document.createElement("li");
-                li.textContent = `${player.first} ${player.last} (${player.team})`;
-                playerList.appendChild(li);
+                const link = document.createElement("a"); 
+
+                link.href = `coach_info?coachID=${coach.coach_id}`;
+                link.textContent = `${coach.head_coach}`;
+                
+                li.appendChild(link);
+                coachList.appendChild(li);
                 });
             }
 
-            function filterPlayers(searchTerm) {
-                const filteredPlayers = playersArray.filter(player => {
-                const fullName = `${player.first} ${player.last}`;
-                return fullName.toLowerCase().includes(searchTerm.toLowerCase());
+            function filtercoach(searchTerm) {
+                const filteredcoach = coachArray.filter(coach => {
+                    return coach.head_coach.toLowerCase().includes(searchTerm.toLowerCase());
                 });
 
-                displayPlayers(filteredPlayers);
+                displaycoach(filteredcoach);
             }
 
             const searchInput = document.getElementById("searchInput");
-            searchInput.addEventListener("input", () => filterPlayers(searchInput.value));
+            searchInput.addEventListener("input", () => filtercoach(searchInput.value));
             
-            // Initial display of all players
-            displayPlayers(playersArray);
+            // Initial display of all coach
+            displaycoach(coachArray);
 
-            Papa.parse("players/data/sample_players.csv", {
+            Papa.parse("coaches/coach_ids.csv", {
                 download: true,
                 header: true,
                 skipEmptyLines: true,
                 complete: function (results) {
-                    playersArray.push(...results.data);
-                    displayPlayers(playersArray);
+                    coachArray.push(...results.data);
+                    displaycoach(coachArray);
                 }
             });
         </script>

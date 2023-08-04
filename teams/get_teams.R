@@ -1,5 +1,6 @@
 teams <- readRDS("~/Projects/softballR-data/data/ncaa_team_info.RDS") %>% 
-  mutate(season = ifelse(season == 1900, 2000, season))
+  mutate(season = ifelse(season == 1900, 2000, season)) %>% 
+  filter(wins < 80)
 
 teams$ties[which(is.na(teams$ties))] <- 0
 
