@@ -73,7 +73,7 @@ function parseCSV(csvData) {
 function displayInfo(teamInfo) {
     const table = document.createElement("table");
     const headers = Object.keys(teamInfo[0]);
-    
+
     const headerRow = document.createElement("tr");
 
     for (const header of headers) {
@@ -83,26 +83,41 @@ function displayInfo(teamInfo) {
     }
 
     table.appendChild(headerRow);
-    
+
     for (const rowData of teamInfo) {
-        const row = document.createElement("tr");
-        for (const header of headers) {
-            const td = document.createElement("td");
-            if (header === "Season") {
-                const seasonLink = document.createElement("a");
-                seasonLink.href = `team_season_info?teamID=${teamID}&season=${rowData[header]}`;
-                seasonLink.textContent = rowData[header];
-                td.appendChild(seasonLink);
-            } else {
-                td.textContent = rowData[header];
-            }
-            row.appendChild(td);
-        }
-        table.appendChild(row);
+        fetch("coaches/coach_ids.csv")
+            .then(response => response.text())
+            .then(csvData => {
+                const coachID = findCoach(csvData, rowData["Head Coach"]);
+
+                const row = document.createElement("tr");
+
+                for (const header of headers) {
+                    const td = document.createElement("td");
+
+                    if (header === "Season") {
+                        const seasonLink = document.createElement("a");
+                        seasonLink.href = `team_season_info?teamID=${teamID}&season=${rowData[header]}`;
+                        seasonLink.textContent = rowData[header];
+                        td.appendChild(seasonLink);
+                    } else if (header === "Head Coach") {
+                        const coachLink = document.createElement("a");
+                        coachLink.href = `coach_info?coachID=${coachID}`;
+                        coachLink.textContent = rowData[header];
+                        td.appendChild(coachLink);
+                    } else {
+                        td.textContent = rowData[header];
+                    }
+                    row.appendChild(td);
+                }
+                table.appendChild(row);
+            })
+            .catch(error => console.error("Error fetching or parsing CSV:", error));
     }
 
     tableContainer.appendChild(table);
 }
+
 
  fetch(csvFileName)
     .then(response => response.text())
@@ -113,6 +128,25 @@ function displayInfo(teamInfo) {
     .catch(error => console.error("Error fetching or parsing CSV:", error));
 
 
+function findCoach(csvData, coachName) {
+    const lines = csvData.split("\n");
+   
+    let coachID = 0;
+    
+    for (let i = 1; i < lines.length - 1; i++) {
+        const currentLine = lines[i].split(",");
+        let cur_Name = currentLine[1];
+        if (cur_Name.startsWith('"') && cur_Name.endsWith('"')) {
+            cur_Name = cur_Name.slice(1, -1);
+        }
+        if(cur_Name == coachName) {
+            coachID = currentLine[2]
+            break;
+        }
+    }
+    return coachID;
+}
+    
 
 
 
