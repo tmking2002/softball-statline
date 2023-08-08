@@ -31,6 +31,11 @@
     th {
         background-color: #f2f2f2;
     }
+
+    #stats-buttons {
+        display: flex;
+        justify-content: center;
+    }
     </style>
 
     <!-- Google tag (gtag.js) -->
@@ -60,22 +65,56 @@
             <img src="logo.png" style="height: 200px;">
         </div>
     </header>
+
+    <div class="w3-bar w3-theme w3-padding" id="stats-buttons">
+      <button class="w3-bar-item w3-button tablink" onclick="openTab('game-log')">Game Log</button>
+      <button class="w3-bar-item w3-button tablink" onclick="openTab('hitting-stats')">Hitting Stats</button>
+      <button class="w3-bar-item w3-button tablink" onclick="openTab('pitching-stats')">Pitching Stats</button>
+    </div>
+
     <h1 style="text-align: center;"></h1>
+
     <div class="w3-dropdown-hover" style="margin-left: 600px;">
-        <button class="w3-button w3-padding-16">
-          Season <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2023')">2023</a>
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2022')">2022</a>
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2021')">2021</a>
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2020')">2020</a>
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2019')">2019</a>
-          <a href="" class="w3-bar-item w3-button" onclick="setSeason('2018')">2018</a>
-        </div>
+      <button class="w3-button w3-padding-16">
+        Season <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2023')">2023</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2022')">2022</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2021')">2021</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2020')">2020</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2019')">2019</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2018')">2018</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2017')">2017</a>
+        <a href="" class="w3-bar-item w3-button" onclick="setSeason('2016')">2016</a>
+      </div>
     </div>
-    <div id="stats-container">
+
+    <div id="game-log" class="w3-container city w3-animate-opacity">
+      <div id="gamelog-container"></div>
     </div>
+
+    <div id="hitting-stats" class="w3-container city w3-animate-opacity">
+      <div id="hitting-stats-container"></div>
+    </div>
+
+
+    <div id="pitching-stats" class="w3-container city w3-animate-opacity">
+      <div id="pitching-stats-container"></div>
+    </div>
+
+    <script>
+        function openTab(tabName) {
+            var i;
+            var x = document.getElementsByClassName("city");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            document.getElementById(tabName).style.display = "block";
+        }
+
+        openTab('game-log');
+    </script>
 
     <script src="team_season_info.js"></script>
 </body>
