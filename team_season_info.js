@@ -163,7 +163,7 @@ function setSeason(selectedSeason) {
         // Function to display the stats for the selected season
         function displaySeasonStats_hitting(csvData) {
             const table = document.createElement("table");
-            const headers = Object.keys(csvData[0]).slice(2);
+            const headers = ['Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS']
 
             const headerRow = document.createElement("tr");
 
