@@ -96,6 +96,10 @@ function setSeason(selectedSeason) {
             const headers = Object.keys(csvData[0]).slice(3);
 
             const headerRow = document.createElement("tr");
+            
+            const th = document.createElement("th");
+            th.textContent = "";
+            headerRow.appendChild(th);
 
             for (const header of headers) {
                 const th = document.createElement("th");
@@ -109,7 +113,15 @@ function setSeason(selectedSeason) {
             for (const currentLine of csvData) {
                 let curTeamID = currentLine["Team ID"];
                 if (curTeamID === teamID) {
+
                     const row = document.createElement("tr");
+                    const a = document.createElement("a");
+                    a.textContent = "Box";
+                    a.href = "game_info?gameID=" + currentLine["Game ID"] + "&season=" + season;
+                    const td = document.createElement("td");
+                    td.appendChild(a);
+                    row.appendChild(td);
+
                     for (const header of headers) {
                         if (header === "Opponent") {
                             const a = document.createElement("a");

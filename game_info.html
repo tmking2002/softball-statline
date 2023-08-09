@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Softball Statline</title>
+  <link rel="icon" type = image/png href="logo_small.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <style>
+        #table-container {
+            max-width: 800px; 
+            margin: 0 auto; 
+        }
+
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-left: 25%;
+            
+        }
+
+        th,
+        td {
+            border: 1px solid #ccc;
+            padding: 4px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        th:nth-child(1),
+        td:nth-child(1) {
+            width: 25%;
+        }
+
+        th:nth-child(2),
+        td:nth-child(2) {
+            width: 15%;
+        }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YFFKCYZJXV');
+    </script>
+</head>
+<body>
+
+  <div class="w3-top">
+    <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+      <a href="../softball-statline/" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
+      <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Players</a>
+      <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Teams</a>
+      <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
+      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
+    </div>
+</div>
+
+  <!-- Header -->
+  <header class="w3-container w3-theme w3-padding" id="myHeader">
+    <div class="w3-center">
+        <img src="logo.png" style="height: 200px;">
+    </div>
+  </header>
+
+  <h1 style="text-align: center;"></h1>
+  <hr>
+
+  <h2 id="away-team" style="text-align: center;"></h2>
+  <div id="away-table-container"></div>
+  <hr>
+
+  <h2 id="home-team" style="text-align: center;"></h2>
+  <div id="home-table-container"></div>
+
+  <script src="papaparse.min.js"></script>
+  <script src="game_info.js"></script>
+</body>
+</html>
