@@ -93,7 +93,7 @@ function setSeason(selectedSeason) {
         // Function to display the stats for the selected season
         function displaySeasonStats_gamelog(csvData) {
             const table = document.createElement("table");
-            const headers = Object.keys(csvData[0]).slice(3);
+            const headers = ['', 'Game Date', 'Team', '', 'Opponent', 'Result', 'R', 'RA', 'Record']
 
             const headerRow = document.createElement("tr");
             
