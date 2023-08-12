@@ -20,22 +20,29 @@ function findGameInfo(csvData, gameID) {
         const teamColumnIndex = 5;
         const opponentColumnIndex = 7;
         const gameDateColumnIndex = 4;
+        const teamRuns = 9;
+        const opponentRuns = 10;
 
         if (currentLine[gameIdColumnIndex].slice(1, -1) === gameID) {
 
-            let awayTeam, homeTeam, gameDate;
+            let awayTeam, homeTeam, awayRuns, homeRuns, gameDate;
 
+            console.log(currentLine);
             if(currentLine[homeIndicatorIndex] === "@") {
                 awayTeam = currentLine[teamColumnIndex].slice(1, -1);
                 homeTeam = currentLine[opponentColumnIndex].slice(1, -1);
+                awayRuns = currentLine[teamRuns];
+                homeRuns = currentLine[opponentRuns];
                 gameDate = currentLine[gameDateColumnIndex].slice(1, -1);
             } else{
                 awayTeam = currentLine[opponentColumnIndex].slice(1, -1);
                 homeTeam = currentLine[teamColumnIndex].slice(1, -1);
+                awayRuns = currentLine[opponentRuns];
+                homeRuns = currentLine[teamRuns];
                 gameDate = currentLine[gameDateColumnIndex].slice(1, -1);
             }
 
-            return [awayTeam, homeTeam, gameDate];
+            return [awayTeam, homeTeam, awayRuns, homeRuns, gameDate];
         }
     }
 
@@ -49,17 +56,17 @@ fetch(`teams/data/game_logs/game_logs_${season}.csv`)
 
         const pageTitle = document.querySelector('title');
         const pageTitleText = pageTitle.textContent;
-        pageTitle.textContent = `Softball Statline  - ${gameInfo[0]} at ${gameInfo[1]} (${gameInfo[2]})`;
+        pageTitle.textContent = `Softball Statline  - ${gameInfo[0]} at ${gameInfo[1]} (${gameInfo[4]})`;
 
         const heading = document.querySelector('h1');
         const headingText = heading.textContent;
-        heading.textContent = `${gameInfo[0]} at ${gameInfo[1]} (${gameInfo[2]})`;
+        heading.textContent = `${gameInfo[0]} at ${gameInfo[1]} (${gameInfo[4]})`;
 
         const homeNameElement = document.querySelector('#home-team');
-        homeNameElement.textContent = `${gameInfo[1]}`;
+        homeNameElement.textContent = `${gameInfo[1]}: ${gameInfo[3]}`;
 
         const awayNameElement = document.querySelector('#away-team');
-        awayNameElement.textContent = `${gameInfo[0]}`;
+        awayNameElement.textContent = `${gameInfo[0]}: ${gameInfo[2]}`;
     })
     .catch(error => console.error("Error fetching or parsing CSV:", error));
 

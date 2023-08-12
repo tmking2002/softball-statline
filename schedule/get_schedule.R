@@ -1,9 +1,12 @@
+library(tidyverse)
+library(anytime)
+
 d1_id <- 18101
 d2_id <- 18102
 d3_id <- 18103
 
 #cur_date <- Sys.Date()
-cur_date <- as.Date("2023-06-08")
+cur_date <- as.Date("2023-03-21")
 
 get_games <- function(division_id, date){
 
@@ -122,7 +125,8 @@ get_games <- function(division_id, date){
     rename(home_team_id = team_id) %>% 
     merge(team_ids, by.x = "away_team", by.y = "team_name") %>% 
     rename(away_team_id = team_id) %>% 
-    select(home_team_logo, home_team_runs, away_team_logo, away_team_runs, game_date, home_team_id, away_team_id)
+    mutate(season = year(anydate(game_date))) %>% 
+    select(home_team_logo, home_team_id, home_team, home_team_runs, away_team_logo, away_team_id, away_team, away_team_runs, game_id, season, game_date)
 
   return(games_df)
 
@@ -132,19 +136,16 @@ team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>
   select(team_name, team_id)
 
 d1_schedule <- get_games(d1_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
+  mutate(game_date = substr(game_date, 1, 10))
 
 write_csv(d1_schedule, "~/Projects/softball-statline/schedule/d1_schedule.csv")
 
 d2_schedule <- get_games(d2_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
+  mutate(game_date = substr(game_date, 1, 10))
 
 write_csv(d2_schedule, "~/Projects/softball-statline/schedule/d2_schedule.csv")
 
 d3_schedule <- get_games(d3_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 5)) %>%
-  `names<-`(c("", "R", "", "R", "Date", "Home ID", "Away ID"))
+  mutate(game_date = substr(game_date, 1, 10)) 
 
 write_csv(d3_schedule, "~/Projects/softball-statline/schedule/d3_schedule.csv")

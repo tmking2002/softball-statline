@@ -11,14 +11,14 @@ get_current_rpi <- function(scoreboard){
     mutate(win = case_when(runs > opponent_runs ~ 1,
                            runs < opponent_runs ~ 0,
                            runs == opponent_runs ~ 0.5)) %>%
-    drop_na(team_name, runs, opponent_runs)
+    drop_na(team_name, opponent_name, runs, opponent_runs)
 
 
   win_perc <- scoreboard_upd %>%
     group_by(team_name) %>%
     summarise(games = n(),
               win_perc = mean(win, na.rm = T)) %>%
-    filter(games >= quantile(games, .15)) %>%
+    filter(games >= 20) %>% # Change at beginning of seasons
     select(-games) %>%
     drop_na()
 
@@ -37,6 +37,7 @@ get_current_rpi <- function(scoreboard){
 
 
   rpi <- scoreboard_upd_3 %>%
+    drop_na() %>% 
     group_by(team_name) %>%
     summarise(rpi_coef = (.5 * mean(win_perc) + .25 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
               record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-")) %>%

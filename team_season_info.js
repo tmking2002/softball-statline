@@ -54,7 +54,6 @@ function setSeason(selectedSeason) {
             if (type === "hitting") {
                 headers = ['', 'Team ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
               } else if (type === "gamelog") {
-                // Set headers for a different type (game log)
                 headers = ['', 'Team ID', 'Opponent ID', 'Game ID', 'Game Date', 'Team', '', 'Opponent', 'Result', 'R', 'RA', 'Record']; // Replace with actual headers for game log
               }
 

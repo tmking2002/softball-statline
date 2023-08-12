@@ -20,11 +20,6 @@
         </script>
         
         <style>
-            
-            #table-container {
-            max-width: 800px; 
-            margin: 0 auto; 
-            }
 
             table {
                 width: 100%;
@@ -42,6 +37,54 @@
             th {
                 background-color: #f2f2f2;
             }
+
+            .game-container {
+                display: flex;
+                flex-direction: column; /* Stack the rows vertically */
+                align-items: center; /* Center the content horizontally */
+                border: 1px solid #cccccc;
+                width: 300px;
+                margin: 10px 0;
+            }
+
+            .team-row {
+                width: 100%;
+                display: flex;
+                justify-content: left;
+                border-bottom: 1px solid #cccccc; /* Add a border between the rows */
+                padding: 5px 0; /* Add some vertical padding */
+                justify-content: space-between; /* Add space between the logo/team name and the score */
+            }
+
+            .team-row:last-child {
+                border-bottom: none; /* Remove border on the last row */
+            }
+
+            .logo-container {
+                width: 30px; /* Set the width of the logo container */
+                display: flex;
+                align-items: center;
+            }
+
+            .name-container {
+                align-items: left;
+                width: 250px;
+            }
+
+            .team-row img {
+                width: 25px;
+                height: 25px;
+            }
+
+            .team-row td {
+                border: 0;
+                text-align: left;
+            }
+
+            .winning-score {
+                color: rgb(22, 82, 22);
+            }
+
         </style>
     </head>
     <body>
@@ -71,18 +114,20 @@
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D1-schedule')">D1</button>
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D2-schedule')">D2</button>
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D3-schedule')">D3</button>
-            </div>
+          </div>
+
+            <p><span id="dateOutput"></span></p>
 
             <div id="D1-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d1"></div>
+              <div id="schedule-container-d1" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
             </div>
 
             <div id="D2-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d2"></div>
+              <div id="schedule-container-d2" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
             </div>
 
             <div id="D3-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d3"></div>
+              <div id="schedule-container-d3" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
             </div>
           </div>
         </div>
@@ -90,7 +135,7 @@
         <div class="w3-third">
           <div class="w3-card w3-container" style="min-height:460px">
             <h3>Current RPI Rankings</h3><br>
-            <div class="w3-bar w3-theme">
+            <div class="w3-bar w3-theme" style="margin-bottom: 25px;">
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D1-rpi')">D1</button>
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D2-rpi')">D2</button>
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D3-rpi')">D3</button>
@@ -218,48 +263,92 @@
                         const tableContainer = document.getElementById('schedule-container-d1');
                         const table = document.createElement('table');
 
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0, -2);
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header;
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
+                        const date = new Date(rows[1].split(',')[10]);
+                        var dateOutputElement = document.getElementById("dateOutput");
+                        dateOutputElement.textContent = date.toLocaleDateString("en-US", { month: 'long', day: 'numeric', year: 'numeric' });
 
                         // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-2);
-                            let homeID = rows[i].split(',')[5];
-                            let awayID = rows[i].split(',')[6];
+                        for (let i = 1; i < rows.length - 1; i++) {
+                            const rowData = rows[i].split(',');
 
-                            rowData.forEach((cellData, index) => {
-                                const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { 
-                                    const img = document.createElement('img');
-                                    img.src = cellData;
-                                    img.width = 50;
-                                    img.height = 50;
-                                    const link = document.createElement('a');
-                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
-                                    link.appendChild(img);
+                            const awayScore = parseInt(rowData[7]);
+                            const homeScore = parseInt(rowData[3]);
 
-                                    cell.appendChild(link);
-                                } else {
-                                    cell.textContent = cellData;
-                                }
-                                row.appendChild(cell);
-                            });
+                            const gameContainer = document.createElement('div'); // Use div for the container
+                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
 
-                            table.appendChild(row);
+                            const awayRow = document.createElement('tr'); // Use div for the rows
+                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
+                            
+                            const awayLogoContainer = document.createElement('td');
+                            awayLogoContainer.classList.add('logo-container');
+                            const awayLogo = document.createElement('img');
+                            awayLogo.src = rowData[4];
+                            awayLogo.width = 25;
+                            awayLogo.height = 25;
+                            awayLogoContainer.appendChild(awayLogo);
+
+                            const awayNameContainer = document.createElement('td');
+                            awayNameContainer.classList.add('name-container');
+                            const awayName = document.createElement('a');
+                            awayName.textContent = rowData[6];
+                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayNameContainer.appendChild(awayName);
+
+                            const awayRuns = document.createElement('td');
+                            awayRuns.textContent = rowData[7];
+
+                            const homeRow = document.createElement('tr'); // Use div for the rows
+                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
+
+                            const homeLogoContainer = document.createElement('td');
+                            homeLogoContainer.classList.add('logo-container');
+                            const homeLogo = document.createElement('img');
+                            homeLogo.src = rowData[0];
+                            homeLogo.width = 25;
+                            homeLogo.height = 25;
+                            homeLogoContainer.appendChild(homeLogo);
+
+                            const homeNameContainer = document.createElement('td');
+                            homeNameContainer.classList.add('name-container');
+                            const homeName = document.createElement('a');
+                            homeName.textContent = rowData[2];
+                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeNameContainer.appendChild(homeName);
+
+                            const homeRuns = document.createElement('td');
+                            homeRuns.textContent = rowData[3];
+                            
+
+                            if (awayScore > homeScore) {
+                                awayName.classList.add('winning-score');
+                                awayRuns.classList.add('winning-score');
+                            } else if (homeScore > awayScore) {
+                                homeName.classList.add('winning-score');
+                                homeRuns.classList.add('winning-score');
+                            }
+
+                            awayRow.appendChild(awayLogoContainer);
+                            awayRow.appendChild(awayNameContainer);
+
+                            homeRow.appendChild(homeLogoContainer);
+                            homeRow.appendChild(homeNameContainer);
+
+                            awayRow.appendChild(awayRuns);
+                            homeRow.appendChild(homeRuns);
+
+                            const boxLink = document.createElement('a');
+                            boxLink.textContent = 'Box';
+                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+
+                            gameContainer.appendChild(awayRow);
+                            gameContainer.appendChild(homeRow);
+                            gameContainer.appendChild(boxLink);
+
+                            tableContainer.appendChild(gameContainer);
+
                         }
-
-                        table.deleteRow(table.rows.length - 1) 
-                    
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
+                        
                     })
                     .catch(error => console.error('Error fetching CSV:', error));
             }
@@ -321,48 +410,88 @@
                         const tableContainer = document.getElementById('schedule-container-d2');
                         const table = document.createElement('table');
 
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0, -2);
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header;
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
-
                         // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-2);
-                            let homeID = rows[i].split(',')[5];
-                            let awayID = rows[i].split(',')[6];
+                        for (let i = 1; i < rows.length - 1; i++) {
+                            const rowData = rows[i].split(',');
 
-                            rowData.forEach((cellData, index) => {
-                                const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { 
-                                    const img = document.createElement('img');
-                                    img.src = cellData;
-                                    img.width = 50;
-                                    img.height = 50;
-                                    const link = document.createElement('a');
-                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
-                                    link.appendChild(img);
+                            const awayScore = parseInt(rowData[7]);
+                            const homeScore = parseInt(rowData[3]);
 
-                                    cell.appendChild(link);
-                                } else {
-                                    cell.textContent = cellData;
-                                }
-                                row.appendChild(cell);
-                            });
+                            const gameContainer = document.createElement('div'); // Use div for the container
+                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
 
-                            table.appendChild(row);
+                            const awayRow = document.createElement('tr'); // Use div for the rows
+                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
+                            
+                            const awayLogoContainer = document.createElement('td');
+                            awayLogoContainer.classList.add('logo-container');
+                            const awayLogo = document.createElement('img');
+                            awayLogo.src = rowData[4];
+                            awayLogo.width = 25;
+                            awayLogo.height = 25;
+                            awayLogoContainer.appendChild(awayLogo);
+
+                            const awayNameContainer = document.createElement('td');
+                            awayNameContainer.classList.add('name-container');
+                            const awayName = document.createElement('a');
+                            awayName.textContent = rowData[6];
+                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayNameContainer.appendChild(awayName);
+
+                            const awayRuns = document.createElement('td');
+                            awayRuns.textContent = rowData[7];
+
+                            const homeRow = document.createElement('tr'); // Use div for the rows
+                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
+
+                            const homeLogoContainer = document.createElement('td');
+                            homeLogoContainer.classList.add('logo-container');
+                            const homeLogo = document.createElement('img');
+                            homeLogo.src = rowData[0];
+                            homeLogo.width = 25;
+                            homeLogo.height = 25;
+                            homeLogoContainer.appendChild(homeLogo);
+
+                            const homeNameContainer = document.createElement('td');
+                            homeNameContainer.classList.add('name-container');
+                            const homeName = document.createElement('a');
+                            homeName.textContent = rowData[2];
+                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeNameContainer.appendChild(homeName);
+
+                            const homeRuns = document.createElement('td');
+                            homeRuns.textContent = rowData[3];
+                            
+
+                            if (awayScore > homeScore) {
+                                awayName.classList.add('winning-score');
+                                awayRuns.classList.add('winning-score');
+                            } else if (homeScore > awayScore) {
+                                homeName.classList.add('winning-score');
+                                homeRuns.classList.add('winning-score');
+                            }
+
+                            awayRow.appendChild(awayLogoContainer);
+                            awayRow.appendChild(awayNameContainer);
+
+                            homeRow.appendChild(homeLogoContainer);
+                            homeRow.appendChild(homeNameContainer);
+
+                            awayRow.appendChild(awayRuns);
+                            homeRow.appendChild(homeRuns);
+
+                            const boxLink = document.createElement('a');
+                            boxLink.textContent = 'Box';
+                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+
+                            gameContainer.appendChild(awayRow);
+                            gameContainer.appendChild(homeRow);
+                            gameContainer.appendChild(boxLink);
+
+                            tableContainer.appendChild(gameContainer);
+
                         }
-
-                        table.deleteRow(table.rows.length - 1) 
-                    
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
+                        
                     })
                     .catch(error => console.error('Error fetching CSV:', error));
             }
@@ -424,48 +553,88 @@
                         const tableContainer = document.getElementById('schedule-container-d3');
                         const table = document.createElement('table');
 
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0, -2);
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header;
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
-
                         // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-2);
-                            let homeID = rows[i].split(',')[5];
-                            let awayID = rows[i].split(',')[6];
+                        for (let i = 1; i < rows.length - 1; i++) {
+                            const rowData = rows[i].split(',');
 
-                            rowData.forEach((cellData, index) => {
-                                const cell = document.createElement('td');
-                                if (index === 0 | index === 2) { 
-                                    const img = document.createElement('img');
-                                    img.src = cellData;
-                                    img.width = 50;
-                                    img.height = 50;
-                                    const link = document.createElement('a');
-                                    link.href = `team_info?teamID=${index === 0 ? homeID : awayID}`;
-                                    link.appendChild(img);
+                            const awayScore = parseInt(rowData[7]);
+                            const homeScore = parseInt(rowData[3]);
 
-                                    cell.appendChild(link);
-                                } else {
-                                    cell.textContent = cellData;
-                                }
-                                row.appendChild(cell);
-                            });
+                            const gameContainer = document.createElement('div'); // Use div for the container
+                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
 
-                            table.appendChild(row);
+                            const awayRow = document.createElement('tr'); // Use div for the rows
+                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
+                            
+                            const awayLogoContainer = document.createElement('td');
+                            awayLogoContainer.classList.add('logo-container');
+                            const awayLogo = document.createElement('img');
+                            awayLogo.src = rowData[4];
+                            awayLogo.width = 25;
+                            awayLogo.height = 25;
+                            awayLogoContainer.appendChild(awayLogo);
+
+                            const awayNameContainer = document.createElement('td');
+                            awayNameContainer.classList.add('name-container');
+                            const awayName = document.createElement('a');
+                            awayName.textContent = rowData[6];
+                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayNameContainer.appendChild(awayName);
+
+                            const awayRuns = document.createElement('td');
+                            awayRuns.textContent = rowData[7];
+
+                            const homeRow = document.createElement('tr'); // Use div for the rows
+                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
+
+                            const homeLogoContainer = document.createElement('td');
+                            homeLogoContainer.classList.add('logo-container');
+                            const homeLogo = document.createElement('img');
+                            homeLogo.src = rowData[0];
+                            homeLogo.width = 25;
+                            homeLogo.height = 25;
+                            homeLogoContainer.appendChild(homeLogo);
+
+                            const homeNameContainer = document.createElement('td');
+                            homeNameContainer.classList.add('name-container');
+                            const homeName = document.createElement('a');
+                            homeName.textContent = rowData[2];
+                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeNameContainer.appendChild(homeName);
+
+                            const homeRuns = document.createElement('td');
+                            homeRuns.textContent = rowData[3];
+                            
+
+                            if (awayScore > homeScore) {
+                                awayName.classList.add('winning-score');
+                                awayRuns.classList.add('winning-score');
+                            } else if (homeScore > awayScore) {
+                                homeName.classList.add('winning-score');
+                                homeRuns.classList.add('winning-score');
+                            }
+
+                            awayRow.appendChild(awayLogoContainer);
+                            awayRow.appendChild(awayNameContainer);
+
+                            homeRow.appendChild(homeLogoContainer);
+                            homeRow.appendChild(homeNameContainer);
+
+                            awayRow.appendChild(awayRuns);
+                            homeRow.appendChild(homeRuns);
+
+                            const boxLink = document.createElement('a');
+                            boxLink.textContent = 'Box';
+                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+
+                            gameContainer.appendChild(awayRow);
+                            gameContainer.appendChild(homeRow);
+                            gameContainer.appendChild(boxLink);
+
+                            tableContainer.appendChild(gameContainer);
+
                         }
-
-                        table.deleteRow(table.rows.length - 1) 
-                    
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
+                        
                     })
                     .catch(error => console.error('Error fetching CSV:', error));
             }
