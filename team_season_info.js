@@ -91,18 +91,20 @@ function setSeason(selectedSeason) {
 
         // Function to display the stats for the selected season
         function displaySeasonStats_gamelog(csvData) {
+            console.log(csvData);
+
             const table = document.createElement("table");
-            const headers = ['', 'Game Date', 'Team', '', 'Opponent', 'Result', 'R', 'RA', 'Record']
+            const headers = ['', 'Game Date', 'Team', 'Home Indicator', 'Opponent', 'Result', 'R', 'RA', 'Record']
 
             const headerRow = document.createElement("tr");
-            
-            const th = document.createElement("th");
-            th.textContent = "";
-            headerRow.appendChild(th);
 
             for (const header of headers) {
                 const th = document.createElement("th");
-                th.textContent = header;
+                if(header === "Home Indicator") {
+                    th.textContent = "";
+                } else {
+                    th.textContent = header;
+                }
                 headerRow.appendChild(th);
             }
             
@@ -121,7 +123,7 @@ function setSeason(selectedSeason) {
                     td.appendChild(a);
                     row.appendChild(td);
 
-                    for (const header of headers) {
+                    for (const header of headers.slice(1)) {
                         if (header === "Opponent") {
                             const a = document.createElement("a");
                             a.textContent = currentLine[header];
@@ -129,6 +131,10 @@ function setSeason(selectedSeason) {
             
                             const td = document.createElement("td");
                             td.appendChild(a); // Append the link to the table cell
+                            row.appendChild(td);
+                        } else if (header === "Home Indicator") {
+                            const td = document.createElement("td");
+                            td.textContent = currentLine[""];
                             row.appendChild(td);
                         } else {
                             const td = document.createElement("td");

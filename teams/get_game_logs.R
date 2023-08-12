@@ -40,9 +40,10 @@ get_game_log <- function(season) {
              record = paste(win, loss, tie, sep = "-")) %>%
       merge(team_ids, by.x = "opponent", by.y = "team_name") %>% 
       rename(opponent_id = team_id) %>% 
-      mutate(team_id = team_ids$team_id[i]) %>% 
-      select(team_id, opponent_id, game_id, game_date, team, home, opponent, result, runs, allowed, record) %>% 
-      arrange(team_id, game_date)
+      mutate(team_id = team_ids$team_id[i],
+             games = win+loss+tie) %>% 
+      arrange(team_id, games) %>% 
+      select(team_id, opponent_id, game_id, game_date, team, home, opponent, result, runs, allowed, record) 
     
     total_scoreboard <- rbind(total_scoreboard, cur_scoreboard)
     
