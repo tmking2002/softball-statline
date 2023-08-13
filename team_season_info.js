@@ -49,8 +49,8 @@ function setSeason(selectedSeason) {
             .catch(error => console.error("Error fetching or parsing CSV:", error));
 
         function parseCSV(csvData, type) {
-            const lines = csvData.split("\r\n");
-
+            const lines = csvData.split("\n");
+            console.log(lines);
             if (type === "hitting") {
                 headers = ['', 'Team ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
               } else if (type === "gamelog") {
@@ -62,7 +62,6 @@ function setSeason(selectedSeason) {
             for (let i = 1; i < lines.length; i++) {
                 try {
                     const currentLine = lines[i].split(",");
-                    console.log(currentLine);
                     const row = {};
                     for (let j = 1; j < headers.length; j++) {
                         const header = headers[j];
