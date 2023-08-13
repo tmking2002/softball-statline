@@ -50,7 +50,6 @@ function setSeason(selectedSeason) {
 
         function parseCSV(csvData, type) {
             const lines = csvData.split("\n");
-            console.log(lines);
             if (type === "hitting") {
                 headers = ['', 'Team ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
               } else if (type === "gamelog") {

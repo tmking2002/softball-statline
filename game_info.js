@@ -27,7 +27,6 @@ function findGameInfo(csvData, gameID) {
 
             let awayTeam, homeTeam, awayRuns, homeRuns, gameDate;
 
-            console.log(currentLine);
             if(currentLine[homeIndicatorIndex] === "@") {
                 awayTeam = currentLine[teamColumnIndex].slice(1, -1);
                 homeTeam = currentLine[opponentColumnIndex].slice(1, -1);
