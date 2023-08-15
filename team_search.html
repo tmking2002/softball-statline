@@ -112,7 +112,7 @@
             <input type="text" id="searchInput" placeholder="Search">
         </div>
 
-        <div class="team-container">
+        <div class="team-container" style="overflow: auto; height: 800px;">
             <ul id="teamList"></ul>
         </div>
         
@@ -125,9 +125,7 @@
                 const teamList = document.getElementById("teamList");
                 teamList.innerHTML = "";
                 
-                const teamsToDisplay = teamsArray.slice(0, 20);
-
-                teamsToDisplay.forEach(team => {
+                teamsArray.forEach(team => {
                 const li = document.createElement("li");
                 const link = document.createElement("a"); 
 

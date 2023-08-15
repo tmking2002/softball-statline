@@ -1,3 +1,7 @@
+function isMobile() {
+    return window.matchMedia("(max-width: 768px)").matches;
+}
+
 function setSeason(selectedSeason) {
     const urlParams = new URLSearchParams(window.location.search);
     urlParams.set('season', selectedSeason);
@@ -91,7 +95,12 @@ function setSeason(selectedSeason) {
         // Function to display the stats for the selected season
         function displaySeasonStats_gamelog(csvData) {
             const table = document.createElement("table");
-            const headers = ['', 'Game Date', 'Team', 'Home Indicator', 'Opponent', 'Result', 'R', 'RA', 'Record']
+            let headers;
+            if(isMobile()) {
+                headers = ['', 'Game Date', 'Opponent', 'Result', 'Record']
+            } else {
+                headers = ['', 'Game Date', 'Team', 'Home Indicator', 'Opponent', 'Result', 'R', 'RA', 'Record']
+            }
 
             const headerRow = document.createElement("tr");
 
@@ -136,6 +145,10 @@ function setSeason(selectedSeason) {
                         } else {
                             const td = document.createElement("td");
                             td.textContent = currentLine[header];
+                            if ((header === "Team" || header === "R" || header === "RA") && isMobile()) {
+                                console.log(header)
+                                td.classList.add("mobile-hide"); // Add the mobile-hide class
+                            }
                             row.appendChild(td);
                         }
                     }

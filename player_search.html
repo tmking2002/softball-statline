@@ -112,7 +112,7 @@
             <input type="text" id="searchInput" placeholder="Search by first or last name">
         </div>
 
-        <div class="player-container">
+        <div class="player-container" style="overflow: auto; height: 800px;">
             <ul id="playerList"></ul>
         </div>
         
@@ -125,9 +125,7 @@
                 const playerList = document.getElementById("playerList");
                 playerList.innerHTML = "";
                 
-                const playersToDisplay = playersArray.slice(0, 20);
-
-                playersToDisplay.forEach(player => {
+                playersArray.forEach(player => {
                 const li = document.createElement("li");
                 li.textContent = `${player.first} ${player.last} (${player.team})`;
                 playerList.appendChild(li);

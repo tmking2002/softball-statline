@@ -112,7 +112,7 @@
             <input type="text" id="searchInput" placeholder="Search by first or last name">
         </div>
 
-        <div class="coach-container">
+        <div class="coach-container" style="overflow: auto; height: 800px;">
             <ul id="coachList"></ul>
         </div>
         
@@ -124,10 +124,8 @@
             function displaycoach(coachArray) {
                 const coachList = document.getElementById("coachList");
                 coachList.innerHTML = "";
-                
-                const coachsToDisplay = coachArray.slice(0, 20);
 
-                coachsToDisplay.forEach(coach => {
+                coachArray.forEach(coach => {
                 const li = document.createElement("li");
                 const link = document.createElement("a"); 
 
