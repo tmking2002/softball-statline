@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Softball Statline</title>
+  <link rel="icon" type = image/png href="logo_small.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <style>
+
+    @media screen and (max-width: 768px) {
+          .w3-hide-medium,
+          .w3-hide-large {
+          display: block !important;
+          }
+          .w3-bar-item {
+          text-align: center;
+          }
+          .w3-dropdown-content {
+          position: relative !important;
+          }
+        }   
+
+    #table-container {
+      max-width: 800px; 
+      margin: 0 auto; 
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        border: 1px solid #ccc;
+        padding: 4px;
+        text-align: center;
+        width: auto;
+    }
+
+    .mobile-hide {
+        display: none;
+    }   
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    #stats-buttons {
+        display: flex;
+        justify-content: center;
+    }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YFFKCYZJXV');
+    </script>
+</head>
+<body>
+  <div class="w3-top">
+    <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
+        <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
+            <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
+               Menu<i class="fa fa-caret-down"></i>
+            </button>
+            <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='../softball-statline'">Home</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href=''">Leaders</button>
+            </div>
+          </div>
+      </div>
+      <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+        <a href="../softball-statline" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
+        <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688">Players</a>
+        <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
+        <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
+        <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
+      </div>
+    </div>
+  </div>
+
+<!-- Header -->
+<header class="w3-container w3-theme w3-padding" id="myHeader">
+  <div class="w3-center" style="position: relative; margin-top: 50px;"> 
+    <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  </div>
+</header>
+
+    <div class="w3-bar w3-theme w3-padding" id="stats-buttons">
+      <button class="w3-bar-item w3-button tablink" onclick="openTab('hitting-stats')">Hitting Stats</button>
+      <button class="w3-bar-item w3-button tablink" onclick="openTab('pitching-stats')">Pitching Stats</button>
+    </div>
+
+    <h1 style="text-align: center;"></h1>
+
+    <div id="hitting-stats" class="w3-container city w3-animate-opacity" style="margin-bottom: 100px;">
+      <div id="hitting-stats-container"></div>
+    </div>
+
+
+    <div id="pitching-stats" class="w3-container city w3-animate-opacity" style="margin-bottom: 100px;">
+      <div id="pitching-stats-container"></div>
+    </div>
+
+    <script>
+        function openTab(tabName) {
+            var i;
+            var x = document.getElementsByClassName("city");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            document.getElementById(tabName).style.display = "block";
+        }
+
+        openTab('hitting-stats');
+    </script>
+
+    <script src="player_info.js"></script>
+</body>
+</html>

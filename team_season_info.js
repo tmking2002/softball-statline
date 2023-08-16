@@ -55,9 +55,11 @@ function setSeason(selectedSeason) {
         function parseCSV(csvData, type) {
             const lines = csvData.split("\n");
             if (type === "hitting") {
-                headers = ['', 'Team ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
+                headers = ['', 'Team ID', 'Player ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'K', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
               } else if (type === "gamelog") {
                 headers = ['', 'Team ID', 'Opponent ID', 'Game ID', 'Game Date', 'Team', '', 'Opponent', 'Result', 'R', 'RA', 'Record']; // Replace with actual headers for game log
+              } else if (type === "pitching") {
+                headers = ['', 'Team ID', 'Season', 'Player', 'IP', 'H', 'BB', 'HB', 'SO', 'HR', 'ERA', 'OPP AVG', 'WHIP', 'FIP'];
               }
 
             const rows = [];
@@ -146,7 +148,6 @@ function setSeason(selectedSeason) {
                             const td = document.createElement("td");
                             td.textContent = currentLine[header];
                             if ((header === "Team" || header === "R" || header === "RA") && isMobile()) {
-                                console.log(header)
                                 td.classList.add("mobile-hide"); // Add the mobile-hide class
                             }
                             row.appendChild(td);
@@ -194,7 +195,8 @@ function setSeason(selectedSeason) {
             for (const currentLine of csvData) {
                 let curTeamID = currentLine["Team ID"];
                 const curSeason = currentLine["Season"].trim();
-                if (curTeamID === teamID && curSeason === season) {
+                let curAB = currentLine["AB"];
+                if (curTeamID === teamID && curSeason === season && curAB >= 20) {
                     const row = document.createElement("tr");
                 for (const header of headers) {
                     const td = document.createElement("td");
@@ -215,5 +217,56 @@ function setSeason(selectedSeason) {
             .then(csvData => {
                 const parsedData = parseCSV(csvData, "hitting");
                 displaySeasonStats_hitting(parsedData);
+            })
+            .catch(error => console.error("Error fetching or parsing CSV:", error));
+
+
+        // Hitting Stats
+
+        // Construct the CSV file name for the selected season
+        const csvFileName_pitching = `teams/data/pitching_stats/d1_pitching_stats_${season}.csv`;
+        const tableContainer_pitching = document.getElementById("pitching-stats-container");
+
+        // Function to display the stats for the selected season
+        function displaySeasonStats_pitching(csvData) {
+            const table = document.createElement("table");
+            const headers = ['Player', 'IP', 'H', 'BB', 'HB', 'SO', 'HR', 'ERA', 'OPP AVG', 'WHIP', 'FIP']
+
+            const headerRow = document.createElement("tr");
+
+            for (const header of headers) {
+                const th = document.createElement("th");
+                th.textContent = header;
+                headerRow.appendChild(th);
+            }
+            
+            table.appendChild(headerRow);
+            // Find the indices of the columns containing team ID and season
+
+            for (const currentLine of csvData) {
+                let curTeamID = currentLine["Team ID"];
+                const curSeason = currentLine["Season"].trim();
+                let curIP = currentLine["IP"];
+                if (curTeamID === teamID && curSeason === season && curIP >= 10) {
+                    const row = document.createElement("tr");
+                for (const header of headers) {
+                    const td = document.createElement("td");
+                    td.textContent = currentLine[header];
+                    row.appendChild(td);
+                }
+                table.appendChild(row);
+                }
+            }
+
+            tableContainer_pitching.appendChild(table);
+ 
+        }
+
+        // Fetch the CSV data for the selected season
+        fetch(csvFileName_pitching)
+            .then(response => response.text())
+            .then(csvData => {
+                const parsedData = parseCSV(csvData, "pitching");
+                displaySeasonStats_pitching(parsedData);
             })
             .catch(error => console.error("Error fetching or parsing CSV:", error));

@@ -40,7 +40,9 @@
         }
 
         .player-container {
-        max-width: 300px;
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px;
         margin: 0 auto; /* Center the player list container */
         }
 
@@ -113,7 +115,7 @@
         </div>
 
         <div class="player-container" style="overflow: auto; height: 800px;">
-            <ul id="playerList"></ul>
+            <ul id="playerList" style="text-align: center;"></ul>
         </div>
         
         <script src="papaparse.min.js"></script>
@@ -126,9 +128,12 @@
                 playerList.innerHTML = "";
                 
                 playersArray.forEach(player => {
+                const a = document.createElement("a");
                 const li = document.createElement("li");
-                li.textContent = `${player.first} ${player.last} (${player.team})`;
-                playerList.appendChild(li);
+                li.textContent = `${player.player} (${player.teams})`;
+                a.href = `player_info?playerID=${player.player_id}`;
+                a.appendChild(li);
+                playerList.appendChild(a);
                 });
             }
 
@@ -137,7 +142,7 @@
                 const fullName = `${player.first} ${player.last}`;
                 return fullName.toLowerCase().includes(searchTerm.toLowerCase());
                 });
-
+                
                 displayPlayers(filteredPlayers);
             }
 
@@ -147,7 +152,7 @@
             // Initial display of all players
             displayPlayers(playersArray);
 
-            Papa.parse("players/data/sample_players.csv", {
+            Papa.parse("players/data/all_players.csv", {
                 download: true,
                 header: true,
                 skipEmptyLines: true,
