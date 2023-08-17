@@ -1,6 +1,12 @@
 library(tidyverse)
 library(anytime)
 
+cur_rankings_d1 <- read_csv("~/Projects/softball-statline/rpi_rankings/d1_rpi.csv")
+cur_rankings_d2 <- read_csv("~/Projects/softball-statline/rpi_rankings/d2_rpi.csv")
+cur_rankings_d3 <- read_csv("~/Projects/softball-statline/rpi_rankings/d3_rpi.csv")
+
+cur_rankings <- rbind(cur_rankings_d1, cur_rankings_d2, cur_rankings_d3)
+
 d1_id <- 18101
 d2_id <- 18102
 d3_id <- 18103
@@ -126,6 +132,13 @@ get_games <- function(division_id, date){
     merge(team_ids, by.x = "away_team", by.y = "team_name") %>% 
     rename(away_team_id = team_id) %>% 
     mutate(season = year(anydate(game_date))) %>% 
+    merge(cur_rankings, by.x = "home_team_id", by.y = "Team ID") %>% 
+    rename(home_rank = Rank) %>% 
+    merge(cur_rankings, by.x = "away_team_id", by.y = "Team ID") %>% 
+    rename(away_rank = Rank) %>% 
+    rowwise() %>% 
+    mutate(top_rank = min(c(home_rank, away_rank))) %>% 
+    arrange(top_rank) %>% 
     select(home_team_logo, home_team_id, home_team, home_team_runs, away_team_logo, away_team_id, away_team, away_team_runs, game_id, season, game_date)
 
   return(games_df)

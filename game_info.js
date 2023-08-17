@@ -71,7 +71,7 @@ fetch(`teams/data/game_logs/game_logs_${season}.csv`)
 
 function parseCSV(csvData) {
     const lines = csvData.split("\n");
-    const headers = ['', 'Game ID', 'Opponent', 'Player', 'Pos', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'BB', 'HBP', 'SO'];
+    const headers = ['', 'Game ID', 'Team', 'Opponent', 'Player', 'Pos', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'BB', 'HBP', 'SO'];
     const rows = [];
 
     for (let i = 1; i < lines.length; i++) {
@@ -108,7 +108,7 @@ function displayInfo(gameInfo) {
         const awayHeaderRow = document.createElement("tr");
 
         for (const header of headers) {
-            if (header === "Game ID" || header === "Opponent") {
+            if (header === "Game ID" || header === "Opponent" || header === "Team") {
                 continue;
             } 
             const thHome = document.createElement("th");
@@ -130,8 +130,10 @@ function displayInfo(gameInfo) {
                 continue;
             }
 
+            console.log(playerData)
+
             for (const header of headers) {
-                if (header === "Game ID" || header === "Opponent") {
+                if (header === "Game ID" || header === "Opponent" || header === "Team") {
                     continue;
                 }
 

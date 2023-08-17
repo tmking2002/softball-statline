@@ -59,7 +59,7 @@ function setSeason(selectedSeason) {
               } else if (type === "gamelog") {
                 headers = ['', 'Team ID', 'Opponent ID', 'Game ID', 'Game Date', 'Team', '', 'Opponent', 'Result', 'R', 'RA', 'Record']; // Replace with actual headers for game log
               } else if (type === "pitching") {
-                headers = ['', 'Team ID', 'Season', 'Player', 'IP', 'H', 'BB', 'HB', 'SO', 'HR', 'ERA', 'OPP AVG', 'WHIP', 'FIP'];
+                headers = ['', 'Team ID', 'Player ID', 'Season', 'Player', 'IP', 'H', 'BB', 'HB', 'SO', 'HR', 'ERA', 'OPP AVG', 'WHIP', 'FIP'];
               }
 
             const rows = [];
@@ -200,7 +200,16 @@ function setSeason(selectedSeason) {
                     const row = document.createElement("tr");
                 for (const header of headers) {
                     const td = document.createElement("td");
-                    td.textContent = currentLine[header];
+                    if (header === "Player") {
+                        const a = document.createElement("a");
+                        a.textContent = currentLine[header];
+                        a.href = "player_info?playerID=" + currentLine["Player ID"];
+
+                        td.appendChild(a);
+                        row.appendChild(td);
+                    } else {
+                        td.textContent = currentLine[header];
+                    }
                     row.appendChild(td);
                 }
                 table.appendChild(row);
@@ -249,11 +258,20 @@ function setSeason(selectedSeason) {
                 let curIP = currentLine["IP"];
                 if (curTeamID === teamID && curSeason === season && curIP >= 10) {
                     const row = document.createElement("tr");
-                for (const header of headers) {
-                    const td = document.createElement("td");
-                    td.textContent = currentLine[header];
-                    row.appendChild(td);
-                }
+                    for (const header of headers) {
+                        const td = document.createElement("td");
+                        if (header === "Player") {
+                            const a = document.createElement("a");
+                            a.textContent = currentLine[header];
+                            a.href = "player_info?playerID=" + currentLine["Player ID"];
+    
+                            td.appendChild(a);
+                            row.appendChild(td);
+                        } else {
+                            td.textContent = currentLine[header];
+                        }
+                        row.appendChild(td);
+                    }
                 table.appendChild(row);
                 }
             }
