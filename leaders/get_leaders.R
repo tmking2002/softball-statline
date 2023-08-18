@@ -162,7 +162,7 @@ save_career_leaders <- function() {
     arrange(desc(rc)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-rc)) %>% 
+    mutate(rank = rank(-rc, ties.method = "min")) %>% 
     select(player_id, rank, player, rc, seasons)
   
   avg_leaders <- hitting_stats %>% 
@@ -174,7 +174,7 @@ save_career_leaders <- function() {
     arrange(desc(avg)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-avg),
+    mutate(rank = rank(-avg, ties.method = "min"),
            avg = format(round(avg, 3), digits = 3)) %>% 
     select(player_id, rank, player, avg, seasons)
   
@@ -187,7 +187,7 @@ save_career_leaders <- function() {
     arrange(desc(slg)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-slg),
+    mutate(rank = rank(-slg, ties.method = "min"),
            slg = format(round(slg, 3), digits = 3)) %>% 
     select(player_id, rank, player, slg, seasons)
   
@@ -203,7 +203,7 @@ save_career_leaders <- function() {
     arrange(desc(ops)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-ops),
+    mutate(rank = rank(-ops, ties.method = "min"),
            ops = format(round(ops, 3), digits = 3)) %>% 
     select(player_id, rank, player, ops, seasons)
   
@@ -214,7 +214,7 @@ save_career_leaders <- function() {
     arrange(desc(h)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-h)) %>% 
+    mutate(rank = rank(-h, ties.method = "min")) %>% 
     select(player_id, rank, player, h, seasons)
   
   xbh_leaders <- hitting_stats %>% 
@@ -224,7 +224,7 @@ save_career_leaders <- function() {
     arrange(desc(xbh)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-xbh)) %>% 
+    mutate(rank = rank(-xbh, ties.method = "min")) %>% 
     select(player_id, rank, player, xbh, seasons)
   
   hr_leaders <- hitting_stats %>% 
@@ -234,7 +234,7 @@ save_career_leaders <- function() {
     arrange(desc(hr)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-hr)) %>% 
+    mutate(rank = rank(-hr, ties.method = "min")) %>% 
     select(player_id, rank, player, hr, seasons)
   
   sb_leaders <- hitting_stats %>% 
@@ -244,7 +244,7 @@ save_career_leaders <- function() {
     arrange(desc(sb)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-sb)) %>% 
+    mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(player_id, rank, player, sb, seasons)
   
   write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/career/rc_leaders.csv"))

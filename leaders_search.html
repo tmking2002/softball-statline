@@ -19,6 +19,27 @@
           gtag('config', 'G-YFFKCYZJXV');
         </script>
 
+        <script>
+            // Function to check if query parameters are present in the URL
+            function checkQueryString() {
+                const urlParams = new URLSearchParams(window.location.search);
+                if (!urlParams.has('type') || !urlParams.has('timespan') || !urlParams.has('season')) {
+                    redirectToDefault();
+                }
+            }
+
+            // Function to redirect to the default URL
+            function redirectToDefault() {
+                const defaultUrl = "leaders_search?type=Hitting&timespan=Career&season=N%2FA";
+                window.location.href = defaultUrl;
+            }
+
+            // Call the checkQueryString function when the page loads
+            window.onload = function() {
+                checkQueryString();
+            };
+        </script>
+    
         <style>
 
         .table-wrapper {

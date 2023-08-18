@@ -1118,7 +1118,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1128,7 +1128,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1178,7 +1178,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1188,7 +1188,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1238,7 +1238,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1248,7 +1248,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1298,7 +1298,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1308,7 +1308,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1358,7 +1358,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1368,7 +1368,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1418,7 +1418,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1428,7 +1428,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
@@ -1478,7 +1478,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Create the table header row
             let thead = table.createTHead();
             let row = thead.insertRow();
-            for (let key of headers.slice(3, 7)) {
+            for (let key of headers.slice(2, 7)) {
                 let th = document.createElement('th');
                 let text = document.createTextNode(key);
                 th.appendChild(text);
@@ -1488,7 +1488,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             // Add the data rows
             for (let i = 0; i < rows.length; i++) {
                 row = table.insertRow();
-                for (let j = 3; j < headers.length; j++) {
+                for (let j = 2; j < headers.length; j++) {
                     let cell = row.insertCell();
                     if (headers[j] === "Player") {
                         // Create a element
