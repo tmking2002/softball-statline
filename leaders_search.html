@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Softball Statline</title>
+        <link rel="icon" type = image/png href="logo_small.png">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-YFFKCYZJXV');
+        </script>
+
+        <style>
+
+        .table-wrapper {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four columns in the top row */
+            gap: 20px; /* Gap between columns */
+            margin-bottom: 100px;
+        }
+
+        .table-wrapper .table-container {
+            max-width: 100%; /* Adjust this as needed */
+            height: auto;
+            margin-top: 50px;
+            overflow: auto;
+            height: 400px;
+            border: 1px solid #ccc;
+            background-color: #f5f5f5; /* Grey background for the container */
+        }
+
+        .table-container table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .table-container th, .table-container td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* Alternating grey backgrounds for table rows */
+        .table-container tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        /* Hover effect for table rows */
+        .table-container tr:hover {
+            background-color: #e0e0e0;
+        }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="w3-top">
+            <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
+                <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
+                    <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
+                       Menu<i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='../'">Home</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href=''">Leaders</button>
+                    </div>
+                  </div>
+              </div>
+              <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+                <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
+                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040">Players</a>
+                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
+                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
+                <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Leaders</a>
+              </div>
+            </div>
+          </div>
+
+        <!-- Header -->
+        <header class="w3-container w3-theme w3-padding" id="myHeader">
+          <div class="w3-center" style="position: relative; margin-top: 50px;"> 
+            <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+          </div>
+        </header>
+
+        <div class="w3-container" style="margin-top: 30px; text-align: center;">
+            <form class="w3-container" id="filterForm">
+                <div class="w3-third">
+                    <select class="w3-select w3-border" name="type" id="type">
+                        <option value="Hitting">Hitting</option>
+                    </select>
+                </div>
+                
+                <div class="w3-third">
+                    <select class="w3-select w3-border" name="timespan" id="timespan">
+                        <option value="Career">Career</option>
+                        <option value="Season">Season</option>
+                    </select>
+                </div>
+                
+                <div class="w3-third">
+                    <select class="w3-select w3-border" name="season" id="season">
+                        <option value="N/A">N/A</option>
+                        <option value="all_time">All Time</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>          
+                        <option value="2021">2021</option>
+                        <option value="2022">2022</option>
+                        <option value="2023">2023</option>
+                    </select>
+                </div>
+
+            <button class="w3-button w3-teal" type="submit" style="margin-top: 50px; max-width: 10%;">Apply Filters</button>
+
+            </form>
+        </div>
+
+        <h2 id="title" style="text-align: center; margin-top: 50px;"></h2>
+
+        <div class="table-wrapper">
+            <div id="table-container-1" class="table-container"></div>
+            <div id="table-container-2" class="table-container"></div>
+            <div id="table-container-3" class="table-container"></div>
+            <div id="table-container-4" class="table-container"></div>
+            <div id="table-container-5" class="table-container"></div>
+            <div id="table-container-6" class="table-container"></div>
+            <div id="table-container-7" class="table-container"></div>
+            <div id="table-container-8" class="table-container"></div>
+        </div>
+        
+
+
+        <script src="leaders_search.js"></script>
+    </body>
+
+</html>
