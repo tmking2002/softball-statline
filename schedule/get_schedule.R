@@ -1,11 +1,20 @@
 library(tidyverse)
 library(anytime)
+library(rvest)
+library(magrittr)
 
-cur_rankings_d1 <- read_csv("~/Projects/softball-statline/rpi_rankings/d1_rpi.csv")
-cur_rankings_d2 <- read_csv("~/Projects/softball-statline/rpi_rankings/d2_rpi.csv")
-cur_rankings_d3 <- read_csv("~/Projects/softball-statline/rpi_rankings/d3_rpi.csv")
+teams <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+  select(team_name, team_id)
 
-cur_rankings <- rbind(cur_rankings_d1, cur_rankings_d2, cur_rankings_d3)
+rankings <- "https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div1/top25,1/year,2023/" %>% 
+  read_html() %>% 
+  html_table() %>% 
+  extract2(1) %>% 
+  mutate(Team = str_extract(Team, "\\w+(?: \\w+)?"),
+         Team = str_replace(Team, "State", "St.")) %>% 
+  left_join(teams, by = c("Team" = "team_name")) %>% 
+  select(team_id, Rank) %>% 
+  `names<-`(c("Team ID", "Rank"))
 
 d1_id <- 18101
 d2_id <- 18102
@@ -132,15 +141,24 @@ get_games <- function(division_id, date){
     merge(team_ids, by.x = "away_team", by.y = "team_name") %>% 
     rename(away_team_id = team_id) %>% 
     mutate(season = year(anydate(game_date))) %>% 
-    merge(cur_rankings, by.x = "home_team_id", by.y = "Team ID") %>% 
-    rename(home_rank = Rank) %>% 
-    merge(cur_rankings, by.x = "away_team_id", by.y = "Team ID") %>% 
-    rename(away_rank = Rank) %>% 
-    rowwise() %>% 
-    mutate(top_rank = min(c(home_rank, away_rank))) %>% 
-    arrange(top_rank) %>% 
     select(home_team_logo, home_team_id, home_team, home_team_runs, away_team_logo, away_team_id, away_team, away_team_runs, game_id, season, game_date)
-
+  
+  if(division_id == d1_id) {
+    games_df <- games_df %>% 
+      left_join(rankings, by = c("home_team_id" = "Team ID")) %>% 
+      rename(home_rank = Rank) %>% 
+      left_join(rankings, by = c("away_team_id" = "Team ID")) %>% 
+      rename(away_rank = Rank) %>% 
+      mutate(home_rank = ifelse(is.na(home_rank), 26, home_rank),
+             away_rank = ifelse(is.na(away_rank), 26, away_rank)) %>% 
+      rowwise() %>% 
+      mutate(top_rank = min(c(home_rank, away_rank)),
+             home_team = ifelse(home_rank <= 25, paste0("#", home_rank, " ", home_team), home_team),
+             away_team = ifelse(away_rank <= 25, paste0("#", away_rank, " ", away_team), away_team)) %>% 
+      arrange(top_rank) %>% 
+      select(home_team_logo, home_team_id, home_team, home_team_runs, away_team_logo, away_team_id, away_team, away_team_runs, game_id, season, game_date)
+  }
+    
   return(games_df)
 
 }
