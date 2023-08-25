@@ -148,6 +148,7 @@ function displayHeaders(type, table) {
     table.appendChild(headerRow);
 }
 
+
 function displayStats_hitting(data) {
 
     const headers = ['', 'Team', 'Player ID', 'Season', 'Player', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'SO', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
@@ -156,6 +157,37 @@ function displayStats_hitting(data) {
 
         if (rowData["Player ID"] != playerID) {
             continue;
+        }
+
+        /*  Create hitting button */
+
+        var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");
+    
+        if (!existingButton) {
+            var buttons = document.querySelectorAll("#stats-buttons .w3-button.tablink");
+            var buttonAlreadyExists = false;
+            
+            buttons.forEach(function(button) {
+                if (button.textContent === "Hitting Stats") {
+                    buttonAlreadyExists = true;
+                }
+            });
+            
+            if (!buttonAlreadyExists) {
+                // Create a new button element
+                var buttonElement = document.createElement("button");
+                buttonElement.className = "w3-bar-item w3-button tablink";
+                buttonElement.textContent = "Hitting Stats";
+                buttonElement.onclick = function() {
+                    openTab('hitting-stats');
+                };
+
+                // Find the container by its ID
+                var container = document.getElementById("stats-buttons");
+
+                // Append the button to the container
+                container.appendChild(buttonElement);
+            }
         }
 
         const teamID = rowData["Team ID"];
@@ -190,6 +222,7 @@ function displayStats_hitting(data) {
                     row.appendChild(td);
                 }
                 table_hitting.appendChild(row);
+                
             })
             .catch(error => console.error("Error fetching or parsing CSV:", error));
     }
@@ -242,6 +275,49 @@ function displayStats_pitching(data) {
             continue;
         }
 
+        /*  Create pitching button */
+
+        var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");
+        
+        var existingPitchingButton = false;
+
+        if(existingButton) {   
+            if(existingButton.textContent === "Pitching Stats") {
+                existingPitchingButton = true;
+            }
+        } else {
+            openTab('pitching-stats');
+        }
+
+        if (!existingPitchingButton) {
+            var buttons = document.querySelectorAll("#stats-buttons .w3-button.tablink");
+            var buttonAlreadyExists = false;
+            
+            buttons.forEach(function(button) {
+                if (button.textContent === "Pitching Stats") {
+                    buttonAlreadyExists = true;
+                }
+            });
+            
+            console.log(buttonAlreadyExists)
+
+            if (!buttonAlreadyExists) {
+                // Create a new button element
+                var buttonElement = document.createElement("button");
+                buttonElement.className = "w3-bar-item w3-button tablink";
+                buttonElement.textContent = "Pitching Stats";
+                buttonElement.onclick = function() {
+                    openTab('pitching-stats');
+                };
+
+                // Find the container by its ID
+                var container = document.getElementById("stats-buttons");
+
+                // Append the button to the container
+                container.appendChild(buttonElement);
+            }
+        }
+
         const teamID = rowData["Team ID"];
 
         fetch("teams/data/all_teams.csv")
@@ -274,12 +350,15 @@ function displayStats_pitching(data) {
                     row.appendChild(td);
                 }
                 table_pitching.appendChild(row);
+
             })
             .catch(error => console.error("Error fetching or parsing CSV:", error));
     }
 
     tableContainer_pitching.appendChild(table_pitching);
+
 }
+
 
 
 getSeasons()
@@ -307,12 +386,9 @@ getSeasons()
     .then(parsedDataArray => {
         for (let i = 0; i < parsedDataArray.length; i++) {
             const parsedData = parsedDataArray[i];
-            displayStats_pitching(parsedData);
+            pitching_data = displayStats_pitching(parsedData);
         }
     })
     .catch(error => {
         console.error("Error:", error);
     });
-
-
-

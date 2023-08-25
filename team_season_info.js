@@ -99,9 +99,9 @@ function setSeason(selectedSeason) {
             const table = document.createElement("table");
             let headers;
             if(isMobile()) {
-                headers = ['', 'Game Date', 'Opponent', 'Result', 'Record']
+                headers = ['Game Date', 'Home Indicator', 'Opponent', 'Result', 'Record']
             } else {
-                headers = ['', 'Game Date', 'Team', 'Home Indicator', 'Opponent', 'Result', 'R', 'RA', 'Record']
+                headers = ['Game Date', 'Home Indicator', 'Opponent', 'Result', 'R', 'RA', 'Record']
             }
 
             const headerRow = document.createElement("tr");
@@ -124,14 +124,8 @@ function setSeason(selectedSeason) {
                 if (curTeamID === teamID) {
 
                     const row = document.createElement("tr");
-                    const a = document.createElement("a");
-                    a.textContent = "Box";
-                    a.href = "game_info?gameID=" + currentLine["Game ID"] + "&season=" + season;
-                    const td = document.createElement("td");
-                    td.appendChild(a);
-                    row.appendChild(td);
 
-                    for (const header of headers.slice(1)) {
+                    for (const header of headers) {
                         if (header === "Opponent") {
                             const a = document.createElement("a");
                             a.textContent = currentLine[header];
@@ -143,6 +137,13 @@ function setSeason(selectedSeason) {
                         } else if (header === "Home Indicator") {
                             const td = document.createElement("td");
                             td.textContent = currentLine[""];
+                            row.appendChild(td);
+                        } else if (header === "Game Date") {
+                            const a = document.createElement("a");
+                            a.textContent = currentLine[header];
+                            a.href = "game_info?gameID=" + currentLine["Game ID"] + "&season=" + season;
+                            const td = document.createElement("td");
+                            td.appendChild(a);
                             row.appendChild(td);
                         } else {
                             const td = document.createElement("td");
