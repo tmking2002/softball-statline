@@ -1,3 +1,5 @@
+library(tidyverse)
+
 teams <- readRDS("~/Projects/softballR-data/data/ncaa_team_info.RDS") %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80 & head_coach != "")
@@ -66,7 +68,7 @@ coaching_history <- total_history %>%
   mutate(record = paste(wins, losses, ties, sep = "-"),
          win_perc = format(round(wins / (wins + losses), 3), nsmall = 3)) %>% 
   select(season, team_name, division, conference, record, win_perc, team_id, coach_id) %>% 
-  arrange(season)
+  arrange(desc(season))
 
 write.csv(unique_coaches, "~/Projects/softball-statline/coaches/coach_ids.csv")
 write.csv(coaching_history, "~/Projects/softball-statline/coaches/coach_history.csv")
@@ -75,5 +77,5 @@ coach_stats <- total_history %>%
   group_by(head_coach) %>% 
   summarise(wins = sum(wins),
             losses = sum(losses),
-            ties = sum(ties),
+            ties = sum(as.numeric(ties)),
             teams = paste(unique(team_name), collapse = ", "))

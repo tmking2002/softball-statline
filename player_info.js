@@ -75,7 +75,7 @@ function getSeasons() {
                 let curID = lines[i].split(",")[1];
                 
                 if (curID === playerID) {
-                    seasons = lines[i].split(",")[4].slice(1, -1).split("+").reverse();
+                    seasons = lines[i].split(",")[4].slice(1, -1).split("+");
                 }
             }
             return seasons;

@@ -15,18 +15,18 @@ pitching_box_2022 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_sco
 pitching_box_2023 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2023.RDS") %>% mutate(season = 2023) %>% select(player, team, season)
 
 
-box <- rbind(hitting_box_2015,
-             hitting_box_2016,
-             hitting_box_2017,
-             hitting_box_2018,
-             hitting_box_2019,
-             hitting_box_2020,
-             hitting_box_2021,
+box <- rbind(hitting_box_2023,
+             pitching_box_2023,
              hitting_box_2022,
-             hitting_box_2023,
-             pitching_box_2021,
              pitching_box_2022,
-             pitching_box_2023) %>% 
+             hitting_box_2021,
+             pitching_box_2021,
+             hitting_box_2020,
+             hitting_box_2019,
+             hitting_box_2018,
+             hitting_box_2017,
+             hitting_box_2016,
+             hitting_box_2015) %>% 
   separate(player, c("last", "first"), sep = ", ")
 
 proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))

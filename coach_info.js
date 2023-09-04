@@ -87,8 +87,7 @@ function displayInfo(coachInfo) {
             const row = document.createElement("tr");
             for (const header of headers) {
                 const td = document.createElement("td");
-                if (header === "Season") {
-                    console.log(rowData)
+                if (header === "Season" & rowData[header] >= 2016) {
                     const seasonLink = document.createElement("a");
                     seasonLink.href = `team_season_info?teamID=${rowData["Team ID"]}&season=${rowData[header]}`;
                     seasonLink.textContent = rowData[header];
