@@ -19,19 +19,19 @@ if (timespan === "Season" && season !== "all_time") {
     folder = 'leaders/all_time';
 
     const pageTitle = document.querySelector('title');
-    pageTitle.textContent = `Softball Statline  -  All Time Hitting Leaders (Single Season)`;
+    pageTitle.textContent = `Softball Statline  -  All Time ${type} Leaders (Single Season)`;
 
     const heading = document.querySelector('h2');
-    heading.textContent = `All Time Hitting Leaders (Single Season)`;
+    heading.textContent = `All Time ${type} Leaders (Single Season)`;
 
 } else if (timespan === "Career") {
     folder = 'leaders/career';
 
     const pageTitle = document.querySelector('title');
-    pageTitle.textContent = `Softball Statline  -  All Time Hitting Leaders (Career)`;
+    pageTitle.textContent = `Softball Statline  -  All Time ${type} Leaders (Career)`;
 
     const heading = document.querySelector('h2');
-    heading.textContent = `All Time Hitting Leaders (Career)`;
+    heading.textContent = `All Time ${type} Leaders (Career)`;
 }
 
 if (type === "Hitting" & timespan === "Season" & season !== "all_time") {

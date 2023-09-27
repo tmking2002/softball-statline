@@ -305,13 +305,15 @@ save_leaders <- function(season) {
   k_7_leaders <- cur_pitching_stats %>% 
     filter(ip >= ip_minimum) %>% 
     slice_max(n = 100, order_by = k_7) %>%
-    mutate(rank = rank(-k_7, ties.method = "max")) %>% 
+    mutate(rank = rank(-k_7, ties.method = "max"),
+           k_7 = format(round(k_7, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_7)
   
   k_bb_leaders <- cur_pitching_stats %>% 
     filter(ip >= ip_minimum) %>% 
     slice_max(n = 100, order_by = k_bb) %>%
-    mutate(rank = rank(-k_bb, ties.method = "max")) %>% 
+    mutate(rank = rank(-k_bb, ties.method = "max"),
+           k_bb = format(round(k_bb, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_bb)
   
   whip_leaders <- cur_pitching_stats %>% 
@@ -379,13 +381,15 @@ save_all_time_leaders <- function() {
   k_7_leaders <- pitching_stats %>% 
     filter(ip >= ip_minimum) %>% 
     slice_max(n = 100, order_by = k_7) %>%
-    mutate(rank = rank(-k_7, ties.method = "max")) %>% 
+    mutate(rank = rank(-k_7, ties.method = "max"),
+           k_7 = format(round(k_7, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_7, season)
   
   k_bb_leaders <- pitching_stats %>% 
     filter(ip >= ip_minimum) %>% 
     slice_max(n = 100, order_by = k_bb) %>%
-    mutate(rank = rank(-k_bb, ties.method = "max")) %>% 
+    mutate(rank = rank(-k_bb, ties.method = "max"),
+           k_bb = format(round(k_bb, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_bb, season)
   
   whip_leaders <- pitching_stats %>% 
@@ -478,7 +482,8 @@ save_career_leaders <- function() {
     arrange(desc(k_7)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-k_7, ties.method = "min")) %>% 
+    mutate(rank = rank(-k_7, ties.method = "min"),
+           k_7 = format(round(k_7, 2), digits = 2)) %>% 
     select(player_id, rank, player, k_7, seasons)
   
   k_bb_leaders <- pitching_stats %>% 
@@ -490,7 +495,8 @@ save_career_leaders <- function() {
     arrange(desc(k_bb)) %>% 
     head(n = 100) %>% 
     ungroup() %>% 
-    mutate(rank = rank(-k_bb, ties.method = "min")) %>% 
+    mutate(rank = rank(-k_bb, ties.method = "min"),
+           k_bb = format(round(k_bb, 2), digits = 2)) %>% 
     select(player_id, rank, player, k_bb, seasons)
   
   whip_leaders <- pitching_stats %>% 
