@@ -10,6 +10,12 @@ hitting_box_2021 <- readRDS("~/Projects/softballR-data/data/d1_hitting_box_score
 hitting_box_2022 <- readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2022.RDS") %>% select(player, team, season)
 hitting_box_2023 <- readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2023.RDS") %>% select(player, team, season)
 
+pitching_box_2015 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2015.RDS") %>% mutate(season = 2015) %>% select(player, team, season)
+pitching_box_2016 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2016.RDS") %>% mutate(season = 2016) %>% select(player, team, season)
+pitching_box_2017 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2017.RDS") %>% mutate(season = 2017) %>% select(player, team, season)
+pitching_box_2018 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2018.RDS") %>% mutate(season = 2018) %>% select(player, team, season)
+pitching_box_2019 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2019.RDS") %>% mutate(season = 2019) %>% select(player, team, season)
+pitching_box_2020 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2020.RDS") %>% mutate(season = 2020) %>% select(player, team, season)
 pitching_box_2021 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2021.RDS") %>% mutate(season = 2021) %>% select(player, team, season)
 pitching_box_2022 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2022.RDS") %>% mutate(season = 2022) %>% select(player, team, season)
 pitching_box_2023 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2023.RDS") %>% mutate(season = 2023) %>% select(player, team, season)
@@ -22,11 +28,17 @@ box <- rbind(hitting_box_2023,
              hitting_box_2021,
              pitching_box_2021,
              hitting_box_2020,
+             pitching_box_2020,
              hitting_box_2019,
+             pitching_box_2019,
              hitting_box_2018,
+             pitching_box_2018,
              hitting_box_2017,
+             pitching_box_2017,
              hitting_box_2016,
-             hitting_box_2015) %>% 
+             pitching_box_2016,
+             hitting_box_2015,
+             pitching_box_2015) %>% 
   separate(player, c("last", "first"), sep = ", ")
 
 proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))

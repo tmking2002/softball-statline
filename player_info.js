@@ -206,7 +206,7 @@ function displayStats_hitting(data) {
                         continue;
                     } else if (header === "Season") {
                         const seasonLink = document.createElement("a");
-                        seasonLink.href = `player_season_info?teamID=${playerID}&season=${rowData[header]}`;
+                        /*seasonLink.href = `player_season_info?playerID=${playerID}&season=${rowData[header]}`; Add this later*/ 
                         seasonLink.textContent = rowData[header];
                         td.appendChild(seasonLink);
                     } else if (header === "Team") {
@@ -274,7 +274,7 @@ function displayStats_pitching(data) {
         if (rowData["Player ID"] != playerID) {
             continue;
         }
-
+        
         /*  Create pitching button */
 
         var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");
@@ -298,8 +298,6 @@ function displayStats_pitching(data) {
                     buttonAlreadyExists = true;
                 }
             });
-            
-            console.log(buttonAlreadyExists)
 
             if (!buttonAlreadyExists) {
                 // Create a new button element
@@ -334,7 +332,7 @@ function displayStats_pitching(data) {
                         continue;
                     } else if (header === "Season") {
                         const seasonLink = document.createElement("a");
-                        seasonLink.href = `player_season_info?teamID=${playerID}&season=${rowData[header]}`;
+                        /*seasonLink.href = `player_season_info?playerID=${playerID}&season=${rowData[header]}`; Add this later*/ 
                         seasonLink.textContent = rowData[header];
                         td.appendChild(seasonLink);
                     } else if (header === "Team") {
@@ -368,7 +366,7 @@ getSeasons()
 
         for (let i = 0; i < seasons.length; i++) {
             const season = seasons[i];
-            if (season < 2021) {
+            if (season < 2015) {
                 continue;
             }
             const fetchPromise = fetch (`teams/data/pitching_stats/d1_pitching_stats_${season}.csv`)
