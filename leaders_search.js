@@ -1505,3 +1505,1475 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_8.appendChild(table);
         })
 }
+
+if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
+
+    tableContainer_1 = document.getElementById("table-container-1");
+    tableContainer_2 = document.getElementById("table-container-2");
+    tableContainer_3 = document.getElementById("table-container-3");
+    tableContainer_4 = document.getElementById("table-container-4");
+    tableContainer_5 = document.getElementById("table-container-5");
+    tableContainer_6 = document.getElementById("table-container-6");
+    tableContainer_7 = document.getElementById("table-container-7");
+    tableContainer_8 = document.getElementById("table-container-8");
+
+    fetch (`${folder}/ip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'IP'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'IP' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_1.appendChild(table);
+        })
+
+    fetch (`${folder}/era_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'ERA'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'ERA' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_2.appendChild(table);
+        })
+
+    fetch (`${folder}/so_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'SO'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'SO' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_3.appendChild(table);
+        })
+    
+    fetch (`${folder}/hr_a_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'HR A'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_4.appendChild(table);
+        })
+
+    fetch (`${folder}/k_7_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'K/7'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/7' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_5.appendChild(table);
+        })
+
+    fetch (`${folder}/k_bb_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'K/BB'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/BB' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_6.appendChild(table);
+        })
+
+    fetch (`${folder}/whip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'WHIP'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'WHIP' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_7.appendChild(table);
+        })
+
+    fetch (`${folder}/fip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'FIP'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'FIP' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 6)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_8.appendChild(table);
+        })
+} else if (type === "Pitching" & timespan === "Season" & season === "all_time") {
+
+    tableContainer_1 = document.getElementById("table-container-1");
+    tableContainer_2 = document.getElementById("table-container-2");
+    tableContainer_3 = document.getElementById("table-container-3");
+    tableContainer_4 = document.getElementById("table-container-4");
+    tableContainer_5 = document.getElementById("table-container-5");
+    tableContainer_6 = document.getElementById("table-container-6");
+    tableContainer_7 = document.getElementById("table-container-7");
+    tableContainer_8 = document.getElementById("table-container-8");
+
+    fetch (`${folder}/ip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'IP', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'IP' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_1.appendChild(table);
+        })
+
+    fetch (`${folder}/era_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'ERA', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'ERA' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_2.appendChild(table);
+        })
+
+    fetch (`${folder}/so_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'SO', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'SO' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_3.appendChild(table);
+        })
+    
+    fetch (`${folder}/hr_a_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'HR A', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_4.appendChild(table);
+        })
+
+    fetch (`${folder}/k_7_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'K/7', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/7' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_5.appendChild(table);
+        })
+
+    fetch (`${folder}/k_bb_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'K/BB', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/BB' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_6.appendChild(table);
+        })
+
+    fetch (`${folder}/whip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'WHIP', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'WHIP' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_7.appendChild(table);
+        })
+
+    fetch (`${folder}/fip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'FIP', 'Year'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'FIP' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(3, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 3; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_8.appendChild(table);
+        })
+
+} else if (type === "Pitching" & timespan === "Career") {
+    tableContainer_1 = document.getElementById("table-container-1");
+    tableContainer_2 = document.getElementById("table-container-2");
+    tableContainer_3 = document.getElementById("table-container-3");
+    tableContainer_4 = document.getElementById("table-container-4");
+    tableContainer_5 = document.getElementById("table-container-5");
+    tableContainer_6 = document.getElementById("table-container-6");
+    tableContainer_7 = document.getElementById("table-container-7");
+    tableContainer_8 = document.getElementById("table-container-8");
+
+    fetch (`${folder}/ip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'IP', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'IP' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_1.appendChild(table);
+        })
+
+    fetch (`${folder}/era_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'ERA', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'ERA' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_2.appendChild(table);
+        })
+
+    fetch (`${folder}/so_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'SO', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'SO' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_3.appendChild(table);
+        })
+    
+    fetch (`${folder}/hr_a_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'HR A', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_4.appendChild(table);
+        })
+
+    fetch (`${folder}/k_7_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'K/7', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/7' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_5.appendChild(table);
+        })
+
+    fetch (`${folder}/k_bb_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'K/BB', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'K/BB' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_6.appendChild(table);
+        })
+
+    fetch (`${folder}/whip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'WHIP', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'WHIP' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_7.appendChild(table);
+        })
+
+    fetch (`${folder}/fip_leaders.csv`)
+        .then(response => response.text())
+        .then(csvData => {
+            const lines = csvData.split("\n");
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'FIP', 'Years'];
+            const rows = [];
+        
+            for (let i = 1; i < lines.length; i++) {
+                const currentLine = lines[i].split(",");
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    if(headers[j] != 'Player' & headers[j] != 'FIP' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                        continue;
+                    }
+                    const header = headers[j];
+                    let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+        
+                    // Remove quotes around the value if present
+                    if (value.startsWith('"') && value.endsWith('"')) {
+                        value = value.slice(1, -1);
+                    }
+        
+                    row[header] = value;
+                }
+                rows.push(row);
+            }
+        
+            // Create the table
+            const table = document.createElement('table');
+        
+            // Create the table header row
+            let thead = table.createTHead();
+            let row = thead.insertRow();
+            for (let key of headers.slice(2, 7)) {
+                let th = document.createElement('th');
+                let text = document.createTextNode(key);
+                th.appendChild(text);
+                row.appendChild(th);
+            }
+        
+            // Add the data rows
+            for (let i = 0; i < rows.length; i++) {
+                row = table.insertRow();
+                for (let j = 2; j < headers.length; j++) {
+                    let cell = row.insertCell();
+                    if (headers[j] === "Player") {
+                        // Create a element
+                        const a = document.createElement('a')
+                        a.href = `player_info?playerID=${rows[i]['Player ID']}`
+                        a.textContent = rows[i][headers[j]]
+                        cell.appendChild(a)
+                    } else{
+                        cell.innerHTML = rows[i][headers[j]];
+                    }
+                }
+            }
+        
+            tableContainer_8.appendChild(table);
+        })
+}
