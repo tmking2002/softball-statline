@@ -278,7 +278,7 @@ function displayStats_pitching(data) {
         /*  Create pitching button */
 
         var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");
-        
+
         var existingPitchingButton = false;
 
         if(existingButton) {   
@@ -363,7 +363,7 @@ getSeasons()
     .then(seasons => {
         displayHeaders("Pitching", table_pitching);
         const fetchPromises = [];
-
+        
         for (let i = 0; i < seasons.length; i++) {
             const season = seasons[i];
             if (season < 2015) {

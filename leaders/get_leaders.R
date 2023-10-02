@@ -22,25 +22,25 @@ save_leaders <- function(season) {
     filter(season == .env$season)
   
   rc_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = rc) %>% 
     mutate(rank = nrow(.) + 1 - rank(rc, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, rc)
   
   avg_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = avg) %>% 
     mutate(rank = nrow(.) + 1 - rank(avg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, avg)
   
   slg_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = slg) %>%
     mutate(rank = nrow(.) + 1 - rank(slg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, slg)
   
   ops_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = ops) %>%
     mutate(rank = nrow(.) + 1 - rank(ops, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, ops)
@@ -61,7 +61,6 @@ save_leaders <- function(season) {
     select(team_id, player_id, rank, player, hr)
   
   sb_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 50) %>% 
     slice_max(n = 100, order_by = sb) %>%
     mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, sb)
@@ -91,25 +90,25 @@ save_leaders(2015)
 save_all_time_leaders <- function() {
   
   rc_leaders <- hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = rc) %>% 
     mutate(rank = nrow(.) + 1 - rank(rc, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, rc, season)
   
   avg_leaders <- hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = avg) %>% 
     mutate(rank = nrow(.) + 1 - rank(avg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, avg, season)
   
   slg_leaders <- hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = slg) %>%
     mutate(rank = nrow(.) + 1 - rank(slg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, slg, season)
   
   ops_leaders <- hitting_stats %>% 
-    filter(pa >= 50) %>% 
+    filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = ops) %>%
     mutate(rank = nrow(.) + 1 - rank(ops, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, ops, season)
@@ -130,7 +129,6 @@ save_all_time_leaders <- function() {
     select(team_id, player_id, rank, player, hr, season)
   
   sb_leaders <- hitting_stats %>% 
-    filter(pa >= 50) %>% 
     slice_max(n = 100, order_by = sb) %>%
     mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, sb, season)
@@ -355,6 +353,8 @@ save_all_time_leaders <- function() {
   
   pitching_stats <- pitching_stats %>% 
     filter(season != 2020)
+  
+  ip_minimum <- 100
   
   ip_leaders <- pitching_stats %>% 
     slice_max(n = 100, order_by = ip) %>% 

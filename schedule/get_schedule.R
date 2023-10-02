@@ -21,7 +21,14 @@ d2_id <- 18102
 d3_id <- 18103
 
 #cur_date <- Sys.Date()
-cur_date <- as.Date("2023-03-21")
+start_date_d1 <- as.Date("2023-02-09")
+end_date_d1 <- as.Date("2023-06-08")
+
+start_date_d2 <- as.Date("2023-02-01")
+end_date_d2 <- as.Date("2023-05-31")
+
+start_date_d3 <- as.Date("2023-02-04")
+end_date_d3 <- as.Date("2023-06-07")
 
 get_games <- function(division_id, date){
 
@@ -166,17 +173,41 @@ get_games <- function(division_id, date){
 team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
-d1_schedule <- get_games(d1_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 10))
+for(i in start_date_d1:end_date_d1){
+  cur_games <- get_games(d1_id, as.Date(i, origin = "1970-01-01"))
+  
+  if(!is.null(nrow(cur_games))){
+    cur_games <- cur_games %>% 
+      mutate(game_date = substr(game_date, 1, 10))
+  }
+  
+  write.csv(cur_games, paste0("~/Projects/softball-statline/schedule/schedule_data/d1/", as.Date(i, origin = "1970-01-01"), ".csv"))
+  
+  print(as.Date(i, origin = "1970-01-01"))
+}
 
-write_csv(d1_schedule, "~/Projects/softball-statline/schedule/d1_schedule.csv")
+for(i in start_date_d2:end_date_d2){
+  cur_games <- get_games(d2_id, as.Date(i, origin = "1970-01-01"))
+  
+  if(!is.null(nrow(cur_games))){
+    cur_games <- cur_games %>% 
+      mutate(game_date = substr(game_date, 1, 10))
+  }
+  
+  write.csv(cur_games, paste0("~/Projects/softball-statline/schedule/schedule_data/d2/", as.Date(i, origin = "1970-01-01"), ".csv"))
+  
+  print(as.Date(i, origin = "1970-01-01"))
+}
 
-d2_schedule <- get_games(d2_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 10))
-
-write_csv(d2_schedule, "~/Projects/softball-statline/schedule/d2_schedule.csv")
-
-d3_schedule <- get_games(d3_id, cur_date) %>%
-  mutate(game_date = substr(game_date, 1, 10)) 
-
-write_csv(d3_schedule, "~/Projects/softball-statline/schedule/d3_schedule.csv")
+for(i in start_date_d3:end_date_d3){
+  cur_games <- get_games(d3_id, as.Date(i, origin = "1970-01-01"))
+  
+  if(!is.null(nrow(cur_games))){
+    cur_games <- cur_games %>% 
+      mutate(game_date = substr(game_date, 1, 10))
+  }
+  
+  write.csv(cur_games, paste0("~/Projects/softball-statline/schedule/schedule_data/d3/", as.Date(i, origin = "1970-01-01"), ".csv"))
+  
+  print(as.Date(i, origin = "1970-01-01"))
+}

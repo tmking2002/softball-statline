@@ -11,19 +11,9 @@ proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))
 get_stats <- function(box, season){
   
   stats <- box %>% 
-    separate(ip, c("innings", "frac"), sep = "\\.") %>% 
-    mutate(ip = as.numeric(ifelse(is.na(frac), innings, as.numeric(innings) + as.numeric(frac) * 1/3))) %>% 
-    select(-c(innings, frac)) %>% 
     merge(teams, by.x = "team", by.y = "team_name") %>% 
-    separate(player, c("last", "first"), sep = ", ") %>% 
-    drop_na(first, last) %>% 
-    mutate(first =  proper(trimws(str_remove(first, "\\."))),
-           last = proper(trimws(str_remove(last, "\\."))),
-           player = paste(first, last),
-           season = .env$season) %>% 
-    filter(str_length(first) > 1,
-           str_length(last) > 1,
-           first != "Unknown") %>% 
+    mutate(season = .env$season) %>% 
+    filter(str_length(player) > 1) %>% 
     merge(players, by = "player") %>% 
     group_by(team_id, season, player, player_id) %>% 
     summarise(across(c(er, ip, ha, bf, bb, hb, so, hr_a), 

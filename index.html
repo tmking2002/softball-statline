@@ -100,6 +100,19 @@
                 color: rgb(22, 82, 22);
             }
 
+            .date-input-container {
+                margin-bottom: 10px;
+            }
+
+            .dateInput {
+                width: 40%;
+                color: grey; /* Set text color to white */
+                border: 1px solid black; /* Set border color to white */
+                border-radius: 5px; /* Add rounded corners for a nicer look */
+                padding: 5px; /* Add some padding for better spacing */
+                text-align: center;
+            }
+
         </style>
     </head>
     <body>
@@ -140,6 +153,11 @@
         <div class="w3-third">
           <div class="w3-card w3-container" style="min-height:460px">
           <h3>Schedule</h3><br>
+
+          <div class="date-input-container">
+            <input type="date" class="dateInput" id="dateInput" name="dateInput" value="2023-06-08" min="2023-02-01" max="2023-06-08" onchange="createDataTable_d1(this.value); createDataTable_d2(this.value); createDataTable_d3(this.value);">
+          </div>
+          
           <div class="w3-bar w3-theme">
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D1-schedule')">D1</button>
               <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D2-schedule')">D2</button>
@@ -255,8 +273,24 @@
         
 
         <script>
+            // store todays date
+            var today = new Date();
+            var dd = today.getDate();
+            var mm = today.getMonth()+1; //January is 0 so need to add 1 to make it 1!
+            var yyyy = today.getFullYear();
+            if(dd<10){
+                    dd='0'+dd
+                } 
+                if(mm<10){
+                    mm='0'+mm
+                }
+            
+            today = yyyy+'-'+mm+'-'+dd;
+            
+            // use this as default going during the season
+
             // Function to fetch CSV file and create the data table
-            function createDataTable_d1() {
+            function createDataTable_d1(dateInput) {
                 fetch('rpi_rankings/d1_rpi.csv')
                     .then(response => response.text())
                     .then(data => {
@@ -306,20 +340,23 @@
                         tableContainer.appendChild(table);
                     })
                 
-                fetch('schedule/d1_schedule.csv')
+                if (dateInput > '2023-06-08') {
+                    dateInput_d1 = '2023-06-08';
+                } else {
+                    dateInput_d1 = dateInput;
+                }
+                const tableContainer = document.getElementById('schedule-container-d1');
+                tableContainer.innerHTML = '';
+                fetch('schedule/schedule_data/d1/' + dateInput_d1 + '.csv')
                     .then(response => response.text())
                     .then(data => {
                         const rows = data.split('\n');
                         const tableContainer = document.getElementById('schedule-container-d1');
                         const table = document.createElement('table');
 
-                        const date = new Date(rows[1].split(',')[10]);
-                        var dateOutputElement = document.getElementById("dateOutput");
-                        dateOutputElement.textContent = date.toLocaleDateString("en-US", { month: 'long', day: 'numeric', year: 'numeric' });
-
                         // Create table rows
                         for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(1,);
 
                             const awayScore = parseInt(rowData[7]);
                             const homeScore = parseInt(rowData[3]);
@@ -333,7 +370,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4];
+                            awayLogo.src = rowData[4].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -341,7 +378,7 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6];
+                            awayName.textContent = rowData[6].slice(1, -1);
                             awayName.href = `team_info?teamID=${rowData[5]}`
                             awayNameContainer.appendChild(awayName);
 
@@ -354,7 +391,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0];
+                            homeLogo.src = rowData[0].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -362,7 +399,7 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2];
+                            homeName.textContent = rowData[2].slice(1, -1);
                             homeName.href = `team_info?teamID=${rowData[1]}`
                             homeNameContainer.appendChild(homeName);
 
@@ -389,7 +426,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+                            boxLink.href = `game_info?gameID=${rowData[8].slice(1, -1)}&season=${rowData[9]}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -403,7 +440,7 @@
                     .catch(error => console.error('Error fetching CSV:', error));
             }
             
-            function createDataTable_d2() {
+            function createDataTable_d2(dateInput) {
                 fetch('rpi_rankings/d2_rpi.csv')
                     .then(response => response.text())
                     .then(data => {
@@ -452,8 +489,15 @@
                         // Add the table to the container
                         tableContainer.appendChild(table);
                     })
-                
-                fetch('schedule/d2_schedule.csv')
+
+                if (dateInput > '2023-05-31') {
+                    dateInput_d2 = '2023-05-31';
+                } else {
+                    dateInput_d2 = dateInput;
+                }
+                const tableContainer = document.getElementById('schedule-container-d2');
+                tableContainer.innerHTML = '';
+                fetch('schedule/schedule_data/d2/' + dateInput_d2 + '.csv')
                     .then(response => response.text())
                     .then(data => {
                         const rows = data.split('\n');
@@ -462,7 +506,7 @@
 
                         // Create table rows
                         for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(1,);
 
                             const awayScore = parseInt(rowData[7]);
                             const homeScore = parseInt(rowData[3]);
@@ -476,7 +520,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4];
+                            awayLogo.src = rowData[4].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -484,7 +528,7 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6];
+                            awayName.textContent = rowData[6].slice(1, -1);
                             awayName.href = `team_info?teamID=${rowData[5]}`
                             awayNameContainer.appendChild(awayName);
 
@@ -497,7 +541,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0];
+                            homeLogo.src = rowData[0].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -505,7 +549,7 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2];
+                            homeName.textContent = rowData[2].slice(1, -1);
                             homeName.href = `team_info?teamID=${rowData[1]}`
                             homeNameContainer.appendChild(homeName);
 
@@ -532,7 +576,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+                            boxLink.href = `game_info?gameID=${rowData[8].slice(1, -1)}&season=${rowData[9]}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -546,7 +590,7 @@
                     .catch(error => console.error('Error fetching CSV:', error));
             }
             
-            function createDataTable_d3() {
+            function createDataTable_d3(dateInput) {
                 fetch('rpi_rankings/d3_rpi.csv')
                     .then(response => response.text())
                     .then(data => {
@@ -595,8 +639,15 @@
                         // Add the table to the container
                         tableContainer.appendChild(table);
                     })
-                
-                fetch('schedule/d3_schedule.csv')
+
+                if (dateInput > '2023-06-07') {
+                    dateInput_d3 = '2023-06-07';
+                } else {
+                    dateInput_d3 = dateInput;
+                }
+                const tableContainer = document.getElementById('schedule-container-d3');
+                tableContainer.innerHTML = '';
+                fetch('schedule/schedule_data/d3/' + dateInput_d3 + '.csv')
                     .then(response => response.text())
                     .then(data => {
                         const rows = data.split('\n');
@@ -605,7 +656,7 @@
 
                         // Create table rows
                         for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',');
+                            const rowData = rows[i].split(',').slice(1,);
 
                             const awayScore = parseInt(rowData[7]);
                             const homeScore = parseInt(rowData[3]);
@@ -619,7 +670,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4];
+                            awayLogo.src = rowData[4].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -627,7 +678,7 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6];
+                            awayName.textContent = rowData[6].slice(1, -1);
                             awayName.href = `team_info?teamID=${rowData[5]}`
                             awayNameContainer.appendChild(awayName);
 
@@ -640,7 +691,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0];
+                            homeLogo.src = rowData[0].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -648,7 +699,7 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2];
+                            homeName.textContent = rowData[2].slice(1, -1);
                             homeName.href = `team_info?teamID=${rowData[1]}`
                             homeNameContainer.appendChild(homeName);
 
@@ -675,7 +726,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[8]}&season=${rowData[9]}`;
+                            boxLink.href = `game_info?gameID=${rowData[8].slice(1, -1)}&season=${rowData[9]}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -687,12 +738,9 @@
                         
                     })
                     .catch(error => console.error('Error fetching CSV:', error));
+                
+                    openSchedule(event, 'D1-schedule')
             }
-
-            // Call the function to create the data table
-            createDataTable_d1();
-            createDataTable_d2();
-            createDataTable_d3();
             
             function openSchedule(evt, cityName) {
               var i;
@@ -705,6 +753,18 @@
                 activebtn[i].className = activebtn[i].className.replace(" w3-dark-grey", "");
               }
               document.getElementById(cityName).style.display = "block";
+
+              var dateInputValue = document.getElementById("dateInput").value;
+
+              formattedDate = new Date(dateInputValue).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
+              
+              var date = new Date(formattedDate);
+              date.setDate(date.getDate() + 1);
+              formattedDate = date.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
+
+
+              document.getElementById("dateOutput").textContent = formattedDate;
+
             }
             
             function openRPI(evt, cityName) {
@@ -779,6 +839,9 @@
             openConf(event, 'SEC')
             openSchedule(event, 'D1-schedule')  
             openRPI(event, 'D1-rpi')  
+            createDataTable_d1(today)
+            createDataTable_d2(today)
+            createDataTable_d3(today)
         </script>
 
     </body>
