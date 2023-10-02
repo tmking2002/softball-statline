@@ -756,15 +756,21 @@
 
               var dateInputValue = document.getElementById("dateInput").value;
 
+              if(cityName === 'D1-schedule' & dateInputValue > '2023-06-08'){
+                dateInputValue = '2023-06-08';
+              } else if (cityName === 'D2-schedule' & dateInputValue > '2023-05-31') {
+                dateInputValue = '2023-05-31';
+              } else if (cityName === 'D3-schedule' & dateInputValue > '2023-06-07') {
+                dateInputValue = '2023-06-07';
+              }
+
               formattedDate = new Date(dateInputValue).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
               
               var date = new Date(formattedDate);
               date.setDate(date.getDate() + 1);
               formattedDate = date.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
 
-
-              document.getElementById("dateOutput").textContent = formattedDate;
-
+                document.getElementById("dateOutput").textContent = formattedDate;
             }
             
             function openRPI(evt, cityName) {
