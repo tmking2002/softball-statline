@@ -37,30 +37,38 @@ get_stats <- function(box, season){
 }
 
 
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2015.RDS"))) %>% get_stats(., 2015),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2015.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2015.RDS") %>% get_stats(., 2015), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2015.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2016.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2016.RDS"))) %>% get_stats(., 2016),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2016.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2016.RDS") %>% get_stats(., 2016), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2016.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2017.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2017.RDS"))) %>% get_stats(., 2017),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2017.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2017.RDS") %>% get_stats(., 2017), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2017.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2018.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2018.RDS"))) %>% get_stats(., 2018),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2018.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2018.RDS") %>% get_stats(., 2018), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2018.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2019.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2019.RDS"))) %>% get_stats(., 2019),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2019.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2019.RDS") %>% get_stats(., 2019), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2019.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2020.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2020.RDS"))) %>% get_stats(., 2020),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2020.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2020.RDS") %>% get_stats(., 2020), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2020.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2021.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2021.RDS"))) %>% get_stats(., 2021),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2021.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2021.RDS") %>% get_stats(., 2021), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2021.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2022.RDS"), 
+                         readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2022.RDS"))) %>% get_stats(., 2022),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2022.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2022.RDS") %>% get_stats(., 2022), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2022.csv")
+write.csv(distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2023.RDS"), 
+                readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2023.RDS"))) %>% get_stats(., 2023),
+          "~/Projects/softball-statline/teams/data/hitting_stats/hitting_stats_2023.csv")
 
-write.csv(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2023.RDS") %>% get_stats(., 2023), 
-          "~/Projects/softball-statline/teams/data/hitting_stats/d1_hitting_stats_2023.csv")

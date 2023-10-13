@@ -4,8 +4,12 @@ library(tidyverse)
 
 ## Seasons ##
 
+teams <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% select(team_id, division)
+
 hitting_files <- list.files("~/Projects/softball-statline/teams/data/hitting_stats")
 hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/hitting_stats/", hitting_files))) %>% 
+  merge(teams, by = "team_id") %>% 
+  filter(division %in% c("D-I", "D-II") & !(division == "D-II" & season == 2015)) %>% 
   mutate(pa = ab + bb + hbp,
          xbh = x2b + x3b + hr,
          tb = 2 * x2b + 3 * x3b + 4 * hr + (h - xbh),
@@ -14,12 +18,14 @@ hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/
          rc = (tb * (h + bb)) / (ab + bb),
          rc = format(round(rc, 2), digits = 2),
          avg = format(round(avg, 3), digits = 3),
-         ops = format(round(ops, 3), digits = 3))
+         ops = format(round(ops, 3), digits = 3),
+         division = case_when(division == "D-I" ~ "d1",
+                              division == "D-II" ~ "d2"))
 
-save_leaders <- function(season) {
+save_leaders <- function(season, division) {
   
   cur_hitting_stats <- hitting_stats %>% 
-    filter(season == .env$season)
+    filter(season == .env$season & division == .env$division)
   
   rc_leaders <- cur_hitting_stats %>% 
     filter(pa >= 100) %>% 
@@ -65,94 +71,102 @@ save_leaders <- function(season) {
     mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, sb)
   
-  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/rc_leaders.csv"))
-  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/avg_leaders.csv"))
-  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/slg_leaders.csv"))
-  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/ops_leaders.csv"))
-  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/h_leaders.csv"))
-  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/xbh_leaders.csv"))
-  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/hr_leaders.csv"))
-  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/sb_leaders.csv"))
+  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_rc_leaders.csv"))
+  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_avg_leaders.csv"))
+  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_slg_leaders.csv"))
+  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_ops_leaders.csv"))
+  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_h_leaders.csv"))
+  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_xbh_leaders.csv"))
+  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_hr_leaders.csv"))
+  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_sb_leaders.csv"))
   
 }
 
-save_leaders(2023)
-save_leaders(2022)
-save_leaders(2021)
-save_leaders(2019)
-save_leaders(2018)
-save_leaders(2017)
-save_leaders(2016)
-save_leaders(2015)
-
-## All Time ##
-
-save_all_time_leaders <- function() {
+for(i in 2015:2023){
   
-  rc_leaders <- hitting_stats %>% 
+  for(j in c("d1", "d2")){
+    
+    save_leaders(i, j)
+    
+  }
+  
+}
+
+## All Time Single Season ##
+
+save_all_time_leaders <- function(division) {
+  
+  cur_hitting_stats <- hitting_stats %>% 
+    filter(division == .env$division)
+  
+  rc_leaders <- cur_hitting_stats %>% 
     filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = rc) %>% 
     mutate(rank = nrow(.) + 1 - rank(rc, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, rc, season)
   
-  avg_leaders <- hitting_stats %>% 
+  avg_leaders <- cur_hitting_stats %>% 
     filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = avg) %>% 
     mutate(rank = nrow(.) + 1 - rank(avg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, avg, season)
   
-  slg_leaders <- hitting_stats %>% 
+  slg_leaders <- cur_hitting_stats %>% 
     filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = slg) %>%
     mutate(rank = nrow(.) + 1 - rank(slg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, slg, season)
   
-  ops_leaders <- hitting_stats %>% 
+  ops_leaders <- cur_hitting_stats %>% 
     filter(pa >= 100) %>% 
     slice_max(n = 100, order_by = ops) %>%
     mutate(rank = nrow(.) + 1 - rank(ops, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, ops, season)
   
-  h_leaders <- hitting_stats %>% 
+  h_leaders <- cur_hitting_stats %>% 
     slice_max(n = 100, order_by = h) %>%
     mutate(rank = rank(-h, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, h, season)
   
-  xbh_leaders <- hitting_stats %>% 
+  xbh_leaders <- cur_hitting_stats %>% 
     slice_max(n = 100, order_by = xbh) %>%
     mutate(rank = rank(-xbh, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, xbh, season)
   
-  hr_leaders <- hitting_stats %>% 
+  hr_leaders <- cur_hitting_stats %>% 
     slice_max(n = 100, order_by = hr) %>% 
     mutate(rank = rank(-hr, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, hr, season)
   
-  sb_leaders <- hitting_stats %>% 
+  sb_leaders <- cur_hitting_stats %>% 
     slice_max(n = 100, order_by = sb) %>%
     mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, sb, season)
   
-  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/all_time/rc_leaders.csv"))
-  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/avg_leaders.csv"))
-  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/slg_leaders.csv"))
-  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/all_time/ops_leaders.csv"))
-  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/all_time/h_leaders.csv"))
-  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/all_time/xbh_leaders.csv"))
-  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/all_time/hr_leaders.csv"))
-  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/all_time/sb_leaders.csv"))
+  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_rc_leaders.csv"))
+  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_avg_leaders.csv"))
+  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_slg_leaders.csv"))
+  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_ops_leaders.csv"))
+  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_h_leaders.csv"))
+  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_xbh_leaders.csv"))
+  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_hr_leaders.csv"))
+  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/all_time/", division, "_sb_leaders.csv"))
   
 }
 
-save_all_time_leaders()
+save_all_time_leaders("d1")
+save_all_time_leaders("d2")
 
 
 ## Career ##
 
 
-save_career_leaders <- function() {
+save_career_leaders <- function(division) {
   
-  rc_leaders <- hitting_stats %>% 
+  cur_hitting_stats <- hitting_stats %>% 
+    filter(division == .env$division)
+  
+  rc_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(rc = sum(as.numeric(rc)),
               pa = sum(pa),
@@ -163,7 +177,7 @@ save_career_leaders <- function() {
     mutate(rank = rank(-rc, ties.method = "min")) %>% 
     select(player_id, rank, player, rc, seasons)
   
-  avg_leaders <- hitting_stats %>% 
+  avg_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(avg = sum(h) / sum(ab),
               pa = sum(pa),
@@ -176,7 +190,7 @@ save_career_leaders <- function() {
            avg = format(round(avg, 3), digits = 3)) %>% 
     select(player_id, rank, player, avg, seasons)
   
-  slg_leaders <- hitting_stats %>% 
+  slg_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(slg = sum(tb) / sum(ab),
               pa = sum(pa),
@@ -189,7 +203,7 @@ save_career_leaders <- function() {
            slg = format(round(slg, 3), digits = 3)) %>% 
     select(player_id, rank, player, slg, seasons)
   
-  ops_leaders <- hitting_stats %>% 
+  ops_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(pa = sum(pa),
               tb = 2 * sum(x2b) + 3 * sum(x3b) + 4 * sum(hr) + (sum(h) - sum(xbh)),
@@ -205,7 +219,7 @@ save_career_leaders <- function() {
            ops = format(round(ops, 3), digits = 3)) %>% 
     select(player_id, rank, player, ops, seasons)
   
-  h_leaders <- hitting_stats %>% 
+  h_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(h = sum(h),
               seasons = paste(c(min(season), max(season)), collapse = "-")) %>% 
@@ -215,7 +229,7 @@ save_career_leaders <- function() {
     mutate(rank = rank(-h, ties.method = "min")) %>% 
     select(player_id, rank, player, h, seasons)
   
-  xbh_leaders <- hitting_stats %>% 
+  xbh_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(xbh = sum(xbh),
               seasons = paste(c(min(season), max(season)), collapse = "-")) %>% 
@@ -225,7 +239,7 @@ save_career_leaders <- function() {
     mutate(rank = rank(-xbh, ties.method = "min")) %>% 
     select(player_id, rank, player, xbh, seasons)
   
-  hr_leaders <- hitting_stats %>% 
+  hr_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(hr = sum(hr),
               seasons = paste(c(min(season), max(season)), collapse = "-")) %>% 
@@ -235,7 +249,7 @@ save_career_leaders <- function() {
     mutate(rank = rank(-hr, ties.method = "min")) %>% 
     select(player_id, rank, player, hr, seasons)
   
-  sb_leaders <- hitting_stats %>% 
+  sb_leaders <- cur_hitting_stats %>% 
     group_by(player_id, player) %>% 
     summarise(sb = sum(sb),
               seasons = paste(c(min(season), max(season)), collapse = "-")) %>% 
@@ -245,18 +259,19 @@ save_career_leaders <- function() {
     mutate(rank = rank(-sb, ties.method = "min")) %>% 
     select(player_id, rank, player, sb, seasons)
   
-  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/career/rc_leaders.csv"))
-  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/career/avg_leaders.csv"))
-  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/career/ops_leaders.csv"))
-  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/career/slg_leaders.csv"))
-  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/career/h_leaders.csv"))
-  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/career/xbh_leaders.csv"))
-  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/career/hr_leaders.csv"))
-  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/career/sb_leaders.csv"))
+  write.csv(rc_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_rc_leaders.csv"))
+  write.csv(avg_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_avg_leaders.csv"))
+  write.csv(slg_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_slg_leaders.csv"))
+  write.csv(ops_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_ops_leaders.csv"))
+  write.csv(h_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_h_leaders.csv"))
+  write.csv(xbh_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_xbh_leaders.csv"))
+  write.csv(hr_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_hr_leaders.csv"))
+  write.csv(sb_leaders, paste0("~/Projects/softball-statline/leaders/career/", division, "_sb_leaders.csv"))
   
 }
 
-save_career_leaders()
+save_career_leaders("d1")
+save_career_leaders("d2")
 
 #### Pitching ####
 
@@ -327,14 +342,14 @@ save_leaders <- function(season) {
     select(team_id, player_id, rank, player, fip)
   
   
-  write.csv(ip_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/ip_leaders.csv"))
-  write.csv(era_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/era_leaders.csv"))
-  write.csv(so_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/so_leaders.csv"))
-  write.csv(hr_a_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/hr_a_leaders.csv"))
-  write.csv(k_7_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/k_7_leaders.csv"))
-  write.csv(k_bb_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/k_bb_leaders.csv"))
-  write.csv(whip_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/whip_leaders.csv"))
-  write.csv(fip_leaders, paste0("~/Projects/softball-statline/leaders/", season, "/fip_leaders.csv"))
+  write.csv(ip_leaders, paste0("~/Projects/softball-statline/leaders/all_time/ip_leaders.csv"))
+  write.csv(era_leaders, paste0("~/Projects/softball-statline/leaders/all_time/era_leaders.csv"))
+  write.csv(so_leaders, paste0("~/Projects/softball-statline/leaders/all_time/so_leaders.csv"))
+  write.csv(hr_a_leaders, paste0("~/Projects/softball-statline/leaders/all_time/hr_a_leaders.csv"))
+  write.csv(k_7_leaders, paste0("~/Projects/softball-statline/leaders/all_time/k_7_leaders.csv"))
+  write.csv(k_bb_leaders, paste0("~/Projects/softball-statline/leaders/all_time/k_bb_leaders.csv"))
+  write.csv(whip_leaders, paste0("~/Projects/softball-statline/leaders/all_time/whip_leaders.csv"))
+  write.csv(fip_leaders, paste0("~/Projects/softball-statline/leaders/all_time/fip_leaders.csv"))
   
 }
 

@@ -3,35 +3,84 @@ const urlParams = new URLSearchParams(queryString);
 const type = urlParams.get('type');
 const timespan = urlParams.get('timespan');
 const season = urlParams.get('season');
+const division = urlParams.get('division');
+
+let division_text;
+
+if (division === "d1") {
+    division_text = "Division I";
+} else if (division === "d2") {
+    division_text = "Division II";
+}
 
 let folder;
+
+const categoryDropdown = document.getElementById("type");
+const divisionDropdown = document.getElementById("division");
+const timespanDropdown = document.getElementById("timespan");
+const seasonDropdown = document.getElementById("season");
+const submitButton = document.getElementById("submit");
+
+categoryDropdown.addEventListener("change", function() {
+    divisionDropdown.style.display = "flex";
+
+    if (categoryDropdown.value === "Pitching") {
+        // remove the NCAA D2 option
+        divisionDropdown.remove(2);
+    }
+});
+
+divisionDropdown.addEventListener("change", function() {
+    timespanDropdown.style.display = "flex";
+});
+
+timespanDropdown.addEventListener("change", function() {
+    if (timespanDropdown.value === "Season") {
+        seasonDropdown.style.display = "flex";
+        if (divisionDropdown.value === "d2" && categoryDropdown.value === "Hitting") {
+            seasonDropdown.remove(2);
+        }
+    } else {
+        submitButton.style.display = "block";
+        submitButton.style.margin = "auto";
+        submitButton.style.marginTop = "50px";
+    }
+});
+
+seasonDropdown.addEventListener("change", function() {
+    submitButton.style.display = "block";
+    submitButton.style.margin = "auto";
+    submitButton.style.marginTop = "50px";
+});
+
+
 
 if (timespan === "Season" && season !== "all_time") {
     folder = `leaders/${season}`;
 
     const pageTitle = document.querySelector('title');
-    pageTitle.textContent = `Softball Statline  -  ${season} ${type} Leaders`;
+    pageTitle.textContent = `Softball Statline  -  ${season} ${division_text} ${type} Leaders`;
 
     const heading = document.querySelector('h2');
-    heading.textContent = `${season} ${type} Leaders`;
+    heading.textContent = `${season} ${division_text} ${type} Leaders`;
 
 } else if (timespan === "Season" && season === "all_time") {
     folder = 'leaders/all_time';
 
     const pageTitle = document.querySelector('title');
-    pageTitle.textContent = `Softball Statline  -  All Time ${type} Leaders (Single Season)`;
+    pageTitle.textContent = `Softball Statline  -  All Time ${division_text} ${type} Leaders (Single Season)`;
 
     const heading = document.querySelector('h2');
-    heading.textContent = `All Time ${type} Leaders (Single Season)`;
+    heading.textContent = `All Time ${division_text} ${type} Leaders (Single Season)`;
 
 } else if (timespan === "Career") {
     folder = 'leaders/career';
 
     const pageTitle = document.querySelector('title');
-    pageTitle.textContent = `Softball Statline  -  All Time ${type} Leaders (Career)`;
+    pageTitle.textContent = `Softball Statline  -  All Time ${division_text} ${type} Leaders (Career)`;
 
     const heading = document.querySelector('h2');
-    heading.textContent = `All Time ${type} Leaders (Career)`;
+    heading.textContent = `All Time ${division_text} ${type} Leaders (Career)`;
 }
 
 if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
@@ -45,7 +94,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/avg_leaders.csv`)
+    fetch (`${folder}/${division}_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -105,7 +154,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/slg_leaders.csv`)
+    fetch (`${folder}/${division}_slg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -165,7 +214,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/ops_leaders.csv`)
+    fetch (`${folder}/${division}_ops_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -225,7 +274,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/rc_leaders.csv`)
+    fetch (`${folder}/${division}_rc_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -285,7 +334,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/h_leaders.csv`)
+    fetch (`${folder}/${division}_h_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -345,7 +394,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/xbh_leaders.csv`)
+    fetch (`${folder}/${division}_xbh_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -405,7 +454,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/hr_leaders.csv`)
+    fetch (`${folder}/${division}_hr_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -465,7 +514,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/sb_leaders.csv`)
+    fetch (`${folder}/${division}_sb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -535,7 +584,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/avg_leaders.csv`)
+    fetch (`${folder}/${division}_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -595,7 +644,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/slg_leaders.csv`)
+    fetch (`${folder}/${division}_slg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -655,7 +704,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/ops_leaders.csv`)
+    fetch (`${folder}/${division}_ops_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -715,7 +764,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/rc_leaders.csv`)
+    fetch (`${folder}/${division}_rc_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -775,7 +824,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/h_leaders.csv`)
+    fetch (`${folder}/${division}_h_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -835,7 +884,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/xbh_leaders.csv`)
+    fetch (`${folder}/${division}_xbh_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -895,7 +944,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/hr_leaders.csv`)
+    fetch (`${folder}/${division}_hr_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -955,7 +1004,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/sb_leaders.csv`)
+    fetch (`${folder}/${division}_sb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1025,7 +1074,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/avg_leaders.csv`)
+    fetch (`${folder}/${division}_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1085,7 +1134,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/slg_leaders.csv`)
+    fetch (`${folder}/${division}_slg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1145,7 +1194,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/ops_leaders.csv`)
+    fetch (`${folder}/${division}_ops_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1205,7 +1254,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/rc_leaders.csv`)
+    fetch (`${folder}/${division}_rc_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1265,7 +1314,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/h_leaders.csv`)
+    fetch (`${folder}/${division}_h_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1325,7 +1374,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/xbh_leaders.csv`)
+    fetch (`${folder}/${division}_xbh_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1385,7 +1434,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/hr_leaders.csv`)
+    fetch (`${folder}/${division}_hr_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1445,7 +1494,7 @@ if (type === "Hitting" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/sb_leaders.csv`)
+    fetch (`${folder}/${division}_sb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1517,7 +1566,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/ip_leaders.csv`)
+    fetch (`${folder}/${division}_ip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1577,7 +1626,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/era_leaders.csv`)
+    fetch (`${folder}/${division}_era_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1637,7 +1686,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/so_leaders.csv`)
+    fetch (`${folder}/${division}_so_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1697,7 +1746,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_hr_a_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1757,7 +1806,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/k_7_leaders.csv`)
+    fetch (`${folder}/${division}_k_7_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1817,7 +1866,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/k_bb_leaders.csv`)
+    fetch (`${folder}/${division}_k_bb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1877,7 +1926,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/whip_leaders.csv`)
+    fetch (`${folder}/${division}_whip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -1937,7 +1986,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/fip_leaders.csv`)
+    fetch (`${folder}/${division}_fip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2007,7 +2056,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/ip_leaders.csv`)
+    fetch (`${folder}/${division}_ip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2067,7 +2116,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/era_leaders.csv`)
+    fetch (`${folder}/${division}_era_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2127,7 +2176,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/so_leaders.csv`)
+    fetch (`${folder}/${division}_so_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2187,7 +2236,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_hr_a_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2247,7 +2296,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/k_7_leaders.csv`)
+    fetch (`${folder}/${division}_k_7_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2307,7 +2356,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/k_bb_leaders.csv`)
+    fetch (`${folder}/${division}_k_bb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2367,7 +2416,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/whip_leaders.csv`)
+    fetch (`${folder}/${division}_whip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2427,7 +2476,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/fip_leaders.csv`)
+    fetch (`${folder}/${division}_fip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2497,7 +2546,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
     tableContainer_7 = document.getElementById("table-container-7");
     tableContainer_8 = document.getElementById("table-container-8");
 
-    fetch (`${folder}/ip_leaders.csv`)
+    fetch (`${folder}/${division}_ip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2557,7 +2606,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_1.appendChild(table);
         })
 
-    fetch (`${folder}/era_leaders.csv`)
+    fetch (`${folder}/${division}_era_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2617,7 +2666,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_2.appendChild(table);
         })
 
-    fetch (`${folder}/so_leaders.csv`)
+    fetch (`${folder}/${division}_so_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2677,7 +2726,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_hr_a_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2737,7 +2786,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_4.appendChild(table);
         })
 
-    fetch (`${folder}/k_7_leaders.csv`)
+    fetch (`${folder}/${division}_k_7_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2797,7 +2846,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_5.appendChild(table);
         })
 
-    fetch (`${folder}/k_bb_leaders.csv`)
+    fetch (`${folder}/${division}_k_bb_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2857,7 +2906,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_6.appendChild(table);
         })
 
-    fetch (`${folder}/whip_leaders.csv`)
+    fetch (`${folder}/${division}_whip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
@@ -2917,7 +2966,7 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_7.appendChild(table);
         })
 
-    fetch (`${folder}/fip_leaders.csv`)
+    fetch (`${folder}/${division}_fip_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");

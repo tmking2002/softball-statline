@@ -238,7 +238,7 @@ getSeasons()
 
         for (let i = 0; i < seasons.length; i++) {
             const season = seasons[i];
-            const fetchPromise = fetch (`teams/data/hitting_stats/d1_hitting_stats_${season}.csv`)
+            const fetchPromise = fetch (`teams/data/hitting_stats/hitting_stats_${season}.csv`)
                 .then(response => response.text())
                 .then(csvData => {
                     return parseCSV(csvData, "Hitting");

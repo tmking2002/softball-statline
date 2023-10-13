@@ -23,14 +23,14 @@
             // Function to check if query parameters are present in the URL
             function checkQueryString() {
                 const urlParams = new URLSearchParams(window.location.search);
-                if (!urlParams.has('type') || !urlParams.has('timespan') || !urlParams.has('season')) {
+                if (!urlParams.has('type') || !urlParams.has('timespan') || !urlParams.has('division')) {
                     redirectToDefault();
                 }
             }
 
             // Function to redirect to the default URL
             function redirectToDefault() {
-                const defaultUrl = "leaders_search?type=Hitting&timespan=Career&season=N%2FA";
+                const defaultUrl = "leaders_search?division=d1&type=Hitting&timespan=Career&season=N%2FA";
                 window.location.href = defaultUrl;
             }
 
@@ -128,16 +128,25 @@
 
         <div class="w3-container" style="margin-top: 30px; text-align: center;">
             <form class="w3-container" id="filterForm">
-                <div class="w3-third">
+
+                <div class="w3-center" style="max-width: 30%; align-items: center; margin: 0 auto;">
                     <select class="w3-select w3-border" name="type" id="type" style="text-align: center;">
                         <option value="" disabled selected>Category</option>
                         <option value="Hitting">Hitting</option>
                         <option value="Pitching">Pitching</option>
                     </select>
                 </div>
-                
+
                 <div class="w3-third">
-                    <select class="w3-select w3-border" name="timespan" id="timespan" style="text-align: center;">
+                    <select class="w3-select w3-border" name="division" id="division" style="text-align: center; display: none">
+                        <option value="" disabled selected>Division</option>
+                        <option value="d1">NCAA D1</option>
+                        <option value="d2">NCAA D2</option>
+                    </select>
+                </div>
+
+                <div class="w3-third">
+                    <select class="w3-select w3-border" name="timespan" id="timespan" style="text-align: center; display: none">
                         <option value="" disabled selected>Time Span</option>
                         <option value="Career">Career</option>
                         <option value="Season">Season</option>
@@ -145,8 +154,8 @@
                 </div>
                 
                 <div class="w3-third">
-                    <select class="w3-select w3-border" name="season" id="season" style="text-align: center;">
-                        <option value="" disabled selected>Season</option>
+                    <select class="w3-select w3-border" name="season" id="season" style="text-align: center; display: none">
+                        <option value="" disabled selected>Select Season</option>
                         <option value="all_time">All Time</option>
                         <option value="2015">2015</option>
                         <option value="2016">2016</option>
@@ -159,8 +168,7 @@
                     </select>
                 </div>
 
-                <button class="w3-button w3-teal" type="submit" style="margin-top: 50px; padding-left: 15px; padding-right: 15px; max-width: 100%;">Apply Filters</button>
-
+                <button class="w3-button w3-teal" type="submit" id="submit" style="margin-top: 50px; max-width: 20%; display: none">Apply Filters</button>
 
             </form>
         </div>

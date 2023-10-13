@@ -174,7 +174,7 @@ function setSeason(selectedSeason) {
         // Hitting Stats
 
         // Construct the CSV file name for the selected season
-        const csvFileName_hitting = `teams/data/hitting_stats/d1_hitting_stats_${season}.csv`;
+        const csvFileName_hitting = `teams/data/hitting_stats/hitting_stats_${season}.csv`;
         const tableContainer_hitting = document.getElementById("hitting-stats-container");
 
         // Function to display the stats for the selected season
