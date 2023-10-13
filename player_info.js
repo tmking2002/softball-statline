@@ -369,7 +369,7 @@ getSeasons()
             if (season < 2015) {
                 continue;
             }
-            const fetchPromise = fetch (`teams/data/pitching_stats/d1_pitching_stats_${season}.csv`)
+            const fetchPromise = fetch (`teams/data/pitching_stats/pitching_stats_${season}.csv`)
                 .then(response => response.text())
                 .then(csvData => {
                     return parseCSV(csvData, "Pitching");

@@ -1746,18 +1746,18 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/${division}_hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_opp_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
-            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'HR A'];
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'OPP AVG'];
             const rows = [];
         
             for (let i = 1; i < lines.length; i++) {
                 const currentLine = lines[i].split(",");
                 const row = {};
                 for (let j = 0; j < headers.length; j++) {
-                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
+                    if(headers[j] != 'Player' & headers[j] != 'OPP AVG' & headers[j] != 'Rank' & headers[j] != 'Player ID') {
                         continue;
                     }
                     const header = headers[j];
@@ -2236,18 +2236,18 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/${division}_hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_opp_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
-            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'HR A', 'Year'];
+            const headers = ['', 'Team ID', 'Player ID', 'Rank', 'Player', 'OPP AVG', 'Year'];
             const rows = [];
         
             for (let i = 1; i < lines.length; i++) {
                 const currentLine = lines[i].split(",");
                 const row = {};
                 for (let j = 0; j < headers.length; j++) {
-                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
+                    if(headers[j] != 'Player' & headers[j] != 'OPP AVG' & headers[j] != 'Rank' & headers[j] != 'Year' & headers[j] != 'Player ID') {
                         continue;
                     }
                     const header = headers[j];
@@ -2726,18 +2726,18 @@ if (type === "Pitching" & timespan === "Season" & season !== "all_time") {
             tableContainer_3.appendChild(table);
         })
     
-    fetch (`${folder}/${division}_hr_a_leaders.csv`)
+    fetch (`${folder}/${division}_opp_avg_leaders.csv`)
         .then(response => response.text())
         .then(csvData => {
             const lines = csvData.split("\n");
-            const headers = ['', 'Player ID', 'Rank', 'Player', 'HR A', 'Years'];
+            const headers = ['', 'Player ID', 'Rank', 'Player', 'OPP AVG', 'Years'];
             const rows = [];
         
             for (let i = 1; i < lines.length; i++) {
                 const currentLine = lines[i].split(",");
                 const row = {};
                 for (let j = 0; j < headers.length; j++) {
-                    if(headers[j] != 'Player' & headers[j] != 'HR A' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
+                    if(headers[j] != 'Player' & headers[j] != 'OPP AVG' & headers[j] != 'Rank' & headers[j] != 'Years' & headers[j] != 'Player ID') {
                         continue;
                     }
                     const header = headers[j];
