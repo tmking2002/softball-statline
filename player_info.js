@@ -224,41 +224,102 @@ function displayStats_hitting(data) {
                 table_hitting.appendChild(row);
                 
             })
+
             .catch(error => console.error("Error fetching or parsing CSV:", error));
     }
-
-    tableContainer_hitting.appendChild(table_hitting);
 }
 
+function displayTotalStats_Hitting(data) {
 
-getSeasons()
-    .then(seasons => {
-        displayHeaders("Hitting", table_hitting);
-        const fetchPromises = [];
+    const headers = ['', 'Team ID', 'Season', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'R', 'BB', 'HBP', 'SO', 'SB', 'CS', 'AVG', 'OBP', 'OPS'];
 
-        for (let i = 0; i < seasons.length; i++) {
-            const season = seasons[i];
-            const fetchPromise = fetch (`teams/data/hitting_stats/hitting_stats_${season}.csv`)
-                .then(response => response.text())
-                .then(csvData => {
-                    return parseCSV(csvData, "Hitting");
-                });
+    for (const rowData of data) {
 
-            fetchPromises.push(fetchPromise);
+        if (rowData["Player ID"] != playerID) {
+            continue;
         }
 
-        // Wait for all fetch operations to complete
-        return Promise.all(fetchPromises);
-    })
-    .then(parsedDataArray => {
-        for (let i = 0; i < parsedDataArray.length; i++) {
-            const parsedData = parsedDataArray[i];
-            displayStats_hitting(parsedData);
+        const row = document.createElement("tr");
+
+        for (const header of headers) {
+            const td = document.createElement("td");
+
+            if ((header === "HBP" || header === "SB" || header === "CS" || header === "R" || header === "3B" || header === "OBP" || header == "AVG") && isMobile()) {
+                continue;
+            } else if (header === "Season") {
+                const seasonLink = document.createElement("a");
+                /*seasonLink.href = `player_season_info?playerID=${playerID}&season=${rowData[header]}`; Add this later*/ 
+                seasonLink.textContent = rowData[header];
+                td.appendChild(seasonLink);
+            } else if (header == "Player ID" || header === "" || header === "Player"){
+                continue;
+            } else {
+                td.textContent = rowData[header];
+            }
+            row.appendChild(td);
         }
+        table_hitting.appendChild(row);
+
+    }
+    tableContainer_hitting.appendChild(table_hitting);
+
+
+}
+
+function run(){
+    displayData_hitting(displayTotals_hitting);
+}
+
+function displayData_hitting(callback){
+    console.log("data")
+    setTimeout(function(){
+        getSeasons()
+            .then(seasons => {
+                displayHeaders("Hitting", table_hitting);
+                const fetchPromises = [];
+
+                for (let i = 0; i < seasons.length; i++) {
+                    const season = seasons[i];
+                    const fetchPromise = fetch (`teams/data/hitting_stats/hitting_stats_${season}.csv`)
+                        .then(response => response.text())
+                        .then(csvData => {
+                            return parseCSV(csvData, "Hitting");
+                        });
+
+                    fetchPromises.push(fetchPromise);
+                }
+
+                // Wait for all fetch operations to complete
+                return Promise.all(fetchPromises);
+            })
+            .then(parsedDataArray => {
+                for (let i = 0; i < parsedDataArray.length; i++) {
+                    const parsedData = parsedDataArray[i];
+                    displayStats_hitting(parsedData);
+                }
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+        
+        callback();
     })
-    .catch(error => {
-        console.error("Error:", error);
-    });
+}
+
+async function displayTotals_hitting(){
+    await new Promise(resolve => setTimeout(resolve, 500));
+    fetch("teams/data/hitting_stats/total_hitting_stats.csv")
+        .then(response => response.text())
+        .then(csvData => {
+            const totalHittingData = parseCSV(csvData, "Hitting");
+            displayTotalStats_Hitting(totalHittingData);
+        })
+    }
+
+
+run();
+
+
 
 // Pitching
 

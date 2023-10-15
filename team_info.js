@@ -67,6 +67,8 @@ function parseCSV(csvData) {
         rows.push(row);
     }
 
+    rows.sort((a, b) => b["Season"] - a["Season"]);
+
     return rows;
 }
 
@@ -83,6 +85,8 @@ function displayInfo(teamInfo) {
     }
 
     table.appendChild(headerRow);
+
+    teamInfo.sort((a, b) => b["Season"] - a["Season"]);
 
     for (const rowData of teamInfo) {
         fetch("coaches/coach_ids.csv")

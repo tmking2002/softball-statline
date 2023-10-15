@@ -71,7 +71,9 @@ unique_names <- box %>%
   ungroup() %>% 
   filter(str_length(first) > 1,
          str_length(last) > 1,
-         first != "Unknown") %>% 
+         first != "Unknown",
+         !str_detect(first, "[0-9]"),
+         !str_detect(last, "[0-9]")) %>% 
   mutate(player = paste(first, last)) %>% 
   select(player_id, player, teams, seasons, first, last) %>% 
   arrange(player_id)
