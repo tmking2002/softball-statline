@@ -44,7 +44,7 @@ function findPlayer(csvData, teamID) {
             break;
         }
     }
-    
+
     return playerName;
 }
 
@@ -271,7 +271,6 @@ function run(){
 }
 
 function displayData_hitting(callback){
-    console.log("data")
     setTimeout(function(){
         getSeasons()
             .then(seasons => {

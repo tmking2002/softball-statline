@@ -3,28 +3,36 @@ library(tidyverse)
 hitting_box_2015 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2015.RDS"))) %>% select(player, team, season)
 
 hitting_box_2016 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2016.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2016.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2016.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2016.RDS"))) %>% select(player, team, season)
 
 hitting_box_2017 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2017.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2017.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2017.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2017.RDS"))) %>% select(player, team, season)
 
 hitting_box_2018 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2018.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2018.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2018.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2018.RDS"))) %>% select(player, team, season)
 
 hitting_box_2019 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2019.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2019.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2019.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2019.RDS"))) %>% select(player, team, season)
 
 hitting_box_2020 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2020.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2020.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2020.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2020.RDS"))) %>% select(player, team, season)
 
 hitting_box_2021 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2021.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2021.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2021.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2021.RDS"))) %>% select(player, team, season)
 
 hitting_box_2022 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2022.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2022.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2022.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2022.RDS"))) %>% select(player, team, season)
 
 hitting_box_2023 <- distinct(rbind(readRDS("~/Projects/softballR-data/data/d1_hitting_box_scores_2023.RDS"), 
-                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2023.RDS"))) %>% select(player, team, season)
+                                   readRDS("~/Projects/softballR-data/data/d2_hitting_box_scores_2023.RDS"),
+                                   readRDS("~/Projects/softballR-data/data/d3_hitting_box_scores_2023.RDS"))) %>% select(player, team, season)
 
 pitching_box_2015 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2015.RDS") %>% mutate(season = 2015) %>% select(player, team, season)
 pitching_box_2016 <- readRDS("~/Projects/softballR-data/data/d1_pitching_box_scores_2016.RDS") %>% mutate(season = 2016) %>% select(player, team, season)
