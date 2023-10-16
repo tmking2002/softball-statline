@@ -43,7 +43,7 @@
         }
 
         .player-container {
-        width: auto;
+        max-width: 600px;
         padding-left: 100px;
         padding-right: 100px;
         margin: 0 auto; /* Center the player list container */
@@ -161,6 +161,8 @@
                 skipEmptyLines: true,
                 complete: function (results) {
                     playersArray.push(...results.data);
+                    // only display first 100 players
+                    playersArray.splice(100);
                     displayPlayers(playersArray);
                 }
             });

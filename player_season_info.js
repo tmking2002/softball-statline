@@ -24,7 +24,6 @@ function getSeasons() {
                     const seasonDropdown = document.getElementById("seasonDropdown");
 
                     for (const season of seasons) {
-                        console.log(season)
                         const option = document.createElement("a");
                         option.textContent = season;
                         option.onclick = "setSeason({season})";
