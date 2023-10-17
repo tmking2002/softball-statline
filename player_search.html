@@ -161,8 +161,6 @@
                 skipEmptyLines: true,
                 complete: function (results) {
                     playersArray.push(...results.data);
-                    // only display first 100 players
-                    playersArray.splice(100);
                     displayPlayers(playersArray);
                 }
             });
