@@ -94,8 +94,6 @@ function parseCSV(csvData) {
     return rows;
 }
 
-let hasData = false;
-
 function displayInfo(gameInfo) {
     fetch(`teams/data/game_logs/game_logs_${season}.csv`)
     .then(response => response.text())
@@ -132,8 +130,6 @@ function displayInfo(gameInfo) {
                 continue;
             }
 
-            hasData = true;
-
             for (const header of headers) {
                 if (header === "Game ID" || header === "Opponent" || header === "Team") {
                     continue;
@@ -154,11 +150,6 @@ function displayInfo(gameInfo) {
         homeTableContainer.appendChild(homeTable);
         awayTableContainer.appendChild(awayTable);
     })
-
-    if (hasData === false){
-        document.getElementById("away-no-data").style.display = "block";
-        document.getElementById("home-no-data").style.display = "block";
-    }
 
 }
 
