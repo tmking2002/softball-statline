@@ -14,7 +14,8 @@ get_stats <- function(box, season){
     merge(teams, by.x = "team", by.y = "team_name") %>% 
     mutate(season = .env$season) %>% 
     filter(str_length(player) > 1) %>% 
-    merge(players, by = "player") %>% 
+    mutate(lower_player = tolower(player)) %>% 
+    merge(players %>% mutate(lower_player = tolower(player)) %>% select(-player), by = "lower_player") %>% 
     group_by(team_id, season, player, player_id) %>% 
     summarise(across(c(er, ip, ha, bf, bb, hb, so, hr_a), 
                      .fns = \(col) sum(as.numeric(col))),

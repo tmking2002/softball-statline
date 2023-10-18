@@ -7,6 +7,8 @@ library(tidyverse)
 teams <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% select(team_id, division)
 
 hitting_files <- list.files("~/Projects/softball-statline/teams/data/hitting_stats")
+hitting_files <- hitting_files[hitting_files != "total_hitting_stats.csv"]
+
 hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/hitting_stats/", hitting_files))) %>% 
   merge(teams, by = "team_id") %>% 
   filter(division %in% c("D-I", "D-II") & !(division == "D-II" & season == 2015)) %>% 
