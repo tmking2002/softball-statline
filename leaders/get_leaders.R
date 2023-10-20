@@ -11,7 +11,7 @@ hitting_files <- hitting_files[hitting_files != "total_hitting_stats.csv"]
 
 hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/hitting_stats/", hitting_files))) %>% 
   merge(teams, by = "team_id") %>% 
-  filter(division %in% c("D-I", "D-II") & !(division == "D-II" & season == 2015)) %>% 
+  filter(division %in% c("D-I", "D-II", "D-III") & !(division != "D-I" & season == 2015)) %>% 
   mutate(pa = ab + bb + hbp,
          xbh = x2b + x3b + hr,
          tb = 2 * x2b + 3 * x3b + 4 * hr + (h - xbh),
@@ -22,7 +22,8 @@ hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/
          avg = format(round(avg, 3), digits = 3),
          ops = format(round(ops, 3), digits = 3),
          division = case_when(division == "D-I" ~ "d1",
-                              division == "D-II" ~ "d2"))
+                              division == "D-II" ~ "d2",
+                              division == "D-III" ~ "d3"))
 
 save_leaders <- function(season, division) {
   
@@ -86,7 +87,7 @@ save_leaders <- function(season, division) {
 
 for(i in 2015:2023){
   
-  for(j in c("d1", "d2")){
+  for(j in c("d1", "d2", "d3")){
     
     save_leaders(i, j)
     
@@ -158,6 +159,7 @@ save_all_time_leaders <- function(division) {
 
 save_all_time_leaders("d1")
 save_all_time_leaders("d2")
+save_all_time_leaders("d3")
 
 
 ## Career ##
@@ -274,6 +276,7 @@ save_career_leaders <- function(division) {
 
 save_career_leaders("d1")
 save_career_leaders("d2")
+save_career_leaders("d3")
 
 #### Pitching ####
 

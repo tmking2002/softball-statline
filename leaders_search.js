@@ -11,6 +11,8 @@ if (division === "d1") {
     division_text = "Division I";
 } else if (division === "d2") {
     division_text = "Division II";
+} else if (division === "d3") {
+    division_text = "Division III";
 }
 
 let folder;
@@ -25,8 +27,9 @@ categoryDropdown.addEventListener("change", function() {
     divisionDropdown.style.display = "flex";
 
     if (categoryDropdown.value === "Pitching") {
-        // remove the NCAA D2 option
+        // remove the NCAA D2 and D3 options
         divisionDropdown.remove(2);
+        divisionDropdown.remove(3);
     }
 });
 
@@ -37,7 +40,7 @@ divisionDropdown.addEventListener("change", function() {
 timespanDropdown.addEventListener("change", function() {
     if (timespanDropdown.value === "Season") {
         seasonDropdown.style.display = "flex";
-        if (divisionDropdown.value === "d2" && categoryDropdown.value === "Hitting") {
+        if ((divisionDropdown.value === "d2" | divisionDropdown.value == "d3") && categoryDropdown.value === "Hitting") {
             seasonDropdown.remove(2);
         }
     } else {

@@ -306,7 +306,7 @@ function displayData_hitting(callback){
 }
 
 async function displayTotals_hitting(){
-    await new Promise(resolve => setTimeout(resolve, 500));
+    await new Promise(resolve => setTimeout(resolve, 1000));
     fetch("teams/data/hitting_stats/total_hitting_stats.csv")
         .then(response => response.text())
         .then(csvData => {

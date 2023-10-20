@@ -1,6 +1,7 @@
 library(tidyverse)
 
 files <- list.files("~/Projects/softball-statline/teams/data/hitting_stats")
+files <- files[!files == "total_hitting_stats.csv"]
 
 hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/hitting_stats/", files))) %>% 
   mutate(team = "Total",
