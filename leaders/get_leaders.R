@@ -284,11 +284,16 @@ save_career_leaders("d3")
 
 pitching_files <- list.files("~/Projects/softball-statline/teams/data/pitching_stats")
 pitching_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/pitching_stats/", pitching_files))) %>% 
+  merge(teams, by = "team_id") %>% 
+  filter(division %in% c("D-I", "D-II", "D-III") & !(division != "D-I" & season == 2015)) %>% 
   separate(ip, c("innings", "frac"), sep = "\\.") %>% 
   mutate(ip = as.numeric(ifelse(is.na(frac), innings, as.numeric(innings) + as.numeric(frac) * 1/3))) %>% 
   mutate(k_7 = so / ip * 7,
          k_bb = so / (bb + hb),
-         ip = as.numeric(ifelse(is.na(frac), innings, paste(innings, frac, sep = ".")))) %>% 
+         ip = as.numeric(ifelse(is.na(frac), innings, paste(innings, frac, sep = "."))),
+         division = case_when(division == "D-I" ~ "d1",
+                              division == "D-II" ~ "d2",
+                              division == "D-III" ~ "d3")) %>% 
   select(-c(innings, frac))
 
 save_leaders <- function(season, division) {
@@ -360,6 +365,7 @@ save_leaders <- function(season, division) {
 
 for(i in 2015:2023){
   save_leaders(i, "d1")
+  save_leaders(i, "d2")
 }
 
 ## All Time ##
@@ -431,6 +437,7 @@ save_all_time_leaders <- function(division) {
 }
 
 save_all_time_leaders("d1")
+save_all_time_leaders("d2")
 
 
 ## Career ##
@@ -542,6 +549,7 @@ save_career_leaders <- function(division) {
     select(player_id, rank, player, whip, seasons)
   
   fip_leaders <- cur_pitching_stats %>% 
+    filter(season != 2016) %>% 
     mutate(weighted_fip = fip * ip) %>% 
     group_by(player_id, player) %>% 
     separate(ip, c("innings", "frac"), sep = "\\.") %>% 
@@ -571,3 +579,4 @@ save_career_leaders <- function(division) {
 }
 
 save_career_leaders("d1")
+save_career_leaders("d2")

@@ -155,6 +155,7 @@ function displayStats_hitting(data) {
 
     for (const rowData of data) {
 
+
         if (rowData["Player ID"] != playerID) {
             continue;
         }
@@ -162,32 +163,30 @@ function displayStats_hitting(data) {
         /*  Create hitting button */
 
         var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");
-    
-        if (!existingButton) {
-            var buttons = document.querySelectorAll("#stats-buttons .w3-button.tablink");
-            var buttonAlreadyExists = false;
-            
-            buttons.forEach(function(button) {
-                if (button.textContent === "Hitting Stats") {
-                    buttonAlreadyExists = true;
-                }
-            });
-            
-            if (!buttonAlreadyExists) {
-                // Create a new button element
-                var buttonElement = document.createElement("button");
-                buttonElement.className = "w3-bar-item w3-button tablink";
-                buttonElement.textContent = "Hitting Stats";
-                buttonElement.onclick = function() {
-                    openTab('hitting-stats');
-                };
 
-                // Find the container by its ID
-                var container = document.getElementById("stats-buttons");
+        var buttons = document.querySelectorAll("#stats-buttons .w3-button.tablink");
+        var buttonAlreadyExists = false;
+            
+        buttons.forEach(function(button) {
+            if (button.textContent === "Hitting Stats") {
+                buttonAlreadyExists = true;
+            }
+        });
+            
+        if (!buttonAlreadyExists) {
+            // Create a new button element
+            var buttonElement = document.createElement("button");
+            buttonElement.className = "w3-bar-item w3-button tablink";
+            buttonElement.textContent = "Hitting Stats";
+            buttonElement.onclick = function() {
+                openTab('hitting-stats');
+            };
+
+            // Find the container by its ID
+            var container = document.getElementById("stats-buttons");
 
                 // Append the button to the container
-                container.appendChild(buttonElement);
-            }
+            container.appendChild(buttonElement);
         }
 
         const teamID = rowData["Team ID"];
@@ -266,7 +265,7 @@ function displayTotalStats_Hitting(data) {
 
 }
 
-function run(){
+function run_hitting(){
     displayData_hitting(displayTotals_hitting);
 }
 
@@ -316,7 +315,7 @@ async function displayTotals_hitting(){
     }
 
 
-run();
+run_hitting();
 
 
 
@@ -417,36 +416,92 @@ function displayStats_pitching(data) {
 
 }
 
+function displayTotalStats_Pitching(data) {
 
+    const headers = ['', 'Team', 'Player ID', 'Season', 'Player', 'IP', 'H', 'BB', 'HB', 'SO', 'HR', 'ERA', 'OPP AVG', 'WHIP', 'FIP'];
 
-getSeasons()
-    .then(seasons => {
-        displayHeaders("Pitching", table_pitching);
-        const fetchPromises = [];
-        
-        for (let i = 0; i < seasons.length; i++) {
-            const season = seasons[i];
-            if (season < 2015) {
+    for (const rowData of data) {
+
+        if (rowData["Player ID"] != playerID) {
+            continue;
+        }
+
+        const row = document.createElement("tr");
+
+        for (const header of headers) {
+            const td = document.createElement("td");
+
+            if ((header === "HB" || header === "HR" || header === "OPP AVG") && isMobile()) {
                 continue;
+            } else if (header === "Season") {
+                const seasonLink = document.createElement("a");
+                /*seasonLink.href = `player_season_info?playerID=${playerID}&season=${rowData[header]}`; Add this later*/ 
+                seasonLink.textContent = rowData[header];
+                td.appendChild(seasonLink);
+            } else if (header == "Player ID" || header === "" || header === "Player"){
+                continue;
+            } else if(header == "Team"){
+                td.textContent = "Total";
+            } else {
+                td.textContent = rowData[header];
             }
-            const fetchPromise = fetch (`teams/data/pitching_stats/pitching_stats_${season}.csv`)
-                .then(response => response.text())
-                .then(csvData => {
-                    return parseCSV(csvData, "Pitching");
-                });
-
-            fetchPromises.push(fetchPromise);
+            row.appendChild(td);
         }
+        table_pitching.appendChild(row);
 
-        // Wait for all fetch operations to complete
-        return Promise.all(fetchPromises);
+    }
+    tableContainer_pitching.appendChild(table_pitching);
+
+
+}
+
+function run_pitching(){
+    displayData_pitching(displayTotals_pitching);
+}
+
+function displayData_pitching(callback){
+    setTimeout(function(){
+        getSeasons()
+            .then(seasons => {
+                displayHeaders("Pitching", table_pitching);
+                const fetchPromises = [];
+
+                for (let i = 0; i < seasons.length; i++) {
+                    const season = seasons[i];
+                    const fetchPromise = fetch (`teams/data/pitching_stats/pitching_stats_${season}.csv`)
+                        .then(response => response.text())
+                        .then(csvData => {
+                            return parseCSV(csvData, "Pitching");
+                        });
+
+                    fetchPromises.push(fetchPromise);
+                }
+
+                // Wait for all fetch operations to complete
+                return Promise.all(fetchPromises);
+            })
+            .then(parsedDataArray => {
+                for (let i = 0; i < parsedDataArray.length; i++) {
+                    const parsedData = parsedDataArray[i];
+                    displayStats_pitching(parsedData);
+                }
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+        
+        callback();
     })
-    .then(parsedDataArray => {
-        for (let i = 0; i < parsedDataArray.length; i++) {
-            const parsedData = parsedDataArray[i];
-            pitching_data = displayStats_pitching(parsedData);
-        }
-    })
-    .catch(error => {
-        console.error("Error:", error);
-    });
+}
+
+async function displayTotals_pitching(){
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    fetch("teams/data/pitching_stats/total_pitching_stats.csv")
+        .then(response => response.text())
+        .then(csvData => {
+            const totalPitchingData = parseCSV(csvData, "Pitching");
+            displayTotalStats_Pitching(totalPitchingData);
+        })
+    }
+
+run_pitching();

@@ -27,8 +27,8 @@ categoryDropdown.addEventListener("change", function() {
     divisionDropdown.style.display = "flex";
 
     if (categoryDropdown.value === "Pitching") {
-        // remove the NCAA D2 and D3 options
-        divisionDropdown.remove(2);
+        console.log(divisionDropdown)
+        // remove the NCAA D3 option
         divisionDropdown.remove(3);
     }
 });
