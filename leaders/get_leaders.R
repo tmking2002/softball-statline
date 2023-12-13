@@ -283,6 +283,7 @@ save_career_leaders("d3")
 ## Seasons ##
 
 pitching_files <- list.files("~/Projects/softball-statline/teams/data/pitching_stats")
+pitching_files <- pitching_files[!pitching_files == "total_pitching_stats.csv"]
 pitching_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/pitching_stats/", pitching_files))) %>% 
   merge(teams, by = "team_id") %>% 
   filter(division %in% c("D-I", "D-II", "D-III") & !(division != "D-I" & season == 2015)) %>% 
@@ -366,6 +367,7 @@ save_leaders <- function(season, division) {
 for(i in 2015:2023){
   save_leaders(i, "d1")
   save_leaders(i, "d2")
+  save_leaders(i, "d3")
 }
 
 ## All Time ##
@@ -438,7 +440,7 @@ save_all_time_leaders <- function(division) {
 
 save_all_time_leaders("d1")
 save_all_time_leaders("d2")
-
+save_all_time_leaders("d3")
 
 ## Career ##
 
@@ -580,3 +582,4 @@ save_career_leaders <- function(division) {
 
 save_career_leaders("d1")
 save_career_leaders("d2")
+save_career_leaders("d3")
