@@ -1,13 +1,18 @@
 library(tidyverse)
 library(softballR)
 
+all_players <- read_csv("~/Projects/softball-statline/players/data/all_players.csv") %>% 
+  select(player_id, player)
+
 adjust_hitting_box <- function(raw_box){
   
   final_box <- raw_box %>% 
     separate(player, c("last", "first"), ", ") %>% 
-    mutate(player = paste(first, last)) %>% 
-    arrange(desc(ab)) %>% 
-    select(game_id, team, opponent, player, pos, ab, h, x2b, x3b, hr, rbi, bb, hbp, k)
+    mutate(player = paste(first, last),
+           bb = bb + hbp) %>% 
+    merge(all_players, by = "player") %>% 
+    arrange(desc(ab + bb)) %>% 
+    select(game_id, team, opponent, player_id, player, pos, ab, r, h, rbi, hr, k, bb)
   
   return(final_box)
   
@@ -41,8 +46,12 @@ adjust_pitching_box <- function(raw_box){
     select(-c(innings, frac)) %>% 
     separate(player, c("last", "first"), ", ") %>% 
     mutate(player = paste(first, last)) %>% 
+    merge(all_players, by = "player") %>% 
     arrange(desc(ip)) %>% 
-    select(game_id, team, opponent, player, ip, ha, er, bb, hb, so, bf, hr_a, go, fo)
+    mutate(ip = case_when((ip * 3) %% 3 == 0 ~ round(ip),
+                          round(ip * 3) %% 3 == 1 ~ round(ip) + .1,
+                          round(ip * 3) %% 3 == 2 ~ round(ip) + .2)) %>% 
+    select(game_id, team, opponent, player_id, player, ip, ha, er, bb, hb, so, bf, hr_a, go, fo)
   
   return(final_box)
   

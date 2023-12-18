@@ -13,52 +13,49 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <style>
+      @media screen and (max-width: 768px) {
+          .w3-hide-medium,
+          .w3-hide-large {
+              display: block !important;
+          }
+          .w3-bar-item {
+              text-align: center;
+          }
+          .w3-dropdown-content {
+              position: relative !important;
+          }
+      }
 
-        @media screen and (max-width: 768px) {
-            .w3-hide-medium,
-            .w3-hide-large {
-            display: block !important;
-            }
-            .w3-bar-item {
-            text-align: center;
-            }
-            .w3-dropdown-content {
-            position: relative !important;
-           }
-        }   
-
-        #table-container {
-            max-width: 800px; 
-            margin: 0 auto; 
+      #table-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-around;
         }
 
-        table {
-            width: 50%;
-            border-collapse: collapse;
-            margin-left: 25%;
-            
-        }
+      table {
+          width: 100%;
+          border-collapse: collapse;
+      }
 
-        th,
-        td {
-            border: 1px solid #ccc;
-            padding: 4px;
-            text-align: center;
-        }
+      th, td {
+          border: 1px solid #ccc;
+          padding: 4px;
+          text-align: center;
+      }
 
-        th {
-            background-color: #f2f2f2;
-        }
+      th {
+          background-color: #f2f2f2;
+      }
 
-        th:nth-child(1),
-        td:nth-child(1) {
-            width: 25%;
-        }
+      hr {
+          clear: both;
+      }
 
-        th:nth-child(2),
-        td:nth-child(2) {
-            width: 15%;
-        }
+      td:first-child {
+          text-align: left;
+          width: 50%;
+      }
     </style>
 
     <!-- Google tag (gtag.js) -->
@@ -106,17 +103,44 @@
 </header>
 
   <h1 style="text-align: center;"></h1>
+  <h3 style="text-align: center;"></h3>
   <hr>
 
-  <h2 id="away-team" style="text-align: center;"></h2>
-  <div id="away-table-container">
-    <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
+  <br>
+  <div id="table-container">
+      
+    <!-- Home Table -->
+      <div class="table">
+        <div id="home-hitting-table-container" style="padding-bottom: 100px;"></div>
+      </div>
+
+      <!-- Away Table -->
+      <div class="table">
+          <div id="away-hitting-table-container">
+              <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
+          </div>
+      </div>
+
   </div>
+
   <hr>
 
-  <h2 id="home-team" style="text-align: center;"></h2>
-  <div id="home-table-container" style="padding-bottom: 100px;">
-  </div>
+  <br>
+    <div id="table-container">
+        
+      <!-- Home Table -->
+        <div class="table">
+          <div id="home-pitching-table-container" style="padding-bottom: 100px;"></div>
+        </div>
+  
+        <!-- Away Table -->
+        <div class="table">
+            <div id="away-pitching-table-container">
+                <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
+            </div>
+        </div>
+  
+    </div>
 
   <script src="papaparse.min.js"></script>
   <script src="game_info.js"></script>
