@@ -90,9 +90,9 @@ fetch(`teams/data/game_logs/game_logs_${season}.csv`)
                         const heading = document.querySelector('h1');
                         heading.style.whiteSpace = 'pre';
                         if (gameInfo[3] > gameInfo[2]) {
-                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img><b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a></b>\t<b>${gameInfo[3]}</b>\t\t\t${gameInfo[2]}\t<img src=${row['Home Logo']} width="50px"></img><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a>`;
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a></b>\t<b>${gameInfo[3]}</b>\t\t${gameInfo[2]}\t<a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a>\t<img src=${row['Home Logo']} width="50px"></img>`;
                         } else if (gameInfo[2] > gameInfo[3]) {
-                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a>\t${gameInfo[3]}\t\t\t<b>${gameInfo[2]}</b>\t<img src=${row['Home Logo']} width="50px"></img><b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a></b>`;
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a>\t${gameInfo[3]}\t\t<b>${gameInfo[2]}</b>\t<b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a></b>\t<img src=${row['Home Logo']} width="50px"></img>`;
                         }
                     }
                 }
@@ -137,32 +137,41 @@ function parseCSV(csvData, type) {
 
 function displayHitting(gameInfo) {
     fetch(`teams/data/game_logs/game_logs_${season}.csv`)
-    .then(response => response.text())
-    .then(csvData => {
-        const teamInfo = findGameInfo(csvData, gameID);
+        .then(response => response.text())
+        .then(csvData => {
+            const teamInfo = findGameInfo(csvData, gameID);
 
-        const homeTable = document.createElement("table");
-        const awayTable = document.createElement("table");
-        const headers = Object.keys(gameInfo[0]);
+            const homeTable = document.createElement("table");
+            const awayTable = document.createElement("table");
+            const headers = Object.keys(gameInfo[0]);
 
-        const homeHeaderRow = document.createElement("tr");
-        const awayHeaderRow = document.createElement("tr");
+            const homeHeaderRow = document.createElement("tr");
+            const awayHeaderRow = document.createElement("tr");
 
-        for (const header of headers) {
-            if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos') {
-                continue;
-            } 
-            const thHome = document.createElement("th");
-            thHome.textContent = header;
-            homeHeaderRow.appendChild(thHome);
+            // Set the team name as the label for the first column
+            const homeFirstColumnHeader = document.createElement("th");
+            homeFirstColumnHeader.textContent = teamInfo[1];
+            homeHeaderRow.appendChild(homeFirstColumnHeader);
 
-            const thAway = document.createElement("th");
-            thAway.textContent = header;
-            awayHeaderRow.appendChild(thAway);
-        }
+            const awayFirstColumnHeader = document.createElement("th");
+            awayFirstColumnHeader.textContent = teamInfo[0];
+            awayHeaderRow.appendChild(awayFirstColumnHeader);
 
-        homeTable.appendChild(homeHeaderRow);
-        awayTable.appendChild(awayHeaderRow);
+            for (const header of headers) {
+                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos' || header === 'Player') {
+                    continue;
+                }
+                const thHome = document.createElement("th");
+                thHome.textContent = header;
+                homeHeaderRow.appendChild(thHome);
+
+                const thAway = document.createElement("th");
+                thAway.textContent = header;
+                awayHeaderRow.appendChild(thAway);
+            }
+
+            homeTable.appendChild(homeHeaderRow);
+            awayTable.appendChild(awayHeaderRow);
 
         for (const playerData of gameInfo) {
             const row = document.createElement("tr");
@@ -226,32 +235,41 @@ function displayHitting(gameInfo) {
 
 function displayPitching(gameInfo) {
     fetch(`teams/data/game_logs/game_logs_${season}.csv`)
-    .then(response => response.text())
-    .then(csvData => {
-        const teamInfo = findGameInfo(csvData, gameID);
+        .then(response => response.text())
+        .then(csvData => {
+            const teamInfo = findGameInfo(csvData, gameID);
 
-        const homeTable = document.createElement("table");
-        const awayTable = document.createElement("table");
-        const headers = Object.keys(gameInfo[0]);
+            const homeTable = document.createElement("table");
+            const awayTable = document.createElement("table");
+            const headers = Object.keys(gameInfo[0]);
 
-        const homeHeaderRow = document.createElement("tr");
-        const awayHeaderRow = document.createElement("tr");
+            const homeHeaderRow = document.createElement("tr");
+            const awayHeaderRow = document.createElement("tr");
 
-        for (const header of headers) {
-            if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO') {
-                continue;
-            } 
-            const thHome = document.createElement("th");
-            thHome.textContent = header;
-            homeHeaderRow.appendChild(thHome);
+            // Set the team name as the label for the first column
+            const homeFirstColumnHeader = document.createElement("th");
+            homeFirstColumnHeader.textContent = teamInfo[1];
+            homeHeaderRow.appendChild(homeFirstColumnHeader);
 
-            const thAway = document.createElement("th");
-            thAway.textContent = header;
-            awayHeaderRow.appendChild(thAway);
-        }
+            const awayFirstColumnHeader = document.createElement("th");
+            awayFirstColumnHeader.textContent = teamInfo[0];
+            awayHeaderRow.appendChild(awayFirstColumnHeader);
 
-        homeTable.appendChild(homeHeaderRow);
-        awayTable.appendChild(awayHeaderRow);
+            for (const header of headers) {
+                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO' || header === 'Player') {
+                    continue;
+                }
+                const thHome = document.createElement("th");
+                thHome.textContent = header;
+                homeHeaderRow.appendChild(thHome);
+
+                const thAway = document.createElement("th");
+                thAway.textContent = header;
+                awayHeaderRow.appendChild(thAway);
+            }
+
+            homeTable.appendChild(homeHeaderRow);
+            awayTable.appendChild(awayHeaderRow);
 
         for (const playerData of gameInfo) {
             const row = document.createElement("tr");
