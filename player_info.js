@@ -159,7 +159,7 @@ function displayStats_hitting(data) {
         if (rowData["Player ID"] != playerID) {
             continue;
         }
-
+        
         /*  Create hitting button */
 
         var existingButton = document.querySelector("#stats-buttons .w3-bar-item.w3-button.tablink");

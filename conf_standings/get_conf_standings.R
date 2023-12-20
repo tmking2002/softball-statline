@@ -2,6 +2,9 @@ cur_season <- 2023
 
 info <- try(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")), silent = TRUE)
 
+team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+  select(team_name, team_id)
+
 conferences <- info %>%
   filter(season == cur_season & division == "D-I") %>%
   distinct(team_name, conference)
@@ -19,6 +22,31 @@ conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdatavers
   drop_na(home_conference, away_conference) %>%
   filter(home_conference == away_conference &
            anytime::anydate(game_date) < "2023-05-10")
+
+total_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
+  drop_na(home_team, away_team) %>%
+  mutate(home_team = str_replace(home_team, "&amp;", "&"),
+         away_team = str_replace(away_team, "&amp;", "&"),
+         home_team = str_replace(home_team, "&#39;", "'"),
+         away_team = str_replace(away_team, "&#39;", "'")) 
+
+team1_scoreboard <- total_scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+team2_scoreboard <- total_scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+
+total_records <- rbind(team1_scoreboard, team2_scoreboard) %>%
+  mutate(result = case_when(runs > opponent_runs ~ "W",
+                            runs < opponent_runs ~ "L",
+                            runs == opponent_runs ~ "T")) %>%
+  drop_na(team_name, runs, opponent_runs) %>% 
+  group_by(team_name) %>%
+  summarise(W = sum(result == "W"),
+            L = sum(result == "L"),
+            T = sum(result == "T"),
+            win_perc = (W + T / 2) / (W + L + T),
+            record = paste(W, L, T, sep = "-")) %>%
+  merge(team_ids, by = "team_name") %>% 
+  arrange(desc(win_perc)) %>% 
+  select(team_name, win_perc, record)
 
 create_standings <- function(conference){
 
@@ -39,19 +67,19 @@ create_standings <- function(conference){
     summarise(W = sum(result == "W"),
               L = sum(result == "L"),
               T = sum(result == "T"),
-              win_perc = (W + T / 2) / (W + L + T),
-              record = paste(W, L, T, sep = "-")) %>%
+              conf_win_perc = (W + T / 2) / (W + L + T),
+              conf_record = paste(W, L, T, sep = "-")) %>%
     merge(team_ids, by = "team_name") %>% 
-    arrange(desc(win_perc)) %>%
-    select(team_name, record, team_id) %>% 
-    `names<-`(c("Team", "Record", "Team ID"))
+    merge(total_records, by = "team_name") %>% 
+    arrange(-conf_win_perc, -win_perc) %>%
+    select(team_name, conf_record, record, team_id) %>% 
+    `names<-`(c("Team", "Conf", "Total", "Team ID"))
+  
+  scoreboard <- total_scoreboard
 
   return(standings)
 
 }
-
-team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
-  select(team_name, team_id)
 
 for(i in 1:length(unique(conf_scoreboard$home_conference))){
 

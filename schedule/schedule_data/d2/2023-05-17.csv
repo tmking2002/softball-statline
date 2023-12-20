@@ -1,2 +1,3 @@
-"","home_team_logo","home_team_id","home_team","home_team_runs","away_team_logo","away_team_id","away_team","away_team_runs","game_id","season","game_date"
-"1","http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/19117.gif",19117,"Salem (WV)",2,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/431.gif",431,"MUW",8,"2433482",2023,"05/17/2023"
+"","away_team","away_team_id","away_team_logo","away_team_runs","home_team","home_team_id","home_team_logo","home_team_runs","game_date","game_id","status"
+"1","MUW",431,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/431.gif",14,"D'Youville",1059,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1059.gif",10,"05/17/2023","2435543","Final"
+"2","MUW",431,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/431.gif",8,"Salem (WV)",19117,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/19117.gif",2,"05/17/2023","2433482","Final"

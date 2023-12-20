@@ -31,12 +31,13 @@ function findGameInfo(csvData, gameID) {
 
             let awayTeam, homeTeam, awayRuns, homeRuns, gameDate;
 
-            if(currentLine[homeIndicatorIndex] === "@") {
+            if(currentLine[homeIndicatorIndex] === '"@"') {
                 awayTeam = currentLine[teamColumnIndex].slice(1, -1);
                 homeTeam = currentLine[opponentColumnIndex].slice(1, -1);
                 awayRuns = currentLine[teamRuns];
                 homeRuns = currentLine[opponentRuns];
                 gameDate = currentLine[gameDateColumnIndex].slice(1, -1);
+
             } else{
                 awayTeam = currentLine[opponentColumnIndex].slice(1, -1);
                 homeTeam = currentLine[teamColumnIndex].slice(1, -1);
@@ -70,7 +71,7 @@ fetch(`teams/data/game_logs/game_logs_${season}.csv`)
             .then(response => response.text())
             .then(csvData => {
                 const lines = csvData.split("\n");
-                const headers = ['', 'Home Logo', 'Home ID', 'Home Name', 'Home Runs', 'Away Logo', 'Away ID', 'Away Name', 'Away Runs', 'Game ID', 'Season', 'Game Date'];
+                const headers = ['', 'Away Name', 'Away ID', 'Away Logo', 'Away Runs', 'Home Name', 'Home ID', 'Home Logo', 'Home Runs', 'Game Date', 'Game ID', 'Status'];
                 const rows = [];
                 for (let i = 1; i < lines.length; i++) {
                     const currentLine = lines[i].split(",");
@@ -89,10 +90,76 @@ fetch(`teams/data/game_logs/game_logs_${season}.csv`)
                     if (row["Game ID"] === gameID) {
                         const heading = document.querySelector('h1');
                         heading.style.whiteSpace = 'pre';
-                        if (gameInfo[3] > gameInfo[2]) {
-                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a></b>\t<b>${gameInfo[3]}</b>\t\t${gameInfo[2]}\t<a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a>\t<img src=${row['Home Logo']} width="50px"></img>`;
-                        } else if (gameInfo[2] > gameInfo[3]) {
-                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[1]}</a>\t${gameInfo[3]}\t\t<b>${gameInfo[2]}</b>\t<b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[0]}</a></b>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        if (gameInfo[2] > gameInfo[3]) {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a></b>\t<b>${gameInfo[2]}</b>\t\t${gameInfo[3]}\t<a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        } else {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a>\t${gameInfo[2]}\t\t<b>${gameInfo[3]}</b>\t<b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a></b>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        }
+                    }
+                }
+            }
+            )
+            .catch(error => console.error("Error fetching or parsing CSV:", error));
+            fetch(`schedule/schedule_data/d2/${date_fmtd}.csv`)
+            .then(response => response.text())
+            .then(csvData => {
+                const lines = csvData.split("\n");
+                const headers = ['', 'Away Name', 'Away ID', 'Away Logo', 'Away Runs', 'Home Name', 'Home ID', 'Home Logo', 'Home Runs', 'Game Date', 'Game ID', 'Status'];
+                const rows = [];
+                for (let i = 1; i < lines.length; i++) {
+                    const currentLine = lines[i].split(",");
+                    const row = {};
+                    for (let j = 1; j < headers.length; j++) {
+                        const header = headers[j];
+                        let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+
+                        // Remove quotes around the value if present
+                        if (value.startsWith('"') && value.endsWith('"')) {
+                            value = value.slice(1, -1);
+                        }
+
+                        row[header] = value;
+                    }
+                    if (row["Game ID"] === gameID) {
+                        const heading = document.querySelector('h1');
+                        heading.style.whiteSpace = 'pre';
+                        if (gameInfo[2] > gameInfo[3]) {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a></b>\t<b>${gameInfo[2]}</b>\t\t${gameInfo[3]}\t<a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        } else {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a>\t${gameInfo[2]}\t\t<b>${gameInfo[3]}</b>\t<b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a></b>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        }
+                    }
+                }
+            }
+            )
+            .catch(error => console.error("Error fetching or parsing CSV:", error));
+            fetch(`schedule/schedule_data/d3/${date_fmtd}.csv`)
+            .then(response => response.text())
+            .then(csvData => {
+                const lines = csvData.split("\n");
+                const headers = ['', 'Away Name', 'Away ID', 'Away Logo', 'Away Runs', 'Home Name', 'Home ID', 'Home Logo', 'Home Runs', 'Game Date', 'Game ID', 'Status'];
+                const rows = [];
+                for (let i = 1; i < lines.length; i++) {
+                    const currentLine = lines[i].split(",");
+                    const row = {};
+                    for (let j = 1; j < headers.length; j++) {
+                        const header = headers[j];
+                        let value = currentLine[j] ? currentLine[j].trim() : ''; // Handle empty or missing values
+
+                        // Remove quotes around the value if present
+                        if (value.startsWith('"') && value.endsWith('"')) {
+                            value = value.slice(1, -1);
+                        }
+
+                        row[header] = value;
+                    }
+                    if (row["Game ID"] === gameID) {
+                        const heading = document.querySelector('h1');
+                        heading.style.whiteSpace = 'pre';
+                        if (gameInfo[2] > gameInfo[3]) {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<b><a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a></b>\t<b>${gameInfo[2]}</b>\t\t${gameInfo[3]}\t<a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a>\t<img src=${row['Home Logo']} width="50px"></img>`;
+                        } else {
+                            heading.innerHTML = `<img src=${row['Away Logo']} width="50px"></img>\t<a href='team_info?teamID=${row["Away ID"]}'>${gameInfo[0]}</a>\t${gameInfo[2]}\t\t<b>${gameInfo[3]}</b>\t<b><a href='team_info?teamID=${row["Home ID"]}'>${gameInfo[1]}</a></b>\t<img src=${row['Home Logo']} width="50px"></img>`;
                         }
                     }
                 }

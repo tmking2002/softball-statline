@@ -366,8 +366,8 @@
                         for (let i = 1; i < rows.length - 1; i++) {
                             const rowData = rows[i].split(',').slice(1,);
 
-                            const awayScore = parseInt(rowData[7]);
-                            const homeScore = parseInt(rowData[3]);
+                            const awayScore = parseInt(rowData[3]);
+                            const homeScore = parseInt(rowData[7]);
 
                             const gameContainer = document.createElement('div'); // Use div for the container
                             gameContainer.classList.add('game-container'); // Add the appropriate CSS class
@@ -378,7 +378,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4].slice(1, -1);
+                            awayLogo.src = rowData[2].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -386,12 +386,12 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayName.textContent = rowData[0].slice(1, -1);
+                            awayName.href = `team_info?teamID=${rowData[1]}`
                             awayNameContainer.appendChild(awayName);
 
                             const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[7];
+                            awayRuns.textContent = rowData[3];
 
                             const homeRow = document.createElement('tr'); // Use div for the rows
                             homeRow.classList.add('team-row'); // Add the appropriate CSS class
@@ -399,7 +399,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0].slice(1, -1);
+                            homeLogo.src = rowData[6].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -407,12 +407,12 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeName.textContent = rowData[4].slice(1, -1);
+                            homeName.href = `team_info?teamID=${rowData[5]}`
                             homeNameContainer.appendChild(homeName);
 
                             const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[3];
+                            homeRuns.textContent = rowData[7];
                             
 
                             if (awayScore > homeScore) {
@@ -516,8 +516,8 @@
                         for (let i = 1; i < rows.length - 1; i++) {
                             const rowData = rows[i].split(',').slice(1,);
 
-                            const awayScore = parseInt(rowData[7]);
-                            const homeScore = parseInt(rowData[3]);
+                            const awayScore = parseInt(rowData[3]);
+                            const homeScore = parseInt(rowData[7]);
 
                             const gameContainer = document.createElement('div'); // Use div for the container
                             gameContainer.classList.add('game-container'); // Add the appropriate CSS class
@@ -528,7 +528,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4].slice(1, -1);
+                            awayLogo.src = rowData[2].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -536,12 +536,12 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayName.textContent = rowData[0].slice(1, -1);
+                            awayName.href = `team_info?teamID=${rowData[1]}`
                             awayNameContainer.appendChild(awayName);
 
                             const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[7];
+                            awayRuns.textContent = rowData[3];
 
                             const homeRow = document.createElement('tr'); // Use div for the rows
                             homeRow.classList.add('team-row'); // Add the appropriate CSS class
@@ -549,7 +549,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0].slice(1, -1);
+                            homeLogo.src = rowData[6].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -557,12 +557,12 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeName.textContent = rowData[4].slice(1, -1);
+                            homeName.href = `team_info?teamID=${rowData[5]}`
                             homeNameContainer.appendChild(homeName);
 
                             const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[3];
+                            homeRuns.textContent = rowData[7];
                             
 
                             if (awayScore > homeScore) {
@@ -666,8 +666,8 @@
                         for (let i = 1; i < rows.length - 1; i++) {
                             const rowData = rows[i].split(',').slice(1,);
 
-                            const awayScore = parseInt(rowData[7]);
-                            const homeScore = parseInt(rowData[3]);
+                            const awayScore = parseInt(rowData[3]);
+                            const homeScore = parseInt(rowData[7]);
 
                             const gameContainer = document.createElement('div'); // Use div for the container
                             gameContainer.classList.add('game-container'); // Add the appropriate CSS class
@@ -678,7 +678,7 @@
                             const awayLogoContainer = document.createElement('td');
                             awayLogoContainer.classList.add('logo-container');
                             const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[4].slice(1, -1);
+                            awayLogo.src = rowData[2].slice(1, -1);
                             awayLogo.width = 25;
                             awayLogo.height = 25;
                             awayLogoContainer.appendChild(awayLogo);
@@ -686,12 +686,12 @@
                             const awayNameContainer = document.createElement('td');
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
-                            awayName.textContent = rowData[6].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[5]}`
+                            awayName.textContent = rowData[0].slice(1, -1);
+                            awayName.href = `team_info?teamID=${rowData[1]}`
                             awayNameContainer.appendChild(awayName);
 
                             const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[7];
+                            awayRuns.textContent = rowData[3];
 
                             const homeRow = document.createElement('tr'); // Use div for the rows
                             homeRow.classList.add('team-row'); // Add the appropriate CSS class
@@ -699,7 +699,7 @@
                             const homeLogoContainer = document.createElement('td');
                             homeLogoContainer.classList.add('logo-container');
                             const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[0].slice(1, -1);
+                            homeLogo.src = rowData[6].slice(1, -1);
                             homeLogo.width = 25;
                             homeLogo.height = 25;
                             homeLogoContainer.appendChild(homeLogo);
@@ -707,12 +707,12 @@
                             const homeNameContainer = document.createElement('td');
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
-                            homeName.textContent = rowData[2].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[1]}`
+                            homeName.textContent = rowData[4].slice(1, -1);
+                            homeName.href = `team_info?teamID=${rowData[5]}`
                             homeNameContainer.appendChild(homeName);
 
                             const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[3];
+                            homeRuns.textContent = rowData[7];
                             
 
                             if (awayScore > homeScore) {
@@ -819,9 +819,9 @@
                             
                             rowData.forEach((cellData, index) => {
                             const cell = document.createElement(index === 0 ? 'th' : 'td');
-                            let teamID = rows[i].split(',')[2];
+                            let teamID = rows[i].split(',')[3];
                             
-                            if(index !== 2){
+                            if(index !== 3){
                                 if (index === 0) {
                                     const teamLink = document.createElement('a');
                                     teamLink.href = `team_info?teamID=${teamID}`;

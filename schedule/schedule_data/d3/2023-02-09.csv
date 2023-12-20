@@ -1,2 +1,2 @@
-"","home_team_logo","home_team_id","home_team","home_team_runs","away_team_logo","away_team_id","away_team","away_team_runs","game_id","season","game_date"
-"1","http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/134.gif",134,"Chapman",1,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2751.gif",2751,"Pacific (OR)",0,"2427808",2023,"02/09/2023"
+"","away_team","away_team_id","away_team_logo","away_team_runs","home_team","home_team_id","home_team_logo","home_team_runs","game_date","game_id","status"
+"1","Pacific (OR)",2751,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2751.gif",0,"Chapman",134,"http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/134.gif",1,"02/09/2023","2427808","Final"
