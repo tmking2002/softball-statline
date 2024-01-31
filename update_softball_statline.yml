@@ -1,0 +1,48 @@
+name: update_softball_statline
+
+on:
+  schedule:
+    - cron:  '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-scoreboard-db:
+    runs-on: macOS-latest
+    env: 
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v2
+      - name: Get Players
+        run: Rscript players/get_players.R
+      - name: Get Box
+        run: Rscript teams/get_box.R
+      - name: Get Hitting Stats
+        run: Rscript teams/get_hitting_stats.R
+      - name: Get Pitching Stats
+        run: Rscript teams/get_pitching_stats.R
+      - name: Get Players
+        run: Rscript players/get_players.R
+      - name: Get Total Hitting Stats
+        run: Rscript teams/get_total_hitting_stats.R
+      - name: Get Total Pitching Stats
+        run: Rscript teams/get_total_pitching_stats.R
+      - name: Get RPI leaders
+        run: Rscript rpi_rankings/get_rpi_leaders.R
+      - name: Get Schedule
+        run: Rscript schedule/get_schedule.R
+      - name: Get Coaching History
+        run: Rscript coaches/get_coaching_history.R
+      - name: Get Conf Standings
+        run: Rscript conf_standings/get_conf_standings.R
+      - Get teams
+        run: Rscript teams/get_teams.R
+      - name: Get Game Logs
+        run: Rscript teams/get_game_logs.R
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update Website" -a || echo "No changes to commit."
+          git push origin main || "No changes to commit."
