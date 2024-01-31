@@ -1,9 +1,11 @@
+install.packages("tidyverse")
+
 library(tidyverse)
 
-files <- list.files("~/Projects/softball-statline/teams/data/pitching_stats")
+files <- list.files("teams/data/pitching_stats")
 files <- files[!files == "total_pitching_stats.csv"]
 
-pitching_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/pitching_stats/", files))) %>% 
+pitching_stats <- rbind(read_csv(paste0("teams/data/pitching_stats/", files))) %>% 
   mutate(team = "Total",
          season = "") %>% 
   separate(ip, c("innings", "frac"), sep = "\\.") %>% 
@@ -24,4 +26,4 @@ pitching_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data
          across(.cols = c(era, opp_avg, whip, fip), 
                 .fns = \(col) as.numeric(format(round(col, 3), digits = 3))))
 
-write.csv(pitching_stats, "~/Projects/softball-statline/teams/data/pitching_stats/total_pitching_stats.csv")
+write.csv(pitching_stats, "teams/data/pitching_stats/total_pitching_stats.csv")

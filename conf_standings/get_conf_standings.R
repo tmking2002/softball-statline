@@ -1,8 +1,12 @@
-cur_season <- 2023
+install.packages("tidyverse")
+
+library(tidyverse)
+
+cur_season <- 2024
 
 info <- try(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")), silent = TRUE)
 
-team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
 conferences <- info %>%
@@ -87,7 +91,7 @@ for(i in 1:length(unique(conf_scoreboard$home_conference))){
 
   standings <- create_standings(conf)
 
-  write_csv(standings, file = paste0("~/Projects/softball-statline/conf_standings/",conf,".csv"))
+  write_csv(standings, file = paste0("conf_standings/",conf,".csv"))
 
   print(i)
 

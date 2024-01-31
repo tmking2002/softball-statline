@@ -1,6 +1,8 @@
+install.packages("tidyverse")
+
 library(tidyverse)
 
-cur_season <- 2023
+cur_season <- 2024
 
 get_current_rpi <- function(scoreboard){
 
@@ -48,7 +50,7 @@ get_current_rpi <- function(scoreboard){
   return(rpi)
 }
 
-team_ids <- read_csv("~/Projects/softball-statline/teams/data/all_teams.csv") %>% 
+team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
 d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")))
@@ -59,7 +61,7 @@ d1_rpi <- get_current_rpi(d1_scoreboard) %>%
   `names<-`(c("Rank", "Team", "Record", "Team ID")) %>% 
   arrange(Rank)
 
-write_csv(d1_rpi, "~/Projects/softball-statline/rpi_rankings/d1_rpi.csv")
+write_csv(d1_rpi, "rpi_rankings/d1_rpi.csv")
 
 d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS")))
 
@@ -70,7 +72,7 @@ d2_rpi <- get_current_rpi(d2_scoreboard) %>%
   arrange(Rank)
 
 
-write_csv(d2_rpi, "~/Projects/softball-statline/rpi_rankings/d2_rpi.csv")
+write_csv(d2_rpi, "rpi_rankings/d2_rpi.csv")
 
 d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_{cur_season}.RDS")))
 
@@ -81,4 +83,4 @@ d3_rpi <- get_current_rpi(d3_scoreboard) %>%
   arrange(Rank)
 
 
-write_csv(d3_rpi, "~/Projects/softball-statline/rpi_rankings/d3_rpi.csv")
+write_csv(d3_rpi, "rpi_rankings/d3_rpi.csv")

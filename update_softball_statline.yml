@@ -31,14 +31,14 @@ jobs:
         run: Rscript rpi_rankings/get_rpi_leaders.R
       - name: Get Schedule
         run: Rscript schedule/get_schedule.R
-      - name: Get Coaching History
-        run: Rscript coaches/get_coaching_history.R
       - name: Get Conf Standings
         run: Rscript conf_standings/get_conf_standings.R
       - Get teams
         run: Rscript teams/get_teams.R
       - name: Get Game Logs
         run: Rscript teams/get_game_logs.R
+      - name: Get leaders
+        run: Rscript leaders/get_leaders.R
       - name: commit files
         run: |
           git config --local user.email "action@github.com"

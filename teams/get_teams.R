@@ -1,4 +1,8 @@
-teams <- readRDS("~/Projects/softballR-data/data/ncaa_team_info.RDS") %>% 
+install.packages("tidyverse")
+
+library(tidyverse)
+
+teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")) %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80)
 
@@ -13,7 +17,7 @@ unique_teams <- teams %>%
   distinct(team_name, team_id, division) %>% 
   arrange(division, team_name)
 
-write.csv(unique_teams, "~/Projects/softball-statline/teams/data/all_teams.csv")
+write.csv(unique_teams, "teams/data/all_teams.csv")
 
 for(i in unique(unique_teams$team_id)){
   
@@ -23,6 +27,6 @@ for(i in unique(unique_teams$team_id)){
            win_perc = format(round(wins / (wins + losses), 3), nsmall = 3)) %>% 
     select(season, head_coach, conference, record, win_perc)
   
-  write.csv(team_info, paste0("~/Projects/softball-statline/teams/data/team_info/team_", i, ".csv"))
+  write.csv(team_info, paste0("teams/data/team_info/team_", i, ".csv"))
   
 }

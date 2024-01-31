@@ -1,6 +1,8 @@
+install.packages("tidyverse")
+
 library(tidyverse)
 
-teams <- readRDS("~/Projects/softballR-data/data/ncaa_team_info.RDS") %>% 
+teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS"), "rb") %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80 & head_coach != "")
 
@@ -70,8 +72,8 @@ coaching_history <- total_history %>%
   select(season, team_name, division, conference, record, win_perc, team_id, coach_id) %>% 
   arrange(desc(season))
 
-write.csv(unique_coaches, "~/Projects/softball-statline/coaches/coach_ids.csv")
-write.csv(coaching_history, "~/Projects/softball-statline/coaches/coach_history.csv")
+write.csv(unique_coaches, "coaches/coach_ids.csv")
+write.csv(coaching_history, "coaches/coach_history.csv")
 
 coach_stats <- total_history %>% 
   group_by(head_coach) %>% 

@@ -1,13 +1,17 @@
+install.packages("tidyverse")
+
+library(tidyverse)
+
 get_game_log <- function(season) {
   
-  team_ids <- readRDS("~/Projects/softballR-data/data/ncaa_team_info.RDS") %>% 
+  team_ids <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")) %>% 
     filter(season == .env$season) %>% 
     select(team_name, team_id) %>% 
     distinct()
   
-  raw_scoreboard <- rbind(readRDS(paste0("~/Projects/softballR-data/data/ncaa_scoreboard_", season, ".RDS")),
-                          readRDS(paste0("~/Projects/softballR-data/data/ncaa_scoreboard_D2_", season, ".RDS")),
-                          readRDS(paste0("~/Projects/softballR-data/data/ncaa_scoreboard_D3_", season, ".RDS"))) %>% 
+  raw_scoreboard <- rbind(readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_", season, ".RDS"))),
+                          readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_", season, ".RDS"))),
+                          readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_", season, ".RDS")))) %>% 
     drop_na(home_team_runs, away_team_runs, home_team, away_team) %>% 
     mutate(
       home_team = gsub("&amp;", "&", home_team),
@@ -53,6 +57,7 @@ get_game_log <- function(season) {
     
 }
 
+scoreboard_2024 <- get_game_log(2024)
 scoreboard_2023 <- get_game_log(2023)
 scoreboard_2022 <- get_game_log(2022)
 scoreboard_2021 <- get_game_log(2021)
@@ -66,15 +71,16 @@ scoreboard_2014 <- get_game_log(2014)
 scoreboard_2013 <- get_game_log(2013)
 scoreboard_2012 <- get_game_log(2012)
 
-write.csv(scoreboard_2023, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2023.csv")
-write.csv(scoreboard_2022, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2022.csv")
-write.csv(scoreboard_2021, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2021.csv")
-write.csv(scoreboard_2020, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2020.csv")
-write.csv(scoreboard_2019, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2019.csv")
-write.csv(scoreboard_2018, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2018.csv")
-write.csv(scoreboard_2017, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2017.csv")
-write.csv(scoreboard_2016, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2016.csv")
-write.csv(scoreboard_2015, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2015.csv")
-write.csv(scoreboard_2014, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2014.csv")
-write.csv(scoreboard_2013, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2013.csv")
-write.csv(scoreboard_2012, "~/Projects/softball-statline/teams/data/game_logs/game_logs_2012.csv")
+write.csv(scoreboard_2024, "teams/data/game_logs/game_logs_2024.csv")
+write.csv(scoreboard_2023, "teams/data/game_logs/game_logs_2023.csv")
+write.csv(scoreboard_2022, "teams/data/game_logs/game_logs_2022.csv")
+write.csv(scoreboard_2021, "teams/data/game_logs/game_logs_2021.csv")
+write.csv(scoreboard_2020, "teams/data/game_logs/game_logs_2020.csv")
+write.csv(scoreboard_2019, "teams/data/game_logs/game_logs_2019.csv")
+write.csv(scoreboard_2018, "teams/data/game_logs/game_logs_2018.csv")
+write.csv(scoreboard_2017, "teams/data/game_logs/game_logs_2017.csv")
+write.csv(scoreboard_2016, "teams/data/game_logs/game_logs_2016.csv")
+write.csv(scoreboard_2015, "teams/data/game_logs/game_logs_2015.csv")
+write.csv(scoreboard_2014, "teams/data/game_logs/game_logs_2014.csv")
+write.csv(scoreboard_2013, "teams/data/game_logs/game_logs_2013.csv")
+write.csv(scoreboard_2012, "teams/data/game_logs/game_logs_2012.csv")

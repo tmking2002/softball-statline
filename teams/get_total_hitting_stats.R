@@ -1,9 +1,11 @@
+install.packages("tidyverse")
+
 library(tidyverse)
 
-files <- list.files("~/Projects/softball-statline/teams/data/hitting_stats")
+files <- list.files("teams/data/hitting_stats")
 files <- files[!files == "total_hitting_stats.csv"]
 
-hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/hitting_stats/", files))) %>% 
+hitting_stats <- rbind(read_csv(paste0("teams/data/hitting_stats/", files))) %>% 
   mutate(team = "Total",
          season = "") %>% 
   group_by(team, player_id, season, player) %>% 
@@ -17,4 +19,4 @@ hitting_stats <- rbind(read_csv(paste0("~/Projects/softball-statline/teams/data/
                 .fns = \(col) format(round(col, digits = 3)))) %>% 
   select(-slg)
 
-write.csv(hitting_stats, "~/Projects/softball-statline/teams/data/hitting_stats/total_hitting_stats.csv")
+write.csv(hitting_stats, "teams/data/hitting_stats/total_hitting_stats.csv")
