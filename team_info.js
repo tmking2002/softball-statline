@@ -88,6 +88,8 @@ function displayInfo(teamInfo) {
 
     teamInfo.sort((a, b) => b["Season"] - a["Season"]);
 
+    console.log(teamInfo);
+
     for (const rowData of teamInfo) {
         fetch("coaches/coach_ids.csv")
             .then(response => response.text())
