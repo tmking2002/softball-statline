@@ -90,18 +90,31 @@ function displayInfo(teamInfo) {
 
     console.log(teamInfo);
 
-    for (const rowData of teamInfo) {
+    const fetchCoachPromises = teamInfo.map(rowData =>
         fetch("coaches/coach_ids.csv")
             .then(response => response.text())
             .then(csvData => {
                 const coachID = findCoach(csvData, rowData["Head Coach"]);
-
+                return coachID;
+            })
+            .catch(error => {
+                console.error("Error fetching or parsing CSV:", error);
+                return null; // Handle errors by returning null
+            })
+    );
+    
+    Promise.all(fetchCoachPromises)
+        .then(coachIDs => {
+            for (let i = 0; i < teamInfo.length; i++) {
+                const rowData = teamInfo[i];
+                const coachID = coachIDs[i];
+    
                 const row = document.createElement("tr");
-
+    
                 for (const header of headers) {
                     const td = document.createElement("td");
-
-                    if (header === "Season" & rowData[header] >= 2016) {
+    
+                    if (header === "Season" && parseInt(rowData[header]) >= 2016) {
                         const seasonLink = document.createElement("a");
                         seasonLink.href = `team_season_info?teamID=${teamID}&season=${rowData[header]}`;
                         seasonLink.textContent = rowData[header];
@@ -117,9 +130,8 @@ function displayInfo(teamInfo) {
                     row.appendChild(td);
                 }
                 table.appendChild(row);
-            })
-            .catch(error => console.error("Error fetching or parsing CSV:", error));
-    }
+            }
+        });
 
     tableContainer.appendChild(table);
 }
