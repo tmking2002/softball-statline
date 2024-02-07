@@ -32,26 +32,28 @@ save_leaders <- function(season, division) {
   cur_hitting_stats <- hitting_stats %>% 
     filter(season == .env$season & division == .env$division)
   
+  max_pa <- max(cur_hitting_stats$pa)
+  
   rc_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 100) %>% 
+    filter(pa >= min(max_pa / 2, 100)) %>% 
     slice_max(n = 100, order_by = rc) %>% 
     mutate(rank = nrow(.) + 1 - rank(rc, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, rc)
   
   avg_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 100) %>% 
+    filter(pa >= min(max_pa / 2, 100)) %>% 
     slice_max(n = 100, order_by = avg) %>% 
     mutate(rank = nrow(.) + 1 - rank(avg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, avg)
   
   slg_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 100) %>% 
+    filter(pa >= min(max_pa / 2, 100)) %>% 
     slice_max(n = 100, order_by = slg) %>%
     mutate(rank = nrow(.) + 1 - rank(slg, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, slg)
   
   ops_leaders <- cur_hitting_stats %>% 
-    filter(pa >= 100) %>% 
+    filter(pa >= min(max_pa / 2, 100)) %>% 
     slice_max(n = 100, order_by = ops) %>%
     mutate(rank = nrow(.) + 1 - rank(ops, ties.method = "max")) %>% 
     select(team_id, player_id, rank, player, ops)
@@ -297,6 +299,9 @@ pitching_stats <- rbind(read_csv(paste0("teams/data/pitching_stats/", pitching_f
          division = case_when(division == "D-I" ~ "d1",
                               division == "D-II" ~ "d2",
                               division == "D-III" ~ "d3")) %>% 
+  group_by(player, season) %>% 
+  slice_max(n = 1, order_by = ip, with_ties = FALSE) %>% 
+  ungroup() %>% 
   select(-c(innings, frac))
 
 save_leaders <- function(season, division) {
@@ -304,7 +309,8 @@ save_leaders <- function(season, division) {
   cur_pitching_stats <- pitching_stats %>% 
     filter(season == .env$season & division == .env$division)
   
-  ip_minimum <- ifelse(season == 2020, 50, 100)
+  ip_minimum <- 100
+  ip_max <- max(cur_pitching_stats$ip)
   
   ip_leaders <- cur_pitching_stats %>% 
     slice_max(n = 100, order_by = ip) %>% 
@@ -312,7 +318,7 @@ save_leaders <- function(season, division) {
     select(team_id, player_id, rank, player, ip)
   
   era_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_min(n = 100, order_by = era) %>% 
     mutate(rank = rank(era, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, era)
@@ -323,33 +329,33 @@ save_leaders <- function(season, division) {
     select(team_id, player_id, rank, player, so)
   
   opp_avg_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_min(n = 100, order_by = opp_avg) %>%
     mutate(rank = rank(opp_avg, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, opp_avg)
   
   k_7_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_max(n = 100, order_by = k_7) %>%
     mutate(rank = rank(-k_7, ties.method = "max"),
            k_7 = format(round(k_7, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_7)
   
   k_bb_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_max(n = 100, order_by = k_bb) %>%
     mutate(rank = rank(-k_bb, ties.method = "max"),
            k_bb = format(round(k_bb, 2), digits = 2)) %>% 
     select(team_id, player_id, rank, player, k_bb)
   
   whip_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_min(n = 100, order_by = whip) %>% 
     mutate(rank = rank(whip, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, whip)
   
   fip_leaders <- cur_pitching_stats %>% 
-    filter(ip >= ip_minimum) %>% 
+    filter(ip >= min(ip_max / 2, ip_minimum)) %>% 
     slice_min(n = 100, order_by = fip) %>% 
     mutate(rank = rank(fip, ties.method = "min")) %>% 
     select(team_id, player_id, rank, player, fip)

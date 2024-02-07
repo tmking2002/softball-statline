@@ -8,6 +8,62 @@ library(anytime)
 library(rvest)
 library(magrittr)
 
+load_ncaa_softball_scoreboard <- function(season, division = "D1"){
+  
+  if(!is.numeric(season)) return("Invalid Input")
+  
+  if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
+  
+  if(min(season) < 2012 | max(season) > 2024) stop("Invalid Season")
+  if(min(season) < 2016 & division != "D1") stop("Invalid Season")
+  
+  if(length(season) == 1){
+    
+    if(division == "D1"){
+      
+      url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{season}.RDS?raw=true")
+      
+    } else{
+      
+      url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{division}_{season}.RDS?raw=true")
+      
+    }
+    
+    con <- url(url)
+    
+    on.exit(close(con))
+    
+    scoreboard <- try(readRDS(con), silent = TRUE)
+    
+  } else{
+    
+    scoreboard <- data.frame()
+    
+    for(i in 1:length(season)){
+      
+      if(division == "D1"){
+        
+        url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{season[i]}.RDS?raw=true")
+        
+      } else{
+        
+        url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{division}_{season[i]}.RDS?raw=true")
+        
+      }
+      
+      con <- url(url)
+      
+      on.exit(close(con))
+      
+      scoreboard <- rbind(scoreboard, try(readRDS(con), silent = TRUE))
+    }
+    
+  }
+  
+  return(scoreboard)
+  
+}
+
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
@@ -110,7 +166,7 @@ for(i in days){
   cur_games <- scoreboard_d1 %>% 
     filter(game_date == format(as.Date(i, origin = "1970-01-01"), "%m/%d/%Y"))
   
-  if(year(as.Date(i, origin = "1970-01-01")) == 2023){
+  if(year(as.Date(i, origin = "1970-01-01")) == 2024){
     cur_games <- cur_games %>% 
       left_join(rankings, by = c("home_team" = "Team")) %>% 
       rename(home_rank = Rank) %>% 

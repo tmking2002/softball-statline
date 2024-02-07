@@ -10,8 +10,8 @@ load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1
   
   if(category == "Fielding" & (length(season) > 1 | season[1] != 2023)) return("Only includes 2023 data... for now")
   
-  if(min(season < 2016 | max(season > 2024)) & category == "Pitching") return("Invalid Season")
-  if(min(season < 2016 | max(season > 2024)) & category == "Hitting") return("Invalid Season")
+  if(min(season < 2015 | max(season > 2024)) & category == "Pitching") return("Invalid Season")
+  if(min(season < 2015 | max(season > 2024)) & category == "Hitting") return("Invalid Season")
   
   if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
   
@@ -85,7 +85,6 @@ box_2021 <- load_ncaa_softball_playerbox(season = 2021,category = "Hitting") %>%
 box_2022 <- load_ncaa_softball_playerbox(season = 2022,category = "Hitting") %>% adjust_hitting_box()
 box_2023 <- load_ncaa_softball_playerbox(season = 2023,category = "Hitting") %>% adjust_hitting_box()
 box_2024 <- load_ncaa_softball_playerbox(season = 2024,category = "Hitting") %>% adjust_hitting_box()
-
 
 write.csv(box_2015, "teams/data/box_scores/d1_hitting_box_2015.csv")
 write.csv(box_2016, "teams/data/box_scores/d1_hitting_box_2016.csv")

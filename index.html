@@ -163,7 +163,7 @@
           <h3>Schedule</h3><br>
 
           <div class="date-input-container">
-            <input type="date" class="dateInput" id="dateInput" name="dateInput" value="2023-06-08" min="2023-02-01" max="2023-06-08" onchange="createDataTable_d1(this.value); createDataTable_d2(this.value); createDataTable_d3(this.value);">
+            <input type="date" class="dateInput" id="dateInput" name="dateInput" value="2023-06-08" min="2016-02-11" max="2023-06-08" onchange="createDataTable_d1(this.value); createDataTable_d2(this.value); createDataTable_d3(this.value);">
           </div>
           
           <div class="w3-bar w3-theme">
@@ -274,7 +274,7 @@
         </script>
 
         <footer class="w3-container w3-theme-teal w3-padding" style="text-align: center; margin-top: 100px !important">
-            <p>2023 Softball Statline</p>
+            <p>2024 Softball Statline</p>
             <p><a href="https://twitter.com/SBStatline"><i class="fab fa-twitter"></i></a> Created by Tyson King</p>
         </footer>
 
@@ -283,9 +283,11 @@
         <script>
             // store todays date
             var today = new Date();
-            var dd = today.getDate();
-            var mm = today.getMonth()+1; //January is 0 so need to add 1 to make it 1!
-            var yyyy = today.getFullYear();
+            var yesterday = new Date(today);
+            yesterday.setDate(yesterday.getDate() - 1);
+            var dd = yesterday.getDate();
+            var mm = yesterday.getMonth()+1; //January is 0 so need to add 1 to make it 1!
+            var yyyy = yesterday.getFullYear();
             if(dd<10){
                     dd='0'+dd
                 } 
@@ -293,7 +295,10 @@
                     mm='0'+mm
                 }
             
-            today = yyyy+'-'+mm+'-'+dd;
+            yesterday = yyyy+'-'+mm+'-'+dd;
+
+            dateInput.setAttribute('max', yesterday);
+            dateInput.setAttribute('value', yesterday);
             
             // use this as default going during the season
 
@@ -348,8 +353,8 @@
                         tableContainer.appendChild(table);
                     })
                 
-                if (dateInput > '2023-06-08') {
-                    dateInput_d1 = '2023-06-08';
+                if (dateInput > yesterday) {
+                    dateInput_d1 = yesterday;
                 } else {
                     dateInput_d1 = dateInput;
                 }
@@ -498,8 +503,8 @@
                         tableContainer.appendChild(table);
                     })
 
-                if (dateInput > '2023-05-31') {
-                    dateInput_d2 = '2023-05-31';
+                if (dateInput > yesterday) {
+                    dateInput_d2 = yesterday;
                 } else {
                     dateInput_d2 = dateInput;
                 }
@@ -648,8 +653,8 @@
                         tableContainer.appendChild(table);
                     })
 
-                if (dateInput > '2023-06-07') {
-                    dateInput_d3 = '2023-06-07';
+                if (dateInput > yesterday) {
+                    dateInput_d3 = yesterday;
                 } else {
                     dateInput_d3 = dateInput;
                 }
@@ -764,12 +769,12 @@
 
               var dateInputValue = document.getElementById("dateInput").value;
 
-              if(cityName === 'D1-schedule' & dateInputValue > '2023-06-08'){
-                dateInputValue = '2023-06-08';
-              } else if (cityName === 'D2-schedule' & dateInputValue > '2023-05-31') {
-                dateInputValue = '2023-05-31';
-              } else if (cityName === 'D3-schedule' & dateInputValue > '2023-06-07') {
-                dateInputValue = '2023-06-07';
+              if(cityName === 'D1-schedule' & dateInputValue > yesterday){
+                dateInputValue = yesterday;
+              } else if (cityName === 'D2-schedule' & dateInputValue > yesterday) {
+                dateInputValue = yesterday;
+              } else if (cityName === 'D3-schedule' & dateInputValue > yesterday) {
+                dateInputValue = yesterday;
               }
 
               formattedDate = new Date(dateInputValue).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -853,9 +858,9 @@
             openConf(event, 'SEC')
             openSchedule(event, 'D1-schedule')  
             openRPI(event, 'D1-rpi')  
-            createDataTable_d1(today)
-            createDataTable_d2(today)
-            createDataTable_d3(today)
+            createDataTable_d1(yesterday)
+            createDataTable_d2(yesterday)
+            createDataTable_d3(yesterday)
         </script>
 
     </body>

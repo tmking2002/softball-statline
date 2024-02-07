@@ -14,13 +14,13 @@ get_current_rpi <- function(scoreboard){
                            runs < opponent_runs ~ 0,
                            runs == opponent_runs ~ 0.5)) %>%
     drop_na(team_name, opponent_name, runs, opponent_runs)
-
-
+  
   win_perc <- scoreboard_upd %>%
     group_by(team_name) %>%
     summarise(games = n(),
               win_perc = mean(win, na.rm = T)) %>%
-    filter(games >= 20) %>% # Change at beginning of seasons
+    ungroup() %>% 
+    filter(games >= min(max(games) / 2, 20)) %>% # Change at beginning of seasons
     select(-games) %>%
     drop_na()
 
