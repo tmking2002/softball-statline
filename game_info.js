@@ -4,8 +4,8 @@ const urlParams = new URLSearchParams(queryString);
 const gameID = urlParams.get('gameID');
 const season = urlParams.get('season');
 
-const hittingFileName = `teams/data/box_scores/d1_hitting_box_${season}.csv`;
-const pitchingFileName = `teams/data/box_scores/d1_pitching_box_${season}.csv`;
+const hittingFileName = `teams/data/box_scores/hitting_box_${season}.csv`;
+const pitchingFileName = `teams/data/box_scores/pitching_box_${season}.csv`;
 
 const gameInfo = []
 const homeHittingTableContainer = document.getElementById("home-hitting-table-container");
