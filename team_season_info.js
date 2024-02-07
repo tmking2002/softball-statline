@@ -197,7 +197,7 @@ function setSeason(selectedSeason) {
                 let curTeamID = currentLine["Team ID"];
                 const curSeason = currentLine["Season"].trim();
                 let curAB = currentLine["AB"];
-                if (curTeamID === teamID && curSeason === season && curAB >= 20) {
+                if (curTeamID === teamID && curSeason === season) {
                     const row = document.createElement("tr");
                 for (const header of headers) {
                     const td = document.createElement("td");
@@ -257,7 +257,7 @@ function setSeason(selectedSeason) {
                 let curTeamID = currentLine["Team ID"];
                 const curSeason = currentLine["Season"].trim();
                 let curIP = currentLine["IP"];
-                if (curTeamID === teamID && curSeason === season && curIP >= 10) {
+                if (curTeamID === teamID && curSeason === season) {
                     const row = document.createElement("tr");
                     for (const header of headers) {
                         const td = document.createElement("td");
