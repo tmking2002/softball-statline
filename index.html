@@ -441,7 +441,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8]}`;
+                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
