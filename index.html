@@ -452,7 +452,12 @@
                         }
                         
                     })
-                    .catch(error => console.error('Error fetching CSV:', error));
+                    .catch(error => {
+                        console.error('Error fetching CSV:', error);
+                        const errorText = document.createElement('div');
+                        errorText.textContent = 'No games available on this date.';
+                        tableContainer.appendChild(errorText);
+                    });
             }
             
             function createDataTable_d2(dateInput) {
@@ -593,7 +598,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[8].slice(1, -1)}&season=${rowData[9]}`;
+                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -604,8 +609,12 @@
                         }
                         
                     })
-                    .catch(error => console.error('Error fetching CSV:', error));
-            }
+                    .catch(error => {
+                        console.error('Error fetching CSV:', error);
+                        const errorText = document.createElement('div');
+                        errorText.textContent = 'No games available on this date.';
+                        tableContainer.appendChild(errorText);
+                    });            }
             
             function createDataTable_d3(dateInput) {
                 fetch('rpi_rankings/d3_rpi.csv')
@@ -745,7 +754,7 @@
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[8].slice(1, -1)}&season=${rowData[9]}`;
+                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -756,8 +765,13 @@
                         }
                         
                     })
-                    .catch(error => console.error('Error fetching CSV:', error));
-                
+                    .catch(error => {
+                        console.error('Error fetching CSV:', error);
+                        const errorText = document.createElement('div');
+                        errorText.textContent = 'No games available on this date.';
+                        tableContainer.appendChild(errorText);
+                    });         
+                           
                     openSchedule(event, 'D1-schedule')
             }
             
