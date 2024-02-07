@@ -75,27 +75,19 @@ adjust_hitting_box <- function(raw_box){
   
 }
 
-box_2015 <- load_ncaa_softball_playerbox(season = 2015,category = "Hitting") %>% adjust_hitting_box()
-box_2016 <- load_ncaa_softball_playerbox(season = 2016,category = "Hitting") %>% adjust_hitting_box()
-box_2017 <- load_ncaa_softball_playerbox(season = 2017,category = "Hitting") %>% adjust_hitting_box()
-box_2018 <- load_ncaa_softball_playerbox(season = 2018,category = "Hitting") %>% adjust_hitting_box()
-box_2019 <- load_ncaa_softball_playerbox(season = 2019,category = "Hitting") %>% adjust_hitting_box()
-box_2020 <- load_ncaa_softball_playerbox(season = 2020,category = "Hitting") %>% adjust_hitting_box()
-box_2021 <- load_ncaa_softball_playerbox(season = 2021,category = "Hitting") %>% adjust_hitting_box()
-box_2022 <- load_ncaa_softball_playerbox(season = 2022,category = "Hitting") %>% adjust_hitting_box()
-box_2023 <- load_ncaa_softball_playerbox(season = 2023,category = "Hitting") %>% adjust_hitting_box()
-box_2024 <- load_ncaa_softball_playerbox(season = 2024,category = "Hitting") %>% adjust_hitting_box()
-
-write.csv(box_2015, "teams/data/box_scores/d1_hitting_box_2015.csv")
-write.csv(box_2016, "teams/data/box_scores/d1_hitting_box_2016.csv")
-write.csv(box_2017, "teams/data/box_scores/d1_hitting_box_2017.csv")
-write.csv(box_2018, "teams/data/box_scores/d1_hitting_box_2018.csv")
-write.csv(box_2019, "teams/data/box_scores/d1_hitting_box_2019.csv")
-write.csv(box_2020, "teams/data/box_scores/d1_hitting_box_2020.csv")
-write.csv(box_2021, "teams/data/box_scores/d1_hitting_box_2021.csv")
-write.csv(box_2022, "teams/data/box_scores/d1_hitting_box_2022.csv")
-write.csv(box_2023, "teams/data/box_scores/d1_hitting_box_2023.csv")
-write.csv(box_2024, "teams/data/box_scores/d1_hitting_box_2024.csv")
+for(season in 2016:2024){
+  
+  box <- data.frame()
+  
+  for(division in c("D1", "D2", "D3")){
+    
+    box <- rbind(box, load_ncaa_softball_playerbox(season, category = "Hitting", division))
+    
+  }
+  
+  write.csv(box %>% adjust_hitting_box(.), paste0("teams/data/box_scores/hitting_box_", season, ".csv"))
+  
+}
 
 
 adjust_pitching_box <- function(raw_box){
@@ -117,24 +109,16 @@ adjust_pitching_box <- function(raw_box){
   
 }
 
-box_2015 <- load_ncaa_softball_playerbox(season = 2015, category = "Pitching") %>% adjust_pitching_box()
-box_2016 <- load_ncaa_softball_playerbox(season = 2016, category = "Pitching") %>% adjust_pitching_box()
-box_2017 <- load_ncaa_softball_playerbox(season = 2017, category = "Pitching") %>% adjust_pitching_box()
-box_2018 <- load_ncaa_softball_playerbox(season = 2018, category = "Pitching") %>% adjust_pitching_box()
-box_2019 <- load_ncaa_softball_playerbox(season = 2019, category = "Pitching") %>% adjust_pitching_box()
-box_2020 <- load_ncaa_softball_playerbox(season = 2020, category = "Pitching") %>% adjust_pitching_box()
-box_2021 <- load_ncaa_softball_playerbox(season = 2021, category = "Pitching") %>% adjust_pitching_box()
-box_2022 <- load_ncaa_softball_playerbox(season = 2022, category = "Pitching") %>% adjust_pitching_box()
-box_2023 <- load_ncaa_softball_playerbox(season = 2023, category = "Pitching") %>% adjust_pitching_box()
-box_2024 <- load_ncaa_softball_playerbox(season = 2024, category = "Pitching") %>% adjust_pitching_box()
-
-write.csv(box_2015, "teams/data/box_scores/d1_pitching_box_2015.csv")
-write.csv(box_2016, "teams/data/box_scores/d1_pitching_box_2016.csv")
-write.csv(box_2017, "teams/data/box_scores/d1_pitching_box_2017.csv")
-write.csv(box_2018, "teams/data/box_scores/d1_pitching_box_2018.csv")
-write.csv(box_2019, "teams/data/box_scores/d1_pitching_box_2019.csv")
-write.csv(box_2020, "teams/data/box_scores/d1_pitching_box_2020.csv")
-write.csv(box_2021, "teams/data/box_scores/d1_pitching_box_2021.csv")
-write.csv(box_2022, "teams/data/box_scores/d1_pitching_box_2022.csv")
-write.csv(box_2023, "teams/data/box_scores/d1_pitching_box_2023.csv")
-write.csv(box_2024, "teams/data/box_scores/d1_pitching_box_2024.csv")
+for(season in 2016:2024){
+  
+  box <- data.frame()
+  
+  for(division in c("D1", "D2", "D3")){
+    
+    box <- rbind(box, load_ncaa_softball_playerbox(season, category = "Pitching", division))
+    
+  }
+  
+  write.csv(box %>% adjust_pitching_box(.), paste0("teams/data/box_scores/pitching_box_", season, ".csv"))
+  
+}
