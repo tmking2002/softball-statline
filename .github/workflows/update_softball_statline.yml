@@ -33,7 +33,7 @@ jobs:
         run: Rscript schedule/get_schedule.R
       - name: Get Conf Standings
         run: Rscript conf_standings/get_conf_standings.R
-      - Get teams
+      - name: Get teams
         run: Rscript teams/get_teams.R
       - name: Get Game Logs
         run: Rscript teams/get_game_logs.R
