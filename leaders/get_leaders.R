@@ -372,7 +372,7 @@ save_leaders <- function(season, division) {
   
 }
 
-for(i in 2015:2023){
+for(i in 2015:2024){
   save_leaders(i, "d1")
   save_leaders(i, "d2")
   save_leaders(i, "d3")

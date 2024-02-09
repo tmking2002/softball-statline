@@ -44,7 +44,7 @@ get_current_rpi <- function(scoreboard){
     summarise(rpi_coef = (.5 * mean(win_perc) + .25 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
               record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-")) %>%
     ungroup() %>%
-    mutate(rpi_rank = rank(-rpi_coef))
+    mutate(rpi_rank = rank(-rpi_coef, ties.method = 'min'))
 
 
   return(rpi)

@@ -1,0 +1,1411 @@
+"","game_id","team","opponent","player_id","player","pos","ab","r","h","rbi","hr","k","bb"
+"1","4492874","Indiana","Oregon",12732,"Brianna Copeland","3B/P",3,3,2,4,1,0,6
+"2","4516325","Northwest Nazarene","CUI",20720,"Charlotte Forniss","P",3,0,0,0,0,2,4
+"3","5021942","Young Harris","Christian Brothers",30099,"Gracie Hughes","1B/P",5,1,2,0,0,0,2
+"4","4496733","Illinois St.","South Fla.",42639,"Hannah Meshnick","P",4,0,0,0,0,1,3
+"5","4496731","MSU Moorhead","Neb.-Kearney",60819,"Avery Steffen","CF/P",4,0,0,0,0,1,2
+"6","4496716","Illinois St.","Bethune-Cookman",42201,"Hannah Meeks","P",4,0,0,0,0,1,2
+"7","4496727","Davis & Elkins","Neb.-Kearney",31270,"Sammie Jarvis","P",3,0,1,0,0,1,3
+"8","5021942","Young Harris","Christian Brothers",27321,"Addie Heal","2B",5,0,2,1,0,0,0
+"9","4516324","Kent St.","Elon",68072,"Alexandria Whitmore","3B",5,1,1,0,0,1,0
+"10","4496745","Northwestern St.","UTSA",15375,"Aly Delafield","DP/P",3,0,0,0,0,0,2
+"11","4496722","Iowa St.","Utah Valley",890,"Angelina Allen","LF",5,1,2,2,0,0,0
+"12","4496736","Northwest Nazarene","CUI",44266,"Clarissa Moreno","SS",5,1,1,0,0,0,0
+"13","4496736","Northwest Nazarene","CUI",8110,"Emma Bumatay","1B",5,0,2,2,0,1,0
+"14","4496722","Utah Valley","Iowa St.",44447,"Halle Morris","P/DH",3,0,1,0,0,0,2
+"15","4496725","Utah Valley","Oklahoma",44447,"Halle Morris","P/DH",2,0,1,0,0,0,3
+"16","5021942","Young Harris","Christian Brothers",9537,"Hannah Carey","SS",5,1,2,0,0,1,0
+"17","5021942","Young Harris","Christian Brothers",52055,"Jordan Ratner","3B",5,0,1,0,0,NA,0
+"18","4492878","Nebraska","Washington",2594,"Jordy Bahl","P",0,0,0,0,0,0,5
+"19","4496741","Bethune-Cookman","South Fla.",5596,"Joyce Bloome","DH/P",2,0,0,0,0,0,3
+"20","5021936","Colo. Christian","St. Edward's",17825,"Kaila Eastburn","DP/P",2,0,0,1,0,0,3
+"21","4496728","Kansas City","BYU",46296,"Katie Noble","1B/P",3,1,1,0,0,0,2
+"22","4496736","Northwest Nazarene","CUI",4226,"Keana Bell","LF",5,1,1,0,0,2,0
+"23","4496726","Dominican (CA)","Western Wash.",33153,"Shelby Keltner","P/DP",4,0,1,1,0,0,1
+"24","4496736","Northwest Nazarene","CUI",6047,"Sidney Booth","P",5,0,1,2,0,0,0
+"25","4496711","Louisiana","Chattanooga",50181,"Sophie Piskos","DP/C",4,2,3,4,1,0,1
+"26","4496711","Chattanooga","Louisiana",37782,"Taylor Long","P",0,0,0,0,0,0,5
+"27","4516323","UVA Wise","King (TN)",43285,"Abagail Mills","2B",4,0,0,0,0,0,0
+"28","4496729","UVA Wise","King (TN)",43285,"Abagail Mills","2B",4,2,3,2,0,0,0
+"29","4496728","Kansas City","BYU",30423,"Abby Husak","RF",4,1,2,2,0,1,0
+"30","4496716","Illinois St.","Bethune-Cookman",34203,"Abby Knight","1B",4,0,1,0,0,0,0
+"31","4516325","Northwest Nazarene","CUI",21724,"Abigail Gagnon","3B",4,0,0,0,0,0,0
+"32","5021937","Young Harris","Montevallo",27321,"Addie Heal","2B",3,1,2,0,0,0,1
+"33","4496733","Illinois St.","South Fla.",40201,"Addison Masching","RF",4,0,0,0,0,2,0
+"34","4496716","Illinois St.","Bethune-Cookman",40201,"Addison Masching","LF",4,0,1,0,0,1,0
+"35","4496729","UVA Wise","King (TN)",22962,"Adyson Gibson","CF",4,0,0,0,0,2,0
+"36","4496728","BYU","Kansas City",442,"Ailana Agbayani","SS",4,3,1,0,0,0,0
+"37","5021944","Spring Hill","Mobile",67126,"Airyonna Weaver","CF",4,0,2,NA,0,0,0
+"38","5021933","Alabama Huntsville","Carson-Newman",16948,"Alexa Douthitt","3B",4,2,3,2,0,0,0
+"39","4496730","Kent St.","Elon",68072,"Alexandria Whitmore","3B",4,0,2,1,0,1,0
+"40","4516324","Elon","Kent St.",57381,"Allee Seering","3B",4,1,2,3,1,0,0
+"41","4496746","Davis & Elkins","San Fran. St.",27231,"Alyssa Haynes","LF",4,1,1,0,0,1,0
+"42","4496726","Dominican (CA)","Western Wash.",54968,"Alyssa Rue","DP/3B",4,1,2,0,0,1,0
+"43","4496729","King (TN)","UVA Wise",61792,"Alyssa Suits","C",4,0,1,0,0,1,0
+"44","4516323","King (TN)","UVA Wise",61792,"Alyssa Suits","3B",4,1,2,0,0,0,0
+"45","4496720","Ole Miss","BYU",47470,"Annie Orman","RF",4,0,0,0,0,0,0
+"46","4496731","MSU Moorhead","Neb.-Kearney",46430,"Annika Norman","2B",4,0,1,0,0,0,0
+"47","4497572","Ga. Southwestern","Lincoln Memorial",17286,"Ansley Duffey","DP",4,0,2,1,0,1,0
+"48","4496815","Montevallo","Trevecca Nazarene",50072,"Ariana Pinder","2B",4,1,3,1,0,0,0
+"49","4492874","Oregon","Indiana",9613,"Ariel Carlson","RF",4,0,1,0,0,2,0
+"50","5020640","Trevecca Nazarene","Mississippi Col.",57543,"Ashlan Sensing","P",3,0,1,0,0,0,1
+"51","4496726","Western Wash.","Dominican (CA)",31046,"Ashley Jacobson","1B",4,1,3,1,0,0,0
+"52","4497572","Ga. Southwestern","Lincoln Memorial",54213,"Ashlyn Rogers","RF",4,0,0,0,0,0,0
+"53","4496736","CUI","Northwest Nazarene",53847,"Audrey Robles","2B",4,0,0,0,0,1,0
+"54","4496736","Northwest Nazarene","CUI",11399,"Ava Clark","RF",4,0,1,1,0,0,0
+"55","4496704","Villanova","Georgia Tech",21094,"Ava Franz","SS",4,0,2,1,0,1,0
+"56","5021942","Young Harris","Christian Brothers",19844,"Avery Fielden","LF",4,0,NA,2,0,0,0
+"57","4496729","King (TN)","UVA Wise",8158,"Aviah Bunsic","3B",4,0,0,0,0,0,0
+"58","4496731","MSU Moorhead","Neb.-Kearney",37861,"Azalya Lopez","SS",4,1,2,1,0,2,0
+"59","5021942","Young Harris","Christian Brothers",7447,"Bailee Brown","CF",4,1,1,0,0,1,0
+"60","5021937","Young Harris","Montevallo",7447,"Bailee Brown","CF",4,3,3,1,0,0,0
+"61","5021942","Christian Brothers","Young Harris",66758,"Bailey Ware","RF",4,1,1,0,0,2,0
+"62","5021937","Montevallo","Young Harris",61194,"Bentlee Stiner","LF",4,0,1,2,0,NA,0
+"63","4496815","Montevallo","Trevecca Nazarene",61194,"Bentlee Stiner","LF",4,1,2,1,0,1,0
+"64","4496730","Kent St.","Elon",15862,"Bri Despines","C",4,0,1,1,0,1,0
+"65","4516323","UVA Wise","King (TN)",21123,"Brie Frazier","RF",4,1,2,4,1,0,0
+"66","4496729","UVA Wise","King (TN)",21123,"Brie Frazier","RF",4,2,1,0,0,1,0
+"67","4496711","Louisiana","Chattanooga",18303,"Brooke Ellestad","SS",4,0,1,0,0,1,0
+"68","5020640","Mississippi Col.","Trevecca Nazarene",9329,"Brookelyn Cannon","P",1,0,0,0,0,1,3
+"69","4516324","Kent St.","Elon",37108,"Brynn Libler","LF",4,0,2,0,0,1,0
+"70","4496726","Dominican (CA)","Western Wash.",49179,"Caitlyn Perales","LF/RF",4,1,2,1,0,0,0
+"71","4496730","Kent St.","Elon",49125,"Carley Penner","CF",4,2,1,0,0,2,0
+"72","4516324","Kent St.","Elon",49125,"Carley Penner","CF",4,1,2,1,0,0,0
+"73","4496722","Iowa St.","Utah Valley",60185,"Carli Spelhaug","1B",4,1,0,1,0,0,0
+"74","4496723","Duke","Oklahoma",14030,"Cassidy Curd","P",0,0,0,0,0,0,4
+"75","4496736","Northwest Nazarene","CUI",20720,"Charlotte Forniss","DH",4,0,0,0,0,2,0
+"76","4492874","Indiana","Oregon",3565,"Cora Bassett","RF",4,3,3,0,0,0,0
+"77","4496730","Kent St.","Elon",53714,"Delaney Robeson","2B",4,0,2,0,0,0,0
+"78","4496730","Elon","Kent St.",42484,"Drew Menscer","CF",4,1,1,0,0,0,0
+"79","4516324","Elon","Kent St.",42484,"Drew Menscer","CF",4,2,2,0,0,0,0
+"80","4496704","Georgia Tech","Villanova",17992,"Ella Edgmon","CF",4,0,2,1,0,0,0
+"81","4496726","Western Wash.","Dominican (CA)",48767,"Emily Paulson","C",4,0,2,0,0,0,0
+"82","4496726","Western Wash.","Dominican (CA)",1511,"Emma Andrewjeski","DP",4,1,2,NA,1,2,0
+"83","4516325","Northwest Nazarene","CUI",44903,"Emma Mulligan","2B",4,0,1,0,0,1,0
+"84","4496731","MSU Moorhead","Neb.-Kearney",18999,"Evey Evans","RF/P",3,2,2,1,0,1,1
+"85","4496730","Elon","Kent St.",56437,"Gabi Schaal","1B",3,1,0,0,0,0,1
+"86","4496704","Georgia Tech","Villanova",12405,"Grace Connelly","2B",4,0,0,0,0,2,0
+"87","4496721","UConn","Howard",31358,"Grace Jenkins","1B/C",4,0,1,2,0,0,0
+"88","5021942","Young Harris","Christian Brothers",70130,"Grace Young","RF",4,1,2,2,0,0,0
+"89","4497381","Ga. Southwestern","Miles",60153,"Graceanne Spears","P",0,0,0,0,0,0,4
+"90","5021937","Young Harris","Montevallo",30099,"Gracie Hughes","DH/P",4,2,2,3,2,0,0
+"91","4496730","Elon","Kent St.",28208,"Greta Hessenthaler","DP",4,1,1,2,0,0,0
+"92","4496728","BYU","Kansas City",44545,"Hailey Morrow","DH/C",4,1,1,2,0,0,0
+"93","4497572","Ga. Southwestern","Lincoln Memorial",50091,"Hailey Pinette","CF",4,1,1,0,0,1,0
+"94","4496726","Western Wash.","Dominican (CA)",52037,"Hailey Rath","SS",4,2,2,0,0,0,0
+"95","4496721","UConn","Howard",13144,"Haley Coupal","2B",4,0,2,1,0,0,0
+"96","4497572","Lincoln Memorial","Ga. Southwestern",5777,"Hannah Bogoski","RF",4,0,0,1,0,NA,0
+"97","4496737","Texas St.","Northwestern St.",17800,"Hannah Earls","SS",4,1,2,0,0,0,0
+"98","5021937","Young Harris","Montevallo",53525,"Hannah Rizzuto","C",4,0,1,0,0,0,0
+"99","4496739","Boston College","FGCU",59137,"Hannah Slike","C",4,1,2,2,1,0,0
+"100","4516323","King (TN)","UVA Wise",17712,"Haylee Dye","RF",4,1,2,1,0,1,0
+"101","4496729","King (TN)","UVA Wise",17712,"Haylee Dye","RF",4,1,2,0,0,0,0
+"102","4516323","King (TN)","UVA Wise",25693,"Helina Hahn","DP",4,1,2,0,0,1,0
+"103","4496721","UConn","Howard",31362,"Hope Jenkins","DH",4,0,0,0,0,0,0
+"104","4496728","BYU","Kansas City",2287,"Huntyr Ava","1B",4,1,0,0,0,0,0
+"105","4496720","BYU","Ole Miss",2287,"Huntyr Ava","1B",4,1,3,2,0,0,0
+"106","4496700","UCF","Howard",11820,"Jada Cody","3B",4,1,1,0,0,1,0
+"107","5021939","Alabama Huntsville","Lincoln Memorial",27680,"Jada Henderson","DP",4,1,1,0,0,1,0
+"108","4496720","Ole Miss","BYU",50540,"Jaden Pone","LF",4,2,2,1,0,0,0
+"109","4496720","Ole Miss","BYU",35994,"Jalia Lassiter","CF",4,0,1,0,0,1,0
+"110","4496736","Northwest Nazarene","CUI",47015,"Jami Obringer","CF",4,1,1,1,0,NA,0
+"111","4496725","Oklahoma","Utah Valley",12022,"Jayda Coleman","CF",4,2,2,2,0,0,0
+"112","5020640","Mississippi Col.","Trevecca Nazarene",24905,"Jenny Griggers","1B",4,0,2,1,0,2,0
+"113","4496706","UT Arlington","Tennessee",300,"Jessica Adams","P/DH",2,0,1,0,0,1,2
+"114","4496716","Bethune-Cookman","Illinois St.",623,"Jessica Alaan","2B",4,2,1,0,0,0,0
+"115","4516323","King (TN)","UVA Wise",9195,"Jessica Campbell","CF",4,0,1,0,0,1,0
+"116","4496736","CUI","Northwest Nazarene",30647,"Jessica Im","RF",3,0,0,0,0,0,1
+"117","4496736","CUI","Northwest Nazarene",50117,"Jocelyn Pino","DH",4,0,0,0,0,NA,0
+"118","4496731","Neb.-Kearney","MSU Moorhead",43717,"Jocelynn Molina","C",4,1,2,0,0,1,0
+"119","5021942","Young Harris","Christian Brothers",44453,"Jordan Morris","P",0,0,0,0,0,0,4
+"120","5021942","Christian Brothers","Young Harris",5910,"Josie Bond","2B",4,0,0,0,0,0,0
+"121","4496733","Illinois St.","South Fla.",11258,"Kaili Chval","CF",4,0,1,0,0,2,0
+"122","4516323","UVA Wise","King (TN)",37755,"Kara Long","SS",4,1,NA,3,0,0,0
+"123","4496729","UVA Wise","King (TN)",37755,"Kara Long","SS",4,1,1,0,0,0,0
+"124","4496689","Azusa Pacific","Mont. St. Billings",34605,"Katie Korstrom","P",3,1,1,1,0,1,1
+"125","4516323","King (TN)","UVA Wise",55317,"Katie Ryan","LF",4,0,1,2,0,0,0
+"126","5021936","Colo. Christian","St. Edward's",42879,"Kayla Middleton","2B",4,1,2,1,0,1,0
+"127","4496742","California","McNeese",50531,"Kaylee Pond","LF",4,1,1,0,0,1,0
+"128","5021939","Alabama Huntsville","Lincoln Memorial",65410,"Kaylee Vaught","LF",4,0,2,4,0,0,0
+"129","4516323","UVA Wise","King (TN)",2753,"Kaylynn Baker","3B",4,0,0,0,0,NA,0
+"130","4496731","Neb.-Kearney","MSU Moorhead",12815,"Kelsey Cordes","LF",3,3,2,2,1,0,1
+"131","4496815","Montevallo","Trevecca Nazarene",10712,"Kendall Channell","C",4,0,2,1,0,0,0
+"132","5021937","Montevallo","Young Harris",10712,"Kendall Channell","DH",4,0,2,2,0,2,0
+"133","4516324","Kent St.","Elon",7291,"Kenzie Bromley","DP",4,1,2,1,0,1,0
+"134","5021936","Colo. Christian","St. Edward's",42881,"Kenzie Middleton","C",4,2,2,1,0,0,0
+"135","4496723","Oklahoma","Duke",26258,"Kinzie Hansen","C",4,0,0,0,0,0,0
+"136","4497381","Ga. Southwestern","Miles",55278,"Lacey Rutledge","SS",4,0,0,0,0,2,0
+"137","4497572","Ga. Southwestern","Lincoln Memorial",55278,"Lacey Rutledge","SS",4,1,0,0,0,0,0
+"138","5021939","Alabama Huntsville","Lincoln Memorial",27203,"Lawren Hayes","2B",4,2,2,0,0,0,0
+"139","4496720","Ole Miss","BYU",6691,"Lexie Brady","C",4,1,2,3,1,0,0
+"140","4496729","King (TN)","UVA Wise",43278,"Lilly Million","DP",4,0,1,0,0,NA,0
+"141","4496746","Davis & Elkins","San Fran. St.",56227,"Lilly Saucedo","SS",4,1,3,1,0,1,0
+"142","4496718","Missouri St.","Clemson",10554,"Mackenzie Chacon","P",2,0,0,0,0,1,2
+"143","4496728","BYU","Kansas City",4154,"Maddie Bejarano","LF",4,3,4,5,1,0,0
+"144","4496711","Louisiana","Chattanooga",27164,"Maddie Hayden","RF/2B",4,3,2,4,0,0,0
+"145","4496704","Georgia Tech","Villanova",16515,"Madison Dobbins","LF",4,0,2,0,0,0,0
+"146","4496815","Montevallo","Trevecca Nazarene",19301,"Madison Fargo","3B",4,1,1,1,0,1,0
+"147","4496739","Boston College","FGCU",57391,"Makenna Segal","DP",4,0,0,0,0,2,0
+"148","4496726","Western Wash.","Dominican (CA)",1539,"Maleah Andrews","3B",4,1,2,1,0,1,0
+"149","4497572","Ga. Southwestern","Lincoln Memorial",750,"Malone Aldridge","LF",4,2,3,1,0,0,0
+"150","4497381","Ga. Southwestern","Miles",750,"Malone Aldridge","LF",4,1,1,0,0,1,0
+"151","4496736","CUI","Northwest Nazarene",2467,"Mary Baccay","3B",4,0,0,0,0,0,0
+"152","4496731","Neb.-Kearney","MSU Moorhead",11261,"Mary Chvatal","SS",4,0,2,2,0,0,0
+"153","4496730","Kent St.","Elon",11358,"Megan Claerhout","DP",3,0,0,0,0,1,1
+"154","4496730","Elon","Kent St.",24391,"Megan Grant","SS",3,1,2,1,0,0,1
+"155","4496742","California","McNeese",36503,"Mika Lee","RF/CF",4,1,2,1,1,0,0
+"156","4496722","Iowa St.","Utah Valley",47024,"Milaysia Ochoa","CF",4,3,3,1,0,0,0
+"157","4496736","CUI","Northwest Nazarene",45803,"Missy Nemeth","1B",4,0,0,0,0,0,0
+"158","5021942","Young Harris","Christian Brothers",31848,"Mo Johnson","DH",4,1,1,0,0,1,0
+"159","5021937","Young Harris","Montevallo",31848,"Mo Johnson","LF",4,2,2,1,0,0,0
+"160","4496726","Dominican (CA)","Western Wash.",56230,"Morgan Saucedo","2B",4,1,2,0,0,0,0
+"161","5021941","MSU Denver","St. Mary's (TX)",54431,"Natalie Romero","P",0,0,0,0,0,0,4
+"162","4496731","MSU Moorhead","Neb.-Kearney",23496,"Olivia Goderis","DH",4,1,1,0,0,0,0
+"163","4496720","Ole Miss","BYU",59537,"Paige Smith","1B",3,0,1,0,0,0,1
+"164","4516323","King (TN)","UVA Wise",31230,"Rachel Jardim","1B",4,0,1,1,0,1,0
+"165","4496729","King (TN)","UVA Wise",31230,"Rachel Jardim","1B",4,1,1,2,0,1,0
+"166","4497381","Ga. Southwestern","Miles",27278,"Rebecca Hazard","C",4,0,1,2,0,0,0
+"167","4496742","McNeese","California",52772,"Reese Reyna","SS",4,0,0,0,0,2,0
+"168","4496714","Stanford","San Diego St.",39029,"River Mahler","SS",4,0,1,0,0,1,0
+"169","4496722","Utah Valley","Iowa St.",5092,"Ry Binne","SS",4,0,1,0,0,0,0
+"170","5021944","Spring Hill","Mobile",28692,"Rycca Hinton","LF",4,0,0,0,0,0,0
+"171","4496736","CUI","Northwest Nazarene",54297,"Rylie Rohr","SS",4,1,1,1,NA,NA,0
+"172","4496731","Neb.-Kearney","MSU Moorhead",45786,"Rylyn Nelson","2B",4,1,1,2,1,0,0
+"173","4492874","Indiana","Oregon",61343,"Sarah Stone","1B",4,0,0,0,0,0,0
+"174","4497572","Ga. Southwestern","Lincoln Memorial",6625,"Savana Bradford","P",0,0,0,0,0,0,4
+"175","4516323","UVA Wise","King (TN)",31889,"Savannah Johnson","1B",4,0,0,0,0,2,0
+"176","4497381","Miles","Ga. Southwestern",62879,"Shakayla Terry","P",0,0,0,0,0,0,4
+"177","5021937","Young Harris","Montevallo",17428,"Shelby Duncan","3B",4,1,0,0,0,0,0
+"178","4496736","CUI","Northwest Nazarene",49736,"Shelby Pfeiler","C",4,0,0,0,0,NA,0
+"179","4496706","Tennessee","UT Arlington",46611,"Sophia Nugent","C",4,1,2,4,1,0,0
+"180","5021937","Montevallo","Young Harris",52199,"Sydnee Reaves","CF",4,0,0,0,0,0,0
+"181","4496815","Montevallo","Trevecca Nazarene",52199,"Sydnee Reaves","CF",4,1,2,1,0,1,0
+"182","4496714","Stanford","San Diego St.",33350,"Taryn Kern","2B",4,1,1,0,0,2,0
+"183","4492874","Indiana","Oregon",43394,"Taylor Minnick","LF/DP",4,0,2,2,0,1,0
+"184","4496736","CUI","Northwest Nazarene",31488,"Tessa Jerue","LF",4,0,0,0,0,1,0
+"185","4516325","CUI","Northwest Nazarene",31488,"Tessa Jerue","LF",4,0,2,1,0,0,0
+"186","4496742","California","McNeese",4254,"Tianna Bell","1B",4,0,2,0,0,0,0
+"187","4496723","Oklahoma","Duke",31432,"Tiare Jennings","SS",4,1,3,1,1,1,0
+"188","4496729","King (TN)","UVA Wise",63324,"Tinsley Thompson","SS",4,1,NA,1,0,0,0
+"189","4516323","King (TN)","UVA Wise",63324,"Tinsley Thompson","SS",4,1,1,0,0,1,0
+"190","5021937","Young Harris","Montevallo",2369,"Trinity Aycock","1B",4,0,0,0,0,0,0
+"191","4496734","Utah Tech","Arizona",15646,"Tyler Denhart","P",0,0,0,0,0,0,4
+"192","4496711","Louisiana","Chattanooga",64940,"Victoria Valdez","C/DP",4,3,3,4,0,0,0
+"193","4497381","Ga. Southwestern","Miles",68709,"Zoe Willis","2B",4,2,3,0,0,0,0
+"194","4496735","Okla. Christian","Central Okla.",7412,"Aaliyah Brown","1B/DP",3,0,0,0,0,0,0
+"195","4496712","Nevada","Hawaii",31342,"Aaliyah Jenkins","DH",3,0,1,0,0,0,0
+"196","5021933","Carson-Newman","Alabama Huntsville",39851,"Abbi Martin","CF",3,1,2,0,0,1,0
+"197","4496715","Alabama","Villanova",17226,"Abby Duchscherer","1B",3,0,NA,2,0,0,0
+"198","4496704","Georgia Tech","Villanova",30075,"Abby Hughes","RF/DP",3,1,2,0,0,0,0
+"199","4496711","Chattanooga","Louisiana",50030,"Abi Pikas","LF",3,0,0,0,0,2,0
+"200","4496742","California","McNeese",1312,"Acacia Anders","SS",3,0,1,0,0,0,0
+"201","4497537","Southeastern La.","Green Bay",12495,"Addison Contorno","RF",3,NA,2,3,0,1,0
+"202","4496731","Neb.-Kearney","MSU Moorhead",15053,"Addy Deal","DH",3,0,0,0,0,2,0
+"203","4496720","BYU","Ole Miss",442,"Ailana Agbayani","SS",3,1,0,0,0,0,0
+"204","4492878","Washington","Nebraska",31630,"Alana Johnson","RF",2,2,2,3,0,0,1
+"205","4496741","South Fla.","Bethune-Cookman",53411,"Alanah Rivera","SS",3,1,NA,0,0,0,0
+"206","4496720","BYU","Ole Miss",443,"Aleia Agbayani","RF",3,0,2,2,0,0,0
+"207","5020640","Trevecca Nazarene","Mississippi Col.",4118,"Alex Behnke","P",0,0,0,0,0,0,3
+"208","4492874","Indiana","Oregon",12660,"Alex Cooper","2B/3B",3,0,0,0,0,1,0
+"209","4496733","South Fla.","Illinois St.",21871,"Alexa Galligani","LF",3,0,1,0,0,0,0
+"210","4496726","Dominican (CA)","Western Wash.",22060,"Alicia Garcia","1B",3,0,1,1,0,1,0
+"211","4496734","Arizona","Utah Tech",58966,"Allie Skaggs","2B",3,0,1,0,0,1,0
+"212","4496727","Davis & Elkins","Neb.-Kearney",13877,"Allison Cuellar","2B",3,0,0,0,0,1,0
+"213","4496704","Villanova","Georgia Tech",31989,"Ally Jones","C",3,0,1,0,0,1,0
+"214","4496714","Stanford","San Diego St.",32582,"Aly Kaneshiro","C",3,1,1,1,0,0,0
+"215","4496723","Oklahoma","Duke",7184,"Alyssa Brito","3B",3,1,1,0,0,0,0
+"216","4496725","Oklahoma","Utah Valley",7184,"Alyssa Brito","3B",3,1,1,1,1,1,0
+"217","4496689","Azusa Pacific","Mont. St. Billings",11034,"Alyssa Chin","LF",3,1,2,0,0,0,0
+"218","4492874","Oregon","Indiana",14469,"Alyssa Daniell","1B",3,2,2,2,1,0,0
+"219","4496714","San Diego St.","Stanford",22061,"Alyssa Garcia","DP",3,0,0,0,0,3,0
+"220","4496711","Chattanooga","Louisiana",36114,"Alyssa Lavdis","P",0,0,0,0,0,0,3
+"221","4496708","Idaho St.","San Diego",69970,"Alyssa Yee","RF",3,0,0,0,0,NA,0
+"222","4496719","Kansas City","Nevada",20158,"Amelia Fitzgerald","1B",3,0,1,0,0,0,0
+"223","4496723","Duke","Oklahoma",65448,"Aminah Vega","2B",3,0,1,0,0,1,0
+"224","4496723","Duke","Oklahoma",23594,"Ana Gold","3B",2,0,0,0,0,0,1
+"225","4496708","Idaho St.","San Diego",9339,"Angelica Cano","1B",3,0,1,1,0,1,0
+"226","4496722","Utah Valley","Iowa St.",39354,"Angelique Mann","CF",3,0,0,0,0,1,0
+"227","4496815","Trevecca Nazarene","Montevallo",4408,"Anna Bennett","CF",3,NA,NA,1,1,0,0
+"228","5020640","Trevecca Nazarene","Mississippi Col.",4408,"Anna Bennett","LF",3,0,1,0,0,0,0
+"229","4496737","Texas St.","Northwestern St.",31998,"Anna Jones","RF",3,1,1,0,0,1,0
+"230","4496732","Texas St.","UTSA",31998,"Anna Jones","RF",3,0,0,0,0,1,0
+"231","4497381","Ga. Southwestern","Miles",17286,"Ansley Duffey","DP",3,0,1,1,0,0,0
+"232","4496815","Montevallo","Trevecca Nazarene",29960,"Ansley Hudson","RF",3,0,1,1,0,2,0
+"233","4496744","UNCW","Queens (NC)",48887,"Arial Pearce","LF",3,0,0,0,0,2,0
+"234","5021937","Montevallo","Young Harris",50072,"Ariana Pinder","2B",3,1,3,0,0,0,0
+"235","4496722","Iowa St.","Utah Valley",43400,"Ashley Minor","3B",3,1,2,1,0,1,0
+"236","4497381","Ga. Southwestern","Miles",54213,"Ashlyn Rogers","RF",3,1,1,1,0,1,0
+"237","5021942","Christian Brothers","Young Harris",59266,"Ashlynn Smith","LF",3,1,1,1,0,1,0
+"238","4496700","UCF","Howard",18984,"Aubrey Evans","2B",3,1,1,1,0,0,0
+"239","4496701","UCF","UConn",18984,"Aubrey Evans","2B",3,1,1,0,0,0,0
+"240","5021941","MSU Denver","St. Mary's (TX)",8500,"Audrey Burt","P",0,0,0,0,0,0,3
+"241","4516325","Northwest Nazarene","CUI",11399,"Ava Clark","LF",3,2,2,0,0,0,0
+"242","4496715","Villanova","Alabama",21094,"Ava Franz","SS",3,0,0,0,0,2,0
+"243","4492874","Indiana","Oregon",48326,"Avery Parker","C",3,0,1,1,0,1,0
+"244","4496725","Utah Valley","Oklahoma",56128,"Avery Sapp","P",0,0,0,0,0,0,3
+"245","4496724","MSU Moorhead","San Fran. St.",60819,"Avery Steffen","CF",3,0,1,0,0,2,0
+"246","4496739","FGCU","Boston College",65680,"Avery Viancos","LF",3,0,0,0,0,2,0
+"247","4496720","Ole Miss","BYU",21598,"Aynslie Furbush","DH",3,0,2,0,0,0,0
+"248","4496715","Alabama","Villanova",16989,"Bailey Dowling","3B",3,1,1,0,0,NA,0
+"249","4497537","Southeastern La.","Green Bay",34925,"Bailey Krolczyk","C/1B",3,NA,2,3,NA,0,0
+"250","4496714","San Diego St.","Stanford",18826,"Bella Espinoza","LF",3,0,0,0,0,0,0
+"251","4496717","Marshall","Arkansas",22824,"Bella Gerlach","LF",3,0,1,0,0,0,0
+"252","4496733","Illinois St.","South Fla.",68332,"Bella Wilkerson","C",3,0,1,0,0,1,0
+"253","4492878","Nebraska","Washington",1518,"Billie Andrews","SS",3,0,0,0,0,1,0
+"254","4516324","Kent St.","Elon",15862,"Bri Despines","C",3,1,2,2,0,0,0
+"255","4496717","Arkansas","Marshall",18355,"Bri Ellis","1B",3,2,NA,2,0,0,0
+"256","4492874","Indiana","Oregon",4493,"Brooke Benson","SS",3,1,0,0,0,0,0
+"257","4496742","McNeese","California",47747,"Brooke Otto","LF",3,0,0,0,0,1,0
+"258","4496744","Queens (NC)","UNCW",50146,"Brooke Piper","3B",3,0,0,0,0,0,0
+"259","4492878","Washington","Nebraska",9911,"Brooklyn Carter","CF",3,0,0,0,0,2,0
+"260","4496717","Marshall","Arkansas",64723,"Brooklyn Ulrich","2B",3,1,2,0,0,0,0
+"261","4496730","Kent St.","Elon",37108,"Brynn Libler","LF",3,1,1,0,0,1,0
+"262","4496717","Marshall","Arkansas",19691,"Bub Feringa","DH",3,0,0,0,0,1,0
+"263","4496714","Stanford","San Diego St.",34323,"Caelan Koch","1B",3,1,1,2,1,0,0
+"264","4496689","Azusa Pacific","Mont. St. Billings",15165,"Caitlin Decanio","1B",3,1,2,2,NA,0,0
+"265","4516323","King (TN)","UVA Wise",5171,"Caitlynn Bishop","C",3,1,1,0,0,0,0
+"266","4496714","San Diego St.","Stanford",15189,"Cali Decker","C",3,0,0,0,0,3,0
+"267","4496706","UT Arlington","Tennessee",12906,"Camille Corona","3B",3,0,1,0,0,1,0
+"268","4496722","Iowa St.","Utah Valley",39574,"Camille Marin","C",3,1,1,1,0,1,0
+"269","4496717","Marshall","Arkansas",42824,"Camryn Michallas","3B",3,0,2,0,0,0,0
+"270","4496732","UTSA","Texas St.",53725,"Camryn Robillard","SS",3,0,0,0,0,1,0
+"271","4496728","Kansas City","BYU",61151,"Camryn Stickel","P",0,0,0,0,0,0,3
+"272","4496730","Elon","Kent St.",14731,"Carley Davis","C",2,1,0,0,0,0,1
+"273","4516324","Elon","Kent St.",14731,"Carley Davis","DP",2,1,1,0,0,0,1
+"274","4496704","Georgia Tech","Villanova",15672,"Chandler Dennis","P",0,0,0,0,0,0,3
+"275","4496719","Nevada","Kansas City",27095,"Charli Hawkins","DH",3,0,1,0,0,0,0
+"276","4496719","Nevada","Kansas City",57531,"Chelie Senini","CF",3,0,1,0,0,0,0
+"277","4496712","Hawaii","Nevada",6087,"Chloe Borges","CF/P",2,0,0,NA,0,1,1
+"278","4496701","UCF","UConn",18993,"Chloe Evans","RF",3,2,0,0,0,0,0
+"279","4497537","Southeastern La.","Green Bay",38931,"Chloe Magee","SS",3,NA,2,0,0,0,0
+"280","4496724","MSU Moorhead","San Fran. St.",39127,"Chloe Makinney","DP",3,0,1,1,0,0,0
+"281","4496704","Villanova","Georgia Tech",59315,"Chloe Smith","3B",3,0,0,0,0,2,0
+"282","4496705","LSU","Nicholls",7100,"Ciara Briggs","CF",3,1,1,0,0,0,0
+"283","4496737","Texas St.","Northwestern St.",63988,"Ciara Trahan","LF",3,1,1,1,0,0,0
+"284","4516325","Northwest Nazarene","CUI",44266,"Clarissa Moreno","SS",3,0,3,2,0,0,0
+"285","4496742","McNeese","California",44267,"Crislyne Moreno","DP",3,0,0,0,0,0,0
+"286","4496717","Arkansas","Marshall",25925,"Cylie Halvorson","2B",3,2,NA,2,0,0,0
+"287","4496734","Arizona","Utah Tech",33230,"Dakota Kennedy","LF",3,0,1,1,0,0,0
+"288","4496705","LSU","Nicholls",11841,"Danieca Coffey","3B",3,0,1,0,0,1,0
+"289","4496733","Illinois St.","South Fla.",7811,"Delainey Bryant","2B",3,0,1,0,0,0,0
+"290","4516324","Kent St.","Elon",53714,"Delaney Robeson","2B",3,1,1,0,0,0,0
+"291","4496728","Kansas City","BYU",10231,"Derika Castillo","2B",3,1,1,2,0,1,0
+"292","4496719","Kansas City","Nevada",10231,"Derika Castillo","2B",3,0,0,0,0,1,0
+"293","4496733","Illinois St.","South Fla.",6515,"Ella Boyer","SS",3,0,0,0,0,0,0
+"294","4496716","Illinois St.","Bethune-Cookman",6515,"Ella Boyer","SS",3,0,0,0,0,1,0
+"295","4496730","Kent St.","Elon",18877,"Ella Esterby","P",0,0,0,0,0,0,3
+"296","4496723","Oklahoma","Duke",48339,"Ella Parker","DH",3,0,1,0,0,0,0
+"297","5021937","Montevallo","Young Harris",15807,"Ellie Derrick","3B",3,0,1,0,0,1,0
+"298","4516324","Kent St.","Elon",19142,"Ellie Facher","RF",3,0,1,0,0,1,0
+"299","4496735","Central Okla.","Okla. Christian",15764,"Emily Deramus","3B",3,0,1,0,0,0,0
+"300","4496714","Stanford","San Diego St.",32058,"Emily Jones","CF",3,0,1,0,0,1,0
+"301","4516324","Kent St.","Elon",37375,"Emily Lippe","1B",3,1,1,3,1,0,0
+"302","4496730","Kent St.","Elon",37375,"Emily Lippe","1B",3,1,1,2,1,1,0
+"303","5021944","Spring Hill","Mobile",49810,"Emily Phillips","SS",3,1,1,1,0,1,0
+"304","5020640","Mississippi Col.","Trevecca Nazarene",53226,"Emily Rigney","LF",3,1,0,0,0,0,0
+"305","4516325","Northwest Nazarene","CUI",8110,"Emma Bumatay","1B",3,0,2,0,0,1,0
+"306","4496704","Georgia Tech","Villanova",43368,"Emma Minghini","1B",3,0,0,0,0,0,0
+"307","4496717","Marshall","Arkansas",29287,"Erica Holt","RF",3,0,0,0,0,1,0
+"308","5021941","St. Mary's (TX)","MSU Denver",23686,"Ericka Gomez","2B",3,1,1,0,0,0,0
+"309","4496732","UTSA","Texas St.",25231,"Erykah Guerrero","1B",3,0,0,0,0,1,0
+"310","4496745","UTSA","Northwestern St.",25231,"Erykah Guerrero","1B",3,0,NA,0,0,1,0
+"311","4496724","MSU Moorhead","San Fran. St.",18999,"Evey Evans","RF",3,0,0,0,0,0,0
+"312","4496719","Nevada","Kansas City",28082,"Gabby Herrera","RF",3,0,1,0,0,NA,0
+"313","4516324","Elon","Kent St.",56437,"Gabi Schaal","1B",3,0,0,0,0,1,0
+"314","4496728","BYU","Kansas City",39541,"Gianna Mares","P",0,0,0,0,0,0,3
+"315","4496723","Duke","Oklahoma",62457,"Gisele Tapia","1B",3,0,0,0,0,0,0
+"316","4496706","Tennessee","UT Arlington",34682,"Giulia Koutsoyanopulos","1B",3,1,1,1,0,0,0
+"317","4496720","Ole Miss","BYU",60118,"Grace Sparks","P",0,0,0,0,0,0,3
+"318","5021937","Young Harris","Montevallo",70130,"Grace Young","RF",3,0,0,2,0,0,0
+"319","5020640","Trevecca Nazarene","Mississippi Col.",33831,"Gracie Kirby","RF",3,0,0,0,0,1,0
+"320","4496720","BYU","Ole Miss",44545,"Hailey Morrow","C",3,1,0,1,0,1,0
+"321","4492874","Oregon","Indiana",15449,"Hanna Delgado","CF",3,0,0,0,0,0,0
+"322","4496716","Illinois St.","Bethune-Cookman",28318,"Hanna Hicks","RF",3,NA,0,0,0,NA,0
+"323","4496729","UVA Wise","King (TN)",7693,"Hannah Bruce","DP",3,0,0,0,0,0,0
+"324","4496717","Arkansas","Marshall",9108,"Hannah Camenzind","P",2,0,1,3,0,1,1
+"325","4496717","Arkansas","Marshall",21962,"Hannah Gammill","3B",3,1,1,0,0,1,0
+"326","5021933","Carson-Newman","Alabama Huntsville",17711,"Hayden Dye","SS",3,0,0,0,0,1,0
+"327","4496742","California","McNeese",988,"Hope Alley","3B",3,0,1,1,0,0,0
+"328","4497572","Ga. Southwestern","Lincoln Memorial",39524,"Isabel Marcotte","1B",3,0,0,0,0,0,0
+"329","4516324","Elon","Kent St.",17327,"Isley Duggins","P",0,0,0,0,0,0,3
+"330","4496735","Central Okla.","Okla. Christian",43414,"Jacee Minter","LF",3,0,1,3,0,0,0
+"331","4496723","Duke","Oklahoma",2741,"Jada Baker","SS",3,0,0,0,0,1,0
+"332","4496701","UCF","UConn",11820,"Jada Cody","3B",3,1,2,2,NA,0,0
+"333","5021933","Alabama Huntsville","Carson-Newman",27680,"Jada Henderson","DP/C",3,1,3,2,0,0,0
+"334","4496714","Stanford","San Diego St.",4717,"Jade Berry","3B",3,0,0,0,0,0,0
+"335","4496740","Eastern Ky.","Wofford",27236,"Jaelin Haynes","CF",3,NA,2,0,0,0,0
+"336","4516325","Northwest Nazarene","CUI",47015,"Jami Obringer","CF/PH",3,0,0,0,0,1,0
+"337","4496701","UConn","UCF",55846,"Jana Sanden","SS",2,0,1,1,0,0,1
+"338","4496721","UConn","Howard",55846,"Jana Sanden","SS",3,0,0,0,0,0,0
+"339","4496740","Eastern Ky.","Wofford",43121,"Jasmine Miller","3B",3,0,0,0,0,NA,0
+"340","4496723","Oklahoma","Duke",12022,"Jayda Coleman","CF",3,0,0,0,0,1,0
+"341","4496733","Illinois St.","South Fla.",60590,"Jayden Standish","3B",3,0,0,0,0,2,0
+"342","4496745","UTSA","Northwestern St.",51050,"Jaylen Prichard","2B",3,1,1,0,0,0,0
+"343","4496732","UTSA","Texas St.",51050,"Jaylen Prichard","2B",3,1,1,0,0,0,0
+"344","4496715","Alabama","Villanova",31743,"Jenna Johnson","LF",3,0,0,0,0,0,0
+"345","4496729","King (TN)","UVA Wise",9195,"Jessica Campbell","CF",3,2,2,1,1,0,0
+"346","5021939","Alabama Huntsville","Lincoln Memorial",17951,"Jessica Edde","C",3,0,1,0,0,0,0
+"347","4492878","Washington","Nebraska",10468,"Jillian Celis","2B",3,0,0,0,0,1,0
+"348","4496704","Georgia Tech","Villanova",58572,"Jin Sileo","SS",3,0,2,1,0,0,0
+"349","4516325","CUI","Northwest Nazarene",50117,"Jocelyn Pino","3B",3,0,0,0,0,0,0
+"350","4496708","San Diego","Idaho St.",53641,"Joecellia Roberts","DP",3,0,0,0,0,0,0
+"351","4496700","UCF","Howard",54829,"Johneisha Rowe","CF",3,3,3,0,0,0,0
+"352","4497381","Miles","Ga. Southwestern",14789,"Jordan Davis","SS",3,0,0,0,0,2,0
+"353","5020640","Mississippi Col.","Trevecca Nazarene",44060,"Jordan Moore","3B",3,1,0,1,0,2,0
+"354","4496739","Boston College","FGCU",60923,"Jordan Stephens","RF",3,0,2,0,0,0,0
+"355","4496733","South Fla.","Illinois St.",32439,"Jordyn Kadlub","CF/1B",3,0,0,0,0,0,0
+"356","4496722","Utah Valley","Iowa St.",3397,"Jorja Barrett","P",0,0,0,0,0,0,3
+"357","4496733","South Fla.","Illinois St.",20689,"Josie Foreman","C",3,0,0,0,0,0,0
+"358","4496746","Davis & Elkins","San Fran. St.",25462,"Jules Gutierrez","1B",3,1,1,0,0,2,0
+"359","4496727","Davis & Elkins","Neb.-Kearney",25462,"Jules Gutierrez","3B",3,0,0,0,0,1,0
+"360","4496730","Kent St.","Elon",40724,"Julia Mazanec","SS",3,1,1,0,0,0,0
+"361","4516324","Kent St.","Elon",40724,"Julia Mazanec","SS",3,1,0,0,0,0,0
+"362","4496721","Howard","UConn",35509,"Justine Lambert","SS",3,0,0,0,0,0,0
+"363","4496728","Kansas City","BYU",65917,"Kadin Vire","C",3,0,1,2,0,0,0
+"364","4496736","CUI","Northwest Nazarene",46235,"Kaia Nisby","CF",3,0,0,0,0,0,0
+"365","4496711","Chattanooga","Louisiana",59681,"Kailey Snell","SS",3,0,1,0,0,2,0
+"366","4496711","Chattanooga","Louisiana",49823,"Kaili Phillips","3B",2,0,0,0,0,0,1
+"367","4516324","Elon","Kent St.",67492,"Kaitlyn Wells","RF",3,1,2,4,0,0,0
+"368","4496739","Boston College","FGCU",10072,"Kali Case","CF",3,0,0,0,0,0,0
+"369","4496726","Western Wash.","Dominican (CA)",50196,"Kanilehua Pitoy","2B",3,0,0,1,0,0,0
+"370","4496732","Texas St.","UTSA",3556,"Karmyn Bass","DH",3,0,1,1,0,0,0
+"371","4496737","Texas St.","Northwestern St.",3556,"Karmyn Bass","C",3,1,2,1,0,0,0
+"372","4496717","Marshall","Arkansas",48421,"Kasia Parks","CF",3,1,1,0,0,NA,0
+"373","4496744","Queens (NC)","UNCW",60539,"Kasidi Staley","CF",3,0,0,0,0,0,0
+"374","4496704","Villanova","Georgia Tech",21840,"Kat Gallant","P",0,0,0,0,0,0,3
+"375","4496737","Northwestern St.","Texas St.",39793,"Kat Marshall","1B",3,0,0,0,0,0,0
+"376","4496732","Texas St.","UTSA",70364,"Katarina Zarate","2B",3,1,1,1,NA,0,0
+"377","4496726","Dominican (CA)","Western Wash.",63628,"Kate Tobola","SS",3,0,1,0,0,0,0
+"378","5021933","Alabama Huntsville","Carson-Newman",6598,"Katie Bracken","P",0,0,0,0,0,0,3
+"379","4496719","Kansas City","Nevada",46296,"Katie Noble","DH",3,0,1,0,0,0,0
+"380","4497572","Lincoln Memorial","Ga. Southwestern",64428,"Katie Tuggle","C",2,0,0,0,0,0,1
+"381","4497572","Lincoln Memorial","Ga. Southwestern",50854,"Katy Pozzuto","1B",2,0,0,0,0,0,1
+"382","4496744","Queens (NC)","UNCW",59429,"Kayla Smith","SS",3,0,0,0,0,1,0
+"383","4496739","FGCU","Boston College",54518,"Kayleigh Roper","3B",3,0,0,0,0,0,0
+"384","4496729","UVA Wise","King (TN)",2753,"Kaylynn Baker","3B",3,1,2,2,1,0,0
+"385","4496728","BYU","Kansas City",32549,"Keila Kamoku","2B",3,0,2,2,0,0,0
+"386","4496720","BYU","Ole Miss",32549,"Keila Kamoku","2B",3,1,1,1,0,0,0
+"387","4516325","Northwest Nazarene","CUI",310,"Kellcie Adams","C",3,0,0,0,0,2,0
+"388","4496715","Alabama","Villanova",11461,"Kendal Clark","RF",3,1,1,0,0,1,0
+"389","4496815","Trevecca Nazarene","Montevallo",1534,"Kendall Andrews","DH",3,1,NA,NA,0,0,0
+"390","5020640","Trevecca Nazarene","Mississippi Col.",1534,"Kendall Andrews","C",3,0,1,1,0,0,0
+"391","4516325","CUI","Northwest Nazarene",20255,"Kendall Flatt","C",3,0,1,1,0,1,0
+"392","4497572","Ga. Southwestern","Lincoln Memorial",29995,"Kendall Huelsman","3B",3,0,1,1,0,0,0
+"393","4497381","Ga. Southwestern","Miles",29995,"Kendall Huelsman","3B",3,2,2,1,0,0,0
+"394","4496740","Wofford","Eastern Ky.",69795,"Kendall Wylie","P",0,0,0,0,0,0,3
+"395","4496715","Alabama","Villanova",8868,"Kenleigh Cahalan","SS",3,0,0,0,0,NA,0
+"396","4496740","Eastern Ky.","Wofford",17045,"Kennedy Drafton","2B",3,NA,NA,1,0,0,0
+"397","4496701","UCF","UConn",57305,"Kennedy Searcy","LF",3,1,2,4,NA,0,0
+"398","4496700","UCF","Howard",57305,"Kennedy Searcy","LF",3,0,1,2,0,0,0
+"399","5021942","Christian Brothers","Young Harris",13124,"Kiera Coulon","SS",3,2,1,1,0,0,0
+"400","4496706","Tennessee","UT Arlington",43284,"Kiki Milloy","CF",3,3,2,2,0,0,0
+"401","4496735","Okla. Christian","Central Okla.",7038,"Kiley Brewster","SS",3,1,2,0,0,0,0
+"402","4492874","Indiana","Oregon",43534,"Kinsey Mitchell","CF",3,0,0,0,0,1,0
+"403","4496746","San Fran. St.","Davis & Elkins",45749,"Kira Nelson","CF",3,1,1,0,0,0,0
+"404","4496724","San Fran. St.","MSU Moorhead",45749,"Kira Nelson","CF/LF",3,1,1,0,0,1,0
+"405","4496735","Okla. Christian","Central Okla.",68014,"Kristen Whitehouse","3B",3,1,2,0,0,0,0
+"406","5021942","Christian Brothers","Young Harris",8361,"Kylie Burks","DH",3,0,2,0,0,1,0
+"407","4496815","Trevecca Nazarene","Montevallo",10979,"Kylie Chetakian","3B",3,0,0,0,0,1,0
+"408","4496714","Stanford","San Diego St.",11235,"Kylie Chung","DP",3,0,0,0,0,2,0
+"409","4496735","Okla. Christian","Central Okla.",31218,"Kylie Janzen","RF",3,1,1,0,0,1,0
+"410","4496714","Stanford","San Diego St.",10671,"Kyra Chan","LF",3,0,1,0,0,0,0
+"411","4496742","California","McNeese",51537,"Lagi Quiroga","C",3,1,1,1,1,0,0
+"412","4496745","Northwestern St.","UTSA",54504,"Laney Roos","RF",3,0,1,0,0,1,0
+"413","4496737","Northwestern St.","Texas St.",54504,"Laney Roos","RF",3,0,0,0,0,0,0
+"414","4496715","Alabama","Villanova",50992,"Larissa Preuitt","CF/RF",3,0,1,0,0,0,0
+"415","4496735","Central Okla.","Okla. Christian",59464,"Layne Smith","C",3,0,1,0,0,0,0
+"416","5021936","Colo. Christian","St. Edward's",22148,"Leah Garcia","SS",3,0,0,0,0,0,0
+"417","4496727","Neb.-Kearney","Davis & Elkins",32396,"Leah Jurgens","1B",3,0,0,0,0,1,0
+"418","4496721","Howard","UConn",53123,"Lealani Ricks","2B",3,NA,2,0,0,0,0
+"419","4496726","Western Wash.","Dominican (CA)",3121,"Lexi Barcomb","LF",3,0,0,0,0,0,0
+"420","4496746","San Fran. St.","Davis & Elkins",29097,"Lexi Holihan","3B",3,0,0,0,0,0,0
+"421","4496724","San Fran. St.","MSU Moorhead",29097,"Lexi Holihan","3B",3,0,1,1,0,0,0
+"422","4497537","Southeastern La.","Green Bay",31808,"Lexi Johnson","1B",3,1,2,1,0,1,0
+"423","4496720","BYU","Ole Miss",4449,"Lexie Bennett","DH",3,0,0,0,0,2,0
+"424","4496719","Kansas City","Nevada",59467,"Lexy Smith","3B",3,0,1,1,0,0,0
+"425","4496728","Kansas City","BYU",59467,"Lexy Smith","3B",3,1,1,0,0,1,0
+"426","4496727","Davis & Elkins","Neb.-Kearney",56227,"Lilly Saucedo","SS",3,0,0,0,0,0,0
+"427","4496720","BYU","Ole Miss",47846,"Lily Owens","3B",3,1,1,1,0,0,0
+"428","5021937","Montevallo","Young Harris",61335,"Lily Stone","C",3,1,0,0,0,0,0
+"429","4496815","Montevallo","Trevecca Nazarene",61335,"Lily Stone","DH",3,1,1,0,0,1,0
+"430","4496742","McNeese","California",14827,"Lindsay Davis","P",0,0,0,0,0,0,3
+"431","4496746","Davis & Elkins","San Fran. St.",868,"Linzey Allard","2B",3,1,1,1,0,1,0
+"432","5021936","Colo. Christian","St. Edward's",42497,"Logan Menzies","RF",3,2,2,2,1,0,0
+"433","4496714","San Diego St.","Stanford",3060,"Mac Barbara","1B",3,0,0,0,0,3,0
+"434","5021933","Carson-Newman","Alabama Huntsville",2652,"Macauley Bailey","1B/PH",3,0,0,0,0,1,0
+"435","4496744","UNCW","Queens (NC)",1271,"Mackenzie Amodeo","C",3,0,0,0,0,3,0
+"436","4496730","Kent St.","Elon",30752,"Macy Irelan","P",0,0,0,0,0,0,3
+"437","4496720","BYU","Ole Miss",4154,"Maddie Bejarano","LF",3,2,1,0,0,0,0
+"438","5021933","Alabama Huntsville","Carson-Newman",9983,"Maddie Cartron","1B",3,0,1,1,0,0,0
+"439","4496718","Clemson","Missouri St.",44097,"Maddie Moore","2B",3,2,NA,NA,1,0,0
+"440","4496815","Trevecca Nazarene","Montevallo",50672,"Maddie Poschke","C",3,0,1,2,0,1,0
+"441","5021937","Montevallo","Young Harris",62649,"Maddie Taylor","SS",3,1,2,1,0,1,0
+"442","4496815","Montevallo","Trevecca Nazarene",62649,"Maddie Taylor","SS",3,0,1,0,0,1,0
+"443","4497537","Southeastern La.","Green Bay",67027,"Maddie Watson","2B/1B",3,1,2,0,0,0,0
+"444","4496731","Neb.-Kearney","MSU Moorhead",31210,"Madeline Janssen","P",0,0,0,0,0,0,3
+"445","4496733","Illinois St.","South Fla.",8735,"Madi Bylak","LF",3,0,0,0,0,1,0
+"446","4496745","UTSA","Northwestern St.",27258,"Madi Hays","CF",3,0,1,0,0,1,0
+"447","4496719","Nevada","Kansas City",11479,"Madison Clark","LF",3,0,1,0,0,0,0
+"448","4497572","Lincoln Memorial","Ga. Southwestern",27812,"Madison Henry","LF",3,0,1,0,0,0,0
+"449","4496745","UTSA","Northwestern St.",36752,"Madison Lenton","LF",3,0,0,0,0,NA,0
+"450","4496712","Nevada","Hawaii",47292,"Maile Olsen","SS",3,0,1,0,0,1,0
+"451","4496719","Nevada","Kansas City",47292,"Maile Olsen","SS",3,0,1,0,0,0,0
+"452","4496724","San Fran. St.","MSU Moorhead",60907,"Makenzie Stenson","1B",3,0,1,0,0,1,0
+"453","4496704","Georgia Tech","Villanova",5267,"Mallorie Black","3B",3,0,0,0,0,0,0
+"454","5020640","Trevecca Nazarene","Mississippi Col.",63405,"Malone Thrift","2B",3,0,1,0,0,0,0
+"455","4497537","Southeastern La.","Green Bay",15890,"Maria Detillier","3B",3,1,2,1,0,1,0
+"456","4496742","McNeese","California",63876,"Mariana Torres","2B",3,0,1,0,0,1,0
+"457","4496746","San Fran. St.","Davis & Elkins",32244,"Marissa Jordan","DP",3,0,2,1,0,1,0
+"458","4496746","San Fran. St.","Davis & Elkins",23774,"Marley Gonzales","C",3,0,2,0,0,0,0
+"459","4496724","San Fran. St.","MSU Moorhead",23774,"Marley Gonzales","C/CF",3,0,0,0,0,0,0
+"460","4496706","UT Arlington","Tennessee",45680,"Marley Neises","CF",3,0,0,0,0,3,0
+"461","4516325","CUI","Northwest Nazarene",2467,"Mary Baccay","2B/3B",3,0,1,0,0,0,0
+"462","4496744","UNCW","Queens (NC)",59779,"Mary Sobataka","SS",3,0,1,1,0,0,0
+"463","4516324","Elon","Kent St.",45209,"Mauri Murray","LF",3,0,0,0,0,2,0
+"464","4496730","Elon","Kent St.",45209,"Mauri Murray","LF",2,2,1,1,1,0,1
+"465","5021944","Spring Hill","Mobile",65824,"Meadow Villar","3B",3,0,0,0,0,0,0
+"466","4496722","Utah Valley","Iowa St.",22950,"Megan Gibbs","1B",3,0,0,0,0,2,0
+"467","4516324","Elon","Kent St.",24391,"Megan Grant","SS",2,2,0,0,0,1,1
+"468","5021936","St. Edward's","Colo. Christian",44477,"Megan Morris","SS",3,0,0,0,0,0,0
+"469","4496726","Dominican (CA)","Western Wash.",22164,"Melissa Garcia","CF",3,0,0,0,0,1,0
+"470","4496737","Northwestern St.","Texas St.",37399,"Mia Liscano","SS",3,0,0,0,0,0,0
+"471","4496746","San Fran. St.","Davis & Elkins",43467,"Mia Misasi","SS",3,0,1,1,0,0,0
+"472","5021936","Colo. Christian","St. Edward's",60619,"Mia Stankiewicz","3B",3,0,0,1,0,1,0
+"473","5021941","MSU Denver","St. Mary's (TX)",26843,"Miah Hartvigsen","1B",3,1,1,3,0,0,0
+"474","4496711","Louisiana","Chattanooga",14851,"Mihyia Davis","CF",3,4,2,1,0,1,0
+"475","5021937","Montevallo","Young Harris",49102,"Molly Pendley","1B",3,0,0,0,0,2,0
+"476","4496744","UNCW","Queens (NC)",7195,"Morgan Britt","RF",3,1,2,0,0,0,0
+"477","4496722","Utah Valley","Iowa St.",28357,"Mya Higareda","C",3,1,2,0,0,0,0
+"478","4496739","FGCU","Boston College",49595,"Neely Peterson","C",3,0,0,0,0,1,0
+"479","4497572","Lincoln Memorial","Ga. Southwestern",13185,"Nicole Couvertiere","DP",3,0,2,0,0,1,0
+"480","4496739","Boston College","FGCU",23031,"Nicole Giery","3B",3,1,1,0,0,0,0
+"481","4496733","South Fla.","Illinois St.",18344,"Olivia Elliott","RF",3,1,0,0,0,0,0
+"482","4496724","MSU Moorhead","San Fran. St.",23496,"Olivia Goderis","2B",3,1,1,0,0,0,0
+"483","4496726","Dominican (CA)","Western Wash.",36506,"Olivia Lee","RF",3,0,2,0,0,1,0
+"484","4496711","Chattanooga","Louisiana",37359,"Olivia Lipari","2B",3,0,1,1,0,0,0
+"485","4496708","Idaho St.","San Diego",58796,"Paige Simpson","SS",3,NA,2,0,0,0,0
+"486","4496737","Texas St.","Northwestern St.",51932,"Piper Randolph","CF",3,1,1,0,0,2,0
+"487","4496732","Texas St.","UTSA",51932,"Piper Randolph","CF",3,0,0,0,0,0,0
+"488","4496815","Montevallo","Trevecca Nazarene",67841,"Rachel Whiddon","P",0,0,0,0,0,0,3
+"489","4496742","California","McNeese",54186,"Randi Roelling","P",0,0,0,0,0,0,3
+"490","4497572","Ga. Southwestern","Lincoln Memorial",27278,"Rebecca Hazard","C",3,1,1,2,0,0,0
+"491","5021939","Lincoln Memorial","Alabama Huntsville",65955,"Reese Vivrette","2B",3,0,0,0,0,1,0
+"492","4497572","Lincoln Memorial","Ga. Southwestern",65955,"Reese Vivrette","2B",2,1,1,0,0,1,1
+"493","4496734","Arizona","Utah Tech",58273,"Regan Shockey","CF",3,0,1,2,0,1,0
+"494","4496717","Marshall","Arkansas",38256,"Rielly Lucas","1B",3,0,1,1,0,0,0
+"495","4496739","FGCU","Boston College",46962,"Riley Oakes","CF",3,0,2,0,0,0,0
+"496","4496715","Alabama","Villanova",64970,"Riley Valentine","DP",3,1,0,0,0,1,0
+"497","4496735","Central Okla.","Okla. Christian",36707,"Rylee Lemos","RF",3,2,1,0,0,0,0
+"498","4516325","CUI","Northwest Nazarene",54297,"Rylie Rohr","SS",3,0,1,0,0,0,0
+"499","5021933","Alabama Huntsville","Carson-Newman",63304,"Sadie Thompson","CF",3,1,2,1,0,0,0
+"500","4496739","FGCU","Boston College",36865,"Sam Leski","DP",3,0,0,0,0,2,0
+"501","4496711","Louisiana","Chattanooga",54177,"Sam Roe","3B",2,2,1,3,1,1,1
+"502","4496711","Louisiana","Chattanooga",24278,"Samantha Graeter","LF",3,2,1,0,0,1,0
+"503","5021936","Colo. Christian","St. Edward's",54503,"Samaria Roope","1B",3,0,0,0,0,0,0
+"504","5021936","Colo. Christian","St. Edward's",18090,"Sami Edwards","CF",3,1,2,0,0,0,0
+"505","5021942","Young Harris","Christian Brothers",39968,"Sammi Martin","C",3,1,1,1,0,1,0
+"506","4496746","Davis & Elkins","San Fran. St.",31270,"Sammie Jarvis","DP/P",3,1,0,0,0,1,0
+"507","4496746","San Fran. St.","Davis & Elkins",65299,"Samy Vargas","1B",3,0,0,0,0,0,0
+"508","4496737","Texas St.","Northwestern St.",65152,"Sara Vanderford","3B",3,1,1,3,1,0,0
+"509","4516323","UVA Wise","King (TN)",3409,"Sarah Barrett","LF",3,2,2,0,0,1,0
+"510","4492878","Nebraska","Washington",26471,"Sarah Harness","P",0,0,0,0,0,0,3
+"511","4496729","King (TN)","UVA Wise",38453,"Savana Luper","P",0,0,0,0,0,0,3
+"512","4496729","UVA Wise","King (TN)",31889,"Savannah Johnson","1B",3,0,1,1,0,1,0
+"513","4496721","UConn","Howard",53290,"Savannah Ring","RF",3,0,2,0,0,0,0
+"514","4496730","Kent St.","Elon",68966,"Savannah Wing","RF",3,1,2,0,0,0,0
+"515","4496727","Davis & Elkins","Neb.-Kearney",34183,"Saylor Kneeland","P",0,0,0,0,0,0,3
+"516","4496746","Davis & Elkins","San Fran. St.",44211,"Sharon Morales","CF",3,0,0,0,0,0,0
+"517","4496735","Central Okla.","Okla. Christian",47056,"Shayleigh Odom","CF",3,0,0,0,0,1,0
+"518","5020640","Mississippi Col.","Trevecca Nazarene",55702,"Shelby Samples","CF",3,2,2,2,1,0,0
+"519","4516325","CUI","Northwest Nazarene",19435,"Shelli Faulk","1B",3,1,2,1,NA,0,0
+"520","4496728","Kansas City","BYU",68240,"Sheridon Wilber","P",0,0,0,0,0,0,3
+"521","4516325","Northwest Nazarene","CUI",6047,"Sidney Booth","DH",3,0,0,0,0,1,0
+"522","4496700","Howard","UCF",20341,"Sidney Fletcher","3B",3,0,0,0,0,0,0
+"523","4496701","UCF","UConn",30250,"Sierra Humphreys","SS",3,1,1,0,0,0,0
+"524","4497381","Miles","Ga. Southwestern",32187,"Skylar Jones","DP",3,0,0,0,0,1,0
+"525","4496708","Idaho St.","San Diego",57624,"Skyler Sethman","2B",3,0,1,0,0,1,0
+"526","4496689","Azusa Pacific","Mont. St. Billings",51504,"Sommer Quinones","2B",3,0,1,0,0,1,0
+"527","4496732","UTSA","Texas St.",9225,"Sophie Campbell","DH",3,0,0,0,0,NA,0
+"528","4496701","UCF","UConn",34672,"Stormy Kotzelnick","DH",3,1,1,2,0,0,0
+"529","5021942","Christian Brothers","Young Harris",804,"Summer Alexander","3B",3,2,2,2,1,0,0
+"530","4496728","Kansas City","BYU",46079,"Sydney Nichols","SS",3,1,0,0,0,1,0
+"531","4496719","Kansas City","Nevada",46079,"Sydney Nichols","SS",3,0,0,0,0,NA,0
+"532","4496712","Nevada","Hawaii",31394,"Taryn Jenkins","1B",3,NA,NA,NA,NA,0,0
+"533","4496719","Nevada","Kansas City",31394,"Taryn Jenkins","1B",3,1,0,0,0,0,0
+"534","4496745","UTSA","Northwestern St.",38873,"Taryn Madlock","RF",3,0,1,0,0,NA,0
+"535","4496735","Central Okla.","Okla. Christian",37781,"Tatum Long","1B",3,0,0,0,0,2,0
+"536","4496712","Nevada","Hawaii",40722,"Tatum Maytorena","LF",3,0,0,0,0,0,0
+"537","4496744","UNCW","Queens (NC)",65949,"Tayler Vitola","2B",3,0,1,0,0,0,0
+"538","4496708","Idaho St.","San Diego",20177,"Taylor Fitzgerald","P",0,0,0,0,0,0,3
+"539","4496732","UTSA","Texas St.",31468,"Taylor Jensen","C",3,0,1,1,0,1,0
+"540","4496745","UTSA","Northwestern St.",31468,"Taylor Jensen","C",3,0,1,1,0,1,0
+"541","4496708","San Diego","Idaho St.",31903,"Taylor Johnson","1B",3,0,0,0,0,NA,0
+"542","4496726","Western Wash.","Dominican (CA)",33463,"Taylor Khorrami","CF",3,1,1,0,0,0,0
+"543","4496728","Kansas City","BYU",35203,"Taylor Kvale","LF",3,1,1,1,0,0,0
+"544","4496745","Northwestern St.","UTSA",68632,"Taylor Williams","2B",3,NA,2,1,0,0,0
+"545","4496737","Northwestern St.","Texas St.",68632,"Taylor Williams","2B",3,0,0,0,0,1,0
+"546","4492874","Oregon","Indiana",5125,"Tehya Bird","3B",3,0,0,0,0,2,0
+"547","4496708","San Diego","Idaho St.",31431,"Tele Jennings","LF",3,0,NA,0,0,NA,0
+"548","4496735","Central Okla.","Okla. Christian",53386,"Terin Ritz","P/DP",2,0,0,0,0,1,1
+"549","4496715","Villanova","Alabama",11347,"Tess Cites","CF",3,0,0,0,0,NA,0
+"550","4496704","Villanova","Georgia Tech",11347,"Tess Cites","CF",3,0,0,0,0,0,0
+"551","4496733","South Fla.","Illinois St.",65408,"Tieley Vaughn","3B",3,0,0,0,0,0,0
+"552","4496729","King (TN)","UVA Wise",55338,"Tori Ryan","LF",3,0,0,0,0,0,0
+"553","4496746","Davis & Elkins","San Fran. St.",13022,"Trinity Cossette","RF",3,0,1,1,0,1,0
+"554","4496746","Davis & Elkins","San Fran. St.",20318,"Trinity Fleming","3B",3,0,1,1,0,0,0
+"555","4496745","Northwestern St.","UTSA",13154,"Tristin Court","3B",3,NA,NA,2,0,0,0
+"556","4492874","Oregon","Indiana",69321,"Vallery Wong","C",3,1,1,0,0,1,0
+"557","4496728","BYU","Kansas City",70396,"Violet Zavodnik","CF",3,1,1,2,0,1,0
+"558","4496720","BYU","Ole Miss",70396,"Violet Zavodnik","CF",3,0,1,0,0,0,0
+"559","4496735","Okla. Christian","Central Okla.",66281,"Whitney Walde","C",3,0,1,3,0,0,0
+"560","4496739","Boston College","FGCU",28649,"Zoe Hines","LF",3,0,1,0,0,1,0
+"561","4497572","Ga. Southwestern","Lincoln Memorial",68709,"Zoe Willis","2B",3,2,1,0,0,0,0
+"562","5021941","MSU Denver","St. Mary's (TX)",1835,"Aaliyah Arellano","3B",2,1,1,1,0,1,0
+"563","4496719","Nevada","Kansas City",31342,"Aaliyah Jenkins","C",2,0,1,0,0,0,0
+"564","4496740","Wofford","Eastern Ky.",9157,"Abbi Campbell","LF",2,0,0,0,0,0,0
+"565","4496705","Nicholls","LSU",1321,"Abby Andersen","RF",2,0,1,0,0,0,0
+"566","4496739","Boston College","FGCU",17514,"Abby Dunning","P",0,0,0,0,0,0,2
+"567","4496718","Missouri St.","Clemson",20649,"Abby Ford","CF",2,0,0,0,0,0,0
+"568","4496740","Wofford","Eastern Ky.",24163,"Abby Gossett","DH",2,0,0,0,0,0,0
+"569","4496719","Kansas City","Nevada",30423,"Abby Husak","RF",2,NA,1,0,0,1,0
+"570","4496733","Illinois St.","South Fla.",34203,"Abby Knight","1B",2,0,0,0,0,0,0
+"571","4496706","UT Arlington","Tennessee",25436,"Abi Gutierrez","P",0,0,0,0,0,0,2
+"572","4497381","Miles","Ga. Southwestern",6247,"Abigail Boudreaux","1B",2,0,0,0,0,0,0
+"573","4496711","Chattanooga","Louisiana",57474,"Acelynn Sellers","1B",2,0,1,0,0,0,0
+"574","4496727","Neb.-Kearney","Davis & Elkins",15053,"Addy Deal","DP",2,1,1,2,0,1,0
+"575","4516323","UVA Wise","King (TN)",22962,"Adyson Gibson","CF",2,0,0,0,0,2,0
+"576","4496706","UT Arlington","Tennessee",26089,"Alaina Hampton","SS",2,0,0,0,0,1,0
+"577","4496733","South Fla.","Illinois St.",53411,"Alanah Rivera","SS",2,0,0,0,0,0,0
+"578","4496728","BYU","Kansas City",443,"Aleia Agbayani","RF",2,1,1,0,0,0,0
+"579","4496722","Iowa St.","Utah Valley",51911,"Alesia Ranches","SS",2,2,0,0,0,0,0
+"580","4496741","South Fla.","Bethune-Cookman",21871,"Alexa Galligani","LF",2,1,0,0,0,0,0
+"581","4496705","Nicholls","LSU",50341,"Alexa Poche","1B",2,0,0,0,0,2,0
+"582","4496689","Mont. St. Billings","Azusa Pacific",63935,"Alexis Tovar","DH",2,0,1,0,0,0,0
+"583","4496730","Elon","Kent St.",57381,"Allee Seering","3B",2,1,1,0,0,0,0
+"584","4497537","Southeastern La.","Green Bay",7774,"Allison Brunson","P",0,0,0,0,0,0,2
+"585","4496740","Wofford","Eastern Ky.",5001,"Ally Bigham","1B",2,0,0,0,0,0,0
+"586","4496715","Villanova","Alabama",31989,"Ally Jones","C",2,0,0,0,0,1,0
+"587","4496689","Azusa Pacific","Mont. St. Billings",43888,"Alyana Montesino","DH",2,0,1,1,0,0,0
+"588","4496727","Davis & Elkins","Neb.-Kearney",27231,"Alyssa Haynes","LF",2,0,1,0,0,0,0
+"589","4496700","Howard","UCF",65337,"Alyssa Vasquez","C",2,0,0,0,0,0,0
+"590","5021944","Spring Hill","Mobile",23463,"Amanda Glowacki","DP",2,0,0,0,0,0,0
+"591","4496700","Howard","UCF",67218,"Ameila Weber","P",0,0,0,0,0,0,2
+"592","4496716","Bethune-Cookman","Illinois St.",2517,"Angelina Badalament","1B",2,1,0,0,0,0,0
+"593","4496725","Utah Valley","Oklahoma",39354,"Angelique Mann","CF",2,0,0,0,0,0,0
+"594","4496718","Missouri St.","Clemson",44800,"Annie Mueller","RF",2,0,0,0,0,1,0
+"595","4496724","MSU Moorhead","San Fran. St.",46430,"Annika Norman","SS",2,0,0,1,0,0,0
+"596","5021941","St. Mary's (TX)","MSU Denver",55758,"Arianna Sanchez","LF",2,0,0,0,0,0,0
+"597","5021936","St. Edward's","Colo. Christian",65730,"Arianna Vidales","CF",2,0,1,0,0,1,0
+"598","4496718","Clemson","Missouri St.",47032,"Arielle Oda","LF",2,0,1,1,0,0,0
+"599","4496708","San Diego","Idaho St.",63937,"Arisa Tovar","C",2,0,NA,0,0,0,0
+"600","4496700","UCF","Howard",24819,"Ashleigh Griffin","C",2,1,0,1,0,0,0
+"601","4496744","Queens (NC)","UNCW",42861,"Ashlyn Mickler","2B",2,0,0,0,0,0,0
+"602","4496737","Northwestern St.","Texas St.",66330,"Ashlyn Walker","C",2,0,0,0,0,1,0
+"603","5021936","St. Edward's","Colo. Christian",10223,"Audri Castillo","1B",2,0,0,0,0,0,0
+"604","4492878","Nebraska","Washington",6916,"Ava Bredwell","C",2,0,2,0,0,0,0
+"605","4496744","UNCW","Queens (NC)",64360,"Ava Tsiouplis","DP",2,0,0,0,0,1,0
+"606","4492878","Washington","Nebraska",28801,"Avery Hobson","LF",2,0,0,0,0,0,0
+"607","4496724","MSU Moorhead","San Fran. St.",37861,"Azalya Lopez","P",2,1,0,0,0,0,0
+"608","4496711","Chattanooga","Louisiana",50212,"Baileigh Pitts","DP",2,0,0,1,0,1,0
+"609","4496737","Northwestern St.","Texas St.",51647,"Baillie Ragsdale","LF",2,0,0,0,0,0,0
+"610","4496734","Utah Tech","Arizona",29847,"Baylee Howley","DH",2,0,0,0,0,2,0
+"611","4496689","Azusa Pacific","Mont. St. Billings",21102,"Bella Fraser","RF",2,1,1,0,0,1,0
+"612","4497537","Green Bay","Southeastern La.",27931,"Bella Herman","CF",2,0,0,0,0,1,0
+"613","4496716","Illinois St.","Bethune-Cookman",68332,"Bella Wilkerson","C",2,0,0,0,0,0,0
+"614","4496733","South Fla.","Illinois St.",56149,"Belle Sardja","P/1B",0,0,0,0,0,0,2
+"615","4496729","King (TN)","UVA Wise",66803,"Bradie Warner","2B",2,0,0,0,0,2,0
+"616","4516323","King (TN)","UVA Wise",66803,"Bradie Warner","2B",2,1,0,0,0,2,0
+"617","5021941","St. Mary's (TX)","MSU Denver",20656,"Breanna Ford","P",0,0,0,0,0,0,2
+"618","4496741","Bethune-Cookman","South Fla.",65507,"Briana Velazquez","1B",2,0,0,0,0,1,0
+"619","4496712","Nevada","Hawaii",23203,"Bridgette Gilliano","2B",2,NA,1,0,0,0,0
+"620","4496719","Kansas City","Nevada",69467,"Briona Woods","CF",2,0,1,0,0,0,0
+"621","4496725","Utah Valley","Oklahoma",44265,"Britney Moreno","2B",2,0,1,0,0,0,0
+"622","4496722","Utah Valley","Iowa St.",44265,"Britney Moreno","2B",2,0,0,1,0,0,0
+"623","4492878","Nebraska","Washington",1520,"Brooke Andrews","CF",2,0,0,0,0,0,0
+"624","4492878","Washington","Nebraska",45710,"Brooke Nelson","1B",2,1,1,0,0,0,0
+"625","5021933","Carson-Newman","Alabama Huntsville",38266,"Brooklyn Lucero","P/DP",2,0,0,0,0,0,0
+"626","4496704","Villanova","Georgia Tech",47694,"Brooklyn Ostrowski","DP",2,0,1,0,0,0,0
+"627","4496715","Villanova","Alabama",47694,"Brooklyn Ostrowski","DP",2,0,0,0,0,0,0
+"628","4496741","Bethune-Cookman","South Fla.",57162,"Brooklyn Scott","LF",2,0,0,0,0,0,0
+"629","4496689","Mont. St. Billings","Azusa Pacific",38274,"Bryn Lucht","RF",2,0,0,0,0,1,0
+"630","4492878","Nebraska","Washington",45583,"Caitlynn Neal","LF",2,0,0,0,0,1,0
+"631","4496815","Trevecca Nazarene","Montevallo",68461,"Callie Williams","PH/2B",1,0,0,0,0,0,1
+"632","4496706","UT Arlington","Tennessee",12674,"Cameron Cooper","LF",2,0,1,0,0,0,0
+"633","4496711","Chattanooga","Louisiana",10509,"Camryn Cernuto","CF",2,1,1,0,0,0,0
+"634","4496722","Utah Valley","Iowa St.",14727,"Camryn Davis","P",0,0,0,0,0,0,2
+"635","4496745","UTSA","Northwestern St.",53725,"Camryn Robillard","3B",2,1,1,1,NA,1,0
+"636","4496719","Kansas City","Nevada",61151,"Camryn Stickel","P",0,0,0,0,0,0,2
+"637","5021936","Colo. Christian","St. Edward's",51464,"Camyryn Quilling","LF",2,2,2,0,0,0,0
+"638","4496727","Neb.-Kearney","Davis & Elkins",15573,"Carly Dembowski","LF",2,0,0,0,0,1,0
+"639","4496734","Utah Tech","Arizona",18247,"Carly Eldredge","2B",2,NA,1,NA,NA,0,0
+"640","4496720","Ole Miss","BYU",53241,"Catelyn Riley","P",1,0,0,0,0,1,1
+"641","4496700","UCF","Howard",18993,"Chloe Evans","RF",2,2,2,4,1,0,0
+"642","4492874","Indiana","Oregon",22663,"Chloe Geijer","DP",2,0,0,0,0,0,0
+"643","4496731","MSU Moorhead","Neb.-Kearney",39127,"Chloe Makinney","C",2,0,0,0,0,1,0
+"644","4496718","Missouri St.","Clemson",42520,"Chloe Merced","1B",2,0,0,0,0,1,0
+"645","4496715","Villanova","Alabama",59315,"Chloe Smith","3B",2,0,0,0,0,1,0
+"646","4496720","BYU","Ole Miss",62772,"Chloe Temples","P",0,0,0,0,0,0,2
+"647","4496735","Okla. Christian","Central Okla.",69499,"Chloe Woodward","2B",2,0,0,0,0,0,0
+"648","4496732","Texas St.","UTSA",63988,"Ciara Trahan","LF",2,0,1,0,0,0,0
+"649","4496723","Duke","Oklahoma",14643,"Claire Davidson","LF",2,0,0,0,0,0,0
+"650","4496739","FGCU","Boston College",40541,"Claire Maulding","P",0,0,0,0,0,0,2
+"651","4497537","Southeastern La.","Green Bay",35103,"Colleen Kulivan","CF",2,1,1,1,0,0,0
+"652","4496742","McNeese","California",50526,"Corine Poncho","1B",2,1,1,1,1,0,0
+"653","4496725","Oklahoma","Utah Valley",55861,"Cydney Sanders","1B",2,0,1,0,0,0,0
+"654","4496723","Oklahoma","Duke",55861,"Cydney Sanders","1B",1,0,0,0,0,0,1
+"655","4496712","Hawaii","Nevada",43324,"Dallas Millwood","1B",2,0,1,0,0,0,0
+"656","4496746","San Fran. St.","Davis & Elkins",25223,"Daniella Guerrera","RF",2,0,0,1,0,0,0
+"657","4496724","San Fran. St.","MSU Moorhead",25223,"Daniella Guerrera","RF",2,0,2,2,0,0,0
+"658","4496720","Ole Miss","BYU",55066,"Delaney Rummell","3B",2,0,1,0,0,1,0
+"659","4496706","Tennessee","UT Arlington",54043,"Destiny Rodriguez","PH/2B",1,0,1,0,0,0,1
+"660","4496725","Oklahoma","Utah Valley",48339,"Ella Parker","DH/1B",2,3,1,0,0,1,0
+"661","4496728","Kansas City","BYU",45549,"Elleana Navarro","DH",2,1,0,1,0,1,0
+"662","4496742","California","McNeese",8634,"Elon Butler","2B",2,1,1,1,1,0,0
+"663","5021941","St. Mary's (TX)","MSU Denver",2350,"Emily Ayala","P",2,0,0,0,0,0,0
+"664","4496739","FGCU","Boston College",10995,"Emily Chiarella","RF",2,0,0,0,0,2,0
+"665","4496717","Marshall","Arkansas",11957,"Emily Cole","P",0,0,0,0,0,0,2
+"666","4496742","McNeese","California",49810,"Emily Phillips","C",2,1,1,1,1,1,0
+"667","5021933","Carson-Newman","Alabama Huntsville",21401,"Emma Frost","P",0,0,0,0,0,0,2
+"668","4496744","Queens (NC)","UNCW",21439,"Emma Frye","DP",2,0,0,0,0,2,0
+"669","4496739","Boston College","FGCU",30910,"Emma Jackson","2B",2,0,1,0,0,1,0
+"670","4496706","UT Arlington","Tennessee",37879,"Emma Lopez","2B",2,0,0,0,0,0,0
+"671","4496742","McNeese","California",1831,"Erin Ardoin","CF",2,0,1,0,0,1,0
+"672","4496705","Nicholls","LSU",34815,"Erin Krause","3B",2,0,0,0,0,2,0
+"673","4496716","Bethune-Cookman","Illinois St.",22944,"Essence Gibbs","RF",2,0,0,0,0,1,0
+"674","4496723","Duke","Oklahoma",21228,"Francesca Frelick","DH",2,0,0,0,0,1,0
+"675","4496712","Nevada","Hawaii",28082,"Gabby Herrera","RF",2,NA,NA,2,NA,0,0
+"676","4496705","Nicholls","LSU",28358,"Gabby Higbee","CF",2,0,1,0,0,1,0
+"677","4496706","Tennessee","UT Arlington",36287,"Gabby Leach","PH/LF",2,1,1,0,0,0,0
+"678","5021936","St. Edward's","Colo. Christian",37881,"Gabi Lopez","C",2,0,0,0,0,1,0
+"679","4496739","Boston College","FGCU",53770,"Gator Robinson","SS",2,0,0,0,0,2,0
+"680","5021941","MSU Denver","St. Mary's (TX)",6366,"Genevieve Bower","DP",2,1,0,0,0,0,0
+"681","4497381","Miles","Ga. Southwestern",25810,"Genia Hall","3B",2,0,0,0,0,1,0
+"682","4496731","Neb.-Kearney","MSU Moorhead",21869,"Gianna Galli","3B",2,1,1,0,0,0,0
+"683","4496727","Neb.-Kearney","Davis & Elkins",21869,"Gianna Galli","3B",2,0,1,1,0,0,0
+"684","4496701","UConn","UCF",127,"Giuliana Abruscato","RF",2,0,0,0,0,2,0
+"685","4496701","UConn","UCF",31358,"Grace Jenkins","C",2,0,0,0,0,0,0
+"686","4496715","Villanova","Alabama",52304,"Grace Reed","2B/3B",2,0,0,0,0,2,0
+"687","4496706","UT Arlington","Tennessee",8125,"Gracie Bumpurs","P",0,0,0,0,0,0,2
+"688","4496815","Trevecca Nazarene","Montevallo",33831,"Gracie Kirby","RF",2,0,0,0,0,1,0
+"689","4497572","Lincoln Memorial","Ga. Southwestern",48104,"Gracie Palmer","SS",2,0,0,0,0,0,0
+"690","5021939","Lincoln Memorial","Alabama Huntsville",48104,"Gracie Palmer","SS",2,0,0,0,0,0,0
+"691","4496740","Wofford","Eastern Ky.",48343,"Gracie Parker","3B",2,0,0,0,0,1,0
+"692","4516324","Elon","Kent St.",28208,"Greta Hessenthaler","2B",2,0,1,1,0,1,0
+"693","4496746","Davis & Elkins","San Fran. St.",67637,"Gweny Wessling","C",2,0,0,1,0,0,0
+"694","5021936","St. Edward's","Colo. Christian",59907,"Hailey Sonka","LF",2,0,1,0,0,0,0
+"695","4496701","UConn","UCF",13144,"Haley Coupal","1B",2,0,0,0,0,2,0
+"696","4496712","Hawaii","Nevada",31719,"Haley Johnson","DH",2,0,0,0,0,NA,0
+"697","5021937","Young Harris","Montevallo",9537,"Hannah Carey","SS",2,2,1,3,1,0,0
+"698","4496725","Oklahoma","Utah Valley",12723,"Hannah Coor","PH/LF",1,1,0,0,0,0,1
+"699","5020640","Mississippi Col.","Trevecca Nazarene",62549,"Hannah Tauzin","2B",2,0,1,1,0,1,0
+"700","4496740","Wofford","Eastern Ky.",91,"Havalynn Abernathy","RF",2,0,0,0,0,1,0
+"701","4496740","Wofford","Eastern Ky.",30680,"Hope Ingle","C",2,0,0,0,0,0,0
+"702","4496701","UConn","UCF",31362,"Hope Jenkins","DH/P",1,0,0,0,0,0,1
+"703","4497381","Miles","Ga. Southwestern",31724,"Indya Johnson","2B",2,0,0,0,0,2,0
+"704","4497381","Ga. Southwestern","Miles",39524,"Isabel Marcotte","1B",2,1,0,0,0,0,0
+"705","4492878","Washington","Nebraska",23342,"Jadyn Glab","DH",2,1,2,4,1,0,0
+"706","4496700","UCF","Howard",68510,"Jasmine Williams","SS",2,0,0,0,0,0,0
+"707","4496711","Chattanooga","Louisiana",51336,"Jayce Purdy","C",2,0,0,0,0,2,0
+"708","4496716","Illinois St.","Bethune-Cookman",60590,"Jayden Standish","3B",2,0,1,NA,0,0,0
+"709","4496689","Mont. St. Billings","Azusa Pacific",32505,"Jazlyn Kalehuawehe","1B",2,0,0,0,0,1,0
+"710","5021936","St. Edward's","Colo. Christian",49027,"Jerzie Pelham","RF",2,0,0,0,0,0,0
+"711","5021933","Alabama Huntsville","Carson-Newman",17951,"Jessica Edde","C",2,1,2,1,0,0,0
+"712","4496735","Okla. Christian","Central Okla.",16160,"Jill Dickson","P",0,0,0,0,0,0,2
+"713","4496701","UCF","UConn",54829,"Johneisha Rowe","CF",2,0,1,0,0,0,0
+"714","5021939","Lincoln Memorial","Alabama Huntsville",52169,"Jordann Reagan","C",2,0,0,0,0,1,0
+"715","4496716","Bethune-Cookman","Illinois St.",14790,"Joslynn Davis","CF",2,0,0,0,0,0,0
+"716","4496700","Howard","UCF",35509,"Justine Lambert","SS",2,0,1,1,0,1,0
+"717","4496735","Okla. Christian","Central Okla.",7037,"Kadence Brewster","LF",2,2,1,2,1,0,0
+"718","4496719","Kansas City","Nevada",65917,"Kadin Vire","C",2,0,1,0,0,1,0
+"719","4492874","Oregon","Indiana",38463,"Kai Luschar","LF",2,1,1,1,0,0,0
+"720","4496701","UConn","UCF",33473,"Kaitlyn Kibling","CF",2,0,1,0,0,1,0
+"721","4496721","UConn","Howard",33473,"Kaitlyn Kibling","CF",2,0,0,0,0,1,0
+"722","4496746","San Fran. St.","Davis & Elkins",38847,"Kaitlyn Maddux","P",0,0,0,0,0,0,2
+"723","4496730","Elon","Kent St.",67492,"Kaitlyn Wells","RF",2,1,1,2,0,0,0
+"724","4496745","UTSA","Northwestern St.",53910,"Kalee Rochinski","DP",2,0,0,0,0,0,0
+"725","4496722","Iowa St.","Utah Valley",24136,"Kali Gose","RF",2,0,0,0,0,0,0
+"726","4496715","Alabama","Villanova",27555,"Kali Heivilin","2B",2,0,0,1,0,0,0
+"727","5021941","MSU Denver","St. Mary's (TX)",24347,"Kami Grammerstorf","CF",2,2,2,0,0,0,0
+"728","4496705","LSU","Nicholls",49688,"Karli Petty","2B",2,0,1,1,0,0,0
+"729","4496722","Iowa St.","Utah Valley",10785,"Karlie Charles","P",0,0,0,0,0,0,2
+"730","4496723","Oklahoma","Duke",49915,"Kasidi Pickering","PH/LF",2,0,2,1,0,0,0
+"731","4496725","Oklahoma","Utah Valley",49915,"Kasidi Pickering","RF",2,1,1,5,1,0,0
+"732","4496737","Texas St.","Northwestern St.",70364,"Katarina Zarate","2B",2,0,0,0,0,1,0
+"733","4492878","Nebraska","Washington",9305,"Katelyn Caneda","2B",2,0,0,0,0,1,0
+"734","4496714","San Diego St.","Stanford",23601,"Katie Goldberg","SS",2,0,0,0,0,2,0
+"735","5021941","MSU Denver","St. Mary's (TX)",39305,"Katie Maney","RF",2,1,1,0,0,0,0
+"736","4496706","Tennessee","UT Arlington",62624,"Katie Taylor","RF",2,2,1,0,0,0,0
+"737","5021939","Lincoln Memorial","Alabama Huntsville",50854,"Katy Pozzuto","1B",2,0,0,0,0,0,0
+"738","4496689","Mont. St. Billings","Azusa Pacific",21916,"Kaylin Galvin","C",2,0,1,0,0,0,0
+"739","4492878","Nebraska","Washington",33795,"Kaylin Kinney","DH",2,0,0,0,0,0,0
+"740","4496740","Wofford","Eastern Ky.",24692,"Kaytlin Greenwood","SS",2,0,0,0,0,2,0
+"741","4496705","LSU","Nicholls",38562,"Kelley Lynch","DH",2,0,0,0,0,1,0
+"742","4496723","Duke","Oklahoma",63869,"Kelly Torres","C",1,0,0,0,0,0,1
+"743","4496704","Villanova","Georgia Tech",67935,"Kelsey White","RF",2,0,0,0,0,0,0
+"744","4496715","Villanova","Alabama",67935,"Kelsey White","RF",2,0,0,0,0,1,0
+"745","4496723","Duke","Oklahoma",70330,"Kelsey Zampa","RF",2,0,1,0,0,0,0
+"746","4496718","Missouri St.","Clemson",37034,"Kelsie Lewis","2B",2,0,0,0,0,1,0
+"747","4496700","Howard","UCF",28353,"Kenna Higa","1B",1,0,0,0,0,0,1
+"748","5021933","Carson-Newman","Alabama Huntsville",66754,"Kennady Warder","C",2,0,0,0,0,2,0
+"749","4496737","Northwestern St.","Texas St.",52813,"Kennedy Reynolds","DH",2,0,0,0,0,0,0
+"750","4496718","Missouri St.","Clemson",15815,"Kenzie Derryberry","SS",2,0,0,0,0,1,0
+"751","4496689","Mont. St. Billings","Azusa Pacific",30648,"Kilee Imada","2B",2,0,0,0,0,0,0
+"752","4496689","Azusa Pacific","Mont. St. Billings",18701,"Kinsey Erickson","CF",2,1,1,1,0,0,0
+"753","4492878","Washington","Nebraska",19831,"Kinsey Fiedler","3B",2,1,0,0,0,0,0
+"754","4496704","Georgia Tech","Villanova",46508,"Kinsey Norton","P",0,0,0,0,0,0,2
+"755","5021933","Alabama Huntsville","Carson-Newman",59455,"Kylee Smith","SS",2,2,1,0,0,1,0
+"756","5021939","Alabama Huntsville","Lincoln Memorial",59455,"Kylee Smith","SS",2,0,0,0,0,1,0
+"757","5020640","Trevecca Nazarene","Mississippi Col.",8276,"Kyleigh Burgett","SS",2,0,0,0,0,NA,0
+"758","4496815","Trevecca Nazarene","Montevallo",8276,"Kyleigh Burgett","SS",2,0,0,0,0,0,0
+"759","5021937","Young Harris","Montevallo",19671,"Kylie Ferguson","P",0,0,0,0,0,0,2
+"760","4496732","UTSA","Texas St.",20717,"Kylie Forney","3B",2,0,0,0,0,NA,0
+"761","4496734","Utah Tech","Arizona",37582,"Laura Lockard","3B",2,0,0,0,0,0,0
+"762","4496706","Tennessee","UT Arlington",42088,"Laura Mealer","DH/PR",2,0,0,0,0,0,0
+"763","4496711","Louisiana","Chattanooga",1017,"Lauren Allred","1B",2,1,0,1,0,1,0
+"764","4496689","Mont. St. Billings","Azusa Pacific",5478,"Lauren Blaschak","SS",2,0,0,0,0,1,0
+"765","4496744","UNCW","Queens (NC)",12731,"Lauren Cope","1B",2,0,0,0,0,2,0
+"766","4496728","Kansas City","BYU",48369,"Lauren Parker","CF",2,1,0,0,0,2,0
+"767","4497537","Green Bay","Southeastern La.",50640,"Lauren Porter","SS",2,0,0,0,0,NA,0
+"768","4496744","UNCW","Queens (NC)",53048,"Lauryn Richardson","3B",2,0,0,0,0,0,0
+"769","5021933","Alabama Huntsville","Carson-Newman",27203,"Lawren Hayes","2B",2,1,0,1,0,1,0
+"770","4496731","Neb.-Kearney","MSU Moorhead",32396,"Leah Jurgens","1B",2,1,1,1,0,0,0
+"771","5021944","Spring Hill","Mobile",64477,"Leighanna Turk","P",0,0,0,0,0,0,2
+"772","4496731","MSU Moorhead","Neb.-Kearney",68833,"Lexie Wilson","PH/3B",2,0,1,2,0,1,0
+"773","4496728","BYU","Kansas City",47846,"Lily Owens","3B",2,1,1,0,0,0,0
+"774","4496706","UT Arlington","Tennessee",21063,"Lindsey Franklin","1B",2,0,1,0,0,1,0
+"775","4496727","Davis & Elkins","Neb.-Kearney",868,"Linzey Allard","1B",2,0,0,0,0,0,0
+"776","5021936","St. Edward's","Colo. Christian",64829,"Lisette Urquidez","DP",2,0,0,0,0,0,0
+"777","4496724","MSU Moorhead","San Fran. St.",14829,"Lizzy Davis","LF",2,0,0,0,0,1,0
+"778","4496714","San Diego St.","Stanford",32927,"Macey Keester","CF",2,0,1,0,0,0,0
+"779","4496705","LSU","Nicholls",4597,"Maci Bergeron","C",2,0,1,0,0,0,0
+"780","5021941","St. Mary's (TX)","MSU Denver",17328,"Mackenzie Dugi","RF",2,0,0,0,0,2,0
+"781","4496728","BYU","Kansas City",58691,"Macy Simmons","C",2,0,0,0,0,0,0
+"782","4496732","UTSA","Texas St.",27258,"Madi Hays","CF",2,0,0,0,0,2,0
+"783","4496744","Queens (NC)","UNCW",9353,"Madison Cantoni","C",2,0,0,0,0,2,0
+"784","5021939","Lincoln Memorial","Alabama Huntsville",27812,"Madison Henry","CF",2,0,0,0,0,0,0
+"785","4496732","UTSA","Texas St.",36752,"Madison Lenton","LF",2,0,0,0,0,0,0
+"786","4496704","Villanova","Georgia Tech",47697,"Madison Ostrowski","LF",2,0,0,0,0,0,0
+"787","4496727","Neb.-Kearney","Davis & Elkins",54637,"Madison Rosenthal","P",0,0,0,0,0,0,2
+"788","4496740","Eastern Ky.","Wofford",57211,"Madison Scott","SS",2,NA,1,0,0,1,0
+"789","4497537","Green Bay","Southeastern La.",2767,"Madyson Baker","1B",2,0,0,0,0,0,0
+"790","4496714","San Diego St.","Stanford",7251,"Makena Brocki","3B",2,0,0,0,0,2,0
+"791","4496689","Mont. St. Billings","Azusa Pacific",10375,"Malia Cavan","LF",2,0,0,0,0,1,0
+"792","4496739","FGCU","Boston College",1581,"Maria Angelino","SS",2,0,0,0,0,2,0
+"793","4496689","Mont. St. Billings","Azusa Pacific",49130,"Marin Penney","3B",2,0,0,0,0,1,0
+"794","4496734","Utah Tech","Arizona",54923,"Marisa Rubio","LF",2,0,NA,0,0,0,0
+"795","4496735","Okla. Christian","Central Okla.",50806,"Marissa Powell","DP",2,0,0,0,0,2,0
+"796","4496733","South Fla.","Illinois St.",64208,"Marissa Trivelpiece","1B/DH",2,0,0,1,0,0,0
+"797","5021933","Carson-Newman","Alabama Huntsville",65155,"Mary Vandergriff","2B",2,0,0,0,0,0,0
+"798","4496700","Howard","UCF",32245,"Maryn Jordan","CF",2,0,1,0,0,0,0
+"799","4496712","Hawaii","Nevada",45411,"Maya Nakamura","2B",2,NA,0,0,0,1,0
+"800","4496712","Hawaii","Nevada",22949,"Maycen Gibbs","RF",2,0,0,0,0,1,0
+"801","4496739","FGCU","Boston College",53124,"Meagan Ricks","1B/DP",2,0,1,0,0,1,0
+"802","4496725","Utah Valley","Oklahoma",22950,"Megan Gibbs","1B",2,0,1,0,0,0,0
+"803","4516325","CUI","Northwest Nazarene",31840,"Megan Johnson","CF",2,1,1,0,0,0,0
+"804","4496732","Texas St.","UTSA",33142,"Megan Kelnar","C",2,0,0,0,0,0,0
+"805","4496740","Wofford","Eastern Ky.",63949,"Megan Towery","CF",2,0,0,0,0,NA,0
+"806","4496739","Boston College","FGCU",56878,"Meghan Schouten","1B",2,0,1,0,0,1,0
+"807","4496689","Azusa Pacific","Mont. St. Billings",1152,"Mia Alvarez","SS",2,1,1,2,0,0,0
+"808","4496700","Howard","UCF",23775,"Mia Gonzales","P",0,0,0,0,0,0,2
+"809","4496724","San Fran. St.","MSU Moorhead",43467,"Mia Misasi","SS",2,1,1,0,0,0,0
+"810","4516325","CUI","Northwest Nazarene",53840,"Michalah Robison","RF",2,1,1,0,0,0,0
+"811","4496708","San Diego","Idaho St.",18464,"Mikalyn Emanuelli","CF",2,0,0,0,0,0,0
+"812","5021941","MSU Denver","St. Mary's (TX)",4579,"Miki Berg","2B",2,0,0,0,0,0,0
+"813","4516325","CUI","Northwest Nazarene",45803,"Missy Nemeth","DH",2,0,0,0,0,1,0
+"814","4496815","Montevallo","Trevecca Nazarene",49102,"Molly Pendley","1B",2,1,1,1,0,0,0
+"815","4496706","UT Arlington","Tennessee",67699,"Morgan Westbrook","RF",1,0,0,0,0,0,1
+"816","4496725","Utah Valley","Oklahoma",28357,"Mya Higareda","C",2,0,0,0,0,2,0
+"817","4496706","UT Arlington","Tennessee",16712,"Nikki Donahue","C",2,0,0,0,0,2,0
+"818","4496729","King (TN)","UVA Wise",13142,"Nikole Counts","P",0,0,0,0,0,0,2
+"819","4496734","Utah Tech","Arizona",64029,"Oaklee Trapp","1B",2,0,0,0,0,0,0
+"820","4496718","Missouri St.","Clemson",34837,"Olivia Krehbiel","3B",2,0,2,0,0,0,0
+"821","4496734","Arizona","Utah Tech",16347,"Paige Dimler","DH",2,0,0,0,0,0,0
+"822","4497537","Green Bay","Southeastern La.",26300,"Paige Hanson","3B",2,0,1,0,0,1,0
+"823","4492874","Oregon","Indiana",58879,"Paige Sinicki","SS",2,0,1,0,0,0,0
+"824","4496733","South Fla.","Illinois St.",16490,"Payton Dixon","P",0,0,0,0,0,0,2
+"825","4496730","Elon","Kent St.",62068,"Payton Swart","2B",2,0,0,1,0,1,0
+"826","4496722","Utah Valley","Iowa St.",25852,"Peyton Hall","3B",2,0,0,0,0,1,0
+"827","4496725","Utah Valley","Oklahoma",25852,"Peyton Hall","3B",2,0,0,0,0,0,0
+"828","4496746","San Fran. St.","Davis & Elkins",56997,"Phoebe Schultz","LF",2,1,2,1,0,0,0
+"829","4496734","Utah Tech","Arizona",9219,"Rachel Campbell","C",2,0,0,0,0,0,0
+"830","4496705","LSU","Nicholls",25476,"Raeleen Gutierrez","1B",2,2,2,1,1,0,0
+"831","4496717","Arkansas","Marshall",34780,"Raigan Kramer","LF",2,0,1,1,0,0,0
+"832","4496705","Nicholls","LSU",27469,"Reagan Heflin","LF",2,0,0,0,0,0,0
+"833","4496745","UTSA","Northwestern St.",59546,"Reagan Smith","P",0,0,0,0,0,0,2
+"834","5021941","St. Mary's (TX)","MSU Denver",52759,"Reba Reyes","CF",2,1,1,3,NA,0,0
+"835","4496740","Eastern Ky.","Wofford",34298,"Reese Knox","RF",2,1,1,NA,0,0,0
+"836","4496733","South Fla.","Illinois St.",18186,"Rian Eigenmann","DH",2,0,0,0,0,0,0
+"837","4496725","Utah Valley","Oklahoma",5092,"Ry Binne","SS",2,0,0,0,0,1,0
+"838","4496735","Central Okla.","Okla. Christian",1600,"Rylee Anglen","2B",2,0,0,0,0,1,0
+"839","4496723","Oklahoma","Duke",6025,"Rylie Boone","RF/CF",2,0,0,0,0,0,0
+"840","4496742","McNeese","California",6306,"Rylie Bouvier","3B",2,0,0,0,0,2,0
+"841","4496705","Nicholls","LSU",55270,"Rylie Rutherford","C",2,0,0,0,0,2,0
+"842","4496706","Tennessee","UT Arlington",67677,"Rylie West","LF",2,3,2,2,1,0,0
+"843","4496727","Neb.-Kearney","Davis & Elkins",45786,"Rylyn Nelson","2B",2,0,0,0,0,2,0
+"844","4496734","Utah Tech","Arizona",22258,"Sadie Gardner","RF",2,0,1,0,0,0,0
+"845","5021939","Alabama Huntsville","Lincoln Memorial",63304,"Sadie Thompson","CF",2,0,0,0,0,0,0
+"846","4496731","MSU Moorhead","Neb.-Kearney",10479,"Sam Centeno","3B",2,0,1,0,0,1,0
+"847","4496724","MSU Moorhead","San Fran. St.",10479,"Sam Centeno","C",2,1,1,1,1,0,0
+"848","4496733","South Fla.","Illinois St.",39212,"Sam Mallinder","2B",2,0,0,0,0,0,0
+"849","4496711","Louisiana","Chattanooga",55336,"Sam Ryan","P",0,0,0,0,0,0,2
+"850","4492878","Nebraska","Washington",5439,"Samantha Bland","RF",2,0,0,0,0,0,0
+"851","4496705","Nicholls","LSU",25534,"Samantha Gwiazda","SS",2,0,0,0,0,0,0
+"852","4496732","Texas St.","UTSA",65152,"Sara Vanderford","3B",2,1,1,0,0,0,0
+"853","4496729","UVA Wise","King (TN)",3409,"Sarah Barrett","LF",2,0,0,1,0,0,0
+"854","4496721","UConn","Howard",5492,"Sarah Blaskiewicz","C",2,0,0,0,0,2,0
+"855","4496701","UConn","UCF",53290,"Savannah Ring","2B",2,0,0,0,0,0,0
+"856","4496742","McNeese","California",55892,"Shaelyn Sanders","P",0,0,0,0,0,0,2
+"857","4496700","UCF","Howard",16605,"Shannon Doherty","1B",2,1,2,1,0,0,0
+"858","4496701","UCF","UConn",16605,"Shannon Doherty","1B",2,0,0,0,0,0,0
+"859","4496727","Davis & Elkins","Neb.-Kearney",44211,"Sharon Morales","CF",2,1,0,0,0,1,0
+"860","5021941","MSU Denver","St. Mary's (TX)",53561,"Shelby Robb","LF",2,1,0,1,0,0,0
+"861","4496689","Azusa Pacific","Mont. St. Billings",55942,"Sierra Sandoval","3B",2,0,1,0,0,0,0
+"862","4496745","Northwestern St.","UTSA",37497,"Sophia Livers","CF",2,1,1,0,0,0,0
+"863","4496717","Arkansas","Marshall",51078,"Spencer Prigge","SS",2,0,1,1,0,0,0
+"864","4492878","Nebraska","Washington",24520,"Sydney Gray","3B",2,0,0,0,0,0,0
+"865","4496737","Texas St.","Northwestern St.",26885,"Sydney Harvey","DH",2,0,1,0,0,0,0
+"866","4496721","Howard","UConn",32189,"Sydni Jones","LF",2,0,0,0,0,0,0
+"867","4496732","UTSA","Texas St.",38873,"Taryn Madlock","RF",2,0,0,0,0,NA,0
+"868","4496722","Iowa St.","Utah Valley",31902,"Tatum Johnson","DH",2,1,2,4,1,0,0
+"869","4496734","Arizona","Utah Tech",4955,"Tayler Biehl","SS",2,1,0,0,0,0,0
+"870","4496724","San Fran. St.","MSU Moorhead",33136,"Taylor Kelly","P",0,0,0,0,0,0,2
+"871","5021944","Spring Hill","Mobile",50211,"Taylor Pittman","1B",2,1,0,0,0,2,0
+"872","4496705","LSU","Nicholls",50284,"Taylor Pleasants","SS",2,2,1,3,0,0,0
+"873","4496721","UConn","Howard",70382,"Taylor Zatyk","PH/1B",2,1,1,0,0,0,0
+"874","5021933","Carson-Newman","Alabama Huntsville",7366,"Trinity Brooks","LF",2,0,1,0,0,1,0
+"875","4496727","Davis & Elkins","Neb.-Kearney",13022,"Trinity Cossette","RF",2,0,0,0,0,0,0
+"876","4496728","BYU","Kansas City",64486,"Tristen Turlington","PH/DH",2,2,1,1,0,0,0
+"877","4496737","Northwestern St.","Texas St.",13154,"Tristin Court","3B",2,0,0,0,0,0,0
+"878","4496735","Okla. Christian","Central Okla.",26017,"Tristyn Hamilton","CF",2,0,0,0,0,1,0
+"879","4496727","Davis & Elkins","Neb.-Kearney",30357,"Vanessa Hunter","DP",2,0,0,0,0,1,0
+"880","5021939","Lincoln Memorial","Alabama Huntsville",12390,"Victoria Conley","RF/P",2,0,1,0,0,1,0
+"881","4496704","Villanova","Georgia Tech",57338,"Victoria Sebastian","1B",2,0,0,0,0,1,0
+"882","4496715","Villanova","Alabama",57338,"Victoria Sebastian","1B",2,0,0,0,0,2,0
+"883","4497537","Green Bay","Southeastern La.",25525,"Viviana Guzman","RF",2,0,0,0,0,1,0
+"884","4496712","Hawaii","Nevada",23259,"Xiao Gin","SS",2,0,1,0,0,0,0
+"885","4496744","Queens (NC)","UNCW",13434,"Abby Craver","PH",1,0,0,0,0,0,0
+"886","4496717","Marshall","Arkansas",14558,"Abby Darnley","C",1,0,0,0,0,0,0
+"887","4496718","Clemson","Missouri St.",61660,"Abi Stuart","PH",1,0,0,0,0,0,0
+"888","4496718","Clemson","Missouri St.",65738,"Aby Vieira","PH/C",1,0,0,0,0,0,0
+"889","4496711","Chattanooga","Louisiana",33450,"Addy Keylon","RF",1,1,0,0,0,1,0
+"890","5021941","MSU Denver","St. Mary's (TX)",8010,"Adriana Bueno","PH",1,0,0,0,0,0,0
+"891","4497537","Green Bay","Southeastern La.",42671,"Aidyn Messmann","2B",1,0,0,0,0,0,0
+"892","4496706","Tennessee","UT Arlington",36283,"Alannah Leach","PH/RF",1,1,1,2,0,0,0
+"893","4496718","Clemson","Missouri St.",7418,"Alex Brown","SS",1,2,1,1,0,0,0
+"894","4496742","California","McNeese",5164,"Alexis Bishop","DP",1,1,0,0,0,0,0
+"895","4496741","South Fla.","Bethune-Cookman",12477,"Allana Consolazio","DH",1,1,1,1,0,0,0
+"896","4496714","San Diego St.","Stanford",37155,"Allie Light","P",0,0,0,0,0,0,1
+"897","4496744","UNCW","Queens (NC)",12780,"Allison Corbin","DP",1,0,0,0,0,1,0
+"898","4496725","Oklahoma","Utah Valley",63839,"Alynah Torres","PH/2B",1,1,1,0,0,0,0
+"899","4496723","Oklahoma","Duke",63839,"Alynah Torres","PH/2B",1,0,1,1,0,0,0
+"900","5021933","Alabama Huntsville","Carson-Newman",8684,"Alyssa Butts","PH",1,0,1,1,0,0,0
+"901","4496727","Neb.-Kearney","Davis & Elkins",20759,"Alyssa Fortik","PH",1,0,0,0,0,0,0
+"902","4496704","Villanova","Georgia Tech",57423,"Alyssa Seidler","P",0,0,0,0,0,0,1
+"903","4496725","Utah Valley","Oklahoma",54008,"Amber Rodriguez","PH/LF",1,0,0,0,0,0,0
+"904","4496722","Utah Valley","Iowa St.",54008,"Amber Rodriguez","LF",1,0,1,0,0,0,0
+"905","4496721","Howard","UConn",67218,"Ameila Weber","PH",1,0,0,0,0,0,0
+"906","4496739","FGCU","Boston College",5947,"Angelina Bonilla","P",0,0,0,0,0,0,1
+"907","4496714","San Diego St.","Stanford",69978,"Angie Yellen","RF",1,0,0,0,0,0,0
+"908","4496742","California","McNeese",52517,"Anna Reimers","P",0,0,0,0,0,0,1
+"909","5020640","Trevecca Nazarene","Mississippi Col.",18352,"Annabelle Ellis","3B",1,0,0,0,0,1,0
+"910","4496739","FGCU","Boston College",17399,"Annalyn Duncan","PH",1,0,0,0,0,0,0
+"911","5020640","Mississippi Col.","Trevecca Nazarene",15395,"Ashley Delany","PH",1,0,1,1,0,0,0
+"912","5020640","Mississippi Col.","Trevecca Nazarene",37158,"Ashley Lightcap","RF",1,0,0,0,0,1,0
+"913","4496744","Queens (NC)","UNCW",13157,"Autumn Courtney","P",0,0,0,0,0,0,1
+"914","4496723","Oklahoma","Duke",28830,"Avery Hodge","2B/PR",1,0,0,0,0,1,0
+"915","4496725","Oklahoma","Utah Valley",28830,"Avery Hodge","2B",1,0,0,0,0,1,0
+"916","4496741","Bethune-Cookman","South Fla.",23810,"Aysiah Gonzalez","PH",1,0,0,0,0,0,0
+"917","4496737","Texas St.","Northwestern St.",67523,"Bailee Welsh","PH",1,0,0,0,0,0,0
+"918","5021944","Spring Hill","Mobile",13247,"Bailey Cox","PH",1,1,1,0,0,0,0
+"919","4496741","South Fla.","Bethune-Cookman",17093,"Bailey Drapola","CF",1,NA,0,0,0,0,0
+"920","4496706","Tennessee","UT Arlington",19467,"Bella Faw","SS",1,1,0,0,0,0,0
+"921","4496740","Eastern Ky.","Wofford",55766,"Bella Sanchez","C",1,0,0,1,0,0,0
+"922","4496721","Howard","UConn",19996,"Bria Finley","PH",1,0,0,0,0,0,0
+"923","4496700","Howard","UCF",19996,"Bria Finley","PH",1,0,0,0,0,0,0
+"924","4496716","Bethune-Cookman","Illinois St.",65507,"Briana Velazquez","SS",1,0,0,0,0,0,0
+"925","4497537","Southeastern La.","Green Bay",7395,"Brilee Broussard","PH/CF",1,0,0,0,0,1,0
+"926","5021933","Carson-Newman","Alabama Huntsville",40530,"Brooke Matyasovsky","3B",1,0,0,0,0,0,0
+"927","5021941","MSU Denver","St. Mary's (TX)",18600,"Brooklyn Enny","PH",1,0,0,0,0,1,0
+"928","4496731","MSU Moorhead","Neb.-Kearney",19325,"Brynna Farman","P",0,0,0,0,0,0,1
+"929","5021933","Alabama Huntsville","Carson-Newman",7859,"Caitlyn Bryson","RF",1,2,1,0,0,0,0
+"930","4496745","Northwestern St.","UTSA",14107,"Cameron Curtis","PH",1,0,0,0,0,0,0
+"931","5020640","Mississippi Col.","Trevecca Nazarene",2617,"Camryn Bailey","P",1,0,0,1,0,0,0
+"932","4496725","Utah Valley","Oklahoma",14727,"Camryn Davis","P",0,0,0,0,0,0,1
+"933","4496737","Northwestern St.","Texas St.",20659,"Camryn Ford","PH/CF",1,0,0,0,0,0,0
+"934","4496706","Tennessee","UT Arlington",56188,"Camryn Sarvis","PH",1,1,1,1,0,0,0
+"935","4496719","Nevada","Kansas City",7459,"Carley Brown","P",0,0,0,0,0,0,1
+"936","4496708","San Diego","Idaho St.",55022,"Carly Ruiz","RF",1,0,0,0,0,0,0
+"937","4496715","Villanova","Alabama",49047,"Caroline Pellicano","P",0,0,0,0,0,0,1
+"938","4492874","Indiana","Oregon",33433,"Cassidy Kettleman","DP/LF",1,0,0,0,0,0,0
+"939","5020640","Mississippi Col.","Trevecca Nazarene",12274,"Caylee Comer","PH",1,0,0,0,0,0,0
+"940","4496711","Louisiana","Chattanooga",65344,"Cecilia Vasquez","2B",0,2,0,0,0,0,1
+"941","4497537","Southeastern La.","Green Bay",5417,"Cera Blanchard","P",0,0,0,0,0,0,1
+"942","5021936","Colo. Christian","St. Edward's",60674,"Cheyenne Stark","PH",1,0,1,2,0,0,0
+"943","4496742","McNeese","California",23680,"Chloe Gomez","PH",1,0,0,0,0,1,0
+"944","4496728","Kansas City","BYU",34429,"Chloe Kohnhorst","PH",1,0,0,0,0,0,0
+"945","4496728","BYU","Kansas City",62772,"Chloe Temples","P",0,0,0,0,0,0,1
+"946","4496716","Bethune-Cookman","Illinois St.",11423,"Ciera Clark","PH",1,0,0,0,0,0,0
+"947","4516325","CUI","Northwest Nazarene",34366,"Cortney Koelmans","P",0,0,0,0,0,0,1
+"948","4496727","Neb.-Kearney","Davis & Elkins",44373,"Daniella Morillas","P",0,0,0,0,0,0,1
+"949","4496742","McNeese","California",17448,"Delaney Dunham","PR/RF",1,0,0,0,0,0,0
+"950","4496711","Louisiana","Chattanooga",37632,"Denali Loecker","P/1B",0,0,0,0,0,0,1
+"951","4496740","Wofford","Eastern Ky.",15928,"Desirae Devine","PH",1,0,0,0,0,1,0
+"952","4496742","California","McNeese",29110,"Diamond Holland","CF",1,0,0,0,0,0,0
+"953","4496704","Villanova","Georgia Tech",66203,"Elaina Wagner","2B",1,0,0,0,0,0,0
+"954","4496746","San Fran. St.","Davis & Elkins",54862,"Elise Roy","P",0,0,0,0,0,0,1
+"955","4496715","Villanova","Alabama",24473,"Elizabeth Gray","LF",1,0,0,0,0,1,0
+"956","4516325","Northwest Nazarene","CUI",54413,"Emalee Romero","RF/PR",1,0,0,0,0,0,0
+"957","4496737","Texas St.","Northwestern St.",2734,"Emilee Baker","PH",1,0,1,0,0,0,0
+"958","4496732","UTSA","Texas St.",15111,"Emily Dear","PH",1,0,0,0,0,1,0
+"959","4496745","UTSA","Northwestern St.",31704,"Emily Johnson","SS",1,0,0,0,0,1,0
+"960","4496740","Eastern Ky.","Wofford",39612,"Emily Mariscal","PH",1,0,0,0,0,0,0
+"961","4496734","Arizona","Utah Tech",56571,"Emily Schepp","PH",1,0,1,1,0,0,0
+"962","5021942","Christian Brothers","Young Harris",56863,"Emily Schooler","P",0,0,0,0,0,0,1
+"963","5021942","Young Harris","Christian Brothers",5254,"Emma Black","P",0,0,0,0,0,0,1
+"964","4496725","Utah Valley","Oklahoma",27222,"Emma Haygood","PH",1,0,0,0,0,1,0
+"965","4492874","Oregon","Indiana",32754,"Emma Kauf","DP",1,0,0,1,0,1,0
+"966","4496741","Bethune-Cookman","South Fla.",22944,"Essence Gibbs","RF",1,0,0,0,0,0,0
+"967","5021941","St. Mary's (TX)","MSU Denver",2980,"Gabriela Banda","1B/SS",1,0,0,0,0,0,0
+"968","4497537","Green Bay","Southeastern La.",9084,"Gianna Camacho","PH",1,0,0,0,0,0,0
+"969","4496704","Villanova","Georgia Tech",52304,"Grace Reed","PH",1,1,1,1,1,0,0
+"970","4497381","Ga. Southwestern","Miles",50091,"Hailey Pinette","CF",1,0,0,0,0,0,0
+"971","4496724","San Fran. St.","MSU Moorhead",67271,"Hailey Weddington","PH/C",1,0,0,0,0,1,0
+"972","4496701","UConn","UCF",58515,"Hallie Siems","P",0,0,0,0,0,0,1
+"973","5021939","Lincoln Memorial","Alabama Huntsville",5777,"Hannah Bogoski","DP/RF",1,0,0,0,0,0,0
+"974","4496723","Oklahoma","Duke",12723,"Hannah Coor","LF/PR",1,0,0,0,0,1,0
+"975","4496742","California","McNeese",1804,"Haylei Archer","P",0,0,0,0,0,0,1
+"976","4496729","King (TN)","UVA Wise",25693,"Helina Hahn","PH",1,0,0,0,0,0,0
+"977","4496712","Hawaii","Nevada",40066,"Izabella Martinez","C",1,0,1,0,0,0,0
+"978","4496711","Chattanooga","Louisiana",989,"Izzy Alley","P",0,0,0,0,0,0,1
+"979","4497572","Ga. Southwestern","Lincoln Memorial",31614,"Jacie Johns","PH",1,0,1,0,0,0,0
+"980","4496704","Georgia Tech","Villanova",61684,"Jaidyn Studebaker","P",0,0,0,0,0,0,1
+"981","4496734","Arizona","Utah Tech",49306,"Jasmine Perezchica","RF",1,1,1,0,0,0,0
+"982","5021941","MSU Denver","St. Mary's (TX)",42115,"Jenna Medhus","PH",1,0,0,0,0,0,0
+"983","4496741","Bethune-Cookman","South Fla.",623,"Jessica Alaan","SS",1,0,0,0,0,0,0
+"984","4496714","San Diego St.","Stanford",49254,"Jeweliana Perez","RF",1,0,0,0,0,1,0
+"985","4496729","UVA Wise","King (TN)",32088,"Jillian Jones","P",0,0,0,0,0,0,1
+"986","4496727","Neb.-Kearney","Davis & Elkins",43717,"Jocelynn Molina","C",1,0,0,0,0,0,0
+"987","4496726","Western Wash.","Dominican (CA)",2743,"Joie Baker","P",0,0,0,0,0,0,1
+"988","4497572","Lincoln Memorial","Ga. Southwestern",52169,"Jordann Reagan","PH",0,0,0,0,0,0,1
+"989","4496721","Howard","UConn",33720,"Jordin King","P",0,0,0,0,0,0,1
+"990","5021939","Alabama Huntsville","Lincoln Memorial",63254,"Josie Thompson","P",0,0,0,0,0,0,1
+"991","4496700","Howard","UCF",29293,"Julia Holt","P",0,0,0,0,0,0,1
+"992","4496739","Boston College","FGCU",58168,"Juliana Shields","SS",1,0,0,0,0,0,0
+"993","4496734","Arizona","Utah Tech",1098,"Kaiah Altmeyer","RF/DH",1,1,0,2,0,0,0
+"994","4496717","Marshall","Arkansas",66902,"Kaleea Washington","P",0,0,0,0,0,0,1
+"995","4496740","Wofford","Eastern Ky.",49687,"Kalli Petty","2B",1,0,0,0,0,1,0
+"996","4496741","Bethune-Cookman","South Fla.",17799,"Kallie Earlington","3B",1,0,0,0,0,0,0
+"997","4496716","Bethune-Cookman","Illinois St.",17799,"Kallie Earlington","3B",1,0,0,1,0,0,0
+"998","4496726","Dominican (CA)","Western Wash.",32507,"Kama Kaleikini","3B",1,0,0,0,0,1,0
+"999","4496737","Texas St.","Northwestern St.",30511,"Kamden Hutton","PH",1,0,0,0,0,0,0
+"1000","4496735","Okla. Christian","Central Okla.",19833,"Karissa Fiegener","1B",1,0,0,0,0,0,0
+"1001","4496723","Oklahoma","Duke",32916,"Karlie Keeney","P",0,0,0,0,0,0,1
+"1002","4496735","Okla. Christian","Central Okla.",30644,"Karsyn Iltis","PH",1,0,0,0,0,1,0
+"1003","4496728","BYU","Kansas City",14306,"Kate Dahle","P",0,0,0,0,0,0,1
+"1004","4496815","Trevecca Nazarene","Montevallo",7342,"Katie Brooks","PH",1,0,0,0,0,0,0
+"1005","5021939","Lincoln Memorial","Alabama Huntsville",21565,"Katie Fultz","P",0,0,0,0,0,0,1
+"1006","4496715","Alabama","Villanova",3929,"Kayla Beaver","P",0,0,0,0,0,0,1
+"1007","5021933","Alabama Huntsville","Carson-Newman",65410,"Kaylee Vaught","LF",1,1,0,1,0,0,0
+"1008","4497537","Green Bay","Southeastern La.",19169,"Kaylin Fahy","LF",1,0,0,0,0,0,0
+"1009","4492874","Oregon","Indiana",38464,"Kedre Luschar","PH",1,0,0,0,0,1,0
+"1010","4496726","Dominican (CA)","Western Wash.",36478,"Kelissa Lee","LF",1,0,0,0,0,0,0
+"1011","4496723","Oklahoma","Duke",40595,"Kelly Maxwell","P",0,0,0,0,0,0,1
+"1012","4496745","Northwestern St.","UTSA",8130,"Kelsey Bunch","PH",1,0,0,0,0,0,0
+"1013","4496700","Howard","UCF",31252,"Kelsie Jarrett","PH",1,0,0,0,0,0,0
+"1014","4496741","Bethune-Cookman","South Fla.",38672,"Kendall Macauley","2B",1,0,0,0,0,0,0
+"1015","4496717","Arkansas","Marshall",43154,"Kennedy Miller","C",1,0,0,0,0,0,0
+"1016","4496737","Northwestern St.","Texas St.",57380,"Kenzie Seely","P",0,0,0,0,0,0,1
+"1017","4496700","UCF","Howard",61611,"Kiley Strott","C",1,0,0,1,0,0,0
+"1018","4496701","UCF","UConn",61611,"Kiley Strott","C",1,0,0,0,0,0,0
+"1019","4496725","Oklahoma","Utah Valley",26258,"Kinzie Hansen","C",1,2,1,1,1,0,0
+"1020","4496718","Clemson","Missouri St.",31797,"Kylee Johnson","PH/LF",1,0,0,0,0,0,0
+"1021","4496716","Bethune-Cookman","Illinois St.",55916,"Kylee Sandino","PH",1,0,0,0,0,1,0
+"1022","4496741","Bethune-Cookman","South Fla.",55916,"Kylee Sandino","PH",1,0,0,0,0,1,0
+"1023","5021936","St. Edward's","Colo. Christian",47942,"Kylen Padgett","P",0,0,0,0,0,0,1
+"1024","4496745","UTSA","Northwestern St.",20717,"Kylie Forney","PH",1,0,0,0,0,0,0
+"1025","4496742","California","McNeese",63640,"Kyndal Todd","PH/RF",1,0,0,0,0,1,0
+"1026","4496730","Elon","Kent St.",36791,"Kyra Leonard","P",0,0,0,0,0,0,1
+"1027","5021933","Alabama Huntsville","Carson-Newman",26326,"Laura Harbin","PH/1B",1,0,0,0,0,0,0
+"1028","4496708","San Diego","Idaho St.",2129,"Lauren Asia","PH",1,0,0,0,0,NA,0
+"1029","4496741","South Fla.","Bethune-Cookman",4868,"Lauren Bevis","PH/RF",1,0,1,1,0,0,0
+"1030","5021936","St. Edward's","Colo. Christian",29860,"Lauren Hoyt","3B",1,0,0,0,0,0,0
+"1031","4496722","Iowa St.","Utah Valley",57028,"Lauren Schurman","P",0,0,0,0,0,0,1
+"1032","5021941","St. Mary's (TX)","MSU Denver",51860,"Lauryn Ramos","SS/3B",1,0,0,0,0,0,0
+"1033","4496722","Utah Valley","Iowa St.",4811,"Laynee Betancur","RF",1,0,0,0,0,1,0
+"1034","4496725","Utah Valley","Oklahoma",4811,"Laynee Betancur","RF",1,0,1,0,0,0,0
+"1035","4496700","Howard","UCF",53123,"Lealani Ricks","2B",1,0,0,0,0,0,0
+"1036","5021941","MSU Denver","St. Mary's (TX)",22779,"Lexi Gephart","PH",1,1,1,0,0,0,0
+"1037","4496728","BYU","Kansas City",4449,"Lexie Bennett","PH/RF",1,1,0,0,0,0,0
+"1038","4496725","Utah Valley","Oklahoma",27083,"Libbie Hawker","LF",1,0,0,0,0,0,0
+"1039","4496723","Duke","Oklahoma",66395,"Lillie Walker","P",0,0,0,0,0,0,1
+"1040","4496717","Marshall","Arkansas",27862,"Lindsay Henson","PH",1,0,0,0,0,0,0
+"1041","5021944","Spring Hill","Mobile",42102,"Lindsey Mecom","RF",1,0,0,0,0,0,0
+"1042","5021933","Carson-Newman","Alabama Huntsville",30118,"Macey Hughes","RF",1,1,0,0,0,0,0
+"1043","4496715","Villanova","Alabama",66186,"Mackenzie Waghorn","PH",1,0,0,0,0,1,0
+"1044","4496704","Villanova","Georgia Tech",8490,"Maddie Burrows","PH",1,0,0,0,0,1,0
+"1045","4496728","BYU","Kansas City",64671,"Maddie Udall","3B",1,0,0,0,0,0,0
+"1046","4496739","FGCU","Boston College",9770,"Madison Carr","PH",1,0,0,0,0,0,0
+"1047","5021941","St. Mary's (TX)","MSU Denver",38923,"Madison Magaro","C",1,0,0,0,0,0,0
+"1048","4496715","Villanova","Alabama",47697,"Madison Ostrowski","PH/RF",1,0,0,0,0,0,0
+"1049","4496736","CUI","Northwest Nazarene",64832,"Madison Urrutia","PH",1,0,0,0,0,1,0
+"1050","4496744","Queens (NC)","UNCW",14599,"Madyson Daughtry","RF",1,0,0,0,0,1,0
+"1051","4496744","Queens (NC)","UNCW",61551,"Makala Strickland","PH",1,0,0,0,0,0,0
+"1052","4496737","Texas St.","Northwestern St.",25839,"Makayla Hall","PH",1,0,0,0,0,0,0
+"1053","4497381","Miles","Ga. Southwestern",61122,"Makenzie Stewart","RF",1,0,0,0,0,1,0
+"1054","4496815","Trevecca Nazarene","Montevallo",63405,"Malone Thrift","2B",1,0,0,0,0,1,0
+"1055","4496704","Villanova","Georgia Tech",55072,"Maranda Runco","PH",1,0,0,0,0,1,0
+"1056","4496736","Northwest Nazarene","CUI",32540,"Mari Kamemoto","PH",1,0,1,0,0,0,0
+"1057","4496724","San Fran. St.","MSU Moorhead",32244,"Marissa Jordan","PH",1,0,0,0,0,0,0
+"1058","4496715","Alabama","Villanova",23132,"Marlie Giles","C",1,0,0,0,0,0,0
+"1059","4496727","Neb.-Kearney","Davis & Elkins",11261,"Mary Chvatal","SS",1,0,0,0,0,1,0
+"1060","4496736","CUI","Northwest Nazarene",10140,"Megan Casper","P",0,0,0,0,0,0,1
+"1061","4516324","Kent St.","Elon",11358,"Megan Claerhout","PH",1,0,1,0,0,0,0
+"1062","4516324","Kent St.","Elon",46603,"Megan Nuechterlein","P",0,0,0,0,0,0,1
+"1063","4496700","Howard","UCF",26760,"Merci Hart","DH",1,1,0,0,0,0,0
+"1064","4496714","San Diego St.","Stanford",38669,"Micaela Macario","2B",1,0,0,0,0,1,0
+"1065","4497381","Miles","Ga. Southwestern",62431,"Michelle Tanks","C",1,0,0,0,0,1,0
+"1066","4496722","Utah Valley","Iowa St.",22382,"Mikayla Garrison","PH",1,0,0,0,0,0,0
+"1067","4496712","Hawaii","Nevada",19825,"Millie Fidge","P",1,0,0,0,0,1,0
+"1068","4496734","Arizona","Utah Tech",61263,"Miranda Stoddard","P",0,0,0,0,0,0,1
+"1069","4496705","Nicholls","LSU",70046,"Molly Yoo","P",0,0,0,0,0,0,1
+"1070","4496700","Howard","UCF",63378,"Morgan Thornton","P",0,0,0,0,0,0,1
+"1071","5021937","Montevallo","Young Harris",70176,"Mya Young","P",0,0,0,0,0,0,1
+"1072","4496744","Queens (NC)","UNCW",68945,"Natalie Windham","RF",1,0,0,0,0,1,0
+"1073","4492878","Washington","Nebraska",31860,"Olivia Johnson","PH",1,0,0,0,0,0,0
+"1074","4496722","Iowa St.","Utah Valley",66757,"Olivia Wardrow","PH",1,1,1,1,0,0,0
+"1075","4496722","Utah Valley","Iowa St.",1909,"Payge Armendariz","P",0,0,0,0,0,0,1
+"1076","4496725","Utah Valley","Oklahoma",1909,"Payge Armendariz","P",0,0,0,0,0,0,1
+"1077","4496700","Howard","UCF",51506,"Payton Quinonez","RF",1,0,0,0,0,0,0
+"1078","4496711","Chattanooga","Louisiana",24024,"Peja Goold","P",0,0,0,0,0,0,1
+"1079","4496732","Texas St.","UTSA",70181,"Peyton Young","PH",1,0,0,0,0,1,0
+"1080","4496724","San Fran. St.","MSU Moorhead",56997,"Phoebe Schultz","LF",1,0,0,0,0,1,0
+"1081","4496737","Texas St.","Northwestern St.",23408,"Presley Glende","P",0,0,0,0,0,0,1
+"1082","4496725","Oklahoma","Utah Valley",37185,"Quincee Lilio","PH",0,0,0,0,0,0,1
+"1083","4492874","Oregon","Indiana",6924,"Raegan Breedlove","P",0,0,0,0,0,0,1
+"1084","5021941","St. Mary's (TX)","MSU Denver",62798,"Raegan Tennill","3B",1,0,0,0,0,1,0
+"1085","4496731","MSU Moorhead","Neb.-Kearney",14303,"Reece Dahl","P",0,0,0,0,0,0,1
+"1086","4496704","Georgia Tech","Villanova",30351,"Reese Hunter","C",1,1,0,0,0,0,0
+"1087","4496717","Arkansas","Marshall",4853,"Reis Beuerlein","P",0,0,0,0,0,0,1
+"1088","4492878","Washington","Nebraska",42780,"Ruby Meylan","P",0,0,0,0,0,0,1
+"1089","4496720","Ole Miss","BYU",60707,"Ryan Starr","SS",1,1,1,0,0,0,0
+"1090","4496742","McNeese","California",19105,"Rylee Eyster","RF/CF",1,0,0,0,0,0,0
+"1091","4492878","Washington","Nebraska",29317,"Rylee Holtorf","SS",1,1,1,0,0,0,0
+"1092","5020640","Trevecca Nazarene","Mississippi Col.",65623,"Rylee Veron","P",0,0,0,0,0,0,1
+"1093","4496725","Oklahoma","Utah Valley",6025,"Rylie Boone","LF",1,1,1,0,0,0,0
+"1094","4496722","Utah Valley","Iowa St.",46153,"Saige Nielsen","PH",1,0,1,0,0,0,0
+"1095","4496725","Utah Valley","Oklahoma",46153,"Saige Nielsen","PH",1,0,0,0,0,0,0
+"1096","5021941","St. Mary's (TX)","MSU Denver",31885,"Samiya Johnson","1B",1,0,0,0,0,1,0
+"1097","5020640","Trevecca Nazarene","Mississippi Col.",33660,"Sarah Kinderdine","PH",1,0,0,0,0,0,0
+"1098","4496815","Trevecca Nazarene","Montevallo",33660,"Sarah Kinderdine","PH/RF",1,1,0,0,0,0,0
+"1099","4496815","Trevecca Nazarene","Montevallo",46099,"Sarah Nicholson","LF",1,0,0,0,0,0,0
+"1100","5020640","Trevecca Nazarene","Mississippi Col.",46099,"Sarah Nicholson","CF",1,1,0,0,0,0,0
+"1101","4496722","Iowa St.","Utah Valley",62014,"Saya Swain","P",0,0,0,0,0,0,1
+"1102","4496724","San Fran. St.","MSU Moorhead",9526,"Shaunessy Cardwell","PH",1,0,0,0,0,0,0
+"1103","4496735","Central Okla.","Okla. Christian",40259,"Sherri Mason","PH",1,0,0,0,0,0,0
+"1104","4496744","UNCW","Queens (NC)",61258,"Skylar Stockton","CF",0,0,0,0,0,0,1
+"1105","4496708","Idaho St.","San Diego",68617,"Skylar Williams","PH",1,0,0,0,0,1,0
+"1106","4496700","UCF","Howard",25730,"Sona Halajian","P",0,0,0,0,0,0,1
+"1107","4496737","Northwestern St.","Texas St.",37497,"Sophia Livers","CF",1,0,0,0,0,1,0
+"1108","4497537","Southeastern La.","Green Bay",61264,"Sophia Stoddard","C",1,0,0,0,0,1,0
+"1109","4496745","UTSA","Northwestern St.",9225,"Sophie Campbell","PH",1,0,0,0,0,0,0
+"1110","4496739","FGCU","Boston College",69797,"Sophie Wylie","PH/2B",1,0,0,0,0,1,0
+"1111","4496700","UCF","Howard",34672,"Stormy Kotzelnick","DH",1,0,0,0,0,0,0
+"1112","5021933","Alabama Huntsville","Carson-Newman",26656,"Sydney Harris","PH",1,0,0,0,0,0,0
+"1113","4496726","Dominican (CA)","Western Wash.",17900,"Taylor Eby","C",1,0,0,0,0,0,0
+"1114","4496719","Kansas City","Nevada",35203,"Taylor Kvale","LF",1,0,1,0,0,0,0
+"1115","4496815","Montevallo","Trevecca Nazarene",37549,"Taylor Lloyd","P",0,0,0,0,0,0,1
+"1116","5021937","Montevallo","Young Harris",37549,"Taylor Lloyd","P",0,0,0,0,0,0,1
+"1117","4496706","Tennessee","UT Arlington",48193,"Taylor Pannell","3B",1,0,0,0,0,0,0
+"1118","4492874","Oregon","Indiana",60236,"Taylour Spencer","P",0,0,0,0,0,0,1
+"1119","4516324","Elon","Kent St.",3706,"Teagan Baulsir","PH",0,0,0,0,0,0,1
+"1120","4496731","MSU Moorhead","Neb.-Kearney",50868,"Teagan Pranchke","PR",1,1,1,0,0,0,0
+"1121","4496689","Mont. St. Billings","Azusa Pacific",57384,"Teagan Seeton","CF",1,0,0,0,0,0,0
+"1122","4496741","Bethune-Cookman","South Fla.",64871,"Thais Uyema","C",1,0,0,0,0,0,0
+"1123","4496739","FGCU","Boston College",42191,"Tiffany Meek","2B",1,0,0,0,0,1,0
+"1124","4496727","Davis & Elkins","Neb.-Kearney",20318,"Trinity Fleming","C",1,0,0,0,0,1,0
+"1125","5021941","MSU Denver","St. Mary's (TX)",36638,"Trish Leins","PH",1,0,1,1,0,0,0
+"1126","4496712","Nevada","Hawaii",11540,"Tyra Clary","P",0,0,0,0,0,0,1
+"1127","4496706","Tennessee","UT Arlington",51322,"Zaida Puni","PH",1,0,0,1,0,0,0
+"1128","4492874","Indiana","Oregon",1512,"Aaliyah Andrews","PR",0,0,0,0,0,0,0
+"1129","5021942","Young Harris","Christian Brothers",10265,"Abby Castleberry","PR",0,0,0,0,0,0,0
+"1130","4496740","Wofford","Eastern Ky.",24687,"Abby Greenwood","P",0,0,0,0,0,0,0
+"1131","4496733","Illinois St.","South Fla.",29589,"Abby Horton","PR",0,0,0,0,0,0,0
+"1132","4496716","Illinois St.","Bethune-Cookman",29589,"Abby Horton","DP",0,0,0,0,0,0,0
+"1133","4496734","Arizona","Utah Tech",58593,"Aissa Silva","P/PR",0,1,0,0,0,0,0
+"1134","5021933","Carson-Newman","Alabama Huntsville",59235,"Alaina Smith","1B",0,0,0,0,0,0,0
+"1135","4496689","Azusa Pacific","Mont. St. Billings",15443,"Aleah Delgado","C",0,0,0,0,0,0,0
+"1136","4496741","South Fla.","Bethune-Cookman",68343,"Alex Wilkes","2B",0,0,0,0,0,0,0
+"1137","4496741","South Fla.","Bethune-Cookman",69632,"Alex Wright","P",0,0,0,0,0,0,0
+"1138","4496715","Villanova","Alabama",51970,"Alexa Raphael","RF",0,0,0,0,0,0,0
+"1139","4496705","LSU","Nicholls",45944,"Ali Newland","LF",0,1,0,0,0,0,0
+"1140","4516323","UVA Wise","King (TN)",46369,"Alivia Nolley","P",0,0,0,0,0,0,0
+"1141","5021944","Spring Hill","Mobile",39307,"Allison Mangan","PR",0,1,0,0,0,0,0
+"1142","4496737","Northwestern St.","Texas St.",15375,"Aly Delafield","P",0,0,0,0,0,0,0
+"1143","4496741","Bethune-Cookman","South Fla.",37854,"Alyssa Lopez","P",0,0,0,0,0,0,0
+"1144","4496706","Tennessee","UT Arlington",531,"Amanda Ahlin","PR",0,1,0,0,0,0,0
+"1145","4496728","Kansas City","BYU",20158,"Amelia Fitzgerald","1B",0,0,0,0,0,0,0
+"1146","4496736","Northwest Nazarene","CUI",62037,"Annie Swanson","PR",0,0,0,0,0,0,0
+"1147","5021937","Montevallo","Young Harris",29960,"Ansley Hudson","RF",0,0,0,0,0,0,0
+"1148","4497537","Southeastern La.","Green Bay",23673,"Ariel Gomez","LF",0,0,0,0,0,0,0
+"1149","4516325","CUI","Northwest Nazarene",53847,"Audrey Robles","2B",0,0,0,0,0,0,0
+"1150","4516323","King (TN)","UVA Wise",9168,"Autumn Campbell","PR",0,0,0,0,0,0,0
+"1151","4497537","Green Bay","Southeastern La.",56619,"Ava Schill","PH",0,0,0,0,0,0,0
+"1152","5020640","Mississippi Col.","Trevecca Nazarene",2300,"Bailee Avants","PR",0,1,0,0,0,0,0
+"1153","5021933","Carson-Newman","Alabama Huntsville",69576,"Bailee Worley","C",0,0,0,0,0,0,0
+"1154","4496733","South Fla.","Illinois St.",17093,"Bailey Drapola","CF",0,0,0,0,0,0,0
+"1155","4496719","Nevada","Kansas City",11402,"Bailie Clark","PR",0,0,0,0,0,0,0
+"1156","4496729","UVA Wise","King (TN)",994,"Bayleigh Allison","P",0,0,0,0,0,0,0
+"1157","4516323","UVA Wise","King (TN)",994,"Bayleigh Allison","P",0,0,0,0,0,0,0
+"1158","4492878","Nebraska","Washington",2507,"Bella Bacon","1B",0,0,0,0,0,0,0
+"1159","4496815","Trevecca Nazarene","Montevallo",2140,"Brianna Asmondy","P",0,0,0,0,0,0,0
+"1160","5021936","St. Edward's","Colo. Christian",14061,"Cadie Currie","P",0,0,0,0,0,0,0
+"1161","4492878","Nebraska","Washington",47194,"Caitlin Olensky","P",0,0,0,0,0,0,0
+"1162","4496689","Mont. St. Billings","Azusa Pacific",31118,"Caitlyn James","P",0,0,0,0,0,0,0
+"1163","4496701","UCF","UConn",21317,"Carson Frier","C",0,0,0,0,0,0,0
+"1164","4496745","UTSA","Northwestern St.",36896,"Caton Letbetter","PR",0,0,0,0,0,0,0
+"1165","4496712","Nevada","Hawaii",27095,"Charli Hawkins","C",0,NA,0,1,0,0,0
+"1166","4496706","Tennessee","UT Arlington",47524,"Charli Orsini","P",0,0,0,0,0,0,0
+"1167","4496711","Louisiana","Chattanooga",52902,"Chloe Riassetto","P",0,0,0,0,0,0,0
+"1168","4496708","San Diego","Idaho St.",50773,"Dalia Powell","PR",0,0,0,0,0,0,0
+"1169","4496714","Stanford","San Diego St.",27182,"Dani Hayes","PR",0,0,0,0,0,0,0
+"1170","4496732","Texas St.","UTSA",36065,"Dani Laughlin","PR",0,0,0,0,0,0,0
+"1171","4496731","Neb.-Kearney","MSU Moorhead",44373,"Daniella Morillas","P",0,0,0,0,0,0,0
+"1172","4496746","Davis & Elkins","San Fran. St.",44436,"Dawn Morris","P",0,0,0,0,0,0,0
+"1173","4496711","Louisiana","Chattanooga",68475,"Dayzja Williams","LF",0,0,0,0,0,0,0
+"1174","4496721","UConn","Howard",45387,"Delaney Nagy","P",0,0,0,0,0,0,0
+"1175","5021941","St. Mary's (TX)","MSU Denver",55592,"Destiny Salinas","PR",0,1,0,0,0,0,0
+"1176","4516324","Kent St.","Elon",18877,"Ella Esterby","P",0,0,0,0,0,0,0
+"1177","4496731","MSU Moorhead","Neb.-Kearney",29098,"Ella Holiman","PR",0,0,0,0,0,0,0
+"1178","4496724","MSU Moorhead","San Fran. St.",29098,"Ella Holiman","PR",0,0,0,0,0,0,0
+"1179","4516324","Elon","Kent St.",53586,"Ella Roberson","PR",0,1,0,0,0,0,0
+"1180","4496714","Stanford","San Diego St.",17917,"Ellee Eck","PR/RF",0,0,0,0,0,0,0
+"1181","4496724","San Fran. St.","MSU Moorhead",38893,"Emily Madrigal","PR",0,1,0,0,0,0,0
+"1182","4496746","San Fran. St.","Davis & Elkins",38893,"Emily Madrigal","PR",0,1,0,0,0,0,0
+"1183","4496704","Villanova","Georgia Tech",47513,"Emily Orr","C",0,0,0,0,0,0,0
+"1184","4496718","Missouri St.","Clemson",58235,"Emily Shipman","C",0,0,0,0,0,0,0
+"1185","4496731","MSU Moorhead","Neb.-Kearney",70,"Emma Abbott","C",0,0,0,0,0,0,0
+"1186","5021937","Young Harris","Montevallo",5254,"Emma Black","P",0,0,0,0,0,0,0
+"1187","4496733","Illinois St.","South Fla.",28315,"Emma Hicks","P",0,0,0,0,0,0,0
+"1188","4496741","South Fla.","Bethune-Cookman",30256,"Emma Humplik","C",0,0,0,0,0,0,0
+"1189","4492878","Nebraska","Washington",12728,"Emmerson Cope","1B",0,0,0,0,0,0,0
+"1190","4496728","Kansas City","BYU",14480,"Espy Daniels","PR",0,0,0,0,0,0,0
+"1191","4496719","Kansas City","Nevada",14480,"Espy Daniels","PR",0,0,0,0,0,0,0
+"1192","4497537","Southeastern La.","Green Bay",33960,"Faith Kivett","2B",0,0,0,0,0,0,0
+"1193","5021942","Christian Brothers","Young Harris",16114,"Gabby Dickerson","P",0,0,0,0,0,0,0
+"1194","4496728","Kansas City","BYU",37123,"Gianna Lickel","PR",0,0,0,0,0,0,0
+"1195","4496735","Okla. Christian","Central Okla.",1380,"Grace Anderson","P",0,0,0,0,0,0,0
+"1196","4496701","UCF","UConn",31525,"Grace Jewell","P",0,0,0,0,0,0,0
+"1197","4496724","MSU Moorhead","San Fran. St.",47069,"Grace Oeltjen","PR",0,0,0,0,0,0,0
+"1198","4496704","Georgia Tech","Villanova",28570,"Gracie Hillman","PR/RF",0,0,0,0,0,0,0
+"1199","4496718","Missouri St.","Clemson",31929,"Gracie Johnston","P",0,0,0,0,0,0,0
+"1200","4496689","Azusa Pacific","Mont. St. Billings",8422,"Hailey Burns","PR",0,1,0,0,0,0,0
+"1201","4496719","Nevada","Kansas City",50863,"Hailey Prahm","1B",0,0,0,0,0,0,0
+"1202","4496712","Nevada","Hawaii",50863,"Hailey Prahm","1B",0,0,0,0,0,0,0
+"1203","4496745","UTSA","Northwestern St.",9663,"Haley Carmona","P",0,0,0,0,0,0,0
+"1204","4496731","MSU Moorhead","Neb.-Kearney",38014,"Hannah Losee","PR",0,1,0,0,0,0,0
+"1205","4496726","Dominican (CA)","Western Wash.",21999,"Hayley Gano","C",0,0,0,0,0,0,0
+"1206","4492874","Indiana","Oregon",31721,"Heather Johnson","P",0,0,0,0,0,0,0
+"1207","4496742","California","McNeese",42135,"Holly Medina","PR",0,0,0,0,0,0,0
+"1208","4496745","UTSA","Northwestern St.",56226,"Iliana Saucedo","P",0,0,0,0,0,0,0
+"1209","4496722","Iowa St.","Utah Valley",8604,"Ireland Buss","PR",0,0,0,0,0,0,0
+"1210","4496721","Howard","UConn",20754,"Iyanna Fortenberry","PR",0,1,0,0,0,0,0
+"1211","4496706","Tennessee","UT Arlington",33883,"Jackie Kirkpatrick","C",0,0,0,0,0,0,0
+"1212","4496742","McNeese","California",45003,"Jada Munoz","PH",0,0,0,0,0,0,0
+"1213","5021941","St. Mary's (TX)","MSU Denver",122,"Jadyn Abrego","DP",0,0,0,0,0,0,0
+"1214","4496728","BYU","Kansas City",35506,"Jaelynn Lambert","PR/RF",0,1,0,0,0,0,0
+"1215","4496731","Neb.-Kearney","MSU Moorhead",26768,"Jaiden Harteker","PH",0,0,0,0,0,0,0
+"1216","4496723","Duke","Oklahoma",69665,"Jala Wright","P",0,0,0,0,0,0,0
+"1217","4496741","South Fla.","Bethune-Cookman",45735,"Jamia Nelson","PH",0,0,0,1,0,0,0
+"1218","4496732","UTSA","Texas St.",23090,"Jamie Gilbert","P",0,0,0,0,0,0,0
+"1219","4496745","UTSA","Northwestern St.",23090,"Jamie Gilbert","P",0,0,0,0,0,0,0
+"1220","5021942","Christian Brothers","Young Harris",1390,"Janiah Anderson","PR",0,0,0,0,0,0,0
+"1221","4492878","Washington","Nebraska",22241,"Jing Gardner","PR",0,0,0,0,0,0,0
+"1222","4496741","South Fla.","Bethune-Cookman",68345,"Jocelyn Wilkes","PH/1B",0,1,0,0,0,0,0
+"1223","4496735","Central Okla.","Okla. Christian",50152,"Jordyn Pipkin","DP",0,0,0,0,0,0,0
+"1224","4496741","Bethune-Cookman","South Fla.",14790,"Joslynn Davis","CF",0,0,0,0,0,0,0
+"1225","4496711","Louisiana","Chattanooga",9197,"Jourdyn Campbell","PH",0,0,0,0,0,0,0
+"1226","4496721","Howard","UConn",29293,"Julia Holt","P",0,0,0,0,0,0,0
+"1227","4496733","Illinois St.","South Fla.",35942,"Julia Larson","PR",0,0,0,0,0,0,0
+"1228","4496716","Illinois St.","Bethune-Cookman",35942,"Julia Larson","PR",0,0,0,0,0,0,0
+"1229","4496729","UVA Wise","King (TN)",33064,"Julianna Kellogg","PR",0,0,0,0,0,0,0
+"1230","4496724","MSU Moorhead","San Fran. St.",36927,"Kaelyn Leverson","1B",0,0,0,0,0,0,0
+"1231","4496726","Western Wash.","Dominican (CA)",34510,"Kaiana Kong","P/PR",0,0,0,0,0,0,0
+"1232","4496714","Stanford","San Diego St.",37196,"Kaitlyn Lim","RF",0,0,0,0,0,0,0
+"1233","4496740","Eastern Ky.","Wofford",66518,"Kaitlyn Wallis","PR",0,0,0,0,0,0,0
+"1234","4496744","UNCW","Queens (NC)",26054,"Kara Hammock","P",0,0,0,0,0,0,0
+"1235","4497537","Green Bay","Southeastern La.",35243,"Karissa Laabs","2B",0,0,0,0,0,0,0
+"1236","4496737","Texas St.","Northwestern St.",49966,"Karsen Pierce","P",0,0,0,0,0,0,0
+"1237","4496726","Dominican (CA)","Western Wash.",60989,"Kassidy Stetler","P",0,0,0,0,0,0,0
+"1238","4496708","Idaho St.","San Diego",29001,"Kate Hogan","PR",0,0,0,0,0,0,0
+"1239","4496701","UCF","UConn",8249,"Katie Burge","PH",0,0,0,0,0,0,0
+"1240","4496735","Central Okla.","Okla. Christian",6649,"Kaylee Bradley","P",0,0,0,0,0,0,0
+"1241","4496736","Northwest Nazarene","CUI",17414,"Kaylee Duncan","PR",0,1,0,0,0,0,0
+"1242","4496720","BYU","Ole Miss",34609,"Kaysen Korth","P",0,0,0,0,0,0,0
+"1243","4496712","Hawaii","Nevada",32473,"Keely Kai","CF",0,0,0,0,0,0,0
+"1244","4496736","Northwest Nazarene","CUI",310,"Kellcie Adams","C",0,0,0,0,0,0,0
+"1245","4497537","Green Bay","Southeastern La.",24602,"Kelly Green","P",0,0,0,0,0,0,0
+"1246","4496727","Neb.-Kearney","Davis & Elkins",12815,"Kelsey Cordes","PR",0,1,0,0,0,0,0
+"1247","4497537","Green Bay","Southeastern La.",28143,"Kendal Herschbach","RF",0,0,0,0,0,0,0
+"1248","4496716","Bethune-Cookman","Illinois St.",38672,"Kendall Macauley","PH",0,0,0,0,0,0,0
+"1249","5021942","Christian Brothers","Young Harris",59829,"Kiara Soler","PR",0,0,0,0,0,0,0
+"1250","4496725","Oklahoma","Utah Valley",15056,"Kierston Deal","P",0,0,0,0,0,0,0
+"1251","4496717","Arkansas","Marshall",7256,"Kylie Brockman","C/DH",0,1,0,0,0,0,0
+"1252","4496711","Louisiana","Chattanooga",13496,"Laney Credeur","PH/RF",0,2,0,1,0,0,0
+"1253","4496712","Hawaii","Nevada",24137,"Larissa Goshi","PR",0,0,0,0,0,0,0
+"1254","4496733","South Fla.","Illinois St.",4868,"Lauren Bevis","PR",0,0,0,0,0,0,0
+"1255","4496715","Alabama","Villanova",18798,"Lauren Esman","1B",0,0,0,0,0,0,0
+"1256","4496728","BYU","Kansas City",20241,"Lauren Flanders","PR",0,1,0,0,0,0,0
+"1257","4496715","Alabama","Villanova",31805,"Lauren Johnson","CF",0,0,0,0,0,0,0
+"1258","4496740","Eastern Ky.","Wofford",45483,"Lauren Narvaez","P",0,0,0,0,0,0,0
+"1259","4496731","Neb.-Kearney","MSU Moorhead",25665,"Lauryn Haggadone","P",0,0,0,0,0,0,0
+"1260","5021933","Carson-Newman","Alabama Huntsville",35323,"Lexi Lacy","P",0,0,0,0,0,0,0
+"1261","4496711","Louisiana","Chattanooga",15409,"Lexie Delbrey","P",0,0,0,0,0,0,0
+"1262","4496733","South Fla.","Illinois St.",34573,"Lexie Kopko","P",0,0,0,0,0,0,0
+"1263","4516324","Elon","Kent St.",43166,"Lia Miller","P",0,0,0,0,0,0,0
+"1264","4496732","UTSA","Texas St.",14828,"Lindsey Davis","PR",0,0,0,0,0,0,0
+"1265","4496731","MSU Moorhead","Neb.-Kearney",14829,"Lizzy Davis","LF/RF",0,0,0,0,0,0,0
+"1266","4496734","Arizona","Utah Tech",11972,"Logan Cole","PR",0,1,0,0,0,0,0
+"1267","4496732","Texas St.","UTSA",2411,"Maddy Azua","P",0,0,0,0,0,0,0
+"1268","4496727","Neb.-Kearney","Davis & Elkins",31210,"Madeline Janssen","P",0,0,0,0,0,0,0
+"1269","4496705","LSU","Nicholls",23060,"Madilyn Giglio","PR",0,1,0,0,0,0,0
+"1270","4496727","Neb.-Kearney","Davis & Elkins",58830,"Madisyn Sims","PR",0,0,0,0,0,0,0
+"1271","4496731","Neb.-Kearney","MSU Moorhead",58830,"Madisyn Sims","PR",0,1,0,0,0,0,0
+"1272","4496745","Northwestern St.","UTSA",14561,"Maggie Darr","P",0,0,0,0,0,0,0
+"1273","4496740","Eastern Ky.","Wofford",49460,"Maggie Pertee","PR",0,1,0,0,0,0,0
+"1274","4496740","Wofford","Eastern Ky.",2342,"Margaret Axelson","P",0,0,0,0,0,0,0
+"1275","4497537","Green Bay","Southeastern La.",15874,"Marissa Destache","PR",0,0,0,0,0,0,0
+"1276","4496741","South Fla.","Bethune-Cookman",64208,"Marissa Trivelpiece","1B",0,0,0,1,0,0,0
+"1277","4497537","Green Bay","Southeastern La.",43189,"Martha Miller","P",0,0,0,0,0,0,0
+"1278","4516323","UVA Wise","King (TN)",2258,"Mataya Ausmus","PH",0,1,0,0,0,0,0
+"1279","4496729","UVA Wise","King (TN)",2258,"Mataya Ausmus","PH",0,1,0,0,0,0,0
+"1280","4496712","Nevada","Hawaii",36551,"Matlyn Leetch","PR",0,1,0,0,0,0,0
+"1281","4496719","Nevada","Kansas City",36551,"Matlyn Leetch","PR",0,1,0,0,0,0,0
+"1282","4496723","Oklahoma","Duke",5437,"Maya Bland","PR",0,1,0,0,0,0,0
+"1283","4496712","Hawaii","Nevada",30612,"Maya Ichimura","PR",0,0,0,0,0,0,0
+"1284","5021941","St. Mary's (TX)","MSU Denver",47958,"Mene'e Padilla","C",0,0,0,0,0,0,0
+"1285","4496726","Dominican (CA)","Western Wash.",60047,"Mia Souza","P",0,0,0,0,0,0,0
+"1286","4492874","Oregon","Indiana",57219,"Morgan Scott","P",0,0,0,0,0,0,0
+"1287","4496725","Oklahoma","Utah Valley",40618,"Nicole May","P",0,0,0,0,0,0,0
+"1288","4496739","FGCU","Boston College",23005,"Nikki Gibson","1B",0,0,0,0,0,0,0
+"1289","4496736","Northwest Nazarene","CUI",2659,"Olivia Bailey","PR",0,0,0,0,0,0,0
+"1290","4496815","Montevallo","Trevecca Nazarene",4602,"Olivia Bergert","PR",0,1,0,0,0,0,0
+"1291","5021937","Montevallo","Young Harris",4602,"Olivia Bergert","PR",0,1,0,0,0,0,0
+"1292","4496746","San Fran. St.","Davis & Elkins",11559,"Olivia Clavero","PR",0,0,0,0,0,0,0
+"1293","4496724","San Fran. St.","MSU Moorhead",11559,"Olivia Clavero","PR",0,0,0,0,0,0,0
+"1294","4497537","Green Bay","Southeastern La.",34892,"Paeton Kringel","P",0,0,0,0,0,0,0
+"1295","4496704","Georgia Tech","Villanova",66088,"Paige Vukadinovich","PR/RF",0,0,0,0,0,0,0
+"1296","4496725","Oklahoma","Utah Valley",43931,"Paytn Monticelli","P",0,0,0,0,0,0,0
+"1297","4496716","Illinois St.","Bethune-Cookman",7607,"Payton Brown","PH",0,0,0,0,0,0,0
+"1298","4496706","Tennessee","UT Arlington",24189,"Payton Gottshall","P",0,0,0,0,0,0,0
+"1299","4496726","Dominican (CA)","Western Wash.",46975,"Payton Oas","PR",0,0,0,0,0,0,0
+"1300","4496723","Oklahoma","Duke",37185,"Quincee Lilio","RF",0,0,0,0,0,0,0
+"1301","4496721","UConn","Howard",59763,"Rayah Snyder","PR",0,1,0,0,0,0,0
+"1302","4496717","Marshall","Arkansas",23355,"Reagan Glanz","C",0,0,0,0,0,0,0
+"1303","4516324","Elon","Kent St.",26788,"Reagan Hartley","LF",0,0,0,0,0,0,0
+"1304","4496718","Clemson","Missouri St.",60233,"Regan Spencer","P",0,0,0,0,0,0,0
+"1305","4496725","Oklahoma","Utah Valley",38305,"Riley Ludlam","PH/C",0,0,0,1,0,0,0
+"1306","4496729","UVA Wise","King (TN)",46076,"Riley Nichols","PR",0,1,0,0,0,0,0
+"1307","4496689","Mont. St. Billings","Azusa Pacific",66749,"Riley Warden","PR",0,0,0,0,0,0,0
+"1308","4496717","Arkansas","Marshall",11716,"Rylee Cloud","PR",0,1,0,0,0,0,0
+"1309","4497537","Southeastern La.","Green Bay",28256,"Sadie Hewitt","C",0,0,0,0,0,0,0
+"1310","4496689","Azusa Pacific","Mont. St. Billings",7965,"Sakarah Buckner","PR",0,1,0,0,0,0,0
+"1311","4496711","Louisiana","Chattanooga",35663,"Sam Landry","P",0,0,0,0,0,0,0
+"1312","4496733","South Fla.","Illinois St.",66659,"Sam Walz","PR",0,0,0,0,0,0,0
+"1313","4496701","UCF","UConn",15465,"Samantha Delhoyo","PR",0,1,0,0,0,0,0
+"1314","4496700","UCF","Howard",15465,"Samantha Delhoyo","PR",0,1,0,0,0,0,0
+"1315","4496701","UCF","UConn",52717,"Samantha Rey","PR",0,1,0,0,0,0,0
+"1316","5021942","Young Harris","Christian Brothers",44487,"Sarah Morris","PR",0,1,0,0,0,0,0
+"1317","5021937","Young Harris","Montevallo",49140,"Shayla Pennington","PR",0,1,0,0,0,0,0
+"1318","5021942","Young Harris","Christian Brothers",49140,"Shayla Pennington","PR",0,1,0,0,0,0,0
+"1319","4496705","LSU","Nicholls",14467,"Sierra Daniel","3B",0,0,0,0,0,0,0
+"1320","4497381","Ga. Southwestern","Miles",23221,"Simone Gillispie","PR",0,1,0,0,0,0,0
+"1321","4497572","Ga. Southwestern","Lincoln Memorial",23221,"Simone Gillispie","PR",0,0,0,0,0,0,0
+"1322","4496722","Iowa St.","Utah Valley",39466,"Sophie Maras","PR",0,1,0,0,0,0,0
+"1323","4492874","Oregon","Indiana",26268,"Stevie Hansen","P",0,0,0,0,0,0,0
+"1324","4496721","UConn","Howard",34554,"Sydnee Koosh","P",0,0,0,0,0,0,0
+"1325","4496705","LSU","Nicholls",4764,"Sydney Berzon","P",0,0,0,0,0,0,0
+"1326","4516324","Kent St.","Elon",57786,"Sydney Shammo","PR",0,0,0,0,0,0,0
+"1327","4492878","Washington","Nebraska",61136,"Sydney Stewart","C",0,2,0,0,0,0,0
+"1328","4496700","Howard","UCF",32189,"Sydni Jones","PR",0,1,0,0,0,0,0
+"1329","4496739","Boston College","FGCU",30877,"Tannis Jackin","PR",0,0,0,0,0,0,0
+"1330","4496728","BYU","Kansas City",36734,"Taryn Lennon","PR",0,1,0,0,0,0,0
+"1331","4516324","Elon","Kent St.",10957,"Taylor Cherry","P",0,0,0,0,0,0,0
+"1332","4496720","Ole Miss","BYU",39258,"Taylor Malvin","RF",0,0,0,0,0,0,0
+"1333","4496725","Utah Valley","Oklahoma",69551,"Taylor Wooten","PR",0,0,0,0,0,0,0
+"1334","4496722","Utah Valley","Iowa St.",69551,"Taylor Wooten","DH",0,0,0,0,0,0,0
+"1335","4496731","MSU Moorhead","Neb.-Kearney",11639,"Teagan Clemmons","P",0,0,0,0,0,0,0
+"1336","4496722","Iowa St.","Utah Valley",50564,"Tiana Poole","RF",0,0,0,0,0,0,0
+"1337","4496726","Dominican (CA)","Western Wash.",25248,"Tiare Guerrero","2B",0,0,0,0,0,0,0
+"1338","4496725","Oklahoma","Utah Valley",31432,"Tiare Jennings","SS",0,1,0,0,0,0,0
+"1339","5021942","Young Harris","Christian Brothers",2369,"Trinity Aycock","1B",0,0,0,0,0,0,0
+"1340","4496746","Davis & Elkins","San Fran. St.",30357,"Vanessa Hunter","P",0,0,0,0,0,0,0
+"1341","4496706","UT Arlington","Tennessee",60064,"Vanessa Soza","PR",0,0,0,0,0,0,0
+"1342","4497572","Lincoln Memorial","Ga. Southwestern",12390,"Victoria Conley","P",0,0,0,0,0,0,0
+"1343","4496722","Utah Valley","Iowa St.",65369,"Victoria Vasquez","PR",0,0,0,0,0,0,0
+"1344","4496736","Northwest Nazarene","CUI",21724,"Abigail Gagnon","3B",NA,1,1,0,0,2,0
+"1345","5021939","Alabama Huntsville","Lincoln Memorial",16948,"Alexa Douthitt","3B",3,2,1,2,0,0,NA
+"1346","4496718","Clemson","Missouri St.",37672,"Alia Logoleo","3B",2,2,1,1,1,0,NA
+"1347","4496721","Howard","UConn",65337,"Alyssa Vasquez","C",NA,1,0,0,0,0,0
+"1348","4496708","San Diego","Idaho St.",37207,"Amanda Limon","SS",NA,0,NA,0,0,0,0
+"1349","4496741","Bethune-Cookman","South Fla.",2517,"Angelina Badalament","P/DH",1,0,0,0,0,0,NA
+"1350","4496745","Northwestern St.","UTSA",66330,"Ashlyn Walker","C",NA,1,2,NA,NA,1,0
+"1351","4497537","Southeastern La.","Green Bay",24565,"Audrey Greely","DP",1,NA,1,0,0,0,NA
+"1352","4496708","Idaho St.","San Diego",7443,"Ava Brown","CF",NA,NA,NA,NA,NA,0,0
+"1353","4496734","Arizona","Utah Tech",5133,"Blaise Biringer","3B",2,NA,1,1,0,0,NA
+"1354","4496712","Nevada","Hawaii",13340,"Blake Craft","P",0,0,0,0,0,0,NA
+"1355","4496719","Nevada","Kansas City",23203,"Bridgette Gilliano","2B",NA,0,0,0,0,0,0
+"1356","4496716","Bethune-Cookman","Illinois St.",57162,"Brooklyn Scott","LF",NA,0,NA,NA,0,0,0
+"1357","5021939","Alabama Huntsville","Lincoln Memorial",7859,"Caitlyn Bryson","RF",2,1,0,0,0,1,NA
+"1358","4496745","Northwestern St.","UTSA",20659,"Camryn Ford","LF",2,0,0,0,0,0,NA
+"1359","4496734","Arizona","Utah Tech",57267,"Carlie Scupin","1B",2,1,1,1,NA,0,NA
+"1360","4496712","Nevada","Hawaii",57531,"Chelie Senini","CF",NA,0,1,0,0,0,0
+"1361","4496716","Illinois St.","Bethune-Cookman",7811,"Delainey Bryant","2B",NA,NA,NA,0,0,0,0
+"1362","4496708","San Diego","Idaho St.",22901,"Emma Giaime","P",0,0,0,0,0,0,NA
+"1363","4496736","Northwest Nazarene","CUI",44903,"Emma Mulligan","2B",NA,1,3,0,0,1,0
+"1364","4496708","Idaho St.","San Diego",59358,"Gracie Smith","LF",NA,1,2,0,0,NA,0
+"1365","4497537","Green Bay","Southeastern La.",27411,"Hailey Heckenlaible","DP",NA,0,NA,0,0,0,0
+"1366","4496712","Nevada","Hawaii",48028,"Haley Painter","3B",NA,1,NA,1,1,1,0
+"1367","4496719","Nevada","Kansas City",48028,"Haley Painter","3B",NA,0,NA,0,0,0,0
+"1368","4496716","Bethune-Cookman","Illinois St.",23837,"Halyne Gonzalez","P",0,0,0,0,0,0,NA
+"1369","4496732","Texas St.","UTSA",17800,"Hannah Earls","SS",NA,0,2,0,0,0,0
+"1370","5021941","MSU Denver","St. Mary's (TX)",22673,"Jaiden Geist","C",1,2,0,0,0,0,NA
+"1371","4496740","Eastern Ky.","Wofford",53252,"Jeanay Riley","LF",NA,0,2,1,0,0,0
+"1372","4496716","Bethune-Cookman","Illinois St.",5596,"Joyce Bloome","DP",NA,0,1,0,0,NA,0
+"1373","4496741","South Fla.","Bethune-Cookman",1725,"Julia Apostolakos","P",0,0,0,1,0,0,NA
+"1374","4496718","Clemson","Missouri St.",34272,"Julia Knowler","DH/1B",NA,NA,NA,NA,NA,0,0
+"1375","4496712","Hawaii","Nevada",32985,"Ka'ena Keliinoi","3B",NA,NA,NA,NA,NA,0,0
+"1376","4496716","Illinois St.","Bethune-Cookman",11258,"Kaili Chval","CF",NA,0,1,NA,0,1,0
+"1377","5020640","Mississippi Col.","Trevecca Nazarene",17854,"Kamryn Eaton","DP",1,1,1,0,0,0,NA
+"1378","4496745","Northwestern St.","UTSA",39793,"Kat Marshall","1B",2,1,0,1,0,0,NA
+"1379","5021942","Christian Brothers","Young Harris",9298,"Kate Candies","C",NA,0,1,1,0,0,0
+"1380","4496736","CUI","Northwest Nazarene",18630,"Katlin Entrup","P",0,0,0,0,0,0,NA
+"1381","4496708","San Diego","Idaho St.",62315,"Kelsey Tadlock","P",0,0,0,0,0,0,NA
+"1382","4496721","Howard","UConn",28353,"Kenna Higa","1B",NA,0,1,0,0,NA,0
+"1383","4496708","Idaho St.","San Diego",17254,"Kennedy Dudley","3B",3,0,0,0,0,1,NA
+"1384","4496732","UTSA","Texas St.",56991,"Kenzi Schultz","P",0,0,0,0,0,0,NA
+"1385","4496718","Clemson","Missouri St.",22152,"Lindsey Garcia","RF",2,1,1,1,0,0,NA
+"1386","5021942","Christian Brothers","Young Harris",2703,"Mackenzie Bakel","CF",4,0,1,1,0,0,NA
+"1387","4496740","Eastern Ky.","Wofford",55255,"Maddi Rutan","P",NA,0,2,1,0,0,0
+"1388","5021939","Alabama Huntsville","Lincoln Memorial",9983,"Maddie Cartron","1B",3,1,2,1,0,0,NA
+"1389","5021937","Montevallo","Young Harris",19301,"Madison Fargo","RF",2,2,0,0,0,2,NA
+"1390","4516323","King (TN)","UVA Wise",17422,"Marleigh Duncan","P",0,0,0,0,0,0,NA
+"1391","4496721","Howard","UConn",32245,"Maryn Jordan","CF",NA,0,1,2,0,1,0
+"1392","4496721","Howard","UConn",26760,"Merci Hart","DH",NA,0,NA,2,0,0,0
+"1393","4496721","Howard","UConn",23775,"Mia Gonzales","P",0,0,0,0,0,0,NA
+"1394","4496745","Northwestern St.","UTSA",37399,"Mia Liscano","SS",3,1,1,0,0,1,NA
+"1395","4496708","San Diego","Idaho St.",68918,"Mo Wimpee","P",0,0,0,0,0,0,NA
+"1396","4496717","Arkansas","Marshall",9961,"Nia Carter","RF",NA,1,1,0,0,1,0
+"1397","4496741","South Fla.","Bethune-Cookman",18344,"Olivia Elliott","RF/LF",NA,1,NA,NA,0,0,0
+"1398","4496708","Idaho St.","San Diego",53841,"Olivia Robison","C",NA,0,2,0,0,0,0
+"1399","4496708","Idaho St.","San Diego",62330,"Piper Tago","DP",NA,0,0,0,0,0,0
+"1400","4496717","Arkansas","Marshall",31872,"Reagan Johnson","CF",NA,1,1,0,0,0,0
+"1401","5021942","Christian Brothers","Young Harris",58799,"Riley Simpson","1B",NA,1,1,0,0,1,0
+"1402","4496717","Arkansas","Marshall",27429,"Rylin Hedgecock","DH",3,1,1,1,0,0,NA
+"1403","4497537","Green Bay","Southeastern La.",55632,"Samantha Saloun","C",NA,0,0,0,0,0,0
+"1404","4496701","UCF","UConn",68706,"Sarah Willis","P",2,0,0,0,0,0,NA
+"1405","4496717","Marshall","Arkansas",52949,"Savannah Rice","P",0,0,0,0,0,0,NA
+"1406","4496721","Howard","UConn",20341,"Sidney Fletcher","3B",NA,NA,2,0,0,0,0
+"1407","4496717","Marshall","Arkansas",4930,"Sydney Bickel","SS",NA,1,1,2,NA,0,0
+"1408","4496716","Bethune-Cookman","Illinois St.",64871,"Thais Uyema","C",1,0,0,0,0,0,NA
+"1409","4496718","Clemson","Missouri St.",8864,"Valerie Cagle","1B/P",NA,1,1,0,0,0,0
+"1410","4496740","Eastern Ky.","Wofford",3432,"Vianna Barron","1B",3,1,1,1,0,0,NA

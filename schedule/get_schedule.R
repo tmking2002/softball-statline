@@ -92,7 +92,8 @@ days = c(as.Date(seasons$start_date[5]):as.Date(seasons$end_date[5]),
          as.Date(seasons$start_date[9]):as.Date(seasons$end_date[9]),
          as.Date(seasons$start_date[10]):as.Date(seasons$end_date[10]),
          as.Date(seasons$start_date[11]):as.Date(seasons$end_date[11]),
-         as.Date(seasons$start_date[12]):as.Date(seasons$end_date[12]))
+         as.Date(seasons$start_date[12]):as.Date(seasons$end_date[12]),
+         as.Date(seasons$start_date[13]):as.Date(seasons$end_date[13]))
 
 scoreboard_d1 <- load_ncaa_softball_scoreboard(2016:2024, "D1")
 scoreboard_d2 <- load_ncaa_softball_scoreboard(2016:2024, "D2")
