@@ -39,6 +39,8 @@ jobs:
         run: Rscript teams/get_game_logs.R
       - name: Get leaders
         run: Rscript leaders/get_leaders.R
+      - name: Get Team Info
+        run: Rscript teams/get_team_info.R
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
