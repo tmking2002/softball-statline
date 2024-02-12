@@ -1,38 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","John Brackett","USA South","27-15-0","0.643"
-"2","2022","John Brackett","USA South","19-18-0","0.514"
-"3","2021","John Brackett","USA South","20-17-0","0.541"
-"4","2020","John Brackett","USA South","6-8-0","0.429"
-"5","2019","John Brackett","USA South","20-13-0","0.606"
-"6","2018","John Brackett","USA South","21-15-0","0.583"
-"7","2017","John Brackett","USA South","18-20-0","0.474"
-"8","2016","John Brackett","USA South","20-15-0","0.571"
-"9","2015","John Brackett","USA South","17-17-0","0.500"
-"10","2014","John Brackett","USA South","18-19-0","0.486"
-"11","2013","John Brackett","USA South","15-20-0","0.429"
-"12","2012","John Brackett","USA South","17-20-0","0.459"
-"13","2011","John Brackett","USA South","7-27-0","0.206"
-"14","2010","John Brackett","USA South","12-22-0","0.353"
-"15","2009","John Brackett","USA South","13-27-0","0.325"
-"16","2008","John Brackett","USA South","18-19-0","0.486"
-"17","2007","John Brackett","USA South","22-13-0","0.629"
-"18","2006","John Brackett","USA South","20-18-0","0.526"
-"19","2005","John Brackett","USA South","19-16-0","0.543"
-"20","2004","John Brackett","USA South","12-26-0","0.316"
-"21","2003","John Brackett","USA South","10-27-0","0.270"
-"22","2002","John Brackett","USA South","19-20-0","0.487"
-"23","2001","John Brackett","-","28-17-0","0.622"
-"24","2000","John Brackett","-","24-16-0","0.600"
-"25","1999","John Brackett","-","28-15-0","0.651"
-"26","1998","John Brackett","-","31-13-0","0.705"
-"27","1997","John Brackett","-","28-16-0","0.636"
-"28","1996","John Brackett","-","18-16-0","0.529"
-"29","1995","John Brackett","-","21-21-0","0.500"
-"30","1994","John Brackett","-","17-19-0","0.472"
-"31","1993","John Brackett","-","19-17-0","0.528"
-"32","1992","John Brackett","-","18-9-0","0.667"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1988","","-","0-0-0","  NaN"
-"36","1986","","-","0-0-0","  NaN"
-"37","1983","","-","0-0-0","  NaN"
+"1","2024","John Brackett","USA South","NA-NA-NA",0
+"2","2023","John Brackett","USA South","27-15-0",0.643
+"3","2022","John Brackett","USA South","19-18-0",0.514
+"4","2021","John Brackett","USA South","20-17-0",0.541
+"5","2020","John Brackett","USA South","6-8-0",0.429
+"6","2019","John Brackett","USA South","20-13-0",0.606
+"7","2018","John Brackett","USA South","21-15-0",0.583
+"8","2017","John Brackett","USA South","18-20-0",0.474
+"9","2016","John Brackett","USA South","20-15-0",0.571
+"10","2015","John Brackett","USA South","17-17-0",0.5
+"11","2014","John Brackett","USA South","18-19-0",0.486
+"12","2013","John Brackett","USA South","15-20-0",0.429
+"13","2012","John Brackett","USA South","17-20-0",0.459
+"14","2011","John Brackett","USA South","7-27-0",0.206
+"15","2010","John Brackett","USA South","12-22-0",0.353
+"16","2009","John Brackett","USA South","13-27-0",0.325
+"17","2008","John Brackett","USA South","18-19-0",0.486
+"18","2007","John Brackett","USA South","22-13-0",0.629
+"19","2006","John Brackett","USA South","20-18-0",0.526
+"20","2005","John Brackett","USA South","19-16-0",0.543
+"21","2004","John Brackett","USA South","12-26-0",0.316
+"22","2003","John Brackett","USA South","10-27-0",0.27
+"23","2002","John Brackett","USA South","19-20-0",0.487
+"24","2001","John Brackett","-","28-17-0",0.622
+"25","2000","John Brackett","-","24-16-0",0.6
+"26","1999","John Brackett","-","28-15-0",0.651
+"27","1998","John Brackett","-","31-13-0",0.705
+"28","1997","John Brackett","-","28-16-0",0.636
+"29","1996","John Brackett","-","18-16-0",0.529
+"30","1995","John Brackett","-","21-21-0",0.5
+"31","1994","John Brackett","-","17-19-0",0.472
+"32","1993","John Brackett","-","19-17-0",0.528
+"33","1992","John Brackett","-","18-9-0",0.667
+"34","1991","","-","0-0-0",NA
+"35","1990","","-","0-0-0",NA
+"36","1988","","-","0-0-0",NA
+"37","1986","","-","0-0-0",NA
+"38","1983","","-","0-0-0",NA

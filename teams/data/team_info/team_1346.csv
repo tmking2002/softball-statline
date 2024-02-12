@@ -1,29 +1,29 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Donna Fields","Lone Star","32-27-0","0.542"
-"2","2022","Donna Fields","Lone Star","38-19-0","0.667"
-"3","2021","Donna Fields","Lone Star","20-23-0","0.465"
-"4","2020","Donna Fields","Lone Star","11-18-0","0.379"
-"5","2019","Donna Fields","Heartland","30-25-0","0.545"
-"6","2018","Donna Fields","Heartland","34-23-0","0.596"
-"7","2017","Donna Fields","Heartland","44-16-0","0.733"
-"8","2016","Donna Fields","Heartland","47-14-0","0.770"
-"9","2015","Donna Fields","Heartland","48-12-0","0.800"
-"10","2014","Donna Fields","Heartland","50-14-0","0.781"
-"11","2013","Donna Fields","Heartland","45-15-0","0.750"
-"12","2012","Donna Fields","Heartland","34-19-0","0.642"
-"13","2011","Donna Fields","Heartland","36-21-0","0.632"
-"14","2010","Donna Fields","Heartland","34-20-0","0.630"
-"15","2009","Donna Fields","Heartland","32-32-0","0.500"
-"16","2008","Donna Fields","Heartland","53-10-0","0.841"
-"17","2007","Donna Fields","Heartland","45-18-0","0.714"
-"18","2006","Donna Fields","Heartland","49-25-0","0.662"
-"19","2005","Donna Fields","Heartland","49-11-0","0.817"
-"20","2004","Donna Fields","Heartland","46-12-0","0.793"
-"21","2003","Donna Fields","-","50-12-0","0.806"
-"22","2002","Donna Fields","Heartland","58-11-0","0.841"
-"23","2001","Donna Fields","-","40-18-0","0.690"
-"24","2000","Donna Fields","-","40-18-0","0.690"
-"25","1999","Donna Fields","-","32-19-0","0.627"
-"26","1998","Donna Fields","-","42-23-0","0.646"
-"27","1997","","-","0-0-0","  NaN"
-"28","2024","Donna Fields","Lone Star","3-5-0","0.375"
+"1","2024","Donna Fields","Lone Star","5-7-0",0.417
+"2","2023","Donna Fields","Lone Star","32-27-0",0.542
+"3","2022","Donna Fields","Lone Star","38-19-0",0.667
+"4","2021","Donna Fields","Lone Star","20-23-0",0.465
+"5","2020","Donna Fields","Lone Star","11-18-0",0.379
+"6","2019","Donna Fields","Heartland","30-25-0",0.545
+"7","2018","Donna Fields","Heartland","34-23-0",0.596
+"8","2017","Donna Fields","Heartland","44-16-0",0.733
+"9","2016","Donna Fields","Heartland","47-14-0",0.77
+"10","2015","Donna Fields","Heartland","48-12-0",0.8
+"11","2014","Donna Fields","Heartland","50-14-0",0.781
+"12","2013","Donna Fields","Heartland","45-15-0",0.75
+"13","2012","Donna Fields","Heartland","34-19-0",0.642
+"14","2011","Donna Fields","Heartland","36-21-0",0.632
+"15","2010","Donna Fields","Heartland","34-20-0",0.63
+"16","2009","Donna Fields","Heartland","32-32-0",0.5
+"17","2008","Donna Fields","Heartland","53-10-0",0.841
+"18","2007","Donna Fields","Heartland","45-18-0",0.714
+"19","2006","Donna Fields","Heartland","49-25-0",0.662
+"20","2005","Donna Fields","Heartland","49-11-0",0.817
+"21","2004","Donna Fields","Heartland","46-12-0",0.793
+"22","2003","Donna Fields","-","50-12-0",0.806
+"23","2002","Donna Fields","Heartland","58-11-0",0.841
+"24","2001","Donna Fields","-","40-18-0",0.69
+"25","2000","Donna Fields","-","40-18-0",0.69
+"26","1999","Donna Fields","-","32-19-0",0.627
+"27","1998","Donna Fields","-","42-23-0",0.646
+"28","1997","","-","0-0-0",NA

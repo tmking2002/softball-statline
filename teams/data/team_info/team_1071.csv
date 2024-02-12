@@ -1,35 +1,35 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","April Huddleston","Mid-America Intercollegiate","33-23-0","0.589"
-"2","2022","April Huddleston","Mid-America Intercollegiate","25-30-0","0.455"
-"3","2021","April Huddleston","Mid-America Intercollegiate","21-23-0","0.477"
-"4","2020","April Huddleston","Mid-America Intercollegiate","16-9-0","0.640"
-"5","2019","April Huddleston","Mid-America Intercollegiate","28-28-0","0.500"
-"6","2018","April Huddleston","Mid-America Intercollegiate","30-31-0","0.492"
-"7","2017","April Huddleston","Mid-America Intercollegiate","34-26-0","0.567"
-"8","2016","April Huddleston","Mid-America Intercollegiate","21-32-0","0.396"
-"9","2015","Julie LeMaire","Mid-America Intercollegiate","35-20-0","0.636"
-"10","2014","Julie LeMaire","Mid-America Intercollegiate","49-14-0","0.778"
-"11","2013","Julie LeMaire","Mid-America Intercollegiate","38-20-0","0.655"
-"12","2012","Julie LeMaire","Mid-America Intercollegiate","42-11-0","0.792"
-"13","2011","Kristi Bredbenner","Mid-America Intercollegiate","42-16-0","0.724"
-"14","2010","Kristi Bredbenner","Mid-America Intercollegiate","50-14-0","0.781"
-"15","2009","Kristi Bredbenner","Mid-America Intercollegiate","43-16-0","0.729"
-"16","2008","Kristi Bredbenner","Mid-America Intercollegiate","48-17-0","0.738"
-"17","2007","Kristi Bredbenner","Mid-America Intercollegiate","50-12-0","0.806"
-"18","2006","Kristi Bredbenner","Mid-America Intercollegiate","62-7-0","0.899"
-"19","2005","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","54-13-0","0.806"
-"20","2004","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","43-18-0","0.705"
-"21","2003","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","37-20-0","0.649"
-"22","2002","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","19-25-0","0.432"
-"23","2001","","-","0-0-0","  NaN"
-"24","2000","Jo Kord","-","21-22-0","0.488"
-"25","1999","Jo Kord","-","26-30-0","0.464"
-"26","1998","Jo Kord","-","31-17-0","0.646"
-"27","1997","Jo Kord","-","18-17-0","0.514"
-"28","1996","Jo Kord","-","38-20-0","0.655"
-"29","1995","Jo Kord","-","22-17-0","0.564"
-"30","1994","Jo Kord","-","24-14-1","0.632"
-"31","1993","Jo Kord","-","20-11-0","0.645"
-"32","1992","Maxine Mehus","-","29-16-0","0.644"
-"33","1991","Maxine Mehus","-","51-10-0","0.836"
-"34","2024","April Huddleston","Mid-America Intercollegiate","1-5-0","0.167"
+"1","2024","April Huddleston","Mid-America Intercollegiate","4-6-0",0.4
+"2","2023","April Huddleston","Mid-America Intercollegiate","33-23-0",0.589
+"3","2022","April Huddleston","Mid-America Intercollegiate","25-30-0",0.455
+"4","2021","April Huddleston","Mid-America Intercollegiate","21-23-0",0.477
+"5","2020","April Huddleston","Mid-America Intercollegiate","16-9-0",0.64
+"6","2019","April Huddleston","Mid-America Intercollegiate","28-28-0",0.5
+"7","2018","April Huddleston","Mid-America Intercollegiate","30-31-0",0.492
+"8","2017","April Huddleston","Mid-America Intercollegiate","34-26-0",0.567
+"9","2016","April Huddleston","Mid-America Intercollegiate","21-32-0",0.396
+"10","2015","Julie LeMaire","Mid-America Intercollegiate","35-20-0",0.636
+"11","2014","Julie LeMaire","Mid-America Intercollegiate","49-14-0",0.778
+"12","2013","Julie LeMaire","Mid-America Intercollegiate","38-20-0",0.655
+"13","2012","Julie LeMaire","Mid-America Intercollegiate","42-11-0",0.792
+"14","2011","Kristi Bredbenner","Mid-America Intercollegiate","42-16-0",0.724
+"15","2010","Kristi Bredbenner","Mid-America Intercollegiate","50-14-0",0.781
+"16","2009","Kristi Bredbenner","Mid-America Intercollegiate","43-16-0",0.729
+"17","2008","Kristi Bredbenner","Mid-America Intercollegiate","48-17-0",0.738
+"18","2007","Kristi Bredbenner","Mid-America Intercollegiate","50-12-0",0.806
+"19","2006","Kristi Bredbenner","Mid-America Intercollegiate","62-7-0",0.899
+"20","2005","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","54-13-0",0.806
+"21","2004","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","43-18-0",0.705
+"22","2003","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","37-20-0",0.649
+"23","2002","Stacy Gemeinhardt-Cesler","Mid-America Intercollegiate","19-25-0",0.432
+"24","2001","","-","0-0-0",NA
+"25","2000","Jo Kord","-","21-22-0",0.488
+"26","1999","Jo Kord","-","26-30-0",0.464
+"27","1998","Jo Kord","-","31-17-0",0.646
+"28","1997","Jo Kord","-","18-17-0",0.514
+"29","1996","Jo Kord","-","38-20-0",0.655
+"30","1995","Jo Kord","-","22-17-0",0.564
+"31","1994","Jo Kord","-","24-14-1",0.628
+"32","1993","Jo Kord","-","20-11-0",0.645
+"33","1992","Maxine Mehus","-","29-16-0",0.644
+"34","1991","Maxine Mehus","-","51-10-0",0.836

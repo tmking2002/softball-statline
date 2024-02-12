@@ -1,38 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Rachel Turoscy","MAC Freedom","23-13-0","0.639"
-"2","2022","Rachel Turoscy","MAC Freedom","13-22-0","0.371"
-"3","2021","Rachel Turoscy","MAC Freedom","10-16-0","0.385"
-"4","2020","Rachel Turoscy","MAC Freedom","6-10-0","0.375"
-"5","2019","Rachel Turoscy","MAC Freedom","16-24-0","0.400"
-"6","2018","Rachel Turoscy","MAC Freedom","14-16-0","0.467"
-"7","2017","Rachel Turoscy","MAC Freedom","13-25-0","0.342"
-"8","2016","Rachel Turoscy","MAC Freedom","6-29-0","0.171"
-"9","2015","Rachel Turoscy","MAC Freedom","19-15-0","0.559"
-"10","2014","Rachel Turoscy","MAC Freedom","15-16-0","0.484"
-"11","2013","Rachel Turoscy","MAC Freedom","30-12-1","0.714"
-"12","2012","Rachel Turoscy","MAC Freedom","15-25-0","0.375"
-"13","2011","Rachel Turoscy","MAC Freedom","26-13-0","0.667"
-"14","2010","Rachel Turoscy","MAC Freedom","29-20-0","0.592"
-"15","2009","Rachel Turoscy","MAC Freedom","25-15-0","0.625"
-"16","2008","Rachel Turoscy","MAC Freedom","28-15-0","0.651"
-"17","2007","Rachel Turoscy","MAC Freedom","16-17-0","0.485"
-"18","2006","Rachel Turoscy","MAC Freedom","12-23-0","0.343"
-"19","2005","Rachel Turoscy","MAC Freedom","17-18-0","0.486"
-"20","2004","Rachel Turoscy","MAC Freedom","19-14-0","0.576"
-"21","2003","Rachel Turoscy","MAC Freedom","16-10-0","0.615"
-"22","2002","Rachel Turoscy","MAC Freedom","15-17-0","0.469"
-"23","2001","Suzanne Feigley","-","19-19-0","0.500"
-"24","2000","Suzanne Feigley","-","23-11-0","0.676"
-"25","1999","Suzanne Feigley","-","12-10-1","0.545"
-"26","1998","Suzanne Feigley","-","7-21-1","0.250"
-"27","1997","Suzanne Feigley","-","16-18-0","0.471"
-"28","1996","Suzanne Feigley","-","18-11-0","0.621"
-"29","1995","Suzanne Feigley","-","25-9-0","0.735"
-"30","1994","Marge Grube","-","8-17-0","0.320"
-"31","1993","Bob Boucher","-","3-16-0","0.158"
-"32","1992","Wendy Perlstein","-","13-16-0","0.448"
-"33","1991","Wendy Perlstein","-","11-12-0","0.478"
-"34","1990","","-","0-0-0","  NaN"
-"35","1988","","-","0-0-0","  NaN"
-"36","1987","","-","0-0-0","  NaN"
-"37","1981","","-","0-0-0","  NaN"
+"1","2024","Rachel Turoscy","MAC Freedom","NA-NA-NA",0
+"2","2023","Rachel Turoscy","MAC Freedom","23-13-0",0.639
+"3","2022","Rachel Turoscy","MAC Freedom","13-22-0",0.371
+"4","2021","Rachel Turoscy","MAC Freedom","10-16-0",0.385
+"5","2020","Rachel Turoscy","MAC Freedom","6-10-0",0.375
+"6","2019","Rachel Turoscy","MAC Freedom","16-24-0",0.4
+"7","2018","Rachel Turoscy","MAC Freedom","14-16-0",0.467
+"8","2017","Rachel Turoscy","MAC Freedom","13-25-0",0.342
+"9","2016","Rachel Turoscy","MAC Freedom","6-29-0",0.171
+"10","2015","Rachel Turoscy","MAC Freedom","19-15-0",0.559
+"11","2014","Rachel Turoscy","MAC Freedom","15-16-0",0.484
+"12","2013","Rachel Turoscy","MAC Freedom","30-12-1",0.709
+"13","2012","Rachel Turoscy","MAC Freedom","15-25-0",0.375
+"14","2011","Rachel Turoscy","MAC Freedom","26-13-0",0.667
+"15","2010","Rachel Turoscy","MAC Freedom","29-20-0",0.592
+"16","2009","Rachel Turoscy","MAC Freedom","25-15-0",0.625
+"17","2008","Rachel Turoscy","MAC Freedom","28-15-0",0.651
+"18","2007","Rachel Turoscy","MAC Freedom","16-17-0",0.485
+"19","2006","Rachel Turoscy","MAC Freedom","12-23-0",0.343
+"20","2005","Rachel Turoscy","MAC Freedom","17-18-0",0.486
+"21","2004","Rachel Turoscy","MAC Freedom","19-14-0",0.576
+"22","2003","Rachel Turoscy","MAC Freedom","16-10-0",0.615
+"23","2002","Rachel Turoscy","MAC Freedom","15-17-0",0.469
+"24","2001","Suzanne Feigley","-","19-19-0",0.5
+"25","2000","Suzanne Feigley","-","23-11-0",0.676
+"26","1999","Suzanne Feigley","-","12-10-1",0.543
+"27","1998","Suzanne Feigley","-","7-21-1",0.259
+"28","1997","Suzanne Feigley","-","16-18-0",0.471
+"29","1996","Suzanne Feigley","-","18-11-0",0.621
+"30","1995","Suzanne Feigley","-","25-9-0",0.735
+"31","1994","Marge Grube","-","8-17-0",0.32
+"32","1993","Bob Boucher","-","3-16-0",0.158
+"33","1992","Wendy Perlstein","-","13-16-0",0.448
+"34","1991","Wendy Perlstein","-","11-12-0",0.478
+"35","1990","","-","0-0-0",NA
+"36","1988","","-","0-0-0",NA
+"37","1987","","-","0-0-0",NA
+"38","1981","","-","0-0-0",NA

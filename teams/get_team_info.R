@@ -14,11 +14,18 @@ team_ids <- "https://stats.ncaa.org/game_upload/team_codes" %>%
     `names<-`(c("team_id", "team_name"))
 
 
-new_info <- data.frame()
+ncaa_team_info <- url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS") %>% 
+  readRDS() %>% 
+  filter(season != 2024)
 
 for(i in 1:nrow(team_ids)){
   
   url <- paste0("https://stats.ncaa.org/teams/history/WSB/", team_ids$team_id[i])
+  
+  existing_info <- ncaa_team_info %>% 
+    filter(team_id == team_ids$team_id[i]) %>% 
+    mutate(record = paste(wins, losses, ties, sep = "-")) %>% 
+    select(season, head_coach, conference, record, win_perc)
   
   df <- url %>% 
     read_html() %>% 
@@ -27,15 +34,14 @@ for(i in 1:nrow(team_ids)){
     filter(Year == "2023-24") %>% 
     mutate(team_name = team_ids$team_name[i],
            team_id = team_ids$team_id[i],
-           Year = paste0(substr(Year, 1, 2), substr(Year, 6, 7))) %>% 
-    select(team_name, team_id, Year, `Head Coaches`, Division, Conference, Wins, Losses, Ties, `WL%`) %>% 
-    `names<-`(c("team_name", "team_id", "season", "head_coach", "division", "conference", "wins", "losses", "ties", "win_perc"))
+           Year = paste0(substr(Year, 1, 2), substr(Year, 6, 7)),
+           record = paste(Wins, Losses, Ties, sep = "-")) %>% 
+    select(Year, `Head Coaches`, Conference, record, `WL%`) %>% 
+    `names<-`(c("season", "head_coach", "conference", "record", "win_perc"))
   
-  new_info <- rbind(new_info, df)
+  write.csv(rbind(df, existing_info), paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv"))
   
   print(i)
   
 }
-
-ncaa_team_info <- rbind(ncaa_team_info, new_info)
 

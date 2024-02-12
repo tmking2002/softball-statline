@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Jamie Smyth","Great Northeast","21-18-0","0.538"
-"2","2022","Jamie Smyth","Great Northeast","20-17-0","0.541"
-"3","2021","Jamie Smyth","Great Northeast","6-6-0","0.500"
-"4","2020","Jamie Smyth (4-6)Dick Bailey (4-6)","Great Northeast","4-6-0","0.400"
-"5","2019","Dick Bailey (13-23)Jamie Smyth (13-23)","Great Northeast","13-23-0","0.361"
-"6","2018","Dick Bailey (20-19)Jamie Smyth (20-19)","Great Northeast","20-19-0","0.513"
-"7","2017","Jamie Smyth (22-17)Dick Bailey (22-17)","Great Northeast","22-17-0","0.564"
-"8","2016","Jamie Smyth (22-18)Dick Bailey (22-18)","Great Northeast","22-18-0","0.550"
-"9","2015","Jamie Smyth (27-13)Dick Bailey (27-13)","Great Northeast","27-13-0","0.675"
-"10","2014","Jamie Smyth (34-6)Dick Bailey (34-6)","Great Northeast","34-6-0","0.850"
-"11","2013","Jamie Smyth (34-13)Dick Bailey (34-13)","Great Northeast","34-13-0","0.723"
-"12","2012","Jamie Smyth","Great Northeast","33-9-0","0.786"
-"13","2011","Jamie Smyth","Great Northeast","37-10-0","0.787"
-"14","2010","Jamie Smyth","Great Northeast","30-10-0","0.750"
-"15","2009","Jamie Smyth","Great Northeast","29-14-0","0.674"
-"16","2008","Jamie Smyth","Great Northeast","26-17-0","0.605"
-"17","2007","Jamie Smyth","-","16-17-0","0.485"
-"18","2006","Jamie Smyth","-","24-17-0","0.585"
-"19","2005","Jamie Smyth","-","12-25-0","0.324"
-"20","2004","Jamie Smyth","-","10-29-0","0.256"
-"21","2003","Jamie Smyth","-","11-13-0","0.458"
-"22","2002","Jamie Smyth","-","27-18-0","0.600"
-"23","2001","Jamie Smyth","-","25-16-0","0.610"
-"24","2000","Jamie Smyth","-","23-18-0","0.561"
-"25","1999","Jamie Smyth","-","30-12-0","0.714"
-"26","1998","Jamie Smyth","-","22-20-0","0.524"
-"27","1997","Curt Smyth","-","30-7-0","0.811"
-"28","1996","Rick Simonds","-","38-11-0","0.776"
-"29","1995","Dick Bailey","-","37-9-0","0.804"
-"30","1994","Dick Bailey","-","27-9-0","0.750"
-"31","1993","Dick Bailey","-","25-4-0","0.862"
-"32","1992","Dick Bailey","-","23-7-0","0.767"
-"33","1991","Dick Bailey","-","26-13-0","0.667"
-"34","1990","Dick Bailey","-","25-6-0","0.806"
-"35","1989","Dick Bailey","-","20-8-0","0.714"
-"36","1988","Dick Bailey","-","22-7-0","0.759"
-"37","1987","Dick Bailey","-","13-8-0","0.619"
-"38","1986","Dick Bailey","-","20-15-0","0.571"
-"39","1985","Dick Bailey","-","6-15-0","0.286"
-"40","2024","Jamie Smyth","Great Northeast","0-0-0","  NaN"
+"1","2024","Jamie Smyth","Great Northeast","0-0-0",0
+"2","2023","Jamie Smyth","Great Northeast","21-18-0",0.538
+"3","2022","Jamie Smyth","Great Northeast","20-17-0",0.541
+"4","2021","Jamie Smyth","Great Northeast","6-6-0",0.5
+"5","2020","Jamie Smyth (4-6)Dick Bailey (4-6)","Great Northeast","4-6-0",0.4
+"6","2019","Dick Bailey (13-23)Jamie Smyth (13-23)","Great Northeast","13-23-0",0.361
+"7","2018","Dick Bailey (20-19)Jamie Smyth (20-19)","Great Northeast","20-19-0",0.513
+"8","2017","Jamie Smyth (22-17)Dick Bailey (22-17)","Great Northeast","22-17-0",0.564
+"9","2016","Jamie Smyth (22-18)Dick Bailey (22-18)","Great Northeast","22-18-0",0.55
+"10","2015","Jamie Smyth (27-13)Dick Bailey (27-13)","Great Northeast","27-13-0",0.675
+"11","2014","Jamie Smyth (34-6)Dick Bailey (34-6)","Great Northeast","34-6-0",0.85
+"12","2013","Jamie Smyth (34-13)Dick Bailey (34-13)","Great Northeast","34-13-0",0.723
+"13","2012","Jamie Smyth","Great Northeast","33-9-0",0.786
+"14","2011","Jamie Smyth","Great Northeast","37-10-0",0.787
+"15","2010","Jamie Smyth","Great Northeast","30-10-0",0.75
+"16","2009","Jamie Smyth","Great Northeast","29-14-0",0.674
+"17","2008","Jamie Smyth","Great Northeast","26-17-0",0.605
+"18","2007","Jamie Smyth","-","16-17-0",0.485
+"19","2006","Jamie Smyth","-","24-17-0",0.585
+"20","2005","Jamie Smyth","-","12-25-0",0.324
+"21","2004","Jamie Smyth","-","10-29-0",0.256
+"22","2003","Jamie Smyth","-","11-13-0",0.458
+"23","2002","Jamie Smyth","-","27-18-0",0.6
+"24","2001","Jamie Smyth","-","25-16-0",0.61
+"25","2000","Jamie Smyth","-","23-18-0",0.561
+"26","1999","Jamie Smyth","-","30-12-0",0.714
+"27","1998","Jamie Smyth","-","22-20-0",0.524
+"28","1997","Curt Smyth","-","30-7-0",0.811
+"29","1996","Rick Simonds","-","38-11-0",0.776
+"30","1995","Dick Bailey","-","37-9-0",0.804
+"31","1994","Dick Bailey","-","27-9-0",0.75
+"32","1993","Dick Bailey","-","25-4-0",0.862
+"33","1992","Dick Bailey","-","23-7-0",0.767
+"34","1991","Dick Bailey","-","26-13-0",0.667
+"35","1990","Dick Bailey","-","25-6-0",0.806
+"36","1989","Dick Bailey","-","20-8-0",0.714
+"37","1988","Dick Bailey","-","22-7-0",0.759
+"38","1987","Dick Bailey","-","13-8-0",0.619
+"39","1986","Dick Bailey","-","20-15-0",0.571
+"40","1985","Dick Bailey","-","6-15-0",0.286
