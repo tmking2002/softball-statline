@@ -20,7 +20,6 @@ get_current_rpi <- function(scoreboard){
     summarise(games = n(),
               win_perc = mean(win, na.rm = T)) %>%
     ungroup() %>% 
-    filter(games >= min(max(games) / 2, 20)) %>% # Change at beginning of seasons
     select(-games) %>%
     drop_na()
 
