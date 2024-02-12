@@ -14,6 +14,7 @@ conferences <- info %>%
   distinct(team_name, conference)
 
 conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
+  filter(home_team != away_team) %>% 
   drop_na(home_team, away_team) %>%
   mutate(home_team = str_replace(home_team, "&amp;", "&"),
          away_team = str_replace(away_team, "&amp;", "&"),
@@ -53,11 +54,11 @@ total_records <- rbind(team1_scoreboard, team2_scoreboard) %>%
   select(team_name, win_perc, record)
 
 create_standings <- function(conference){
-
-  if(nrow(conf_scoreboard) != 0){
-    
-    scoreboard <- conf_scoreboard %>%
-      filter(home_conference == conference)
+  
+  scoreboard <- conf_scoreboard %>%
+    filter(home_conference == conference)
+  
+  if(nrow(scoreboard) != 0){
     
     team1_scoreboard <- scoreboard[c(9,1,5,2,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
     team2_scoreboard <- scoreboard[c(9,2,8,1,5)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
