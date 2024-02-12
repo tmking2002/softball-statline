@@ -25,7 +25,7 @@ conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdatavers
   rename(away_conference = conference) %>%
   drop_na(home_conference, away_conference) %>%
   filter(home_conference == away_conference &
-           anytime::anydate(game_date) < "2023-05-10")
+           anytime::anydate(game_date) < "2024-05-10")
 
 total_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
   drop_na(home_team, away_team) %>%
@@ -54,40 +54,68 @@ total_records <- rbind(team1_scoreboard, team2_scoreboard) %>%
 
 create_standings <- function(conference){
 
-  scoreboard <- conf_scoreboard %>%
-    filter(home_conference == conference)
-
-  team1_scoreboard <- scoreboard[c(9,1,5,2,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
-  team2_scoreboard <- scoreboard[c(9,2,8,1,5)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
-
-  scoreboard_upd <- rbind(team1_scoreboard, team2_scoreboard) %>%
-    mutate(result = case_when(runs > opponent_runs ~ "W",
-                              runs < opponent_runs ~ "L",
-                              runs == opponent_runs ~ "T")) %>%
-    drop_na(team_name, runs, opponent_runs)
-
-  standings <- scoreboard_upd %>%
-    group_by(team_name) %>%
-    summarise(W = sum(result == "W"),
-              L = sum(result == "L"),
-              T = sum(result == "T"),
-              conf_win_perc = (W + T / 2) / (W + L + T),
-              conf_record = paste(W, L, T, sep = "-")) %>%
-    merge(team_ids, by = "team_name") %>% 
-    merge(total_records, by = "team_name") %>% 
-    arrange(-conf_win_perc, -win_perc) %>%
-    select(team_name, conf_record, record, team_id) %>% 
-    `names<-`(c("Team", "Conf", "Total", "Team ID"))
+  if(nrow(conf_scoreboard) != 0){
+    
+    scoreboard <- conf_scoreboard %>%
+      filter(home_conference == conference)
+    
+    team1_scoreboard <- scoreboard[c(9,1,5,2,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+    team2_scoreboard <- scoreboard[c(9,2,8,1,5)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
+    
+    scoreboard_upd <- rbind(team1_scoreboard, team2_scoreboard) %>%
+      mutate(result = case_when(runs > opponent_runs ~ "W",
+                                runs < opponent_runs ~ "L",
+                                runs == opponent_runs ~ "T")) %>%
+      drop_na(team_name, runs, opponent_runs)
+    
+    standings <- scoreboard_upd %>%
+      group_by(team_name) %>%
+      summarise(W = sum(result == "W"),
+                L = sum(result == "L"),
+                T = sum(result == "T"),
+                conf_win_perc = (W + T / 2) / (W + L + T),
+                conf_record = paste(W, L, T, sep = "-")) %>%
+      merge(team_ids, by = "team_name") %>% 
+      merge(total_records, by = "team_name") %>% 
+      arrange(-conf_win_perc, -win_perc) %>%
+      select(team_name, conf_record, record, team_id) %>% 
+      `names<-`(c("Team", "Conf", "Total", "Team ID"))
+    
+  } else{
+    
+    teams <- conferences %>% 
+      filter(conference == .env$conference)
+    
+    standings <- total_records %>% 
+      filter(team_name %in% teams$team_name) %>% 
+      mutate(conference = .env$conference,
+             conf_record = "0-0") %>% 
+      merge(team_ids, by = "team_name") 
+    
+    for(i in 1:nrow(teams)){
+      
+      if(!(teams$team_name[i] %in% standings$team_name)){
+        
+        standings <- rbind(standings, data.frame(team_name = teams$team_name[i], win_perc = 0, record = "0-0", conference = conference, conf_record = "0-0") %>% merge(team_ids, by = "team_name"))
+        
+      }
+      
+    }
+    
+    standings <- standings %>% 
+      arrange(-win_perc) %>% 
+      select(team_name, conf_record, record, team_id) %>% 
+      `names<-`(c("Team", "Conf", "Total", "Team ID"))
+    
+  }
   
-  scoreboard <- total_scoreboard
-
   return(standings)
 
 }
 
-for(i in 1:length(unique(conf_scoreboard$home_conference))){
+for(i in 1:length(unique(conferences$conference))){
 
-  conf <- unique(conf_scoreboard$home_conference)[i]
+  conf <- unique(conferences$conference)[i]
 
   standings <- create_standings(conf)
 
