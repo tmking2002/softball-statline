@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Mo Triner","Sunshine State","3-4-0",0.429
-"2","2023","Mo Triner","Sunshine State","25-25-0",0.5
-"3","2022","Mo Triner","Sunshine State","18-29-0",0.383
-"4","2021","Mo Triner","Sunshine State","7-17-0",0.292
-"5","2020","Chris Bellotto","Sunshine State","10-14-0",0.417
-"6","2019","Chris Bellotto","Sunshine State","16-28-0",0.364
-"7","2018","Chris Bellotto","Sunshine State","27-21-0",0.563
-"8","2017","Chris Bellotto","Sunshine State","17-24-0",0.415
-"9","2016","Chris Bellotto","Sunshine State","16-29-1",0.359
-"10","2015","Chris Bellotto","Sunshine State","19-32-0",0.373
-"11","2014","Chris Bellotto","Sunshine State","24-20-0",0.545
-"12","2013","Chris Bellotto","Sunshine State","17-32-0",0.347
-"13","2012","Chris Bellotto","Sunshine State","39-18-0",0.684
-"14","2011","Chris Bellotto","Sunshine State","25-21-0",0.543
-"15","2010","Chris Bellotto","Sunshine State","26-22-0",0.542
-"16","2009","Chris Bellotto","Sunshine State","43-15-0",0.741
-"17","2008","Chris Bellotto","Sunshine State","29-14-0",0.674
-"18","2007","Chris Bellotto","Sunshine State","51-15-0",0.773
-"19","2006","Chris Bellotto","Sunshine State","55-8-0",0.873
-"20","2005","Chris Bellotto","Sunshine State","39-11-0",0.78
-"21","2004","Chris Bellotto","Sunshine State","55-8-0",0.873
-"22","2003","Chris Bellotto","Sunshine State","32-18-0",0.64
-"23","2002","Chris Bellotto","-","18-32-0",0.36
-"24","2001","Chris Bellotto","-","31-17-0",0.646
-"25","2000","Chris Bellotto","-","46-16-0",0.742
-"26","1999","Chris Bellotto","-","44-12-0",0.786
-"27","1998","Chris Bellotto","-","44-13-0",0.772
-"28","1997","Chris Bellotto","-","45-13-0",0.776
-"29","1996","Chris Bellotto","-","47-7-0",0.87
-"30","1995","Chris Bellotto","-","42-9-0",0.824
-"31","1994","Chris Bellotto","-","36-11-0",0.766
-"32","1993","Chris Bellotto","-","45-11-0",0.804
-"33","1992","Chris Bellotto","-","41-9-0",0.82
-"34","1991","Chris Bellotto","-","35-11-0",0.761
-"35","1990","Chris Bellotto","-","42-10-0",0.808
-"36","1989","Chris Bellotto","-","46-8-0",0.852
-"37","1988","Chris Bellotto","-","47-6-0",0.887
-"38","1987","Chris Bellotto","-","49-6-0",0.891
-"39","1986","Chris Bellotto","-","34-13-0",0.723
-"40","1985","Chris Bellotto","-","20-8-0",0.714
-"41","1982","","-","0-0-0",NA
+"1","2023","Mo Triner","Sunshine State","25-25-0","0.500"
+"2","2022","Mo Triner","Sunshine State","18-29-0","0.383"
+"3","2021","Mo Triner","Sunshine State","7-17-0","0.292"
+"4","2020","Chris Bellotto","Sunshine State","10-14-0","0.417"
+"5","2019","Chris Bellotto","Sunshine State","16-28-0","0.364"
+"6","2018","Chris Bellotto","Sunshine State","27-21-0","0.562"
+"7","2017","Chris Bellotto","Sunshine State","17-24-0","0.415"
+"8","2016","Chris Bellotto","Sunshine State","16-29-1","0.356"
+"9","2015","Chris Bellotto","Sunshine State","19-32-0","0.373"
+"10","2014","Chris Bellotto","Sunshine State","24-20-0","0.545"
+"11","2013","Chris Bellotto","Sunshine State","17-32-0","0.347"
+"12","2012","Chris Bellotto","Sunshine State","39-18-0","0.684"
+"13","2011","Chris Bellotto","Sunshine State","25-21-0","0.543"
+"14","2010","Chris Bellotto","Sunshine State","26-22-0","0.542"
+"15","2009","Chris Bellotto","Sunshine State","43-15-0","0.741"
+"16","2008","Chris Bellotto","Sunshine State","29-14-0","0.674"
+"17","2007","Chris Bellotto","Sunshine State","51-15-0","0.773"
+"18","2006","Chris Bellotto","Sunshine State","55-8-0","0.873"
+"19","2005","Chris Bellotto","Sunshine State","39-11-0","0.780"
+"20","2004","Chris Bellotto","Sunshine State","55-8-0","0.873"
+"21","2003","Chris Bellotto","Sunshine State","32-18-0","0.640"
+"22","2002","Chris Bellotto","-","18-32-0","0.360"
+"23","2001","Chris Bellotto","-","31-17-0","0.646"
+"24","2000","Chris Bellotto","-","46-16-0","0.742"
+"25","1999","Chris Bellotto","-","44-12-0","0.786"
+"26","1998","Chris Bellotto","-","44-13-0","0.772"
+"27","1997","Chris Bellotto","-","45-13-0","0.776"
+"28","1996","Chris Bellotto","-","47-7-0","0.870"
+"29","1995","Chris Bellotto","-","42-9-0","0.824"
+"30","1994","Chris Bellotto","-","36-11-0","0.766"
+"31","1993","Chris Bellotto","-","45-11-0","0.804"
+"32","1992","Chris Bellotto","-","41-9-0","0.820"
+"33","1991","Chris Bellotto","-","35-11-0","0.761"
+"34","1990","Chris Bellotto","-","42-10-0","0.808"
+"35","1989","Chris Bellotto","-","46-8-0","0.852"
+"36","1988","Chris Bellotto","-","47-6-0","0.887"
+"37","1987","Chris Bellotto","-","49-6-0","0.891"
+"38","1986","Chris Bellotto","-","34-13-0","0.723"
+"39","1985","Chris Bellotto","-","20-8-0","0.714"
+"40","1982","","-","0-0-0","  NaN"
+"41","2024","Mo Triner","Sunshine State","3-1-0","0.750"

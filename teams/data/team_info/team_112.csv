@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Patti Gerckens","Big West","1-5-0",0.167
-"2","2023","Patti Gerckens","Big West","19-33-0",0.365
-"3","2022","Patti Gerckens","Big West","28-28-0",0.5
-"4","2021","Patti Gerckens","Big West","16-19-0",0.457
-"5","2020","Patti Gerckens","CCAA","21-8-0",0.724
-"6","2019","Patti Gerckens","CCAA","37-17-0",0.685
-"7","2018","Patti Gerckens","CCAA","36-19-0",0.655
-"8","2017","Patti Gerckens","CCAA","30-22-0",0.577
-"9","2016","Patti Gerckens","CCAA","37-21-0",0.638
-"10","2015","Patti Gerckens","CCAA","25-25-0",0.5
-"11","2014","Patti Gerckens","CCAA","34-18-0",0.654
-"12","2013","Patti Gerckens","CCAA","33-25-0",0.569
-"13","2012","Patti Gerckens","CCAA","45-23-0",0.662
-"14","2011","Patti Gerckens","CCAA","45-13-0",0.776
-"15","2010","Patti Gerckens","CCAA","30-20-0",0.6
-"16","2009","Patti Gerckens","CCAA","30-25-0",0.545
-"17","2008","Patti Gerckens","CCAA","32-24-0",0.571
-"18","2007","Patti Gerckens","CCAA","35-27-0",0.565
-"19","2006","Patti Gerckens","CCAA","24-28-0",0.462
-"20","2005","Patti Gerckens","CCAA","19-31-0",0.38
-"21","2004","Patti Gerckens","CCAA","29-27-0",0.518
-"22","2003","Patti Gerckens","CCAA","24-32-0",0.429
-"23","2002","Patti Gerckens","CCAA","35-25-0",0.583
-"24","2001","Patti Gerckens","-","34-17-0",0.667
-"25","2000","Patti Gerckens","-","29-13-0",0.69
-"26","1999","Patti Gerckens","-","23-14-0",0.622
-"27","1998","Patti Gerckens","-","18-19-0",0.486
-"28","1997","Patti Gerckens","-","25-21-0",0.543
-"29","1996","Patti Gerckens","-","11-30-0",0.268
-"30","1995","Patti Gerckens","-","13-21-0",0.382
-"31","1994","Patti Gerckens","-","19-18-0",0.514
-"32","1993","Patti Gerckens","-","6-28-0",0.176
-"33","1992","Melissa Jarrell","-","23-21-0",0.523
-"34","1991","Melissa Jarrell","-","21-22-0",0.488
-"35","1990","Sal Coats","-","22-16-0",0.579
-"36","1989","Lin Adams (35-9)Lisa Bassi (35-9)","-","35-9-0",0.795
-"37","1988","Lisa Bassi (32-10-1)Lin Adams (32-10-1)","-","0-0-0",NA
-"38","1987","","-","0-0-0",NA
-"39","1986","","-","0-0-0",NA
-"40","1985","","-","0-0-0",NA
-"41","1982","","-","0-0-0",NA
+"1","2023","Patti Gerckens","Big West","19-33-0","0.365"
+"2","2022","Patti Gerckens","Big West","28-28-0","0.500"
+"3","2021","Patti Gerckens","Big West","16-19-0","0.457"
+"4","2020","Patti Gerckens","CCAA","21-8-0","0.724"
+"5","2019","Patti Gerckens","CCAA","37-17-0","0.685"
+"6","2018","Patti Gerckens","CCAA","36-19-0","0.655"
+"7","2017","Patti Gerckens","CCAA","30-22-0","0.577"
+"8","2016","Patti Gerckens","CCAA","37-21-0","0.638"
+"9","2015","Patti Gerckens","CCAA","25-25-0","0.500"
+"10","2014","Patti Gerckens","CCAA","34-18-0","0.654"
+"11","2013","Patti Gerckens","CCAA","33-25-0","0.569"
+"12","2012","Patti Gerckens","CCAA","45-23-0","0.662"
+"13","2011","Patti Gerckens","CCAA","45-13-0","0.776"
+"14","2010","Patti Gerckens","CCAA","30-20-0","0.600"
+"15","2009","Patti Gerckens","CCAA","30-25-0","0.545"
+"16","2008","Patti Gerckens","CCAA","32-24-0","0.571"
+"17","2007","Patti Gerckens","CCAA","35-27-0","0.565"
+"18","2006","Patti Gerckens","CCAA","24-28-0","0.462"
+"19","2005","Patti Gerckens","CCAA","19-31-0","0.380"
+"20","2004","Patti Gerckens","CCAA","29-27-0","0.518"
+"21","2003","Patti Gerckens","CCAA","24-32-0","0.429"
+"22","2002","Patti Gerckens","CCAA","35-25-0","0.583"
+"23","2001","Patti Gerckens","-","34-17-0","0.667"
+"24","2000","Patti Gerckens","-","29-13-0","0.690"
+"25","1999","Patti Gerckens","-","23-14-0","0.622"
+"26","1998","Patti Gerckens","-","18-19-0","0.486"
+"27","1997","Patti Gerckens","-","25-21-0","0.543"
+"28","1996","Patti Gerckens","-","11-30-0","0.268"
+"29","1995","Patti Gerckens","-","13-21-0","0.382"
+"30","1994","Patti Gerckens","-","19-18-0","0.514"
+"31","1993","Patti Gerckens","-","6-28-0","0.176"
+"32","1992","Melissa Jarrell","-","23-21-0","0.523"
+"33","1991","Melissa Jarrell","-","21-22-0","0.488"
+"34","1990","Sal Coats","-","22-16-0","0.579"
+"35","1989","Lin Adams (35-9)Lisa Bassi (35-9)","-","35-9-0","0.795"
+"36","1988","Lisa Bassi (32-10-1)Lin Adams (32-10-1)","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"
+"40","1982","","-","0-0-0","  NaN"
+"41","2024","Patti Gerckens","Big West","0-0-0","  NaN"

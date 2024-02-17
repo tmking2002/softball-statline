@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Jen Fisher","Mountain West","3-2-0",0.6
-"2","2023","Jen Fisher","Mountain West","27-20-0",0.574
-"3","2022","Jen Fisher","Mountain West","18-28-0",0.391
-"4","2021","Jen Fisher","Mountain West","16-20-0",0.444
-"5","2020","Jen Fisher","Mountain West","11-12-0",0.478
-"6","2019","Jen Fisher","Mountain West","39-12-0",0.765
-"7","2018","Jen Fisher","Mountain West","27-23-0",0.54
-"8","2017","Jen Fisher","Mountain West","28-22-0",0.56
-"9","2016","Jen Fisher","Mountain West","22-24-0",0.478
-"10","2015","Jen Fisher","Mountain West","27-29-0",0.482
-"11","2014","Jen Fisher","Mountain West","32-17-0",0.653
-"12","2013","Jen Fisher","Mountain West","25-24-0",0.51
-"13","2012","Jen Fisher","Mountain West","29-22-0",0.569
-"14","2011","Jen Fisher","Mountain West","8-43-0",0.157
-"15","2010","Mary Yori","Mountain West","29-20-0",0.592
-"16","2009","Mary Yori","Mountain West","26-25-0",0.51
-"17","2008","Mary Yori","Mountain West","29-22-0",0.569
-"18","2007","Mary Yori","Mountain West","30-28-0",0.517
-"19","2006","Mary Yori","Mountain West","26-26-0",0.5
-"20","2005","Mary Yori","Mountain West","29-22-0",0.569
-"21","2004","Mary Yori","Mountain West","40-14-0",0.741
-"22","2003","Mary Yori","Mountain West","37-15-0",0.712
-"23","2002","Mary Yori","Mountain West","19-33-0",0.365
-"24","2001","Mary Yori","Mountain West","10-37-0",0.213
-"25","2000","Teri Klement","Mountain West","20-32-0",0.385
-"26","1999","Teri Klement","WAC","17-24-0",0.415
-"27","1998","Candi Letts","-","30-21-0",0.588
-"28","1997","Candi Letts","WAC","51-14-0",0.785
-"29","1996","Candi Letts","-","31-22-0",0.585
-"30","1995","Candi Letts","-","24-19-0",0.558
-"31","1994","Candi Letts","-","22-30-1",0.425
-"32","1993","","-","0-0-0",NA
-"33","1992","Sandy Pearce","-","33-25-0",0.569
-"34","1991","Sandy Pearce","-","22-26-0",0.458
-"35","1990","Sandy Pearce","-","23-17-0",0.575
-"36","1989","Jo Evans","-","37-14-0",0.725
-"37","1988","Jo Evans","-","23-17-0",0.575
-"38","1987","Jo Evans","-","18-20-0",0.474
-"39","1986","Jo Evans","-","13-16-0",0.448
-"40","1985","","-","0-0-0",NA
-"41","1984","","-","0-0-0",NA
-"42","1983","","-","0-0-0",NA
-"43","1982","","-","0-0-0",NA
+"1","2023","Jen Fisher","Mountain West","27-20-0","0.574"
+"2","2022","Jen Fisher","Mountain West","18-28-0","0.391"
+"3","2021","Jen Fisher","Mountain West","16-20-0","0.444"
+"4","2020","Jen Fisher","Mountain West","11-12-0","0.478"
+"5","2019","Jen Fisher","Mountain West","39-12-0","0.765"
+"6","2018","Jen Fisher","Mountain West","27-23-0","0.540"
+"7","2017","Jen Fisher","Mountain West","28-22-0","0.560"
+"8","2016","Jen Fisher","Mountain West","22-24-0","0.478"
+"9","2015","Jen Fisher","Mountain West","27-29-0","0.482"
+"10","2014","Jen Fisher","Mountain West","32-17-0","0.653"
+"11","2013","Jen Fisher","Mountain West","25-24-0","0.510"
+"12","2012","Jen Fisher","Mountain West","29-22-0","0.569"
+"13","2011","Jen Fisher","Mountain West","8-43-0","0.157"
+"14","2010","Mary Yori","Mountain West","29-20-0","0.592"
+"15","2009","Mary Yori","Mountain West","26-25-0","0.510"
+"16","2008","Mary Yori","Mountain West","29-22-0","0.569"
+"17","2007","Mary Yori","Mountain West","30-28-0","0.517"
+"18","2006","Mary Yori","Mountain West","26-26-0","0.500"
+"19","2005","Mary Yori","Mountain West","29-22-0","0.569"
+"20","2004","Mary Yori","Mountain West","40-14-0","0.741"
+"21","2003","Mary Yori","Mountain West","37-15-0","0.712"
+"22","2002","Mary Yori","Mountain West","19-33-0","0.365"
+"23","2001","Mary Yori","Mountain West","10-37-0","0.213"
+"24","2000","Teri Klement","Mountain West","20-32-0","0.385"
+"25","1999","Teri Klement","WAC","17-24-0","0.415"
+"26","1998","Candi Letts","-","30-21-0","0.588"
+"27","1997","Candi Letts","WAC","51-14-0","0.785"
+"28","1996","Candi Letts","-","31-22-0","0.585"
+"29","1995","Candi Letts","-","24-19-0","0.558"
+"30","1994","Candi Letts","-","22-30-1","0.423"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","Sandy Pearce","-","33-25-0","0.569"
+"33","1991","Sandy Pearce","-","22-26-0","0.458"
+"34","1990","Sandy Pearce","-","23-17-0","0.575"
+"35","1989","Jo Evans","-","37-14-0","0.725"
+"36","1988","Jo Evans","-","23-17-0","0.575"
+"37","1987","Jo Evans","-","18-20-0","0.474"
+"38","1986","Jo Evans","-","13-16-0","0.448"
+"39","1985","","-","0-0-0","  NaN"
+"40","1984","","-","0-0-0","  NaN"
+"41","1983","","-","0-0-0","  NaN"
+"42","1982","","-","0-0-0","  NaN"
+"43","2024","Jen Fisher","Mountain West","0-0-0","  NaN"

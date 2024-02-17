@@ -75,7 +75,7 @@ adjust_hitting_box <- function(raw_box){
   
 }
 
-for(season in 2016:2024){
+for(season in 2024){
   
   box <- data.frame()
   
@@ -109,7 +109,7 @@ adjust_pitching_box <- function(raw_box){
   
 }
 
-for(season in 2016:2024){
+for(season in 2024){
   
   box <- data.frame()
   
@@ -122,3 +122,4 @@ for(season in 2016:2024){
   write.csv(box %>% adjust_pitching_box(.), paste0("teams/data/box_scores/pitching_box_", season, ".csv"))
   
 }
+

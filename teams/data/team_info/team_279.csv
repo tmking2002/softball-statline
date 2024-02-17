@@ -1,39 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Melissa Torres","CUNYAC","NA-NA-NA",0
-"2","2023","Melissa Torres","CUNYAC","11-16-0",0.407
-"3","2022","Melissa Torres","CUNYAC","11-15-0",0.423
-"4","2021","","CUNYAC","0-0-0",0
-"5","2020","Melissa Torres","CUNYAC","0-6-0",0
-"6","2019","Melissa Torres","CUNYAC","13-20-0",0.394
-"7","2018","Erin Van Nostrand","CUNYAC","15-24-0",0.385
-"8","2017","Don Gannon (0-8)Erin Van Nostrand (12-24)","CUNYAC","12-24-0",0.333
-"9","2016","Don Gannon","CUNYAC","10-19-0",0.345
-"10","2015","John McKenna","CUNYAC","9-15-0",0.375
-"11","2014","Now-Allah Jones","CUNYAC","12-21-0",0.364
-"12","2013","Claudio Barbieri","CUNYAC","4-24-0",0.143
-"13","2012","Claudio Barbieri","CUNYAC","12-19-0",0.387
-"14","2011","Claudio Barbieri","CUNYAC","7-22-0",0.241
-"15","2010","Joanna Quirindongo","CUNYAC","8-23-0",0.258
-"16","2009","Joanna Quirindongo","CUNYAC","3-28-0",0.097
-"17","2008","Joanna Quirindongo","CUNYAC","3-26-0",0.103
-"18","2007","Kimberly Santoiemma","CUNYAC","14-8-0",0.636
-"19","2006","Kimberly Santoiemma","CUNYAC","10-20-0",0.333
-"20","2005","Kimberly Santoiemma","CUNYAC","5-21-0",0.192
-"21","2004","Kimberly Santoiemma","CUNYAC","10-15-0",0.4
-"22","2003","Roxann Moraza","CUNYAC","8-5-0",0.615
-"23","2002","Roxann Moraza","CUNYAC","12-18-0",0.4
-"24","2001","Roxann Moraza","-","19-10-0",0.655
-"25","2000","Roxann Moraza","-","14-11-0",0.56
-"26","1999","Roxann Moraza","-","5-16-0",0.238
-"27","1998","Roxann Moraza","-","9-15-0",0.375
-"28","1997","Roxann Moraza","-","5-13-0",0.278
-"29","1996","Roxann Moraza","-","2-17-0",0.105
-"30","1995","Roxann Moraza","-","5-14-0",0.263
-"31","1994","Roxann Moraza","-","3-13-0",0.188
-"32","1993","Roxann Moraza","-","3-13-0",0.188
-"33","1992","Roxann Moraza","-","8-8-0",0.5
-"34","1991","Roxann Moraza","-","9-11-0",0.45
-"35","1990","","-","0-0-0",NA
-"36","1985","","-","0-0-0",NA
-"37","1983","","-","0-0-0",NA
-"38","1982","","-","0-0-0",NA
+"1","2023","Melissa Torres","CUNYAC","11-16-0","0.407"
+"2","2022","Melissa Torres","CUNYAC","11-15-0","0.423"
+"3","2021","","CUNYAC","0-0-0","  NaN"
+"4","2020","Melissa Torres","CUNYAC","0-6-0","0.000"
+"5","2019","Melissa Torres","CUNYAC","13-20-0","0.394"
+"6","2018","Erin Van Nostrand","CUNYAC","15-24-0","0.385"
+"7","2017","Don Gannon (0-8)Erin Van Nostrand (12-24)","CUNYAC","12-24-0","0.333"
+"8","2016","Don Gannon","CUNYAC","10-19-0","0.345"
+"9","2015","John McKenna","CUNYAC","9-15-0","0.375"
+"10","2014","Now-Allah Jones","CUNYAC","12-21-0","0.364"
+"11","2013","Claudio Barbieri","CUNYAC","4-24-0","0.143"
+"12","2012","Claudio Barbieri","CUNYAC","12-19-0","0.387"
+"13","2011","Claudio Barbieri","CUNYAC","7-22-0","0.241"
+"14","2010","Joanna Quirindongo","CUNYAC","8-23-0","0.258"
+"15","2009","Joanna Quirindongo","CUNYAC","3-28-0","0.097"
+"16","2008","Joanna Quirindongo","CUNYAC","3-26-0","0.103"
+"17","2007","Kimberly Santoiemma","CUNYAC","14-8-0","0.636"
+"18","2006","Kimberly Santoiemma","CUNYAC","10-20-0","0.333"
+"19","2005","Kimberly Santoiemma","CUNYAC","5-21-0","0.192"
+"20","2004","Kimberly Santoiemma","CUNYAC","10-15-0","0.400"
+"21","2003","Roxann Moraza","CUNYAC","8-5-0","0.615"
+"22","2002","Roxann Moraza","CUNYAC","12-18-0","0.400"
+"23","2001","Roxann Moraza","-","19-10-0","0.655"
+"24","2000","Roxann Moraza","-","14-11-0","0.560"
+"25","1999","Roxann Moraza","-","5-16-0","0.238"
+"26","1998","Roxann Moraza","-","9-15-0","0.375"
+"27","1997","Roxann Moraza","-","5-13-0","0.278"
+"28","1996","Roxann Moraza","-","2-17-0","0.105"
+"29","1995","Roxann Moraza","-","5-14-0","0.263"
+"30","1994","Roxann Moraza","-","3-13-0","0.188"
+"31","1993","Roxann Moraza","-","3-13-0","0.188"
+"32","1992","Roxann Moraza","-","8-8-0","0.500"
+"33","1991","Roxann Moraza","-","9-11-0","0.450"
+"34","1990","","-","0-0-0","  NaN"
+"35","1985","","-","0-0-0","  NaN"
+"36","1983","","-","0-0-0","  NaN"
+"37","1982","","-","0-0-0","  NaN"

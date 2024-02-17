@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Tiffany Massey","CIAA","0-0-0",0
-"2","2023","Tiffany Massey","CIAA","21-14-0",0.6
-"3","2022","Lataya Hilliard-Gray","CIAA","15-12-0",0.556
-"4","2021","Lataya Hilliard-Gray","CIAA","4-3-0",0.571
-"5","2020","Lataya Hilliard-Gray","CIAA","5-13-0",0.278
-"6","2019","Lataya Hilliard-Gray","CIAA","33-13-0",0.717
-"7","2018","Lataya Hilliard-Gray","CIAA","12-26-0",0.316
-"8","2017","Lataya Hilliard-Gray","CIAA","16-31-0",0.34
-"9","2016","Lataya Hilliard-Gray","CIAA","30-23-0",0.566
-"10","2015","Lataya Hilliard-Gray","CIAA","23-22-0",0.511
-"11","2014","Lataya Hilliard-Gray","CIAA","28-13-0",0.683
-"12","2013","Lataya Hilliard-Gray","CIAA","28-21-0",0.571
-"13","2012","Lataya Hilliard-Gray","CIAA","30-19-0",0.612
-"14","2011","Lataya Hilliard-Gray","CIAA","29-13-0",0.69
-"15","2010","Lataya Hilliard-Gray","Winston-Salem","9-27-0",0.25
-"16","2009","Lataya Hilliard-Gray","MEAC","14-26-0",0.35
-"17","2008","Lataya Hilliard-Gray","MEAC","20-29-0",0.408
-"18","2007","Lataya Hilliard-Gray","MEAC","12-31-0",0.279
-"19","2006","Lataya Hilliard-Gray","CIAA","19-18-0",0.514
-"20","2005","Lataya Hilliard-Gray","CIAA","12-22-0",0.353
-"21","2004","Lataya Hilliard-Gray","CIAA","22-11-0",0.667
-"22","2003","Lataya Hilliard-Gray","CIAA","21-11-0",0.656
-"23","2002","Lataya Hilliard-Gray","-","21-8-2",0.71
-"24","2001","Keith James","-","29-6-0",0.829
-"25","2000","Michael Winbush","-","32-2-0",0.941
-"26","1999","Michael Winbush","-","17-10-0",0.63
-"27","1998","Michael Winbush","-","22-6-0",0.786
-"28","1997","Michael Winbush","-","12-10-0",0.545
-"29","1996","Michael Winbush","-","11-13-0",0.458
-"30","1995","Michael Winbush","-","15-6-0",0.714
-"31","1994","Michael Winbush","-","9-19-0",0.321
-"32","1993","Michael Winbush","-","11-14-0",0.44
-"33","1991","","-","0-0-0",NA
-"34","1990","","-","0-0-0",NA
-"35","1989","","-","0-0-0",NA
-"36","1988","","-","0-0-0",NA
-"37","1986","","-","0-0-0",NA
+"1","2023","Tiffany Massey","CIAA","21-14-0","0.600"
+"2","2022","Lataya Hilliard-Gray","CIAA","15-12-0","0.556"
+"3","2021","Lataya Hilliard-Gray","CIAA","4-3-0","0.571"
+"4","2020","Lataya Hilliard-Gray","CIAA","5-13-0","0.278"
+"5","2019","Lataya Hilliard-Gray","CIAA","33-13-0","0.717"
+"6","2018","Lataya Hilliard-Gray","CIAA","12-26-0","0.316"
+"7","2017","Lataya Hilliard-Gray","CIAA","16-31-0","0.340"
+"8","2016","Lataya Hilliard-Gray","CIAA","30-23-0","0.566"
+"9","2015","Lataya Hilliard-Gray","CIAA","23-22-0","0.511"
+"10","2014","Lataya Hilliard-Gray","CIAA","28-13-0","0.683"
+"11","2013","Lataya Hilliard-Gray","CIAA","28-21-0","0.571"
+"12","2012","Lataya Hilliard-Gray","CIAA","30-19-0","0.612"
+"13","2011","Lataya Hilliard-Gray","CIAA","29-13-0","0.690"
+"14","2010","Lataya Hilliard-Gray","Winston-Salem","9-27-0","0.250"
+"15","2009","Lataya Hilliard-Gray","MEAC","14-26-0","0.350"
+"16","2008","Lataya Hilliard-Gray","MEAC","20-29-0","0.408"
+"17","2007","Lataya Hilliard-Gray","MEAC","12-31-0","0.279"
+"18","2006","Lataya Hilliard-Gray","CIAA","19-18-0","0.514"
+"19","2005","Lataya Hilliard-Gray","CIAA","12-22-0","0.353"
+"20","2004","Lataya Hilliard-Gray","CIAA","22-11-0","0.667"
+"21","2003","Lataya Hilliard-Gray","CIAA","21-11-0","0.656"
+"22","2002","Lataya Hilliard-Gray","-","21-8-2","0.724"
+"23","2001","Keith James","-","29-6-0","0.829"
+"24","2000","Michael Winbush","-","32-2-0","0.941"
+"25","1999","Michael Winbush","-","17-10-0","0.630"
+"26","1998","Michael Winbush","-","22-6-0","0.786"
+"27","1997","Michael Winbush","-","12-10-0","0.545"
+"28","1996","Michael Winbush","-","11-13-0","0.458"
+"29","1995","Michael Winbush","-","15-6-0","0.714"
+"30","1994","Michael Winbush","-","9-19-0","0.321"
+"31","1993","Michael Winbush","-","11-14-0","0.440"
+"32","1991","","-","0-0-0","  NaN"
+"33","1990","","-","0-0-0","  NaN"
+"34","1989","","-","0-0-0","  NaN"
+"35","1988","","-","0-0-0","  NaN"
+"36","1986","","-","0-0-0","  NaN"
+"37","2024","Tiffany Massey","CIAA","0-0-0","  NaN"

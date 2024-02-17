@@ -1,41 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Taylor Gardner","Centennial","NA-NA-NA",0
-"2","2023","Taylor Gardner","Centennial","29-14-0",0.674
-"3","2022","Samantha Campo","Centennial","17-18-0",0.486
-"4","2021","Samantha Campo","Centennial","5-5-0",0.5
-"5","2020","Samantha Campo","Centennial","6-6-0",0.5
-"6","2019","Samantha Campo","Centennial","20-20-1",0.5
-"7","2018","Samantha Campo","Centennial","15-21-0",0.417
-"8","2017","Samantha Campo","Centennial","17-19-0",0.472
-"9","2016","Samantha Campo","Centennial","17-19-0",0.472
-"10","2015","Samantha Campo","Centennial","13-20-0",0.394
-"11","2014","Samantha Campo","Centennial","10-24-0",0.294
-"12","2013","Samantha Campo","Centennial","15-19-0",0.441
-"13","2012","Jennifer Croneberger","Centennial","23-18-0",0.561
-"14","2011","Jennifer Croneberger","Centennial","18-18-0",0.5
-"15","2010","Terry McGowan","Centennial","28-7-0",0.8
-"16","2009","Terry McGowan","Centennial","28-10-0",0.737
-"17","2008","Terry McGowan","Centennial","36-11-0",0.766
-"18","2007","Terry McGowan","Centennial","30-10-0",0.75
-"19","2006","Terry McGowan","Centennial","30-8-0",0.789
-"20","2005","Terry McGowan","Centennial","37-10-0",0.787
-"21","2004","Terry McGowan","Centennial","33-11-1",0.744
-"22","2003","Terry McGowan","Centennial","22-10-0",0.688
-"23","2002","Terry McGowan","Centennial","20-18-1",0.526
-"24","2001","Terry McGowan","-","27-12-0",0.692
-"25","2000","Don Groff","-","34-12-0",0.739
-"26","1999","Don Groff","-","22-21-0",0.512
-"27","1998","Don Groff","-","16-19-0",0.457
-"28","1997","Don Groff","-","28-16-0",0.636
-"29","1996","Don Groff","-","42-4-0",0.913
-"30","1995","Don Groff","-","29-8-0",0.784
-"31","1994","Don Groff","-","19-15-0",0.559
-"32","1993","Don Groff","-","19-11-0",0.633
-"33","1992","Don Groff","-","13-21-0",0.382
-"34","1991","Don Groff","-","9-23-0",0.281
-"35","1990","","-","0-0-0",NA
-"36","1987","","-","0-0-0",NA
-"37","1986","","-","0-0-0",NA
-"38","1985","","-","0-0-0",NA
-"39","1983","","-","0-0-0",NA
-"40","1982","","-","0-0-0",NA
+"1","2023","Taylor Gardner","Centennial","29-14-0","0.674"
+"2","2022","Samantha Campo","Centennial","17-18-0","0.486"
+"3","2021","Samantha Campo","Centennial","5-5-0","0.500"
+"4","2020","Samantha Campo","Centennial","6-6-0","0.500"
+"5","2019","Samantha Campo","Centennial","20-20-1","0.500"
+"6","2018","Samantha Campo","Centennial","15-21-0","0.417"
+"7","2017","Samantha Campo","Centennial","17-19-0","0.472"
+"8","2016","Samantha Campo","Centennial","17-19-0","0.472"
+"9","2015","Samantha Campo","Centennial","13-20-0","0.394"
+"10","2014","Samantha Campo","Centennial","10-24-0","0.294"
+"11","2013","Samantha Campo","Centennial","15-19-0","0.441"
+"12","2012","Jennifer Croneberger","Centennial","23-18-0","0.561"
+"13","2011","Jennifer Croneberger","Centennial","18-18-0","0.500"
+"14","2010","Terry McGowan","Centennial","28-7-0","0.800"
+"15","2009","Terry McGowan","Centennial","28-10-0","0.737"
+"16","2008","Terry McGowan","Centennial","36-11-0","0.766"
+"17","2007","Terry McGowan","Centennial","30-10-0","0.750"
+"18","2006","Terry McGowan","Centennial","30-8-0","0.789"
+"19","2005","Terry McGowan","Centennial","37-10-0","0.787"
+"20","2004","Terry McGowan","Centennial","33-11-1","0.750"
+"21","2003","Terry McGowan","Centennial","22-10-0","0.688"
+"22","2002","Terry McGowan","Centennial","20-18-1","0.526"
+"23","2001","Terry McGowan","-","27-12-0","0.692"
+"24","2000","Don Groff","-","34-12-0","0.739"
+"25","1999","Don Groff","-","22-21-0","0.512"
+"26","1998","Don Groff","-","16-19-0","0.457"
+"27","1997","Don Groff","-","28-16-0","0.636"
+"28","1996","Don Groff","-","42-4-0","0.913"
+"29","1995","Don Groff","-","29-8-0","0.784"
+"30","1994","Don Groff","-","19-15-0","0.559"
+"31","1993","Don Groff","-","19-11-0","0.633"
+"32","1992","Don Groff","-","13-21-0","0.382"
+"33","1991","Don Groff","-","9-23-0","0.281"
+"34","1990","","-","0-0-0","  NaN"
+"35","1987","","-","0-0-0","  NaN"
+"36","1986","","-","0-0-0","  NaN"
+"37","1985","","-","0-0-0","  NaN"
+"38","1983","","-","0-0-0","  NaN"
+"39","1982","","-","0-0-0","  NaN"

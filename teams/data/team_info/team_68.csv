@@ -1,42 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Ashley Waters","Patriot","5-0-0",1
-"2","2023","Ashley Waters","Patriot","52-10-0",0.839
-"3","2022","Ashley Waters","Patriot","40-17-0",0.702
-"4","2021","Ashley Waters","Patriot","36-4-0",0.9
-"5","2020","Ashley Waters","Patriot","14-8-0",0.636
-"6","2019","Ashley Waters","Patriot","37-20-0",0.649
-"7","2018","Ashley Waters","Patriot","39-20-0",0.661
-"8","2017","Ashley Waters","Patriot","25-27-0",0.481
-"9","2016","Ashley Waters","Patriot","28-24-0",0.538
-"10","2015","Kathryn Gleason","Patriot","17-27-0",0.386
-"11","2014","Kathryn Gleason","Patriot","36-21-0",0.632
-"12","2013","Kathryn Gleason","America East","21-26-1",0.448
-"13","2012","Shawn Rychcik","America East","41-16-0",0.719
-"14","2011","Shawn Rychcik","America East","34-18-0",0.654
-"15","2010","Shawn Rychcik","America East","35-22-0",0.614
-"16","2009","Shawn Rychcik","America East","43-18-0",0.705
-"17","2008","Shawn Rychcik","America East","29-23-0",0.558
-"18","2007","Shawn Rychcik","America East","34-14-0",0.708
-"19","2006","Shawn Rychcik","America East","29-29-0",0.5
-"20","2005","Shawn Rychcik","America East","26-19-1",0.576
-"21","2004","Amy Hayes","America East","26-32-0",0.448
-"22","2003","Amy Hayes","America East","33-23-0",0.589
-"23","2002","Amy Hayes","America East","28-23-0",0.549
-"24","2001","Amy Hayes","America East","34-17-0",0.667
-"25","2000","Deb Solfaro","America East","36-19-0",0.655
-"26","1999","Deb Solfaro","America East","28-15-0",0.651
-"27","1998","Deb Solfaro","-","25-24-0",0.51
-"28","1997","Deb Solfaro","America East","28-17-0",0.622
-"29","1996","Deb Solfaro","-","36-10-0",0.783
-"30","1995","Deb Solfaro","-","33-11-0",0.75
-"31","1994","Laurie LeGoff","-","36-9-0",0.8
-"32","1993","Laurie LeGoff","-","29-12-0",0.707
-"33","1992","Laurie LeGoff","-","35-7-0",0.833
-"34","1991","Laurie LeGoff","-","36-9-0",0.8
-"35","1990","","-","0-0-0",NA
-"36","1989","","-","0-0-0",NA
-"37","1988","","-","0-0-0",NA
-"38","1987","","-","0-0-0",NA
-"39","1986","","-","0-0-0",NA
-"40","1985","","-","0-0-0",NA
-"41","1984","","-","0-0-0",NA
+"1","2023","Ashley Waters","Patriot","52-10-0","0.839"
+"2","2022","Ashley Waters","Patriot","40-17-0","0.702"
+"3","2021","Ashley Waters","Patriot","36-4-0","0.900"
+"4","2020","Ashley Waters","Patriot","14-8-0","0.636"
+"5","2019","Ashley Waters","Patriot","37-20-0","0.649"
+"6","2018","Ashley Waters","Patriot","39-20-0","0.661"
+"7","2017","Ashley Waters","Patriot","25-27-0","0.481"
+"8","2016","Ashley Waters","Patriot","28-24-0","0.538"
+"9","2015","Kathryn Gleason","Patriot","17-27-0","0.386"
+"10","2014","Kathryn Gleason","Patriot","36-21-0","0.632"
+"11","2013","Kathryn Gleason","America East","21-26-1","0.447"
+"12","2012","Shawn Rychcik","America East","41-16-0","0.719"
+"13","2011","Shawn Rychcik","America East","34-18-0","0.654"
+"14","2010","Shawn Rychcik","America East","35-22-0","0.614"
+"15","2009","Shawn Rychcik","America East","43-18-0","0.705"
+"16","2008","Shawn Rychcik","America East","29-23-0","0.558"
+"17","2007","Shawn Rychcik","America East","34-14-0","0.708"
+"18","2006","Shawn Rychcik","America East","29-29-0","0.500"
+"19","2005","Shawn Rychcik","America East","26-19-1","0.578"
+"20","2004","Amy Hayes","America East","26-32-0","0.448"
+"21","2003","Amy Hayes","America East","33-23-0","0.589"
+"22","2002","Amy Hayes","America East","28-23-0","0.549"
+"23","2001","Amy Hayes","America East","34-17-0","0.667"
+"24","2000","Deb Solfaro","America East","36-19-0","0.655"
+"25","1999","Deb Solfaro","America East","28-15-0","0.651"
+"26","1998","Deb Solfaro","-","25-24-0","0.510"
+"27","1997","Deb Solfaro","America East","28-17-0","0.622"
+"28","1996","Deb Solfaro","-","36-10-0","0.783"
+"29","1995","Deb Solfaro","-","33-11-0","0.750"
+"30","1994","Laurie LeGoff","-","36-9-0","0.800"
+"31","1993","Laurie LeGoff","-","29-12-0","0.707"
+"32","1992","Laurie LeGoff","-","35-7-0","0.833"
+"33","1991","Laurie LeGoff","-","36-9-0","0.800"
+"34","1990","","-","0-0-0","  NaN"
+"35","1989","","-","0-0-0","  NaN"
+"36","1988","","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"
+"40","1984","","-","0-0-0","  NaN"

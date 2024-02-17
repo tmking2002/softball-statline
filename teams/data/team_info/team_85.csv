@@ -1,41 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Jamie Brown","SUNYAC","NA-NA-NA",0
-"2","2023","Jamie Brown","SUNYAC","25-15-0",0.625
-"3","2022","Jamie Brown","SUNYAC","15-21-0",0.417
-"4","2021","Jamie Brown","SUNYAC","13-14-0",0.481
-"5","2020","Jamie Brown","SUNYAC","0-0-0",0
-"6","2019","Jamie Brown","SUNYAC","17-19-0",0.472
-"7","2018","Jamie Brown","SUNYAC","11-20-0",0.355
-"8","2017","Marie Curran","SUNYAC","16-23-0",0.41
-"9","2016","Marie Curran","SUNYAC","21-20-0",0.512
-"10","2015","Marie Curran","SUNYAC","18-17-0",0.514
-"11","2014","Marie Curran","SUNYAC","19-16-0",0.543
-"12","2013","Marie Curran","SUNYAC","15-19-0",0.441
-"13","2012","Sandra Hollander (8-6)Marie Curran (12-14)","SUNYAC","20-20-0",0.5
-"14","2011","Sandra Hollander","SUNYAC","18-21-0",0.462
-"15","2010","Sandra Hollander","SUNYAC","20-20-0",0.5
-"16","2009","Sandra Hollander","SUNYAC","33-14-0",0.702
-"17","2008","Sandra Hollander","SUNYAC","28-15-0",0.651
-"18","2007","Sandra Hollander","SUNYAC","27-11-0",0.711
-"19","2006","Sandra Hollander","SUNYAC","30-12-0",0.714
-"20","2005","Sandra Hollander","SUNYAC","29-11-0",0.725
-"21","2004","Sandra Hollander","SUNYAC","26-14-0",0.65
-"22","2003","Sandra Hollander","SUNYAC","25-15-0",0.625
-"23","2002","Sandra Hollander","SUNYAC","19-17-0",0.528
-"24","2001","Sandra Hollander","-","19-19-0",0.5
-"25","2000","Sandra Hollander","-","29-16-0",0.644
-"26","1999","Sandra Hollander","-","15-22-0",0.405
-"27","1998","Sandra Hollander","-","30-12-0",0.714
-"28","1997","Sandra Hollander","-","25-18-2",0.578
-"29","1996","Sandra Hollander","-","29-11-0",0.725
-"30","1995","Sandra Hollander","-","28-18-0",0.609
-"31","1994","Sandra Hollander","-","26-12-0",0.684
-"32","1993","Sandra Hollander","-","30-8-0",0.789
-"33","1992","Sandra Hollander","-","20-8-0",0.714
-"34","1991","Sandra Hollander","-","21-12-0",0.636
-"35","1990","Sandra Hollander","-","11-17-0",0.393
-"36","1989","Sandra Hollander","-","16-13-0",0.552
-"37","1987","","-","0-0-0",NA
-"38","1985","","-","0-0-0",NA
-"39","1984","","-","0-0-0",NA
-"40","1983","","-","0-0-0",NA
+"1","2023","Jamie Brown","SUNYAC","25-15-0","0.625"
+"2","2022","Jamie Brown","SUNYAC","15-21-0","0.417"
+"3","2021","Jamie Brown","SUNYAC","13-14-0","0.481"
+"4","2020","Jamie Brown","SUNYAC","0-0-0","  NaN"
+"5","2019","Jamie Brown","SUNYAC","17-19-0","0.472"
+"6","2018","Jamie Brown","SUNYAC","11-20-0","0.355"
+"7","2017","Marie Curran","SUNYAC","16-23-0","0.410"
+"8","2016","Marie Curran","SUNYAC","21-20-0","0.512"
+"9","2015","Marie Curran","SUNYAC","18-17-0","0.514"
+"10","2014","Marie Curran","SUNYAC","19-16-0","0.543"
+"11","2013","Marie Curran","SUNYAC","15-19-0","0.441"
+"12","2012","Sandra Hollander (8-6)Marie Curran (12-14)","SUNYAC","20-20-0","0.500"
+"13","2011","Sandra Hollander","SUNYAC","18-21-0","0.462"
+"14","2010","Sandra Hollander","SUNYAC","20-20-0","0.500"
+"15","2009","Sandra Hollander","SUNYAC","33-14-0","0.702"
+"16","2008","Sandra Hollander","SUNYAC","28-15-0","0.651"
+"17","2007","Sandra Hollander","SUNYAC","27-11-0","0.711"
+"18","2006","Sandra Hollander","SUNYAC","30-12-0","0.714"
+"19","2005","Sandra Hollander","SUNYAC","29-11-0","0.725"
+"20","2004","Sandra Hollander","SUNYAC","26-14-0","0.650"
+"21","2003","Sandra Hollander","SUNYAC","25-15-0","0.625"
+"22","2002","Sandra Hollander","SUNYAC","19-17-0","0.528"
+"23","2001","Sandra Hollander","-","19-19-0","0.500"
+"24","2000","Sandra Hollander","-","29-16-0","0.644"
+"25","1999","Sandra Hollander","-","15-22-0","0.405"
+"26","1998","Sandra Hollander","-","30-12-0","0.714"
+"27","1997","Sandra Hollander","-","25-18-2","0.581"
+"28","1996","Sandra Hollander","-","29-11-0","0.725"
+"29","1995","Sandra Hollander","-","28-18-0","0.609"
+"30","1994","Sandra Hollander","-","26-12-0","0.684"
+"31","1993","Sandra Hollander","-","30-8-0","0.789"
+"32","1992","Sandra Hollander","-","20-8-0","0.714"
+"33","1991","Sandra Hollander","-","21-12-0","0.636"
+"34","1990","Sandra Hollander","-","11-17-0","0.393"
+"35","1989","Sandra Hollander","-","16-13-0","0.552"
+"36","1987","","-","0-0-0","  NaN"
+"37","1985","","-","0-0-0","  NaN"
+"38","1984","","-","0-0-0","  NaN"
+"39","1983","","-","0-0-0","  NaN"

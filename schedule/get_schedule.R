@@ -81,23 +81,11 @@ d1_id <- 18261
 d2_id <- 18264
 d3_id <- 18265
 
-seasons <- data.frame(season = 2012:2024,
-                      start_date = c("2012-02-09", "2013-02-07", "2014-02-06", "2015-02-05","2016-02-11","2017-02-09","2018-02-08","2019-02-07","2020-02-06","2021-02-11","2022-02-10","2023-02-09", "2024-02-09"),
-                      end_date = c("2012-06-06", "2013-06-04", "2014-06-03", "2015-06-03","2016-06-08","2017-06-07","2018-06-06","2019-06-04","2020-03-12","2021-06-10","2022-06-09","2023-06-09", "2024-06-09")) #Go back and fix after season
+days = as.Date("2024-02-09"):min(Sys.Date() - 1, "2024-06-08")
 
-days = c(as.Date(seasons$start_date[5]):as.Date(seasons$end_date[5]),
-         as.Date(seasons$start_date[6]):as.Date(seasons$end_date[6]),
-         as.Date(seasons$start_date[7]):as.Date(seasons$end_date[7]),
-         as.Date(seasons$start_date[8]):as.Date(seasons$end_date[8]),
-         as.Date(seasons$start_date[9]):as.Date(seasons$end_date[9]),
-         as.Date(seasons$start_date[10]):as.Date(seasons$end_date[10]),
-         as.Date(seasons$start_date[11]):as.Date(seasons$end_date[11]),
-         as.Date(seasons$start_date[12]):as.Date(seasons$end_date[12]),
-         as.Date(seasons$start_date[13]):as.Date(seasons$end_date[13]))
-
-scoreboard_d1 <- load_ncaa_softball_scoreboard(2016:2024, "D1")
-scoreboard_d2 <- load_ncaa_softball_scoreboard(2016:2024, "D2")
-scoreboard_d3 <- load_ncaa_softball_scoreboard(2016:2024, "D3")
+scoreboard_d1 <- load_ncaa_softball_scoreboard(2024, "D1")
+scoreboard_d2 <- load_ncaa_softball_scoreboard(2024, "D2")
+scoreboard_d3 <- load_ncaa_softball_scoreboard(2024, "D3")
 
 scoreboard_d1 <- scoreboard_d1 %>% 
   select(-c(home_team_id, away_team_id)) %>% 

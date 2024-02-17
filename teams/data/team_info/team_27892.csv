@@ -1,24 +1,23 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Liz Pennino","Skyline","NA-NA-NA",0
-"2","2023","Liz Pennino","Skyline","25-12-0",0.676
-"3","2022","Liz Pennino","Skyline","29-5-0",0.853
-"4","2021","Liz Pennino","Skyline","19-7-0",0.731
-"5","2020","Liz Pennino","Skyline","0-0-0",0
-"6","2019","Chris Mooney","Skyline","20-18-0",0.526
-"7","2018","Chris Mooney","Skyline","16-19-0",0.457
-"8","2017","Chris Mooney","Skyline","22-19-0",0.537
-"9","2016","Chris Mooney","Skyline","15-18-0",0.455
-"10","2015","Chris Mooney","Skyline","22-15-0",0.595
-"11","2014","Chris Mooney","Skyline","24-14-0",0.632
-"12","2013","Chris Mooney","Skyline","24-17-0",0.585
-"13","2012","Chris Mooney","Skyline","26-15-0",0.634
-"14","2011","Chris Mooney","Skyline","32-7-0",0.821
-"15","2010","Chris Mooney","Skyline","34-11-0",0.756
-"16","2009","Chris Mooney","Skyline","34-6-0",0.85
-"17","2008","Chris Mooney","Skyline","32-12-0",0.727
-"18","2007","Chris Mooney","Skyline","11-14-0",0.44
-"19","2006","Chris Mooney","Skyline","7-15-0",0.318
-"20","2005","Chris Mooney","Skyline","11-11-0",0.5
-"21","2004","Chris Mooney","Skyline","11-16-0",0.407
-"22","2003","Chris Mooney","-","1-20-0",0.048
-"23","2002","","-","0-0-0",NA
+"1","2023","Liz Pennino","Skyline","25-12-0","0.676"
+"2","2022","Liz Pennino","Skyline","29-5-0","0.853"
+"3","2021","Liz Pennino","Skyline","19-7-0","0.731"
+"4","2020","Liz Pennino","Skyline","0-0-0","  NaN"
+"5","2019","Chris Mooney","Skyline","20-18-0","0.526"
+"6","2018","Chris Mooney","Skyline","16-19-0","0.457"
+"7","2017","Chris Mooney","Skyline","22-19-0","0.537"
+"8","2016","Chris Mooney","Skyline","15-18-0","0.455"
+"9","2015","Chris Mooney","Skyline","22-15-0","0.595"
+"10","2014","Chris Mooney","Skyline","24-14-0","0.632"
+"11","2013","Chris Mooney","Skyline","24-17-0","0.585"
+"12","2012","Chris Mooney","Skyline","26-15-0","0.634"
+"13","2011","Chris Mooney","Skyline","32-7-0","0.821"
+"14","2010","Chris Mooney","Skyline","34-11-0","0.756"
+"15","2009","Chris Mooney","Skyline","34-6-0","0.850"
+"16","2008","Chris Mooney","Skyline","32-12-0","0.727"
+"17","2007","Chris Mooney","Skyline","11-14-0","0.440"
+"18","2006","Chris Mooney","Skyline","7-15-0","0.318"
+"19","2005","Chris Mooney","Skyline","11-11-0","0.500"
+"20","2004","Chris Mooney","Skyline","11-16-0","0.407"
+"21","2003","Chris Mooney","-","1-20-0","0.048"
+"22","2002","","-","0-0-0","  NaN"

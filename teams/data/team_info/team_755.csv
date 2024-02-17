@@ -1,38 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Casey Cromwell","UAA","NA-NA-NA",0
-"2","2023","Casey Cromwell","UAA","20-18-0",0.526
-"3","2022","Michelle Venturella","UAA","32-12-0",0.727
-"4","2021","Michelle Venturella","UAA","12-10-0",0.545
-"5","2020","Michelle Venturella","UAA","6-3-0",0.667
-"6","2019","Michelle Venturella","UAA","15-18-0",0.455
-"7","2018","Michelle Venturella","UAA","16-14-0",0.533
-"8","2017","Michelle Venturella","UAA","27-14-0",0.659
-"9","2016","Leticia Pineda-Boutte","UAA","35-12-0",0.745
-"10","2015","Leticia Pineda-Boutte","UAA","33-13-0",0.717
-"11","2014","Leticia Pineda-Boutte","UAA","31-17-0",0.646
-"12","2013","Leticia Pineda-Boutte","UAA","31-14-0",0.689
-"13","2012","Leticia Pineda-Boutte","UAA","28-12-0",0.7
-"14","2011","Leticia Pineda-Boutte","UAA","32-12-1",0.722
-"15","2010","Leticia Pineda-Boutte","UAA","37-11-0",0.771
-"16","2009","Leticia Pineda-Boutte","UAA","27-13-0",0.675
-"17","2008","Leticia Pineda-Boutte","UAA","25-15-0",0.625
-"18","2007","Leticia Pineda-Boutte","UAA","35-7-0",0.833
-"19","2006","Leticia Pineda-Boutte","UAA","37-7-0",0.841
-"20","2005","Cindy Zelinsky","UAA","47-3-0",0.94
-"21","2004","Cindy Zelinsky","UAA","33-5-0",0.868
-"22","2003","Cindy Zelinsky","UAA","30-9-0",0.769
-"23","2002","Cindy Zelinsky","UAA","24-19-0",0.558
-"24","2001","Cindy Zelinsky","-","22-22-0",0.5
-"25","2000","Cindy Zelinsky","-","22-10-0",0.688
-"26","1999","","-","0-0-0",NA
-"27","1998","","-","0-0-0",NA
-"28","1997","","-","0-0-0",NA
-"29","1996","","-","0-0-0",NA
-"30","1995","","-","0-0-0",NA
-"31","1994","","-","0-0-0",NA
-"32","1993","","-","0-0-0",NA
-"33","1992","","-","0-0-0",NA
-"34","1991","","-","0-0-0",NA
-"35","1990","","-","0-0-0",NA
-"36","1989","","-","0-0-0",NA
-"37","1988","","-","0-0-0",NA
+"1","2023","Casey Cromwell","UAA","20-18-0","0.526"
+"2","2022","Michelle Venturella","UAA","32-12-0","0.727"
+"3","2021","Michelle Venturella","UAA","12-10-0","0.545"
+"4","2020","Michelle Venturella","UAA","6-3-0","0.667"
+"5","2019","Michelle Venturella","UAA","15-18-0","0.455"
+"6","2018","Michelle Venturella","UAA","16-14-0","0.533"
+"7","2017","Michelle Venturella","UAA","27-14-0","0.659"
+"8","2016","Leticia Pineda-Boutte","UAA","35-12-0","0.745"
+"9","2015","Leticia Pineda-Boutte","UAA","33-13-0","0.717"
+"10","2014","Leticia Pineda-Boutte","UAA","31-17-0","0.646"
+"11","2013","Leticia Pineda-Boutte","UAA","31-14-0","0.689"
+"12","2012","Leticia Pineda-Boutte","UAA","28-12-0","0.700"
+"13","2011","Leticia Pineda-Boutte","UAA","32-12-1","0.727"
+"14","2010","Leticia Pineda-Boutte","UAA","37-11-0","0.771"
+"15","2009","Leticia Pineda-Boutte","UAA","27-13-0","0.675"
+"16","2008","Leticia Pineda-Boutte","UAA","25-15-0","0.625"
+"17","2007","Leticia Pineda-Boutte","UAA","35-7-0","0.833"
+"18","2006","Leticia Pineda-Boutte","UAA","37-7-0","0.841"
+"19","2005","Cindy Zelinsky","UAA","47-3-0","0.940"
+"20","2004","Cindy Zelinsky","UAA","33-5-0","0.868"
+"21","2003","Cindy Zelinsky","UAA","30-9-0","0.769"
+"22","2002","Cindy Zelinsky","UAA","24-19-0","0.558"
+"23","2001","Cindy Zelinsky","-","22-22-0","0.500"
+"24","2000","Cindy Zelinsky","-","22-10-0","0.688"
+"25","1999","","-","0-0-0","  NaN"
+"26","1998","","-","0-0-0","  NaN"
+"27","1997","","-","0-0-0","  NaN"
+"28","1996","","-","0-0-0","  NaN"
+"29","1995","","-","0-0-0","  NaN"
+"30","1994","","-","0-0-0","  NaN"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1989","","-","0-0-0","  NaN"
+"36","1988","","-","0-0-0","  NaN"

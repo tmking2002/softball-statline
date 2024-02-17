@@ -1,38 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Josh Freeman","ODAC","NA-NA-NA",0
-"2","2023","Gerald Culler","ODAC","11-25-0",0.306
-"3","2022","Gerald Culler","ODAC","22-17-0",0.564
-"4","2021","Gerald Culler","ODAC","16-22-0",0.421
-"5","2020","Gerald Culler","ODAC","12-3-0",0.8
-"6","2019","Gerald Culler","ODAC","20-20-0",0.5
-"7","2018","Gerald Culler","USA South","23-13-0",0.639
-"8","2017","Gerald Culler","USA South","23-19-0",0.548
-"9","2016","Gerald Culler","USA South","26-18-0",0.591
-"10","2015","Vickie Van Kleeck","USA South","23-17-0",0.575
-"11","2014","Vickie Van Kleeck","USA South","25-13-0",0.658
-"12","2013","Vickie Van Kleeck","USA South","34-12-0",0.739
-"13","2012","Vickie Van Kleeck","USA South","36-14-0",0.72
-"14","2011","Vickie Van Kleeck","USA South","26-13-0",0.667
-"15","2010","Vickie Van Kleeck","USA South","31-16-0",0.66
-"16","2009","Vickie Van Kleeck","USA South","18-21-0",0.462
-"17","2008","Vickie Van Kleeck","USA South","19-23-0",0.452
-"18","2007","Vickie Van Kleeck","USA South","17-24-0",0.415
-"19","2006","Vickie Van Kleeck","USA South","23-21-0",0.523
-"20","2005","Vickie Van Kleeck","USA South","26-15-0",0.634
-"21","2004","Vickie Van Kleeck","USA South","28-15-1",0.648
-"22","2003","Vickie Van Kleeck","USA South","18-17-0",0.514
-"23","2002","Vickie Van Kleeck","USA South","24-19-0",0.558
-"24","2001","Vickie Van Kleeck","-","18-27-0",0.4
-"25","2000","Vickie Van Kleeck","-","22-22-0",0.5
-"26","1999","Vickie Van Kleeck","-","18-22-0",0.45
-"27","1998","Vickie Van Kleeck","-","21-17-0",0.553
-"28","1997","Vickie Van Kleeck","-","18-24-0",0.429
-"29","1996","Vickie Van Kleeck","-","25-19-0",0.568
-"30","1995","Vickie Van Kleeck","-","22-12-0",0.647
-"31","1994","Vickie Van Kleeck","-","15-14-0",0.517
-"32","1993","Vickie Van Kleeck","-","12-10-0",0.545
-"33","1992","Vickie Van Kleeck","-","10-20-0",0.333
-"34","1991","","-","0-0-0",NA
-"35","1990","","-","0-0-0",NA
-"36","1983","","-","0-0-0",NA
-"37","1981","","-","0-0-0",NA
+"1","2023","Gerald Culler","ODAC","11-25-0","0.306"
+"2","2022","Gerald Culler","ODAC","22-17-0","0.564"
+"3","2021","Gerald Culler","ODAC","16-22-0","0.421"
+"4","2020","Gerald Culler","ODAC","12-3-0","0.800"
+"5","2019","Gerald Culler","ODAC","20-20-0","0.500"
+"6","2018","Gerald Culler","USA South","23-13-0","0.639"
+"7","2017","Gerald Culler","USA South","23-19-0","0.548"
+"8","2016","Gerald Culler","USA South","26-18-0","0.591"
+"9","2015","Vickie Van Kleeck","USA South","23-17-0","0.575"
+"10","2014","Vickie Van Kleeck","USA South","25-13-0","0.658"
+"11","2013","Vickie Van Kleeck","USA South","34-12-0","0.739"
+"12","2012","Vickie Van Kleeck","USA South","36-14-0","0.720"
+"13","2011","Vickie Van Kleeck","USA South","26-13-0","0.667"
+"14","2010","Vickie Van Kleeck","USA South","31-16-0","0.660"
+"15","2009","Vickie Van Kleeck","USA South","18-21-0","0.462"
+"16","2008","Vickie Van Kleeck","USA South","19-23-0","0.452"
+"17","2007","Vickie Van Kleeck","USA South","17-24-0","0.415"
+"18","2006","Vickie Van Kleeck","USA South","23-21-0","0.523"
+"19","2005","Vickie Van Kleeck","USA South","26-15-0","0.634"
+"20","2004","Vickie Van Kleeck","USA South","28-15-1","0.651"
+"21","2003","Vickie Van Kleeck","USA South","18-17-0","0.514"
+"22","2002","Vickie Van Kleeck","USA South","24-19-0","0.558"
+"23","2001","Vickie Van Kleeck","-","18-27-0","0.400"
+"24","2000","Vickie Van Kleeck","-","22-22-0","0.500"
+"25","1999","Vickie Van Kleeck","-","18-22-0","0.450"
+"26","1998","Vickie Van Kleeck","-","21-17-0","0.553"
+"27","1997","Vickie Van Kleeck","-","18-24-0","0.429"
+"28","1996","Vickie Van Kleeck","-","25-19-0","0.568"
+"29","1995","Vickie Van Kleeck","-","22-12-0","0.647"
+"30","1994","Vickie Van Kleeck","-","15-14-0","0.517"
+"31","1993","Vickie Van Kleeck","-","12-10-0","0.545"
+"32","1992","Vickie Van Kleeck","-","10-20-0","0.333"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1983","","-","0-0-0","  NaN"
+"36","1981","","-","0-0-0","  NaN"

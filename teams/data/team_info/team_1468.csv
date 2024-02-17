@@ -1,36 +1,36 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Samantha Howe","Skyline","0-0-0",0
-"2","2023","Samantha Howe","Skyline","21-19-0",0.525
-"3","2022","Samantha Howe","Skyline","20-18-0",0.526
-"4","2021","Samantha Howe","Skyline","17-12-0",0.586
-"5","2020","Samantha Howe","Skyline","0-0-0",0
-"6","2019","Samantha Howe","Skyline","16-22-1",0.423
-"7","2018","Samantha Howe","Skyline","21-16-0",0.568
-"8","2017","Jessica Mushel","Skyline","27-14-0",0.659
-"9","2016","Jessica Mushel","Skyline","23-12-0",0.657
-"10","2015","Jessica Mushel","Skyline","19-11-0",0.633
-"11","2014","Jessica Mushel","Skyline","20-14-0",0.588
-"12","2013","Michele Ross","Skyline","18-16-0",0.529
-"13","2012","Michele Ross","Skyline","14-18-0",0.438
-"14","2011","Michele Ross","Skyline","23-13-1",0.635
-"15","2010","Michele Ross","Skyline","17-24-0",0.415
-"16","2009","Michele Ross","Skyline","13-23-0",0.361
-"17","2008","Janice Petit-Brundage","Skyline","13-19-0",0.406
-"18","2007","Janice Petit-Brundage","Skyline","13-17-0",0.433
-"19","2006","Janice Petit-Brundage","Skyline","13-21-0",0.382
-"20","2005","Janice Petit-Brundage","Skyline","23-17-0",0.575
-"21","2004","Janice Petit-Brundage","Skyline","11-13-1",0.46
-"22","2003","John Smith","-","0-0-0",NA
-"23","2002","John Smith","Skyline","10-15-0",0.4
-"24","2001","Bill Earl","-","17-10-0",0.63
-"25","2000","","-","0-0-0",NA
-"26","1999","Bill Earl","-","13-13-0",0.5
-"27","1998","Jen Gentile","-","11-9-0",0.55
-"28","1997","Michelle Bouffard","-","10-9-0",0.526
-"29","1996","Wayne Milner","-","11-7-0",0.611
-"30","1995","Wayne Milner","-","15-4-0",0.789
-"31","1994","Wayne Milner","-","7-6-0",0.538
-"32","1993","","-","0-0-0",NA
-"33","1992","","-","0-0-0",NA
-"34","1991","","-","0-0-0",NA
-"35","1990","","-","0-0-0",NA
+"1","2023","Samantha Howe","Skyline","21-19-0","0.525"
+"2","2022","Samantha Howe","Skyline","20-18-0","0.526"
+"3","2021","Samantha Howe","Skyline","17-12-0","0.586"
+"4","2020","Samantha Howe","Skyline","0-0-0","  NaN"
+"5","2019","Samantha Howe","Skyline","16-22-1","0.421"
+"6","2018","Samantha Howe","Skyline","21-16-0","0.568"
+"7","2017","Jessica Mushel","Skyline","27-14-0","0.659"
+"8","2016","Jessica Mushel","Skyline","23-12-0","0.657"
+"9","2015","Jessica Mushel","Skyline","19-11-0","0.633"
+"10","2014","Jessica Mushel","Skyline","20-14-0","0.588"
+"11","2013","Michele Ross","Skyline","18-16-0","0.529"
+"12","2012","Michele Ross","Skyline","14-18-0","0.438"
+"13","2011","Michele Ross","Skyline","23-13-1","0.639"
+"14","2010","Michele Ross","Skyline","17-24-0","0.415"
+"15","2009","Michele Ross","Skyline","13-23-0","0.361"
+"16","2008","Janice Petit-Brundage","Skyline","13-19-0","0.406"
+"17","2007","Janice Petit-Brundage","Skyline","13-17-0","0.433"
+"18","2006","Janice Petit-Brundage","Skyline","13-21-0","0.382"
+"19","2005","Janice Petit-Brundage","Skyline","23-17-0","0.575"
+"20","2004","Janice Petit-Brundage","Skyline","11-13-1","0.458"
+"21","2003","John Smith","-","0-0-0","  NaN"
+"22","2002","John Smith","Skyline","10-15-0","0.400"
+"23","2001","Bill Earl","-","17-10-0","0.630"
+"24","2000","","-","0-0-0","  NaN"
+"25","1999","Bill Earl","-","13-13-0","0.500"
+"26","1998","Jen Gentile","-","11-9-0","0.550"
+"27","1997","Michelle Bouffard","-","10-9-0","0.526"
+"28","1996","Wayne Milner","-","11-7-0","0.611"
+"29","1995","Wayne Milner","-","15-4-0","0.789"
+"30","1994","Wayne Milner","-","7-6-0","0.538"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","2024","Samantha Howe","Skyline","0-0-0","  NaN"
