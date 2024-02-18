@@ -1,20 +1,20 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Alissa Edwards","North Atlantic","13-22-0","0.371"
-"2","2022","Alissa Edwards","North Atlantic","5-25-0","0.167"
-"3","2021","Alissa Edwards","North Atlantic","14-11-0","0.560"
-"4","2020","Alissa Edwards","North Atlantic","0-0-0","  NaN"
-"5","2019","Sara Shaw","North Atlantic","18-15-0","0.545"
-"6","2018","Sara Shaw","ACAA","22-12-0","0.647"
-"7","2017","Sara Shaw","-","22-16-0","0.579"
-"8","2016","Sara Shaw","-","18-15-0","0.545"
-"9","2015","Sara Shaw","Great South","9-15-0","0.375"
-"10","2014","Peter Coffin","Great South","4-20-0","0.167"
-"11","2013","Peter Coffin","-","5-22-0","0.185"
-"12","2012","Peter Coffin","Division III Independents","13-21-0","0.382"
-"13","2011","Terry Cummings","Division III Independents","0-0-0","  NaN"
-"14","2010","Terry Cummings","Division III Independents","9-24-0","0.273"
-"15","2009","","-","0-0-0","  NaN"
-"16","2008","","-","3-15-0","0.167"
-"17","2007","","-","0-0-0","  NaN"
-"18","2006","","-","0-0-0","  NaN"
-"19","2024","Kaitlin Thibodeau-Corey","North Atlantic","0-0-0","  NaN"
+"1","2024","Kaitlin Thibodeau-Corey","North Atlantic","0-0-0",0
+"2","2023","Alissa Edwards","North Atlantic","13-22-0",0.371
+"3","2022","Alissa Edwards","North Atlantic","5-25-0",0.167
+"4","2021","Alissa Edwards","North Atlantic","14-11-0",0.56
+"5","2020","Alissa Edwards","North Atlantic","0-0-0",0
+"6","2019","Sara Shaw","North Atlantic","18-15-0",0.545
+"7","2018","Sara Shaw","ACAA","22-12-0",0.647
+"8","2017","Sara Shaw","-","22-16-0",0.579
+"9","2016","Sara Shaw","-","18-15-0",0.545
+"10","2015","Sara Shaw","Great South","9-15-0",0.375
+"11","2014","Peter Coffin","Great South","4-20-0",0.167
+"12","2013","Peter Coffin","-","5-22-0",0.185
+"13","2012","Peter Coffin","Division III Independents","13-21-0",0.382
+"14","2011","Terry Cummings","Division III Independents","0-0-0",NA
+"15","2010","Terry Cummings","Division III Independents","9-24-0",0.273
+"16","2009","","-","0-0-0",NA
+"17","2008","","-","3-15-0",0.167
+"18","2007","","-","0-0-0",NA
+"19","2006","","-","0-0-0",NA

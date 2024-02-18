@@ -1,38 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Sonja Garnett","WCC","20-29-0","0.408"
-"2","2022","Sonja Garnett","WCC","16-31-0","0.340"
-"3","2021","Sonja Garnett","WCC","13-24-0","0.351"
-"4","2020","Sonja Garnett","WCC","7-18-1","0.280"
-"5","2019","Sonja Garnett","WCC","14-37-0","0.275"
-"6","2018","Jessica Rodgers","WCC","15-34-0","0.306"
-"7","2017","Jessica Rodgers","WCC","17-31-0","0.354"
-"8","2016","Jessica Rodgers","WCC","20-27-1","0.426"
-"9","2015","Jessica Rodgers","WCC","21-32-0","0.396"
-"10","2014","Jessica Rodgers","WCC","23-27-0","0.460"
-"11","2013","Jessica Rodgers","Pacific Coast Softball","20-31-0","0.392"
-"12","2012","Jessica Rodgers","Pacific Coast Softball","26-23-0","0.531"
-"13","2011","Jessica Rodgers","Pacific Coast Softball","15-23-0","0.395"
-"14","2010","Jessica Rodgers","Pacific Coast Softball","30-23-0","0.566"
-"15","2009","Jessica Rodgers","Pacific Coast Softball","25-28-0","0.472"
-"16","2008","Jessica Rodgers","Pacific Coast Softball","27-26-0","0.509"
-"17","2007","Jessica Rodgers","Pacific Coast Softball","24-36-0","0.400"
-"18","2006","Jessica Rodgers","Pacific Coast Softball","5-49-0","0.093"
-"19","2005","Jessica Rodgers","Pacific Coast Softball","10-45-0","0.182"
-"20","2004","Megumi Takasaki","Pacific Coast Softball","13-43-0","0.232"
-"21","2003","Trisha Ford","-","25-27-0","0.481"
-"22","2002","Trisha Ford","-","17-37-0","0.315"
-"23","2001","Michelle Putzer","-","29-34-0","0.460"
-"24","2000","Michelle Putzer","-","24-33-0","0.421"
-"25","1999","Michelle Putzer","-","18-33-0","0.353"
-"26","1998","Michelle Putzer","-","22-39-0","0.361"
-"27","1997","Dan Ward","-","16-45-0","0.262"
-"28","1996","Dan Ward","-","23-25-0","0.479"
-"29","1995","Stephanie Papas","-","23-31-0","0.426"
-"30","1994","Stephanie Papas","-","26-32-1","0.448"
-"31","1993","Stephanie Papas","-","23-31-0","0.426"
-"32","1992","Stephanie Papas","-","18-26-0","0.409"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","Milt Panagotacos","-","8-40-0","0.167"
-"35","1989","Milt Panagotacos","-","21-23-1","0.477"
-"36","1988","Milt Panagotacos","-","12-26-1","0.316"
-"37","1986","","-","0-0-0","  NaN"
+"1","2024","Sonja Garnett","WCC","4-4-0",0.5
+"2","2023","Sonja Garnett","WCC","20-29-0",0.408
+"3","2022","Sonja Garnett","WCC","16-31-0",0.34
+"4","2021","Sonja Garnett","WCC","13-24-0",0.351
+"5","2020","Sonja Garnett","WCC","7-18-1",0.288
+"6","2019","Sonja Garnett","WCC","14-37-0",0.275
+"7","2018","Jessica Rodgers","WCC","15-34-0",0.306
+"8","2017","Jessica Rodgers","WCC","17-31-0",0.354
+"9","2016","Jessica Rodgers","WCC","20-27-1",0.427
+"10","2015","Jessica Rodgers","WCC","21-32-0",0.396
+"11","2014","Jessica Rodgers","WCC","23-27-0",0.46
+"12","2013","Jessica Rodgers","Pacific Coast Softball","20-31-0",0.392
+"13","2012","Jessica Rodgers","Pacific Coast Softball","26-23-0",0.531
+"14","2011","Jessica Rodgers","Pacific Coast Softball","15-23-0",0.395
+"15","2010","Jessica Rodgers","Pacific Coast Softball","30-23-0",0.566
+"16","2009","Jessica Rodgers","Pacific Coast Softball","25-28-0",0.472
+"17","2008","Jessica Rodgers","Pacific Coast Softball","27-26-0",0.509
+"18","2007","Jessica Rodgers","Pacific Coast Softball","24-36-0",0.4
+"19","2006","Jessica Rodgers","Pacific Coast Softball","5-49-0",0.093
+"20","2005","Jessica Rodgers","Pacific Coast Softball","10-45-0",0.182
+"21","2004","Megumi Takasaki","Pacific Coast Softball","13-43-0",0.232
+"22","2003","Trisha Ford","-","25-27-0",0.481
+"23","2002","Trisha Ford","-","17-37-0",0.315
+"24","2001","Michelle Putzer","-","29-34-0",0.46
+"25","2000","Michelle Putzer","-","24-33-0",0.421
+"26","1999","Michelle Putzer","-","18-33-0",0.353
+"27","1998","Michelle Putzer","-","22-39-0",0.361
+"28","1997","Dan Ward","-","16-45-0",0.262
+"29","1996","Dan Ward","-","23-25-0",0.479
+"30","1995","Stephanie Papas","-","23-31-0",0.426
+"31","1994","Stephanie Papas","-","26-32-1",0.449
+"32","1993","Stephanie Papas","-","23-31-0",0.426
+"33","1992","Stephanie Papas","-","18-26-0",0.409
+"34","1991","","-","0-0-0",NA
+"35","1990","Milt Panagotacos","-","8-40-0",0.167
+"36","1989","Milt Panagotacos","-","21-23-1",0.478
+"37","1988","Milt Panagotacos","-","12-26-1",0.321
+"38","1986","","-","0-0-0",NA

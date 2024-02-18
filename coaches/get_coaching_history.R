@@ -81,3 +81,4 @@ coach_stats <- total_history %>%
             losses = sum(losses),
             ties = sum(as.numeric(ties)),
             teams = paste(unique(team_name), collapse = ", "))
+

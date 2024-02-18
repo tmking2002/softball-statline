@@ -1,29 +1,29 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Kim Dean","Southland","16-30-1","0.348"
-"2","2022","Kim Dean","Southland","15-36-0","0.294"
-"3","2021","Joe DiPietro","Southland","16-27-0","0.372"
-"4","2020","Joe DiPietro","Southland","8-16-0","0.333"
-"5","2019","Joe DiPietro","Southland","8-40-0","0.167"
-"6","2018","Joe DiPietro","Southland","15-34-0","0.306"
-"7","2017","Mandee Gamboa","Southland","13-40-0","0.245"
-"8","2016","Mandee Gamboa","Southland","18-33-0","0.353"
-"9","2015","Mandee Gamboa","Southland","12-39-0","0.235"
-"10","2014","Mandee Gamboa","Southland","20-31-0","0.392"
-"11","2013","Mandee Gamboa","Lone Star","30-26-0","0.536"
-"12","2012","Todd Bradley","Lone Star","29-25-0","0.537"
-"13","2011","Todd Bradley","Lone Star","31-23-0","0.574"
-"14","2010","Nora May-Davila","Heartland","28-24-0","0.538"
-"15","2009","Nora May-Davila","Heartland","28-33-0","0.459"
-"16","2008","Nora May-Davila","Heartland","31-26-0","0.544"
-"17","2007","Kevin Jannusch","Heartland","21-33-0","0.389"
-"18","2006","Kevin Jannusch","Heartland","46-19-0","0.708"
-"19","2005","Kevin Jannusch","Heartland","24-27-0","0.471"
-"20","2004","Kevin Jannusch","-","7-34-0","0.171"
-"21","2003","Laura Cliett","-","0-0-0","  NaN"
-"22","2002","Laura Cliett","Heartland","25-26-0","0.490"
-"23","2001","Laura Cliett","-","33-22-1","0.600"
-"24","2000","Michelle Mackay","-","28-30-1","0.483"
-"25","1999","Michelle Mackay","-","36-24-0","0.600"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","2024","Kim Dean","Southland","0-0-0","  NaN"
+"1","2024","Kim Dean","Southland","5-0-0",1
+"2","2023","Kim Dean","Southland","16-30-1",0.351
+"3","2022","Kim Dean","Southland","15-36-0",0.294
+"4","2021","Joe DiPietro","Southland","16-27-0",0.372
+"5","2020","Joe DiPietro","Southland","8-16-0",0.333
+"6","2019","Joe DiPietro","Southland","8-40-0",0.167
+"7","2018","Joe DiPietro","Southland","15-34-0",0.306
+"8","2017","Mandee Gamboa","Southland","13-40-0",0.245
+"9","2016","Mandee Gamboa","Southland","18-33-0",0.353
+"10","2015","Mandee Gamboa","Southland","12-39-0",0.235
+"11","2014","Mandee Gamboa","Southland","20-31-0",0.392
+"12","2013","Mandee Gamboa","Lone Star","30-26-0",0.536
+"13","2012","Todd Bradley","Lone Star","29-25-0",0.537
+"14","2011","Todd Bradley","Lone Star","31-23-0",0.574
+"15","2010","Nora May-Davila","Heartland","28-24-0",0.538
+"16","2009","Nora May-Davila","Heartland","28-33-0",0.459
+"17","2008","Nora May-Davila","Heartland","31-26-0",0.544
+"18","2007","Kevin Jannusch","Heartland","21-33-0",0.389
+"19","2006","Kevin Jannusch","Heartland","46-19-0",0.708
+"20","2005","Kevin Jannusch","Heartland","24-27-0",0.471
+"21","2004","Kevin Jannusch","-","7-34-0",0.171
+"22","2003","Laura Cliett","-","0-0-0",NA
+"23","2002","Laura Cliett","Heartland","25-26-0",0.49
+"24","2001","Laura Cliett","-","33-22-1",0.598
+"25","2000","Michelle Mackay","-","28-30-1",0.483
+"26","1999","Michelle Mackay","-","36-24-0",0.6
+"27","1998","","-","0-0-0",NA
+"28","1997","","-","0-0-0",NA

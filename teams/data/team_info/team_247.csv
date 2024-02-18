@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","David Sylvester","SUNYAC","25-18-1","0.581"
-"2","2022","David Sylvester","SUNYAC","34-6-0","0.850"
-"3","2021","David Sylvester","SUNYAC","17-10-0","0.630"
-"4","2020","David Sylvester","SUNYAC","5-1-0","0.833"
-"5","2019","David Sylvester","SUNYAC","37-13-0","0.740"
-"6","2018","David Sylvester","SUNYAC","32-9-0","0.780"
-"7","2017","David Sylvester","SUNYAC","21-15-0","0.583"
-"8","2016","David Sylvester","SUNYAC","25-17-0","0.595"
-"9","2015","David Sylvester","SUNYAC","28-12-0","0.700"
-"10","2014","David Sylvester","SUNYAC","18-16-0","0.529"
-"11","2013","David Sylvester","SUNYAC","22-20-0","0.524"
-"12","2012","Tony Ciccarello","SUNYAC","22-19-0","0.537"
-"13","2011","Tony Ciccarello","SUNYAC","19-19-0","0.500"
-"14","2010","Tony Ciccarello","SUNYAC","25-17-0","0.595"
-"15","2009","Tony Ciccarello","SUNYAC","19-19-0","0.500"
-"16","2008","Tony Ciccarello","SUNYAC","13-19-0","0.406"
-"17","2007","Tony Ciccarello","SUNYAC","19-20-0","0.487"
-"18","2006","Tony Ciccarello","SUNYAC","22-17-0","0.564"
-"19","2005","Tony Ciccarello","SUNYAC","26-15-0","0.634"
-"20","2004","Tony Ciccarello","SUNYAC","28-17-0","0.622"
-"21","2003","Tony Ciccarello","SUNYAC","29-7-0","0.806"
-"22","2002","Tony Ciccarello","SUNYAC","36-5-0","0.878"
-"23","2001","Joe French","-","28-16-0","0.636"
-"24","2000","Joe French","-","33-12-0","0.733"
-"25","1999","Joe French","-","27-12-0","0.692"
-"26","1998","Joe French","-","31-7-0","0.816"
-"27","1997","Martha Looney","-","10-11-0","0.476"
-"28","1996","Martha Looney","-","14-9-0","0.609"
-"29","1995","Martha Looney","-","16-13-0","0.552"
-"30","1994","Martha Looney","-","10-10-0","0.500"
-"31","1993","Martha Looney","-","6-10-0","0.375"
-"32","1992","Martha Looney","-","5-9-0","0.357"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1986","","-","0-0-0","  NaN"
-"38","1985","","-","0-0-0","  NaN"
-"39","1982","","-","0-0-0","  NaN"
-"40","2024","David Sylvester","SUNYAC","0-0-0","  NaN"
+"1","2024","David Sylvester","SUNYAC","0-0-0",0
+"2","2023","David Sylvester","SUNYAC","25-18-1",0.58
+"3","2022","David Sylvester","SUNYAC","34-6-0",0.85
+"4","2021","David Sylvester","SUNYAC","17-10-0",0.63
+"5","2020","David Sylvester","SUNYAC","5-1-0",0.833
+"6","2019","David Sylvester","SUNYAC","37-13-0",0.74
+"7","2018","David Sylvester","SUNYAC","32-9-0",0.78
+"8","2017","David Sylvester","SUNYAC","21-15-0",0.583
+"9","2016","David Sylvester","SUNYAC","25-17-0",0.595
+"10","2015","David Sylvester","SUNYAC","28-12-0",0.7
+"11","2014","David Sylvester","SUNYAC","18-16-0",0.529
+"12","2013","David Sylvester","SUNYAC","22-20-0",0.524
+"13","2012","Tony Ciccarello","SUNYAC","22-19-0",0.537
+"14","2011","Tony Ciccarello","SUNYAC","19-19-0",0.5
+"15","2010","Tony Ciccarello","SUNYAC","25-17-0",0.595
+"16","2009","Tony Ciccarello","SUNYAC","19-19-0",0.5
+"17","2008","Tony Ciccarello","SUNYAC","13-19-0",0.406
+"18","2007","Tony Ciccarello","SUNYAC","19-20-0",0.487
+"19","2006","Tony Ciccarello","SUNYAC","22-17-0",0.564
+"20","2005","Tony Ciccarello","SUNYAC","26-15-0",0.634
+"21","2004","Tony Ciccarello","SUNYAC","28-17-0",0.622
+"22","2003","Tony Ciccarello","SUNYAC","29-7-0",0.806
+"23","2002","Tony Ciccarello","SUNYAC","36-5-0",0.878
+"24","2001","Joe French","-","28-16-0",0.636
+"25","2000","Joe French","-","33-12-0",0.733
+"26","1999","Joe French","-","27-12-0",0.692
+"27","1998","Joe French","-","31-7-0",0.816
+"28","1997","Martha Looney","-","10-11-0",0.476
+"29","1996","Martha Looney","-","14-9-0",0.609
+"30","1995","Martha Looney","-","16-13-0",0.552
+"31","1994","Martha Looney","-","10-10-0",0.5
+"32","1993","Martha Looney","-","6-10-0",0.375
+"33","1992","Martha Looney","-","5-9-0",0.357
+"34","1991","","-","0-0-0",NA
+"35","1990","","-","0-0-0",NA
+"36","1989","","-","0-0-0",NA
+"37","1988","","-","0-0-0",NA
+"38","1986","","-","0-0-0",NA
+"39","1985","","-","0-0-0",NA
+"40","1982","","-","0-0-0",NA

@@ -1,28 +1,29 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Dedeann Pendleton-Helm","Big Sky","26-23-0","0.531"
-"2","2022","Ben Garcia","Big Sky","23-30-0","0.434"
-"3","2021","Ben Garcia","Big Sky","12-27-0","0.308"
-"4","2020","Ben Garcia","Big Sky","10-15-0","0.400"
-"5","2019","Ben Garcia","Big Sky","14-39-0","0.264"
-"6","2018","Shana Easley","Big Sky","28-28-0","0.500"
-"7","2017","Shana Easley","Big Sky","20-35-0","0.364"
-"8","2016","Shana Easley","Big Sky","9-33-0","0.214"
-"9","2015","Shana Easley","Big Sky","17-27-1","0.386"
-"10","2014","Shana Easley","Big Sky","20-34-0","0.370"
-"11","2013","Shana Easley","Big Sky","16-30-1","0.348"
-"12","2012","Mark Montgomery","Pacific Coast Softball","25-28-0","0.472"
-"13","2011","Mark Montgomery","Pacific Coast Softball","17-35-0","0.327"
-"14","2010","Jennifer Schunke","Pacific Coast Softball","19-33-0","0.365"
-"15","2009","Jennifer Schunke","-","18-32-0","0.360"
-"16","2008","Jennifer Schunke","-","16-36-0","0.308"
-"17","2007","Jennifer Schunke","-","10-41-0","0.196"
-"18","2006","Linda Witt","-","12-34-0","0.261"
-"19","2005","Linda Witt","-","12-28-0","0.300"
-"20","2004","Linda Witt","-","6-32-0","0.158"
-"21","2003","Linda Witt","NCC","17-21-0","0.447"
-"22","2002","Linda Witt","NCC","25-18-0","0.581"
-"23","2001","Linda Witt","-","13-18-0","0.419"
-"24","2000","Cyndi Raymond","-","17-22-0","0.436"
-"25","1999","Cyndi Raymond","-","17-35-0","0.327"
-"26","1983","","-","0-0-0","  NaN"
-"27","1982","","-","0-0-0","  NaN"
+"1","2024","Dedeann Pendleton-Helm","Big Sky","1-5-0",0.167
+"2","2023","Dedeann Pendleton-Helm","Big Sky","26-23-0",0.531
+"3","2022","Ben Garcia","Big Sky","23-30-0",0.434
+"4","2021","Ben Garcia","Big Sky","12-27-0",0.308
+"5","2020","Ben Garcia","Big Sky","10-15-0",0.4
+"6","2019","Ben Garcia","Big Sky","14-39-0",0.264
+"7","2018","Shana Easley","Big Sky","28-28-0",0.5
+"8","2017","Shana Easley","Big Sky","20-35-0",0.364
+"9","2016","Shana Easley","Big Sky","9-33-0",0.214
+"10","2015","Shana Easley","Big Sky","17-27-1",0.389
+"11","2014","Shana Easley","Big Sky","20-34-0",0.37
+"12","2013","Shana Easley","Big Sky","16-30-1",0.351
+"13","2012","Mark Montgomery","Pacific Coast Softball","25-28-0",0.472
+"14","2011","Mark Montgomery","Pacific Coast Softball","17-35-0",0.327
+"15","2010","Jennifer Schunke","Pacific Coast Softball","19-33-0",0.365
+"16","2009","Jennifer Schunke","-","18-32-0",0.36
+"17","2008","Jennifer Schunke","-","16-36-0",0.308
+"18","2007","Jennifer Schunke","-","10-41-0",0.196
+"19","2006","Linda Witt","-","12-34-0",0.261
+"20","2005","Linda Witt","-","12-28-0",0.3
+"21","2004","Linda Witt","-","6-32-0",0.158
+"22","2003","Linda Witt","NCC","17-21-0",0.447
+"23","2002","Linda Witt","NCC","25-18-0",0.581
+"24","2001","Linda Witt","-","13-18-0",0.419
+"25","2000","Cyndi Raymond","-","17-22-0",0.436
+"26","1999","Cyndi Raymond","-","17-35-0",0.327
+"27","1983","","-","0-0-0",NA
+"28","1982","","-","0-0-0",NA
