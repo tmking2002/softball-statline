@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("GET TEAMS")
 
 teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")) %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 

@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("RPI LEADERS")
 
 cur_season <- 2024
 

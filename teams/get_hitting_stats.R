@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("HITTING STATS")
 
 teams <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)

@@ -1,12 +1,9 @@
-install.packages("tidyverse")
-install.packages("anytime")
-install.packages("rvest")
-install.packages("magrittr")
-
 library(tidyverse)
 library(anytime)
 library(rvest)
 library(magrittr)
+
+print("SCHEDULE")
 
 load_ncaa_softball_scoreboard <- function(season, division = "D1"){
   

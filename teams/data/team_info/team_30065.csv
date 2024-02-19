@@ -1,20 +1,20 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Kevin Valentine","North Atlantic","0-0-0",0
-"2","2023","Kevin Valentine","North Atlantic","10-19-0",0.345
-"3","2022","Kevin Valentine","North Atlantic","17-13-0",0.567
-"4","2021","Kevin Valentine","North Atlantic","3-16-0",0.158
-"5","2020","Kevin Valentine","North Atlantic","0-6-0",0
-"6","2019","Amanda McLean","North Atlantic","4-22-0",0.154
-"7","2018","Amanda McLean","North Atlantic","1-23-0",0.042
-"8","2017","Sean Lynch","North Atlantic","0-22-0",0
-"9","2016","Greer Lemnah","North Atlantic","0-26-0",0
-"10","2015","Bill Johnson","North Atlantic","0-20-0",0
-"11","2014","Bill Johnson","North Atlantic","2-21-0",0.087
-"12","2013","Bill Johnson","North Atlantic","11-23-0",0.324
-"13","2012","Jennifer Layn","North Atlantic","11-24-0",0.314
-"14","2011","Jennifer Layn","North Atlantic","8-17-0",0.32
-"15","2010","Jennifer Layn","North Atlantic","3-21-0",0.125
-"16","2009","Jennifer Layn","North Atlantic","8-19-0",0.296
-"17","2008","Jennifer Layn","-","0-0-0",NA
-"18","2007","Jennifer Layn","-","0-0-0",NA
-"19","1984","","-","0-0-0",NA
+"1","2023","Kevin Valentine","North Atlantic","10-19-0","0.345"
+"2","2022","Kevin Valentine","North Atlantic","17-13-0","0.567"
+"3","2021","Kevin Valentine","North Atlantic","3-16-0","0.158"
+"4","2020","Kevin Valentine","North Atlantic","0-6-0","0.000"
+"5","2019","Amanda McLean","North Atlantic","4-22-0","0.154"
+"6","2018","Amanda McLean","North Atlantic","1-23-0","0.042"
+"7","2017","Sean Lynch","North Atlantic","0-22-0","0.000"
+"8","2016","Greer Lemnah","North Atlantic","0-26-0","0.000"
+"9","2015","Bill Johnson","North Atlantic","0-20-0","0.000"
+"10","2014","Bill Johnson","North Atlantic","2-21-0","0.087"
+"11","2013","Bill Johnson","North Atlantic","11-23-0","0.324"
+"12","2012","Jennifer Layn","North Atlantic","11-24-0","0.314"
+"13","2011","Jennifer Layn","North Atlantic","8-17-0","0.320"
+"14","2010","Jennifer Layn","North Atlantic","3-21-0","0.125"
+"15","2009","Jennifer Layn","North Atlantic","8-19-0","0.296"
+"16","2008","Jennifer Layn","-","0-0-0","  NaN"
+"17","2007","Jennifer Layn","-","0-0-0","  NaN"
+"18","1984","","-","0-0-0","  NaN"
+"19","2024","Kevin Valentine","North Atlantic","0-0-0","  NaN"

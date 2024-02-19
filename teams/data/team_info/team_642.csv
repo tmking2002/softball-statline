@@ -1,42 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Liz Neubinski","Liberty League","NA-NA-NA",0
-"2","2023","Liz Neubinski","Liberty League","10-23-0",0.303
-"3","2022","Rinae Olsen","Liberty League","24-14-0",0.632
-"4","2021","Rinae Olsen","Liberty League","11-9-0",0.55
-"5","2020","Rinae Olsen","Liberty League","5-5-0",0.5
-"6","2019","Hannah Quintana","Liberty League","17-21-0",0.447
-"7","2018","Hannah Quintana","Liberty League","18-20-0",0.474
-"8","2017","Hannah Quintana","Liberty League","19-23-0",0.452
-"9","2016","Hannah Quintana","Liberty League","18-24-0",0.429
-"10","2015","Hannah Quintana","Liberty League","14-22-0",0.389
-"11","2014","Hannah Quintana","Liberty League","14-20-0",0.412
-"12","2013","Kelly Schwarz","Liberty League","11-27-0",0.289
-"13","2012","Kelly Schwarz","Liberty League","13-24-0",0.351
-"14","2011","Kelly Schwarz","Liberty League","11-21-0",0.344
-"15","2010","Kelly Schwarz","Liberty League","23-14-0",0.622
-"16","2009","Kelly Schwarz","Liberty League","21-14-0",0.6
-"17","2008","Kelly Schwarz","Liberty League","10-25-0",0.286
-"18","2007","Kelly Schwarz","NYSWCAA","14-21-0",0.4
-"19","2006","Kelly Schwarz","NYSWCAA","11-27-0",0.289
-"20","2005","Larry Ramos","NYSWCAA","10-19-0",0.345
-"21","2004","Larry Ramos","NYSWCAA","8-22-1",0.274
-"22","2003","","NYSWCAA","2-21-1",0.104
-"23","2002","Jamie Brown","NYSWCAA","12-20-0",0.375
-"24","2001","Ericka Gillis","-","7-19-0",0.269
-"25","2000","Ericka Gillis","-","10-7-0",0.588
-"26","1999","Shelly Strack","-","5-18-0",0.217
-"27","1998","Shelly Strack","-","16-6-1",0.717
-"28","1997","Shelly Strack","-","16-12-0",0.571
-"29","1996","Shelly Strack","-","16-14-0",0.533
-"30","1995","Larry Ramos","-","18-12-0",0.6
-"31","1994","Larry Ramos","-","20-8-0",0.714
-"32","1993","Larry Ramos","-","11-3-0",0.786
-"33","1992","Larry Ramos","-","5-6-0",0.455
-"34","1991","Larry Ramos","-","8-7-0",0.533
-"35","1990","Pat Manning","-","10-7-0",0.588
-"36","1989","Larry Ramos","-","9-5-0",0.643
-"37","1988","Larry Ramos","-","6-10-0",0.375
-"38","1987","","-","0-0-0",NA
-"39","1986","","-","0-0-0",NA
-"40","1985","","-","0-0-0",NA
-"41","1981","","-","0-0-0",NA
+"1","2023","Liz Neubinski","Liberty League","10-23-0","0.303"
+"2","2022","Rinae Olsen","Liberty League","24-14-0","0.632"
+"3","2021","Rinae Olsen","Liberty League","11-9-0","0.550"
+"4","2020","Rinae Olsen","Liberty League","5-5-0","0.500"
+"5","2019","Hannah Quintana","Liberty League","17-21-0","0.447"
+"6","2018","Hannah Quintana","Liberty League","18-20-0","0.474"
+"7","2017","Hannah Quintana","Liberty League","19-23-0","0.452"
+"8","2016","Hannah Quintana","Liberty League","18-24-0","0.429"
+"9","2015","Hannah Quintana","Liberty League","14-22-0","0.389"
+"10","2014","Hannah Quintana","Liberty League","14-20-0","0.412"
+"11","2013","Kelly Schwarz","Liberty League","11-27-0","0.289"
+"12","2012","Kelly Schwarz","Liberty League","13-24-0","0.351"
+"13","2011","Kelly Schwarz","Liberty League","11-21-0","0.344"
+"14","2010","Kelly Schwarz","Liberty League","23-14-0","0.622"
+"15","2009","Kelly Schwarz","Liberty League","21-14-0","0.600"
+"16","2008","Kelly Schwarz","Liberty League","10-25-0","0.286"
+"17","2007","Kelly Schwarz","NYSWCAA","14-21-0","0.400"
+"18","2006","Kelly Schwarz","NYSWCAA","11-27-0","0.289"
+"19","2005","Larry Ramos","NYSWCAA","10-19-0","0.345"
+"20","2004","Larry Ramos","NYSWCAA","8-22-1","0.267"
+"21","2003","","NYSWCAA","2-21-1","0.087"
+"22","2002","Jamie Brown","NYSWCAA","12-20-0","0.375"
+"23","2001","Ericka Gillis","-","7-19-0","0.269"
+"24","2000","Ericka Gillis","-","10-7-0","0.588"
+"25","1999","Shelly Strack","-","5-18-0","0.217"
+"26","1998","Shelly Strack","-","16-6-1","0.727"
+"27","1997","Shelly Strack","-","16-12-0","0.571"
+"28","1996","Shelly Strack","-","16-14-0","0.533"
+"29","1995","Larry Ramos","-","18-12-0","0.600"
+"30","1994","Larry Ramos","-","20-8-0","0.714"
+"31","1993","Larry Ramos","-","11-3-0","0.786"
+"32","1992","Larry Ramos","-","5-6-0","0.455"
+"33","1991","Larry Ramos","-","8-7-0","0.533"
+"34","1990","Pat Manning","-","10-7-0","0.588"
+"35","1989","Larry Ramos","-","9-5-0","0.643"
+"36","1988","Larry Ramos","-","6-10-0","0.375"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"
+"40","1981","","-","0-0-0","  NaN"

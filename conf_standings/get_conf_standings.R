@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("CONF STANDINGS")
 
 cur_season <- 2024
 

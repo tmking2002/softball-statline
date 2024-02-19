@@ -1,41 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Wes Landrum","MAC Commonwealth","0-0-0",0
-"2","2023","Wes Landrum","MAC Commonwealth","19-13-0",0.594
-"3","2022","Wes Landrum","MAC Commonwealth","15-17-0",0.469
-"4","2021","Wes Landrum","MAC Commonwealth","22-8-0",0.733
-"5","2020","Wes Landrum","MAC Commonwealth","8-4-0",0.667
-"6","2019","Wes Landrum","MAC Commonwealth","24-18-1",0.57
-"7","2018","Jenn Castle","MAC Commonwealth","23-14-1",0.618
-"8","2017","Katie Yohe","MAC Commonwealth","19-16-0",0.543
-"9","2016","Katie Yohe","MAC Commonwealth","13-23-0",0.361
-"10","2015","Katie Yohe","MAC Commonwealth","19-19-1",0.5
-"11","2014","Katie Yohe","MAC Commonwealth","26-15-0",0.634
-"12","2013","Lindsay Berger","MAC Commonwealth","37-11-0",0.771
-"13","2012","Lindsay Berger","MAC Commonwealth","38-11-0",0.776
-"14","2011","Lindsay Berger","MAC Commonwealth","23-13-0",0.639
-"15","2010","Lindsay Berger","MAC Commonwealth","22-15-0",0.595
-"16","2009","Lindsay Berger","MAC Freedom","15-20-0",0.429
-"17","2008","Craig Wojszwillo","CSAC","32-12-0",0.727
-"18","2007","Craig Wojszwillo","CSAC","21-16-0",0.568
-"19","2006","Craig Wojszwillo","CSAC","20-21-0",0.488
-"20","2005","Craig Wojszwillo","CSAC","11-20-0",0.355
-"21","2004","Craig Wojszwillo","CSAC","8-29-0",0.216
-"22","2003","Craig Wojszwillo","CSAC","11-19-0",0.367
-"23","2002","Craig Wojszwillo","CSAC","36-23-0",0.61
-"24","2001","Craig Wojszwillo","-","17-17-0",0.5
-"25","2000","Craig Wojszwillo","-","22-13-0",0.629
-"26","1999","Craig Wojszwillo","-","20-15-1",0.569
-"27","1998","Craig Wojszwillo","-","15-15-0",0.5
-"28","1997","John Gilmer","-","24-8-0",0.75
-"29","1996","John Gilmer","-","22-9-0",0.71
-"30","1995","Scott Pierce","-","24-15-0",0.615
-"31","1994","","-","0-0-0",NA
-"32","1993","","-","0-0-0",NA
-"33","1992","","-","0-0-0",NA
-"34","1991","","-","0-0-0",NA
-"35","1990","","-","0-0-0",NA
-"36","1989","","-","0-0-0",NA
-"37","1988","","-","0-0-0",NA
-"38","1987","","-","0-0-0",NA
-"39","1986","","-","0-0-0",NA
-"40","1985","","-","0-0-0",NA
+"1","2023","Wes Landrum","MAC Commonwealth","19-13-0","0.594"
+"2","2022","Wes Landrum","MAC Commonwealth","15-17-0","0.469"
+"3","2021","Wes Landrum","MAC Commonwealth","22-8-0","0.733"
+"4","2020","Wes Landrum","MAC Commonwealth","8-4-0","0.667"
+"5","2019","Wes Landrum","MAC Commonwealth","24-18-1","0.571"
+"6","2018","Jenn Castle","MAC Commonwealth","23-14-1","0.622"
+"7","2017","Katie Yohe","MAC Commonwealth","19-16-0","0.543"
+"8","2016","Katie Yohe","MAC Commonwealth","13-23-0","0.361"
+"9","2015","Katie Yohe","MAC Commonwealth","19-19-1","0.500"
+"10","2014","Katie Yohe","MAC Commonwealth","26-15-0","0.634"
+"11","2013","Lindsay Berger","MAC Commonwealth","37-11-0","0.771"
+"12","2012","Lindsay Berger","MAC Commonwealth","38-11-0","0.776"
+"13","2011","Lindsay Berger","MAC Commonwealth","23-13-0","0.639"
+"14","2010","Lindsay Berger","MAC Commonwealth","22-15-0","0.595"
+"15","2009","Lindsay Berger","MAC Freedom","15-20-0","0.429"
+"16","2008","Craig Wojszwillo","CSAC","32-12-0","0.727"
+"17","2007","Craig Wojszwillo","CSAC","21-16-0","0.568"
+"18","2006","Craig Wojszwillo","CSAC","20-21-0","0.488"
+"19","2005","Craig Wojszwillo","CSAC","11-20-0","0.355"
+"20","2004","Craig Wojszwillo","CSAC","8-29-0","0.216"
+"21","2003","Craig Wojszwillo","CSAC","11-19-0","0.367"
+"22","2002","Craig Wojszwillo","CSAC","36-23-0","0.610"
+"23","2001","Craig Wojszwillo","-","17-17-0","0.500"
+"24","2000","Craig Wojszwillo","-","22-13-0","0.629"
+"25","1999","Craig Wojszwillo","-","20-15-1","0.571"
+"26","1998","Craig Wojszwillo","-","15-15-0","0.500"
+"27","1997","John Gilmer","-","24-8-0","0.750"
+"28","1996","John Gilmer","-","22-9-0","0.710"
+"29","1995","Scott Pierce","-","24-15-0","0.615"
+"30","1994","","-","0-0-0","  NaN"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1989","","-","0-0-0","  NaN"
+"36","1988","","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"

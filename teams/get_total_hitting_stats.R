@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("TOTAL HITTING STATS")
 
 files <- list.files("teams/data/hitting_stats")
 files <- files[!files == "total_hitting_stats.csv"]

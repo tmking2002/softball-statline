@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("GAME LOGS")
 
 get_game_log <- function(season) {
   

@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2024","Jo Evans","Big West","2-7-0",0.222
-"2","2023","Jo Evans","Big West","26-22-0",0.542
-"3","2022","Brie Galiciano","Big West","15-39-0",0.278
-"4","2021","Brie Galiciano","Big West","15-31-0",0.326
-"5","2020","Brie Galiciano","Big West","12-16-0",0.429
-"6","2019","Brie Galiciano","Big West","10-42-0",0.192
-"7","2018","Brie Galiciano","Big West","20-34-0",0.37
-"8","2017","Brie Galiciano","Big West","31-28-0",0.525
-"9","2016","Brie Galiciano","Big West","28-28-0",0.5
-"10","2015","Brie Galiciano","Big West","19-35-0",0.352
-"11","2014","Brie Galiciano","Big West","34-20-0",0.63
-"12","2013","Brie Galiciano","Big West","31-24-0",0.564
-"13","2012","Brie Galiciano","Big West","30-28-0",0.517
-"14","2011","Brie Galiciano","Big West","27-26-0",0.509
-"15","2010","Brie Galiciano","Big West","15-37-0",0.288
-"16","2009","Brie Galiciano","Big West","26-25-0",0.51
-"17","2008","Brie Galiciano","Big West","30-24-0",0.556
-"18","2007","Kristy Schroeder","Big West","30-23-0",0.566
-"19","2006","Kristy Schroeder","Big West","24-22-0",0.522
-"20","2005","Kristy Schroeder","Big West","26-22-0",0.542
-"21","2004","Kristy Schroeder","Big West","32-31-0",0.508
-"22","2003","Kristy Schroeder","Big West","34-22-0",0.607
-"23","2002","Kristy Schroeder","Big West","27-36-0",0.429
-"24","2001","Liz Kelly","Big West","18-34-0",0.346
-"25","2000","Liz Kelly","Big West","30-21-0",0.588
-"26","1999","Liz Kelly","Big West","24-30-0",0.444
-"27","1998","Liz Kelly","-","25-25-0",0.5
-"28","1997","Liz Kelly","Big West","24-35-0",0.407
-"29","1996","Liz Kelly","-","20-30-0",0.4
-"30","1995","Liz Kelly","-","24-35-0",0.407
-"31","1994","Frann Wageneck","-","23-33-0",0.411
-"32","1993","Sandy Pearce","-","22-29-0",0.431
-"33","1992","Sandy Pearce","-","19-29-0",0.396
-"34","1991","Brenda Greene","-","18-43-0",0.295
-"35","1990","Brenda Greene","-","23-34-0",0.404
-"36","1989","Brenda Greene","-","25-29-0",0.463
-"37","1988","Brenda Greene","-","6-50-0",0.107
-"38","1987","Brenda Greene","-","33-30-0",0.524
-"39","1986","Brenda Greene","-","20-30-0",0.4
-"40","1985","","-","0-0-0",NA
-"41","1984","","-","0-0-0",NA
-"42","1983","","-","0-0-0",NA
-"43","1982","","-","0-0-0",NA
+"1","2023","Jo Evans","Big West","26-22-0","0.542"
+"2","2022","Brie Galiciano","Big West","15-39-0","0.278"
+"3","2021","Brie Galiciano","Big West","15-31-0","0.326"
+"4","2020","Brie Galiciano","Big West","12-16-0","0.429"
+"5","2019","Brie Galiciano","Big West","10-42-0","0.192"
+"6","2018","Brie Galiciano","Big West","20-34-0","0.370"
+"7","2017","Brie Galiciano","Big West","31-28-0","0.525"
+"8","2016","Brie Galiciano","Big West","28-28-0","0.500"
+"9","2015","Brie Galiciano","Big West","19-35-0","0.352"
+"10","2014","Brie Galiciano","Big West","34-20-0","0.630"
+"11","2013","Brie Galiciano","Big West","31-24-0","0.564"
+"12","2012","Brie Galiciano","Big West","30-28-0","0.517"
+"13","2011","Brie Galiciano","Big West","27-26-0","0.509"
+"14","2010","Brie Galiciano","Big West","15-37-0","0.288"
+"15","2009","Brie Galiciano","Big West","26-25-0","0.510"
+"16","2008","Brie Galiciano","Big West","30-24-0","0.556"
+"17","2007","Kristy Schroeder","Big West","30-23-0","0.566"
+"18","2006","Kristy Schroeder","Big West","24-22-0","0.522"
+"19","2005","Kristy Schroeder","Big West","26-22-0","0.542"
+"20","2004","Kristy Schroeder","Big West","32-31-0","0.508"
+"21","2003","Kristy Schroeder","Big West","34-22-0","0.607"
+"22","2002","Kristy Schroeder","Big West","27-36-0","0.429"
+"23","2001","Liz Kelly","Big West","18-34-0","0.346"
+"24","2000","Liz Kelly","Big West","30-21-0","0.588"
+"25","1999","Liz Kelly","Big West","24-30-0","0.444"
+"26","1998","Liz Kelly","-","25-25-0","0.500"
+"27","1997","Liz Kelly","Big West","24-35-0","0.407"
+"28","1996","Liz Kelly","-","20-30-0","0.400"
+"29","1995","Liz Kelly","-","24-35-0","0.407"
+"30","1994","Frann Wageneck","-","23-33-0","0.411"
+"31","1993","Sandy Pearce","-","22-29-0","0.431"
+"32","1992","Sandy Pearce","-","19-29-0","0.396"
+"33","1991","Brenda Greene","-","18-43-0","0.295"
+"34","1990","Brenda Greene","-","23-34-0","0.404"
+"35","1989","Brenda Greene","-","25-29-0","0.463"
+"36","1988","Brenda Greene","-","6-50-0","0.107"
+"37","1987","Brenda Greene","-","33-30-0","0.524"
+"38","1986","Brenda Greene","-","20-30-0","0.400"
+"39","1985","","-","0-0-0","  NaN"
+"40","1984","","-","0-0-0","  NaN"
+"41","1983","","-","0-0-0","  NaN"
+"42","1982","","-","0-0-0","  NaN"
+"43","2024","Jo Evans","Big West","0-0-0","  NaN"

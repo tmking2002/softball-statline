@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-
 library(tidyverse)
+
+print("BOX")
 
 load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1"){
   
