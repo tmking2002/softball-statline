@@ -1,70 +1,79 @@
 Rank,Team,Record,Team ID
-1,Hamline,2-0-0,268
-2,Buena Vista,2-0-0,84
-3,Berry,6-0-0,973
-4,Carleton,2-0-0,118
-4,Chris. Newport,2-0-0,139
-4,Lynchburg,2-0-0,374
-4,Pfeiffer,2-0-0,542
-4,Randolph-Macon,2-0-0,565
-4,Wesleyan (GA),1-0-0,14718
-11,Hardin-Simmons,4-0-0,271
-12,Franklin,3-0-0,2694
-12,MUW,3-0-0,431
-14,Huntingdon,4-0-0,1130
-15,Mary Hardin-Baylor,2-0-0,1203
-16,McMurry,2-0-0,8530
-17,Belhaven,4-0-0,30197
-19,East Tex. Baptist,3-1-0,1062
-20,Bethany Lutheran,3-1-0,30038
-21,Sewanee,4-1-0,652
-22,Simpson,2-1-0,641
-22,St. Olaf,2-1-0,615
-24,Mt. St. Joseph,2-1-0,8567
-25,Maryville (TN),6-3-0,396
+1,St. Olaf,3-0-0,615
+2,Hamline,2-0-0,268
+3,Hardin-Simmons,4-0-0,271
+5,Buena Vista,2-0-0,84
+6,Berry,6-0-0,973
+7,Carleton,2-0-0,118
+7,Chris. Newport,2-0-0,139
+7,Emory,2-0-0,217
+7,Lynchburg,2-0-0,374
+7,Pfeiffer,2-0-0,542
+7,Randolph-Macon,2-0-0,565
+7,Stevens,2-0-0,679
+7,Wesleyan (GA),1-0-0,14718
+15,Belhaven,4-0-0,30197
+16,Huntingdon,4-0-0,1130
+17,McMurry,2-0-0,8530
+18,Franklin,3-0-0,2694
+19,Mary Hardin-Baylor,2-0-0,1203
+21,Ozarks (AR),2-0-0,23008
+22,MUW,4-1-0,431
+23,Bethany Lutheran,3-1-0,30038
+24,East Tex. Baptist,3-1-0,1062
+25,Maryville (TN),5-3-0,396
 26,Trinity (TX),4-2-0,715
-28,Redlands,3-2-0,567
-29,Piedmont,2-2-0,21830
-30,Macalester,1-1-0,376
-31,La Verne,1-1-0,341
-31,Whitworth,2-2-0,1454
-33,Concordia (TX),2-2-0,24400
-34,Cal Lutheran,2-2-0,105
-35,Albany St. (GA),1-1-0,13
-35,Brevard,1-1-0,30094
-35,Greensboro,1-1-0,263
-35,Randolph,1-1-0,566
-35,Sweet Briar,1-1-0,687
-35,William Peace,1-1-0,17094
-41,Gust. Adolphus,1-1-0,266
-42,Chapman,1-1-0,134
-43,Sul Ross St.,3-4-0,1390
-44,Austin,2-2-0,953
-45,Neb. Wesleyan,1-1-0,462
-46,LaGrange,3-4-0,1162
-47,Lane,1-1-0,347
-48,Millsaps,3-5-0,426
-49,Hendrix,2-2-0,1124
-50,Howard Payne,1-2-0,2741
-51,Dallas,1-2-0,1044
-52,Claremont-M-S,1-2-0,142
-53,Webster,1-2-0,759
-54,Agnes Scott,2-5-0,11324
-55,Birmingham-So.,1-2-0,28593
-56,Schreiner,1-3-0,1355
-57,Centre,1-4-0,132
-58,Bridgewater (VA),1-3-0,75
-58,Methodist,1-3-0,412
-60,St. Thomas (TX),1-4-0,2810
-61,Rhodes,2-7-0,573
-62,Westminster (MO),1-3-0,1450
-63,Centenary (LA),0-6-0,125
-64,Martin Luther,0-3-0,8597
-65,Southwestern (TX),0-4-0,8746
-66,Crown (MN),0-2-0,30035
-66,Ferrum,0-2-0,225
-66,Marymount (VA),0-2-0,394
-66,Pomona-Pitzer,0-1-0,549
-70,Covenant,0-6-0,30111
-71,North Central (MN),0-5-0,30039
-72,St. Catherine,0-1-0,597
+27,Sewanee,3-2-0,652
+28,Whitworth,4-3-0,1454
+29,Northwestern-St. Paul,2-1-0,30031
+30,Redlands,3-2-0,567
+31,Simpson,1-1-0,641
+33,Albany St. (GA),1-1-0,13
+33,Brevard,1-1-0,30094
+33,Greensboro,1-1-0,263
+33,Livingstone,1-1-0,359
+33,Macalester,1-1-0,376
+33,Randolph,1-1-0,566
+33,Salem (NC),1-1-0,30041
+33,Sweet Briar,1-1-0,687
+33,William Peace,1-1-0,17094
+42,La Verne,1-1-0,341
+43,Concordia (TX),2-2-0,24400
+44,Piedmont,2-2-0,21830
+45,Sul Ross St.,3-4-0,1390
+46,Birmingham-So.,2-2-0,28593
+47,Mt. St. Joseph,2-2-0,8567
+48,Gust. Adolphus,2-2-0,266
+49,Austin,2-2-0,953
+50,Neb. Wesleyan,2-3-0,462
+51,Lane,2-2-0,347
+52,Hendrix,2-2-0,1124
+53,Millsaps,3-5-0,426
+54,Dallas,1-2-0,1044
+55,LaGrange,3-5-0,1162
+56,Centre,2-4-0,132
+57,Webster,1-2-1,759
+58,Cal Lutheran,2-4-0,105
+59,Pomona-Pitzer,1-3-0,549
+60,St. Thomas (TX),2-5-0,2810
+61,Centenary (LA),2-6-0,125
+62,Agnes Scott,2-5-0,11324
+63,Schreiner,1-3-0,1355
+64,Claremont-M-S,1-2-0,142
+65,Chapman,1-2-0,134
+66,Rhodes,3-8-1,573
+67,Bridgewater (VA),1-3-0,75
+67,Methodist,1-3-0,412
+69,Westminster (MO),1-5-0,1450
+70,Martin Luther,0-2-0,8597
+71,Covenant,0-4-0,30111
+72,Howard Payne,0-2-0,2741
+73,St. Catherine,0-2-0,597
+74,Southwestern (TX),0-4-0,8746
+75,Crown (MN),0-2-0,30035
+75,Ferrum,0-2-0,225
+75,Marymount (VA),0-2-0,394
+75,Occidental,0-2-0,516
+75,Willamette,0-1-0,785
+80,Wis.-La Crosse,0-2-0,795
+81,North Central (MN),0-4-0,30039

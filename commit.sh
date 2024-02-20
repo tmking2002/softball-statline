@@ -3,5 +3,5 @@ git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"
 }
-git commit -am "Update Softball Statline $(timestamp)"
-git push origin master
+git commit -m "Update Softball Statline $(timestamp)"
+git push origin main
