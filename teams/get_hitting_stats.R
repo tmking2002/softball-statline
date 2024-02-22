@@ -19,7 +19,8 @@ get_stats <- function(box, season){
     mutate(first =  proper(trimws(str_remove(first, "\\."))),
            last = proper(trimws(str_remove(last, "\\."))),
            player = paste(first, last),
-           season = .env$season) %>% 
+           season = .env$season,
+           across(5:28, \(col) ifelse(is.na(col), 0, col))) %>% 
     filter(str_length(first) > 1,
            str_length(last) > 1,
            first != "Unknown") %>% 
