@@ -45,10 +45,10 @@ for(i in 1:nrow(team_ids)){
     
     df <- read.csv(paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) %>% 
       filter(!(season == 2024 & record == '0-0-0')) %>% 
-      select(-X.1, -X, -X.2)
+      select(-X)
     
     record <- records[which(records$team_id == team_ids$team_id[i]),]$record
-    win_perc <- records[which(records$team_id == team_ids$team_id[i]),]$win_perc
+    win_perc <- round(records[which(records$team_id == team_ids$team_id[i]),]$win_perc, 3)
     
     df[which(df$season == 2024),]$record <- record
     df[which(df$season == 2024),]$win_perc <- win_perc
