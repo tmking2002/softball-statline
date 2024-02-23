@@ -47,7 +47,7 @@ const tableContainer = document.getElementById("table-container");
 
 function parseCSV(csvData) {
     const lines = csvData.split("\n");
-    const headers = ['', 'Season', 'Head Coach', 'Conf.', 'Record', 'Win%'];
+    const headers = ['', '', 'Season', 'Head Coach', 'Conf.', 'Record', 'Win%'];
     const rows = [];
 
     for (let i = 1; i < lines.length; i++) {
