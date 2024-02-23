@@ -1,37 +1,37 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Monique White","CAA","3-5-0",0.375
-"2",3,1,2023,"Monique White","CAA","15-31-0",0.326
-"3",4,2,2022,"Monique White","Big South","19-36-0",0.345
-"4",5,3,2021,"Angie Nicholson","Big South","0-0-0",NA
-"5",6,4,2020,"Angie Nicholson","Big South","15-4-0",0.789
-"6",7,5,2019,"Angie Nicholson","Big South","23-26-0",0.469
-"7",8,6,2018,"Angie Nicholson","MEAC","24-28-0",0.462
-"8",9,7,2017,"Angie Nicholson","MEAC","23-22-0",0.511
-"9",10,8,2016,"Joe DiPietro","MEAC","20-28-0",0.417
-"10",11,9,2015,"Joe DiPietro","MEAC","22-26-0",0.458
-"11",12,10,2014,"Mike Pelegrino","MEAC","29-20-0",0.592
-"12",13,11,2013,"Trena Prater","MEAC","35-26-0",0.574
-"13",14,12,2012,"Trena Prater","MEAC","25-33-0",0.431
-"14",15,13,2011,"Trena Prater","MEAC","13-35-0",0.271
-"15",16,14,2010,"Regina Gibbons","MEAC","21-38-0",0.356
-"16",17,15,2009,"Regina Gibbons","MEAC","26-23-0",0.531
-"17",18,16,2008,"Regina Gibbons","MEAC","31-18-0",0.633
-"18",19,17,2007,"Tiny Laster (34-10)Regina Gibbons (2-3)","MEAC","36-13-0",0.735
-"19",20,18,2006,"Tiny Laster","MEAC","32-22-0",0.593
-"20",21,19,2005,"Tiny Laster","MEAC","28-18-0",0.609
-"21",22,20,2004,"Tiny Laster","MEAC","31-23-0",0.574
-"22",23,21,2003,"Tiny Laster","MEAC","19-27-0",0.413
-"23",24,22,2002,"Tiny Laster","MEAC","34-18-0",0.654
-"24",25,23,2001,"Tiny Laster","MEAC","34-21-0",0.618
-"25",26,24,2000,"Tiny Laster","MEAC","36-18-0",0.667
-"26",27,25,1999,"Tiny Laster","MEAC","30-15-0",0.667
-"27",28,26,1998,"Tiny Laster","-","25-22-0",0.532
-"28",29,27,1997,"Tiny Laster","MEAC","20-23-0",0.465
-"29",30,28,1996,"Tiny Laster","-","39-19-0",0.672
-"30",31,29,1995,"Tiny Laster","-","42-3-0",0.933
-"31",32,30,1994,"Tiny Laster","-","20-14-0",0.588
-"32",33,31,1993,"Tiny Laster","-","24-6-0",0.8
-"33",34,32,1992,"Tiny Laster","-","27-8-1",0.771
-"34",35,33,1991,"Tiny Laster","-","29-6-0",0.829
-"35",36,34,1990,"Tiny Laster","-","22-12-0",0.647
-"36",37,35,1989,"Tiny Laster","-","9-15-0",0.375
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Monique White","CAA","3-5-0",0.375
+"2",2023,"Monique White","CAA","15-31-0",0.326
+"3",2022,"Monique White","Big South","19-36-0",0.345
+"4",2021,"Angie Nicholson","Big South","0-0-0",NA
+"5",2020,"Angie Nicholson","Big South","15-4-0",0.789
+"6",2019,"Angie Nicholson","Big South","23-26-0",0.469
+"7",2018,"Angie Nicholson","MEAC","24-28-0",0.462
+"8",2017,"Angie Nicholson","MEAC","23-22-0",0.511
+"9",2016,"Joe DiPietro","MEAC","20-28-0",0.417
+"10",2015,"Joe DiPietro","MEAC","22-26-0",0.458
+"11",2014,"Mike Pelegrino","MEAC","29-20-0",0.592
+"12",2013,"Trena Prater","MEAC","35-26-0",0.574
+"13",2012,"Trena Prater","MEAC","25-33-0",0.431
+"14",2011,"Trena Prater","MEAC","13-35-0",0.271
+"15",2010,"Regina Gibbons","MEAC","21-38-0",0.356
+"16",2009,"Regina Gibbons","MEAC","26-23-0",0.531
+"17",2008,"Regina Gibbons","MEAC","31-18-0",0.633
+"18",2007,"Tiny Laster (34-10)Regina Gibbons (2-3)","MEAC","36-13-0",0.735
+"19",2006,"Tiny Laster","MEAC","32-22-0",0.593
+"20",2005,"Tiny Laster","MEAC","28-18-0",0.609
+"21",2004,"Tiny Laster","MEAC","31-23-0",0.574
+"22",2003,"Tiny Laster","MEAC","19-27-0",0.413
+"23",2002,"Tiny Laster","MEAC","34-18-0",0.654
+"24",2001,"Tiny Laster","MEAC","34-21-0",0.618
+"25",2000,"Tiny Laster","MEAC","36-18-0",0.667
+"26",1999,"Tiny Laster","MEAC","30-15-0",0.667
+"27",1998,"Tiny Laster","-","25-22-0",0.532
+"28",1997,"Tiny Laster","MEAC","20-23-0",0.465
+"29",1996,"Tiny Laster","-","39-19-0",0.672
+"30",1995,"Tiny Laster","-","42-3-0",0.933
+"31",1994,"Tiny Laster","-","20-14-0",0.588
+"32",1993,"Tiny Laster","-","24-6-0",0.8
+"33",1992,"Tiny Laster","-","27-8-1",0.771
+"34",1991,"Tiny Laster","-","29-6-0",0.829
+"35",1990,"Tiny Laster","-","22-12-0",0.647
+"36",1989,"Tiny Laster","-","9-15-0",0.375

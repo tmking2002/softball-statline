@@ -44,7 +44,8 @@ for(i in 1:nrow(team_ids)){
   if(team_ids$team_id[i] %in% records$team_id){
     
     df <- read.csv(paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) %>% 
-      filter(!(season == 2024 & record == '0-0-0'))
+      filter(!(season == 2024 & record == '0-0-0')) %>% 
+      select(-X.1, -X, -X.2)
     
     record <- records[which(records$team_id == team_ids$team_id[i]),]$record
     win_perc <- records[which(records$team_id == team_ids$team_id[i]),]$win_perc

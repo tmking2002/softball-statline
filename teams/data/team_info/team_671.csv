@@ -1,47 +1,47 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",1,45,2024,"Gerry Glasco","Sun Belt","6-5-0",0.545454545454545
-"2",2,0,2024,"Gerry Glasco","Sun Belt","6-5-0",0.545454545454545
-"3",3,1,2023,"Gerry Glasco","Sun Belt","50-16-0",0.758
-"4",4,2,2022,"Gerry Glasco","Sun Belt","47-13-0",0.783
-"5",5,3,2021,"Gerry Glasco","Sun Belt","47-12-0",0.797
-"6",6,4,2020,"Gerry Glasco","Sun Belt","18-6-0",0.75
-"7",7,5,2019,"Gerry Glasco","Sun Belt","52-6-0",0.897
-"8",8,6,2018,"Gerry Glasco","Sun Belt","41-16-0",0.719
-"9",9,7,2017,"Michael Lotief","Sun Belt","47-8-0",0.855
-"10",10,8,2016,"Michael Lotief","Sun Belt","46-9-0",0.836
-"11",11,9,2015,"Michael Lotief","Sun Belt","42-12-0",0.778
-"12",12,10,2014,"Michael Lotief","Sun Belt","49-10-1",0.831
-"13",13,11,2013,"Michael Lotief","Sun Belt","46-17-1",0.73
-"14",14,12,2012,"Michael Lotief (53-6)Stefni Lotief (53-6)","Sun Belt","53-6-0",0.898
-"15",15,13,2011,"Michael Lotief (51-11)Stefni Lotief (51-11)","Sun Belt","51-11-0",0.823
-"16",16,14,2010,"Michael Lotief (45-18)Stefni Lotief (45-18)","Sun Belt","45-18-0",0.714
-"17",17,15,2009,"Michael Lotief (45-13)Stefni Lotief (45-13)","Sun Belt","45-13-0",0.776
-"18",18,16,2008,"Stefni Lotief (52-15)Michael Lotief (52-15)","Sun Belt","52-15-0",0.776
-"19",19,17,2007,"Michael Lotief (46-18)Stefni Lotief (46-18)","Sun Belt","46-18-0",0.719
-"20",20,18,2006,"Michael Lotief (50-12)Stefni Lotief (50-12)","Sun Belt","50-12-0",0.806
-"21",21,19,2005,"Michael Lotief (51-10)Stefni Lotief (51-10)","Sun Belt","51-10-0",0.836
-"22",22,20,2004,"Michael Lotief (60-8)Stefni Lotief (60-8)","Sun Belt","60-8-0",0.882
-"23",23,21,2003,"Michael Lotief (47-11)Stefni Lotief (47-11)","Sun Belt","47-11-0",0.81
-"24",24,22,2002,"Stefni Lotief","Sun Belt","50-13-0",0.794
-"25",25,23,2001,"Stefni Lotief","Sun Belt","51-10-0",0.836
-"26",26,24,2000,"Yvette Girouard","-","45-15-0",0.75
-"27",27,25,1999,"Yvette Girouard","-","54-11-0",0.831
-"28",28,26,1998,"Yvette Girouard","-","36-15-0",0.706
-"29",29,27,1997,"Yvette Girouard","-","46-18-0",0.719
-"30",30,28,1996,"Yvette Girouard","-","46-10-0",0.821
-"31",31,29,1995,"Yvette Girouard","-","49-9-0",0.845
-"32",32,30,1994,"Yvette Girouard","-","57-5-0",0.919
-"33",33,31,1993,"Yvette Girouard","-","57-7-0",0.891
-"34",34,32,1992,"Yvette Girouard","-","41-12-0",0.774
-"35",35,33,1991,"Yvette Girouard","-","33-10-0",0.767
-"36",36,34,1990,"Yvette Girouard","-","44-8-0",0.846
-"37",37,35,1989,"Yvette Girouard","-","48-16-0",0.75
-"38",38,36,1988,"Yvette Girouard","-","29-16-0",0.644
-"39",39,37,1987,"Yvette Girouard","-","31-16-0",0.66
-"40",40,38,1986,"Yvette Girouard","-","32-19-0",0.627
-"41",41,39,1985,"Yvette Girouard","-","39-13-0",0.75
-"42",42,40,1984,"Yvette Girouard","-","28-9-0",0.757
-"43",43,41,1983,"Yvette Girouard","-","22-13-0",0.629
-"44",44,42,1982,"Yvette Girouard","-","15-13-0",0.536
-"45",45,43,1981,"Yvette Girouard","-","7-15-0",0.318
-"46",46,44,1980,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Gerry Glasco","Sun Belt","6-5-0",0.545454545454545
+"2",2024,"Gerry Glasco","Sun Belt","6-5-0",0.545454545454545
+"3",2023,"Gerry Glasco","Sun Belt","50-16-0",0.758
+"4",2022,"Gerry Glasco","Sun Belt","47-13-0",0.783
+"5",2021,"Gerry Glasco","Sun Belt","47-12-0",0.797
+"6",2020,"Gerry Glasco","Sun Belt","18-6-0",0.75
+"7",2019,"Gerry Glasco","Sun Belt","52-6-0",0.897
+"8",2018,"Gerry Glasco","Sun Belt","41-16-0",0.719
+"9",2017,"Michael Lotief","Sun Belt","47-8-0",0.855
+"10",2016,"Michael Lotief","Sun Belt","46-9-0",0.836
+"11",2015,"Michael Lotief","Sun Belt","42-12-0",0.778
+"12",2014,"Michael Lotief","Sun Belt","49-10-1",0.831
+"13",2013,"Michael Lotief","Sun Belt","46-17-1",0.73
+"14",2012,"Michael Lotief (53-6)Stefni Lotief (53-6)","Sun Belt","53-6-0",0.898
+"15",2011,"Michael Lotief (51-11)Stefni Lotief (51-11)","Sun Belt","51-11-0",0.823
+"16",2010,"Michael Lotief (45-18)Stefni Lotief (45-18)","Sun Belt","45-18-0",0.714
+"17",2009,"Michael Lotief (45-13)Stefni Lotief (45-13)","Sun Belt","45-13-0",0.776
+"18",2008,"Stefni Lotief (52-15)Michael Lotief (52-15)","Sun Belt","52-15-0",0.776
+"19",2007,"Michael Lotief (46-18)Stefni Lotief (46-18)","Sun Belt","46-18-0",0.719
+"20",2006,"Michael Lotief (50-12)Stefni Lotief (50-12)","Sun Belt","50-12-0",0.806
+"21",2005,"Michael Lotief (51-10)Stefni Lotief (51-10)","Sun Belt","51-10-0",0.836
+"22",2004,"Michael Lotief (60-8)Stefni Lotief (60-8)","Sun Belt","60-8-0",0.882
+"23",2003,"Michael Lotief (47-11)Stefni Lotief (47-11)","Sun Belt","47-11-0",0.81
+"24",2002,"Stefni Lotief","Sun Belt","50-13-0",0.794
+"25",2001,"Stefni Lotief","Sun Belt","51-10-0",0.836
+"26",2000,"Yvette Girouard","-","45-15-0",0.75
+"27",1999,"Yvette Girouard","-","54-11-0",0.831
+"28",1998,"Yvette Girouard","-","36-15-0",0.706
+"29",1997,"Yvette Girouard","-","46-18-0",0.719
+"30",1996,"Yvette Girouard","-","46-10-0",0.821
+"31",1995,"Yvette Girouard","-","49-9-0",0.845
+"32",1994,"Yvette Girouard","-","57-5-0",0.919
+"33",1993,"Yvette Girouard","-","57-7-0",0.891
+"34",1992,"Yvette Girouard","-","41-12-0",0.774
+"35",1991,"Yvette Girouard","-","33-10-0",0.767
+"36",1990,"Yvette Girouard","-","44-8-0",0.846
+"37",1989,"Yvette Girouard","-","48-16-0",0.75
+"38",1988,"Yvette Girouard","-","29-16-0",0.644
+"39",1987,"Yvette Girouard","-","31-16-0",0.66
+"40",1986,"Yvette Girouard","-","32-19-0",0.627
+"41",1985,"Yvette Girouard","-","39-13-0",0.75
+"42",1984,"Yvette Girouard","-","28-9-0",0.757
+"43",1983,"Yvette Girouard","-","22-13-0",0.629
+"44",1982,"Yvette Girouard","-","15-13-0",0.536
+"45",1981,"Yvette Girouard","-","7-15-0",0.318
+"46",1980,"","-","0-0-0",NA

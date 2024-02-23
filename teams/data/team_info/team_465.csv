@@ -1,42 +1,42 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Kristie Fox","Mountain West","5-3-0",0.625
-"2",3,1,2023,"Kristie Fox","Mountain West","23-27-0",0.46
-"3",4,2,2022,"Kristie Fox","Mountain West","43-15-0",0.741
-"4",5,3,2021,"Kristie Fox","Mountain West","25-15-0",0.625
-"5",6,4,2020,"Kristie Fox","Mountain West","21-5-0",0.808
-"6",7,5,2019,"Kristie Fox","Mountain West","36-14-0",0.72
-"7",8,6,2018,"Kristie Fox","Mountain West","33-20-0",0.623
-"8",9,7,2017,"Lisa Dodd","Mountain West","25-27-0",0.481
-"9",10,8,2016,"Lisa Dodd","Mountain West","24-31-0",0.436
-"10",11,9,2015,"Lisa Dodd","Mountain West","25-30-0",0.455
-"11",12,10,2014,"Lisa Dodd","Mountain West","26-28-0",0.481
-"12",13,11,2013,"Lisa Dodd","Mountain West","21-31-0",0.404
-"13",14,12,2012,"Pete Manarino","Mountain West","22-27-0",0.449
-"14",15,13,2011,"Pete Manarino","Mountain West","27-18-0",0.6
-"15",16,14,2010,"Pete Manarino","Mountain West","33-20-0",0.623
-"16",17,15,2009,"Pete Manarino","Mountain West","31-21-0",0.596
-"17",18,16,2008,"Lonni Alameda","Mountain West","25-40-1",0.385
-"18",19,17,2007,"Lonni Alameda","Mountain West","37-27-0",0.578
-"19",20,18,2006,"Lonni Alameda","Mountain West","26-37-0",0.413
-"20",21,19,2005,"Lonni Alameda","Mountain West","44-19-0",0.698
-"21",22,20,2004,"Lonni Alameda","Mountain West","25-35-0",0.417
-"22",23,21,2003,"Shan McDonald","Mountain West","21-39-0",0.35
-"23",24,22,2002,"Shan McDonald","Mountain West","30-34-0",0.469
-"24",25,23,2001,"Shan McDonald","Mountain West","23-30-0",0.434
-"25",26,24,2000,"Shan McDonald","Mountain West","19-41-0",0.317
-"26",27,25,1999,"Shan McDonald","WAC","18-31-0",0.367
-"27",28,26,1998,"Shan McDonald","-","21-30-0",0.412
-"28",29,27,1997,"Shan McDonald (26-28)Carol Spanks (26-28)","WAC","26-28-0",0.481
-"29",30,28,1996,"Shan McDonald (36-23)Carol Spanks (36-23)","-","36-23-0",0.61
-"30",31,29,1995,"Shan McDonald (49-14)Carol Spanks (49-14)","-","49-14-0",0.778
-"31",32,30,1994,"Shan McDonald","-","39-19-0",0.672
-"32",33,31,1993,"Shan McDonald","-","37-17-1",0.685
-"33",34,32,1992,"Shan McDonald","-","34-22-0",0.607
-"34",35,33,1991,"Shan McDonald","-","49-17-1",0.742
-"35",36,34,1990,"Shan McDonald","-","41-27-0",0.603
-"36",37,35,1989,"Shan McDonald","-","32-28-0",0.533
-"37",38,36,1988,"Shan McDonald","-","18-29-0",0.383
-"38",39,37,1987,"Shan McDonald","-","15-40-0",0.273
-"39",40,38,1986,"","-","0-0-0",NA
-"40",41,39,1985,"","-","0-0-0",NA
-"41",42,40,1982,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Kristie Fox","Mountain West","5-3-0",0.625
+"2",2023,"Kristie Fox","Mountain West","23-27-0",0.46
+"3",2022,"Kristie Fox","Mountain West","43-15-0",0.741
+"4",2021,"Kristie Fox","Mountain West","25-15-0",0.625
+"5",2020,"Kristie Fox","Mountain West","21-5-0",0.808
+"6",2019,"Kristie Fox","Mountain West","36-14-0",0.72
+"7",2018,"Kristie Fox","Mountain West","33-20-0",0.623
+"8",2017,"Lisa Dodd","Mountain West","25-27-0",0.481
+"9",2016,"Lisa Dodd","Mountain West","24-31-0",0.436
+"10",2015,"Lisa Dodd","Mountain West","25-30-0",0.455
+"11",2014,"Lisa Dodd","Mountain West","26-28-0",0.481
+"12",2013,"Lisa Dodd","Mountain West","21-31-0",0.404
+"13",2012,"Pete Manarino","Mountain West","22-27-0",0.449
+"14",2011,"Pete Manarino","Mountain West","27-18-0",0.6
+"15",2010,"Pete Manarino","Mountain West","33-20-0",0.623
+"16",2009,"Pete Manarino","Mountain West","31-21-0",0.596
+"17",2008,"Lonni Alameda","Mountain West","25-40-1",0.385
+"18",2007,"Lonni Alameda","Mountain West","37-27-0",0.578
+"19",2006,"Lonni Alameda","Mountain West","26-37-0",0.413
+"20",2005,"Lonni Alameda","Mountain West","44-19-0",0.698
+"21",2004,"Lonni Alameda","Mountain West","25-35-0",0.417
+"22",2003,"Shan McDonald","Mountain West","21-39-0",0.35
+"23",2002,"Shan McDonald","Mountain West","30-34-0",0.469
+"24",2001,"Shan McDonald","Mountain West","23-30-0",0.434
+"25",2000,"Shan McDonald","Mountain West","19-41-0",0.317
+"26",1999,"Shan McDonald","WAC","18-31-0",0.367
+"27",1998,"Shan McDonald","-","21-30-0",0.412
+"28",1997,"Shan McDonald (26-28)Carol Spanks (26-28)","WAC","26-28-0",0.481
+"29",1996,"Shan McDonald (36-23)Carol Spanks (36-23)","-","36-23-0",0.61
+"30",1995,"Shan McDonald (49-14)Carol Spanks (49-14)","-","49-14-0",0.778
+"31",1994,"Shan McDonald","-","39-19-0",0.672
+"32",1993,"Shan McDonald","-","37-17-1",0.685
+"33",1992,"Shan McDonald","-","34-22-0",0.607
+"34",1991,"Shan McDonald","-","49-17-1",0.742
+"35",1990,"Shan McDonald","-","41-27-0",0.603
+"36",1989,"Shan McDonald","-","32-28-0",0.533
+"37",1988,"Shan McDonald","-","18-29-0",0.383
+"38",1987,"Shan McDonald","-","15-40-0",0.273
+"39",1986,"","-","0-0-0",NA
+"40",1985,"","-","0-0-0",NA
+"41",1982,"","-","0-0-0",NA

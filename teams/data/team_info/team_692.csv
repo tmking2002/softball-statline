@@ -1,40 +1,40 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Danielle Penner","OVC","4-0-0",1
-"2",3,1,2023,"Danielle Penner","OVC","6-44-0",0.12
-"3",4,2,2022,"Michelle DePolo","OVC","32-22-0",0.593
-"4",5,3,2021,"Michelle DePolo","OVC","19-30-0",0.388
-"5",6,4,2020,"Michelle DePolo","OVC","10-9-0",0.526
-"6",7,5,2019,"Bonnie Bynum Graham","OVC","18-27-0",0.4
-"7",8,6,2018,"Bonnie Bynum Graham","OVC","16-33-0",0.327
-"8",9,7,2017,"Bonnie Bynum Graham","OVC","16-30-0",0.348
-"9",10,8,2016,"Bonnie Bynum Graham","OVC","23-33-0",0.411
-"10",11,9,2015,"Bonnie Bynum Graham","OVC","33-28-0",0.541
-"11",12,10,2014,"Bonnie Bynum Graham","OVC","25-34-0",0.424
-"12",13,11,2013,"Bonnie Bynum Graham","OVC","22-28-0",0.44
-"13",14,12,2012,"Tory Acheson","OVC","27-32-0",0.458
-"14",15,13,2011,"Tory Acheson","OVC","22-26-0",0.458
-"15",16,14,2010,"Tory Acheson","OVC","28-30-0",0.483
-"16",17,15,2009,"Tory Acheson","OVC","26-31-0",0.456
-"17",18,16,2008,"Tory Acheson","OVC","32-30-1",0.516
-"18",19,17,2007,"Tory Acheson","OVC","50-19-0",0.725
-"19",20,18,2006,"Tory Acheson","OVC","50-15-0",0.769
-"20",21,19,2005,"Tory Acheson","OVC","35-28-0",0.556
-"21",22,20,2004,"Tory Acheson","OVC","44-25-0",0.638
-"22",23,21,2003,"Tory Acheson","OVC","41-16-0",0.719
-"23",24,22,2002,"Tory Acheson","OVC","36-23-0",0.61
-"24",25,23,2001,"Tory Acheson","OVC","44-20-0",0.688
-"25",26,24,2000,"Tory Acheson","OVC","40-35-0",0.533
-"26",27,25,1999,"Tory Acheson","OVC","32-22-0",0.593
-"27",28,26,1998,"Bobby Holloway","-","20-17-0",0.541
-"28",29,27,1997,"Bobby Holloway","OVC","36-13-0",0.735
-"29",30,28,1996,"Bobby Holloway","-","26-22-0",0.542
-"30",31,29,1995,"Bobby Holloway","-","33-25-0",0.569
-"31",32,30,1994,"Bobby Holloway","-","31-16-0",0.66
-"32",33,31,1993,"Bobby Holloway","-","26-19-0",0.578
-"33",34,32,1992,"Bobby Holloway","-","27-12-0",0.692
-"34",35,33,1991,"Bobby Holloway","-","24-20-0",0.545
-"35",36,34,1990,"Bobby Holloway","-","20-20-0",0.5
-"36",37,35,1989,"Bobby Holloway","-","14-25-1",0.359
-"37",38,36,1988,"Bobby Holloway","-","9-22-0",0.29
-"38",39,37,1987,"","-","0-0-0",NA
-"39",40,38,1986,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Danielle Penner","OVC","4-0-0",1
+"2",2023,"Danielle Penner","OVC","6-44-0",0.12
+"3",2022,"Michelle DePolo","OVC","32-22-0",0.593
+"4",2021,"Michelle DePolo","OVC","19-30-0",0.388
+"5",2020,"Michelle DePolo","OVC","10-9-0",0.526
+"6",2019,"Bonnie Bynum Graham","OVC","18-27-0",0.4
+"7",2018,"Bonnie Bynum Graham","OVC","16-33-0",0.327
+"8",2017,"Bonnie Bynum Graham","OVC","16-30-0",0.348
+"9",2016,"Bonnie Bynum Graham","OVC","23-33-0",0.411
+"10",2015,"Bonnie Bynum Graham","OVC","33-28-0",0.541
+"11",2014,"Bonnie Bynum Graham","OVC","25-34-0",0.424
+"12",2013,"Bonnie Bynum Graham","OVC","22-28-0",0.44
+"13",2012,"Tory Acheson","OVC","27-32-0",0.458
+"14",2011,"Tory Acheson","OVC","22-26-0",0.458
+"15",2010,"Tory Acheson","OVC","28-30-0",0.483
+"16",2009,"Tory Acheson","OVC","26-31-0",0.456
+"17",2008,"Tory Acheson","OVC","32-30-1",0.516
+"18",2007,"Tory Acheson","OVC","50-19-0",0.725
+"19",2006,"Tory Acheson","OVC","50-15-0",0.769
+"20",2005,"Tory Acheson","OVC","35-28-0",0.556
+"21",2004,"Tory Acheson","OVC","44-25-0",0.638
+"22",2003,"Tory Acheson","OVC","41-16-0",0.719
+"23",2002,"Tory Acheson","OVC","36-23-0",0.61
+"24",2001,"Tory Acheson","OVC","44-20-0",0.688
+"25",2000,"Tory Acheson","OVC","40-35-0",0.533
+"26",1999,"Tory Acheson","OVC","32-22-0",0.593
+"27",1998,"Bobby Holloway","-","20-17-0",0.541
+"28",1997,"Bobby Holloway","OVC","36-13-0",0.735
+"29",1996,"Bobby Holloway","-","26-22-0",0.542
+"30",1995,"Bobby Holloway","-","33-25-0",0.569
+"31",1994,"Bobby Holloway","-","31-16-0",0.66
+"32",1993,"Bobby Holloway","-","26-19-0",0.578
+"33",1992,"Bobby Holloway","-","27-12-0",0.692
+"34",1991,"Bobby Holloway","-","24-20-0",0.545
+"35",1990,"Bobby Holloway","-","20-20-0",0.5
+"36",1989,"Bobby Holloway","-","14-25-1",0.359
+"37",1988,"Bobby Holloway","-","9-22-0",0.29
+"38",1987,"","-","0-0-0",NA
+"39",1986,"","-","0-0-0",NA

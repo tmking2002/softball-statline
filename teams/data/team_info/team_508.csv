@@ -1,43 +1,43 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",1,41,2024,"Lacy Prejean","Southland","5-8-0",0.384615384615385
-"2",2,0,2024,"Lacy Prejean","Southland","5-8-0",0.384615384615385
-"3",3,1,2023,"Donald Pickett","Southland","25-27-0",0.481
-"4",4,2,2022,"Donald Pickett","Southland","29-22-0",0.569
-"5",5,3,2021,"Donald Pickett","Southland","24-22-0",0.522
-"6",6,4,2020,"Donald Pickett","Southland","15-7-0",0.682
-"7",7,5,2019,"Donald Pickett","Southland","30-27-0",0.526
-"8",8,6,2018,"Donald Pickett","Southland","28-25-0",0.528
-"9",9,7,2017,"Donald Pickett","Southland","23-33-1",0.411
-"10",10,8,2016,"Donald Pickett","Southland","27-25-0",0.519
-"11",11,9,2015,"Donald Pickett","Southland","36-18-0",0.667
-"12",12,10,2014,"Donald Pickett","Southland","30-22-0",0.577
-"13",13,11,2013,"Donald Pickett","Southland","40-15-0",0.727
-"14",14,12,2012,"Donald Pickett","Southland","19-31-0",0.38
-"15",15,13,2011,"Donald Pickett","Southland","32-25-0",0.561
-"16",16,14,2010,"Donald Pickett","Southland","27-27-0",0.5
-"17",17,15,2009,"Donald Pickett","Southland","5-45-0",0.1
-"18",18,16,2008,"Becky McMurtry","Southland","10-45-0",0.182
-"19",19,17,2007,"Becky McMurtry","Southland","29-29-0",0.5
-"20",20,18,2006,"Becky McMurtry","Southland","28-32-0",0.467
-"21",21,19,2005,"Mike Perniciaro","Southland","35-28-0",0.556
-"22",22,20,2004,"Eileen Schmidt","Southland","35-28-0",0.556
-"23",23,21,2003,"Eileen Schmidt","Southland","27-33-0",0.45
-"24",24,22,2002,"Ty Singleton","Southland","45-25-0",0.643
-"25",25,23,2001,"Ty Singleton","Southland","30-20-0",0.6
-"26",26,24,2000,"Gay McNutt","Southland","41-19-0",0.683
-"27",27,25,1999,"Gay McNutt","Southland","31-26-0",0.544
-"28",28,26,1998,"Gay McNutt","-","40-18-0",0.69
-"29",29,27,1997,"Gay McNutt","Southland","26-29-0",0.473
-"30",30,28,1996,"Gay McNutt","-","10-41-0",0.196
-"31",31,29,1995,"Gay McNutt","-","13-37-0",0.26
-"32",32,30,1994,"Rickey McCalister","-","17-42-0",0.288
-"33",33,31,1993,"Rickey McCalister","-","25-28-0",0.472
-"34",34,32,1992,"Rickey McCalister","-","37-21-1",0.638
-"35",35,33,1991,"Rickey McCalister","-","44-18-1",0.71
-"36",36,34,1990,"Rickey McCalister","-","43-17-0",0.717
-"37",37,35,1989,"Rickey McCalister","-","32-29-0",0.525
-"38",38,36,1988,"Rickey McCalister","-","25-24-0",0.51
-"39",39,37,1987,"Rickey McCalister","-","22-20-0",0.524
-"40",40,38,1986,"","-","0-0-0",NA
-"41",41,39,1984,"","-","0-0-0",NA
-"42",42,40,1982,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Lacy Prejean","Southland","5-8-0",0.384615384615385
+"2",2024,"Lacy Prejean","Southland","5-8-0",0.384615384615385
+"3",2023,"Donald Pickett","Southland","25-27-0",0.481
+"4",2022,"Donald Pickett","Southland","29-22-0",0.569
+"5",2021,"Donald Pickett","Southland","24-22-0",0.522
+"6",2020,"Donald Pickett","Southland","15-7-0",0.682
+"7",2019,"Donald Pickett","Southland","30-27-0",0.526
+"8",2018,"Donald Pickett","Southland","28-25-0",0.528
+"9",2017,"Donald Pickett","Southland","23-33-1",0.411
+"10",2016,"Donald Pickett","Southland","27-25-0",0.519
+"11",2015,"Donald Pickett","Southland","36-18-0",0.667
+"12",2014,"Donald Pickett","Southland","30-22-0",0.577
+"13",2013,"Donald Pickett","Southland","40-15-0",0.727
+"14",2012,"Donald Pickett","Southland","19-31-0",0.38
+"15",2011,"Donald Pickett","Southland","32-25-0",0.561
+"16",2010,"Donald Pickett","Southland","27-27-0",0.5
+"17",2009,"Donald Pickett","Southland","5-45-0",0.1
+"18",2008,"Becky McMurtry","Southland","10-45-0",0.182
+"19",2007,"Becky McMurtry","Southland","29-29-0",0.5
+"20",2006,"Becky McMurtry","Southland","28-32-0",0.467
+"21",2005,"Mike Perniciaro","Southland","35-28-0",0.556
+"22",2004,"Eileen Schmidt","Southland","35-28-0",0.556
+"23",2003,"Eileen Schmidt","Southland","27-33-0",0.45
+"24",2002,"Ty Singleton","Southland","45-25-0",0.643
+"25",2001,"Ty Singleton","Southland","30-20-0",0.6
+"26",2000,"Gay McNutt","Southland","41-19-0",0.683
+"27",1999,"Gay McNutt","Southland","31-26-0",0.544
+"28",1998,"Gay McNutt","-","40-18-0",0.69
+"29",1997,"Gay McNutt","Southland","26-29-0",0.473
+"30",1996,"Gay McNutt","-","10-41-0",0.196
+"31",1995,"Gay McNutt","-","13-37-0",0.26
+"32",1994,"Rickey McCalister","-","17-42-0",0.288
+"33",1993,"Rickey McCalister","-","25-28-0",0.472
+"34",1992,"Rickey McCalister","-","37-21-1",0.638
+"35",1991,"Rickey McCalister","-","44-18-1",0.71
+"36",1990,"Rickey McCalister","-","43-17-0",0.717
+"37",1989,"Rickey McCalister","-","32-29-0",0.525
+"38",1988,"Rickey McCalister","-","25-24-0",0.51
+"39",1987,"Rickey McCalister","-","22-20-0",0.524
+"40",1986,"","-","0-0-0",NA
+"41",1984,"","-","0-0-0",NA
+"42",1982,"","-","0-0-0",NA

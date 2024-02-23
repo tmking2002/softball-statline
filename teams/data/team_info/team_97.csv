@@ -1,46 +1,46 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Kelly Ford","Big West","7-3-0",0.7
-"2",3,1,2023,"Kelly Ford","Big West","34-21-0",0.618
-"3",4,2,2022,"Kelly Ford","Big West","37-22-0",0.627
-"4",5,3,2021,"Kelly Ford","Big West","38-15-0",0.717
-"5",6,4,2020,"Kelly Ford","Big West","14-10-0",0.583
-"6",7,5,2019,"Kelly Ford","Big West","38-18-0",0.679
-"7",8,6,2018,"Kelly Ford","Big West","35-25-0",0.583
-"8",9,7,2017,"Kelly Ford","Big West","35-23-0",0.603
-"9",10,8,2016,"Kelly Ford","Big West","45-16-0",0.738
-"10",11,9,2015,"Kelly Ford","Big West","34-22-0",0.607
-"11",12,10,2014,"Kelly Ford","Big West","33-21-1",0.611
-"12",13,11,2013,"Kelly Ford","Big West","28-28-0",0.5
-"13",14,12,2012,"Michelle Gromacki","Big West","20-31-0",0.392
-"14",15,13,2011,"Michelle Gromacki","Big West","23-24-0",0.489
-"15",16,14,2010,"Michelle Gromacki","Big West","14-39-0",0.264
-"16",17,15,2009,"Michelle Gromacki","Big West","30-21-0",0.588
-"17",18,16,2008,"Michelle Gromacki","Big West","27-28-1",0.491
-"18",19,17,2007,"Michelle Gromacki","Big West","38-23-0",0.623
-"19",20,18,2006,"Michelle Gromacki","Big West","37-24-0",0.607
-"20",21,19,2005,"Michelle Gromacki","Big West","30-21-0",0.588
-"21",22,20,2004,"Michelle Gromacki","Big West","18-34-0",0.346
-"22",23,21,2003,"Michelle Gromacki","Big West","41-15-0",0.732
-"23",24,22,2002,"Michelle Gromacki","Big West","53-13-0",0.803
-"24",25,23,2001,"Michelle Gromacki","Big West","48-14-0",0.774
-"25",26,24,2000,"Michelle Gromacki","Big West","45-15-0",0.75
-"26",27,25,1999,"Judi Garman","Big West","36-29-0",0.554
-"27",28,26,1998,"Judi Garman","-","32-29-0",0.525
-"28",29,27,1997,"Judi Garman","Big West","29-26-0",0.527
-"29",30,28,1996,"Judi Garman","-","41-28-0",0.594
-"30",31,29,1995,"Judi Garman","-","46-17-0",0.73
-"31",32,30,1994,"Judi Garman","-","35-29-0",0.547
-"32",33,31,1993,"Judi Garman","-","37-21-0",0.638
-"33",34,32,1992,"Judi Garman","-","45-20-0",0.692
-"34",35,33,1991,"Judi Garman","-","52-16-1",0.765
-"35",36,34,1990,"Judi Garman","-","45-23-0",0.662
-"36",37,35,1989,"Judi Garman","-","47-15-0",0.758
-"37",38,36,1988,"Judi Garman","-","52-20-0",0.722
-"38",39,37,1987,"Judi Garman","-","59-10-0",0.855
-"39",40,38,1986,"Judi Garman","-","57-9-1",0.864
-"40",41,39,1985,"Judi Garman","-","54-10-0",0.844
-"41",42,40,1984,"Judi Garman","-","54-12-0",0.818
-"42",43,41,1983,"Judi Garman","-","56-15-0",0.789
-"43",44,42,1982,"Judi Garman","-","55-6-2",0.902
-"44",45,43,1981,"Judi Garman","-","51-14-0",0.785
-"45",46,44,1980,"Judi Garman","-","30-25-0",0.545
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Kelly Ford","Big West","7-3-0",0.7
+"2",2023,"Kelly Ford","Big West","34-21-0",0.618
+"3",2022,"Kelly Ford","Big West","37-22-0",0.627
+"4",2021,"Kelly Ford","Big West","38-15-0",0.717
+"5",2020,"Kelly Ford","Big West","14-10-0",0.583
+"6",2019,"Kelly Ford","Big West","38-18-0",0.679
+"7",2018,"Kelly Ford","Big West","35-25-0",0.583
+"8",2017,"Kelly Ford","Big West","35-23-0",0.603
+"9",2016,"Kelly Ford","Big West","45-16-0",0.738
+"10",2015,"Kelly Ford","Big West","34-22-0",0.607
+"11",2014,"Kelly Ford","Big West","33-21-1",0.611
+"12",2013,"Kelly Ford","Big West","28-28-0",0.5
+"13",2012,"Michelle Gromacki","Big West","20-31-0",0.392
+"14",2011,"Michelle Gromacki","Big West","23-24-0",0.489
+"15",2010,"Michelle Gromacki","Big West","14-39-0",0.264
+"16",2009,"Michelle Gromacki","Big West","30-21-0",0.588
+"17",2008,"Michelle Gromacki","Big West","27-28-1",0.491
+"18",2007,"Michelle Gromacki","Big West","38-23-0",0.623
+"19",2006,"Michelle Gromacki","Big West","37-24-0",0.607
+"20",2005,"Michelle Gromacki","Big West","30-21-0",0.588
+"21",2004,"Michelle Gromacki","Big West","18-34-0",0.346
+"22",2003,"Michelle Gromacki","Big West","41-15-0",0.732
+"23",2002,"Michelle Gromacki","Big West","53-13-0",0.803
+"24",2001,"Michelle Gromacki","Big West","48-14-0",0.774
+"25",2000,"Michelle Gromacki","Big West","45-15-0",0.75
+"26",1999,"Judi Garman","Big West","36-29-0",0.554
+"27",1998,"Judi Garman","-","32-29-0",0.525
+"28",1997,"Judi Garman","Big West","29-26-0",0.527
+"29",1996,"Judi Garman","-","41-28-0",0.594
+"30",1995,"Judi Garman","-","46-17-0",0.73
+"31",1994,"Judi Garman","-","35-29-0",0.547
+"32",1993,"Judi Garman","-","37-21-0",0.638
+"33",1992,"Judi Garman","-","45-20-0",0.692
+"34",1991,"Judi Garman","-","52-16-1",0.765
+"35",1990,"Judi Garman","-","45-23-0",0.662
+"36",1989,"Judi Garman","-","47-15-0",0.758
+"37",1988,"Judi Garman","-","52-20-0",0.722
+"38",1987,"Judi Garman","-","59-10-0",0.855
+"39",1986,"Judi Garman","-","57-9-1",0.864
+"40",1985,"Judi Garman","-","54-10-0",0.844
+"41",1984,"Judi Garman","-","54-12-0",0.818
+"42",1983,"Judi Garman","-","56-15-0",0.789
+"43",1982,"Judi Garman","-","55-6-2",0.902
+"44",1981,"Judi Garman","-","51-14-0",0.785
+"45",1980,"Judi Garman","-","30-25-0",0.545

@@ -1,44 +1,44 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",1,0,2024,"Bonnie Tholl","Big Ten","7-3-0",0.7
-"2",2,1,2023,"Bonnie Tholl","Big Ten","26-25-0",0.51
-"3",3,2,2022,"Carol Hutchins","Big Ten","38-18-0",0.679
-"4",4,3,2021,"Carol Hutchins","Big Ten","38-8-0",0.826
-"5",5,4,2020,"Carol Hutchins","Big Ten","15-8-0",0.652
-"6",6,5,2019,"Carol Hutchins","Big Ten","45-13-0",0.776
-"7",7,6,2018,"Carol Hutchins","Big Ten","44-13-0",0.772
-"8",8,7,2017,"Carol Hutchins","Big Ten","43-13-1",0.768
-"9",9,8,2016,"Carol Hutchins","Big Ten","52-7-0",0.881
-"10",10,9,2015,"Carol Hutchins","Big Ten","60-9-0",0.87
-"11",11,10,2014,"Carol Hutchins","Big Ten","47-15-0",0.758
-"12",12,11,2013,"Carol Hutchins","Big Ten","51-13-0",0.797
-"13",13,12,2012,"Carol Hutchins","Big Ten","42-17-0",0.712
-"14",14,13,2011,"Carol Hutchins","Big Ten","53-6-0",0.898
-"15",15,14,2010,"Carol Hutchins","Big Ten","49-8-0",0.86
-"16",16,15,2009,"Carol Hutchins","Big Ten","47-12-0",0.797
-"17",17,16,2008,"Carol Hutchins","Big Ten","52-8-0",0.867
-"18",18,17,2007,"Carol Hutchins","Big Ten","47-13-0",0.783
-"19",19,18,2006,"Carol Hutchins","Big Ten","44-15-0",0.746
-"20",20,19,2005,"Carol Hutchins","Big Ten","65-7-0",0.903
-"21",21,20,2004,"Carol Hutchins","Big Ten","54-13-0",0.806
-"22",22,21,2003,"Carol Hutchins","Big Ten","44-16-0",0.733
-"23",23,22,2002,"Carol Hutchins","Big Ten","50-11-0",0.82
-"24",24,23,2001,"Carol Hutchins","Big Ten","43-17-1",0.717
-"25",25,24,2000,"Carol Hutchins","Big Ten","45-16-1",0.738
-"26",26,25,1999,"Carol Hutchins","Big Ten","51-13-1",0.797
-"27",27,26,1998,"Carol Hutchins","-","56-7-0",0.889
-"28",28,27,1997,"Carol Hutchins","Big Ten","56-16-1",0.778
-"29",29,28,1996,"Carol Hutchins","-","51-14-0",0.785
-"30",30,29,1995,"Carol Hutchins","-","50-12-0",0.806
-"31",31,30,1994,"Carol Hutchins","-","34-26-0",0.567
-"32",32,31,1993,"Carol Hutchins","-","46-13-0",0.78
-"33",33,32,1992,"Carol Hutchins","-","37-24-0",0.607
-"34",34,33,1991,"Carol Hutchins","-","36-19-0",0.655
-"35",35,34,1990,"Carol Hutchins","-","29-27-0",0.518
-"36",36,35,1989,"Carol Hutchins","-","42-20-0",0.677
-"37",37,36,1988,"Carol Hutchins","-","29-20-0",0.592
-"38",38,37,1987,"Carol Hutchins","-","39-17-0",0.696
-"39",39,38,1986,"Carol Hutchins","-","32-17-0",0.653
-"40",40,39,1985,"Carol Hutchins","-","28-20-0",0.583
-"41",41,40,1984,"","-","0-0-0",NA
-"42",42,41,1983,"","-","0-0-0",NA
-"43",43,42,1982,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Bonnie Tholl","Big Ten","7-3-0",0.7
+"2",2023,"Bonnie Tholl","Big Ten","26-25-0",0.51
+"3",2022,"Carol Hutchins","Big Ten","38-18-0",0.679
+"4",2021,"Carol Hutchins","Big Ten","38-8-0",0.826
+"5",2020,"Carol Hutchins","Big Ten","15-8-0",0.652
+"6",2019,"Carol Hutchins","Big Ten","45-13-0",0.776
+"7",2018,"Carol Hutchins","Big Ten","44-13-0",0.772
+"8",2017,"Carol Hutchins","Big Ten","43-13-1",0.768
+"9",2016,"Carol Hutchins","Big Ten","52-7-0",0.881
+"10",2015,"Carol Hutchins","Big Ten","60-9-0",0.87
+"11",2014,"Carol Hutchins","Big Ten","47-15-0",0.758
+"12",2013,"Carol Hutchins","Big Ten","51-13-0",0.797
+"13",2012,"Carol Hutchins","Big Ten","42-17-0",0.712
+"14",2011,"Carol Hutchins","Big Ten","53-6-0",0.898
+"15",2010,"Carol Hutchins","Big Ten","49-8-0",0.86
+"16",2009,"Carol Hutchins","Big Ten","47-12-0",0.797
+"17",2008,"Carol Hutchins","Big Ten","52-8-0",0.867
+"18",2007,"Carol Hutchins","Big Ten","47-13-0",0.783
+"19",2006,"Carol Hutchins","Big Ten","44-15-0",0.746
+"20",2005,"Carol Hutchins","Big Ten","65-7-0",0.903
+"21",2004,"Carol Hutchins","Big Ten","54-13-0",0.806
+"22",2003,"Carol Hutchins","Big Ten","44-16-0",0.733
+"23",2002,"Carol Hutchins","Big Ten","50-11-0",0.82
+"24",2001,"Carol Hutchins","Big Ten","43-17-1",0.717
+"25",2000,"Carol Hutchins","Big Ten","45-16-1",0.738
+"26",1999,"Carol Hutchins","Big Ten","51-13-1",0.797
+"27",1998,"Carol Hutchins","-","56-7-0",0.889
+"28",1997,"Carol Hutchins","Big Ten","56-16-1",0.778
+"29",1996,"Carol Hutchins","-","51-14-0",0.785
+"30",1995,"Carol Hutchins","-","50-12-0",0.806
+"31",1994,"Carol Hutchins","-","34-26-0",0.567
+"32",1993,"Carol Hutchins","-","46-13-0",0.78
+"33",1992,"Carol Hutchins","-","37-24-0",0.607
+"34",1991,"Carol Hutchins","-","36-19-0",0.655
+"35",1990,"Carol Hutchins","-","29-27-0",0.518
+"36",1989,"Carol Hutchins","-","42-20-0",0.677
+"37",1988,"Carol Hutchins","-","29-20-0",0.592
+"38",1987,"Carol Hutchins","-","39-17-0",0.696
+"39",1986,"Carol Hutchins","-","32-17-0",0.653
+"40",1985,"Carol Hutchins","-","28-20-0",0.583
+"41",1984,"","-","0-0-0",NA
+"42",1983,"","-","0-0-0",NA
+"43",1982,"","-","0-0-0",NA

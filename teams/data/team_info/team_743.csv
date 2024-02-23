@@ -1,31 +1,31 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Jameshia Smith","CIAA","4-1-0",0.8
-"2",3,1,2023,"Jameshia Smith","CIAA","12-18-0",0.4
-"3",4,2,2022,"Jameshia Smith","CIAA","20-13-0",0.606
-"4",5,3,2021,"Jameshia Smith","CIAA","0-0-0",NA
-"5",6,4,2020,"Lynne Gilbert","CIAA","3-13-0",0.188
-"6",7,5,2019,"Lynne Gilbert","CIAA","17-22-0",0.436
-"7",8,6,2018,"Lynne Gilbert","CIAA","15-16-0",0.484
-"8",9,7,2017,"LaTasha Branch","CIAA","11-23-0",0.324
-"9",10,8,2016,"LaTasha Branch","CIAA","14-22-0",0.389
-"10",11,9,2015,"LaTasha Branch","CIAA","14-18-0",0.438
-"11",12,10,2014,"LaTasha Branch","CIAA","20-8-0",0.714
-"12",13,11,2013,"Torrie Lashley","CIAA","20-20-0",0.5
-"13",14,12,2012,"Torrie Lashley","CIAA","20-21-0",0.488
-"14",15,13,2011,"Torrie Lashley","CIAA","21-15-0",0.583
-"15",16,14,2010,"Torrie Lashley","CIAA","17-20-0",0.459
-"16",17,15,2009,"Torrie Lashley","CIAA","21-12-0",0.636
-"17",18,16,2008,"Torrie Lashley","CIAA","23-15-0",0.605
-"18",19,17,2007,"Torrie Lashley","CIAA","23-16-0",0.59
-"19",20,18,2006,"Shervi Barnes","CIAA","14-18-0",0.438
-"20",21,19,2005,"Michael Winbush","CIAA","17-14-0",0.548
-"21",22,20,2004,"","CIAA","20-24-0",0.455
-"22",23,21,2003,"","CIAA","21-14-0",0.6
-"23",24,22,2002,"","-","0-0-0",NA
-"24",25,23,2001,"Shonda Pegram","-","13-24-0",0.351
-"25",26,24,2000,"Keri Cobb","-","16-15-0",0.516
-"26",27,25,1999,"Shervi Barnes","-","24-11-0",0.686
-"27",28,26,1998,"Reva Green","-","22-9-0",0.71
-"28",29,27,1997,"Bertha Cummings","-","14-13-0",0.519
-"29",30,28,1996,"Bertha Cummings","-","14-13-0",0.519
-"30",31,29,1986,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Jameshia Smith","CIAA","4-1-0",0.8
+"2",2023,"Jameshia Smith","CIAA","12-18-0",0.4
+"3",2022,"Jameshia Smith","CIAA","20-13-0",0.606
+"4",2021,"Jameshia Smith","CIAA","0-0-0",NA
+"5",2020,"Lynne Gilbert","CIAA","3-13-0",0.188
+"6",2019,"Lynne Gilbert","CIAA","17-22-0",0.436
+"7",2018,"Lynne Gilbert","CIAA","15-16-0",0.484
+"8",2017,"LaTasha Branch","CIAA","11-23-0",0.324
+"9",2016,"LaTasha Branch","CIAA","14-22-0",0.389
+"10",2015,"LaTasha Branch","CIAA","14-18-0",0.438
+"11",2014,"LaTasha Branch","CIAA","20-8-0",0.714
+"12",2013,"Torrie Lashley","CIAA","20-20-0",0.5
+"13",2012,"Torrie Lashley","CIAA","20-21-0",0.488
+"14",2011,"Torrie Lashley","CIAA","21-15-0",0.583
+"15",2010,"Torrie Lashley","CIAA","17-20-0",0.459
+"16",2009,"Torrie Lashley","CIAA","21-12-0",0.636
+"17",2008,"Torrie Lashley","CIAA","23-15-0",0.605
+"18",2007,"Torrie Lashley","CIAA","23-16-0",0.59
+"19",2006,"Shervi Barnes","CIAA","14-18-0",0.438
+"20",2005,"Michael Winbush","CIAA","17-14-0",0.548
+"21",2004,"","CIAA","20-24-0",0.455
+"22",2003,"","CIAA","21-14-0",0.6
+"23",2002,"","-","0-0-0",NA
+"24",2001,"Shonda Pegram","-","13-24-0",0.351
+"25",2000,"Keri Cobb","-","16-15-0",0.516
+"26",1999,"Shervi Barnes","-","24-11-0",0.686
+"27",1998,"Reva Green","-","22-9-0",0.71
+"28",1997,"Bertha Cummings","-","14-13-0",0.519
+"29",1996,"Bertha Cummings","-","14-13-0",0.519
+"30",1986,"","-","0-0-0",NA

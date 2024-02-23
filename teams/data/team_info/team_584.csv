@@ -1,39 +1,39 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",1,37,2024,"Christine Roser-LeFevers","Sunshine State","3-4-0",0.428571428571429
-"2",2,0,2024,"Christine Roser-LeFevers","Sunshine State","3-4-0",0.428571428571429
-"3",3,1,2023,"Christine Roser-LeFevers","Sunshine State","32-17-0",0.653
-"4",4,2,2022,"Christine Roser-LeFevers","Sunshine State","32-12-0",0.727
-"5",5,3,2021,"Michelle Frew","Sunshine State","21-4-0",0.84
-"6",6,4,2020,"Michelle Frew","Sunshine State","21-3-0",0.875
-"7",7,5,2019,"Michelle Frew","Sunshine State","38-11-0",0.776
-"8",8,6,2018,"Michelle Frew","Sunshine State","27-24-0",0.529
-"9",9,7,2017,"Michelle Frew","Sunshine State","29-24-0",0.547
-"10",10,8,2016,"Michelle Frew","Sunshine State","40-16-1",0.714
-"11",11,9,2015,"Michelle Frew","Sunshine State","38-13-0",0.745
-"12",12,10,2014,"Michelle Frew","Sunshine State","39-13-0",0.75
-"13",13,11,2013,"Michelle Frew","Sunshine State","44-8-0",0.846
-"14",14,12,2012,"Michelle Frew","Sunshine State","43-11-0",0.796
-"15",15,13,2011,"Michelle Frew","Sunshine State","45-4-0",0.918
-"16",16,14,2010,"Michelle Frew","Sunshine State","45-6-0",0.882
-"17",17,15,2009,"Michelle Frew","Sunshine State","47-10-0",0.825
-"18",18,16,2008,"Michelle Frew","Sunshine State","39-16-0",0.709
-"19",19,17,2007,"Michelle Frew","Sunshine State","41-17-0",0.707
-"20",20,18,2006,"Michelle Frew","Sunshine State","45-16-0",0.738
-"21",21,19,2005,"Michelle Frew","Sunshine State","33-18-0",0.647
-"22",22,20,2004,"Michelle Frew","Sunshine State","42-16-0",0.724
-"23",23,21,2003,"Michelle Frew","Sunshine State","34-18-0",0.654
-"24",24,22,2002,"Michelle Frew","Sunshine State","36-14-0",0.72
-"25",25,23,2001,"Michelle Frew","-","32-18-0",0.64
-"26",26,24,2000,"Michelle Frew","-","15-31-0",0.326
-"27",27,25,1999,"Jennifer Mitchell","-","21-28-0",0.429
-"28",28,26,1998,"Michelle Frew","-","34-13-0",0.723
-"29",29,27,1997,"Michelle Frew","-","28-16-0",0.636
-"30",30,28,1996,"Michelle Frew","-","22-27-0",0.449
-"31",31,29,1995,"Sandra Carter","-","5-32-0",0.135
-"32",32,30,1994,"Mark Headrick","-","1-21-0",0.045
-"33",33,31,1993,"Mark Headrick","-","2-25-0",0.074
-"34",34,32,1992,"Suzanne Patterson","-","5-29-0",0.147
-"35",35,33,1991,"Suzanne Patterson","-","7-25-0",0.219
-"36",36,34,1990,"Suzanne Patterson","-","17-22-0",0.436
-"37",37,35,1989,"Suzanne Patterson","-","4-26-0",0.133
-"38",38,36,1988,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Christine Roser-LeFevers","Sunshine State","3-4-0",0.428571428571429
+"2",2024,"Christine Roser-LeFevers","Sunshine State","3-4-0",0.428571428571429
+"3",2023,"Christine Roser-LeFevers","Sunshine State","32-17-0",0.653
+"4",2022,"Christine Roser-LeFevers","Sunshine State","32-12-0",0.727
+"5",2021,"Michelle Frew","Sunshine State","21-4-0",0.84
+"6",2020,"Michelle Frew","Sunshine State","21-3-0",0.875
+"7",2019,"Michelle Frew","Sunshine State","38-11-0",0.776
+"8",2018,"Michelle Frew","Sunshine State","27-24-0",0.529
+"9",2017,"Michelle Frew","Sunshine State","29-24-0",0.547
+"10",2016,"Michelle Frew","Sunshine State","40-16-1",0.714
+"11",2015,"Michelle Frew","Sunshine State","38-13-0",0.745
+"12",2014,"Michelle Frew","Sunshine State","39-13-0",0.75
+"13",2013,"Michelle Frew","Sunshine State","44-8-0",0.846
+"14",2012,"Michelle Frew","Sunshine State","43-11-0",0.796
+"15",2011,"Michelle Frew","Sunshine State","45-4-0",0.918
+"16",2010,"Michelle Frew","Sunshine State","45-6-0",0.882
+"17",2009,"Michelle Frew","Sunshine State","47-10-0",0.825
+"18",2008,"Michelle Frew","Sunshine State","39-16-0",0.709
+"19",2007,"Michelle Frew","Sunshine State","41-17-0",0.707
+"20",2006,"Michelle Frew","Sunshine State","45-16-0",0.738
+"21",2005,"Michelle Frew","Sunshine State","33-18-0",0.647
+"22",2004,"Michelle Frew","Sunshine State","42-16-0",0.724
+"23",2003,"Michelle Frew","Sunshine State","34-18-0",0.654
+"24",2002,"Michelle Frew","Sunshine State","36-14-0",0.72
+"25",2001,"Michelle Frew","-","32-18-0",0.64
+"26",2000,"Michelle Frew","-","15-31-0",0.326
+"27",1999,"Jennifer Mitchell","-","21-28-0",0.429
+"28",1998,"Michelle Frew","-","34-13-0",0.723
+"29",1997,"Michelle Frew","-","28-16-0",0.636
+"30",1996,"Michelle Frew","-","22-27-0",0.449
+"31",1995,"Sandra Carter","-","5-32-0",0.135
+"32",1994,"Mark Headrick","-","1-21-0",0.045
+"33",1993,"Mark Headrick","-","2-25-0",0.074
+"34",1992,"Suzanne Patterson","-","5-29-0",0.147
+"35",1991,"Suzanne Patterson","-","7-25-0",0.219
+"36",1990,"Suzanne Patterson","-","17-22-0",0.436
+"37",1989,"Suzanne Patterson","-","4-26-0",0.133
+"38",1988,"","-","0-0-0",NA

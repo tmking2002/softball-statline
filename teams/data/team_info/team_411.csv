@@ -1,40 +1,40 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",2,0,2024,"Amy Weaver","MAC Commonwealth","0-2-0",0
-"2",3,1,2023,"Amy Weaver","MAC Commonwealth","29-13-0",0.69
-"3",4,2,2022,"Amy Weaver","MAC Commonwealth","29-15-0",0.659
-"4",5,3,2021,"Amy Weaver","MAC Commonwealth","16-12-0",0.571
-"5",6,4,2020,"Amy Weaver","MAC Commonwealth","3-5-0",0.375
-"6",7,5,2019,"Amy Weaver","MAC Commonwealth","18-20-0",0.474
-"7",8,6,2018,"Amy Weaver","MAC Commonwealth","26-18-0",0.591
-"8",9,7,2017,"Amy Weaver","MAC Commonwealth","35-10-0",0.778
-"9",10,8,2016,"Amy Weaver","MAC Commonwealth","47-6-0",0.887
-"10",11,9,2015,"Amy Weaver","MAC Commonwealth","31-9-0",0.775
-"11",12,10,2014,"Amy Weaver","MAC Commonwealth","29-11-0",0.725
-"12",13,11,2013,"Amy Weaver","MAC Commonwealth","22-15-0",0.595
-"13",14,12,2012,"Amy Weaver","MAC Commonwealth","35-10-0",0.778
-"14",15,13,2011,"Amy Weaver","MAC Commonwealth","39-7-0",0.848
-"15",16,14,2010,"Amy Weaver","MAC Commonwealth","38-9-0",0.809
-"16",17,15,2009,"Amy Weaver","MAC Commonwealth","43-4-0",0.915
-"17",18,16,2008,"Amy Weaver","MAC Commonwealth","22-21-0",0.512
-"18",19,17,2007,"Amy Weaver","MAC Commonwealth","24-15-0",0.615
-"19",20,18,2006,"Amy Weaver","MAC Commonwealth","22-18-0",0.55
-"20",21,19,2005,"Amy Weaver","MAC Commonwealth","16-22-0",0.421
-"21",22,20,2004,"Amy Weaver","MAC Commonwealth","17-16-1",0.515
-"22",23,21,2003,"Amy Weaver","MAC Commonwealth","23-17-0",0.575
-"23",24,22,2002,"Amy Weaver","MAC Commonwealth","21-19-0",0.525
-"24",25,23,2001,"Amy Weaver","-","23-21-0",0.523
-"25",26,24,2000,"Amy Weaver","-","15-20-0",0.429
-"26",27,25,1999,"Amy Weaver","-","39-9-0",0.812
-"27",28,26,1998,"Amy Weaver","-","35-10-0",0.778
-"28",29,27,1997,"Paul Crist (27-11)Jill Starliper (27-11)","-","27-11-0",0.711
-"29",30,28,1996,"Cindee Trapp","-","30-8-0",0.789
-"30",31,29,1995,"Steve Linger","-","23-11-0",0.676
-"31",32,30,1994,"Steve Linger","-","31-5-0",0.861
-"32",33,31,1993,"","-","0-0-0",NA
-"33",34,32,1992,"","-","0-0-0",NA
-"34",35,33,1991,"","-","0-0-0",NA
-"35",36,34,1990,"","-","0-0-0",NA
-"36",37,35,1989,"","-","0-0-0",NA
-"37",38,36,1988,"","-","0-0-0",NA
-"38",39,37,1987,"","-","0-0-0",NA
-"39",40,38,1985,"","-","0-0-0",NA
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Amy Weaver","MAC Commonwealth","0-2-0",0
+"2",2023,"Amy Weaver","MAC Commonwealth","29-13-0",0.69
+"3",2022,"Amy Weaver","MAC Commonwealth","29-15-0",0.659
+"4",2021,"Amy Weaver","MAC Commonwealth","16-12-0",0.571
+"5",2020,"Amy Weaver","MAC Commonwealth","3-5-0",0.375
+"6",2019,"Amy Weaver","MAC Commonwealth","18-20-0",0.474
+"7",2018,"Amy Weaver","MAC Commonwealth","26-18-0",0.591
+"8",2017,"Amy Weaver","MAC Commonwealth","35-10-0",0.778
+"9",2016,"Amy Weaver","MAC Commonwealth","47-6-0",0.887
+"10",2015,"Amy Weaver","MAC Commonwealth","31-9-0",0.775
+"11",2014,"Amy Weaver","MAC Commonwealth","29-11-0",0.725
+"12",2013,"Amy Weaver","MAC Commonwealth","22-15-0",0.595
+"13",2012,"Amy Weaver","MAC Commonwealth","35-10-0",0.778
+"14",2011,"Amy Weaver","MAC Commonwealth","39-7-0",0.848
+"15",2010,"Amy Weaver","MAC Commonwealth","38-9-0",0.809
+"16",2009,"Amy Weaver","MAC Commonwealth","43-4-0",0.915
+"17",2008,"Amy Weaver","MAC Commonwealth","22-21-0",0.512
+"18",2007,"Amy Weaver","MAC Commonwealth","24-15-0",0.615
+"19",2006,"Amy Weaver","MAC Commonwealth","22-18-0",0.55
+"20",2005,"Amy Weaver","MAC Commonwealth","16-22-0",0.421
+"21",2004,"Amy Weaver","MAC Commonwealth","17-16-1",0.515
+"22",2003,"Amy Weaver","MAC Commonwealth","23-17-0",0.575
+"23",2002,"Amy Weaver","MAC Commonwealth","21-19-0",0.525
+"24",2001,"Amy Weaver","-","23-21-0",0.523
+"25",2000,"Amy Weaver","-","15-20-0",0.429
+"26",1999,"Amy Weaver","-","39-9-0",0.812
+"27",1998,"Amy Weaver","-","35-10-0",0.778
+"28",1997,"Paul Crist (27-11)Jill Starliper (27-11)","-","27-11-0",0.711
+"29",1996,"Cindee Trapp","-","30-8-0",0.789
+"30",1995,"Steve Linger","-","23-11-0",0.676
+"31",1994,"Steve Linger","-","31-5-0",0.861
+"32",1993,"","-","0-0-0",NA
+"33",1992,"","-","0-0-0",NA
+"34",1991,"","-","0-0-0",NA
+"35",1990,"","-","0-0-0",NA
+"36",1989,"","-","0-0-0",NA
+"37",1988,"","-","0-0-0",NA
+"38",1987,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA

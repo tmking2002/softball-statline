@@ -1,44 +1,44 @@
-"","X.1","X","season","head_coach","conference","record","win_perc"
-"1",1,42,2024,"Katie Grimes","Sunshine State","0-7-0",0
-"2",2,0,2024,"Katie Grimes","Sunshine State","0-7-0",0
-"3",3,1,2023,"Katie Grimes","Sunshine State","21-26-0",0.447
-"4",4,2,2022,"Katie Grimes","Sunshine State","18-26-0",0.409
-"5",5,3,2021,"Katie Grimes","Sunshine State","0-0-0",NA
-"6",6,4,2020,"Katie Grimes","Sunshine State","9-13-0",0.409
-"7",7,5,2019,"Katie Grimes","Sunshine State","18-30-0",0.375
-"8",8,6,2018,"Katie Grimes","Sunshine State","20-27-0",0.426
-"9",9,7,2017,"Katie Grimes","Sunshine State","19-33-0",0.365
-"10",10,8,2016,"Josh Beauregard","Sunshine State","29-24-1",0.547
-"11",11,9,2015,"Josh Beauregard","Sunshine State","33-20-0",0.623
-"12",12,10,2014,"Josh Beauregard","Sunshine State","27-25-0",0.519
-"13",13,11,2013,"Josh Beauregard","Sunshine State","19-37-0",0.339
-"14",14,12,2012,"Josh Beauregard","Sunshine State","12-43-0",0.218
-"15",15,13,2011,"Josh Beauregard","Sunshine State","15-39-0",0.278
-"16",16,14,2010,"Josh Beauregard","Sunshine State","15-35-1",0.3
-"17",17,15,2009,"Josh Beauregard","Sunshine State","21-38-0",0.356
-"18",18,16,2008,"Josh Beauregard","Sunshine State","8-47-0",0.145
-"19",19,17,2007,"Kristie Delk","Sunshine State","18-36-0",0.333
-"20",20,18,2006,"Kristie Delk","Sunshine State","15-39-0",0.278
-"21",21,19,2005,"Kristie Delk","Sunshine State","5-40-0",0.111
-"22",22,20,2004,"Jana Fields","Sunshine State","14-36-1",0.28
-"23",23,21,2003,"Jana Fields","Sunshine State","4-55-0",0.068
-"24",24,22,2002,"Jana Fields","Sunshine State","13-39-0",0.25
-"25",25,23,2001,"Jana Fields","-","17-36-0",0.321
-"26",26,24,2000,"Tobi Gilbert","-","6-46-0",0.115
-"27",27,25,1999,"Tobi Gilbert","-","12-38-0",0.24
-"28",28,26,1998,"Nancy Roby","-","19-33-0",0.365
-"29",29,27,1997,"Nancy Roby","-","18-35-0",0.34
-"30",30,28,1996,"Nancy Roby","-","11-37-0",0.229
-"31",31,29,1995,"Nancy Roby","-","11-38-0",0.224
-"32",32,30,1994,"Nancy Roby","-","4-34-0",0.105
-"33",33,31,1993,"Nancy Roby","-","10-26-0",0.278
-"34",34,32,1992,"Nancy Roby","-","17-25-0",0.405
-"35",35,33,1991,"Nancy Roby","-","11-18-0",0.379
-"36",36,34,1990,"Jim DiNobile","-","13-22-0",0.371
-"37",37,35,1989,"Jim DiNobile","-","12-20-0",0.375
-"38",38,36,1988,"Jim DiNobile","-","5-23-0",0.179
-"39",39,37,1987,"Jim DiNobile","-","14-18-0",0.438
-"40",40,38,1986,"Jim DiNobile","-","10-18-0",0.357
-"41",41,39,1985,"Jim DiNobile","-","7-22-0",0.241
-"42",42,40,1984,"Jim DiNobile","-","6-17-0",0.261
-"43",43,41,1983,"Jim DiNobile","-","12-19-0",0.387
+"","season","head_coach","conference","record","win_perc"
+"1",2024,"Katie Grimes","Sunshine State","0-7-0",0
+"2",2024,"Katie Grimes","Sunshine State","0-7-0",0
+"3",2023,"Katie Grimes","Sunshine State","21-26-0",0.447
+"4",2022,"Katie Grimes","Sunshine State","18-26-0",0.409
+"5",2021,"Katie Grimes","Sunshine State","0-0-0",NA
+"6",2020,"Katie Grimes","Sunshine State","9-13-0",0.409
+"7",2019,"Katie Grimes","Sunshine State","18-30-0",0.375
+"8",2018,"Katie Grimes","Sunshine State","20-27-0",0.426
+"9",2017,"Katie Grimes","Sunshine State","19-33-0",0.365
+"10",2016,"Josh Beauregard","Sunshine State","29-24-1",0.547
+"11",2015,"Josh Beauregard","Sunshine State","33-20-0",0.623
+"12",2014,"Josh Beauregard","Sunshine State","27-25-0",0.519
+"13",2013,"Josh Beauregard","Sunshine State","19-37-0",0.339
+"14",2012,"Josh Beauregard","Sunshine State","12-43-0",0.218
+"15",2011,"Josh Beauregard","Sunshine State","15-39-0",0.278
+"16",2010,"Josh Beauregard","Sunshine State","15-35-1",0.3
+"17",2009,"Josh Beauregard","Sunshine State","21-38-0",0.356
+"18",2008,"Josh Beauregard","Sunshine State","8-47-0",0.145
+"19",2007,"Kristie Delk","Sunshine State","18-36-0",0.333
+"20",2006,"Kristie Delk","Sunshine State","15-39-0",0.278
+"21",2005,"Kristie Delk","Sunshine State","5-40-0",0.111
+"22",2004,"Jana Fields","Sunshine State","14-36-1",0.28
+"23",2003,"Jana Fields","Sunshine State","4-55-0",0.068
+"24",2002,"Jana Fields","Sunshine State","13-39-0",0.25
+"25",2001,"Jana Fields","-","17-36-0",0.321
+"26",2000,"Tobi Gilbert","-","6-46-0",0.115
+"27",1999,"Tobi Gilbert","-","12-38-0",0.24
+"28",1998,"Nancy Roby","-","19-33-0",0.365
+"29",1997,"Nancy Roby","-","18-35-0",0.34
+"30",1996,"Nancy Roby","-","11-37-0",0.229
+"31",1995,"Nancy Roby","-","11-38-0",0.224
+"32",1994,"Nancy Roby","-","4-34-0",0.105
+"33",1993,"Nancy Roby","-","10-26-0",0.278
+"34",1992,"Nancy Roby","-","17-25-0",0.405
+"35",1991,"Nancy Roby","-","11-18-0",0.379
+"36",1990,"Jim DiNobile","-","13-22-0",0.371
+"37",1989,"Jim DiNobile","-","12-20-0",0.375
+"38",1988,"Jim DiNobile","-","5-23-0",0.179
+"39",1987,"Jim DiNobile","-","14-18-0",0.438
+"40",1986,"Jim DiNobile","-","10-18-0",0.357
+"41",1985,"Jim DiNobile","-","7-22-0",0.241
+"42",1984,"Jim DiNobile","-","6-17-0",0.261
+"43",1983,"Jim DiNobile","-","12-19-0",0.387
