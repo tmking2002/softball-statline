@@ -1,44 +1,43 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",42,2024,"Renee Gillispie","Big Ten","0-0-0",NA
-"2",0,2024,"Renee Gillispie","Big Ten","5-3-0",0.625
-"3",1,2023,"Renee Gillispie (35-27)Brian Levin (1-0)","Big Ten","35-27-0",0.565
-"4",2,2022,"Renee Gillispie","Big Ten","21-31-0",0.404
-"5",3,2021,"Renee Gillispie","Big Ten","26-18-0",0.591
-"6",4,2020,"Renee Gillispie","Big Ten","17-5-0",0.773
-"7",5,2019,"Renee Gillispie","Big Ten","19-32-0",0.373
-"8",6,2018,"Marla Looper","Big Ten","21-32-0",0.396
-"9",7,2017,"Marla Looper","Big Ten","19-32-0",0.373
-"10",8,2016,"Marla Looper","Big Ten","13-39-0",0.25
-"11",9,2015,"Marla Looper","Big Ten","19-40-0",0.322
-"12",10,2014,"Marla Looper","Big Ten","16-30-1",0.348
-"13",11,2013,"Marla Looper","Big Ten","30-24-0",0.556
-"14",12,2012,"Marla Looper","Big Ten","27-26-0",0.509
-"15",13,2011,"Marla Looper","Big Ten","27-24-0",0.529
-"16",14,2010,"Gayle Blevins","Big Ten","25-23-0",0.521
-"17",15,2009,"Gayle Blevins","Big Ten","42-16-0",0.724
-"18",16,2008,"Gayle Blevins","Big Ten","42-20-0",0.677
-"19",17,2007,"Gayle Blevins","Big Ten","37-21-0",0.638
-"20",18,2006,"Gayle Blevins","Big Ten","39-22-0",0.639
-"21",19,2005,"Gayle Blevins","Big Ten","50-14-0",0.781
-"22",20,2004,"Gayle Blevins","Big Ten","39-24-0",0.619
-"23",21,2003,"Gayle Blevins","Big Ten","44-15-0",0.746
-"24",22,2002,"Gayle Blevins","Big Ten","36-20-0",0.643
-"25",23,2001,"Gayle Blevins","Big Ten","49-14-0",0.778
-"26",24,2000,"Gayle Blevins","Big Ten","46-15-0",0.754
-"27",25,1999,"Gayle Blevins","Big Ten","41-26-1",0.612
-"28",26,1998,"Gayle Blevins","-","38-20-0",0.655
-"29",27,1997,"Gayle Blevins","Big Ten","52-9-0",0.852
-"30",28,1996,"Gayle Blevins","-","47-19-0",0.712
-"31",29,1995,"Gayle Blevins","-","41-26-1",0.612
-"32",30,1994,"Gayle Blevins","-","35-23-0",0.603
-"33",31,1993,"Gayle Blevins","-","39-15-0",0.722
-"34",32,1992,"Gayle Blevins","-","34-20-0",0.63
-"35",33,1991,"Gayle Blevins","-","53-11-0",0.828
-"36",34,1990,"Gayle Blevins","-","43-28-0",0.606
-"37",35,1989,"Gayle Blevins","-","40-21-0",0.656
-"38",36,1988,"Gayle Blevins","-","33-20-1",0.623
-"39",37,1987,"","-","0-0-0",NA
-"40",38,1986,"","-","0-0-0",NA
-"41",39,1985,"","-","0-0-0",NA
-"42",40,1984,"","-","0-0-0",NA
-"43",41,1983,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"Renee Gillispie","Big Ten","5-3-0",0.625
+"2",3,1,2023,"Renee Gillispie (35-27)Brian Levin (1-0)","Big Ten","35-27-0",0.565
+"3",4,2,2022,"Renee Gillispie","Big Ten","21-31-0",0.404
+"4",5,3,2021,"Renee Gillispie","Big Ten","26-18-0",0.591
+"5",6,4,2020,"Renee Gillispie","Big Ten","17-5-0",0.773
+"6",7,5,2019,"Renee Gillispie","Big Ten","19-32-0",0.373
+"7",8,6,2018,"Marla Looper","Big Ten","21-32-0",0.396
+"8",9,7,2017,"Marla Looper","Big Ten","19-32-0",0.373
+"9",10,8,2016,"Marla Looper","Big Ten","13-39-0",0.25
+"10",11,9,2015,"Marla Looper","Big Ten","19-40-0",0.322
+"11",12,10,2014,"Marla Looper","Big Ten","16-30-1",0.348
+"12",13,11,2013,"Marla Looper","Big Ten","30-24-0",0.556
+"13",14,12,2012,"Marla Looper","Big Ten","27-26-0",0.509
+"14",15,13,2011,"Marla Looper","Big Ten","27-24-0",0.529
+"15",16,14,2010,"Gayle Blevins","Big Ten","25-23-0",0.521
+"16",17,15,2009,"Gayle Blevins","Big Ten","42-16-0",0.724
+"17",18,16,2008,"Gayle Blevins","Big Ten","42-20-0",0.677
+"18",19,17,2007,"Gayle Blevins","Big Ten","37-21-0",0.638
+"19",20,18,2006,"Gayle Blevins","Big Ten","39-22-0",0.639
+"20",21,19,2005,"Gayle Blevins","Big Ten","50-14-0",0.781
+"21",22,20,2004,"Gayle Blevins","Big Ten","39-24-0",0.619
+"22",23,21,2003,"Gayle Blevins","Big Ten","44-15-0",0.746
+"23",24,22,2002,"Gayle Blevins","Big Ten","36-20-0",0.643
+"24",25,23,2001,"Gayle Blevins","Big Ten","49-14-0",0.778
+"25",26,24,2000,"Gayle Blevins","Big Ten","46-15-0",0.754
+"26",27,25,1999,"Gayle Blevins","Big Ten","41-26-1",0.612
+"27",28,26,1998,"Gayle Blevins","-","38-20-0",0.655
+"28",29,27,1997,"Gayle Blevins","Big Ten","52-9-0",0.852
+"29",30,28,1996,"Gayle Blevins","-","47-19-0",0.712
+"30",31,29,1995,"Gayle Blevins","-","41-26-1",0.612
+"31",32,30,1994,"Gayle Blevins","-","35-23-0",0.603
+"32",33,31,1993,"Gayle Blevins","-","39-15-0",0.722
+"33",34,32,1992,"Gayle Blevins","-","34-20-0",0.63
+"34",35,33,1991,"Gayle Blevins","-","53-11-0",0.828
+"35",36,34,1990,"Gayle Blevins","-","43-28-0",0.606
+"36",37,35,1989,"Gayle Blevins","-","40-21-0",0.656
+"37",38,36,1988,"Gayle Blevins","-","33-20-1",0.623
+"38",39,37,1987,"","-","0-0-0",NA
+"39",40,38,1986,"","-","0-0-0",NA
+"40",41,39,1985,"","-","0-0-0",NA
+"41",42,40,1984,"","-","0-0-0",NA
+"42",43,41,1983,"","-","0-0-0",NA

@@ -1,41 +1,41 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",39,2024,"Christi Musser","Big South","0-1-0",0
-"2",0,2024,"Christi Musser","Big South","5-4-0",0.555555555555556
-"3",1,2023,"Christi Musser","Big South","22-27-0",0.449
-"4",2,2022,"Christi Musser","Big South","27-28-0",0.491
-"5",3,2021,"Christi Musser","Big South","11-24-0",0.314
-"6",4,2020,"Venus Taylor","Big South","10-9-0",0.526
-"7",5,2019,"Venus Taylor","Big South","18-37-0",0.327
-"8",6,2018,"Shane Winkler","Big South","26-30-0",0.464
-"9",7,2017,"Shane Winkler","Big South","26-36-0",0.419
-"10",8,2016,"Shane Winkler","Big South","22-34-0",0.393
-"11",9,2015,"Shane Winkler","Big South","31-28-0",0.525
-"12",10,2014,"Shane Winkler","Big South","27-33-1",0.45
-"13",11,2013,"Shane Winkler","Big South","15-40-0",0.273
-"14",12,2012,"Shane Winkler","Big South","33-26-0",0.559
-"15",13,2011,"Shane Winkler","Big South","25-33-0",0.431
-"16",14,2010,"Shane Winkler","Big South","30-28-1",0.517
-"17",15,2009,"Shane Winkler","Big South","26-33-0",0.441
-"18",16,2008,"Jeff Aumend","Big South","18-41-0",0.305
-"19",17,2007,"Jeff Aumend","Big South","15-44-0",0.254
-"20",18,2006,"Jeff Aumend","Big South","14-40-1",0.259
-"21",19,2005,"Joyce Wellhoefer","Big South","19-43-0",0.306
-"22",20,2004,"Chandelle Schulte","Big South","19-38-0",0.333
-"23",21,2003,"Chandelle Schulte","Big South","15-38-0",0.283
-"24",22,2002,"Chandelle Schulte","Big South","18-38-0",0.321
-"25",23,2001,"Chandelle Schulte","Big South","29-27-0",0.518
-"26",24,2000,"Chandelle Schulte","Big South","15-39-0",0.278
-"27",25,1999,"Vanessa Glasscock","Big South","9-45-0",0.167
-"28",26,1998,"Vanessa Glasscock","-","2-45-0",0.043
-"29",27,1997,"Vanessa Glasscock","Big South","15-27-0",0.357
-"30",28,1996,"Sue Killian","-","9-35-1",0.205
-"31",29,1995,"Sue Killian","-","18-25-0",0.419
-"32",30,1994,"Sue Killian","-","23-30-0",0.434
-"33",31,1993,"Jack Jordan","-","30-17-1",0.638
-"34",32,1992,"Jack Jordan","-","30-29-0",0.508
-"35",33,1991,"Jack Jordan","-","25-22-0",0.532
-"36",34,1990,"Howie Bagwell","-","32-23-0",0.582
-"37",35,1989,"Howie Bagwell","-","18-13-0",0.581
-"38",36,1988,"Howie Bagwell","-","32-15-0",0.681
-"39",37,1987,"Howie Bagwell","-","32-14-0",0.696
-"40",38,1986,"Howie Bagwell","-","19-22-0",0.463
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,39,2024,"Christi Musser","Big South","5-4-0",0.555555555555556
+"2",2,0,2024,"Christi Musser","Big South","5-4-0",0.555555555555556
+"3",3,1,2023,"Christi Musser","Big South","22-27-0",0.449
+"4",4,2,2022,"Christi Musser","Big South","27-28-0",0.491
+"5",5,3,2021,"Christi Musser","Big South","11-24-0",0.314
+"6",6,4,2020,"Venus Taylor","Big South","10-9-0",0.526
+"7",7,5,2019,"Venus Taylor","Big South","18-37-0",0.327
+"8",8,6,2018,"Shane Winkler","Big South","26-30-0",0.464
+"9",9,7,2017,"Shane Winkler","Big South","26-36-0",0.419
+"10",10,8,2016,"Shane Winkler","Big South","22-34-0",0.393
+"11",11,9,2015,"Shane Winkler","Big South","31-28-0",0.525
+"12",12,10,2014,"Shane Winkler","Big South","27-33-1",0.45
+"13",13,11,2013,"Shane Winkler","Big South","15-40-0",0.273
+"14",14,12,2012,"Shane Winkler","Big South","33-26-0",0.559
+"15",15,13,2011,"Shane Winkler","Big South","25-33-0",0.431
+"16",16,14,2010,"Shane Winkler","Big South","30-28-1",0.517
+"17",17,15,2009,"Shane Winkler","Big South","26-33-0",0.441
+"18",18,16,2008,"Jeff Aumend","Big South","18-41-0",0.305
+"19",19,17,2007,"Jeff Aumend","Big South","15-44-0",0.254
+"20",20,18,2006,"Jeff Aumend","Big South","14-40-1",0.259
+"21",21,19,2005,"Joyce Wellhoefer","Big South","19-43-0",0.306
+"22",22,20,2004,"Chandelle Schulte","Big South","19-38-0",0.333
+"23",23,21,2003,"Chandelle Schulte","Big South","15-38-0",0.283
+"24",24,22,2002,"Chandelle Schulte","Big South","18-38-0",0.321
+"25",25,23,2001,"Chandelle Schulte","Big South","29-27-0",0.518
+"26",26,24,2000,"Chandelle Schulte","Big South","15-39-0",0.278
+"27",27,25,1999,"Vanessa Glasscock","Big South","9-45-0",0.167
+"28",28,26,1998,"Vanessa Glasscock","-","2-45-0",0.043
+"29",29,27,1997,"Vanessa Glasscock","Big South","15-27-0",0.357
+"30",30,28,1996,"Sue Killian","-","9-35-1",0.205
+"31",31,29,1995,"Sue Killian","-","18-25-0",0.419
+"32",32,30,1994,"Sue Killian","-","23-30-0",0.434
+"33",33,31,1993,"Jack Jordan","-","30-17-1",0.638
+"34",34,32,1992,"Jack Jordan","-","30-29-0",0.508
+"35",35,33,1991,"Jack Jordan","-","25-22-0",0.532
+"36",36,34,1990,"Howie Bagwell","-","32-23-0",0.582
+"37",37,35,1989,"Howie Bagwell","-","18-13-0",0.581
+"38",38,36,1988,"Howie Bagwell","-","32-15-0",0.681
+"39",39,37,1987,"Howie Bagwell","-","32-14-0",0.696
+"40",40,38,1986,"Howie Bagwell","-","19-22-0",0.463

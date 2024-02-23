@@ -1,24 +1,24 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",0,2024,"Delanie Cruz","CACC","0-2-0",0
-"2",1,2023,"Phil Delgado","CACC","16-34-0",0.32
-"3",2,2022,"Phil Delgado","CACC","13-30-0",0.302
-"4",3,2021,"Phil Delgado","CACC","12-19-1",0.387
-"5",4,2020,"Phil Delgado","CACC","1-9-0",0.1
-"6",5,2019,"Phil Delgado","CACC","12-27-0",0.308
-"7",6,2018,"Ashton Corley","CACC","11-23-0",0.324
-"8",7,2017,"Ashton Corley","CACC","21-22-0",0.488
-"9",8,2016,"Ashton Corley","CACC","25-23-0",0.521
-"10",9,2015,"Rocco Constantino","CACC","25-21-1",0.543
-"11",10,2014,"Rocco Constantino","CACC","20-20-0",0.5
-"12",11,2013,"Rocco Constantino","CACC","21-21-0",0.5
-"13",12,2012,"Rocco Constantino","CACC","32-22-0",0.593
-"14",13,2011,"Rocco Constantino","CACC","24-22-0",0.522
-"15",14,2010,"Rocco Constantino","CACC","14-25-0",0.359
-"16",15,2009,"Rocco Constantino","CACC","33-15-0",0.688
-"17",16,2008,"Rocco Constantino","CACC","19-27-0",0.413
-"18",17,2007,"Rocco Constantino","CACC","21-19-0",0.525
-"19",18,2006,"Anthony Nesto","CACC","16-30-0",0.348
-"20",19,2005,"Anthony Nesto","CACC","10-29-0",0.256
-"21",20,2004,"","CACC","3-38-0",0.073
-"22",21,2003,"","-","0-0-0",NA
-"23",22,2002,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,0,2024,"Delanie Cruz","CACC","0-2-0",0
+"2",2,1,2023,"Phil Delgado","CACC","16-34-0",0.32
+"3",3,2,2022,"Phil Delgado","CACC","13-30-0",0.302
+"4",4,3,2021,"Phil Delgado","CACC","12-19-1",0.387
+"5",5,4,2020,"Phil Delgado","CACC","1-9-0",0.1
+"6",6,5,2019,"Phil Delgado","CACC","12-27-0",0.308
+"7",7,6,2018,"Ashton Corley","CACC","11-23-0",0.324
+"8",8,7,2017,"Ashton Corley","CACC","21-22-0",0.488
+"9",9,8,2016,"Ashton Corley","CACC","25-23-0",0.521
+"10",10,9,2015,"Rocco Constantino","CACC","25-21-1",0.543
+"11",11,10,2014,"Rocco Constantino","CACC","20-20-0",0.5
+"12",12,11,2013,"Rocco Constantino","CACC","21-21-0",0.5
+"13",13,12,2012,"Rocco Constantino","CACC","32-22-0",0.593
+"14",14,13,2011,"Rocco Constantino","CACC","24-22-0",0.522
+"15",15,14,2010,"Rocco Constantino","CACC","14-25-0",0.359
+"16",16,15,2009,"Rocco Constantino","CACC","33-15-0",0.688
+"17",17,16,2008,"Rocco Constantino","CACC","19-27-0",0.413
+"18",18,17,2007,"Rocco Constantino","CACC","21-19-0",0.525
+"19",19,18,2006,"Anthony Nesto","CACC","16-30-0",0.348
+"20",20,19,2005,"Anthony Nesto","CACC","10-29-0",0.256
+"21",21,20,2004,"","CACC","3-38-0",0.073
+"22",22,21,2003,"","-","0-0-0",NA
+"23",23,22,2002,"","-","0-0-0",NA

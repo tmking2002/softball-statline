@@ -1,15 +1,15 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",13,2024,"Jessie Homesley","Conference Carolinas","6-1-0",0.857
-"2",0,2024,"Jessie Homesley","Conference Carolinas","6-4-0",0.6
-"3",1,2023,"Jessie Homesley","Peach Belt","19-31-0",0.38
-"4",2,2022,"Jessie Homesley","Peach Belt","23-21-0",0.523
-"5",3,2021,"Jessie Homesley","Peach Belt","34-12-0",0.739
-"6",4,2020,"Kayla Lucas","Peach Belt","19-3-0",0.864
-"7",5,2019,"Kayla Lucas","Peach Belt","44-20-0",0.688
-"8",6,2018,"Kayla Lucas","Peach Belt","35-21-0",0.625
-"9",7,2017,"Kayla Lucas","Peach Belt","43-14-0",0.754
-"10",8,2016,"Kayla Lucas","Peach Belt","32-20-0",0.615
-"11",9,2015,"Aileen Morales","Peach Belt","31-18-0",0.633
-"12",10,2014,"Aileen Morales","-","20-33-0",0.377
-"13",11,2013,"Paul Raccio","-","27-27-0",0.5
-"14",12,2012,"","-","25-20-0",0.556
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,13,2024,"Jessie Homesley","Conference Carolinas","6-4-0",0.6
+"2",2,0,2024,"Jessie Homesley","Conference Carolinas","6-4-0",0.6
+"3",3,1,2023,"Jessie Homesley","Peach Belt","19-31-0",0.38
+"4",4,2,2022,"Jessie Homesley","Peach Belt","23-21-0",0.523
+"5",5,3,2021,"Jessie Homesley","Peach Belt","34-12-0",0.739
+"6",6,4,2020,"Kayla Lucas","Peach Belt","19-3-0",0.864
+"7",7,5,2019,"Kayla Lucas","Peach Belt","44-20-0",0.688
+"8",8,6,2018,"Kayla Lucas","Peach Belt","35-21-0",0.625
+"9",9,7,2017,"Kayla Lucas","Peach Belt","43-14-0",0.754
+"10",10,8,2016,"Kayla Lucas","Peach Belt","32-20-0",0.615
+"11",11,9,2015,"Aileen Morales","Peach Belt","31-18-0",0.633
+"12",12,10,2014,"Aileen Morales","-","20-33-0",0.377
+"13",13,11,2013,"Paul Raccio","-","27-27-0",0.5
+"14",14,12,2012,"","-","25-20-0",0.556

@@ -1,38 +1,38 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",0,2024,"Crissy Strimple","AAC","5-4-0",0.555555555555556
-"2",1,2023,"Crissy Strimple","AAC","25-28-0",0.472
-"3",2,2022,"Crissy Strimple","AAC","18-30-1",0.375
-"4",3,2021,"Crissy Strimple","AAC","25-16-0",0.61
-"5",4,2020,"Crissy Strimple","AAC","13-11-0",0.542
-"6",5,2019,"John Bargfeldt","AAC","37-20-0",0.649
-"7",6,2018,"John Bargfeldt","AAC","34-25-0",0.576
-"8",7,2017,"John Bargfeldt","AAC","41-17-0",0.707
-"9",8,2016,"John Bargfeldt","AAC","35-21-0",0.625
-"10",9,2015,"John Bargfeldt","AAC","36-18-0",0.667
-"11",10,2014,"John Bargfeldt","CUSA","53-9-0",0.855
-"12",11,2013,"John Bargfeldt","CUSA","42-16-1",0.724
-"13",12,2012,"John Bargfeldt","CUSA","42-14-0",0.75
-"14",13,2011,"John Bargfeldt","CUSA","46-15-0",0.754
-"15",14,2010,"John Bargfeldt","CUSA","31-21-0",0.596
-"16",15,2009,"John Bargfeldt","CUSA","40-17-0",0.702
-"17",16,2008,"John Bargfeldt","CUSA","34-25-0",0.576
-"18",17,2007,"John Bargfeldt","CUSA","30-28-0",0.517
-"19",18,2006,"John Bargfeldt","CUSA","34-24-0",0.586
-"20",19,2005,"Christy Connoyer","WAC","31-30-0",0.508
-"21",20,2004,"Jamie Pinkerton","WAC","45-18-0",0.714
-"22",21,2003,"Jamie Pinkerton","WAC","34-29-0",0.54
-"23",22,2002,"Jamie Pinkerton","WAC","48-16-0",0.75
-"24",23,2001,"Jamie Pinkerton","WAC","13-42-0",0.236
-"25",24,2000,"Lori Castellano","WAC","20-32-0",0.385
-"26",25,1999,"Lori Castellano","WAC","19-39-0",0.328
-"27",26,1998,"Lori Castellano","-","20-36-0",0.357
-"28",27,1997,"Pattie Holthaus","WAC","17-40-0",0.298
-"29",28,1996,"Pattie Holthaus","-","24-33-0",0.421
-"30",29,1995,"Pattie Holthaus","-","10-35-0",0.222
-"31",30,1994,"Pattie Holthaus","-","16-41-0",0.281
-"32",31,1993,"Pattie Holthaus","-","2-43-0",0.044
-"33",32,1992,"","-","0-0-0",NA
-"34",33,1991,"","-","0-0-0",NA
-"35",34,1990,"","-","0-0-0",NA
-"36",35,1989,"","-","0-0-0",NA
-"37",36,1988,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,0,2024,"Crissy Strimple","AAC","5-4-0",0.555555555555556
+"2",2,1,2023,"Crissy Strimple","AAC","25-28-0",0.472
+"3",3,2,2022,"Crissy Strimple","AAC","18-30-1",0.375
+"4",4,3,2021,"Crissy Strimple","AAC","25-16-0",0.61
+"5",5,4,2020,"Crissy Strimple","AAC","13-11-0",0.542
+"6",6,5,2019,"John Bargfeldt","AAC","37-20-0",0.649
+"7",7,6,2018,"John Bargfeldt","AAC","34-25-0",0.576
+"8",8,7,2017,"John Bargfeldt","AAC","41-17-0",0.707
+"9",9,8,2016,"John Bargfeldt","AAC","35-21-0",0.625
+"10",10,9,2015,"John Bargfeldt","AAC","36-18-0",0.667
+"11",11,10,2014,"John Bargfeldt","CUSA","53-9-0",0.855
+"12",12,11,2013,"John Bargfeldt","CUSA","42-16-1",0.724
+"13",13,12,2012,"John Bargfeldt","CUSA","42-14-0",0.75
+"14",14,13,2011,"John Bargfeldt","CUSA","46-15-0",0.754
+"15",15,14,2010,"John Bargfeldt","CUSA","31-21-0",0.596
+"16",16,15,2009,"John Bargfeldt","CUSA","40-17-0",0.702
+"17",17,16,2008,"John Bargfeldt","CUSA","34-25-0",0.576
+"18",18,17,2007,"John Bargfeldt","CUSA","30-28-0",0.517
+"19",19,18,2006,"John Bargfeldt","CUSA","34-24-0",0.586
+"20",20,19,2005,"Christy Connoyer","WAC","31-30-0",0.508
+"21",21,20,2004,"Jamie Pinkerton","WAC","45-18-0",0.714
+"22",22,21,2003,"Jamie Pinkerton","WAC","34-29-0",0.54
+"23",23,22,2002,"Jamie Pinkerton","WAC","48-16-0",0.75
+"24",24,23,2001,"Jamie Pinkerton","WAC","13-42-0",0.236
+"25",25,24,2000,"Lori Castellano","WAC","20-32-0",0.385
+"26",26,25,1999,"Lori Castellano","WAC","19-39-0",0.328
+"27",27,26,1998,"Lori Castellano","-","20-36-0",0.357
+"28",28,27,1997,"Pattie Holthaus","WAC","17-40-0",0.298
+"29",29,28,1996,"Pattie Holthaus","-","24-33-0",0.421
+"30",30,29,1995,"Pattie Holthaus","-","10-35-0",0.222
+"31",31,30,1994,"Pattie Holthaus","-","16-41-0",0.281
+"32",32,31,1993,"Pattie Holthaus","-","2-43-0",0.044
+"33",33,32,1992,"","-","0-0-0",NA
+"34",34,33,1991,"","-","0-0-0",NA
+"35",35,34,1990,"","-","0-0-0",NA
+"36",36,35,1989,"","-","0-0-0",NA
+"37",37,36,1988,"","-","0-0-0",NA

@@ -1,44 +1,43 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",42,2024,"Marissa Lamison-Myers","Patriot","0-0-0",NA
-"2",0,2024,"Marissa Lamison-Myers","Patriot","3-6-0",0.333333333333333
-"3",1,2023,"Marissa Lamison-Myers","Patriot","17-31-0",0.354
-"4",2,2022,"Marissa Lamison-Myers","Patriot","20-28-0",0.417
-"5",3,2021,"Marissa Lamison-Myers","Patriot","16-15-1",0.516
-"6",4,2020,"Marissa Lamison-Myers","Patriot","12-8-0",0.6
-"7",5,2019,"Marissa Lamison-Myers","Patriot","25-27-0",0.481
-"8",6,2018,"Marissa Lamison-Myers","Patriot","11-32-0",0.256
-"9",7,2017,"Melissa Finley","Patriot","13-30-1",0.302
-"10",8,2016,"Melissa Finley","Patriot","12-29-0",0.293
-"11",9,2015,"Melissa Finley","Patriot","17-21-0",0.447
-"12",10,2014,"Melissa Finley","Patriot","13-30-0",0.302
-"13",11,2013,"Melissa Finley","Patriot","16-32-0",0.333
-"14",12,2012,"Jaime Grillo","Patriot","19-28-0",0.404
-"15",13,2011,"Ashley Obrest","Patriot","27-21-0",0.562
-"16",14,2010,"Vickie Sax","Patriot","27-23-0",0.54
-"17",15,2009,"Vickie Sax","Patriot","25-18-0",0.581
-"18",16,2008,"Vickie Sax","Patriot","10-22-0",0.312
-"19",17,2007,"Vickie Sax","Patriot","25-24-0",0.51
-"20",18,2006,"Vickie Sax","Patriot","17-25-0",0.405
-"21",19,2005,"Vickie Sax","Patriot","19-19-0",0.5
-"22",20,2004,"Vickie Sax","Patriot","34-17-0",0.667
-"23",21,2003,"Vickie Sax","Patriot","29-15-0",0.659
-"24",22,2002,"Vickie Sax","Patriot","28-20-0",0.583
-"25",23,2001,"Vickie Sax","Patriot","30-26-0",0.536
-"26",24,2000,"Vickie Sax","Patriot","21-27-0",0.438
-"27",25,1999,"Vickie Sax","Patriot","23-25-0",0.479
-"28",26,1998,"Vickie Sax","-","25-23-1",0.521
-"29",27,1997,"Katie Flynn","Patriot","22-18-0",0.55
-"30",28,1996,"Katie Flynn","-","11-20-0",0.355
-"31",29,1995,"Katie Flynn","-","13-26-0",0.333
-"32",30,1994,"Katie Flynn","-","14-23-0",0.378
-"33",31,1993,"Heidi Hazen","-","15-16-0",0.484
-"34",32,1992,"Heidi Hazen","-","24-12-0",0.667
-"35",33,1991,"Ron Case","-","19-21-0",0.475
-"36",34,1990,"Ron Case","-","24-15-0",0.615
-"37",35,1989,"Ron Case","-","16-15-0",0.516
-"38",36,1988,"Ron Case","-","16-12-0",0.571
-"39",37,1987,"","-","0-0-0",NA
-"40",38,1986,"","-","0-0-0",NA
-"41",39,1985,"","-","0-0-0",NA
-"42",40,1984,"","-","0-0-0",NA
-"43",41,1983,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"Marissa Lamison-Myers","Patriot","3-6-0",0.333333333333333
+"2",3,1,2023,"Marissa Lamison-Myers","Patriot","17-31-0",0.354
+"3",4,2,2022,"Marissa Lamison-Myers","Patriot","20-28-0",0.417
+"4",5,3,2021,"Marissa Lamison-Myers","Patriot","16-15-1",0.516
+"5",6,4,2020,"Marissa Lamison-Myers","Patriot","12-8-0",0.6
+"6",7,5,2019,"Marissa Lamison-Myers","Patriot","25-27-0",0.481
+"7",8,6,2018,"Marissa Lamison-Myers","Patriot","11-32-0",0.256
+"8",9,7,2017,"Melissa Finley","Patriot","13-30-1",0.302
+"9",10,8,2016,"Melissa Finley","Patriot","12-29-0",0.293
+"10",11,9,2015,"Melissa Finley","Patriot","17-21-0",0.447
+"11",12,10,2014,"Melissa Finley","Patriot","13-30-0",0.302
+"12",13,11,2013,"Melissa Finley","Patriot","16-32-0",0.333
+"13",14,12,2012,"Jaime Grillo","Patriot","19-28-0",0.404
+"14",15,13,2011,"Ashley Obrest","Patriot","27-21-0",0.562
+"15",16,14,2010,"Vickie Sax","Patriot","27-23-0",0.54
+"16",17,15,2009,"Vickie Sax","Patriot","25-18-0",0.581
+"17",18,16,2008,"Vickie Sax","Patriot","10-22-0",0.312
+"18",19,17,2007,"Vickie Sax","Patriot","25-24-0",0.51
+"19",20,18,2006,"Vickie Sax","Patriot","17-25-0",0.405
+"20",21,19,2005,"Vickie Sax","Patriot","19-19-0",0.5
+"21",22,20,2004,"Vickie Sax","Patriot","34-17-0",0.667
+"22",23,21,2003,"Vickie Sax","Patriot","29-15-0",0.659
+"23",24,22,2002,"Vickie Sax","Patriot","28-20-0",0.583
+"24",25,23,2001,"Vickie Sax","Patriot","30-26-0",0.536
+"25",26,24,2000,"Vickie Sax","Patriot","21-27-0",0.438
+"26",27,25,1999,"Vickie Sax","Patriot","23-25-0",0.479
+"27",28,26,1998,"Vickie Sax","-","25-23-1",0.521
+"28",29,27,1997,"Katie Flynn","Patriot","22-18-0",0.55
+"29",30,28,1996,"Katie Flynn","-","11-20-0",0.355
+"30",31,29,1995,"Katie Flynn","-","13-26-0",0.333
+"31",32,30,1994,"Katie Flynn","-","14-23-0",0.378
+"32",33,31,1993,"Heidi Hazen","-","15-16-0",0.484
+"33",34,32,1992,"Heidi Hazen","-","24-12-0",0.667
+"34",35,33,1991,"Ron Case","-","19-21-0",0.475
+"35",36,34,1990,"Ron Case","-","24-15-0",0.615
+"36",37,35,1989,"Ron Case","-","16-15-0",0.516
+"37",38,36,1988,"Ron Case","-","16-12-0",0.571
+"38",39,37,1987,"","-","0-0-0",NA
+"39",40,38,1986,"","-","0-0-0",NA
+"40",41,39,1985,"","-","0-0-0",NA
+"41",42,40,1984,"","-","0-0-0",NA
+"42",43,41,1983,"","-","0-0-0",NA

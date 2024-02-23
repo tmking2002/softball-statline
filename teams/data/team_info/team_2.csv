@@ -1,29 +1,29 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",0,2024,"Abigail Farler","WAC","4-6-0",0.4
-"2",1,2023,"Abigail Farler","WAC","15-36-0",0.294
-"3",2,2022,"Abigail Farler","WAC","25-26-0",0.49
-"4",3,2021,"Abigail Farler","Southland","14-33-0",0.298
-"5",4,2020,"Abigail Farler","Southland","7-17-0",0.292
-"6",5,2019,"Bobby Reeves","Southland","13-31-0",0.295
-"7",6,2018,"Bobby Reeves","Southland","23-26-0",0.469
-"8",7,2017,"Bobby Reeves","Southland","33-22-0",0.6
-"9",8,2016,"Bobby Reeves","Southland","26-21-0",0.553
-"10",9,2015,"Bobby Reeves","Southland","14-33-0",0.298
-"11",10,2014,"Bobby Reeves","Southland","21-28-0",0.429
-"12",11,2013,"Bobby Reeves","Lone Star","28-26-0",0.519
-"13",12,2012,"Bobby Reeves","Lone Star","30-18-0",0.625
-"14",13,2011,"Bobby Reeves","Lone Star","28-27-0",0.509
-"15",14,2010,"Chantiel Wilson","Lone Star","21-31-0",0.404
-"16",15,2009,"Chantiel Wilson","Lone Star","43-15-0",0.741
-"17",16,2008,"Chantiel Wilson","Lone Star","34-27-0",0.557
-"18",17,2007,"Chantiel Wilson","Lone Star","25-24-0",0.51
-"19",18,2006,"Chantiel Wilson","Lone Star","42-19-0",0.689
-"20",19,2005,"Chantiel Wilson","Lone Star","31-22-0",0.585
-"21",20,2004,"Chantiel Wilson","Lone Star","20-30-0",0.4
-"22",21,2003,"Carol Tabor","Lone Star","3-1-1",0.75
-"23",22,2002,"Carol Tabor","-","12-23-0",0.343
-"24",23,2001,"Carol Tabor","-","22-22-0",0.5
-"25",24,2000,"Carol Tabor","-","27-31-0",0.466
-"26",25,1999,"Carol Tabor","-","16-20-0",0.444
-"27",26,1998,"Carol Tabor","-","31-22-0",0.585
-"28",27,1997,"Carol Tabor","-","38-19-0",0.667
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,0,2024,"Abigail Farler","WAC","4-6-0",0.4
+"2",2,1,2023,"Abigail Farler","WAC","15-36-0",0.294
+"3",3,2,2022,"Abigail Farler","WAC","25-26-0",0.49
+"4",4,3,2021,"Abigail Farler","Southland","14-33-0",0.298
+"5",5,4,2020,"Abigail Farler","Southland","7-17-0",0.292
+"6",6,5,2019,"Bobby Reeves","Southland","13-31-0",0.295
+"7",7,6,2018,"Bobby Reeves","Southland","23-26-0",0.469
+"8",8,7,2017,"Bobby Reeves","Southland","33-22-0",0.6
+"9",9,8,2016,"Bobby Reeves","Southland","26-21-0",0.553
+"10",10,9,2015,"Bobby Reeves","Southland","14-33-0",0.298
+"11",11,10,2014,"Bobby Reeves","Southland","21-28-0",0.429
+"12",12,11,2013,"Bobby Reeves","Lone Star","28-26-0",0.519
+"13",13,12,2012,"Bobby Reeves","Lone Star","30-18-0",0.625
+"14",14,13,2011,"Bobby Reeves","Lone Star","28-27-0",0.509
+"15",15,14,2010,"Chantiel Wilson","Lone Star","21-31-0",0.404
+"16",16,15,2009,"Chantiel Wilson","Lone Star","43-15-0",0.741
+"17",17,16,2008,"Chantiel Wilson","Lone Star","34-27-0",0.557
+"18",18,17,2007,"Chantiel Wilson","Lone Star","25-24-0",0.51
+"19",19,18,2006,"Chantiel Wilson","Lone Star","42-19-0",0.689
+"20",20,19,2005,"Chantiel Wilson","Lone Star","31-22-0",0.585
+"21",21,20,2004,"Chantiel Wilson","Lone Star","20-30-0",0.4
+"22",22,21,2003,"Carol Tabor","Lone Star","3-1-1",0.75
+"23",23,22,2002,"Carol Tabor","-","12-23-0",0.343
+"24",24,23,2001,"Carol Tabor","-","22-22-0",0.5
+"25",25,24,2000,"Carol Tabor","-","27-31-0",0.466
+"26",26,25,1999,"Carol Tabor","-","16-20-0",0.444
+"27",27,26,1998,"Carol Tabor","-","31-22-0",0.585
+"28",28,27,1997,"Carol Tabor","-","38-19-0",0.667

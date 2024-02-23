@@ -1,13 +1,13 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",11,2024,"Stef Ewing","CCAA","4-1-0",0.8
-"2",0,2024,"Stef Ewing","CCAA","5-1-0",0.833333333333333
-"3",1,2023,"Stef Ewing","CCAA","33-21-0",0.611
-"4",2,2022,"Stef Ewing","CCAA","45-14-0",0.763
-"5",3,2021,"Stef Ewing","CCAA","0-0-0",NA
-"6",4,2020,"Stef Ewing","CCAA","7-12-0",0.368
-"7",5,2019,"Stef Ewing","CCAA","14-31-0",0.311
-"8",6,2018,"Laurie Nevarez","CCAA","14-38-0",0.269
-"9",7,2017,"Laurie Nevarez","-","12-36-0",0.25
-"10",8,2016,"Laurie Nevarez","-","10-36-0",0.217
-"11",9,2015,"Laurie Nevarez","CCAA","34-16-0",0.68
-"12",10,2014,"Laurie Nevarez","-","39-9-1",0.812
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,11,2024,"Stef Ewing","CCAA","5-1-0",0.833333333333333
+"2",2,0,2024,"Stef Ewing","CCAA","5-1-0",0.833333333333333
+"3",3,1,2023,"Stef Ewing","CCAA","33-21-0",0.611
+"4",4,2,2022,"Stef Ewing","CCAA","45-14-0",0.763
+"5",5,3,2021,"Stef Ewing","CCAA","0-0-0",NA
+"6",6,4,2020,"Stef Ewing","CCAA","7-12-0",0.368
+"7",7,5,2019,"Stef Ewing","CCAA","14-31-0",0.311
+"8",8,6,2018,"Laurie Nevarez","CCAA","14-38-0",0.269
+"9",9,7,2017,"Laurie Nevarez","-","12-36-0",0.25
+"10",10,8,2016,"Laurie Nevarez","-","10-36-0",0.217
+"11",11,9,2015,"Laurie Nevarez","CCAA","34-16-0",0.68
+"12",12,10,2014,"Laurie Nevarez","-","39-9-1",0.812

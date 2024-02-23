@@ -1,24 +1,23 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",22,2024,"Alicia du'Monceaux","UMAC","0-0-0",NA
-"2",0,2024,"Alicia du'Monceaux","UMAC","2-1-0",0.666666666666667
-"3",1,2023,"Alicia du'Monceaux","UMAC","22-12-0",0.647
-"4",2,2022,"Alicia du'Monceaux","UMAC","23-15-0",0.605
-"5",3,2021,"Alicia du'Monceaux","UMAC","17-23-0",0.425
-"6",4,2020,"Alicia du'Monceaux","UMAC","4-12-0",0.25
-"7",5,2019,"Alicia du'Monceaux","UMAC","27-17-0",0.614
-"8",6,2018,"Alicia du'Monceaux","UMAC","25-16-0",0.61
-"9",7,2017,"Alicia du'Monceaux","UMAC","19-20-0",0.487
-"10",8,2016,"Alicia du'Monceaux","UMAC","20-22-0",0.476
-"11",9,2015,"Alicia du'Monceaux","UMAC","15-28-0",0.349
-"12",10,2014,"Alicia du'Monceaux","UMAC","15-23-0",0.395
-"13",11,2013,"Alicia du'Monceaux","UMAC","18-18-0",0.5
-"14",12,2012,"Alicia du'Monceaux","UMAC","19-24-0",0.442
-"15",13,2011,"Alicia du'Monceaux","UMAC","20-22-0",0.476
-"16",14,2010,"Alicia du'Monceaux","UMAC","22-19-0",0.537
-"17",15,2009,"Alicia du'Monceaux","UMAC","20-23-0",0.465
-"18",16,2008,"Tracy Cromer","-","28-11-0",0.718
-"19",17,2007,"Tracy Cromer","-","16-22-1",0.421
-"20",18,2006,"Tracy Cromer","-","14-27-0",0.341
-"21",19,2005,"Tracy Cromer","-","0-0-0",NA
-"22",20,2004,"Tracy Cromer","-","0-0-0",NA
-"23",21,1981,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"Alicia du'Monceaux","UMAC","2-1-0",0.666666666666667
+"2",3,1,2023,"Alicia du'Monceaux","UMAC","22-12-0",0.647
+"3",4,2,2022,"Alicia du'Monceaux","UMAC","23-15-0",0.605
+"4",5,3,2021,"Alicia du'Monceaux","UMAC","17-23-0",0.425
+"5",6,4,2020,"Alicia du'Monceaux","UMAC","4-12-0",0.25
+"6",7,5,2019,"Alicia du'Monceaux","UMAC","27-17-0",0.614
+"7",8,6,2018,"Alicia du'Monceaux","UMAC","25-16-0",0.61
+"8",9,7,2017,"Alicia du'Monceaux","UMAC","19-20-0",0.487
+"9",10,8,2016,"Alicia du'Monceaux","UMAC","20-22-0",0.476
+"10",11,9,2015,"Alicia du'Monceaux","UMAC","15-28-0",0.349
+"11",12,10,2014,"Alicia du'Monceaux","UMAC","15-23-0",0.395
+"12",13,11,2013,"Alicia du'Monceaux","UMAC","18-18-0",0.5
+"13",14,12,2012,"Alicia du'Monceaux","UMAC","19-24-0",0.442
+"14",15,13,2011,"Alicia du'Monceaux","UMAC","20-22-0",0.476
+"15",16,14,2010,"Alicia du'Monceaux","UMAC","22-19-0",0.537
+"16",17,15,2009,"Alicia du'Monceaux","UMAC","20-23-0",0.465
+"17",18,16,2008,"Tracy Cromer","-","28-11-0",0.718
+"18",19,17,2007,"Tracy Cromer","-","16-22-1",0.421
+"19",20,18,2006,"Tracy Cromer","-","14-27-0",0.341
+"20",21,19,2005,"Tracy Cromer","-","0-0-0",NA
+"21",22,20,2004,"Tracy Cromer","-","0-0-0",NA
+"22",23,21,1981,"","-","0-0-0",NA

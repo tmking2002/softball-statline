@@ -1,22 +1,22 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",20,2024,"Ty Singleton","Sunshine State","2-0-0",1
-"2",0,2024,"Ty Singleton","Sunshine State","0-4-0",0
-"3",1,2023,"Ty Singleton","Sunshine State","15-27-0",0.357
-"4",2,2022,"Ty Singleton","Sunshine State","14-26-0",0.35
-"5",3,2021,"Jessica Cooley","Sunshine State","17-12-0",0.586
-"6",4,2020,"Jessica Cooley","Sunshine State","15-11-0",0.577
-"7",5,2019,"Bailey Castro","Sunshine State","27-24-0",0.529
-"8",6,2018,"Bailey Castro","Sunshine State","36-8-0",0.818
-"9",7,2017,"Kimmy Bloemers","-","32-17-0",0.653
-"10",8,2016,"Kimmy Bloemers","-","34-15-0",0.694
-"11",9,2015,"Kimmy Bloemers","-","33-22-0",0.6
-"12",10,2014,"Kimmy Bloemers","-","30-16-0",0.652
-"13",11,2013,"Kimmy Bloemers","-","27-23-0",0.54
-"14",12,2012,"Kimmy Bloemers","Palm Beach Atl.","30-21-0",0.588
-"15",13,2011,"Kimmy Bloemers","Palm Beach Atl.","27-19-0",0.587
-"16",14,2010,"Kimmy Bloemers","Palm Beach Atl.","36-13-0",0.735
-"17",15,2009,"Kimmy Bloemers","-","33-22-0",0.6
-"18",16,2008,"Kimmy Bloemers","-","33-24-0",0.579
-"19",17,2007,"Kimmy Bloemers","-","22-33-0",0.4
-"20",18,2006,"","-","0-0-0",NA
-"21",19,2004,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,20,2024,"Ty Singleton","Sunshine State","0-4-0",0
+"2",2,0,2024,"Ty Singleton","Sunshine State","0-4-0",0
+"3",3,1,2023,"Ty Singleton","Sunshine State","15-27-0",0.357
+"4",4,2,2022,"Ty Singleton","Sunshine State","14-26-0",0.35
+"5",5,3,2021,"Jessica Cooley","Sunshine State","17-12-0",0.586
+"6",6,4,2020,"Jessica Cooley","Sunshine State","15-11-0",0.577
+"7",7,5,2019,"Bailey Castro","Sunshine State","27-24-0",0.529
+"8",8,6,2018,"Bailey Castro","Sunshine State","36-8-0",0.818
+"9",9,7,2017,"Kimmy Bloemers","-","32-17-0",0.653
+"10",10,8,2016,"Kimmy Bloemers","-","34-15-0",0.694
+"11",11,9,2015,"Kimmy Bloemers","-","33-22-0",0.6
+"12",12,10,2014,"Kimmy Bloemers","-","30-16-0",0.652
+"13",13,11,2013,"Kimmy Bloemers","-","27-23-0",0.54
+"14",14,12,2012,"Kimmy Bloemers","Palm Beach Atl.","30-21-0",0.588
+"15",15,13,2011,"Kimmy Bloemers","Palm Beach Atl.","27-19-0",0.587
+"16",16,14,2010,"Kimmy Bloemers","Palm Beach Atl.","36-13-0",0.735
+"17",17,15,2009,"Kimmy Bloemers","-","33-22-0",0.6
+"18",18,16,2008,"Kimmy Bloemers","-","33-24-0",0.579
+"19",19,17,2007,"Kimmy Bloemers","-","22-33-0",0.4
+"20",20,18,2006,"","-","0-0-0",NA
+"21",21,19,2004,"","-","0-0-0",NA

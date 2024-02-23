@@ -1,11 +1,11 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",9,2024,"Jackie Huff","Conference Carolinas","2-4-0",0.333
-"2",0,2024,"Jackie Huff","Conference Carolinas","2-7-0",0.222222222222222
-"3",1,2023,"Jackie Huff","Conference Carolinas","15-33-0",0.312
-"4",2,2022,"Jackie Huff","Conference Carolinas","1-47-0",0.021
-"5",3,2021,"Jen George","Conference Carolinas","5-35-0",0.125
-"6",4,2020,"Jen George","Conference Carolinas","3-17-0",0.15
-"7",5,2019,"Jen George","Conference Carolinas","6-44-0",0.12
-"8",6,2018,"Jen George","Conference Carolinas","3-49-0",0.058
-"9",7,2017,"Christy Johnson","Conference Carolinas","5-33-0",0.132
-"10",8,2016,"Christy Johnson","Conference Carolinas","7-33-0",0.175
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,9,2024,"Jackie Huff","Conference Carolinas","2-7-0",0.222222222222222
+"2",2,0,2024,"Jackie Huff","Conference Carolinas","2-7-0",0.222222222222222
+"3",3,1,2023,"Jackie Huff","Conference Carolinas","15-33-0",0.312
+"4",4,2,2022,"Jackie Huff","Conference Carolinas","1-47-0",0.021
+"5",5,3,2021,"Jen George","Conference Carolinas","5-35-0",0.125
+"6",6,4,2020,"Jen George","Conference Carolinas","3-17-0",0.15
+"7",7,5,2019,"Jen George","Conference Carolinas","6-44-0",0.12
+"8",8,6,2018,"Jen George","Conference Carolinas","3-49-0",0.058
+"9",9,7,2017,"Christy Johnson","Conference Carolinas","5-33-0",0.132
+"10",10,8,2016,"Christy Johnson","Conference Carolinas","7-33-0",0.175

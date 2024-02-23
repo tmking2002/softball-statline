@@ -1,18 +1,18 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",0,2024,"Brian Hensley","ODAC","1-1-0",0.5
-"2",1,2023,"Brian Hensley","DIII Independent","13-23-0",0.361
-"3",2,2017,"Danielle Delude","ODAC","0-26-0",0
-"4",3,2016,"Danielle Delude","ODAC","3-11-0",0.214
-"5",4,2015,"Danielle Delude","ODAC","5-23-0",0.179
-"6",5,2014,"Danielle Delude","ODAC","3-23-0",0.115
-"7",6,2013,"Danielle Delude","ODAC","0-22-0",0
-"8",7,2012,"Danielle Delude","ODAC","0-22-0",0
-"9",8,2011,"Danielle Delude","ODAC","0-20-0",0
-"10",9,2010,"Danielle Delude","ODAC","5-30-0",0.143
-"11",10,2009,"Tony Campbell","ODAC","4-29-0",0.121
-"12",11,2008,"Tony Campbell","ODAC","11-26-0",0.297
-"13",12,2007,"Tony Campbell","ODAC","14-24-0",0.368
-"14",13,2006,"Tony Campbell","ODAC","7-23-0",0.233
-"15",14,2005,"","-","0-0-0",NA
-"16",15,2004,"","-","0-0-0",NA
-"17",16,2002,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,0,2024,"Brian Hensley","ODAC","1-1-0",0.5
+"2",2,1,2023,"Brian Hensley","DIII Independent","13-23-0",0.361
+"3",3,2,2017,"Danielle Delude","ODAC","0-26-0",0
+"4",4,3,2016,"Danielle Delude","ODAC","3-11-0",0.214
+"5",5,4,2015,"Danielle Delude","ODAC","5-23-0",0.179
+"6",6,5,2014,"Danielle Delude","ODAC","3-23-0",0.115
+"7",7,6,2013,"Danielle Delude","ODAC","0-22-0",0
+"8",8,7,2012,"Danielle Delude","ODAC","0-22-0",0
+"9",9,8,2011,"Danielle Delude","ODAC","0-20-0",0
+"10",10,9,2010,"Danielle Delude","ODAC","5-30-0",0.143
+"11",11,10,2009,"Tony Campbell","ODAC","4-29-0",0.121
+"12",12,11,2008,"Tony Campbell","ODAC","11-26-0",0.297
+"13",13,12,2007,"Tony Campbell","ODAC","14-24-0",0.368
+"14",14,13,2006,"Tony Campbell","ODAC","7-23-0",0.233
+"15",15,14,2005,"","-","0-0-0",NA
+"16",16,15,2004,"","-","0-0-0",NA
+"17",17,16,2002,"","-","0-0-0",NA

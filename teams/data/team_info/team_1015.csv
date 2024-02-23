@@ -1,29 +1,29 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",27,2024,"Tara Wheeler","Gulf South","2-1-0",0.667
-"2",0,2024,"Tara Wheeler","Gulf South","5-4-0",0.555555555555556
-"3",1,2023,"Tara Wheeler","Gulf South","12-33-0",0.267
-"4",2,2022,"Jordan Bastain","Gulf South","16-31-0",0.34
-"5",3,2021,"Jordan Bastain","Gulf South","7-29-0",0.194
-"6",4,2020,"Jordan Bastain","Gulf South","9-17-0",0.346
-"7",5,2019,"Jessie Homesley","Gulf South","11-38-0",0.224
-"8",6,2018,"Jessie Homesley","Gulf South","10-39-0",0.204
-"9",7,2017,"Mandi Balduf","Gulf South","6-44-0",0.12
-"10",8,2016,"Mandi Balduf","Gulf South","9-43-0",0.173
-"11",9,2015,"Mandi Balduf","Gulf South","10-41-0",0.196
-"12",10,2014,"Paige Wright-Lovett","Gulf South","9-40-0",0.184
-"13",11,2013,"Paige Wright-Lovett","Gulf South","11-30-0",0.268
-"14",12,2012,"Kimberly Hayden","Gulf South","14-31-0",0.311
-"15",13,2011,"Kimberly Hayden","Gulf South","12-30-0",0.286
-"16",14,2010,"Kimberly Hayden","Gulf South","17-30-0",0.362
-"17",15,2009,"Donna Crone","Gulf South","20-24-0",0.455
-"18",16,2008,"Donna Crone","Gulf South","19-28-0",0.404
-"19",17,2007,"Donna Crone","Gulf South","16-25-0",0.39
-"20",18,2006,"Donna Crone","Gulf South","21-33-0",0.389
-"21",19,2005,"Donna Crone","Gulf South","13-29-0",0.31
-"22",20,2004,"Donna Crone","Gulf South","15-26-0",0.366
-"23",21,2003,"Donna Crone","Gulf South","14-28-0",0.333
-"24",22,2002,"Donna Crone","-","20-21-0",0.488
-"25",23,2001,"Donna Crone","-","11-27-0",0.289
-"26",24,2000,"Donna Crone","-","8-31-0",0.205
-"27",25,1999,"Dina Henry","-","9-25-0",0.265
-"28",26,1997,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,27,2024,"Tara Wheeler","Gulf South","5-4-0",0.555555555555556
+"2",2,0,2024,"Tara Wheeler","Gulf South","5-4-0",0.555555555555556
+"3",3,1,2023,"Tara Wheeler","Gulf South","12-33-0",0.267
+"4",4,2,2022,"Jordan Bastain","Gulf South","16-31-0",0.34
+"5",5,3,2021,"Jordan Bastain","Gulf South","7-29-0",0.194
+"6",6,4,2020,"Jordan Bastain","Gulf South","9-17-0",0.346
+"7",7,5,2019,"Jessie Homesley","Gulf South","11-38-0",0.224
+"8",8,6,2018,"Jessie Homesley","Gulf South","10-39-0",0.204
+"9",9,7,2017,"Mandi Balduf","Gulf South","6-44-0",0.12
+"10",10,8,2016,"Mandi Balduf","Gulf South","9-43-0",0.173
+"11",11,9,2015,"Mandi Balduf","Gulf South","10-41-0",0.196
+"12",12,10,2014,"Paige Wright-Lovett","Gulf South","9-40-0",0.184
+"13",13,11,2013,"Paige Wright-Lovett","Gulf South","11-30-0",0.268
+"14",14,12,2012,"Kimberly Hayden","Gulf South","14-31-0",0.311
+"15",15,13,2011,"Kimberly Hayden","Gulf South","12-30-0",0.286
+"16",16,14,2010,"Kimberly Hayden","Gulf South","17-30-0",0.362
+"17",17,15,2009,"Donna Crone","Gulf South","20-24-0",0.455
+"18",18,16,2008,"Donna Crone","Gulf South","19-28-0",0.404
+"19",19,17,2007,"Donna Crone","Gulf South","16-25-0",0.39
+"20",20,18,2006,"Donna Crone","Gulf South","21-33-0",0.389
+"21",21,19,2005,"Donna Crone","Gulf South","13-29-0",0.31
+"22",22,20,2004,"Donna Crone","Gulf South","15-26-0",0.366
+"23",23,21,2003,"Donna Crone","Gulf South","14-28-0",0.333
+"24",24,22,2002,"Donna Crone","-","20-21-0",0.488
+"25",25,23,2001,"Donna Crone","-","11-27-0",0.289
+"26",26,24,2000,"Donna Crone","-","8-31-0",0.205
+"27",27,25,1999,"Dina Henry","-","9-25-0",0.265
+"28",28,26,1997,"","-","0-0-0",NA

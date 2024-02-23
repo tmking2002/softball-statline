@@ -1,29 +1,29 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",27,2024,"Marina Demore","Mountain West","2-0-0",1
-"2",0,2024,"Marina Demore","Mountain West","8-3-0",0.727272727272727
-"3",1,2023,"Linda Garza","Mountain West","31-19-0",0.62
-"4",2,2022,"Linda Garza","Mountain West","17-35-0",0.327
-"5",3,2021,"Josh Taylor","Mountain West","24-16-0",0.6
-"6",4,2020,"Josh Taylor","Mountain West","10-14-0",0.417
-"7",5,2019,"Josh Taylor","Mountain West","29-27-0",0.518
-"8",6,2018,"Josh Taylor","Mountain West","27-27-0",0.5
-"9",7,2017,"Josh Taylor","Mountain West","30-25-0",0.545
-"10",8,2016,"Matt Meuchel","Mountain West","32-15-0",0.681
-"11",9,2015,"Matt Meuchel","Mountain West","17-38-0",0.309
-"12",10,2014,"Matt Meuchel","Mountain West","27-25-0",0.519
-"13",11,2013,"Matt Meuchel","Mountain West","30-23-0",0.566
-"14",12,2012,"Matt Meuchel","WAC","21-36-0",0.368
-"15",13,2011,"Matt Meuchel","WAC","13-34-0",0.277
-"16",14,2010,"Matt Meuchel","WAC","17-28-0",0.378
-"17",15,2009,"Matt Meuchel","WAC","40-19-0",0.678
-"18",16,2008,"Michelle Gardner","WAC","44-18-0",0.71
-"19",17,2007,"Michelle Gardner","WAC","28-31-0",0.475
-"20",18,2006,"Michelle Gardner","WAC","33-33-0",0.5
-"21",19,2005,"Michelle Gardner","WAC","22-31-0",0.415
-"22",20,2004,"Michelle Gardner","WAC","38-28-0",0.576
-"23",21,2003,"Michelle Gardner","-","22-35-0",0.386
-"24",22,1989,"","-","0-0-0",NA
-"25",23,1988,"","-","0-0-0",NA
-"26",24,1987,"","-","0-0-0",NA
-"27",25,1986,"","-","0-0-0",NA
-"28",26,1985,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,27,2024,"Marina Demore","Mountain West","8-3-0",0.727272727272727
+"2",2,0,2024,"Marina Demore","Mountain West","8-3-0",0.727272727272727
+"3",3,1,2023,"Linda Garza","Mountain West","31-19-0",0.62
+"4",4,2,2022,"Linda Garza","Mountain West","17-35-0",0.327
+"5",5,3,2021,"Josh Taylor","Mountain West","24-16-0",0.6
+"6",6,4,2020,"Josh Taylor","Mountain West","10-14-0",0.417
+"7",7,5,2019,"Josh Taylor","Mountain West","29-27-0",0.518
+"8",8,6,2018,"Josh Taylor","Mountain West","27-27-0",0.5
+"9",9,7,2017,"Josh Taylor","Mountain West","30-25-0",0.545
+"10",10,8,2016,"Matt Meuchel","Mountain West","32-15-0",0.681
+"11",11,9,2015,"Matt Meuchel","Mountain West","17-38-0",0.309
+"12",12,10,2014,"Matt Meuchel","Mountain West","27-25-0",0.519
+"13",13,11,2013,"Matt Meuchel","Mountain West","30-23-0",0.566
+"14",14,12,2012,"Matt Meuchel","WAC","21-36-0",0.368
+"15",15,13,2011,"Matt Meuchel","WAC","13-34-0",0.277
+"16",16,14,2010,"Matt Meuchel","WAC","17-28-0",0.378
+"17",17,15,2009,"Matt Meuchel","WAC","40-19-0",0.678
+"18",18,16,2008,"Michelle Gardner","WAC","44-18-0",0.71
+"19",19,17,2007,"Michelle Gardner","WAC","28-31-0",0.475
+"20",20,18,2006,"Michelle Gardner","WAC","33-33-0",0.5
+"21",21,19,2005,"Michelle Gardner","WAC","22-31-0",0.415
+"22",22,20,2004,"Michelle Gardner","WAC","38-28-0",0.576
+"23",23,21,2003,"Michelle Gardner","-","22-35-0",0.386
+"24",24,22,1989,"","-","0-0-0",NA
+"25",25,23,1988,"","-","0-0-0",NA
+"26",26,24,1987,"","-","0-0-0",NA
+"27",27,25,1986,"","-","0-0-0",NA
+"28",28,26,1985,"","-","0-0-0",NA

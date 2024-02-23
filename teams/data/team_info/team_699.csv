@@ -1,32 +1,31 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",30,2024,"Raven Rodriguez","SWAC","0-0-0",NA
-"2",0,2024,"Raven Rodriguez","SWAC","5-2-0",0.714285714285714
-"3",1,2023,"Raven Rodriguez","SWAC","16-25-0",0.39
-"4",2,2022,"Raven Rodriguez","SWAC","26-20-0",0.565
-"5",3,2021,"Worley Barker","SWAC","17-20-0",0.459
-"6",4,2020,"Worley Barker","SWAC","8-14-0",0.364
-"7",5,2019,"Worley Barker","SWAC","25-27-0",0.481
-"8",6,2018,"Worley Barker","SWAC","24-18-1",0.571
-"9",7,2017,"Worley Barker","SWAC","25-21-0",0.543
-"10",8,2016,"Worley Barker","SWAC","26-18-0",0.591
-"11",9,2015,"Worley Barker","SWAC","25-18-0",0.581
-"12",10,2014,"Worley Barker","SWAC","31-20-0",0.608
-"13",11,2013,"Worley Barker","SWAC","33-16-0",0.673
-"14",12,2012,"Worley Barker","SWAC","28-16-0",0.636
-"15",13,2011,"Worley Barker","SWAC","26-29-0",0.473
-"16",14,2010,"Worley Barker","SWAC","21-20-0",0.512
-"17",15,2009,"Worley Barker","SWAC","7-31-0",0.184
-"18",16,2008,"Worley Barker","SWAC","7-24-0",0.226
-"19",17,2007,"Worley Barker","SWAC","11-23-0",0.324
-"20",18,2006,"Worley Barker","SWAC","13-36-0",0.265
-"21",19,2005,"Worley Barker","SWAC","16-31-0",0.34
-"22",20,2004,"Yolanda Sinegal","SWAC","11-37-0",0.229
-"23",21,2003,"Yolanda Sinegal","SWAC","8-31-0",0.205
-"24",22,2002,"Yolanda Sinegal","SWAC","19-17-0",0.528
-"25",23,2001,"Yolanda Sinegal","SWAC","24-34-0",0.414
-"26",24,2000,"Yolanda Sinegal","SWAC","24-29-0",0.453
-"27",25,1999,"","SWAC","9-23-0",0.281
-"28",26,1998,"Rick Holden","-","6-22-0",0.214
-"29",27,1997,"Rick Holden","SWAC","10-19-0",0.345
-"30",28,1996,"","-","0-0-0",NA
-"31",29,1995,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"Raven Rodriguez","SWAC","5-2-0",0.714285714285714
+"2",3,1,2023,"Raven Rodriguez","SWAC","16-25-0",0.39
+"3",4,2,2022,"Raven Rodriguez","SWAC","26-20-0",0.565
+"4",5,3,2021,"Worley Barker","SWAC","17-20-0",0.459
+"5",6,4,2020,"Worley Barker","SWAC","8-14-0",0.364
+"6",7,5,2019,"Worley Barker","SWAC","25-27-0",0.481
+"7",8,6,2018,"Worley Barker","SWAC","24-18-1",0.571
+"8",9,7,2017,"Worley Barker","SWAC","25-21-0",0.543
+"9",10,8,2016,"Worley Barker","SWAC","26-18-0",0.591
+"10",11,9,2015,"Worley Barker","SWAC","25-18-0",0.581
+"11",12,10,2014,"Worley Barker","SWAC","31-20-0",0.608
+"12",13,11,2013,"Worley Barker","SWAC","33-16-0",0.673
+"13",14,12,2012,"Worley Barker","SWAC","28-16-0",0.636
+"14",15,13,2011,"Worley Barker","SWAC","26-29-0",0.473
+"15",16,14,2010,"Worley Barker","SWAC","21-20-0",0.512
+"16",17,15,2009,"Worley Barker","SWAC","7-31-0",0.184
+"17",18,16,2008,"Worley Barker","SWAC","7-24-0",0.226
+"18",19,17,2007,"Worley Barker","SWAC","11-23-0",0.324
+"19",20,18,2006,"Worley Barker","SWAC","13-36-0",0.265
+"20",21,19,2005,"Worley Barker","SWAC","16-31-0",0.34
+"21",22,20,2004,"Yolanda Sinegal","SWAC","11-37-0",0.229
+"22",23,21,2003,"Yolanda Sinegal","SWAC","8-31-0",0.205
+"23",24,22,2002,"Yolanda Sinegal","SWAC","19-17-0",0.528
+"24",25,23,2001,"Yolanda Sinegal","SWAC","24-34-0",0.414
+"25",26,24,2000,"Yolanda Sinegal","SWAC","24-29-0",0.453
+"26",27,25,1999,"","SWAC","9-23-0",0.281
+"27",28,26,1998,"Rick Holden","-","6-22-0",0.214
+"28",29,27,1997,"Rick Holden","SWAC","10-19-0",0.345
+"29",30,28,1996,"","-","0-0-0",NA
+"30",31,29,1995,"","-","0-0-0",NA

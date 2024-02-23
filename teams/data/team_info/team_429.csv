@@ -1,41 +1,41 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",39,2024,"Brooke O'Hair","Gulf South","6-0-0",1
-"2",0,2024,"Brooke O'Hair","Gulf South","6-1-0",0.857142857142857
-"3",1,2023,"Brooke O'Hair","Gulf South","43-12-0",0.782
-"4",2,2022,"Brooke O'Hair","Gulf South","22-23-0",0.489
-"5",3,2021,"Brooke O'Hair","Gulf South","21-22-0",0.488
-"6",4,2020,"Brooke O'Hair","Gulf South","15-9-0",0.625
-"7",5,2019,"Brooke O'Hair","Gulf South","40-16-0",0.714
-"8",6,2018,"Brooke O'Hair","Gulf South","29-16-0",0.644
-"9",7,2017,"Brooke O'Hair","Gulf South","35-20-0",0.636
-"10",8,2016,"Brooke O'Hair","Gulf South","38-19-0",0.667
-"11",9,2015,"Brooke O'Hair","Gulf South","30-24-0",0.556
-"12",10,2014,"Brooke O'Hair","ASC","34-14-0",0.708
-"13",11,2013,"Brooke O'Hair","ASC","8-31-0",0.205
-"14",12,2012,"Brooke O'Hair","ASC","26-14-0",0.65
-"15",13,2011,"Brooke O'Hair","ASC","33-15-0",0.688
-"16",14,2010,"Brooke O'Hair","ASC","29-13-0",0.69
-"17",15,2009,"Brooke O'Hair","ASC","22-17-0",0.564
-"18",16,2008,"Brooke O'Hair","ASC","19-21-0",0.475
-"19",17,2007,"Brooke O'Hair","ASC","38-10-0",0.792
-"20",18,2006,"Susan Musselwhite","ASC","24-16-0",0.6
-"21",19,2005,"Susan Musselwhite","ASC","25-14-0",0.641
-"22",20,2004,"Susan Musselwhite","ASC","22-14-0",0.611
-"23",21,2003,"Susan Musselwhite","ASC","23-16-0",0.59
-"24",22,2002,"Susan Musselwhite","ASC","26-14-1",0.65
-"25",23,2001,"Susan Musselwhite","-","22-10-0",0.688
-"26",24,2000,"Susan Musselwhite","-","0-0-0",NA
-"27",25,1999,"Susan Musselwhite","-","22-9-0",0.71
-"28",26,1998,"Susan Musselwhite","-","17-8-0",0.68
-"29",27,1997,"Susan Musselwhite","-","6-15-0",0.286
-"30",28,1996,"Susan Musselwhite","-","4-24-0",0.143
-"31",29,1995,"Rowanna Dozier","-","13-24-0",0.351
-"32",30,1994,"Rowanna Dozier","-","15-19-0",0.441
-"33",31,1993,"Rowanna Dozier","-","25-14-0",0.641
-"34",32,1992,"Rowanna Dozier","-","16-26-0",0.381
-"35",33,1991,"Lauren Collins","-","18-17-0",0.514
-"36",34,1990,"Lauren Collins","-","18-14-0",0.562
-"37",35,1989,"","-","0-0-0",NA
-"38",36,1988,"","-","0-0-0",NA
-"39",37,1987,"","-","0-0-0",NA
-"40",38,1986,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,39,2024,"Brooke O'Hair","Gulf South","6-1-0",0.857142857142857
+"2",2,0,2024,"Brooke O'Hair","Gulf South","6-1-0",0.857142857142857
+"3",3,1,2023,"Brooke O'Hair","Gulf South","43-12-0",0.782
+"4",4,2,2022,"Brooke O'Hair","Gulf South","22-23-0",0.489
+"5",5,3,2021,"Brooke O'Hair","Gulf South","21-22-0",0.488
+"6",6,4,2020,"Brooke O'Hair","Gulf South","15-9-0",0.625
+"7",7,5,2019,"Brooke O'Hair","Gulf South","40-16-0",0.714
+"8",8,6,2018,"Brooke O'Hair","Gulf South","29-16-0",0.644
+"9",9,7,2017,"Brooke O'Hair","Gulf South","35-20-0",0.636
+"10",10,8,2016,"Brooke O'Hair","Gulf South","38-19-0",0.667
+"11",11,9,2015,"Brooke O'Hair","Gulf South","30-24-0",0.556
+"12",12,10,2014,"Brooke O'Hair","ASC","34-14-0",0.708
+"13",13,11,2013,"Brooke O'Hair","ASC","8-31-0",0.205
+"14",14,12,2012,"Brooke O'Hair","ASC","26-14-0",0.65
+"15",15,13,2011,"Brooke O'Hair","ASC","33-15-0",0.688
+"16",16,14,2010,"Brooke O'Hair","ASC","29-13-0",0.69
+"17",17,15,2009,"Brooke O'Hair","ASC","22-17-0",0.564
+"18",18,16,2008,"Brooke O'Hair","ASC","19-21-0",0.475
+"19",19,17,2007,"Brooke O'Hair","ASC","38-10-0",0.792
+"20",20,18,2006,"Susan Musselwhite","ASC","24-16-0",0.6
+"21",21,19,2005,"Susan Musselwhite","ASC","25-14-0",0.641
+"22",22,20,2004,"Susan Musselwhite","ASC","22-14-0",0.611
+"23",23,21,2003,"Susan Musselwhite","ASC","23-16-0",0.59
+"24",24,22,2002,"Susan Musselwhite","ASC","26-14-1",0.65
+"25",25,23,2001,"Susan Musselwhite","-","22-10-0",0.688
+"26",26,24,2000,"Susan Musselwhite","-","0-0-0",NA
+"27",27,25,1999,"Susan Musselwhite","-","22-9-0",0.71
+"28",28,26,1998,"Susan Musselwhite","-","17-8-0",0.68
+"29",29,27,1997,"Susan Musselwhite","-","6-15-0",0.286
+"30",30,28,1996,"Susan Musselwhite","-","4-24-0",0.143
+"31",31,29,1995,"Rowanna Dozier","-","13-24-0",0.351
+"32",32,30,1994,"Rowanna Dozier","-","15-19-0",0.441
+"33",33,31,1993,"Rowanna Dozier","-","25-14-0",0.641
+"34",34,32,1992,"Rowanna Dozier","-","16-26-0",0.381
+"35",35,33,1991,"Lauren Collins","-","18-17-0",0.514
+"36",36,34,1990,"Lauren Collins","-","18-14-0",0.562
+"37",37,35,1989,"","-","0-0-0",NA
+"38",38,36,1988,"","-","0-0-0",NA
+"39",39,37,1987,"","-","0-0-0",NA
+"40",40,38,1986,"","-","0-0-0",NA

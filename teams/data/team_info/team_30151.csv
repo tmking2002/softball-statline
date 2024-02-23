@@ -1,23 +1,23 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",21,2024,"Kelsey Hodgson","Gulf South","1-2-0",0.333
-"2",0,2024,"Kelsey Hodgson","Gulf South","0-7-0",0
-"3",1,2023,"Kelsey Hodgson","Gulf South","8-42-0",0.16
-"4",2,2022,"Kelsey Hodgson","Gulf South","6-44-0",0.12
-"5",3,2021,"Kelsey Hodgson","Gulf South","5-34-0",0.128
-"6",4,2020,"Kelsey Hodgson","Gulf South","2-16-0",0.111
-"7",5,2019,"Danielle Brewer","Gulf South","15-27-0",0.357
-"8",6,2018,"Danielle Brewer","Gulf South","17-26-0",0.395
-"9",7,2017,"Jessie Homesley","Gulf South","28-23-0",0.549
-"10",8,2016,"Al Thomas","Gulf South","30-22-0",0.577
-"11",9,2015,"Al Thomas","Gulf South","43-17-0",0.717
-"12",10,2014,"Al Thomas","-","42-10-0",0.808
-"13",11,2013,"Al Thomas","-","46-11-0",0.807
-"14",12,2012,"Al Thomas","-","45-10-0",0.818
-"15",13,2011,"Al Thomas","-","46-15-0",0.754
-"16",14,2010,"Melanie Carter","-","51-16-0",0.761
-"17",15,2009,"Melanie Carter","-","44-16-0",0.733
-"18",16,2008,"Melanie Carter","-","50-14-0",0.781
-"19",17,2007,"Melanie Carter","-","50-12-0",0.806
-"20",18,2006,"Ricci Lattanzi","-","24-20-0",0.545
-"21",19,2005,"Janene Wofford","-","5-21-0",0.192
-"22",20,2004,"Janene Wofford","-","10-22-0",0.312
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,21,2024,"Kelsey Hodgson","Gulf South","0-7-0",0
+"2",2,0,2024,"Kelsey Hodgson","Gulf South","0-7-0",0
+"3",3,1,2023,"Kelsey Hodgson","Gulf South","8-42-0",0.16
+"4",4,2,2022,"Kelsey Hodgson","Gulf South","6-44-0",0.12
+"5",5,3,2021,"Kelsey Hodgson","Gulf South","5-34-0",0.128
+"6",6,4,2020,"Kelsey Hodgson","Gulf South","2-16-0",0.111
+"7",7,5,2019,"Danielle Brewer","Gulf South","15-27-0",0.357
+"8",8,6,2018,"Danielle Brewer","Gulf South","17-26-0",0.395
+"9",9,7,2017,"Jessie Homesley","Gulf South","28-23-0",0.549
+"10",10,8,2016,"Al Thomas","Gulf South","30-22-0",0.577
+"11",11,9,2015,"Al Thomas","Gulf South","43-17-0",0.717
+"12",12,10,2014,"Al Thomas","-","42-10-0",0.808
+"13",13,11,2013,"Al Thomas","-","46-11-0",0.807
+"14",14,12,2012,"Al Thomas","-","45-10-0",0.818
+"15",15,13,2011,"Al Thomas","-","46-15-0",0.754
+"16",16,14,2010,"Melanie Carter","-","51-16-0",0.761
+"17",17,15,2009,"Melanie Carter","-","44-16-0",0.733
+"18",18,16,2008,"Melanie Carter","-","50-14-0",0.781
+"19",19,17,2007,"Melanie Carter","-","50-12-0",0.806
+"20",20,18,2006,"Ricci Lattanzi","-","24-20-0",0.545
+"21",21,19,2005,"Janene Wofford","-","5-21-0",0.192
+"22",22,20,2004,"Janene Wofford","-","10-22-0",0.312

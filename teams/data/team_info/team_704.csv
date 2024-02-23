@@ -1,22 +1,22 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",0,2024,"T.J. Hubbard","CUSA","10-4-0",0.714285714285714
-"2",1,2023,"T.J. Hubbard","CUSA","11-34-0",0.244
-"3",2,2022,"T.J. Hubbard","CUSA","15-34-0",0.306
-"4",3,2021,"T.J. Hubbard","CUSA","11-26-0",0.297
-"5",4,2020,"T.J. Hubbard","CUSA","5-17-0",0.227
-"6",5,2019,"Tobin Echo-Hawk","CUSA","17-33-0",0.34
-"7",6,2018,"Tobin Echo-Hawk","CUSA","21-33-0",0.389
-"8",7,2017,"Tobin Echo-Hawk","CUSA","12-36-0",0.25
-"9",8,2016,"Tobin Echo-Hawk","CUSA","23-32-0",0.418
-"10",9,2015,"Tobin Echo-Hawk","CUSA","14-39-0",0.264
-"11",10,2014,"Tobin Echo-Hawk","CUSA","17-34-0",0.333
-"12",11,2013,"James Rodriguez","CUSA","13-35-0",0.271
-"13",12,2012,"James Rodriguez","CUSA","16-37-0",0.302
-"14",13,2011,"Kathleen Rodriguez","CUSA","16-37-1",0.302
-"15",14,2010,"Kathleen Rodriguez","CUSA","31-24-0",0.564
-"16",15,2009,"Kathleen Rodriguez","CUSA","27-29-1",0.482
-"17",16,2008,"Kathleen Rodriguez","CUSA","30-24-0",0.556
-"18",17,2007,"James Rodriguez (28-23)Kathleen Rodriguez (28-23)","CUSA","28-23-0",0.549
-"19",18,2006,"James Rodriguez (23-32)Kathleen Rodriguez (23-32)","CUSA","23-32-0",0.418
-"20",19,2005,"James Rodriguez (16-38)Kathleen Rodriguez (16-38)","WAC","16-38-0",0.296
-"21",20,2004,"Kathleen Rodriguez (8-46)James Rodriguez (8-46)","WAC","8-46-0",0.148
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,0,2024,"T.J. Hubbard","CUSA","10-4-0",0.714285714285714
+"2",2,1,2023,"T.J. Hubbard","CUSA","11-34-0",0.244
+"3",3,2,2022,"T.J. Hubbard","CUSA","15-34-0",0.306
+"4",4,3,2021,"T.J. Hubbard","CUSA","11-26-0",0.297
+"5",5,4,2020,"T.J. Hubbard","CUSA","5-17-0",0.227
+"6",6,5,2019,"Tobin Echo-Hawk","CUSA","17-33-0",0.34
+"7",7,6,2018,"Tobin Echo-Hawk","CUSA","21-33-0",0.389
+"8",8,7,2017,"Tobin Echo-Hawk","CUSA","12-36-0",0.25
+"9",9,8,2016,"Tobin Echo-Hawk","CUSA","23-32-0",0.418
+"10",10,9,2015,"Tobin Echo-Hawk","CUSA","14-39-0",0.264
+"11",11,10,2014,"Tobin Echo-Hawk","CUSA","17-34-0",0.333
+"12",12,11,2013,"James Rodriguez","CUSA","13-35-0",0.271
+"13",13,12,2012,"James Rodriguez","CUSA","16-37-0",0.302
+"14",14,13,2011,"Kathleen Rodriguez","CUSA","16-37-1",0.302
+"15",15,14,2010,"Kathleen Rodriguez","CUSA","31-24-0",0.564
+"16",16,15,2009,"Kathleen Rodriguez","CUSA","27-29-1",0.482
+"17",17,16,2008,"Kathleen Rodriguez","CUSA","30-24-0",0.556
+"18",18,17,2007,"James Rodriguez (28-23)Kathleen Rodriguez (28-23)","CUSA","28-23-0",0.549
+"19",19,18,2006,"James Rodriguez (23-32)Kathleen Rodriguez (23-32)","CUSA","23-32-0",0.418
+"20",20,19,2005,"James Rodriguez (16-38)Kathleen Rodriguez (16-38)","WAC","16-38-0",0.296
+"21",21,20,2004,"Kathleen Rodriguez (8-46)James Rodriguez (8-46)","WAC","8-46-0",0.148

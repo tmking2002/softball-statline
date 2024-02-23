@@ -1,25 +1,25 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",23,2024,"Travis Scott","Lone Star","5-1-0",0.833
-"2",0,2024,"Travis Scott","Lone Star","10-0-0",1
-"3",1,2023,"Travis Scott","Lone Star","29-25-0",0.537
-"4",2,2022,"Travis Scott","Lone Star","39-12-0",0.765
-"5",3,2021,"Travis Scott","Lone Star","33-14-0",0.702
-"6",4,2020,"Travis Scott","Lone Star","20-6-0",0.769
-"7",5,2019,"Travis Scott","Lone Star","34-20-0",0.63
-"8",6,2018,"Travis Scott","Lone Star","53-9-0",0.855
-"9",7,2017,"Travis Scott","Lone Star","60-7-0",0.896
-"10",8,2016,"Travis Scott","Lone Star","37-23-0",0.617
-"11",9,2015,"Travis Scott","Lone Star","33-17-1",0.66
-"12",10,2014,"Travis Scott","Lone Star","41-16-0",0.719
-"13",11,2013,"Travis Scott","Lone Star","37-18-0",0.673
-"14",12,2012,"Travis Scott","Lone Star","48-11-0",0.814
-"15",13,2011,"Travis Scott","Lone Star","45-14-0",0.763
-"16",14,2010,"Travis Scott","Lone Star","50-15-0",0.769
-"17",15,2009,"Travis Scott","Lone Star","50-10-0",0.833
-"18",16,2008,"Travis Scott","Lone Star","48-12-0",0.8
-"19",17,2007,"Travis Scott","Lone Star","53-13-0",0.803
-"20",18,2006,"Travis Scott","Lone Star","31-26-0",0.544
-"21",19,2005,"Travis Scott","Lone Star","46-16-0",0.742
-"22",20,2004,"Travis Scott","Lone Star","47-11-0",0.81
-"23",21,2003,"Kathy Rodolph","Lone Star","49-10-0",0.831
-"24",22,2002,"Kathy Rodolph","-","20-24-0",0.455
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,23,2024,"Travis Scott","Lone Star","10-0-0",1
+"2",2,0,2024,"Travis Scott","Lone Star","10-0-0",1
+"3",3,1,2023,"Travis Scott","Lone Star","29-25-0",0.537
+"4",4,2,2022,"Travis Scott","Lone Star","39-12-0",0.765
+"5",5,3,2021,"Travis Scott","Lone Star","33-14-0",0.702
+"6",6,4,2020,"Travis Scott","Lone Star","20-6-0",0.769
+"7",7,5,2019,"Travis Scott","Lone Star","34-20-0",0.63
+"8",8,6,2018,"Travis Scott","Lone Star","53-9-0",0.855
+"9",9,7,2017,"Travis Scott","Lone Star","60-7-0",0.896
+"10",10,8,2016,"Travis Scott","Lone Star","37-23-0",0.617
+"11",11,9,2015,"Travis Scott","Lone Star","33-17-1",0.66
+"12",12,10,2014,"Travis Scott","Lone Star","41-16-0",0.719
+"13",13,11,2013,"Travis Scott","Lone Star","37-18-0",0.673
+"14",14,12,2012,"Travis Scott","Lone Star","48-11-0",0.814
+"15",15,13,2011,"Travis Scott","Lone Star","45-14-0",0.763
+"16",16,14,2010,"Travis Scott","Lone Star","50-15-0",0.769
+"17",17,15,2009,"Travis Scott","Lone Star","50-10-0",0.833
+"18",18,16,2008,"Travis Scott","Lone Star","48-12-0",0.8
+"19",19,17,2007,"Travis Scott","Lone Star","53-13-0",0.803
+"20",20,18,2006,"Travis Scott","Lone Star","31-26-0",0.544
+"21",21,19,2005,"Travis Scott","Lone Star","46-16-0",0.742
+"22",22,20,2004,"Travis Scott","Lone Star","47-11-0",0.81
+"23",23,21,2003,"Kathy Rodolph","Lone Star","49-10-0",0.831
+"24",24,22,2002,"Kathy Rodolph","-","20-24-0",0.455

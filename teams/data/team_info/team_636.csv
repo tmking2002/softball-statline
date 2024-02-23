@@ -1,38 +1,37 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",36,2024,"","CIAA","0-0-0",NA
-"2",0,2024,"","CIAA","0-6-0",0
-"3",1,2023,"Mercedes Hargett","CIAA","7-20-0",0.259
-"4",2,2022,"Mercedes Hargett","CIAA","5-27-0",0.156
-"5",3,2021,"Mercedes Hargett","CIAA","0-6-0",0
-"6",4,2020,"Nadia Jefferies","CIAA","3-16-0",0.158
-"7",5,2019,"Christina Coleman","CIAA","3-21-0",0.125
-"8",6,2018,"DiShondra Goree","CIAA","12-20-0",0.375
-"9",7,2017,"DiShondra Goree","CIAA","6-28-0",0.176
-"10",8,2016,"DiShondra Goree","CIAA","10-31-0",0.244
-"11",9,2015,"DiShondra Goree","CIAA","7-27-0",0.206
-"12",10,2014,"Kimberly Miller","CIAA","7-25-0",0.219
-"13",11,2013,"Kimberly Miller","CIAA","16-24-0",0.4
-"14",12,2012,"Kimberly Miller","CIAA","13-29-0",0.31
-"15",13,2011,"Kimberly Miller","CIAA","14-42-0",0.25
-"16",14,2010,"Kimberly Miller","CIAA","15-25-0",0.375
-"17",15,2009,"Kimberly Miller","CIAA","12-19-0",0.387
-"18",16,2008,"Laura Aker","CIAA","6-19-0",0.24
-"19",17,2007,"Laura Aker","CIAA","9-19-0",0.321
-"20",18,2006,"Laura Aker","CIAA","10-14-0",0.417
-"21",19,2005,"Laura Aker","CIAA","19-19-0",0.5
-"22",20,2004,"Dianthia Ford-Kee","CIAA","23-18-0",0.561
-"23",21,2003,"Dianthia Ford-Kee","CIAA","30-14-0",0.682
-"24",22,2002,"Dianthia Ford-Kee","CIAA","19-19-0",0.5
-"25",23,2001,"Dianthia Ford-Kee","-","23-19-0",0.548
-"26",24,2000,"Dianthia Ford-Kee","-","6-20-0",0.231
-"27",25,1999,"Dianthia Ford-Kee","-","12-17-0",0.414
-"28",26,1998,"Dianthia Ford-Kee","-","14-16-0",0.467
-"29",27,1997,"Dianthia Ford-Kee","-","15-17-0",0.469
-"30",28,1996,"Dianthia Ford-Kee","-","24-10-0",0.706
-"31",29,1995,"Dianthia Ford-Kee","-","21-10-0",0.677
-"32",30,1994,"Dianthia Ford-Kee","-","30-9-0",0.769
-"33",31,1993,"Dianthia Ford-Kee","-","27-13-0",0.675
-"34",32,1992,"Dianthia Ford-Kee","-","26-11-0",0.703
-"35",33,1991,"Dianthia Ford-Kee","-","25-12-0",0.676
-"36",34,1990,"","-","0-0-0",NA
-"37",35,1989,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"","CIAA","0-6-0",0
+"2",3,1,2023,"Mercedes Hargett","CIAA","7-20-0",0.259
+"3",4,2,2022,"Mercedes Hargett","CIAA","5-27-0",0.156
+"4",5,3,2021,"Mercedes Hargett","CIAA","0-6-0",0
+"5",6,4,2020,"Nadia Jefferies","CIAA","3-16-0",0.158
+"6",7,5,2019,"Christina Coleman","CIAA","3-21-0",0.125
+"7",8,6,2018,"DiShondra Goree","CIAA","12-20-0",0.375
+"8",9,7,2017,"DiShondra Goree","CIAA","6-28-0",0.176
+"9",10,8,2016,"DiShondra Goree","CIAA","10-31-0",0.244
+"10",11,9,2015,"DiShondra Goree","CIAA","7-27-0",0.206
+"11",12,10,2014,"Kimberly Miller","CIAA","7-25-0",0.219
+"12",13,11,2013,"Kimberly Miller","CIAA","16-24-0",0.4
+"13",14,12,2012,"Kimberly Miller","CIAA","13-29-0",0.31
+"14",15,13,2011,"Kimberly Miller","CIAA","14-42-0",0.25
+"15",16,14,2010,"Kimberly Miller","CIAA","15-25-0",0.375
+"16",17,15,2009,"Kimberly Miller","CIAA","12-19-0",0.387
+"17",18,16,2008,"Laura Aker","CIAA","6-19-0",0.24
+"18",19,17,2007,"Laura Aker","CIAA","9-19-0",0.321
+"19",20,18,2006,"Laura Aker","CIAA","10-14-0",0.417
+"20",21,19,2005,"Laura Aker","CIAA","19-19-0",0.5
+"21",22,20,2004,"Dianthia Ford-Kee","CIAA","23-18-0",0.561
+"22",23,21,2003,"Dianthia Ford-Kee","CIAA","30-14-0",0.682
+"23",24,22,2002,"Dianthia Ford-Kee","CIAA","19-19-0",0.5
+"24",25,23,2001,"Dianthia Ford-Kee","-","23-19-0",0.548
+"25",26,24,2000,"Dianthia Ford-Kee","-","6-20-0",0.231
+"26",27,25,1999,"Dianthia Ford-Kee","-","12-17-0",0.414
+"27",28,26,1998,"Dianthia Ford-Kee","-","14-16-0",0.467
+"28",29,27,1997,"Dianthia Ford-Kee","-","15-17-0",0.469
+"29",30,28,1996,"Dianthia Ford-Kee","-","24-10-0",0.706
+"30",31,29,1995,"Dianthia Ford-Kee","-","21-10-0",0.677
+"31",32,30,1994,"Dianthia Ford-Kee","-","30-9-0",0.769
+"32",33,31,1993,"Dianthia Ford-Kee","-","27-13-0",0.675
+"33",34,32,1992,"Dianthia Ford-Kee","-","26-11-0",0.703
+"34",35,33,1991,"Dianthia Ford-Kee","-","25-12-0",0.676
+"35",36,34,1990,"","-","0-0-0",NA
+"36",37,35,1989,"","-","0-0-0",NA

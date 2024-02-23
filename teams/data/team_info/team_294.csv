@@ -1,28 +1,28 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",26,2024,"Andrew Rich","Big Sky","1-0-0",1
-"2",0,2024,"Andrew Rich","Big Sky","10-2-0",0.833333333333333
-"3",1,2023,"Andrew Rich","Big Sky","20-28-0",0.417
-"4",2,2022,"Andrew Rich","Big Sky","25-27-0",0.481
-"5",3,2021,"Cristal Brown","Big Sky","12-27-0",0.308
-"6",4,2020,"Cristal Brown","Big Sky","7-14-0",0.333
-"7",5,2019,"Candi Letts","Big Sky","20-27-0",0.426
-"8",6,2018,"Candi Letts","Big Sky","13-34-0",0.277
-"9",7,2017,"Candi Letts","Big Sky","18-27-0",0.4
-"10",8,2016,"Candi Letts","Big Sky","28-23-0",0.549
-"11",9,2015,"Julie Wright","Big Sky","34-18-0",0.654
-"12",10,2014,"Julie Wright","Big Sky","35-20-0",0.636
-"13",11,2013,"Julie Wright","Big Sky","29-23-0",0.558
-"14",12,2012,"Julie Wright","Pacific Coast Softball","12-36-0",0.25
-"15",13,2011,"Julie Wright","Pacific Coast Softball","16-32-0",0.333
-"16",14,2010,"Andrea Wilson","Pacific Coast Softball","14-39-0",0.264
-"17",15,2009,"Andrea Wilson","-","20-21-0",0.488
-"18",16,2008,"Larry Stocking","-","7-27-0",0.206
-"19",17,2007,"Larry Stocking","-","10-32-0",0.238
-"20",18,1983,"Mary Ann Kluge","-","18-8-0",0.692
-"21",19,1982,"Mary Ann Kluge","-","21-15-0",0.583
-"22",20,1981,"JoAnn Garavaglia","-","9-16-0",0.36
-"23",21,1980,"Ellen Margolis","-","8-20-0",0.286
-"24",22,1979,"Ellen Margolis","-","24-9-0",0.727
-"25",23,1978,"Ellen Margolis","-","19-10-0",0.655
-"26",24,1977,"Ellen Margolis","-","12-7-0",0.632
-"27",25,1976,"Ellen Margolis","-","2-11-0",0.154
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",1,26,2024,"Andrew Rich","Big Sky","10-2-0",0.833333333333333
+"2",2,0,2024,"Andrew Rich","Big Sky","10-2-0",0.833333333333333
+"3",3,1,2023,"Andrew Rich","Big Sky","20-28-0",0.417
+"4",4,2,2022,"Andrew Rich","Big Sky","25-27-0",0.481
+"5",5,3,2021,"Cristal Brown","Big Sky","12-27-0",0.308
+"6",6,4,2020,"Cristal Brown","Big Sky","7-14-0",0.333
+"7",7,5,2019,"Candi Letts","Big Sky","20-27-0",0.426
+"8",8,6,2018,"Candi Letts","Big Sky","13-34-0",0.277
+"9",9,7,2017,"Candi Letts","Big Sky","18-27-0",0.4
+"10",10,8,2016,"Candi Letts","Big Sky","28-23-0",0.549
+"11",11,9,2015,"Julie Wright","Big Sky","34-18-0",0.654
+"12",12,10,2014,"Julie Wright","Big Sky","35-20-0",0.636
+"13",13,11,2013,"Julie Wright","Big Sky","29-23-0",0.558
+"14",14,12,2012,"Julie Wright","Pacific Coast Softball","12-36-0",0.25
+"15",15,13,2011,"Julie Wright","Pacific Coast Softball","16-32-0",0.333
+"16",16,14,2010,"Andrea Wilson","Pacific Coast Softball","14-39-0",0.264
+"17",17,15,2009,"Andrea Wilson","-","20-21-0",0.488
+"18",18,16,2008,"Larry Stocking","-","7-27-0",0.206
+"19",19,17,2007,"Larry Stocking","-","10-32-0",0.238
+"20",20,18,1983,"Mary Ann Kluge","-","18-8-0",0.692
+"21",21,19,1982,"Mary Ann Kluge","-","21-15-0",0.583
+"22",22,20,1981,"JoAnn Garavaglia","-","9-16-0",0.36
+"23",23,21,1980,"Ellen Margolis","-","8-20-0",0.286
+"24",24,22,1979,"Ellen Margolis","-","24-9-0",0.727
+"25",25,23,1978,"Ellen Margolis","-","19-10-0",0.655
+"26",26,24,1977,"Ellen Margolis","-","12-7-0",0.632
+"27",27,25,1976,"Ellen Margolis","-","2-11-0",0.154

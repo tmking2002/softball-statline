@@ -1,37 +1,36 @@
-"","X","season","head_coach","conference","record","win_perc"
-"1",35,2024,"Carol Oberhelman","ODAC","0-0-0",NA
-"2",0,2024,"Carol Oberhelman","ODAC","0-2-0",0
-"3",1,2023,"Carol Oberhelman","ODAC","9-31-0",0.225
-"4",2,2022,"Steve Alcorn","USA South","18-14-0",0.562
-"5",3,2021,"Steve Alcorn","USA South","13-13-0",0.5
-"6",4,2020,"Steve Alcorn","USA South","10-2-0",0.833
-"7",5,2019,"Natalie Ruechel","USA South","31-16-0",0.66
-"8",6,2018,"Ashley Pyron","USA South","21-24-0",0.467
-"9",7,2017,"Ashley Pyron","USA South","29-20-0",0.592
-"10",8,2016,"Bren Taylor","USA South","25-16-0",0.61
-"11",9,2015,"Bren Taylor","USA South","35-5-1",0.875
-"12",10,2014,"Bren Taylor","USA South","25-13-0",0.658
-"13",11,2013,"Bren Taylor","USA South","15-23-0",0.395
-"14",12,2012,"Bren Taylor","USA South","21-22-0",0.488
-"15",13,2011,"Bren Taylor","USA South","22-20-0",0.524
-"16",14,2010,"Stefanie Clayton","USA South","5-25-0",0.167
-"17",15,2009,"Stefanie Clayton","USA South","20-17-0",0.541
-"18",16,2008,"Stefanie Clayton","USA South","8-23-0",0.258
-"19",17,2007,"Kathy Bocock","USA South","10-25-0",0.286
-"20",18,2006,"Kathy Bocock","USA South","11-29-0",0.275
-"21",19,2005,"Kathy Bocock","USA South","12-26-0",0.316
-"22",20,2004,"Kathy Bocock","USA South","20-22-0",0.476
-"23",21,2003,"Kathy Bocock","USA South","21-17-0",0.553
-"24",22,2002,"Kathy Bocock","-","23-18-0",0.561
-"25",23,2001,"Kathy Bocock","-","26-18-0",0.591
-"26",24,2000,"","-","0-0-0",NA
-"27",25,1999,"","-","0-0-0",NA
-"28",26,1998,"Kathy Bocock","-","10-21-0",0.323
-"29",27,1997,"Kathy Bocock","-","18-18-0",0.5
-"30",28,1996,"Kathy Bocock","-","15-22-0",0.405
-"31",29,1995,"Kathy Bocock","-","15-18-0",0.455
-"32",30,1994,"Kathy Bocock","-","2-28-0",0.067
-"33",31,1993,"Kathy Bocock","-","2-14-0",0.125
-"34",32,1992,"Stephanie O'Brien","-","3-25-0",0.107
-"35",33,1991,"Stephanie O'Brien","-","2-16-0",0.111
-"36",34,1990,"","-","0-0-0",NA
+"","X.1","X","season","head_coach","conference","record","win_perc"
+"1",2,0,2024,"Carol Oberhelman","ODAC","0-2-0",0
+"2",3,1,2023,"Carol Oberhelman","ODAC","9-31-0",0.225
+"3",4,2,2022,"Steve Alcorn","USA South","18-14-0",0.562
+"4",5,3,2021,"Steve Alcorn","USA South","13-13-0",0.5
+"5",6,4,2020,"Steve Alcorn","USA South","10-2-0",0.833
+"6",7,5,2019,"Natalie Ruechel","USA South","31-16-0",0.66
+"7",8,6,2018,"Ashley Pyron","USA South","21-24-0",0.467
+"8",9,7,2017,"Ashley Pyron","USA South","29-20-0",0.592
+"9",10,8,2016,"Bren Taylor","USA South","25-16-0",0.61
+"10",11,9,2015,"Bren Taylor","USA South","35-5-1",0.875
+"11",12,10,2014,"Bren Taylor","USA South","25-13-0",0.658
+"12",13,11,2013,"Bren Taylor","USA South","15-23-0",0.395
+"13",14,12,2012,"Bren Taylor","USA South","21-22-0",0.488
+"14",15,13,2011,"Bren Taylor","USA South","22-20-0",0.524
+"15",16,14,2010,"Stefanie Clayton","USA South","5-25-0",0.167
+"16",17,15,2009,"Stefanie Clayton","USA South","20-17-0",0.541
+"17",18,16,2008,"Stefanie Clayton","USA South","8-23-0",0.258
+"18",19,17,2007,"Kathy Bocock","USA South","10-25-0",0.286
+"19",20,18,2006,"Kathy Bocock","USA South","11-29-0",0.275
+"20",21,19,2005,"Kathy Bocock","USA South","12-26-0",0.316
+"21",22,20,2004,"Kathy Bocock","USA South","20-22-0",0.476
+"22",23,21,2003,"Kathy Bocock","USA South","21-17-0",0.553
+"23",24,22,2002,"Kathy Bocock","-","23-18-0",0.561
+"24",25,23,2001,"Kathy Bocock","-","26-18-0",0.591
+"25",26,24,2000,"","-","0-0-0",NA
+"26",27,25,1999,"","-","0-0-0",NA
+"27",28,26,1998,"Kathy Bocock","-","10-21-0",0.323
+"28",29,27,1997,"Kathy Bocock","-","18-18-0",0.5
+"29",30,28,1996,"Kathy Bocock","-","15-22-0",0.405
+"30",31,29,1995,"Kathy Bocock","-","15-18-0",0.455
+"31",32,30,1994,"Kathy Bocock","-","2-28-0",0.067
+"32",33,31,1993,"Kathy Bocock","-","2-14-0",0.125
+"33",34,32,1992,"Stephanie O'Brien","-","3-25-0",0.107
+"34",35,33,1991,"Stephanie O'Brien","-","2-16-0",0.111
+"35",36,34,1990,"","-","0-0-0",NA
