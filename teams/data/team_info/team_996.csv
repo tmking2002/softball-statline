@@ -1,35 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Emma Johansen","Lone Star","31-25-0","0.554"
-"2","2022","Kayla Adams","Lone Star","25-24-0","0.510"
-"3","2021","Kayla Adams","Lone Star","25-18-0","0.581"
-"4","2020","Kayla Adams","Lone Star","16-11-0","0.593"
-"5","2019","Dennis Furr","Lone Star","37-18-0","0.673"
-"6","2018","Dennis Furr","Lone Star","32-20-0","0.615"
-"7","2017","Dennis Furr","Lone Star","33-20-0","0.623"
-"8","2016","Rodney DeLong","Lone Star","33-21-0","0.611"
-"9","2015","Rodney DeLong","Lone Star","41-18-0","0.695"
-"10","2014","Rodney DeLong","Lone Star","32-22-0","0.593"
-"11","2013","Beth Watson","Lone Star","17-31-0","0.354"
-"12","2012","Beth Watson","Lone Star","17-32-0","0.347"
-"13","2011","Beth Watson","Lone Star","24-29-1","0.453"
-"14","2010","Beth Watson","Lone Star","22-26-0","0.458"
-"15","2009","Beth Watson","Lone Star","32-22-0","0.593"
-"16","2008","Richie Nye","Lone Star","35-30-0","0.538"
-"17","2007","Richie Nye","Lone Star","27-26-0","0.509"
-"18","2006","Brent Shaw","Lone Star","23-31-0","0.426"
-"19","2005","Gladys Crawford (8-21)Brent Shaw (3-10)","Lone Star","11-31-0","0.262"
-"20","2004","Gladys Crawford","Lone Star","9-34-0","0.209"
-"21","2003","Gladys Crawford","Lone Star","22-20-2","0.524"
-"22","2002","Gladys Crawford","Lone Star","10-30-0","0.250"
-"23","2001","Gladys Crawford","-","15-28-0","0.349"
-"24","2000","Gladys Crawford","-","16-24-0","0.400"
-"25","1999","Gladys Crawford","-","25-19-1","0.568"
-"26","1998","Gladys Crawford","-","29-20-0","0.592"
-"27","1997","Gladys Crawford","-","18-29-0","0.383"
-"28","1996","Kim Vinson","-","13-31-0","0.295"
-"29","1995","Kim Vinson","-","13-21-0","0.382"
-"30","1994","John Blair","-","9-22-0","0.290"
-"31","1993","Kim Vinson","-","7-28-0","0.200"
-"32","1992","Kim Vinson","-","6-28-0","0.176"
-"33","1991","Kim Vinson","-","8-22-1","0.267"
-"34","2024","Emma Johansen","Lone Star","0-0-0","  NaN"
+"","X","season","head_coach","conference","record","win_perc"
+"1",34,2024,"Emma Johansen","Lone Star","0-0-0",NA
+"2",0,2024,"Emma Johansen","Lone Star","5-5-0",0.5
+"3",1,2023,"Emma Johansen","Lone Star","31-25-0",0.554
+"4",2,2022,"Kayla Adams","Lone Star","25-24-0",0.51
+"5",3,2021,"Kayla Adams","Lone Star","25-18-0",0.581
+"6",4,2020,"Kayla Adams","Lone Star","16-11-0",0.593
+"7",5,2019,"Dennis Furr","Lone Star","37-18-0",0.673
+"8",6,2018,"Dennis Furr","Lone Star","32-20-0",0.615
+"9",7,2017,"Dennis Furr","Lone Star","33-20-0",0.623
+"10",8,2016,"Rodney DeLong","Lone Star","33-21-0",0.611
+"11",9,2015,"Rodney DeLong","Lone Star","41-18-0",0.695
+"12",10,2014,"Rodney DeLong","Lone Star","32-22-0",0.593
+"13",11,2013,"Beth Watson","Lone Star","17-31-0",0.354
+"14",12,2012,"Beth Watson","Lone Star","17-32-0",0.347
+"15",13,2011,"Beth Watson","Lone Star","24-29-1",0.453
+"16",14,2010,"Beth Watson","Lone Star","22-26-0",0.458
+"17",15,2009,"Beth Watson","Lone Star","32-22-0",0.593
+"18",16,2008,"Richie Nye","Lone Star","35-30-0",0.538
+"19",17,2007,"Richie Nye","Lone Star","27-26-0",0.509
+"20",18,2006,"Brent Shaw","Lone Star","23-31-0",0.426
+"21",19,2005,"Gladys Crawford (8-21)Brent Shaw (3-10)","Lone Star","11-31-0",0.262
+"22",20,2004,"Gladys Crawford","Lone Star","9-34-0",0.209
+"23",21,2003,"Gladys Crawford","Lone Star","22-20-2",0.524
+"24",22,2002,"Gladys Crawford","Lone Star","10-30-0",0.25
+"25",23,2001,"Gladys Crawford","-","15-28-0",0.349
+"26",24,2000,"Gladys Crawford","-","16-24-0",0.4
+"27",25,1999,"Gladys Crawford","-","25-19-1",0.568
+"28",26,1998,"Gladys Crawford","-","29-20-0",0.592
+"29",27,1997,"Gladys Crawford","-","18-29-0",0.383
+"30",28,1996,"Kim Vinson","-","13-31-0",0.295
+"31",29,1995,"Kim Vinson","-","13-21-0",0.382
+"32",30,1994,"John Blair","-","9-22-0",0.29
+"33",31,1993,"Kim Vinson","-","7-28-0",0.2
+"34",32,1992,"Kim Vinson","-","6-28-0",0.176
+"35",33,1991,"Kim Vinson","-","8-22-1",0.267

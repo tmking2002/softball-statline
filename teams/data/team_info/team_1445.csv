@@ -1,28 +1,29 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Ashley Hickman","Lone Star","9-41-0","0.180"
-"2","2022","Ashley Hickman","Lone Star","7-37-0","0.159"
-"3","2021","Elsa Cocker","Lone Star","2-28-0","0.067"
-"4","2020","Elsa Cocker","Lone Star","9-12-0","0.429"
-"5","2019","Elsa Cocker","Lone Star","7-33-0","0.175"
-"6","2018","Elsa Cocker","Lone Star","5-44-0","0.102"
-"7","2017","Angela Corliss","Lone Star","2-46-0","0.042"
-"8","2016","Angela Corliss","RMAC","21-34-0","0.382"
-"9","2015","Angela Corliss","RMAC","23-30-0","0.434"
-"10","2014","Angela Corliss","RMAC","16-36-0","0.308"
-"11","2013","Angela Corliss","RMAC","19-32-0","0.373"
-"12","2012","Angela Corliss","RMAC","16-37-0","0.302"
-"13","2011","Scott Woodard","RMAC","29-29-0","0.500"
-"14","2010","Scott Woodard","RMAC","27-24-0","0.529"
-"15","2009","Scott Woodard","RMAC","17-31-0","0.354"
-"16","2008","Scott Woodard","RMAC","25-32-0","0.439"
-"17","2007","Freddy Flores","RMAC","35-20-1","0.636"
-"18","2006","Freddy Flores","Heartland","25-22-0","0.532"
-"19","2005","Freddy Flores","PacWest","26-29-0","0.473"
-"20","2004","Freddy Flores","PacWest","45-13-0","0.776"
-"21","2003","Freddy Flores","-","53-10-0","0.841"
-"22","2002","Freddy Flores","-","42-11-1","0.792"
-"23","2001","Freddy Flores","-","34-10-0","0.773"
-"24","2000","Scott Woodard","-","32-17-0","0.653"
-"25","1999","Scott Woodard","-","30-20-0","0.600"
-"26","1998","Scott Woodard","-","31-14-1","0.689"
-"27","2024","Ashley Hickman","Lone Star","3-2-0","0.600"
+"","X","season","head_coach","conference","record","win_perc"
+"1",27,2024,"Ashley Hickman","Lone Star","3-2-0",0.6
+"2",0,2024,"Ashley Hickman","Lone Star","3-5-0",0.375
+"3",1,2023,"Ashley Hickman","Lone Star","9-41-0",0.18
+"4",2,2022,"Ashley Hickman","Lone Star","7-37-0",0.159
+"5",3,2021,"Elsa Cocker","Lone Star","2-28-0",0.067
+"6",4,2020,"Elsa Cocker","Lone Star","9-12-0",0.429
+"7",5,2019,"Elsa Cocker","Lone Star","7-33-0",0.175
+"8",6,2018,"Elsa Cocker","Lone Star","5-44-0",0.102
+"9",7,2017,"Angela Corliss","Lone Star","2-46-0",0.042
+"10",8,2016,"Angela Corliss","RMAC","21-34-0",0.382
+"11",9,2015,"Angela Corliss","RMAC","23-30-0",0.434
+"12",10,2014,"Angela Corliss","RMAC","16-36-0",0.308
+"13",11,2013,"Angela Corliss","RMAC","19-32-0",0.373
+"14",12,2012,"Angela Corliss","RMAC","16-37-0",0.302
+"15",13,2011,"Scott Woodard","RMAC","29-29-0",0.5
+"16",14,2010,"Scott Woodard","RMAC","27-24-0",0.529
+"17",15,2009,"Scott Woodard","RMAC","17-31-0",0.354
+"18",16,2008,"Scott Woodard","RMAC","25-32-0",0.439
+"19",17,2007,"Freddy Flores","RMAC","35-20-1",0.636
+"20",18,2006,"Freddy Flores","Heartland","25-22-0",0.532
+"21",19,2005,"Freddy Flores","PacWest","26-29-0",0.473
+"22",20,2004,"Freddy Flores","PacWest","45-13-0",0.776
+"23",21,2003,"Freddy Flores","-","53-10-0",0.841
+"24",22,2002,"Freddy Flores","-","42-11-1",0.792
+"25",23,2001,"Freddy Flores","-","34-10-0",0.773
+"26",24,2000,"Scott Woodard","-","32-17-0",0.653
+"27",25,1999,"Scott Woodard","-","30-20-0",0.6
+"28",26,1998,"Scott Woodard","-","31-14-1",0.689

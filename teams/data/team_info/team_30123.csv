@@ -1,17 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Nikki Gentile","PacWest","10-41-0","0.196"
-"2","2022","Nikki Gentile","PacWest","10-43-0","0.189"
-"3","2021","Nikki Gentile","PacWest","15-13-0","0.536"
-"4","2020","Steve Rianda","PacWest","6-17-0","0.261"
-"5","2019","Alex Gomez","PacWest","20-19-0","0.513"
-"6","2018","Sonja Garnett","PacWest","40-18-0","0.690"
-"7","2017","Sonja Garnett","PacWest","25-25-0","0.500"
-"8","2016","Sonja Garnett","PacWest","17-34-1","0.333"
-"9","2015","Sonja Garnett","PacWest","28-26-0","0.519"
-"10","2014","Sami Strinz-Ward (-)Randy Ward (-)","PacWest","16-34-0","0.320"
-"11","2013","Sami Strinz-Ward (17-32)Randy Ward (17-32)","PacWest","17-32-0","0.347"
-"12","2012","Rachel Sherman","PacWest","21-28-0","0.429"
-"13","2011","Rachel Sherman","PacWest","29-20-0","0.592"
-"14","2010","Rachel Sherman","PacWest","29-23-1","0.558"
-"15","2009","Rachel Sherman","-","15-29-0","0.341"
-"16","2024","Geena Garabedian","PacWest","2-2-0","0.500"
+"","X","season","head_coach","conference","record","win_perc"
+"1",16,2024,"Geena Garabedian","PacWest","2-2-0",0.5
+"2",0,2024,"Geena Garabedian","PacWest","2-3-0",0.4
+"3",1,2023,"Nikki Gentile","PacWest","10-41-0",0.196
+"4",2,2022,"Nikki Gentile","PacWest","10-43-0",0.189
+"5",3,2021,"Nikki Gentile","PacWest","15-13-0",0.536
+"6",4,2020,"Steve Rianda","PacWest","6-17-0",0.261
+"7",5,2019,"Alex Gomez","PacWest","20-19-0",0.513
+"8",6,2018,"Sonja Garnett","PacWest","40-18-0",0.69
+"9",7,2017,"Sonja Garnett","PacWest","25-25-0",0.5
+"10",8,2016,"Sonja Garnett","PacWest","17-34-1",0.333
+"11",9,2015,"Sonja Garnett","PacWest","28-26-0",0.519
+"12",10,2014,"Sami Strinz-Ward (-)Randy Ward (-)","PacWest","16-34-0",0.32
+"13",11,2013,"Sami Strinz-Ward (17-32)Randy Ward (17-32)","PacWest","17-32-0",0.347
+"14",12,2012,"Rachel Sherman","PacWest","21-28-0",0.429
+"15",13,2011,"Rachel Sherman","PacWest","29-20-0",0.592
+"16",14,2010,"Rachel Sherman","PacWest","29-23-1",0.558
+"17",15,2009,"Rachel Sherman","-","15-29-0",0.341

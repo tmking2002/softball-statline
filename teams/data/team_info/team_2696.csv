@@ -1,32 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jarnett Lono","PacWest","22-32-0","0.407"
-"2","2022","Jarnett Lono","PacWest","24-26-0","0.480"
-"3","2021","Jarnett Lono","PacWest","8-15-0","0.348"
-"4","2020","Jarnett Lono (14-13)Bryan Nakasone (14-13)","PacWest","14-13-0","0.519"
-"5","2019","Bryan Nakasone (31-24)Jarnett Lono (31-24)","PacWest","31-24-0","0.564"
-"6","2018","Bryan Nakasone (22-18)Jarnett Lono (22-18)","PacWest","22-18-0","0.550"
-"7","2017","Bryan Nakasone","PacWest","29-19-0","0.604"
-"8","2016","Bryan Nakasone","PacWest","16-32-0","0.333"
-"9","2015","Bryan Nakasone","PacWest","26-21-1","0.553"
-"10","2014","Bryan Nakasone","PacWest","21-22-0","0.488"
-"11","2013","Bryan Nakasone","PacWest","30-19-0","0.612"
-"12","2012","Bryan Nakasone","PacWest","32-18-0","0.640"
-"13","2011","Bryan Nakasone","PacWest","38-12-0","0.760"
-"14","2010","Bryan Nakasone","PacWest","50-8-0","0.862"
-"15","2009","Bryan Nakasone","PacWest","42-12-0","0.778"
-"16","2008","Howard Okita","PacWest","43-5-1","0.896"
-"17","2007","Howard Okita","PacWest","34-16-0","0.680"
-"18","2006","Howard Okita","PacWest","22-17-0","0.564"
-"19","2005","Howard Okita","PacWest","31-15-0","0.674"
-"20","2004","Howard Okita","PacWest","22-21-0","0.512"
-"21","2003","Howard Okita","-","32-20-0","0.615"
-"22","2002","Howard Okita","-","21-21-0","0.500"
-"23","2001","Howard Okita","-","34-15-0","0.694"
-"24","2000","Howard Okita","-","36-14-0","0.720"
-"25","1999","Howard Okita","-","44-6-1","0.880"
-"26","1998","Howard Okita","-","35-17-0","0.673"
-"27","1997","Howard Okita","-","49-8-0","0.860"
-"28","1996","Howard Okita","-","35-13-0","0.729"
-"29","1995","Howard Okita","-","28-10-1","0.737"
-"30","1994","Howard Okita","-","34-10-0","0.773"
-"31","2024","Jarnett Lono","PacWest","1-3-0","0.250"
+"","X","season","head_coach","conference","record","win_perc"
+"1",31,2024,"Jarnett Lono","PacWest","1-3-0",0.25
+"2",0,2024,"Jarnett Lono","PacWest","2-4-0",0.333333333333333
+"3",1,2023,"Jarnett Lono","PacWest","22-32-0",0.407
+"4",2,2022,"Jarnett Lono","PacWest","24-26-0",0.48
+"5",3,2021,"Jarnett Lono","PacWest","8-15-0",0.348
+"6",4,2020,"Jarnett Lono (14-13)Bryan Nakasone (14-13)","PacWest","14-13-0",0.519
+"7",5,2019,"Bryan Nakasone (31-24)Jarnett Lono (31-24)","PacWest","31-24-0",0.564
+"8",6,2018,"Bryan Nakasone (22-18)Jarnett Lono (22-18)","PacWest","22-18-0",0.55
+"9",7,2017,"Bryan Nakasone","PacWest","29-19-0",0.604
+"10",8,2016,"Bryan Nakasone","PacWest","16-32-0",0.333
+"11",9,2015,"Bryan Nakasone","PacWest","26-21-1",0.553
+"12",10,2014,"Bryan Nakasone","PacWest","21-22-0",0.488
+"13",11,2013,"Bryan Nakasone","PacWest","30-19-0",0.612
+"14",12,2012,"Bryan Nakasone","PacWest","32-18-0",0.64
+"15",13,2011,"Bryan Nakasone","PacWest","38-12-0",0.76
+"16",14,2010,"Bryan Nakasone","PacWest","50-8-0",0.862
+"17",15,2009,"Bryan Nakasone","PacWest","42-12-0",0.778
+"18",16,2008,"Howard Okita","PacWest","43-5-1",0.896
+"19",17,2007,"Howard Okita","PacWest","34-16-0",0.68
+"20",18,2006,"Howard Okita","PacWest","22-17-0",0.564
+"21",19,2005,"Howard Okita","PacWest","31-15-0",0.674
+"22",20,2004,"Howard Okita","PacWest","22-21-0",0.512
+"23",21,2003,"Howard Okita","-","32-20-0",0.615
+"24",22,2002,"Howard Okita","-","21-21-0",0.5
+"25",23,2001,"Howard Okita","-","34-15-0",0.694
+"26",24,2000,"Howard Okita","-","36-14-0",0.72
+"27",25,1999,"Howard Okita","-","44-6-1",0.88
+"28",26,1998,"Howard Okita","-","35-17-0",0.673
+"29",27,1997,"Howard Okita","-","49-8-0",0.86
+"30",28,1996,"Howard Okita","-","35-13-0",0.729
+"31",29,1995,"Howard Okita","-","28-10-1",0.737
+"32",30,1994,"Howard Okita","-","34-10-0",0.773

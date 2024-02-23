@@ -1,22 +1,23 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Chanin Naudin","ASC","26-15-0","0.634"
-"2","2022","Chanin Naudin","ASC","29-15-0","0.659"
-"3","2021","Chanin Naudin","ASC","16-20-0","0.444"
-"4","2020","Chanin Naudin","ASC","8-10-0","0.444"
-"5","2019","Chanin Naudin","ASC","20-24-0","0.455"
-"6","2018","Chanin Naudin","ASC","1-37-0","0.026"
-"7","2017","Arin Spence-Salas","ASC","17-22-0","0.436"
-"8","2016","Arin Spence-Salas","ASC","16-21-0","0.432"
-"9","2015","Arin Spence-Salas","ASC","22-16-0","0.579"
-"10","2014","Arin Spence-Salas","ASC","22-19-0","0.537"
-"11","2013","Arin Spence-Salas","ASC","12-25-1","0.324"
-"12","2012","Dan Sheppard","ASC","23-17-0","0.575"
-"13","2011","Dan Sheppard","ASC","24-19-0","0.558"
-"14","2010","Rita Jordan","ASC","24-13-0","0.649"
-"15","2009","Rita Jordan","ASC","31-12-0","0.721"
-"16","2008","Rita Jordan","ASC","16-18-0","0.471"
-"17","2007","Rita Jordan","ASC","29-16-0","0.644"
-"18","2006","Rita Jordan","ASC","30-12-0","0.714"
-"19","2005","Rita Jordan","ASC","32-9-0","0.780"
-"20","2004","Rita Jordan","ASC","10-27-1","0.270"
-"21","2024","Casey Wilson","ASC","0-0-0","  NaN"
+"","X","season","head_coach","conference","record","win_perc"
+"1",21,2024,"Casey Wilson","ASC","0-0-0",NA
+"2",0,2024,"Casey Wilson","ASC","4-0-0",1
+"3",1,2023,"Chanin Naudin","ASC","26-15-0",0.634
+"4",2,2022,"Chanin Naudin","ASC","29-15-0",0.659
+"5",3,2021,"Chanin Naudin","ASC","16-20-0",0.444
+"6",4,2020,"Chanin Naudin","ASC","8-10-0",0.444
+"7",5,2019,"Chanin Naudin","ASC","20-24-0",0.455
+"8",6,2018,"Chanin Naudin","ASC","1-37-0",0.026
+"9",7,2017,"Arin Spence-Salas","ASC","17-22-0",0.436
+"10",8,2016,"Arin Spence-Salas","ASC","16-21-0",0.432
+"11",9,2015,"Arin Spence-Salas","ASC","22-16-0",0.579
+"12",10,2014,"Arin Spence-Salas","ASC","22-19-0",0.537
+"13",11,2013,"Arin Spence-Salas","ASC","12-25-1",0.324
+"14",12,2012,"Dan Sheppard","ASC","23-17-0",0.575
+"15",13,2011,"Dan Sheppard","ASC","24-19-0",0.558
+"16",14,2010,"Rita Jordan","ASC","24-13-0",0.649
+"17",15,2009,"Rita Jordan","ASC","31-12-0",0.721
+"18",16,2008,"Rita Jordan","ASC","16-18-0",0.471
+"19",17,2007,"Rita Jordan","ASC","29-16-0",0.644
+"20",18,2006,"Rita Jordan","ASC","30-12-0",0.714
+"21",19,2005,"Rita Jordan","ASC","32-9-0",0.78
+"22",20,2004,"Rita Jordan","ASC","10-27-1",0.27

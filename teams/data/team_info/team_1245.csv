@@ -1,32 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Mandy Sansbury","Conference Carolinas","23-20-0","0.535"
-"2","2022","Mandy Sansbury","Conference Carolinas","39-13-0","0.750"
-"3","2021","Mandy Sansbury","Conference Carolinas","24-15-0","0.615"
-"4","2020","Mandy Sansbury","Conference Carolinas","17-5-0","0.773"
-"5","2019","Mandy Sansbury","Conference Carolinas","33-19-0","0.635"
-"6","2018","Mandy Sansbury","Conference Carolinas","24-28-0","0.462"
-"7","2017","Mandy Sansbury","Conference Carolinas","25-29-0","0.463"
-"8","2016","Mandy Sansbury","Conference Carolinas","33-20-0","0.623"
-"9","2015","Mandy Sansbury","Conference Carolinas","29-20-0","0.592"
-"10","2014","Jaime Kylis","Conference Carolinas","24-26-0","0.480"
-"11","2013","Jaime Kylis","Conference Carolinas","34-15-0","0.694"
-"12","2012","Jaime Kylis","Conference Carolinas","31-17-0","0.646"
-"13","2011","Jaime Kylis","Conference Carolinas","23-27-0","0.460"
-"14","2010","Jaime Kylis","Conference Carolinas","23-29-0","0.442"
-"15","2009","Jaime Kylis","Conference Carolinas","25-18-1","0.581"
-"16","2008","Jaime Kylis","Conference Carolinas","29-21-0","0.580"
-"17","2007","Jaime Kylis","Conference Carolinas","39-19-0","0.672"
-"18","2006","Jaime Kylis","Conference Carolinas","26-30-0","0.464"
-"19","2005","Jaime Kylis","Conference Carolinas","17-33-0","0.340"
-"20","2004","Jaime Kylis","Conference Carolinas","14-35-0","0.286"
-"21","2003","Sharon Gregory","-","0-0-0","  NaN"
-"22","2002","Sharon Gregory","Conference Carolinas","18-34-0","0.346"
-"23","2001","Sharon Gregory","-","11-31-0","0.262"
-"24","2000","Sharon Gregory","-","35-15-0","0.700"
-"25","1999","Sharon Gregory","-","23-26-0","0.469"
-"26","1998","Sharon Gregory","-","35-17-0","0.673"
-"27","1997","Kathy Riley","-","31-23-0","0.574"
-"28","1996","Kathy Riley","-","28-26-0","0.519"
-"29","1995","Kathy Riley","-","16-17-0","0.485"
-"30","1994","Kathy Riley","-","12-16-0","0.429"
-"31","2024","Luke Shamblin","Conference Carolinas","6-2-0","0.750"
+"","X","season","head_coach","conference","record","win_perc"
+"1",31,2024,"Luke Shamblin","Conference Carolinas","6-2-0",0.75
+"2",0,2024,"Luke Shamblin","Conference Carolinas","8-0-0",1
+"3",1,2023,"Mandy Sansbury","Conference Carolinas","23-20-0",0.535
+"4",2,2022,"Mandy Sansbury","Conference Carolinas","39-13-0",0.75
+"5",3,2021,"Mandy Sansbury","Conference Carolinas","24-15-0",0.615
+"6",4,2020,"Mandy Sansbury","Conference Carolinas","17-5-0",0.773
+"7",5,2019,"Mandy Sansbury","Conference Carolinas","33-19-0",0.635
+"8",6,2018,"Mandy Sansbury","Conference Carolinas","24-28-0",0.462
+"9",7,2017,"Mandy Sansbury","Conference Carolinas","25-29-0",0.463
+"10",8,2016,"Mandy Sansbury","Conference Carolinas","33-20-0",0.623
+"11",9,2015,"Mandy Sansbury","Conference Carolinas","29-20-0",0.592
+"12",10,2014,"Jaime Kylis","Conference Carolinas","24-26-0",0.48
+"13",11,2013,"Jaime Kylis","Conference Carolinas","34-15-0",0.694
+"14",12,2012,"Jaime Kylis","Conference Carolinas","31-17-0",0.646
+"15",13,2011,"Jaime Kylis","Conference Carolinas","23-27-0",0.46
+"16",14,2010,"Jaime Kylis","Conference Carolinas","23-29-0",0.442
+"17",15,2009,"Jaime Kylis","Conference Carolinas","25-18-1",0.581
+"18",16,2008,"Jaime Kylis","Conference Carolinas","29-21-0",0.58
+"19",17,2007,"Jaime Kylis","Conference Carolinas","39-19-0",0.672
+"20",18,2006,"Jaime Kylis","Conference Carolinas","26-30-0",0.464
+"21",19,2005,"Jaime Kylis","Conference Carolinas","17-33-0",0.34
+"22",20,2004,"Jaime Kylis","Conference Carolinas","14-35-0",0.286
+"23",21,2003,"Sharon Gregory","-","0-0-0",NA
+"24",22,2002,"Sharon Gregory","Conference Carolinas","18-34-0",0.346
+"25",23,2001,"Sharon Gregory","-","11-31-0",0.262
+"26",24,2000,"Sharon Gregory","-","35-15-0",0.7
+"27",25,1999,"Sharon Gregory","-","23-26-0",0.469
+"28",26,1998,"Sharon Gregory","-","35-17-0",0.673
+"29",27,1997,"Kathy Riley","-","31-23-0",0.574
+"30",28,1996,"Kathy Riley","-","28-26-0",0.519
+"31",29,1995,"Kathy Riley","-","16-17-0",0.485
+"32",30,1994,"Kathy Riley","-","12-16-0",0.429

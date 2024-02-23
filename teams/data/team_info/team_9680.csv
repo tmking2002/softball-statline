@@ -1,13 +1,14 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kelsi Dunne Diaz","Sunshine State","28-22-0","0.560"
-"2","2022","Kelsi Dunne Diaz","Sunshine State","28-18-0","0.609"
-"3","2021","Kelsi Dunne Diaz","Sunshine State","0-0-0","  NaN"
-"4","2020","Kelsi Dunne Diaz","Sunshine State","18-6-0","0.750"
-"5","2019","Kelsi Dunne Diaz","Sunshine State","26-19-0","0.578"
-"6","2018","Kelsi Dunne Diaz","Sunshine State","33-15-0","0.688"
-"7","2017","Kelsi Dunne Diaz","DII Independent","26-22-0","0.542"
-"8","2016","Kelsi Dunne Diaz","Sunshine State","35-13-0","0.729"
-"9","2015","Kelsi Dunne Diaz","Sunshine State","25-21-0","0.543"
-"10","2014","Sarah Lockett","-","23-18-0","0.561"
-"11","2013","Sarah Lockett","-","16-25-0","0.390"
-"12","2024","Kelsi Dunne Diaz","Sunshine State","3-1-0","0.750"
+"","X","season","head_coach","conference","record","win_perc"
+"1",12,2024,"Kelsi Dunne Diaz","Sunshine State","3-1-0",0.75
+"2",0,2024,"Kelsi Dunne Diaz","Sunshine State","3-4-0",0.428571428571429
+"3",1,2023,"Kelsi Dunne Diaz","Sunshine State","28-22-0",0.56
+"4",2,2022,"Kelsi Dunne Diaz","Sunshine State","28-18-0",0.609
+"5",3,2021,"Kelsi Dunne Diaz","Sunshine State","0-0-0",NA
+"6",4,2020,"Kelsi Dunne Diaz","Sunshine State","18-6-0",0.75
+"7",5,2019,"Kelsi Dunne Diaz","Sunshine State","26-19-0",0.578
+"8",6,2018,"Kelsi Dunne Diaz","Sunshine State","33-15-0",0.688
+"9",7,2017,"Kelsi Dunne Diaz","DII Independent","26-22-0",0.542
+"10",8,2016,"Kelsi Dunne Diaz","Sunshine State","35-13-0",0.729
+"11",9,2015,"Kelsi Dunne Diaz","Sunshine State","25-21-0",0.543
+"12",10,2014,"Sarah Lockett","-","23-18-0",0.561
+"13",11,2013,"Sarah Lockett","-","16-25-0",0.39

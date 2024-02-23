@@ -1,23 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kristin Ryman","ASUN","21-29-0","0.420"
-"2","2022","Kristin Ryman","ASUN","20-32-0","0.385"
-"3","2021","Kristin Ryman","ASUN","18-18-0","0.500"
-"4","2020","Kristin Ryman","ASUN","12-10-0","0.545"
-"5","2019","Kristin Ryman","ASUN","42-15-1","0.737"
-"6","2018","Kristin Ryman","ASUN","33-17-0","0.660"
-"7","2017","Kristin Ryman","ASUN","36-20-0","0.643"
-"8","2016","Kristin Ryman","ASUN","26-29-0","0.473"
-"9","2015","Kristin Ryman","ASUN","31-25-0","0.554"
-"10","2014","Kristin Ryman","ASUN","41-15-0","0.732"
-"11","2013","Kristin Ryman","ASUN","35-24-0","0.593"
-"12","2012","Kristin Ryman","ASUN","35-20-0","0.636"
-"13","2011","Kristin Ryman","ASUN","30-20-0","0.600"
-"14","2010","Kristin Ryman","ASUN","50-13-0","0.794"
-"15","2009","Kristin Ryman","ASUN","39-14-0","0.736"
-"16","2008","Kristin Ryman","ASUN","29-26-0","0.527"
-"17","2007","Kristin Ryman","ASUN","25-28-1","0.472"
-"18","2006","Kristin Ryman","ASUN","14-34-0","0.292"
-"19","2005","Andy Lane","ASUN","27-24-0","0.529"
-"20","2004","","ASUN","18-34-0","0.346"
-"21","2003","","-","0-0-0","  NaN"
-"22","2002","","-","25-26-0","0.490"
+"","X","season","head_coach","conference","record","win_perc"
+"1",0,2024,"Kristin Ryman","ASUN","3-6-0",0.333333333333333
+"2",1,2023,"Kristin Ryman","ASUN","21-29-0",0.42
+"3",2,2022,"Kristin Ryman","ASUN","20-32-0",0.385
+"4",3,2021,"Kristin Ryman","ASUN","18-18-0",0.5
+"5",4,2020,"Kristin Ryman","ASUN","12-10-0",0.545
+"6",5,2019,"Kristin Ryman","ASUN","42-15-1",0.737
+"7",6,2018,"Kristin Ryman","ASUN","33-17-0",0.66
+"8",7,2017,"Kristin Ryman","ASUN","36-20-0",0.643
+"9",8,2016,"Kristin Ryman","ASUN","26-29-0",0.473
+"10",9,2015,"Kristin Ryman","ASUN","31-25-0",0.554
+"11",10,2014,"Kristin Ryman","ASUN","41-15-0",0.732
+"12",11,2013,"Kristin Ryman","ASUN","35-24-0",0.593
+"13",12,2012,"Kristin Ryman","ASUN","35-20-0",0.636
+"14",13,2011,"Kristin Ryman","ASUN","30-20-0",0.6
+"15",14,2010,"Kristin Ryman","ASUN","50-13-0",0.794
+"16",15,2009,"Kristin Ryman","ASUN","39-14-0",0.736
+"17",16,2008,"Kristin Ryman","ASUN","29-26-0",0.527
+"18",17,2007,"Kristin Ryman","ASUN","25-28-1",0.472
+"19",18,2006,"Kristin Ryman","ASUN","14-34-0",0.292
+"20",19,2005,"Andy Lane","ASUN","27-24-0",0.529
+"21",20,2004,"","ASUN","18-34-0",0.346
+"22",21,2003,"","-","0-0-0",NA
+"23",22,2002,"","-","25-26-0",0.49

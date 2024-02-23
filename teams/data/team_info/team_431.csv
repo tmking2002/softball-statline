@@ -1,30 +1,31 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Buddy Foster","DIII Independent","26-20-0","0.565"
-"2","2022","Buddy Foster","DIII Independent","0-0-0","  NaN"
-"3","2021","Buddy Foster","DIII Independent","0-0-0","  NaN"
-"4","2020","John Newman","-","0-0-0","  NaN"
-"5","2019","John Newman","-","0-0-0","  NaN"
-"6","2018","","-","0-0-0","  NaN"
-"7","2012","","-","0-0-0","  NaN"
-"8","2011","","-","0-0-0","  NaN"
-"9","2010","","-","0-0-0","  NaN"
-"10","2003","Rita Higginbotham","Gulf South","30-17-0","0.638"
-"11","2002","Rita Higginbotham","Gulf South","21-20-0","0.512"
-"12","2001","Rita Higginbotham","-","26-21-0","0.553"
-"13","2000","Rita Higginbotham","-","32-25-0","0.561"
-"14","1999","Rita Higginbotham","-","42-14-0","0.750"
-"15","1998","Rita Higginbotham","-","42-16-0","0.724"
-"16","1997","Rita Higginbotham","-","26-22-0","0.542"
-"17","1996","Rita Higginbotham","-","37-19-0","0.661"
-"18","1995","Rita Higginbotham","-","30-27-0","0.526"
-"19","1994","Rita Higginbotham","-","30-10-0","0.750"
-"20","1993","Rita Higginbotham","-","20-8-0","0.714"
-"21","1992","Rita Higginbotham","-","41-12-0","0.774"
-"22","1991","Rita Higginbotham","-","24-17-0","0.585"
-"23","1990","Rita Higginbotham","-","20-10-0","0.667"
-"24","1989","Rita Higginbotham","-","33-14-0","0.702"
-"25","1988","Rita Higginbotham","-","21-20-0","0.512"
-"26","1987","Rita Higginbotham","-","33-13-0","0.717"
-"27","1986","Rita Higginbotham","-","31-8-0","0.795"
-"28","1985","Rita Higginbotham","-","20-11-0","0.645"
-"29","1984","Rita Higginbotham","-","13-10-0","0.565"
+"","X","season","head_coach","conference","record","win_perc"
+"1",0,2024,"Rebecca Oldham","SLIAC","4-1-0",0.8
+"2",1,2023,"Buddy Foster","DIII Independent","26-20-0",0.565
+"3",2,2022,"Buddy Foster","DIII Independent","0-0-0",NA
+"4",3,2021,"Buddy Foster","DIII Independent","0-0-0",NA
+"5",4,2020,"John Newman","-","0-0-0",NA
+"6",5,2019,"John Newman","-","0-0-0",NA
+"7",6,2018,"","-","0-0-0",NA
+"8",7,2012,"","-","0-0-0",NA
+"9",8,2011,"","-","0-0-0",NA
+"10",9,2010,"","-","0-0-0",NA
+"11",10,2003,"Rita Higginbotham","Gulf South","30-17-0",0.638
+"12",11,2002,"Rita Higginbotham","Gulf South","21-20-0",0.512
+"13",12,2001,"Rita Higginbotham","-","26-21-0",0.553
+"14",13,2000,"Rita Higginbotham","-","32-25-0",0.561
+"15",14,1999,"Rita Higginbotham","-","42-14-0",0.75
+"16",15,1998,"Rita Higginbotham","-","42-16-0",0.724
+"17",16,1997,"Rita Higginbotham","-","26-22-0",0.542
+"18",17,1996,"Rita Higginbotham","-","37-19-0",0.661
+"19",18,1995,"Rita Higginbotham","-","30-27-0",0.526
+"20",19,1994,"Rita Higginbotham","-","30-10-0",0.75
+"21",20,1993,"Rita Higginbotham","-","20-8-0",0.714
+"22",21,1992,"Rita Higginbotham","-","41-12-0",0.774
+"23",22,1991,"Rita Higginbotham","-","24-17-0",0.585
+"24",23,1990,"Rita Higginbotham","-","20-10-0",0.667
+"25",24,1989,"Rita Higginbotham","-","33-14-0",0.702
+"26",25,1988,"Rita Higginbotham","-","21-20-0",0.512
+"27",26,1987,"Rita Higginbotham","-","33-13-0",0.717
+"28",27,1986,"Rita Higginbotham","-","31-8-0",0.795
+"29",28,1985,"Rita Higginbotham","-","20-11-0",0.645
+"30",29,1984,"Rita Higginbotham","-","13-10-0",0.565

@@ -1,36 +1,37 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Leslie Kanter","Sunshine State","44-5-0","0.898"
-"2","2022","Leslie Kanter","Sunshine State","38-13-0","0.745"
-"3","2021","Leslie Kanter","Sunshine State","18-4-0","0.818"
-"4","2020","Leslie Kanter","Sunshine State","19-9-0","0.679"
-"5","2019","Leslie Kanter","Sunshine State","34-13-0","0.723"
-"6","2018","Leslie Kanter","Sunshine State","28-16-0","0.636"
-"7","2017","Leslie Kanter","Sunshine State","29-12-0","0.707"
-"8","2016","Leslie Kanter","Sunshine State","18-21-0","0.462"
-"9","2015","Leslie Kanter","Sunshine State","28-13-0","0.683"
-"10","2014","Leslie Kanter","Sunshine State","33-8-0","0.805"
-"11","2013","Leslie Kanter","Sunshine State","33-10-0","0.767"
-"12","2012","Leslie Kanter","Sunshine State","37-8-0","0.822"
-"13","2011","Leslie Kanter","Sunshine State","39-9-0","0.812"
-"14","2010","Leslie Kanter","Sunshine State","23-17-0","0.575"
-"15","2009","Leslie Kanter","Sunshine State","27-14-0","0.659"
-"16","2008","Leslie Kanter","Sunshine State","35-13-0","0.729"
-"17","2007","Leslie Kanter","Sunshine State","29-20-0","0.592"
-"18","2006","Leslie Kanter","Sunshine State","19-31-0","0.380"
-"19","2005","Leslie Kanter","Sunshine State","19-22-0","0.463"
-"20","2004","Leslie Kanter","Sunshine State","33-14-0","0.702"
-"21","2003","Leslie Kanter","Sunshine State","22-25-0","0.468"
-"22","2002","Leslie Kanter","Sunshine State","35-14-0","0.714"
-"23","2001","Leslie Kanter","-","33-16-0","0.673"
-"24","2000","Leslie Kanter","-","28-11-0","0.718"
-"25","1999","Leslie Kanter","-","16-24-0","0.400"
-"26","1998","Leslie Kanter","-","22-20-0","0.524"
-"27","1997","Leslie Kanter","-","18-28-0","0.391"
-"28","1996","Leslie Kanter","-","5-31-0","0.139"
-"29","1995","Leslie Kanter","-","12-38-0","0.240"
-"30","1994","Peter Monteleone","-","13-28-0","0.317"
-"31","1993","Michelle Lamont","-","28-20-0","0.583"
-"32","1992","Michelle Lamont","-","25-18-0","0.581"
-"33","1991","Michelle Lamont","-","22-24-0","0.478"
-"34","1990","Michelle Lamont","-","15-32-0","0.319"
-"35","2024","Leslie Kanter","Sunshine State","3-1-0","0.750"
+"","X","season","head_coach","conference","record","win_perc"
+"1",35,2024,"Leslie Kanter","Sunshine State","3-1-0",0.75
+"2",0,2024,"Leslie Kanter","Sunshine State","6-1-0",0.857142857142857
+"3",1,2023,"Leslie Kanter","Sunshine State","44-5-0",0.898
+"4",2,2022,"Leslie Kanter","Sunshine State","38-13-0",0.745
+"5",3,2021,"Leslie Kanter","Sunshine State","18-4-0",0.818
+"6",4,2020,"Leslie Kanter","Sunshine State","19-9-0",0.679
+"7",5,2019,"Leslie Kanter","Sunshine State","34-13-0",0.723
+"8",6,2018,"Leslie Kanter","Sunshine State","28-16-0",0.636
+"9",7,2017,"Leslie Kanter","Sunshine State","29-12-0",0.707
+"10",8,2016,"Leslie Kanter","Sunshine State","18-21-0",0.462
+"11",9,2015,"Leslie Kanter","Sunshine State","28-13-0",0.683
+"12",10,2014,"Leslie Kanter","Sunshine State","33-8-0",0.805
+"13",11,2013,"Leslie Kanter","Sunshine State","33-10-0",0.767
+"14",12,2012,"Leslie Kanter","Sunshine State","37-8-0",0.822
+"15",13,2011,"Leslie Kanter","Sunshine State","39-9-0",0.812
+"16",14,2010,"Leslie Kanter","Sunshine State","23-17-0",0.575
+"17",15,2009,"Leslie Kanter","Sunshine State","27-14-0",0.659
+"18",16,2008,"Leslie Kanter","Sunshine State","35-13-0",0.729
+"19",17,2007,"Leslie Kanter","Sunshine State","29-20-0",0.592
+"20",18,2006,"Leslie Kanter","Sunshine State","19-31-0",0.38
+"21",19,2005,"Leslie Kanter","Sunshine State","19-22-0",0.463
+"22",20,2004,"Leslie Kanter","Sunshine State","33-14-0",0.702
+"23",21,2003,"Leslie Kanter","Sunshine State","22-25-0",0.468
+"24",22,2002,"Leslie Kanter","Sunshine State","35-14-0",0.714
+"25",23,2001,"Leslie Kanter","-","33-16-0",0.673
+"26",24,2000,"Leslie Kanter","-","28-11-0",0.718
+"27",25,1999,"Leslie Kanter","-","16-24-0",0.4
+"28",26,1998,"Leslie Kanter","-","22-20-0",0.524
+"29",27,1997,"Leslie Kanter","-","18-28-0",0.391
+"30",28,1996,"Leslie Kanter","-","5-31-0",0.139
+"31",29,1995,"Leslie Kanter","-","12-38-0",0.24
+"32",30,1994,"Peter Monteleone","-","13-28-0",0.317
+"33",31,1993,"Michelle Lamont","-","28-20-0",0.583
+"34",32,1992,"Michelle Lamont","-","25-18-0",0.581
+"35",33,1991,"Michelle Lamont","-","22-24-0",0.478
+"36",34,1990,"Michelle Lamont","-","15-32-0",0.319

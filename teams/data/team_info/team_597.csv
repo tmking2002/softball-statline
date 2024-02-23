@@ -1,35 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Colleen Powers","MIAC","19-20-0","0.487"
-"2","2022","Colleen Powers","MIAC","22-18-0","0.550"
-"3","2021","Colleen Powers","MIAC","21-12-0","0.636"
-"4","2020","Colleen Powers","MIAC","8-2-0","0.800"
-"5","2019","Colleen Powers","MIAC","26-14-0","0.650"
-"6","2018","Colleen Powers","MIAC","26-15-0","0.634"
-"7","2017","Colleen Powers","MIAC","38-14-0","0.731"
-"8","2016","Colleen Powers","MIAC","34-11-0","0.756"
-"9","2015","Colleen Powers","MIAC","28-10-0","0.737"
-"10","2014","Colleen Powers","MIAC","8-25-0","0.242"
-"11","2013","Madge Makowske","MIAC","16-17-0","0.485"
-"12","2012","Madge Makowske","MIAC","18-22-0","0.450"
-"13","2011","Madge Makowske","MIAC","7-30-1","0.189"
-"14","2010","Madge Makowske","MIAC","9-28-0","0.243"
-"15","2009","Madge Makowske","MIAC","12-23-0","0.343"
-"16","2008","Madge Makowske","MIAC","11-23-0","0.324"
-"17","2007","Madge Makowske","MIAC","14-23-1","0.378"
-"18","2006","Madge Makowske","MIAC","21-18-0","0.538"
-"19","2005","Madge Makowske","MIAC","20-19-0","0.513"
-"20","2004","Madge Makowske","MIAC","9-26-0","0.257"
-"21","2003","Madge Makowske","MIAC","9-24-0","0.273"
-"22","2002","Madge Makowske","MIAC","15-20-0","0.429"
-"23","2001","Madge Makowske","-","13-18-0","0.419"
-"24","2000","Madge Makowske","-","10-23-1","0.303"
-"25","1999","Madge Makowske","-","4-30-0","0.118"
-"26","1998","Madge Makowske","-","0-35-0","0.000"
-"27","1997","Madge Makowske","-","1-35-0","0.028"
-"28","1996","Madge Makowske","-","0-23-0","0.000"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","X","season","head_coach","conference","record","win_perc"
+"1",0,2024,"Colleen Powers","MIAC","0-2-0",0
+"2",1,2023,"Colleen Powers","MIAC","19-20-0",0.487
+"3",2,2022,"Colleen Powers","MIAC","22-18-0",0.55
+"4",3,2021,"Colleen Powers","MIAC","21-12-0",0.636
+"5",4,2020,"Colleen Powers","MIAC","8-2-0",0.8
+"6",5,2019,"Colleen Powers","MIAC","26-14-0",0.65
+"7",6,2018,"Colleen Powers","MIAC","26-15-0",0.634
+"8",7,2017,"Colleen Powers","MIAC","38-14-0",0.731
+"9",8,2016,"Colleen Powers","MIAC","34-11-0",0.756
+"10",9,2015,"Colleen Powers","MIAC","28-10-0",0.737
+"11",10,2014,"Colleen Powers","MIAC","8-25-0",0.242
+"12",11,2013,"Madge Makowske","MIAC","16-17-0",0.485
+"13",12,2012,"Madge Makowske","MIAC","18-22-0",0.45
+"14",13,2011,"Madge Makowske","MIAC","7-30-1",0.189
+"15",14,2010,"Madge Makowske","MIAC","9-28-0",0.243
+"16",15,2009,"Madge Makowske","MIAC","12-23-0",0.343
+"17",16,2008,"Madge Makowske","MIAC","11-23-0",0.324
+"18",17,2007,"Madge Makowske","MIAC","14-23-1",0.378
+"19",18,2006,"Madge Makowske","MIAC","21-18-0",0.538
+"20",19,2005,"Madge Makowske","MIAC","20-19-0",0.513
+"21",20,2004,"Madge Makowske","MIAC","9-26-0",0.257
+"22",21,2003,"Madge Makowske","MIAC","9-24-0",0.273
+"23",22,2002,"Madge Makowske","MIAC","15-20-0",0.429
+"24",23,2001,"Madge Makowske","-","13-18-0",0.419
+"25",24,2000,"Madge Makowske","-","10-23-1",0.303
+"26",25,1999,"Madge Makowske","-","4-30-0",0.118
+"27",26,1998,"Madge Makowske","-","0-35-0",0
+"28",27,1997,"Madge Makowske","-","1-35-0",0.028
+"29",28,1996,"Madge Makowske","-","0-23-0",0
+"30",29,1995,"","-","0-0-0",NA
+"31",30,1994,"","-","0-0-0",NA
+"32",31,1993,"","-","0-0-0",NA
+"33",32,1992,"","-","0-0-0",NA
+"34",33,1991,"","-","0-0-0",NA
+"35",34,1990,"","-","0-0-0",NA

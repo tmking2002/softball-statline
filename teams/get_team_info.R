@@ -40,13 +40,29 @@ records <- scoreboard_upd %>%
   drop_na()
 
 for(i in 1:nrow(team_ids)){
-    
+  
   if(team_ids$team_id[i] %in% records$team_id){
+    
+    url <- paste0("https://stats.ncaa.org/teams/history/WSB/", team_ids$team_id[i])
+    
+    cur_df <- url %>% 
+      read_html() %>% 
+      html_table() %>% 
+      extract2(1) %>% 
+      filter(Year == "2023-24")
     
     df <- read.csv(paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv"))
     
-    df[which(existing_info$season == 2024),]$record <- records[which(records$team_id == team_ids$team_id[i]),]$record
-    df[which(existing_info$season == 2024),]$win_perc <- records[which(records$team_id == team_ids$team_id[i]),]$win_perc
+    record <- records[which(records$team_id == team_ids$team_id[i]),]$record
+    win_perc <- records[which(records$team_id == team_ids$team_id[i]),]$win_perc
+    
+    df <- rbind(df, data.frame(X = 0,
+                               season = 2024,
+                               head_coach = cur_df$`Head Coaches`,
+                               conference = cur_df$Conference,
+                               record = record,
+                               win_perc = win_perc)) %>% 
+      arrange(desc(season))
     
     write.csv(df, paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) 
   }

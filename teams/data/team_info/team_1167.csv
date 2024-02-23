@@ -1,44 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Glen Crawford","Peach Belt","29-18-0","0.617"
-"2","2022","Glen Crawford","Peach Belt","35-15-0","0.700"
-"3","2021","Glen Crawford","Peach Belt","16-22-0","0.421"
-"4","2020","Glen Crawford","Peach Belt","18-5-1","0.783"
-"5","2019","Glen Crawford","Peach Belt","21-25-0","0.457"
-"6","2018","Glen Crawford","Peach Belt","32-18-0","0.640"
-"7","2017","Glen Crawford","Peach Belt","21-29-0","0.420"
-"8","2016","Glen Crawford","Peach Belt","26-21-0","0.553"
-"9","2015","Christina Plew-Whitlock","Peach Belt","12-28-0","0.300"
-"10","2014","Christina Plew-Whitlock","Peach Belt","8-42-0","0.160"
-"11","2013","Christina Plew-Whitlock","Peach Belt","18-31-0","0.367"
-"12","2012","Doug Spears","Peach Belt","26-26-0","0.500"
-"13","2011","Brandon Duncan","Peach Belt","21-22-0","0.488"
-"14","2010","Brandon Duncan","Peach Belt","23-24-0","0.489"
-"15","2009","Brandon Duncan","Peach Belt","14-31-0","0.311"
-"16","2008","Brandon Duncan","Peach Belt","12-37-0","0.245"
-"17","2007","Jennifer Gustin","Peach Belt","15-41-0","0.268"
-"18","2006","Lee Dobbins","Peach Belt","27-28-1","0.491"
-"19","2005","Doug Spears","Peach Belt","32-34-0","0.485"
-"20","2004","Doug Spears","Peach Belt","29-31-0","0.483"
-"21","2003","Doug Spears","Peach Belt","31-20-0","0.608"
-"22","2002","Doug Spears","Peach Belt","31-31-0","0.500"
-"23","2001","Doug Spears","-","28-28-0","0.500"
-"24","2000","Doug Spears","-","32-21-0","0.604"
-"25","1999","Doug Spears","-","38-21-0","0.644"
-"26","1998","Doug Spears","-","42-16-0","0.724"
-"27","1997","Doug Spears","-","30-26-0","0.536"
-"28","1996","Doug Spears","-","41-12-1","0.774"
-"29","1995","Doug Spears","-","38-15-0","0.717"
-"30","1994","Doug Spears","-","46-16-0","0.742"
-"31","1993","Doug Spears","-","28-20-0","0.583"
-"32","1992","Doug Spears","-","36-22-0","0.621"
-"33","1991","Doug Spears","-","38-20-0","0.655"
-"34","1990","Doug Spears","-","44-13-0","0.772"
-"35","1989","Doug Spears","-","27-22-0","0.551"
-"36","1988","Doug Spears","-","33-24-0","0.579"
-"37","1987","Doug Spears","-","45-7-0","0.865"
-"38","1986","Doug Spears","-","32-11-0","0.744"
-"39","1985","Doug Spears","-","38-13-0","0.745"
-"40","1984","Doug Spears","-","20-20-0","0.500"
-"41","1983","Doug Spears","-","20-15-0","0.571"
-"42","1982","Doug Spears","-","22-16-0","0.579"
-"43","2024","Maddie Gibbs","Peach Belt","3-1-0","0.750"
+"","X","season","head_coach","conference","record","win_perc"
+"1",43,2024,"Maddie Gibbs","Peach Belt","3-1-0",0.75
+"2",0,2024,"Maddie Gibbs","Peach Belt","7-1-0",0.875
+"3",1,2023,"Glen Crawford","Peach Belt","29-18-0",0.617
+"4",2,2022,"Glen Crawford","Peach Belt","35-15-0",0.7
+"5",3,2021,"Glen Crawford","Peach Belt","16-22-0",0.421
+"6",4,2020,"Glen Crawford","Peach Belt","18-5-1",0.783
+"7",5,2019,"Glen Crawford","Peach Belt","21-25-0",0.457
+"8",6,2018,"Glen Crawford","Peach Belt","32-18-0",0.64
+"9",7,2017,"Glen Crawford","Peach Belt","21-29-0",0.42
+"10",8,2016,"Glen Crawford","Peach Belt","26-21-0",0.553
+"11",9,2015,"Christina Plew-Whitlock","Peach Belt","12-28-0",0.3
+"12",10,2014,"Christina Plew-Whitlock","Peach Belt","8-42-0",0.16
+"13",11,2013,"Christina Plew-Whitlock","Peach Belt","18-31-0",0.367
+"14",12,2012,"Doug Spears","Peach Belt","26-26-0",0.5
+"15",13,2011,"Brandon Duncan","Peach Belt","21-22-0",0.488
+"16",14,2010,"Brandon Duncan","Peach Belt","23-24-0",0.489
+"17",15,2009,"Brandon Duncan","Peach Belt","14-31-0",0.311
+"18",16,2008,"Brandon Duncan","Peach Belt","12-37-0",0.245
+"19",17,2007,"Jennifer Gustin","Peach Belt","15-41-0",0.268
+"20",18,2006,"Lee Dobbins","Peach Belt","27-28-1",0.491
+"21",19,2005,"Doug Spears","Peach Belt","32-34-0",0.485
+"22",20,2004,"Doug Spears","Peach Belt","29-31-0",0.483
+"23",21,2003,"Doug Spears","Peach Belt","31-20-0",0.608
+"24",22,2002,"Doug Spears","Peach Belt","31-31-0",0.5
+"25",23,2001,"Doug Spears","-","28-28-0",0.5
+"26",24,2000,"Doug Spears","-","32-21-0",0.604
+"27",25,1999,"Doug Spears","-","38-21-0",0.644
+"28",26,1998,"Doug Spears","-","42-16-0",0.724
+"29",27,1997,"Doug Spears","-","30-26-0",0.536
+"30",28,1996,"Doug Spears","-","41-12-1",0.774
+"31",29,1995,"Doug Spears","-","38-15-0",0.717
+"32",30,1994,"Doug Spears","-","46-16-0",0.742
+"33",31,1993,"Doug Spears","-","28-20-0",0.583
+"34",32,1992,"Doug Spears","-","36-22-0",0.621
+"35",33,1991,"Doug Spears","-","38-20-0",0.655
+"36",34,1990,"Doug Spears","-","44-13-0",0.772
+"37",35,1989,"Doug Spears","-","27-22-0",0.551
+"38",36,1988,"Doug Spears","-","33-24-0",0.579
+"39",37,1987,"Doug Spears","-","45-7-0",0.865
+"40",38,1986,"Doug Spears","-","32-11-0",0.744
+"41",39,1985,"Doug Spears","-","38-13-0",0.745
+"42",40,1984,"Doug Spears","-","20-20-0",0.5
+"43",41,1983,"Doug Spears","-","20-15-0",0.571
+"44",42,1982,"Doug Spears","-","22-16-0",0.579
