@@ -1,45 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2024,"Bridget Orchard","Big East","3-5-0",0.375
-"2",2024,"Bridget Orchard","Big East","3-5-0",0.375
-"3",2023,"Bridget Orchard","Big East","37-22-0",0.627
-"4",2022,"Bridget Orchard","Big East","32-24-0",0.571
-"5",2021,"Bridget Orchard","Big East","37-15-0",0.712
-"6",2020,"Bridget Orchard","Big East","14-13-0",0.519
-"7",2019,"Bridget Orchard","Big East","29-24-0",0.547
-"8",2018,"Maria DiBernardi","Big East","27-24-2",0.529
-"9",2017,"Maria DiBernardi","Big East","35-20-0",0.636
-"10",2016,"Maria DiBernardi","Big East","32-18-0",0.64
-"11",2015,"Maria DiBernardi","Big East","24-30-0",0.444
-"12",2014,"Maria DiBernardi","Big East","18-34-0",0.346
-"13",2013,"Maria DiBernardi","AAC","21-31-0",0.404
-"14",2012,"Maria DiBernardi","AAC","32-24-0",0.571
-"15",2011,"Maria DiBernardi","AAC","16-32-1",0.333
-"16",2010,"Maria DiBernardi","AAC","27-28-0",0.491
-"17",2009,"Maria DiBernardi","AAC","23-26-0",0.469
-"18",2008,"Maria DiBernardi","AAC","21-29-1",0.42
-"19",2007,"Maria DiBernardi","AAC","25-31-1",0.446
-"20",2006,"Maria DiBernardi","AAC","13-40-0",0.245
-"21",2005,"Maria DiBernardi","AAC","38-25-0",0.603
-"22",2004,"Maria DiBernardi","AAC","32-26-0",0.552
-"23",2003,"Maria DiBernardi","AAC","34-15-1",0.694
-"24",2002,"Maria DiBernardi","AAC","45-15-0",0.75
-"25",2001,"Maria DiBernardi","AAC","43-10-0",0.811
-"26",2000,"Maria DiBernardi","AAC","36-17-1",0.679
-"27",1999,"Maria DiBernardi","AAC","42-14-2",0.75
-"28",1998,"Maria DiBernardi","-","36-17-0",0.679
-"29",1997,"Maria DiBernardi","AAC","24-28-0",0.462
-"30",1996,"Maria DiBernardi","-","33-19-0",0.635
-"31",1995,"Maria DiBernardi","-","35-23-0",0.603
-"32",1994,"Maria DiBernardi","-","29-21-0",0.58
-"33",1993,"Maria DiBernardi","-","20-20-0",0.5
-"34",1992,"Maria DiBernardi","-","17-16-1",0.515
-"35",1991,"Maria DiBernardi","-","21-22-1",0.488
-"36",1990,"Maria DiBernardi","-","22-17-1",0.564
-"37",1989,"Maria DiBernardi","-","19-18-0",0.514
-"38",1988,"Maria DiBernardi","-","9-22-0",0.29
-"39",1987,"Maria DiBernardi","-","13-13-0",0.5
-"40",1986,"Maria DiBernardi","-","10-22-0",0.312
-"41",1985,"Maria DiBernardi","-","8-11-0",0.421
-"42",1984,"","-","0-0-0",NA
-"43",1983,"","-","0-0-0",NA
-"44",1982,"","-","0-0-0",NA
+"1",2024,"Bridget Orchard","Big East","3-7-0",0.3
+"2",2023,"Bridget Orchard","Big East","37-22-0",0.627
+"3",2022,"Bridget Orchard","Big East","32-24-0",0.571
+"4",2021,"Bridget Orchard","Big East","37-15-0",0.712
+"5",2020,"Bridget Orchard","Big East","14-13-0",0.519
+"6",2019,"Bridget Orchard","Big East","29-24-0",0.547
+"7",2018,"Maria DiBernardi","Big East","27-24-2",0.529
+"8",2017,"Maria DiBernardi","Big East","35-20-0",0.636
+"9",2016,"Maria DiBernardi","Big East","32-18-0",0.64
+"10",2015,"Maria DiBernardi","Big East","24-30-0",0.444
+"11",2014,"Maria DiBernardi","Big East","18-34-0",0.346
+"12",2013,"Maria DiBernardi","AAC","21-31-0",0.404
+"13",2012,"Maria DiBernardi","AAC","32-24-0",0.571
+"14",2011,"Maria DiBernardi","AAC","16-32-1",0.333
+"15",2010,"Maria DiBernardi","AAC","27-28-0",0.491
+"16",2009,"Maria DiBernardi","AAC","23-26-0",0.469
+"17",2008,"Maria DiBernardi","AAC","21-29-1",0.42
+"18",2007,"Maria DiBernardi","AAC","25-31-1",0.446
+"19",2006,"Maria DiBernardi","AAC","13-40-0",0.245
+"20",2005,"Maria DiBernardi","AAC","38-25-0",0.603
+"21",2004,"Maria DiBernardi","AAC","32-26-0",0.552
+"22",2003,"Maria DiBernardi","AAC","34-15-1",0.694
+"23",2002,"Maria DiBernardi","AAC","45-15-0",0.75
+"24",2001,"Maria DiBernardi","AAC","43-10-0",0.811
+"25",2000,"Maria DiBernardi","AAC","36-17-1",0.679
+"26",1999,"Maria DiBernardi","AAC","42-14-2",0.75
+"27",1998,"Maria DiBernardi","-","36-17-0",0.679
+"28",1997,"Maria DiBernardi","AAC","24-28-0",0.462
+"29",1996,"Maria DiBernardi","-","33-19-0",0.635
+"30",1995,"Maria DiBernardi","-","35-23-0",0.603
+"31",1994,"Maria DiBernardi","-","29-21-0",0.58
+"32",1993,"Maria DiBernardi","-","20-20-0",0.5
+"33",1992,"Maria DiBernardi","-","17-16-1",0.515
+"34",1991,"Maria DiBernardi","-","21-22-1",0.488
+"35",1990,"Maria DiBernardi","-","22-17-1",0.564
+"36",1989,"Maria DiBernardi","-","19-18-0",0.514
+"37",1988,"Maria DiBernardi","-","9-22-0",0.29
+"38",1987,"Maria DiBernardi","-","13-13-0",0.5
+"39",1986,"Maria DiBernardi","-","10-22-0",0.312
+"40",1985,"Maria DiBernardi","-","8-11-0",0.421
+"41",1984,"","-","0-0-0",NA
+"42",1983,"","-","0-0-0",NA
+"43",1982,"","-","0-0-0",NA

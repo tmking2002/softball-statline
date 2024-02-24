@@ -42,17 +42,19 @@ records <- scoreboard_upd %>%
 for(i in 1:nrow(team_ids)){
   
   if(team_ids$team_id[i] %in% records$team_id){
-    
+     
     df <- read.csv(paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) %>% 
       select(-X)
     
-    if(df %>% filter(season == 2024) %>% nrow() == 0){return()}
+    if(df %>% filter(season == 2024) %>% nrow() == 0){next}
     
     record <- records[which(records$team_id == team_ids$team_id[i]),]$record
     win_perc <- round(records[which(records$team_id == team_ids$team_id[i]),]$win_perc, 3)
     
     df[which(df$season == 2024),]$record <- record
     df[which(df$season == 2024),]$win_perc <- win_perc
+    
+    df <- df %>% distinct()
     
     write.csv(df, paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) 
   }
