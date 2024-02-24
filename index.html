@@ -121,6 +121,11 @@
                 text-align: center;
             }
 
+            .scrollable-dropdown {
+    max-height: 200px; /* Adjust the height as needed */
+    overflow-y: auto;
+}
+
         </style>
     </head>
     <body>
@@ -219,7 +224,7 @@
             <button class="w3-button w3-padding-16">
                Select Conference<i class="fa fa-caret-down"></i>
             </button>
-            <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+            <div class="w3-dropdown-content w3-card-4 w3-bar-block scrollable-dropdown">
                 <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'AAC')">AAC</button>
                 <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ACC')">ACC</button>
                 <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'America East')">America East</button>
