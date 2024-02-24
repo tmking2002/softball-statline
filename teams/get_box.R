@@ -79,9 +79,9 @@ for(season in 2024){
   
   box <- data.frame()
   
-  for(division in c("D1", "D2", "D3")){
+  for(division in c("d1", "d2", "d3")){
     
-    box <- rbind(box, load_ncaa_softball_playerbox(season, category = "Hitting", division))
+    box <- rbind(box, readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", division, "_hitting_box_scores_2024.RDS"))))
     
   }
   
