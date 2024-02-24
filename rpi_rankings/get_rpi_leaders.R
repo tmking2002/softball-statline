@@ -41,9 +41,12 @@ get_current_rpi <- function(scoreboard){
     drop_na() %>% 
     group_by(team_name) %>%
     summarise(rpi_coef = (.5 * mean(win_perc) + .25 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
-              record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-")) %>%
+              record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-"),
+              games = n()) %>%
     ungroup() %>%
-    mutate(rpi_rank = rank(-rpi_coef, ties.method = 'min'))
+    filter(games >= 5) %>% 
+    mutate(rpi_rank = rank(-rpi_coef, ties.method = 'min')) %>% 
+    select(-games)
 
 
   return(rpi)
