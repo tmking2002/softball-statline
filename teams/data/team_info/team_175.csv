@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2024,"Cara Clark","Atlantic 10","7-2-0",0.778
-"2",2023,"Cara Clark-LaPlaca","Atlantic 10","35-20-0",0.636
-"3",2022,"Cara Clark-LaPlaca","Atlantic 10","22-24-0",0.478
-"4",2021,"Cara Clark-LaPlaca","Atlantic 10","21-25-0",0.457
-"5",2020,"Cara Clark-LaPlaca","Atlantic 10","8-12-0",0.4
-"6",2019,"Cara Clark-LaPlaca","Atlantic 10","24-27-0",0.471
-"7",2018,"Cara Clark-LaPlaca","Atlantic 10","31-25-0",0.554
-"8",2017,"Cara Clark-LaPlaca","Atlantic 10","29-27-0",0.518
-"9",2016,"Cara Clark-LaPlaca","Atlantic 10","27-21-1",0.562
-"10",2015,"Cara Clark-LaPlaca","Atlantic 10","39-14-0",0.736
-"11",2014,"Cara Clark-LaPlaca","Atlantic 10","27-29-0",0.482
-"12",2013,"Cara Clark-LaPlaca","Atlantic 10","22-24-0",0.478
-"13",2012,"Cara Clark-LaPlaca","Atlantic 10","22-29-0",0.431
-"14",2011,"Cara Clark-LaPlaca","Atlantic 10","22-26-0",0.458
-"15",2010,"Cara Clark-LaPlaca","Atlantic 10","18-36-1",0.333
-"16",2009,"Cara Clark-LaPlaca","Atlantic 10","13-34-0",0.277
-"17",2008,"Cara Clark-LaPlaca","Atlantic 10","20-31-0",0.392
-"18",2007,"Jodi Eickemeyer","Atlantic 10","11-30-0",0.268
-"19",2006,"Jodi Eickemeyer","Atlantic 10","18-30-0",0.375
-"20",2005,"Jodi Eickemeyer","Atlantic 10","20-18-1",0.526
-"21",2004,"Jodi Eickemeyer","Atlantic 10","14-35-0",0.286
-"22",2003,"Jodi Eickemeyer","Atlantic 10","23-21-0",0.523
-"23",2002,"Jodi Eickemeyer","Atlantic 10","17-26-0",0.395
-"24",2001,"Jodi Eickemeyer","Atlantic 10","19-31-0",0.38
-"25",2000,"Jodi Eickemeyer","Atlantic 10","35-23-1",0.603
-"26",1999,"Jodi Eickemeyer","Atlantic 10","20-36-0",0.357
-"27",1998,"Jodi Eickemeyer","-","23-23-0",0.5
-"28",1997,"Jodi Eickemeyer","Atlantic 10","16-27-2",0.372
-"29",1996,"Jodi Eickemeyer","-","14-23-1",0.378
-"30",1995,"Daryl Ogg","-","7-28-0",0.2
-"31",1994,"Daryl Ogg","-","6-39-0",0.133
-"32",1993,"Daryl Ogg","-","9-28-0",0.243
-"33",1992,"Becky Dicke","-","12-34-0",0.261
-"34",1991,"Becky Dicke","-","15-14-0",0.517
-"35",1990,"Becky Dicke","-","8-32-0",0.2
-"36",1989,"Becky Dicke","-","12-34-0",0.261
-"37",1988,"","-","0-0-0",NA
-"38",1987,"Jeryl Neff","-","12-27-0",0.308
-"39",1986,"Jeryl Neff","-","20-14-0",0.588
-"40",1985,"Jeryl Neff","-","10-15-0",0.4
-"41",1982,"","-","0-0-0",NA
+"1",2023,"Cara Clark-LaPlaca","Atlantic 10","35-20-0",0.636
+"2",2022,"Cara Clark-LaPlaca","Atlantic 10","22-24-0",0.478
+"3",2021,"Cara Clark-LaPlaca","Atlantic 10","21-25-0",0.457
+"4",2020,"Cara Clark-LaPlaca","Atlantic 10","8-12-0",0.4
+"5",2019,"Cara Clark-LaPlaca","Atlantic 10","24-27-0",0.471
+"6",2018,"Cara Clark-LaPlaca","Atlantic 10","31-25-0",0.554
+"7",2017,"Cara Clark-LaPlaca","Atlantic 10","29-27-0",0.518
+"8",2016,"Cara Clark-LaPlaca","Atlantic 10","27-21-1",0.562
+"9",2015,"Cara Clark-LaPlaca","Atlantic 10","39-14-0",0.736
+"10",2014,"Cara Clark-LaPlaca","Atlantic 10","27-29-0",0.482
+"11",2013,"Cara Clark-LaPlaca","Atlantic 10","22-24-0",0.478
+"12",2012,"Cara Clark-LaPlaca","Atlantic 10","22-29-0",0.431
+"13",2011,"Cara Clark-LaPlaca","Atlantic 10","22-26-0",0.458
+"14",2010,"Cara Clark-LaPlaca","Atlantic 10","18-36-1",0.333
+"15",2009,"Cara Clark-LaPlaca","Atlantic 10","13-34-0",0.277
+"16",2008,"Cara Clark-LaPlaca","Atlantic 10","20-31-0",0.392
+"17",2007,"Jodi Eickemeyer","Atlantic 10","11-30-0",0.268
+"18",2006,"Jodi Eickemeyer","Atlantic 10","18-30-0",0.375
+"19",2005,"Jodi Eickemeyer","Atlantic 10","20-18-1",0.526
+"20",2004,"Jodi Eickemeyer","Atlantic 10","14-35-0",0.286
+"21",2003,"Jodi Eickemeyer","Atlantic 10","23-21-0",0.523
+"22",2002,"Jodi Eickemeyer","Atlantic 10","17-26-0",0.395
+"23",2001,"Jodi Eickemeyer","Atlantic 10","19-31-0",0.38
+"24",2000,"Jodi Eickemeyer","Atlantic 10","35-23-1",0.603
+"25",1999,"Jodi Eickemeyer","Atlantic 10","20-36-0",0.357
+"26",1998,"Jodi Eickemeyer","-","23-23-0",0.5
+"27",1997,"Jodi Eickemeyer","Atlantic 10","16-27-2",0.372
+"28",1996,"Jodi Eickemeyer","-","14-23-1",0.378
+"29",1995,"Daryl Ogg","-","7-28-0",0.2
+"30",1994,"Daryl Ogg","-","6-39-0",0.133
+"31",1993,"Daryl Ogg","-","9-28-0",0.243
+"32",1992,"Becky Dicke","-","12-34-0",0.261
+"33",1991,"Becky Dicke","-","15-14-0",0.517
+"34",1990,"Becky Dicke","-","8-32-0",0.2
+"35",1989,"Becky Dicke","-","12-34-0",0.261
+"36",1988,"","-","0-0-0",NA
+"37",1987,"Jeryl Neff","-","12-27-0",0.308
+"38",1986,"Jeryl Neff","-","20-14-0",0.588
+"39",1985,"Jeryl Neff","-","10-15-0",0.4
+"40",1982,"","-","0-0-0",NA
+"41",2024,"Cara Clark","Atlantic 10","7-2-0",0.778

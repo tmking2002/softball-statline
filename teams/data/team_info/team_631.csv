@@ -1,46 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2024,"Gina Carbonatto","WCC","6-6-0",0.5
-"2",2023,"Gina Carbonatto","WCC","23-26-0",0.469
-"3",2022,"Gina Carbonatto","WCC","21-30-0",0.412
-"4",2021,"Gina Carbonatto","WCC","8-20-0",0.286
-"5",2020,"Gina Carbonatto","WCC","8-16-0",0.333
-"6",2019,"Lisa Dodd","WCC","16-34-0",0.32
-"7",2018,"Lisa Dodd","WCC","9-37-0",0.196
-"8",2017,"Lisa Mize","WCC","12-37-0",0.245
-"9",2016,"Lisa Mize","WCC","10-41-0",0.196
-"10",2015,"Lisa Mize","WCC","15-35-0",0.3
-"11",2014,"Lisa Mize","WCC","10-34-0",0.227
-"12",2013,"Lisa Mize","Pacific Coast Softball","8-46-0",0.148
-"13",2012,"Lisa Mize","Pacific Coast Softball","11-43-0",0.204
-"14",2011,"Lisa Mize","Pacific Coast Softball","6-33-0",0.154
-"15",2010,"Lisa Mize","Pacific Coast Softball","10-35-0",0.222
-"16",2009,"Lisa Mize","Pacific Coast Softball","6-49-0",0.109
-"17",2008,"Lisa Mize","Pacific Coast Softball","9-51-0",0.15
-"18",2007,"Steve Rianda","Pacific Coast Softball","12-47-0",0.203
-"19",2006,"Steve Rianda","Pacific Coast Softball","24-34-0",0.414
-"20",2005,"Jamie Forman-Lau","Pacific Coast Softball","26-31-0",0.456
-"21",2004,"Marcy Crouch","Pacific Coast Softball","30-23-0",0.566
-"22",2003,"Marcy Crouch","-","30-25-0",0.545
-"23",2002,"Marcy Crouch","-","25-38-0",0.397
-"24",2001,"Marcy Crouch","-","17-40-0",0.298
-"25",2000,"Marcy Crouch","-","10-40-0",0.2
-"26",1999,"Vicky Rios","-","14-54-0",0.206
-"27",1998,"Vicky Rios","-","19-35-0",0.352
-"28",1997,"Vicky Rios","-","23-48-0",0.324
-"29",1996,"John Bruno","-","19-47-0",0.288
-"30",1995,"John Bruno","-","22-38-0",0.367
-"31",1994,"John Bruno","-","15-52-0",0.224
-"32",1993,"John Bruno","-","13-40-0",0.245
-"33",1992,"","-","0-0-0",NA
-"34",1991,"Tamie Batista","-","5-40-0",0.111
-"35",1990,"Ali McCargo","-","14-37-0",0.275
-"36",1989,"Ali McCargo","-","12-32-0",0.273
-"37",1988,"Ali McCargo","-","12-31-0",0.279
-"38",1987,"","-","0-0-0",NA
-"39",1986,"","-","0-0-0",NA
-"40",1985,"","-","0-0-0",NA
-"41",1984,"","-","0-0-0",NA
-"42",1983,"","-","0-0-0",NA
-"43",1982,"","-","0-0-0",NA
-"44",1981,"","-","0-0-0",NA
-"45",1980,"","-","0-0-0",NA
+"1",2023,"Gina Carbonatto","WCC","23-26-0",0.469
+"2",2022,"Gina Carbonatto","WCC","21-30-0",0.412
+"3",2021,"Gina Carbonatto","WCC","8-20-0",0.286
+"4",2020,"Gina Carbonatto","WCC","8-16-0",0.333
+"5",2019,"Lisa Dodd","WCC","16-34-0",0.32
+"6",2018,"Lisa Dodd","WCC","9-37-0",0.196
+"7",2017,"Lisa Mize","WCC","12-37-0",0.245
+"8",2016,"Lisa Mize","WCC","10-41-0",0.196
+"9",2015,"Lisa Mize","WCC","15-35-0",0.3
+"10",2014,"Lisa Mize","WCC","10-34-0",0.227
+"11",2013,"Lisa Mize","Pacific Coast Softball","8-46-0",0.148
+"12",2012,"Lisa Mize","Pacific Coast Softball","11-43-0",0.204
+"13",2011,"Lisa Mize","Pacific Coast Softball","6-33-0",0.154
+"14",2010,"Lisa Mize","Pacific Coast Softball","10-35-0",0.222
+"15",2009,"Lisa Mize","Pacific Coast Softball","6-49-0",0.109
+"16",2008,"Lisa Mize","Pacific Coast Softball","9-51-0",0.15
+"17",2007,"Steve Rianda","Pacific Coast Softball","12-47-0",0.203
+"18",2006,"Steve Rianda","Pacific Coast Softball","24-34-0",0.414
+"19",2005,"Jamie Forman-Lau","Pacific Coast Softball","26-31-0",0.456
+"20",2004,"Marcy Crouch","Pacific Coast Softball","30-23-0",0.566
+"21",2003,"Marcy Crouch","-","30-25-0",0.545
+"22",2002,"Marcy Crouch","-","25-38-0",0.397
+"23",2001,"Marcy Crouch","-","17-40-0",0.298
+"24",2000,"Marcy Crouch","-","10-40-0",0.2
+"25",1999,"Vicky Rios","-","14-54-0",0.206
+"26",1998,"Vicky Rios","-","19-35-0",0.352
+"27",1997,"Vicky Rios","-","23-48-0",0.324
+"28",1996,"John Bruno","-","19-47-0",0.288
+"29",1995,"John Bruno","-","22-38-0",0.367
+"30",1994,"John Bruno","-","15-52-0",0.224
+"31",1993,"John Bruno","-","13-40-0",0.245
+"32",1992,"","-","0-0-0",NA
+"33",1991,"Tamie Batista","-","5-40-0",0.111
+"34",1990,"Ali McCargo","-","14-37-0",0.275
+"35",1989,"Ali McCargo","-","12-32-0",0.273
+"36",1988,"Ali McCargo","-","12-31-0",0.279
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",1984,"","-","0-0-0",NA
+"41",1983,"","-","0-0-0",NA
+"42",1982,"","-","0-0-0",NA
+"43",1981,"","-","0-0-0",NA
+"44",1980,"","-","0-0-0",NA
+"45",2024,"Gina Carbonatto","WCC","6-8-0",0.429
