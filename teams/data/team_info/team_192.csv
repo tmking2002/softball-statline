@@ -1,43 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Josh Keener","American Rivers","12-28-0","0.300"
-"2","2022","Jeff Lamb","American Rivers","24-9-0","0.727"
-"3","2021","Jeff Lamb","American Rivers","23-19-0","0.548"
-"4","2020","Jeff Lamb","American Rivers","10-4-0","0.714"
-"5","2019","Jeff Lamb","American Rivers","26-13-0","0.667"
-"6","2018","Wendi Wipperfurth","American Rivers","8-30-0","0.211"
-"7","2017","Wendi Wipperfurth","American Rivers","11-28-0","0.282"
-"8","2016","Wendi Wipperfurth","American Rivers","8-28-0","0.222"
-"9","2015","Wendi Wipperfurth","American Rivers","15-27-0","0.357"
-"10","2014","Wendi Wipperfurth","American Rivers","22-15-0","0.595"
-"11","2013","Wendi Wipperfurth","American Rivers","16-18-0","0.471"
-"12","2012","Wendi Wipperfurth","American Rivers","18-22-0","0.450"
-"13","2011","Wendi Wipperfurth","American Rivers","16-21-0","0.432"
-"14","2010","Corey Parr","American Rivers","10-25-0","0.286"
-"15","2009","Corey Parr","American Rivers","12-26-0","0.316"
-"16","2008","Corey Parr","American Rivers","14-20-0","0.412"
-"17","2007","Corey Parr","American Rivers","13-27-0","0.325"
-"18","2006","Elisha Perkins","American Rivers","8-32-0","0.200"
-"19","2005","Todd Huffman","American Rivers","8-26-0","0.235"
-"20","2004","Todd Huffman","American Rivers","12-24-0","0.333"
-"21","2003","Don Till","American Rivers","9-23-0","0.281"
-"22","2002","Don Till","American Rivers","6-32-0","0.158"
-"23","2001","Tina Deardorff","-","6-19-0","0.240"
-"24","2000","David Thielen","-","14-27-0","0.341"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","Jeff Brooks","-","14-17-0","0.452"
-"27","1997","Jeff Brooks","-","17-17-0","0.500"
-"28","1996","Randy Dolson","-","2-26-0","0.071"
-"29","1995","Randy Dolson","-","2-24-0","0.077"
-"30","1994","Vickie Moore","-","3-25-0","0.107"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1985","","-","0-0-0","  NaN"
-"39","1984","","-","0-0-0","  NaN"
-"40","1983","","-","0-0-0","  NaN"
-"41","1981","","-","0-0-0","  NaN"
-"42","2024","Andrea Bombace","American Rivers","0-0-0","  NaN"
+"1",2023,"Josh Keener","American Rivers","12-28-0",0.3
+"2",2022,"Jeff Lamb","American Rivers","24-9-0",0.727
+"3",2021,"Jeff Lamb","American Rivers","23-19-0",0.548
+"4",2020,"Jeff Lamb","American Rivers","10-4-0",0.714
+"5",2019,"Jeff Lamb","American Rivers","26-13-0",0.667
+"6",2018,"Wendi Wipperfurth","American Rivers","8-30-0",0.211
+"7",2017,"Wendi Wipperfurth","American Rivers","11-28-0",0.282
+"8",2016,"Wendi Wipperfurth","American Rivers","8-28-0",0.222
+"9",2015,"Wendi Wipperfurth","American Rivers","15-27-0",0.357
+"10",2014,"Wendi Wipperfurth","American Rivers","22-15-0",0.595
+"11",2013,"Wendi Wipperfurth","American Rivers","16-18-0",0.471
+"12",2012,"Wendi Wipperfurth","American Rivers","18-22-0",0.45
+"13",2011,"Wendi Wipperfurth","American Rivers","16-21-0",0.432
+"14",2010,"Corey Parr","American Rivers","10-25-0",0.286
+"15",2009,"Corey Parr","American Rivers","12-26-0",0.316
+"16",2008,"Corey Parr","American Rivers","14-20-0",0.412
+"17",2007,"Corey Parr","American Rivers","13-27-0",0.325
+"18",2006,"Elisha Perkins","American Rivers","8-32-0",0.2
+"19",2005,"Todd Huffman","American Rivers","8-26-0",0.235
+"20",2004,"Todd Huffman","American Rivers","12-24-0",0.333
+"21",2003,"Don Till","American Rivers","9-23-0",0.281
+"22",2002,"Don Till","American Rivers","6-32-0",0.158
+"23",2001,"Tina Deardorff","-","6-19-0",0.24
+"24",2000,"David Thielen","-","14-27-0",0.341
+"25",1999,"","-","0-0-0",NA
+"26",1998,"Jeff Brooks","-","14-17-0",0.452
+"27",1997,"Jeff Brooks","-","17-17-0",0.5
+"28",1996,"Randy Dolson","-","2-26-0",0.071
+"29",1995,"Randy Dolson","-","2-24-0",0.077
+"30",1994,"Vickie Moore","-","3-25-0",0.107
+"31",1993,"","-","0-0-0",NA
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1985,"","-","0-0-0",NA
+"39",1984,"","-","0-0-0",NA
+"40",1983,"","-","0-0-0",NA
+"41",1981,"","-","0-0-0",NA
+"42",2024,"Andrea Bombace","American Rivers","0-1-0",0
