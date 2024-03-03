@@ -1,6 +1,10 @@
+install.packages("tidyverse")
 library(tidyverse)
-library(anytime)
+install.packages("rvest")
 library(rvest)
+install.packages("anytime")
+library(anytime)
+install.packages("magrittr")
 library(magrittr)
 
 print("SCHEDULE")

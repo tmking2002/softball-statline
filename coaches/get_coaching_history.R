@@ -1,3 +1,4 @@
+install.packages("tidyverse")
 library(tidyverse)
 
 print("COACHING HISTORY")

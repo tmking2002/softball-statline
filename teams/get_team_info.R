@@ -1,5 +1,8 @@
+install.packages("tidyverse")
 library(tidyverse)
+install.packages("rvest")
 library(rvest)
+install.packages("magrittr")
 library(magrittr)
 
 print("TEAM INFO")

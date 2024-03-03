@@ -1,4 +1,4 @@
-
+install.packages("tidyverse")
 library(tidyverse)
 
 files <- list.files("teams/data/hitting_stats")
