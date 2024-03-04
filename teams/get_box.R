@@ -70,7 +70,8 @@ adjust_hitting_box <- function(raw_box){
            bb = bb + hbp) %>% 
     merge(all_players, by = "player") %>% 
     arrange(desc(ab + bb)) %>% 
-    select(game_id, team, opponent, player_id, player, pos, ab, r, h, rbi, hr, k, bb)
+    select(game_id, team, opponent, player_id, player, pos, ab, r, h, rbi, hr, k, bb) %>% 
+    distinct()
   
   return(final_box)
   
@@ -104,7 +105,8 @@ adjust_pitching_box <- function(raw_box){
     mutate(ip = case_when((ip * 3) %% 3 == 0 ~ round(ip),
                           round(ip * 3) %% 3 == 1 ~ round(ip) + .1,
                           round(ip * 3) %% 3 == 2 ~ round(ip) + .2)) %>% 
-    select(game_id, team, opponent, player_id, player, ip, ha, er, bb, hb, so, bf, hr_a, go, fo)
+    select(game_id, team, opponent, player_id, player, ip, ha, er, bb, hb, so, bf, hr_a, go, fo) %>% 
+    distinct()
   
   return(final_box)
   
