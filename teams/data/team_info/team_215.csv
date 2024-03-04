@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Olivia Berry","Great Northeast","24-18-0","0.571"
-"2","2022","Olivia Berry","Great Northeast","26-12-0","0.684"
-"3","2021","Olivia Berry","Great Northeast","21-6-0","0.778"
-"4","2020","Olivia Berry","Great Northeast","4-6-0","0.400"
-"5","2019","Olivia Berry","Great Northeast","25-14-0","0.641"
-"6","2018","Olivia Berry","Great Northeast","25-18-0","0.581"
-"7","2017","Kelsea Cheney","Great Northeast","15-20-0","0.429"
-"8","2016","Rob Spofford","Great Northeast","26-17-0","0.605"
-"9","2015","Rob Spofford","Great Northeast","20-17-0","0.541"
-"10","2014","Rob Spofford","Great Northeast","17-21-0","0.447"
-"11","2013","Rob Spofford","Great Northeast","14-26-0","0.350"
-"12","2012","Hannah Angel","Great Northeast","7-32-0","0.179"
-"13","2011","Michelle Morales","Great Northeast","12-23-0","0.343"
-"14","2010","Michelle Morales","Great Northeast","10-21-0","0.323"
-"15","2009","Michelle Morales","Great Northeast","11-23-0","0.324"
-"16","2008","Michelle Morales","Great Northeast","3-32-1","0.086"
-"17","2007","Carrie Rodman","Great Northeast","6-24-0","0.200"
-"18","2006","Carrie Rodman","Great Northeast","13-25-0","0.342"
-"19","2005","Al Aimola","Great Northeast","10-25-0","0.286"
-"20","2004","Virginia Cardozo","Great Northeast","16-19-0","0.457"
-"21","2003","George Rollins","Great Northeast","12-18-0","0.400"
-"22","2002","George Rollins","Great Northeast","14-21-1","0.400"
-"23","2001","George Rollins","-","11-21-0","0.344"
-"24","2000","Wendy Rogers","-","7-26-0","0.212"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","Carolyn Carr","-","16-6-0","0.727"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1981","","-","0-0-0","  NaN"
-"40","2024","Brenna Morrissey","Great Northeast","0-0-0","  NaN"
+"1",2023,"Olivia Berry","Great Northeast","24-18-0",0.571
+"2",2022,"Olivia Berry","Great Northeast","26-12-0",0.684
+"3",2021,"Olivia Berry","Great Northeast","21-6-0",0.778
+"4",2020,"Olivia Berry","Great Northeast","4-6-0",0.4
+"5",2019,"Olivia Berry","Great Northeast","25-14-0",0.641
+"6",2018,"Olivia Berry","Great Northeast","25-18-0",0.581
+"7",2017,"Kelsea Cheney","Great Northeast","15-20-0",0.429
+"8",2016,"Rob Spofford","Great Northeast","26-17-0",0.605
+"9",2015,"Rob Spofford","Great Northeast","20-17-0",0.541
+"10",2014,"Rob Spofford","Great Northeast","17-21-0",0.447
+"11",2013,"Rob Spofford","Great Northeast","14-26-0",0.35
+"12",2012,"Hannah Angel","Great Northeast","7-32-0",0.179
+"13",2011,"Michelle Morales","Great Northeast","12-23-0",0.343
+"14",2010,"Michelle Morales","Great Northeast","10-21-0",0.323
+"15",2009,"Michelle Morales","Great Northeast","11-23-0",0.324
+"16",2008,"Michelle Morales","Great Northeast","3-32-1",0.086
+"17",2007,"Carrie Rodman","Great Northeast","6-24-0",0.2
+"18",2006,"Carrie Rodman","Great Northeast","13-25-0",0.342
+"19",2005,"Al Aimola","Great Northeast","10-25-0",0.286
+"20",2004,"Virginia Cardozo","Great Northeast","16-19-0",0.457
+"21",2003,"George Rollins","Great Northeast","12-18-0",0.4
+"22",2002,"George Rollins","Great Northeast","14-21-1",0.4
+"23",2001,"George Rollins","-","11-21-0",0.344
+"24",2000,"Wendy Rogers","-","7-26-0",0.212
+"25",1999,"","-","0-0-0",NA
+"26",1998,"Carolyn Carr","-","16-6-0",0.727
+"27",1997,"","-","0-0-0",NA
+"28",1996,"","-","0-0-0",NA
+"29",1995,"","-","0-0-0",NA
+"30",1994,"","-","0-0-0",NA
+"31",1993,"","-","0-0-0",NA
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1981,"","-","0-0-0",NA
+"40",2024,"Brenna Morrissey","Great Northeast","1-0-0",1
