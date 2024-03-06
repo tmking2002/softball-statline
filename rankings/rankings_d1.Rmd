@@ -124,7 +124,8 @@ DT::datatable(rankings,
                 columnDefs = list(list(targets = 4, className = "dt-border-right dt-right"))
               ),
               width = "80%",
-              escape = FALSE
+              escape = FALSE,
+              rownames = FALSE
 )
 ```
 </div>
