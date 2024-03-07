@@ -1,239 +1,240 @@
 Rank,Team,Record,Team ID
-2,Wingate,16-2-0,1462
-3,North Georgia,15-2-0,30052
-4,Pittsburg St.,14-2-0,1314
-5,Emporia St.,14-1-0,1071
-6,Morgan St.,6-0-0,446
+2,North Georgia,15-2-0,30052
+3,Pittsburg St.,14-2-0,1314
+4,Emporia St.,14-1-0,1071
+5,Morgan St.,6-0-0,446
+6,Charleston (WV),12-1-0,1013
 7,Cal St. Dom. Hills,13-1-0,92
-8,Charleston (WV),11-1-0,1013
+8,Wingate,16-3-0,1462
 9,MSU Denver,17-2-0,413
 10,Colo. Christian,15-2-0,11403
 11,CUI,12-2-0,30199
-12,Western Wash.,9-2-0,1448
-13,AUM,12-4-0,30093
-14,Mississippi Col.,11-3-0,429
-15,UIndy,13-2-0,309
+12,AUM,12-4-0,30093
+13,UIndy,13-2-0,309
+14,Western Wash.,9-2-0,1448
+15,Mississippi Col.,11-3-0,429
 16,Lander,13-3-0,1167
-17,Grand Valley St.,12-3-0,262
-18,Washburn,16-3-0,2814
-19,Ohio Dominican,6-2-0,30119
-20,Central Okla.,11-3-0,1009
-21,Okla. Baptist,11-4-0,30202
-22,Winona St.,13-3-0,790
-23,Albany St. (GA),13-2-0,13
-24,UT Tyler,12-4-0,30028
-25,Lewis,4-1-0,354
+17,Washburn,16-3-0,2814
+18,Rogers St.,11-3-0,30180
+19,Central Okla.,11-3-0,1009
+20,Ohio Dominican,6-2-0,30119
+21,Grand Valley St.,12-3-0,262
+22,Okla. Baptist,11-4-0,30202
+23,Lewis,4-1-0,354
+24,Albany St. (GA),13-2-0,13
+25,UT Tyler,12-4-0,30028
 26,Chaminade,5-1-0,133
 27,Indiana (PA),8-2-0,307
-28,Virginia St.,4-1-0,743
-29,Rogers St.,9-3-0,30180
-30,Saint Leo,14-5-0,608
-31,Rollins,14-5-0,584
-32,Lenoir-Rhyne,18-5-0,1170
-33,Concordia-St. Paul,9-2-0,9081
-34,Nova Southeastern,10-3-0,24639
-35,West Florida,13-5-0,11740
+28,Saint Leo,14-5-0,608
+29,Winona St.,15-4-0,790
+30,Rollins,14-5-0,584
+31,Nova Southeastern,10-3-0,24639
+32,Virginia St.,4-1-0,743
+33,Lenoir-Rhyne,18-5-0,1170
+34,Tampa,11-3-0,689
+35,Concordia-St. Paul,9-2-0,9081
 36,Colorado Mesa,9-3-0,11416
-37,Alabama Huntsville,11-5-0,10
-38,USC Aiken,11-4-0,11276
-39,Limestone,10-4-0,1174
-40,Francis Marion,13-5-0,1085
-41,Augustana (SD),4-2-0,41
-42,Northwest Nazarene,9-3-0,1274
-43,Union (TN),12-5-0,30153
-44,King (TN),12-5-0,30051
-45,Minnesota St.,12-4-0,383
+37,Minnesota St.,14-4-0,383
+38,Alabama Huntsville,11-5-0,10
+39,USC Aiken,11-4-0,11276
+40,Augustana (SD),4-2-0,41
+41,Limestone,10-4-0,1174
+42,Francis Marion,13-5-0,1085
+43,Northwest Nazarene,9-3-0,1274
+44,Union (TN),12-5-0,30153
+45,Missouri Western,10-4-0,9013
 46,Okla. Christian,13-6-0,30179
-47,Tampa,9-3-0,689
-48,Mount Olive,12-4-0,1245
-49,Missouri Western,10-4-0,9013
-50,Bloomsburg,6-2-0,65
-51,St. Cloud St.,10-4-0,598
-52,Northern St.,3-2-0,1266
-53,Angelo St.,13-6-0,25
+47,Mount Olive,12-4-0,1245
+48,Bloomsburg,6-2-0,65
+49,St. Cloud St.,10-4-0,598
+50,East Stroudsburg,12-4-0,197
+51,Northern St.,3-2-0,1266
+52,King (TN),13-6-0,30051
+53,West Florida,13-7-0,11740
 54,Valdosta St.,12-7-0,734
-55,Azusa Pacific,8-3-0,30146
-57,Flagler,11-6-0,30092
-58,Western Ore.,6-3-0,1446
-59,Trevecca Nazarene,13-7-0,30002
-60,West Ala.,9-6-0,358
-61,Mo. Southern St.,11-5-0,9012
-62,Henderson St.,7-4-0,1123
-63,Cal Poly Humboldt,8-4-0,291
-64,Tiffin,9-5-0,1403
-65,Hawaii Hilo,8-4-0,2697
-66,Cameron,12-7-0,996
-67,Southern Ark.,10-6-0,1376
-68,Arkansas Tech,7-5-0,947
-69,North Greenville,9-5-0,9223
-70,East Stroudsburg,10-4-0,197
-71,Edward Waters,9-5-0,30244
-72,Southern Nazarene,11-7-0,30152
-74,Dominican (CA),9-6-0,30118
-76,Minn. Duluth,9-5-0,427
-77,Barry,12-7-0,49
-78,Bemidji St.,6-3-0,54
-79,West Virginia St.,4-2-0,1439
+55,Minn. Duluth,11-5-0,427
+56,Angelo St.,13-6-0,25
+57,Azusa Pacific,8-3-0,30146
+59,Barry,14-7-0,49
+60,Western Ore.,6-3-0,1446
+61,Trevecca Nazarene,13-7-0,30002
+62,Flagler,11-6-0,30092
+63,West Ala.,9-6-0,358
+64,Embry-Riddle (FL),11-7-0,9680
+65,Mo. Southern St.,11-5-0,9012
+66,Cal Poly Humboldt,8-4-0,291
+67,Henderson St.,7-4-0,1123
+68,Hawaii Hilo,8-4-0,2697
+69,Cameron,12-7-0,996
+70,Arkansas Tech,7-5-0,947
+71,Southern Ark.,10-6-0,1376
+72,North Greenville,9-5-0,9223
+73,Edward Waters,9-5-0,30244
+74,Southern Nazarene,11-7-0,30152
+75,Tiffin,10-6-0,1403
+76,Dominican (CA),9-6-0,30118
+78,West Virginia St.,4-2-0,1439
+79,Montevallo,11-5-0,1238
 80,Fort Valley St.,6-4-0,237
-81,Montevallo,11-5-0,1238
-82,Columbus St.,10-6-0,159
-83,Carson-Newman,10-6-0,1000
-84,Embry-Riddle (FL),9-7-0,9680
-85,Malone,5-2-0,30137
+81,Columbus St.,10-6-0,159
+82,Concord,9-4-0,1028
+83,Malone,5-2-0,30137
+84,Seton Hill,5-3-0,30063
+85,Lincoln Memorial,12-8-0,1176
 86,Lubbock Christian,9-6-0,30177
-87,Lincoln Memorial,12-8-0,1176
-88,Seton Hill,5-3-0,30063
-89,Harding,9-7-0,1116
-90,Kutztown,4-2-0,339
-91,Regis (CO),10-6-0,568
-92,Shippensburg,5-3-0,638
+87,Harding,9-7-0,1116
+88,Kutztown,4-2-0,339
+89,Regis (CO),10-6-0,568
+90,Shippensburg,5-3-0,638
+91,Fort Hays St.,9-7-0,9011
 93,William Jewell,13-8-0,30120
-94,Fort Hays St.,9-7-0,9011
-95,Notre Dame (OH),6-4-0,30126
-96,Cal St. East Bay,5-4-0,98
-97,Catawba,11-9-0,1001
-99,Delaware St.,3-2-0,178
-100,Bluefield St.,4-2-0,985
-101,Cal St. San Marcos,6-4-0,30198
-102,Concord,7-4-0,1028
-103,Findlay,8-6-0,1079
-104,Florida Tech,10-7-0,230
+94,Cal St. East Bay,5-4-0,98
+95,Catawba,11-9-0,1001
+97,Delaware St.,3-2-0,178
+98,Bluefield St.,4-2-0,985
+99,Florida Tech,11-8-0,230
+100,Cal St. San Marcos,6-4-0,30198
+101,Carson-Newman,8-6-0,1000
+102,Findlay,8-6-0,1079
+103,Notre Dame (OH),7-5-0,30126
+104,Saginaw Valley,7-5-0,591
 105,McKendree,10-7-0,30138
 106,Northwood,5-4-0,510
-107,Northwestern Okla.,10-8-0,30178
-108,Tusculum,8-7-0,12830
-109,Young Harris,7-6-0,30154
-110,Anderson (SC),7-5-0,13028
+107,Newberry,11-10-0,1257
+108,Northwestern Okla.,10-8-0,30178
+109,Anderson (SC),7-5-0,13028
+110,Tusculum,8-7-0,12830
 111,Belmont Abbey,6-5-0,2683
-112,Saginaw Valley,6-5-0,591
+112,Young Harris,8-7-0,30154
 113,Ill. Springfield,9-7-0,30050
 114,Lee,6-5-0,30013
-115,Chowan,4-4-0,8875
-116,Ark.-Monticello,9-7-0,8411
+115,Ark.-Monticello,9-7-0,8411
+116,Emmanuel (GA),7-8-0,30193
 117,Shepherd,4-4-0,10870
-118,Emmanuel (GA),7-8-0,30193
-119,Newberry,9-10-0,1257
-120,Gannon,5-5-0,246
-121,Southeastern Okla.,8-7-0,1371
-122,Quincy,6-6-0,561
-123,Mo.-St. Louis,7-7-0,436
-124,Hillsdale,6-6-0,280
-125,Eastern N.M.,10-9-0,206
-126,West Ga.,8-7-0,766
-127,Georgia College,9-9-0,1096
-128,Sioux Falls,5-6-0,30128
-129,Drury,9-10-0,1057
-130,USC Beaufort,5-7-0,30259
-131,UC-Colo. Springs,9-8-0,9754
-132,Millersville,5-5-0,423
+118,Wilmington (DE),6-6-0,1460
+119,Mo.-St. Louis,8-8-0,436
+120,Southeastern Okla.,8-7-0,1371
+121,Gannon,5-5-0,246
+122,Bemidji St.,6-5-0,54
+123,Quincy,6-6-0,561
+124,West Ga.,9-8-0,766
+125,Hillsdale,6-6-0,280
+126,Georgia College,9-9-0,1096
+127,Ga. Southwestern,9-11-0,1097
+128,Eastern N.M.,10-9-0,206
+129,Sioux Falls,5-6-0,30128
+130,Drury,9-10-0,1057
+131,USC Beaufort,5-7-0,30259
+132,UC-Colo. Springs,9-8-0,9754
 133,Livingstone,4-3-0,359
-134,West Chester,4-3-0,765
-135,Cal St. Monterey Bay,6-7-0,30055
-136,Lees-McRae,5-7-0,13302
-137,Wilmington (DE),5-6-0,1460
-138,East Central,6-8-0,8965
-139,UVA Wise,6-8-0,30181
-140,Northwest Mo. St.,6-7-0,507
-141,Staten Island,4-4-0,675
-142,Colo. Sch. of Mines,8-10-0,155
-143,Tuskegee,7-10-0,720
-144,Georgian Court,3-5-0,9004
-145,Ga. Southwestern,7-11-0,1097
-146,Ferris St.,6-7-0,224
-147,Wayne St. (MI),2-3-0,757
-148,West Va. Wesleyan,5-6-0,9630
-149,Sonoma St.,4-6-0,645
-150,Central Mo.,5-7-0,130
-151,Augusta,9-13-0,39
-152,Rockhurst,5-7-0,1328
-153,MSU Moorhead,5-6-0,1240
-154,Simon Fraser,3-5-0,30127
-155,Christian Brothers,8-9-0,1015
-156,Purdue Northwest,5-7-0,30222
-157,Barton,6-7-0,15646
-158,Assumption,2-4-0,36
-159,UNC Pembroke,6-11-0,537
-161,Upper Iowa,7-10-0,728
-162,Mars Hill,5-7-0,1199
-163,Academy of Art,5-8-0,30123
-164,Stanislaus St.,6-10-0,103
-165,Fayetteville St.,4-6-0,223
-166,Southwestern Okla.,5-8-0,8744
-167,Southwest Minn. St.,3-5-0,8736
-168,Wis.-Parkside,6-10-0,799
-169,Truman St.,7-14-0,499
-170,Neb.-Kearney,5-8-0,1156
-171,Ashland,5-8-0,35
-172,Bowie St.,5-10-0,70
-173,Frostburg St.,4-7-0,243
-174,Clark Atlanta,5-8-0,144
-175,Southwest Baptist,5-9-0,2755
+134,Cal St. Monterey Bay,6-7-0,30055
+135,Lees-McRae,5-7-0,13302
+136,West Chester,4-3-0,765
+137,UVA Wise,6-8-0,30181
+138,Northwest Mo. St.,6-7-0,507
+139,Colo. Sch. of Mines,8-10-0,155
+140,Ferris St.,6-7-0,224
+141,Wayne St. (MI),2-3-0,757
+142,Chowan,4-6-0,8875
+143,East Central,6-9-0,8965
+144,West Va. Wesleyan,5-6-0,9630
+145,Sonoma St.,4-6-0,645
+146,Central Mo.,5-7-0,130
+147,Staten Island,5-5-0,675
+148,Augusta,9-13-0,39
+149,Rockhurst,5-7-0,1328
+150,Simon Fraser,3-5-0,30127
+151,MSU Moorhead,5-6-0,1240
+152,Barton,6-7-0,15646
+153,Christian Brothers,9-10-0,1015
+154,Purdue Northwest,5-7-0,30222
+155,UNC Pembroke,6-11-0,537
+156,Upper Iowa,7-10-0,728
+158,Millersville,5-7-0,423
+159,Mars Hill,5-7-0,1199
+160,Tuskegee,7-12-0,720
+161,Academy of Art,5-8-0,30123
+162,Stanislaus St.,6-10-0,103
+163,Southwestern Okla.,5-8-0,8744
+164,Fayetteville St.,4-6-0,223
+165,Mercyhurst,3-6-0,408
+166,Ashland,5-8-0,35
+167,Wis.-Parkside,6-10-0,799
+168,Neb.-Kearney,5-8-0,1156
+169,Frostburg St.,4-7-0,243
+170,Truman St.,7-14-0,499
+171,Southwest Baptist,5-9-0,2755
+172,Clark Atlanta,5-8-0,144
+173,Southern N.H.,3-5-0,468
+174,Bowie St.,5-10-0,70
 177,Black Hills St.,4-8-0,30134
-180,Chestnut Hill,2-3-0,21323
-181,Lincoln (MO),4-6-0,356
-182,Converse,6-10-0,8935
-183,Mercyhurst,2-5-0,408
-184,Slippery Rock,2-5-0,643
+178,Lincoln (MO),5-7-0,356
+179,Georgian Court,3-7-0,9004
+180,Fla. Southern,5-11-0,233
+182,Chestnut Hill,2-3-0,21323
+183,Assumption,2-6-0,36
+184,Converse,6-10-0,8935
 185,Clarion,3-7-0,143
 186,Southern Wesleyan,4-7-0,30192
-187,Mary,5-11-0,30075
-188,Davenport,5-11-0,30221
+187,Coker,5-10-0,1023
+188,Slippery Rock,2-5-0,643
 189,Eckerd,4-10-0,208
-190,Kentucky St.,3-7-0,332
-191,Newman,4-10-0,30054
+190,Davenport,5-11-0,30221
+191,Mary,5-11-0,30075
 192,Maryville (MO),5-15-0,395
-193,Fla. Southern,4-10-0,233
-194,Coker,5-12-0,1023
+193,Kentucky St.,3-7-0,332
+194,Newman,4-10-0,30054
 196,Ky. Wesleyan,4-10-0,333
-197,Claflin,4-9-0,30058
-198,Glenville St.,2-5-0,1098
-199,Lock Haven,2-6-0,360
-200,CSUSB,4-8-0,93
-201,Savannah St.,4-9-0,632
-202,CSU Pueblo,5-13-0,2720
-203,San Fran. St.,4-8-0,628
-204,Chadron St.,5-11-0,1012
-205,Adelphi,2-8-0,3
-206,Mont. St. Billings,3-9-0,205
-207,Wheeling,3-11-0,12799
+197,Glenville St.,2-5-0,1098
+198,Claflin,4-9-0,30058
+199,Savannah St.,4-9-0,632
+200,Lock Haven,2-6-0,360
+201,CSUSB,4-8-0,93
+202,Southwest Minn. St.,3-8-0,8736
+203,CSU Pueblo,5-13-0,2720
+204,San Fran. St.,4-8-0,628
+205,Chadron St.,5-11-0,1012
+206,Walsh,3-8-0,30141
+207,Adelphi,2-8-0,3
 208,Palm Beach Atl.,2-8-0,30045
-209,Fort Lewis,3-13-0,1083
-210,Biola,2-6-0,30220
-211,Western N.M.,3-10-0,1445
-212,Erskine,2-12-0,1072
-213,Hawaii Pacific,2-10-0,2696
-214,Chico St.,3-12-0,95
+209,Mont. St. Billings,3-9-0,205
+210,Wheeling,3-11-0,12799
+211,Fort Lewis,3-13-0,1083
+212,Biola,2-6-0,30220
+213,Western N.M.,3-10-0,1445
+214,Bentley,1-5-0,56
 215,Cedarville,2-8-0,30124
-216,Edinboro,1-5-0,209
-217,Bentley,1-5-0,56
-218,Walsh,2-8-0,30141
-219,Delta St.,3-15-0,181
-220,N.M. Highlands,2-10-0,8577
+216,Erskine,2-12-0,1072
+217,Hawaii Pacific,2-10-0,2696
+218,Chico St.,3-12-0,95
+219,N.M. Highlands,2-10-0,8577
+220,Delta St.,3-15-0,181
 221,Adams St.,3-13-0,929
-222,St. Anselm,1-6-0,593
-224,Southern N.H.,1-5-0,468
-225,Lynn,2-9-0,20794
+222,Benedict,2-7-0,55
+223,St. Anselm,1-6-0,593
+224,Lynn,2-9-0,20794
 226,Thomas More,3-13-0,1402
-227,Northeastern St.,2-11-0,12810
-228,Ouachita Baptist,2-11-0,1289
-229,Tex. Permian Basin,1-13-0,30088
-230,Elizabeth City St.,1-5-0,210
-231,Lane,1-4-0,347
-232,Goldey-Beacom,2-14-0,8366
-233,Midwestern St.,1-15-0,1222
-234,Miles,1-8-0,422
-235,Wayne St. (NE),2-16-0,1433
-236,Bridgeport,1-11-0,74
-237,Benedict,1-7-0,55
-238,Minn.-Crookston,1-11-0,27854
-239,Winston-Salem,1-10-0,791
-240,West Liberty,0-10-0,1438
+227,Ouachita Baptist,2-11-0,1289
+228,Northeastern St.,2-11-0,12810
+229,Minn.-Crookston,2-13-0,27854
+230,Edinboro,1-7-0,209
+231,Elizabeth City St.,1-5-0,210
+232,Tex. Permian Basin,1-13-0,30088
+233,Lane,1-4-0,347
+234,Bridgeport,1-11-0,74
+235,Miles,1-8-0,422
+236,Goldey-Beacom,2-14-0,8366
+237,Midwestern St.,1-15-0,1222
+238,Wayne St. (NE),2-16-0,1433
+239,West Liberty,0-10-0,1438
+240,Winston-Salem,1-10-0,791
 241,Lincoln (PA),1-11-0,357
-242,Central Wash.,0-7-0,1010
-243,Shorter,1-14-0,30151
-244,Molloy,0-6-0,437
-245,Virginia Union,0-6-0,744
-246,Johnson C. Smith,0-5-0,323
-247,Holy Family,0-8-0,1126
-248,Shaw,0-6-0,636
-249,Allen,0-13-0,30240
+242,Dominican (NY),0-6-0,8956
+243,Central Wash.,0-7-0,1010
+244,Shorter,1-14-0,30151
+245,Molloy,0-6-0,437
+246,Virginia Union,0-6-0,744
+247,Johnson C. Smith,0-6-0,323
+248,Holy Family,0-10-0,1126
+249,Shaw,0-6-0,636
+250,Allen,0-13-0,30240
