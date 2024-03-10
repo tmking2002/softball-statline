@@ -121,7 +121,7 @@ DT::datatable(rankings,
               colnames=c("Team", "Record", "RPI", "NFCA", "Offensive Rank", "Defensive Rank", "Power Rank"),
               options = list(
                 pageLength = 25,
-                columnDefs = list(list(targets = 4, className = "dt-border-right dt-right"))
+                columnDefs = list(list(targets = 3, className = "dt-border-right dt-right"))
               ),
               width = "80%",
               escape = FALSE,
