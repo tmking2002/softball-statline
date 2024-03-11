@@ -14,7 +14,7 @@
         <meta name="twitter:card" content="logo.png">
         
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         
         <!-- Google tag (gtag.js) -->
@@ -131,37 +131,35 @@
     <body>
 
         <div class="w3-top">
-            <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
-                <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-                    <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
+            <div class="w3-bar w3-top w3-center-align w3-large">
+            <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
+                <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
                        Menu<i class="fa fa-caret-down"></i>
                     </button>
-                    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href=''">Home</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
+                    <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''">Home</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
+                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
                     </div>
                   </div>
               </div>
-              <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
-                <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Home</a>
-                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040">Players</a>
-                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
-                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
-                <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
-                <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Rankings</a>
-              </div>
+            <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
+                <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Home</a>
+                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Players</a>
+                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Teams</a>
+                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
+                <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
+                <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
             </div>
           </div>
 
         <!-- Header -->
-        <header class="w3-container w3-theme w3-padding" id="myHeader">
-          <div class="w3-center" style="position: relative; margin-top: 50px;"> 
-            <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+          <div class="w3-center" style="position: relative; margin-top: 100px;"> 
+            <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
           </div>
-        </header>
 
         <div class="w3-row-padding w3-center w3-margin-top">
         <div class="w3-third">
@@ -279,7 +277,7 @@
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
 
-        <footer class="w3-container w3-theme-teal w3-padding" style="text-align: center; margin-top: 100px !important">
+        <footer class="w3-container w3-theme-red w3-padding" style="text-align: center; margin-top: 100px !important">
             <p>2024 Softball Statline</p>
             <p><a href="https://twitter.com/SBStatline"><i class="fab fa-twitter"></i></a> Created by Tyson King</p>
         </footer>

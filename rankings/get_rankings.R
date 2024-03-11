@@ -67,7 +67,10 @@ get_power_ratings <- function(scoreboard){
   scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")),
                              scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs"))) %>% 
     mutate(team = str_replace(team, "&amp;", "&"),
-           opponent = str_replace(opponent, "&amp;", "&"))
+           opponent = str_replace(opponent, "&amp;", "&")) %>% 
+    group_by(team) %>% 
+    filter(n() > 5) %>% 
+    ungroup()
   
   rpi <- get_current_rpi(scoreboard) %>%
     select(team_name, rpi_rank)

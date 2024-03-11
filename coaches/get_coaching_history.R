@@ -1,13 +1,48 @@
 install.packages("tidyverse")
 library(tidyverse)
 
+install.packages("glue")
+library(glue)
+
 print("COACHING HISTORY")
+
+cur_season <- 2024
 
 teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS"), "rb") %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80 & head_coach != "")
 
 teams$ties[which(is.na(teams$ties))] <- 0
+
+scoreboard <- rbind(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))),
+                    readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS"))),
+                    readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS"))))
+
+records <- rbind(scoreboard %>% select(away_team, away_team_runs, home_team_runs) %>% `names<-`(c("team_name", "runs", "allowed")),
+                 scoreboard %>% select(home_team, home_team_runs, away_team_runs) %>% `names<-`(c("team_name", "runs", "allowed"))) %>% 
+  group_by(team_name) %>% 
+  summarise(wins = sum(runs > allowed),
+            losses = sum(runs < allowed),
+            ties = sum(runs == allowed)) %>% 
+  ungroup()
+
+for(i in 1:nrow(teams %>% filter(season == 2024))){
+  
+  team <- teams %>% filter(season == 2024) %>% slice(i) %>% pull(team_name)
+  
+  record <- records %>% filter(team_name == team)
+  
+  if(nrow(record) == 0) next
+  
+  new_row <- teams %>% filter(season == 2024) %>% slice(i) %>% 
+    mutate(wins = record$wins,
+           losses = record$losses,
+           ties = record$ties,
+           win_perc = round(record$wins / (record$wins + record$losses), 3))
+  
+  teams[(teams$team_name == team & teams$season == 2024),] <- new_row
+  
+}
 
 extra_coaches <- data.frame()
 
@@ -62,11 +97,15 @@ total_history <- teams %>%
 
 unique_coaches <- total_history %>% 
   arrange(season, team_name) %>% 
-  distinct(head_coach) %>% 
+  group_by(head_coach) %>% 
+  summarise(division = last(division)) %>% 
+  ungroup() %>% 
+  distinct(head_coach, division) %>% 
   mutate(coach_id = row_number()) %>% 
   arrange(head_coach)
 
 coaching_history <- total_history %>% 
+  select(-division) %>% 
   merge(unique_coaches, by = "head_coach") %>% 
   mutate(record = paste(wins, losses, ties, sep = "-"),
          win_perc = format(round(wins / (wins + losses), 3), nsmall = 3)) %>% 
@@ -74,6 +113,9 @@ coaching_history <- total_history %>%
   arrange(desc(season))
 
 write.csv(unique_coaches, "coaches/coach_ids.csv")
+write.csv(unique_coaches %>% filter(division == "D-I"), "coaches/coach_ids_d1.csv")
+write.csv(unique_coaches %>% filter(division == "D-II"), "coaches/coach_ids_d2.csv")
+write.csv(unique_coaches %>% filter(division == "D-III"), "coaches/coach_ids_d3.csv")
 write.csv(coaching_history, "coaches/coach_history.csv")
 
 coach_stats <- total_history %>% 

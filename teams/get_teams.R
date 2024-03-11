@@ -19,6 +19,9 @@ unique_teams <- teams %>%
   arrange(division, team_name)
 
 write.csv(unique_teams, "teams/data/all_teams.csv")
+write.csv(unique_teams %>% filter(division == "D-I"), "teams/data/teams_d1.csv")
+write.csv(unique_teams %>% filter(division == "D-II"), "teams/data/teams_d2.csv")
+write.csv(unique_teams %>% filter(division == "D-III"), "teams/data/teams_d3.csv")
 
 for(i in unique(unique_teams$team_id)){
   

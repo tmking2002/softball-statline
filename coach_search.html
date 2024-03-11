@@ -2,36 +2,37 @@
 <html>
 <head>
     <title>Softball Statline - Coaches</title>
-    <link rel="icon" type = image/png href="logo_small.png">
+    <link rel="icon" type="image/png" href="logo_small.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
     <meta name="keywords" content="NCAA Softball, Softball Stats, D1, D2, D3, College Softball, Softball Game Statistics, Player Performance Metrics, Softball Teams, Softball Scores, Softball Analysis, Softball Highlights, NCAA Softball Rankings, Softball Records, Softball Season, Softball Standings, Softball Coaches, Patty Gasso, Lonni Alameda, Softball Coach Wins">
 
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
     
     <style>
-
         @media screen and (max-width: 768px) {
             .w3-hide-medium,
             .w3-hide-large {
-            display: block !important;
+                display: block !important;
             }
+
             .w3-bar-item {
-            text-align: center;
+                text-align: center;
             }
+
             .w3-dropdown-content {
-            position: relative !important;
-           }
-        }   
+                position: relative !important;
+            }
+        }
 
         .search-container {
-        display: flex;
-        justify-content: center; /* Horizontally center the input */
-        margin-top: 10px;
-        margin-bottom: 10px;
+            display: flex;
+            justify-content: center; /* Horizontally center the input */
+            margin-top: 10px;
+            margin-bottom: 10px;
         }
 
         #searchInput {
@@ -43,26 +44,32 @@
         }
 
         .coach-container {
-        max-width: 300px;
-        margin: 0 auto; /* Center the coach list container */
+            max-width: 300px;
+            margin: 0 auto; /* Center the coach list container */
         }
 
-        #coachList {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
+        #coachListD1,
+        #coachListD2,
+        #coachListD3 {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
         }
 
-        #coachList li {
-        margin-bottom: 5px;
-        background-color: #f7f7f7;
-        padding: 10px;
-        border-radius: 4px;
-        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        #coachListD1 li,
+        #coachListD2 li,
+        #coachListD3 li {
+            margin-bottom: 5px;
+            background-color: #f7f7f7;
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         }
 
-        #coachList li:hover {
-        background-color: #e0e0e0;
+        #coachListD1 li:hover,
+        #coachListD2 li:hover,
+        #coachListD3 li:hover {
+            background-color: #e0e0e0;
         }
     </style>
 
@@ -80,40 +87,58 @@
     <body>
         
         <div class="w3-top">
-            <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
+            <div class="w3-bar w3-top w3-center-align w3-large">
                 <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-                    <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
-                       Menu<i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='../'">Home</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                    </div>
+                    <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
+                           Menu<i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='../'">Home</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''">Coaches</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
+                        </div>
+                      </div>
                   </div>
+                <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
+                    <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Home</a>
+                    <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Players</a>
+                    <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Teams</a>
+                    <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Coaches</a>
+                    <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
+                    <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
+                </div>
               </div>
-              <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
-                <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
-                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040">Players</a>
-                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
-                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Coaches</a>
-                <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
-                <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Rankings</a>  
-            </div>
-            </div>
-          </div>
-        
+            
         <!-- Header -->
-        <header class="w3-container w3-theme w3-padding" id="myHeader">
-          <div class="w3-center" style="position: relative; margin-top: 50px;"> 
-            <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+        <div class="w3-center" style="position: relative; margin-top: 100px; margin-bottom: 50px"> 
+            <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
           </div>
-        </header>
-        
+
         <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Search by first or last name">
+            <input type="text" id="searchInput" placeholder="Search">
+        </div>
+    
+        
+        <div class="w3-third">
+            <h3 style="text-align: center;">D-I</h3><br>
+            <div class="coach-container" style="height: 800px; overflow: auto;">
+                <ul id="coachListD1"></ul>
+            </div>
+        </div>
+        <div class="w3-third">
+            <h3 style="text-align: center;">D-II</h3><br>
+            <div class="coach-container" style="height: 800px; overflow: auto;">
+                <ul id="coachListD2"></ul>
+            </div>
+        </div>
+        <div class="w3-third">
+            <h3 style="text-align: center;">D-III</h3><br>
+            <div class="coach-container" style="height: 800px; overflow: auto;">
+                <ul id="coachListD3"></ul>
+            </div>
         </div>
 
         <div class="coach-container" style="overflow: auto; height: 800px;">
@@ -123,45 +148,73 @@
         <script src="papaparse.min.js"></script>
 
         <script>
-            const coachArray = [];
+            const coachArrayD1 = [];
+            const coachArrayD2 = [];
+            const coachArrayD3 = [];
 
-            function displaycoach(coachArray) {
-                const coachList = document.getElementById("coachList");
+            function displaycoach(coachArray, coachListId) {
+                const coachList = document.getElementById(coachListId);
                 coachList.innerHTML = "";
 
                 coachArray.forEach(coach => {
-                const li = document.createElement("li");
-                const link = document.createElement("a"); 
+                    const li = document.createElement("li");
+                    const link = document.createElement("a");
 
-                link.href = `coach_info?coachID=${coach.coach_id}`;
-                link.textContent = `${coach.head_coach}`;
-                
-                li.appendChild(link);
-                coachList.appendChild(li);
+                    link.href = `coach_info?coachID=${coach.coach_id}`;
+                    link.textContent = `${coach.head_coach}`;
+
+                    li.appendChild(link);
+                    coachList.appendChild(li);
                 });
             }
 
-            function filtercoach(searchTerm) {
+            function filtercoach(searchTerm, coachArray, coachListId) {
                 const filteredcoach = coachArray.filter(coach => {
                     return coach.head_coach.toLowerCase().includes(searchTerm.toLowerCase());
                 });
 
-                displaycoach(filteredcoach);
+                displaycoach(filteredcoach, coachListId);
             }
 
             const searchInput = document.getElementById("searchInput");
-            searchInput.addEventListener("input", () => filtercoach(searchInput.value));
-            
-            // Initial display of all coach
-            displaycoach(coachArray);
+            searchInput.addEventListener("input", () => {
+                filtercoach(searchInput.value, coachArrayD1, "coachListD1");
+                filtercoach(searchInput.value, coachArrayD2, "coachListD2");
+                filtercoach(searchInput.value, coachArrayD3, "coachListD3");
+            });
 
-            Papa.parse("coaches/coach_ids.csv", {
+            // Initial display of all coach
+            displaycoach(coachArrayD1, "coachListD1");
+            displaycoach(coachArrayD2, "coachListD2");
+            displaycoach(coachArrayD3, "coachListD3");
+
+            Papa.parse("coaches/coach_ids_d1.csv", {
                 download: true,
                 header: true,
                 skipEmptyLines: true,
                 complete: function (results) {
-                    coachArray.push(...results.data);
-                    displaycoach(coachArray);
+                    coachArrayD1.push(...results.data);
+                    displaycoach(coachArrayD1, "coachListD1");
+                }
+            });
+
+            Papa.parse("coaches/coach_ids_d2.csv", {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function (results) {
+                    coachArrayD2.push(...results.data);
+                    displaycoach(coachArrayD2, "coachListD2");
+                }
+            });
+
+            Papa.parse("coaches/coach_ids_d3.csv", {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function (results) {
+                    coachArrayD3.push(...results.data);
+                    displaycoach(coachArrayD3, "coachListD3");
                 }
             });
         </script>

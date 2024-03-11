@@ -96,4 +96,15 @@ unique_names <- box %>%
   select(player_id, player, teams, seasons, first, last) %>% 
   arrange(player_id)
 
+teams <- read_csv("teams/data/all_teams.csv")
+
+final_players <- unique_names %>% 
+  mutate(last_team = trimws(str_split(teams, "\\+") %>% sapply(tail, 1))) %>% 
+  merge(teams, by.x = "last_team", by.y = "team_name", all = T) %>% 
+  mutate(division = ifelse(is.na(division), "D-III", division)) %>% 
+  arrange(player)
+
 write.csv(unique_names, "players/data/all_players.csv")
+write.csv(final_players %>% filter(division == "D-I"), "players/data/players_d1.csv")
+write.csv(final_players %>% filter(division == "D-II"), "players/data/players_d2.csv")
+write.csv(final_players %>% filter(division == "D-III"), "players/data/players_d3.csv")

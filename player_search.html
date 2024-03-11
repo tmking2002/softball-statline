@@ -49,13 +49,13 @@
         margin: 0 auto; /* Center the player list container */
         }
 
-        #playerList {
+        #playerListD1 {
         list-style-type: none;
         padding: 0;
         margin: 0;
         }
 
-        #playerList li {
+        #playerListD1 li {
         margin-bottom: 5px;
         background-color: #f7f7f7;
         padding: 10px;
@@ -63,7 +63,43 @@
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         }
 
-        #playerList li:hover {
+        #playerListD1 li:hover {
+        background-color: #e0e0e0;
+        }
+
+        #playerListD2 {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        }
+
+        #playerListD2 li {
+        margin-bottom: 5px;
+        background-color: #f7f7f7;
+        padding: 10px;
+        border-radius: 4px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        #playerListD2 li:hover {
+        background-color: #e0e0e0;
+        }
+
+        #playerListD3 {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        }
+
+        #playerListD3 li {
+        margin-bottom: 5px;
+        background-color: #f7f7f7;
+        padding: 10px;
+        border-radius: 4px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        #playerListD3 li:hover {
         background-color: #e0e0e0;
         }
     </style>
@@ -82,107 +118,132 @@
     <body>
         
         <div class="w3-top">
-            <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
+            <div class="w3-bar w3-top w3-center-align w3-large">
                 <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-                    <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
-                       Menu<i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='../'">Home</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                    </div>
+                    <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
+                           Menu<i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='../'">Home</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''">Players</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
+                            <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
+                        </div>
+                      </div>
                   </div>
+                <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
+                    <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Home</a>
+                    <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Players</a>
+                    <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Teams</a>
+                    <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
+                    <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
+                    <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
+                </div>
               </div>
-              <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
-                <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
-                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688">Players</a>
-                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Teams</a>
-                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
-                <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
-                <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Rankings</a>  
-            </div>
-            </div>
-          </div>
-        
-        <!-- Header -->
-        <header class="w3-container w3-theme w3-padding" id="myHeader">
-          <div class="w3-center" style="position: relative; margin-top: 50px;"> 
-            <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-          </div>
-        </header>
-        
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Search by first or last name">
         </div>
 
-        <div class="player-container" style="overflow: auto; height: 800px;">
-            <ul id="playerList" style="text-align: center;"></ul>
+        <!-- Header -->
+        <div class="w3-center" style="position: relative; margin-top: 100px; margin-bottom: 50px"> 
+            <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+          </div>
+
+          <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search">
+        </div>
+
+          <div class="w3-third">
+            <div class="player-container" style="height: 800px; overflow: auto;">
+                <h3 style="text-align: center;">D-I</h3><br>
+                <ul id="playerListD1"></ul>
+            </div>
+        </div>
+        <div class="w3-third">
+            <div class="player-container" style="height: 800px; overflow: auto;">
+                <h3 style="text-align: center;">D-II</h3><br>
+                <ul id="playerListD2"></ul>
+            </div>
+        </div>
+        <div class="w3-third">
+            <div class="player-container" style="height: 800px; overflow: auto;">
+                <h3 style="text-align: center;">D-III</h3><br>
+                <ul id="playerListD3"></ul>
+            </div>
         </div>
         
         <script src="papaparse.min.js"></script>
 
         <script>
-            const playersArray = [];
+            const playerArrayD1 = [];
+            const playerArrayD2 = [];
+            const playerArrayD3 = [];
 
-            function displayPlayers(playersArray) {
-                const playerList = document.getElementById("playerList");
+            function displayPlayer(playerArray, playerListId) {
+                const playerList = document.getElementById(playerListId);
                 playerList.innerHTML = "";
-                
-                playersArray.forEach(player => {
-                const a = document.createElement("a");
-                const li = document.createElement("li");
-                li.textContent = `${player.player} (${player.teams})`;
-                a.href = `player_info?playerID=${player.player_id}`;
-                a.appendChild(li);
-                playerList.appendChild(a);
+
+                playerArray.forEach(player => {
+                    const li = document.createElement("li");
+                    const link = document.createElement("a");
+
+                    link.href = `player_info?playerID=${player.player_id}`;
+                    link.textContent = `${player.player}`;
+
+                    li.appendChild(link);
+                    playerList.appendChild(li);
                 });
             }
 
-            function filterPlayers(searchTerm) {
-                const filteredPlayers = playersArray.filter(player => {
-                const fullName = `${player.first} ${player.last}`;
-                return fullName.toLowerCase().includes(searchTerm.toLowerCase());
+            function filterPlayer(searchTerm, playerArray, playerListId) {
+                const filteredPlayer = playerArray.filter(player => {
+                    return player.player.toLowerCase().includes(searchTerm.toLowerCase());
                 });
-                
-                displayPlayers(filteredPlayers);
+
+                displayPlayer(filteredPlayer, playerListId);
             }
 
             const searchInput = document.getElementById("searchInput");
-            searchInput.addEventListener("input", () => filterPlayers(searchInput.value));
-            
-            // Initial display of all players
-            displayPlayers(playersArray);
+            searchInput.addEventListener("input", () => {
+                filterPlayer(searchInput.value, playerArrayD1, "playerListD1");
+                filterPlayer(searchInput.value, playerArrayD2, "playerListD2");
+                filterPlayer(searchInput.value, playerArrayD3, "playerListD3");
+            });
 
-            Papa.parse("players/data/all_players.csv", {
+            // Initial display of all player
+            displayPlayer(playerArrayD1, "playerListD1");
+            displayPlayer(playerArrayD2, "playerListD2");
+            displayPlayer(playerArrayD3, "playerListD3");
+
+            Papa.parse("players/data/players_d1.csv", {
                 download: true,
                 header: true,
                 skipEmptyLines: true,
                 complete: function (results) {
-                    playersArray.push(...results.data);
-                    displayPlayers(playersArray);
+                    playerArrayD1.push(...results.data);
+                    displayPlayer(playerArrayD1, "playerListD1");
+                }
+            });
+
+            Papa.parse("players/data/players_d2.csv", {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function (results) {
+                    playerArrayD2.push(...results.data);
+                    displayPlayer(playerArrayD2, "playerListD2");
+                }
+            });
+
+            Papa.parse("players/data/players_d3.csv", {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function (results) {
+                    playerArrayD3.push(...results.data);
+                    displayPlayer(playerArrayD3, "playerListD3");
                 }
             });
         </script>
-
-    <!-- Add some CSS styles for the suggestions container -->
-    <style>
-        #suggestions-container {
-            border: 1px solid #ccc;
-            max-height: 150px;
-            overflow-y: auto;
-        }
-
-        #suggestions-container div {
-            padding: 5px;
-            cursor: pointer;
-        }
-
-        #suggestions-container div:hover {
-            background-color: #f2f2f2;
-        }
-    </style>
 </body>
 </html>

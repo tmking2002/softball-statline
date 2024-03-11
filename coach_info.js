@@ -12,7 +12,8 @@ function findcoach(csvData, coachID) {
     for (let i = 1; i < lines.length; i++) {
         const currentLine = lines[i].split(",");
         console.log(currentLine)
-        let cur_ID = currentLine[2].replace(/\r/g, '');
+        let cur_ID = currentLine[3].replace(/\r/g, '');
+        console.log(cur_ID)
 
         if(cur_ID == coachID) {
             coachName = currentLine[1].slice(1, -1)

@@ -2,159 +2,156 @@
 <html>
 <head>
   <title>Softball Statline</title>
-  <link rel="icon" type = image/png href="logo_small.png">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
-    <meta name="keywords" content="NCAA Softball, Softball Stats, D1, D2, D3, College Softball, Softball Game Statistics, Player Performance Metrics, Softball Teams, Softball Scores, Softball Analysis, Softball Highlights, NCAA Softball Rankings, Softball Records, Softball Season, Softball Standings">
+  <link rel="icon" type="image/png" href="logo_small.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
+  <meta name="keywords" content="NCAA Softball, Softball Stats, D1, D2, D3, College Softball, Softball Game Statistics, Player Performance Metrics, Softball Teams, Softball Scores, Softball Analysis, Softball Highlights, NCAA Softball Rankings, Softball Records, Softball Season, Softball Standings">
 
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
 
-    <style>
-      @media screen and (max-width: 768px) {
-        #table-container {
-          flex-direction: column;
-        }
-    
-        .table {
-          margin-bottom: 20px;
-        }
-
-        h1 {
-          font-size: 16px;
-        }
-
-        h3 {
-          font-size: 14px;
-        }
-      }
-    
+  <style>
+    @media screen and (max-width: 768px) {
       #table-container {
-        max-width: 1000px;
-        margin: 0 auto;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
+        flex-direction: column;
       }
-    
-      table {
-        width: 100%;
-        border-collapse: collapse;
+  
+      .table {
+        margin-bottom: 20px;
       }
-    
-      th, td {
-        border: 1px solid #ccc;
-        padding: 4px;
-        text-align: center;
-      }
-    
-      th {
-        background-color: #f2f2f2;
-      }
-    
-      hr {
-        clear: both;
-      }
-    
-      td:first-child {
-        text-align: left;
-        width: 50%;
-      }
-    </style>
-    
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      h1 {
+        font-size: 16px;
+      }
 
-      gtag('config', 'G-YFFKCYZJXV');
-    </script>
+      h3 {
+        font-size: 14px;
+      }
+    }
+  
+    #table-container {
+      max-width: 1000px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+  
+    th, td {
+      border: 1px solid #ccc;
+      padding: 4px;
+      text-align: center;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+  
+    hr {
+      clear: both;
+    }
+  
+    td:first-child {
+      text-align: left;
+      width: 50%;
+    }
+  </style>
+  
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-YFFKCYZJXV');
+  </script>
+
+  <script>
+    function toggleDropdown() {
+      var dropdown = document.getElementById("mobile-dropdown");
+      dropdown.classList.toggle("w3-show");
+    }
+  </script>
 </head>
 <body>
 
-  <div class="w3-top">
-    <div class="w3-bar w3-theme w3-top w3-center-align w3-large">
-        <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-            <button class="w3-button w3-padding-16" style="background-color: #009688; color: white;">
-               Menu<i class="fa fa-caret-down"></i>
-            </button>
-            <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="background-color: #404040; z-index: 2;">
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='../'">Home</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='player_search'">Players</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #404040; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-            </div>
-          </div>
-      </div>
-      <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
-        <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Home</a>
-        <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040">Players</a>
-        <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #009688;">Teams</a>
-        <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Coaches</a>
-        <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Leaders</a>
-        <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040;">Rankings</a>
+<div class="w3-top">
+  <div class="w3-bar w3-top w3-center-align w3-large">
+    <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block;">
+      <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="toggleDropdown()">
+        Menu<i class="fa fa-caret-down"></i>
+      </button>
+      <div id="mobile-dropdown" class="w3-dropdown-content w3-bar-block w3-hide w3-card" style="background-color: #E15241; z-index: 2;">
+        <a href="../" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Home</a>
+        <a href="" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Players</a>
+        <a href="team_search" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Teams</a>
+        <a href="coach_search" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Coaches</a>
+        <a href="leaders_search" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Leaders</a>
+        <a href="rankings/rankings_d1" class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;">Rankings</a>
       </div>
     </div>
   </div>
+</div>
 
 <!-- Header -->
-<header class="w3-container w3-theme w3-padding" id="myHeader">
-  <div class="w3-center" style="position: relative; margin-top: 50px;"> 
-    <img src="logo.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  </div>
-</header>
+<div class="w3-center" style="position: relative; margin-top: 100px; margin-bottom: 50px"> 
+  <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+</div>
 
-  <h1 style="text-align: center;"></h1>
-  <h3 style="text-align: center;"></h3>
-  <hr>
+<h1 style="text-align: center;"></h1>
+<h3 style="text-align: center;"></h3>
+<hr>
 
-  <h3 style="text-align: center;">Hitting</h3>
+<h3 style="text-align: center;">Hitting</h3>
 
-  <br>
+<br>
+<div id="table-container">
+    
+  <!-- Home Table -->
+    <div class="table">
+      <div id="home-hitting-table-container" style="padding-bottom: 100px;"></div>
+    </div>
+
+    <!-- Away Table -->
+    <div class="table">
+        <div id="away-hitting-table-container">
+            <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
+        </div>
+    </div>
+
+</div>
+
+<hr>
+
+<h3 style="text-align: center;">Pitching</h3>
+
+<br>
   <div id="table-container">
       
     <!-- Home Table -->
       <div class="table">
-        <div id="home-hitting-table-container" style="padding-bottom: 100px;"></div>
+        <div id="home-pitching-table-container" style="padding-bottom: 100px;"></div>
       </div>
 
       <!-- Away Table -->
       <div class="table">
-          <div id="away-hitting-table-container">
+          <div id="away-pitching-table-container">
               <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
           </div>
       </div>
 
   </div>
 
-  <hr>
-
-  <h3 style="text-align: center;">Pitching</h3>
-
-  <br>
-    <div id="table-container">
-        
-      <!-- Home Table -->
-        <div class="table">
-          <div id="home-pitching-table-container" style="padding-bottom: 100px;"></div>
-        </div>
-  
-        <!-- Away Table -->
-        <div class="table">
-            <div id="away-pitching-table-container">
-                <div id="away-no-data" style="display: none; text-align: center; color: red;">No box score data found</div>
-            </div>
-        </div>
-  
-    </div>
-
-  <script src="papaparse.min.js"></script>
-  <script src="game_info.js"></script>
+<script src="papaparse.min.js"></script>
+<script src="game_info.js"></script>
 </body>
 </html>
