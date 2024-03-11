@@ -1,48 +1,48 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Sarah Jamo","Little East","20-21-0","0.488"
-"2","2022","Sarah Jamo","Little East","24-16-0","0.600"
-"3","2021","Sarah Jamo","Little East","31-6-1","0.838"
-"4","2020","Sarah Jamo","Little East","0-0-0","  NaN"
-"5","2019","Sarah Jamo","Little East","22-18-0","0.550"
-"6","2018","Sarah Jamo","Little East","21-20-0","0.512"
-"7","2017","Sarah Jamo","Little East","15-16-0","0.484"
-"8","2016","Sarah Jamo","Little East","23-14-1","0.622"
-"9","2015","Sarah Jamo","Little East","24-20-0","0.545"
-"10","2014","Sarah Jamo","Little East","14-21-0","0.400"
-"11","2013","Sarah Jamo","Little East","9-31-0","0.225"
-"12","2012","Bonny Brown-Denico","Little East","4-36-0","0.100"
-"13","2011","Bonny Brown-Denico","Little East","6-32-0","0.158"
-"14","2010","Bonny Brown-Denico","Little East","13-30-0","0.302"
-"15","2009","Bonny Brown-Denico","Little East","6-36-0","0.143"
-"16","2008","Bonny Brown-Denico","Little East","16-21-0","0.432"
-"17","2007","Bonny Brown-Denico","Little East","19-22-0","0.463"
-"18","2006","Bonny Brown-Denico","Little East","23-21-0","0.523"
-"19","2005","Bonny Brown-Denico","Little East","23-19-1","0.548"
-"20","2004","Bonny Brown-Denico","Little East","33-11-1","0.750"
-"21","2003","Bonny Brown-Denico","Little East","26-14-0","0.650"
-"22","2002","Bonny Brown-Denico","Little East","28-17-1","0.622"
-"23","2001","Bonny Brown-Denico","-","21-14-0","0.600"
-"24","2000","Bonny Brown-Denico","-","26-13-1","0.667"
-"25","1999","Bonny Brown-Denico","-","29-21-0","0.580"
-"26","1998","Bonny Brown-Denico","-","28-18-1","0.609"
-"27","1997","Bonny Brown-Denico","-","25-17-0","0.595"
-"28","1996","Bonny Brown-Denico","-","13-18-0","0.419"
-"29","1995","Karen Hanson","-","13-20-0","0.394"
-"30","1994","Karen Hanson","-","7-20-0","0.259"
-"31","1993","Jean Zimmerman","-","7-11-0","0.389"
-"32","1992","Jean Zimmerman","-","8-12-0","0.400"
-"33","1991","Jean Zimmerman","-","12-15-0","0.444"
-"34","1990","Jean Zimmerman","-","11-22-0","0.333"
-"35","1989","Jean Zimmerman","-","13-16-0","0.448"
-"36","1988","Jean Zimmerman","-","19-13-0","0.594"
-"37","1987","Jean Zimmerman","-","19-10-0","0.655"
-"38","1986","Jean Zimmerman","-","17-16-0","0.515"
-"39","1985","Jean Zimmerman","-","10-12-0","0.455"
-"40","1984","Jean Zimmerman","-","11-9-0","0.550"
-"41","1983","Jean Zimmerman","-","43-25-0","0.632"
-"42","1982","Jean Zimmerman","-","1-1-0","0.500"
-"43","1981","Jean Zimmerman","-","1-1-0","0.500"
-"44","1980","Jean Zimmerman","-","1-1-0","0.500"
-"45","1979","Jean Zimmerman","-","1-1-0","0.500"
-"46","1978","Jean Zimmerman","-","1-1-0","0.500"
-"47","2024","Sarah Jamo","Little East","0-0-0","  NaN"
+"1",2023,"Sarah Jamo","Little East","20-21-0",0.488
+"2",2022,"Sarah Jamo","Little East","24-16-0",0.6
+"3",2021,"Sarah Jamo","Little East","31-6-1",0.838
+"4",2020,"Sarah Jamo","Little East","0-0-0",NA
+"5",2019,"Sarah Jamo","Little East","22-18-0",0.55
+"6",2018,"Sarah Jamo","Little East","21-20-0",0.512
+"7",2017,"Sarah Jamo","Little East","15-16-0",0.484
+"8",2016,"Sarah Jamo","Little East","23-14-1",0.622
+"9",2015,"Sarah Jamo","Little East","24-20-0",0.545
+"10",2014,"Sarah Jamo","Little East","14-21-0",0.4
+"11",2013,"Sarah Jamo","Little East","9-31-0",0.225
+"12",2012,"Bonny Brown-Denico","Little East","4-36-0",0.1
+"13",2011,"Bonny Brown-Denico","Little East","6-32-0",0.158
+"14",2010,"Bonny Brown-Denico","Little East","13-30-0",0.302
+"15",2009,"Bonny Brown-Denico","Little East","6-36-0",0.143
+"16",2008,"Bonny Brown-Denico","Little East","16-21-0",0.432
+"17",2007,"Bonny Brown-Denico","Little East","19-22-0",0.463
+"18",2006,"Bonny Brown-Denico","Little East","23-21-0",0.523
+"19",2005,"Bonny Brown-Denico","Little East","23-19-1",0.548
+"20",2004,"Bonny Brown-Denico","Little East","33-11-1",0.75
+"21",2003,"Bonny Brown-Denico","Little East","26-14-0",0.65
+"22",2002,"Bonny Brown-Denico","Little East","28-17-1",0.622
+"23",2001,"Bonny Brown-Denico","-","21-14-0",0.6
+"24",2000,"Bonny Brown-Denico","-","26-13-1",0.667
+"25",1999,"Bonny Brown-Denico","-","29-21-0",0.58
+"26",1998,"Bonny Brown-Denico","-","28-18-1",0.609
+"27",1997,"Bonny Brown-Denico","-","25-17-0",0.595
+"28",1996,"Bonny Brown-Denico","-","13-18-0",0.419
+"29",1995,"Karen Hanson","-","13-20-0",0.394
+"30",1994,"Karen Hanson","-","7-20-0",0.259
+"31",1993,"Jean Zimmerman","-","7-11-0",0.389
+"32",1992,"Jean Zimmerman","-","8-12-0",0.4
+"33",1991,"Jean Zimmerman","-","12-15-0",0.444
+"34",1990,"Jean Zimmerman","-","11-22-0",0.333
+"35",1989,"Jean Zimmerman","-","13-16-0",0.448
+"36",1988,"Jean Zimmerman","-","19-13-0",0.594
+"37",1987,"Jean Zimmerman","-","19-10-0",0.655
+"38",1986,"Jean Zimmerman","-","17-16-0",0.515
+"39",1985,"Jean Zimmerman","-","10-12-0",0.455
+"40",1984,"Jean Zimmerman","-","11-9-0",0.55
+"41",1983,"Jean Zimmerman","-","43-25-0",0.632
+"42",1982,"Jean Zimmerman","-","1-1-0",0.5
+"43",1981,"Jean Zimmerman","-","1-1-0",0.5
+"44",1980,"Jean Zimmerman","-","1-1-0",0.5
+"45",1979,"Jean Zimmerman","-","1-1-0",0.5
+"46",1978,"Jean Zimmerman","-","1-1-0",0.5
+"47",2024,"Sarah Jamo","Little East","1-1-0",0.5

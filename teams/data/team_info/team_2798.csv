@@ -1,40 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Ed Emielita","Great Northeast","24-20-0","0.545"
-"2","2022","Ed Emielita","Great Northeast","29-11-0","0.725"
-"3","2021","Ed Emielita","Great Northeast","12-6-0","0.667"
-"4","2020","Ed Emielita","Great Northeast","6-4-0","0.600"
-"5","2019","Ed Emielita","Great Northeast","19-17-0","0.528"
-"6","2018","Ed Emielita","Great Northeast","23-17-0","0.575"
-"7","2017","Ed Emielita","Great Northeast","28-15-0","0.651"
-"8","2016","Ed Emielita","Great Northeast","22-17-0","0.564"
-"9","2015","Ed Emielita","Great Northeast","27-15-0","0.643"
-"10","2014","Ed Emielita","Great Northeast","17-18-0","0.486"
-"11","2013","Ed Emielita","Great Northeast","16-22-0","0.421"
-"12","2012","Ed Emielita","Great Northeast","16-24-0","0.400"
-"13","2011","Ed Emielita","Great Northeast","1-31-0","0.031"
-"14","2010","Ed Panzo","Great Northeast","0-28-0","0.000"
-"15","2009","Ed Panzo","Great Northeast","0-25-0","0.000"
-"16","2008","Ed Panzo","Great Northeast","3-28-0","0.097"
-"17","2007","Ed Panzo","Great Northeast","6-18-0","0.250"
-"18","2006","Ed Panzo","Great Northeast","14-16-0","0.467"
-"19","2005","Ed Panzo","Great Northeast","12-16-0","0.429"
-"20","2004","Mark Giordano","Great Northeast","6-18-0","0.250"
-"21","2003","Mark Giordano","-","14-13-0","0.519"
-"22","2002","Mark Giordano","Great Northeast","23-12-1","0.657"
-"23","2001","Mark Giordano","-","19-13-0","0.594"
-"24","2000","Mark Giordano","-","22-14-0","0.611"
-"25","1999","Mark Giordano","-","13-10-0","0.565"
-"26","1998","Mark Giordano","-","17-8-0","0.680"
-"27","1997","Mark Giordano","-","15-8-0","0.652"
-"28","1996","Mark Giordano","-","6-13-0","0.316"
-"29","1995","Mark Giordano","-","9-21-0","0.300"
-"30","1994","James Ferraro","-","9-11-0","0.450"
-"31","1993","Paul Piscitelli","-","5-14-0","0.263"
-"32","1992","John Phostole","-","20-14-0","0.588"
-"33","1991","John Phostole","-","12-8-0","0.600"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","2024","Lou Bunosso","Great Northeast","0-0-0","  NaN"
+"1",2023,"Ed Emielita","Great Northeast","24-20-0",0.545
+"2",2022,"Ed Emielita","Great Northeast","29-11-0",0.725
+"3",2021,"Ed Emielita","Great Northeast","12-6-0",0.667
+"4",2020,"Ed Emielita","Great Northeast","6-4-0",0.6
+"5",2019,"Ed Emielita","Great Northeast","19-17-0",0.528
+"6",2018,"Ed Emielita","Great Northeast","23-17-0",0.575
+"7",2017,"Ed Emielita","Great Northeast","28-15-0",0.651
+"8",2016,"Ed Emielita","Great Northeast","22-17-0",0.564
+"9",2015,"Ed Emielita","Great Northeast","27-15-0",0.643
+"10",2014,"Ed Emielita","Great Northeast","17-18-0",0.486
+"11",2013,"Ed Emielita","Great Northeast","16-22-0",0.421
+"12",2012,"Ed Emielita","Great Northeast","16-24-0",0.4
+"13",2011,"Ed Emielita","Great Northeast","1-31-0",0.031
+"14",2010,"Ed Panzo","Great Northeast","0-28-0",0
+"15",2009,"Ed Panzo","Great Northeast","0-25-0",0
+"16",2008,"Ed Panzo","Great Northeast","3-28-0",0.097
+"17",2007,"Ed Panzo","Great Northeast","6-18-0",0.25
+"18",2006,"Ed Panzo","Great Northeast","14-16-0",0.467
+"19",2005,"Ed Panzo","Great Northeast","12-16-0",0.429
+"20",2004,"Mark Giordano","Great Northeast","6-18-0",0.25
+"21",2003,"Mark Giordano","-","14-13-0",0.519
+"22",2002,"Mark Giordano","Great Northeast","23-12-1",0.657
+"23",2001,"Mark Giordano","-","19-13-0",0.594
+"24",2000,"Mark Giordano","-","22-14-0",0.611
+"25",1999,"Mark Giordano","-","13-10-0",0.565
+"26",1998,"Mark Giordano","-","17-8-0",0.68
+"27",1997,"Mark Giordano","-","15-8-0",0.652
+"28",1996,"Mark Giordano","-","6-13-0",0.316
+"29",1995,"Mark Giordano","-","9-21-0",0.3
+"30",1994,"James Ferraro","-","9-11-0",0.45
+"31",1993,"Paul Piscitelli","-","5-14-0",0.263
+"32",1992,"John Phostole","-","20-14-0",0.588
+"33",1991,"John Phostole","-","12-8-0",0.6
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",2024,"Lou Bunosso","Great Northeast","2-0-0",1
