@@ -157,7 +157,7 @@ function findCoach(csvData, coachName) {
             cur_Name = cur_Name.slice(1, -1);
         }
         if(cur_Name == coachName) {
-            coachID = currentLine[2]
+            coachID = currentLine[3]
             break;
         }
     }
