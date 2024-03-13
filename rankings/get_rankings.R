@@ -4,6 +4,9 @@ library(tidyverse)
 install.packages("magrittr")
 library(magrittr)
 
+install.packages("rvest")
+library(rvest)
+
 print("TEAM RANKINGS")
 
 cur_season <- 2024
