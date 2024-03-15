@@ -126,7 +126,7 @@ DT::datatable(rankings,
                 pageLength = 25,
                 responsive = TRUE,  # Enable responsive design
                 columnDefs = list(
-                  list(targets = c(5:8, 3, 11:18), className = "dt-right"),
+                  list(targets = c(2:10), className = "dt-right"),
                   list(orderData = c(12, 11), targets = 4), 
                   list(orderData = c(14, 13), targets = 5), 
                   list(orderData = c(16, 15), targets = 6), 
