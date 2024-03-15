@@ -150,8 +150,8 @@ get_power_ratings <- function(scoreboard){
 
 get_net_rankings <- function(scoreboard){
   
-  scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = TRUE),
-                             scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = FALSE)) %>% 
+  scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = FALSE),
+                             scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = TRUE)) %>% 
     mutate(team = str_replace(team, "&amp;", "&"),
            opponent = str_replace(opponent, "&amp;", "&")) %>% 
     group_by(team) %>% 
