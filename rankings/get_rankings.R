@@ -148,6 +148,60 @@ get_power_ratings <- function(scoreboard){
   
 }
 
+get_net_rankings <- function(scoreboard){
+  
+  scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = TRUE),
+                             scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = FALSE)) %>% 
+    mutate(team = str_replace(team, "&amp;", "&"),
+           opponent = str_replace(opponent, "&amp;", "&")) %>% 
+    group_by(team) %>% 
+    filter(n() > 5) %>% 
+    ungroup() %>% 
+    mutate(win = runs > opponent_runs) %>% 
+    drop_na(team, win) %>% 
+    merge(get_power_ratings(scoreboard) %>% select(team_name, overall_rank), by.x = "opponent", by.y = "team_name")
+  
+  final_scoreboard <- scoreboard_longer %>% 
+    mutate(quad = case_when(overall_rank <= 30 | (overall_rank <= 75 & home == FALSE) ~ 1,
+                            overall_rank <= 75 | (overall_rank <= 150 & home == FALSE) ~ 2,
+                            overall_rank <= 150 | (overall_rank <= 225 & home == FALSE) ~ 3,
+                            TRUE ~ 4))
+  
+  all_combinations <- expand.grid(
+    team = unique(final_scoreboard$team),
+    quad = unique(final_scoreboard$quad)
+  )
+  
+  net_rankings <- final_scoreboard %>% 
+    right_join(all_combinations, by = c("team", "quad")) %>% 
+    group_by(team, quad) %>% 
+    summarise(wins = sum(win),
+              losses = n() - sum(win)) %>% 
+    ungroup() %>% 
+    mutate(wins = ifelse(is.na(wins), 0, wins),
+           losses = ifelse(is.na(losses), 0, losses),
+           record = paste(wins, losses, sep = "-")) %>% 
+    group_by(team) %>% 
+    summarise(quad1_record = record[which(quad == 1)],
+              quad1_wins = wins[which(quad == 1)],
+              quad1_win_perc = wins[which(quad == 1)] / sum(wins[which(quad == 1)], losses[which(quad == 1)]),
+              quad2_record = record[which(quad == 2)],
+              quad2_wins = wins[which(quad == 2)],
+              quad2_win_perc = wins[which(quad == 2)] / sum(wins[which(quad == 2)], losses[which(quad == 2)]),
+              quad3_record = record[which(quad == 3)],
+              quad3_wins = wins[which(quad == 3)],
+              quad3_win_perc = wins[which(quad == 3)] / sum(wins[which(quad == 3)], losses[which(quad == 3)]),
+              quad4_record = record[which(quad == 4)],
+              quad4_wins = wins[which(quad == 4)],
+              quad4_win_perc = wins[which(quad == 4)] / sum(wins[which(quad == 4)], losses[which(quad == 4)]),) %>% 
+    ungroup() %>% 
+    mutate(across(ends_with("win_perc"), ~ifelse(is.na(.x), 0, .x))) %>% 
+    rename(team_name = team)
+  
+  return(net_rankings)
+  
+}
+
 get_nfca_rankings <- function(division){
   
   rankings <- paste0("https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div", division, "/top25,1/year,2024/") %>% 
@@ -175,6 +229,7 @@ get_nfca_rankings <- function(division){
                             Team == "Rochester" ~ "Rochester (NY)",
                             Team == "Central" ~ "Central (IA)",
                             Team == "The College of New Jersey" ~ "TCNJ",
+                            Team == "Boston University" ~ "Boston U.",
                             TRUE ~ Team)) %>% 
     mutate(Team = trimws(Team)) %>% 
     left_join(team_ids, by = c("Team" = "team_name")) %>% 
@@ -190,12 +245,15 @@ d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/soft
 d1_rpi <- get_current_rpi(d1_scoreboard)
 d1_power_ratings <- get_power_ratings(d1_scoreboard)
 d1_nfca_rankings <- get_nfca_rankings(1)
+d1_net_rankings <- get_net_rankings(d1_scoreboard)
 
 d1_rankings <- merge(d1_rpi, d1_power_ratings, by = "team_name") %>% 
   merge(d1_nfca_rankings, by = "team_name", all = TRUE) %>% 
+  merge(d1_net_rankings, by = "team_name") %>% 
   merge(team_ids, by = "team_name") %>% 
   mutate(logo = paste0("http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/", team_id, ".gif")) %>% 
-  select("logo", "team_name", "record", "rpi_rank", "nfca_rank", "offensive_rank", "defensive_rank", "overall_rank", "team_id") %>% 
+  select("logo", "team_name", "record", "rpi_rank", "nfca_rank", "quad1_record", "quad2_record", "quad3_record", "quad4_record", "offensive_rank", "defensive_rank", "overall_rank", "team_id", 
+         "quad1_win_perc", "quad1_wins", "quad2_win_perc", "quad2_wins", "quad3_win_perc", "quad3_wins", "quad4_win_perc", "quad4_wins") %>% 
   arrange(overall_rank)
 
 write_csv(d1_rankings, "rankings/d1_rankings.csv")

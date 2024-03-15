@@ -117,19 +117,30 @@ library(tidyverse)
 
 rankings <- read.csv("d1_rankings.csv") %>% 
   mutate(team_name = paste0("<a href='../team_info?teamID=", team_id, "'>", team_name, "</a>")) %>% 
-  select(-logo, -team_id)
-  
+  select(-logo, -team_id) %>% 
+  mutate(nfca_rank_sort = ifelse(!is.na(nfca_rank), 25 - nfca_rank, -1))
 
 DT::datatable(rankings, 
-              colnames=c("Team", "Record", "RPI", "NFCA", "Offensive Rank", "Defensive Rank", "Power Rank"),
+              colnames = c("Team", "Record", "RPI", "NFCA", "Q1", "Q2", "Q3", "Q4", "Offensive Rank", "Defensive Rank", "Overall Rank"),
               options = list(
                 pageLength = 25,
-                columnDefs = list(list(targets = 3, className = "dt-border-right dt-right"))
+                responsive = TRUE,  # Enable responsive design
+                columnDefs = list(
+                  list(targets = c(5:8, 3, 11:18), className = "dt-right"),
+                  list(orderData = c(12, 11), targets = 4), 
+                  list(orderData = c(14, 13), targets = 5), 
+                  list(orderData = c(16, 15), targets = 6), 
+                  list(orderData = c(18, 17), targets = 7), 
+                  list(orderData = 19, targets = 3),
+                  list(targets = 7, className = "dt-border-right dt-right"),
+                  list(targets = 11:19, visible = FALSE)  # Hide less critical columns on smaller screens
+                )
               ),
-              width = "80%",
+              width = "80%",  # Adjust the width to fit mobile screens
               escape = FALSE,
               rownames = FALSE
 )
+
 ```
 </div>
 
