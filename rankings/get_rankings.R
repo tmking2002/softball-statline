@@ -7,6 +7,9 @@ library(magrittr)
 install.packages("rvest")
 library(rvest)
 
+install.package("anytime")
+library(anytime)
+
 print("TEAM RANKINGS")
 
 cur_season <- 2024
@@ -247,12 +250,18 @@ d1_power_ratings <- get_power_ratings(d1_scoreboard)
 d1_nfca_rankings <- get_nfca_rankings(1)
 d1_net_rankings <- get_net_rankings(d1_scoreboard)
 
+d1_power_ratings_lastweek <- get_power_ratings(d1_scoreboard %>% filter(anydate(game_date) <= Sys.Date() - 7)) %>% 
+  rename(overall_prev = overall_rank) %>% 
+  select(team_name, overall_prev)
+
 d1_rankings <- merge(d1_rpi, d1_power_ratings, by = "team_name") %>% 
   merge(d1_nfca_rankings, by = "team_name", all = TRUE) %>% 
   merge(d1_net_rankings, by = "team_name") %>% 
+  merge(d1_power_ratings_lastweek, by = "team_name") %>% 
+  mutate(change = overall_rank - overall_prev) %>% 
   merge(team_ids, by = "team_name") %>% 
   mutate(logo = paste0("http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/", team_id, ".gif")) %>% 
-  select("logo", "team_name", "record", "rpi_rank", "nfca_rank", "quad1_record", "quad2_record", "quad3_record", "quad4_record", "offensive_rank", "defensive_rank", "overall_rank", "team_id", 
+  select("logo", "team_name", "record", "rpi_rank", "nfca_rank", "quad1_record", "quad2_record", "quad3_record", "quad4_record", "offensive_rank", "defensive_rank", "overall_rank", "change", "team_id", 
          "quad1_win_perc", "quad1_wins", "quad2_win_perc", "quad2_wins", "quad3_win_perc", "quad3_wins", "quad4_win_perc", "quad4_wins") %>% 
   arrange(overall_rank)
 
