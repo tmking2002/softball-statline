@@ -7,7 +7,7 @@ library(magrittr)
 install.packages("rvest")
 library(rvest)
 
-install.package("anytime")
+install.packages("anytime")
 library(anytime)
 
 print("TEAM RANKINGS")

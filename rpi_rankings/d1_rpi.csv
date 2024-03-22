@@ -4,14 +4,14 @@ Rank,Team,Record,Team ID
 3,Texas,25-3-0,703
 4,Duke,24-2-0,193
 5,Georgia,24-4-0,257
-6,Oklahoma St.,24-4-0,521
+6,Oklahoma St.,25-4-0,521
 7,Stanford,22-5-0,674
-9,Tennessee,22-4-0,694
+9,Tennessee,23-4-0,694
 10,Alabama,24-5-0,8
 11,Virginia Tech,24-4-1,742
 12,Florida,27-4-0,235
-13,Washington,20-4-0,756
-14,Boston U.,22-3-0,68
+13,Boston U.,22-3-0,68
+14,Washington,20-4-0,756
 15,Missouri,23-6-0,434
 16,Arkansas,23-6-0,31
 17,Clemson,21-7-0,147
@@ -66,14 +66,14 @@ Rank,Team,Record,Team ID
 66,FGCU,20-11-0,28755
 67,UTEP,17-7-0,704
 68,North Ala.,21-9-0,487
-69,Delaware,18-7-0,180
-70,Notre Dame,17-10-0,513
-71,BYU,16-10-0,77
+69,Notre Dame,17-10-0,513
+70,Delaware,18-7-0,180
+71,Gardner-Webb,21-10-0,1092
 72,Utah,17-11-0,732
-73,Gardner-Webb,21-10-0,1092
-74,Arizona St.,17-11-0,28
-75,Wichita St.,13-10-0,782
-76,Central Conn. St.,12-5-0,127
+73,Arizona St.,17-11-0,28
+74,Wichita St.,13-10-0,782
+75,Central Conn. St.,12-5-0,127
+76,BYU,16-11-0,77
 77,Michigan,17-10-0,418
 78,Marist,18-8-0,386
 79,Cal St. Fullerton,16-11-0,97
@@ -83,15 +83,15 @@ Rank,Team,Record,Team ID
 83,Eastern Ill.,19-9-0,201
 84,UCF,14-11-0,128
 85,Sacramento St.,19-12-0,102
-86,Belmont,16-9-0,14927
-87,Liberty,15-12-0,355
-89,ULM,19-11-0,498
-90,South Alabama,14-11-1,646
-91,Lamar University,18-10-0,346
-92,UNLV,16-9-0,465
-93,McNeese,16-13-0,402
-94,CSUN,16-10-0,101
-95,Villanova,15-11-0,739
+86,Liberty,15-12-0,355
+87,Belmont,16-9-0,14927
+88,ULM,19-11-0,498
+89,South Alabama,14-11-1,646
+90,Lamar University,18-10-0,346
+91,UNLV,16-9-0,465
+92,McNeese,16-13-0,402
+93,Villanova,15-11-0,739
+95,CSUN,16-10-0,101
 96,Cal Poly,13-9-0,90
 97,UNI,13-10-0,504
 98,Rutgers,18-12-0,587
@@ -101,20 +101,20 @@ Rank,Team,Record,Team ID
 102,North Texas,15-12-0,497
 103,Santa Clara,16-11-0,631
 104,Kent St.,14-8-0,331
-105,New Mexico St.,14-11-0,472
-106,Minnesota,14-13-0,428
+105,Minnesota,14-13-0,428
+106,New Mexico St.,14-11-0,472
 107,Bryant,12-6-0,81
 108,Utah St.,17-11-0,731
-109,Marshall,16-13-0,388
-110,Stony Brook,14-9-0,683
-111,Creighton,17-11-0,169
-112,UNCW,15-11-0,460
-113,Saint Francis (PA),16-11-0,600
-114,Siena,12-6-0,639
+109,Saint Francis (PA),17-11-0,600
+110,Iowa,13-10-0,312
+111,Marshall,16-13-0,388
+112,Stony Brook,14-9-0,683
+113,Creighton,17-11-0,169
+114,UNCW,15-11-0,460
 115,UConn,15-11-0,164
 116,Illinois,12-13-0,301
 117,App State,15-10-0,27
-118,Iowa,12-10-0,312
+118,South Dakota St.,18-18-0,649
 119,Syracuse,13-11-0,688
 120,Nicholls,17-14-0,483
 122,UAlbany,9-6-0,14
@@ -122,7 +122,7 @@ Rank,Team,Record,Team ID
 124,Jackson St.,15-8-0,314
 125,Saint Louis,14-10-0,609
 126,Dayton,12-9-0,175
-127,South Dakota St.,16-18-0,649
+127,Siena,12-7-0,639
 128,Princeton,9-7-0,554
 129,Tennessee St.,14-11-0,691
 130,Ball St.,15-14-0,47
@@ -136,56 +136,56 @@ Rank,Team,Record,Team ID
 138,UNC Greensboro,16-14-0,459
 139,Quinnipiac,9-6-0,562
 140,Houston Christian,13-11-0,287
-141,Idaho St.,16-14-0,294
+141,Idaho St.,17-15-0,294
 142,Michigan St.,12-14-0,416
 143,Maryland,13-14-0,392
 144,Oakland,9-9-0,514
 145,Austin Peay,14-14-0,43
-146,UMBC,11-9-0,391
-147,UC Davis,10-12-0,108
-148,San Jose St.,11-11-0,630
-149,Ohio,13-14-0,519
+146,UC Davis,10-12-0,108
+147,San Jose St.,11-11-0,630
+148,Ohio,13-14-0,519
+149,UMBC,11-9-0,391
 150,Seton Hall,11-11-0,635
 151,UAB,13-16-0,9
 152,Drake,11-13-0,189
 153,USC Upstate,12-13-0,10411
 154,Charleston So.,13-13-0,48
 155,Furman,13-14-0,244
-156,Wisconsin,11-15-0,796
-157,Loyola Chicago,12-13-0,371
-158,Lindenwood,13-14-0,30136
-159,Iowa St.,11-16-0,311
-160,South Dakota,15-17-0,650
-161,Morgan St.,13-12-0,446
-162,Campbell,12-14-1,115
-163,Murray St.,14-15-0,454
-164,FIU,13-18-0,231
-166,UT Martin,12-14-0,695
-167,Wofford,10-10-0,2915
-168,Utah Valley,9-14-0,30024
+156,Loyola Chicago,12-13-0,371
+157,Lindenwood,13-14-0,30136
+158,Iowa St.,11-16-0,311
+159,Morgan St.,13-12-0,446
+160,Campbell,12-14-1,115
+161,FIU,13-18-0,231
+162,Murray St.,14-15-0,454
+164,UT Martin,12-14-0,695
+165,Wisconsin,11-16-0,796
+166,Wofford,10-10-0,2915
+167,Utah Valley,9-14-0,30024
+168,Northern Colo.,15-17-0,502
 169,Weber St.,10-14-0,758
-170,Northern Colo.,15-17-0,502
-171,Queens (NC),11-12-0,11504
-172,Tennessee Tech,12-10-0,692
-173,Bradley,12-14-0,72
-174,Southern Ind.,10-11-0,661
+170,Queens (NC),11-12-0,11504
+171,Tennessee Tech,12-10-0,692
+172,Southern Ind.,10-11-0,661
+173,South Dakota,15-19-0,650
+174,Bradley,12-14-0,72
 175,California Baptist,14-16-0,30135
 176,Western Mich.,10-13-0,774
-177,Butler,13-15-0,87
-178,Lehigh,10-14-0,352
+177,Lehigh,10-14-0,352
+178,Butler,13-15-0,87
 179,Northwestern St.,13-18-0,508
-180,Middle Tenn.,14-18-0,419
+180,Harvard,9-10-0,275
 181,Southern Miss.,12-15-0,664
-182,Harvard,9-10-0,275
-183,Indiana St.,12-15-0,305
-184,Sam Houston,11-17-0,624
-185,FDU,9-11-0,222
-186,Jacksonville,11-15-0,316
-188,UT Arlington,10-17-0,702
-189,Toledo,10-12-0,709
-190,Tarleton St.,12-18-0,1395
-191,North Dakota St.,12-20-0,493
-192,Fordham,10-15-1,236
+182,Fordham,11-15-1,236
+183,Middle Tenn.,14-18-0,419
+184,Indiana St.,12-15-0,305
+185,Sam Houston,11-17-0,624
+186,FDU,9-11-0,222
+187,Jacksonville,11-15-0,316
+189,UT Arlington,10-17-0,702
+190,Toledo,10-12-0,709
+191,Tarleton St.,12-18-0,1395
+192,North Dakota St.,12-20-0,493
 193,Providence,9-12-0,556
 194,Seattle U,9-17-0,1356
 196,Buffalo,10-12-0,86
@@ -202,83 +202,83 @@ Rank,Team,Record,Team ID
 207,Colgate,10-15-0,153
 208,Pittsburgh,8-18-0,545
 209,Northern Ky.,7-10-0,505
-210,Western Caro.,7-11-0,769
-211,Elon,9-18-0,1068
-212,Western Ill.,12-16-0,771
+210,Elon,9-18-0,1068
+211,Western Ill.,12-16-0,771
+212,Western Caro.,7-12-0,769
 213,Georgetown,10-16-0,251
-214,Utah Tech,9-16-0,30095
-215,Central Ark.,8-20-0,1004
-217,Abilene Christian,9-15-0,2
-218,Prairie View,10-13-0,553
-219,UC Santa Barbara,8-16-0,104
-220,Towson,11-16-0,711
+214,Central Ark.,8-20-0,1004
+215,Utah Tech,9-16-0,30095
+217,Prairie View,10-13-0,553
+218,Abilene Christian,9-15-0,2
+219,Towson,11-16-0,711
+220,UC Santa Barbara,8-16-0,104
 221,Kennesaw St.,10-18-0,1157
 222,Hawaii,8-16-0,277
 223,Canisius,5-10-0,116
 224,UC Riverside,7-16-0,111
 225,Southern U.,7-9-0,665
-226,Bellarmine,10-15-0,52
-227,UC San Diego,10-19-0,112
-228,Alabama St.,11-16-0,7
-229,Dartmouth,3-7-0,172
-230,George Mason,9-18-0,248
+226,UC San Diego,10-19-0,112
+227,Alabama St.,11-16-0,7
+228,Bellarmine,10-15-0,52
+229,George Mason,9-18-0,248
+230,Dartmouth,3-7-0,172
 231,Texas Southern,6-8-0,699
 232,Bucknell,9-15-0,83
-233,Monmouth,10-17-0,439
-234,Morehead St.,7-12-0,444
-235,Montana,10-16-0,441
+233,Morehead St.,7-12-0,444
+234,Montana,10-16-0,441
+235,Monmouth,10-18-0,439
 236,Niagara,5-10-0,482
-237,Missouri St.,6-16-0,669
+237,Sacred Heart,9-14-0,590
 238,Long Beach St.,7-22-0,99
-240,UTSA,9-21-0,706
-241,Holy Cross,7-11-0,285
-242,San Diego,8-23-0,627
-243,Penn,5-11-0,540
-244,Brown,5-9-0,80
+239,Missouri St.,6-16-0,669
+241,UTSA,9-21-0,706
+242,Holy Cross,7-11-0,285
+243,San Diego,8-23-0,627
+244,Penn,5-11-0,540
 245,NIU,7-15-0,503
-246,New Mexico,9-23-0,473
-247,Coppin St.,7-11-0,165
-248,Cleveland St.,6-12-0,148
-249,Georgia St.,8-18-0,254
-250,Evansville,9-19-0,219
-251,SIUE,9-18-0,660
-252,Sacred Heart,8-14-0,590
+246,Brown,5-9-0,80
+247,New Mexico,9-23-0,473
+248,Coppin St.,7-11-0,165
+249,Cleveland St.,6-12-0,148
+250,Georgia St.,8-18-0,254
+251,Evansville,9-19-0,219
+252,SIUE,9-18-0,660
 253,Col. of Charleston,7-17-0,1014
 254,Delaware St.,7-11-0,178
-255,Columbia,5-14-0,158
-256,Yale,6-17-0,813
-257,Illinois St.,7-21-0,299
-258,Pacific,8-21-0,534
-259,Hofstra,6-14-0,283
+255,Yale,6-17-0,813
+256,Illinois St.,7-21-0,299
+257,Pacific,8-21-0,534
+258,Hofstra,6-14-0,283
+259,Rider,6-14-0,576
 260,Presbyterian,10-20-0,1320
-261,Rider,6-14-0,576
-262,UIC,8-20-0,302
-263,Robert Morris,6-13-0,579
-264,SFA,8-23-0,676
+261,UIC,8-20-0,302
+262,Columbia,4-13-0,158
+263,SFA,8-23-0,676
+264,Robert Morris,6-13-0,579
 265,Green Bay,6-16-0,794
-266,Hampton,8-20-0,270
-267,Samford,6-20-0,625
-268,Bethune-Cookman,7-19-0,61
-269,Central Mich.,5-18-0,129
-270,Valparaiso,6-18-0,735
-271,DePaul,6-20-0,176
-272,Merrimack,5-17-0,410
-273,Le Moyne,6-15-0,349
+266,Le Moyne,7-15-0,349
+267,Hampton,8-20-0,270
+268,Samford,6-20-0,625
+269,Bethune-Cookman,7-19-0,61
+270,Central Mich.,5-18-0,129
+271,Valparaiso,6-18-0,735
+272,DePaul,6-20-0,176
+273,N.C. Central,7-21-0,489
 274,Massachusetts,5-18-0,400
 275,ETSU,4-14-0,198
 276,Drexel,5-13-0,191
-277,Ark.-Pine Bluff,4-10-0,2678
-278,Army West Point,5-19-0,725
-280,Grambling,5-14-0,261
-281,Purdue Fort Wayne,5-17-0,308
-282,Stonehill,4-13-0,682
-283,N.C. Central,5-21-0,489
-284,St. Thomas (MN),4-24-0,620
-285,Memphis,3-22-0,404
-286,Iona,3-13-0,310
-287,Tuskegee,2-5-0,720
-288,IUPUI,5-23-0,2699
-289,UMES,5-17-0,393
+277,Merrimack,5-18-0,410
+278,Ark.-Pine Bluff,4-10-0,2678
+279,Army West Point,5-19-0,725
+281,Grambling,5-14-0,261
+282,Purdue Fort Wayne,5-17-0,308
+283,St. Thomas (MN),4-24-0,620
+284,Memphis,3-22-0,404
+285,Tuskegee,2-5-0,720
+286,Stonehill,4-14-0,682
+287,IUPUI,5-23-0,2699
+288,UMES,5-17-0,393
+289,Iona,3-14-0,310
 290,UMass Lowell,4-14-0,368
 292,North Dakota,5-27-0,494
 293,South Carolina St.,4-13-0,647
@@ -295,5 +295,5 @@ Rank,Team,Record,Team ID
 305,CSU Bakersfield,2-21-0,94
 306,Detroit Mercy,1-20-0,184
 307,Mississippi Val.,2-17-0,432
-308,Norfolk St.,2-26-0,485
-309,St. Bonaventure,1-13-0,596
+308,St. Bonaventure,1-13-0,596
+309,Norfolk St.,2-28-0,485
