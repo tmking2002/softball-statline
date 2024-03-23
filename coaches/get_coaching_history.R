@@ -1,7 +1,11 @@
-install.packages("tidyverse")
+if (!require("tidyverse", character.only = TRUE)) {
+  install.packages("tidyverse")
+}
 library(tidyverse)
 
-install.packages("glue")
+if (!require("glue", character.only = TRUE)) {
+  install.packages("glue")
+}
 library(glue)
 
 print("COACHING HISTORY")

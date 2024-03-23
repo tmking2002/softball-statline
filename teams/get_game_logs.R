@@ -1,4 +1,6 @@
-install.packages("tidyverse")
+if (!require("tidyverse", character.only = TRUE)) {
+  install.packages("tidyverse")
+}
 library(tidyverse)
 
 print("GAME LOGS")
@@ -61,3 +63,4 @@ get_game_log <- function(season) {
 scoreboard_2024 <- get_game_log(2024)
 
 write.csv(scoreboard_2024, "teams/data/game_logs/game_logs_2024.csv")
+

@@ -1,13 +1,21 @@
-install.packages("tidyverse")
+if (!require("tidyverse", character.only = TRUE)) {
+  install.packages("tidyverse")
+}
 library(tidyverse)
 
-install.packages("magrittr")
+if (!require("magrittr", character.only = TRUE)) {
+  install.packages("magrittr")
+}
 library(magrittr)
 
-install.packages("rvest")
+if (!require("rvest", character.only = TRUE)) {
+  install.packages("rvest")
+}
 library(rvest)
 
-install.packages("anytime")
+if (!require("anytime", character.only = TRUE)) {
+  install.packages("anytime")
+}
 library(anytime)
 
 print("TEAM RANKINGS")

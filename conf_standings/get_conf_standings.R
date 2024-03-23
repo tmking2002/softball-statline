@@ -1,4 +1,6 @@
-install.packages("tidyverse")
+if (!require("tidyverse", character.only = TRUE)) {
+  install.packages("tidyverse")
+}
 library(tidyverse)
 
 print("CONF STANDINGS")
@@ -126,3 +128,4 @@ for(i in 1:length(unique(conferences$conference))){
   print(i)
 
 }
+
