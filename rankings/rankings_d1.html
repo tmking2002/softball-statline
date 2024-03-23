@@ -3,6 +3,7 @@
 <head>
   <title>Softball Statline - NCAA D1 Rankings</title>
   <link rel="icon" type="image/png" href="logo_small.png">
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
@@ -96,6 +97,16 @@
         <th>Defensive Rank</th>
         <th>Overall Rank</th>
         <th>Past Week</th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
+        <th style="display: none;"></th>
       </tr>
     </thead>
     <tbody>
@@ -112,13 +123,13 @@
         dataType: 'text',
         success: function(data) {
           var lines = data.split('\n');
-          for (var i = 1; i < lines.length; i++) {
+          for (var i = 1; i < lines.length - 1; i++) {
             var cells = lines[i].split(',');
-            console.log(cells[13])
-            if (cells.length === 22) {
+            console.log(cells);
+            if (cells.length === cells.length) {
               $('#rankings tbody').append('<tr>' +
                 '<td><img src="' + cells[0] + '" alt="Team Logo" class="team-logo"></td>' +
-                '<td><a href="../team_info?teamID=' + cells[13] + '">' + cells[1] + '</a></td>' +
+                '<td><a href="../team_season_info?season=2024&teamID=' + cells[13] + '">' + cells[1] + '</a></td>' +
                 '<td>' + cells[2] + '</td>' +
                 '<td>' + cells[3] + '</td>' +
                 '<td>' + cells[4] + '</td>' +
@@ -130,21 +141,31 @@
                 '<td>' + cells[10] + '</td>' +
                 '<td>' + cells[11] + '</td>' +
                 '<td>' + cells[12] + '</td>' +
+                '<td style="display: none;">' + cells[14] + '</td>' +
+                '<td style="display: none;">' + cells[15] + '</td>' +
+                '<td style="display: none;">' + cells[16] + '</td>' +
+                '<td style="display: none;">' + cells[17] + '</td>' +
+                '<td style="display: none;">' + cells[18] + '</td>' +
+                '<td style="display: none;">' + cells[19] + '</td>' +
+                '<td style="display: none;">' + cells[20] + '</td>' +
+                '<td style="display: none;">' + cells[21] + '</td>' +
+                '<td style="display: none;">' + cells[22] + '</td>' + 
+                '<td style="display: none;">' + cells[23] + '</td>' + 
                 '</tr>');
             }
           }
 
           $('#rankings').DataTable({
-            "pageLength": 25,
+            "pageLength": 50,
             "responsive": true,
             "columnDefs": [
               {"targets": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "className": "dt-right"},
-              {"targets": 5, "orderData": [13, 12]},
-              {"targets": 6, "orderData": [15, 14]},
-              {"targets": 7, "orderData": [17, 16]},
-              {"targets": 8, "orderData": [19, 18]},
-              {"targets": 4, "orderData": 20},
-              {"targets": 8, "className": "dt-border-right"},
+              {"targets": 5, "orderData": [14, 13], "type": "num-fmt"},
+              {"targets": 6, "orderData": [16, 15], "type": "num-fmt"},
+              {"targets": 7, "orderData": [18, 17], "type": "num-fmt"},
+              {"targets": 8, "orderData": [20, 19], "className": "dt-border-right"},
+              {"targets": 4, "orderData": 21, "type": "num-fmt"},
+              {"targets": 12, "orderData": 22, "type": "num-fmt"},
               {"targets": [12], "render": function(data, type, row, meta) {
                 var absValue = Math.abs(parseFloat(data));
                 if (absValue > 0) {
@@ -161,7 +182,6 @@
             "width": "80%",
             "escape": false,
             "scrollCollapse": true,
-            "paging": true,
             "ordering": true,
             "info": true,
             "searching": true
