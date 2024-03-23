@@ -60,6 +60,7 @@ load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1
   
 }
 
+proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))
 
 all_players <- read_csv("players/data/all_players.csv") %>% 
   select(player_id, player)
@@ -68,7 +69,7 @@ adjust_hitting_box <- function(raw_box){
   
   final_box <- raw_box %>% 
     separate(player, c("last", "first"), ", ") %>% 
-    mutate(player = paste(first, last),
+    mutate(player = paste(proper(first), proper(last)),
            bb = bb + hbp) %>% 
     merge(all_players, by = "player") %>% 
     arrange(desc(ab + bb)) %>% 
@@ -101,7 +102,7 @@ adjust_pitching_box <- function(raw_box){
     mutate(ip = as.numeric(ifelse(is.na(frac), innings, as.numeric(innings) + as.numeric(frac) * 1/3))) %>% 
     select(-c(innings, frac)) %>% 
     separate(player, c("last", "first"), ", ") %>% 
-    mutate(player = paste(first, last)) %>% 
+    mutate(player = paste(proper(first), proper(last))) %>% 
     merge(all_players, by = "player") %>% 
     arrange(desc(ip)) %>% 
     mutate(ip = case_when((ip * 3) %% 3 == 0 ~ round(ip),
