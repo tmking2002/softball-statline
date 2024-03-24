@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Ellie Adams","Great Northeast","12-24-0",0.333
-"2",2022,"Tara Petrocelli-McGloin","Great Northeast","11-25-0",0.306
-"3",2021,"Tara Petrocelli-McGloin","Great Northeast","0-0-0",NA
-"4",2020,"Tara Petrocelli-McGloin","Great Northeast","3-5-0",0.375
-"5",2019,"Tara Petrocelli-McGloin","Great Northeast","4-30-0",0.118
-"6",2018,"Tara Petrocelli-McGloin","Great Northeast","7-25-0",0.219
-"7",2017,"Nikki Panciocco","NECC","16-13-0",0.552
-"8",2016,"Nikki Panciocco","NECC","17-14-0",0.548
-"9",2015,"Nikki Panciocco","NECC","8-18-0",0.308
-"10",2014,"Nikki Panciocco","NECC","11-20-0",0.355
-"11",2013,"Lisa LeVierge","NECC","12-23-0",0.343
-"12",2012,"Lisa LeVierge","NECC","8-24-0",0.25
-"13",2011,"Lisa LeVierge","CCC","4-35-0",0.103
-"14",2010,"Lisa LeVierge","CCC","9-32-0",0.22
-"15",2009,"Robert McKinley","CCC","5-32-0",0.135
-"16",2008,"Robert McKinley","CCC","9-26-0",0.257
-"17",2007,"Robert McKinley","CCC","7-29-0",0.194
-"18",2006,"Heather Gilmour","CCC","13-25-1",0.342
-"19",2005,"Heather Gilmour","CCC","12-22-0",0.353
-"20",2004,"Heather Gilmour","CCC","9-27-0",0.25
-"21",2003,"Heather Gilmour","CCC","10-26-0",0.278
-"22",2002,"Johanna DiCarlo","CCC","3-27-0",0.1
-"23",2001,"Johanna DiCarlo","-","1-22-0",0.043
-"24",2000,"Elaine Schwager","-","14-21-0",0.4
-"25",1999,"Elaine Schwager","-","11-10-0",0.524
-"26",1998,"Joanne Ruane","-","16-6-0",0.727
-"27",1997,"Joanne Ruane","-","18-10-0",0.643
-"28",1996,"Joanne Ruane","-","20-6-0",0.769
-"29",1995,"Joanne Ruane","-","10-13-0",0.435
-"30",1994,"Joanne Ruane","-","11-10-0",0.524
-"31",1993,"Joanne Ruane","-","5-7-0",0.417
-"32",1992,"Joanne Ruane","-","5-12-0",0.294
-"33",1991,"Joanne Ruane","-","11-7-0",0.611
-"34",1990,"Joanne Ruane","-","10-7-0",0.588
-"35",1989,"Joanne Ruane","-","8-9-0",0.471
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1985,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Ellie Adams","Great Northeast","0-9-0",0
+"1","2023","Ellie Adams","Great Northeast","12-24-0","0.333"
+"2","2022","Tara Petrocelli-McGloin","Great Northeast","11-25-0","0.306"
+"3","2021","Tara Petrocelli-McGloin","Great Northeast","0-0-0","  NaN"
+"4","2020","Tara Petrocelli-McGloin","Great Northeast","3-5-0","0.375"
+"5","2019","Tara Petrocelli-McGloin","Great Northeast","4-30-0","0.118"
+"6","2018","Tara Petrocelli-McGloin","Great Northeast","7-25-0","0.219"
+"7","2017","Nikki Panciocco","NECC","16-13-0","0.552"
+"8","2016","Nikki Panciocco","NECC","17-14-0","0.548"
+"9","2015","Nikki Panciocco","NECC","8-18-0","0.308"
+"10","2014","Nikki Panciocco","NECC","11-20-0","0.355"
+"11","2013","Lisa LeVierge","NECC","12-23-0","0.343"
+"12","2012","Lisa LeVierge","NECC","8-24-0","0.250"
+"13","2011","Lisa LeVierge","CCC","4-35-0","0.103"
+"14","2010","Lisa LeVierge","CCC","9-32-0","0.220"
+"15","2009","Robert McKinley","CCC","5-32-0","0.135"
+"16","2008","Robert McKinley","CCC","9-26-0","0.257"
+"17","2007","Robert McKinley","CCC","7-29-0","0.194"
+"18","2006","Heather Gilmour","CCC","13-25-1","0.342"
+"19","2005","Heather Gilmour","CCC","12-22-0","0.353"
+"20","2004","Heather Gilmour","CCC","9-27-0","0.250"
+"21","2003","Heather Gilmour","CCC","10-26-0","0.278"
+"22","2002","Johanna DiCarlo","CCC","3-27-0","0.100"
+"23","2001","Johanna DiCarlo","-","1-22-0","0.043"
+"24","2000","Elaine Schwager","-","14-21-0","0.400"
+"25","1999","Elaine Schwager","-","11-10-0","0.524"
+"26","1998","Joanne Ruane","-","16-6-0","0.727"
+"27","1997","Joanne Ruane","-","18-10-0","0.643"
+"28","1996","Joanne Ruane","-","20-6-0","0.769"
+"29","1995","Joanne Ruane","-","10-13-0","0.435"
+"30","1994","Joanne Ruane","-","11-10-0","0.524"
+"31","1993","Joanne Ruane","-","5-7-0","0.417"
+"32","1992","Joanne Ruane","-","5-12-0","0.294"
+"33","1991","Joanne Ruane","-","11-7-0","0.611"
+"34","1990","Joanne Ruane","-","10-7-0","0.588"
+"35","1989","Joanne Ruane","-","8-9-0","0.471"
+"36","1988","","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","1985","","-","0-0-0","  NaN"
+"39","1984","","-","0-0-0","  NaN"
+"40","1981","","-","0-0-0","  NaN"
+"41","2024","Ellie Adams","Great Northeast","0-0-0","  NaN"

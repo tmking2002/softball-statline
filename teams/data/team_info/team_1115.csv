@@ -1,37 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Cori Collinsworth","HCAC","16-25-0",0.39
-"2",2022,"Cori Collinsworth","HCAC","17-19-0",0.472
-"3",2021,"Cori Collinsworth","HCAC","12-19-1",0.387
-"4",2020,"Cori Collinsworth","HCAC","5-7-0",0.417
-"5",2019,"Cori Collinsworth","HCAC","13-19-0",0.406
-"6",2018,"Cori Collinsworth","HCAC","19-17-0",0.528
-"7",2017,"Megan Carlton","HCAC","18-14-0",0.562
-"8",2016,"Megan Carlton","HCAC","18-20-0",0.474
-"9",2015,"Megan Carlton","HCAC","19-15-0",0.559
-"10",2014,"Megan Carlton","HCAC","18-18-0",0.5
-"11",2013,"Megan Carlton","HCAC","13-19-0",0.406
-"12",2012,"Megan Carlton","HCAC","11-27-0",0.289
-"13",2011,"Megan Carlton","HCAC","7-22-0",0.241
-"14",2010,"Megan Carlton","HCAC","9-27-0",0.25
-"15",2009,"Michelle Allmendinger","HCAC","5-28-0",0.152
-"16",2008,"Michelle Allmendinger","HCAC","5-27-0",0.156
-"17",2007,"Michelle Allmendinger","HCAC","0-20-0",0
-"18",2006,"Michelle Allmendinger","HCAC","0-20-0",0
-"19",2005,"Nancy Plantz","HCAC","3-23-0",0.115
-"20",2004,"Nancy Plantz","HCAC","9-21-0",0.3
-"21",2003,"Nancy Plantz","HCAC","16-16-0",0.5
-"22",2002,"Nancy Plantz","-","17-20-1",0.459
-"23",2001,"Mary Freeland","-","19-19-1",0.5
-"24",2000,"Mary Freeland","-","18-19-1",0.486
-"25",1999,"Mary Freeland","-","20-21-0",0.488
-"26",1998,"Mary Freeland","-","10-30-0",0.25
-"27",1997,"Mary Freeland","-","21-20-0",0.512
-"28",1996,"Mary Freeland","-","22-12-0",0.647
-"29",1995,"Mary Freeland","-","24-12-0",0.667
-"30",1994,"Mary Freeland","-","14-20-0",0.412
-"31",1993,"Mary Freeland","-","11-14-1",0.44
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1981,"","-","0-0-0",NA
-"36",2024,"Cori Collinsworth","HCAC","5-11-0",0.312
+"1","2023","Cori Collinsworth","HCAC","16-25-0","0.390"
+"2","2022","Cori Collinsworth","HCAC","17-19-0","0.472"
+"3","2021","Cori Collinsworth","HCAC","12-19-1","0.387"
+"4","2020","Cori Collinsworth","HCAC","5-7-0","0.417"
+"5","2019","Cori Collinsworth","HCAC","13-19-0","0.406"
+"6","2018","Cori Collinsworth","HCAC","19-17-0","0.528"
+"7","2017","Megan Carlton","HCAC","18-14-0","0.562"
+"8","2016","Megan Carlton","HCAC","18-20-0","0.474"
+"9","2015","Megan Carlton","HCAC","19-15-0","0.559"
+"10","2014","Megan Carlton","HCAC","18-18-0","0.500"
+"11","2013","Megan Carlton","HCAC","13-19-0","0.406"
+"12","2012","Megan Carlton","HCAC","11-27-0","0.289"
+"13","2011","Megan Carlton","HCAC","7-22-0","0.241"
+"14","2010","Megan Carlton","HCAC","9-27-0","0.250"
+"15","2009","Michelle Allmendinger","HCAC","5-28-0","0.152"
+"16","2008","Michelle Allmendinger","HCAC","5-27-0","0.156"
+"17","2007","Michelle Allmendinger","HCAC","0-20-0","0.000"
+"18","2006","Michelle Allmendinger","HCAC","0-20-0","0.000"
+"19","2005","Nancy Plantz","HCAC","3-23-0","0.115"
+"20","2004","Nancy Plantz","HCAC","9-21-0","0.300"
+"21","2003","Nancy Plantz","HCAC","16-16-0","0.500"
+"22","2002","Nancy Plantz","-","17-20-1","0.459"
+"23","2001","Mary Freeland","-","19-19-1","0.500"
+"24","2000","Mary Freeland","-","18-19-1","0.486"
+"25","1999","Mary Freeland","-","20-21-0","0.488"
+"26","1998","Mary Freeland","-","10-30-0","0.250"
+"27","1997","Mary Freeland","-","21-20-0","0.512"
+"28","1996","Mary Freeland","-","22-12-0","0.647"
+"29","1995","Mary Freeland","-","24-12-0","0.667"
+"30","1994","Mary Freeland","-","14-20-0","0.412"
+"31","1993","Mary Freeland","-","11-14-1","0.440"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1981","","-","0-0-0","  NaN"
+"36","2024","Cori Collinsworth","HCAC","0-0-0","  NaN"

@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-24-0",0
-"2",2022,"Michaela Hamilton","Michigan Intercol. Ath. Assn.","2-23-0",0.08
-"3",2021,"Jennifer Cassell","Michigan Intercol. Ath. Assn.","1-23-0",0.042
-"4",2020,"Darrick Brown","Michigan Intercol. Ath. Assn.","4-10-0",0.286
-"5",2019,"Darrick Brown","Michigan Intercol. Ath. Assn.","19-17-0",0.528
-"6",2018,"Darrick Brown","Michigan Intercol. Ath. Assn.","18-16-0",0.529
-"7",2017,"Darrick Brown","Michigan Intercol. Ath. Assn.","15-23-0",0.395
-"8",2016,"Darrick Brown","Michigan Intercol. Ath. Assn.","16-18-0",0.471
-"9",2015,"James Farnum","Michigan Intercol. Ath. Assn.","18-16-0",0.529
-"10",2014,"James Farnum","Michigan Intercol. Ath. Assn.","26-11-0",0.703
-"11",2013,"James Farnum","Michigan Intercol. Ath. Assn.","11-21-0",0.344
-"12",2012,"James Farnum","Michigan Intercol. Ath. Assn.","11-23-0",0.324
-"13",2011,"Ryan Tundevold","Michigan Intercol. Ath. Assn.","14-21-0",0.4
-"14",2010,"James Farnum","Michigan Intercol. Ath. Assn.","14-18-0",0.438
-"15",2009,"James Farnum","Michigan Intercol. Ath. Assn.","23-11-0",0.676
-"16",2008,"James Farnum","Michigan Intercol. Ath. Assn.","15-21-0",0.417
-"17",2007,"James Farnum","Michigan Intercol. Ath. Assn.","20-12-0",0.625
-"18",2006,"James Farnum","Michigan Intercol. Ath. Assn.","24-12-0",0.667
-"19",2005,"James Farnum","Michigan Intercol. Ath. Assn.","22-14-0",0.611
-"20",2004,"James Farnum","Michigan Intercol. Ath. Assn.","19-15-0",0.559
-"21",2003,"James Knight","Michigan Intercol. Ath. Assn.","19-19-0",0.5
-"22",2002,"James Knight","-","8-23-0",0.258
-"23",2001,"James Knight","-","6-26-1",0.188
-"24",2000,"James Knight","-","20-16-1",0.556
-"25",1999,"James Knight","-","18-24-0",0.429
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"Tom Walsh","-","6-28-0",0.176
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",2024,"Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-4-0",0
+"1","2023","Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-24-0","0.000"
+"2","2022","Michaela Hamilton","Michigan Intercol. Ath. Assn.","2-23-0","0.080"
+"3","2021","Jennifer Cassell","Michigan Intercol. Ath. Assn.","1-23-0","0.042"
+"4","2020","Darrick Brown","Michigan Intercol. Ath. Assn.","4-10-0","0.286"
+"5","2019","Darrick Brown","Michigan Intercol. Ath. Assn.","19-17-0","0.528"
+"6","2018","Darrick Brown","Michigan Intercol. Ath. Assn.","18-16-0","0.529"
+"7","2017","Darrick Brown","Michigan Intercol. Ath. Assn.","15-23-0","0.395"
+"8","2016","Darrick Brown","Michigan Intercol. Ath. Assn.","16-18-0","0.471"
+"9","2015","James Farnum","Michigan Intercol. Ath. Assn.","18-16-0","0.529"
+"10","2014","James Farnum","Michigan Intercol. Ath. Assn.","26-11-0","0.703"
+"11","2013","James Farnum","Michigan Intercol. Ath. Assn.","11-21-0","0.344"
+"12","2012","James Farnum","Michigan Intercol. Ath. Assn.","11-23-0","0.324"
+"13","2011","Ryan Tundevold","Michigan Intercol. Ath. Assn.","14-21-0","0.400"
+"14","2010","James Farnum","Michigan Intercol. Ath. Assn.","14-18-0","0.438"
+"15","2009","James Farnum","Michigan Intercol. Ath. Assn.","23-11-0","0.676"
+"16","2008","James Farnum","Michigan Intercol. Ath. Assn.","15-21-0","0.417"
+"17","2007","James Farnum","Michigan Intercol. Ath. Assn.","20-12-0","0.625"
+"18","2006","James Farnum","Michigan Intercol. Ath. Assn.","24-12-0","0.667"
+"19","2005","James Farnum","Michigan Intercol. Ath. Assn.","22-14-0","0.611"
+"20","2004","James Farnum","Michigan Intercol. Ath. Assn.","19-15-0","0.559"
+"21","2003","James Knight","Michigan Intercol. Ath. Assn.","19-19-0","0.500"
+"22","2002","James Knight","-","8-23-0","0.258"
+"23","2001","James Knight","-","6-26-1","0.188"
+"24","2000","James Knight","-","20-16-1","0.556"
+"25","1999","James Knight","-","18-24-0","0.429"
+"26","1998","","-","0-0-0","  NaN"
+"27","1997","","-","0-0-0","  NaN"
+"28","1996","Tom Walsh","-","6-28-0","0.176"
+"29","1995","","-","0-0-0","  NaN"
+"30","1994","","-","0-0-0","  NaN"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1989","","-","0-0-0","  NaN"
+"36","1988","","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","2024","Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-0-0","  NaN"

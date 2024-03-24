@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Stacy May-Johnson","Mountain West","23-31-0",0.426
-"2",2022,"Stacy May-Johnson","Mountain West","19-36-0",0.345
-"3",2021,"Linda Garza","Mountain West","37-12-0",0.755
-"4",2020,"Linda Garza","Mountain West","21-4-0",0.84
-"5",2019,"Linda Garza","Mountain West","37-20-0",0.649
-"6",2018,"Linda Garza","Mountain West","31-23-0",0.574
-"7",2017,"Linda Garza","Mountain West","35-23-0",0.603
-"8",2016,"Trisha Ford","Mountain West","42-12-1",0.778
-"9",2015,"Trisha Ford","Mountain West","40-16-0",0.714
-"10",2014,"Trisha Ford","Mountain West","31-21-0",0.596
-"11",2013,"Trisha Ford","Mountain West","30-24-0",0.556
-"12",2012,"Margie Wright","WAC","36-23-0",0.61
-"13",2011,"Margie Wright","WAC","35-19-0",0.648
-"14",2010,"Margie Wright","WAC","41-21-0",0.661
-"15",2009,"Margie Wright","WAC","38-20-0",0.655
-"16",2008,"Margie Wright","WAC","54-13-0",0.806
-"17",2007,"Margie Wright","WAC","47-18-0",0.723
-"18",2006,"Margie Wright","WAC","37-19-0",0.661
-"19",2005,"Margie Wright","WAC","43-12-0",0.782
-"20",2004,"Margie Wright","WAC","48-20-0",0.706
-"21",2003,"Margie Wright","WAC","36-22-0",0.621
-"22",2002,"Margie Wright","WAC","50-20-0",0.714
-"23",2001,"Margie Wright","WAC","39-19-0",0.672
-"24",2000,"Margie Wright","WAC","54-14-0",0.794
-"25",1999,"Margie Wright","WAC","65-10-0",0.867
-"26",1998,"Margie Wright","-","52-11-0",0.825
-"27",1997,"Margie Wright","WAC","55-14-0",0.797
-"28",1996,"Margie Wright","-","51-11-0",0.823
-"29",1995,"Margie Wright","-","50-19-0",0.725
-"30",1994,"Margie Wright","-","49-16-0",0.754
-"31",1993,"Margie Wright","-","38-24-0",0.613
-"32",1992,"Margie Wright","-","52-16-0",0.765
-"33",1991,"Margie Wright","-","57-11-0",0.838
-"34",1990,"Margie Wright","-","62-15-0",0.805
-"35",1989,"Margie Wright","-","58-14-0",0.806
-"36",1988,"Margie Wright","-","55-17-0",0.764
-"37",1987,"Margie Wright","-","54-16-0",0.771
-"38",1986,"Margie Wright","-","38-16-1",0.704
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Stacy May-Johnson","Mountain West","19-8-0",0.704
+"1","2023","Stacy May-Johnson","Mountain West","23-31-0","0.426"
+"2","2022","Stacy May-Johnson","Mountain West","19-36-0","0.345"
+"3","2021","Linda Garza","Mountain West","37-12-0","0.755"
+"4","2020","Linda Garza","Mountain West","21-4-0","0.840"
+"5","2019","Linda Garza","Mountain West","37-20-0","0.649"
+"6","2018","Linda Garza","Mountain West","31-23-0","0.574"
+"7","2017","Linda Garza","Mountain West","35-23-0","0.603"
+"8","2016","Trisha Ford","Mountain West","42-12-1","0.778"
+"9","2015","Trisha Ford","Mountain West","40-16-0","0.714"
+"10","2014","Trisha Ford","Mountain West","31-21-0","0.596"
+"11","2013","Trisha Ford","Mountain West","30-24-0","0.556"
+"12","2012","Margie Wright","WAC","36-23-0","0.610"
+"13","2011","Margie Wright","WAC","35-19-0","0.648"
+"14","2010","Margie Wright","WAC","41-21-0","0.661"
+"15","2009","Margie Wright","WAC","38-20-0","0.655"
+"16","2008","Margie Wright","WAC","54-13-0","0.806"
+"17","2007","Margie Wright","WAC","47-18-0","0.723"
+"18","2006","Margie Wright","WAC","37-19-0","0.661"
+"19","2005","Margie Wright","WAC","43-12-0","0.782"
+"20","2004","Margie Wright","WAC","48-20-0","0.706"
+"21","2003","Margie Wright","WAC","36-22-0","0.621"
+"22","2002","Margie Wright","WAC","50-20-0","0.714"
+"23","2001","Margie Wright","WAC","39-19-0","0.672"
+"24","2000","Margie Wright","WAC","54-14-0","0.794"
+"25","1999","Margie Wright","WAC","65-10-0","0.867"
+"26","1998","Margie Wright","-","52-11-0","0.825"
+"27","1997","Margie Wright","WAC","55-14-0","0.797"
+"28","1996","Margie Wright","-","51-11-0","0.823"
+"29","1995","Margie Wright","-","50-19-0","0.725"
+"30","1994","Margie Wright","-","49-16-0","0.754"
+"31","1993","Margie Wright","-","38-24-0","0.613"
+"32","1992","Margie Wright","-","52-16-0","0.765"
+"33","1991","Margie Wright","-","57-11-0","0.838"
+"34","1990","Margie Wright","-","62-15-0","0.805"
+"35","1989","Margie Wright","-","58-14-0","0.806"
+"36","1988","Margie Wright","-","55-17-0","0.764"
+"37","1987","Margie Wright","-","54-16-0","0.771"
+"38","1986","Margie Wright","-","38-16-1","0.704"
+"39","1985","","-","0-0-0","  NaN"
+"40","1984","","-","0-0-0","  NaN"
+"41","1983","","-","0-0-0","  NaN"
+"42","1982","","-","0-0-0","  NaN"
+"43","2024","Stacy May-Johnson","Mountain West","0-1-0","0.000"

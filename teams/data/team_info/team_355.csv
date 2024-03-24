@@ -1,34 +1,34 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Dot Richardson","ASUN","40-22-0",0.645
-"2",2022,"Dot Richardson","ASUN","44-18-0",0.71
-"3",2021,"Dot Richardson","ASUN","44-15-0",0.746
-"4",2020,"Dot Richardson","ASUN","10-13-0",0.435
-"5",2019,"Dot Richardson","ASUN","40-22-0",0.645
-"6",2018,"Dot Richardson","Big South","49-14-0",0.778
-"7",2017,"Dot Richardson","Big South","46-24-0",0.657
-"8",2016,"Dot Richardson","Big South","31-28-0",0.525
-"9",2015,"Dot Richardson","Big South","29-30-0",0.492
-"10",2014,"Dot Richardson","Big South","11-46-0",0.193
-"11",2013,"Paul Wetmore","Big South","20-37-0",0.351
-"12",2012,"Paul Wetmore","Big South","19-36-0",0.345
-"13",2011,"Paul Wetmore","Big South","30-30-0",0.5
-"14",2010,"Paul Wetmore","Big South","39-18-0",0.684
-"15",2009,"Paul Wetmore","Big South","26-35-0",0.426
-"16",2008,"Paul Wetmore","Big South","20-40-1",0.333
-"17",2007,"Paul Wetmore","Big South","36-26-0",0.581
-"18",2006,"Paul Wetmore","Big South","41-23-0",0.641
-"19",2005,"Paul Wetmore","Big South","22-32-0",0.407
-"20",2004,"Paul Wetmore","Big South","19-44-0",0.302
-"21",2003,"Paul Wetmore","Big South","17-34-0",0.333
-"22",2002,"Paul Wetmore","Big South","28-35-0",0.444
-"23",2001,"Paul Wetmore","Big South","18-46-0",0.281
-"24",2000,"Paul Wetmore","Big South","34-29-0",0.54
-"25",1999,"Paul Wetmore","Big South","41-25-0",0.621
-"26",1998,"Paul Wetmore","-","33-23-0",0.589
-"27",1997,"Paul Wetmore","Big South","36-24-0",0.6
-"28",1996,"Paul Wetmore","-","36-18-0",0.667
-"29",1995,"Paul Wetmore","-","24-29-0",0.453
-"30",1994,"Paul Wetmore","-","8-33-0",0.195
-"31",1985,"","-","0-0-0",NA
-"32",1983,"","-","0-0-0",NA
-"33",2024,"Dot Richardson","CUSA","15-12-0",0.556
+"1","2023","Dot Richardson","ASUN","40-22-0","0.645"
+"2","2022","Dot Richardson","ASUN","44-18-0","0.710"
+"3","2021","Dot Richardson","ASUN","44-15-0","0.746"
+"4","2020","Dot Richardson","ASUN","10-13-0","0.435"
+"5","2019","Dot Richardson","ASUN","40-22-0","0.645"
+"6","2018","Dot Richardson","Big South","49-14-0","0.778"
+"7","2017","Dot Richardson","Big South","46-24-0","0.657"
+"8","2016","Dot Richardson","Big South","31-28-0","0.525"
+"9","2015","Dot Richardson","Big South","29-30-0","0.492"
+"10","2014","Dot Richardson","Big South","11-46-0","0.193"
+"11","2013","Paul Wetmore","Big South","20-37-0","0.351"
+"12","2012","Paul Wetmore","Big South","19-36-0","0.345"
+"13","2011","Paul Wetmore","Big South","30-30-0","0.500"
+"14","2010","Paul Wetmore","Big South","39-18-0","0.684"
+"15","2009","Paul Wetmore","Big South","26-35-0","0.426"
+"16","2008","Paul Wetmore","Big South","20-40-1","0.333"
+"17","2007","Paul Wetmore","Big South","36-26-0","0.581"
+"18","2006","Paul Wetmore","Big South","41-23-0","0.641"
+"19","2005","Paul Wetmore","Big South","22-32-0","0.407"
+"20","2004","Paul Wetmore","Big South","19-44-0","0.302"
+"21","2003","Paul Wetmore","Big South","17-34-0","0.333"
+"22","2002","Paul Wetmore","Big South","28-35-0","0.444"
+"23","2001","Paul Wetmore","Big South","18-46-0","0.281"
+"24","2000","Paul Wetmore","Big South","34-29-0","0.540"
+"25","1999","Paul Wetmore","Big South","41-25-0","0.621"
+"26","1998","Paul Wetmore","-","33-23-0","0.589"
+"27","1997","Paul Wetmore","Big South","36-24-0","0.600"
+"28","1996","Paul Wetmore","-","36-18-0","0.667"
+"29","1995","Paul Wetmore","-","24-29-0","0.453"
+"30","1994","Paul Wetmore","-","8-33-0","0.195"
+"31","1985","","-","0-0-0","  NaN"
+"32","1983","","-","0-0-0","  NaN"
+"33","2024","Dot Richardson","CUSA","0-0-0","  NaN"

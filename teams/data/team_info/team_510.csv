@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Greg Sauve","G-MAC","34-24-0",0.586
-"2",2022,"Greg Sauve","GLIAC","29-15-0",0.659
-"3",2021,"Greg Sauve","GLIAC","29-16-0",0.644
-"4",2020,"Greg Sauve","GLIAC","10-7-0",0.588
-"5",2019,"Greg Sauve","GLIAC","31-26-2",0.544
-"6",2018,"Greg Sauve","GLIAC","25-23-0",0.521
-"7",2017,"Greg Sauve","GLIAC","19-25-0",0.432
-"8",2016,"Meaggan Pettipiece","GLIAC","16-26-0",0.381
-"9",2015,"Meaggan Pettipiece","GLIAC","16-25-0",0.39
-"10",2014,"Meaggan Pettipiece","GLIAC","27-16-0",0.628
-"11",2013,"Meaggan Pettipiece","GLIAC","28-19-0",0.596
-"12",2012,"Meaggan Pettipiece","GLIAC","20-28-0",0.417
-"13",2011,"Meaggan Pettipiece","GLIAC","26-20-1",0.565
-"14",2010,"Meaggan Pettipiece","GLIAC","25-18-0",0.581
-"15",2009,"Meaggan Pettipiece","GLIAC","17-24-0",0.415
-"16",2008,"Meaggan Pettipiece","GLIAC","23-26-0",0.469
-"17",2007,"Meaggan Pettipiece","GLIAC","20-23-0",0.465
-"18",2006,"Heather Bruder","GLIAC","37-15-0",0.712
-"19",2005,"Heather Bruder","GLIAC","34-14-0",0.708
-"20",2004,"Heather Bruder","GLIAC","14-33-0",0.298
-"21",2003,"Heather Bruder","GLIAC","17-27-0",0.386
-"22",2002,"Heather Bruder","-","15-29-0",0.341
-"23",2001,"Heather Bruder","-","14-40-0",0.259
-"24",2000,"Suzanne Brown","-","19-32-0",0.373
-"25",1999,"Suzanne Brown","-","30-29-0",0.508
-"26",1998,"Suzanne Brown","-","29-25-1",0.537
-"27",1997,"Suzanne Brown","-","35-23-0",0.603
-"28",1996,"Suzanne Brown","-","36-22-0",0.621
-"29",1995,"Suzanne Brown","-","34-13-0",0.723
-"30",1994,"Suzanne Brown","-","21-36-0",0.368
-"31",1993,"Suzanne Brown","-","27-17-0",0.614
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1987,"","-","0-0-0",NA
-"36",1985,"","-","0-0-0",NA
-"37",1983,"","-","0-0-0",NA
-"38",2024,"Greg Sauve","G-MAC","17-8-0",0.68
+"1","2023","Greg Sauve","G-MAC","34-24-0","0.586"
+"2","2022","Greg Sauve","GLIAC","29-15-0","0.659"
+"3","2021","Greg Sauve","GLIAC","29-16-0","0.644"
+"4","2020","Greg Sauve","GLIAC","10-7-0","0.588"
+"5","2019","Greg Sauve","GLIAC","31-26-2","0.544"
+"6","2018","Greg Sauve","GLIAC","25-23-0","0.521"
+"7","2017","Greg Sauve","GLIAC","19-25-0","0.432"
+"8","2016","Meaggan Pettipiece","GLIAC","16-26-0","0.381"
+"9","2015","Meaggan Pettipiece","GLIAC","16-25-0","0.390"
+"10","2014","Meaggan Pettipiece","GLIAC","27-16-0","0.628"
+"11","2013","Meaggan Pettipiece","GLIAC","28-19-0","0.596"
+"12","2012","Meaggan Pettipiece","GLIAC","20-28-0","0.417"
+"13","2011","Meaggan Pettipiece","GLIAC","26-20-1","0.565"
+"14","2010","Meaggan Pettipiece","GLIAC","25-18-0","0.581"
+"15","2009","Meaggan Pettipiece","GLIAC","17-24-0","0.415"
+"16","2008","Meaggan Pettipiece","GLIAC","23-26-0","0.469"
+"17","2007","Meaggan Pettipiece","GLIAC","20-23-0","0.465"
+"18","2006","Heather Bruder","GLIAC","37-15-0","0.712"
+"19","2005","Heather Bruder","GLIAC","34-14-0","0.708"
+"20","2004","Heather Bruder","GLIAC","14-33-0","0.298"
+"21","2003","Heather Bruder","GLIAC","17-27-0","0.386"
+"22","2002","Heather Bruder","-","15-29-0","0.341"
+"23","2001","Heather Bruder","-","14-40-0","0.259"
+"24","2000","Suzanne Brown","-","19-32-0","0.373"
+"25","1999","Suzanne Brown","-","30-29-0","0.508"
+"26","1998","Suzanne Brown","-","29-25-1","0.537"
+"27","1997","Suzanne Brown","-","35-23-0","0.603"
+"28","1996","Suzanne Brown","-","36-22-0","0.621"
+"29","1995","Suzanne Brown","-","34-13-0","0.723"
+"30","1994","Suzanne Brown","-","21-36-0","0.368"
+"31","1993","Suzanne Brown","-","27-17-0","0.614"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1987","","-","0-0-0","  NaN"
+"36","1985","","-","0-0-0","  NaN"
+"37","1983","","-","0-0-0","  NaN"
+"38","2024","Greg Sauve","G-MAC","0-0-0","  NaN"

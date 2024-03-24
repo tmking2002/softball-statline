@@ -1,34 +1,34 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Elisabeth Beirne","Horizon","16-31-0",0.34
-"2",2022,"Elisabeth Beirne","Horizon","12-38-0",0.24
-"3",2021,"Elisabeth Beirne","Horizon","14-31-0",0.311
-"4",2020,"Elisabeth Beirne","Horizon","5-15-0",0.25
-"5",2019,"Elisabeth Beirne","Horizon","18-38-0",0.321
-"6",2018,"Elisabeth Beirne","Horizon","16-33-0",0.327
-"7",2017,"Heather Tarter","Summit League","23-31-0",0.426
-"8",2016,"Amanda Eberhart","Summit League","20-35-0",0.364
-"9",2015,"Amanda Eberhart","Summit League","33-18-0",0.647
-"10",2014,"Amanda Eberhart","Summit League","24-24-0",0.5
-"11",2013,"Amanda Eberhart","Summit League","18-31-0",0.367
-"12",2012,"Maggie Calcaterra (8-20)Jana Fields (-)","Summit League","18-32-0",0.36
-"13",2011,"Maggie Calcaterra","Summit League","15-32-0",0.319
-"14",2010,"Maggie Calcaterra","Summit League","16-37-0",0.302
-"15",2009,"Maggie Calcaterra","Summit League","3-50-0",0.057
-"16",2008,"Maggie Calcaterra","Summit League","11-27-0",0.289
-"17",2007,"Maggie Calcaterra","Summit League","14-32-0",0.304
-"18",2006,"Maggie Calcaterra","Summit League","13-37-0",0.26
-"19",2005,"Julie Pratt","Summit League","7-25-0",0.219
-"20",2004,"Julie Pratt","Summit League","22-26-0",0.458
-"21",2003,"Julie Pratt","-","12-35-0",0.255
-"22",2002,"Julie Pratt","Summit League","8-35-0",0.186
-"23",2001,"Julie Pratt","Summit League","22-36-0",0.379
-"24",2000,"Julie Pratt","Summit League","17-34-0",0.333
-"25",1999,"Shonda Stanton","Summit League","27-25-0",0.519
-"26",1998,"Van Wilson","-","8-20-0",0.286
-"27",1997,"J.T. Schrage","-","16-20-0",0.444
-"28",1996,"Kris Risley","-","13-24-0",0.351
-"29",1995,"Cindy Reese","-","9-34-0",0.209
-"30",1994,"Cindy Reese","-","28-26-1",0.519
-"31",1993,"Cindy Reese","-","0-0-0",NA
-"32",1992,"Cindy Reese","-","0-0-0",NA
-"33",2024,"Elisabeth Beirne","Horizon","5-23-0",0.179
+"1","2023","Elisabeth Beirne","Horizon","16-31-0","0.340"
+"2","2022","Elisabeth Beirne","Horizon","12-38-0","0.240"
+"3","2021","Elisabeth Beirne","Horizon","14-31-0","0.311"
+"4","2020","Elisabeth Beirne","Horizon","5-15-0","0.250"
+"5","2019","Elisabeth Beirne","Horizon","18-38-0","0.321"
+"6","2018","Elisabeth Beirne","Horizon","16-33-0","0.327"
+"7","2017","Heather Tarter","Summit League","23-31-0","0.426"
+"8","2016","Amanda Eberhart","Summit League","20-35-0","0.364"
+"9","2015","Amanda Eberhart","Summit League","33-18-0","0.647"
+"10","2014","Amanda Eberhart","Summit League","24-24-0","0.500"
+"11","2013","Amanda Eberhart","Summit League","18-31-0","0.367"
+"12","2012","Maggie Calcaterra (8-20)Jana Fields (-)","Summit League","18-32-0","0.360"
+"13","2011","Maggie Calcaterra","Summit League","15-32-0","0.319"
+"14","2010","Maggie Calcaterra","Summit League","16-37-0","0.302"
+"15","2009","Maggie Calcaterra","Summit League","3-50-0","0.057"
+"16","2008","Maggie Calcaterra","Summit League","11-27-0","0.289"
+"17","2007","Maggie Calcaterra","Summit League","14-32-0","0.304"
+"18","2006","Maggie Calcaterra","Summit League","13-37-0","0.260"
+"19","2005","Julie Pratt","Summit League","7-25-0","0.219"
+"20","2004","Julie Pratt","Summit League","22-26-0","0.458"
+"21","2003","Julie Pratt","-","12-35-0","0.255"
+"22","2002","Julie Pratt","Summit League","8-35-0","0.186"
+"23","2001","Julie Pratt","Summit League","22-36-0","0.379"
+"24","2000","Julie Pratt","Summit League","17-34-0","0.333"
+"25","1999","Shonda Stanton","Summit League","27-25-0","0.519"
+"26","1998","Van Wilson","-","8-20-0","0.286"
+"27","1997","J.T. Schrage","-","16-20-0","0.444"
+"28","1996","Kris Risley","-","13-24-0","0.351"
+"29","1995","Cindy Reese","-","9-34-0","0.209"
+"30","1994","Cindy Reese","-","28-26-1","0.519"
+"31","1993","Cindy Reese","-","0-0-0","  NaN"
+"32","1992","Cindy Reese","-","0-0-0","  NaN"
+"33","2024","Elisabeth Beirne","Horizon","0-0-0","  NaN"

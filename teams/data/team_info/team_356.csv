@@ -1,40 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Jason Ollison","Mid-America Intercollegiate","7-41-0",0.146
-"2",2022,"Christine Core","Mid-America Intercollegiate","12-35-0",0.255
-"3",2021,"Christine Core","Mid-America Intercollegiate","6-35-1",0.146
-"4",2020,"Christine Core","Mid-America Intercollegiate","8-12-0",0.4
-"5",2019,"Christine Core","Mid-America Intercollegiate","6-44-0",0.12
-"6",2018,"Chad Kerr","Mid-America Intercollegiate","5-43-0",0.104
-"7",2017,"Chad Kerr","Mid-America Intercollegiate","5-47-0",0.096
-"8",2016,"Chad Kerr","Mid-America Intercollegiate","5-50-0",0.091
-"9",2015,"Nicole Stacey","Mid-America Intercollegiate","3-49-0",0.058
-"10",2014,"Nicole Stacey","Mid-America Intercollegiate","7-38-0",0.156
-"11",2013,"Nicole Stacey","Mid-America Intercollegiate","14-27-1",0.341
-"12",2012,"Nicole Stacey","Mid-America Intercollegiate","15-36-0",0.294
-"13",2011,"Lori Reyes","Mid-America Intercollegiate","16-30-0",0.348
-"14",2010,"Lori Reyes","Heartland","8-31-0",0.205
-"15",2009,"Lori Reyes","Heartland","15-39-0",0.278
-"16",2008,"Lori Reyes","Heartland","14-26-0",0.35
-"17",2007,"Lori Reyes","Heartland","14-29-0",0.326
-"18",2006,"Lori Reyes","Heartland","7-31-0",0.184
-"19",2005,"Betty Kemna","Heartland","9-26-0",0.257
-"20",2004,"Betty Kemna","Heartland","0-0-0",NA
-"21",2003,"Betty Kemna","Heartland","5-26-0",0.161
-"22",2002,"Betty Kemna","Heartland","15-24-0",0.385
-"23",2001,"Betty Kemna","-","17-32-0",0.347
-"24",2000,"Betty Kemna","-","17-31-0",0.354
-"25",1999,"Betty Kemna","-","7-42-0",0.143
-"26",1998,"Betty Kemna","-","8-30-0",0.211
-"27",1997,"","-","0-0-0",NA
-"28",1996,"Mary Beth Ochsner","-","4-32-0",0.111
-"29",1995,"Mary Beth Ochsner","-","6-32-0",0.158
-"30",1994,"Mary Beth Ochsner","-","10-32-0",0.238
-"31",1993,"Mary Beth Ochsner","-","5-18-0",0.217
-"32",1992,"Mary Beth Ochsner","-","3-29-0",0.094
-"33",1991,"Mary Beth Ochsner","-","5-28-0",0.152
-"34",1990,"Mary Beth Ochsner","-","6-21-0",0.222
-"35",1989,"Mary Beth Ochsner","-","10-22-0",0.312
-"36",1988,"Mary Beth Ochsner","-","5-20-0",0.2
-"37",1987,"Mary Beth Ochsner","-","7-22-0",0.241
-"38",1983,"","-","0-0-0",NA
-"39",2024,"Jason Ollison","Mid-America Intercollegiate","8-16-0",0.333
+"1","2023","Jason Ollison","Mid-America Intercollegiate","7-41-0","0.146"
+"2","2022","Christine Core","Mid-America Intercollegiate","12-35-0","0.255"
+"3","2021","Christine Core","Mid-America Intercollegiate","6-35-1","0.146"
+"4","2020","Christine Core","Mid-America Intercollegiate","8-12-0","0.400"
+"5","2019","Christine Core","Mid-America Intercollegiate","6-44-0","0.120"
+"6","2018","Chad Kerr","Mid-America Intercollegiate","5-43-0","0.104"
+"7","2017","Chad Kerr","Mid-America Intercollegiate","5-47-0","0.096"
+"8","2016","Chad Kerr","Mid-America Intercollegiate","5-50-0","0.091"
+"9","2015","Nicole Stacey","Mid-America Intercollegiate","3-49-0","0.058"
+"10","2014","Nicole Stacey","Mid-America Intercollegiate","7-38-0","0.156"
+"11","2013","Nicole Stacey","Mid-America Intercollegiate","14-27-1","0.341"
+"12","2012","Nicole Stacey","Mid-America Intercollegiate","15-36-0","0.294"
+"13","2011","Lori Reyes","Mid-America Intercollegiate","16-30-0","0.348"
+"14","2010","Lori Reyes","Heartland","8-31-0","0.205"
+"15","2009","Lori Reyes","Heartland","15-39-0","0.278"
+"16","2008","Lori Reyes","Heartland","14-26-0","0.350"
+"17","2007","Lori Reyes","Heartland","14-29-0","0.326"
+"18","2006","Lori Reyes","Heartland","7-31-0","0.184"
+"19","2005","Betty Kemna","Heartland","9-26-0","0.257"
+"20","2004","Betty Kemna","Heartland","0-0-0","  NaN"
+"21","2003","Betty Kemna","Heartland","5-26-0","0.161"
+"22","2002","Betty Kemna","Heartland","15-24-0","0.385"
+"23","2001","Betty Kemna","-","17-32-0","0.347"
+"24","2000","Betty Kemna","-","17-31-0","0.354"
+"25","1999","Betty Kemna","-","7-42-0","0.143"
+"26","1998","Betty Kemna","-","8-30-0","0.211"
+"27","1997","","-","0-0-0","  NaN"
+"28","1996","Mary Beth Ochsner","-","4-32-0","0.111"
+"29","1995","Mary Beth Ochsner","-","6-32-0","0.158"
+"30","1994","Mary Beth Ochsner","-","10-32-0","0.238"
+"31","1993","Mary Beth Ochsner","-","5-18-0","0.217"
+"32","1992","Mary Beth Ochsner","-","3-29-0","0.094"
+"33","1991","Mary Beth Ochsner","-","5-28-0","0.152"
+"34","1990","Mary Beth Ochsner","-","6-21-0","0.222"
+"35","1989","Mary Beth Ochsner","-","10-22-0","0.312"
+"36","1988","Mary Beth Ochsner","-","5-20-0","0.200"
+"37","1987","Mary Beth Ochsner","-","7-22-0","0.241"
+"38","1983","","-","0-0-0","  NaN"
+"39","2024","Jason Ollison","Mid-America Intercollegiate","0-0-0","  NaN"

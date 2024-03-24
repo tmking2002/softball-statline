@@ -1,46 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Danielle Henderson","Atlantic 10","16-34-0",0.32
-"2",2022,"Danielle Henderson","Atlantic 10","19-32-0",0.373
-"3",2021,"Kristi Stefanoni","Atlantic 10","16-17-0",0.485
-"4",2020,"Kristi Stefanoni","Atlantic 10","4-7-0",0.364
-"5",2019,"Kristi Stefanoni","Atlantic 10","26-22-0",0.542
-"6",2018,"Kristi Stefanoni","Atlantic 10","35-14-0",0.714
-"7",2017,"Kristi Stefanoni","Atlantic 10","29-24-0",0.547
-"8",2016,"Kristi Stefanoni","Atlantic 10","26-24-0",0.52
-"9",2015,"Kristi Stefanoni","Atlantic 10","15-28-0",0.349
-"10",2014,"Kristi Stefanoni","Atlantic 10","16-22-1",0.421
-"11",2013,"Elaine Sortino","Atlantic 10","18-25-0",0.419
-"12",2012,"Elaine Sortino","Atlantic 10","38-13-0",0.745
-"13",2011,"Elaine Sortino","Atlantic 10","29-19-0",0.604
-"14",2010,"Elaine Sortino","Atlantic 10","42-10-1",0.808
-"15",2009,"Elaine Sortino","Atlantic 10","41-10-0",0.804
-"16",2008,"Elaine Sortino","Atlantic 10","42-13-0",0.764
-"17",2007,"Elaine Sortino","Atlantic 10","39-14-1",0.736
-"18",2006,"Elaine Sortino","Atlantic 10","41-16-0",0.719
-"19",2005,"Elaine Sortino","Atlantic 10","37-16-1",0.698
-"20",2004,"Elaine Sortino","Atlantic 10","34-17-0",0.667
-"21",2003,"Elaine Sortino","Atlantic 10","39-15-0",0.722
-"22",2002,"Elaine Sortino","Atlantic 10","53-13-0",0.803
-"23",2001,"Elaine Sortino","Atlantic 10","44-13-0",0.772
-"24",2000,"Elaine Sortino","Atlantic 10","35-23-0",0.603
-"25",1999,"Elaine Sortino","Atlantic 10","43-10-0",0.811
-"26",1998,"Elaine Sortino","-","45-14-0",0.763
-"27",1997,"Elaine Sortino","Atlantic 10","37-23-1",0.617
-"28",1996,"Elaine Sortino","-","38-15-1",0.717
-"29",1995,"Elaine Sortino","-","40-22-0",0.645
-"30",1994,"Elaine Sortino","-","31-19-0",0.62
-"31",1993,"Elaine Sortino","-","33-20-0",0.623
-"32",1992,"Elaine Sortino","-","39-16-0",0.709
-"33",1991,"Elaine Sortino","-","39-13-0",0.75
-"34",1990,"Elaine Sortino","-","27-20-0",0.574
-"35",1989,"Elaine Sortino","-","35-19-0",0.648
-"36",1988,"Elaine Sortino","-","36-16-0",0.692
-"37",1987,"Elaine Sortino","-","35-12-0",0.745
-"38",1986,"Elaine Sortino","-","36-9-0",0.8
-"39",1985,"Elaine Sortino","-","25-23-1",0.521
-"40",1984,"Elaine Sortino","-","29-12-0",0.707
-"41",1983,"Elaine Sortino","-","28-10-0",0.737
-"42",1982,"Elaine Sortino","-","18-7-0",0.72
-"43",1981,"Elaine Sortino","-","16-8-0",0.667
-"44",1980,"Elaine Sortino","-","23-3-0",0.885
-"45",2024,"Danielle Henderson","Atlantic 10","5-18-0",0.217
+"1","2023","Danielle Henderson","Atlantic 10","16-34-0","0.320"
+"2","2022","Danielle Henderson","Atlantic 10","19-32-0","0.373"
+"3","2021","Kristi Stefanoni","Atlantic 10","16-17-0","0.485"
+"4","2020","Kristi Stefanoni","Atlantic 10","4-7-0","0.364"
+"5","2019","Kristi Stefanoni","Atlantic 10","26-22-0","0.542"
+"6","2018","Kristi Stefanoni","Atlantic 10","35-14-0","0.714"
+"7","2017","Kristi Stefanoni","Atlantic 10","29-24-0","0.547"
+"8","2016","Kristi Stefanoni","Atlantic 10","26-24-0","0.520"
+"9","2015","Kristi Stefanoni","Atlantic 10","15-28-0","0.349"
+"10","2014","Kristi Stefanoni","Atlantic 10","16-22-1","0.421"
+"11","2013","Elaine Sortino","Atlantic 10","18-25-0","0.419"
+"12","2012","Elaine Sortino","Atlantic 10","38-13-0","0.745"
+"13","2011","Elaine Sortino","Atlantic 10","29-19-0","0.604"
+"14","2010","Elaine Sortino","Atlantic 10","42-10-1","0.808"
+"15","2009","Elaine Sortino","Atlantic 10","41-10-0","0.804"
+"16","2008","Elaine Sortino","Atlantic 10","42-13-0","0.764"
+"17","2007","Elaine Sortino","Atlantic 10","39-14-1","0.736"
+"18","2006","Elaine Sortino","Atlantic 10","41-16-0","0.719"
+"19","2005","Elaine Sortino","Atlantic 10","37-16-1","0.698"
+"20","2004","Elaine Sortino","Atlantic 10","34-17-0","0.667"
+"21","2003","Elaine Sortino","Atlantic 10","39-15-0","0.722"
+"22","2002","Elaine Sortino","Atlantic 10","53-13-0","0.803"
+"23","2001","Elaine Sortino","Atlantic 10","44-13-0","0.772"
+"24","2000","Elaine Sortino","Atlantic 10","35-23-0","0.603"
+"25","1999","Elaine Sortino","Atlantic 10","43-10-0","0.811"
+"26","1998","Elaine Sortino","-","45-14-0","0.763"
+"27","1997","Elaine Sortino","Atlantic 10","37-23-1","0.617"
+"28","1996","Elaine Sortino","-","38-15-1","0.717"
+"29","1995","Elaine Sortino","-","40-22-0","0.645"
+"30","1994","Elaine Sortino","-","31-19-0","0.620"
+"31","1993","Elaine Sortino","-","33-20-0","0.623"
+"32","1992","Elaine Sortino","-","39-16-0","0.709"
+"33","1991","Elaine Sortino","-","39-13-0","0.750"
+"34","1990","Elaine Sortino","-","27-20-0","0.574"
+"35","1989","Elaine Sortino","-","35-19-0","0.648"
+"36","1988","Elaine Sortino","-","36-16-0","0.692"
+"37","1987","Elaine Sortino","-","35-12-0","0.745"
+"38","1986","Elaine Sortino","-","36-9-0","0.800"
+"39","1985","Elaine Sortino","-","25-23-1","0.521"
+"40","1984","Elaine Sortino","-","29-12-0","0.707"
+"41","1983","Elaine Sortino","-","28-10-0","0.737"
+"42","1982","Elaine Sortino","-","18-7-0","0.720"
+"43","1981","Elaine Sortino","-","16-8-0","0.667"
+"44","1980","Elaine Sortino","-","23-3-0","0.885"
+"45","2024","Danielle Henderson","Atlantic 10","0-0-0","  NaN"

@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Lindsay Fico","SoCon","20-37-0",0.351
-"2",2022,"Lindsay Fico","SoCon","16-40-0",0.286
-"3",2021,"Stephanie DeFeo","SoCon","24-23-0",0.511
-"4",2020,"Stephanie DeFeo","SoCon","10-17-0",0.37
-"5",2019,"Stephanie DeFeo","SoCon","27-29-0",0.482
-"6",2018,"Stephanie DeFeo","SoCon","33-19-0",0.635
-"7",2017,"Stephanie DeFeo","SoCon","26-31-0",0.456
-"8",2016,"Stephanie DeFeo (23-35)James DeFeo (23-35)","SoCon","23-35-0",0.397
-"9",2015,"Stephanie DeFeo (37-22)James DeFeo (37-22)","SoCon","37-22-0",0.627
-"10",2014,"Stephanie DeFeo (37-19)James DeFeo (37-19)","ASUN","37-19-0",0.661
-"11",2013,"James DeFeo","ASUN","24-29-0",0.453
-"12",2012,"James DeFeo","ASUN","24-28-0",0.462
-"13",2011,"Mike Raynor","ASUN","32-24-0",0.571
-"14",2010,"Mike Raynor","ASUN","25-30-0",0.455
-"15",2009,"Mike Raynor","ASUN","40-19-0",0.678
-"16",2008,"Mike Raynor","ASUN","32-27-0",0.542
-"17",2007,"Mike Raynor","ASUN","14-46-0",0.233
-"18",2006,"Tony Foti","ASUN","26-28-0",0.481
-"19",2005,"Tony Foti","ASUN","26-32-0",0.448
-"20",2004,"Tony Foti","ASUN","34-30-0",0.531
-"21",2003,"Tony Foti","ASUN","35-23-0",0.603
-"22",2002,"Tony Foti","ASUN","21-35-0",0.375
-"23",2001,"Ken Phillips","ASUN","24-37-0",0.393
-"24",2000,"Ken Phillips","ASUN","19-30-0",0.388
-"25",1999,"Ken Phillips","ASUN","15-37-0",0.288
-"26",1998,"Ken Phillips","-","21-29-0",0.42
-"27",1997,"Ken Phillips","ASUN","18-35-0",0.34
-"28",1996,"Ken Phillips","-","13-33-0",0.283
-"29",1995,"Ken Phillips","-","14-34-0",0.292
-"30",1994,"Ken Phillips","-","15-43-0",0.259
-"31",1993,"Ken Phillips","-","6-40-0",0.13
-"32",1992,"Ken Phillips","-","7-36-0",0.163
-"33",1991,"Vickie Van Kleeck","-","20-33-0",0.377
-"34",1990,"Vickie Van Kleeck","-","15-26-0",0.366
-"35",1989,"Vickie Van Kleeck","-","23-23-1",0.5
-"36",1988,"","-","0-0-0",NA
-"37",1986,"","-","0-0-0",NA
-"38",2024,"Lindsay Fico","SoCon","9-15-0",0.375
+"1","2023","Lindsay Fico","SoCon","20-37-0","0.351"
+"2","2022","Lindsay Fico","SoCon","16-40-0","0.286"
+"3","2021","Stephanie DeFeo","SoCon","24-23-0","0.511"
+"4","2020","Stephanie DeFeo","SoCon","10-17-0","0.370"
+"5","2019","Stephanie DeFeo","SoCon","27-29-0","0.482"
+"6","2018","Stephanie DeFeo","SoCon","33-19-0","0.635"
+"7","2017","Stephanie DeFeo","SoCon","26-31-0","0.456"
+"8","2016","Stephanie DeFeo (23-35)James DeFeo (23-35)","SoCon","23-35-0","0.397"
+"9","2015","Stephanie DeFeo (37-22)James DeFeo (37-22)","SoCon","37-22-0","0.627"
+"10","2014","Stephanie DeFeo (37-19)James DeFeo (37-19)","ASUN","37-19-0","0.661"
+"11","2013","James DeFeo","ASUN","24-29-0","0.453"
+"12","2012","James DeFeo","ASUN","24-28-0","0.462"
+"13","2011","Mike Raynor","ASUN","32-24-0","0.571"
+"14","2010","Mike Raynor","ASUN","25-30-0","0.455"
+"15","2009","Mike Raynor","ASUN","40-19-0","0.678"
+"16","2008","Mike Raynor","ASUN","32-27-0","0.542"
+"17","2007","Mike Raynor","ASUN","14-46-0","0.233"
+"18","2006","Tony Foti","ASUN","26-28-0","0.481"
+"19","2005","Tony Foti","ASUN","26-32-0","0.448"
+"20","2004","Tony Foti","ASUN","34-30-0","0.531"
+"21","2003","Tony Foti","ASUN","35-23-0","0.603"
+"22","2002","Tony Foti","ASUN","21-35-0","0.375"
+"23","2001","Ken Phillips","ASUN","24-37-0","0.393"
+"24","2000","Ken Phillips","ASUN","19-30-0","0.388"
+"25","1999","Ken Phillips","ASUN","15-37-0","0.288"
+"26","1998","Ken Phillips","-","21-29-0","0.420"
+"27","1997","Ken Phillips","ASUN","18-35-0","0.340"
+"28","1996","Ken Phillips","-","13-33-0","0.283"
+"29","1995","Ken Phillips","-","14-34-0","0.292"
+"30","1994","Ken Phillips","-","15-43-0","0.259"
+"31","1993","Ken Phillips","-","6-40-0","0.130"
+"32","1992","Ken Phillips","-","7-36-0","0.163"
+"33","1991","Vickie Van Kleeck","-","20-33-0","0.377"
+"34","1990","Vickie Van Kleeck","-","15-26-0","0.366"
+"35","1989","Vickie Van Kleeck","-","23-23-1","0.500"
+"36","1988","","-","0-0-0","  NaN"
+"37","1986","","-","0-0-0","  NaN"
+"38","2024","Lindsay Fico","SoCon","0-0-0","  NaN"

@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Janelle Breneman","SoCon","37-22-0",0.627
-"2",2022,"Janelle Breneman","SoCon","39-18-0",0.684
-"3",2021,"Janelle Breneman","SoCon","34-17-0",0.667
-"4",2020,"Janelle Breneman","SoCon","15-7-0",0.682
-"5",2019,"Janelle Breneman","SoCon","33-23-0",0.589
-"6",2018,"Janelle Breneman","SoCon","46-13-0",0.78
-"7",2017,"Janelle Breneman","SoCon","29-24-0",0.547
-"8",2016,"Janelle Breneman","SoCon","33-26-0",0.559
-"9",2015,"Janelle Breneman","SoCon","25-22-0",0.532
-"10",2014,"Janelle Breneman","SoCon","31-26-0",0.544
-"11",2013,"Janelle Breneman","SoCon","38-19-0",0.667
-"12",2012,"Jennifer Herzig","SoCon","22-34-0",0.393
-"13",2011,"Jennifer Herzig","SoCon","26-32-0",0.448
-"14",2010,"Jennifer Herzig","SoCon","27-30-0",0.474
-"15",2009,"Jennifer Herzig","SoCon","26-33-0",0.441
-"16",2008,"Jennifer Herzig","SoCon","23-33-0",0.411
-"17",2007,"Jennifer Herzig","SoCon","29-37-0",0.439
-"18",2006,"Jennifer Herzig","SoCon","20-42-0",0.323
-"19",2005,"Stephanie DeFeo","SoCon","20-40-0",0.333
-"20",2004,"Stephanie DeFeo","SoCon","30-30-0",0.5
-"21",2003,"Stephanie DeFeo","SoCon","38-18-0",0.679
-"22",2002,"Karen Yoder","SoCon","35-30-0",0.538
-"23",2001,"Karen Yoder","SoCon","31-27-0",0.534
-"24",2000,"Katie Flynn","SoCon","37-29-0",0.561
-"25",1999,"Katie Flynn","SoCon","31-33-0",0.484
-"26",1998,"Katie Flynn","-","32-25-0",0.561
-"27",1997,"Melody Cope","Big South","40-25-0",0.615
-"28",1996,"Melody Cope","-","29-32-0",0.475
-"29",1995,"Melody Cope","-","49-17-0",0.742
-"30",1994,"Melody Cope","-","35-23-0",0.603
-"31",1993,"Melody Cope","-","36-14-2",0.72
-"32",1992,"Melody Cope","-","31-18-1",0.633
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Janelle Breneman","SoCon","16-14-0",0.533
+"1","2023","Janelle Breneman","SoCon","37-22-0","0.627"
+"2","2022","Janelle Breneman","SoCon","39-18-0","0.684"
+"3","2021","Janelle Breneman","SoCon","34-17-0","0.667"
+"4","2020","Janelle Breneman","SoCon","15-7-0","0.682"
+"5","2019","Janelle Breneman","SoCon","33-23-0","0.589"
+"6","2018","Janelle Breneman","SoCon","46-13-0","0.780"
+"7","2017","Janelle Breneman","SoCon","29-24-0","0.547"
+"8","2016","Janelle Breneman","SoCon","33-26-0","0.559"
+"9","2015","Janelle Breneman","SoCon","25-22-0","0.532"
+"10","2014","Janelle Breneman","SoCon","31-26-0","0.544"
+"11","2013","Janelle Breneman","SoCon","38-19-0","0.667"
+"12","2012","Jennifer Herzig","SoCon","22-34-0","0.393"
+"13","2011","Jennifer Herzig","SoCon","26-32-0","0.448"
+"14","2010","Jennifer Herzig","SoCon","27-30-0","0.474"
+"15","2009","Jennifer Herzig","SoCon","26-33-0","0.441"
+"16","2008","Jennifer Herzig","SoCon","23-33-0","0.411"
+"17","2007","Jennifer Herzig","SoCon","29-37-0","0.439"
+"18","2006","Jennifer Herzig","SoCon","20-42-0","0.323"
+"19","2005","Stephanie DeFeo","SoCon","20-40-0","0.333"
+"20","2004","Stephanie DeFeo","SoCon","30-30-0","0.500"
+"21","2003","Stephanie DeFeo","SoCon","38-18-0","0.679"
+"22","2002","Karen Yoder","SoCon","35-30-0","0.538"
+"23","2001","Karen Yoder","SoCon","31-27-0","0.534"
+"24","2000","Katie Flynn","SoCon","37-29-0","0.561"
+"25","1999","Katie Flynn","SoCon","31-33-0","0.484"
+"26","1998","Katie Flynn","-","32-25-0","0.561"
+"27","1997","Melody Cope","Big South","40-25-0","0.615"
+"28","1996","Melody Cope","-","29-32-0","0.475"
+"29","1995","Melody Cope","-","49-17-0","0.742"
+"30","1994","Melody Cope","-","35-23-0","0.603"
+"31","1993","Melody Cope","-","36-14-2","0.720"
+"32","1992","Melody Cope","-","31-18-1","0.633"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1989","","-","0-0-0","  NaN"
+"36","1988","","-","0-0-0","  NaN"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"
+"40","2024","Janelle Breneman","SoCon","0-0-0","  NaN"

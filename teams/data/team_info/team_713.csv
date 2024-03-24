@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Mackenzie Keyes","NESCAC","13-20-0",0.394
-"2",2022,"Molly Rathbun","NESCAC","19-14-0",0.576
-"3",2021,"Molly Rathbun","NESCAC","4-8-0",0.333
-"4",2020,"Molly Rathbun","NESCAC","0-0-0",NA
-"5",2019,"Caitlin Hitchcock","NESCAC","19-14-0",0.576
-"6",2018,"Caitlin Hitchcock","NESCAC","17-14-0",0.548
-"7",2017,"Caitlin Hitchcock","NESCAC","19-15-0",0.559
-"8",2016,"Caitlin Hitchcock","NESCAC","18-14-0",0.562
-"9",2015,"Caitlin Hitchcock","NESCAC","8-24-0",0.25
-"10",2014,"Caitlin Hitchcock","NESCAC","14-17-0",0.452
-"11",2013,"Caitlin Hitchcock","NESCAC","16-18-0",0.471
-"12",2012,"Caitlin Hitchcock","NESCAC","15-18-0",0.455
-"13",2011,"Caitlin Hitchcock","NESCAC","22-14-0",0.611
-"14",2010,"Caitlin Hitchcock","NESCAC","20-14-0",0.588
-"15",2009,"Caitlin Hitchcock","NESCAC","14-17-0",0.452
-"16",2008,"Caitlin Hitchcock","NESCAC","16-15-0",0.516
-"17",2007,"Caitlin Hitchcock","NESCAC","22-11-0",0.667
-"18",2006,"Caitlin Hitchcock","NESCAC","23-10-0",0.697
-"19",2005,"Caitlin Hitchcock","NESCAC","16-15-0",0.516
-"20",2004,"Caitlin Hitchcock","NESCAC","12-16-0",0.429
-"21",2003,"Caitlin Hitchcock","NESCAC","8-21-1",0.276
-"22",2002,"Tami Hyde","NESCAC","7-22-0",0.241
-"23",2001,"Tami Hyde","-","7-22-0",0.241
-"24",2000,"Fran Vandermeer","-","10-19-0",0.345
-"25",1999,"Fran Vandermeer","-","15-20-0",0.429
-"26",1998,"Fran Vandermeer","-","19-12-0",0.613
-"27",1997,"Fran Vandermeer","-","8-18-0",0.308
-"28",1996,"Dick Ellis","-","7-10-0",0.412
-"29",1995,"Dick Ellis","-","6-14-0",0.3
-"30",1994,"Dick Ellis","-","8-9-0",0.471
-"31",1993,"Dick Ellis","-","10-8-0",0.556
-"32",1992,"Dick Ellis","-","9-5-0",0.643
-"33",1991,"Donald G. Miller","-","8-6-0",0.571
-"34",1990,"Donald G. Miller","-","15-0-0",1
-"35",1989,"Donald G. Miller","-","10-3-0",0.769
-"36",1988,"Donald G. Miller","-","13-4-0",0.765
-"37",1987,"Donald G. Miller","-","11-1-0",0.917
-"38",1986,"Donald G. Miller","-","7-6-0",0.538
-"39",1985,"Donald G. Miller","-","5-8-0",0.385
-"40",1984,"Donald G. Miller","-","3-8-0",0.273
-"41",2024,"Lena Springer","NESCAC","7-5-0",0.583
+"1","2023","Mackenzie Keyes","NESCAC","13-20-0","0.394"
+"2","2022","Molly Rathbun","NESCAC","19-14-0","0.576"
+"3","2021","Molly Rathbun","NESCAC","4-8-0","0.333"
+"4","2020","Molly Rathbun","NESCAC","0-0-0","  NaN"
+"5","2019","Caitlin Hitchcock","NESCAC","19-14-0","0.576"
+"6","2018","Caitlin Hitchcock","NESCAC","17-14-0","0.548"
+"7","2017","Caitlin Hitchcock","NESCAC","19-15-0","0.559"
+"8","2016","Caitlin Hitchcock","NESCAC","18-14-0","0.562"
+"9","2015","Caitlin Hitchcock","NESCAC","8-24-0","0.250"
+"10","2014","Caitlin Hitchcock","NESCAC","14-17-0","0.452"
+"11","2013","Caitlin Hitchcock","NESCAC","16-18-0","0.471"
+"12","2012","Caitlin Hitchcock","NESCAC","15-18-0","0.455"
+"13","2011","Caitlin Hitchcock","NESCAC","22-14-0","0.611"
+"14","2010","Caitlin Hitchcock","NESCAC","20-14-0","0.588"
+"15","2009","Caitlin Hitchcock","NESCAC","14-17-0","0.452"
+"16","2008","Caitlin Hitchcock","NESCAC","16-15-0","0.516"
+"17","2007","Caitlin Hitchcock","NESCAC","22-11-0","0.667"
+"18","2006","Caitlin Hitchcock","NESCAC","23-10-0","0.697"
+"19","2005","Caitlin Hitchcock","NESCAC","16-15-0","0.516"
+"20","2004","Caitlin Hitchcock","NESCAC","12-16-0","0.429"
+"21","2003","Caitlin Hitchcock","NESCAC","8-21-1","0.276"
+"22","2002","Tami Hyde","NESCAC","7-22-0","0.241"
+"23","2001","Tami Hyde","-","7-22-0","0.241"
+"24","2000","Fran Vandermeer","-","10-19-0","0.345"
+"25","1999","Fran Vandermeer","-","15-20-0","0.429"
+"26","1998","Fran Vandermeer","-","19-12-0","0.613"
+"27","1997","Fran Vandermeer","-","8-18-0","0.308"
+"28","1996","Dick Ellis","-","7-10-0","0.412"
+"29","1995","Dick Ellis","-","6-14-0","0.300"
+"30","1994","Dick Ellis","-","8-9-0","0.471"
+"31","1993","Dick Ellis","-","10-8-0","0.556"
+"32","1992","Dick Ellis","-","9-5-0","0.643"
+"33","1991","Donald G. Miller","-","8-6-0","0.571"
+"34","1990","Donald G. Miller","-","15-0-0","1.000"
+"35","1989","Donald G. Miller","-","10-3-0","0.769"
+"36","1988","Donald G. Miller","-","13-4-0","0.765"
+"37","1987","Donald G. Miller","-","11-1-0","0.917"
+"38","1986","Donald G. Miller","-","7-6-0","0.538"
+"39","1985","Donald G. Miller","-","5-8-0","0.385"
+"40","1984","Donald G. Miller","-","3-8-0","0.273"
+"41","2024","Lena Springer","NESCAC","0-0-0","  NaN"

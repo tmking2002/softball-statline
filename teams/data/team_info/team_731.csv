@@ -1,46 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Steve Johnson","Mountain West","18-26-0",0.409
-"2",2022,"Steve Johnson","Mountain West","28-28-0",0.5
-"3",2021,"Steve Johnson","Mountain West","14-30-0",0.318
-"4",2020,"Steve Johnson","Mountain West","13-11-0",0.542
-"5",2019,"Steve Johnson","Mountain West","17-30-0",0.362
-"6",2018,"Steve Johnson","Mountain West","18-34-0",0.346
-"7",2017,"Steve Johnson","Mountain West","33-18-0",0.647
-"8",2016,"Steve Johnson","Mountain West","26-25-0",0.51
-"9",2015,"Steve Johnson","Mountain West","19-36-0",0.345
-"10",2014,"Steve Johnson","Mountain West","18-37-0",0.327
-"11",2013,"Carissa Millsap-Kalaba","WAC","11-43-0",0.204
-"12",2012,"Carissa Millsap-Kalaba","WAC","17-36-0",0.321
-"13",2011,"Carissa Millsap-Kalaba","WAC","15-42-0",0.263
-"14",2010,"Carissa Millsap-Kalaba","WAC","20-30-0",0.4
-"15",2009,"Candi Letts","WAC","10-37-0",0.213
-"16",2008,"Candi Letts","WAC","14-34-0",0.292
-"17",2007,"Candi Letts","WAC","17-36-0",0.321
-"18",2006,"Lonny Sargent","WAC","8-38-0",0.174
-"19",2005,"Lonny Sargent","Big West","23-29-0",0.442
-"20",2004,"Debbie Bilbao","Big West","10-41-0",0.196
-"21",2003,"Debbie Bilbao","Big West","8-40-0",0.167
-"22",2002,"Debbie Bilbao","Big West","12-44-0",0.214
-"23",2001,"Pam McCreesh","Big West","11-39-0",0.22
-"24",2000,"Pam McCreesh","Big West","19-38-0",0.333
-"25",1999,"Pam McCreesh","Big West","17-33-0",0.34
-"26",1998,"Pam McCreesh","-","16-25-0",0.39
-"27",1997,"Lloydene Searle","Big West","20-37-0",0.351
-"28",1996,"Lloydene Searle","-","33-24-0",0.579
-"29",1995,"Lloydene Searle","-","31-28-0",0.525
-"30",1994,"Lloydene Searle","-","25-33-0",0.431
-"31",1993,"Lloydene Searle","-","39-17-0",0.696
-"32",1992,"Lloydene Searle","-","43-21-0",0.672
-"33",1991,"Lloydene Searle","-","36-28-0",0.562
-"34",1990,"Lloydene Searle","-","18-19-0",0.486
-"35",1989,"Lloydene Searle","-","34-27-0",0.557
-"36",1988,"Lloydene Searle","-","21-27-0",0.438
-"37",1987,"Lloydene Searle","-","33-14-0",0.702
-"38",1986,"Lloydene Searle","-","28-9-0",0.757
-"39",1985,"Lloydene Searle","-","30-17-0",0.638
-"40",1984,"Lloydene Searle","-","30-24-0",0.556
-"41",1983,"Lloydene Searle","-","31-13-1",0.705
-"42",1982,"Lloydene Searle","-","23-20-1",0.535
-"43",1981,"Lloydene Searle","-","34-12-0",0.739
-"44",1980,"","-","0-0-0",NA
-"45",2024,"Todd Judge","Mountain West","17-11-0",0.607
+"1","2023","Steve Johnson","Mountain West","18-26-0","0.409"
+"2","2022","Steve Johnson","Mountain West","28-28-0","0.500"
+"3","2021","Steve Johnson","Mountain West","14-30-0","0.318"
+"4","2020","Steve Johnson","Mountain West","13-11-0","0.542"
+"5","2019","Steve Johnson","Mountain West","17-30-0","0.362"
+"6","2018","Steve Johnson","Mountain West","18-34-0","0.346"
+"7","2017","Steve Johnson","Mountain West","33-18-0","0.647"
+"8","2016","Steve Johnson","Mountain West","26-25-0","0.510"
+"9","2015","Steve Johnson","Mountain West","19-36-0","0.345"
+"10","2014","Steve Johnson","Mountain West","18-37-0","0.327"
+"11","2013","Carissa Millsap-Kalaba","WAC","11-43-0","0.204"
+"12","2012","Carissa Millsap-Kalaba","WAC","17-36-0","0.321"
+"13","2011","Carissa Millsap-Kalaba","WAC","15-42-0","0.263"
+"14","2010","Carissa Millsap-Kalaba","WAC","20-30-0","0.400"
+"15","2009","Candi Letts","WAC","10-37-0","0.213"
+"16","2008","Candi Letts","WAC","14-34-0","0.292"
+"17","2007","Candi Letts","WAC","17-36-0","0.321"
+"18","2006","Lonny Sargent","WAC","8-38-0","0.174"
+"19","2005","Lonny Sargent","Big West","23-29-0","0.442"
+"20","2004","Debbie Bilbao","Big West","10-41-0","0.196"
+"21","2003","Debbie Bilbao","Big West","8-40-0","0.167"
+"22","2002","Debbie Bilbao","Big West","12-44-0","0.214"
+"23","2001","Pam McCreesh","Big West","11-39-0","0.220"
+"24","2000","Pam McCreesh","Big West","19-38-0","0.333"
+"25","1999","Pam McCreesh","Big West","17-33-0","0.340"
+"26","1998","Pam McCreesh","-","16-25-0","0.390"
+"27","1997","Lloydene Searle","Big West","20-37-0","0.351"
+"28","1996","Lloydene Searle","-","33-24-0","0.579"
+"29","1995","Lloydene Searle","-","31-28-0","0.525"
+"30","1994","Lloydene Searle","-","25-33-0","0.431"
+"31","1993","Lloydene Searle","-","39-17-0","0.696"
+"32","1992","Lloydene Searle","-","43-21-0","0.672"
+"33","1991","Lloydene Searle","-","36-28-0","0.562"
+"34","1990","Lloydene Searle","-","18-19-0","0.486"
+"35","1989","Lloydene Searle","-","34-27-0","0.557"
+"36","1988","Lloydene Searle","-","21-27-0","0.438"
+"37","1987","Lloydene Searle","-","33-14-0","0.702"
+"38","1986","Lloydene Searle","-","28-9-0","0.757"
+"39","1985","Lloydene Searle","-","30-17-0","0.638"
+"40","1984","Lloydene Searle","-","30-24-0","0.556"
+"41","1983","Lloydene Searle","-","31-13-1","0.705"
+"42","1982","Lloydene Searle","-","23-20-1","0.535"
+"43","1981","Lloydene Searle","-","34-12-0","0.739"
+"44","1980","","-","0-0-0","  NaN"
+"45","2024","Todd Judge","Mountain West","0-0-0","  NaN"
