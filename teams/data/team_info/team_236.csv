@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Melissa Inouye","Atlantic 10","20-28-0","0.417"
-"2","2022","Melissa Inouye","Atlantic 10","30-22-0","0.577"
-"3","2021","Melissa Inouye","Atlantic 10","37-10-0","0.787"
-"4","2020","Melissa Inouye","Atlantic 10","7-13-0","0.350"
-"5","2019","Melissa Inouye","Atlantic 10","29-26-0","0.527"
-"6","2018","Bridget Orchard","Atlantic 10","32-23-0","0.582"
-"7","2017","Bridget Orchard","Atlantic 10","46-17-0","0.730"
-"8","2016","Bridget Orchard","Atlantic 10","39-21-0","0.650"
-"9","2015","Bridget Orchard","Atlantic 10","38-20-0","0.655"
-"10","2014","Bridget Orchard","Atlantic 10","36-20-0","0.643"
-"11","2013","Bridget Orchard","Atlantic 10","36-23-0","0.610"
-"12","2012","Bridget Orchard","Atlantic 10","32-26-0","0.552"
-"13","2011","Bridget Orchard","Atlantic 10","42-19-0","0.689"
-"14","2010","Bridget Orchard","Atlantic 10","49-12-0","0.803"
-"15","2009","Bridget Orchard","Atlantic 10","37-22-0","0.627"
-"16","2008","Bridget Orchard","Atlantic 10","36-30-0","0.545"
-"17","2007","Bridget Orchard","Atlantic 10","39-20-0","0.661"
-"18","2006","Bridget Orchard","Atlantic 10","37-23-0","0.617"
-"19","2005","Bridget Orchard","Atlantic 10","38-16-0","0.704"
-"20","2004","Bridget Orchard","Atlantic 10","35-24-1","0.593"
-"21","2003","Bridget Orchard","Atlantic 10","37-19-0","0.661"
-"22","2002","Bridget Orchard","Atlantic 10","14-43-0","0.246"
-"23","2001","Debbie Corbett","Atlantic 10","19-40-0","0.322"
-"24","2000","Debbie Corbett","Atlantic 10","17-36-1","0.321"
-"25","1999","Debbie Corbett","Atlantic 10","5-37-0","0.119"
-"26","1998","Debbie Corbett","-","17-27-1","0.386"
-"27","1997","Debbie Corbett","Atlantic 10","7-33-0","0.175"
-"28","1996","Steve Kelly","-","5-27-0","0.156"
-"29","1995","Steve Kelly","-","18-20-0","0.474"
-"30","1994","Steve Kelly","-","14-14-2","0.500"
-"31","1993","Steve Kelly","-","12-23-0","0.343"
-"32","1992","Steve Kelly","-","12-23-0","0.343"
-"33","1991","Don Mills","-","9-25-0","0.265"
-"34","1990","Don Mills","-","10-33-0","0.233"
-"35","1989","Don Mills","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","2024","Melissa Inouye","Atlantic 10","0-0-0","  NaN"
+"1",2023,"Melissa Inouye","Atlantic 10","20-28-0",0.417
+"2",2022,"Melissa Inouye","Atlantic 10","30-22-0",0.577
+"3",2021,"Melissa Inouye","Atlantic 10","37-10-0",0.787
+"4",2020,"Melissa Inouye","Atlantic 10","7-13-0",0.35
+"5",2019,"Melissa Inouye","Atlantic 10","29-26-0",0.527
+"6",2018,"Bridget Orchard","Atlantic 10","32-23-0",0.582
+"7",2017,"Bridget Orchard","Atlantic 10","46-17-0",0.73
+"8",2016,"Bridget Orchard","Atlantic 10","39-21-0",0.65
+"9",2015,"Bridget Orchard","Atlantic 10","38-20-0",0.655
+"10",2014,"Bridget Orchard","Atlantic 10","36-20-0",0.643
+"11",2013,"Bridget Orchard","Atlantic 10","36-23-0",0.61
+"12",2012,"Bridget Orchard","Atlantic 10","32-26-0",0.552
+"13",2011,"Bridget Orchard","Atlantic 10","42-19-0",0.689
+"14",2010,"Bridget Orchard","Atlantic 10","49-12-0",0.803
+"15",2009,"Bridget Orchard","Atlantic 10","37-22-0",0.627
+"16",2008,"Bridget Orchard","Atlantic 10","36-30-0",0.545
+"17",2007,"Bridget Orchard","Atlantic 10","39-20-0",0.661
+"18",2006,"Bridget Orchard","Atlantic 10","37-23-0",0.617
+"19",2005,"Bridget Orchard","Atlantic 10","38-16-0",0.704
+"20",2004,"Bridget Orchard","Atlantic 10","35-24-1",0.593
+"21",2003,"Bridget Orchard","Atlantic 10","37-19-0",0.661
+"22",2002,"Bridget Orchard","Atlantic 10","14-43-0",0.246
+"23",2001,"Debbie Corbett","Atlantic 10","19-40-0",0.322
+"24",2000,"Debbie Corbett","Atlantic 10","17-36-1",0.321
+"25",1999,"Debbie Corbett","Atlantic 10","5-37-0",0.119
+"26",1998,"Debbie Corbett","-","17-27-1",0.386
+"27",1997,"Debbie Corbett","Atlantic 10","7-33-0",0.175
+"28",1996,"Steve Kelly","-","5-27-0",0.156
+"29",1995,"Steve Kelly","-","18-20-0",0.474
+"30",1994,"Steve Kelly","-","14-14-2",0.5
+"31",1993,"Steve Kelly","-","12-23-0",0.343
+"32",1992,"Steve Kelly","-","12-23-0",0.343
+"33",1991,"Don Mills","-","9-25-0",0.265
+"34",1990,"Don Mills","-","10-33-0",0.233
+"35",1989,"Don Mills","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",2024,"Melissa Inouye","Atlantic 10","12-17-1",0.414

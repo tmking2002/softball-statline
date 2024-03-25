@@ -1,43 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Aja Scheuber","CCAA","13-32-0","0.289"
-"2","2022","Aja Scheuber","CCAA","17-30-0","0.362"
-"3","2021","Jessica Ventoza","CCAA","0-0-0","  NaN"
-"4","2020","Jessica Ventoza","CCAA","10-15-0","0.400"
-"5","2019","Jessica Ventoza","CCAA","23-32-0","0.418"
-"6","2018","Jessica Ventoza","CCAA","32-22-0","0.593"
-"7","2017","Jessica Ventoza","CCAA","23-32-0","0.418"
-"8","2016","Jessica Ventoza","CCAA","25-28-0","0.472"
-"9","2015","Jan Schefkowitz","CCAA","15-35-0","0.300"
-"10","2014","Jan Schefkowitz","CCAA","17-38-0","0.309"
-"11","2013","Jan Schefkowitz","CCAA","16-36-0","0.308"
-"12","2012","Jan Schefkowitz","CCAA","16-43-0","0.271"
-"13","2011","Jan Schefkowitz","CCAA","21-30-0","0.412"
-"14","2010","Jan Schefkowitz","CCAA","13-36-1","0.265"
-"15","2009","Jan Schefkowitz","CCAA","35-21-0","0.625"
-"16","2008","Jan Schefkowitz","CCAA","31-23-0","0.574"
-"17","2007","Jan Schefkowitz","CCAA","50-20-0","0.714"
-"18","2006","Jan Schefkowitz","CCAA","34-23-0","0.596"
-"19","2005","Jan Schefkowitz","CCAA","24-32-0","0.429"
-"20","2004","Jan Schefkowitz","CCAA","20-37-0","0.351"
-"21","2003","Jan Schefkowitz","CCAA","31-25-0","0.554"
-"22","2002","Jan Schefkowitz","CCAA","30-35-0","0.462"
-"23","2001","Jan Schefkowitz","-","43-22-0","0.662"
-"24","2000","Jan Schefkowitz","-","43-20-0","0.683"
-"25","1999","Jan Schefkowitz","-","26-29-0","0.473"
-"26","1998","Jan Schefkowitz","-","11-44-0","0.200"
-"27","1997","Jan Schefkowitz","-","6-48-0","0.111"
-"28","1996","Jan Schefkowitz","-","22-36-0","0.379"
-"29","1995","Jan Schefkowitz","-","17-29-0","0.370"
-"30","1994","Jan Schefkowitz","-","20-27-0","0.426"
-"31","1993","Jan Schefkowitz","-","14-34-0","0.292"
-"32","1992","Tami Roggensack","-","7-36-0","0.163"
-"33","1991","John Van Zant","-","13-35-0","0.271"
-"34","1990","John Van Zant","-","16-35-0","0.314"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","2024","Aja Scheuber","CCAA","0-3-0","0.000"
+"1",2023,"Aja Scheuber","CCAA","13-32-0",0.289
+"2",2022,"Aja Scheuber","CCAA","17-30-0",0.362
+"3",2021,"Jessica Ventoza","CCAA","0-0-0",NA
+"4",2020,"Jessica Ventoza","CCAA","10-15-0",0.4
+"5",2019,"Jessica Ventoza","CCAA","23-32-0",0.418
+"6",2018,"Jessica Ventoza","CCAA","32-22-0",0.593
+"7",2017,"Jessica Ventoza","CCAA","23-32-0",0.418
+"8",2016,"Jessica Ventoza","CCAA","25-28-0",0.472
+"9",2015,"Jan Schefkowitz","CCAA","15-35-0",0.3
+"10",2014,"Jan Schefkowitz","CCAA","17-38-0",0.309
+"11",2013,"Jan Schefkowitz","CCAA","16-36-0",0.308
+"12",2012,"Jan Schefkowitz","CCAA","16-43-0",0.271
+"13",2011,"Jan Schefkowitz","CCAA","21-30-0",0.412
+"14",2010,"Jan Schefkowitz","CCAA","13-36-1",0.265
+"15",2009,"Jan Schefkowitz","CCAA","35-21-0",0.625
+"16",2008,"Jan Schefkowitz","CCAA","31-23-0",0.574
+"17",2007,"Jan Schefkowitz","CCAA","50-20-0",0.714
+"18",2006,"Jan Schefkowitz","CCAA","34-23-0",0.596
+"19",2005,"Jan Schefkowitz","CCAA","24-32-0",0.429
+"20",2004,"Jan Schefkowitz","CCAA","20-37-0",0.351
+"21",2003,"Jan Schefkowitz","CCAA","31-25-0",0.554
+"22",2002,"Jan Schefkowitz","CCAA","30-35-0",0.462
+"23",2001,"Jan Schefkowitz","-","43-22-0",0.662
+"24",2000,"Jan Schefkowitz","-","43-20-0",0.683
+"25",1999,"Jan Schefkowitz","-","26-29-0",0.473
+"26",1998,"Jan Schefkowitz","-","11-44-0",0.2
+"27",1997,"Jan Schefkowitz","-","6-48-0",0.111
+"28",1996,"Jan Schefkowitz","-","22-36-0",0.379
+"29",1995,"Jan Schefkowitz","-","17-29-0",0.37
+"30",1994,"Jan Schefkowitz","-","20-27-0",0.426
+"31",1993,"Jan Schefkowitz","-","14-34-0",0.292
+"32",1992,"Tami Roggensack","-","7-36-0",0.163
+"33",1991,"John Van Zant","-","13-35-0",0.271
+"34",1990,"John Van Zant","-","16-35-0",0.314
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",1984,"","-","0-0-0",NA
+"41",1983,"","-","0-0-0",NA
+"42",2024,"Aja Scheuber","CCAA","10-13-0",0.435

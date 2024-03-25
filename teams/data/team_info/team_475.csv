@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Krysti Maronski","SUNYAC","31-13-0","0.705"
-"2","2022","Krysti Maronski","SUNYAC","27-17-0","0.614"
-"3","2021","Krysti Maronski","SUNYAC","6-10-0","0.375"
-"4","2020","Krysti Maronski","SUNYAC","1-2-1","0.333"
-"5","2019","Krysti Maronski","SUNYAC","26-11-0","0.703"
-"6","2018","Samantha Miller","SUNYAC","14-21-1","0.400"
-"7","2017","Samantha Miller","SUNYAC","18-20-0","0.474"
-"8","2016","Brittany Robinson","SUNYAC","18-19-0","0.486"
-"9","2015","Brittany Robinson","SUNYAC","19-16-0","0.543"
-"10","2014","Brittany Robinson","SUNYAC","10-24-0","0.294"
-"11","2013","Tony Ciccarello","SUNYAC","20-19-0","0.513"
-"12","2012","Denise Marchese","SUNYAC","14-26-0","0.350"
-"13","2011","Denise Marchese","SUNYAC","15-19-0","0.441"
-"14","2010","Denise Marchese","SUNYAC","20-18-0","0.526"
-"15","2009","Kristina Katori","SUNYAC","19-19-0","0.500"
-"16","2008","Kristina Katori","SUNYAC","25-18-0","0.581"
-"17","2007","Kristina Katori","SUNYAC","17-21-0","0.447"
-"18","2006","Brad Duckworth","SUNYAC","18-20-0","0.474"
-"19","2005","Brad Duckworth","SUNYAC","17-19-0","0.472"
-"20","2004","Brad Duckworth","SUNYAC","6-28-1","0.176"
-"21","2003","Alan Dunefsky","SUNYAC","2-27-0","0.069"
-"22","2002","Alan Dunefsky","SUNYAC","1-39-0","0.025"
-"23","2001","","-","0-0-0","  NaN"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","Richard Thornton","-","20-14-0","0.588"
-"26","1998","Alan Dunefsky","-","12-10-0","0.545"
-"27","1997","Tom Costello","-","8-12-0","0.400"
-"28","1996","Tom Costello","-","17-11-0","0.607"
-"29","1995","John Reardon","-","14-15-1","0.483"
-"30","1994","John Reardon","-","19-12-0","0.613"
-"31","1993","Robert Demske","-","11-15-0","0.423"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","Alan Dunefsky","-","0-0-0","  NaN"
-"34","1990","Alan Dunefsky","-","0-0-0","  NaN"
-"35","1989","Alan Dunefsky","-","0-0-0","  NaN"
-"36","1988","Alan Dunefsky","-","0-0-0","  NaN"
-"37","1987","Alan Dunefsky","-","0-0-0","  NaN"
-"38","1986","Alan Dunefsky","-","0-0-0","  NaN"
-"39","1985","Alan Dunefsky","-","0-0-0","  NaN"
-"40","1984","Alan Dunefsky","-","0-0-0","  NaN"
-"41","1983","Alan Dunefsky","-","0-0-0","  NaN"
-"42","1982","Alan Dunefsky","-","0-0-0","  NaN"
-"43","2024","Krysti Maronski","SUNYAC","0-0-0","  NaN"
+"1",2023,"Krysti Maronski","SUNYAC","31-13-0",0.705
+"2",2022,"Krysti Maronski","SUNYAC","27-17-0",0.614
+"3",2021,"Krysti Maronski","SUNYAC","6-10-0",0.375
+"4",2020,"Krysti Maronski","SUNYAC","1-2-1",0.333
+"5",2019,"Krysti Maronski","SUNYAC","26-11-0",0.703
+"6",2018,"Samantha Miller","SUNYAC","14-21-1",0.4
+"7",2017,"Samantha Miller","SUNYAC","18-20-0",0.474
+"8",2016,"Brittany Robinson","SUNYAC","18-19-0",0.486
+"9",2015,"Brittany Robinson","SUNYAC","19-16-0",0.543
+"10",2014,"Brittany Robinson","SUNYAC","10-24-0",0.294
+"11",2013,"Tony Ciccarello","SUNYAC","20-19-0",0.513
+"12",2012,"Denise Marchese","SUNYAC","14-26-0",0.35
+"13",2011,"Denise Marchese","SUNYAC","15-19-0",0.441
+"14",2010,"Denise Marchese","SUNYAC","20-18-0",0.526
+"15",2009,"Kristina Katori","SUNYAC","19-19-0",0.5
+"16",2008,"Kristina Katori","SUNYAC","25-18-0",0.581
+"17",2007,"Kristina Katori","SUNYAC","17-21-0",0.447
+"18",2006,"Brad Duckworth","SUNYAC","18-20-0",0.474
+"19",2005,"Brad Duckworth","SUNYAC","17-19-0",0.472
+"20",2004,"Brad Duckworth","SUNYAC","6-28-1",0.176
+"21",2003,"Alan Dunefsky","SUNYAC","2-27-0",0.069
+"22",2002,"Alan Dunefsky","SUNYAC","1-39-0",0.025
+"23",2001,"","-","0-0-0",NA
+"24",2000,"","-","0-0-0",NA
+"25",1999,"Richard Thornton","-","20-14-0",0.588
+"26",1998,"Alan Dunefsky","-","12-10-0",0.545
+"27",1997,"Tom Costello","-","8-12-0",0.4
+"28",1996,"Tom Costello","-","17-11-0",0.607
+"29",1995,"John Reardon","-","14-15-1",0.483
+"30",1994,"John Reardon","-","19-12-0",0.613
+"31",1993,"Robert Demske","-","11-15-0",0.423
+"32",1992,"","-","0-0-0",NA
+"33",1991,"Alan Dunefsky","-","0-0-0",NA
+"34",1990,"Alan Dunefsky","-","0-0-0",NA
+"35",1989,"Alan Dunefsky","-","0-0-0",NA
+"36",1988,"Alan Dunefsky","-","0-0-0",NA
+"37",1987,"Alan Dunefsky","-","0-0-0",NA
+"38",1986,"Alan Dunefsky","-","0-0-0",NA
+"39",1985,"Alan Dunefsky","-","0-0-0",NA
+"40",1984,"Alan Dunefsky","-","0-0-0",NA
+"41",1983,"Alan Dunefsky","-","0-0-0",NA
+"42",1982,"Alan Dunefsky","-","0-0-0",NA
+"43",2024,"Krysti Maronski","SUNYAC","9-3-0",0.75

@@ -1,37 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Jim McKinnon","Great Northeast","22-18-0","0.550"
-"2","2022","Jim McKinnon","Great Northeast","20-21-1","0.488"
-"3","2021","Jim McKinnon","Great Northeast","13-7-0","0.650"
-"4","2020","Jim McKinnon","Great Northeast","1-10-0","0.091"
-"5","2019","Jim McKinnon","Great Northeast","27-19-0","0.587"
-"6","2018","Jim McKinnon","Great Northeast","23-16-0","0.590"
-"7","2017","Jim McKinnon","Great Northeast","20-17-0","0.541"
-"8","2016","Jim McKinnon","Great Northeast","27-12-0","0.692"
-"9","2015","Jim McKinnon","Great Northeast","15-18-0","0.455"
-"10","2014","Jim McKinnon","Great Northeast","22-12-0","0.647"
-"11","2013","Jim McKinnon","Great Northeast","32-12-0","0.727"
-"12","2012","Jim McKinnon","Great Northeast","20-23-0","0.465"
-"13","2011","Jim McKinnon","Great Northeast","22-18-0","0.550"
-"14","2010","Jim McKinnon","Great Northeast","24-18-0","0.571"
-"15","2009","Jim McKinnon","Great Northeast","16-20-0","0.444"
-"16","2008","Jim McKinnon","Great Northeast","23-17-0","0.575"
-"17","2007","Jim McKinnon","Great Northeast","14-12-0","0.538"
-"18","2006","Jim McKinnon","Great Northeast","6-19-0","0.240"
-"19","2005","Peter Maneggia","Great Northeast","4-27-0","0.129"
-"20","2004","Kerilyn Rostowski","Great Northeast","2-18-1","0.100"
-"21","2003","Kerilyn Rostowski","-","0-0-0","  NaN"
-"22","2002","Kerilyn Rostowski","-","0-0-0","  NaN"
-"23","2001","Karen Kirby (20-6)Denise Marchese (3-7)Danielle Barack (20-6)","-","22-12-0","0.647"
-"24","2000","Denise Marchese","-","27-9-0","0.750"
-"25","1999","Denise Marchese","-","18-8-0","0.692"
-"26","1998","Denise Marchese","-","6-16-0","0.273"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1981","","-","0-0-0","  NaN"
-"36","2024","Jim McKinnon","Great Northeast","0-0-0","  NaN"
+"1",2023,"Jim McKinnon","Great Northeast","22-18-0",0.55
+"2",2022,"Jim McKinnon","Great Northeast","20-21-1",0.488
+"3",2021,"Jim McKinnon","Great Northeast","13-7-0",0.65
+"4",2020,"Jim McKinnon","Great Northeast","1-10-0",0.091
+"5",2019,"Jim McKinnon","Great Northeast","27-19-0",0.587
+"6",2018,"Jim McKinnon","Great Northeast","23-16-0",0.59
+"7",2017,"Jim McKinnon","Great Northeast","20-17-0",0.541
+"8",2016,"Jim McKinnon","Great Northeast","27-12-0",0.692
+"9",2015,"Jim McKinnon","Great Northeast","15-18-0",0.455
+"10",2014,"Jim McKinnon","Great Northeast","22-12-0",0.647
+"11",2013,"Jim McKinnon","Great Northeast","32-12-0",0.727
+"12",2012,"Jim McKinnon","Great Northeast","20-23-0",0.465
+"13",2011,"Jim McKinnon","Great Northeast","22-18-0",0.55
+"14",2010,"Jim McKinnon","Great Northeast","24-18-0",0.571
+"15",2009,"Jim McKinnon","Great Northeast","16-20-0",0.444
+"16",2008,"Jim McKinnon","Great Northeast","23-17-0",0.575
+"17",2007,"Jim McKinnon","Great Northeast","14-12-0",0.538
+"18",2006,"Jim McKinnon","Great Northeast","6-19-0",0.24
+"19",2005,"Peter Maneggia","Great Northeast","4-27-0",0.129
+"20",2004,"Kerilyn Rostowski","Great Northeast","2-18-1",0.1
+"21",2003,"Kerilyn Rostowski","-","0-0-0",NA
+"22",2002,"Kerilyn Rostowski","-","0-0-0",NA
+"23",2001,"Karen Kirby (20-6)Denise Marchese (3-7)Danielle Barack (20-6)","-","22-12-0",0.647
+"24",2000,"Denise Marchese","-","27-9-0",0.75
+"25",1999,"Denise Marchese","-","18-8-0",0.692
+"26",1998,"Denise Marchese","-","6-16-0",0.273
+"27",1997,"","-","0-0-0",NA
+"28",1996,"","-","0-0-0",NA
+"29",1995,"","-","0-0-0",NA
+"30",1994,"","-","0-0-0",NA
+"31",1993,"","-","0-0-0",NA
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1981,"","-","0-0-0",NA
+"36",2024,"Jim McKinnon","Great Northeast","4-6-0",0.4

@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Jennifer Lane","NESCAC","13-25-0","0.342"
-"2","2022","Jennifer Lane","NESCAC","13-19-0","0.406"
-"3","2021","Jennifer Lane","NESCAC","1-14-0","0.067"
-"4","2020","Jennifer Lane","NESCAC","2-0-0","1.000"
-"5","2019","Jennifer Lane","NESCAC","12-21-0","0.364"
-"6","2018","Jennifer Lane","NESCAC","14-16-0","0.467"
-"7","2017","Jennifer Lane","NESCAC","12-20-0","0.375"
-"8","2016","Jennifer Lane","NESCAC","21-14-0","0.600"
-"9","2015","Jennifer Lane","NESCAC","14-17-1","0.452"
-"10","2014","Jennifer Lane","NESCAC","10-22-0","0.312"
-"11","2013","Jennifer Lane","NESCAC","24-12-0","0.667"
-"12","2012","Jennifer Lane","NESCAC","8-26-0","0.235"
-"13","2011","Jennifer Lane","NESCAC","12-19-0","0.387"
-"14","2010","Jennifer Lane","NESCAC","24-18-1","0.571"
-"15","2009","Jennifer Lane","NESCAC","17-20-0","0.459"
-"16","2008","Jennifer Lane","NESCAC","21-16-0","0.568"
-"17","2007","Jennifer Lane","NESCAC","21-15-0","0.583"
-"18","2006","Jennifer Lane","NESCAC","13-21-0","0.382"
-"19","2005","Jennifer Lane","NESCAC","11-18-0","0.379"
-"20","2004","Jennifer Lane","NESCAC","11-20-0","0.355"
-"21","2003","Jennifer Lane","NESCAC","7-22-0","0.241"
-"22","2002","Jennifer Lane","NESCAC","8-23-1","0.258"
-"23","2001","","-","0-0-0","  NaN"
-"24","2000","Renee Melchiona","-","8-20-0","0.286"
-"25","1999","Renee Melchiona","-","11-23-0","0.324"
-"26","1998","Lucille Gecewicz","-","10-17-0","0.370"
-"27","1997","Lucille Gecewicz","-","12-15-0","0.444"
-"28","1996","Lucille Gecewicz","-","8-21-0","0.276"
-"29","1995","David Snyder","-","16-10-0","0.615"
-"30","1994","David Snyder","-","9-10-0","0.474"
-"31","1993","David Snyder","-","6-8-0","0.429"
-"32","1992","David Snyder","-","7-13-0","0.350"
-"33","1991","David Snyder","-","2-14-0","0.125"
-"34","1990","David Snyder","-","4-15-0","0.211"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","2024","Jennifer Lane","NESCAC","0-0-0","  NaN"
+"1",2023,"Jennifer Lane","NESCAC","13-25-0",0.342
+"2",2022,"Jennifer Lane","NESCAC","13-19-0",0.406
+"3",2021,"Jennifer Lane","NESCAC","1-14-0",0.067
+"4",2020,"Jennifer Lane","NESCAC","2-0-0",1
+"5",2019,"Jennifer Lane","NESCAC","12-21-0",0.364
+"6",2018,"Jennifer Lane","NESCAC","14-16-0",0.467
+"7",2017,"Jennifer Lane","NESCAC","12-20-0",0.375
+"8",2016,"Jennifer Lane","NESCAC","21-14-0",0.6
+"9",2015,"Jennifer Lane","NESCAC","14-17-1",0.452
+"10",2014,"Jennifer Lane","NESCAC","10-22-0",0.312
+"11",2013,"Jennifer Lane","NESCAC","24-12-0",0.667
+"12",2012,"Jennifer Lane","NESCAC","8-26-0",0.235
+"13",2011,"Jennifer Lane","NESCAC","12-19-0",0.387
+"14",2010,"Jennifer Lane","NESCAC","24-18-1",0.571
+"15",2009,"Jennifer Lane","NESCAC","17-20-0",0.459
+"16",2008,"Jennifer Lane","NESCAC","21-16-0",0.568
+"17",2007,"Jennifer Lane","NESCAC","21-15-0",0.583
+"18",2006,"Jennifer Lane","NESCAC","13-21-0",0.382
+"19",2005,"Jennifer Lane","NESCAC","11-18-0",0.379
+"20",2004,"Jennifer Lane","NESCAC","11-20-0",0.355
+"21",2003,"Jennifer Lane","NESCAC","7-22-0",0.241
+"22",2002,"Jennifer Lane","NESCAC","8-23-1",0.258
+"23",2001,"","-","0-0-0",NA
+"24",2000,"Renee Melchiona","-","8-20-0",0.286
+"25",1999,"Renee Melchiona","-","11-23-0",0.324
+"26",1998,"Lucille Gecewicz","-","10-17-0",0.37
+"27",1997,"Lucille Gecewicz","-","12-15-0",0.444
+"28",1996,"Lucille Gecewicz","-","8-21-0",0.276
+"29",1995,"David Snyder","-","16-10-0",0.615
+"30",1994,"David Snyder","-","9-10-0",0.474
+"31",1993,"David Snyder","-","6-8-0",0.429
+"32",1992,"David Snyder","-","7-13-0",0.35
+"33",1991,"David Snyder","-","2-14-0",0.125
+"34",1990,"David Snyder","-","4-15-0",0.211
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",2024,"Jennifer Lane","NESCAC","6-8-0",0.429

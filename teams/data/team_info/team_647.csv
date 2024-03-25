@@ -1,36 +1,36 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Tatjana Matthews","MEAC","7-29-0","0.194"
-"2","2022","Tatjana Matthews","MEAC","3-37-0","0.075"
-"3","2021","Tatjana Matthews","MEAC","4-27-0","0.129"
-"4","2020","Tatjana Matthews","MEAC","0-10-0","0.000"
-"5","2019","Cheretta Stevenson","MEAC","0-35-0","0.000"
-"6","2018","Cheretta Stevenson","MEAC","2-31-0","0.061"
-"7","2017","Cheretta Stevenson","MEAC","2-39-0","0.049"
-"8","2016","Cheretta Stevenson","MEAC","5-26-0","0.161"
-"9","2015","Tonja Braxton","MEAC","8-28-0","0.222"
-"10","2014","Tonja Braxton","MEAC","10-28-0","0.263"
-"11","2013","Tonja Braxton","MEAC","16-27-0","0.372"
-"12","2012","Tonja Braxton","MEAC","14-29-0","0.326"
-"13","2011","Donisha Johnson","MEAC","10-44-0","0.185"
-"14","2010","Donisha Johnson","MEAC","9-43-0","0.173"
-"15","2009","Donisha Johnson","MEAC","7-30-0","0.189"
-"16","2008","Antonio Smalls","MEAC","9-24-0","0.273"
-"17","2007","Antonio Smalls","MEAC","6-41-0","0.128"
-"18","2006","Antonio Smalls","MEAC","8-35-0","0.186"
-"19","2005","Antonio Smalls","MEAC","12-31-0","0.279"
-"20","2004","Antonio Smalls","MEAC","14-29-0","0.326"
-"21","2003","Mary Hill","MEAC","18-25-0","0.419"
-"22","2002","Mary Hill","MEAC","19-23-0","0.452"
-"23","2001","Mary Hill","MEAC","15-30-0","0.333"
-"24","2000","Mary Hill","MEAC","14-33-0","0.298"
-"25","1999","Mary Hill","MEAC","14-28-0","0.333"
-"26","1998","Mary Hill","-","24-26-0","0.480"
-"27","1997","Mary Hill","SWAC","16-20-0","0.444"
-"28","1996","Mary Hill","-","3-39-0","0.071"
-"29","1995","Mary Hill","-","2-34-0","0.056"
-"30","1994","Willie Simon","-","1-35-0","0.028"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","2024","Tatjana Matthews","MEAC","0-0-0","  NaN"
+"1",2023,"Tatjana Matthews","MEAC","7-29-0",0.194
+"2",2022,"Tatjana Matthews","MEAC","3-37-0",0.075
+"3",2021,"Tatjana Matthews","MEAC","4-27-0",0.129
+"4",2020,"Tatjana Matthews","MEAC","0-10-0",0
+"5",2019,"Cheretta Stevenson","MEAC","0-35-0",0
+"6",2018,"Cheretta Stevenson","MEAC","2-31-0",0.061
+"7",2017,"Cheretta Stevenson","MEAC","2-39-0",0.049
+"8",2016,"Cheretta Stevenson","MEAC","5-26-0",0.161
+"9",2015,"Tonja Braxton","MEAC","8-28-0",0.222
+"10",2014,"Tonja Braxton","MEAC","10-28-0",0.263
+"11",2013,"Tonja Braxton","MEAC","16-27-0",0.372
+"12",2012,"Tonja Braxton","MEAC","14-29-0",0.326
+"13",2011,"Donisha Johnson","MEAC","10-44-0",0.185
+"14",2010,"Donisha Johnson","MEAC","9-43-0",0.173
+"15",2009,"Donisha Johnson","MEAC","7-30-0",0.189
+"16",2008,"Antonio Smalls","MEAC","9-24-0",0.273
+"17",2007,"Antonio Smalls","MEAC","6-41-0",0.128
+"18",2006,"Antonio Smalls","MEAC","8-35-0",0.186
+"19",2005,"Antonio Smalls","MEAC","12-31-0",0.279
+"20",2004,"Antonio Smalls","MEAC","14-29-0",0.326
+"21",2003,"Mary Hill","MEAC","18-25-0",0.419
+"22",2002,"Mary Hill","MEAC","19-23-0",0.452
+"23",2001,"Mary Hill","MEAC","15-30-0",0.333
+"24",2000,"Mary Hill","MEAC","14-33-0",0.298
+"25",1999,"Mary Hill","MEAC","14-28-0",0.333
+"26",1998,"Mary Hill","-","24-26-0",0.48
+"27",1997,"Mary Hill","SWAC","16-20-0",0.444
+"28",1996,"Mary Hill","-","3-39-0",0.071
+"29",1995,"Mary Hill","-","2-34-0",0.056
+"30",1994,"Willie Simon","-","1-35-0",0.028
+"31",1993,"","-","0-0-0",NA
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",2024,"Tatjana Matthews","MEAC","4-16-0",0.2

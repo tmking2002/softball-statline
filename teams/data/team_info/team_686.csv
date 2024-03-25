@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Melissa Finley","Centennial","26-18-0","0.591"
-"2","2022","Melissa Finley","Centennial","29-6-0","0.829"
-"3","2021","Melissa Finley","Centennial","0-0-0","  NaN"
-"4","2020","Melissa Finley","Centennial","10-3-0","0.769"
-"5","2019","Melissa Finley","Centennial","22-15-0","0.595"
-"6","2018","Melissa Finley","Centennial","17-13-0","0.567"
-"7","2017","Renee Clarke","Centennial","15-21-0","0.417"
-"8","2016","Renee Clarke","Centennial","10-26-0","0.278"
-"9","2015","Renee Clarke","Centennial","5-17-0","0.227"
-"10","2014","Renee Clarke","Centennial","11-21-0","0.344"
-"11","2013","Renee Clarke","Centennial","19-19-0","0.500"
-"12","2012","Renee Clarke","Centennial","20-20-0","0.500"
-"13","2011","Renee Clarke","Centennial","7-23-0","0.233"
-"14","2010","Renee Clarke","Centennial","21-23-0","0.477"
-"15","2009","Renee Clarke","Centennial","15-22-0","0.405"
-"16","2008","Renee Clarke","Centennial","23-20-0","0.535"
-"17","2007","Renee Clarke","Centennial","22-13-0","0.629"
-"18","2006","Renee Clarke","Centennial","23-17-0","0.575"
-"19","2005","Renee Clarke","Centennial","10-26-0","0.278"
-"20","2004","Renee Clarke","Centennial","10-22-0","0.312"
-"21","2003","","Centennial","6-23-0","0.207"
-"22","2002","","-","0-0-0","  NaN"
-"23","2001","Mitch Kline","-","5-22-0","0.185"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","Cheri Goetcheus","-","1-24-0","0.040"
-"26","1998","Cheri Goetcheus","-","10-23-0","0.303"
-"27","1997","Cheri Goetcheus","-","4-25-0","0.138"
-"28","1996","Cheri Goetcheus","-","2-26-0","0.071"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","Annie Felter","-","10-16-0","0.385"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1982","","-","0-0-0","  NaN"
-"42","1981","","-","0-0-0","  NaN"
-"43","2024","Melissa Finley","Centennial","0-0-0","  NaN"
+"1",2023,"Melissa Finley","Centennial","26-18-0",0.591
+"2",2022,"Melissa Finley","Centennial","29-6-0",0.829
+"3",2021,"Melissa Finley","Centennial","0-0-0",NA
+"4",2020,"Melissa Finley","Centennial","10-3-0",0.769
+"5",2019,"Melissa Finley","Centennial","22-15-0",0.595
+"6",2018,"Melissa Finley","Centennial","17-13-0",0.567
+"7",2017,"Renee Clarke","Centennial","15-21-0",0.417
+"8",2016,"Renee Clarke","Centennial","10-26-0",0.278
+"9",2015,"Renee Clarke","Centennial","5-17-0",0.227
+"10",2014,"Renee Clarke","Centennial","11-21-0",0.344
+"11",2013,"Renee Clarke","Centennial","19-19-0",0.5
+"12",2012,"Renee Clarke","Centennial","20-20-0",0.5
+"13",2011,"Renee Clarke","Centennial","7-23-0",0.233
+"14",2010,"Renee Clarke","Centennial","21-23-0",0.477
+"15",2009,"Renee Clarke","Centennial","15-22-0",0.405
+"16",2008,"Renee Clarke","Centennial","23-20-0",0.535
+"17",2007,"Renee Clarke","Centennial","22-13-0",0.629
+"18",2006,"Renee Clarke","Centennial","23-17-0",0.575
+"19",2005,"Renee Clarke","Centennial","10-26-0",0.278
+"20",2004,"Renee Clarke","Centennial","10-22-0",0.312
+"21",2003,"","Centennial","6-23-0",0.207
+"22",2002,"","-","0-0-0",NA
+"23",2001,"Mitch Kline","-","5-22-0",0.185
+"24",2000,"","-","0-0-0",NA
+"25",1999,"Cheri Goetcheus","-","1-24-0",0.04
+"26",1998,"Cheri Goetcheus","-","10-23-0",0.303
+"27",1997,"Cheri Goetcheus","-","4-25-0",0.138
+"28",1996,"Cheri Goetcheus","-","2-26-0",0.071
+"29",1995,"","-","0-0-0",NA
+"30",1994,"","-","0-0-0",NA
+"31",1993,"","-","0-0-0",NA
+"32",1992,"Annie Felter","-","10-16-0",0.385
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",1984,"","-","0-0-0",NA
+"41",1982,"","-","0-0-0",NA
+"42",1981,"","-","0-0-0",NA
+"43",2024,"Melissa Finley","Centennial","7-3-0",0.7

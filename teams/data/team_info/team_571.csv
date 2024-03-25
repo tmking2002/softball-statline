@@ -1,43 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Mary Holt-Kelsch","Little East","19-19-0","0.500"
-"2","2022","Mary Holt-Kelsch","Little East","12-14-0","0.462"
-"3","2021","Brian Claypool","Little East","7-19-1","0.269"
-"4","2020","Brian Claypool","Little East","6-2-0","0.750"
-"5","2019","Brian Claypool","Little East","17-15-0","0.531"
-"6","2018","Brian Claypool","Little East","8-20-0","0.286"
-"7","2017","Janice DiNobile","Little East","8-20-0","0.286"
-"8","2016","Janice DiNobile","Little East","12-20-0","0.375"
-"9","2015","Janice DiNobile","Little East","6-26-0","0.188"
-"10","2014","Janice DiNobile","Little East","14-26-0","0.350"
-"11","2013","Nicole Riley","Little East","23-23-0","0.500"
-"12","2012","Maria Morin","Little East","19-18-0","0.514"
-"13","2011","Maria Morin","Little East","38-13-0","0.745"
-"14","2010","Maria Morin","Little East","24-13-0","0.649"
-"15","2009","Maria Morin","Little East","42-7-0","0.857"
-"16","2008","Maria Morin","Little East","36-9-0","0.800"
-"17","2007","Maria Morin","Little East","41-7-0","0.854"
-"18","2006","Maria Morin","Little East","35-8-1","0.814"
-"19","2005","Maria Morin","Little East","28-15-0","0.651"
-"20","2004","Maria Morin","Little East","21-15-1","0.583"
-"21","2003","Maria Morin","Little East","20-14-1","0.588"
-"22","2002","Maria Morin","Little East","27-13-0","0.675"
-"23","2001","Maria Morin","-","22-19-0","0.537"
-"24","2000","Maria Morin","-","23-17-0","0.575"
-"25","1999","Maria Morin","-","22-19-0","0.537"
-"26","1998","Maria Morin","-","18-16-1","0.529"
-"27","1997","Maria Morin","-","17-12-0","0.586"
-"28","1996","Maria Morin","-","13-19-0","0.406"
-"29","1995","Maria Morin","-","12-23-0","0.343"
-"30","1994","James Adams","-","9-18-0","0.333"
-"31","1993","Paul Autiello","-","9-11-0","0.450"
-"32","1992","Paul Autiello","-","2-13-0","0.133"
-"33","1991","Paul Autiello","-","5-17-0","0.227"
-"34","1990","Paul Autiello","-","1-17-0","0.056"
-"35","1989","Paul Autiello","-","6-11-0","0.353"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","2024","Mary Holt-Kelsch","Little East","0-0-0","  NaN"
+"1",2023,"Mary Holt-Kelsch","Little East","19-19-0",0.5
+"2",2022,"Mary Holt-Kelsch","Little East","12-14-0",0.462
+"3",2021,"Brian Claypool","Little East","7-19-1",0.269
+"4",2020,"Brian Claypool","Little East","6-2-0",0.75
+"5",2019,"Brian Claypool","Little East","17-15-0",0.531
+"6",2018,"Brian Claypool","Little East","8-20-0",0.286
+"7",2017,"Janice DiNobile","Little East","8-20-0",0.286
+"8",2016,"Janice DiNobile","Little East","12-20-0",0.375
+"9",2015,"Janice DiNobile","Little East","6-26-0",0.188
+"10",2014,"Janice DiNobile","Little East","14-26-0",0.35
+"11",2013,"Nicole Riley","Little East","23-23-0",0.5
+"12",2012,"Maria Morin","Little East","19-18-0",0.514
+"13",2011,"Maria Morin","Little East","38-13-0",0.745
+"14",2010,"Maria Morin","Little East","24-13-0",0.649
+"15",2009,"Maria Morin","Little East","42-7-0",0.857
+"16",2008,"Maria Morin","Little East","36-9-0",0.8
+"17",2007,"Maria Morin","Little East","41-7-0",0.854
+"18",2006,"Maria Morin","Little East","35-8-1",0.814
+"19",2005,"Maria Morin","Little East","28-15-0",0.651
+"20",2004,"Maria Morin","Little East","21-15-1",0.583
+"21",2003,"Maria Morin","Little East","20-14-1",0.588
+"22",2002,"Maria Morin","Little East","27-13-0",0.675
+"23",2001,"Maria Morin","-","22-19-0",0.537
+"24",2000,"Maria Morin","-","23-17-0",0.575
+"25",1999,"Maria Morin","-","22-19-0",0.537
+"26",1998,"Maria Morin","-","18-16-1",0.529
+"27",1997,"Maria Morin","-","17-12-0",0.586
+"28",1996,"Maria Morin","-","13-19-0",0.406
+"29",1995,"Maria Morin","-","12-23-0",0.343
+"30",1994,"James Adams","-","9-18-0",0.333
+"31",1993,"Paul Autiello","-","9-11-0",0.45
+"32",1992,"Paul Autiello","-","2-13-0",0.133
+"33",1991,"Paul Autiello","-","5-17-0",0.227
+"34",1990,"Paul Autiello","-","1-17-0",0.056
+"35",1989,"Paul Autiello","-","6-11-0",0.353
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",1984,"","-","0-0-0",NA
+"41",1983,"","-","0-0-0",NA
+"42",2024,"Mary Holt-Kelsch","Little East","9-2-0",0.818

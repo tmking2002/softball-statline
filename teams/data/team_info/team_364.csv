@@ -1,40 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Ashley Winter","American Rivers","21-15-0","0.583"
-"2","2022","Ashley Winter","American Rivers","22-10-0","0.688"
-"3","2021","Ashley Winter","American Rivers","2-27-0","0.069"
-"4","2020","Ashley Winter","American Rivers","6-6-0","0.500"
-"5","2019","Ashley Winter","American Rivers","10-27-1","0.270"
-"6","2018","Ashley Winter","American Rivers","19-20-0","0.487"
-"7","2017","Ashley Winter","American Rivers","23-13-0","0.639"
-"8","2016","Ashley Winter","American Rivers","17-21-0","0.447"
-"9","2015","Ashley Winter","American Rivers","19-19-0","0.500"
-"10","2014","Ashley Winter","American Rivers","13-21-0","0.382"
-"11","2013","Ashley Winter","American Rivers","12-19-0","0.387"
-"12","2012","Ashley Winter","American Rivers","20-18-0","0.526"
-"13","2011","Ashley Winter","American Rivers","17-23-0","0.425"
-"14","2010","Ashley Winter","American Rivers","16-21-0","0.432"
-"15","2009","Katie Koopmann","American Rivers","14-17-0","0.452"
-"16","2008","Katie Koopmann","American Rivers","11-15-0","0.423"
-"17","2007","Katie Koopmann","American Rivers","19-21-0","0.475"
-"18","2006","Sarah Anderson","American Rivers","15-23-0","0.395"
-"19","2005","Sarah Anderson","American Rivers","22-16-0","0.579"
-"20","2004","Sarah Anderson","American Rivers","13-26-0","0.333"
-"21","2003","Mary Jo Vrba","American Rivers","13-25-0","0.342"
-"22","2002","Mary Jo Vrba","American Rivers","14-22-0","0.389"
-"23","2001","Denise Udelhofen","-","12-20-1","0.375"
-"24","2000","Denise Udelhofen","-","22-20-0","0.524"
-"25","1999","Denise Udelhofen","-","18-19-0","0.486"
-"26","1998","Denise Udelhofen","-","25-11-0","0.694"
-"27","1997","Denise Udelhofen","-","19-12-0","0.613"
-"28","1996","Denise Udelhofen","-","18-23-0","0.439"
-"29","1995","Denise Udelhofen","-","19-20-0","0.487"
-"30","1994","Denise Udelhofen","-","22-18-0","0.550"
-"31","1993","Denise Udelhofen","-","15-10-0","0.600"
-"32","1992","Denise Udelhofen","-","13-20-0","0.394"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1981","","-","0-0-0","  NaN"
-"39","2024","Ashley Winter","American Rivers","0-0-0","  NaN"
+"1",2023,"Ashley Winter","American Rivers","21-15-0",0.583
+"2",2022,"Ashley Winter","American Rivers","22-10-0",0.688
+"3",2021,"Ashley Winter","American Rivers","2-27-0",0.069
+"4",2020,"Ashley Winter","American Rivers","6-6-0",0.5
+"5",2019,"Ashley Winter","American Rivers","10-27-1",0.27
+"6",2018,"Ashley Winter","American Rivers","19-20-0",0.487
+"7",2017,"Ashley Winter","American Rivers","23-13-0",0.639
+"8",2016,"Ashley Winter","American Rivers","17-21-0",0.447
+"9",2015,"Ashley Winter","American Rivers","19-19-0",0.5
+"10",2014,"Ashley Winter","American Rivers","13-21-0",0.382
+"11",2013,"Ashley Winter","American Rivers","12-19-0",0.387
+"12",2012,"Ashley Winter","American Rivers","20-18-0",0.526
+"13",2011,"Ashley Winter","American Rivers","17-23-0",0.425
+"14",2010,"Ashley Winter","American Rivers","16-21-0",0.432
+"15",2009,"Katie Koopmann","American Rivers","14-17-0",0.452
+"16",2008,"Katie Koopmann","American Rivers","11-15-0",0.423
+"17",2007,"Katie Koopmann","American Rivers","19-21-0",0.475
+"18",2006,"Sarah Anderson","American Rivers","15-23-0",0.395
+"19",2005,"Sarah Anderson","American Rivers","22-16-0",0.579
+"20",2004,"Sarah Anderson","American Rivers","13-26-0",0.333
+"21",2003,"Mary Jo Vrba","American Rivers","13-25-0",0.342
+"22",2002,"Mary Jo Vrba","American Rivers","14-22-0",0.389
+"23",2001,"Denise Udelhofen","-","12-20-1",0.375
+"24",2000,"Denise Udelhofen","-","22-20-0",0.524
+"25",1999,"Denise Udelhofen","-","18-19-0",0.486
+"26",1998,"Denise Udelhofen","-","25-11-0",0.694
+"27",1997,"Denise Udelhofen","-","19-12-0",0.613
+"28",1996,"Denise Udelhofen","-","18-23-0",0.439
+"29",1995,"Denise Udelhofen","-","19-20-0",0.487
+"30",1994,"Denise Udelhofen","-","22-18-0",0.55
+"31",1993,"Denise Udelhofen","-","15-10-0",0.6
+"32",1992,"Denise Udelhofen","-","13-20-0",0.394
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1981,"","-","0-0-0",NA
+"39",2024,"Ashley Winter","American Rivers","12-6-0",0.667

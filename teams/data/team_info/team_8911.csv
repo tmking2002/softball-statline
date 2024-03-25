@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","James Flegel","NACC","14-26-0","0.350"
-"2","2022","James Flegel","NACC","10-25-0","0.286"
-"3","2021","James Flegel","NACC","15-23-0","0.395"
-"4","2020","James Flegel","NACC","5-5-0","0.500"
-"5","2019","Bill Curtis","NACC","23-17-0","0.575"
-"6","2018","Bill Curtis","NACC","17-21-0","0.447"
-"7","2017","Bill Curtis","NACC","15-25-0","0.375"
-"8","2016","Bill Curtis","NACC","21-19-0","0.525"
-"9","2015","Bill Curtis","NACC","12-27-0","0.308"
-"10","2014","Bill Curtis","NACC","27-16-0","0.628"
-"11","2013","Bill Curtis","NACC","19-19-0","0.500"
-"12","2012","Bill Curtis","NACC","13-27-0","0.325"
-"13","2011","Rachel Kuehl","NACC","12-24-0","0.333"
-"14","2010","Rachel Kuehl","NACC","11-25-0","0.306"
-"15","2009","Rachel Kuehl","NACC","10-22-0","0.312"
-"16","2008","Rachel Kuehl","NACC","19-17-0","0.528"
-"17","2007","Rachel Kuehl","NACC","12-21-0","0.364"
-"18","2006","Rachel Kuehl","NACC","15-22-0","0.405"
-"19","2005","Rachel Kuehl","Lake Michigan","17-18-0","0.486"
-"20","2004","Rachel Kuehl","Lake Michigan","7-20-0","0.259"
-"21","2003","Rachel Kuehl","-","10-19-0","0.345"
-"22","2002","Julie Detjen","Lake Michigan","9-40-0","0.184"
-"23","2001","Julie Detjen","-","3-32-0","0.086"
-"24","2000","Julie Detjen","-","0-31-0","0.000"
-"25","1999","Rachel Kuehl","-","6-18-0","0.250"
-"26","1998","Paul Knueppel","-","3-19-0","0.136"
-"27","1997","Thad Jahns","-","0-21-0","0.000"
-"28","1996","Thad Jahns","-","2-16-0","0.111"
-"29","1995","Thad Jahns","-","13-8-0","0.619"
-"30","1994","Brian Volkman","-","13-23-0","0.361"
-"31","1993","Kole Knueppel","-","9-12-0","0.429"
-"32","1992","Paul Knueppel","-","7-8-0","0.467"
-"33","1991","Paul Knueppel","-","4-16-0","0.200"
-"34","1990","Paul Knueppel","-","9-15-0","0.375"
-"35","1989","Paul Knueppel","-","7-17-0","0.292"
-"36","1988","Paul Knueppel","-","0-0-0","  NaN"
-"37","2024","James Flegel","NACC","0-0-0","  NaN"
+"1",2023,"James Flegel","NACC","14-26-0",0.35
+"2",2022,"James Flegel","NACC","10-25-0",0.286
+"3",2021,"James Flegel","NACC","15-23-0",0.395
+"4",2020,"James Flegel","NACC","5-5-0",0.5
+"5",2019,"Bill Curtis","NACC","23-17-0",0.575
+"6",2018,"Bill Curtis","NACC","17-21-0",0.447
+"7",2017,"Bill Curtis","NACC","15-25-0",0.375
+"8",2016,"Bill Curtis","NACC","21-19-0",0.525
+"9",2015,"Bill Curtis","NACC","12-27-0",0.308
+"10",2014,"Bill Curtis","NACC","27-16-0",0.628
+"11",2013,"Bill Curtis","NACC","19-19-0",0.5
+"12",2012,"Bill Curtis","NACC","13-27-0",0.325
+"13",2011,"Rachel Kuehl","NACC","12-24-0",0.333
+"14",2010,"Rachel Kuehl","NACC","11-25-0",0.306
+"15",2009,"Rachel Kuehl","NACC","10-22-0",0.312
+"16",2008,"Rachel Kuehl","NACC","19-17-0",0.528
+"17",2007,"Rachel Kuehl","NACC","12-21-0",0.364
+"18",2006,"Rachel Kuehl","NACC","15-22-0",0.405
+"19",2005,"Rachel Kuehl","Lake Michigan","17-18-0",0.486
+"20",2004,"Rachel Kuehl","Lake Michigan","7-20-0",0.259
+"21",2003,"Rachel Kuehl","-","10-19-0",0.345
+"22",2002,"Julie Detjen","Lake Michigan","9-40-0",0.184
+"23",2001,"Julie Detjen","-","3-32-0",0.086
+"24",2000,"Julie Detjen","-","0-31-0",0
+"25",1999,"Rachel Kuehl","-","6-18-0",0.25
+"26",1998,"Paul Knueppel","-","3-19-0",0.136
+"27",1997,"Thad Jahns","-","0-21-0",0
+"28",1996,"Thad Jahns","-","2-16-0",0.111
+"29",1995,"Thad Jahns","-","13-8-0",0.619
+"30",1994,"Brian Volkman","-","13-23-0",0.361
+"31",1993,"Kole Knueppel","-","9-12-0",0.429
+"32",1992,"Paul Knueppel","-","7-8-0",0.467
+"33",1991,"Paul Knueppel","-","4-16-0",0.2
+"34",1990,"Paul Knueppel","-","9-15-0",0.375
+"35",1989,"Paul Knueppel","-","7-17-0",0.292
+"36",1988,"Paul Knueppel","-","0-0-0",NA
+"37",2024,"James Flegel","NACC","3-9-0",0.25

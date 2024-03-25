@@ -1,37 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Tom Pennino","Skyline","12-17-0","0.414"
-"2","2022","Tom Pennino","Skyline","9-21-0","0.300"
-"3","2021","Tom Pennino","Skyline","5-13-0","0.278"
-"4","2020","Tom Pennino","Skyline","0-0-0","  NaN"
-"5","2019","Rich Borawski (7-6)Anthony Vertuccio (2-12)","Skyline","9-18-0","0.333"
-"6","2018","Rich Borawski","Skyline","14-13-0","0.519"
-"7","2017","Kathy Morrell","Skyline","12-15-0","0.444"
-"8","2016","Mary Jo Fazio","Skyline","10-14-0","0.417"
-"9","2015","Mary Jo Fazio","Skyline","8-24-0","0.250"
-"10","2014","Mary Jo Fazio","Skyline","11-16-0","0.407"
-"11","2013","Mary Jo Fazio","Skyline","19-18-0","0.514"
-"12","2012","Mary Jo Fazio","Skyline","26-19-0","0.578"
-"13","2011","Mary Jo Fazio","Skyline","20-12-0","0.625"
-"14","2010","Mary Jo Fazio","Skyline","20-19-0","0.513"
-"15","2009","Mary Jo Fazio","Skyline","22-14-0","0.611"
-"16","2008","Mary Jo Fazio","Skyline","15-16-0","0.484"
-"17","2007","Mary Jo Fazio","Skyline","8-22-0","0.267"
-"18","2006","Brian Simmons","Skyline","14-16-0","0.467"
-"19","2005","Keri-Anne Boller","Skyline","2-19-0","0.095"
-"20","2004","Keri-Anne Boller","Skyline","7-19-0","0.269"
-"21","2003","Keri-Anne Boller","Skyline","11-17-0","0.393"
-"22","2002","Keri-Anne Boller","Skyline","1-22-0","0.043"
-"23","2001","Sam Prioleau","-","7-9-0","0.438"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","James Vlahakis","-","17-15-0","0.531"
-"31","1993","James Vlahakis","-","14-1-0","0.933"
-"32","1992","Dori Breen","-","5-7-0","0.417"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1983","","-","0-0-0","  NaN"
-"36","2024","Tom Pennino","Skyline","0-0-0","  NaN"
+"1",2023,"Tom Pennino","Skyline","12-17-0",0.414
+"2",2022,"Tom Pennino","Skyline","9-21-0",0.3
+"3",2021,"Tom Pennino","Skyline","5-13-0",0.278
+"4",2020,"Tom Pennino","Skyline","0-0-0",NA
+"5",2019,"Rich Borawski (7-6)Anthony Vertuccio (2-12)","Skyline","9-18-0",0.333
+"6",2018,"Rich Borawski","Skyline","14-13-0",0.519
+"7",2017,"Kathy Morrell","Skyline","12-15-0",0.444
+"8",2016,"Mary Jo Fazio","Skyline","10-14-0",0.417
+"9",2015,"Mary Jo Fazio","Skyline","8-24-0",0.25
+"10",2014,"Mary Jo Fazio","Skyline","11-16-0",0.407
+"11",2013,"Mary Jo Fazio","Skyline","19-18-0",0.514
+"12",2012,"Mary Jo Fazio","Skyline","26-19-0",0.578
+"13",2011,"Mary Jo Fazio","Skyline","20-12-0",0.625
+"14",2010,"Mary Jo Fazio","Skyline","20-19-0",0.513
+"15",2009,"Mary Jo Fazio","Skyline","22-14-0",0.611
+"16",2008,"Mary Jo Fazio","Skyline","15-16-0",0.484
+"17",2007,"Mary Jo Fazio","Skyline","8-22-0",0.267
+"18",2006,"Brian Simmons","Skyline","14-16-0",0.467
+"19",2005,"Keri-Anne Boller","Skyline","2-19-0",0.095
+"20",2004,"Keri-Anne Boller","Skyline","7-19-0",0.269
+"21",2003,"Keri-Anne Boller","Skyline","11-17-0",0.393
+"22",2002,"Keri-Anne Boller","Skyline","1-22-0",0.043
+"23",2001,"Sam Prioleau","-","7-9-0",0.438
+"24",2000,"","-","0-0-0",NA
+"25",1999,"","-","0-0-0",NA
+"26",1998,"","-","0-0-0",NA
+"27",1997,"","-","0-0-0",NA
+"28",1996,"","-","0-0-0",NA
+"29",1995,"","-","0-0-0",NA
+"30",1994,"James Vlahakis","-","17-15-0",0.531
+"31",1993,"James Vlahakis","-","14-1-0",0.933
+"32",1992,"Dori Breen","-","5-7-0",0.417
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1983,"","-","0-0-0",NA
+"36",2024,"Tom Pennino","Skyline","8-3-0",0.727

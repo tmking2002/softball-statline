@@ -1,49 +1,49 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Nicole Dickson","Mountain West","19-31-0","0.380"
-"2","2022","Paula Congleton","Mountain West","26-27-0","0.491"
-"3","2021","Paula Congleton","Mountain West","10-36-0","0.217"
-"4","2020","Paula Congleton","Mountain West","11-15-0","0.423"
-"5","2019","Paula Congleton","Mountain West","12-41-0","0.226"
-"6","2018","Paula Congleton","Mountain West","14-39-0","0.264"
-"7","2017","Erica Beach","Mountain West","20-30-0","0.400"
-"8","2016","Erica Beach","Mountain West","23-27-0","0.460"
-"9","2015","Erica Beach","Mountain West","29-25-0","0.537"
-"10","2014","Erica Beach","Mountain West","16-36-0","0.308"
-"11","2013","Erica Beach","Mountain West","21-35-0","0.375"
-"12","2012","Erica Beach","Mountain West","27-25-0","0.519"
-"13","2011","Erica Beach","Mountain West","19-26-0","0.422"
-"14","2010","Ty Singleton","Mountain West","11-37-0","0.229"
-"15","2009","Ty Singleton","Mountain West","13-35-0","0.271"
-"16","2008","Ty Singleton","Mountain West","25-26-0","0.490"
-"17","2007","Ty Singleton","Mountain West","20-25-0","0.444"
-"18","2006","Kim Newbern","Mountain West","23-31-0","0.426"
-"19","2005","Kim Newbern","Mountain West","16-34-0","0.320"
-"20","2004","Kim Newbern","Mountain West","30-35-0","0.462"
-"21","2003","Kim Newbern","Mountain West","25-37-1","0.403"
-"22","2002","Susan Craig","Mountain West","18-29-1","0.383"
-"23","2001","Susan Craig","Mountain West","39-24-1","0.619"
-"24","2000","Susan Craig","Mountain West","38-18-0","0.679"
-"25","1999","Susan Craig","WAC","42-14-0","0.750"
-"26","1998","Susan Craig","-","23-40-0","0.365"
-"27","1997","Susan Craig (19-38)Ken Johnson (19-38)","WAC","19-38-0","0.333"
-"28","1996","Susan Craig (18-32)Ken Johnson (18-32)","-","18-32-0","0.360"
-"29","1995","Ken Johnson (12-36)Susan Craig (12-36)","-","12-36-0","0.250"
-"30","1994","Ken Johnson (26-22)Susan Craig (26-22)","-","26-22-0","0.542"
-"31","1993","Ken Johnson (33-21)Susan Craig (33-21)","-","33-21-0","0.611"
-"32","1992","Ken Johnson (30-21)Susan Craig (30-21)","-","30-21-0","0.588"
-"33","1991","Ken Johnson (35-19)Susan Craig (35-19)","-","35-19-0","0.648"
-"34","1990","Ken Johnson (31-19)Susan Craig (31-19)","-","31-19-0","0.620"
-"35","1989","Ken Johnson (29-17)Susan Craig (29-17)","-","29-17-0","0.630"
-"36","1988","Ken Johnson (21-22)Susan Craig (21-22)","-","21-22-0","0.488"
-"37","1987","Susan Craig","-","11-27-0","0.289"
-"38","1986","Susan Craig","-","22-15-0","0.595"
-"39","1985","Susan Craig","-","30-22-0","0.577"
-"40","1984","Susan Craig","-","28-14-0","0.667"
-"41","1983","Susan Craig","-","35-16-0","0.686"
-"42","1982","Susan Craig","-","4-22-0","0.154"
-"43","1981","Susan Craig","-","34-19-0","0.642"
-"44","1980","Susan Craig","-","30-20-0","0.600"
-"45","1979","Susan Craig","-","22-26-0","0.458"
-"46","1978","Susan Craig","-","20-19-0","0.513"
-"47","1977","Susan Craig","-","25-14-0","0.641"
-"48","2024","Nicole Dickson","Mountain West","0-0-0","  NaN"
+"1",2023,"Nicole Dickson","Mountain West","19-31-0",0.38
+"2",2022,"Paula Congleton","Mountain West","26-27-0",0.491
+"3",2021,"Paula Congleton","Mountain West","10-36-0",0.217
+"4",2020,"Paula Congleton","Mountain West","11-15-0",0.423
+"5",2019,"Paula Congleton","Mountain West","12-41-0",0.226
+"6",2018,"Paula Congleton","Mountain West","14-39-0",0.264
+"7",2017,"Erica Beach","Mountain West","20-30-0",0.4
+"8",2016,"Erica Beach","Mountain West","23-27-0",0.46
+"9",2015,"Erica Beach","Mountain West","29-25-0",0.537
+"10",2014,"Erica Beach","Mountain West","16-36-0",0.308
+"11",2013,"Erica Beach","Mountain West","21-35-0",0.375
+"12",2012,"Erica Beach","Mountain West","27-25-0",0.519
+"13",2011,"Erica Beach","Mountain West","19-26-0",0.422
+"14",2010,"Ty Singleton","Mountain West","11-37-0",0.229
+"15",2009,"Ty Singleton","Mountain West","13-35-0",0.271
+"16",2008,"Ty Singleton","Mountain West","25-26-0",0.49
+"17",2007,"Ty Singleton","Mountain West","20-25-0",0.444
+"18",2006,"Kim Newbern","Mountain West","23-31-0",0.426
+"19",2005,"Kim Newbern","Mountain West","16-34-0",0.32
+"20",2004,"Kim Newbern","Mountain West","30-35-0",0.462
+"21",2003,"Kim Newbern","Mountain West","25-37-1",0.403
+"22",2002,"Susan Craig","Mountain West","18-29-1",0.383
+"23",2001,"Susan Craig","Mountain West","39-24-1",0.619
+"24",2000,"Susan Craig","Mountain West","38-18-0",0.679
+"25",1999,"Susan Craig","WAC","42-14-0",0.75
+"26",1998,"Susan Craig","-","23-40-0",0.365
+"27",1997,"Susan Craig (19-38)Ken Johnson (19-38)","WAC","19-38-0",0.333
+"28",1996,"Susan Craig (18-32)Ken Johnson (18-32)","-","18-32-0",0.36
+"29",1995,"Ken Johnson (12-36)Susan Craig (12-36)","-","12-36-0",0.25
+"30",1994,"Ken Johnson (26-22)Susan Craig (26-22)","-","26-22-0",0.542
+"31",1993,"Ken Johnson (33-21)Susan Craig (33-21)","-","33-21-0",0.611
+"32",1992,"Ken Johnson (30-21)Susan Craig (30-21)","-","30-21-0",0.588
+"33",1991,"Ken Johnson (35-19)Susan Craig (35-19)","-","35-19-0",0.648
+"34",1990,"Ken Johnson (31-19)Susan Craig (31-19)","-","31-19-0",0.62
+"35",1989,"Ken Johnson (29-17)Susan Craig (29-17)","-","29-17-0",0.63
+"36",1988,"Ken Johnson (21-22)Susan Craig (21-22)","-","21-22-0",0.488
+"37",1987,"Susan Craig","-","11-27-0",0.289
+"38",1986,"Susan Craig","-","22-15-0",0.595
+"39",1985,"Susan Craig","-","30-22-0",0.577
+"40",1984,"Susan Craig","-","28-14-0",0.667
+"41",1983,"Susan Craig","-","35-16-0",0.686
+"42",1982,"Susan Craig","-","4-22-0",0.154
+"43",1981,"Susan Craig","-","34-19-0",0.642
+"44",1980,"Susan Craig","-","30-20-0",0.6
+"45",1979,"Susan Craig","-","22-26-0",0.458
+"46",1978,"Susan Craig","-","20-19-0",0.513
+"47",1977,"Susan Craig","-","25-14-0",0.641
+"48",2024,"Nicole Dickson","Mountain West","10-25-0",0.286
