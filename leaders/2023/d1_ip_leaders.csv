@@ -5,8 +5,8 @@
 "4",609,74667,4,"Chloe Wendling",226.1
 "5",458,27391,5,"Sam Gress",225.2
 "6",428,54020,6,"Autumn Pease",213
-"7",463,73460,7,"Courtney Wallace",211.3
-"8",388,50637,7,"Sydney Nester",211.3
+"7",463,73460,7,"Courtney Wallace",212
+"8",388,50637,8,"Sydney Nester",211.3
 "9",37,54286,9,"Maddie Penta",211
 "10",127,75275,10,"Kaylee Whittaker",208.1
 "11",8,23091,11,"Montana Fouts",204.3
@@ -21,7 +21,7 @@
 "20",1004,4329,19,"Kayla Beaver",197.2
 "21",97,68469,21,"Myka Sutherlin",196.2
 "22",772,24609,22,"Katie Gardner",195
-"23",418,17448,23,"Lauren Derkowski",191.3
+"23",418,17448,23,"Lauren Derkowski",192
 "24",147,9801,24,"Valerie Cagle",191.2
 "25",249,10329,25,"Rose Cano",188.1
 "26",10411,36550,26,"Alyssa Kelly",188
@@ -61,7 +61,7 @@
 "60",678,31828,60,"Lauren Hobbs",170.1
 "61",1356,42987,61,"Stefanie Madrigal",169
 "62",683,30118,62,"Mia Haynes",168.1
-"63",817,32978,63,"Sophie Howell",167.3
+"63",817,32978,63,"Sophie Howell",168
 "64",514,10200,64,"Sydney Campbell",167.2
 "65",77,38230,65,"Kaysen Korth",167.1
 "66",504,31241,65,"Samantha Heyer",167.1
@@ -77,8 +77,8 @@
 "76",110,21342,76,"Megan Faraimo",163.1
 "77",756,47278,77,"Ruby Meylan",162.3
 "78",72,23497,78,"Grace French",162.1
-"79",2711,13746,79,"Ashley Connor",161.3
-"80",31,17034,79,"Chenise Delce",161.3
+"79",2711,13746,79,"Ashley Connor",162
+"80",31,17034,80,"Chenise Delce",161.3
 "81",539,53556,81,"Bailey Parshall",161
 "82",509,75697,82,"Danielle Williams",159.3
 "83",257,73648,83,"Shelby Walters",159.1
@@ -97,6 +97,6 @@
 "96",10411,18915,94,"Maddie Drerup",154.2
 "97",676,24060,97,"Brooke Gainous",154.1
 "98",646,29180,97,"Jenna Hardy",154.1
-"99",67,19373,99,"Abby Dunning",153.3
-"100",316,75205,99,"Emma Whitfield",153.3
-"101",191,62371,99,"Jessica Schable",153.3
+"99",191,62371,99,"Jessica Schable",154
+"100",67,19373,100,"Abby Dunning",153.3
+"101",316,75205,100,"Emma Whitfield",153.3

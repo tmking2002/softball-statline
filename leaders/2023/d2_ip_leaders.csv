@@ -1,7 +1,7 @@
 "","team_id","player_id","rank","player","ip"
-"1",309,65665,1,"Kenzee Smith",237.3
-"2",30028,26054,1,"Tatum Goff",237.3
-"3",3,31257,3,"Lindsey Hibbs",225.3
+"1",309,65665,1,"Kenzee Smith",238
+"2",30028,26054,2,"Tatum Goff",237.3
+"3",3,31257,3,"Lindsey Hibbs",226
 "4",734,58592,4,"Samantha Richards",212.3
 "5",30202,35503,5,"Kayleigh Jones",210.3
 "6",65,66341,6,"Callie Sowers",206.1
@@ -47,9 +47,9 @@
 "46",23157,75833,46,"Riley Williams",160.2
 "47",11416,62121,47,"Hannah Sattler",160.1
 "48",427,18227,48,"Lauren Dixon",160
-"49",30126,22237,49,"Grace Fisher",159.3
-"50",383,2090,49,"McKayla Armbruster",159.3
-"51",30177,23249,49,"Taylor Franco",159.3
+"49",383,2090,48,"McKayla Armbruster",160
+"50",30126,22237,50,"Grace Fisher",159.3
+"51",30177,23249,50,"Taylor Franco",159.3
 "52",30058,34179,52,"Jaelyn Jackson",159
 "53",598,35817,53,"Trinity Junker",158.2
 "54",30055,24877,54,"Cassie Gasper",158
@@ -61,7 +61,7 @@
 "60",30138,56765,60,"Ellie Quaethem",155.1
 "61",92,52095,61,"Alyssa Olague",154.1
 "62",9630,33141,61,"Hannah Hudson",154.1
-"63",1334,15546,63,"Cadie Currie",153.3
+"63",1334,15546,63,"Cadie Currie",154
 "64",11276,3061,64,"Payton Baker",153.2
 "65",584,42868,65,"Emily MacMullen",153.1
 "66",408,31619,65,"Morgan Hilty",153.1
@@ -89,7 +89,7 @@
 "88",658,54631,88,"Jessica Perucki",145.1
 "89",243,69587,88,"Sydney Theobald",145.1
 "90",1348,39374,90,"Abbie Landrum",145
-"91",568,29320,91,"Kylie Harpman",144.3
+"91",568,29320,90,"Kylie Harpman",145
 "92",49,3652,92,"Maci Barnhart",144.1
 "93",30126,74434,93,"Allison Weilnau",143.3
 "94",30193,20005,93,"Maddie Edwards",143.3
