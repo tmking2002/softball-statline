@@ -41,6 +41,8 @@ jobs:
         run: Rscript leaders/get_leaders.R
       - name: Get Team Info
         run: Rscript teams/get_team_info.R
+      - name: Get rankings
+        run: Rscript rankings/get_rankings.R
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
