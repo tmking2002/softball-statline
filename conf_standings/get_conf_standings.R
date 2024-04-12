@@ -14,7 +14,8 @@ team_ids <- read_csv("teams/data/all_teams.csv") %>%
 
 conferences <- info %>%
   filter(season == cur_season & division == "D-I") %>%
-  distinct(team_name, conference)
+  distinct(team_name, conference) %>% 
+  mutate(conference = ifelse(conference == "CUSA", "C-USA", conference))
 
 conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
   filter(home_team != away_team) %>% 
