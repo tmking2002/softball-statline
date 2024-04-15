@@ -14,7 +14,9 @@ get_current_rpi <- function(scoreboard){
     mutate(win = case_when(runs > opponent_runs ~ 1,
                            runs < opponent_runs ~ 0,
                            runs == opponent_runs ~ 0.5)) %>%
-    drop_na(team_name, opponent_name, runs, opponent_runs)
+    drop_na(team_name, opponent_name, runs, opponent_runs) %>% 
+    mutate(team_name = str_replace(team_name, "&amp;", "&"),
+           team_name = str_replace(team_name, "&#39;", "'"))
   
   win_perc <- scoreboard_upd %>%
     group_by(team_name) %>%
