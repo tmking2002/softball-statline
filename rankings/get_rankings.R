@@ -63,7 +63,7 @@ get_current_rpi <- function(scoreboard){
   rpi <- scoreboard_upd_3 %>%
     drop_na() %>% 
     group_by(team_name) %>%
-    summarise(rpi_coef = (.5 * mean(win_perc) + .25 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
+    summarise(rpi_coef = (.25 * mean(win_perc) + .5 * mean(opponent_win_perc) + .25 * mean(opponent_opponent_win_perc)),
               record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-"),
               games = n()) %>%
     ungroup() %>%
