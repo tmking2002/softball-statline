@@ -1,36 +1,36 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Sarah Woodside","Great Northeast","28-16-1",0.636
-"2",2022,"Sarah Woodside","Great Northeast","14-22-0",0.389
-"3",2021,"Sarah Woodside","Great Northeast","8-13-0",0.381
-"4",2020,"Sarah Woodside","Great Northeast","0-2-0",0
-"5",2019,"Rich Paulhus","Great Northeast","8-29-0",0.216
-"6",2018,"Rich Paulhus","Great Northeast","11-26-0",0.297
-"7",2017,"Rich Paulhus","Great Northeast","6-30-0",0.167
-"8",2016,"Rich Paulhus","Great Northeast","10-26-0",0.278
-"9",2015,"Rich Paulhus","Great Northeast","9-25-0",0.265
-"10",2014,"Lacy Gillotti","Great Northeast","14-22-0",0.389
-"11",2013,"Lindsay DeStefano","Great Northeast","10-26-0",0.278
-"12",2012,"Tom DeFilippo","Great Northeast","10-30-0",0.25
-"13",2011,"Tom DeFilippo","Great Northeast","11-28-0",0.282
-"14",2010,"Tom DeFilippo","Great Northeast","19-20-1",0.487
-"15",2009,"Tom DeFilippo","Great Northeast","21-19-0",0.525
-"16",2008,"Tom DeFilippo","Great Northeast","19-20-0",0.487
-"17",2007,"Tom DeFilippo","North Atlantic","27-14-0",0.659
-"18",2006,"","North Atlantic","23-17-0",0.575
-"19",2005,"","North Atlantic","24-9-0",0.727
-"20",2004,"","North Atlantic","20-16-0",0.556
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"Bob McKinley","-","16-21-0",0.432
-"24",2000,"Bob McKinley","-","18-16-0",0.529
-"25",1999,"Bob McKinley","-","7-10-0",0.412
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"Cindy McKnight","-","5-15-0",0.25
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Paul Gray","Great Northeast","20-13-1",0.606
+"1","2023","Sarah Woodside","Great Northeast","28-16-1","0.636"
+"2","2022","Sarah Woodside","Great Northeast","14-22-0","0.389"
+"3","2021","Sarah Woodside","Great Northeast","8-13-0","0.381"
+"4","2020","Sarah Woodside","Great Northeast","0-2-0","0.000"
+"5","2019","Rich Paulhus","Great Northeast","8-29-0","0.216"
+"6","2018","Rich Paulhus","Great Northeast","11-26-0","0.297"
+"7","2017","Rich Paulhus","Great Northeast","6-30-0","0.167"
+"8","2016","Rich Paulhus","Great Northeast","10-26-0","0.278"
+"9","2015","Rich Paulhus","Great Northeast","9-25-0","0.265"
+"10","2014","Lacy Gillotti","Great Northeast","14-22-0","0.389"
+"11","2013","Lindsay DeStefano","Great Northeast","10-26-0","0.278"
+"12","2012","Tom DeFilippo","Great Northeast","10-30-0","0.250"
+"13","2011","Tom DeFilippo","Great Northeast","11-28-0","0.282"
+"14","2010","Tom DeFilippo","Great Northeast","19-20-1","0.487"
+"15","2009","Tom DeFilippo","Great Northeast","21-19-0","0.525"
+"16","2008","Tom DeFilippo","Great Northeast","19-20-0","0.487"
+"17","2007","Tom DeFilippo","North Atlantic","27-14-0","0.659"
+"18","2006","","North Atlantic","23-17-0","0.575"
+"19","2005","","North Atlantic","24-9-0","0.727"
+"20","2004","","North Atlantic","20-16-0","0.556"
+"21","2003","","-","0-0-0","  NaN"
+"22","2002","","-","0-0-0","  NaN"
+"23","2001","Bob McKinley","-","16-21-0","0.432"
+"24","2000","Bob McKinley","-","18-16-0","0.529"
+"25","1999","Bob McKinley","-","7-10-0","0.412"
+"26","1998","","-","0-0-0","  NaN"
+"27","1997","","-","0-0-0","  NaN"
+"28","1996","","-","0-0-0","  NaN"
+"29","1995","","-","0-0-0","  NaN"
+"30","1994","","-","0-0-0","  NaN"
+"31","1993","","-","0-0-0","  NaN"
+"32","1992","Cindy McKnight","-","5-15-0","0.250"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","2024","Paul Gray","Great Northeast","0-0-0","  NaN"

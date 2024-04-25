@@ -1,45 +1,45 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Jamie Lachall","MAC Commonwealth","16-23-0",0.41
-"2",2022,"Fred Dohrmann","MAC Commonwealth","20-16-0",0.556
-"3",2021,"Fred Dohrmann","MAC Commonwealth","13-18-0",0.419
-"4",2020,"Fred Dohrmann","MAC Commonwealth","6-2-0",0.75
-"5",2019,"Fred Dohrmann","MAC Commonwealth","27-16-0",0.628
-"6",2018,"Fred Dohrmann","MAC Commonwealth","13-15-0",0.464
-"7",2017,"Fred Dohrmann","MAC Commonwealth","28-13-0",0.683
-"8",2016,"Fred Dohrmann","MAC Commonwealth","31-11-0",0.738
-"9",2015,"Fred Dohrmann","MAC Commonwealth","25-9-0",0.735
-"10",2014,"Fred Dohrmann","MAC Commonwealth","21-11-0",0.656
-"11",2013,"Fred Dohrmann","MAC Commonwealth","18-20-0",0.474
-"12",2012,"Fred Dohrmann","MAC Commonwealth","22-18-0",0.55
-"13",2011,"Fred Dohrmann","MAC Commonwealth","14-20-0",0.412
-"14",2010,"Fred Dohrmann","MAC Commonwealth","27-15-0",0.643
-"15",2009,"Fred Dohrmann","MAC Commonwealth","24-18-0",0.571
-"16",2008,"Fred Dohrmann","MAC Commonwealth","30-12-0",0.714
-"17",2007,"Fred Dohrmann","MAC Commonwealth","23-15-0",0.605
-"18",2006,"Fred Dohrmann","MAC Commonwealth","19-17-0",0.528
-"19",2005,"Fred Dohrmann","MAC Commonwealth","10-29-0",0.256
-"20",2004,"Fred Dohrmann","MAC Commonwealth","23-14-0",0.622
-"21",2003,"Fred Dohrmann","MAC Commonwealth","21-13-0",0.618
-"22",2002,"Fred Dohrmann","MAC Commonwealth","14-21-0",0.4
-"23",2001,"Fred Dohrmann","-","17-18-0",0.486
-"24",2000,"Fred Dohrmann","-","18-14-0",0.562
-"25",1999,"Fred Dohrmann","-","13-17-0",0.433
-"26",1998,"Fred Dohrmann","-","23-10-0",0.697
-"27",1997,"Fred Dohrmann","-","19-16-0",0.543
-"28",1996,"Fred Dohrmann","-","20-13-0",0.606
-"29",1995,"Fred Dohrmann","-","25-9-0",0.735
-"30",1994,"Fred Dohrmann","-","16-16-0",0.5
-"31",1993,"Fred Dohrmann","-","13-13-0",0.5
-"32",1992,"Fred Dohrmann","-","19-9-0",0.679
-"33",1991,"Fred Dohrmann","-","18-10-0",0.643
-"34",1990,"Fred Dohrmann","-","16-10-0",0.615
-"35",1989,"Fred Dohrmann","-","13-12-0",0.52
-"36",1988,"Fred Dohrmann","-","6-12-0",0.333
-"37",1987,"Fred Dohrmann","-","4-11-0",0.267
-"38",1986,"Fred Dohrmann","-","5-15-0",0.25
-"39",1985,"Fred Dohrmann","-","5-15-0",0.25
-"40",1984,"Fred Dohrmann","-","3-9-0",0.25
-"41",1983,"Fred Dohrmann","-","8-7-0",0.533
-"42",1982,"","-","0-0-0",NA
-"43",1981,"Fred Dohrmann","-","7-7-0",0.5
-"44",2024,"Jamie Lachall","MAC Commonwealth","12-16-0",0.429
+"1","2023","Jamie Lachall","MAC Commonwealth","16-23-0","0.410"
+"2","2022","Fred Dohrmann","MAC Commonwealth","20-16-0","0.556"
+"3","2021","Fred Dohrmann","MAC Commonwealth","13-18-0","0.419"
+"4","2020","Fred Dohrmann","MAC Commonwealth","6-2-0","0.750"
+"5","2019","Fred Dohrmann","MAC Commonwealth","27-16-0","0.628"
+"6","2018","Fred Dohrmann","MAC Commonwealth","13-15-0","0.464"
+"7","2017","Fred Dohrmann","MAC Commonwealth","28-13-0","0.683"
+"8","2016","Fred Dohrmann","MAC Commonwealth","31-11-0","0.738"
+"9","2015","Fred Dohrmann","MAC Commonwealth","25-9-0","0.735"
+"10","2014","Fred Dohrmann","MAC Commonwealth","21-11-0","0.656"
+"11","2013","Fred Dohrmann","MAC Commonwealth","18-20-0","0.474"
+"12","2012","Fred Dohrmann","MAC Commonwealth","22-18-0","0.550"
+"13","2011","Fred Dohrmann","MAC Commonwealth","14-20-0","0.412"
+"14","2010","Fred Dohrmann","MAC Commonwealth","27-15-0","0.643"
+"15","2009","Fred Dohrmann","MAC Commonwealth","24-18-0","0.571"
+"16","2008","Fred Dohrmann","MAC Commonwealth","30-12-0","0.714"
+"17","2007","Fred Dohrmann","MAC Commonwealth","23-15-0","0.605"
+"18","2006","Fred Dohrmann","MAC Commonwealth","19-17-0","0.528"
+"19","2005","Fred Dohrmann","MAC Commonwealth","10-29-0","0.256"
+"20","2004","Fred Dohrmann","MAC Commonwealth","23-14-0","0.622"
+"21","2003","Fred Dohrmann","MAC Commonwealth","21-13-0","0.618"
+"22","2002","Fred Dohrmann","MAC Commonwealth","14-21-0","0.400"
+"23","2001","Fred Dohrmann","-","17-18-0","0.486"
+"24","2000","Fred Dohrmann","-","18-14-0","0.562"
+"25","1999","Fred Dohrmann","-","13-17-0","0.433"
+"26","1998","Fred Dohrmann","-","23-10-0","0.697"
+"27","1997","Fred Dohrmann","-","19-16-0","0.543"
+"28","1996","Fred Dohrmann","-","20-13-0","0.606"
+"29","1995","Fred Dohrmann","-","25-9-0","0.735"
+"30","1994","Fred Dohrmann","-","16-16-0","0.500"
+"31","1993","Fred Dohrmann","-","13-13-0","0.500"
+"32","1992","Fred Dohrmann","-","19-9-0","0.679"
+"33","1991","Fred Dohrmann","-","18-10-0","0.643"
+"34","1990","Fred Dohrmann","-","16-10-0","0.615"
+"35","1989","Fred Dohrmann","-","13-12-0","0.520"
+"36","1988","Fred Dohrmann","-","6-12-0","0.333"
+"37","1987","Fred Dohrmann","-","4-11-0","0.267"
+"38","1986","Fred Dohrmann","-","5-15-0","0.250"
+"39","1985","Fred Dohrmann","-","5-15-0","0.250"
+"40","1984","Fred Dohrmann","-","3-9-0","0.250"
+"41","1983","Fred Dohrmann","-","8-7-0","0.533"
+"42","1982","","-","0-0-0","  NaN"
+"43","1981","Fred Dohrmann","-","7-7-0","0.500"
+"44","2024","Jamie Lachall","MAC Commonwealth","0-0-0","  NaN"

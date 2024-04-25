@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Jamie Stefani","MAC Freedom","8-28-1",0.222
-"2",2022,"Jamie Stefani","MAC Freedom","11-28-0",0.282
-"3",2021,"Jamie Stefani","MAC Freedom","3-22-0",0.12
-"4",2020,"Jamie Stefani","MAC Freedom","1-9-0",0.1
-"5",2019,"Kaitlyn Cooper","MAC Freedom","11-25-0",0.306
-"6",2018,"Maggie Kichler (5-3)Matt Levy (1-1)Kaitlyn Cooper (8-14)","MAC Freedom","14-18-0",0.438
-"7",2017,"Maggie Kichler","MAC Freedom","9-16-0",0.36
-"8",2016,"Corey Heulitt","MAC Freedom","15-16-0",0.484
-"9",2015,"Corey Heulitt","MAC Freedom","3-25-0",0.107
-"10",2014,"Corey Heulitt","MAC Freedom","3-29-0",0.094
-"11",2013,"Richard Matarese","MAC Freedom","11-25-0",0.306
-"12",2012,"Richard Matarese","MAC Freedom","16-17-0",0.485
-"13",2011,"Richard Matarese","MAC Freedom","11-21-0",0.344
-"14",2010,"Richard Matarese","MAC Freedom","15-16-0",0.484
-"15",2009,"Richard Matarese","MAC Freedom","14-16-0",0.467
-"16",2008,"Richard Matarese","MAC Freedom","18-19-0",0.486
-"17",2007,"Richard Matarese","MAC Freedom","16-14-0",0.533
-"18",2006,"Richard Matarese","MAC Freedom","15-20-0",0.429
-"19",2005,"Richard Matarese","MAC Freedom","14-23-0",0.378
-"20",2004,"Richard Matarese","MAC Freedom","8-25-0",0.242
-"21",2003,"Tom Wuerstle","MAC Freedom","7-19-0",0.269
-"22",2002,"Tom Wuerstle","MAC Freedom","11-25-0",0.306
-"23",2001,"Tom Wuerstle","-","2-21-0",0.087
-"24",2000,"Tom Wuerstle","-","3-23-0",0.115
-"25",1999,"Linda Fleischer","-","2-23-0",0.08
-"26",1998,"Linda Fleischer","-","5-24-0",0.172
-"27",1997,"Linda Fleischer","-","6-25-0",0.194
-"28",1996,"Linda Fleischer","-","12-16-1",0.429
-"29",1995,"Linda Fleischer","-","17-13-0",0.567
-"30",1994,"Linda Fleischer","-","11-19-0",0.367
-"31",1993,"Linda Fleischer","-","12-13-0",0.48
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1987,"","-","0-0-0",NA
-"36",1985,"","-","0-0-0",NA
-"37",1983,"","-","0-0-0",NA
-"38",2024,"Jamie Stefani","MAC Freedom","15-16-0",0.484
+"1","2023","Jamie Stefani","MAC Freedom","8-28-1","0.222"
+"2","2022","Jamie Stefani","MAC Freedom","11-28-0","0.282"
+"3","2021","Jamie Stefani","MAC Freedom","3-22-0","0.120"
+"4","2020","Jamie Stefani","MAC Freedom","1-9-0","0.100"
+"5","2019","Kaitlyn Cooper","MAC Freedom","11-25-0","0.306"
+"6","2018","Maggie Kichler (5-3)Matt Levy (1-1)Kaitlyn Cooper (8-14)","MAC Freedom","14-18-0","0.438"
+"7","2017","Maggie Kichler","MAC Freedom","9-16-0","0.360"
+"8","2016","Corey Heulitt","MAC Freedom","15-16-0","0.484"
+"9","2015","Corey Heulitt","MAC Freedom","3-25-0","0.107"
+"10","2014","Corey Heulitt","MAC Freedom","3-29-0","0.094"
+"11","2013","Richard Matarese","MAC Freedom","11-25-0","0.306"
+"12","2012","Richard Matarese","MAC Freedom","16-17-0","0.485"
+"13","2011","Richard Matarese","MAC Freedom","11-21-0","0.344"
+"14","2010","Richard Matarese","MAC Freedom","15-16-0","0.484"
+"15","2009","Richard Matarese","MAC Freedom","14-16-0","0.467"
+"16","2008","Richard Matarese","MAC Freedom","18-19-0","0.486"
+"17","2007","Richard Matarese","MAC Freedom","16-14-0","0.533"
+"18","2006","Richard Matarese","MAC Freedom","15-20-0","0.429"
+"19","2005","Richard Matarese","MAC Freedom","14-23-0","0.378"
+"20","2004","Richard Matarese","MAC Freedom","8-25-0","0.242"
+"21","2003","Tom Wuerstle","MAC Freedom","7-19-0","0.269"
+"22","2002","Tom Wuerstle","MAC Freedom","11-25-0","0.306"
+"23","2001","Tom Wuerstle","-","2-21-0","0.087"
+"24","2000","Tom Wuerstle","-","3-23-0","0.115"
+"25","1999","Linda Fleischer","-","2-23-0","0.080"
+"26","1998","Linda Fleischer","-","5-24-0","0.172"
+"27","1997","Linda Fleischer","-","6-25-0","0.194"
+"28","1996","Linda Fleischer","-","12-16-1","0.429"
+"29","1995","Linda Fleischer","-","17-13-0","0.567"
+"30","1994","Linda Fleischer","-","11-19-0","0.367"
+"31","1993","Linda Fleischer","-","12-13-0","0.480"
+"32","1992","","-","0-0-0","  NaN"
+"33","1991","","-","0-0-0","  NaN"
+"34","1990","","-","0-0-0","  NaN"
+"35","1987","","-","0-0-0","  NaN"
+"36","1985","","-","0-0-0","  NaN"
+"37","1983","","-","0-0-0","  NaN"
+"38","2024","Jamie Stefani","MAC Freedom","0-0-0","  NaN"

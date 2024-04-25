@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Shelli Sarchett","CCAA","26-27-0",0.491
-"2",2022,"Shelli Sarchett","CCAA","14-39-0",0.264
-"3",2021,"Shelli Sarchett","CCAA","8-7-0",0.533
-"4",2020,"Shelli Sarchett","CCAA","7-16-0",0.304
-"5",2019,"Shelli Sarchett","CCAA","21-29-0",0.42
-"6",2018,"Shelli Sarchett","CCAA","20-26-0",0.435
-"7",2017,"Shelli Sarchett","CCAA","44-15-0",0.746
-"8",2016,"Shelli Sarchett","CCAA","54-8-1",0.871
-"9",2015,"Shelli Sarchett","CCAA","42-19-0",0.689
-"10",2014,"Shelli Sarchett","CCAA","45-16-0",0.738
-"11",2013,"Frank Cheek","CCAA","53-14-0",0.791
-"12",2012,"Frank Cheek","CCAA","18-37-0",0.327
-"13",2011,"Frank Cheek","CCAA","27-24-0",0.529
-"14",2010,"Frank Cheek","CCAA","32-23-0",0.582
-"15",2009,"Frank Cheek","CCAA","38-20-0",0.655
-"16",2008,"Frank Cheek","CCAA","57-18-0",0.76
-"17",2007,"Frank Cheek","CCAA","56-8-0",0.875
-"18",2006,"Frank Cheek","Great Northwest","54-6-0",0.9
-"19",2005,"Frank Cheek","Great Northwest","60-6-0",0.909
-"20",2004,"Frank Cheek","Great Northwest","53-15-0",0.779
-"21",2003,"Frank Cheek","Great Northwest","44-19-0",0.698
-"22",2002,"Frank Cheek","Great Northwest","41-18-0",0.695
-"23",2001,"Frank Cheek","-","54-14-1",0.794
-"24",2000,"Frank Cheek","-","54-9-0",0.857
-"25",1999,"Frank Cheek","-","55-7-1",0.887
-"26",1998,"Frank Cheek","-","60-7-0",0.896
-"27",1997,"Frank Cheek","-","53-14-0",0.791
-"28",1996,"Frank Cheek","-","49-13-0",0.79
-"29",1995,"Frank Cheek","-","53-10-0",0.841
-"30",1994,"Frank Cheek","-","50-11-0",0.82
-"31",1993,"Frank Cheek","-","45-10-0",0.818
-"32",1992,"Frank Cheek","-","31-14-0",0.689
-"33",1991,"Frank Cheek","-","39-12-0",0.765
-"34",1990,"Frank Cheek","-","42-13-0",0.764
-"35",1989,"Frank Cheek","-","29-21-0",0.58
-"36",1983,"","-","0-0-0",NA
-"37",1982,"","-","0-0-0",NA
-"38",2024,"Megan Corriea","CCAA","20-18-0",0.526
+"1","2023","Shelli Sarchett","CCAA","26-27-0","0.491"
+"2","2022","Shelli Sarchett","CCAA","14-39-0","0.264"
+"3","2021","Shelli Sarchett","CCAA","8-7-0","0.533"
+"4","2020","Shelli Sarchett","CCAA","7-16-0","0.304"
+"5","2019","Shelli Sarchett","CCAA","21-29-0","0.420"
+"6","2018","Shelli Sarchett","CCAA","20-26-0","0.435"
+"7","2017","Shelli Sarchett","CCAA","44-15-0","0.746"
+"8","2016","Shelli Sarchett","CCAA","54-8-1","0.871"
+"9","2015","Shelli Sarchett","CCAA","42-19-0","0.689"
+"10","2014","Shelli Sarchett","CCAA","45-16-0","0.738"
+"11","2013","Frank Cheek","CCAA","53-14-0","0.791"
+"12","2012","Frank Cheek","CCAA","18-37-0","0.327"
+"13","2011","Frank Cheek","CCAA","27-24-0","0.529"
+"14","2010","Frank Cheek","CCAA","32-23-0","0.582"
+"15","2009","Frank Cheek","CCAA","38-20-0","0.655"
+"16","2008","Frank Cheek","CCAA","57-18-0","0.760"
+"17","2007","Frank Cheek","CCAA","56-8-0","0.875"
+"18","2006","Frank Cheek","Great Northwest","54-6-0","0.900"
+"19","2005","Frank Cheek","Great Northwest","60-6-0","0.909"
+"20","2004","Frank Cheek","Great Northwest","53-15-0","0.779"
+"21","2003","Frank Cheek","Great Northwest","44-19-0","0.698"
+"22","2002","Frank Cheek","Great Northwest","41-18-0","0.695"
+"23","2001","Frank Cheek","-","54-14-1","0.794"
+"24","2000","Frank Cheek","-","54-9-0","0.857"
+"25","1999","Frank Cheek","-","55-7-1","0.887"
+"26","1998","Frank Cheek","-","60-7-0","0.896"
+"27","1997","Frank Cheek","-","53-14-0","0.791"
+"28","1996","Frank Cheek","-","49-13-0","0.790"
+"29","1995","Frank Cheek","-","53-10-0","0.841"
+"30","1994","Frank Cheek","-","50-11-0","0.820"
+"31","1993","Frank Cheek","-","45-10-0","0.818"
+"32","1992","Frank Cheek","-","31-14-0","0.689"
+"33","1991","Frank Cheek","-","39-12-0","0.765"
+"34","1990","Frank Cheek","-","42-13-0","0.764"
+"35","1989","Frank Cheek","-","29-21-0","0.580"
+"36","1983","","-","0-0-0","  NaN"
+"37","1982","","-","0-0-0","  NaN"
+"38","2024","Megan Corriea","CCAA","2-4-0","0.333"

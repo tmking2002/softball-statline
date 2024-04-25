@@ -1,43 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2023,"Jessica Jacobson","NJAC","23-15-1",0.605
-"2",2022,"Jessica Jacobson","NJAC","16-21-0",0.432
-"3",2021,"John McClain","NJAC","10-14-0",0.417
-"4",2020,"John McClain","NJAC","0-0-0",NA
-"5",2019,"Hallie Cohen","NJAC","17-21-0",0.447
-"6",2018,"Hallie Cohen","NJAC","23-15-0",0.605
-"7",2017,"Hallie Cohen","NJAC","28-13-0",0.683
-"8",2016,"Hallie Cohen","NJAC","28-12-0",0.7
-"9",2015,"Hallie Cohen","NJAC","30-13-1",0.698
-"10",2014,"Hallie Cohen","NJAC","31-11-0",0.738
-"11",2013,"Hallie Cohen","NJAC","19-21-0",0.475
-"12",2012,"Hallie Cohen","NJAC","30-12-0",0.714
-"13",2011,"Hallie Cohen","NJAC","28-10-0",0.737
-"14",2010,"Hallie Cohen","NJAC","26-15-1",0.634
-"15",2009,"Hallie Cohen","NJAC","35-9-0",0.795
-"16",2008,"Hallie Cohen","NJAC","22-20-0",0.524
-"17",2007,"Hallie Cohen","NJAC","24-15-0",0.615
-"18",2006,"Hallie Cohen","NJAC","29-11-0",0.725
-"19",2005,"Hallie Cohen","NJAC","37-11-1",0.771
-"20",2004,"Hallie Cohen","NJAC","26-8-0",0.765
-"21",2003,"Hallie Cohen","NJAC","29-12-1",0.707
-"22",2002,"Hallie Cohen","NJAC","29-10-0",0.744
-"23",2001,"Hallie Cohen","-","39-10-0",0.796
-"24",2000,"Hallie Cohen","-","26-10-0",0.722
-"25",1999,"Hallie Cohen","-","30-16-0",0.652
-"26",1998,"Hallie Cohen","-","25-15-0",0.625
-"27",1997,"Hallie Cohen","-","17-21-0",0.447
-"28",1996,"Hallie Cohen","-","18-16-0",0.529
-"29",1995,"Hallie Cohen","-","14-21-0",0.4
-"30",1994,"Cyndi Gramlich-Covello","-","19-19-0",0.5
-"31",1993,"Cyndi Gramlich-Covello","-","25-15-0",0.625
-"32",1992,"Cyndi Gramlich-Covello","-","29-16-0",0.644
-"33",1991,"Cyndi Gramlich-Covello","-","32-12-0",0.727
-"34",1990,"Cyndi Gramlich-Covello","-","32-13-0",0.711
-"35",1989,"Cyndi Gramlich-Covello","-","22-14-0",0.611
-"36",1988,"Cyndi Gramlich-Covello","-","28-11-0",0.718
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"Cyndi Gramlich-Covello","-","16-12-1",0.571
-"41",1982,"","-","0-0-0",NA
-"42",2024,"Jessica Jacobson","NJAC","5-25-0",0.167
+"1","2023","Jessica Jacobson","NJAC","23-15-1","0.605"
+"2","2022","Jessica Jacobson","NJAC","16-21-0","0.432"
+"3","2021","John McClain","NJAC","10-14-0","0.417"
+"4","2020","John McClain","NJAC","0-0-0","  NaN"
+"5","2019","Hallie Cohen","NJAC","17-21-0","0.447"
+"6","2018","Hallie Cohen","NJAC","23-15-0","0.605"
+"7","2017","Hallie Cohen","NJAC","28-13-0","0.683"
+"8","2016","Hallie Cohen","NJAC","28-12-0","0.700"
+"9","2015","Hallie Cohen","NJAC","30-13-1","0.698"
+"10","2014","Hallie Cohen","NJAC","31-11-0","0.738"
+"11","2013","Hallie Cohen","NJAC","19-21-0","0.475"
+"12","2012","Hallie Cohen","NJAC","30-12-0","0.714"
+"13","2011","Hallie Cohen","NJAC","28-10-0","0.737"
+"14","2010","Hallie Cohen","NJAC","26-15-1","0.634"
+"15","2009","Hallie Cohen","NJAC","35-9-0","0.795"
+"16","2008","Hallie Cohen","NJAC","22-20-0","0.524"
+"17","2007","Hallie Cohen","NJAC","24-15-0","0.615"
+"18","2006","Hallie Cohen","NJAC","29-11-0","0.725"
+"19","2005","Hallie Cohen","NJAC","37-11-1","0.771"
+"20","2004","Hallie Cohen","NJAC","26-8-0","0.765"
+"21","2003","Hallie Cohen","NJAC","29-12-1","0.707"
+"22","2002","Hallie Cohen","NJAC","29-10-0","0.744"
+"23","2001","Hallie Cohen","-","39-10-0","0.796"
+"24","2000","Hallie Cohen","-","26-10-0","0.722"
+"25","1999","Hallie Cohen","-","30-16-0","0.652"
+"26","1998","Hallie Cohen","-","25-15-0","0.625"
+"27","1997","Hallie Cohen","-","17-21-0","0.447"
+"28","1996","Hallie Cohen","-","18-16-0","0.529"
+"29","1995","Hallie Cohen","-","14-21-0","0.400"
+"30","1994","Cyndi Gramlich-Covello","-","19-19-0","0.500"
+"31","1993","Cyndi Gramlich-Covello","-","25-15-0","0.625"
+"32","1992","Cyndi Gramlich-Covello","-","29-16-0","0.644"
+"33","1991","Cyndi Gramlich-Covello","-","32-12-0","0.727"
+"34","1990","Cyndi Gramlich-Covello","-","32-13-0","0.711"
+"35","1989","Cyndi Gramlich-Covello","-","22-14-0","0.611"
+"36","1988","Cyndi Gramlich-Covello","-","28-11-0","0.718"
+"37","1987","","-","0-0-0","  NaN"
+"38","1986","","-","0-0-0","  NaN"
+"39","1985","","-","0-0-0","  NaN"
+"40","1984","Cyndi Gramlich-Covello","-","16-12-1","0.571"
+"41","1982","","-","0-0-0","  NaN"
+"42","2024","Jessica Jacobson","NJAC","0-0-0","  NaN"
