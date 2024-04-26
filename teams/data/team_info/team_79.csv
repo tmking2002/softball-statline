@@ -1,37 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Glenn Moore","CUNYAC","12-17-0","0.414"
-"2","2022","Glenn Moore","CUNYAC","6-21-0","0.222"
-"3","2021","Glenn Moore","CUNYAC","0-0-0","  NaN"
-"4","2020","Glenn Moore","CUNYAC","0-0-0","  NaN"
-"5","2019","Glenn Moore","CUNYAC","3-23-0","0.115"
-"6","2018","Antoinette Brown","CUNYAC","5-19-0","0.208"
-"7","2017","Antoinette Brown","CUNYAC","4-25-0","0.138"
-"8","2016","Antoinette Brown","CUNYAC","5-23-0","0.179"
-"9","2015","Michael Ponsiglione","CUNYAC","21-20-0","0.512"
-"10","2014","Michael Ponsiglione","CUNYAC","25-15-0","0.625"
-"11","2013","Bill Dumont","CUNYAC","23-17-0","0.575"
-"12","2012","Bill Dumont","CUNYAC","19-20-0","0.487"
-"13","2011","Bill Dumont","CUNYAC","14-18-1","0.438"
-"14","2010","Bill Dumont","CUNYAC","16-17-1","0.485"
-"15","2009","Peter Grillo","CUNYAC","4-21-0","0.160"
-"16","2008","Peter Grillo","CUNYAC","11-14-0","0.440"
-"17","2007","Joanne Riggs","CUNYAC","7-11-0","0.389"
-"18","2006","Joanne Riggs","CUNYAC","15-12-0","0.556"
-"19","2005","Jaclyn Apicello","CUNYAC","3-13-0","0.188"
-"20","2004","Jaclyn Apicello","CUNYAC","6-17-0","0.261"
-"21","2003","Paul Watson","CUNYAC","10-16-0","0.385"
-"22","2002","Paul Watson","CUNYAC","6-14-0","0.300"
-"23","2001","Maureen Tracy","-","11-9-0","0.550"
-"24","2000","Maureen Tracy","-","5-12-0","0.294"
-"25","1999","John Caccamo","-","2-14-0","0.125"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","Bruce Filosa","-","5-26-0","0.161"
-"33","1991","Bruce Filosa","-","5-20-0","0.200"
-"34","1990","Artie LaGreca","-","13-15-0","0.464"
-"35","1983","","-","0-0-0","  NaN"
-"36","2024","Frank Marinello","CUNYAC","0-0-0","  NaN"
+"1",2023,"Glenn Moore","CUNYAC","12-17-0",0.414
+"2",2022,"Glenn Moore","CUNYAC","6-21-0",0.222
+"3",2021,"Glenn Moore","CUNYAC","0-0-0",NA
+"4",2020,"Glenn Moore","CUNYAC","0-0-0",NA
+"5",2019,"Glenn Moore","CUNYAC","3-23-0",0.115
+"6",2018,"Antoinette Brown","CUNYAC","5-19-0",0.208
+"7",2017,"Antoinette Brown","CUNYAC","4-25-0",0.138
+"8",2016,"Antoinette Brown","CUNYAC","5-23-0",0.179
+"9",2015,"Michael Ponsiglione","CUNYAC","21-20-0",0.512
+"10",2014,"Michael Ponsiglione","CUNYAC","25-15-0",0.625
+"11",2013,"Bill Dumont","CUNYAC","23-17-0",0.575
+"12",2012,"Bill Dumont","CUNYAC","19-20-0",0.487
+"13",2011,"Bill Dumont","CUNYAC","14-18-1",0.438
+"14",2010,"Bill Dumont","CUNYAC","16-17-1",0.485
+"15",2009,"Peter Grillo","CUNYAC","4-21-0",0.16
+"16",2008,"Peter Grillo","CUNYAC","11-14-0",0.44
+"17",2007,"Joanne Riggs","CUNYAC","7-11-0",0.389
+"18",2006,"Joanne Riggs","CUNYAC","15-12-0",0.556
+"19",2005,"Jaclyn Apicello","CUNYAC","3-13-0",0.188
+"20",2004,"Jaclyn Apicello","CUNYAC","6-17-0",0.261
+"21",2003,"Paul Watson","CUNYAC","10-16-0",0.385
+"22",2002,"Paul Watson","CUNYAC","6-14-0",0.3
+"23",2001,"Maureen Tracy","-","11-9-0",0.55
+"24",2000,"Maureen Tracy","-","5-12-0",0.294
+"25",1999,"John Caccamo","-","2-14-0",0.125
+"26",1998,"","-","0-0-0",NA
+"27",1997,"","-","0-0-0",NA
+"28",1996,"","-","0-0-0",NA
+"29",1995,"","-","0-0-0",NA
+"30",1994,"","-","0-0-0",NA
+"31",1993,"","-","0-0-0",NA
+"32",1992,"Bruce Filosa","-","5-26-0",0.161
+"33",1991,"Bruce Filosa","-","5-20-0",0.2
+"34",1990,"Artie LaGreca","-","13-15-0",0.464
+"35",1983,"","-","0-0-0",NA
+"36",2024,"Frank Marinello","CUNYAC","12-13-0",0.48

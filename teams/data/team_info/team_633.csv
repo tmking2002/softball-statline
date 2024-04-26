@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Caitlyn Seamster","Landmark","15-21-0","0.417"
-"2","2022","Caitlyn Seamster","Landmark","24-12-0","0.667"
-"3","2021","Mia Collarini","Landmark","24-7-0","0.774"
-"4","2020","Mia Collarini","Landmark","2-0-0","1.000"
-"5","2019","Mia Collarini","Landmark","32-16-0","0.667"
-"6","2018","Mia Collarini","Landmark","33-11-0","0.750"
-"7","2017","Mia Collarini","Landmark","20-15-0","0.571"
-"8","2016","Mia Collarini","Landmark","20-16-0","0.556"
-"9","2015","Mia Collarini","Landmark","19-15-0","0.559"
-"10","2014","Mia Collarini","Landmark","9-20-0","0.310"
-"11","2013","Mia Collarini","Landmark","13-18-0","0.419"
-"12","2012","Mia Collarini","Landmark","26-10-0","0.722"
-"13","2011","Colleen Moyer","Landmark","18-14-0","0.562"
-"14","2010","Colleen Moyer","Landmark","15-17-0","0.469"
-"15","2009","Colleen Moyer","Landmark","12-18-0","0.400"
-"16","2008","Colleen Moyer","Landmark","27-14-0","0.659"
-"17","2007","Colleen Moyer","MAC Freedom","7-19-0","0.269"
-"18","2006","Jerry Alunni","MAC Freedom","12-22-0","0.353"
-"19","2005","Jerry Alunni","MAC Freedom","12-24-0","0.333"
-"20","2004","Jerry Alunni","MAC Freedom","17-16-0","0.515"
-"21","2003","John Foy","MAC Freedom","9-11-0","0.450"
-"22","2002","John Foy","MAC Freedom","14-20-0","0.412"
-"23","2001","","-","15-11-0","0.577"
-"24","2000","John Foy (4-19)Tom Moore (4-19)","-","4-19-0","0.174"
-"25","1999","Tom Moore","-","7-17-0","0.292"
-"26","1998","Tom Moore","-","4-18-0","0.182"
-"27","1997","Tom Moore","-","8-15-0","0.348"
-"28","1996","Joe Saporito","-","7-17-0","0.292"
-"29","1995","Joe Saporito","-","11-26-0","0.297"
-"30","1994","Joe Saporito","-","17-15-0","0.531"
-"31","1993","Joe Saporito","-","16-11-0","0.593"
-"32","1992","Joe Saporito","-","17-17-0","0.500"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1986","","-","0-0-0","  NaN"
-"37","1985","","-","0-0-0","  NaN"
-"38","1984","","-","0-0-0","  NaN"
-"39","1983","","-","0-0-0","  NaN"
-"40","1982","","-","0-0-0","  NaN"
-"41","2024","Caitlyn Seamster","Landmark","0-0-0","  NaN"
+"1",2023,"Caitlyn Seamster","Landmark","15-21-0",0.417
+"2",2022,"Caitlyn Seamster","Landmark","24-12-0",0.667
+"3",2021,"Mia Collarini","Landmark","24-7-0",0.774
+"4",2020,"Mia Collarini","Landmark","2-0-0",1
+"5",2019,"Mia Collarini","Landmark","32-16-0",0.667
+"6",2018,"Mia Collarini","Landmark","33-11-0",0.75
+"7",2017,"Mia Collarini","Landmark","20-15-0",0.571
+"8",2016,"Mia Collarini","Landmark","20-16-0",0.556
+"9",2015,"Mia Collarini","Landmark","19-15-0",0.559
+"10",2014,"Mia Collarini","Landmark","9-20-0",0.31
+"11",2013,"Mia Collarini","Landmark","13-18-0",0.419
+"12",2012,"Mia Collarini","Landmark","26-10-0",0.722
+"13",2011,"Colleen Moyer","Landmark","18-14-0",0.562
+"14",2010,"Colleen Moyer","Landmark","15-17-0",0.469
+"15",2009,"Colleen Moyer","Landmark","12-18-0",0.4
+"16",2008,"Colleen Moyer","Landmark","27-14-0",0.659
+"17",2007,"Colleen Moyer","MAC Freedom","7-19-0",0.269
+"18",2006,"Jerry Alunni","MAC Freedom","12-22-0",0.353
+"19",2005,"Jerry Alunni","MAC Freedom","12-24-0",0.333
+"20",2004,"Jerry Alunni","MAC Freedom","17-16-0",0.515
+"21",2003,"John Foy","MAC Freedom","9-11-0",0.45
+"22",2002,"John Foy","MAC Freedom","14-20-0",0.412
+"23",2001,"","-","15-11-0",0.577
+"24",2000,"John Foy (4-19)Tom Moore (4-19)","-","4-19-0",0.174
+"25",1999,"Tom Moore","-","7-17-0",0.292
+"26",1998,"Tom Moore","-","4-18-0",0.182
+"27",1997,"Tom Moore","-","8-15-0",0.348
+"28",1996,"Joe Saporito","-","7-17-0",0.292
+"29",1995,"Joe Saporito","-","11-26-0",0.297
+"30",1994,"Joe Saporito","-","17-15-0",0.531
+"31",1993,"Joe Saporito","-","16-11-0",0.593
+"32",1992,"Joe Saporito","-","17-17-0",0.5
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1986,"","-","0-0-0",NA
+"37",1985,"","-","0-0-0",NA
+"38",1984,"","-","0-0-0",NA
+"39",1983,"","-","0-0-0",NA
+"40",1982,"","-","0-0-0",NA
+"41",2024,"Caitlyn Seamster","Landmark","18-16-0",0.529

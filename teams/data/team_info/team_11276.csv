@@ -1,40 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Jaclin Poole","Peach Belt","20-33-0","0.377"
-"2","2022","Jaclin Poole","Peach Belt","29-22-0","0.569"
-"3","2021","Jaclin Poole","Peach Belt","6-14-0","0.300"
-"4","2020","Jerry Snyder","Peach Belt","16-10-0","0.615"
-"5","2019","Jerry Snyder","Peach Belt","21-29-0","0.420"
-"6","2018","Jerry Snyder","Peach Belt","15-35-0","0.300"
-"7","2017","Jerry Snyder","Peach Belt","22-24-1","0.478"
-"8","2016","Jerry Snyder","Peach Belt","29-22-0","0.569"
-"9","2015","Jerry Snyder","Peach Belt","22-17-0","0.564"
-"10","2014","Jerry Snyder","Peach Belt","34-16-0","0.680"
-"11","2013","Jerry Snyder","Peach Belt","25-21-1","0.543"
-"12","2012","Jerry Snyder","Peach Belt","26-17-0","0.605"
-"13","2011","Jerry Snyder","Peach Belt","26-18-0","0.591"
-"14","2010","Jerry Snyder","Peach Belt","23-23-0","0.500"
-"15","2009","Jerry Snyder","Peach Belt","34-16-0","0.680"
-"16","2008","Jerry Snyder","Peach Belt","22-29-0","0.431"
-"17","2007","Jerry Snyder","Peach Belt","37-24-0","0.607"
-"18","2006","Jerry Snyder","Peach Belt","25-18-0","0.581"
-"19","2005","Jerry Snyder","Peach Belt","34-17-0","0.667"
-"20","2004","Jerry Snyder","Peach Belt","31-29-0","0.517"
-"21","2003","Jerry Snyder","-","18-25-0","0.419"
-"22","2002","Jerry Snyder","Peach Belt","25-26-0","0.490"
-"23","2001","Jerry Snyder","-","28-23-0","0.549"
-"24","2000","Jerry Snyder","-","31-29-0","0.517"
-"25","1999","Jerry Snyder","-","33-27-1","0.550"
-"26","1998","Jerry Snyder","-","25-34-0","0.424"
-"27","1997","Jerry Snyder","-","32-19-0","0.627"
-"28","1996","Jerry Snyder","-","28-24-0","0.538"
-"29","1995","Jerry Snyder","-","27-20-0","0.574"
-"30","1994","Jerry Snyder","-","29-27-0","0.518"
-"31","1993","Jerry Snyder","-","14-27-0","0.341"
-"32","1992","Jerry Snyder","-","12-31-0","0.279"
-"33","1991","Jerry Snyder","-","22-18-1","0.550"
-"34","1990","Jerry Snyder","-","8-32-0","0.200"
-"35","1989","Jerry Snyder","-","7-18-0","0.280"
-"36","1988","Jerry Snyder","-","5-15-0","0.250"
-"37","1987","Jerry Snyder","-","6-14-0","0.300"
-"38","1986","","-","0-0-0","  NaN"
-"39","2024","Jaclin Poole","Peach Belt","2-2-0","0.500"
+"1",2023,"Jaclin Poole","Peach Belt","20-33-0",0.377
+"2",2022,"Jaclin Poole","Peach Belt","29-22-0",0.569
+"3",2021,"Jaclin Poole","Peach Belt","6-14-0",0.3
+"4",2020,"Jerry Snyder","Peach Belt","16-10-0",0.615
+"5",2019,"Jerry Snyder","Peach Belt","21-29-0",0.42
+"6",2018,"Jerry Snyder","Peach Belt","15-35-0",0.3
+"7",2017,"Jerry Snyder","Peach Belt","22-24-1",0.478
+"8",2016,"Jerry Snyder","Peach Belt","29-22-0",0.569
+"9",2015,"Jerry Snyder","Peach Belt","22-17-0",0.564
+"10",2014,"Jerry Snyder","Peach Belt","34-16-0",0.68
+"11",2013,"Jerry Snyder","Peach Belt","25-21-1",0.543
+"12",2012,"Jerry Snyder","Peach Belt","26-17-0",0.605
+"13",2011,"Jerry Snyder","Peach Belt","26-18-0",0.591
+"14",2010,"Jerry Snyder","Peach Belt","23-23-0",0.5
+"15",2009,"Jerry Snyder","Peach Belt","34-16-0",0.68
+"16",2008,"Jerry Snyder","Peach Belt","22-29-0",0.431
+"17",2007,"Jerry Snyder","Peach Belt","37-24-0",0.607
+"18",2006,"Jerry Snyder","Peach Belt","25-18-0",0.581
+"19",2005,"Jerry Snyder","Peach Belt","34-17-0",0.667
+"20",2004,"Jerry Snyder","Peach Belt","31-29-0",0.517
+"21",2003,"Jerry Snyder","-","18-25-0",0.419
+"22",2002,"Jerry Snyder","Peach Belt","25-26-0",0.49
+"23",2001,"Jerry Snyder","-","28-23-0",0.549
+"24",2000,"Jerry Snyder","-","31-29-0",0.517
+"25",1999,"Jerry Snyder","-","33-27-1",0.55
+"26",1998,"Jerry Snyder","-","25-34-0",0.424
+"27",1997,"Jerry Snyder","-","32-19-0",0.627
+"28",1996,"Jerry Snyder","-","28-24-0",0.538
+"29",1995,"Jerry Snyder","-","27-20-0",0.574
+"30",1994,"Jerry Snyder","-","29-27-0",0.518
+"31",1993,"Jerry Snyder","-","14-27-0",0.341
+"32",1992,"Jerry Snyder","-","12-31-0",0.279
+"33",1991,"Jerry Snyder","-","22-18-1",0.55
+"34",1990,"Jerry Snyder","-","8-32-0",0.2
+"35",1989,"Jerry Snyder","-","7-18-0",0.28
+"36",1988,"Jerry Snyder","-","5-15-0",0.25
+"37",1987,"Jerry Snyder","-","6-14-0",0.3
+"38",1986,"","-","0-0-0",NA
+"39",2024,"Jaclin Poole","Peach Belt","27-18-0",0.6

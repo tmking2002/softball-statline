@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Sally Snover","Centennial","20-19-1","0.513"
-"2","2022","Sally Snover","Centennial","16-19-0","0.457"
-"3","2021","Sally Snover","Centennial","9-8-0","0.529"
-"4","2020","Lacey Lord","Centennial","6-8-0","0.429"
-"5","2019","Lacey Lord","Centennial","10-30-0","0.250"
-"6","2018","Lacey Lord","Centennial","17-22-0","0.436"
-"7","2017","Lacey Lord","Centennial","25-16-0","0.610"
-"8","2016","Lacey Lord","Centennial","22-20-0","0.524"
-"9","2015","Lacey Lord","Centennial","16-18-0","0.471"
-"10","2014","Lacey Lord","Centennial","26-13-1","0.667"
-"11","2013","Lacey Lord","Centennial","27-19-0","0.587"
-"12","2012","Lacey Lord","Centennial","21-20-0","0.512"
-"13","2011","Lacey Lord","Centennial","21-21-0","0.500"
-"14","2010","Lacey Lord","Centennial","13-19-0","0.406"
-"15","2009","Lacey Lord","Centennial","15-21-1","0.417"
-"16","2008","Louie Richardson","Centennial","9-21-0","0.300"
-"17","2007","Louie Richardson","Centennial","9-29-0","0.237"
-"18","2006","Louie Richardson","Centennial","16-22-0","0.421"
-"19","2005","Louie Richardson","Centennial","19-17-0","0.528"
-"20","2004","Lin Outten","Centennial","8-21-1","0.276"
-"21","2003","Lin Outten","Centennial","14-18-0","0.438"
-"22","2002","Lin Outten","Centennial","11-18-1","0.379"
-"23","2001","Lin Outten","-","11-21-0","0.344"
-"24","2000","William Outten","-","18-14-0","0.562"
-"25","1999","William Outten","-","15-19-0","0.441"
-"26","1998","Lin Outten","-","9-21-0","0.300"
-"27","1997","Lanee Cole-Smith","-","21-9-1","0.700"
-"28","1996","Lanee Cole-Smith","-","15-16-0","0.484"
-"29","1995","Lanee Cole-Smith","-","13-11-0","0.542"
-"30","1994","Lanee Cole-Smith","-","7-15-0","0.318"
-"31","1993","Lanee Cole-Smith","-","3-14-0","0.176"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1987","","-","0-0-0","  NaN"
-"36","1981","","-","0-0-0","  NaN"
-"37","2024","Sally Snover","Centennial","0-0-0","  NaN"
+"1",2023,"Sally Snover","Centennial","20-19-1",0.513
+"2",2022,"Sally Snover","Centennial","16-19-0",0.457
+"3",2021,"Sally Snover","Centennial","9-8-0",0.529
+"4",2020,"Lacey Lord","Centennial","6-8-0",0.429
+"5",2019,"Lacey Lord","Centennial","10-30-0",0.25
+"6",2018,"Lacey Lord","Centennial","17-22-0",0.436
+"7",2017,"Lacey Lord","Centennial","25-16-0",0.61
+"8",2016,"Lacey Lord","Centennial","22-20-0",0.524
+"9",2015,"Lacey Lord","Centennial","16-18-0",0.471
+"10",2014,"Lacey Lord","Centennial","26-13-1",0.667
+"11",2013,"Lacey Lord","Centennial","27-19-0",0.587
+"12",2012,"Lacey Lord","Centennial","21-20-0",0.512
+"13",2011,"Lacey Lord","Centennial","21-21-0",0.5
+"14",2010,"Lacey Lord","Centennial","13-19-0",0.406
+"15",2009,"Lacey Lord","Centennial","15-21-1",0.417
+"16",2008,"Louie Richardson","Centennial","9-21-0",0.3
+"17",2007,"Louie Richardson","Centennial","9-29-0",0.237
+"18",2006,"Louie Richardson","Centennial","16-22-0",0.421
+"19",2005,"Louie Richardson","Centennial","19-17-0",0.528
+"20",2004,"Lin Outten","Centennial","8-21-1",0.276
+"21",2003,"Lin Outten","Centennial","14-18-0",0.438
+"22",2002,"Lin Outten","Centennial","11-18-1",0.379
+"23",2001,"Lin Outten","-","11-21-0",0.344
+"24",2000,"William Outten","-","18-14-0",0.562
+"25",1999,"William Outten","-","15-19-0",0.441
+"26",1998,"Lin Outten","-","9-21-0",0.3
+"27",1997,"Lanee Cole-Smith","-","21-9-1",0.7
+"28",1996,"Lanee Cole-Smith","-","15-16-0",0.484
+"29",1995,"Lanee Cole-Smith","-","13-11-0",0.542
+"30",1994,"Lanee Cole-Smith","-","7-15-0",0.318
+"31",1993,"Lanee Cole-Smith","-","3-14-0",0.176
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1987,"","-","0-0-0",NA
+"36",1981,"","-","0-0-0",NA
+"37",2024,"Sally Snover","Centennial","19-16-1",0.543

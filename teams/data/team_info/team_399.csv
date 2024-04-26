@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Willis Griffiths","MASCAC","17-20-0","0.459"
-"2","2022","Willis Griffiths","MASCAC","7-27-0","0.206"
-"3","2021","Willis Griffiths","MASCAC","0-8-0","0.000"
-"4","2020","Willis Griffiths","MASCAC","0-0-0","  NaN"
-"5","2019","Kathleen L'Abbe","MASCAC","5-29-0","0.147"
-"6","2018","Kathleen L'Abbe","MASCAC","3-25-0","0.107"
-"7","2017","Megan Giammalvo","MASCAC","7-17-0","0.292"
-"8","2016","Megan Giammalvo","MASCAC","5-23-0","0.179"
-"9","2015","Megan Giammalvo","MASCAC","4-14-0","0.222"
-"10","2014","Megan Giammalvo","MASCAC","0-20-0","0.000"
-"11","2013","Megan Giammalvo","MASCAC","0-22-0","0.000"
-"12","2012","Lindsay DeStefano","MASCAC","2-23-0","0.080"
-"13","2011","Lindsay DeStefano","MASCAC","1-23-0","0.042"
-"14","2010","Ashley Lorance","MASCAC","2-24-0","0.077"
-"15","2009","Christine McCarey","MASCAC","0-0-0","  NaN"
-"16","2008","Christine McCarey","MASCAC","1-26-0","0.037"
-"17","2007","Bruce Gendron","MASCAC","2-24-0","0.077"
-"18","2006","Bruce Gendron","MASCAC","2-21-0","0.087"
-"19","2005","Maureen Holden","MASCAC","6-20-0","0.231"
-"20","2004","Maureen Holden","MASCAC","2-20-0","0.091"
-"21","2003","Maureen Holden","MASCAC","5-17-0","0.227"
-"22","2002","Maureen Holden","MASCAC","4-24-0","0.143"
-"23","2001","Maureen Holden","-","8-18-0","0.308"
-"24","2000","Maureen Holden","-","4-22-0","0.154"
-"25","1999","Michelle Gaziano","-","6-18-0","0.250"
-"26","1998","Michelle Gaziano","-","6-19-0","0.240"
-"27","1997","Beth Fulcher","-","7-15-0","0.318"
-"28","1996","Walter Yohai","-","6-12-0","0.333"
-"29","1995","Walter Yohai","-","5-12-0","0.294"
-"30","1994","Walter Yohai","-","2-8-0","0.200"
-"31","1993","Walter Yohai","-","1-11-0","0.083"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","2024","Willis Griffiths","MASCAC","0-0-0","  NaN"
+"1",2023,"Willis Griffiths","MASCAC","17-20-0",0.459
+"2",2022,"Willis Griffiths","MASCAC","7-27-0",0.206
+"3",2021,"Willis Griffiths","MASCAC","0-8-0",0
+"4",2020,"Willis Griffiths","MASCAC","0-0-0",NA
+"5",2019,"Kathleen L'Abbe","MASCAC","5-29-0",0.147
+"6",2018,"Kathleen L'Abbe","MASCAC","3-25-0",0.107
+"7",2017,"Megan Giammalvo","MASCAC","7-17-0",0.292
+"8",2016,"Megan Giammalvo","MASCAC","5-23-0",0.179
+"9",2015,"Megan Giammalvo","MASCAC","4-14-0",0.222
+"10",2014,"Megan Giammalvo","MASCAC","0-20-0",0
+"11",2013,"Megan Giammalvo","MASCAC","0-22-0",0
+"12",2012,"Lindsay DeStefano","MASCAC","2-23-0",0.08
+"13",2011,"Lindsay DeStefano","MASCAC","1-23-0",0.042
+"14",2010,"Ashley Lorance","MASCAC","2-24-0",0.077
+"15",2009,"Christine McCarey","MASCAC","0-0-0",NA
+"16",2008,"Christine McCarey","MASCAC","1-26-0",0.037
+"17",2007,"Bruce Gendron","MASCAC","2-24-0",0.077
+"18",2006,"Bruce Gendron","MASCAC","2-21-0",0.087
+"19",2005,"Maureen Holden","MASCAC","6-20-0",0.231
+"20",2004,"Maureen Holden","MASCAC","2-20-0",0.091
+"21",2003,"Maureen Holden","MASCAC","5-17-0",0.227
+"22",2002,"Maureen Holden","MASCAC","4-24-0",0.143
+"23",2001,"Maureen Holden","-","8-18-0",0.308
+"24",2000,"Maureen Holden","-","4-22-0",0.154
+"25",1999,"Michelle Gaziano","-","6-18-0",0.25
+"26",1998,"Michelle Gaziano","-","6-19-0",0.24
+"27",1997,"Beth Fulcher","-","7-15-0",0.318
+"28",1996,"Walter Yohai","-","6-12-0",0.333
+"29",1995,"Walter Yohai","-","5-12-0",0.294
+"30",1994,"Walter Yohai","-","2-8-0",0.2
+"31",1993,"Walter Yohai","-","1-11-0",0.083
+"32",1992,"","-","0-0-0",NA
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",1989,"","-","0-0-0",NA
+"36",1988,"","-","0-0-0",NA
+"37",1987,"","-","0-0-0",NA
+"38",1986,"","-","0-0-0",NA
+"39",1985,"","-","0-0-0",NA
+"40",2024,"Willis Griffiths","MASCAC","7-15-0",0.318

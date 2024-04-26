@@ -1,36 +1,36 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2023","Janet Maguire","CCC","10-24-0","0.294"
-"2","2022","Janet Maguire","CCC","20-20-0","0.500"
-"3","2021","Jackie Davis","CCC","12-17-0","0.414"
-"4","2020","Jackie Davis","Great Northeast","3-7-0","0.300"
-"5","2019","Jackie Davis","Great Northeast","21-18-0","0.538"
-"6","2018","Jackie Davis","Great Northeast","31-9-0","0.775"
-"7","2017","Jackie Davis","Great Northeast","29-17-0","0.630"
-"8","2016","Jackie Davis","Great Northeast","33-9-0","0.786"
-"9","2015","Jackie Davis","Great Northeast","25-16-0","0.610"
-"10","2014","Jackie Davis","Great Northeast","21-23-0","0.477"
-"11","2013","Jackie Davis","Great Northeast","16-25-0","0.390"
-"12","2012","Keri Lemasters","Great Northeast","20-21-0","0.488"
-"13","2011","Keri Lemasters","Great Northeast","12-28-0","0.300"
-"14","2010","Keri Lemasters","Great Northeast","9-31-0","0.225"
-"15","2009","Keri Lemasters","Great Northeast","22-18-0","0.550"
-"16","2008","Keri Lemasters","Great Northeast","17-20-0","0.459"
-"17","2007","Vicki Schull","Great Northeast","15-22-0","0.405"
-"18","2006","Vicki Schull","Great Northeast","32-10-0","0.762"
-"19","2005","Elaine Schwager","Great Northeast","29-11-0","0.725"
-"20","2004","Elaine Schwager","Great Northeast","21-15-0","0.583"
-"21","2003","Elaine Schwager","-","27-5-0","0.844"
-"22","2002","Elaine Schwager","Great Northeast","11-29-0","0.275"
-"23","2001","Elaine Schwager","-","12-22-0","0.353"
-"24","2000","Robert Norton","-","17-14-0","0.548"
-"25","1999","Christine Carr","-","20-12-0","0.625"
-"26","1998","Christine Carr","-","12-21-0","0.364"
-"27","1997","Christine Carr","-","5-14-0","0.263"
-"28","1996","Christine Carr","-","17-15-0","0.531"
-"29","1995","Christine Carr","-","10-23-0","0.303"
-"30","1994","Donna Ruseckas","-","7-15-0","0.318"
-"31","1993","Donna Ruseckas","-","3-16-0","0.158"
-"32","1992","Donna Ruseckas","-","8-9-0","0.471"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","2024","Megan Cook","CCC","0-0-0","  NaN"
+"1",2023,"Janet Maguire","CCC","10-24-0",0.294
+"2",2022,"Janet Maguire","CCC","20-20-0",0.5
+"3",2021,"Jackie Davis","CCC","12-17-0",0.414
+"4",2020,"Jackie Davis","Great Northeast","3-7-0",0.3
+"5",2019,"Jackie Davis","Great Northeast","21-18-0",0.538
+"6",2018,"Jackie Davis","Great Northeast","31-9-0",0.775
+"7",2017,"Jackie Davis","Great Northeast","29-17-0",0.63
+"8",2016,"Jackie Davis","Great Northeast","33-9-0",0.786
+"9",2015,"Jackie Davis","Great Northeast","25-16-0",0.61
+"10",2014,"Jackie Davis","Great Northeast","21-23-0",0.477
+"11",2013,"Jackie Davis","Great Northeast","16-25-0",0.39
+"12",2012,"Keri Lemasters","Great Northeast","20-21-0",0.488
+"13",2011,"Keri Lemasters","Great Northeast","12-28-0",0.3
+"14",2010,"Keri Lemasters","Great Northeast","9-31-0",0.225
+"15",2009,"Keri Lemasters","Great Northeast","22-18-0",0.55
+"16",2008,"Keri Lemasters","Great Northeast","17-20-0",0.459
+"17",2007,"Vicki Schull","Great Northeast","15-22-0",0.405
+"18",2006,"Vicki Schull","Great Northeast","32-10-0",0.762
+"19",2005,"Elaine Schwager","Great Northeast","29-11-0",0.725
+"20",2004,"Elaine Schwager","Great Northeast","21-15-0",0.583
+"21",2003,"Elaine Schwager","-","27-5-0",0.844
+"22",2002,"Elaine Schwager","Great Northeast","11-29-0",0.275
+"23",2001,"Elaine Schwager","-","12-22-0",0.353
+"24",2000,"Robert Norton","-","17-14-0",0.548
+"25",1999,"Christine Carr","-","20-12-0",0.625
+"26",1998,"Christine Carr","-","12-21-0",0.364
+"27",1997,"Christine Carr","-","5-14-0",0.263
+"28",1996,"Christine Carr","-","17-15-0",0.531
+"29",1995,"Christine Carr","-","10-23-0",0.303
+"30",1994,"Donna Ruseckas","-","7-15-0",0.318
+"31",1993,"Donna Ruseckas","-","3-16-0",0.158
+"32",1992,"Donna Ruseckas","-","8-9-0",0.471
+"33",1991,"","-","0-0-0",NA
+"34",1990,"","-","0-0-0",NA
+"35",2024,"Megan Cook","CCC","15-19-0",0.441
