@@ -68,8 +68,8 @@ Rank,Team,Record,Team ID
 67,Saint Francis (PA),40-12-0,600
 68,Omaha,39-13-0,464
 69,Fresno St.,32-18-0,96
-70,Boston College,30-24-0,67
-71,North Florida,35-19-0,2711
+70,North Florida,35-19-0,2711
+71,Boston College,30-24-0,67
 72,South Fla.,34-22-0,651
 73,Chattanooga,41-14-0,693
 74,Tulsa,30-21-0,719
@@ -120,10 +120,10 @@ Rank,Team,Record,Team ID
 119,Lehigh,31-19-0,352
 120,Sacramento St.,27-20-0,102
 121,UNC Greensboro,31-26-0,459
-122,Princeton,29-16-0,554
-123,Ga. Southern,30-21-0,253
-124,Canisius,18-22-0,116
-125,USC Upstate,28-21-0,10411
+122,USC Upstate,29-21-0,10411
+123,Princeton,29-16-0,554
+124,Ga. Southern,30-21-0,253
+125,Canisius,18-22-0,116
 126,Binghamton,30-17-0,62
 127,Belmont,30-20-0,14927
 128,Cal Poly,25-17-0,90
@@ -133,8 +133,8 @@ Rank,Team,Record,Team ID
 132,UTEP,27-21-0,704
 133,Southern Miss.,22-29-0,664
 134,Queens (NC),29-26-0,11504
-135,Harvard,27-17-0,275
-136,FIU,21-29-0,231
+135,FIU,21-29-0,231
+136,Harvard,27-17-0,275
 137,Santa Clara,27-22-0,631
 138,Western Mich.,27-22-0,774
 139,Southern Ind.,25-21-0,661
@@ -148,8 +148,8 @@ Rank,Team,Record,Team ID
 147,UT Martin,28-23-0,695
 148,Houston Christian,19-24-0,287
 149,Bryant,34-17-0,81
-150,Dartmouth,18-17-0,172
-151,Drake,23-26-0,189
+150,Drake,23-26-0,189
+151,Dartmouth,18-17-0,172
 152,Providence,20-22-1,556
 153,Iowa,18-27-0,312
 154,A&M-Corpus Christi,16-22-0,26172
@@ -165,11 +165,11 @@ Rank,Team,Record,Team ID
 164,Northern Colo.,27-23-0,502
 165,Central Conn. St.,24-19-0,127
 166,Utah St.,22-28-0,731
-167,Winthrop,23-26-0,792
-168,Tennessee St.,25-25-0,691
-169,Bradley,29-27-0,72
-170,California Baptist,33-23-0,30135
-171,Sam Houston,18-28-0,624
+167,Tennessee St.,25-25-0,691
+168,Bradley,29-27-0,72
+169,California Baptist,33-23-0,30135
+170,Sam Houston,18-28-0,624
+171,Winthrop,23-27-0,792
 172,Radford,23-23-0,563
 173,St. John's (NY),31-27-0,603
 174,Yale,20-26-0,813
@@ -197,8 +197,8 @@ Rank,Team,Record,Team ID
 196,Tarleton St.,22-32-0,1395
 197,Akron,23-29-0,5
 198,Fordham,23-28-1,236
-199,Wofford,23-24-0,2915
-200,New Mexico,16-38-0,473
+199,New Mexico,16-38-0,473
+200,Wofford,23-24-0,2915
 201,Illinois St.,23-31-0,299
 202,UC Santa Barbara,20-28-0,104
 203,Central Mich.,17-33-0,129
@@ -218,16 +218,16 @@ Rank,Team,Record,Team ID
 217,Colgate,23-28-0,153
 218,Towson,22-31-0,711
 219,Saint Joseph's,22-30-0,606
-220,Middle Tenn.,21-30-0,419
-221,Utah Tech,19-31-0,30095
-222,Monmouth,17-32-0,439
+220,Monmouth,17-32-0,439
+221,Middle Tenn.,21-30-0,419
+222,Utah Tech,19-31-0,30095
 223,UMass Lowell,17-22-0,368
 224,Butler,23-25-0,87
 225,FDU,21-24-0,222
 226,Jackson St.,22-12-0,314
 227,UTSA,14-40-0,706
-228,Murray St.,24-30-0,454
-229,Northern Ky.,24-21-0,505
+228,Northern Ky.,25-22-0,505
+229,Murray St.,24-30-0,454
 230,Massachusetts,17-34-0,400
 231,Indiana St.,20-30-0,305
 232,Lipscomb,15-36-0,28600
@@ -237,8 +237,8 @@ Rank,Team,Record,Team ID
 236,Alabama St.,24-23-0,7
 237,Mount St. Mary's,14-30-0,450
 238,UC San Diego,14-36-0,112
-239,Merrimack,19-34-0,410
-240,North Dakota St.,17-33-0,493
+239,North Dakota St.,17-33-0,493
+240,Merrimack,19-34-0,410
 241,Iona,15-25-0,310
 242,SIUE,15-35-0,660
 243,Army West Point,15-37-0,725
@@ -248,10 +248,10 @@ Rank,Team,Record,Team ID
 247,St. Thomas (MN),16-33-0,620
 248,Pacific,16-33-0,534
 249,Tennessee Tech,23-24-0,692
-250,UIC,19-35-0,302
-251,Penn,11-28-0,540
-252,Drexel,12-30-0,191
-253,Cleveland St.,20-23-0,148
+250,Cleveland St.,21-24-0,148
+251,UIC,19-35-0,302
+252,Penn,11-28-0,540
+253,Drexel,12-30-0,191
 254,Western Caro.,18-35-0,769
 255,NIU,18-34-0,503
 256,Buffalo,16-32-0,86
@@ -275,8 +275,8 @@ Rank,Team,Record,Team ID
 274,N.C. A&T,12-36-0,488
 275,Hampton,16-33-0,270
 276,North Dakota,14-42-0,494
-277,ETSU,11-39-0,198
-278,Stonehill,13-35-0,682
+277,Stonehill,13-35-0,682
+278,ETSU,11-39-0,198
 279,Tex. A&M-Commerce,9-42-0,199
 280,Western Ill.,16-34-0,771
 281,Bowie St.,1-5-0,70
@@ -290,8 +290,8 @@ Rank,Team,Record,Team ID
 289,Valparaiso,9-38-0,735
 290,South Carolina St.,10-29-0,647
 291,Cornell,8-29-0,167
-292,Montana,13-33-0,441
-293,Purdue Fort Wayne,14-33-0,308
+292,Purdue Fort Wayne,14-33-0,308
+293,Montana,13-33-0,441
 294,Alcorn,9-31-0,17
 295,Holy Cross,14-35-0,285
 296,Wagner,5-27-0,748
