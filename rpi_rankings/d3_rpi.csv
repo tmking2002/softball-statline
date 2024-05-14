@@ -11,8 +11,8 @@ Rank,Team,Record,Team ID
 10,Wis.-Whitewater,32-8-0,805
 11,Rochester (NY),30-7-0,581
 12,Moravian,27-8-0,443
-13,Linfield,37-0-0,1179
-14,Wartburg,23-16-0,750
+13,Wartburg,23-16-0,750
+14,Linfield,37-0-0,1179
 15,Ill. Wesleyan,30-10-0,300
 16,Central (IA),30-10-0,126
 17,Rensselaer,32-5-1,570
@@ -46,8 +46,8 @@ Rank,Team,Record,Team ID
 45,Pfeiffer,43-2-0,542
 46,Redlands,31-12-0,567
 47,Gettysburg,26-11-0,258
-48,Chapman,26-12-0,134
-49,Messiah,28-14-0,411
+48,Messiah,28-14-0,411
+49,Chapman,26-12-0,134
 50,Maryville (TN),34-11-0,396
 51,Mary Hardin-Baylor,24-14-0,1203
 52,Texas Lutheran,27-4-0,1400
@@ -124,17 +124,17 @@ Rank,Team,Record,Team ID
 124,Middlebury,23-12-0,420
 125,Marian (WI),27-19-0,1196
 126,Grinnell,24-14-0,264
-127,Drew,22-16-0,190
-128,Hamilton,17-20-0,267
+127,Hamilton,17-20-0,267
+128,Drew,22-16-0,190
 129,Penn St. Harrisburg,28-14-0,30081
-130,Mary Washington,16-23-0,390
-131,Bowdoin,24-16-0,69
-132,Wheaton (MA),22-17-0,779
-133,Augustana (IL),26-12-0,40
-134,Colby,18-19-0,151
-135,Baldwin Wallace,26-14-0,46
-136,Washington Col.,19-17-1,753
-137,Lewis & Clark,26-14-0,22235
+130,Bowdoin,24-16-0,69
+131,Wheaton (MA),22-17-0,779
+132,Mary Washington,16-23-0,390
+133,Lewis & Clark,27-15-0,22235
+134,Augustana (IL),26-12-0,40
+135,Colby,18-19-0,151
+136,Baldwin Wallace,26-14-0,46
+137,Washington Col.,19-17-1,753
 138,Misericordia,22-13-0,16142
 139,Bridgewater (VA),20-24-0,75
 140,Macalester,22-16-0,376
@@ -155,8 +155,8 @@ Rank,Team,Record,Team ID
 155,Marywood,22-16-0,397
 156,WPI,23-19-1,808
 157,Wittenberg,21-21-0,806
-158,Cal Lutheran,15-19-0,105
-159,Waynesburg,23-17-0,1434
+158,Waynesburg,23-17-0,1434
+159,Cal Lutheran,15-19-0,105
 160,Susquehanna,18-18-0,685
 161,Marymount (VA),19-22-1,394
 162,Nichols,24-20-0,484
@@ -175,17 +175,17 @@ Rank,Team,Record,Team ID
 175,Augsburg,24-11-0,38
 176,FDU-Florham,16-19-0,221
 177,Stevens,14-20-0,679
-178,Pacific Lutheran,24-15-0,1297
-179,Montclair St.,16-21-0,442
-180,Old Westbury,20-11-0,524
-181,Rose-Hulman,21-19-0,585
-182,VTSU Castleton,18-18-0,123
-183,Wis.-Superior,24-13-0,804
-184,SUNY Poly,26-10-0,9500
-185,John Jay,28-12-0,321
-186,Ohio Wesleyan,18-15-1,520
-187,Carthage,20-21-0,121
-188,Delaware Valley,15-16-0,179
+178,Montclair St.,16-21-0,442
+179,Old Westbury,20-11-0,524
+180,Rose-Hulman,21-19-0,585
+181,VTSU Castleton,18-18-0,123
+182,Wis.-Superior,24-13-0,804
+183,SUNY Poly,26-10-0,9500
+184,John Jay,28-12-0,321
+185,Ohio Wesleyan,18-15-1,520
+186,Carthage,20-21-0,121
+187,Delaware Valley,15-16-0,179
+188,Pacific Lutheran,24-15-0,1297
 189,Southwestern (TX),17-26-0,8746
 190,Suffolk,19-23-0,684
 191,St. Catherine,13-21-0,597
@@ -232,9 +232,9 @@ Rank,Team,Record,Team ID
 232,Elmhurst,12-23-0,212
 233,Wilson,27-15-0,12973
 234,St. Joseph's (ME),21-17-0,605
-235,Willamette,15-16-0,785
-236,JWU (Providence),22-18-0,22626
-237,Haverford,11-22-1,276
+235,JWU (Providence),22-18-0,22626
+236,Haverford,11-22-1,276
+237,Willamette,15-16-0,785
 238,Manchester,19-19-0,1192
 239,Widener,13-19-0,783
 240,Hanover,13-26-0,1115
@@ -264,9 +264,9 @@ Rank,Team,Record,Team ID
 264,MUW,20-18-0,431
 265,Russell Sage,13-23-0,11036
 266,Gwynedd Mercy,15-22-0,12399
-267,Whitworth,13-21-0,1454
-268,RIT,12-23-1,580
-269,Carleton,13-18-0,118
+267,RIT,12-23-1,580
+268,Carleton,13-18-0,118
+269,Whitworth,13-21-0,1454
 270,Wis. Lutheran,10-29-0,8911
 271,Emerson,14-20-0,214
 272,Penn St.-Abington,20-19-0,30114
@@ -336,12 +336,12 @@ Rank,Team,Record,Team ID
 338,Saint Joseph (CT),14-22-0,8687
 339,Chatham,8-24-0,10972
 340,Eastern Nazarene,10-24-0,1064
-342,Puget Sound,7-22-0,557
-343,Rutgers-Newark,7-28-0,589
+342,Rutgers-Newark,7-28-0,589
+343,Puget Sound,7-22-0,557
 344,New England Col.,16-21-0,467
 345,Blackburn,15-20-0,64
-346,Pacific (OR),4-24-0,2751
-347,Ripon,11-25-0,577
+346,Ripon,11-25-0,577
+347,Pacific (OR),4-24-0,2751
 348,Lawrence,14-23-0,348
 350,St. Joseph's (L.I.),12-18-0,1340
 351,Rivier,14-16-0,18422
