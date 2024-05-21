@@ -86,11 +86,11 @@ Rank,Team,Record,Team ID
 85,Denison,25-12-0,182
 86,Hiram,25-17-0,281
 87,Muhlenberg,22-15-0,453
-88,LeTourneau,23-19-0,8490
-89,Farmingdale St.,27-10-0,27892
-90,Loras,20-16-0,364
-91,Endicott,24-14-0,8981
-92,Westminster (PA),26-13-0,1451
+88,Westminster (PA),25-12-0,1451
+89,LeTourneau,23-19-0,8490
+90,Farmingdale St.,27-10-0,27892
+91,Loras,20-16-0,364
+92,Endicott,24-14-0,8981
 93,Luther,28-13-0,372
 94,Catholic,28-15-0,124
 95,Western New Eng.,27-15-0,775
@@ -119,8 +119,8 @@ Rank,Team,Record,Team ID
 119,Wilkes,20-15-0,784
 120,Middlebury,23-12-0,420
 121,Grinnell,26-16-0,264
-122,Hamilton,17-20-0,267
-123,Bethany Lutheran,27-13-0,30038
+122,Bethany Lutheran,27-13-0,30038
+123,Hamilton,17-20-0,267
 124,Marian (WI),27-19-0,1196
 125,Wis.-Platteville,20-16-0,800
 126,Spalding,23-18-0,23260
@@ -139,19 +139,19 @@ Rank,Team,Record,Team ID
 139,Baldwin Wallace,26-16-0,46
 140,Macalester,22-16-0,376
 141,Misericordia,22-13-0,16142
-142,Wis.-Stout,22-20-0,803
-143,Allegheny,23-11-0,19
-144,Waynesburg,24-17-0,1434
-145,Greenville,28-14-0,1111
-146,Juniata,16-17-0,325
+142,Allegheny,23-11-0,19
+143,Wis.-Stout,22-20-0,803
+144,Greenville,28-14-0,1111
+145,Juniata,16-17-0,325
+146,Westfield St.,28-13-1,777
 147,SUNY Geneseo,21-19-0,247
-148,Westfield St.,28-13-1,777
-149,Whittier,16-19-0,781
-150,Alvernia,22-14-0,938
-151,Scranton,18-19-0,633
-152,Kalamazoo,12-16-0,326
-153,Texas-Dallas,15-19-0,23121
-154,Wentworth,25-19-0,762
+148,Whittier,16-19-0,781
+149,Alvernia,22-14-0,938
+150,Scranton,18-19-0,633
+151,Kalamazoo,12-16-0,326
+152,Texas-Dallas,15-19-0,23121
+153,Wentworth,25-19-0,762
+154,Waynesburg,23-16-0,1434
 155,St. Thomas (TX),23-14-0,2810
 156,Benedictine (IL),23-17-0,296
 157,WPI,23-19-1,808
@@ -162,8 +162,8 @@ Rank,Team,Record,Team ID
 162,Susquehanna,18-18-0,685
 163,Nichols,24-20-0,484
 164,Cal Lutheran,15-19-0,105
-165,Ursinus,13-23-0,730
-166,Edgewood,19-22-0,1066
+165,Edgewood,19-22-0,1066
+166,Ursinus,13-23-0,730
 167,Pitt.-Bradford,23-12-0,1315
 168,Wooster,16-22-0,807
 169,John Jay,30-14-0,321
@@ -178,8 +178,8 @@ Rank,Team,Record,Team ID
 178,Montclair St.,16-21-0,442
 179,Pomona-Pitzer,16-17-0,549
 180,Stevens,14-20-0,679
-181,Wis.-Superior,24-15-0,804
-182,Old Westbury,20-11-0,524
+181,Old Westbury,20-11-0,524
+182,Wis.-Superior,25-15-0,804
 183,Augsburg,24-12-0,38
 184,Suffolk,20-24-0,684
 185,VTSU Castleton,18-18-0,123
@@ -205,8 +205,8 @@ Rank,Team,Record,Team ID
 205,Minn.-Morris,27-13-0,1226
 206,Emmanuel (MA),20-13-0,215
 207,Carroll (WI),11-26-0,120
-208,Guilford,19-24-0,1112
-209,St. Joseph's (Brkln),23-14-0,30072
+208,St. Joseph's (Brkln),23-14-0,30072
+209,Guilford,19-24-0,1112
 210,Arcadia,11-26-0,966
 211,Mount Aloysius,18-15-0,30036
 212,Franklin & Marshall,16-25-0,239
@@ -239,14 +239,14 @@ Rank,Team,Record,Team ID
 239,Cabrini,10-13-0,88
 240,Centre,16-25-0,132
 241,Willamette,15-16-0,785
-242,Hanover,13-26-0,1115
-243,Widener,13-19-0,783
+242,Widener,13-19-0,783
+243,Hanover,13-26-0,1115
 244,Neumann,15-25-0,1254
 245,North Park,10-23-0,496
 246,Manchester,19-19-0,1192
-247,Rockford,16-22-0,582
+247,Bethany (WV),22-13-0,59
 248,Capital,13-16-0,117
-249,Bethany (WV),22-13-0,59
+249,Rockford,16-22-0,582
 250,Ferrum,9-29-0,225
 251,St. Lawrence,18-15-0,607
 252,Methodist,19-21-0,412
@@ -272,7 +272,7 @@ Rank,Team,Record,Team ID
 272,Heidelberg,14-25-0,278
 273,Penn St.-Abington,20-19-0,30114
 274,Gordon,14-26-0,1099
-275,Mary Baldwin,15-17-0,389
+276,Mary Baldwin,15-17-0,389
 277,Southern Va.,15-22-0,30164
 278,La Verne,13-23-0,341
 279,Amherst,7-28-0,24
@@ -291,8 +291,8 @@ Rank,Team,Record,Team ID
 292,Cornell College,15-18-0,166
 293,Albion,13-18-0,15
 294,Pitt.-Greensburg,15-21-0,11839
-295,Anderson (IN),8-27-0,939
-296,Wash. & Jeff.,12-18-0,751
+295,Wash. & Jeff.,12-18-0,751
+296,Anderson (IN),8-27-0,939
 297,East. Mennonite,11-22-0,203
 298,Elizabethtown,9-25-0,211
 299,Bridgewater St.,18-21-0,76
@@ -308,8 +308,8 @@ Rank,Team,Record,Team ID
 310,Thomas (ME),11-20-0,2758
 311,Skidmore,9-27-0,642
 312,Oswego St.,10-22-0,530
-313,Keystone,12-17-0,30047
-314,Saint Vincent,12-17-0,30064
+313,Saint Vincent,12-17-0,30064
+314,Keystone,12-17-0,30047
 315,Stevenson,7-23-0,21852
 316,Kenyon,15-23-0,335
 317,Concordia Chicago,11-26-1,160
@@ -359,9 +359,9 @@ Rank,Team,Record,Team ID
 363,Schreiner,5-28-0,1355
 364,SUNY Brockport,8-28-0,78
 365,Eureka,10-28-0,218
-366,Mount Mary,12-26-0,30033
-367,Alverno,4-27-0,28746
-368,Martin Luther,7-21-0,8597
+366,Martin Luther,7-22-0,8597
+367,Mount Mary,12-26-0,30033
+368,Alverno,4-27-0,28746
 369,Clark (MA),6-30-0,145
 370,Brevard,7-27-0,30094
 371,Crown (MN),6-29-0,30035
