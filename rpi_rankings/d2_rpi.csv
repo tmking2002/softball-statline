@@ -5,7 +5,7 @@ Rank,Team,Record,Team ID
 4,Wingate,43-9-0,1462
 5,Augustana (SD),47-11-0,41
 6,Central Okla.,41-11-0,1009
-7,UT Tyler,37-3-0,30028
+7,UT Tyler,38-3-0,30028
 8,Tampa,40-10-0,689
 9,Lenoir-Rhyne,48-19-0,1170
 10,Nova Southeastern,37-12-0,24639
@@ -17,7 +17,7 @@ Rank,Team,Record,Team ID
 16,Francis Marion,43-12-0,1085
 17,Charleston (WV),45-8-0,1013
 18,Saint Leo,35-18-0,608
-19,Western Wash.,39-11-0,1448
+19,Western Wash.,39-12-0,1448
 20,Alabama Huntsville,36-16-0,10
 21,Rollins,35-12-0,584
 22,West Florida,36-13-0,11740
@@ -34,8 +34,8 @@ Rank,Team,Record,Team ID
 34,Valdosta St.,29-21-0,734
 35,Minn. Duluth,36-15-0,427
 36,West Ala.,31-19-0,358
-37,West Chester,37-22-0,765
-38,Okla. Christian,21-13-0,30179
+37,Okla. Christian,21-13-0,30179
+38,West Chester,37-22-0,765
 39,Adelphi,31-21-0,3
 40,Anderson (SC),33-13-0,13028
 41,Columbus St.,31-20-0,159
@@ -59,14 +59,14 @@ Rank,Team,Record,Team ID
 59,Flagler,30-23-0,30092
 60,Emporia St.,30-15-0,1071
 61,MSU Denver,38-13-0,413
-62,Northwest Nazarene,28-11-0,1274
-63,Azusa Pacific,31-18-0,30146
-64,Southern Ark.,31-19-0,1376
+62,Azusa Pacific,31-18-0,30146
+63,Southern Ark.,31-19-0,1376
+64,Northwest Nazarene,28-11-0,1274
 65,Mo. Southern St.,27-22-0,9012
 66,Harding,33-16-0,1116
 67,Minnesota St.,34-15-0,383
-68,Bloomsburg,34-24-0,65
-69,St. Mary's (TX),19-16-0,1346
+68,St. Mary's (TX),19-16-0,1346
+69,Bloomsburg,34-24-0,65
 70,Spring Hill,28-15-0,30191
 71,Hillsdale,34-14-0,280
 72,Northwood,34-20-0,510
@@ -78,8 +78,8 @@ Rank,Team,Record,Team ID
 78,USC Aiken,28-20-0,11276
 79,Fairmont St.,33-11-0,1076
 80,Catawba,22-22-0,1001
-81,Saint Martin's,25-20-0,1343
-82,Limestone,19-18-0,1174
+81,Limestone,19-18-0,1174
+82,Saint Martin's,25-20-0,1343
 83,Angelo St.,20-8-0,25
 84,Arkansas Tech,22-19-0,947
 85,Millersville,25-24-0,423
@@ -156,10 +156,10 @@ Rank,Team,Record,Team ID
 156,Augusta,17-27-0,39
 157,Indiana (PA),27-24-0,307
 158,Delaware St.,7-3-0,178
-159,Western Ore.,16-19-0,1446
-160,Bowie St.,20-23-0,70
-161,Stanislaus St.,19-24-0,103
-162,Slippery Rock,24-26-0,643
+159,Bowie St.,20-23-0,70
+160,Stanislaus St.,19-24-0,103
+161,Slippery Rock,24-26-0,643
+162,Western Ore.,16-19-0,1446
 163,Eastern N.M.,14-14-0,206
 164,Southern Conn. St.,15-24-0,658
 165,Lane,20-15-0,347
@@ -186,9 +186,9 @@ Rank,Team,Record,Team ID
 186,Henderson St.,18-25-0,1123
 187,Upper Iowa,15-30-0,728
 188,Wayne St. (MI),15-30-0,757
-189,Central Wash.,14-18-0,1010
-190,Fort Lewis,15-24-0,1083
-191,CSU Pueblo,21-28-0,2720
+189,Fort Lewis,15-24-0,1083
+190,CSU Pueblo,21-28-0,2720
+191,Central Wash.,14-18-0,1010
 192,Chaminade,15-17-0,133
 193,Albany St. (GA),25-14-0,13
 194,Chico St.,13-28-0,95
@@ -227,8 +227,8 @@ Rank,Team,Record,Team ID
 227,N.M. Highlands,12-30-0,8577
 228,Holy Family,14-30-0,1126
 229,Felician,19-25-0,23157
-230,Academy of Art,10-30-0,30123
-231,Tex. A&M Int'l,10-21-0,30090
+230,Tex. A&M Int'l,10-21-0,30090
+231,Academy of Art,10-30-0,30123
 232,Bloomfield,20-23-0,984
 233,Ky. Wesleyan,12-29-0,333
 234,Wheeling,10-39-0,12799
@@ -254,8 +254,8 @@ Rank,Team,Record,Team ID
 254,Hawaii Pacific,8-28-0,2696
 255,American Int'l,9-22-0,22
 256,Claflin,16-20-0,30058
-257,Clark Atlanta,11-22-0,144
-258,Western N.M.,2-23-0,1445
+257,Western N.M.,2-23-0,1445
+258,Clark Atlanta,11-22-0,144
 259,Shorter,1-43-0,30151
 260,Savannah St.,11-24-0,632
 261,Staten Island,11-30-0,675
@@ -263,8 +263,8 @@ Rank,Team,Record,Team ID
 263,Mont. St. Billings,6-30-0,205
 264,D'Youville,7-33-0,1059
 265,Fayetteville St.,11-20-0,223
-266,Lake Erie,3-36-0,2746
-267,Tex. Permian Basin,5-23-0,30088
+266,Tex. Permian Basin,5-23-0,30088
+267,Lake Erie,3-36-0,2746
 268,Benedict,10-27-0,55
 269,Adams St.,4-44-0,929
 270,Elizabeth City St.,6-18-0,210
