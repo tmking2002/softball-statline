@@ -1,29 +1,29 @@
 Rank,Team,Record,Team ID
-1,Texas,50-7-0,703
-2,Oklahoma,53-6-0,522
-3,Duke,52-7-0,193
-4,UCLA,42-10-0,110
+1,Oklahoma,54-6-0,522
+2,Texas,51-7-0,703
+3,Duke,52-8-0,193
+4,UCLA,43-10-0,110
 5,Tennessee,44-11-0,694
 6,Missouri,47-18-0,434
-7,Oklahoma St.,49-10-0,521
+7,Oklahoma St.,49-11-0,521
 8,LSU,40-17-0,365
-9,Stanford,46-15-0,674
-10,Florida,48-13-0,235
+9,Florida,49-13-0,235
+10,Stanford,46-16-0,674
 11,Florida St.,44-16-0,234
 12,Georgia,42-19-0,257
 13,Texas A&M,44-15-0,697
 14,Louisiana,45-19-0,671
-15,Alabama,36-15-0,8
+15,Alabama,36-16-0,8
 16,Arkansas,36-18-0,31
 17,Baylor,36-23-0,51
 18,Arizona,36-18-1,29
-19,Virginia Tech,40-14-1,742
-20,Washington,30-15-0,756
+19,Washington,30-15-0,756
+20,Virginia Tech,40-14-1,742
 21,Texas St.,46-13-0,670
 22,Clemson,35-19-0,147
 23,California,35-19-0,107
-24,Virginia,34-20-0,746
-25,Auburn,29-17-1,37
+24,Auburn,29-17-1,37
+25,Virginia,34-20-0,746
 26,Northwestern,36-13-0,509
 27,Oregon,28-19-0,529
 28,Mississippi St.,33-18-0,430
@@ -50,8 +50,8 @@ Rank,Team,Record,Team ID
 49,Kansas,26-25-1,328
 50,Troy,32-22-0,716
 51,Ole Miss,31-24-0,433
-52,North Carolina,26-20-0,457
-53,Nebraska,30-23-0,463
+52,Nebraska,30-23-0,463
+53,North Carolina,26-20-0,457
 54,NC State,29-23-0,490
 55,Ohio St.,31-20-0,518
 56,Grand Canyon,50-13-0,1104
@@ -118,14 +118,14 @@ Rank,Team,Record,Team ID
 117,Maryland,23-30-0,392
 118,Jacksonville St.,23-30-0,315
 119,Long Beach St.,25-28-0,99
-120,Sacramento St.,27-20-0,102
-121,Lehigh,31-19-0,352
+120,Lehigh,31-19-0,352
+121,Sacramento St.,27-20-0,102
 122,Ga. Southern,30-21-0,253
 123,UNC Greensboro,31-26-0,459
 124,USC Upstate,29-23-0,10411
 125,Canisius,18-22-0,116
-126,Dayton,30-21-0,175
-127,Binghamton,30-17-0,62
+126,Binghamton,30-17-0,62
+127,Dayton,30-21-0,175
 128,Cal Poly,25-17-0,90
 129,Belmont,30-20-0,14927
 130,UTEP,27-21-0,704
@@ -137,17 +137,17 @@ Rank,Team,Record,Team ID
 136,FIU,21-29-0,231
 137,Harvard,27-17-0,275
 138,Southern Ind.,25-21-0,661
-139,Saint Mary's (CA),30-24-0,610
-140,Marist,31-16-0,386
-141,Western Mich.,27-22-0,774
+139,Marist,31-16-0,386
+140,Western Mich.,27-22-0,774
+141,Saint Mary's (CA),30-24-0,610
 142,Niagara,26-20-0,482
 143,Utah Valley,23-28-0,30024
-144,Longwood,19-33-0,363
+144,Houston Christian,19-24-0,287
 145,LIU,30-21-0,361
-146,Houston Christian,19-24-0,287
+146,Longwood,19-33-0,363
 147,UT Martin,28-23-0,695
-148,Drake,23-26-0,189
-149,Bryant,34-17-0,81
+148,Bryant,34-17-0,81
+149,Drake,23-26-0,189
 150,Florida A&M,21-19-0,228
 151,Providence,20-22-1,556
 152,Dartmouth,18-17-0,172
@@ -157,10 +157,10 @@ Rank,Team,Record,Team ID
 156,Austin Peay,23-29-0,43
 157,Jacksonville,25-24-0,316
 158,Loyola Chicago,26-23-0,371
-159,Northern Colo.,27-25-0,502
-160,Hofstra,19-26-0,283
-161,Seattle U,23-32-0,1356
-162,Ball St.,29-29-0,47
+159,Hofstra,19-26-0,283
+160,Northern Colo.,27-25-0,502
+161,Ball St.,29-29-0,47
+162,Seattle U,23-32-0,1356
 163,App State,18-29-0,27
 164,Charleston So.,22-26-0,48
 165,Utah St.,22-28-0,731
@@ -173,29 +173,29 @@ Rank,Team,Record,Team ID
 172,Winthrop,23-27-0,792
 173,Radford,23-23-0,563
 174,Lindenwood,25-25-0,30136
-175,Yale,20-26-0,813
-176,Siena,27-22-0,639
+175,Siena,27-22-0,639
+176,Yale,20-26-0,813
 177,Toledo,26-23-0,709
 178,Weber St.,21-28-0,758
 179,San Jose St.,17-26-0,630
-180,Oakland,25-19-0,514
-181,UT Arlington,21-33-0,702
+180,UT Arlington,21-33-0,702
+181,Oakland,25-19-0,514
 182,Saint Louis,29-21-0,609
 183,Kent St.,27-23-0,331
-184,Samford,24-32-0,625
-185,Northwestern St.,16-28-0,508
+184,Northwestern St.,16-28-0,508
+185,Samford,24-32-0,625
 186,Howard,29-13-0,290
 187,CSUN,24-26-0,101
 188,Stetson,15-37-0,678
-189,Morgan St.,33-20-0,446
-190,Youngstown St.,35-16-0,817
+189,Youngstown St.,35-16-0,817
+190,Morgan St.,33-20-0,446
 191,San Diego,18-34-0,627
 192,Missouri St.,19-32-0,669
 193,Kansas City,23-30-0,2707
 194,Mercer,22-29-0,406
 195,Tarleton St.,22-32-0,1395
-196,New Mexico,16-38-0,473
-197,UMBC,20-23-0,391
+196,UMBC,20-23-0,391
+197,New Mexico,16-38-0,473
 198,Fordham,23-28-1,236
 199,Akron,23-29-0,5
 200,Wofford,23-24-0,2915
@@ -208,8 +208,8 @@ Rank,Team,Record,Team ID
 207,George Washington,26-23-0,249
 208,Furman,24-30-0,244
 209,Southern Utah,21-29-0,667
-210,UC Riverside,16-27-0,111
-211,Rider,19-27-0,576
+210,Rider,19-27-0,576
+211,UC Riverside,16-27-0,111
 212,South Dakota,22-29-0,650
 213,UC Davis,21-27-0,108
 214,George Mason,20-29-0,248
