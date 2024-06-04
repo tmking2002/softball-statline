@@ -14,11 +14,11 @@ Rank,Team,Record,Team ID
 13,Okla. Baptist,36-11-0,30202
 14,West Tex. A&M,30-5-0,767
 15,Francis Marion,39-11-0,1085
-16,Wilmington (DE),47-12-0,1460
-17,Tampa,32-10-0,689
-18,Rollins,32-8-0,584
-19,Charleston (WV),43-8-0,1013
-20,Lenoir-Rhyne,36-16-0,1170
+16,Tampa,32-10-0,689
+17,Rollins,32-8-0,584
+18,Charleston (WV),43-8-0,1013
+19,Lenoir-Rhyne,36-15-0,1170
+20,Wilmington (DE),46-12-0,1460
 21,Alabama Huntsville,34-14-0,10
 22,Southern Nazarene,36-13-0,30152
 23,East Stroudsburg,45-15-0,197
@@ -40,8 +40,8 @@ Rank,Team,Record,Team ID
 39,Cal St. Dom. Hills,37-16-0,92
 40,CUI,31-7-0,30199
 41,Valdosta St.,27-19-0,734
-42,Cal St. San Marcos,29-18-0,30198
-43,Columbus St.,28-18-0,159
+42,Columbus St.,28-18-0,159
+43,Cal St. San Marcos,29-18-0,30198
 44,Minn. Duluth,33-14-0,427
 45,Concordia-St. Paul,31-11-0,9081
 46,Ohio Dominican,32-13-0,30119
@@ -49,8 +49,8 @@ Rank,Team,Record,Team ID
 48,Grand Valley St.,33-16-0,262
 49,Kutztown,32-24-0,339
 50,Okla. Christian,19-10-0,30179
+51,Tusculum,22-17-0,12830
 52,Fairmont St.,32-7-0,1076
-53,Tusculum,22-17-0,12830
 54,Shippensburg,34-20-0,638
 55,Winona St.,30-15-0,790
 56,Embry-Riddle (FL),27-18-0,9680
@@ -70,10 +70,10 @@ Rank,Team,Record,Team ID
 70,Southern Ark.,26-16-0,1376
 71,St. Mary's (TX),18-16-0,1346
 72,Findlay,28-16-0,1079
-73,Northwest Nazarene,25-9-0,1274
-74,Hillsdale,30-12-0,280
-75,Gannon,30-13-0,246
-76,Carson-Newman,25-14-0,1000
+73,Hillsdale,30-12-0,280
+74,Northwest Nazarene,25-9-0,1274
+75,Carson-Newman,25-14-0,1000
+76,Gannon,30-13-0,246
 77,Limestone,17-18-0,1174
 78,Arkansas Tech,19-18-0,947
 79,Drury,26-21-0,1057
@@ -84,8 +84,8 @@ Rank,Team,Record,Team ID
 84,Molloy,25-24-0,437
 85,Saint Martin's,23-16-0,1343
 86,Emmanuel (GA),31-20-0,30193
-87,Mount Olive,30-14-0,1245
-88,Newberry,20-20-0,1257
+87,Newberry,20-20-0,1257
+88,Mount Olive,30-14-0,1245
 89,Angelo St.,19-8-0,25
 90,Cal St. East Bay,24-21-0,98
 91,Frostburg St.,25-17-0,243
@@ -119,13 +119,13 @@ Rank,Team,Record,Team ID
 119,Georgia College,25-23-0,1096
 120,Tiffin,26-23-0,1403
 121,Shepherd,20-22-0,10870
-122,Bridgeport,25-21-0,74
-123,St. Cloud St.,25-23-0,598
+122,St. Cloud St.,25-23-0,598
+123,Bridgeport,25-21-0,74
 124,King (TN),24-22-0,30051
-125,Virginia St.,25-5-0,743
-126,Maryville (MO),22-27-0,395
-127,UNC Pembroke,16-23-0,537
-128,Barton,21-21-0,15646
+125,UNC Pembroke,16-23-0,537
+126,Virginia St.,25-5-0,743
+127,Barton,21-21-0,15646
+128,Maryville (MO),22-27-0,395
 129,St. Anselm,15-21-0,593
 130,Franklin Pierce,22-12-0,241
 131,Central Mo.,21-22-0,130
@@ -138,35 +138,35 @@ Rank,Team,Record,Team ID
 138,Mo.-St. Louis,24-24-0,436
 139,Lock Haven,16-25-0,360
 140,Western Ore.,14-16-0,1446
-141,California (PA),23-17-0,106
-142,Lees-McRae,18-18-0,13302
+141,Lees-McRae,18-18-0,13302
+142,California (PA),23-17-0,106
 143,Missouri S&T,22-27-0,435
 144,Tex. A&M-Kingsville,19-12-0,696
 145,Cedarville,20-23-0,30124
-146,Saint Rose,14-17-0,1347
-147,Delaware St.,8-3-0,178
-148,West Liberty,16-29-0,1438
+146,West Liberty,16-29-0,1438
+147,Saint Rose,14-17-0,1347
+148,Delaware St.,8-3-0,178
 149,Fort Valley St.,22-13-0,237
 150,Davis & Elkins,22-23-0,174
 151,Truman St.,20-28-0,499
 152,Concord,23-22-0,1028
-153,Lane,19-12-0,347
-154,Emory & Henry,18-22-0,216
+153,Emory & Henry,18-22-0,216
+154,Lane,19-12-0,347
 155,Fla. Southern,13-28-0,233
 156,Indiana (PA),25-20-0,307
 157,San Fran. St.,16-22-0,628
-158,Biola,16-23-0,30220
-159,Bowie St.,20-21-0,70
-160,Georgian Court,19-23-0,9004
-161,Southern Conn. St.,14-20-0,658
+158,Bowie St.,20-21-0,70
+159,Biola,16-23-0,30220
+160,Southern Conn. St.,14-20-0,658
+161,Georgian Court,19-23-0,9004
 162,Stanislaus St.,16-22-0,103
 163,Augusta,14-27-0,39
 164,Northern St.,13-17-0,1266
 165,Rockhurst,16-20-0,1328
 166,Cal Poly Humboldt,18-19-0,291
 167,Goldey-Beacom,26-25-0,8366
-168,East Central,15-23-0,8965
-169,Henderson St.,16-20-0,1123
+168,Henderson St.,16-20-0,1123
+169,East Central,15-23-0,8965
 170,USC Beaufort,13-23-0,30259
 171,Sioux Falls,16-21-0,30128
 172,UVA Wise,11-26-0,30181
@@ -229,10 +229,10 @@ Rank,Team,Record,Team ID
 229,Ky. Wesleyan,9-25-0,333
 230,New Haven,5-28-0,470
 231,Agnes Scott,2-3-0,11324
-232,Felician,17-25-0,23157
-233,Hawaii Pacific,7-23-0,2696
-234,Jefferson,11-20-0,543
-235,Simon Fraser,7-22-0,30127
+232,Hawaii Pacific,7-23-0,2696
+233,Felician,17-25-0,23157
+234,Simon Fraser,7-22-0,30127
+235,Jefferson,11-20-0,543
 236,Mansfield,10-29-0,384
 237,Erskine,6-31-0,1072
 238,Converse,13-33-0,8935
@@ -251,8 +251,8 @@ Rank,Team,Record,Team ID
 251,Wayne St. (NE),8-40-0,1433
 252,Clark Atlanta,11-21-0,144
 253,Mary,7-36-0,30075
-254,Dominican (NY),11-25-0,8956
-255,Shorter,1-40-0,30151
+254,Shorter,1-40-0,30151
+255,Dominican (NY),11-25-0,8956
 256,Staten Island,10-25-0,675
 257,Savannah St.,10-23-0,632
 258,American Int'l,7-21-0,22
