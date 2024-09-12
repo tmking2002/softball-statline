@@ -7,7 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="stylesheet.css">
+
+    <script src="toggle_darkmode.js"></script>
 
     <style>
 
@@ -22,29 +30,125 @@
             .w3-dropdown-content {
             position: relative !important;
            }
-        }   
-
-    #table-container {
-      max-width: 800px; 
-      margin: 0 auto; 
+        } 
+        
+    .team-header {
+        display: grid;
+        grid-template-columns: 40% 60%; /* 25% width for logo, 75% for content */
+        border: 1px solid #000000;
+        border-radius: 10px;
+        margin: 1% 35%;
+        height: 12vw;
     }
 
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        table-layout: fixed; 
+    .dark-mode .team-header {
+        border: 1px solid white;
     }
 
-    th,
-    td {
-        border: 1px solid #ccc;
-        padding: 4px;
+    .logo-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%; /* Takes full width of the grid column */
+        height: 100%; /* Creates a responsive square aspect ratio */
+        position: relative;
+    }
+
+    .logo {
+        width: 80%; /* Adjust to ensure some padding within the container */
+        height: 80%; /* Adjust to ensure some padding within the container */
+        object-fit: contain; /* Ensures the image fits within the container */
+    }
+
+    .content-container {
+        display: grid;
+        grid-template-rows: 60% 40%; /* Two rows with 60/40 split */
+        grid-template-columns: repeat(4, 1fr); /* Four equal-width columns for the bottom row */
+    }
+
+    .subcontainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #E15241;
+        border-radius: 5px;
         text-align: center;
-        width: auto;
+        font-weight: bold;
+        font-size: 2vw; /* Adjust as needed */
     }
 
-    th {
-        background-color: #f2f2f2;
+    .team-name {
+        margin: 0; /* Removes default margin */
+        margin-top: 5%;
+        padding: 0; /* Removes default padding */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3vw;
+        font-weight: 700;
+        grid-column: span 4;
+        grid-row: 1;
+    }
+
+
+    .team-record, .team-rpi, .team-off, .team-def {
+        grid-row: 2; /* Place these in the second row */
+        display: flex; /* Center text horizontally and vertically */
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 1.25vw; /* Adjust font size as needed */
+        padding: 5px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .overview-button-container {
+        display: flex;
+        justify-content: center;
+        margin: 10px auto; /* Center the container horizontally and add top margin */
+    }
+
+    .overview-button-container button {
+        padding: 10px 20px; /* Adjust padding as needed */
+        font-size: 1vw; /* Adjust font size as needed */
+        border: 1px solid #000000;
+        border-radius: 20px;
+        background-color: #fff;
+        cursor: pointer;
+        margin-bottom: 15px;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: space-between; /* Space buttons evenly */
+        width: 30%; /* Set the width of the button container */
+        margin: 10px auto; /* Center the container horizontally and add top margin */
+    }
+
+    .button-container button, .button-container select {
+        flex: 1; /* Equal width for buttons and dropdown */
+        margin: 0 5px; /* Space between buttons */
+        padding: 10px;
+        font-size: 1vw; /* Adjust font size as needed */
+        border: 1px solid #000000;
+        border-radius: 20px;
+        background-color: #fff;
+        cursor: pointer;
+        text-align: center;
+      }
+
+    .button-container button:first-child {
+        margin-left: 0;
+    }
+
+    .button-container select {
+        flex: 2; /* Wider dropdown */
+    }
+
+    .button-container button:hover, .button-container select:hover {
+        background-color: #f0f0f0; /* Light grey on hover */
     }
     </style>
 
@@ -57,45 +161,48 @@
 
       gtag('config', 'G-YFFKCYZJXV');
     </script>
+    
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch('header.html')
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById('header-container').innerHTML = data;
+              });
+      })
+    </script>
 </head>
 <body>
+  <div id="header-container"></div>
 
-  <div class="w3-top">
-    <div class="w3-bar w3-top w3-center-align w3-large">
-        <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
-                   Menu<i class="fa fa-caret-down"></i>
-                </button>
-                <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='../'">Home</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
-                </div>
-              </div>
-          </div>
-        <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
-            <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Home</a>
-            <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Players</a>
-            <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Teams</a>
-            <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
-            <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
-            <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
-        </div>
-      </div>
-</div>
-
-
-<!-- Header -->
-<div class="w3-center" style="position: relative; margin-top: 100px; margin-bottom: 50px"> 
-    <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+  <div class="team-header">
+    <div class="logo-container">
+      <img class="logo" id="team-logo">
+    </div>
+    <div class="content-container">
+      <p class="team-name" id="team-name"></p>
+      <p class="team-record" id="team-record">W-L<br>10-10</p>
+      <p class="team-rpi" id="team-rpi">RPI<br>100th</p>
+      <p class="team-off" id="team-off">Off.<br>32</p>
+      <p class="team-def" id="team-def">Def.<br>68</p>
+    </div>  
   </div>
 
-  <h1 style="text-align: center;"></h1>
-  <div id="table-container"></div>
-  <script src="papaparse.min.js"></script>
-  <script src="team_info.js"></script>
+  <div class="overview-button-container">
+    <button>Overview</button>
+  </div>
+
+  <div class="button-container">
+    <button>Roster</button>
+    <button>Stats</button>
+    <button>Schedule</button>
+    <select>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+    </select>
+</div>
+  
+
+  <script type="module" src="team_info.js"></script>
 </body>
 </html>

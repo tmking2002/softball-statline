@@ -1,1028 +1,1065 @@
-"","team_name","team_id","division"
-"1","A&M-Corpus Christi","26172","D-I"
-"2","Abilene Christian","2","D-I"
-"3","Akron","5","D-I"
-"4","Alabama","8","D-I"
-"5","Alabama A&M","6","D-I"
-"6","Alabama St.","7","D-I"
-"7","Alcorn","17","D-I"
-"8","App State","27","D-I"
-"9","Arizona","29","D-I"
-"10","Arizona St.","28","D-I"
-"11","Ark.-Pine Bluff","2678","D-I"
-"12","Arkansas","31","D-I"
-"13","Arkansas St.","30","D-I"
-"14","Army West Point","725","D-I"
-"15","Auburn","37","D-I"
-"16","Austin Peay","43","D-I"
-"17","BYU","77","D-I"
-"18","Ball St.","47","D-I"
-"19","Baylor","51","D-I"
-"20","Bellarmine","52","D-I"
-"21","Belmont","14927","D-I"
-"22","Bethune-Cookman","61","D-I"
-"23","Binghamton","62","D-I"
-"24","Boise St.","66","D-I"
-"25","Boston College","67","D-I"
-"26","Boston U.","68","D-I"
-"27","Bowling Green","71","D-I"
-"28","Bradley","72","D-I"
-"29","Brown","80","D-I"
-"30","Bryant","81","D-I"
-"31","Bucknell","83","D-I"
-"32","Buffalo","86","D-I"
-"33","Butler","87","D-I"
-"34","CSU Bakersfield","94","D-I"
-"35","CSUN","101","D-I"
-"36","Cal Poly","90","D-I"
-"37","Cal Poly Pomona","91","D-I"
-"38","Cal St. Fullerton","97","D-I"
-"39","California","107","D-I"
-"40","California Baptist","30135","D-I"
-"41","Campbell","115","D-I"
-"42","Canisius","116","D-I"
-"43","Central Ark.","1004","D-I"
-"44","Central Conn. St.","127","D-I"
-"45","Central Mich.","129","D-I"
-"46","Charleston So.","48","D-I"
-"47","Charlotte","458","D-I"
-"48","Chattanooga","693","D-I"
-"49","Chicago St.","136","D-I"
-"50","Cincinnati","140","D-I"
-"51","Clemson","147","D-I"
-"52","Cleveland St.","148","D-I"
-"53","Coastal Carolina","149","D-I"
-"54","Col. of Charleston","1014","D-I"
-"55","Colgate","153","D-I"
-"56","Colorado St.","156","D-I"
-"57","Columbia","158","D-I"
-"58","Coppin St.","165","D-I"
-"59","Cornell","167","D-I"
-"60","Creighton","169","D-I"
-"61","Dartmouth","172","D-I"
-"62","Dayton","175","D-I"
-"63","DePaul","176","D-I"
-"64","Delaware","180","D-I"
-"65","Delaware St.","178","D-I"
-"66","Detroit Mercy","184","D-I"
-"67","Drake","189","D-I"
-"68","Drexel","191","D-I"
-"69","Duke","193","D-I"
-"70","Duquesne","194","D-I"
-"71","ETSU","198","D-I"
-"72","East Carolina","196","D-I"
-"73","Eastern Ill.","201","D-I"
-"74","Eastern Ky.","202","D-I"
-"75","Eastern Mich.","204","D-I"
-"76","Elon","1068","D-I"
-"77","Evansville","219","D-I"
-"78","FDU","222","D-I"
-"79","FGCU","28755","D-I"
-"80","FIU","231","D-I"
-"81","Fairfield","220","D-I"
-"82","Fla. Atlantic","229","D-I"
-"83","Florida","235","D-I"
-"84","Florida A&M","228","D-I"
-"85","Florida St.","234","D-I"
-"86","Fordham","236","D-I"
-"87","Fresno St.","96","D-I"
-"88","Furman","244","D-I"
-"89","Ga. Southern","253","D-I"
-"90","Gardner-Webb","1092","D-I"
-"91","George Mason","248","D-I"
-"92","George Washington","249","D-I"
-"93","Georgetown","251","D-I"
-"94","Georgia","257","D-I"
-"95","Georgia St.","254","D-I"
-"96","Georgia Tech","255","D-I"
-"97","Grambling","261","D-I"
-"98","Grand Canyon","1104","D-I"
-"99","Green Bay","794","D-I"
-"100","Hampton","270","D-I"
-"101","Harvard","275","D-I"
-"102","Hawaii","277","D-I"
-"103","Hofstra","283","D-I"
-"104","Holy Cross","285","D-I"
-"105","Houston","288","D-I"
-"106","Houston Christian","287","D-I"
-"107","Howard","290","D-I"
-"108","IUPUI","2699","D-I"
-"109","Idaho St.","294","D-I"
-"110","Illinois","301","D-I"
-"111","Illinois St.","299","D-I"
-"112","Indiana","306","D-I"
-"113","Indiana St.","305","D-I"
-"114","Iona","310","D-I"
-"115","Iowa","312","D-I"
-"116","Iowa St.","311","D-I"
-"117","Jackson St.","314","D-I"
-"118","Jacksonville","316","D-I"
-"119","Jacksonville St.","315","D-I"
-"120","James Madison","317","D-I"
-"121","Kansas","328","D-I"
-"122","Kansas City","2707","D-I"
-"123","Kansas St.","327","D-I"
-"124","Kennesaw St.","1157","D-I"
-"125","Kent St.","331","D-I"
-"126","Kentucky","334","D-I"
-"127","LIU","361","D-I"
-"128","LMU (CA)","370","D-I"
-"129","LSU","365","D-I"
-"130","La Salle","340","D-I"
-"131","Lafayette","342","D-I"
-"132","Lamar University","346","D-I"
-"133","Le Moyne","349","D-I"
-"134","Lehigh","352","D-I"
-"135","Liberty","355","D-I"
-"136","Lindenwood","30136","D-I"
-"137","Lipscomb","28600","D-I"
-"138","Long Beach St.","99","D-I"
-"139","Longwood","363","D-I"
-"140","Louisiana","671","D-I"
-"141","Louisiana Tech","366","D-I"
-"142","Louisville","367","D-I"
-"143","Loyola Chicago","371","D-I"
-"144","Loyola Maryland","369","D-I"
-"145","Maine","380","D-I"
-"146","Manhattan","381","D-I"
-"147","Marist","386","D-I"
-"148","Marshall","388","D-I"
-"149","Maryland","392","D-I"
-"150","Massachusetts","400","D-I"
-"151","McNeese","402","D-I"
-"152","Memphis","404","D-I"
-"153","Mercer","406","D-I"
-"154","Merrimack","410","D-I"
-"155","Miami (OH)","414","D-I"
-"156","Michigan","418","D-I"
-"157","Michigan St.","416","D-I"
-"158","Middle Tenn.","419","D-I"
-"159","Minnesota","428","D-I"
-"160","Mississippi St.","430","D-I"
-"161","Mississippi Val.","432","D-I"
-"162","Missouri","434","D-I"
-"163","Missouri St.","669","D-I"
-"164","Monmouth","439","D-I"
-"165","Montana","441","D-I"
-"166","Morehead St.","444","D-I"
-"167","Morgan St.","446","D-I"
-"168","Mount St. Mary's","450","D-I"
-"169","Murray St.","454","D-I"
-"170","N.C. A&T","488","D-I"
-"171","N.C. Central","489","D-I"
-"172","NC State","490","D-I"
-"173","NIU","503","D-I"
-"174","Nebraska","463","D-I"
-"175","Nevada","466","D-I"
-"176","New Mexico","473","D-I"
-"177","New Mexico St.","472","D-I"
-"178","New Orleans","474","D-I"
-"179","Niagara","482","D-I"
-"180","Nicholls","483","D-I"
-"181","Norfolk St.","485","D-I"
-"182","North Ala.","487","D-I"
-"183","North Carolina","457","D-I"
-"184","North Dakota","494","D-I"
-"185","North Dakota St.","493","D-I"
-"186","North Florida","2711","D-I"
-"187","North Texas","497","D-I"
-"188","Northern Ariz.","501","D-I"
-"189","Northern Colo.","502","D-I"
-"190","Northern Ky.","505","D-I"
-"191","Northwestern","509","D-I"
-"192","Northwestern St.","508","D-I"
-"193","Notre Dame","513","D-I"
-"194","Oakland","514","D-I"
-"195","Ohio","519","D-I"
-"196","Ohio St.","518","D-I"
-"197","Oklahoma","522","D-I"
-"198","Oklahoma City","503905","D-I"
-"199","Oklahoma St.","521","D-I"
-"200","Ole Miss","433","D-I"
-"201","Omaha","464","D-I"
-"202","Oregon","529","D-I"
-"203","Oregon St.","528","D-I"
-"204","Pacific","534","D-I"
-"205","Penn","540","D-I"
-"206","Penn St.","539","D-I"
-"207","Pittsburgh","545","D-I"
-"208","Portland St.","550","D-I"
-"209","Prairie View","553","D-I"
-"210","Presbyterian","1320","D-I"
-"211","Princeton","554","D-I"
-"212","Providence","556","D-I"
-"213","Purdue","559","D-I"
-"214","Purdue Fort Wayne","308","D-I"
-"215","Queens (NC)","11504","D-I"
-"216","Quinnipiac","562","D-I"
-"217","Radford","563","D-I"
-"218","Rhode Island","572","D-I"
-"219","Rider","576","D-I"
-"220","Robert Morris","579","D-I"
-"221","Rutgers","587","D-I"
-"222","SFA","676","D-I"
-"223","SIUE","660","D-I"
-"224","Sacramento St.","102","D-I"
-"225","Sacred Heart","590","D-I"
-"226","Saint Francis (PA)","600","D-I"
-"227","Saint Joseph's","606","D-I"
-"228","Saint Louis","609","D-I"
-"229","Saint Mary's (CA)","610","D-I"
-"230","Saint Peter's","617","D-I"
-"231","Sam Houston","624","D-I"
-"232","Samford","625","D-I"
-"233","San Diego","627","D-I"
-"234","San Diego St.","626","D-I"
-"235","San Francisco","629","D-I"
-"236","San Jose St.","630","D-I"
-"237","Santa Clara","631","D-I"
-"238","Seattle U","1356","D-I"
-"239","Seton Hall","635","D-I"
-"240","Siena","639","D-I"
-"241","South Alabama","646","D-I"
-"242","South Carolina","648","D-I"
-"243","South Carolina St.","647","D-I"
-"244","South Dakota","650","D-I"
-"245","South Dakota St.","649","D-I"
-"246","South Fla.","651","D-I"
-"247","Southeast Mo. St.","654","D-I"
-"248","Southeastern La.","655","D-I"
-"249","Southern Ill.","659","D-I"
-"250","Southern Ind.","661","D-I"
-"251","Southern Miss.","664","D-I"
-"252","Southern U.","665","D-I"
-"253","Southern Utah","667","D-I"
-"254","St. Bonaventure","596","D-I"
-"255","St. Francis Brooklyn","599","D-I"
-"256","St. John's (NY)","603","D-I"
-"257","St. Thomas (MN)","620","D-I"
-"258","Stanford","674","D-I"
-"259","Stetson","678","D-I"
-"260","Stonehill","682","D-I"
-"261","Stony Brook","683","D-I"
-"262","Syracuse","688","D-I"
-"263","Tarleton St.","1395","D-I"
-"264","Temple","690","D-I"
-"265","Tennessee","694","D-I"
-"266","Tennessee St.","691","D-I"
-"267","Tennessee Tech","692","D-I"
-"268","Tex. A&M-Commerce","199","D-I"
-"269","Texas","703","D-I"
-"270","Texas A&M","697","D-I"
-"271","Texas Southern","699","D-I"
-"272","Texas St.","670","D-I"
-"273","Texas Tech","700","D-I"
-"274","Toledo","709","D-I"
-"275","Towson","711","D-I"
-"276","Troy","716","D-I"
-"277","Tulsa","719","D-I"
-"278","UAB","9","D-I"
-"279","UAlbany","14","D-I"
-"280","UC Davis","108","D-I"
-"281","UC Riverside","111","D-I"
-"282","UC San Diego","112","D-I"
-"283","UC Santa Barbara","104","D-I"
-"284","UCF","128","D-I"
-"285","UCLA","110","D-I"
-"286","UConn","164","D-I"
-"287","UIC","302","D-I"
-"288","UIW","2743","D-I"
-"289","ULM","498","D-I"
-"290","UMBC","391","D-I"
-"291","UMES","393","D-I"
-"292","UMass Lowell","368","D-I"
-"293","UNC Asheville","456","D-I"
-"294","UNC Greensboro","459","D-I"
-"295","UNCW","460","D-I"
-"296","UNI","504","D-I"
-"297","UNLV","465","D-I"
-"298","USC Upstate","10411","D-I"
-"299","UT Arlington","702","D-I"
-"300","UT Martin","695","D-I"
-"301","UTEP","704","D-I"
-"302","UTRGV","536","D-I"
-"303","UTSA","706","D-I"
-"304","Utah","732","D-I"
-"305","Utah St.","731","D-I"
-"306","Utah Tech","30095","D-I"
-"307","Utah Valley","30024","D-I"
-"308","VCU","740","D-I"
-"309","Valparaiso","735","D-I"
-"310","Vermont","738","D-I"
-"311","Villanova","739","D-I"
-"312","Virginia","746","D-I"
-"313","Virginia Tech","742","D-I"
-"314","Wagner","748","D-I"
-"315","Washington","756","D-I"
-"316","Weber St.","758","D-I"
-"317","Western Caro.","769","D-I"
-"318","Western Ill.","771","D-I"
-"319","Western Ky.","772","D-I"
-"320","Western Mich.","774","D-I"
-"321","Wichita St.","782","D-I"
-"322","Winthrop","792","D-I"
-"323","Wisconsin","796","D-I"
-"324","Wofford","2915","D-I"
-"325","Wright St.","810","D-I"
-"326","Wyoming","811","D-I"
-"327","Yale","813","D-I"
-"328","Youngstown St.","817","D-I"
-"329","AUM","30093","D-II"
-"330","Academy of Art","30123","D-II"
-"331","Adams St.","929","D-II"
-"332","Adelphi","3","D-II"
-"333","Alabama Huntsville","10","D-II"
-"334","Albany St. (GA)","13","D-II"
-"335","Alderson Broaddus","934","D-II"
-"336","Allen","30240","D-II"
-"337","American Int'l","22","D-II"
-"338","Anderson (SC)","13028","D-II"
-"339","Angelo St.","25","D-II"
-"340","Ark.-Monticello","8411","D-II"
-"341","Arkansas Tech","947","D-II"
-"342","Ashland","35","D-II"
-"343","Assumption","36","D-II"
-"344","Augusta","39","D-II"
-"345","Augustana (SD)","41","D-II"
-"346","Azusa Pacific","30146","D-II"
-"347","Barry","49","D-II"
-"348","Barton","15646","D-II"
-"349","Belmont Abbey","2683","D-II"
-"350","Bemidji St.","54","D-II"
-"351","Benedict","55","D-II"
-"352","Bentley","56","D-II"
-"353","Biola","30220","D-II"
-"354","Black Hills St.","30134","D-II"
-"355","Bloomfield","984","D-II"
-"356","Bloomsburg","65","D-II"
-"357","Bluefield St.","985","D-II"
-"358","Bowie St.","70","D-II"
-"359","Bridgeport","74","D-II"
-"360","CSU Pueblo","2720","D-II"
-"361","CSUSB","93","D-II"
-"362","CUI","30199","D-II"
-"363","Cal Poly Humboldt","291","D-II"
-"364","Cal St. Dom. Hills","92","D-II"
-"365","Cal St. East Bay","98","D-II"
-"366","Cal St. Monterey Bay","30055","D-II"
-"367","Cal St. San Marcos","30198","D-II"
-"368","Caldwell","995","D-II"
-"369","California (PA)","106","D-II"
-"370","Cameron","996","D-II"
-"371","Carson-Newman","1000","D-II"
-"372","Catawba","1001","D-II"
-"373","Cedarville","30124","D-II"
-"374","Central Mo.","130","D-II"
-"375","Central Okla.","1009","D-II"
-"376","Central Wash.","1010","D-II"
-"377","Chadron St.","1012","D-II"
-"378","Chaminade","133","D-II"
-"379","Charleston (WV)","1013","D-II"
-"380","Chestnut Hill","21323","D-II"
-"381","Chico St.","95","D-II"
-"382","Chowan","8875","D-II"
-"383","Christian Brothers","1015","D-II"
-"384","Claflin","30058","D-II"
-"385","Clarion","143","D-II"
-"386","Clark Atlanta","144","D-II"
-"387","Coker","1023","D-II"
-"388","Colo. Christian","11403","D-II"
-"389","Colo. Sch. of Mines","155","D-II"
-"390","Colorado Mesa","11416","D-II"
-"391","Columbus St.","159","D-II"
-"392","Concord","1028","D-II"
-"393","Concordia-St. Paul","9081","D-II"
-"394","Converse","8935","D-II"
-"395","D'Youville","1059","D-II"
-"396","Davenport","30221","D-II"
-"397","Davis & Elkins","174","D-II"
-"398","Delta St.","181","D-II"
-"399","Dist. Columbia","186","D-II"
-"400","Dominican (CA)","30118","D-II"
-"401","Dominican (NY)","8956","D-II"
-"402","Drury","1057","D-II"
-"403","East Central","8965","D-II"
-"404","East Stroudsburg","197","D-II"
-"405","Eastern N.M.","206","D-II"
-"406","Eckerd","208","D-II"
-"407","Edinboro","209","D-II"
-"408","Edward Waters","30244","D-II"
-"409","Elizabeth City St.","210","D-II"
-"410","Embry-Riddle (FL)","9680","D-II"
-"411","Emmanuel (GA)","30193","D-II"
-"412","Emory & Henry","216","D-II"
-"413","Emporia St.","1071","D-II"
-"414","Erskine","1072","D-II"
-"415","Fairmont St.","1076","D-II"
-"416","Fayetteville St.","223","D-II"
-"417","Felician","23157","D-II"
-"418","Ferris St.","224","D-II"
-"419","Findlay","1079","D-II"
-"420","Fla. Southern","233","D-II"
-"421","Flagler","30092","D-II"
-"422","Florida Tech","230","D-II"
-"423","Fort Hays St.","9011","D-II"
-"424","Fort Lewis","1083","D-II"
-"425","Fort Valley St.","237","D-II"
-"426","Francis Marion","1085","D-II"
-"427","Franklin Pierce","241","D-II"
-"428","Frostburg St.","243","D-II"
-"429","Ga. Southwestern","1097","D-II"
-"430","Gannon","246","D-II"
-"431","Georgia College","1096","D-II"
-"432","Georgian Court","9004","D-II"
-"433","Glenville St.","1098","D-II"
-"434","Goldey-Beacom","8366","D-II"
-"435","Grand Valley St.","262","D-II"
-"436","Harding","1116","D-II"
-"437","Hawaii Hilo","2697","D-II"
-"438","Hawaii Pacific","2696","D-II"
-"439","Henderson St.","1123","D-II"
-"440","Hillsdale","280","D-II"
-"441","Holy Family","1126","D-II"
-"442","Ill. Springfield","30050","D-II"
-"443","Indiana (PA)","307","D-II"
-"444","Jefferson","543","D-II"
-"445","Jessup","30262","D-II"
-"446","Johnson C. Smith","323","D-II"
-"447","Kentucky St.","332","D-II"
-"448","King (TN)","30051","D-II"
-"449","Kutztown","339","D-II"
-"450","Ky. Wesleyan","333","D-II"
-"451","Lake Erie","2746","D-II"
-"452","Lake Superior St.","345","D-II"
-"453","Lander","1167","D-II"
-"454","Lane","347","D-II"
-"455","LeMoyne-Owen","350","D-II"
-"456","Lee","30013","D-II"
-"457","Lees-McRae","13302","D-II"
-"458","Lenoir-Rhyne","1170","D-II"
-"459","Lewis","354","D-II"
-"460","Limestone","1174","D-II"
-"461","Lincoln (MO)","356","D-II"
-"462","Lincoln (PA)","357","D-II"
-"463","Lincoln Memorial","1176","D-II"
-"464","Livingstone","359","D-II"
-"465","Lock Haven","360","D-II"
-"466","Lubbock Christian","30177","D-II"
-"467","Lynn","20794","D-II"
-"468","MSU Denver","413","D-II"
-"469","MSU Moorhead","1240","D-II"
-"470","Malone","30137","D-II"
-"471","Mansfield","384","D-II"
-"472","Mars Hill","1199","D-II"
-"473","Mary","30075","D-II"
-"474","Maryville (MO)","395","D-II"
-"475","McKendree","30138","D-II"
-"476","Menlo","405","D-II"
-"477","Mercy","407","D-II"
-"478","Mercyhurst","408","D-II"
-"479","Midwestern St.","1222","D-II"
-"480","Miles","422","D-II"
-"481","Millersville","423","D-II"
-"482","Minn. Duluth","427","D-II"
-"483","Minn.-Crookston","27854","D-II"
-"484","Minnesota St.","383","D-II"
-"485","Minot St.","30125","D-II"
-"486","Mississippi Col.","429","D-II"
-"487","Missouri S&T","435","D-II"
-"488","Missouri Western","9013","D-II"
-"489","Mo. Southern St.","9012","D-II"
-"490","Mo.-St. Louis","436","D-II"
-"491","Molloy","437","D-II"
-"492","Mont. St. Billings","205","D-II"
-"493","Montevallo","1238","D-II"
-"494","Mount Olive","1245","D-II"
-"495","N.M. Highlands","8577","D-II"
-"496","Neb.-Kearney","1156","D-II"
-"497","New Hampshire","469","D-II"
-"498","New Haven","470","D-II"
-"499","New York Tech","477","D-II"
-"500","Newberry","1257","D-II"
-"501","Newman","30054","D-II"
-"502","North Georgia","30052","D-II"
-"503","North Greenville","9223","D-II"
-"504","Northeastern St.","12810","D-II"
-"505","Northern St.","1266","D-II"
-"506","Northwest Mo. St.","507","D-II"
-"507","Northwest Nazarene","1274","D-II"
-"508","Northwestern Okla.","30178","D-II"
-"509","Northwood","510","D-II"
-"510","Notre Dame (OH)","30126","D-II"
-"511","Nova Southeastern","24639","D-II"
-"512","Ohio Dominican","30119","D-II"
-"513","Okla. Baptist","30202","D-II"
-"514","Okla. Christian","30179","D-II"
-"515","Ouachita Baptist","1289","D-II"
-"516","P.R.-Mayaguez","24361","D-II"
-"517","P.R.-Rio Piedras","2716","D-II"
-"518","Pace","533","D-II"
-"519","Palm Beach Atl.","30045","D-II"
-"520","Pitt.-Johnstown","546","D-II"
-"521","Pittsburg St.","1314","D-II"
-"522","Post","1318","D-II"
-"523","Purdue Northwest","30222","D-II"
-"524","Queens (NY)","560","D-II"
-"525","Quincy","561","D-II"
-"526","Regis (CO)","568","D-II"
-"527","Rockhurst","1328","D-II"
-"528","Rogers St.","30180","D-II"
-"529","Rollins","584","D-II"
-"530","Roosevelt","2807","D-II"
-"531","Saginaw Valley","591","D-II"
-"532","Saint Augustine's","594","D-II"
-"533","Saint Leo","608","D-II"
-"534","Saint Martin's","1343","D-II"
-"535","Saint Michael's","613","D-II"
-"536","Saint Rose","1347","D-II"
-"537","Salem (WV)","19117","D-II"
-"538","San Fran. St.","628","D-II"
-"539","Savannah St.","632","D-II"
-"540","Seton Hill","30063","D-II"
-"541","Shaw","636","D-II"
-"542","Shepherd","10870","D-II"
-"543","Shippensburg","638","D-II"
-"544","Shorter","30151","D-II"
-"545","Simon Fraser","30127","D-II"
-"546","Sioux Falls","30128","D-II"
-"547","Slippery Rock","643","D-II"
-"548","Sonoma St.","645","D-II"
-"549","Southeastern Okla.","1371","D-II"
-"550","Southern Ark.","1376","D-II"
-"551","Southern Conn. St.","658","D-II"
-"552","Southern N.H.","468","D-II"
-"553","Southern Nazarene","30152","D-II"
-"554","Southern Wesleyan","30192","D-II"
-"555","Southwest Baptist","2755","D-II"
-"556","Southwest Minn. St.","8736","D-II"
-"557","Southwestern Okla.","8744","D-II"
-"558","Spring Hill","30191","D-II"
-"559","St. Anselm","593","D-II"
-"560","St. Cloud St.","598","D-II"
-"561","St. Edward's","1334","D-II"
-"562","St. Mary's (TX)","1346","D-II"
-"563","St. Thomas Aquinas","1348","D-II"
-"564","Stanislaus St.","103","D-II"
-"565","Staten Island","675","D-II"
-"566","Tampa","689","D-II"
-"567","Tex. A&M Int'l","30090","D-II"
-"568","Tex. A&M-Kingsville","696","D-II"
-"569","Tex. Permian Basin","30088","D-II"
-"570","Texas Woman's","701","D-II"
-"571","Thomas More","1402","D-II"
-"572","Tiffin","1403","D-II"
-"573","Trevecca Nazarene","30002","D-II"
-"574","Truman St.","499","D-II"
-"575","Tusculum","12830","D-II"
-"576","Tuskegee","720","D-II"
-"577","UC-Colo. Springs","9754","D-II"
-"578","UIndy","309","D-II"
-"579","UNC Pembroke","537","D-II"
-"580","USC Aiken","11276","D-II"
-"581","USC Beaufort","30259","D-II"
-"582","UT Tyler","30028","D-II"
-"583","UVA Wise","30181","D-II"
-"584","Union (TN)","30153","D-II"
-"585","Upper Iowa","728","D-II"
-"586","Ursuline","30140","D-II"
-"587","Valdosta St.","734","D-II"
-"588","Vanguard","30263","D-II"
-"589","Virginia St.","743","D-II"
-"590","Virginia Union","744","D-II"
-"591","Walsh","30141","D-II"
-"592","Washburn","2814","D-II"
-"593","Wayne St. (MI)","757","D-II"
-"594","Wayne St. (NE)","1433","D-II"
-"595","West Ala.","358","D-II"
-"596","West Chester","765","D-II"
-"597","West Florida","11740","D-II"
-"598","West Ga.","766","D-II"
-"599","West Liberty","1438","D-II"
-"600","West Tex. A&M","767","D-II"
-"601","West Va. Wesleyan","9630","D-II"
-"602","West Virginia St.","1439","D-II"
-"603","Western N.M.","1445","D-II"
-"604","Western Ore.","1446","D-II"
-"605","Western Wash.","1448","D-II"
-"606","Wheeling","12799","D-II"
-"607","William Jewell","30120","D-II"
-"608","Wilmington (DE)","1460","D-II"
-"609","Wingate","1462","D-II"
-"610","Winona St.","790","D-II"
-"611","Winston-Salem","791","D-II"
-"612","Wis.-Parkside","799","D-II"
-"613","Young Harris","30154","D-II"
-"614","Adrian","4","D-III"
-"615","Agnes Scott","11324","D-III"
-"616","Albertus Magnus","2798","D-III"
-"617","Albion","15","D-III"
-"618","Albright","16","D-III"
-"619","Alfred","18","D-III"
-"620","Alfred St.","30170","D-III"
-"621","Allegheny","19","D-III"
-"622","Alma","21","D-III"
-"623","Alvernia","938","D-III"
-"624","Alverno","28746","D-III"
-"625","Amherst","24","D-III"
-"626","Anderson (IN)","939","D-III"
-"627","Anna Maria","26","D-III"
-"628","Arcadia","966","D-III"
-"629","Asbury","30243","D-III"
-"630","Augsburg","38","D-III"
-"631","Augustana (IL)","40","D-III"
-"632","Aurora","42","D-III"
-"633","Austin","953","D-III"
-"634","Averett","44","D-III"
-"635","Babson","45","D-III"
-"636","Baldwin Wallace","46","D-III"
-"637","Baruch","58","D-III"
-"638","Bates","50","D-III"
-"639","Belhaven","30197","D-III"
-"640","Beloit","53","D-III"
-"641","Benedictine (IL)","296","D-III"
-"642","Berea","30171","D-III"
-"643","Berry","973","D-III"
-"644","Bethany (WV)","59","D-III"
-"645","Bethany Lutheran","30038","D-III"
-"646","Bethel (MN)","60","D-III"
-"647","Birmingham-So.","28593","D-III"
-"648","Blackburn","64","D-III"
-"649","Bluffton","987","D-III"
-"650","Bowdoin","69","D-III"
-"651","Brandeis","73","D-III"
-"652","Brevard","30094","D-III"
-"653","Bridgewater (VA)","75","D-III"
-"654","Bridgewater St.","76","D-III"
-"655","Brooklyn","79","D-III"
-"656","Buena Vista","84","D-III"
-"657","Buffalo St.","85","D-III"
-"658","CCNY","480","D-III"
-"659","CMSV","451","D-III"
-"660","CWRU","122","D-III"
-"661","Cabrini","88","D-III"
-"662","Cairn","1305","D-III"
-"663","Cal Lutheran","105","D-III"
-"664","Calvin","114","D-III"
-"665","Capital","117","D-III"
-"666","Carleton","118","D-III"
-"667","Carnegie Mellon","119","D-III"
-"668","Carroll (WI)","120","D-III"
-"669","Carthage","121","D-III"
-"670","Catholic","124","D-III"
-"671","Cedar Crest","14795","D-III"
-"672","Centenary (LA)","125","D-III"
-"673","Centenary (NJ)","12884","D-III"
-"674","Central (IA)","126","D-III"
-"675","Centre","132","D-III"
-"676","Chapman","134","D-III"
-"677","Chatham","10972","D-III"
-"678","Chris. Newport","139","D-III"
-"679","Claremont-M-S","142","D-III"
-"680","Clark (MA)","145","D-III"
-"681","Clarks Summit","958","D-III"
-"682","Clarkson","146","D-III"
-"683","Coast Guard","722","D-III"
-"684","Coe","150","D-III"
-"685","Colby","151","D-III"
-"686","Colorado Col.","154","D-III"
-"687","Concordia (TX)","24400","D-III"
-"688","Concordia Chicago","160","D-III"
-"689","Concordia Wisconsin","1036","D-III"
-"690","Concordia-M'head","161","D-III"
-"691","Cornell College","166","D-III"
-"692","Cortland","168","D-III"
-"693","Covenant","30111","D-III"
-"694","Crown (MN)","30035","D-III"
-"695","Curry","170","D-III"
-"696","Dallas","1044","D-III"
-"697","DePauw","177","D-III"
-"698","DeSales","20","D-III"
-"699","Dean","30219","D-III"
-"700","Defiance","1050","D-III"
-"701","Delaware Valley","179","D-III"
-"702","Denison","182","D-III"
-"703","Dickinson","185","D-III"
-"704","Dominican (IL)","1332","D-III"
-"705","Drew","190","D-III"
-"706","Dubuque","192","D-III"
-"707","Earlham","195","D-III"
-"708","East Tex. Baptist","1062","D-III"
-"709","East. Mennonite","203","D-III"
-"710","Eastern","8968","D-III"
-"711","Eastern Conn. St.","200","D-III"
-"712","Eastern Nazarene","1064","D-III"
-"713","Edgewood","1066","D-III"
-"714","Elizabethtown","211","D-III"
-"715","Elmhurst","212","D-III"
-"716","Elmira","213","D-III"
-"717","Elms","532","D-III"
-"718","Emerson","214","D-III"
-"719","Emmanuel (MA)","215","D-III"
-"720","Emory","217","D-III"
-"721","Endicott","8981","D-III"
-"722","Eureka","218","D-III"
-"723","FDU-Florham","221","D-III"
-"724","Farmingdale St.","27892","D-III"
-"725","Ferrum","225","D-III"
-"726","Fitchburg St.","227","D-III"
-"727","Fontbonne","11538","D-III"
-"728","Framingham St.","238","D-III"
-"729","Franciscan","30069","D-III"
-"730","Franklin","2694","D-III"
-"731","Franklin & Marshall","239","D-III"
-"732","Fredonia","242","D-III"
-"733","Gallaudet","245","D-III"
-"734","Geneva","30084","D-III"
-"735","George Fox","1094","D-III"
-"736","Gettysburg","258","D-III"
-"737","Gordon","1099","D-III"
-"738","Greensboro","263","D-III"
-"739","Greenville","1111","D-III"
-"740","Grinnell","264","D-III"
-"741","Grove City","265","D-III"
-"742","Guilford","1112","D-III"
-"743","Gust. Adolphus","266","D-III"
-"744","Gwynedd Mercy","12399","D-III"
-"745","Hamilton","267","D-III"
-"746","Hamline","268","D-III"
-"747","Hanover","1115","D-III"
-"748","Hardin-Simmons","271","D-III"
-"749","Hartford","272","D-III"
-"750","Hartwick","273","D-III"
-"751","Haverford","276","D-III"
-"752","Heidelberg","278","D-III"
-"753","Hendrix","1124","D-III"
-"754","Hilbert","8398","D-III"
-"755","Hiram","281","D-III"
-"756","Hood","8404","D-III"
-"757","Hope","286","D-III"
-"758","Houghton","30160","D-III"
-"759","Howard Payne","2741","D-III"
-"760","Hunter","292","D-III"
-"761","Huntingdon","1130","D-III"
-"762","Husson","1133","D-III"
-"763","Ill. Wesleyan","300","D-III"
-"764","Illinois Col.","297","D-III"
-"765","Immaculata","303","D-III"
-"766","Ithaca","313","D-III"
-"767","JWU (Providence)","22626","D-III"
-"768","John Carroll","320","D-III"
-"769","John Jay","321","D-III"
-"770","Juniata","325","D-III"
-"771","Kalamazoo","326","D-III"
-"772","Kean","329","D-III"
-"773","Keene St.","330","D-III"
-"774","Kenyon","335","D-III"
-"775","Keuka","1159","D-III"
-"776","Keystone","30047","D-III"
-"777","King's (PA)","336","D-III"
-"778","Knox","337","D-III"
-"779","La Roche","1163","D-III"
-"780","La Verne","341","D-III"
-"781","LaGrange","1162","D-III"
-"782","Lake Forest","344","D-III"
-"783","Lakeland","1164","D-III"
-"784","Lancaster Bible","30085","D-III"
-"785","Lasell","8486","D-III"
-"786","Lawrence","348","D-III"
-"787","LeTourneau","8490","D-III"
-"788","Lebanon Valley","351","D-III"
-"789","Lehman","279","D-III"
-"790","Lesley","24317","D-III"
-"791","Lewis & Clark","22235","D-III"
-"792","Linfield","1179","D-III"
-"793","Loras","364","D-III"
-"794","Luther","372","D-III"
-"795","Lycoming","373","D-III"
-"796","Lynchburg","374","D-III"
-"797","MCLA","486","D-III"
-"798","MIT","398","D-III"
-"799","MSOE","20220","D-III"
-"800","MUW","431","D-III"
-"801","Macalester","376","D-III"
-"802","Maine Maritime","378","D-III"
-"803","Manchester","1192","D-III"
-"804","Manhattanville","382","D-III"
-"805","Maranatha Baptist","1194","D-III"
-"806","Marian (WI)","1196","D-III"
-"807","Marietta","385","D-III"
-"808","Martin Luther","8597","D-III"
-"809","Mary Baldwin","389","D-III"
-"810","Mary Hardin-Baylor","1203","D-III"
-"811","Mary Washington","390","D-III"
-"812","Marymount (VA)","394","D-III"
-"813","Maryville (TN)","396","D-III"
-"814","Marywood","397","D-III"
-"815","Mass. Maritime","399","D-III"
-"816","McDaniel","773","D-III"
-"817","McMurry","8530","D-III"
-"818","Me.-Farmington","379","D-III"
-"819","Me.-Presque Isle","30040","D-III"
-"820","Medgar Evers","403","D-III"
-"821","Merchant Marine","724","D-III"
-"822","Meredith","409","D-III"
-"823","Messiah","411","D-III"
-"824","Methodist","412","D-III"
-"825","Middlebury","420","D-III"
-"826","Millikin","424","D-III"
-"827","Millsaps","426","D-III"
-"828","Minn.-Morris","1226","D-III"
-"829","Misericordia","16142","D-III"
-"830","Mitchell","30042","D-III"
-"831","Monmouth (IL)","438","D-III"
-"832","Montclair St.","442","D-III"
-"833","Moravian","443","D-III"
-"834","Mount Aloysius","30036","D-III"
-"835","Mount Holyoke","449","D-III"
-"836","Mount Mary","30033","D-III"
-"837","Mount Union","452","D-III"
-"838","Mt. St. Joseph","8567","D-III"
-"839","Mt. St. Mary (NY)","1468","D-III"
-"840","Muhlenberg","453","D-III"
-"841","Muskingum","455","D-III"
-"842","N.C. Wesleyan","491","D-III"
-"843","NJIT","471","D-III"
-"844","NYU","479","D-III"
-"845","Nazareth","461","D-III"
-"846","Neb. Wesleyan","462","D-III"
-"847","Neumann","1254","D-III"
-"848","New England Col.","467","D-III"
-"849","New Jersey City","319","D-III"
-"850","Nichols","484","D-III"
-"851","North Central (IL)","492","D-III"
-"852","North Central (MN)","30039","D-III"
-"853","North Park","496","D-III"
-"854","Northland","1267","D-III"
-"855","Northwestern-St. Paul","30031","D-III"
-"856","Norwich","511","D-III"
-"857","Notre Dame (MD)","8600","D-III"
-"858","Oberlin","515","D-III"
-"859","Occidental","516","D-III"
-"860","Ohio Northern","517","D-III"
-"861","Ohio Wesleyan","520","D-III"
-"862","Old Westbury","524","D-III"
-"863","Olivet","525","D-III"
-"864","Oswego St.","530","D-III"
-"865","Otterbein","531","D-III"
-"866","Ozarks (AR)","23008","D-III"
-"867","Pacific (OR)","2751","D-III"
-"868","Pacific Lutheran","1297","D-III"
-"869","Penn College","30190","D-III"
-"870","Penn St. Harrisburg","30081","D-III"
-"871","Penn St.-Abington","30114","D-III"
-"872","Penn St.-Altoona","25719","D-III"
-"873","Penn St.-Behrend","538","D-III"
-"874","Penn St.-Berks","30044","D-III"
-"875","Pfeiffer","542","D-III"
-"876","Piedmont","21830","D-III"
-"877","Pitt.-Bradford","1315","D-III"
-"878","Pitt.-Greensburg","11839","D-III"
-"879","Plattsburgh St.","547","D-III"
-"880","Plymouth St.","548","D-III"
-"881","Pomona-Pitzer","549","D-III"
-"882","Principia","555","D-III"
-"883","Puget Sound","557","D-III"
-"884","Purchase","30029","D-III"
-"885","RIT","580","D-III"
-"886","Ramapo","564","D-III"
-"887","Randolph","566","D-III"
-"888","Randolph-Macon","565","D-III"
-"889","Redlands","567","D-III"
-"890","Regis (MA)","569","D-III"
-"891","Rensselaer","570","D-III"
-"892","Rhode Island Col.","571","D-III"
-"893","Rhodes","573","D-III"
-"894","Ripon","577","D-III"
-"895","Rivier","18422","D-III"
-"896","Roanoke","578","D-III"
-"897","Rochester (NY)","581","D-III"
-"898","Rockford","582","D-III"
-"899","Roger Williams","583","D-III"
-"900","Rose-Hulman","585","D-III"
-"901","Rosemont","15882","D-III"
-"902","Rowan","259","D-III"
-"903","Russell Sage","11036","D-III"
-"904","Rutgers-Camden","588","D-III"
-"905","Rutgers-Newark","589","D-III"
-"906","SUNY Brockport","78","D-III"
-"907","SUNY Canton","30165","D-III"
-"908","SUNY Cobleskill","30083","D-III"
-"909","SUNY Delhi","30225","D-III"
-"910","SUNY Geneseo","247","D-III"
-"911","SUNY Maritime","478","D-III"
-"912","SUNY Morrisville","30067","D-III"
-"913","SUNY New Paltz","475","D-III"
-"914","SUNY Oneonta","526","D-III"
-"915","SUNY Poly","9500","D-III"
-"916","SUNY Potsdam","552","D-III"
-"917","Saint Benedict","595","D-III"
-"918","Saint Elizabeth","9684","D-III"
-"919","Saint Joseph (CT)","8687","D-III"
-"920","Saint Mary's (MN)","612","D-III"
-"921","Saint Vincent","30064","D-III"
-"922","Salem (NC)","30041","D-III"
-"923","Salem St.","621","D-III"
-"924","Salisbury","622","D-III"
-"925","Salve Regina","623","D-III"
-"926","Sarah Lawrence","30163","D-III"
-"927","Schreiner","1355","D-III"
-"928","Scranton","633","D-III"
-"929","Sewanee","652","D-III"
-"930","Shenandoah","637","D-III"
-"931","Simmons","640","D-III"
-"932","Simpson","641","D-III"
-"933","Skidmore","642","D-III"
-"934","Smith","644","D-III"
-"935","Southern Me.","662","D-III"
-"936","Southern Va.","30164","D-III"
-"937","Southwestern (TX)","8746","D-III"
-"938","Spalding","23260","D-III"
-"939","Springfield","673","D-III"
-"940","St. Catherine","597","D-III"
-"941","St. John Fisher","601","D-III"
-"942","St. Joseph's (Brkln)","30072","D-III"
-"943","St. Joseph's (L.I.)","1340","D-III"
-"944","St. Joseph's (ME)","605","D-III"
-"945","St. Lawrence","607","D-III"
-"946","St. Mary's (IN)","8688","D-III"
-"947","St. Norbert","614","D-III"
-"948","St. Olaf","615","D-III"
-"949","St. Scholastica","618","D-III"
-"950","St. Thomas (TX)","2810","D-III"
-"951","Stevens","679","D-III"
-"952","Stevenson","21852","D-III"
-"953","Stockton","681","D-III"
-"954","Suffolk","684","D-III"
-"955","Sul Ross St.","1390","D-III"
-"956","Susquehanna","685","D-III"
-"957","Swarthmore","686","D-III"
-"958","Sweet Briar","687","D-III"
-"959","TCNJ","712","D-III"
-"960","Texas Lutheran","1400","D-III"
-"961","Texas-Dallas","23121","D-III"
-"962","Thiel","707","D-III"
-"963","Thomas (ME)","2758","D-III"
-"964","Transylvania","28749","D-III"
-"965","Trine","30037","D-III"
-"966","Trinity (CT)","713","D-III"
-"967","Trinity (TX)","715","D-III"
-"968","Trinity Washington","23413","D-III"
-"969","Tufts","717","D-III"
-"970","U New England","1255","D-III"
-"971","UChicago","137","D-III"
-"972","UMass Boston","401","D-III"
-"973","UMass Dartmouth","656","D-III"
-"974","UW-River Falls","801","D-III"
-"975","Union (NY)","727","D-III"
-"976","Ursinus","730","D-III"
-"977","Utica","733","D-III"
-"978","VTSU Castleton","123","D-III"
-"979","VTSU Lyndon","30065","D-III"
-"980","VTSU-Johnson","324","D-III"
-"981","Va. Wesleyan","745","D-III"
-"982","Valley City St.","506055","D-III"
-"983","Valley Forge","30166","D-III"
-"984","WPI","808","D-III"
-"985","Wartburg","750","D-III"
-"986","Wash. & Jeff.","751","D-III"
-"987","WashU","755","D-III"
-"988","Washington Col.","753","D-III"
-"989","Waynesburg","1434","D-III"
-"990","Webster","759","D-III"
-"991","Wellesley","760","D-III"
-"992","Wells","761","D-III"
-"993","Wentworth","762","D-III"
-"994","Wesleyan (CT)","764","D-III"
-"995","Wesleyan (GA)","14718","D-III"
-"996","WestConn","770","D-III"
-"997","Western New Eng.","775","D-III"
-"998","Westfield St.","777","D-III"
-"999","Westminster (MO)","1450","D-III"
-"1000","Westminster (PA)","1451","D-III"
-"1001","Wheaton (IL)","778","D-III"
-"1002","Wheaton (MA)","779","D-III"
-"1003","Whittier","781","D-III"
-"1004","Whitworth","1454","D-III"
-"1005","Widener","783","D-III"
-"1006","Wilkes","784","D-III"
-"1007","Willamette","785","D-III"
-"1008","William Peace","17094","D-III"
-"1009","Williams","789","D-III"
-"1010","Wilmington (OH)","1461","D-III"
-"1011","Wilson","12973","D-III"
-"1012","Wis. Lutheran","8911","D-III"
-"1013","Wis.-Eau Claire","793","D-III"
-"1014","Wis.-La Crosse","795","D-III"
-"1015","Wis.-Oshkosh","798","D-III"
-"1016","Wis.-Platteville","800","D-III"
-"1017","Wis.-Stevens Point","802","D-III"
-"1018","Wis.-Stout","803","D-III"
-"1019","Wis.-Superior","804","D-III"
-"1020","Wis.-Whitewater","805","D-III"
-"1021","Wittenberg","806","D-III"
-"1022","Wm. Paterson","787","D-III"
-"1023","Wooster","807","D-III"
-"1024","Worcester St.","809","D-III"
-"1025","Yeshiva","814","D-III"
-"1026","York (NY)","2730","D-III"
-"1027","York (PA)","815","D-III"
+team_name,team_id,division,logo_link,website_link_x,website_link_y,website_link
+A&M-Corpus Christi,26172,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//26172.gif,,,http://goislanders.com/softball
+Abilene Christian,2,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2.gif,http://acusports.com/,http://acusports.com/,http://acusports.com/
+Academy of Art,30123,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30123.gif,http://artuathletics.com,http://artuathletics.com/softball,http://artuathletics.com/softball
+Adams St.,929,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//929.gif,,,http://asugrizzlies.com/softball
+Adelphi,3,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//3.gif,http://www.aupanthers.com,http://www.aupanthers.com/softball,http://www.aupanthers.com/softball
+Adrian,4,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//4.gif,,http://adrianbulldogs.com/softball,http://adrianbulldogs.com/softball
+Agnes Scott,11324,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11324.gif,,http://ascscotties.com/softball,http://ascscotties.com/softball
+Akron,5,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//5.gif,http://gozips.com,http://gozips.com/softball,http://gozips.com/softball
+Alabama,8,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8.gif,http://rolltide.com,http://rolltide.com/softball,http://rolltide.com/softball
+Alabama A&M,6,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//6.gif,,http://aamusports.com/softball,http://aamusports.com/softball
+Alabama Huntsville,10,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//10.gif,,,
+Alabama St.,7,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//7.gif,,,http://bamastatesports.com/softball
+Albany St. (GA),13,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//13.gif,,,
+Albertus Magnus,2798,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2798.gif,,,
+Albion,15,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//15.gif,,http://gobrits.com/softball,http://gobrits.com/softball
+Albright,16,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//16.gif,,http://www.albrightathletics.com/softball,http://www.albrightathletics.com/softball
+Alcorn,17,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//17.gif,,,
+Alderson Broaddus,934,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//934.gif,,,
+Alfred,18,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//18.gif,http://gosaxons.com,http://gosaxons.com/softball,http://gosaxons.com/softball
+Alfred St.,30170,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30170.gif,,,http://alfredstateathletics.com/softball
+Allegheny,19,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//19.gif,,http://alleghenygators.com/softball,http://alleghenygators.com/softball
+Allen,30240,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30240.gif,http://auyellowjackets.com,http://auyellowjackets.com/softball,http://auyellowjackets.com/softball
+Alma,21,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//21.gif,,http://almascots.com/softball,http://almascots.com/softball
+Alvernia,938,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//938.gif,http://auwolves.com,http://auwolves.com/softball,http://auwolves.com/softball
+Alverno,28746,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28746.gif,,http://athletics.alverno.edu/softball,http://athletics.alverno.edu/softball
+American Int'l,22,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//22.gif,,,
+Amherst,24,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//24.gif,,http://athletics.amherst.edu/softball,http://athletics.amherst.edu/softball
+Anderson (IN),939,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//939.gif,,,
+Anderson (SC),13028,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//13028.gif,,,
+Angelo St.,25,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//25.gif,,,http://www.angelosports.com/softball
+Anna Maria,26,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//26.gif,,,
+App State,27,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//27.gif,,,
+Arcadia,966,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//966.gif,http://arcadiaknights.com/,http://arcadiaknights.com/,http://arcadiaknights.com/
+Arizona,29,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//29.gif,http://arizonawildcats.com,http://arizonawildcats.com/softball,http://arizonawildcats.com/softball
+Arizona St.,28,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28.gif,,,http://thesundevils.com/softball
+Ark.-Monticello,8411,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8411.gif,,,
+Ark.-Pine Bluff,2678,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2678.gif,,,
+Arkansas,31,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//31.gif,,,
+Arkansas St.,30,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//31.gif,,,http://astateredwolves.com/softball
+Arkansas Tech,947,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//947.gif,http://arkansastechsports.com,http://arkansastechsports.com/softball,http://arkansastechsports.com/softball
+Army West Point,725,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//725.gif,,,
+Asbury,30243,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30243.gif,http://asburyeagles.com,http://asburyeagles.com/softball,http://asburyeagles.com/softball
+Ashland,35,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//35.gif,http://goashlandeagles.com,http://goashlandeagles.com/softball,http://goashlandeagles.com/softball
+Assumption,36,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//36.gif,http://assumptiongreyhounds.com,http://assumptiongreyhounds.com/softball,http://assumptiongreyhounds.com/softball
+Auburn,37,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//37.gif,http://auburntigers.com,http://auburntigers.com/softball,http://auburntigers.com/softball
+Augsburg,38,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//38.gif,http://athletics.augsburg.edu,http://athletics.augsburg.edu/softball,http://athletics.augsburg.edu/softball
+Augusta,39,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//39.gif,http://augustajags.com,http://augustajags.com/softball,http://augustajags.com/softball
+Augustana (IL),40,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//40.gif,,,
+Augustana (SD),41,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//41.gif,,,
+AUM,30093,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30093.gif,,,
+Aurora,42,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//42.gif,http://athletics.aurora.edu/,http://athletics.aurora.edu/,http://athletics.aurora.edu/
+Austin,953,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//953.gif,,,
+Austin Peay,43,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//43.gif,,,
+Averett,44,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//44.gif,http://www.averettcougars.com,http://www.averettcougars.com/softball,http://www.averettcougars.com/softball
+Azusa Pacific,30146,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30146.gif,http://athletics.apu.edu,http://athletics.apu.edu/softball,http://athletics.apu.edu/softball
+Babson,45,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//45.gif,,http://babsonathletics.com/softball,http://babsonathletics.com/softball
+Baldwin Wallace,46,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//46.gif,http://bwyellowjackets.com,http://bwyellowjackets.com/softball,http://bwyellowjackets.com/softball
+Ball St.,47,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//47.gif,,,http://ballstatesports.com/softball
+Barry,49,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//49.gif,http://gobarrybucs.com,http://gobarrybucs.com/softball,http://gobarrybucs.com/softball
+Barton,15646,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//15646.gif,,http://bartonbulldogs.com/softball,http://bartonbulldogs.com/softball
+Baruch,58,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//58.gif,,http://athletics.baruch.cuny.edu/,http://athletics.baruch.cuny.edu/
+Bates,50,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//50.gif,,http://gobatesbobcats.com/softball,http://gobatesbobcats.com/softball
+Baylor,51,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//51.gif,http://baylorbears.com,http://baylorbears.com/softball,http://baylorbears.com/softball
+Belhaven,30197,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30197.gif,http://blazers.belhaven.edu/,http://blazers.belhaven.edu/,http://blazers.belhaven.edu/
+Bellarmine,52,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//52.gif,http://athletics.bellarmine.edu,http://athletics.bellarmine.edu/softball,http://athletics.bellarmine.edu/softball
+Belmont,14927,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//14927.gif,http://belmontbruins.com,http://belmontbruins.com/softball,http://belmontbruins.com/softball
+Belmont Abbey,2683,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2683.gif,,http://abbeyathletics.com/softball,http://abbeyathletics.com/softball
+Beloit,53,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//53.gif,,http://beloitcollegeathletics.com/softball,http://beloitcollegeathletics.com/softball
+Bemidji St.,54,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//54.gif,,,http://bsubeavers.com/softball
+Benedict,55,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//55.gif,,http://benedicttigers.com/softball,http://benedicttigers.com/softball
+Benedictine (IL),296,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//296.gif,,,
+Bentley,56,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//56.gif,http://bentleyfalcons.com,http://bentleyfalcons.com/softball,http://bentleyfalcons.com/softball
+Berea,30171,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30171.gif,,http://bereaathletics.com/softball,http://bereaathletics.com/softball
+Berry,973,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//973.gif,,http://berryvikings.com/softball,http://berryvikings.com/softball
+Bethany (WV),59,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//59.gif,,,
+Bethany Lutheran,30038,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30038.gif,,http://www.blcvikings.com/softball,http://www.blcvikings.com/softball
+Bethel (MN),60,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//60.gif,,,
+Bethune-Cookman,61,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//61.gif,http://bcuathletics.com,http://bcuathletics.com/softball,http://bcuathletics.com/softball
+Binghamton,62,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//62.gif,http://binghamtonbearcats.com,http://binghamtonbearcats.com/softball,http://binghamtonbearcats.com/softball
+Biola,30220,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30220.gif,http://athletics.biola.edu,http://athletics.biola.edu/softball,http://athletics.biola.edu/softball
+Birmingham-So.,28593,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28593.gif,,,
+Black Hills St.,30134,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30134.gif,,,http://bhsuathletics.com/softball
+Blackburn,64,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//64.gif,,,
+Bloomfield,984,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//984.gif,,http://bcbearsathletics.com/softball,http://bcbearsathletics.com/softball
+Bloomsburg,65,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//65.gif,http://buhuskies.com,http://buhuskies.com/softball,http://buhuskies.com/softball
+Bluefield St.,985,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//985.gif,,,http://gobstate.com/softball
+Bluffton,987,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//987.gif,,,
+Boise St.,66,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//66.gif,,,http://broncosports.com/softball
+Boston College,67,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//67.gif,http://bceagles.com,,
+Boston U.,68,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//68.gif,,,
+Bowdoin,69,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//69.gif,,http://athletics.bowdoin.edu/softball,http://athletics.bowdoin.edu/softball
+Bowie St.,70,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//70.gif,,,http://www.bsubulldogs.com/
+Bowling Green,71,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//71.gif,,,
+Bradley,72,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//72.gif,http://bradleybraves.com,http://bradleybraves.com/softball,http://bradleybraves.com/softball
+Brandeis,73,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//73.gif,http://brandeisjudges.com,http://brandeisjudges.com/softball,http://brandeisjudges.com/softball
+Brevard,30094,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30094.gif,,http://bctornados.com/softball,http://bctornados.com/softball
+Bridgeport,74,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//74.gif,,,
+Bridgewater (VA),75,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//75.gif,,,
+Bridgewater St.,76,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//76.gif,,,
+Brooklyn,79,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//79.gif,,http://brooklyncollegeathletics.com/,http://brooklyncollegeathletics.com/
+Brown,80,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//80.gif,http://brownbears.com,http://brownbears.com/softball,http://brownbears.com/softball
+Bryant,81,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//81.gif,http://bryantbulldogs.com,http://bryantbulldogs.com/softball,http://bryantbulldogs.com/softball
+Bucknell,83,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//83.gif,http://bucknellbison.com,http://bucknellbison.com/softball,http://bucknellbison.com/softball
+Buena Vista,84,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//84.gif,http://bvuathletics.com/,http://bvuathletics.com/,http://bvuathletics.com/
+Buffalo,86,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//86.gif,,,
+Buffalo St.,85,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//85.gif,,,http://buffalostateathletics.com/softball
+Butler,87,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//87.gif,http://butlersports.com,http://butlersports.com/softball,http://butlersports.com/softball
+BYU,77,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//77.gif,,,
+Cabrini,88,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//88.gif,http://cabrini.villanova.com,http://cabrini.villanova.com/softball,http://cabrini.villanova.com/softball
+Cairn,1305,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1305.gif,http://www.cairnhighlanders.com/,http://www.cairnhighlanders.com/,http://www.cairnhighlanders.com/
+Cal Lutheran,105,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//105.gif,,,
+Cal Poly,90,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//90.gif,http://gopoly.com,http://gopoly.com/softball,http://gopoly.com/softball
+Cal Poly Humboldt,291,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//291.gif,http://humboldtathletics.com,http://humboldtathletics.com/softball,http://humboldtathletics.com/softball
+Cal Poly Pomona,91,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//91.gif,http://www.broncoathletics.com,http://www.broncoathletics.com/softball,http://www.broncoathletics.com/softball
+Cal St. Dom. Hills,92,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//92.gif,,,
+Cal St. East Bay,98,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//98.gif,,,
+Cal St. Fullerton,97,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//97.gif,,,
+Cal St. Monterey Bay,30055,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30055.gif,,,
+Cal St. San Marcos,30198,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30198.gif,,,http://csusmcougars.com/softball
+Caldwell,995,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//995.gif,http://caldwellathletics.com,http://caldwellathletics.com/softball,http://caldwellathletics.com/softball
+California,107,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//107.gif,http://calbears.com,http://calbears.com/softball,http://calbears.com/softball
+California (PA),106,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//106.gif,,,
+California Baptist,30135,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30135.gif,http://cbulancers.com,http://cbulancers.com/softball,http://cbulancers.com/softball
+Calvin,114,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//114.gif,http://calvinknights.com,http://calvinknights.com/softball,http://calvinknights.com/softball
+Cameron,996,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//996.gif,http://www.cameronaggies.com,http://www.cameronaggies.com/softball,http://www.cameronaggies.com/softball
+Campbell,115,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//115.gif,http://gocamels.com,http://gocamels.com/softball,http://gocamels.com/softball
+Canisius,116,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//116.gif,,http://gogriffs.com/softball,http://gogriffs.com/softball
+Capital,117,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//117.gif,http://athletics.capital.edu,http://athletics.capital.edu/softball,http://athletics.capital.edu/softball
+Carleton,118,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//118.gif,,http://athletics.carleton.edu/softball,http://athletics.carleton.edu/softball
+Carnegie Mellon,119,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//119.gif,,,
+Carroll (WI),120,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//120.gif,,,
+Carson-Newman,1000,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1000.gif,,,
+Carthage,121,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//121.gif,,http://athletics.carthage.edu/softball,http://athletics.carthage.edu/softball
+Catawba,1001,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1001.gif,,,
+Catholic,124,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//124.gif,,,
+CCNY,480,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//480.gif,,,
+Cedar Crest,14795,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//14795.gif,,http://cedarcrestathletics.com/,http://cedarcrestathletics.com/
+Cedarville,30124,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30124.gif,http://yellowjackets.cedarville.edu,http://yellowjackets.cedarville.edu/softball,http://yellowjackets.cedarville.edu/softball
+Centenary (LA),125,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//125.gif,,,
+Centenary (NJ),12884,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12884.gif,,,
+Central (IA),126,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//126.gif,,,
+Central Ark.,1004,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1004.gif,,,
+Central Conn. St.,127,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//127.gif,,,
+Central Mich.,129,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//129.gif,,,
+Central Mo.,130,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//130.gif,,,
+Central Okla.,1009,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1009.gif,,,
+Central Wash.,1010,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1010.gif,,,
+Centre,132,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//132.gif,,http://centrecolonels.com/softball,http://centrecolonels.com/softball
+Chadron St.,1012,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1012.gif,,,http://chadroneagles.com/softball
+Chaminade,133,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//133.gif,http://goswords.com,http://goswords.com/softball,http://goswords.com/softball
+Chapman,134,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//134.gif,http://athletics.chapman.edu,http://athletics.chapman.edu/softball,http://athletics.chapman.edu/softball
+Charleston (WV),1013,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1013.gif,,,
+Charleston So.,48,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//48.gif,,,
+Charlotte,458,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//458.gif,,,
+Chatham,10972,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//10972.gif,http://gochathamcougars.com/,http://gochathamcougars.com/,http://gochathamcougars.com/
+Chattanooga,693,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//693.gif,,,
+Chestnut Hill,21323,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//21323.gif,,http://griffinathletics.com/softball,http://griffinathletics.com/softball
+Chicago St.,136,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//136.gif,,,http://gocsucougars.com/softball
+Chico St.,95,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//95.gif,,,http://chicowildcats.com/softball
+Chowan,8875,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8875.gif,http://gocuhawks.com/,http://gocuhawks.com/,http://gocuhawks.com/
+Chris. Newport,139,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//139.gif,,,
+Christian Brothers,1015,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1015.gif,http://www.cbubucs.com/,http://www.cbubucs.com/,http://www.cbubucs.com/
+Cincinnati,140,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//140.gif,http://gobearcats.com,http://gobearcats.com/softball,http://gobearcats.com/softball
+Claflin,30058,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30058.gif,http://athletics.claflin.edu/,http://athletics.claflin.edu/,http://athletics.claflin.edu/
+Claremont-M-S,142,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//142.gif,,,
+Clarion,143,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//143.gif,http://www.clariongoldeneagles.com,http://www.clariongoldeneagles.com/softball,http://www.clariongoldeneagles.com/softball
+Clark (MA),145,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//145.gif,,,
+Clark Atlanta,144,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//144.gif,http://clarkatlantasports.com,http://clarkatlantasports.com/softball,http://clarkatlantasports.com/softball
+Clarks Summit,958,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//958.gif,http://gocsudefenders.com,http://gocsudefenders.com/softball,http://gocsudefenders.com/softball
+Clarkson,146,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//146.gif,http://clarksonathletics.com/,http://clarksonathletics.com/,http://clarksonathletics.com/
+Clemson,147,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//147.gif,,,
+Cleveland St.,148,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//148.gif,,,http://csuvikings.com/softball
+Coast Guard,722,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//722.gif,,,
+Coastal Carolina,149,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//149.gif,http://goccusports.com,http://goccusports.com/softball,http://goccusports.com/softball
+Coe,150,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//150.gif,,http://kohawkathletics.com/softball,http://kohawkathletics.com/softball
+Coker,1023,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1023.gif,,,
+Col. of Charleston,1014,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1014.gif,,,
+Colby,151,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//151.gif,,http://colbyathletics.com/softball,http://colbyathletics.com/softball
+Colgate,153,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//153.gif,http://colgateathletics.com/,http://colgateathletics.com/,http://colgateathletics.com/
+Colo. Christian,11403,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11403.gif,,,
+Colo. Sch. of Mines,155,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//155.gif,,,
+Colorado Col.,154,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//154.gif,,,
+Colorado Mesa,11416,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11416.gif,http://cmumavericks.com,http://cmumavericks.com/softball,http://cmumavericks.com/softball
+Colorado St.,156,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//156.gif,,,http://csurams.com/softball
+Columbia,158,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//158.gif,http://gocolumbialions.com,http://columbiacougars.com/softball,http://columbiacougars.com/softball
+Columbia,158,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//158.gif,http://gocolumbialions.com,http://columbiacougars.com/softball,http://gocolumbialions.com/softball
+Columbia,158,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//158.gif,http://gocolumbialions.com,http://gocolumbialions.com/softball,http://columbiacougars.com/softball
+Columbia,158,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//158.gif,http://gocolumbialions.com,http://gocolumbialions.com/softball,http://gocolumbialions.com/softball
+Columbus St.,159,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//159.gif,,,http://csucougars.com /softball
+Concord,1028,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1028.gif,http://www.cumountainlions.com,http://www.cumountainlions.com/softball,http://www.cumountainlions.com/softball
+Concordia-M'head,161,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//161.gif,,,
+Concordia-St. Paul,9081,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9081.gif,,,
+Concordia (TX),24400,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//24400.gif,,,
+Concordia Chicago,160,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//160.gif,,,
+Concordia Wisconsin,1036,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1036.gif,,,
+Converse,8935,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8935.gif,,http://govalkyries.com/softball,http://govalkyries.com/softball
+Coppin St.,165,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//165.gif,,,http://coppinstatesports.com/softball
+Cornell,167,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//167.gif,http://www.cornellbigred.com,http://cornellrams.com/softball,http://cornellrams.com/softball
+Cornell,167,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//167.gif,http://www.cornellbigred.com,http://cornellrams.com/softball,http://www.cornellbigred.com/softball
+Cornell,167,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//167.gif,http://www.cornellbigred.com,http://www.cornellbigred.com/softball,http://cornellrams.com/softball
+Cornell,167,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//167.gif,http://www.cornellbigred.com,http://www.cornellbigred.com/softball,http://www.cornellbigred.com/softball
+Cornell College,166,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//166.gif,http://cornellrams.com,,
+Cortland,168,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//168.gif,,,
+Covenant,30111,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30111.gif,,http://athletics.covenant.edu/softball,http://athletics.covenant.edu/softball
+Creighton,169,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//169.gif,http://gocreighton.com,http://gocreighton.com/softball,http://gocreighton.com/softball
+Crown (MN),30035,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30035.gif,,,
+CSU Bakersfield,94,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//94.gif,,,
+CSU Pueblo,2720,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2720.gif,,,
+CSUN,101,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//101.gif,,,
+CSUSB,93,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//93.gif,,,
+CUI,30199,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30199.gif,,,
+Curry,170,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//170.gif,,,
+CWRU,122,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//122.gif,,,
+D'Youville,1059,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1059.gif,,,
+Dallas,1044,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1044.gif,,,
+Dartmouth,172,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//172.gif,,http://dartmouthsports.com/softball,http://dartmouthsports.com/softball
+Davenport,30221,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30221.gif,http://dupanthers.com,http://dupanthers.com/softball,http://dupanthers.com/softball
+Davis & Elkins,174,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//174.gif,,,
+Dayton,175,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//175.gif,http://daytonflyers.com,http://daytonflyers.com/softball,http://daytonflyers.com/softball
+Dean,30219,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30219.gif,,http://deanbulldogs.com/softball,http://deanbulldogs.com/softball
+Defiance,1050,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1050.gif,,,
+Delaware,180,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//180.gif,http://bluehens.com,http://bluehens.com/softball,http://bluehens.com/softball
+Delaware St.,178,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//178.gif,,,http://dsuhornets.com/softball
+Delaware Valley,179,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//179.gif,http://athletics.delval.edu,http://athletics.delval.edu/softball,http://athletics.delval.edu/softball
+Delta St.,181,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//181.gif,,,http://gostatesmen.com/softball
+Denison,182,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//182.gif,http://denisonbigred.com,http://denisonbigred.com/softball,http://denisonbigred.com/softball
+DePaul,176,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//176.gif,http://depaulbluedemons.com,http://depaulbluedemons.com/softball,http://depaulbluedemons.com/softball
+DePauw,177,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//177.gif,http://depauwtigers.com,http://depauwtigers.com/softball,http://depauwtigers.com/softball
+DeSales,20,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//20.gif,http://athletics.desales.edu,http://athletics.desales.edu/softball,http://athletics.desales.edu/softball
+Detroit Mercy,184,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//184.gif,http://www.detroittitans.com,http://www.detroittitans.com/softball,http://www.detroittitans.com/softball
+Dickinson,185,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//185.gif,,http://dickinsonathletics.com/softball,http://dickinsonathletics.com/softball
+Dist. Columbia,186,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//186.gif,,,
+Dominican (CA),30118,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30118.gif,,,
+Dominican (IL),1332,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1332.gif,,,
+Dominican (NY),8956,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8956.gif,,,
+Drake,189,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//189.gif,http://godrakebulldogs.com,http://godrakebulldogs.com/softball,http://godrakebulldogs.com/softball
+Drew,190,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//190.gif,http://drewrangers.com,http://drewrangers.com/softball,http://drewrangers.com/softball
+Drexel,191,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//191.gif,http://drexeldragons.com,http://drexeldragons.com/softball,http://drexeldragons.com/softball
+Drury,1057,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1057.gif,http://drurypanthers.com,http://drurypanthers.com/softball,http://drurypanthers.com/softball
+Dubuque,192,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//192.gif,http://udspartans.com,http://udspartans.com/softball,http://udspartans.com/softball
+Duke,193,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//193.gif,http://goduke.com,http://goduke.com/softball,http://goduke.com/softball
+Duquesne,194,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//194.gif,http://goduquesne.com,http://goduquesne.com/softball,http://goduquesne.com/softball
+Earlham,195,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//195.gif,,http://goearlham.com/softball,http://goearlham.com/softball
+East Carolina,196,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//196.gif,http://ecupirates.com,http://ecupirates.com/softball,http://ecupirates.com/softball
+East Central,8965,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8965.gif,http://ecutigers.com,http://ecutigers.com/softball,http://ecutigers.com/softball
+East Stroudsburg,197,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//197.gif,http://esuwarriors.com,http://esuwarriors.com/softball,http://esuwarriors.com/softball
+East Tex. Baptist,1062,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1062.gif,,,
+East. Mennonite,203,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//203.gif,,,
+Eastern,8968,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8968.gif,http://goeasterneagles.com,http://goeasterneagles.com/softball,http://goeasterneagles.com/softball
+Eastern Conn. St.,200,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//200.gif,,,
+Eastern Ill.,201,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//201.gif,,,
+Eastern Ky.,202,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//202.gif,,,
+Eastern Mich.,204,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//204.gif,,,
+Eastern N.M.,206,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//206.gif,,,
+Eastern Nazarene,1064,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1064.gif,,,
+Eckerd,208,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//208.gif,,http://www.eckerdtritons.com/softball,http://www.eckerdtritons.com/softball
+Edgewood,1066,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1066.gif,,http://www.edgewoodcollegeeagles.com/softball,http://www.edgewoodcollegeeagles.com/softball
+Edinboro,209,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//209.gif,http://gofightingscots.com,http://gofightingscots.com/softball,http://gofightingscots.com/softball
+Edward Waters,30244,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30244.gif,http://ewutigerpride.com,http://ewutigerpride.com/softball,http://ewutigerpride.com/softball
+Elizabeth City St.,210,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//210.gif,,,http://ecsuvikings.com/softball
+Elizabethtown,211,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//211.gif,,http://www.etownbluejays.com/softball,http://www.etownbluejays.com/softball
+Elmhurst,212,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//212.gif,,http://elmhurstbluejays.com/,http://elmhurstbluejays.com/
+Elmira,213,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//213.gif,,http://athletics.elmira.edu/softball,http://athletics.elmira.edu/softball
+Elms,532,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//532.gif,,,
+Elon,1068,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1068.gif,http://www.elonphoenix.com/,http://www.elonphoenix.com/,http://www.elonphoenix.com/
+Embry-Riddle (FL),9680,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9680.gif,,,
+Emerson,214,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//214.gif,,http://emersonlions.com/softball,http://emersonlions.com/softball
+Emmanuel (GA),30193,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30193.gif,,,
+Emmanuel (MA),215,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//215.gif,,,
+Emory,217,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//217.gif,http://emoryathletics.com,http://emoryathletics.com/softball,http://emoryathletics.com/softball
+Emory & Henry,216,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//216.gif,,,
+Emporia St.,1071,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1071.gif,,,http://esuhornets.com/softball
+Endicott,8981,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8981.gif,,,
+Erskine,1072,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1072.gif,,http://erskinesports.com/softball,http://erskinesports.com/softball
+ETSU,198,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//198.gif,,,
+Eureka,218,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//218.gif,,,
+Evansville,219,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//219.gif,http://gopurpleaces.com/,http://gopurpleaces.com/,http://gopurpleaces.com/
+Fairfield,220,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//220.gif,http://www.fairfieldstags.com,http://www.fairfieldstags.com/softball,http://www.fairfieldstags.com/softball
+Fairmont St.,1076,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1076.gif,,,http://fightingfalcons.com/softball
+Farmingdale St.,27892,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//27892.gif,,,http://farmingdalesports.com/softball
+Fayetteville St.,223,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//223.gif,,,http://fsubroncos.com/softball
+FDU,222,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//222.gif,,,
+FDU-Florham,221,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//221.gif,,,
+Felician,23157,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//23157.gif,http://felicianuathletics.com,http://felicianuathletics.com/softball,http://felicianuathletics.com/softball
+Ferris St.,224,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//224.gif,,,
+Ferrum,225,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//225.gif,,http://ferrumpanthers.com/softball,http://ferrumpanthers.com/softball
+FGCU,28755,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28755.gif,,,
+Findlay,1079,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1079.gif,http://findlayoilers.com,http://findlayoilers.com/softball,http://findlayoilers.com/softball
+Fitchburg St.,227,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//227.gif,,,
+FIU,231,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//231.gif,,,
+Fla. Atlantic,229,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//229.gif,,,
+Fla. Southern,233,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//233.gif,,,
+Flagler,30092,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30092.gif,,http://flaglerathletics.com/softball,http://flaglerathletics.com/softball
+Florida,235,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//235.gif,http://floridagators.com,http://floridagators.com/softball,http://floridagators.com/softball
+Florida A&M,228,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//228.gif,,http://famuathletics.com/softball,http://famuathletics.com/softball
+Florida St.,234,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//234.gif,,,http://seminoles.com/softball
+Florida Tech,230,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//230.gif,,,
+Fontbonne,11538,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11538.gif,,,
+Fordham,236,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//236.gif,http://fordhamsports.com,http://fordhamsports.com/softball,http://fordhamsports.com/softball
+Fort Hays St.,9011,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9011.gif,,,http://fhsuathletics.com/softball
+Fort Lewis,1083,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1083.gif,,http://goskyhawks.com/softball,http://goskyhawks.com/softball
+Fort Valley St.,237,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//237.gif,,,http://www.fvsusports.com/
+Framingham St.,238,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//238.gif,,,
+Francis Marion,1085,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1085.gif,http://fmupatriots.com,http://fmupatriots.com/softball,http://fmupatriots.com/softball
+Franciscan,30069,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30069.gif,,,
+Franklin,2694,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2694.gif,,http://franklingrizzlies.com/softball,http://franklingrizzlies.com/softball
+Franklin & Marshall,239,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//239.gif,,http://godiplomats.com/softball,http://godiplomats.com/softball
+Franklin Pierce,241,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//241.gif,,,
+Fredonia,242,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//242.gif,,,
+Fresno St.,96,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//96.gif,,,http://gobulldogs.com/softball
+Frostburg St.,243,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//243.gif,,,http://frostburgsports.com/softball
+Furman,244,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//244.gif,http://furmanpaladins.com,http://furmanpaladins.com/softball,http://furmanpaladins.com/softball
+Ga. Southern,253,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//253.gif,,,
+Ga. Southwestern,1097,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1097.gif,,,
+Gallaudet,245,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//245.gif,http://gallaudetbison.com,http://gallaudetbison.com/softball,http://gallaudetbison.com/softball
+Gannon,246,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//246.gif,http://gannonsports.com,http://gannonsports.com/softball,http://gannonsports.com/softball
+Gardner-Webb,1092,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1092.gif,http://gwusports.com,http://gwusports.com/softball,http://gwusports.com/softball
+Geneva,30084,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30084.gif,,http://athletics.geneva.edu/softball,http://athletics.geneva.edu/softball
+George Fox,1094,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1094.gif,http://athletics.georgefox.edu,http://athletics.georgefox.edu/softball,http://athletics.georgefox.edu/softball
+George Mason,248,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//248.gif,http://gomason.com,http://gomason.com/softball,http://gomason.com/softball
+George Washington,249,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//249.gif,http://gwsports.com,http://gwsports.com/softball,http://gwsports.com/softball
+Georgetown,251,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//251.gif,http://guhoyas.com,http://guhoyas.com/softball,http://guhoyas.com/softball
+Georgia,257,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//257.gif,http://georgiadogs.com,http://georgiadogs.com/softball,http://georgiadogs.com/softball
+Georgia College,1096,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1096.gif,,,
+Georgia St.,254,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//254.gif,,,http://georgiastatesports.com/softball
+Georgia Tech,255,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//255.gif,,,
+Georgian Court,9004,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9004.gif,http://gculions.com,http://gculions.com/softball,http://gculions.com/softball
+Gettysburg,258,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//258.gif,,http://www.gettysburgsports.com/softball,http://www.gettysburgsports.com/softball
+Glenville St.,1098,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1098.gif,,,http://gstatepioneers.com/softball
+Goldey-Beacom,8366,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8366.gif,,http://gbcathletics.com/softball,http://gbcathletics.com/softball
+Gordon,1099,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1099.gif,,http://athletics.gordon.edu/,http://athletics.gordon.edu/
+Grambling,261,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//261.gif,,,
+Grand Canyon,1104,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1104.gif,http://gculopes.com,http://gculopes.com/softball,http://gculopes.com/softball
+Grand Valley St.,262,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//262.gif,,,http://gvsulakers.com/softball
+Green Bay,794,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//794.gif,,,
+Greensboro,263,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//263.gif,,http://greensborocollegesports.com/softball,http://greensborocollegesports.com/softball
+Greenville,1111,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1111.gif,,,
+Grinnell,264,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//264.gif,,http://pioneers.grinnell.edu/softball,http://pioneers.grinnell.edu/softball
+Grove City,265,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//265.gif,,http://athletics.gcc.edu/softball,http://athletics.gcc.edu/softball
+Guilford,1112,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1112.gif,,http://guilfordquakers.com/softball,http://guilfordquakers.com/softball
+Gust. Adolphus,266,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//266.gif,,,
+Gwynedd Mercy,12399,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12399.gif,http://gwyneddathletics.com,http://gwyneddathletics.com/softball,http://gwyneddathletics.com/softball
+Hamilton,267,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//267.gif,,http://athletics.hamilton.edu/softball,http://athletics.hamilton.edu/softball
+Hamline,268,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//268.gif,http://hamlineathletics.com,http://hamlineathletics.com/softball,http://hamlineathletics.com/softball
+Hampton,270,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//270.gif,http://hamptonpirates.com/,http://hamptonpirates.com/,http://hamptonpirates.com/
+Hanover,1115,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1115.gif,,http://athletics.hanover.edu/softball,http://athletics.hanover.edu/softball
+Hardin-Simmons,271,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//271.gif,http://hsuathletics.com,http://hsuathletics.com/softball,http://hsuathletics.com/softball
+Harding,1116,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1116.gif,http://hardingsports.com,http://hardingsports.com/softball,http://hardingsports.com/softball
+Hartford,272,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//272.gif,http://www.hartfordhawks.com/,http://www.hartfordhawks.com/,http://www.hartfordhawks.com/
+Hartwick,273,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//273.gif,,http://hartwickhawks.com/softball,http://hartwickhawks.com/softball
+Harvard,275,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//275.gif,http://gocrimson.com,http://gocrimson.com/softball,http://gocrimson.com/softball
+Haverford,276,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//276.gif,,,
+Hawaii,277,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//277.gif,,,
+Hawaii Hilo,2697,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2697.gif,,,
+Hawaii Pacific,2696,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2696.gif,http://hpusharks.com ,http://hpusharks.com /softball,http://hpusharks.com /softball
+Heidelberg,278,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//278.gif,http://bergathletics.com,http://bergathletics.com/softball,http://bergathletics.com/softball
+Henderson St.,1123,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1123.gif,,,http://hsusports.com/softball
+Hendrix,1124,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1124.gif,,http://hendrixwarriors.com/softball,http://hendrixwarriors.com/softball
+Hilbert,8398,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8398.gif,,http://hilberthawks.com/softball,http://hilberthawks.com/softball
+Hillsdale,280,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//280.gif,,http://hillsdalechargers.com/softball,http://hillsdalechargers.com/softball
+Hiram,281,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//281.gif,,,
+Hofstra,283,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//283.gif,http://gohofstra.com,http://gohofstra.com/softball,http://gohofstra.com/softball
+Holy Cross,285,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//285.gif,,,
+Holy Family,1126,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1126.gif,http://athletics.holyfamily.edu,http://athletics.holyfamily.edu/softball,http://athletics.holyfamily.edu/softball
+Hood,8404,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8404.gif,,http://hoodathletics.com/softball,http://hoodathletics.com/softball
+Hope,286,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//286.gif,,http://athletics.hope.edu/softball,http://athletics.hope.edu/softball
+Houghton,30160,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30160.gif,http://athletics.houghton.edu,http://athletics.houghton.edu/softball,http://athletics.houghton.edu/softball
+Houston,288,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//288.gif,http://uhcougars.com,http://uhcougars.com/softball,http://uhcougars.com/softball
+Houston Christian,287,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//287.gif,http://www.hcuhuskies.com,http://www.hcuhuskies.com/softball,http://www.hcuhuskies.com/softball
+Howard,290,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//290.gif,http://hubison.com,http://hubison.com/softball,http://hubison.com/softball
+Howard Payne,2741,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2741.gif,http://www.hpusports.com,http://www.hpusports.com/softball,http://www.hpusports.com/softball
+Hunter,292,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//292.gif,,http://www.huntercollegeathletics.com/softball,http://www.huntercollegeathletics.com/softball
+Huntingdon,1130,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1130.gif,,,
+Husson,1133,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1133.gif,http://hussoneagles.com,http://hussoneagles.com/softball,http://hussoneagles.com/softball
+Idaho St.,294,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//294.gif,,,http://isubengals.com/softball
+Ill. Springfield,30050,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30050.gif,,,
+Ill. Wesleyan,300,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//300.gif,,,
+Illinois,301,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//301.gif,http://fightingillini.com,http://www.illinoiscollegeathletics.com/softball,http://www.illinoiscollegeathletics.com/softball
+Illinois,301,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//301.gif,http://fightingillini.com,http://www.illinoiscollegeathletics.com/softball,http://fightingillini.com/softball
+Illinois,301,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//301.gif,http://fightingillini.com,http://fightingillini.com/softball,http://www.illinoiscollegeathletics.com/softball
+Illinois,301,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//301.gif,http://fightingillini.com,http://fightingillini.com/softball,http://fightingillini.com/softball
+Illinois Col.,297,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//297.gif,,,
+Illinois St.,299,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//299.gif,,,http://goredbirds.com/softball
+Immaculata,303,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//303.gif,http://gomightymacs.com,http://gomightymacs.com/softball,http://gomightymacs.com/softball
+Indiana,306,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//306.gif,https://iuhoosiers.com,https://iuhoosiers.com/softball,https://iuhoosiers.com/softball
+Indiana (PA),307,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//307.gif,,,
+Indiana St.,305,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//305.gif,,,http://gosycamores.com/softball
+Iona,310,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//310.gif,,http://ionagaels.com/softball,http://ionagaels.com/softball
+Iowa,312,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//312.gif,,,
+Iowa St.,311,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//311.gif,,,http://cyclones.com/softball
+Ithaca,313,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//313.gif,,http://athletics.ithaca.edu/softball,http://athletics.ithaca.edu/softball
+IUPUI,2699,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2699.gif,http://iuindyjags.com,http://iuindyjags.com/softball,http://iuindyjags.com/softball
+Jackson St.,314,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//314.gif,,,http://gojsutigers.com/softball
+Jacksonville,316,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//316.gif,http://judolphins.com,http://athletics.jacksonvillecollege.edu/softball,http://athletics.jacksonvillecollege.edu/softball
+Jacksonville,316,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//316.gif,http://judolphins.com,http://athletics.jacksonvillecollege.edu/softball,http://judolphins.com/softball
+Jacksonville,316,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//316.gif,http://judolphins.com,http://judolphins.com/softball,http://athletics.jacksonvillecollege.edu/softball
+Jacksonville,316,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//316.gif,http://judolphins.com,http://judolphins.com/softball,http://judolphins.com/softball
+Jacksonville St.,315,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//315.gif,,,http://jaxstatesports.com/softball
+James Madison,317,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//317.gif,http://jmusports.com,http://jmusports.com/softball,http://jmusports.com/softball
+Jefferson,543,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//543.gif,http://jeffersonrams.com,http://jeffersonrams.com/softball,http://jeffersonrams.com/softball
+Jessup,30262,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30262.gif,http://jessupathletics.com,http://jessupathletics.com/softball,http://jessupathletics.com/softball
+John Carroll,320,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//320.gif,http://www.jcusports.com,http://www.jcusports.com/softball,http://www.jcusports.com/softball
+John Jay,321,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//321.gif,,http://johnjayathletics.com/softball,http://johnjayathletics.com/softball
+Johnson C. Smith,323,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//323.gif,http://goldenbullsports.com,http://goldenbullsports.com/softball,http://goldenbullsports.com/softball
+Juniata,325,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//325.gif,,,
+JWU (Providence),22626,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//22626.gif,,,
+Kalamazoo,326,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//326.gif,,http://hornets.kzoo.edu/softball,http://hornets.kzoo.edu/softball
+Kansas,328,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//328.gif,http://kuathletics.com,http://kuathletics.com/softball,http://kuathletics.com/softball
+Kansas City,2707,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2707.gif,,,
+Kansas St.,327,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//327.gif,,,http://www.kstatesports.com/softball
+Kean,329,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//329.gif,http://keanathletics.com,http://keanathletics.com/softball,http://keanathletics.com/softball
+Keene St.,330,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//330.gif,,,http://keeneowls.com/softball
+Kennesaw St.,1157,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1157.gif,,,http://ksuowls.com/softball
+Kent St.,331,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//331.gif,,,http://kentstatesports.com/softball
+Kentucky,334,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//334.gif,,,
+Kentucky St.,332,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//332.gif,,,http://ksuthorobreds.com/softball
+Kenyon,335,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//335.gif,,http://athletics.kenyon.edu/,http://athletics.kenyon.edu/
+Keuka,1159,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1159.gif,,http://keukaathletics.com/softball,http://keukaathletics.com/softball
+Keystone,30047,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30047.gif,,http://www.gokcgiants.com/softball,http://www.gokcgiants.com/softball
+King's (PA),336,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//336.gif,,,
+King (TN),30051,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30051.gif,,,
+Knox,337,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//337.gif,,http://prairiefire.knox.edu/softball,http://prairiefire.knox.edu/softball
+Kutztown,339,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//339.gif,http://kubears.com,http://kubears.com/softball,http://kubears.com/softball
+Ky. Wesleyan,333,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//333.gif,,,
+La Roche,1163,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1163.gif,,,
+La Salle,340,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//340.gif,http://goexplorers.com,http://goexplorers.com/softball,http://goexplorers.com/softball
+La Verne,341,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//341.gif,http://leopardathletics.com,http://leopardathletics.com/softball,http://leopardathletics.com/softball
+Lafayette,342,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//342.gif,,http://goleopards.com/softball,http://goleopards.com/softball
+LaGrange,1162,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1162.gif,,http://lagrangepanthers.com/softball,http://lagrangepanthers.com/softball
+Lake Erie,2746,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2746.gif,,http://lakeeriestorm.com/softball,http://lakeeriestorm.com/softball
+Lake Forest,344,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//344.gif,,http://goforesters.com/softball,http://goforesters.com/softball
+Lake Superior St.,345,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//345.gif,,,http://lssulakers.com/softball
+Lakeland,1164,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1164.gif,http://lakelandmuskies.com,http://lakelandmuskies.com/softball,http://lakelandmuskies.com/softball
+Lamar University,346,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//346.gif,,,
+Lancaster Bible,30085,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30085.gif,,http://lbcchargers.com/softball,http://lbcchargers.com/softball
+Lander,1167,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1167.gif,http://landerbearcats.com,http://landerbearcats.com/softball,http://landerbearcats.com/softball
+Lane,347,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//347.gif,,http://golcdragons.com/,http://golcdragons.com/
+Lasell,8486,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8486.gif,,,
+Lawrence,348,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//348.gif,http://vikings.lawrence.edu,http://vikings.lawrence.edu/softball,http://vikings.lawrence.edu/softball
+Le Moyne,349,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//349.gif,,http://lemoynedolphins.com/softball,http://lemoynedolphins.com/softball
+Lebanon Valley,351,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//351.gif,,http://www.godutchmen.com/softball,http://www.godutchmen.com/softball
+Lee,30013,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30013.gif,http://leeuflames.com,http://leeuflames.com/softball,http://leeuflames.com/softball
+Lees-McRae,13302,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//13302.gif,,http://lmcbobcats.com/softball,http://lmcbobcats.com/softball
+Lehigh,352,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//352.gif,http://lehighsports.com,http://lehighsports.com/softball,http://lehighsports.com/softball
+Lehman,279,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//279.gif,,http://lehmanathletics.com/,http://lehmanathletics.com/
+LeMoyne-Owen,350,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//350.gif,,http://athletics.loc.edu/softball,http://athletics.loc.edu/softball
+Lenoir-Rhyne,1170,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1170.gif,http://lrbears.com,http://lrbears.com/softball,http://lrbears.com/softball
+Lesley,24317,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//24317.gif,,,
+LeTourneau,8490,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8490.gif,http://letuathletics.com,http://letuathletics.com/softball,http://letuathletics.com/softball
+Lewis,354,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//354.gif,http://lewisflyers.com/,http://lewisflyers.com/,http://lewisflyers.com/
+Lewis & Clark,22235,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//22235.gif,,http://lcpioneers.com/softball,http://lcpioneers.com/softball
+Liberty,355,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//355.gif,http://libertyflames.com,http://libertyflames.com/softball,http://libertyflames.com/softball
+Limestone,1174,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1174.gif,http://golimestonesaints.com,http://golimestonesaints.com/softball,http://golimestonesaints.com/softball
+Lincoln (MO),356,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//356.gif,,,
+Lincoln (PA),357,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//357.gif,,,
+Lincoln Memorial,1176,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1176.gif,http://lmurailsplitters.com,http://lmurailsplitters.com/softball,http://lmurailsplitters.com/softball
+Lindenwood,30136,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30136.gif,http://lindenwoodlions.com,http://lindenwoodlions.com/softball,http://lindenwoodlions.com/softball
+Linfield,1179,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1179.gif,http://golinfieldwildcats.com,http://golinfieldwildcats.com/softball,http://golinfieldwildcats.com/softball
+Lipscomb,28600,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28600.gif,http://lipscombsports.com,http://lipscombsports.com/softball,http://lipscombsports.com/softball
+LIU,361,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//361.gif,,,
+Livingstone,359,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//359.gif,,http://www.bluebearathletics.com/,http://www.bluebearathletics.com/
+LMU (CA),370,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//370.gif,,,
+Lock Haven,360,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//360.gif,http://golhu.com,http://golhu.com/softball,http://golhu.com/softball
+Long Beach St.,99,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//99.gif,,,http://longbeachstate.com/softball
+Longwood,363,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//363.gif,http://longwoodlancers.com,http://longwoodlancers.com/softball,http://longwoodlancers.com/softball
+Loras,364,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//364.gif,,http://duhawks.com/softball,http://duhawks.com/softball
+Louisiana,671,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//671.gif,,,
+Louisiana Tech,366,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//366.gif,http://latechsports.com,http://latechsports.com/softball,http://latechsports.com/softball
+Louisville,367,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//367.gif,http://gocards.com,http://gocards.com/softball,http://gocards.com/softball
+Loyola Chicago,371,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//371.gif,,,
+Loyola Maryland,369,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//369.gif,,,
+LSU,365,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//365.gif,,,
+Lubbock Christian,30177,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30177.gif,http://lcuchaps.com,http://lcuchaps.com/softball,http://lcuchaps.com/softball
+Luther,372,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//372.gif,,http://luthernorse.com/softball,http://luthernorse.com/softball
+Lycoming,373,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//373.gif,,http://lycomingathletics.com/softball,http://lycomingathletics.com/softball
+Lynchburg,374,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//374.gif,http://lynchburgsports.com,http://lynchburgsports.com/softball,http://lynchburgsports.com/softball
+Lynn,20794,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//20794.gif,http://lynnfightingknights.com,http://lynnfightingknights.com/softball,http://lynnfightingknights.com/softball
+Macalester,376,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//376.gif,,http://athletics.macalester.edu/,http://athletics.macalester.edu/
+Maine,380,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//380.gif,http://goblackbears.com,http://goblackbears.com/softball,http://goblackbears.com/softball
+Maine Maritime,378,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//378.gif,,,
+Malone,30137,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30137.gif,http://malonepioneers.com,http://malonepioneers.com/softball,http://malonepioneers.com/softball
+Manchester,1192,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1192.gif,http://muspartans.com,http://muspartans.com/softball,http://muspartans.com/softball
+Manhattan,381,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//381.gif,,http://gojaspers.com/softball,http://gojaspers.com/softball
+Manhattanville,382,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//382.gif,,http://www.govaliants.com/softball,http://www.govaliants.com/softball
+Mansfield,384,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//384.gif,http://gomounties.com,http://gomounties.com/softball,http://gomounties.com/softball
+Maranatha Baptist,1194,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1194.gif,http://mbusabercats.com,http://mbusabercats.com/softball,http://mbusabercats.com/softball
+Marian (WI),1196,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1196.gif,,,
+Marietta,385,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//385.gif,,http://pioneers.marietta.edu/softball,http://pioneers.marietta.edu/softball
+Marist,386,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//386.gif,,http://goredfoxes.com/softball,http://goredfoxes.com/softball
+Mars Hill,1199,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1199.gif,,,
+Marshall,388,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//388.gif,http://herdzone.com,http://herdzone.com/softball,http://herdzone.com/softball
+Martin Luther,8597,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8597.gif,,http://mlcknights.com/softball,http://mlcknights.com/softball
+Mary,30075,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30075.gif,http://goumary.com,http://goumary.com/softball,http://goumary.com/softball
+Mary Baldwin,389,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//389.gif,http://marybaldwinathletics.com,http://marybaldwinathletics.com/softball,http://marybaldwinathletics.com/softball
+Mary Hardin-Baylor,1203,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1203.gif,http://cruathletics.com,http://cruathletics.com/softball,http://cruathletics.com/softball
+Mary Washington,390,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//390.gif,http://umweagles.com,http://umweagles.com/softball,http://umweagles.com/softball
+Maryland,392,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//392.gif,http://umterps.com,http://umterps.com/softball,http://umterps.com/softball
+Marymount (VA),394,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//394.gif,,,
+Maryville (MO),395,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//395.gif,,,
+Maryville (TN),396,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//396.gif,,,
+Marywood,397,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//397.gif,http://marywoodpacers.com,http://marywoodpacers.com/softball,http://marywoodpacers.com/softball
+Mass. Maritime,399,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//399.gif,,,
+Massachusetts,400,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//400.gif,http://umassathletics.com,http://umassathletics.com/softball,http://umassathletics.com/softball
+McDaniel,773,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//773.gif,,http://mcdanielathletics.com/softball,http://mcdanielathletics.com/softball
+McKendree,30138,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30138.gif,http://mckbearcats.com,http://mckbearcats.com/softball,http://mckbearcats.com/softball
+MCLA,486,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//486.gif,,,
+McMurry,8530,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8530.gif,http://www.mcmurrysports.com/,http://www.mcmurrysports.com/,http://www.mcmurrysports.com/
+McNeese,402,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//402.gif,,,
+Me.-Farmington,379,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//379.gif,,,
+Me.-Presque Isle,30040,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30040.gif,,,
+Medgar Evers,403,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//403.gif,,http://www.mecathletics.com/softball,http://www.mecathletics.com/softball
+Memphis,404,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//404.gif,http://gotigersgo.com,http://gotigersgo.com/softball,http://gotigersgo.com/softball
+Menlo,405,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//405.gif,,http://menloathletics.com/softball,http://menloathletics.com/softball
+Mercer,406,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//406.gif,http://mercerbears.com,http://mercerbears.com/softball,http://mercerbears.com/softball
+Merchant Marine,724,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//724.gif,,,
+Mercy,407,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//407.gif,http://mercyathletics.com,http://mercyathletics.com/softball,http://mercyathletics.com/softball
+Mercyhurst,408,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//408.gif,http://hurstathletics.com,http://hurstathletics.com/softball,http://hurstathletics.com/softball
+Meredith,409,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//409.gif,,http://goavengingangels.com/softball,http://goavengingangels.com/softball
+Merrimack,410,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//410.gif,,http://merrimackathletics.com/softball,http://merrimackathletics.com/softball
+Messiah,411,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//411.gif,,http://gomessiah.com/softball,http://gomessiah.com/softball
+Methodist,412,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//412.gif,http://www.mumonarchs.com/,http://www.mumonarchs.com/,http://www.mumonarchs.com/
+Miami (OH),414,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//414.gif,,,
+Michigan,418,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//418.gif,http://mgoblue.com,http://mgoblue.com/softball,http://mgoblue.com/softball
+Michigan St.,416,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//416.gif,,,http://msuspartans.com/softball
+Middle Tenn.,419,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//419.gif,,,
+Middlebury,420,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//420.gif,,http://athletics.middlebury.edu/softball,http://athletics.middlebury.edu/softball
+Midwestern St.,1222,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1222.gif,,,http://msumustangs.com/softball
+Miles,422,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//422.gif,,http://www.milesgoldenbears.com/softball,http://www.milesgoldenbears.com/softball
+Millersville,423,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//423.gif,http://www.millersvilleathletics.com,http://www.millersvilleathletics.com/softball,http://www.millersvilleathletics.com/softball
+Millikin,424,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//424.gif,http://athletics.millikin.edu,http://athletics.millikin.edu/softball,http://athletics.millikin.edu/softball
+Millsaps,426,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//426.gif,,http://gomajors.com/softball,http://gomajors.com/softball
+Minn.-Crookston,27854,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//27854.gif,,,
+Minn.-Morris,1226,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1226.gif,,,
+Minn. Duluth,427,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//427.gif,,,
+Minnesota,428,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//428.gif,https://gophersports.com,https://gophersports.com/softball,https://gophersports.com/softball
+Minnesota St.,383,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//383.gif,,,
+Minot St.,30125,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30125.gif,,,http://msubeavers.com/softball
+Misericordia,16142,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//16142.gif,http://athletics.misericordia.edu/,http://athletics.misericordia.edu/,http://athletics.misericordia.edu/
+Mississippi Col.,429,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//429.gif,,,
+Mississippi St.,430,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//430.gif,,,http://hailstate.com/softball
+Mississippi Val.,432,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//432.gif,,,
+Missouri,434,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//434.gif,http://mutigers.com,http://mutigers.com/softball,http://mutigers.com/softball
+Missouri S&T,435,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//435.gif,,http://minerathletics.com/softball,http://minerathletics.com/softball
+Missouri St.,669,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//669.gif,,,http://missouristatebears.com/softball
+Missouri Western,9013,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9013.gif,,,
+MIT,398,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//398.gif,,,
+Mitchell,30042,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30042.gif,,,
+Mo.-St. Louis,436,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//436.gif,,,
+Mo. Southern St.,9012,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9012.gif,,,
+Molloy,437,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//437.gif,,http://molloylions.com/softball,http://molloylions.com/softball
+Monmouth,439,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//439.gif,http://monmouthhawks.com,http://monmouthscots.com/softball,http://monmouthscots.com/softball
+Monmouth,439,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//439.gif,http://monmouthhawks.com,http://monmouthscots.com/softball,http://monmouthhawks.com/softball
+Monmouth,439,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//439.gif,http://monmouthhawks.com,http://monmouthhawks.com/softball,http://monmouthscots.com/softball
+Monmouth,439,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//439.gif,http://monmouthhawks.com,http://monmouthhawks.com/softball,http://monmouthhawks.com/softball
+Monmouth (IL),438,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//438.gif,,,
+Mont. St. Billings,205,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//205.gif,,,
+Montana,441,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//441.gif,http://gogriz.com,http://gogriz.com/softball,http://gogriz.com/softball
+Montclair St.,442,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//442.gif,,,http://montclairathletics.com/softball
+Montevallo,1238,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1238.gif,http://montevallofalcons.com,http://montevallofalcons.com/softball,http://montevallofalcons.com/softball
+Moravian,443,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//443.gif,,,
+Morehead St.,444,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//444.gif,,,http://www.msueagles.com/
+Morgan St.,446,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//446.gif,,,http://www.morganstatebears.com/
+Mount Aloysius,30036,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30036.gif,,http://mountieathletics.com/softball,http://mountieathletics.com/softball
+Mount Holyoke,449,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//449.gif,,,
+Mount Mary,30033,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30033.gif,,,
+Mount Olive,1245,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1245.gif,http://umotrojans.com,http://umotrojans.com/softball,http://umotrojans.com/softball
+Mount St. Mary's,450,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//450.gif,,,
+Mount Union,452,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//452.gif,http://athletics.mountunion.edu,http://athletics.mountunion.edu/softball,http://athletics.mountunion.edu/softball
+MSOE,20220,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//20220.gif,,,
+MSU Denver,413,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//413.gif,,,
+MSU Moorhead,1240,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1240.gif,,,
+Mt. St. Joseph,8567,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8567.gif,,,
+Mt. St. Mary (NY),1468,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1468.gif,,,
+Muhlenberg,453,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//453.gif,,http://muhlenbergsports.com/softball,http://muhlenbergsports.com/softball
+Murray St.,454,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//454.gif,,,http://mscaggies.com/softball
+Murray St.,454,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//454.gif,,,http://goracers.com/softball
+Muskingum,455,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//455.gif,,,
+MUW,431,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//431.gif,,,
+N.C. A&T,488,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//488.gif,,,
+N.C. Central,489,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//489.gif,,,
+N.C. Wesleyan,491,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//491.gif,,,
+N.M. Highlands,8577,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8577.gif,,,
+Nazareth,461,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//461.gif,,http://nazathletics.com/softball,http://nazathletics.com/softball
+NC State,490,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//490.gif,http://gopack.com,http://gopack.com/softball,
+Neb.-Kearney,1156,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1156.gif,,,
+Neb. Wesleyan,462,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//462.gif,,,
+Nebraska,463,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//463.gif,,,
+Neumann,1254,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1254.gif,http://www.neumannathletics.com/,http://www.neumannathletics.com/,http://www.neumannathletics.com/
+Nevada,466,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//466.gif,http://nevadawolfpack.com,http://nevadawolfpack.com/softball,http://nevadawolfpack.com/softball
+New England Col.,467,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//467.gif,,,
+New Hampshire,469,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//469.gif,http://unhwildcats.com,http://unhwildcats.com/softball,http://unhwildcats.com/softball
+New Haven,470,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//470.gif,http://newhavenchargers.com/,http://newhavenchargers.com/,http://newhavenchargers.com/
+New Jersey City,319,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//319.gif,http://njcugothicknights.com,http://njcugothicknights.com/softball,http://njcugothicknights.com/softball
+New Mexico,473,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//473.gif,,,
+New Mexico St.,472,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//472.gif,,,http://nmstatesports.com/softball
+New Orleans,474,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//474.gif,http://unoprivateers.com,http://unoprivateers.com/softball,http://unoprivateers.com/softball
+New York Tech,477,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//477.gif,,,
+Newberry,1257,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1257.gif,,http://newberrywolves.com/softball,http://newberrywolves.com/softball
+Newman,30054,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30054.gif,http://newmanjets.com,http://newmanjets.com/softball,http://newmanjets.com/softball
+Niagara,482,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//482.gif,http://purpleeagles.com/,http://purpleeagles.com/,http://purpleeagles.com/
+Nicholls,483,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//483.gif,,,
+Nichols,484,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//484.gif,,http://www.nicholsathletics.com/softball,http://www.nicholsathletics.com/softball
+NIU,503,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//503.gif,,,
+NJIT,471,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//471.gif,,,
+Norfolk St.,485,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//485.gif,,,http://www.nsuspartans.com/softball
+North Ala.,487,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//487.gif,,,
+North Carolina,457,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//457.gif,http://goheels.com,http://goheels.com/softball,http://goheels.com/softball
+North Central (IL),492,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//492.gif,,,
+North Central (MN),30039,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30039.gif,,,
+North Dakota,494,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//494.gif,http://fightinghawks.com,http://fightinghawks.com/softball,http://fightinghawks.com/softball
+North Dakota St.,493,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//493.gif,,,http://gobison.com/softball
+North Florida,2711,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2711.gif,http://unfospreys.com/,http://unfospreys.com/,http://unfospreys.com/
+North Georgia,30052,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30052.gif,http://ungathletics.com,http://ungathletics.com/softball,http://ungathletics.com/softball
+North Greenville,9223,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9223.gif,http://nguathletics.com,http://nguathletics.com/softball,http://nguathletics.com/softball
+North Park,496,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//496.gif,http://athletics.northpark.edu,http://athletics.northpark.edu/softball,http://athletics.northpark.edu/softball
+North Texas,497,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//497.gif,https://meangreensports.com,https://meangreensports.com/softball,https://meangreensports.com/softball
+Northeastern St.,12810,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12810.gif,,,http://goriverhawksgo.com/
+Northern Ariz.,501,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//501.gif,,,
+Northern Colo.,502,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//502.gif,,,
+Northern Ky.,505,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//505.gif,,,
+Northern St.,1266,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1266.gif,,,http://nsuwolves.com/softball
+Northland,1267,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1267.gif,,http://northlandcollegesports.com/softball,http://northlandcollegesports.com/softball
+Northwest Mo. St.,507,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//507.gif,,,
+Northwest Nazarene,1274,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1274.gif,http://www.nnusports.com,http://www.nnusports.com/softball,http://www.nnusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nwcraiders.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nwcraiders.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nwcraiders.com/softball,http://unweagles.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nusports.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nusports.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://nusports.com/softball,http://unweagles.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://unweagles.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://unweagles.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://nusports.com,http://unweagles.com/softball,http://unweagles.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nwcraiders.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nwcraiders.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nwcraiders.com/softball,http://unweagles.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nusports.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nusports.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://nusports.com/softball,http://unweagles.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://unweagles.com/softball,http://nwcraiders.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://unweagles.com/softball,http://nusports.com/softball
+Northwestern,509,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//509.gif,http://unweagles.com,http://unweagles.com/softball,http://unweagles.com/softball
+Northwestern-St. Paul,30031,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30031.gif,,,
+Northwestern Okla.,30178,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30178.gif,,,
+Northwestern St.,508,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//508.gif,,,http://nsudemons.com/softball
+Northwood,510,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//510.gif,,,
+Norwich,511,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//511.gif,http://norwichathletics.com,http://norwichathletics.com/softball,http://norwichathletics.com/softball
+Notre Dame,513,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//513.gif,,http://www.notredamefalcons.com/softball,http://www.notredamefalcons.com/softball
+Notre Dame (MD),8600,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8600.gif,,,
+Notre Dame (OH),30126,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30126.gif,,,
+Nova Southeastern,24639,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//24639.gif,http://www.nsusharks.com,http://www.nsusharks.com/softball,http://www.nsusharks.com/softball
+NYU,479,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//479.gif,,,
+Oakland,514,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//514.gif,http://goldengrizzlies.com,http://goldengrizzlies.com/softball,http://goldengrizzlies.com/softball
+Oberlin,515,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//515.gif,,http://www.goyeo.com/softball,http://www.goyeo.com/softball
+Occidental,516,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//516.gif,,http://oxyathletics.com/softball,http://oxyathletics.com/softball
+Ohio,519,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//519.gif,http://ohiobobcats.com,http://ohiobobcats.com/softball,http://ohiobobcats.com/softball
+Ohio Dominican,30119,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30119.gif,http://ohiodominicanpanthers.com,http://ohiodominicanpanthers.com/softball,http://ohiodominicanpanthers.com/softball
+Ohio Northern,517,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//517.gif,,,
+Ohio St.,518,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//518.gif,,,http://ohiostatebuckeyes.com/softball
+Ohio Wesleyan,520,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//520.gif,http://www.battlingbishops.com/,http://www.battlingbishops.com/,http://www.battlingbishops.com/
+Okla. Baptist,30202,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30202.gif,,,
+Okla. Christian,30179,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30179.gif,,,
+Oklahoma,522,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//522.gif,http://soonersports.com,http://soonersports.com/softball,http://soonersports.com/softball
+Oklahoma St.,521,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//521.gif,,,http://okstate.com/softball
+Old Westbury,524,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//524.gif,,,
+Ole Miss,433,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//433.gif,,,
+Olivet,525,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//525.gif,,,
+Omaha,464,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//464.gif,,,
+Oregon,529,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//529.gif,,,
+Oregon St.,528,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//528.gif,,,http://osubeavers.com/softball
+Oswego St.,530,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//530.gif,,,
+Otterbein,531,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//531.gif,http://otterbeincardinals.com,http://otterbeincardinals.com/softball,http://otterbeincardinals.com/softball
+Ouachita Baptist,1289,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1289.gif,http://www.obutigers.com/,http://www.obutigers.com/,http://www.obutigers.com/
+Ozarks (AR),23008,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//23008.gif,,,
+P.R.-Mayaguez,24361,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//24361.gif,,,
+P.R.-Rio Piedras,2716,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2716.gif,,,
+Pace,533,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//533.gif,http://paceuathletics.com ,http://paceuathletics.com /softball,http://paceuathletics.com /softball
+Pacific,534,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//534.gif,http://www.goboxers.com,http://www.goboxers.com/softball,http://www.goboxers.com/softball
+Pacific (OR),2751,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2751.gif,,,
+Pacific Lutheran,1297,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1297.gif,http://golutes.com,http://golutes.com/softball,http://golutes.com/softball
+Palm Beach Atl.,30045,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30045.gif,,,
+Penn,540,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//540.gif,,,
+Penn College,30190,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30190.gif,,,
+Penn St.,539,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//539.gif,,,http://gopsusports.com/softball
+Penn St.-Abington,30114,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30114.gif,,,
+Penn St.-Altoona,25719,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//25719.gif,,,
+Penn St.-Behrend,538,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//538.gif,,,
+Penn St.-Berks,30044,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30044.gif,,,
+Penn St. Harrisburg,30081,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30081.gif,,,
+Pfeiffer,542,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//542.gif,http://gofalconsports.com,http://gofalconsports.com/softball,http://gofalconsports.com/softball
+Piedmont,21830,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//21830.gif,http://www.piedmontlions.com,http://www.piedmontlions.com/softball,http://www.piedmontlions.com/softball
+Pitt.-Bradford,1315,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1315.gif,,,
+Pitt.-Greensburg,11839,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11839.gif,,,
+Pitt.-Johnstown,546,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//546.gif,,,
+Pittsburg St.,1314,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1314.gif,,,http://pittstategorillas.com/softball
+Pittsburgh,545,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//545.gif,http://pittsburghpanthers.com,http://pittsburghpanthers.com/softball,http://pittsburghpanthers.com/softball
+Plattsburgh St.,547,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//547.gif,,,
+Plymouth St.,548,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//548.gif,,,http://athletics.plymouth.edu/softball
+Pomona-Pitzer,549,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//549.gif,,,
+Portland St.,550,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//550.gif,,,http://goviks.com/softball
+Post,1318,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1318.gif,http://www.posteagles.com,http://www.posteagles.com/softball,http://www.posteagles.com/softball
+Prairie View,553,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//553.gif,,,
+Presbyterian,1320,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1320.gif,,http://gobluehose.com/softball,http://gobluehose.com/softball
+Princeton,554,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//554.gif,http://goprincetontigers.com,http://goprincetontigers.com/softball,http://goprincetontigers.com/softball
+Principia,555,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//555.gif,,http://principiaathletics.com/softball,http://principiaathletics.com/softball
+Providence,556,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//556.gif,http://upargos.com,http://friars.com/softball,http://friars.com/softball
+Providence,556,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//556.gif,http://upargos.com,http://friars.com/softball,http://upargos.com/softball
+Providence,556,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//556.gif,http://upargos.com,http://upargos.com/softball,http://friars.com/softball
+Providence,556,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//556.gif,http://upargos.com,http://upargos.com/softball,http://upargos.com/softball
+Puget Sound,557,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//557.gif,http://loggerathletics.com,http://loggerathletics.com/softball,http://loggerathletics.com/softball
+Purchase,30029,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30029.gif,,http://purchasecollegeathletics.com/softball,http://purchasecollegeathletics.com/softball
+Purdue,559,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//559.gif,http://purduesports.com,http://purduesports.com/softball,http://purduesports.com/softball
+Purdue Fort Wayne,308,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//308.gif,http://gomastodons.com,http://gomastodons.com/softball,http://gomastodons.com/softball
+Purdue Northwest,30222,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30222.gif,,,
+Queens (NC),11504,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11504.gif,,,
+Queens (NY),560,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//560.gif,,,
+Quincy,561,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//561.gif,http://quhawks.com,http://quhawks.com/softball,http://quhawks.com/softball
+Quinnipiac,562,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//562.gif,http://gobobcats.com,http://gobobcats.com/softball,http://gobobcats.com/softball
+Radford,563,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//563.gif,http://radfordathletics.com,http://radfordathletics.com/softball,http://radfordathletics.com/softball
+Ramapo,564,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//564.gif,,,
+Randolph,566,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//566.gif,,http://randolphwildcats.com/softball,http://randolphwildcats.com/softball
+Randolph-Macon,565,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//565.gif,,http://rmcathletics.com/softball,http://rmcathletics.com/softball
+Redlands,567,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//567.gif,http://goredlands.com,http://goredlands.com/softball,http://goredlands.com/softball
+Regis (CO),568,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//568.gif,,,
+Regis (MA),569,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//569.gif,,,
+Rensselaer,570,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//570.gif,,,
+Rhode Island,572,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//572.gif,http://gorhody.com,http://gorhody.com/softball,http://gorhody.com/softball
+Rhode Island Col.,571,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//571.gif,,,
+Rhodes,573,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//573.gif,,http://www.rhodeslynx.com/softball,http://www.rhodeslynx.com/softball
+Rider,576,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//576.gif,http://gobroncs.com,http://gobroncs.com/softball,http://gobroncs.com/softball
+Ripon,577,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//577.gif,,http://riponredhawks.com/softball,http://riponredhawks.com/softball
+RIT,580,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//580.gif,,,
+Rivier,18422,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//18422.gif,,,
+Roanoke,578,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//578.gif,,http://roanokemaroons.com/softball,http://roanokemaroons.com/softball
+Robert Morris,579,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//579.gif,http://rmucolonials.com,http://rmucolonials.com/softball,http://rmucolonials.com/softball
+Rochester (NY),581,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//581.gif,,,
+Rockford,582,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//582.gif,http://rockfordregents.com,http://rockfordregents.com/softball,http://rockfordregents.com/softball
+Rockhurst,1328,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1328.gif,http://rockhursthawks.com,http://rockhursthawks.com/softball,http://rockhursthawks.com/softball
+Roger Williams,583,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//583.gif,http://rwuhawks.com,http://rwuhawks.com/softball,http://rwuhawks.com/softball
+Rogers St.,30180,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30180.gif,,,http://rsuhillcats.com/softball
+Rollins,584,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//584.gif,,http://rollinssports.com/softball,http://rollinssports.com/softball
+Roosevelt,2807,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2807.gif,http://rooseveltlakers.com,http://rooseveltlakers.com/softball,http://rooseveltlakers.com/softball
+Rose-Hulman,585,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//585.gif,,,
+Rosemont,15882,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//15882.gif,,http://rosemont-ravens.com/softball,http://rosemont-ravens.com/softball
+Rowan,259,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//259.gif,http://rowanathletics.com,http://rowanathletics.com/softball,http://rowanathletics.com/softball
+Russell Sage,11036,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11036.gif,,,
+Rutgers,587,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//587.gif,http://scarletknights.com,http://scarletknights.com/softball,http://scarletknights.com/softball
+Rutgers-Camden,588,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//588.gif,http://scarletraptors.com,http://scarletraptors.com/softball,http://scarletraptors.com/softball
+Rutgers-Newark,589,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//589.gif,http://rutgersnewarkathletics.com/,http://rutgersnewarkathletics.com/,http://rutgersnewarkathletics.com/
+Sacramento St.,102,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//102.gif,,,http://hornetsports.com/softball
+Sacred Heart,590,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//590.gif,http://sacredheartpioneers.com,http://sacredheartpioneers.com/softball,http://sacredheartpioneers.com/softball
+Saginaw Valley,591,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//591.gif,,,
+Saint Augustine's,594,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//594.gif,,,
+Saint Benedict,595,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//595.gif,,http://gobennies.com/softball,http://gobennies.com/softball
+Saint Elizabeth,9684,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9684.gif,http://seueagles.com,http://seueagles.com/softball,http://seueagles.com/softball
+Saint Francis (PA),600,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//600.gif,,,
+Saint Joseph's,606,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//606.gif,,,
+Saint Joseph (CT),8687,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8687.gif,,,
+Saint Leo,608,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//608.gif,http://saintleolions.com,http://saintleolions.com/softball,http://saintleolions.com/softball
+Saint Louis,609,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//609.gif,http://slubillikens.com,http://slubillikens.com/softball,http://slubillikens.com/softball
+Saint Martin's,1343,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1343.gif,,,
+Saint Mary's (CA),610,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//610.gif,,,
+Saint Mary's (MN),612,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//612.gif,,,
+Saint Michael's,613,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//613.gif,,,
+Saint Peter's,617,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//617.gif,,,
+Saint Rose,1347,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1347.gif,,,
+Saint Vincent,30064,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30064.gif,,http://athletics.stvincent.edu/softball,http://athletics.stvincent.edu/softball
+Salem (NC),30041,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30041.gif,,,
+Salem (WV),19117,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//19117.gif,,,
+Salem St.,621,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//621.gif,,,
+Salisbury,622,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//622.gif,http://suseagulls.com,http://suseagulls.com/softball,http://suseagulls.com/softball
+Salve Regina,623,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//623.gif,http://salveathletics.com,http://salveathletics.com/softball,http://salveathletics.com/softball
+Sam Houston,624,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//624.gif,,,
+Samford,625,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//625.gif,http://samfordsports.com,http://samfordsports.com/softball,http://samfordsports.com/softball
+San Diego,627,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//627.gif,http://usdtoreros.com,http://usdtoreros.com/softball,http://usdtoreros.com/softball
+San Diego St.,626,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//626.gif,,,
+San Fran. St.,628,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//628.gif,,,
+San Francisco,629,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//629.gif,http://usfdons.com/,http://usfdons.com/,http://usfdons.com/
+San Jose St.,630,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//630.gif,,,
+Santa Clara,631,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//631.gif,http://santaclarabroncos.com,http://santaclarabroncos.com/softball,http://santaclarabroncos.com/softball
+Sarah Lawrence,30163,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30163.gif,,http://gogryphons.com/softball,http://gogryphons.com/softball
+Savannah St.,632,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//632.gif,,,http://ssuathletics.com/softball
+Schreiner,1355,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1355.gif,,,
+Scranton,633,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//633.gif,http://athletics.scranton.edu,http://athletics.scranton.edu/softball,http://athletics.scranton.edu/softball
+Seattle U,1356,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1356.gif,,,
+Seton Hall,635,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//635.gif,http://shupirates.com,http://shupirates.com/softball,http://shupirates.com/softball
+Seton Hill,30063,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30063.gif,http://athletics.setonhill.edu,http://athletics.setonhill.edu/softball,http://athletics.setonhill.edu/softball
+Sewanee,652,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//652.gif,,,
+SFA,676,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//676.gif,,,
+Shaw,636,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//636.gif,http://shawbears.com,http://shawbears.com/softball,http://shawbears.com/softball
+Shenandoah,637,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//637.gif,http://suhornets.com,http://suhornets.com/softball,http://suhornets.com/softball
+Shepherd,10870,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//10870.gif,http://shepherdrams.com,http://shepherdrams.com/softball,http://shepherdrams.com/softball
+Shippensburg,638,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//638.gif,http://shipraiders.com,http://shipraiders.com/softball,http://shipraiders.com/softball
+Shorter,30151,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30151.gif,http://goshorterhawks.com,http://goshorterhawks.com/softball,http://goshorterhawks.com/softball
+Siena,639,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//639.gif,,http://sienasaints.com/softball,http://sienasaints.com/softball
+Simmons,640,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//640.gif,http://athletics.simmons.edu,http://athletics.simmons.edu/softball,http://athletics.simmons.edu/softball
+Simon Fraser,30127,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30127.gif,http://athletics.sfu.ca/,http://athletics.sfu.ca/,http://athletics.sfu.ca/
+Simpson,641,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//641.gif,http://simpsonredhawks.com,http://simpsonredhawks.com/softball,http://simpsonredhawks.com/softball
+Sioux Falls,30128,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30128.gif,http://usfcougars.com,http://usfcougars.com/softball,http://usfcougars.com/softball
+SIUE,660,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//660.gif,http://siuecougars.com,http://siuecougars.com/softball,http://siuecougars.com/softball
+Skidmore,642,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//642.gif,,http://skidmoreathletics.com/softball,http://skidmoreathletics.com/softball
+Slippery Rock,643,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//643.gif,http://rockathletics.com,http://rockathletics.com/softball,http://rockathletics.com/softball
+Smith,644,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//644.gif,,http://smithpioneers.com/softball,http://smithpioneers.com/softball
+Sonoma St.,645,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//645.gif,,,http://sonomaseawolves.com/softball
+South Alabama,646,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//646.gif,http://usajaguars.com,http://usajaguars.com/softball,http://usajaguars.com/softball
+South Carolina,648,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//648.gif,,,
+South Carolina St.,647,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//647.gif,,,http://www.scsuathletics.com/
+South Dakota,650,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//650.gif,http://goyotes.com,http://goyotes.com/softball,http://goyotes.com/softball
+South Dakota St.,649,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//649.gif,,,http://gojacks.com/softball
+South Fla.,651,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//651.gif,,,
+Southeast Mo. St.,654,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//654.gif,,,
+Southeastern La.,655,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//655.gif,,,
+Southeastern Okla.,1371,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1371.gif,,,
+Southern Ark.,1376,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1376.gif,,,
+Southern Conn. St.,658,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//658.gif,,,
+Southern Ill.,659,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//659.gif,,,
+Southern Ind.,661,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//661.gif,,,
+Southern Me.,662,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//662.gif,,,
+Southern Miss.,664,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//664.gif,,,
+Southern N.H.,468,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//468.gif,,,
+Southern Nazarene,30152,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30152.gif,http://www.snuathletics.com,http://www.snuathletics.com/softball,http://www.snuathletics.com/softball
+Southern U.,665,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//665.gif,,,
+Southern Utah,667,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//667.gif,http://suutbirds.com,http://suutbirds.com/softball,http://suutbirds.com/softball
+Southern Va.,30164,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30164.gif,,,
+Southern Wesleyan,30192,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30192.gif,http://swuathletics.com,http://swuathletics.com/softball,http://swuathletics.com/softball
+Southwest Baptist,2755,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2755.gif,http://sbubearcats.com,http://sbubearcats.com/softball,http://sbubearcats.com/softball
+Southwest Minn. St.,8736,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8736.gif,,,
+Southwestern (TX),8746,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8746.gif,,,
+Southwestern Okla.,8744,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8744.gif,,,
+Spalding,23260,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//23260.gif,http://spaldingathletics.com,http://spaldingathletics.com/softball,http://spaldingathletics.com/softball
+Spring Hill,30191,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30191.gif,,http://shcbadgers.com/softball,http://shcbadgers.com/softball
+Springfield,673,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//673.gif,,http://springfieldcollegepride.com/softball,http://springfieldcollegepride.com/softball
+St. Anselm,593,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//593.gif,,,
+St. Bonaventure,596,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//596.gif,http://gobonnies.com,http://gobonnies.com/softball,http://gobonnies.com/softball
+St. Catherine,597,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//597.gif,http://stkatesathletics.com,http://stkatesathletics.com/softball,http://stkatesathletics.com/softball
+St. Cloud St.,598,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//598.gif,,,http://scsuhuskies.com/softball
+St. Edward's,1334,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1334.gif,,,
+St. Francis Brooklyn,599,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//599.gif,http://sfcathletics.com,http://sfcathletics.com/softball,http://sfcathletics.com/softball
+St. John's (NY),603,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//603.gif,,,
+St. John Fisher,601,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//601.gif,http://athletics.sjfc.edu,http://athletics.sjfc.edu/softball,http://athletics.sjfc.edu/softball
+St. Joseph's (Brkln),30072,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30072.gif,,,
+St. Joseph's (L.I.),1340,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1340.gif,,,
+St. Joseph's (ME),605,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//605.gif,,,
+St. Lawrence,607,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//607.gif,http://saintsathletics.com,http://saintsathletics.com/softball,http://saintsathletics.com/softball
+St. Mary's (IN),8688,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8688.gif,,,
+St. Mary's (TX),1346,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1346.gif,,,
+St. Norbert,614,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//614.gif,,http://athletics.snc.edu/softball,http://athletics.snc.edu/softball
+St. Olaf,615,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//615.gif,,http://athletics.stolaf.edu/softball,http://athletics.stolaf.edu/softball
+St. Scholastica,618,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//618.gif,,,
+St. Thomas (MN),620,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//620.gif,,,
+St. Thomas (TX),2810,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2810.gif,,,
+St. Thomas Aquinas,1348,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1348.gif,,,
+Stanford,674,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//674.gif,,,
+Stanislaus St.,103,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//103.gif,,,http://www.warriorathletics.com/
+Staten Island,675,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//675.gif,,http://csidolphins.com/softball,
+Stetson,678,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//678.gif,http://gohatters.com,http://gohatters.com/softball,http://gohatters.com/softball
+Stevens,679,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//679.gif,,,
+Stevenson,21852,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//21852.gif,http://gomustangsports.com,http://gomustangsports.com/softball,http://gomustangsports.com/softball
+Stockton,681,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//681.gif,http://stocktonathletics.com,http://stocktonathletics.com/softball,http://stocktonathletics.com/softball
+Stonehill,682,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//682.gif,,http://stonehillskyhawks.com/softball,http://stonehillskyhawks.com/softball
+Stony Brook,683,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//683.gif,http://stonybrookathletics.com,http://stonybrookathletics.com/softball,http://stonybrookathletics.com/softball
+Suffolk,684,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//684.gif,,,
+Sul Ross St.,1390,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1390.gif,,,http://www.srlobos.com/
+SUNY Brockport,78,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//78.gif,http://gobrockport.com,http://gobrockport.com/softball,http://gobrockport.com/softball
+SUNY Canton,30165,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30165.gif,http://rooathletics.com,http://rooathletics.com/softball,http://rooathletics.com/softball
+SUNY Cobleskill,30083,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30083.gif,http://fightingtigers.cobleskill.edu/,http://fightingtigers.cobleskill.edu/,http://fightingtigers.cobleskill.edu/
+SUNY Delhi,30225,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30225.gif,,,
+SUNY Geneseo,247,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//247.gif,http://geneseoknights.com,http://geneseoknights.com/softball,http://geneseoknights.com/softball
+SUNY Maritime,478,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//478.gif,,,
+SUNY Morrisville,30067,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30067.gif,http://morrisvillemustangs.com,http://morrisvillemustangs.com/softball,http://morrisvillemustangs.com/softball
+SUNY New Paltz,475,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//475.gif,http://www.nphawks.com,http://www.nphawks.com/softball,http://www.nphawks.com/softball
+SUNY Oneonta,526,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//526.gif,http://oneontaathletics.com,http://oneontaathletics.com/softball,http://oneontaathletics.com/softball
+SUNY Poly,9500,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9500.gif,,,
+SUNY Potsdam,552,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//552.gif,http://potsdambears.com/,http://potsdambears.com/,http://potsdambears.com/
+Susquehanna,685,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//685.gif,http://suriverhawks.com,http://suriverhawks.com/softball,http://suriverhawks.com/softball
+Swarthmore,686,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//686.gif,,http://swarthmoreathletics.com/softball,http://swarthmoreathletics.com/softball
+Sweet Briar,687,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//687.gif,,http://vixenathletics.com/softball,http://vixenathletics.com/softball
+Syracuse,688,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//688.gif,http://cuse.com,http://cuse.com/softball,http://cuse.com/softball
+Tampa,689,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//689.gif,,,
+Tarleton St.,1395,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1395.gif,,,http://www.tarletonsports.com/softball
+TCNJ,712,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//712.gif,,,
+Temple,690,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//690.gif,http://owlsports.com,http://owlsports.com/softball,http://owlsports.com/softball
+Tennessee,694,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//694.gif,http://utsports.com,http://utsports.com/softball,http://utsports.com/softball
+Tennessee St.,691,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//691.gif,,,http://tsutigers.com/softball
+Tennessee Tech,692,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//692.gif,,,
+Tex. A&M-Commerce,199,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//199.gif,,,
+Tex. A&M-Kingsville,696,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//696.gif,,,
+Tex. A&M Int'l,30090,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30090.gif,,,
+Tex. Permian Basin,30088,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30088.gif,,,
+Texas,703,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//703.gif,http://texaslonghorns.com,http://texaslonghorns.com/softball,http://texaslonghorns.com/softball
+Texas-Dallas,23121,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//23121.gif,,,
+Texas A&M,697,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//697.gif,,http://12thman.com/softball,http://12thman.com/softball
+Texas Lutheran,1400,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1400.gif,,,
+Texas Southern,699,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//699.gif,http://tsusports.com,http://tsusports.com/softball,http://tsusports.com/softball
+Texas St.,670,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//670.gif,,,http://txst.com/softball
+Texas Tech,700,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//700.gif,http://texastech.com,http://texastech.com/softball,http://texastech.com/softball
+Texas Woman's,701,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//701.gif,,,
+Thiel,707,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//707.gif,,http://thielathletics.com/softball,http://thielathletics.com/softball
+Thomas (ME),2758,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2758.gif,,,
+Thomas More,1402,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1402.gif,http://thomasmoresaints.com,http://thomasmoresaints.com/softball,http://thomasmoresaints.com/softball
+Tiffin,1403,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1403.gif,http://gotiffindragons.com,http://gotiffindragons.com/softball,http://gotiffindragons.com/softball
+Toledo,709,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//709.gif,http://utrockets.com,http://utrockets.com/softball,http://utrockets.com/softball
+Towson,711,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//711.gif,http://towsontigers.com,http://towsontigers.com/softball,http://towsontigers.com/softball
+Transylvania,28749,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//28749.gif,http://transysports.com,http://transysports.com/softball,http://transysports.com/softball
+Trevecca Nazarene,30002,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30002.gif,http://tnutrojans.com,http://tnutrojans.com/softball,http://tnutrojans.com/softball
+Trine,30037,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30037.gif,http://trinethunder.com,http://trinethunder.com/softball,http://trinethunder.com/softball
+Trinity (CT),713,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//713.gif,,,
+Trinity (TX),715,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//715.gif,,,
+Trinity Washington,23413,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//23413.gif,,,
+Troy,716,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//716.gif,http://troytrojans.com,http://troytrojans.com/softball,http://troytrojans.com/softball
+Truman St.,499,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//499.gif,,,http://trumanbulldogs.com/softball
+Tufts,717,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//717.gif,http://gotuftsjumbos.com,http://gotuftsjumbos.com/softball,http://gotuftsjumbos.com/softball
+Tulsa,719,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//719.gif,http://tulsahurricane.com,http://tulsahurricane.com/softball,http://tulsahurricane.com/softball
+Tusculum,12830,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12830.gif,,,
+Tuskegee,720,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//720.gif,http://goldentigersports.com,http://goldentigersports.com/softball,http://goldentigersports.com/softball
+U New England,1255,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1255.gif,,,
+UAB,9,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9.gif,http://uabsports.com,http://uabsports.com/softball,http://uabsports.com/softball
+UAlbany,14,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//14.gif,,,
+UC-Colo. Springs,9754,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9754.gif,,,
+UC Davis,108,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//108.gif,,,
+UC Riverside,111,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//111.gif,,,
+UC San Diego,112,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//112.gif,,,
+UC Santa Barbara,104,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//104.gif,,,
+UCF,128,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//128.gif,,,
+UChicago,137,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//137.gif,,,
+UCLA,110,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//110.gif,http://uclabruins.com,http://uclabruins.com/softball,http://uclabruins.com/softball
+UConn,164,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//164.gif,,,
+UIC,302,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//302.gif,,,
+UIndy,309,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//309.gif,,,
+UIW,2743,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2743.gif,,,
+ULM,498,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//498.gif,,,
+UMass Boston,401,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//401.gif,http://beaconsathletics.com,http://beaconsathletics.com/softball,http://beaconsathletics.com/softball
+UMass Dartmouth,656,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//656.gif,,,
+UMass Lowell,368,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//368.gif,http://goriverhawks.com,http://goriverhawks.com/softball,http://goriverhawks.com/softball
+UMBC,391,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//391.gif,,,
+UMES,393,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//393.gif,,,
+UNC Asheville,456,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//456.gif,http://uncabulldogs.com,http://uncabulldogs.com/softball,http://uncabulldogs.com/softball
+UNC Greensboro,459,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//459.gif,http://uncgspartans.com,http://uncgspartans.com/softball,http://uncgspartans.com/softball
+UNC Pembroke,537,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//537.gif,,,
+UNCW,460,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//460.gif,,,
+UNI,504,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//504.gif,,,
+Union (NY),727,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//727.gif,,,
+Union (TN),30153,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30153.gif,,,
+UNLV,465,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//465.gif,,,
+Upper Iowa,728,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//728.gif,http://uiupeacocks.com,http://uiupeacocks.com/softball,http://uiupeacocks.com/softball
+Ursinus,730,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//730.gif,,http://ursinusathletics.com/softball,http://ursinusathletics.com/softball
+Ursuline,30140,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30140.gif,,http://ursulinearrows.com/,http://ursulinearrows.com/
+USC Aiken,11276,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11276.gif,,,
+USC Beaufort,30259,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30259.gif,,,
+USC Upstate,10411,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//10411.gif,,,
+UT Arlington,702,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//702.gif,,,
+UT Martin,695,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//695.gif,,,
+UT Tyler,30028,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30028.gif,,,
+Utah,732,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//732.gif,http://utahutes.com,http://utahutes.com/softball,http://utahutes.com/softball
+Utah St.,731,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//731.gif,,,http://utahstateaggies.com/softball
+Utah Tech,30095,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30095.gif,http://utahtechtrailblazers.com,http://utahtechtrailblazers.com/softball,http://utahtechtrailblazers.com/softball
+Utah Valley,30024,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30024.gif,http://gouvu.com,http://gouvu.com/softball,http://gouvu.com/softball
+UTEP,704,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//704.gif,,,
+Utica,733,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//733.gif,http://uticapioneers.com,http://uticapioneers.com/softball,http://uticapioneers.com/softball
+UTRGV,536,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//536.gif,,,
+UTSA,706,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//706.gif,,,
+UVA Wise,30181,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30181.gif,,,
+UW-River Falls,801,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//801.gif,,,
+Va. Wesleyan,745,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//745.gif,,,
+Valdosta St.,734,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//734.gif,,,http://vstateblazers.com/softball
+Valley City St.,506055,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//506055.gif,,,http://vcsuvikings.com/softball
+Valley Forge,30166,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30166.gif,http://uvfpatriots.com,http://uvfpatriots.com/softball,http://uvfpatriots.com/softball
+Valparaiso,735,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//735.gif,,,
+Vanguard,30263,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30263.gif,http://vanguardlions.com,http://vanguardlions.com/softball,http://vanguardlions.com/softball
+VCU,740,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//740.gif,,,
+Vermont,738,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//738.gif,http://uvmathletics.com,http://uvmathletics.com/softball,http://uvmathletics.com/softball
+Villanova,739,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//739.gif,http://villanova.com,http://villanova.com/softball,http://villanova.com/softball
+Virginia,746,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//746.gif,,,
+Virginia St.,743,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//743.gif,,,http://govsutrojans.com/softball
+Virginia Tech,742,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//742.gif,,,
+Virginia Union,744,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//744.gif,http://vuusports.com/,http://vuusports.com/,http://vuusports.com/
+VTSU-Johnson,324,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//324.gif,,,
+VTSU Castleton,123,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//123.gif,,,
+VTSU Lyndon,30065,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30065.gif,,,
+Wagner,748,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//748.gif,,http://www.wagnerathletics.com/softball,http://www.wagnerathletics.com/softball
+Walsh,30141,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30141.gif,http://athletics.walsh.edu,http://athletics.walsh.edu/softball,http://athletics.walsh.edu/softball
+Wartburg,750,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//750.gif,,http://go-knights.net/softball,http://go-knights.net/softball
+Wash. & Jeff.,751,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//751.gif,,,
+Washburn,2814,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2814.gif,http://wusports.com,http://wusports.com/softball,http://wusports.com/softball
+Washington,756,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//756.gif,http://gohuskies.com,http://washcollsports.com/softball,http://washcollsports.com/softball
+Washington,756,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//756.gif,http://gohuskies.com,http://washcollsports.com/softball,http://gohuskies.com/softball
+Washington,756,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//756.gif,http://gohuskies.com,http://gohuskies.com/softball,http://washcollsports.com/softball
+Washington,756,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//756.gif,http://gohuskies.com,http://gohuskies.com/softball,http://gohuskies.com/softball
+Washington Col.,753,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//753.gif,,,
+WashU,755,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//755.gif,,,
+Wayne St. (MI),757,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//757.gif,,,
+Wayne St. (NE),1433,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1433.gif,,,
+Waynesburg,1434,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1434.gif,http://waynesburgsports.com,http://waynesburgsports.com/softball,http://waynesburgsports.com/softball
+Weber St.,758,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//758.gif,,,http://weberstatesports.com/softball
+Webster,759,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//759.gif,http://www.websterathletics.com,http://www.websterathletics.com/softball,http://www.websterathletics.com/softball
+Wellesley,760,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//760.gif,,http://wellesleyblue.com/softball,http://wellesleyblue.com/softball
+Wells,761,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//761.gif,,,
+Wentworth,762,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//762.gif,,,
+Wesleyan (CT),764,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//764.gif,,,
+Wesleyan (GA),14718,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//14718.gif,,,
+West Ala.,358,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//358.gif,,,
+West Chester,765,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//765.gif,http://wcupagoldenrams.com,http://wcupagoldenrams.com/softball,http://wcupagoldenrams.com/softball
+West Florida,11740,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//11740.gif,http://goargos.com,http://goargos.com/softball,http://goargos.com/softball
+West Ga.,766,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//766.gif,,,
+West Liberty,1438,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1438.gif,http://hilltoppersports.com,http://hilltoppersports.com/softball,http://hilltoppersports.com/softball
+West Tex. A&M,767,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//767.gif,,,
+West Va. Wesleyan,9630,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//9630.gif,,,
+West Virginia St.,1439,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1439.gif,,,http://www.wvsuyellowjackets.com/softball
+WestConn,770,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//770.gif,,,
+Western Caro.,769,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//769.gif,,,
+Western Ill.,771,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//771.gif,,,
+Western Ky.,772,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//772.gif,,,
+Western Mich.,774,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//774.gif,,,
+Western N.M.,1445,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1445.gif,,,
+Western New Eng.,775,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//775.gif,,,
+Western Ore.,1446,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1446.gif,,,
+Western Wash.,1448,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1448.gif,,,
+Westfield St.,777,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//777.gif,,,
+Westminster (MO),1450,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1450.gif,,,
+Westminster (PA),1451,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1451.gif,,http://athletics.westminster.edu/softball,http://athletics.westminster.edu/softball
+Wheaton (IL),778,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//778.gif,,,
+Wheaton (MA),779,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//779.gif,,http://wheatoncollegelyons.com/softball,http://wheatoncollegelyons.com/softball
+Wheeling,12799,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12799.gif,http://wucardinals.com,http://wucardinals.com/softball,http://wucardinals.com/softball
+Whittier,781,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//781.gif,,http://wcpoets.com/softball,http://wcpoets.com/softball
+Whitworth,1454,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1454.gif,http://whitworthpirates.com,http://whitworthpirates.com/softball,http://whitworthpirates.com/softball
+Wichita St.,782,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//782.gif,,,http://goshockers.com/softball
+Widener,783,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//783.gif,http://widenerpride.com,http://widenerpride.com/softball,http://widenerpride.com/softball
+Wilkes,784,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//784.gif,http://gowilkesu.com,http://gowilkesu.com/softball,http://gowilkesu.com/softball
+Willamette,785,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//785.gif,,,
+William Jewell,30120,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30120.gif,,http://jewellcardinals.com/,http://jewellcardinals.com/
+William Peace,17094,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//17094.gif,http://gopeacepacers.com,http://gopeacepacers.com/softball,http://gopeacepacers.com/softball
+Williams,789,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//789.gif,,http://ephsports.williams.edu/softball,http://ephsports.williams.edu/softball
+Wilmington (DE),1460,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1460.gif,,,
+Wilmington (OH),1461,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1461.gif,,,
+Wilson,12973,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//12973.gif,,http://wilsonphoenix.com/softball,http://wilsonphoenix.com/softball
+Wingate,1462,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//1462.gif,http://wingatebulldogs.com,http://wingatebulldogs.com/softball,http://wingatebulldogs.com/softball
+Winona St.,790,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//790.gif,,,http://winonastatewarriors.com/softball
+Winston-Salem,791,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//791.gif,,,
+Winthrop,792,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//792.gif,http://winthropeagles.com,http://winthropeagles.com/softball,http://winthropeagles.com/softball
+Wis.-Eau Claire,793,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//793.gif,,,
+Wis.-La Crosse,795,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//795.gif,,,
+Wis.-Oshkosh,798,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//798.gif,,,
+Wis.-Parkside,799,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//799.gif,,,
+Wis.-Platteville,800,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//800.gif,,,
+Wis.-Stevens Point,802,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//802.gif,,,
+Wis.-Stout,803,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//803.gif,,,
+Wis.-Superior,804,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//804.gif,,,
+Wis.-Whitewater,805,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//805.gif,,,
+Wis. Lutheran,8911,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//8911.gif,,,
+Wisconsin,796,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//796.gif,http://uwbadgers.com,http://uwbadgers.com/softball,http://uwbadgers.com/softball
+Wittenberg,806,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//806.gif,,,
+Wm. Paterson,787,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//787.gif,,,
+Wofford,2915,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2915.gif,,http://woffordterriers.com/softball,http://woffordterriers.com/softball
+Wooster,807,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//807.gif,,,
+Worcester St.,809,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//809.gif,,,
+WPI,808,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//808.gif,,,
+Wright St.,810,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//810.gif,,,http://wsuraiders.com/softball
+Wyoming,811,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//811.gif,http://gowyo.com,http://gowyo.com/softball,http://gowyo.com/softball
+Yale,813,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//813.gif,http://yalebulldogs.com,http://yalebulldogs.com/softball,http://yalebulldogs.com/softball
+Yeshiva,814,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//814.gif,http://www.yumacs.com,http://www.yumacs.com/softball,http://www.yumacs.com/softball
+York (NY),2730,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//2730.gif,,,
+York (PA),815,D-III,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//815.gif,,,
+Young Harris,30154,D-II,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//30154.gif,,http://yhcathletics.com/,http://yhcathletics.com/
+Youngstown St.,817,D-I,https://web2.ncaa.org/ncaa_style/img/All_Logos/sm//817.gif,,,http://ysusports.com/softball

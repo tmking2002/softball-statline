@@ -16,6 +16,10 @@
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="stylesheet" href="stylesheet.css">
+
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
         
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
@@ -27,250 +31,124 @@
           gtag('config', 'G-YFFKCYZJXV');
         </script>
 
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                fetch('homepage_header.html')
+                    .then(response => response.text())
+                    .then(data => {
+                        document.getElementById('header-container').innerHTML = data;
+                    });
+            })
+        </script>
+
+        <script src="toggle_darkmode.js"></script>
+
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8754067983414109" crossorigin="anonymous"></script>
-        
-        <style>
 
-            @media screen and (max-width: 768px) {
-                .w3-hide-medium,
-                .w3-hide-large {
-                display: block !important;
-                }
-                .w3-bar-item {
-                text-align: center;
-                }
-                .w3-dropdown-content {
-                position: relative !important;
-                }
-            }
-
-            table {
-                width: 100%;
-                border-collapse: collapse;
-            }
-
-            th,
-            td {
-                border: 1px solid #ccc;
-                padding: 4px;
-                text-align: center;
-                width: auto;
-            }
-
-            th {
-                background-color: #f2f2f2;
-            }
-
-            .game-container {
-                display: flex;
-                flex-direction: column; /* Stack the rows vertically */
-                align-items: center; /* Center the content horizontally */
-                border: 1px solid #cccccc;
-                width: 300px;
-                margin: 10px 0;
-            }
-
-            .team-row {
-                width: 100%;
-                display: flex;
-                justify-content: left;
-                border-bottom: 1px solid #cccccc; /* Add a border between the rows */
-                padding: 5px 0; /* Add some vertical padding */
-                justify-content: space-between; /* Add space between the logo/team name and the score */
-            }
-
-            .team-row:last-child {
-                border-bottom: none; /* Remove border on the last row */
-            }
-
-            .logo-container {
-                width: 30px; /* Set the width of the logo container */
-                display: flex;
-                align-items: center;
-            }
-
-            .name-container {
-                align-items: left;
-                width: 250px;
-            }
-
-            .team-row img {
-                width: 25px;
-                height: 25px;
-            }
-
-            .team-row td {
-                border: 0;
-                text-align: left;
-            }
-
-            .winning-score {
-                color: rgb(22, 82, 22);
-            }
-
-            .date-input-container {
-                margin-bottom: 10px;
-            }
-
-            .dateInput {
-                width: 40%;
-                color: grey; /* Set text color to white */
-                border: 1px solid black; /* Set border color to white */
-                border-radius: 5px; /* Add rounded corners for a nicer look */
-                padding: 5px; /* Add some padding for better spacing */
-                text-align: center;
-            }
-
-            .scrollable-dropdown {
-    max-height: 200px; /* Adjust the height as needed */
-    overflow-y: auto;
-}
-
-        </style>
     </head>
     <body>
 
-        <div class="w3-top">
-            <div class="w3-bar w3-top w3-center-align w3-large">
-            <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-                <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
-                       Menu<i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''">Home</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                        <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
-                    </div>
-                  </div>
-              </div>
-            <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
-                <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Home</a>
-                <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Players</a>
-                <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Teams</a>
-                <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
-                <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
-                <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
+          <div id="header-container"></div>
+
+          <div class="w3-card w3-container homepage-container">
+            <h3 style="text-align: center; font-weight: bold;">Schedule</h3><br>
+
+            <div class="date-input-container" style="text-align: center;">
+                <input type="date" class="dateInput" id="dateInput" name="dateInput" value="2023-06-08" min="2016-02-11" max="2023-06-08" onchange="createDataTable_d1(this.value); createDataTable_d2(this.value); createDataTable_d3(this.value);">
             </div>
-          </div>
-
-        <!-- Header -->
-          <div class="w3-center" style="position: relative; margin-top: 100px;"> 
-            <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
-          </div>
-
-        <div class="w3-row-padding w3-center w3-margin-top">
-        <div class="w3-third">
-          <div class="w3-card w3-container" style="min-height:460px">
-          <h3>Schedule</h3><br>
-
-          <div class="date-input-container">
-            <input type="date" class="dateInput" id="dateInput" name="dateInput" value="2023-06-08" min="2016-02-11" max="2023-06-08" onchange="createDataTable_d1(this.value); createDataTable_d2(this.value); createDataTable_d3(this.value);">
-          </div>
           
-          <div class="w3-bar w3-theme">
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D1-schedule')">D1</button>
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D2-schedule')">D2</button>
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openSchedule(event,'D3-schedule')">D3</button>
-          </div>
+            <div class="w3-bar" style="text-align: center;">
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openSchedule(event,'D1-schedule')">D1</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openSchedule(event,'D2-schedule')">D2</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openSchedule(event,'D3-schedule')">D3</button>
+            </div>
 
             <p><span id="dateOutput"></span></p>
 
             <div id="D1-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d1" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+              <div id="schedule-container-d1" class="homepage-table"></div>
             </div>
 
             <div id="D2-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d2" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+              <div id="schedule-container-d2" class="homepage-table"></div>
             </div>
 
             <div id="D3-schedule" class="w3-container city w3-animate-opacity">
-              <div id="schedule-container-d3" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+              <div id="schedule-container-d3" class="homepage-table"></div>
             </div>
-          </div>
         </div>
 
-        <div class="w3-third">
-          <div class="w3-card w3-container" style="min-height:460px">
-            <h3>Current RPI Rankings</h3><br>
-            <div class="w3-bar w3-theme" style="margin-bottom: 25px;">
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D1-rpi')">D1</button>
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D2-rpi')">D2</button>
-              <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openRPI(event,'D3-rpi')">D3</button>
+        <div class="w3-card w3-container homepage-container">
+            <h3 style="text-align: center; font-weight: bold;">Current RPI Rankings</h3><br>
+            <div class="w3-bar">
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openRPI(event,'D1-rpi')">D1</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openRPI(event,'D2-rpi')">D2</button>
+                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="font-weight: bold;" onclick="openRPI(event,'D3-rpi')">D3</button>
             </div>
 
-            <div id="D1-rpi" class="w3-container city w3-animate-opacity">
-              <div id="rpi-container-d1" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+            <div id="D1-rpi">
+                <div id="rpi-container-d1" class="homepage-table"></div>
             </div>
 
-            <div id="D2-rpi" class="w3-container city w3-animate-opacity">
-              <div id="rpi-container-d2" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+            <div id="D2-rpi">
+                <div id="rpi-container-d2" class="homepage-table"></div>
             </div>
 
-            <div id="D3-rpi" class="w3-container city w3-animate-opacity">
-              <div id="rpi-container-d3" style="display: flex; flex-direction: column; align-items: center; overflow: auto; height: 800px;"></div>
+            <div id="D3-rpi">
+                <div id="rpi-container-d3" class="homepage-table"></div>
             </div>
-          </div>
         </div>
 
-        <div class="w3-third">
-          <div class="w3-card w3-container" style="min-height:460px">
-          <h3>Conference Standings</h3><br>
-          <div id="conf-name" style="font-size: 20px; font-weight: bold"></div>
-          <div class="w3-dropdown-hover">
-            <button class="w3-button w3-padding-16">
-               Select Conference<i class="fa fa-caret-down"></i>
-            </button>
-            <div class="w3-dropdown-content w3-card-4 w3-bar-block scrollable-dropdown">
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'AAC')">AAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ACC')">ACC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'America East')">America East</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ASUN')">ASUN</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Atlantic 10')">Atlantic 10</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big 12')">Big 12</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big East')">Big East</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big Sky')">Big Sky</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big South')">Big South</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big Ten')">Big Ten</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big West')">Big West</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'C-USA')">C-USA</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'CAA')">CAA</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Horizon')">Horizon</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Ivy League')">Ivy League</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MAAC')">MAAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MAC')">MAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MEAC')">MEAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Mountain West')">Mountain West</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MVC')">MVC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'NEC')">NEC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'OVC')">OVC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Pac-12')">Pac-12</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Patriot')">Patriot</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SEC')">SEC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SoCon')">SoCon</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Southland')">Southland</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Summit League')">Summit League</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Sun Belt')">Sun Belt</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SWAC')">SWAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'WAC')">WAC</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'WCC')">WCC</button>
+        <div class="w3-card w3-container homepage-container" style="height: 500px !important">
+            <h3 style="text-align: center; font-weight: bold;">Conference Standings</h3><br>
+          <div id="conf-name" style="font-size: 20px; font-weight: bold; text-align: center;"></div>
+          <div class="w3-dropdown-hover" style="display: flex; justify-content: center;">
+            <p>Select Conference <i class="fa fa-caret-down"></i></p>
+            <div class="w3-dropdown-content w3-bar-block scrollable-dropdown" >
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'AAC')">AAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'ACC')">ACC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'America East')">America East</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'ASUN')">ASUN</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Atlantic 10')">Atlantic 10</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big 12')">Big 12</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big East')">Big East</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big Sky')">Big Sky</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big South')">Big South</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big Ten')">Big Ten</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Big West')">Big West</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'C-USA')">C-USA</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'CAA')">CAA</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Horizon')">Horizon</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Ivy League')">Ivy League</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'MAAC')">MAAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'MAC')">MAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'MEAC')">MEAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Mountain West')">Mountain West</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'MVC')">MVC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'NEC')">NEC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'OVC')">OVC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Pac-12')">Pac-12</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Patriot')">Patriot</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'SEC')">SEC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'SoCon')">SoCon</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Southland')">Southland</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Summit League')">Summit League</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'Sun Belt')">Sun Belt</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'SWAC')">SWAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'WAC')">WAC</button>
+                <button class="w3-bar-item w3-button" onclick="openConf(event,'WCC')">WCC</button>
             </div>
           </div>
-          <div id="conf-standings" class="w3-container city w3-animate-opacity">
-              <div id="conf-table"></div>
+          <div id="conf-standings" style="margin: 1% auto; display: block; width: fit-content;">
           </div>
-          </div>
-        </div>
 
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8754067983414109"
-            crossorigin="anonymous"></script>
-        <!-- Test Ad -->
+        crossorigin="anonymous"></script>
+        <!-- Homepage Sidebar -->
         <ins class="adsbygoogle"
             style="display:block"
             data-ad-client="ca-pub-8754067983414109"
-            data-ad-slot="3543197831"
+            data-ad-slot="6493909786"
             data-ad-format="auto"
             data-full-width-responsive="true"></ins>
         <script>
@@ -285,6 +163,7 @@
         
 
         <script>
+            
             // store todays date
             var today = new Date();
             var yesterday = new Date(today);
@@ -301,10 +180,11 @@
             
             yesterday = yyyy+'-'+mm+'-'+dd;
 
+            yesterday = '2023-03-05';
+
             dateInput.setAttribute('max', yesterday);
             dateInput.setAttribute('value', yesterday);
             
-            // use this as default going during the season
 
             // Function to fetch CSV file and create the data table
             function createDataTable_d1(dateInput) {
@@ -317,10 +197,11 @@
 
                         // Create table header
                         const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0,-1);
+                        let headers = rows[0].split(',').slice(0,-1);
+                        headers[0] = "";
                         headers.forEach(header => {
                             const th = document.createElement('th');
-                            th.textContent = header;
+                            th.textContent = header.toUpperCase();
                             headerRow.appendChild(th);
                         });
                         table.appendChild(headerRow);
@@ -331,19 +212,18 @@
                             const rowData = rows[i].split(',').slice(0,-1);
                             
                             rowData.forEach((cellData, index) => {
-                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            const cell = document.createElement('td');
                             let teamID = rows[i].split(',')[3];
                             
-                            if(index !== 3){
-                                if (index === 1) {
-                                    const teamLink = document.createElement('a');
-                                    teamLink.href = `team_info?teamID=${teamID}`;
-                                    teamLink.textContent = cellData;
-                                    cell.appendChild(teamLink);
-                                } else {
-                                    cell.textContent = cellData;
-                                }   
-                            }
+                            if (index === 1) {
+                                const teamLink = document.createElement('a');
+                                teamLink.href = `team_info?teamID=${teamID}`;
+                                teamLink.textContent = cellData;
+                                teamLink.classList.add('hover-underline');
+                                cell.appendChild(teamLink);
+                            } else {
+                                cell.textContent = cellData;
+                            }   
 
                             row.appendChild(cell);
                             });
@@ -427,9 +307,13 @@
                             if (awayScore > homeScore) {
                                 awayName.classList.add('winning-score');
                                 awayRuns.classList.add('winning-score');
+                                homeName.classList.add('losing-score');
+                                homeRuns.classList.add('losing-score');
                             } else if (homeScore > awayScore) {
                                 homeName.classList.add('winning-score');
                                 homeRuns.classList.add('winning-score');
+                                awayName.classList.add('losing-score');
+                                awayRuns.classList.add('losing-score');
                             }
 
                             awayRow.appendChild(awayLogoContainer);
@@ -440,8 +324,6 @@
 
                             awayRow.appendChild(awayRuns);
                             homeRow.appendChild(homeRuns);
-                            
-                            console.log(rowData);
 
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
@@ -488,19 +370,20 @@
                             const rowData = rows[i].split(',').slice(0,-1);
                             
                             rowData.forEach((cellData, index) => {
-                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            const cell = document.createElement('td');
                             let teamID = rows[i].split(',')[3];
-                            
+                            /*
                             if(index !== 3){
                                 if (index === 1) {
                                     const teamLink = document.createElement('a');
                                     teamLink.href = `team_info?teamID=${teamID}`;
                                     teamLink.textContent = cellData;
+                                    teamLink.classList.add('hover-underline');
                                     cell.appendChild(teamLink);
-                                } else {
-                                    cell.textContent = cellData;
+                                } else {*/
+                                    cell.textContent = cellData;/*
                                 }   
-                            }
+                            }*/
 
                             row.appendChild(cell);
                             });
@@ -553,7 +436,7 @@
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
                             awayName.textContent = rowData[0].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[1]}`
+                            /*awayName.href = `team_info?teamID=${rowData[1]}`*/
                             awayNameContainer.appendChild(awayName);
 
                             const awayRuns = document.createElement('td');
@@ -574,7 +457,7 @@
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
                             homeName.textContent = rowData[4].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[5]}`
+                            /*homeName.href = `team_info?teamID=${rowData[5]}`*/
                             homeNameContainer.appendChild(homeName);
 
                             const homeRuns = document.createElement('td');
@@ -584,9 +467,13 @@
                             if (awayScore > homeScore) {
                                 awayName.classList.add('winning-score');
                                 awayRuns.classList.add('winning-score');
+                                homeName.classList.add('losing-score');
+                                homeRuns.classList.add('losing-score');
                             } else if (homeScore > awayScore) {
                                 homeName.classList.add('winning-score');
                                 homeRuns.classList.add('winning-score');
+                                awayName.classList.add('losing-score');
+                                awayRuns.classList.add('losing-score');
                             }
 
                             awayRow.appendChild(awayLogoContainer);
@@ -598,11 +485,9 @@
                             awayRow.appendChild(awayRuns);
                             homeRow.appendChild(homeRuns);
 
-                            console.log(rowData);
-
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
+                            /*boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;*/
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -644,19 +529,21 @@
                             const rowData = rows[i].split(',').slice(0,-1);
                             
                             rowData.forEach((cellData, index) => {
-                            const cell = document.createElement(index === 1 ? 'th' : 'td');
+                            const cell = document.createElement('td');
                             let teamID = rows[i].split(',')[3];
                             
+                            /*
                             if(index !== 3){
                                 if (index === 1) {
                                     const teamLink = document.createElement('a');
                                     teamLink.href = `team_info?teamID=${teamID}`;
                                     teamLink.textContent = cellData;
+                                    teamLink.classList.add('hover-underline');
                                     cell.appendChild(teamLink);
-                                } else {
-                                    cell.textContent = cellData;
+                                } else {*/
+                                cell.textContent = cellData;/*
                                 }   
-                            }
+                            }*/
 
                             row.appendChild(cell);
                             });
@@ -709,7 +596,7 @@
                             awayNameContainer.classList.add('name-container');
                             const awayName = document.createElement('a');
                             awayName.textContent = rowData[0].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[1]}`
+                            /*awayName.href = `team_info?teamID=${rowData[1]}`*/
                             awayNameContainer.appendChild(awayName);
 
                             const awayRuns = document.createElement('td');
@@ -730,7 +617,7 @@
                             homeNameContainer.classList.add('name-container');
                             const homeName = document.createElement('a');
                             homeName.textContent = rowData[4].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[5]}`
+                            /*homeName.href = `team_info?teamID=${rowData[5]}`*/
                             homeNameContainer.appendChild(homeName);
 
                             const homeRuns = document.createElement('td');
@@ -740,9 +627,13 @@
                             if (awayScore > homeScore) {
                                 awayName.classList.add('winning-score');
                                 awayRuns.classList.add('winning-score');
+                                homeName.classList.add('losing-score');
+                                homeRuns.classList.add('losing-score');
                             } else if (homeScore > awayScore) {
                                 homeName.classList.add('winning-score');
                                 homeRuns.classList.add('winning-score');
+                                awayName.classList.add('losing-score');
+                                awayRuns.classList.add('losing-score');
                             }
 
                             awayRow.appendChild(awayLogoContainer);
@@ -754,11 +645,9 @@
                             awayRow.appendChild(awayRuns);
                             homeRow.appendChild(homeRuns);
 
-                            console.log(rowData);
-
                             const boxLink = document.createElement('a');
                             boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
+                            /*boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;*/
 
                             gameContainer.appendChild(awayRow);
                             gameContainer.appendChild(homeRow);
@@ -800,14 +689,6 @@
               } else if (cityName === 'D3-schedule' & dateInputValue > yesterday) {
                 dateInputValue = yesterday;
               }
-
-              formattedDate = new Date(dateInputValue).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
-              
-              var date = new Date(formattedDate);
-              date.setDate(date.getDate() + 1);
-              formattedDate = date.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
-
-                document.getElementById("dateOutput").textContent = formattedDate;
             }
             
             function openRPI(evt, cityName) {
@@ -830,6 +711,10 @@
                         const rows = data.split('\n');
                         const tableContainer = document.getElementById('conf-standings');
                         const table = document.createElement('table');
+                        table.id = 'conf-table';
+                        table.classList.add('homepage-table')
+                        table.style.display = 'block';
+                        table.style.height = 'auto';
 
                         // Create table header
                         const headerRow = document.createElement('tr');
@@ -847,7 +732,7 @@
                             const rowData = rows[i].split(',').slice(0,-1);
                             
                             rowData.forEach((cellData, index) => {
-                            const cell = document.createElement(index === 0 ? 'th' : 'td');
+                            const cell = document.createElement('td');
                             let teamID = rows[i].split(',')[3];
                             
                             if(index !== 3){
@@ -855,6 +740,7 @@
                                     const teamLink = document.createElement('a');
                                     teamLink.href = `team_info?teamID=${teamID}`;
                                     teamLink.textContent = cellData;
+                                    teamLink.classList.add('hover-underline');
                                     cell.appendChild(teamLink);
                                 } else {
                                     cell.textContent = cellData;
@@ -878,7 +764,7 @@
                         heading.textContent = confName;
                     })
             }
-            
+
             openConf(event, 'SEC')
             openSchedule(event, 'D1-schedule')  
             openRPI(event, 'D1-rpi')  
