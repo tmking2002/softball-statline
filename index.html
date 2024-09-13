@@ -162,7 +162,13 @@
 
         
 
-        <script>
+        <script type="module">
+
+            import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm';
+
+            const supabaseUrl = 'https://ytirxxclotiueajinlkv.supabase.co';
+            const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl0aXJ4eGNsb3RpdWVhamlubGt2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjUyMzExODEsImV4cCI6MjA0MDgwNzE4MX0.YR--t9YR6gaRUqzGoRGmLz0M9EfxXz68hkT67EJthtU';
+            const supabase = createClient(supabaseUrl, supabaseKey);
             
             // store todays date
             var today = new Date();
@@ -184,489 +190,209 @@
 
             dateInput.setAttribute('max', yesterday);
             dateInput.setAttribute('value', yesterday);
+
+            let [year, month, day] = yesterday.split('-');
+
+            day = parseInt(day);
+
+            month = parseInt(month);
+            
+            let formattedDate = `${month}/${day}/${year}`;
+            
+            formattedDate = '3/5/2023';
             
 
             // Function to fetch CSV file and create the data table
-            function createDataTable_d1(dateInput) {
-                fetch('rpi_rankings/d1_rpi.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('rpi-container-d1');
-                        const table = document.createElement('table');
+            // function createDataTable_d1(dateInput) {
+            //     fetch('rpi_rankings/d1_rpi.csv')
+            //         .then(response => response.text())
+            //         .then(data => {
+            //             const rows = data.split('\n');
+            //             const tableContainer = document.getElementById('rpi-container-d1');
+            //             const table = document.createElement('table');
 
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        let headers = rows[0].split(',').slice(0,-1);
-                        headers[0] = "";
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header.toUpperCase();
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
+            //             // Create table header
+            //             const headerRow = document.createElement('tr');
+            //             let headers = rows[0].split(',').slice(0,-1);
+            //             headers[0] = "";
+            //             headers.forEach(header => {
+            //                 const th = document.createElement('th');
+            //                 th.textContent = header.toUpperCase();
+            //                 headerRow.appendChild(th);
+            //             });
+            //             table.appendChild(headerRow);
 
-                        // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-1);
+            //             // Create table rows
+            //             for (let i = 1; i < rows.length; i++) {
+            //                 const row = document.createElement('tr');
+            //                 const rowData = rows[i].split(',').slice(0,-1);
                             
-                            rowData.forEach((cellData, index) => {
-                            const cell = document.createElement('td');
-                            let teamID = rows[i].split(',')[3];
+            //                 rowData.forEach((cellData, index) => {
+            //                 const cell = document.createElement('td');
+            //                 let teamID = rows[i].split(',')[3];
                             
-                            if (index === 1) {
-                                const teamLink = document.createElement('a');
-                                teamLink.href = `team_info?teamID=${teamID}`;
-                                teamLink.textContent = cellData;
-                                teamLink.classList.add('hover-underline');
-                                cell.appendChild(teamLink);
-                            } else {
-                                cell.textContent = cellData;
-                            }   
+            //                 if (index === 1) {
+            //                     const teamLink = document.createElement('a');
+            //                     teamLink.href = `team_info?teamID=${teamID}`;
+            //                     teamLink.textContent = cellData;
+            //                     teamLink.classList.add('hover-underline');
+            //                     cell.appendChild(teamLink);
+            //                 } else {
+            //                     cell.textContent = cellData;
+            //                 }   
 
-                            row.appendChild(cell);
-                            });
+            //                 row.appendChild(cell);
+            //                 });
 
-                            table.appendChild(row);
-                        }
+            //                 table.appendChild(row);
+            //             }
 
-                        table.deleteRow(table.rows.length - 1) 
+            //             table.deleteRow(table.rows.length - 1) 
                     
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
-                    })
+            //             // Add the table to the container
+            //             tableContainer.appendChild(table);
+            //         })
                 
-                if (dateInput > yesterday) {
-                    dateInput_d1 = yesterday;
-                } else {
-                    dateInput_d1 = dateInput;
-                }
-                const tableContainer = document.getElementById('schedule-container-d1');
-                tableContainer.innerHTML = '';
-                fetch('schedule/schedule_data/d1/' + dateInput_d1 + '.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('schedule-container-d1');
-                        const table = document.createElement('table');
+            //     if (dateInput > yesterday) {
+            //         dateInput_d1 = yesterday;
+            //     } else {
+            //         dateInput_d1 = dateInput;
+            //     }
+            // }
 
-                        // Create table rows
-                        for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',').slice(1,);
 
-                            const awayScore = parseInt(rowData[3]);
-                            const homeScore = parseInt(rowData[7]);
+            const tableContainer = document.getElementById('schedule-container-d1');
+            tableContainer.innerHTML = '';
+            function fetchSchedule(date) {
 
-                            const gameContainer = document.createElement('div'); // Use div for the container
-                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
+                supabase
+                    .from('games')
+                    .select('*')
+                    .eq('date', formattedDate)
+                    .then(({ data, error }) => {
+                        if (error) {
+                            console.error('Error fetching games:', error);
+                        } else {
+                            // Fetch teams data
+                            supabase
+                                .from('team_seasons')
+                                .select('*')
+                                .then(({ data: teams, error: teams_error }) => {
+                                    if (teams_error) {
+                                        console.error('Error fetching teams:', teams_error);
+                                    } else {
+                                        console.log('Teams data:', teams);
 
-                            const awayRow = document.createElement('tr'); // Use div for the rows
-                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
-                            
-                            const awayLogoContainer = document.createElement('td');
-                            awayLogoContainer.classList.add('logo-container');
-                            const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[2].slice(1, -1);
-                            awayLogo.width = 25;
-                            awayLogo.height = 25;
-                            awayLogoContainer.appendChild(awayLogo);
+                                        const merged_data = data.map(game => {
+                                            const away_team_id = teams.find(team => teams.team_season_id === game.away_team_season_id);
+                                            const home_team_id = teams.find(team => teams.team_season_id === game.home_team_season_id);
+                                            return {
+                                                ...game,
+                                                away_team_id: away_team_id,
+                                                home_team_id: home_team_id
+                                            };
+                                        });
 
-                            const awayNameContainer = document.createElement('td');
-                            awayNameContainer.classList.add('name-container');
-                            const awayName = document.createElement('a');
-                            awayName.textContent = rowData[0].slice(1, -1);
-                            awayName.href = `team_info?teamID=${rowData[1]}`
-                            awayNameContainer.appendChild(awayName);
+                                        console.log('Merged data:', merged_data);
+                                        const table = document.createElement('table');
 
-                            const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[3];
+                                        // Create table rows
+                                        for (let i = 1; i < data.length - 1; i++) {
+                                            console.log(data[i])
 
-                            const homeRow = document.createElement('tr'); // Use div for the rows
-                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
+                                            console.log(rowData)
 
-                            const homeLogoContainer = document.createElement('td');
-                            homeLogoContainer.classList.add('logo-container');
-                            const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[6].slice(1, -1);
-                            homeLogo.width = 25;
-                            homeLogo.height = 25;
-                            homeLogoContainer.appendChild(homeLogo);
+                                            const awayScore = parseInt(data[i]['away_score']);
+                                            const homeScore = parseInt(data[i]['home_score']);
 
-                            const homeNameContainer = document.createElement('td');
-                            homeNameContainer.classList.add('name-container');
-                            const homeName = document.createElement('a');
-                            homeName.textContent = rowData[4].slice(1, -1);
-                            homeName.href = `team_info?teamID=${rowData[5]}`
-                            homeNameContainer.appendChild(homeName);
+                                            const gameContainer = document.createElement('div'); // Use div for the container
+                                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
 
-                            const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[7];
-                            
+                                            const awayRow = document.createElement('tr'); // Use div for the rows
+                                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
+                                            
+                                            const awayLogoContainer = document.createElement('td');
+                                            awayLogoContainer.classList.add('logo-container');
+                                            const awayLogo = document.createElement('img');
+                                            awayLogo.src = data[i][2].slice(1, -1);
+                                            awayLogo.width = 25;
+                                            awayLogo.height = 25;
+                                            awayLogoContainer.appendChild(awayLogo);
 
-                            if (awayScore > homeScore) {
-                                awayName.classList.add('winning-score');
-                                awayRuns.classList.add('winning-score');
-                                homeName.classList.add('losing-score');
-                                homeRuns.classList.add('losing-score');
-                            } else if (homeScore > awayScore) {
-                                homeName.classList.add('winning-score');
-                                homeRuns.classList.add('winning-score');
-                                awayName.classList.add('losing-score');
-                                awayRuns.classList.add('losing-score');
-                            }
+                                            const awayNameContainer = document.createElement('td');
+                                            awayNameContainer.classList.add('name-container');
+                                            const awayName = document.createElement('a');
+                                            awayName.textContent = rowData[0].slice(1, -1);
+                                            awayName.href = `team_info?teamID=${rowData[1]}`
+                                            awayNameContainer.appendChild(awayName);
 
-                            awayRow.appendChild(awayLogoContainer);
-                            awayRow.appendChild(awayNameContainer);
+                                            const awayRuns = document.createElement('td');
+                                            awayRuns.textContent = rowData[3];
 
-                            homeRow.appendChild(homeLogoContainer);
-                            homeRow.appendChild(homeNameContainer);
+                                            const homeRow = document.createElement('tr'); // Use div for the rows
+                                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
 
-                            awayRow.appendChild(awayRuns);
-                            homeRow.appendChild(homeRuns);
+                                            const homeLogoContainer = document.createElement('td');
+                                            homeLogoContainer.classList.add('logo-container');
+                                            const homeLogo = document.createElement('img');
+                                            homeLogo.src = rowData[6].slice(1, -1);
+                                            homeLogo.width = 25;
+                                            homeLogo.height = 25;
+                                            homeLogoContainer.appendChild(homeLogo);
 
-                            const boxLink = document.createElement('a');
-                            boxLink.textContent = 'Box';
-                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
+                                            const homeNameContainer = document.createElement('td');
+                                            homeNameContainer.classList.add('name-container');
+                                            const homeName = document.createElement('a');
+                                            homeName.textContent = rowData[4].slice(1, -1);
+                                            homeName.href = `team_info?teamID=${rowData[5]}`
+                                            homeNameContainer.appendChild(homeName);
 
-                            gameContainer.appendChild(awayRow);
-                            gameContainer.appendChild(homeRow);
-                            gameContainer.appendChild(boxLink);
+                                            const homeRuns = document.createElement('td');
+                                            homeRuns.textContent = rowData[7];
+                                            
 
-                            tableContainer.appendChild(gameContainer);
+                                            if (awayScore > homeScore) {
+                                                awayName.classList.add('winning-score');
+                                                awayRuns.classList.add('winning-score');
+                                                homeName.classList.add('losing-score');
+                                                homeRuns.classList.add('losing-score');
+                                            } else if (homeScore > awayScore) {
+                                                homeName.classList.add('winning-score');
+                                                homeRuns.classList.add('winning-score');
+                                                awayName.classList.add('losing-score');
+                                                awayRuns.classList.add('losing-score');
+                                            }
 
+                                            awayRow.appendChild(awayLogoContainer);
+                                            awayRow.appendChild(awayNameContainer);
+
+                                            homeRow.appendChild(homeLogoContainer);
+                                            homeRow.appendChild(homeNameContainer);
+
+                                            awayRow.appendChild(awayRuns);
+                                            homeRow.appendChild(homeRuns);
+
+                                            const boxLink = document.createElement('a');
+                                            boxLink.textContent = 'Box';
+                                            boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;
+
+                                            gameContainer.appendChild(awayRow);
+                                            gameContainer.appendChild(homeRow);
+                                            gameContainer.appendChild(boxLink);
+
+                                            tableContainer.appendChild(gameContainer);
+                                        }
+                                    }
+                                })
                         }
-                        
                     })
-                    .catch(error => {
-                        console.error('Error fetching CSV:', error);
-                        const errorText = document.createElement('div');
-                        errorText.textContent = 'No games available on this date.';
-                        tableContainer.appendChild(errorText);
-                    });
-            }
             
-            function createDataTable_d2(dateInput) {
-                fetch('rpi_rankings/d2_rpi.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('rpi-container-d2');
-                        const table = document.createElement('table');
-
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0,-1);
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header;
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
-
-                        // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-1);
-                            
-                            rowData.forEach((cellData, index) => {
-                            const cell = document.createElement('td');
-                            let teamID = rows[i].split(',')[3];
-                            /*
-                            if(index !== 3){
-                                if (index === 1) {
-                                    const teamLink = document.createElement('a');
-                                    teamLink.href = `team_info?teamID=${teamID}`;
-                                    teamLink.textContent = cellData;
-                                    teamLink.classList.add('hover-underline');
-                                    cell.appendChild(teamLink);
-                                } else {*/
-                                    cell.textContent = cellData;/*
-                                }   
-                            }*/
-
-                            row.appendChild(cell);
-                            });
-
-                            table.appendChild(row);
-                        }
-
-                        table.deleteRow(table.rows.length - 1) 
-                    
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
-                    })
-
-                if (dateInput > yesterday) {
-                    dateInput_d2 = yesterday;
-                } else {
-                    dateInput_d2 = dateInput;
-                }
-                const tableContainer = document.getElementById('schedule-container-d2');
-                tableContainer.innerHTML = '';
-                fetch('schedule/schedule_data/d2/' + dateInput_d2 + '.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('schedule-container-d2');
-                        const table = document.createElement('table');
-
-                        // Create table rows
-                        for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',').slice(1,);
-
-                            const awayScore = parseInt(rowData[3]);
-                            const homeScore = parseInt(rowData[7]);
-
-                            const gameContainer = document.createElement('div'); // Use div for the container
-                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
-
-                            const awayRow = document.createElement('tr'); // Use div for the rows
-                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
-                            
-                            const awayLogoContainer = document.createElement('td');
-                            awayLogoContainer.classList.add('logo-container');
-                            const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[2].slice(1, -1);
-                            awayLogo.width = 25;
-                            awayLogo.height = 25;
-                            awayLogoContainer.appendChild(awayLogo);
-
-                            const awayNameContainer = document.createElement('td');
-                            awayNameContainer.classList.add('name-container');
-                            const awayName = document.createElement('a');
-                            awayName.textContent = rowData[0].slice(1, -1);
-                            /*awayName.href = `team_info?teamID=${rowData[1]}`*/
-                            awayNameContainer.appendChild(awayName);
-
-                            const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[3];
-
-                            const homeRow = document.createElement('tr'); // Use div for the rows
-                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
-
-                            const homeLogoContainer = document.createElement('td');
-                            homeLogoContainer.classList.add('logo-container');
-                            const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[6].slice(1, -1);
-                            homeLogo.width = 25;
-                            homeLogo.height = 25;
-                            homeLogoContainer.appendChild(homeLogo);
-
-                            const homeNameContainer = document.createElement('td');
-                            homeNameContainer.classList.add('name-container');
-                            const homeName = document.createElement('a');
-                            homeName.textContent = rowData[4].slice(1, -1);
-                            /*homeName.href = `team_info?teamID=${rowData[5]}`*/
-                            homeNameContainer.appendChild(homeName);
-
-                            const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[7];
-                            
-
-                            if (awayScore > homeScore) {
-                                awayName.classList.add('winning-score');
-                                awayRuns.classList.add('winning-score');
-                                homeName.classList.add('losing-score');
-                                homeRuns.classList.add('losing-score');
-                            } else if (homeScore > awayScore) {
-                                homeName.classList.add('winning-score');
-                                homeRuns.classList.add('winning-score');
-                                awayName.classList.add('losing-score');
-                                awayRuns.classList.add('losing-score');
-                            }
-
-                            awayRow.appendChild(awayLogoContainer);
-                            awayRow.appendChild(awayNameContainer);
-
-                            homeRow.appendChild(homeLogoContainer);
-                            homeRow.appendChild(homeNameContainer);
-
-                            awayRow.appendChild(awayRuns);
-                            homeRow.appendChild(homeRuns);
-
-                            const boxLink = document.createElement('a');
-                            boxLink.textContent = 'Box';
-                            /*boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;*/
-
-                            gameContainer.appendChild(awayRow);
-                            gameContainer.appendChild(homeRow);
-                            gameContainer.appendChild(boxLink);
-
-                            tableContainer.appendChild(gameContainer);
-
-                        }
-                        
-                    })
-                    .catch(error => {
-                        console.error('Error fetching CSV:', error);
-                        const errorText = document.createElement('div');
-                        errorText.textContent = 'No games available on this date.';
-                        tableContainer.appendChild(errorText);
-                    });            }
-            
-            function createDataTable_d3(dateInput) {
-                fetch('rpi_rankings/d3_rpi.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('rpi-container-d3');
-                        const table = document.createElement('table');
-
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        const headers = rows[0].split(',').slice(0,-1);
-                        headers.forEach(header => {
-                            const th = document.createElement('th');
-                            th.textContent = header;
-                            headerRow.appendChild(th);
-                        });
-                        table.appendChild(headerRow);
-
-                        // Create table rows
-                        for (let i = 1; i < rows.length; i++) {
-                            const row = document.createElement('tr');
-                            const rowData = rows[i].split(',').slice(0,-1);
-                            
-                            rowData.forEach((cellData, index) => {
-                            const cell = document.createElement('td');
-                            let teamID = rows[i].split(',')[3];
-                            
-                            /*
-                            if(index !== 3){
-                                if (index === 1) {
-                                    const teamLink = document.createElement('a');
-                                    teamLink.href = `team_info?teamID=${teamID}`;
-                                    teamLink.textContent = cellData;
-                                    teamLink.classList.add('hover-underline');
-                                    cell.appendChild(teamLink);
-                                } else {*/
-                                cell.textContent = cellData;/*
-                                }   
-                            }*/
-
-                            row.appendChild(cell);
-                            });
-
-                            table.appendChild(row);
-                        }
-
-                        table.deleteRow(table.rows.length - 1) 
-                    
-                        // Add the table to the container
-                        tableContainer.appendChild(table);
-                    })
-
-                if (dateInput > yesterday) {
-                    dateInput_d3 = yesterday;
-                } else {
-                    dateInput_d3 = dateInput;
-                }
-                const tableContainer = document.getElementById('schedule-container-d3');
-                tableContainer.innerHTML = '';
-                fetch('schedule/schedule_data/d3/' + dateInput_d3 + '.csv')
-                    .then(response => response.text())
-                    .then(data => {
-                        const rows = data.split('\n');
-                        const tableContainer = document.getElementById('schedule-container-d3');
-                        const table = document.createElement('table');
-
-                        // Create table rows
-                        for (let i = 1; i < rows.length - 1; i++) {
-                            const rowData = rows[i].split(',').slice(1,);
-
-                            const awayScore = parseInt(rowData[3]);
-                            const homeScore = parseInt(rowData[7]);
-
-                            const gameContainer = document.createElement('div'); // Use div for the container
-                            gameContainer.classList.add('game-container'); // Add the appropriate CSS class
-
-                            const awayRow = document.createElement('tr'); // Use div for the rows
-                            awayRow.classList.add('team-row'); // Add the appropriate CSS class
-                            
-                            const awayLogoContainer = document.createElement('td');
-                            awayLogoContainer.classList.add('logo-container');
-                            const awayLogo = document.createElement('img');
-                            awayLogo.src = rowData[2].slice(1, -1);
-                            awayLogo.width = 25;
-                            awayLogo.height = 25;
-                            awayLogoContainer.appendChild(awayLogo);
-
-                            const awayNameContainer = document.createElement('td');
-                            awayNameContainer.classList.add('name-container');
-                            const awayName = document.createElement('a');
-                            awayName.textContent = rowData[0].slice(1, -1);
-                            /*awayName.href = `team_info?teamID=${rowData[1]}`*/
-                            awayNameContainer.appendChild(awayName);
-
-                            const awayRuns = document.createElement('td');
-                            awayRuns.textContent = rowData[3];
-
-                            const homeRow = document.createElement('tr'); // Use div for the rows
-                            homeRow.classList.add('team-row'); // Add the appropriate CSS class
-
-                            const homeLogoContainer = document.createElement('td');
-                            homeLogoContainer.classList.add('logo-container');
-                            const homeLogo = document.createElement('img');
-                            homeLogo.src = rowData[6].slice(1, -1);
-                            homeLogo.width = 25;
-                            homeLogo.height = 25;
-                            homeLogoContainer.appendChild(homeLogo);
-
-                            const homeNameContainer = document.createElement('td');
-                            homeNameContainer.classList.add('name-container');
-                            const homeName = document.createElement('a');
-                            homeName.textContent = rowData[4].slice(1, -1);
-                            /*homeName.href = `team_info?teamID=${rowData[5]}`*/
-                            homeNameContainer.appendChild(homeName);
-
-                            const homeRuns = document.createElement('td');
-                            homeRuns.textContent = rowData[7];
-                            
-
-                            if (awayScore > homeScore) {
-                                awayName.classList.add('winning-score');
-                                awayRuns.classList.add('winning-score');
-                                homeName.classList.add('losing-score');
-                                homeRuns.classList.add('losing-score');
-                            } else if (homeScore > awayScore) {
-                                homeName.classList.add('winning-score');
-                                homeRuns.classList.add('winning-score');
-                                awayName.classList.add('losing-score');
-                                awayRuns.classList.add('losing-score');
-                            }
-
-                            awayRow.appendChild(awayLogoContainer);
-                            awayRow.appendChild(awayNameContainer);
-
-                            homeRow.appendChild(homeLogoContainer);
-                            homeRow.appendChild(homeNameContainer);
-
-                            awayRow.appendChild(awayRuns);
-                            homeRow.appendChild(homeRuns);
-
-                            const boxLink = document.createElement('a');
-                            boxLink.textContent = 'Box';
-                            /*boxLink.href = `game_info?gameID=${rowData[9].slice(1, -1)}&season=${rowData[8].slice(7, -1)}`;*/
-
-                            gameContainer.appendChild(awayRow);
-                            gameContainer.appendChild(homeRow);
-                            gameContainer.appendChild(boxLink);
-
-                            tableContainer.appendChild(gameContainer);
-
-                        }
-                        
-                    })
-                    .catch(error => {
-                        console.error('Error fetching CSV:', error);
-                        const errorText = document.createElement('div');
-                        errorText.textContent = 'No games available on this date.';
-                        tableContainer.appendChild(errorText);
-                    });         
-                           
-                    openSchedule(event, 'D1-schedule')
             }
+                
+            
+            fetchSchedule(yesterday);
+
+    
             
             function openSchedule(evt, cityName) {
               var i;
@@ -768,9 +494,9 @@
             openConf(event, 'SEC')
             openSchedule(event, 'D1-schedule')  
             openRPI(event, 'D1-rpi')  
-            createDataTable_d1(yesterday)
-            createDataTable_d2(yesterday)
-            createDataTable_d3(yesterday)
+            // createDataTable_d1(yesterday)
+            // createDataTable_d2(yesterday)
+            // createDataTable_d3(yesterday)
         </script>
 
     </body>
