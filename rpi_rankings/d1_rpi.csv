@@ -19,12 +19,12 @@ Rank,Team,Record,Team ID
 17,Middle Tenn.,1-1-0,419
 17,Mississippi St.,1-1-0,430
 21,Florida,3-0-0,235
-22,Duke,2-0-0,193
-22,Hawaii,1-0-0,277
-22,Jacksonville St.,1-0-0,315
-22,New Mexico,1-1-0,473
-22,Oklahoma,3-0-0,522
-22,Tarleton St.,2-0-0,1395
+21,Hawaii,1-0-0,277
+21,Jacksonville St.,1-0-0,315
+24,Duke,2-0-0,193
+24,New Mexico,1-1-0,473
+24,Oklahoma,3-0-0,522
+24,Tarleton St.,2-0-0,1395
 28,Texas A&M,3-0-0,697
 28,Virginia,1-2-0,746
 30,Auburn,2-0-0,37
@@ -47,15 +47,15 @@ Rank,Team,Record,Team ID
 30,Wofford,1-1-0,2915
 48,Boston U.,2-0-0,68
 49,Tennessee,2-1-0,694
+50,Arkansas,3-0-0,31
 50,Ohio St.,2-0-0,518
-51,A&M-Corpus Christi,0-1-0,26172
-51,Arkansas,3-0-0,31
-51,Army West Point,1-2-0,725
-51,Bradley,0-1-0,72
-51,Lehigh,0-2-0,352
-51,Lipscomb,0-1-0,28600
-51,LIU,0-1-0,361
-51,McNeese,2-1-0,402
+52,A&M-Corpus Christi,0-1-0,26172
+52,Army West Point,1-2-0,725
+52,Bradley,0-1-0,72
+52,Lehigh,0-2-0,352
+52,Lipscomb,0-1-0,28600
+52,LIU,0-1-0,361
+52,McNeese,2-1-0,402
 59,Grand Canyon,3-1-0,1104
 60,Southern Miss.,1-1-0,664
 61,Clemson,1-2-0,147
@@ -165,15 +165,15 @@ Rank,Team,Record,Team ID
 167,Penn St.,0-2-0,539
 168,Purdue,1-1-0,559
 169,FGCU,2-1-0,28755
-170,Bethune-Cookman,0-1-0,61
 170,Elon,0-2-0,1068
-170,Houston Christian,0-1-0,287
 170,Texas St.,1-1-0,670
 170,Wisconsin,0-1-0,796
+173,Bethune-Cookman,0-1-0,61
+173,Houston Christian,0-1-0,287
 175,Ga. Southern,1-1-0,253
 176,Texas Tech,2-1-0,700
-177,Iowa,1-1-0,312
 177,Kansas,1-2-0,328
+178,Iowa,1-1-0,312
 179,Arizona,3-1-0,29
 180,Northern Colo.,0-3-0,502
 181,Utah,2-0-0,732
@@ -195,14 +195,14 @@ Rank,Team,Record,Team ID
 182,Youngstown St.,0-2-0,817
 198,Missouri,1-0-0,434
 199,Minnesota,0-5-0,428
+200,Jacksonville,1-0-0,316
 200,Kennesaw St.,0-2-0,1157
-201,CSU Bakersfield,0-3-0,94
-201,Illinois,1-0-0,301
-201,Jacksonville,1-0-0,316
-201,Marist,1-1-0,386
-201,Marshall,0-3-0,388
-201,Murray St.,0-1-0,454
-201,Western Caro.,0-2-0,769
+200,Marshall,0-3-0,388
+200,Western Caro.,0-2-0,769
+204,CSU Bakersfield,0-3-0,94
+204,Illinois,1-0-0,301
+204,Marist,1-1-0,386
+204,Murray St.,0-1-0,454
 208,Villanova,2-1-0,739
 209,East Carolina,1-1-0,196
 209,Michigan St.,0-2-0,416

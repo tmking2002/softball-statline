@@ -1,6 +1,6 @@
 "","team_id","player_id","rank","player","sb","season"
-"1",1400,36041,1,"Kelly Jurden",77,2022
-"2",1400,12682,1,"Caelee Clark",77,2024
+"1",1400,12682,1,"Caelee Clark",77,2024
+"2",1400,36041,1,"Kelly Jurden",77,2022
 "3",804,38610,3,"Kaela Kraemer",71,2022
 "4",745,6364,4,"Courtney Bogan",70,2016
 "5",1400,12682,5,"Caelee Clark",66,2023
@@ -14,8 +14,8 @@
 "13",44,28763,13,"Samantha Hall",49,2017
 "14",18,42629,14,"Ashley Lugo",48,2022
 "15",581,37342,14,"Ally Kim",48,2023
-"16",808,50224,14,"Nina Murphy-cook",48,2018
-"17",808,50224,14,"Nina Murphy-cook",48,2016
+"16",808,50224,14,"Nina Murphy-cook",48,2016
+"17",808,50224,14,"Nina Murphy-cook",48,2018
 "18",1062,72702,14,"Lindsey Vasquez",48,2017
 "19",121,58597,19,"Clare Rettler",47,2024
 "20",126,69396,19,"Sara Tallman",47,2018
@@ -58,16 +58,16 @@
 "57",279,54751,56,"Lizbeth Perez",37,2024
 "58",376,10832,56,"Julia Carpenter",37,2017
 "59",1130,67607,56,"Brooke Stefankiewicz",37,2024
-"60",1400,2121,56,"Megan Armistead",37,2016
+"60",1400,36473,56,"Annie Kay",37,2024
 "61",1400,41799,56,"Kyla Lockley",37,2018
-"62",1400,36473,56,"Annie Kay",37,2024
+"62",1400,2121,56,"Megan Armistead",37,2016
 "63",69,21239,63,"Anika Ewert",36,2024
 "64",279,17858,63,"Maranda Diaz",36,2018
 "65",297,74821,63,"Madisyn Webster",36,2022
 "66",300,61280,63,"Jillian Runyon",36,2019
 "67",348,36337,63,"Amanda Karnatz",36,2017
-"68",745,55733,63,"Julia Piotrowski",36,2024
-"69",745,26306,63,"Jessica Goldyn",36,2019
+"68",745,26306,63,"Jessica Goldyn",36,2019
+"69",745,55733,63,"Julia Piotrowski",36,2024
 "70",1400,57455,63,"Chassety Raines",36,2022
 "71",2751,59696,63,"Rachel Roberts",36,2016
 "72",11036,65123,63,"Alexa Silk",36,2017
@@ -80,8 +80,8 @@
 "79",341,33239,74,"Haylee Hseih",35,2022
 "80",640,49870,74,"Allie Mulhern",35,2022
 "81",681,70136,74,"Chelsea Thomas",35,2016
-"82",745,4787,74,"Karley Beltran",35,2024
-"83",745,26017,74,"Madison Glaubke",35,2019
+"82",745,26017,74,"Madison Glaubke",35,2019
+"83",745,4787,74,"Karley Beltran",35,2024
 "84",783,32936,74,"Ally Horvath",35,2016
 "85",795,3159,74,"Brittany Baldwin",35,2017
 "86",808,5629,74,"Ama Biney",35,2018
