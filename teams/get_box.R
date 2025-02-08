@@ -107,7 +107,9 @@ adjust_pitching_box <- function(raw_box){
     arrange(desc(ip)) %>% 
     mutate(ip = case_when((ip * 3) %% 3 == 0 ~ round(ip),
                           round(ip * 3) %% 3 == 1 ~ round(ip) + .1,
-                          round(ip * 3) %% 3 == 2 ~ round(ip) + .2)) %>% 
+                          round(ip * 3) %% 3 == 2 ~ round(ip) + .2),
+           go = NA,
+           fo = NA) %>% 
     select(game_id, team, opponent, player_id, player, ip, ha, er, bb, hb, so, bf, hr_a, go, fo) %>% 
     distinct()
   
