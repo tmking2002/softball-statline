@@ -5,7 +5,7 @@ library(tidyverse)
 
 print("BOX")
 
-load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1"){
+load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1"){
   
   if(!is.numeric(season)) return("Invalid Season")
   
@@ -13,8 +13,8 @@ load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1
   
   if(category == "Fielding" & (length(season) > 1 | season[1] != 2023)) return("Only includes 2023 data... for now")
   
-  if(min(season < 2015 | max(season > 2024)) & category == "Pitching") return("Invalid Season")
-  if(min(season < 2015 | max(season > 2024)) & category == "Hitting") return("Invalid Season")
+  if(min(season < 2015 | max(season > 2025)) & category == "Pitching") return("Invalid Season")
+  if(min(season < 2015 | max(season > 2025)) & category == "Hitting") return("Invalid Season")
   
   if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
   
@@ -80,13 +80,13 @@ adjust_hitting_box <- function(raw_box){
   
 }
 
-for(season in 2024){
+for(season in 2025){
   
   box <- data.frame()
   
   for(division in c("d1", "d2", "d3")){
     
-    box <- rbind(box, readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", division, "_hitting_box_scores_2024.RDS"))))
+    box <- rbind(box, readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", division, "_hitting_box_scores_2025.RDS"))))
     
   }
   
@@ -115,7 +115,7 @@ adjust_pitching_box <- function(raw_box){
   
 }
 
-for(season in 2024){
+for(season in 2025){
   
   box <- data.frame()
   

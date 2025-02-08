@@ -85,3 +85,9 @@ write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softbal
                          readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2024.RDS")),
                          readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2024.RDS")))) %>% get_stats(., 2024),
           "teams/data/hitting_stats/hitting_stats_2024.csv")
+
+write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2025.RDS")), 
+                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2025.RDS")),
+                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2025.RDS")))) %>% get_stats(., 2025),
+          "teams/data/hitting_stats/hitting_stats_2025.csv")
+

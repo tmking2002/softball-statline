@@ -60,7 +60,7 @@ get_game_log <- function(season) {
     
 }
 
-scoreboard_2024 <- get_game_log(2024)
+scoreboard_2025 <- get_game_log(2025)
 
-write.csv(scoreboard_2024, "teams/data/game_logs/game_logs_2024.csv")
+write.csv(scoreboard_2025, "teams/data/game_logs/game_logs_2025.csv")
 

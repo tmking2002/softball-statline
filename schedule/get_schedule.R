@@ -23,7 +23,7 @@ load_ncaa_softball_scoreboard <- function(season, division = "D1"){
   
   if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
   
-  if(min(season) < 2012 | max(season) > 2024) stop("Invalid Season")
+  if(min(season) < 2012 | max(season) > 2025) stop("Invalid Season")
   if(min(season) < 2016 & division != "D1") stop("Invalid Season")
   
   if(length(season) == 1){
@@ -76,7 +76,7 @@ load_ncaa_softball_scoreboard <- function(season, division = "D1"){
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
-rankings <- "https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div1/top25,1/year,2024/" %>% 
+rankings <- "https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div1/top25,1/year,2025/" %>% 
   read_html() %>% 
   html_table() %>% 
   extract2(1) %>% 
@@ -86,15 +86,15 @@ rankings <- "https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div1/top
   select(Team, Rank) %>% 
   `names<-`(c("Team", "Rank"))
 
-d1_id <- 18261
-d2_id <- 18264
-d3_id <- 18265
+d1_id <- 18503
+d2_id <- 18504
+d3_id <- 18505
 
-days = as.Date("2024-02-09"):min(Sys.Date() - 1, "2024-06-08")
+days = as.Date("2025-02-04"):min(Sys.Date() - 1, "2025-06-08")
 
-scoreboard_d1 <- load_ncaa_softball_scoreboard(2024, "D1")
-scoreboard_d2 <- load_ncaa_softball_scoreboard(2024, "D2")
-scoreboard_d3 <- load_ncaa_softball_scoreboard(2024, "D3")
+scoreboard_d1 <- load_ncaa_softball_scoreboard(2025, "D1")
+scoreboard_d2 <- load_ncaa_softball_scoreboard(2025, "D2")
+scoreboard_d3 <- load_ncaa_softball_scoreboard(2025, "D3")
 
 scoreboard_d1 <- scoreboard_d1 %>% 
   select(-c(home_team_id, away_team_id)) %>% 
@@ -164,7 +164,7 @@ for(i in days){
   cur_games <- scoreboard_d1 %>% 
     filter(game_date == format(as.Date(i, origin = "1970-01-01"), "%m/%d/%Y"))
   
-  if(year(as.Date(i, origin = "1970-01-01")) == 2024){
+  if(year(as.Date(i, origin = "1970-01-01")) == 2025){
     cur_games <- cur_games %>% 
       left_join(rankings, by = c("home_team" = "Team")) %>% 
       rename(home_rank = Rank) %>% 

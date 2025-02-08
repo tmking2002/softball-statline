@@ -20,9 +20,9 @@ team_ids <- "https://stats.ncaa.org/game_upload/team_codes" %>%
     dplyr::filter(!(X1 %in% c("NCAA Codes", "ID"))) %>%
     `names<-`(c("team_id", "team_name"))
 
-d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_2024.RDS")))
-d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_2024.RDS")))
-d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_2024.RDS")))
+d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_2025.RDS")))
+d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_2025.RDS")))
+d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_2025.RDS")))
 
 scoreboard <- rbind(d1_scoreboard, d2_scoreboard, d3_scoreboard)
 
@@ -55,13 +55,13 @@ for(i in 1:nrow(team_ids)){
     df <- read.csv(paste0("teams/data/team_info/team_", team_ids$team_id[i], ".csv")) %>% 
       select(-X)
     
-    if(df %>% filter(season == 2024) %>% nrow() == 0){next}
+    if(df %>% filter(season == 2025) %>% nrow() == 0){next}
     
     record <- records[which(records$team_id == team_ids$team_id[i]),]$record
     win_perc <- round(records[which(records$team_id == team_ids$team_id[i]),]$win_perc, 3)
     
-    df[which(df$season == 2024),]$record <- record
-    df[which(df$season == 2024),]$win_perc <- win_perc
+    df[which(df$season == 2025),]$record <- record
+    df[which(df$season == 2025),]$win_perc <- win_perc
     
     df <- df %>% distinct()
     

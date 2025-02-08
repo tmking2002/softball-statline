@@ -20,7 +20,7 @@ library(anytime)
 
 print("TEAM RANKINGS")
 
-cur_season <- 2024
+cur_season <- 2025
 
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
@@ -215,7 +215,7 @@ get_net_rankings <- function(scoreboard){
 
 get_nfca_rankings <- function(division){
   
-  rankings <- paste0("https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div", division, "/top25,1/year,2024/") %>% 
+  rankings <- paste0("https://nfca.org/component/com_nfca/Itemid,230/list,1/pdiv,div", division, "/top25,1/year,2025/") %>% 
     read_html() %>% 
     html_table() %>% 
     extract2(1) %>% 

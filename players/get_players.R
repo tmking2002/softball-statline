@@ -5,7 +5,7 @@ library(tidyverse)
 
 print("PLAYERS")
 
-load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1"){
+load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1"){
   
   if(!is.numeric(season)) return("Invalid Season")
   
@@ -13,8 +13,8 @@ load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1
   
   if(category == "Fielding" & (length(season) > 1 | season[1] != 2023)) return("Only includes 2023 data... for now")
   
-  if(min(season < 2016 | max(season > 2024)) & category == "Pitching") return("Invalid Season")
-  if(min(season < 2016 | max(season > 2024)) & category == "Hitting") return("Invalid Season")
+  if(min(season < 2016 | max(season > 2025)) & category == "Pitching") return("Invalid Season")
+  if(min(season < 2016 | max(season > 2025)) & category == "Hitting") return("Invalid Season")
   
   if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
   
@@ -60,16 +60,16 @@ load_ncaa_softball_playerbox <- function(season = 2024, category, division = "D1
   
 }
 
-d1_hitting_box <- load_ncaa_softball_playerbox(2016:2024, "Hitting", "D1")
-d2_hitting_box <- load_ncaa_softball_playerbox(2016:2024, "Hitting", "D2")
-d3_hitting_box <- load_ncaa_softball_playerbox(2016:2024, "Hitting", "D3")
+d1_hitting_box <- load_ncaa_softball_playerbox(2016:2025, "Hitting", "D1")
+d2_hitting_box <- load_ncaa_softball_playerbox(2016:2025, "Hitting", "D2")
+d3_hitting_box <- load_ncaa_softball_playerbox(2016:2025, "Hitting", "D3")
 
 hitting_box <- rbind(d1_hitting_box, d2_hitting_box, d3_hitting_box) %>% 
   select(player, team, season)
 
-d1_pitching_box <- load_ncaa_softball_playerbox(2016:2024, "Pitching", "D1")
-d2_pitching_box <- load_ncaa_softball_playerbox(2016:2024, "Pitching", "D2")
-d3_pitching_box <- load_ncaa_softball_playerbox(2016:2024, "Pitching", "D3")
+d1_pitching_box <- load_ncaa_softball_playerbox(2016:2025, "Pitching", "D1")
+d2_pitching_box <- load_ncaa_softball_playerbox(2016:2025, "Pitching", "D2")
+d3_pitching_box <- load_ncaa_softball_playerbox(2016:2025, "Pitching", "D3")
 
 pitching_box <- rbind(d1_pitching_box, d2_pitching_box, d3_pitching_box) %>% 
   select(player, team, season)

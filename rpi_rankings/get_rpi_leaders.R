@@ -3,7 +3,7 @@ library(tidyverse)
 
 print("RPI LEADERS")
 
-cur_season <- 2024
+cur_season <- 2025
 
 get_current_rpi <- function(scoreboard){
 
