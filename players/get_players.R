@@ -52,7 +52,7 @@ load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1
     
     on.exit(close(con))
     
-    box <- bind_rows(box, readRDS(con))
+    box <- bind_rows(box, readRDS(con) %>% mutate(game_id = as.character(game_id)))
     
   }
   
