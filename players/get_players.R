@@ -52,7 +52,15 @@ load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1
     
     on.exit(close(con))
     
-    box <- bind_rows(box, readRDS(con) %>% mutate(game_id = as.character(game_id), picked = as.character(picked)))
+    cur <- readRDS(con)
+    
+    if(category == "Hitting"){
+      cur <- cur %>% select(-picked)
+    } else if(category == "Pitching"){
+      cur <- cur %>% mutate(ip = as.character(ip))
+    }
+    
+    box <- bind_rows(box, cur %>% mutate(game_id = as.character(game_id)))
     
   }
   
