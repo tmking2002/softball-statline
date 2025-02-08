@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Tennessee Tech","692","2025","Danielle Penner","D-I","OVC",0,2,0,0
-"2","Tennessee Tech","692","2024","Danielle Penner","D-I","OVC",23,24,0,0.489
-"3","Tennessee Tech","692","2023","Danielle Penner","D-I","OVC",6,44,0,0.12
-"4","Tennessee Tech","692","2022","Michelle DePolo","D-I","OVC",32,22,0,0.593
-"5","Tennessee Tech","692","2021","Michelle DePolo","D-I","OVC",19,30,0,0.388
-"6","Tennessee Tech","692","2020","Michelle DePolo","D-I","OVC",10,9,0,0.526
-"7","Tennessee Tech","692","2019","Bonnie Bynum Graham","D-I","OVC",18,27,0,0.4
-"8","Tennessee Tech","692","2018","Bonnie Bynum Graham","D-I","OVC",16,33,NA,0.327
-"9","Tennessee Tech","692","2017","Bonnie Bynum Graham","D-I","OVC",16,30,0,0.348
-"10","Tennessee Tech","692","2016","Bonnie Bynum Graham","D-I","OVC",23,33,0,0.411
-"11","Tennessee Tech","692","2015","Bonnie Bynum Graham","D-I","OVC",33,28,0,0.541
-"12","Tennessee Tech","692","2014","Bonnie Bynum Graham","D-I","OVC",25,34,0,0.424
-"13","Tennessee Tech","692","2013","Bonnie Bynum Graham","D-I","OVC",22,28,0,0.44
-"14","Tennessee Tech","692","2012","Tory Acheson","D-I","OVC",27,32,0,0.458
-"15","Tennessee Tech","692","2011","Tory Acheson","D-I","OVC",22,26,0,0.458
-"16","Tennessee Tech","692","2010","Tory Acheson","D-I","OVC",28,30,0,0.483
-"17","Tennessee Tech","692","2009","Tory Acheson","D-I","OVC",26,31,0,0.456
-"18","Tennessee Tech","692","2008","Tory Acheson","D-I","OVC",32,30,1,0.516
-"19","Tennessee Tech","692","2007","Tory Acheson","D-I","OVC",50,19,0,0.725
-"20","Tennessee Tech","692","2006","Tory Acheson","D-I","OVC",50,15,0,0.769
-"21","Tennessee Tech","692","2005","Tory Acheson","D-I","OVC",35,28,0,0.556
-"22","Tennessee Tech","692","2004","Tory Acheson","D-I","OVC",44,25,0,0.638
-"23","Tennessee Tech","692","2003","Tory Acheson","D-I","OVC",41,16,0,0.719
-"24","Tennessee Tech","692","2002","Tory Acheson","D-I","OVC",36,23,0,0.61
-"25","Tennessee Tech","692","2001","Tory Acheson","D-I","OVC",44,20,0,0.688
-"26","Tennessee Tech","692","1900","Tory Acheson","D-I","OVC",40,35,0,0.533
-"27","Tennessee Tech","692","1999","Tory Acheson","D-I","OVC",32,22,0,0.593
-"28","Tennessee Tech","692","1998","Bobby Holloway","D-I","-",20,17,NA,0.541
-"29","Tennessee Tech","692","1997","Bobby Holloway","D-I","OVC",36,13,0,0.735
-"30","Tennessee Tech","692","1996","Bobby Holloway","D-I","-",26,22,NA,0.542
-"31","Tennessee Tech","692","1995","Bobby Holloway","D-I","-",33,25,NA,0.569
-"32","Tennessee Tech","692","1994","Bobby Holloway","D-I","-",31,16,NA,0.66
-"33","Tennessee Tech","692","1993","Bobby Holloway","D-I","-",26,19,NA,0.578
-"34","Tennessee Tech","692","1992","Bobby Holloway","D-I","-",27,12,NA,0.692
-"35","Tennessee Tech","692","1991","Bobby Holloway","D-I","-",24,20,NA,0.545
-"36","Tennessee Tech","692","1990","Bobby Holloway","D-I","-",20,20,NA,0.5
-"37","Tennessee Tech","692","1989","Bobby Holloway","D-I","-",14,25,1,0.363
-"38","Tennessee Tech","692","1988","Bobby Holloway","D-I","-",9,22,NA,0.29
-"39","Tennessee Tech","692","1987","","D-I","-",NA,NA,NA,NA
-"40","Tennessee Tech","692","1986","","D-I","-",NA,NA,NA,NA
-"41","Tennessee Tech","692","","","","",1016,907,2,0.528
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Danielle Penner","OVC","0-2-0",0
+"2","2024","Danielle Penner","OVC","23-24-0",0.489
+"3","2023","Danielle Penner","OVC","6-44-0",0.12
+"4","2022","Michelle DePolo","OVC","32-22-0",0.593
+"5","2021","Michelle DePolo","OVC","19-30-0",0.388
+"6","2020","Michelle DePolo","OVC","10-9-0",0.526
+"7","2019","Bonnie Bynum Graham","OVC","18-27-0",0.4
+"8","2018","Bonnie Bynum Graham","OVC","16-33-0",0.327
+"9","2017","Bonnie Bynum Graham","OVC","16-30-0",0.348
+"10","2016","Bonnie Bynum Graham","OVC","23-33-0",0.411
+"11","2015","Bonnie Bynum Graham","OVC","33-28-0",0.541
+"12","2014","Bonnie Bynum Graham","OVC","25-34-0",0.424
+"13","2013","Bonnie Bynum Graham","OVC","22-28-0",0.44
+"14","2012","Tory Acheson","OVC","27-32-0",0.458
+"15","2011","Tory Acheson","OVC","22-26-0",0.458
+"16","2010","Tory Acheson","OVC","28-30-0",0.483
+"17","2009","Tory Acheson","OVC","26-31-0",0.456
+"18","2008","Tory Acheson","OVC","32-30-1",0.516
+"19","2007","Tory Acheson","OVC","50-19-0",0.725
+"20","2006","Tory Acheson","OVC","50-15-0",0.769
+"21","2005","Tory Acheson","OVC","35-28-0",0.556
+"22","2004","Tory Acheson","OVC","44-25-0",0.638
+"23","2003","Tory Acheson","OVC","41-16-0",0.719
+"24","2002","Tory Acheson","OVC","36-23-0",0.61
+"25","2001","Tory Acheson","OVC","44-20-0",0.688
+"26","1900","Tory Acheson","OVC","40-35-0",0.533
+"27","1999","Tory Acheson","OVC","32-22-0",0.593
+"28","1998","Bobby Holloway","-","20-17-0",0.541
+"29","1997","Bobby Holloway","OVC","36-13-0",0.735
+"30","1996","Bobby Holloway","-","26-22-0",0.542
+"31","1995","Bobby Holloway","-","33-25-0",0.569
+"32","1994","Bobby Holloway","-","31-16-0",0.66
+"33","1993","Bobby Holloway","-","26-19-0",0.578
+"34","1992","Bobby Holloway","-","27-12-0",0.692
+"35","1991","Bobby Holloway","-","24-20-0",0.545
+"36","1990","Bobby Holloway","-","20-20-0",0.5
+"37","1989","Bobby Holloway","-","14-25-1",0.363
+"38","1988","Bobby Holloway","-","9-22-0",0.29
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA

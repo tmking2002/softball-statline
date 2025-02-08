@@ -1,21 +1,20 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Utah Tech","30095","2025","Randy Simkins","D-I","WAC",0,1,0,0
-"2","Utah Tech","30095","2024","Randy Simkins","D-I","WAC",19,31,0,0.38
-"3","Utah Tech","30095","2023","Randy Simkins","D-I","WAC",35,18,0,0.66
-"4","Utah Tech","30095","2022","Randy Simkins","D-I","WAC",19,32,0,0.373
-"5","Utah Tech","30095","2021","Randy Simkins","D-I","WAC",19,30,0,0.388
-"6","Utah Tech","30095","2020","Randy Simkins","D-II","RMAC",19,7,0,0.731
-"7","Utah Tech","30095","2019","Randy Simkins","D-II","RMAC",42,13,0,0.764
-"8","Utah Tech","30095","2018","Randy Simkins","D-II","PacWest",42,10,NA,0.808
-"9","Utah Tech","30095","2017","Randy Simkins","D-II","PacWest",42,14,0,0.75
-"10","Utah Tech","30095","2016","Randy Simkins","D-II","PacWest",36,15,0,0.706
-"11","Utah Tech","30095","2015","Randy Simkins","D-II","PacWest",52,8,0,0.867
-"12","Utah Tech","30095","2014","Randy Simkins","D-II","PacWest",51,10,0,0.836
-"13","Utah Tech","30095","2013","Randy Simkins","D-II","PacWest",40,14,0,0.741
-"14","Utah Tech","30095","2012","Randy Simkins","D-II","PacWest",38,13,0,0.745
-"15","Utah Tech","30095","2011","Randy Simkins","D-II","PacWest",33,14,0,0.702
-"16","Utah Tech","30095","2010","Randy Simkins","D-II","PacWest",39,14,0,0.736
-"17","Utah Tech","30095","2009","Beth Collett","D-II","PacWest",41,13,0,0.759
-"18","Utah Tech","30095","2008","","","-",NA,NA,NA,NA
-"19","Utah Tech","30095","2007","","","-",NA,NA,NA,NA
-"20","Utah Tech","30095","","","","",567,257,0,0.688
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Randy Simkins","WAC","0-1-0",0
+"2","2024","Randy Simkins","WAC","19-31-0",0.38
+"3","2023","Randy Simkins","WAC","35-18-0",0.66
+"4","2022","Randy Simkins","WAC","19-32-0",0.373
+"5","2021","Randy Simkins","WAC","19-30-0",0.388
+"6","2020","Randy Simkins","RMAC","19-7-0",0.731
+"7","2019","Randy Simkins","RMAC","42-13-0",0.764
+"8","2018","Randy Simkins","PacWest","42-10-0",0.808
+"9","2017","Randy Simkins","PacWest","42-14-0",0.75
+"10","2016","Randy Simkins","PacWest","36-15-0",0.706
+"11","2015","Randy Simkins","PacWest","52-8-0",0.867
+"12","2014","Randy Simkins","PacWest","51-10-0",0.836
+"13","2013","Randy Simkins","PacWest","40-14-0",0.741
+"14","2012","Randy Simkins","PacWest","38-13-0",0.745
+"15","2011","Randy Simkins","PacWest","33-14-0",0.702
+"16","2010","Randy Simkins","PacWest","39-14-0",0.736
+"17","2009","Beth Collett","PacWest","41-13-0",0.759
+"18","2008","","-","NA-NA-0",NA
+"19","2007","","-","NA-NA-0",NA

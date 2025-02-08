@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Edgewood","1066","2025","Allie Taylor","D-III","NACC",0,0,0,0
-"2","Edgewood","1066","2024","Allie Taylor","D-III","NACC",20,21,0,0.488
-"3","Edgewood","1066","2023","Allie Taylor","D-III","NACC",20,19,0,0.513
-"4","Edgewood","1066","2022","Allie Taylor","D-III","NACC",20,20,0,0.5
-"5","Edgewood","1066","2021","Allie Taylor","D-III","NACC",9,31,0,0.225
-"6","Edgewood","1066","2020","Allie Taylor","D-III","NACC",1,5,0,0.167
-"7","Edgewood","1066","2019","J.P. Richards","D-III","NACC",8,26,0,0.235
-"8","Edgewood","1066","2018","J.P. Richards","D-III","NACC",15,21,NA,0.417
-"9","Edgewood","1066","2017","J.P. Richards","D-III","NACC",4,34,0,0.105
-"10","Edgewood","1066","2016","J.P. Richards","D-III","NACC",14,26,0,0.35
-"11","Edgewood","1066","2015","J.P. Richards","D-III","NACC",18,25,0,0.419
-"12","Edgewood","1066","2014","J.P. Richards","D-III","NACC",18,19,0,0.486
-"13","Edgewood","1066","2013","J.P. Richards","D-III","NACC",12,28,0,0.3
-"14","Edgewood","1066","2012","J.P. Richards","D-III","NACC",14,24,0,0.368
-"15","Edgewood","1066","2011","J.P. Richards","D-III","NACC",14,24,0,0.368
-"16","Edgewood","1066","2010","J.P. Richards","D-III","NACC",15,21,0,0.417
-"17","Edgewood","1066","2009","J.P. Richards","D-III","NACC",19,18,0,0.514
-"18","Edgewood","1066","2008","J.P. Richards","D-III","NACC",21,16,0,0.568
-"19","Edgewood","1066","2007","J.P. Richards","D-III","NACC",24,18,0,0.571
-"20","Edgewood","1066","2006","J.P. Richards","D-III","NACC",30,13,0,0.698
-"21","Edgewood","1066","2005","J.P. Richards","D-III","Lake Michigan",30,16,0,0.652
-"22","Edgewood","1066","2004","J.P. Richards","D-III","Lake Michigan",25,18,0,0.581
-"23","Edgewood","1066","2003","J.P. Richards","D-III","Lake Michigan",9,21,0,0.3
-"24","Edgewood","1066","2002","Jana Fields","D-III","Lake Michigan",15,20,0,0.429
-"25","Edgewood","1066","2001","Christine Bouffard","D-III","-",18,23,0,0.439
-"26","Edgewood","1066","1900","Sue Gerenstein","D-III","-",16,27,NA,0.372
-"27","Edgewood","1066","1999","Sue Gerenstein","D-III","-",14,20,1,0.414
-"28","Edgewood","1066","1998","Sue Gerenstein","D-III","-",22,15,NA,0.595
-"29","Edgewood","1066","1997","Kelly Witte","D-III","-",13,18,NA,0.419
-"30","Edgewood","1066","1996","Kelly Witte","D-III","-",23,15,NA,0.605
-"31","Edgewood","1066","1995","Kelly Witte","D-III","-",28,11,NA,0.718
-"32","Edgewood","1066","1994","","D-III","-",NA,NA,NA,NA
-"33","Edgewood","1066","1993","","D-III","-",NA,NA,NA,NA
-"34","Edgewood","1066","1992","","D-III","-",NA,NA,NA,NA
-"35","Edgewood","1066","1991","","D-III","-",NA,NA,NA,NA
-"36","Edgewood","1066","1990","","D-III","-",NA,NA,NA,NA
-"37","Edgewood","1066","1981","","","-",NA,NA,NA,NA
-"38","Edgewood","1066","","","","",509,613,1,0.454
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Allie Taylor","NACC","0-0-0",0
+"2","2024","Allie Taylor","NACC","20-21-0",0.488
+"3","2023","Allie Taylor","NACC","20-19-0",0.513
+"4","2022","Allie Taylor","NACC","20-20-0",0.5
+"5","2021","Allie Taylor","NACC","9-31-0",0.225
+"6","2020","Allie Taylor","NACC","1-5-0",0.167
+"7","2019","J.P. Richards","NACC","8-26-0",0.235
+"8","2018","J.P. Richards","NACC","15-21-0",0.417
+"9","2017","J.P. Richards","NACC","4-34-0",0.105
+"10","2016","J.P. Richards","NACC","14-26-0",0.35
+"11","2015","J.P. Richards","NACC","18-25-0",0.419
+"12","2014","J.P. Richards","NACC","18-19-0",0.486
+"13","2013","J.P. Richards","NACC","12-28-0",0.3
+"14","2012","J.P. Richards","NACC","14-24-0",0.368
+"15","2011","J.P. Richards","NACC","14-24-0",0.368
+"16","2010","J.P. Richards","NACC","15-21-0",0.417
+"17","2009","J.P. Richards","NACC","19-18-0",0.514
+"18","2008","J.P. Richards","NACC","21-16-0",0.568
+"19","2007","J.P. Richards","NACC","24-18-0",0.571
+"20","2006","J.P. Richards","NACC","30-13-0",0.698
+"21","2005","J.P. Richards","Lake Michigan","30-16-0",0.652
+"22","2004","J.P. Richards","Lake Michigan","25-18-0",0.581
+"23","2003","J.P. Richards","Lake Michigan","9-21-0",0.3
+"24","2002","Jana Fields","Lake Michigan","15-20-0",0.429
+"25","2001","Christine Bouffard","-","18-23-0",0.439
+"26","1900","Sue Gerenstein","-","16-27-0",0.372
+"27","1999","Sue Gerenstein","-","14-20-1",0.414
+"28","1998","Sue Gerenstein","-","22-15-0",0.595
+"29","1997","Kelly Witte","-","13-18-0",0.419
+"30","1996","Kelly Witte","-","23-15-0",0.605
+"31","1995","Kelly Witte","-","28-11-0",0.718
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

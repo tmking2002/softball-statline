@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Southern Utah","667","2025","Don Don Williams","D-I","WAC",0,0,0,0
-"2","Southern Utah","667","2024","Don Don Williams","D-I","WAC",21,29,0,0.42
-"3","Southern Utah","667","2023","Don Don Williams","D-I","WAC",6,33,0,0.154
-"4","Southern Utah","667","2022","Don Don Williams","D-I","Big Sky",3,40,0,0.07
-"5","Southern Utah","667","2021","Don Don Williams","D-I","Big Sky",20,30,0,0.4
-"6","Southern Utah","667","2020","Don Don Williams","D-I","Big Sky",5,14,0,0.263
-"7","Southern Utah","667","2019","Kortny Hall","D-I","Big Sky",6,34,0,0.15
-"8","Southern Utah","667","2018","Tom Gray","D-I","Big Sky",9,38,NA,0.191
-"9","Southern Utah","667","2017","Tom Gray","D-I","Big Sky",15,31,0,0.326
-"10","Southern Utah","667","2016","Tom Gray","D-I","Big Sky",13,39,0,0.25
-"11","Southern Utah","667","2015","Tom Gray","D-I","Big Sky",20,30,0,0.4
-"12","Southern Utah","667","2014","Kyle Magnusson","D-I","Big Sky",23,31,0,0.426
-"13","Southern Utah","667","2013","Kyle Magnusson","D-I","Big Sky",18,34,0,0.346
-"14","Southern Utah","667","2012","Kyle Magnusson","D-I","Summit League",29,25,0,0.537
-"15","Southern Utah","667","2011","Kyle Magnusson","D-I","Summit League",25,34,0,0.424
-"16","Southern Utah","667","2010","Julie Strand","D-I","Summit League",10,41,0,0.196
-"17","Southern Utah","667","2009","Julie Strand","D-I","Summit League",24,31,0,0.436
-"18","Southern Utah","667","2008","Jodi Hermanek","D-I","Summit League",20,34,0,0.37
-"19","Southern Utah","667","2007","Jodi Hermanek","D-I","Summit League",30,31,0,0.492
-"20","Southern Utah","667","2006","Jodi Hermanek","D-I","Summit League",34,32,0,0.515
-"21","Southern Utah","667","2005","Jodi Hermanek","D-I","Summit League",23,25,1,0.48
-"22","Southern Utah","667","2004","Laurel Simmons","D-I","Summit League",38,18,0,0.679
-"23","Southern Utah","667","2003","Laurel Simmons","D-I","Summit League",29,19,0,0.604
-"24","Southern Utah","667","2002","Laurel Simmons","D-I","Summit League",26,27,0,0.491
-"25","Southern Utah","667","2001","Laurel Simmons","D-I","Summit League",28,36,0,0.438
-"26","Southern Utah","667","1900","Laurel Simmons","D-I","Summit League",23,37,0,0.383
-"27","Southern Utah","667","1999","Laurel Simmons","D-I","Summit League",10,48,0,0.172
-"28","Southern Utah","667","1998","Joy Peterson","D-I","-",12,24,NA,0.333
-"29","Southern Utah","667","1997","Joy Peterson","D-I","-",24,29,0,0.453
-"30","Southern Utah","667","1996","Joy Peterson","D-I","-",13,48,NA,0.213
-"31","Southern Utah","667","1995","Joy Peterson","D-I","-",14,44,1,0.246
-"32","Southern Utah","667","1994","Joy Peterson","D-I","-",6,42,NA,0.125
-"33","Southern Utah","667","1993","Joy Peterson","D-I","-",9,36,NA,0.2
-"34","Southern Utah","667","1992","Joy Peterson","D-I","-",7,36,NA,0.163
-"35","Southern Utah","667","1991","Joy Peterson","D-I","-",5,26,NA,0.161
-"36","Southern Utah","667","1990","Joy Peterson","D-I","-",22,16,NA,0.579
-"37","Southern Utah","667","1989","Joy Peterson","D-I","-",10,20,NA,0.333
-"38","Southern Utah","667","1988","Joy Peterson","D-II","-",17,19,NA,0.472
-"39","Southern Utah","667","1987","Joy Peterson","D-II","-",18,10,NA,0.643
-"40","Southern Utah","667","1986","Joy Peterson","D-II","-",24,11,1,0.681
-"41","Southern Utah","667","1985","Joy Peterson","D-II","-",6,12,NA,0.333
-"42","Southern Utah","667","1984","Joy Peterson","D-II","-",27,8,NA,0.771
-"43","Southern Utah","667","1983","","D-II","-",NA,NA,NA,NA
-"44","Southern Utah","667","","","","",722,1202,3,0.375
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Don Don Williams","WAC","0-0-0",0
+"2","2024","Don Don Williams","WAC","21-29-0",0.42
+"3","2023","Don Don Williams","WAC","6-33-0",0.154
+"4","2022","Don Don Williams","Big Sky","3-40-0",0.07
+"5","2021","Don Don Williams","Big Sky","20-30-0",0.4
+"6","2020","Don Don Williams","Big Sky","5-14-0",0.263
+"7","2019","Kortny Hall","Big Sky","6-34-0",0.15
+"8","2018","Tom Gray","Big Sky","9-38-0",0.191
+"9","2017","Tom Gray","Big Sky","15-31-0",0.326
+"10","2016","Tom Gray","Big Sky","13-39-0",0.25
+"11","2015","Tom Gray","Big Sky","20-30-0",0.4
+"12","2014","Kyle Magnusson","Big Sky","23-31-0",0.426
+"13","2013","Kyle Magnusson","Big Sky","18-34-0",0.346
+"14","2012","Kyle Magnusson","Summit League","29-25-0",0.537
+"15","2011","Kyle Magnusson","Summit League","25-34-0",0.424
+"16","2010","Julie Strand","Summit League","10-41-0",0.196
+"17","2009","Julie Strand","Summit League","24-31-0",0.436
+"18","2008","Jodi Hermanek","Summit League","20-34-0",0.37
+"19","2007","Jodi Hermanek","Summit League","30-31-0",0.492
+"20","2006","Jodi Hermanek","Summit League","34-32-0",0.515
+"21","2005","Jodi Hermanek","Summit League","23-25-1",0.48
+"22","2004","Laurel Simmons","Summit League","38-18-0",0.679
+"23","2003","Laurel Simmons","Summit League","29-19-0",0.604
+"24","2002","Laurel Simmons","Summit League","26-27-0",0.491
+"25","2001","Laurel Simmons","Summit League","28-36-0",0.438
+"26","1900","Laurel Simmons","Summit League","23-37-0",0.383
+"27","1999","Laurel Simmons","Summit League","10-48-0",0.172
+"28","1998","Joy Peterson","-","12-24-0",0.333
+"29","1997","Joy Peterson","-","24-29-0",0.453
+"30","1996","Joy Peterson","-","13-48-0",0.213
+"31","1995","Joy Peterson","-","14-44-1",0.246
+"32","1994","Joy Peterson","-","6-42-0",0.125
+"33","1993","Joy Peterson","-","9-36-0",0.2
+"34","1992","Joy Peterson","-","7-36-0",0.163
+"35","1991","Joy Peterson","-","5-26-0",0.161
+"36","1990","Joy Peterson","-","22-16-0",0.579
+"37","1989","Joy Peterson","-","10-20-0",0.333
+"38","1988","Joy Peterson","-","17-19-0",0.472
+"39","1987","Joy Peterson","-","18-10-0",0.643
+"40","1986","Joy Peterson","-","24-11-1",0.681
+"41","1985","Joy Peterson","-","6-12-0",0.333
+"42","1984","Joy Peterson","-","27-8-0",0.771
+"43","1983","","-","NA-NA-0",NA

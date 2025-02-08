@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","SUNY Poly","9500","2025","Juleah Wanner","D-III","Empire 8",0,0,0,0
-"2","SUNY Poly","9500","2024","Juleah Wanner","D-III","North Atlantic",26,10,0,0.722
-"3","SUNY Poly","9500","2023","Juleah Wanner","D-III","North Atlantic",21,7,0,0.75
-"4","SUNY Poly","9500","2022","Juleah Wanner","D-III","North Atlantic",6,20,0,0.231
-"5","SUNY Poly","9500","2021","Juleah Wanner","D-III","North Atlantic",7,7,0,0.5
-"6","SUNY Poly","9500","2020","Juleah Wanner","D-III","United East",2,0,0,1
-"7","SUNY Poly","9500","2019","Juleah Wanner","D-III","United East",14,21,0,0.4
-"8","SUNY Poly","9500","2018","Juleah Wanner","D-III","United East",10,13,NA,0.435
-"9","SUNY Poly","9500","2017","Juleah Wanner","D-III","United East",13,21,0,0.382
-"10","SUNY Poly","9500","2016","Lauren Marleu","D-III","United East",16,18,0,0.471
-"11","SUNY Poly","9500","2015","Lauren Marleu","D-III","United East",13,21,0,0.382
-"12","SUNY Poly","9500","2014","Jessica Skelton","D-III","United East",19,16,0,0.543
-"13","SUNY Poly","9500","2013","Jessica Skelton","D-III","United East",23,15,0,0.605
-"14","SUNY Poly","9500","2012","Jessica Skelton","D-III","United East",27,12,0,0.692
-"15","SUNY Poly","9500","2011","Jessica Skelton","D-III","United East",19,12,0,0.613
-"16","SUNY Poly","9500","2010","Jessica Skelton","D-III","United East",29,9,0,0.763
-"17","SUNY Poly","9500","2009","Jessica Skelton","D-III","United East",7,19,0,0.269
-"18","SUNY Poly","9500","2008","Theresa Synakowski","D-III","SUNYAC",6,28,0,0.176
-"19","SUNY Poly","9500","2007","Theresa Synakowski","D-III","SUNYAC",4,26,0,0.133
-"20","SUNY Poly","9500","2006","Theresa Synakowski","D-III","SUNYAC",6,28,0,0.176
-"21","SUNY Poly","9500","2005","Theresa Synakowski","D-III","SUNYAC",1,30,0,0.032
-"22","SUNY Poly","9500","2004","","D-III","SUNYAC",20,19,0,0.513
-"23","SUNY Poly","9500","2003","","","-",NA,NA,NA,NA
-"24","SUNY Poly","9500","2002","Michelle DeCoursey","D-III","SUNYAC",6,26,0,0.188
-"25","SUNY Poly","9500","2001","Michelle DeCoursey","D-III","-",6,26,NA,0.188
-"26","SUNY Poly","9500","1900","","D-III","-",NA,NA,NA,NA
-"27","SUNY Poly","9500","1999","John Randall","D-III","-",19,16,NA,0.543
-"28","SUNY Poly","9500","1998","John Randall","D-III","-",13,11,NA,0.542
-"29","SUNY Poly","9500","1997","John Randall","D-III","-",9,17,NA,0.346
-"30","SUNY Poly","9500","1996","John Randall","D-III","-",1,18,NA,0.053
-"31","SUNY Poly","9500","1995","","D-III","-",NA,NA,NA,NA
-"32","SUNY Poly","9500","1994","Vicki Fuess","D-III","-",0,16,NA,0
-"33","SUNY Poly","9500","1993","Susan Bashaw","D-III","-",3,19,NA,0.136
-"34","SUNY Poly","9500","1992","Susan Bashaw","D-III","-",0,16,NA,0
-"35","SUNY Poly","9500","1991","Kevin Edick","D-III","-",0,8,NA,0
-"36","SUNY Poly","9500","1990","","D-III","-",NA,NA,NA,NA
-"37","SUNY Poly","9500","1989","","D-III","-",NA,NA,NA,NA
-"38","SUNY Poly","9500","1988","","D-III","-",NA,NA,NA,NA
-"39","SUNY Poly","9500","1987","","D-III","-",NA,NA,NA,NA
-"40","SUNY Poly","9500","1986","","","-",NA,NA,NA,NA
-"41","SUNY Poly","9500","1985","","","-",NA,NA,NA,NA
-"42","SUNY Poly","9500","1981","","","-",NA,NA,NA,NA
-"43","SUNY Poly","9500","","","","",346,525,0,0.397
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Juleah Wanner","Empire 8","0-0-0",0
+"2","2024","Juleah Wanner","North Atlantic","26-10-0",0.722
+"3","2023","Juleah Wanner","North Atlantic","21-7-0",0.75
+"4","2022","Juleah Wanner","North Atlantic","6-20-0",0.231
+"5","2021","Juleah Wanner","North Atlantic","7-7-0",0.5
+"6","2020","Juleah Wanner","United East","2-0-0",1
+"7","2019","Juleah Wanner","United East","14-21-0",0.4
+"8","2018","Juleah Wanner","United East","10-13-0",0.435
+"9","2017","Juleah Wanner","United East","13-21-0",0.382
+"10","2016","Lauren Marleu","United East","16-18-0",0.471
+"11","2015","Lauren Marleu","United East","13-21-0",0.382
+"12","2014","Jessica Skelton","United East","19-16-0",0.543
+"13","2013","Jessica Skelton","United East","23-15-0",0.605
+"14","2012","Jessica Skelton","United East","27-12-0",0.692
+"15","2011","Jessica Skelton","United East","19-12-0",0.613
+"16","2010","Jessica Skelton","United East","29-9-0",0.763
+"17","2009","Jessica Skelton","United East","7-19-0",0.269
+"18","2008","Theresa Synakowski","SUNYAC","6-28-0",0.176
+"19","2007","Theresa Synakowski","SUNYAC","4-26-0",0.133
+"20","2006","Theresa Synakowski","SUNYAC","6-28-0",0.176
+"21","2005","Theresa Synakowski","SUNYAC","1-30-0",0.032
+"22","2004","","SUNYAC","20-19-0",0.513
+"23","2003","","-","NA-NA-0",NA
+"24","2002","Michelle DeCoursey","SUNYAC","6-26-0",0.188
+"25","2001","Michelle DeCoursey","-","6-26-0",0.188
+"26","1900","","-","NA-NA-0",NA
+"27","1999","John Randall","-","19-16-0",0.543
+"28","1998","John Randall","-","13-11-0",0.542
+"29","1997","John Randall","-","9-17-0",0.346
+"30","1996","John Randall","-","1-18-0",0.053
+"31","1995","","-","NA-NA-0",NA
+"32","1994","Vicki Fuess","-","0-16-0",0
+"33","1993","Susan Bashaw","-","3-19-0",0.136
+"34","1992","Susan Bashaw","-","0-16-0",0
+"35","1991","Kevin Edick","-","0-8-0",0
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1981","","-","NA-NA-0",NA

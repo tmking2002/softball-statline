@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Russell Sage","11036","2025","Stephanie Reinhardt","D-III","Empire 8",0,0,0,0
-"2","Russell Sage","11036","2024","Stephanie Reinhardt","D-III","Empire 8",13,24,0,0.351
-"3","Russell Sage","11036","2023","Erica Li","D-III","Empire 8",23,18,0,0.561
-"4","Russell Sage","11036","2022","Erica Li","D-III","Empire 8",15,21,0,0.417
-"5","Russell Sage","11036","2021","Erica Li","D-III","Empire 8",17,6,0,0.739
-"6","Russell Sage","11036","2020","Erica Li","D-III","Empire 8",7,5,0,0.583
-"7","Russell Sage","11036","2019","Erica Li","D-III","Empire 8",11,25,0,0.306
-"8","Russell Sage","11036","2018","Jamie Trudeau","D-III","Empire 8",10,15,NA,0.4
-"9","Russell Sage","11036","2017","Jamie Brown","D-III","Skyline",22,19,0,0.537
-"10","Russell Sage","11036","2016","Jamie Brown","D-III","Skyline",27,15,0,0.643
-"11","Russell Sage","11036","2015","Jamie Brown","D-III","Skyline",18,17,0,0.514
-"12","Russell Sage","11036","2014","Jamie Brown","D-III","Skyline",23,14,0,0.622
-"13","Russell Sage","11036","2013","Jamie Brown","D-III","Skyline",22,19,0,0.537
-"14","Russell Sage","11036","2012","Jamie Brown","D-III","Skyline",29,17,0,0.63
-"15","Russell Sage","11036","2011","Lindsay Sawyer","D-III","Skyline",9,18,0,0.333
-"16","Russell Sage","11036","2010","Lindsay Sawyer","D-III","Skyline",8,26,0,0.235
-"17","Russell Sage","11036","2009","Lindsay Sawyer","D-III","Skyline",7,29,0,0.194
-"18","Russell Sage","11036","2008","Lindsay Sawyer","D-III","Skyline",6,25,0,0.194
-"19","Russell Sage","11036","2007","Jill Grebert","D-III","-",6,23,0,0.207
-"20","Russell Sage","11036","2006","Jill Grebert","D-III","-",5,35,0,0.125
-"21","Russell Sage","11036","2005","James Buffoline","D-III","-",5,13,0,0.278
-"22","Russell Sage","11036","2004","James Buffoline","D-III","-",NA,NA,NA,NA
-"23","Russell Sage","11036","2003","James Buffoline","D-III","-",NA,NA,NA,NA
-"24","Russell Sage","11036","2002","Dave Halloran","D-III","NYSWCAA",18,20,0,0.474
-"25","Russell Sage","11036","2001","Dave Halloran","D-III","-",16,18,0,0.471
-"26","Russell Sage","11036","1900","Tina Phillips","D-III","-",11,16,NA,0.407
-"27","Russell Sage","11036","1999","Tina Phillips","D-III","-",3,29,NA,0.094
-"28","Russell Sage","11036","1998","Tina Phillips","D-III","-",10,22,NA,0.313
-"29","Russell Sage","11036","1997","Tina Phillips","D-III","-",9,16,NA,0.36
-"30","Russell Sage","11036","1996","Mike Dinova","D-III","-",8,6,NA,0.571
-"31","Russell Sage","11036","1995","Mike Dinova","D-III","-",9,19,NA,0.321
-"32","Russell Sage","11036","1994","Mike Dinova","D-III","-",3,22,NA,0.12
-"33","Russell Sage","11036","1993","Mike Dinova","D-III","-",1,22,NA,0.043
-"34","Russell Sage","11036","1992","Mike Dinova","D-III","-",52,50,NA,0.51
-"35","Russell Sage","11036","1991","Mike Dinova","D-III","-",1,1,NA,0.5
-"36","Russell Sage","11036","1990","Mike Dinova","D-III","-",1,1,NA,0.5
-"37","Russell Sage","11036","1989","Mike Dinova","D-III","-",1,1,NA,0.5
-"38","Russell Sage","11036","1988","Mike Dinova","D-III","-",1,1,NA,0.5
-"39","Russell Sage","11036","1987","","D-III","-",1,1,NA,0.5
-"40","Russell Sage","11036","1981","","","-",NA,NA,NA,NA
-"41","Russell Sage","11036","","","","",428,629,0,0.405
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stephanie Reinhardt","Empire 8","0-0-0",0
+"2","2024","Stephanie Reinhardt","Empire 8","13-24-0",0.351
+"3","2023","Erica Li","Empire 8","23-18-0",0.561
+"4","2022","Erica Li","Empire 8","15-21-0",0.417
+"5","2021","Erica Li","Empire 8","17-6-0",0.739
+"6","2020","Erica Li","Empire 8","7-5-0",0.583
+"7","2019","Erica Li","Empire 8","11-25-0",0.306
+"8","2018","Jamie Trudeau","Empire 8","10-15-0",0.4
+"9","2017","Jamie Brown","Skyline","22-19-0",0.537
+"10","2016","Jamie Brown","Skyline","27-15-0",0.643
+"11","2015","Jamie Brown","Skyline","18-17-0",0.514
+"12","2014","Jamie Brown","Skyline","23-14-0",0.622
+"13","2013","Jamie Brown","Skyline","22-19-0",0.537
+"14","2012","Jamie Brown","Skyline","29-17-0",0.63
+"15","2011","Lindsay Sawyer","Skyline","9-18-0",0.333
+"16","2010","Lindsay Sawyer","Skyline","8-26-0",0.235
+"17","2009","Lindsay Sawyer","Skyline","7-29-0",0.194
+"18","2008","Lindsay Sawyer","Skyline","6-25-0",0.194
+"19","2007","Jill Grebert","-","6-23-0",0.207
+"20","2006","Jill Grebert","-","5-35-0",0.125
+"21","2005","James Buffoline","-","5-13-0",0.278
+"22","2004","James Buffoline","-","NA-NA-0",NA
+"23","2003","James Buffoline","-","NA-NA-0",NA
+"24","2002","Dave Halloran","NYSWCAA","18-20-0",0.474
+"25","2001","Dave Halloran","-","16-18-0",0.471
+"26","1900","Tina Phillips","-","11-16-0",0.407
+"27","1999","Tina Phillips","-","3-29-0",0.094
+"28","1998","Tina Phillips","-","10-22-0",0.313
+"29","1997","Tina Phillips","-","9-16-0",0.36
+"30","1996","Mike Dinova","-","8-6-0",0.571
+"31","1995","Mike Dinova","-","9-19-0",0.321
+"32","1994","Mike Dinova","-","3-22-0",0.12
+"33","1993","Mike Dinova","-","1-22-0",0.043
+"34","1992","Mike Dinova","-","52-50-0",0.51
+"35","1991","Mike Dinova","-","1-1-0",0.5
+"36","1990","Mike Dinova","-","1-1-0",0.5
+"37","1989","Mike Dinova","-","1-1-0",0.5
+"38","1988","Mike Dinova","-","1-1-0",0.5
+"39","1987","","-","1-1-0",0.5
+"40","1981","","-","NA-NA-0",NA

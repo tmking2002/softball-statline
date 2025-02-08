@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","P.R.-Arecibo","504226","2011",NA,NA,"-",NA,NA,NA,NA
-"2","P.R.-Arecibo","504226","2009",NA,NA,"-",NA,NA,NA,NA
-"3","P.R.-Arecibo","504226","2008",NA,NA,"-",NA,NA,NA,NA
-"4","P.R.-Arecibo","504226","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2011",NA,"-","NA-NA-0",NA
+"2","2009",NA,"-","NA-NA-0",NA
+"3","2008",NA,"-","NA-NA-0",NA

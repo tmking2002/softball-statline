@@ -1,52 +1,51 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UMass Lowell","368","2025","Jen Starek","D-I","America East",0,1,0,0
-"2","UMass Lowell","368","2024","Jen Starek","D-I","America East",17,29,0,0.37
-"3","UMass Lowell","368","2023","Jen Starek","D-I","America East",21,29,1,0.422
-"4","UMass Lowell","368","2022","Jen Starek","D-I","America East",28,20,0,0.583
-"5","UMass Lowell","368","2021","Danielle Henderson","D-I","America East",13,18,0,0.419
-"6","UMass Lowell","368","2020","Danielle Henderson","D-I","America East",7,9,0,0.438
-"7","UMass Lowell","368","2019","Danielle Henderson","D-I","America East",28,20,0,0.583
-"8","UMass Lowell","368","2018","Danielle Henderson","D-I","America East",21,28,NA,0.429
-"9","UMass Lowell","368","2017","Danielle Henderson","D-I","America East",21,19,0,0.525
-"10","UMass Lowell","368","2016","Danielle Henderson","D-I","America East",11,39,0,0.22
-"11","UMass Lowell","368","2015","Danielle Henderson","D-I","America East",17,30,0,0.362
-"12","UMass Lowell","368","2014","Sean Cotter","D-I","America East",13,36,0,0.265
-"13","UMass Lowell","368","2013","Sean Cotter","D-II","NE10",26,21,1,0.552
-"14","UMass Lowell","368","2012","Sean Cotter","D-II","NE10",34,18,0,0.654
-"15","UMass Lowell","368","2011","Sean Cotter","D-II","NE10",34,20,0,0.63
-"16","UMass Lowell","368","2010","Sean Cotter","D-II","NE10",23,27,0,0.46
-"17","UMass Lowell","368","2009","Harry Sauter","D-II","NE10",10,31,1,0.25
-"18","UMass Lowell","368","2008","Harry Sauter","D-II","NE10",24,25,0,0.49
-"19","UMass Lowell","368","2007","Harry Sauter","D-II","NE10",30,22,0,0.577
-"20","UMass Lowell","368","2006","Harry Sauter","D-II","NE10",34,22,0,0.607
-"21","UMass Lowell","368","2005","Harry Sauter","D-II","NE10",27,11,0,0.711
-"22","UMass Lowell","368","2004","Harry Sauter","D-II","NE10",26,25,0,0.51
-"23","UMass Lowell","368","2003","Harry Sauter","D-II","NE10",30,18,1,0.622
-"24","UMass Lowell","368","2002","Harry Sauter","D-II","-",24,21,1,0.533
-"25","UMass Lowell","368","2001","Harry Sauter","D-II","-",25,25,0,0.5
-"26","UMass Lowell","368","1900","Harry Sauter","D-II","-",29,18,0,0.617
-"27","UMass Lowell","368","1999","Harry Sauter","D-II","-",30,17,0,0.638
-"28","UMass Lowell","368","1998","Harry Sauter","D-II","-",20,23,0,0.465
-"29","UMass Lowell","368","1997","Harry Sauter","D-II","-",18,20,0,0.474
-"30","UMass Lowell","368","1996","Harry Sauter","D-II","-",17,28,1,0.38
-"31","UMass Lowell","368","1995","Harry Sauter","D-II","-",23,24,0,0.489
-"32","UMass Lowell","368","1994","Donna Tanner","D-II","-",10,27,0,0.27
-"33","UMass Lowell","368","1993","Donna Tanner","D-II","-",11,17,0,0.393
-"34","UMass Lowell","368","1992","Beverly Agrella","D-II","-",12,32,0,0.273
-"35","UMass Lowell","368","1991","Beverly Agrella","D-II","-",9,23,0,0.281
-"36","UMass Lowell","368","1990","Beverly Agrella","D-II","-",12,15,0,0.444
-"37","UMass Lowell","368","1989","","D-II","-",NA,NA,NA,NA
-"38","UMass Lowell","368","1988","","D-II","-",NA,NA,NA,NA
-"39","UMass Lowell","368","1987","","D-II","-",NA,NA,NA,NA
-"40","UMass Lowell","368","1986","","D-II","-",NA,NA,NA,NA
-"41","UMass Lowell","368","1985","Denise Legault","D-II","-",17,16,1,0.515
-"42","UMass Lowell","368","1984","Denise Legault","D-II","-",18,10,NA,0.643
-"43","UMass Lowell","368","1983","Denise Legault","D-II","-",22,7,NA,0.759
-"44","UMass Lowell","368","1982","Denise Legault","D-II","-",16,5,NA,0.762
-"45","UMass Lowell","368","1981","Denise Legault","","-",8,11,NA,0.421
-"46","UMass Lowell","368","1980","Denise Legault","","-",12,6,NA,0.667
-"47","UMass Lowell","368","1979","Denise Legault","","-",8,7,NA,0.533
-"48","UMass Lowell","368","1978","Denise Legault","","-",9,4,NA,0.692
-"49","UMass Lowell","368","1977","Denise Legault","","-",5,8,NA,0.385
-"50","UMass Lowell","368","1976","Denise Legault","","-",10,2,NA,0.833
-"51","UMass Lowell","368","","","","",860,884,7,0.493
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jen Starek","America East","0-1-0",0
+"2","2024","Jen Starek","America East","17-29-0",0.37
+"3","2023","Jen Starek","America East","21-29-1",0.422
+"4","2022","Jen Starek","America East","28-20-0",0.583
+"5","2021","Danielle Henderson","America East","13-18-0",0.419
+"6","2020","Danielle Henderson","America East","7-9-0",0.438
+"7","2019","Danielle Henderson","America East","28-20-0",0.583
+"8","2018","Danielle Henderson","America East","21-28-0",0.429
+"9","2017","Danielle Henderson","America East","21-19-0",0.525
+"10","2016","Danielle Henderson","America East","11-39-0",0.22
+"11","2015","Danielle Henderson","America East","17-30-0",0.362
+"12","2014","Sean Cotter","America East","13-36-0",0.265
+"13","2013","Sean Cotter","NE10","26-21-1",0.552
+"14","2012","Sean Cotter","NE10","34-18-0",0.654
+"15","2011","Sean Cotter","NE10","34-20-0",0.63
+"16","2010","Sean Cotter","NE10","23-27-0",0.46
+"17","2009","Harry Sauter","NE10","10-31-1",0.25
+"18","2008","Harry Sauter","NE10","24-25-0",0.49
+"19","2007","Harry Sauter","NE10","30-22-0",0.577
+"20","2006","Harry Sauter","NE10","34-22-0",0.607
+"21","2005","Harry Sauter","NE10","27-11-0",0.711
+"22","2004","Harry Sauter","NE10","26-25-0",0.51
+"23","2003","Harry Sauter","NE10","30-18-1",0.622
+"24","2002","Harry Sauter","-","24-21-1",0.533
+"25","2001","Harry Sauter","-","25-25-0",0.5
+"26","1900","Harry Sauter","-","29-18-0",0.617
+"27","1999","Harry Sauter","-","30-17-0",0.638
+"28","1998","Harry Sauter","-","20-23-0",0.465
+"29","1997","Harry Sauter","-","18-20-0",0.474
+"30","1996","Harry Sauter","-","17-28-1",0.38
+"31","1995","Harry Sauter","-","23-24-0",0.489
+"32","1994","Donna Tanner","-","10-27-0",0.27
+"33","1993","Donna Tanner","-","11-17-0",0.393
+"34","1992","Beverly Agrella","-","12-32-0",0.273
+"35","1991","Beverly Agrella","-","9-23-0",0.281
+"36","1990","Beverly Agrella","-","12-15-0",0.444
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","Denise Legault","-","17-16-1",0.515
+"42","1984","Denise Legault","-","18-10-0",0.643
+"43","1983","Denise Legault","-","22-7-0",0.759
+"44","1982","Denise Legault","-","16-5-0",0.762
+"45","1981","Denise Legault","-","8-11-0",0.421
+"46","1980","Denise Legault","-","12-6-0",0.667
+"47","1979","Denise Legault","-","8-7-0",0.533
+"48","1978","Denise Legault","-","9-4-0",0.692
+"49","1977","Denise Legault","-","5-8-0",0.385
+"50","1976","Denise Legault","-","10-2-0",0.833

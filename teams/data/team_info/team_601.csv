@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. John Fisher","601","2025","Bari Mance","D-III","Empire 8",0,0,0,0
-"2","St. John Fisher","601","2024","Bari Mance","D-III","Empire 8",35,7,0,0.833
-"3","St. John Fisher","601","2023","Bari Mance","D-III","Empire 8",28,14,0,0.667
-"4","St. John Fisher","601","2022","Bari Mance","D-III","Empire 8",18,19,0,0.486
-"5","St. John Fisher","601","2021","Bari Mance","D-III","Empire 8",31,7,0,0.816
-"6","St. John Fisher","601","2020","Bari Mance","D-III","Empire 8",7,3,0,0.7
-"7","St. John Fisher","601","2019","Bari Mance","D-III","Empire 8",27,17,0,0.614
-"8","St. John Fisher","601","2018","Bari Mance","D-III","Empire 8",35,10,NA,0.778
-"9","St. John Fisher","601","2017","Bari Mance","D-III","Empire 8",44,8,0,0.846
-"10","St. John Fisher","601","2016","Bari Mance","D-III","Empire 8",41,12,0,0.774
-"11","St. John Fisher","601","2015","Bari Mance","D-III","Empire 8",28,14,0,0.667
-"12","St. John Fisher","601","2014","Bari Mance","D-III","Empire 8",20,12,0,0.625
-"13","St. John Fisher","601","2013","Len Maiorani","D-III","Empire 8",35,14,0,0.714
-"14","St. John Fisher","601","2012","Len Maiorani","D-III","Empire 8",34,14,0,0.708
-"15","St. John Fisher","601","2011","Len Maiorani","D-III","Empire 8",30,14,1,0.678
-"16","St. John Fisher","601","2010","Len Maiorani","D-III","Empire 8",27,20,0,0.574
-"17","St. John Fisher","601","2009","Len Maiorani","D-III","Empire 8",32,12,0,0.727
-"18","St. John Fisher","601","2008","Len Maiorani","D-III","Empire 8",26,21,0,0.553
-"19","St. John Fisher","601","2007","Len Maiorani","D-III","Empire 8",24,15,0,0.615
-"20","St. John Fisher","601","2006","Len Maiorani","D-III","Empire 8",33,12,0,0.733
-"21","St. John Fisher","601","2005","Len Maiorani","D-III","Empire 8",30,18,0,0.625
-"22","St. John Fisher","601","2004","Len Maiorani","D-III","Empire 8",28,17,0,0.622
-"23","St. John Fisher","601","2003","Len Maiorani","D-III","Empire 8",24,12,1,0.662
-"24","St. John Fisher","601","2002","Len Maiorani","D-III","Empire 8",30,12,1,0.709
-"25","St. John Fisher","601","2001","Len Maiorani","D-III","-",32,13,NA,0.711
-"26","St. John Fisher","601","1900","Len Maiorani","D-III","-",27,13,1,0.671
-"27","St. John Fisher","601","1999","Len Maiorani","D-III","-",39,11,NA,0.78
-"28","St. John Fisher","601","1998","Len Maiorani","D-III","-",26,16,NA,0.619
-"29","St. John Fisher","601","1997","Len Maiorani","D-III","-",18,18,1,0.5
-"30","St. John Fisher","601","1996","Len Maiorani","D-III","-",23,11,NA,0.676
-"31","St. John Fisher","601","1995","Len Maiorani","D-III","-",23,14,NA,0.622
-"32","St. John Fisher","601","1994","Adrienne Cali","D-III","-",14,17,NA,0.452
-"33","St. John Fisher","601","1993","","","-",NA,NA,NA,NA
-"34","St. John Fisher","601","1992","","","-",NA,NA,NA,NA
-"35","St. John Fisher","601","1991","","","-",NA,NA,NA,NA
-"36","St. John Fisher","601","1990","","","-",NA,NA,NA,NA
-"37","St. John Fisher","601","1989","","","-",NA,NA,NA,NA
-"38","St. John Fisher","601","1988","","","-",NA,NA,NA,NA
-"39","St. John Fisher","601","1987","","","-",NA,NA,NA,NA
-"40","St. John Fisher","601","1986","","","-",NA,NA,NA,NA
-"41","St. John Fisher","601","1985","","D-II","-",NA,NA,NA,NA
-"42","St. John Fisher","601","1984","","D-II","-",NA,NA,NA,NA
-"43","St. John Fisher","601","1981","","","-",NA,NA,NA,NA
-"44","St. John Fisher","601","","","","",869,417,5,0.675
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Bari Mance","Empire 8","0-0-0",0
+"2","2024","Bari Mance","Empire 8","35-7-0",0.833
+"3","2023","Bari Mance","Empire 8","28-14-0",0.667
+"4","2022","Bari Mance","Empire 8","18-19-0",0.486
+"5","2021","Bari Mance","Empire 8","31-7-0",0.816
+"6","2020","Bari Mance","Empire 8","7-3-0",0.7
+"7","2019","Bari Mance","Empire 8","27-17-0",0.614
+"8","2018","Bari Mance","Empire 8","35-10-0",0.778
+"9","2017","Bari Mance","Empire 8","44-8-0",0.846
+"10","2016","Bari Mance","Empire 8","41-12-0",0.774
+"11","2015","Bari Mance","Empire 8","28-14-0",0.667
+"12","2014","Bari Mance","Empire 8","20-12-0",0.625
+"13","2013","Len Maiorani","Empire 8","35-14-0",0.714
+"14","2012","Len Maiorani","Empire 8","34-14-0",0.708
+"15","2011","Len Maiorani","Empire 8","30-14-1",0.678
+"16","2010","Len Maiorani","Empire 8","27-20-0",0.574
+"17","2009","Len Maiorani","Empire 8","32-12-0",0.727
+"18","2008","Len Maiorani","Empire 8","26-21-0",0.553
+"19","2007","Len Maiorani","Empire 8","24-15-0",0.615
+"20","2006","Len Maiorani","Empire 8","33-12-0",0.733
+"21","2005","Len Maiorani","Empire 8","30-18-0",0.625
+"22","2004","Len Maiorani","Empire 8","28-17-0",0.622
+"23","2003","Len Maiorani","Empire 8","24-12-1",0.662
+"24","2002","Len Maiorani","Empire 8","30-12-1",0.709
+"25","2001","Len Maiorani","-","32-13-0",0.711
+"26","1900","Len Maiorani","-","27-13-1",0.671
+"27","1999","Len Maiorani","-","39-11-0",0.78
+"28","1998","Len Maiorani","-","26-16-0",0.619
+"29","1997","Len Maiorani","-","18-18-1",0.5
+"30","1996","Len Maiorani","-","23-11-0",0.676
+"31","1995","Len Maiorani","-","23-14-0",0.622
+"32","1994","Adrienne Cali","-","14-17-0",0.452
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1981","","-","NA-NA-0",NA

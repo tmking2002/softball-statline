@@ -1,6 +1,5 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Embry-Riddle (AZ)","506341","2020","Christie Ambrosi",NA,"-",12,8,0,0.6
-"2","Embry-Riddle (AZ)","506341","2019","Christie Ambrosi",NA,"-",17,25,0,0.405
-"3","Embry-Riddle (AZ)","506341","2018","",NA,"-",NA,NA,NA,0
-"4","Embry-Riddle (AZ)","506341","2017","",NA,"-",NA,NA,NA,NA
-"5","Embry-Riddle (AZ)","506341","","",NA,"",29,33,0,0.468
+"","season","head_coach","conference","record","win_perc"
+"1","2020","Christie Ambrosi","-","12-8-0",0.6
+"2","2019","Christie Ambrosi","-","17-25-0",0.405
+"3","2018","","-","NA-NA-0",0
+"4","2017","","-","NA-NA-0",NA

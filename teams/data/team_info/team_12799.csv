@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wheeling","12799","2025","Mallory Chapman","D-II","MEC",0,0,0,0
-"2","Wheeling","12799","2024","Mallory Chapman","D-II","MEC",10,44,0,0.185
-"3","Wheeling","12799","2023","Sara Pelegreen","D-II","MEC",7,43,0,0.14
-"4","Wheeling","12799","2022","Caressa DeRossett","D-II","MEC",14,33,0,0.298
-"5","Wheeling","12799","2021","Caressa DeRossett","D-II","MEC",10,32,0,0.238
-"6","Wheeling","12799","2020","Tiffany Buckmaster","D-II","MEC",5,5,0,0.5
-"7","Wheeling","12799","2019","Sara Pelegreen","D-II","MEC",12,38,0,0.24
-"8","Wheeling","12799","2018","Sara Pelegreen","D-II","MEC",27,24,NA,0.529
-"9","Wheeling","12799","2017","Sara Pelegreen","D-II","MEC",23,25,0,0.479
-"10","Wheeling","12799","2016","Kelli Williams","D-II","MEC",35,20,0,0.636
-"11","Wheeling","12799","2015","Kelli Williams","D-II","MEC",21,20,0,0.512
-"12","Wheeling","12799","2014","Kelli Williams","D-II","MEC",20,33,0,0.377
-"13","Wheeling","12799","2013","Kelli Williams","D-II","WVIAC",20,32,0,0.385
-"14","Wheeling","12799","2012","James Walker","D-II","WVIAC",16,35,0,0.314
-"15","Wheeling","12799","2011","Bill Vasko","D-II","WVIAC",14,27,0,0.341
-"16","Wheeling","12799","2010","Bill Vasko","D-II","WVIAC",13,32,0,0.289
-"17","Wheeling","12799","2009","Bill Vasko","D-II","WVIAC",23,24,0,0.489
-"18","Wheeling","12799","2008","Stacey Schramm","D-II","WVIAC",27,18,1,0.598
-"19","Wheeling","12799","2007","Stacey Schramm","D-II","WVIAC",16,19,1,0.458
-"20","Wheeling","12799","2006","Stacey Schramm","D-II","WVIAC",17,33,NA,0.34
-"21","Wheeling","12799","2005","Christy Benner","D-II","WVIAC",14,23,0,0.378
-"22","Wheeling","12799","2004","Melissa Frost","D-II","WVIAC",29,22,0,0.569
-"23","Wheeling","12799","2003","Melissa Frost","D-II","-",28,18,NA,0.609
-"24","Wheeling","12799","2002","Melissa Frost","D-II","-",13,14,NA,0.481
-"25","Wheeling","12799","2001","","","-",NA,NA,NA,NA
-"26","Wheeling","12799","1900","","","-",NA,NA,NA,NA
-"27","Wheeling","12799","1999","","","-",NA,NA,NA,NA
-"28","Wheeling","12799","1998","","","-",NA,NA,NA,NA
-"29","Wheeling","12799","1997","","","-",NA,NA,NA,NA
-"30","Wheeling","12799","1996","","","-",NA,NA,NA,NA
-"31","Wheeling","12799","1995","","","-",NA,NA,NA,NA
-"32","Wheeling","12799","1994","","","-",NA,NA,NA,NA
-"33","Wheeling","12799","1993","","","-",NA,NA,NA,NA
-"34","Wheeling","12799","1992","","","-",NA,NA,NA,NA
-"35","Wheeling","12799","1991","","","-",NA,NA,NA,NA
-"36","Wheeling","12799","1990","","","-",NA,NA,NA,NA
-"37","Wheeling","12799","1989","","","-",NA,NA,NA,NA
-"38","Wheeling","12799","1988","","","-",NA,NA,NA,NA
-"39","Wheeling","12799","1987","","","-",NA,NA,NA,NA
-"40","Wheeling","12799","1986","Jan Forsty","","-",26,9,NA,0.743
-"41","Wheeling","12799","1985","Jan Forsty","","-",25,11,NA,0.694
-"42","Wheeling","12799","1984","Jan Forsty","","-",18,10,NA,0.643
-"43","Wheeling","12799","1983","Jan Forsty","","-",3,11,NA,0.214
-"44","Wheeling","12799","1982","Jan Forsty","","-",11,14,NA,0.44
-"45","Wheeling","12799","","","","",497,669,2,0.426
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mallory Chapman","MEC","0-0-0",0
+"2","2024","Mallory Chapman","MEC","10-44-0",0.185
+"3","2023","Sara Pelegreen","MEC","7-43-0",0.14
+"4","2022","Caressa DeRossett","MEC","14-33-0",0.298
+"5","2021","Caressa DeRossett","MEC","10-32-0",0.238
+"6","2020","Tiffany Buckmaster","MEC","5-5-0",0.5
+"7","2019","Sara Pelegreen","MEC","12-38-0",0.24
+"8","2018","Sara Pelegreen","MEC","27-24-0",0.529
+"9","2017","Sara Pelegreen","MEC","23-25-0",0.479
+"10","2016","Kelli Williams","MEC","35-20-0",0.636
+"11","2015","Kelli Williams","MEC","21-20-0",0.512
+"12","2014","Kelli Williams","MEC","20-33-0",0.377
+"13","2013","Kelli Williams","WVIAC","20-32-0",0.385
+"14","2012","James Walker","WVIAC","16-35-0",0.314
+"15","2011","Bill Vasko","WVIAC","14-27-0",0.341
+"16","2010","Bill Vasko","WVIAC","13-32-0",0.289
+"17","2009","Bill Vasko","WVIAC","23-24-0",0.489
+"18","2008","Stacey Schramm","WVIAC","27-18-1",0.598
+"19","2007","Stacey Schramm","WVIAC","16-19-1",0.458
+"20","2006","Stacey Schramm","WVIAC","17-33-0",0.34
+"21","2005","Christy Benner","WVIAC","14-23-0",0.378
+"22","2004","Melissa Frost","WVIAC","29-22-0",0.569
+"23","2003","Melissa Frost","-","28-18-0",0.609
+"24","2002","Melissa Frost","-","13-14-0",0.481
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","Jan Forsty","-","26-9-0",0.743
+"41","1985","Jan Forsty","-","25-11-0",0.694
+"42","1984","Jan Forsty","-","18-10-0",0.643
+"43","1983","Jan Forsty","-","3-11-0",0.214
+"44","1982","Jan Forsty","-","11-14-0",0.44

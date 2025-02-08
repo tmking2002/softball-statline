@@ -1,3 +1,2 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","John Wesley","506488","2018",NA,NA,"-",NA,NA,NA,0
-"2","John Wesley","506488","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2018",NA,"-","NA-NA-0",0

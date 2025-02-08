@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Skidmore","642","2025","Liz Neubinski","D-III","Liberty League",0,0,0,0
-"2","Skidmore","642","2024","Liz Neubinski","D-III","Liberty League",9,27,0,0.25
-"3","Skidmore","642","2023","Liz Neubinski","D-III","Liberty League",10,23,0,0.303
-"4","Skidmore","642","2022","Rinae Olsen","D-III","Liberty League",24,14,0,0.632
-"5","Skidmore","642","2021","Rinae Olsen","D-III","Liberty League",11,9,0,0.55
-"6","Skidmore","642","2020","Rinae Olsen","D-III","Liberty League",5,5,0,0.5
-"7","Skidmore","642","2019","Hannah Quintana","D-III","Liberty League",17,21,0,0.447
-"8","Skidmore","642","2018","Hannah Quintana","D-III","Liberty League",18,20,NA,0.474
-"9","Skidmore","642","2017","Hannah Quintana","D-III","Liberty League",19,23,0,0.452
-"10","Skidmore","642","2016","Hannah Quintana","D-III","Liberty League",18,24,0,0.429
-"11","Skidmore","642","2015","Hannah Quintana","D-III","Liberty League",14,22,0,0.389
-"12","Skidmore","642","2014","Hannah Quintana","D-III","Liberty League",14,20,0,0.412
-"13","Skidmore","642","2013","Kelly Schwarz","D-III","Liberty League",11,27,0,0.289
-"14","Skidmore","642","2012","Kelly Schwarz","D-III","Liberty League",13,24,0,0.351
-"15","Skidmore","642","2011","Kelly Schwarz","D-III","Liberty League",11,21,0,0.344
-"16","Skidmore","642","2010","Kelly Schwarz","D-III","Liberty League",23,14,0,0.622
-"17","Skidmore","642","2009","Kelly Schwarz","D-III","Liberty League",21,14,0,0.6
-"18","Skidmore","642","2008","Kelly Schwarz","D-III","Liberty League",10,25,0,0.286
-"19","Skidmore","642","2007","Kelly Schwarz","D-III","NYSWCAA",14,21,0,0.4
-"20","Skidmore","642","2006","Kelly Schwarz","D-III","NYSWCAA",11,27,0,0.289
-"21","Skidmore","642","2005","Larry Ramos","D-III","NYSWCAA",10,19,0,0.345
-"22","Skidmore","642","2004","Larry Ramos","D-III","NYSWCAA",8,22,1,0.274
-"23","Skidmore","642","2003","","D-III","NYSWCAA",2,21,1,0.104
-"24","Skidmore","642","2002","Jamie Brown","D-III","NYSWCAA",12,20,0,0.375
-"25","Skidmore","642","2001","Ericka Gillis","D-III","-",7,19,NA,0.269
-"26","Skidmore","642","1900","Ericka Gillis","D-III","-",10,7,NA,0.588
-"27","Skidmore","642","1999","Shelly Strack","D-III","-",5,18,NA,0.217
-"28","Skidmore","642","1998","Shelly Strack","D-III","-",16,6,1,0.717
-"29","Skidmore","642","1997","Shelly Strack","D-III","-",16,12,NA,0.571
-"30","Skidmore","642","1996","Shelly Strack","D-III","-",16,14,NA,0.533
-"31","Skidmore","642","1995","Larry Ramos","D-III","-",18,12,NA,0.6
-"32","Skidmore","642","1994","Larry Ramos","D-III","-",20,8,NA,0.714
-"33","Skidmore","642","1993","Larry Ramos","D-III","-",11,3,NA,0.786
-"34","Skidmore","642","1992","Larry Ramos","D-III","-",5,6,NA,0.455
-"35","Skidmore","642","1991","Larry Ramos","D-III","-",8,7,NA,0.533
-"36","Skidmore","642","1990","Pat Manning","D-III","-",10,7,NA,0.588
-"37","Skidmore","642","1989","Larry Ramos","D-III","-",9,5,NA,0.643
-"38","Skidmore","642","1988","Larry Ramos","D-III","-",6,10,NA,0.375
-"39","Skidmore","642","1987","","","-",NA,NA,NA,NA
-"40","Skidmore","642","1986","","","-",NA,NA,NA,NA
-"41","Skidmore","642","1985","","","-",NA,NA,NA,NA
-"42","Skidmore","642","1981","","","-",NA,NA,NA,NA
-"43","Skidmore","642","","","","",462,597,3,0.436
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Liz Neubinski","Liberty League","0-0-0",0
+"2","2024","Liz Neubinski","Liberty League","9-27-0",0.25
+"3","2023","Liz Neubinski","Liberty League","10-23-0",0.303
+"4","2022","Rinae Olsen","Liberty League","24-14-0",0.632
+"5","2021","Rinae Olsen","Liberty League","11-9-0",0.55
+"6","2020","Rinae Olsen","Liberty League","5-5-0",0.5
+"7","2019","Hannah Quintana","Liberty League","17-21-0",0.447
+"8","2018","Hannah Quintana","Liberty League","18-20-0",0.474
+"9","2017","Hannah Quintana","Liberty League","19-23-0",0.452
+"10","2016","Hannah Quintana","Liberty League","18-24-0",0.429
+"11","2015","Hannah Quintana","Liberty League","14-22-0",0.389
+"12","2014","Hannah Quintana","Liberty League","14-20-0",0.412
+"13","2013","Kelly Schwarz","Liberty League","11-27-0",0.289
+"14","2012","Kelly Schwarz","Liberty League","13-24-0",0.351
+"15","2011","Kelly Schwarz","Liberty League","11-21-0",0.344
+"16","2010","Kelly Schwarz","Liberty League","23-14-0",0.622
+"17","2009","Kelly Schwarz","Liberty League","21-14-0",0.6
+"18","2008","Kelly Schwarz","Liberty League","10-25-0",0.286
+"19","2007","Kelly Schwarz","NYSWCAA","14-21-0",0.4
+"20","2006","Kelly Schwarz","NYSWCAA","11-27-0",0.289
+"21","2005","Larry Ramos","NYSWCAA","10-19-0",0.345
+"22","2004","Larry Ramos","NYSWCAA","8-22-1",0.274
+"23","2003","","NYSWCAA","2-21-1",0.104
+"24","2002","Jamie Brown","NYSWCAA","12-20-0",0.375
+"25","2001","Ericka Gillis","-","7-19-0",0.269
+"26","1900","Ericka Gillis","-","10-7-0",0.588
+"27","1999","Shelly Strack","-","5-18-0",0.217
+"28","1998","Shelly Strack","-","16-6-1",0.717
+"29","1997","Shelly Strack","-","16-12-0",0.571
+"30","1996","Shelly Strack","-","16-14-0",0.533
+"31","1995","Larry Ramos","-","18-12-0",0.6
+"32","1994","Larry Ramos","-","20-8-0",0.714
+"33","1993","Larry Ramos","-","11-3-0",0.786
+"34","1992","Larry Ramos","-","5-6-0",0.455
+"35","1991","Larry Ramos","-","8-7-0",0.533
+"36","1990","Pat Manning","-","10-7-0",0.588
+"37","1989","Larry Ramos","-","9-5-0",0.643
+"38","1988","Larry Ramos","-","6-10-0",0.375
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1981","","-","NA-NA-0",NA

@@ -1,34 +1,33 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","SUNY Maritime","478","2018","","","-",NA,NA,NA,0
-"2","SUNY Maritime","478","2015","","D-III","-",NA,NA,NA,NA
-"3","SUNY Maritime","478","2014","","D-III","-",NA,NA,NA,NA
-"4","SUNY Maritime","478","2013","","D-III","-",NA,NA,NA,NA
-"5","SUNY Maritime","478","2012","","D-III","-",NA,NA,NA,NA
-"6","SUNY Maritime","478","2011","","D-III","-",NA,NA,NA,NA
-"7","SUNY Maritime","478","2010","","D-III","-",NA,NA,NA,NA
-"8","SUNY Maritime","478","2009","Josh Varner","D-III","Skyline",NA,NA,NA,NA
-"9","SUNY Maritime","478","2008","Josh Varner","D-III","Skyline",2,10,0,0.167
-"10","SUNY Maritime","478","2007","Josh Varner","D-III","Skyline",3,13,0,0.188
-"11","SUNY Maritime","478","2006","Michelle DiCostanzo","D-III","Skyline",2,18,0,0.1
-"12","SUNY Maritime","478","2005","Paul Acquaro","D-III","Skyline",4,18,0,0.182
-"13","SUNY Maritime","478","2004","","D-III","Skyline",2,13,0,0.133
-"14","SUNY Maritime","478","2003","","D-III","Skyline",2,13,0,0.133
-"15","SUNY Maritime","478","2002","","D-III","-",NA,NA,NA,NA
-"16","SUNY Maritime","478","2001","","D-III","-",NA,NA,NA,NA
-"17","SUNY Maritime","478","1900","Bill Glassman","D-III","-",0,12,NA,0
-"18","SUNY Maritime","478","1999","","D-III","-",NA,NA,NA,NA
-"19","SUNY Maritime","478","1998","","D-III","-",NA,NA,NA,NA
-"20","SUNY Maritime","478","1997","","","-",NA,NA,NA,NA
-"21","SUNY Maritime","478","1996","","","-",NA,NA,NA,NA
-"22","SUNY Maritime","478","1995","","","-",NA,NA,NA,NA
-"23","SUNY Maritime","478","1994","","","-",NA,NA,NA,NA
-"24","SUNY Maritime","478","1993","","","-",NA,NA,NA,NA
-"25","SUNY Maritime","478","1992","","","-",NA,NA,NA,NA
-"26","SUNY Maritime","478","1991","","","-",NA,NA,NA,NA
-"27","SUNY Maritime","478","1990","","","-",NA,NA,NA,NA
-"28","SUNY Maritime","478","1989","","","-",NA,NA,NA,NA
-"29","SUNY Maritime","478","1988","","","-",NA,NA,NA,NA
-"30","SUNY Maritime","478","1987","","","-",NA,NA,NA,NA
-"31","SUNY Maritime","478","1986","","","-",NA,NA,NA,NA
-"32","SUNY Maritime","478","1985","","","-",NA,NA,NA,NA
-"33","SUNY Maritime","478","","","","",15,97,0,0.134
+"","season","head_coach","conference","record","win_perc"
+"1","2018","","-","NA-NA-0",0
+"2","2015","","-","NA-NA-0",NA
+"3","2014","","-","NA-NA-0",NA
+"4","2013","","-","NA-NA-0",NA
+"5","2012","","-","NA-NA-0",NA
+"6","2011","","-","NA-NA-0",NA
+"7","2010","","-","NA-NA-0",NA
+"8","2009","Josh Varner","Skyline","NA-NA-0",NA
+"9","2008","Josh Varner","Skyline","2-10-0",0.167
+"10","2007","Josh Varner","Skyline","3-13-0",0.188
+"11","2006","Michelle DiCostanzo","Skyline","2-18-0",0.1
+"12","2005","Paul Acquaro","Skyline","4-18-0",0.182
+"13","2004","","Skyline","2-13-0",0.133
+"14","2003","","Skyline","2-13-0",0.133
+"15","2002","","-","NA-NA-0",NA
+"16","2001","","-","NA-NA-0",NA
+"17","1900","Bill Glassman","-","0-12-0",0
+"18","1999","","-","NA-NA-0",NA
+"19","1998","","-","NA-NA-0",NA
+"20","1997","","-","NA-NA-0",NA
+"21","1996","","-","NA-NA-0",NA
+"22","1995","","-","NA-NA-0",NA
+"23","1994","","-","NA-NA-0",NA
+"24","1993","","-","NA-NA-0",NA
+"25","1992","","-","NA-NA-0",NA
+"26","1991","","-","NA-NA-0",NA
+"27","1990","","-","NA-NA-0",NA
+"28","1989","","-","NA-NA-0",NA
+"29","1988","","-","NA-NA-0",NA
+"30","1987","","-","NA-NA-0",NA
+"31","1986","","-","NA-NA-0",NA
+"32","1985","","-","NA-NA-0",NA

@@ -1,32 +1,31 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Webster","759","2025","Al Sampson","D-III","SLIAC",0,0,0,0
-"2","Webster","759","2024","Morgan Mansur (25-14-1)Robin Jones (25-14-1)","D-III","SLIAC",25,14,1,0.638
-"3","Webster","759","2023","Katie Griffith","D-III","SLIAC",21,20,0,0.512
-"4","Webster","759","2022","Katie Griffith","D-III","SLIAC",20,16,0,0.556
-"5","Webster","759","2021","Katie Griffith","D-III","SLIAC",21,12,0,0.636
-"6","Webster","759","2020","Katie Griffith","D-III","SLIAC",6,8,0,0.429
-"7","Webster","759","2019","Katie Griffith","D-III","SLIAC",10,24,0,0.294
-"8","Webster","759","2018","Chris Eaton","D-III","SLIAC",18,17,NA,0.514
-"9","Webster","759","2017","Chris Eaton","D-III","SLIAC",28,15,0,0.651
-"10","Webster","759","2016","Chris Eaton","D-III","SLIAC",17,20,0,0.459
-"11","Webster","759","2015","Chris Eaton","D-III","SLIAC",10,23,0,0.303
-"12","Webster","759","2014","Chris Eaton","D-III","SLIAC",13,19,0,0.406
-"13","Webster","759","2013","Chris Eaton","D-III","SLIAC",19,16,0,0.543
-"14","Webster","759","2012","Chris Eaton","D-III","SLIAC",19,22,0,0.463
-"15","Webster","759","2011","Chris Eaton","D-III","SLIAC",25,15,0,0.625
-"16","Webster","759","2010","Chris Eaton","D-III","SLIAC",24,13,0,0.649
-"17","Webster","759","2009","Chris Eaton","D-III","SLIAC",26,18,0,0.591
-"18","Webster","759","2008","Merry Graf","D-III","SLIAC",22,17,0,0.564
-"19","Webster","759","2007","Brett Swip","D-III","SLIAC",24,18,0,0.571
-"20","Webster","759","2006","Brett Swip","D-III","SLIAC",22,19,0,0.537
-"21","Webster","759","2005","Craig Walston","D-III","SLIAC",31,12,0,0.721
-"22","Webster","759","2004","Craig Walston","D-III","SLIAC",23,13,0,0.639
-"23","Webster","759","2003","Craig Walston","D-III","SLIAC",35,7,0,0.833
-"24","Webster","759","2002","Craig Walston","D-III","SLIAC",32,7,0,0.821
-"25","Webster","759","2001","Craig Walston","D-III","-",37,9,NA,0.804
-"26","Webster","759","1900","Craig Walston","D-III","-",33,7,NA,0.825
-"27","Webster","759","1999","Craig Walston","D-III","-",38,11,NA,0.776
-"28","Webster","759","1998","Craig Walston","D-III","-",30,5,1,0.847
-"29","Webster","759","1997","Craig Walston","D-III","-",6,19,NA,0.24
-"30","Webster","759","1996","","D-III","-",NA,NA,NA,NA
-"31","Webster","759","","","","",635,416,2,0.604
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Al Sampson","SLIAC","0-0-0",0
+"2","2024","Morgan Mansur (25-14-1)Robin Jones (25-14-1)","SLIAC","25-14-1",0.638
+"3","2023","Katie Griffith","SLIAC","21-20-0",0.512
+"4","2022","Katie Griffith","SLIAC","20-16-0",0.556
+"5","2021","Katie Griffith","SLIAC","21-12-0",0.636
+"6","2020","Katie Griffith","SLIAC","6-8-0",0.429
+"7","2019","Katie Griffith","SLIAC","10-24-0",0.294
+"8","2018","Chris Eaton","SLIAC","18-17-0",0.514
+"9","2017","Chris Eaton","SLIAC","28-15-0",0.651
+"10","2016","Chris Eaton","SLIAC","17-20-0",0.459
+"11","2015","Chris Eaton","SLIAC","10-23-0",0.303
+"12","2014","Chris Eaton","SLIAC","13-19-0",0.406
+"13","2013","Chris Eaton","SLIAC","19-16-0",0.543
+"14","2012","Chris Eaton","SLIAC","19-22-0",0.463
+"15","2011","Chris Eaton","SLIAC","25-15-0",0.625
+"16","2010","Chris Eaton","SLIAC","24-13-0",0.649
+"17","2009","Chris Eaton","SLIAC","26-18-0",0.591
+"18","2008","Merry Graf","SLIAC","22-17-0",0.564
+"19","2007","Brett Swip","SLIAC","24-18-0",0.571
+"20","2006","Brett Swip","SLIAC","22-19-0",0.537
+"21","2005","Craig Walston","SLIAC","31-12-0",0.721
+"22","2004","Craig Walston","SLIAC","23-13-0",0.639
+"23","2003","Craig Walston","SLIAC","35-7-0",0.833
+"24","2002","Craig Walston","SLIAC","32-7-0",0.821
+"25","2001","Craig Walston","-","37-9-0",0.804
+"26","1900","Craig Walston","-","33-7-0",0.825
+"27","1999","Craig Walston","-","38-11-0",0.776
+"28","1998","Craig Walston","-","30-5-1",0.847
+"29","1997","Craig Walston","-","6-19-0",0.24
+"30","1996","","-","NA-NA-0",NA

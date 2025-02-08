@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Penn St-Worthington","506370","2020",NA,NA,"-",NA,NA,NA,0
-"2","Penn St-Worthington","506370","2019",NA,NA,"-",NA,NA,NA,0
-"3","Penn St-Worthington","506370","2017",NA,NA,"-",NA,NA,NA,NA
-"4","Penn St-Worthington","506370","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2020",NA,"-","NA-NA-0",0
+"2","2019",NA,"-","NA-NA-0",0
+"3","2017",NA,"-","NA-NA-0",NA

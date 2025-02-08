@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wis. Lutheran","8911","2025","James Flegel","D-III","NACC",0,0,0,0
-"2","Wis. Lutheran","8911","2024","James Flegel","D-III","NACC",11,29,0,0.275
-"3","Wis. Lutheran","8911","2023","James Flegel","D-III","NACC",14,26,0,0.35
-"4","Wis. Lutheran","8911","2022","James Flegel","D-III","NACC",10,25,0,0.286
-"5","Wis. Lutheran","8911","2021","James Flegel","D-III","NACC",15,23,0,0.395
-"6","Wis. Lutheran","8911","2020","James Flegel","D-III","NACC",5,5,0,0.5
-"7","Wis. Lutheran","8911","2019","Bill Curtis","D-III","NACC",23,17,0,0.575
-"8","Wis. Lutheran","8911","2018","Bill Curtis","D-III","NACC",17,21,NA,0.447
-"9","Wis. Lutheran","8911","2017","Bill Curtis","D-III","NACC",15,25,0,0.375
-"10","Wis. Lutheran","8911","2016","Bill Curtis","D-III","NACC",21,19,0,0.525
-"11","Wis. Lutheran","8911","2015","Bill Curtis","D-III","NACC",12,27,0,0.308
-"12","Wis. Lutheran","8911","2014","Bill Curtis","D-III","NACC",27,16,0,0.628
-"13","Wis. Lutheran","8911","2013","Bill Curtis","D-III","NACC",19,19,0,0.5
-"14","Wis. Lutheran","8911","2012","Bill Curtis","D-III","NACC",13,27,0,0.325
-"15","Wis. Lutheran","8911","2011","Rachel Kuehl","D-III","NACC",12,24,0,0.333
-"16","Wis. Lutheran","8911","2010","Rachel Kuehl","D-III","NACC",11,25,0,0.306
-"17","Wis. Lutheran","8911","2009","Rachel Kuehl","D-III","NACC",10,22,0,0.313
-"18","Wis. Lutheran","8911","2008","Rachel Kuehl","D-III","NACC",19,17,0,0.528
-"19","Wis. Lutheran","8911","2007","Rachel Kuehl","D-III","NACC",12,21,0,0.364
-"20","Wis. Lutheran","8911","2006","Rachel Kuehl","D-III","NACC",15,22,0,0.405
-"21","Wis. Lutheran","8911","2005","Rachel Kuehl","D-III","Lake Michigan",17,18,0,0.486
-"22","Wis. Lutheran","8911","2004","Rachel Kuehl","D-III","Lake Michigan",7,20,0,0.259
-"23","Wis. Lutheran","8911","2003","Rachel Kuehl","D-III","-",10,19,0,0.345
-"24","Wis. Lutheran","8911","2002","Julie Detjen","D-III","Lake Michigan",9,40,0,0.184
-"25","Wis. Lutheran","8911","2001","Julie Detjen","D-III","-",3,32,NA,0.086
-"26","Wis. Lutheran","8911","1900","Julie Detjen","D-III","-",0,31,NA,0
-"27","Wis. Lutheran","8911","1999","Rachel Kuehl","D-III","-",6,18,NA,0.25
-"28","Wis. Lutheran","8911","1998","Paul Knueppel","D-III","-",3,19,NA,0.136
-"29","Wis. Lutheran","8911","1997","Thad Jahns","D-III","-",0,21,0,0
-"30","Wis. Lutheran","8911","1996","Thad Jahns","D-III","-",2,16,0,0.111
-"31","Wis. Lutheran","8911","1995","Thad Jahns","D-III","-",13,8,0,0.619
-"32","Wis. Lutheran","8911","1994","Brian Volkman","D-III","-",13,23,0,0.361
-"33","Wis. Lutheran","8911","1993","Kole Knueppel","D-III","-",9,12,0,0.429
-"34","Wis. Lutheran","8911","1992","Paul Knueppel","D-III","-",7,8,0,0.467
-"35","Wis. Lutheran","8911","1991","Paul Knueppel","D-III","-",4,16,0,0.2
-"36","Wis. Lutheran","8911","1990","Paul Knueppel","D-III","-",9,15,0,0.375
-"37","Wis. Lutheran","8911","1989","Paul Knueppel","D-III","-",7,17,0,0.292
-"38","Wis. Lutheran","8911","1988","Paul Knueppel","D-III","-",NA,NA,NA,NA
-"39","Wis. Lutheran","8911","","","","",400,743,0,0.35
+"","season","head_coach","conference","record","win_perc"
+"1","2025","James Flegel","NACC","0-0-0",0
+"2","2024","James Flegel","NACC","11-29-0",0.275
+"3","2023","James Flegel","NACC","14-26-0",0.35
+"4","2022","James Flegel","NACC","10-25-0",0.286
+"5","2021","James Flegel","NACC","15-23-0",0.395
+"6","2020","James Flegel","NACC","5-5-0",0.5
+"7","2019","Bill Curtis","NACC","23-17-0",0.575
+"8","2018","Bill Curtis","NACC","17-21-0",0.447
+"9","2017","Bill Curtis","NACC","15-25-0",0.375
+"10","2016","Bill Curtis","NACC","21-19-0",0.525
+"11","2015","Bill Curtis","NACC","12-27-0",0.308
+"12","2014","Bill Curtis","NACC","27-16-0",0.628
+"13","2013","Bill Curtis","NACC","19-19-0",0.5
+"14","2012","Bill Curtis","NACC","13-27-0",0.325
+"15","2011","Rachel Kuehl","NACC","12-24-0",0.333
+"16","2010","Rachel Kuehl","NACC","11-25-0",0.306
+"17","2009","Rachel Kuehl","NACC","10-22-0",0.313
+"18","2008","Rachel Kuehl","NACC","19-17-0",0.528
+"19","2007","Rachel Kuehl","NACC","12-21-0",0.364
+"20","2006","Rachel Kuehl","NACC","15-22-0",0.405
+"21","2005","Rachel Kuehl","Lake Michigan","17-18-0",0.486
+"22","2004","Rachel Kuehl","Lake Michigan","7-20-0",0.259
+"23","2003","Rachel Kuehl","-","10-19-0",0.345
+"24","2002","Julie Detjen","Lake Michigan","9-40-0",0.184
+"25","2001","Julie Detjen","-","3-32-0",0.086
+"26","1900","Julie Detjen","-","0-31-0",0
+"27","1999","Rachel Kuehl","-","6-18-0",0.25
+"28","1998","Paul Knueppel","-","3-19-0",0.136
+"29","1997","Thad Jahns","-","0-21-0",0
+"30","1996","Thad Jahns","-","2-16-0",0.111
+"31","1995","Thad Jahns","-","13-8-0",0.619
+"32","1994","Brian Volkman","-","13-23-0",0.361
+"33","1993","Kole Knueppel","-","9-12-0",0.429
+"34","1992","Paul Knueppel","-","7-8-0",0.467
+"35","1991","Paul Knueppel","-","4-16-0",0.2
+"36","1990","Paul Knueppel","-","9-15-0",0.375
+"37","1989","Paul Knueppel","-","7-17-0",0.292
+"38","1988","Paul Knueppel","-","NA-NA-0",NA

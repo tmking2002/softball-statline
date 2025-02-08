@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Williams Baptist","505872","2025","",NA,"-",NA,NA,NA,0
-"2","Williams Baptist","505872","2024","",NA,"-",NA,NA,NA,0
-"3","Williams Baptist","505872","2023","",NA,"-",NA,NA,NA,0
-"4","Williams Baptist","505872","2022","",NA,"-",NA,NA,NA,0
-"5","Williams Baptist","505872","2019","",NA,"-",NA,NA,NA,0
-"6","Williams Baptist","505872","2018","",NA,"-",NA,NA,NA,0
-"7","Williams Baptist","505872","2017","",NA,"-",NA,NA,NA,NA
-"8","Williams Baptist","505872","2016","",NA,"-",NA,NA,NA,NA
-"9","Williams Baptist","505872","2015","",NA,"-",NA,NA,NA,NA
-"10","Williams Baptist","505872","2014","Eric Newell",NA,"-",22,22,0,0.5
-"11","Williams Baptist","505872","2013","Eric Newell",NA,"-",46,9,0,0.836
-"12","Williams Baptist","505872","2012","Eric Newell",NA,"-",51,10,0,0.836
-"13","Williams Baptist","505872","2011","Eric Newell",NA,"-",31,12,0,0.721
-"14","Williams Baptist","505872","2010","Eric Newell",NA,"-",32,12,0,0.727
-"15","Williams Baptist","505872","2009","Eric Newell",NA,"-",24,18,0,0.571
-"16","Williams Baptist","505872","2008","Eric Newell",NA,"-",32,12,0,0.727
-"17","Williams Baptist","505872","2007","Eric Newell",NA,"-",16,26,0,0.381
-"18","Williams Baptist","505872","2006","",NA,"-",NA,NA,NA,NA
-"19","Williams Baptist","505872","2005","",NA,"-",NA,NA,NA,NA
-"20","Williams Baptist","505872","2004","",NA,"-",NA,NA,NA,NA
-"21","Williams Baptist","505872","2003","",NA,"-",NA,NA,NA,NA
-"22","Williams Baptist","505872","2002","",NA,"-",NA,NA,NA,NA
-"23","Williams Baptist","505872","","",NA,"",254,121,0,0.677
+"","season","head_coach","conference","record","win_perc"
+"1","2025","","-","NA-NA-0",0
+"2","2024","","-","NA-NA-0",0
+"3","2023","","-","NA-NA-0",0
+"4","2022","","-","NA-NA-0",0
+"5","2019","","-","NA-NA-0",0
+"6","2018","","-","NA-NA-0",0
+"7","2017","","-","NA-NA-0",NA
+"8","2016","","-","NA-NA-0",NA
+"9","2015","","-","NA-NA-0",NA
+"10","2014","Eric Newell","-","22-22-0",0.5
+"11","2013","Eric Newell","-","46-9-0",0.836
+"12","2012","Eric Newell","-","51-10-0",0.836
+"13","2011","Eric Newell","-","31-12-0",0.721
+"14","2010","Eric Newell","-","32-12-0",0.727
+"15","2009","Eric Newell","-","24-18-0",0.571
+"16","2008","Eric Newell","-","32-12-0",0.727
+"17","2007","Eric Newell","-","16-26-0",0.381
+"18","2006","","-","NA-NA-0",NA
+"19","2005","","-","NA-NA-0",NA
+"20","2004","","-","NA-NA-0",NA
+"21","2003","","-","NA-NA-0",NA
+"22","2002","","-","NA-NA-0",NA

@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Moravian","443","2025","Josh Baltz","D-III","Landmark",0,0,0,0
-"2","Moravian","443","2024","Josh Baltz","D-III","Landmark",31,10,0,0.756
-"3","Moravian","443","2023","Josh Baltz","D-III","Landmark",38,12,0,0.76
-"4","Moravian","443","2022","John Byrne","D-III","Landmark",29,5,0,0.853
-"5","Moravian","443","2021","John Byrne","D-III","Landmark",31,3,0,0.912
-"6","Moravian","443","2020","John Byrne","D-III","Landmark",9,1,0,0.9
-"7","Moravian","443","2019","John Byrne","D-III","Landmark",32,7,0,0.821
-"8","Moravian","443","2018","John Byrne","D-III","Landmark",36,8,NA,0.818
-"9","Moravian","443","2017","John Byrne","D-III","Landmark",36,6,0,0.857
-"10","Moravian","443","2016","John Byrne","D-III","Landmark",37,6,0,0.86
-"11","Moravian","443","2015","John Byrne","D-III","Landmark",38,8,0,0.826
-"12","Moravian","443","2014","John Byrne","D-III","Landmark",29,8,0,0.784
-"13","Moravian","443","2013","John Byrne","D-III","Landmark",30,12,0,0.714
-"14","Moravian","443","2012","John Byrne","D-III","Landmark",35,11,0,0.761
-"15","Moravian","443","2011","John Byrne","D-III","Landmark",37,9,0,0.804
-"16","Moravian","443","2010","John Byrne","D-III","Landmark",34,15,0,0.694
-"17","Moravian","443","2009","John Byrne","D-III","Landmark",35,11,0,0.761
-"18","Moravian","443","2008","John Byrne","D-III","Landmark",33,6,0,0.846
-"19","Moravian","443","2007","John Byrne","D-III","MAC Commonwealth",35,7,0,0.833
-"20","Moravian","443","2006","John Byrne","D-III","MAC Commonwealth",37,10,0,0.787
-"21","Moravian","443","2005","John Byrne","D-III","MAC Commonwealth",37,8,0,0.822
-"22","Moravian","443","2004","John Byrne","D-III","MAC Commonwealth",40,6,0,0.87
-"23","Moravian","443","2003","John Byrne","D-III","MAC Commonwealth",32,10,0,0.762
-"24","Moravian","443","2002","John Byrne","D-III","MAC Commonwealth",34,8,0,0.81
-"25","Moravian","443","2001","John Byrne","D-III","-",33,12,NA,0.733
-"26","Moravian","443","1900","John Byrne","D-III","-",26,12,NA,0.684
-"27","Moravian","443","1999","John Byrne","D-III","-",28,16,NA,0.636
-"28","Moravian","443","1998","John Byrne","D-III","-",27,14,NA,0.659
-"29","Moravian","443","1997","John Byrne","D-III","-",31,10,NA,0.756
-"30","Moravian","443","1996","John Byrne","D-III","-",28,11,NA,0.718
-"31","Moravian","443","1995","John Byrne","D-III","-",31,10,NA,0.756
-"32","Moravian","443","1994","John Byrne","D-III","-",23,8,NA,0.742
-"33","Moravian","443","1993","Mary Beth Spirk","D-III","-",15,6,NA,0.714
-"34","Moravian","443","1992","Mary Beth Spirk","D-III","-",18,19,NA,0.486
-"35","Moravian","443","1991","Mary Beth Spirk","D-III","-",23,10,NA,0.697
-"36","Moravian","443","1990","Mary Beth Spirk","D-III","-",21,9,NA,0.7
-"37","Moravian","443","1989","Mary Beth Spirk","D-III","-",13,7,1,0.643
-"38","Moravian","443","1988","Mary Beth Spirk","D-III","-",14,6,NA,0.7
-"39","Moravian","443","1987","","","-",NA,NA,NA,NA
-"40","Moravian","443","1986","","","-",NA,NA,NA,NA
-"41","Moravian","443","1985","","D-III","-",NA,NA,NA,NA
-"42","Moravian","443","1983","","D-III","-",NA,NA,NA,NA
-"43","Moravian","443","1981","","","-",NA,NA,NA,NA
-"44","Moravian","443","","","","",1096,337,1,0.765
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Josh Baltz","Landmark","0-0-0",0
+"2","2024","Josh Baltz","Landmark","31-10-0",0.756
+"3","2023","Josh Baltz","Landmark","38-12-0",0.76
+"4","2022","John Byrne","Landmark","29-5-0",0.853
+"5","2021","John Byrne","Landmark","31-3-0",0.912
+"6","2020","John Byrne","Landmark","9-1-0",0.9
+"7","2019","John Byrne","Landmark","32-7-0",0.821
+"8","2018","John Byrne","Landmark","36-8-0",0.818
+"9","2017","John Byrne","Landmark","36-6-0",0.857
+"10","2016","John Byrne","Landmark","37-6-0",0.86
+"11","2015","John Byrne","Landmark","38-8-0",0.826
+"12","2014","John Byrne","Landmark","29-8-0",0.784
+"13","2013","John Byrne","Landmark","30-12-0",0.714
+"14","2012","John Byrne","Landmark","35-11-0",0.761
+"15","2011","John Byrne","Landmark","37-9-0",0.804
+"16","2010","John Byrne","Landmark","34-15-0",0.694
+"17","2009","John Byrne","Landmark","35-11-0",0.761
+"18","2008","John Byrne","Landmark","33-6-0",0.846
+"19","2007","John Byrne","MAC Commonwealth","35-7-0",0.833
+"20","2006","John Byrne","MAC Commonwealth","37-10-0",0.787
+"21","2005","John Byrne","MAC Commonwealth","37-8-0",0.822
+"22","2004","John Byrne","MAC Commonwealth","40-6-0",0.87
+"23","2003","John Byrne","MAC Commonwealth","32-10-0",0.762
+"24","2002","John Byrne","MAC Commonwealth","34-8-0",0.81
+"25","2001","John Byrne","-","33-12-0",0.733
+"26","1900","John Byrne","-","26-12-0",0.684
+"27","1999","John Byrne","-","28-16-0",0.636
+"28","1998","John Byrne","-","27-14-0",0.659
+"29","1997","John Byrne","-","31-10-0",0.756
+"30","1996","John Byrne","-","28-11-0",0.718
+"31","1995","John Byrne","-","31-10-0",0.756
+"32","1994","John Byrne","-","23-8-0",0.742
+"33","1993","Mary Beth Spirk","-","15-6-0",0.714
+"34","1992","Mary Beth Spirk","-","18-19-0",0.486
+"35","1991","Mary Beth Spirk","-","23-10-0",0.697
+"36","1990","Mary Beth Spirk","-","21-9-0",0.7
+"37","1989","Mary Beth Spirk","-","13-7-1",0.643
+"38","1988","Mary Beth Spirk","-","14-6-0",0.7
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1981","","-","NA-NA-0",NA

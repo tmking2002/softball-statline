@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Anna Maria","26","2025","Larry Sasso","D-III","Great Northeast",0,0,0,0
-"2","Anna Maria","26","2024","Larry Sasso","D-III","Great Northeast",16,22,0,0.421
-"3","Anna Maria","26","2023","Larry Sasso","D-III","Great Northeast",10,27,0,0.27
-"4","Anna Maria","26","2022","Larry Sasso","D-III","Great Northeast",13,24,1,0.355
-"5","Anna Maria","26","2021","Larry Sasso","D-III","Great Northeast",4,21,0,0.16
-"6","Anna Maria","26","2020","Larry Sasso","D-III","Great Northeast",1,9,0,0.1
-"7","Anna Maria","26","2019","Larry Sasso","D-III","Great Northeast",5,24,0,0.172
-"8","Anna Maria","26","2018","Larry Sasso","D-III","Great Northeast",2,36,NA,0.053
-"9","Anna Maria","26","2017","Chelsea Korp","D-III","Great Northeast",5,27,0,0.156
-"10","Anna Maria","26","2016","Chelsea Korp","D-III","Great Northeast",4,31,0,0.114
-"11","Anna Maria","26","2015","Danielle DelPonte","D-III","Great Northeast",5,24,0,0.172
-"12","Anna Maria","26","2014","Kristi Lyman","D-III","Great Northeast",3,31,0,0.088
-"13","Anna Maria","26","2013","Kristi Lyman","D-III","Great Northeast",5,32,0,0.135
-"14","Anna Maria","26","2012","Kristi Lyman","D-III","Great Northeast",0,35,0,0
-"15","Anna Maria","26","2011","Aimee Lee","D-III","CNE",15,23,0,0.395
-"16","Anna Maria","26","2010","Aimee Lee","D-III","CNE",22,22,0,0.5
-"17","Anna Maria","26","2009","Aimee Lee","D-III","CNE",12,25,0,0.324
-"18","Anna Maria","26","2008","Aimee Lee","D-III","CNE",8,27,0,0.229
-"19","Anna Maria","26","2007","Aimee Lee","D-III","CNE",3,22,0,0.12
-"20","Anna Maria","26","2006","Aimee Lee","D-III","CNE",11,24,0,0.314
-"21","Anna Maria","26","2005","Aimee Lee","D-III","CNE",17,18,1,0.486
-"22","Anna Maria","26","2004","Aimee Lee","D-III","CNE",19,20,0,0.487
-"23","Anna Maria","26","2003","Sharon Zenevitch (Trainor)","D-III","CNE",29,9,0,0.763
-"24","Anna Maria","26","2002","Sharon Zenevitch (Trainor)","D-III","CNE",21,15,1,0.581
-"25","Anna Maria","26","2001","Sharon Zenevitch (Trainor)","D-III","-",6,21,NA,0.222
-"26","Anna Maria","26","1900","Sharon Zenevitch (Trainor)","D-III","-",9,22,1,0.297
-"27","Anna Maria","26","1999","Richard Coleman","D-III","-",10,15,0,0.4
-"28","Anna Maria","26","1998","Jodi Bush","D-III","-",4,17,0,0.19
-"29","Anna Maria","26","1997","Jodi Bush","D-III","-",2,14,0,0.125
-"30","Anna Maria","26","1996","Jodi Bush","D-III","-",8,12,0,0.4
-"31","Anna Maria","26","1995","","D-III","-",NA,NA,NA,NA
-"32","Anna Maria","26","1994","","D-III","-",NA,NA,NA,NA
-"33","Anna Maria","26","1993","","D-III","-",NA,NA,NA,NA
-"34","Anna Maria","26","1992","","D-III","-",NA,NA,NA,NA
-"35","Anna Maria","26","1991","","D-III","-",NA,NA,NA,NA
-"36","Anna Maria","26","1990","","D-III","-",NA,NA,NA,NA
-"37","Anna Maria","26","1989","","D-III","-",NA,NA,NA,NA
-"38","Anna Maria","26","1988","","D-III","-",NA,NA,NA,NA
-"39","Anna Maria","26","1987","","D-III","-",NA,NA,NA,NA
-"40","Anna Maria","26","1986","","D-III","-",NA,NA,NA,NA
-"41","Anna Maria","26","","","","",269,649,4,0.294
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Larry Sasso","Great Northeast","0-0-0",0
+"2","2024","Larry Sasso","Great Northeast","16-22-0",0.421
+"3","2023","Larry Sasso","Great Northeast","10-27-0",0.27
+"4","2022","Larry Sasso","Great Northeast","13-24-1",0.355
+"5","2021","Larry Sasso","Great Northeast","4-21-0",0.16
+"6","2020","Larry Sasso","Great Northeast","1-9-0",0.1
+"7","2019","Larry Sasso","Great Northeast","5-24-0",0.172
+"8","2018","Larry Sasso","Great Northeast","2-36-0",0.053
+"9","2017","Chelsea Korp","Great Northeast","5-27-0",0.156
+"10","2016","Chelsea Korp","Great Northeast","4-31-0",0.114
+"11","2015","Danielle DelPonte","Great Northeast","5-24-0",0.172
+"12","2014","Kristi Lyman","Great Northeast","3-31-0",0.088
+"13","2013","Kristi Lyman","Great Northeast","5-32-0",0.135
+"14","2012","Kristi Lyman","Great Northeast","0-35-0",0
+"15","2011","Aimee Lee","CNE","15-23-0",0.395
+"16","2010","Aimee Lee","CNE","22-22-0",0.5
+"17","2009","Aimee Lee","CNE","12-25-0",0.324
+"18","2008","Aimee Lee","CNE","8-27-0",0.229
+"19","2007","Aimee Lee","CNE","3-22-0",0.12
+"20","2006","Aimee Lee","CNE","11-24-0",0.314
+"21","2005","Aimee Lee","CNE","17-18-1",0.486
+"22","2004","Aimee Lee","CNE","19-20-0",0.487
+"23","2003","Sharon Zenevitch (Trainor)","CNE","29-9-0",0.763
+"24","2002","Sharon Zenevitch (Trainor)","CNE","21-15-1",0.581
+"25","2001","Sharon Zenevitch (Trainor)","-","6-21-0",0.222
+"26","1900","Sharon Zenevitch (Trainor)","-","9-22-1",0.297
+"27","1999","Richard Coleman","-","10-15-0",0.4
+"28","1998","Jodi Bush","-","4-17-0",0.19
+"29","1997","Jodi Bush","-","2-14-0",0.125
+"30","1996","Jodi Bush","-","8-12-0",0.4
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA

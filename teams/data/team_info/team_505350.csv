@@ -1,25 +1,24 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Trinity Christian","505350","2025","Amanda Fazzari",NA,"-",NA,NA,NA,0
-"2","Trinity Christian","505350","2024","Amanda Fazzari",NA,"-",NA,NA,NA,0
-"3","Trinity Christian","505350","2023","Amanda Fazzari",NA,"-",25,20,0,0.556
-"4","Trinity Christian","505350","2022","Amanda Fazzari",NA,"-",12,28,1,0.305
-"5","Trinity Christian","505350","2021","Amanda Fazzari",NA,"-",10,25,0,0.286
-"6","Trinity Christian","505350","2020","Amanda Fazzari",NA,"-",2,8,0,0.2
-"7","Trinity Christian","505350","2019","",NA,"-",NA,NA,NA,0
-"8","Trinity Christian","505350","2018","",NA,"-",NA,NA,NA,0
-"9","Trinity Christian","505350","2017","",NA,"-",NA,NA,NA,NA
-"10","Trinity Christian","505350","2016","",NA,"-",NA,NA,NA,NA
-"11","Trinity Christian","505350","2015","",NA,"-",NA,NA,NA,NA
-"12","Trinity Christian","505350","2014","",NA,"-",NA,NA,NA,NA
-"13","Trinity Christian","505350","2013","",NA,"-",NA,NA,NA,NA
-"14","Trinity Christian","505350","2012","",NA,"-",NA,NA,NA,NA
-"15","Trinity Christian","505350","2011","",NA,"-",NA,NA,NA,NA
-"16","Trinity Christian","505350","2010","",NA,"-",NA,NA,NA,NA
-"17","Trinity Christian","505350","2009","",NA,"-",NA,NA,NA,NA
-"18","Trinity Christian","505350","2007","",NA,"-",NA,NA,NA,NA
-"19","Trinity Christian","505350","2006","",NA,"-",NA,NA,NA,NA
-"20","Trinity Christian","505350","2005","",NA,"-",NA,NA,NA,NA
-"21","Trinity Christian","505350","2004","",NA,"-",NA,NA,NA,NA
-"22","Trinity Christian","505350","2003","",NA,"-",NA,NA,NA,NA
-"23","Trinity Christian","505350","2002","",NA,"-",NA,NA,NA,NA
-"24","Trinity Christian","505350","","",NA,"",49,81,1,0.378
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Amanda Fazzari","-","NA-NA-0",0
+"2","2024","Amanda Fazzari","-","NA-NA-0",0
+"3","2023","Amanda Fazzari","-","25-20-0",0.556
+"4","2022","Amanda Fazzari","-","12-28-1",0.305
+"5","2021","Amanda Fazzari","-","10-25-0",0.286
+"6","2020","Amanda Fazzari","-","2-8-0",0.2
+"7","2019","","-","NA-NA-0",0
+"8","2018","","-","NA-NA-0",0
+"9","2017","","-","NA-NA-0",NA
+"10","2016","","-","NA-NA-0",NA
+"11","2015","","-","NA-NA-0",NA
+"12","2014","","-","NA-NA-0",NA
+"13","2013","","-","NA-NA-0",NA
+"14","2012","","-","NA-NA-0",NA
+"15","2011","","-","NA-NA-0",NA
+"16","2010","","-","NA-NA-0",NA
+"17","2009","","-","NA-NA-0",NA
+"18","2007","","-","NA-NA-0",NA
+"19","2006","","-","NA-NA-0",NA
+"20","2005","","-","NA-NA-0",NA
+"21","2004","","-","NA-NA-0",NA
+"22","2003","","-","NA-NA-0",NA
+"23","2002","","-","NA-NA-0",NA

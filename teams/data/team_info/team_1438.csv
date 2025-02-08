@@ -1,34 +1,33 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","West Liberty","1438","2025","Sara Pelegreen","D-II","MEC",0,0,0,0
-"2","West Liberty","1438","2024","Sara Pelegreen","D-II","MEC",20,34,0,0.37
-"3","West Liberty","1438","2023","Herb Minch","D-II","MEC",15,39,0,0.278
-"4","West Liberty","1438","2022","Herb Minch","D-II","MEC",35,21,1,0.623
-"5","West Liberty","1438","2021","Herb Minch","D-II","MEC",37,17,0,0.685
-"6","West Liberty","1438","2020","Herb Minch","D-II","MEC",7,9,0,0.438
-"7","West Liberty","1438","2019","Herb Minch","D-II","MEC",38,19,0,0.667
-"8","West Liberty","1438","2018","Herb Minch","D-II","MEC",21,23,NA,0.477
-"9","West Liberty","1438","2017","Herb Minch","D-II","MEC",15,31,0,0.326
-"10","West Liberty","1438","2016","James Bacca","D-II","MEC",13,41,0,0.241
-"11","West Liberty","1438","2015","James Bacca","D-II","MEC",19,30,0,0.388
-"12","West Liberty","1438","2014","James Bacca","D-II","MEC",10,42,0,0.192
-"13","West Liberty","1438","2013","James Bacca","D-II","WVIAC",17,31,0,0.354
-"14","West Liberty","1438","2012","Herb Minch","D-II","WVIAC",13,38,0,0.255
-"15","West Liberty","1438","2011","Herb Minch","D-II","WVIAC",9,38,0,0.191
-"16","West Liberty","1438","2010","Herb Minch","D-II","WVIAC",14,38,0,0.269
-"17","West Liberty","1438","2009","Herb Minch","D-II","WVIAC",18,24,0,0.429
-"18","West Liberty","1438","2008","Herb Minch","D-II","WVIAC",11,28,0,0.282
-"19","West Liberty","1438","2007","Herb Minch","D-II","WVIAC",14,23,1,0.382
-"20","West Liberty","1438","2006","Herb Minch","D-II","WVIAC",36,32,NA,0.529
-"21","West Liberty","1438","2005","Herb Minch","D-II","WVIAC",26,29,1,0.473
-"22","West Liberty","1438","2004","Herb Minch","D-II","WVIAC",37,14,0,0.725
-"23","West Liberty","1438","2003","Herb Minch","D-II","-",31,24,NA,0.564
-"24","West Liberty","1438","2002","Herb Minch","D-II","WVIAC",25,14,0,0.641
-"25","West Liberty","1438","2001","Herb Minch","D-II","-",21,23,0,0.477
-"26","West Liberty","1438","1900","Herb Minch","D-II","-",27,24,0,0.529
-"27","West Liberty","1438","1999","Herb Minch","D-II","-",26,17,0,0.605
-"28","West Liberty","1438","1998","Herb Minch","D-II","-",25,20,0,0.556
-"29","West Liberty","1438","1997","Herb Minch","D-II","-",20,24,0,0.455
-"30","West Liberty","1438","1996","Herb Minch","D-II","-",24,15,0,0.615
-"31","West Liberty","1438","1995","Herb Minch","D-II","-",19,21,0,0.475
-"32","West Liberty","1438","1994","Laura Jane Sackett","","-",10,20,0,0.333
-"33","West Liberty","1438","","","","",653,803,3,0.449
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sara Pelegreen","MEC","0-0-0",0
+"2","2024","Sara Pelegreen","MEC","20-34-0",0.37
+"3","2023","Herb Minch","MEC","15-39-0",0.278
+"4","2022","Herb Minch","MEC","35-21-1",0.623
+"5","2021","Herb Minch","MEC","37-17-0",0.685
+"6","2020","Herb Minch","MEC","7-9-0",0.438
+"7","2019","Herb Minch","MEC","38-19-0",0.667
+"8","2018","Herb Minch","MEC","21-23-0",0.477
+"9","2017","Herb Minch","MEC","15-31-0",0.326
+"10","2016","James Bacca","MEC","13-41-0",0.241
+"11","2015","James Bacca","MEC","19-30-0",0.388
+"12","2014","James Bacca","MEC","10-42-0",0.192
+"13","2013","James Bacca","WVIAC","17-31-0",0.354
+"14","2012","Herb Minch","WVIAC","13-38-0",0.255
+"15","2011","Herb Minch","WVIAC","9-38-0",0.191
+"16","2010","Herb Minch","WVIAC","14-38-0",0.269
+"17","2009","Herb Minch","WVIAC","18-24-0",0.429
+"18","2008","Herb Minch","WVIAC","11-28-0",0.282
+"19","2007","Herb Minch","WVIAC","14-23-1",0.382
+"20","2006","Herb Minch","WVIAC","36-32-0",0.529
+"21","2005","Herb Minch","WVIAC","26-29-1",0.473
+"22","2004","Herb Minch","WVIAC","37-14-0",0.725
+"23","2003","Herb Minch","-","31-24-0",0.564
+"24","2002","Herb Minch","WVIAC","25-14-0",0.641
+"25","2001","Herb Minch","-","21-23-0",0.477
+"26","1900","Herb Minch","-","27-24-0",0.529
+"27","1999","Herb Minch","-","26-17-0",0.605
+"28","1998","Herb Minch","-","25-20-0",0.556
+"29","1997","Herb Minch","-","20-24-0",0.455
+"30","1996","Herb Minch","-","24-15-0",0.615
+"31","1995","Herb Minch","-","19-21-0",0.475
+"32","1994","Laura Jane Sackett","-","10-20-0",0.333

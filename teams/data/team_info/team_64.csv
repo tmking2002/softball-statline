@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Blackburn","64","2025","Kathleen Jacoby","D-III","SLIAC",0,0,0,0
-"2","Blackburn","64","2024","Kathleen Jacoby","D-III","SLIAC",14,21,0,0.4
-"3","Blackburn","64","2023","Leslie Messina","D-III","SLIAC",11,25,0,0.306
-"4","Blackburn","64","2022","Leslie Messina","D-III","SLIAC",11,20,0,0.355
-"5","Blackburn","64","2021","Kerry Crum","D-III","SLIAC",4,17,0,0.19
-"6","Blackburn","64","2020","Kerry Crum","D-III","SLIAC",0,6,0,0
-"7","Blackburn","64","2019","Kerry Crum","D-III","SLIAC",12,20,0,0.375
-"8","Blackburn","64","2018","Kerry Crum","D-III","SLIAC",16,25,NA,0.39
-"9","Blackburn","64","2017","Kerry Crum","D-III","SLIAC",13,17,0,0.433
-"10","Blackburn","64","2016","Kerry Crum","D-III","SLIAC",2,28,0,0.067
-"11","Blackburn","64","2015","Paula Cummings","D-III","SLIAC",5,31,0,0.139
-"12","Blackburn","64","2014","Paula Cummings","D-III","SLIAC",6,32,0,0.158
-"13","Blackburn","64","2013","Paula Cummings","D-III","SLIAC",17,16,0,0.515
-"14","Blackburn","64","2012","Ryan Sackett","D-III","SLIAC",20,21,0,0.488
-"15","Blackburn","64","2011","Ryan Sackett","D-III","SLIAC",19,20,0,0.487
-"16","Blackburn","64","2010","Ryan Sackett","D-III","SLIAC",8,24,0,0.25
-"17","Blackburn","64","2009","Kim Fraser","D-III","SLIAC",3,31,0,0.088
-"18","Blackburn","64","2008","Kim Fraser","D-III","SLIAC",14,14,0,0.5
-"19","Blackburn","64","2007","Kim Fraser","D-III","SLIAC",18,16,0,0.529
-"20","Blackburn","64","2006","Kim Fraser","D-III","SLIAC",10,29,0,0.256
-"21","Blackburn","64","2005","Kim Fraser","D-III","SLIAC",8,32,0,0.2
-"22","Blackburn","64","2004","Tony Etnier","D-III","SLIAC",13,16,0,0.448
-"23","Blackburn","64","2003","Eli Koenn-Bollinger","D-III","SLIAC",10,18,1,0.362
-"24","Blackburn","64","2002","Eli Koenn-Bollinger","D-III","-",NA,NA,NA,NA
-"25","Blackburn","64","2001","Eli Koenn-Bollinger","D-III","-",25,18,NA,0.581
-"26","Blackburn","64","1900","","D-III","-",NA,NA,NA,NA
-"27","Blackburn","64","1999","","D-III","-",NA,NA,NA,NA
-"28","Blackburn","64","1998","","D-III","-",NA,NA,NA,NA
-"29","Blackburn","64","1997","","D-III","-",NA,NA,NA,NA
-"30","Blackburn","64","1996","Eli Koenn-Bollinger","D-III","-",6,23,NA,0.207
-"31","Blackburn","64","1995","Eli Koenn-Bollinger","D-III","-",3,22,NA,0.12
-"32","Blackburn","64","1994","","D-III","-",NA,NA,NA,NA
-"33","Blackburn","64","1993","Geraldine Albins","D-III","-",1,13,0,0.071
-"34","Blackburn","64","1992","","D-III","-",NA,NA,NA,NA
-"35","Blackburn","64","1991","","D-III","-",NA,NA,NA,NA
-"36","Blackburn","64","1990","","D-III","-",NA,NA,NA,NA
-"37","Blackburn","64","1981","","","-",NA,NA,NA,NA
-"38","Blackburn","64","","","","",269,555,1,0.327
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kathleen Jacoby","SLIAC","0-0-0",0
+"2","2024","Kathleen Jacoby","SLIAC","14-21-0",0.4
+"3","2023","Leslie Messina","SLIAC","11-25-0",0.306
+"4","2022","Leslie Messina","SLIAC","11-20-0",0.355
+"5","2021","Kerry Crum","SLIAC","4-17-0",0.19
+"6","2020","Kerry Crum","SLIAC","0-6-0",0
+"7","2019","Kerry Crum","SLIAC","12-20-0",0.375
+"8","2018","Kerry Crum","SLIAC","16-25-0",0.39
+"9","2017","Kerry Crum","SLIAC","13-17-0",0.433
+"10","2016","Kerry Crum","SLIAC","2-28-0",0.067
+"11","2015","Paula Cummings","SLIAC","5-31-0",0.139
+"12","2014","Paula Cummings","SLIAC","6-32-0",0.158
+"13","2013","Paula Cummings","SLIAC","17-16-0",0.515
+"14","2012","Ryan Sackett","SLIAC","20-21-0",0.488
+"15","2011","Ryan Sackett","SLIAC","19-20-0",0.487
+"16","2010","Ryan Sackett","SLIAC","8-24-0",0.25
+"17","2009","Kim Fraser","SLIAC","3-31-0",0.088
+"18","2008","Kim Fraser","SLIAC","14-14-0",0.5
+"19","2007","Kim Fraser","SLIAC","18-16-0",0.529
+"20","2006","Kim Fraser","SLIAC","10-29-0",0.256
+"21","2005","Kim Fraser","SLIAC","8-32-0",0.2
+"22","2004","Tony Etnier","SLIAC","13-16-0",0.448
+"23","2003","Eli Koenn-Bollinger","SLIAC","10-18-1",0.362
+"24","2002","Eli Koenn-Bollinger","-","NA-NA-0",NA
+"25","2001","Eli Koenn-Bollinger","-","25-18-0",0.581
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","Eli Koenn-Bollinger","-","6-23-0",0.207
+"31","1995","Eli Koenn-Bollinger","-","3-22-0",0.12
+"32","1994","","-","NA-NA-0",NA
+"33","1993","Geraldine Albins","-","1-13-0",0.071
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

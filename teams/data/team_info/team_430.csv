@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mississippi St.","430","2025","Samantha Ricketts","D-I","SEC",1,1,0,0.5
-"2","Mississippi St.","430","2024","Samantha Ricketts","D-I","SEC",34,20,0,0.63
-"3","Mississippi St.","430","2023","Samantha Ricketts","D-I","SEC",28,25,0,0.528
-"4","Mississippi St.","430","2022","Samantha Ricketts","D-I","SEC",37,27,0,0.578
-"5","Mississippi St.","430","2021","Samantha Ricketts","D-I","SEC",35,25,0,0.583
-"6","Mississippi St.","430","2020","Samantha Ricketts","D-I","SEC",25,3,0,0.893
-"7","Mississippi St.","430","2019","Vann Stuedeman","D-I","SEC",35,24,0,0.593
-"8","Mississippi St.","430","2018","Vann Stuedeman","D-I","SEC",37,23,0,0.617
-"9","Mississippi St.","430","2017","Vann Stuedeman","D-I","SEC",36,22,0,0.621
-"10","Mississippi St.","430","2016","Vann Stuedeman","D-I","SEC",26,31,0,0.456
-"11","Mississippi St.","430","2015","Vann Stuedeman","D-I","SEC",36,21,0,0.632
-"12","Mississippi St.","430","2014","Vann Stuedeman","D-I","SEC",39,21,0,0.65
-"13","Mississippi St.","430","2013","Vann Stuedeman","D-I","SEC",33,24,0,0.579
-"14","Mississippi St.","430","2012","Vann Stuedeman","D-I","SEC",33,24,0,0.579
-"15","Mississippi St.","430","2011","Jay Miller","D-I","SEC",24,32,0,0.429
-"16","Mississippi St.","430","2010","Jay Miller","D-I","SEC",26,29,0,0.473
-"17","Mississippi St.","430","2009","Jay Miller","D-I","SEC",28,28,0,0.5
-"18","Mississippi St.","430","2008","Jay Miller","D-I","SEC",41,22,0,0.651
-"19","Mississippi St.","430","2007","Jay Miller","D-I","SEC",35,27,0,0.565
-"20","Mississippi St.","430","2006","Jay Miller","D-I","SEC",33,28,0,0.541
-"21","Mississippi St.","430","2005","Jay Miller","D-I","SEC",35,31,0,0.53
-"22","Mississippi St.","430","2004","Jay Miller","D-I","SEC",39,26,0,0.6
-"23","Mississippi St.","430","2003","Jay Miller","D-I","SEC",34,30,0,0.531
-"24","Mississippi St.","430","2002","Kathy Arendsen","D-I","SEC",36,31,0,0.537
-"25","Mississippi St.","430","2001","Kathy Arendsen","D-I","SEC",36,26,0,0.581
-"26","Mississippi St.","430","1900","Kathy Arendsen","D-I","SEC",44,27,0,0.62
-"27","Mississippi St.","430","1999","Kathy Arendsen","D-I","SEC",38,29,0,0.567
-"28","Mississippi St.","430","1998","Kathy Arendsen","D-I","-",36,21,NA,0.632
-"29","Mississippi St.","430","1997","Kathy Arendsen","D-I","SEC",29,27,0,0.518
-"30","Mississippi St.","430","1996","","D-I","-",NA,NA,NA,NA
-"31","Mississippi St.","430","1995","","D-I","-",NA,NA,NA,NA
-"32","Mississippi St.","430","1994","","D-I","-",NA,NA,NA,NA
-"33","Mississippi St.","430","1993","","D-I","-",NA,NA,NA,NA
-"34","Mississippi St.","430","1992","","D-I","-",NA,NA,NA,NA
-"35","Mississippi St.","430","1991","","D-I","-",NA,NA,NA,NA
-"36","Mississippi St.","430","1986","","D-I","-",NA,NA,NA,NA
-"37","Mississippi St.","430","1985","","D-I","-",NA,NA,NA,NA
-"38","Mississippi St.","430","1984","","D-I","-",NA,NA,NA,NA
-"39","Mississippi St.","430","1983","","D-I","-",NA,NA,NA,NA
-"40","Mississippi St.","430","","","","",949,705,0,0.574
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Samantha Ricketts","SEC","1-1-0",0.5
+"2","2024","Samantha Ricketts","SEC","34-20-0",0.63
+"3","2023","Samantha Ricketts","SEC","28-25-0",0.528
+"4","2022","Samantha Ricketts","SEC","37-27-0",0.578
+"5","2021","Samantha Ricketts","SEC","35-25-0",0.583
+"6","2020","Samantha Ricketts","SEC","25-3-0",0.893
+"7","2019","Vann Stuedeman","SEC","35-24-0",0.593
+"8","2018","Vann Stuedeman","SEC","37-23-0",0.617
+"9","2017","Vann Stuedeman","SEC","36-22-0",0.621
+"10","2016","Vann Stuedeman","SEC","26-31-0",0.456
+"11","2015","Vann Stuedeman","SEC","36-21-0",0.632
+"12","2014","Vann Stuedeman","SEC","39-21-0",0.65
+"13","2013","Vann Stuedeman","SEC","33-24-0",0.579
+"14","2012","Vann Stuedeman","SEC","33-24-0",0.579
+"15","2011","Jay Miller","SEC","24-32-0",0.429
+"16","2010","Jay Miller","SEC","26-29-0",0.473
+"17","2009","Jay Miller","SEC","28-28-0",0.5
+"18","2008","Jay Miller","SEC","41-22-0",0.651
+"19","2007","Jay Miller","SEC","35-27-0",0.565
+"20","2006","Jay Miller","SEC","33-28-0",0.541
+"21","2005","Jay Miller","SEC","35-31-0",0.53
+"22","2004","Jay Miller","SEC","39-26-0",0.6
+"23","2003","Jay Miller","SEC","34-30-0",0.531
+"24","2002","Kathy Arendsen","SEC","36-31-0",0.537
+"25","2001","Kathy Arendsen","SEC","36-26-0",0.581
+"26","1900","Kathy Arendsen","SEC","44-27-0",0.62
+"27","1999","Kathy Arendsen","SEC","38-29-0",0.567
+"28","1998","Kathy Arendsen","-","36-21-0",0.632
+"29","1997","Kathy Arendsen","SEC","29-27-0",0.518
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1986","","-","NA-NA-0",NA
+"37","1985","","-","NA-NA-0",NA
+"38","1984","","-","NA-NA-0",NA
+"39","1983","","-","NA-NA-0",NA

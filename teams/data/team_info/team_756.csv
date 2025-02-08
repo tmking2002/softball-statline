@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Washington","756","2025","Heather Tarr","D-I","Big Ten",1,1,0,0.5
-"2","Washington","756","2024","Heather Tarr","D-I","Pac-12",32,15,0,0.681
-"3","Washington","756","2023","Heather Tarr","D-I","Pac-12",44,15,0,0.746
-"4","Washington","756","2022","Heather Tarr","D-I","Pac-12",38,17,0,0.691
-"5","Washington","756","2021","Heather Tarr","D-I","Pac-12",45,14,0,0.763
-"6","Washington","756","2020","Heather Tarr","D-I","Pac-12",23,2,0,0.92
-"7","Washington","756","2019","Heather Tarr","D-I","Pac-12",52,10,0,0.839
-"8","Washington","756","2018","Heather Tarr","D-I","Pac-12",52,10,0,0.839
-"9","Washington","756","2017","Heather Tarr","D-I","Pac-12",50,14,0,0.781
-"10","Washington","756","2016","Heather Tarr","D-I","Pac-12",39,15,0,0.722
-"11","Washington","756","2015","Heather Tarr","D-I","Pac-12",42,17,0,0.712
-"12","Washington","756","2014","Heather Tarr","D-I","Pac-12",39,20,0,0.661
-"13","Washington","756","2013","Heather Tarr","D-I","Pac-12",45,17,0,0.726
-"14","Washington","756","2012","Heather Tarr","D-I","Pac-12",39,19,0,0.672
-"15","Washington","756","2011","Heather Tarr","D-I","Pac-12",37,16,0,0.698
-"16","Washington","756","2010","Heather Tarr","D-I","Pac-12",50,9,0,0.847
-"17","Washington","756","2009","Heather Tarr","D-I","Pac-12",51,12,0,0.81
-"18","Washington","756","2008","Heather Tarr","D-I","Pac-12",30,25,1,0.545
-"19","Washington","756","2007","Heather Tarr","D-I","Pac-12",42,19,0,0.689
-"20","Washington","756","2006","Heather Tarr","D-I","Pac-12",35,25,0,0.583
-"21","Washington","756","2005","Heather Tarr","D-I","Pac-12",35,22,0,0.614
-"22","Washington","756","2004","Scott Centala (-)Steve Dailey (-)","D-I","Pac-12",40,19,0,0.678
-"23","Washington","756","2003","Teresa Wilson","D-I","Pac-12",47,16,1,0.742
-"24","Washington","756","2002","Teresa Wilson","D-I","Pac-12",46,18,0,0.719
-"25","Washington","756","2001","Teresa Wilson","D-I","Pac-12",40,23,0,0.635
-"26","Washington","756","1900","Teresa Wilson","D-I","Pac-12",62,9,0,0.873
-"27","Washington","756","1999","Teresa Wilson","D-I","Pac-12",51,18,0,0.739
-"28","Washington","756","1998","Teresa Wilson","D-I","-",52,15,NA,0.776
-"29","Washington","756","1997","Teresa Wilson","D-I","Pac-12",50,19,0,0.725
-"30","Washington","756","1996","Teresa Wilson","D-I","-",59,9,NA,0.868
-"31","Washington","756","1995","Teresa Wilson","D-I","-",50,23,NA,0.685
-"32","Washington","756","1994","Teresa Wilson","D-I","-",44,21,NA,0.677
-"33","Washington","756","1993","Teresa Wilson","D-I","-",31,27,NA,0.534
-"34","Washington","756","1992","","D-I","-",NA,NA,NA,NA
-"35","Washington","756","1991","","D-I","-",NA,NA,NA,NA
-"36","Washington","756","1990","","D-I","-",NA,NA,NA,NA
-"37","Washington","756","","","","",1393,531,2,0.724
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Heather Tarr","Big Ten","1-1-0",0.5
+"2","2024","Heather Tarr","Pac-12","32-15-0",0.681
+"3","2023","Heather Tarr","Pac-12","44-15-0",0.746
+"4","2022","Heather Tarr","Pac-12","38-17-0",0.691
+"5","2021","Heather Tarr","Pac-12","45-14-0",0.763
+"6","2020","Heather Tarr","Pac-12","23-2-0",0.92
+"7","2019","Heather Tarr","Pac-12","52-10-0",0.839
+"8","2018","Heather Tarr","Pac-12","52-10-0",0.839
+"9","2017","Heather Tarr","Pac-12","50-14-0",0.781
+"10","2016","Heather Tarr","Pac-12","39-15-0",0.722
+"11","2015","Heather Tarr","Pac-12","42-17-0",0.712
+"12","2014","Heather Tarr","Pac-12","39-20-0",0.661
+"13","2013","Heather Tarr","Pac-12","45-17-0",0.726
+"14","2012","Heather Tarr","Pac-12","39-19-0",0.672
+"15","2011","Heather Tarr","Pac-12","37-16-0",0.698
+"16","2010","Heather Tarr","Pac-12","50-9-0",0.847
+"17","2009","Heather Tarr","Pac-12","51-12-0",0.81
+"18","2008","Heather Tarr","Pac-12","30-25-1",0.545
+"19","2007","Heather Tarr","Pac-12","42-19-0",0.689
+"20","2006","Heather Tarr","Pac-12","35-25-0",0.583
+"21","2005","Heather Tarr","Pac-12","35-22-0",0.614
+"22","2004","Scott Centala (-)Steve Dailey (-)","Pac-12","40-19-0",0.678
+"23","2003","Teresa Wilson","Pac-12","47-16-1",0.742
+"24","2002","Teresa Wilson","Pac-12","46-18-0",0.719
+"25","2001","Teresa Wilson","Pac-12","40-23-0",0.635
+"26","1900","Teresa Wilson","Pac-12","62-9-0",0.873
+"27","1999","Teresa Wilson","Pac-12","51-18-0",0.739
+"28","1998","Teresa Wilson","-","52-15-0",0.776
+"29","1997","Teresa Wilson","Pac-12","50-19-0",0.725
+"30","1996","Teresa Wilson","-","59-9-0",0.868
+"31","1995","Teresa Wilson","-","50-23-0",0.685
+"32","1994","Teresa Wilson","-","44-21-0",0.677
+"33","1993","Teresa Wilson","-","31-27-0",0.534
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

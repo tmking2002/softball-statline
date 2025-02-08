@@ -1,25 +1,24 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Northwestern-St. Paul","30031","2025","Alicia du'Monceaux","D-III","UMAC",0,0,0,0
-"2","Northwestern-St. Paul","30031","2024","Alicia du'Monceaux","D-III","UMAC",22,17,0,0.564
-"3","Northwestern-St. Paul","30031","2023","Alicia du'Monceaux","D-III","UMAC",22,12,0,0.647
-"4","Northwestern-St. Paul","30031","2022","Alicia du'Monceaux","D-III","UMAC",23,15,0,0.605
-"5","Northwestern-St. Paul","30031","2021","Alicia du'Monceaux","D-III","UMAC",17,23,0,0.425
-"6","Northwestern-St. Paul","30031","2020","Alicia du'Monceaux","D-III","UMAC",4,12,0,0.25
-"7","Northwestern-St. Paul","30031","2019","Alicia du'Monceaux","D-III","UMAC",27,17,0,0.614
-"8","Northwestern-St. Paul","30031","2018","Alicia du'Monceaux","D-III","UMAC",25,16,NA,0.61
-"9","Northwestern-St. Paul","30031","2017","Alicia du'Monceaux","D-III","UMAC",19,20,0,0.487
-"10","Northwestern-St. Paul","30031","2016","Alicia du'Monceaux","D-III","UMAC",20,22,0,0.476
-"11","Northwestern-St. Paul","30031","2015","Alicia du'Monceaux","D-III","UMAC",15,28,0,0.349
-"12","Northwestern-St. Paul","30031","2014","Alicia du'Monceaux","D-III","UMAC",15,23,0,0.395
-"13","Northwestern-St. Paul","30031","2013","Alicia du'Monceaux","D-III","UMAC",18,18,0,0.5
-"14","Northwestern-St. Paul","30031","2012","Alicia du'Monceaux","D-III","UMAC",19,24,0,0.442
-"15","Northwestern-St. Paul","30031","2011","Alicia du'Monceaux","D-III","UMAC",20,22,0,0.476
-"16","Northwestern-St. Paul","30031","2010","Alicia du'Monceaux","D-III","UMAC",22,19,0,0.537
-"17","Northwestern-St. Paul","30031","2009","Alicia du'Monceaux","D-III","UMAC",20,23,0,0.465
-"18","Northwestern-St. Paul","30031","2008","Tracy Cromer","D-III","-",28,11,0,0.718
-"19","Northwestern-St. Paul","30031","2007","Tracy Cromer","","-",16,22,1,0.423
-"20","Northwestern-St. Paul","30031","2006","Tracy Cromer","","-",14,27,0,0.341
-"21","Northwestern-St. Paul","30031","2005","Tracy Cromer","","-",NA,NA,NA,NA
-"22","Northwestern-St. Paul","30031","2004","Tracy Cromer","","-",NA,NA,NA,NA
-"23","Northwestern-St. Paul","30031","1981","","","-",NA,NA,NA,NA
-"24","Northwestern-St. Paul","30031","","","","",366,371,1,0.497
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Alicia du'Monceaux","UMAC","0-0-0",0
+"2","2024","Alicia du'Monceaux","UMAC","22-17-0",0.564
+"3","2023","Alicia du'Monceaux","UMAC","22-12-0",0.647
+"4","2022","Alicia du'Monceaux","UMAC","23-15-0",0.605
+"5","2021","Alicia du'Monceaux","UMAC","17-23-0",0.425
+"6","2020","Alicia du'Monceaux","UMAC","4-12-0",0.25
+"7","2019","Alicia du'Monceaux","UMAC","27-17-0",0.614
+"8","2018","Alicia du'Monceaux","UMAC","25-16-0",0.61
+"9","2017","Alicia du'Monceaux","UMAC","19-20-0",0.487
+"10","2016","Alicia du'Monceaux","UMAC","20-22-0",0.476
+"11","2015","Alicia du'Monceaux","UMAC","15-28-0",0.349
+"12","2014","Alicia du'Monceaux","UMAC","15-23-0",0.395
+"13","2013","Alicia du'Monceaux","UMAC","18-18-0",0.5
+"14","2012","Alicia du'Monceaux","UMAC","19-24-0",0.442
+"15","2011","Alicia du'Monceaux","UMAC","20-22-0",0.476
+"16","2010","Alicia du'Monceaux","UMAC","22-19-0",0.537
+"17","2009","Alicia du'Monceaux","UMAC","20-23-0",0.465
+"18","2008","Tracy Cromer","-","28-11-0",0.718
+"19","2007","Tracy Cromer","-","16-22-1",0.423
+"20","2006","Tracy Cromer","-","14-27-0",0.341
+"21","2005","Tracy Cromer","-","NA-NA-0",NA
+"22","2004","Tracy Cromer","-","NA-NA-0",NA
+"23","1981","","-","NA-NA-0",NA

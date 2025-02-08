@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Emmanuel (MA)","215","2025","Brenna Morrissey","D-III","Great Northeast",0,0,0,0
-"2","Emmanuel (MA)","215","2024","Brenna Morrissey","D-III","Great Northeast",21,16,0,0.568
-"3","Emmanuel (MA)","215","2023","Olivia Berry","D-III","Great Northeast",24,18,0,0.571
-"4","Emmanuel (MA)","215","2022","Olivia Berry","D-III","Great Northeast",26,12,0,0.684
-"5","Emmanuel (MA)","215","2021","Olivia Berry","D-III","Great Northeast",21,6,0,0.778
-"6","Emmanuel (MA)","215","2020","Olivia Berry","D-III","Great Northeast",4,6,0,0.4
-"7","Emmanuel (MA)","215","2019","Olivia Berry","D-III","Great Northeast",25,14,0,0.641
-"8","Emmanuel (MA)","215","2018","Olivia Berry","D-III","Great Northeast",25,18,NA,0.581
-"9","Emmanuel (MA)","215","2017","Kelsea Cheney","D-III","Great Northeast",15,20,0,0.429
-"10","Emmanuel (MA)","215","2016","Rob Spofford","D-III","Great Northeast",26,17,0,0.605
-"11","Emmanuel (MA)","215","2015","Rob Spofford","D-III","Great Northeast",20,17,0,0.541
-"12","Emmanuel (MA)","215","2014","Rob Spofford","D-III","Great Northeast",17,21,0,0.447
-"13","Emmanuel (MA)","215","2013","Rob Spofford","D-III","Great Northeast",14,26,0,0.35
-"14","Emmanuel (MA)","215","2012","Hannah Angel","D-III","Great Northeast",7,32,0,0.179
-"15","Emmanuel (MA)","215","2011","Michelle Morales","D-III","Great Northeast",12,23,0,0.343
-"16","Emmanuel (MA)","215","2010","Michelle Morales","D-III","Great Northeast",10,21,0,0.323
-"17","Emmanuel (MA)","215","2009","Michelle Morales","D-III","Great Northeast",11,23,0,0.324
-"18","Emmanuel (MA)","215","2008","Michelle Morales","D-III","Great Northeast",3,32,1,0.097
-"19","Emmanuel (MA)","215","2007","Carrie Rodman","D-III","Great Northeast",6,24,0,0.2
-"20","Emmanuel (MA)","215","2006","Carrie Rodman","D-III","Great Northeast",13,25,0,0.342
-"21","Emmanuel (MA)","215","2005","Al Aimola","D-III","Great Northeast",10,25,0,0.286
-"22","Emmanuel (MA)","215","2004","Virginia Cardozo","D-III","Great Northeast",16,19,0,0.457
-"23","Emmanuel (MA)","215","2003","George Rollins","D-III","Great Northeast",12,18,0,0.4
-"24","Emmanuel (MA)","215","2002","George Rollins","D-III","Great Northeast",14,21,1,0.403
-"25","Emmanuel (MA)","215","2001","George Rollins","D-III","-",11,21,NA,0.344
-"26","Emmanuel (MA)","215","1900","Wendy Rogers","D-III","-",7,26,NA,0.212
-"27","Emmanuel (MA)","215","1999","","D-III","-",NA,NA,NA,NA
-"28","Emmanuel (MA)","215","1998","Carolyn Carr","D-III","-",16,6,0,0.727
-"29","Emmanuel (MA)","215","1997","","D-III","-",NA,NA,NA,NA
-"30","Emmanuel (MA)","215","1996","","D-III","-",NA,NA,NA,NA
-"31","Emmanuel (MA)","215","1995","","D-III","-",NA,NA,NA,NA
-"32","Emmanuel (MA)","215","1994","","D-III","-",NA,NA,NA,NA
-"33","Emmanuel (MA)","215","1993","","","-",NA,NA,NA,NA
-"34","Emmanuel (MA)","215","1992","","","-",NA,NA,NA,NA
-"35","Emmanuel (MA)","215","1991","","","-",NA,NA,NA,NA
-"36","Emmanuel (MA)","215","1990","","","-",NA,NA,NA,NA
-"37","Emmanuel (MA)","215","1989","","","-",NA,NA,NA,NA
-"38","Emmanuel (MA)","215","1988","","","-",NA,NA,NA,NA
-"39","Emmanuel (MA)","215","1987","","","-",NA,NA,NA,NA
-"40","Emmanuel (MA)","215","1986","","","-",NA,NA,NA,NA
-"41","Emmanuel (MA)","215","1981","","","-",NA,NA,NA,NA
-"42","Emmanuel (MA)","215","","","","",386,507,2,0.432
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brenna Morrissey","Great Northeast","0-0-0",0
+"2","2024","Brenna Morrissey","Great Northeast","21-16-0",0.568
+"3","2023","Olivia Berry","Great Northeast","24-18-0",0.571
+"4","2022","Olivia Berry","Great Northeast","26-12-0",0.684
+"5","2021","Olivia Berry","Great Northeast","21-6-0",0.778
+"6","2020","Olivia Berry","Great Northeast","4-6-0",0.4
+"7","2019","Olivia Berry","Great Northeast","25-14-0",0.641
+"8","2018","Olivia Berry","Great Northeast","25-18-0",0.581
+"9","2017","Kelsea Cheney","Great Northeast","15-20-0",0.429
+"10","2016","Rob Spofford","Great Northeast","26-17-0",0.605
+"11","2015","Rob Spofford","Great Northeast","20-17-0",0.541
+"12","2014","Rob Spofford","Great Northeast","17-21-0",0.447
+"13","2013","Rob Spofford","Great Northeast","14-26-0",0.35
+"14","2012","Hannah Angel","Great Northeast","7-32-0",0.179
+"15","2011","Michelle Morales","Great Northeast","12-23-0",0.343
+"16","2010","Michelle Morales","Great Northeast","10-21-0",0.323
+"17","2009","Michelle Morales","Great Northeast","11-23-0",0.324
+"18","2008","Michelle Morales","Great Northeast","3-32-1",0.097
+"19","2007","Carrie Rodman","Great Northeast","6-24-0",0.2
+"20","2006","Carrie Rodman","Great Northeast","13-25-0",0.342
+"21","2005","Al Aimola","Great Northeast","10-25-0",0.286
+"22","2004","Virginia Cardozo","Great Northeast","16-19-0",0.457
+"23","2003","George Rollins","Great Northeast","12-18-0",0.4
+"24","2002","George Rollins","Great Northeast","14-21-1",0.403
+"25","2001","George Rollins","-","11-21-0",0.344
+"26","1900","Wendy Rogers","-","7-26-0",0.212
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Carolyn Carr","-","16-6-0",0.727
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1981","","-","NA-NA-0",NA

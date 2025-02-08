@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Holy Cross","285","2025","Jon Ladino","D-I","Patriot",0,0,0,0
-"2","Holy Cross","285","2024","Kimberly Stiles","D-I","Patriot",14,35,0,0.286
-"3","Holy Cross","285","2023","Kimberly Stiles","D-I","Patriot",15,36,1,0.298
-"4","Holy Cross","285","2022","Kimberly Stiles","D-I","Patriot",21,29,0,0.42
-"5","Holy Cross","285","2021","Jen Lapicki","D-I","Patriot",8,20,0,0.286
-"6","Holy Cross","285","2020","Jen Lapicki","D-I","Patriot",2,9,0,0.182
-"7","Holy Cross","285","2019","Jen Lapicki","D-I","Patriot",14,35,0,0.286
-"8","Holy Cross","285","2018","Jen Lapicki","D-I","Patriot",12,33,NA,0.267
-"9","Holy Cross","285","2017","Jen Lapicki","D-I","Patriot",13,30,0,0.302
-"10","Holy Cross","285","2016","Brian Claypool","D-I","Patriot",8,36,0,0.182
-"11","Holy Cross","285","2015","Brian Claypool","D-I","Patriot",11,17,0,0.393
-"12","Holy Cross","285","2014","Brian Claypool","D-I","Patriot",12,26,0,0.316
-"13","Holy Cross","285","2013","Brian Claypool","D-I","Patriot",13,31,0,0.295
-"14","Holy Cross","285","2012","Brian Claypool","D-I","Patriot",9,36,0,0.2
-"15","Holy Cross","285","2011","Brian Claypool","D-I","Patriot",18,31,0,0.367
-"16","Holy Cross","285","2010","Brian Claypool","D-I","Patriot",14,31,0,0.311
-"17","Holy Cross","285","2009","Brian Claypool","D-I","Patriot",13,34,0,0.277
-"18","Holy Cross","285","2008","Brian Claypool","D-I","Patriot",10,31,0,0.244
-"19","Holy Cross","285","2007","Peter Maneggia","D-I","Patriot",5,39,0,0.114
-"20","Holy Cross","285","2006","Peter Maneggia","D-I","Patriot",9,35,0,0.205
-"21","Holy Cross","285","2005","Peter Maneggia","D-I","Patriot",8,30,0,0.211
-"22","Holy Cross","285","2004","Bob Neville","D-I","Patriot",12,28,0,0.3
-"23","Holy Cross","285","2003","Bob Neville","D-I","Patriot",15,28,0,0.349
-"24","Holy Cross","285","2002","Bob Neville","D-I","Patriot",14,35,0,0.286
-"25","Holy Cross","285","2001","Bob Neville","D-I","Patriot",16,27,0,0.372
-"26","Holy Cross","285","1900","Bob Neville","D-I","Patriot",9,27,1,0.257
-"27","Holy Cross","285","1999","Bob Neville","D-I","Patriot",24,25,0,0.49
-"28","Holy Cross","285","1998","Bob Neville","D-I","-",31,19,1,0.618
-"29","Holy Cross","285","1997","Francis Dyson","D-I","Patriot",15,21,1,0.419
-"30","Holy Cross","285","1996","Francis Dyson","D-I","-",20,22,1,0.477
-"31","Holy Cross","285","1995","Francis Dyson","D-I","-",17,27,NA,0.386
-"32","Holy Cross","285","1994","Francis Dyson","D-I","-",4,32,NA,0.111
-"33","Holy Cross","285","1993","Francis Dyson","D-I","-",3,29,NA,0.094
-"34","Holy Cross","285","1992","Pete Royce","D-I","-",2,32,NA,0.059
-"35","Holy Cross","285","1991","Pete Royce","D-I","-",10,29,1,0.263
-"36","Holy Cross","285","1990","Laura McLain","D-I","-",13,15,NA,0.464
-"37","Holy Cross","285","1989","Laura McLain","D-I","-",16,18,NA,0.471
-"38","Holy Cross","285","1988","Laura McLain","D-I","-",7,27,NA,0.206
-"39","Holy Cross","285","1987","Laura McLain","D-I","-",10,17,NA,0.37
-"40","Holy Cross","285","1986","","D-I","-",NA,NA,NA,NA
-"41","Holy Cross","285","1985","","","-",NA,NA,NA,NA
-"42","Holy Cross","285","","","","",467,1062,6,0.306
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jon Ladino","Patriot","0-0-0",0
+"2","2024","Kimberly Stiles","Patriot","14-35-0",0.286
+"3","2023","Kimberly Stiles","Patriot","15-36-1",0.298
+"4","2022","Kimberly Stiles","Patriot","21-29-0",0.42
+"5","2021","Jen Lapicki","Patriot","8-20-0",0.286
+"6","2020","Jen Lapicki","Patriot","2-9-0",0.182
+"7","2019","Jen Lapicki","Patriot","14-35-0",0.286
+"8","2018","Jen Lapicki","Patriot","12-33-0",0.267
+"9","2017","Jen Lapicki","Patriot","13-30-0",0.302
+"10","2016","Brian Claypool","Patriot","8-36-0",0.182
+"11","2015","Brian Claypool","Patriot","11-17-0",0.393
+"12","2014","Brian Claypool","Patriot","12-26-0",0.316
+"13","2013","Brian Claypool","Patriot","13-31-0",0.295
+"14","2012","Brian Claypool","Patriot","9-36-0",0.2
+"15","2011","Brian Claypool","Patriot","18-31-0",0.367
+"16","2010","Brian Claypool","Patriot","14-31-0",0.311
+"17","2009","Brian Claypool","Patriot","13-34-0",0.277
+"18","2008","Brian Claypool","Patriot","10-31-0",0.244
+"19","2007","Peter Maneggia","Patriot","5-39-0",0.114
+"20","2006","Peter Maneggia","Patriot","9-35-0",0.205
+"21","2005","Peter Maneggia","Patriot","8-30-0",0.211
+"22","2004","Bob Neville","Patriot","12-28-0",0.3
+"23","2003","Bob Neville","Patriot","15-28-0",0.349
+"24","2002","Bob Neville","Patriot","14-35-0",0.286
+"25","2001","Bob Neville","Patriot","16-27-0",0.372
+"26","1900","Bob Neville","Patriot","9-27-1",0.257
+"27","1999","Bob Neville","Patriot","24-25-0",0.49
+"28","1998","Bob Neville","-","31-19-1",0.618
+"29","1997","Francis Dyson","Patriot","15-21-1",0.419
+"30","1996","Francis Dyson","-","20-22-1",0.477
+"31","1995","Francis Dyson","-","17-27-0",0.386
+"32","1994","Francis Dyson","-","4-32-0",0.111
+"33","1993","Francis Dyson","-","3-29-0",0.094
+"34","1992","Pete Royce","-","2-32-0",0.059
+"35","1991","Pete Royce","-","10-29-1",0.263
+"36","1990","Laura McLain","-","13-15-0",0.464
+"37","1989","Laura McLain","-","16-18-0",0.471
+"38","1988","Laura McLain","-","7-27-0",0.206
+"39","1987","Laura McLain","-","10-17-0",0.37
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

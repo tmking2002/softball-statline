@@ -1,10 +1,9 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","SUNY Delhi","30225","2025","Meagan Stone","D-III","North Atlantic",0,0,0,0
-"2","SUNY Delhi","30225","2024","Meagan Stone","D-III","North Atlantic",10,27,0,0.27
-"3","SUNY Delhi","30225","2023","Meagan Stone","D-III","North Atlantic",5,31,0,0.139
-"4","SUNY Delhi","30225","2022","Meagan Stone","D-III","North Atlantic",7,18,0,0.28
-"5","SUNY Delhi","30225","2021","Meagan Stone","D-III","North Atlantic",12,8,0,0.6
-"6","SUNY Delhi","30225","2020","Meagan Stone","","ACAA",3,7,0,0.3
-"7","SUNY Delhi","30225","2019","Meagan Stone","","ACAA",11,15,0,0.423
-"8","SUNY Delhi","30225","2018","","","-",NA,NA,NA,0
-"9","SUNY Delhi","30225","","","","",48,106,0,0.312
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Meagan Stone","North Atlantic","0-0-0",0
+"2","2024","Meagan Stone","North Atlantic","10-27-0",0.27
+"3","2023","Meagan Stone","North Atlantic","5-31-0",0.139
+"4","2022","Meagan Stone","North Atlantic","7-18-0",0.28
+"5","2021","Meagan Stone","North Atlantic","12-8-0",0.6
+"6","2020","Meagan Stone","ACAA","3-7-0",0.3
+"7","2019","Meagan Stone","ACAA","11-15-0",0.423
+"8","2018","","-","NA-NA-0",0

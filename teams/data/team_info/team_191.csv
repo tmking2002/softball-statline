@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Drexel","191","2025","Katie Jansson","D-I","CAA",0,3,0,0
-"2","Drexel","191","2024","Katie Jansson","D-I","CAA",15,30,0,0.333
-"3","Drexel","191","2023","Katie Jansson","D-I","CAA",12,37,0,0.245
-"4","Drexel","191","2022","Katie Jansson","D-I","CAA",24,23,0,0.511
-"5","Drexel","191","2021","Carl Taylor","D-I","CAA",29,12,0,0.707
-"6","Drexel","191","2020","Carl Taylor","D-I","CAA",4,6,0,0.4
-"7","Drexel","191","2019","Carl Taylor","D-I","CAA",32,27,1,0.542
-"8","Drexel","191","2018","Carl Taylor","D-I","CAA",21,29,2,0.423
-"9","Drexel","191","2017","Carl Taylor","D-I","CAA",19,30,0,0.388
-"10","Drexel","191","2016","Carl Taylor","D-I","CAA",20,35,0,0.364
-"11","Drexel","191","2015","Carl Taylor","D-I","CAA",19,23,0,0.452
-"12","Drexel","191","2014","Miranda Ervin","D-I","CAA",17,27,0,0.386
-"13","Drexel","191","2013","Miranda Ervin","D-I","CAA",14,36,0,0.28
-"14","Drexel","191","2012","Kim Camara-Harvey","D-I","CAA",22,27,1,0.45
-"15","Drexel","191","2011","Kim Camara-Harvey","D-I","CAA",15,28,0,0.349
-"16","Drexel","191","2010","Kim Camara-Harvey","D-I","CAA",20,24,0,0.455
-"17","Drexel","191","2009","Kim Camara-Harvey","D-I","CAA",24,21,0,0.533
-"18","Drexel","191","2008","Kim Camara-Harvey","D-I","CAA",27,20,0,0.574
-"19","Drexel","191","2007","Kim Camara-Harvey","D-I","CAA",18,20,0,0.474
-"20","Drexel","191","2006","Terry DeTuro","D-I","CAA",19,29,0,0.396
-"21","Drexel","191","2005","Terry DeTuro","D-I","CAA",19,22,0,0.463
-"22","Drexel","191","2004","Terry DeTuro","D-I","CAA",15,35,2,0.308
-"23","Drexel","191","2003","Terry DeTuro","D-I","CAA",11,32,0,0.256
-"24","Drexel","191","2002","Renee Clarke","D-I","CAA",10,38,0,0.208
-"25","Drexel","191","2001","Renee Clarke","D-I","America East",33,26,1,0.558
-"26","Drexel","191","1900","Renee Clarke","D-I","America East",17,27,0,0.386
-"27","Drexel","191","1999","Ray Perri","D-I","America East",30,21,0,0.588
-"28","Drexel","191","1998","Patty O'Neill","D-I","-",18,26,NA,0.409
-"29","Drexel","191","1997","Patty O'Neill","D-I","America East",21,30,0,0.412
-"30","Drexel","191","1996","Patty O'Neill","D-I","-",19,28,NA,0.404
-"31","Drexel","191","1995","Patty O'Neill","D-I","-",18,32,1,0.363
-"32","Drexel","191","1994","Patty O'Neill","D-I","-",14,29,NA,0.326
-"33","Drexel","191","1993","Joyce Maudie","D-I","-",21,29,NA,0.42
-"34","Drexel","191","1992","Joyce Maudie","D-I","-",34,21,NA,0.618
-"35","Drexel","191","1991","Carol Kashow","D-I","-",35,15,NA,0.7
-"36","Drexel","191","1990","Carol Kashow","D-I","-",31,16,NA,0.66
-"37","Drexel","191","1989","Carol Kashow","D-I","-",28,18,NA,0.609
-"38","Drexel","191","1988","Carol Kashow","D-I","-",21,21,NA,0.5
-"39","Drexel","191","1987","Carol Kashow","D-I","-",12,21,NA,0.364
-"40","Drexel","191","1986","Carol Kashow","D-I","-",17,15,1,0.53
-"41","Drexel","191","1985","Carol Kashow","D-I","-",9,18,1,0.339
-"42","Drexel","191","1984","Carol Kashow","D-I","-",12,18,NA,0.4
-"43","Drexel","191","1983","Carol Kashow","D-I","-",2,13,NA,0.133
-"44","Drexel","191","1982","Carol Kashow","D-II","-",0,13,NA,0
-"45","Drexel","191","1981","Carol Kashow","D-II","-",3,6,NA,0.333
-"46","Drexel","191","","","","",821,1057,10,0.438
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Katie Jansson","CAA","0-3-0",0
+"2","2024","Katie Jansson","CAA","15-30-0",0.333
+"3","2023","Katie Jansson","CAA","12-37-0",0.245
+"4","2022","Katie Jansson","CAA","24-23-0",0.511
+"5","2021","Carl Taylor","CAA","29-12-0",0.707
+"6","2020","Carl Taylor","CAA","4-6-0",0.4
+"7","2019","Carl Taylor","CAA","32-27-1",0.542
+"8","2018","Carl Taylor","CAA","21-29-2",0.423
+"9","2017","Carl Taylor","CAA","19-30-0",0.388
+"10","2016","Carl Taylor","CAA","20-35-0",0.364
+"11","2015","Carl Taylor","CAA","19-23-0",0.452
+"12","2014","Miranda Ervin","CAA","17-27-0",0.386
+"13","2013","Miranda Ervin","CAA","14-36-0",0.28
+"14","2012","Kim Camara-Harvey","CAA","22-27-1",0.45
+"15","2011","Kim Camara-Harvey","CAA","15-28-0",0.349
+"16","2010","Kim Camara-Harvey","CAA","20-24-0",0.455
+"17","2009","Kim Camara-Harvey","CAA","24-21-0",0.533
+"18","2008","Kim Camara-Harvey","CAA","27-20-0",0.574
+"19","2007","Kim Camara-Harvey","CAA","18-20-0",0.474
+"20","2006","Terry DeTuro","CAA","19-29-0",0.396
+"21","2005","Terry DeTuro","CAA","19-22-0",0.463
+"22","2004","Terry DeTuro","CAA","15-35-2",0.308
+"23","2003","Terry DeTuro","CAA","11-32-0",0.256
+"24","2002","Renee Clarke","CAA","10-38-0",0.208
+"25","2001","Renee Clarke","America East","33-26-1",0.558
+"26","1900","Renee Clarke","America East","17-27-0",0.386
+"27","1999","Ray Perri","America East","30-21-0",0.588
+"28","1998","Patty O'Neill","-","18-26-0",0.409
+"29","1997","Patty O'Neill","America East","21-30-0",0.412
+"30","1996","Patty O'Neill","-","19-28-0",0.404
+"31","1995","Patty O'Neill","-","18-32-1",0.363
+"32","1994","Patty O'Neill","-","14-29-0",0.326
+"33","1993","Joyce Maudie","-","21-29-0",0.42
+"34","1992","Joyce Maudie","-","34-21-0",0.618
+"35","1991","Carol Kashow","-","35-15-0",0.7
+"36","1990","Carol Kashow","-","31-16-0",0.66
+"37","1989","Carol Kashow","-","28-18-0",0.609
+"38","1988","Carol Kashow","-","21-21-0",0.5
+"39","1987","Carol Kashow","-","12-21-0",0.364
+"40","1986","Carol Kashow","-","17-15-1",0.53
+"41","1985","Carol Kashow","-","9-18-1",0.339
+"42","1984","Carol Kashow","-","12-18-0",0.4
+"43","1983","Carol Kashow","-","2-13-0",0.133
+"44","1982","Carol Kashow","-","0-13-0",0
+"45","1981","Carol Kashow","-","3-6-0",0.333

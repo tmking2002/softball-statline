@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","VTSU Castleton","123","2025","Eric Kraut","D-III","Little East",0,0,0,0
-"2","VTSU Castleton","123","2024","Eric Ramey","D-III","Little East",18,18,0,0.5
-"3","VTSU Castleton","123","2023","Eric Ramey","D-III","Little East",20,16,0,0.556
-"4","VTSU Castleton","123","2022","Eric Ramey","D-III","Little East",19,16,0,0.543
-"5","VTSU Castleton","123","2021","Eric Ramey","D-III","Little East",15,14,0,0.517
-"6","VTSU Castleton","123","2020","Eric Ramey","D-III","Little East",5,1,0,0.833
-"7","VTSU Castleton","123","2019","Eric Ramey","D-III","Little East",15,17,0,0.469
-"8","VTSU Castleton","123","2018","Eric Ramey","D-III","North Atlantic",11,17,NA,0.393
-"9","VTSU Castleton","123","2017","Eric Ramey","D-III","North Atlantic",20,10,1,0.661
-"10","VTSU Castleton","123","2016","Eric Ramey","D-III","North Atlantic",21,13,0,0.618
-"11","VTSU Castleton","123","2015","Eric Ramey","D-III","North Atlantic",17,11,0,0.607
-"12","VTSU Castleton","123","2014","Chris Chapdelaine","D-III","North Atlantic",16,16,0,0.5
-"13","VTSU Castleton","123","2013","Chris Chapdelaine","D-III","North Atlantic",18,21,0,0.462
-"14","VTSU Castleton","123","2012","Chris Chapdelaine","D-III","North Atlantic",22,16,0,0.579
-"15","VTSU Castleton","123","2011","John Werner","D-III","North Atlantic",16,19,0,0.457
-"16","VTSU Castleton","123","2010","John Werner","D-III","North Atlantic",16,20,0,0.444
-"17","VTSU Castleton","123","2009","John Werner","D-III","North Atlantic",14,19,0,0.424
-"18","VTSU Castleton","123","2008","Meaghan Brown","D-III","North Atlantic",12,23,0,0.343
-"19","VTSU Castleton","123","2007","Meaghan Brown","D-III","North Atlantic",16,9,0,0.64
-"20","VTSU Castleton","123","2006","Meaghan Brown","D-III","North Atlantic",17,17,0,0.5
-"21","VTSU Castleton","123","2005","Eric Ramey","D-III","North Atlantic",22,9,0,0.71
-"22","VTSU Castleton","123","2004","Eric Ramey","D-III","North Atlantic",17,17,1,0.5
-"23","VTSU Castleton","123","2003","James Tyson","D-III","-",15,9,0,0.625
-"24","VTSU Castleton","123","2002","James Tyson","D-III","-",10,8,0,0.556
-"25","VTSU Castleton","123","2001","Nancy Sheldon-Herrick","D-III","-",7,10,NA,0.412
-"26","VTSU Castleton","123","1900","Nancy Sheldon-Herrick","D-III","-",NA,NA,NA,NA
-"27","VTSU Castleton","123","1999","Nancy Sheldon-Herrick","D-III","-",11,10,NA,0.524
-"28","VTSU Castleton","123","1998","Deborah Raber","D-III","-",12,10,NA,0.545
-"29","VTSU Castleton","123","1997","","D-III","-",NA,NA,NA,NA
-"30","VTSU Castleton","123","1996","","D-III","-",NA,NA,NA,NA
-"31","VTSU Castleton","123","1995","Natalie Hamilton","D-III","-",14,16,NA,0.467
-"32","VTSU Castleton","123","1994","Natalie Hamilton","D-III","-",8,8,NA,0.5
-"33","VTSU Castleton","123","1993","Natalie Hamilton","D-III","-",10,12,NA,0.455
-"34","VTSU Castleton","123","1992","Natalie Hamilton","D-III","-",14,11,NA,0.56
-"35","VTSU Castleton","123","1991","Natalie Hamilton","D-III","-",15,14,NA,0.517
-"36","VTSU Castleton","123","1990","Natalie Hamilton","D-III","-",9,15,NA,0.375
-"37","VTSU Castleton","123","1989","Natalie Hamilton","D-III","-",17,7,NA,0.708
-"38","VTSU Castleton","123","1988","","D-III","-",NA,NA,NA,NA
-"39","VTSU Castleton","123","1987","","","-",NA,NA,NA,NA
-"40","VTSU Castleton","123","1986","","","-",NA,NA,NA,NA
-"41","VTSU Castleton","123","1985","","","-",NA,NA,NA,NA
-"42","VTSU Castleton","123","1984","","","-",NA,NA,NA,NA
-"43","VTSU Castleton","123","","","","",489,449,2,0.521
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Eric Kraut","Little East","0-0-0",0
+"2","2024","Eric Ramey","Little East","18-18-0",0.5
+"3","2023","Eric Ramey","Little East","20-16-0",0.556
+"4","2022","Eric Ramey","Little East","19-16-0",0.543
+"5","2021","Eric Ramey","Little East","15-14-0",0.517
+"6","2020","Eric Ramey","Little East","5-1-0",0.833
+"7","2019","Eric Ramey","Little East","15-17-0",0.469
+"8","2018","Eric Ramey","North Atlantic","11-17-0",0.393
+"9","2017","Eric Ramey","North Atlantic","20-10-1",0.661
+"10","2016","Eric Ramey","North Atlantic","21-13-0",0.618
+"11","2015","Eric Ramey","North Atlantic","17-11-0",0.607
+"12","2014","Chris Chapdelaine","North Atlantic","16-16-0",0.5
+"13","2013","Chris Chapdelaine","North Atlantic","18-21-0",0.462
+"14","2012","Chris Chapdelaine","North Atlantic","22-16-0",0.579
+"15","2011","John Werner","North Atlantic","16-19-0",0.457
+"16","2010","John Werner","North Atlantic","16-20-0",0.444
+"17","2009","John Werner","North Atlantic","14-19-0",0.424
+"18","2008","Meaghan Brown","North Atlantic","12-23-0",0.343
+"19","2007","Meaghan Brown","North Atlantic","16-9-0",0.64
+"20","2006","Meaghan Brown","North Atlantic","17-17-0",0.5
+"21","2005","Eric Ramey","North Atlantic","22-9-0",0.71
+"22","2004","Eric Ramey","North Atlantic","17-17-1",0.5
+"23","2003","James Tyson","-","15-9-0",0.625
+"24","2002","James Tyson","-","10-8-0",0.556
+"25","2001","Nancy Sheldon-Herrick","-","7-10-0",0.412
+"26","1900","Nancy Sheldon-Herrick","-","NA-NA-0",NA
+"27","1999","Nancy Sheldon-Herrick","-","11-10-0",0.524
+"28","1998","Deborah Raber","-","12-10-0",0.545
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","Natalie Hamilton","-","14-16-0",0.467
+"32","1994","Natalie Hamilton","-","8-8-0",0.5
+"33","1993","Natalie Hamilton","-","10-12-0",0.455
+"34","1992","Natalie Hamilton","-","14-11-0",0.56
+"35","1991","Natalie Hamilton","-","15-14-0",0.517
+"36","1990","Natalie Hamilton","-","9-15-0",0.375
+"37","1989","Natalie Hamilton","-","17-7-0",0.708
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA

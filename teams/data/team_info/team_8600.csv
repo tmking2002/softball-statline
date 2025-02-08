@@ -1,25 +1,24 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Notre Dame (MD)","8600","2025","Samantha Kastner","D-III","United East",0,0,0,0
-"2","Notre Dame (MD)","8600","2024","Samantha Kastner","D-III","United East",20,18,0,0.526
-"3","Notre Dame (MD)","8600","2023","Samantha Kastner","D-III","CSAC",14,17,0,0.452
-"4","Notre Dame (MD)","8600","2022","Cheri Johns","D-III","CSAC",10,14,0,0.417
-"5","Notre Dame (MD)","8600","2021","Cheri Johns","D-III","CSAC",2,16,0,0.111
-"6","Notre Dame (MD)","8600","2020","Cheri Johns","D-III","CSAC",NA,NA,NA,0
-"7","Notre Dame (MD)","8600","2019","Cheri Johns","D-III","CSAC",10,16,0,0.385
-"8","Notre Dame (MD)","8600","2018","Cheri Johns","D-III","CSAC",2,26,NA,0.071
-"9","Notre Dame (MD)","8600","2017","Cheri Johns","D-III","CSAC",5,24,1,0.183
-"10","Notre Dame (MD)","8600","2016","Cheri Johns","D-III","CSAC",7,23,0,0.233
-"11","Notre Dame (MD)","8600","2015","Cheri Johns","D-III","CSAC",5,23,0,0.179
-"12","Notre Dame (MD)","8600","2014","Delaney Willard","D-III","CSAC",10,16,0,0.385
-"13","Notre Dame (MD)","8600","2013","Larry Alvis","D-III","CSAC",8,26,0,0.235
-"14","Notre Dame (MD)","8600","2012","Larry Alvis","D-III","CSAC",3,23,0,0.115
-"15","Notre Dame (MD)","8600","2011","Wayne Smith","D-III","CSAC",5,23,0,0.179
-"16","Notre Dame (MD)","8600","2010","Wayne Smith","D-III","CSAC",7,22,0,0.241
-"17","Notre Dame (MD)","8600","2009","Melissa Thompson","D-III","CSAC",1,23,0,0.042
-"18","Notre Dame (MD)","8600","2008","Melissa Thompson","D-III","-",0,0,0,NA
-"19","Notre Dame (MD)","8600","2007","","","-",NA,NA,NA,NA
-"20","Notre Dame (MD)","8600","2002","","","-",NA,NA,NA,NA
-"21","Notre Dame (MD)","8600","1992","","D-II","-",NA,NA,NA,NA
-"22","Notre Dame (MD)","8600","1991","","D-II","-",NA,NA,NA,NA
-"23","Notre Dame (MD)","8600","1986","","","-",NA,NA,NA,NA
-"24","Notre Dame (MD)","8600","","","","",109,310,1,0.261
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Samantha Kastner","United East","0-0-0",0
+"2","2024","Samantha Kastner","United East","20-18-0",0.526
+"3","2023","Samantha Kastner","CSAC","14-17-0",0.452
+"4","2022","Cheri Johns","CSAC","10-14-0",0.417
+"5","2021","Cheri Johns","CSAC","2-16-0",0.111
+"6","2020","Cheri Johns","CSAC","NA-NA-0",0
+"7","2019","Cheri Johns","CSAC","10-16-0",0.385
+"8","2018","Cheri Johns","CSAC","2-26-0",0.071
+"9","2017","Cheri Johns","CSAC","5-24-1",0.183
+"10","2016","Cheri Johns","CSAC","7-23-0",0.233
+"11","2015","Cheri Johns","CSAC","5-23-0",0.179
+"12","2014","Delaney Willard","CSAC","10-16-0",0.385
+"13","2013","Larry Alvis","CSAC","8-26-0",0.235
+"14","2012","Larry Alvis","CSAC","3-23-0",0.115
+"15","2011","Wayne Smith","CSAC","5-23-0",0.179
+"16","2010","Wayne Smith","CSAC","7-22-0",0.241
+"17","2009","Melissa Thompson","CSAC","1-23-0",0.042
+"18","2008","Melissa Thompson","-","0-0-0",NA
+"19","2007","","-","NA-NA-0",NA
+"20","2002","","-","NA-NA-0",NA
+"21","1992","","-","NA-NA-0",NA
+"22","1991","","-","NA-NA-0",NA
+"23","1986","","-","NA-NA-0",NA

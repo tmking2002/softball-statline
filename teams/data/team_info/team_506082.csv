@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Science & Arts Okla.","506082","2022",NA,NA,"-",NA,NA,NA,0
-"2","Science & Arts Okla.","506082","2021",NA,NA,"-",NA,NA,NA,0
-"3","Science & Arts Okla.","506082","2017",NA,NA,"-",NA,NA,NA,NA
-"4","Science & Arts Okla.","506082","2016",NA,NA,"-",NA,NA,NA,NA
-"5","Science & Arts Okla.","506082","2015",NA,NA,"-",NA,NA,NA,NA
-"6","Science & Arts Okla.","506082","2014",NA,NA,"-",NA,NA,NA,NA
-"7","Science & Arts Okla.","506082","2013",NA,NA,"-",NA,NA,NA,NA
-"8","Science & Arts Okla.","506082","2012",NA,NA,"-",NA,NA,NA,NA
-"9","Science & Arts Okla.","506082","2011",NA,NA,"-",NA,NA,NA,NA
-"10","Science & Arts Okla.","506082","2008",NA,NA,"-",NA,NA,NA,NA
-"11","Science & Arts Okla.","506082","2007",NA,NA,"-",NA,NA,NA,NA
-"12","Science & Arts Okla.","506082","2006",NA,NA,"-",NA,NA,NA,NA
-"13","Science & Arts Okla.","506082","2005",NA,NA,"-",NA,NA,NA,NA
-"14","Science & Arts Okla.","506082","2004",NA,NA,"-",NA,NA,NA,NA
-"15","Science & Arts Okla.","506082","2003",NA,NA,"-",NA,NA,NA,NA
-"16","Science & Arts Okla.","506082","2002",NA,NA,"-",NA,NA,NA,NA
-"17","Science & Arts Okla.","506082","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2022",NA,"-","NA-NA-0",0
+"2","2021",NA,"-","NA-NA-0",0
+"3","2017",NA,"-","NA-NA-0",NA
+"4","2016",NA,"-","NA-NA-0",NA
+"5","2015",NA,"-","NA-NA-0",NA
+"6","2014",NA,"-","NA-NA-0",NA
+"7","2013",NA,"-","NA-NA-0",NA
+"8","2012",NA,"-","NA-NA-0",NA
+"9","2011",NA,"-","NA-NA-0",NA
+"10","2008",NA,"-","NA-NA-0",NA
+"11","2007",NA,"-","NA-NA-0",NA
+"12","2006",NA,"-","NA-NA-0",NA
+"13","2005",NA,"-","NA-NA-0",NA
+"14","2004",NA,"-","NA-NA-0",NA
+"15","2003",NA,"-","NA-NA-0",NA
+"16","2002",NA,"-","NA-NA-0",NA

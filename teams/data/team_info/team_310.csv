@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Iona","310","2025","Carla Campagna","D-I","MAAC",0,0,0,0
-"2","Iona","310","2024","Alyssa Tiumalu","D-I","MAAC",18,29,0,0.383
-"3","Iona","310","2023","Alyssa Tiumalu","D-I","MAAC",21,31,1,0.406
-"4","Iona","310","2022","Alyssa Tiumalu","D-I","MAAC",23,26,0,0.469
-"5","Iona","310","2021","Katie Jansson","D-I","MAAC",22,12,0,0.647
-"6","Iona","310","2020","Katie Jansson","D-I","MAAC",2,6,0,0.25
-"7","Iona","310","2019","Katie Jansson","D-I","MAAC",19,27,0,0.413
-"8","Iona","310","2018","Melissa Inouye","D-I","MAAC",19,27,NA,0.413
-"9","Iona","310","2017","Melissa Inouye","D-I","MAAC",27,24,0,0.529
-"10","Iona","310","2016","Melissa Inouye","D-I","MAAC",13,33,0,0.283
-"11","Iona","310","2015","Melissa Inouye","D-I","MAAC",16,28,0,0.364
-"12","Iona","310","2014","Melissa Inouye","D-I","MAAC",24,24,0,0.5
-"13","Iona","310","2013","Melissa Inouye","D-I","MAAC",13,37,0,0.26
-"14","Iona","310","2012","Roni Rivera","D-I","MAAC",35,26,0,0.574
-"15","Iona","310","2011","Roni Rivera","D-I","MAAC",31,22,0,0.585
-"16","Iona","310","2010","Jaime Wohlbach","D-I","MAAC",28,26,0,0.519
-"17","Iona","310","2009","Jaime Wohlbach","D-I","MAAC",13,27,0,0.325
-"18","Iona","310","2008","Jaime Wohlbach","D-I","MAAC",13,32,0,0.289
-"19","Iona","310","2007","Andrea Farquhar","D-I","MAAC",14,23,0,0.378
-"20","Iona","310","2006","Andrea Farquhar","D-I","MAAC",11,31,0,0.262
-"21","Iona","310","2005","Andrea Farquhar","D-I","MAAC",32,14,0,0.696
-"22","Iona","310","2004","Andrea Farquhar","D-I","MAAC",26,20,1,0.564
-"23","Iona","310","2003","Andrea Farquhar","D-I","MAAC",14,25,0,0.359
-"24","Iona","310","2002","Andrea Farquhar","D-I","MAAC",21,24,0,0.467
-"25","Iona","310","2001","Andrea Farquhar","D-I","MAAC",15,32,0,0.319
-"26","Iona","310","1900","Andrea Farquhar","D-I","MAAC",13,26,0,0.333
-"27","Iona","310","1999","Dante Fedeli","D-I","MAAC",7,45,0,0.135
-"28","Iona","310","1998","Dante Fedeli","D-I","-",13,30,2,0.311
-"29","Iona","310","1997","Dante Fedeli","D-I","MAAC",17,14,1,0.547
-"30","Iona","310","1996","Linda Sagnelli","D-I","-",11,19,NA,0.367
-"31","Iona","310","1995","Linda Sagnelli","D-I","-",20,18,NA,0.526
-"32","Iona","310","1994","Linda Sagnelli","D-I","-",13,18,1,0.422
-"33","Iona","310","1993","Linda Sagnelli","D-I","-",18,11,1,0.617
-"34","Iona","310","1992","Linda Sagnelli","D-I","-",21,14,NA,0.6
-"35","Iona","310","1991","Linda Sagnelli","D-I","-",12,17,NA,0.414
-"36","Iona","310","1990","Linda Sagnelli","D-I","-",6,24,NA,0.2
-"37","Iona","310","1989","Linda Sagnelli","D-I","-",2,28,NA,0.067
-"38","Iona","310","1988","Linda Sagnelli","D-I","-",7,26,NA,0.212
-"39","Iona","310","1987","","D-I","-",NA,NA,NA,NA
-"40","Iona","310","1985","","D-II","-",NA,NA,NA,NA
-"41","Iona","310","1984","","D-II","-",NA,NA,NA,NA
-"42","Iona","310","1983","","D-I","-",NA,NA,NA,NA
-"43","Iona","310","1982","","D-I","-",NA,NA,NA,NA
-"44","Iona","310","","","","",630,896,7,0.413
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Carla Campagna","MAAC","0-0-0",0
+"2","2024","Alyssa Tiumalu","MAAC","18-29-0",0.383
+"3","2023","Alyssa Tiumalu","MAAC","21-31-1",0.406
+"4","2022","Alyssa Tiumalu","MAAC","23-26-0",0.469
+"5","2021","Katie Jansson","MAAC","22-12-0",0.647
+"6","2020","Katie Jansson","MAAC","2-6-0",0.25
+"7","2019","Katie Jansson","MAAC","19-27-0",0.413
+"8","2018","Melissa Inouye","MAAC","19-27-0",0.413
+"9","2017","Melissa Inouye","MAAC","27-24-0",0.529
+"10","2016","Melissa Inouye","MAAC","13-33-0",0.283
+"11","2015","Melissa Inouye","MAAC","16-28-0",0.364
+"12","2014","Melissa Inouye","MAAC","24-24-0",0.5
+"13","2013","Melissa Inouye","MAAC","13-37-0",0.26
+"14","2012","Roni Rivera","MAAC","35-26-0",0.574
+"15","2011","Roni Rivera","MAAC","31-22-0",0.585
+"16","2010","Jaime Wohlbach","MAAC","28-26-0",0.519
+"17","2009","Jaime Wohlbach","MAAC","13-27-0",0.325
+"18","2008","Jaime Wohlbach","MAAC","13-32-0",0.289
+"19","2007","Andrea Farquhar","MAAC","14-23-0",0.378
+"20","2006","Andrea Farquhar","MAAC","11-31-0",0.262
+"21","2005","Andrea Farquhar","MAAC","32-14-0",0.696
+"22","2004","Andrea Farquhar","MAAC","26-20-1",0.564
+"23","2003","Andrea Farquhar","MAAC","14-25-0",0.359
+"24","2002","Andrea Farquhar","MAAC","21-24-0",0.467
+"25","2001","Andrea Farquhar","MAAC","15-32-0",0.319
+"26","1900","Andrea Farquhar","MAAC","13-26-0",0.333
+"27","1999","Dante Fedeli","MAAC","7-45-0",0.135
+"28","1998","Dante Fedeli","-","13-30-2",0.311
+"29","1997","Dante Fedeli","MAAC","17-14-1",0.547
+"30","1996","Linda Sagnelli","-","11-19-0",0.367
+"31","1995","Linda Sagnelli","-","20-18-0",0.526
+"32","1994","Linda Sagnelli","-","13-18-1",0.422
+"33","1993","Linda Sagnelli","-","18-11-1",0.617
+"34","1992","Linda Sagnelli","-","21-14-0",0.6
+"35","1991","Linda Sagnelli","-","12-17-0",0.414
+"36","1990","Linda Sagnelli","-","6-24-0",0.2
+"37","1989","Linda Sagnelli","-","2-28-0",0.067
+"38","1988","Linda Sagnelli","-","7-26-0",0.212
+"39","1987","","-","NA-NA-0",NA
+"40","1985","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

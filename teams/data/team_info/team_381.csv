@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Manhattan","381","2025","Bridget Hurlman","D-I","MAAC",0,0,0,0
-"2","Manhattan","381","2024","Bridget Hurlman","D-I","MAAC",13,37,0,0.26
-"3","Manhattan","381","2023","Cat Clifford","D-I","MAAC",13,35,0,0.271
-"4","Manhattan","381","2022","Cat Clifford","D-I","MAAC",13,32,0,0.289
-"5","Manhattan","381","2021","Tom Pardalis","D-I","MAAC",22,16,0,0.579
-"6","Manhattan","381","2020","Tom Pardalis","D-I","MAAC",6,6,0,0.5
-"7","Manhattan","381","2019","Tom Pardalis","D-I","MAAC",21,30,0,0.412
-"8","Manhattan","381","2018","Tom Pardalis","D-I","MAAC",28,25,NA,0.528
-"9","Manhattan","381","2017","Tom Pardalis","D-I","MAAC",34,21,0,0.618
-"10","Manhattan","381","2016","Tom Pardalis","D-I","MAAC",30,21,0,0.588
-"11","Manhattan","381","2015","Tom Pardalis","D-I","MAAC",26,20,0,0.565
-"12","Manhattan","381","2014","Tom Pardalis","D-I","MAAC",27,29,0,0.482
-"13","Manhattan","381","2013","Tom Pardalis","D-I","MAAC",21,25,0,0.457
-"14","Manhattan","381","2012","Tom Pardalis","D-I","MAAC",11,40,0,0.216
-"15","Manhattan","381","2011","Tom Pardalis","D-I","MAAC",25,23,0,0.521
-"16","Manhattan","381","2010","Tom Pardalis","D-I","MAAC",25,23,1,0.52
-"17","Manhattan","381","2009","Meaghan Asselta","D-I","MAAC",20,27,0,0.426
-"18","Manhattan","381","2008","Meaghan Asselta","D-I","MAAC",11,35,0,0.239
-"19","Manhattan","381","2007","Meaghan Asselta","D-I","MAAC",4,42,0,0.087
-"20","Manhattan","381","2006","Jennifer Fisher","D-I","MAAC",26,24,0,0.52
-"21","Manhattan","381","2005","Jennifer Fisher","D-I","MAAC",22,25,0,0.468
-"22","Manhattan","381","2004","Jennifer Fisher","D-I","MAAC",16,33,0,0.327
-"23","Manhattan","381","2003","Lois Kahl","D-I","MAAC",8,33,0,0.195
-"24","Manhattan","381","2002","Susan Hannon","D-I","MAAC",15,27,0,0.357
-"25","Manhattan","381","2001","Susan Hannon","D-I","MAAC",17,25,0,0.405
-"26","Manhattan","381","1900","Susan Hannon","D-I","MAAC",21,31,0,0.404
-"27","Manhattan","381","1999","Susan Hannon","D-I","MAAC",23,25,0,0.479
-"28","Manhattan","381","1998","Susan Hannon","D-I","-",14,27,1,0.345
-"29","Manhattan","381","1997","Susan Hannon","D-I","MAAC",16,23,0,0.41
-"30","Manhattan","381","1996","Paul Mazzei","D-I","-",17,27,NA,0.386
-"31","Manhattan","381","1995","Paul Mazzei","D-I","-",22,18,NA,0.55
-"32","Manhattan","381","1994","Paul Mazzei","D-I","-",26,15,NA,0.634
-"33","Manhattan","381","1993","Paul Mazzei","D-I","-",34,17,NA,0.667
-"34","Manhattan","381","1992","Paul Mazzei","D-I","-",30,12,1,0.709
-"35","Manhattan","381","1991","Paul Mazzei","D-I","-",31,12,1,0.716
-"36","Manhattan","381","1990","Paul Mazzei","D-I","-",12,18,NA,0.4
-"37","Manhattan","381","1989","Paul Mazzei","D-I","-",9,18,1,0.339
-"38","Manhattan","381","1988","","D-I","-",NA,NA,NA,NA
-"39","Manhattan","381","1987","","D-I","-",NA,NA,NA,NA
-"40","Manhattan","381","","","","",709,897,5,0.442
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Bridget Hurlman","MAAC","0-0-0",0
+"2","2024","Bridget Hurlman","MAAC","13-37-0",0.26
+"3","2023","Cat Clifford","MAAC","13-35-0",0.271
+"4","2022","Cat Clifford","MAAC","13-32-0",0.289
+"5","2021","Tom Pardalis","MAAC","22-16-0",0.579
+"6","2020","Tom Pardalis","MAAC","6-6-0",0.5
+"7","2019","Tom Pardalis","MAAC","21-30-0",0.412
+"8","2018","Tom Pardalis","MAAC","28-25-0",0.528
+"9","2017","Tom Pardalis","MAAC","34-21-0",0.618
+"10","2016","Tom Pardalis","MAAC","30-21-0",0.588
+"11","2015","Tom Pardalis","MAAC","26-20-0",0.565
+"12","2014","Tom Pardalis","MAAC","27-29-0",0.482
+"13","2013","Tom Pardalis","MAAC","21-25-0",0.457
+"14","2012","Tom Pardalis","MAAC","11-40-0",0.216
+"15","2011","Tom Pardalis","MAAC","25-23-0",0.521
+"16","2010","Tom Pardalis","MAAC","25-23-1",0.52
+"17","2009","Meaghan Asselta","MAAC","20-27-0",0.426
+"18","2008","Meaghan Asselta","MAAC","11-35-0",0.239
+"19","2007","Meaghan Asselta","MAAC","4-42-0",0.087
+"20","2006","Jennifer Fisher","MAAC","26-24-0",0.52
+"21","2005","Jennifer Fisher","MAAC","22-25-0",0.468
+"22","2004","Jennifer Fisher","MAAC","16-33-0",0.327
+"23","2003","Lois Kahl","MAAC","8-33-0",0.195
+"24","2002","Susan Hannon","MAAC","15-27-0",0.357
+"25","2001","Susan Hannon","MAAC","17-25-0",0.405
+"26","1900","Susan Hannon","MAAC","21-31-0",0.404
+"27","1999","Susan Hannon","MAAC","23-25-0",0.479
+"28","1998","Susan Hannon","-","14-27-1",0.345
+"29","1997","Susan Hannon","MAAC","16-23-0",0.41
+"30","1996","Paul Mazzei","-","17-27-0",0.386
+"31","1995","Paul Mazzei","-","22-18-0",0.55
+"32","1994","Paul Mazzei","-","26-15-0",0.634
+"33","1993","Paul Mazzei","-","34-17-0",0.667
+"34","1992","Paul Mazzei","-","30-12-1",0.709
+"35","1991","Paul Mazzei","-","31-12-1",0.716
+"36","1990","Paul Mazzei","-","12-18-0",0.4
+"37","1989","Paul Mazzei","-","9-18-1",0.339
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

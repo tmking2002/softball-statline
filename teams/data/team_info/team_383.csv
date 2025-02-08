@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Minnesota St.","383","2025","Lori Meyer","D-II","NSIC",2,0,0,1
-"2","Minnesota St.","383","2024","Lori Meyer","D-II","NSIC",39,16,0,0.709
-"3","Minnesota St.","383","2023","Lori Meyer","D-II","NSIC",31,19,0,0.62
-"4","Minnesota St.","383","2022","Lori Meyer","D-II","NSIC",48,14,0,0.774
-"5","Minnesota St.","383","2021","Lori Meyer","D-II","NSIC",40,10,0,0.8
-"6","Minnesota St.","383","2020","Lori Meyer","D-II","NSIC",17,3,0,0.85
-"7","Minnesota St.","383","2019","Lori Meyer","D-II","NSIC",37,19,0,0.661
-"8","Minnesota St.","383","2018","Lori Meyer","D-II","NSIC",35,19,NA,0.648
-"9","Minnesota St.","383","2017","Lori Meyer","D-II","NSIC",64,7,0,0.901
-"10","Minnesota St.","383","2016","Lori Meyer","D-II","NSIC",45,17,0,0.726
-"11","Minnesota St.","383","2015","Lori Meyer","D-II","NSIC",38,23,0,0.623
-"12","Minnesota St.","383","2014","Lori Meyer","D-II","NSIC",43,13,0,0.768
-"13","Minnesota St.","383","2013","Lori Meyer","D-II","NSIC",46,12,0,0.793
-"14","Minnesota St.","383","2012","Lori Meyer","D-II","NSIC",49,10,0,0.831
-"15","Minnesota St.","383","2011","Lori Meyer","D-II","NSIC",54,16,0,0.771
-"16","Minnesota St.","383","2010","Lori Meyer","D-II","NSIC",36,15,0,0.706
-"17","Minnesota St.","383","2009","Lori Meyer","D-II","NSIC",39,17,0,0.696
-"18","Minnesota St.","383","2008","Lori Meyer","D-II","NCC",42,16,0,0.724
-"19","Minnesota St.","383","2007","Lori Meyer","D-II","NCC",45,15,0,0.75
-"20","Minnesota St.","383","2006","Lori Meyer","D-II","NCC",30,27,0,0.526
-"21","Minnesota St.","383","2005","Lori Meyer","D-II","NCC",29,31,0,0.483
-"22","Minnesota St.","383","2004","Lori Meyer","D-II","NCC",27,28,0,0.491
-"23","Minnesota St.","383","2003","Lori Meyer","D-II","NCC",34,18,1,0.651
-"24","Minnesota St.","383","2002","Lori Meyer","D-II","NCC",20,28,0,0.417
-"25","Minnesota St.","383","2001","Lori Meyer","D-II","-",22,29,NA,0.431
-"26","Minnesota St.","383","1900","Lori Meyer","D-II","-",28,24,NA,0.538
-"27","Minnesota St.","383","1999","Lori Meyer","D-II","-",20,28,NA,0.417
-"28","Minnesota St.","383","1998","Lori Meyer","D-II","-",24,27,NA,0.471
-"29","Minnesota St.","383","1997","Lori Meyer","D-II","-",36,16,NA,0.692
-"30","Minnesota St.","383","1996","Lori Meyer","D-II","-",36,19,NA,0.655
-"31","Minnesota St.","383","1995","Lori Meyer","D-II","-",36,20,NA,0.643
-"32","Minnesota St.","383","1994","Lori Meyer","D-II","-",38,21,NA,0.644
-"33","Minnesota St.","383","1993","Lori Meyer","D-II","-",38,18,NA,0.679
-"34","Minnesota St.","383","1992","Lori Meyer","D-II","-",32,18,NA,0.64
-"35","Minnesota St.","383","1991","Lori Meyer","D-II","-",21,26,NA,0.447
-"36","Minnesota St.","383","1990","Lori Meyer","D-II","-",19,23,NA,0.452
-"37","Minnesota St.","383","1989","Lori Meyer","D-II","-",41,15,NA,0.732
-"38","Minnesota St.","383","1988","Lori Meyer","D-II","-",27,24,NA,0.529
-"39","Minnesota St.","383","1987","Lori Meyer","D-II","-",48,10,2,0.817
-"40","Minnesota St.","383","1986","Lori Meyer","D-II","-",27,20,NA,0.574
-"41","Minnesota St.","383","1985","Lori Meyer","D-II","-",29,18,NA,0.617
-"42","Minnesota St.","383","1984","","D-II","-",NA,NA,NA,NA
-"43","Minnesota St.","383","1983","","D-II","-",NA,NA,NA,NA
-"44","Minnesota St.","383","1982","","D-II","-",NA,NA,NA,NA
-"45","Minnesota St.","383","1981","","","-",NA,NA,NA,NA
-"46","Minnesota St.","383","","","","",1412,749,3,0.653
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Lori Meyer","NSIC","2-0-0",1
+"2","2024","Lori Meyer","NSIC","39-16-0",0.709
+"3","2023","Lori Meyer","NSIC","31-19-0",0.62
+"4","2022","Lori Meyer","NSIC","48-14-0",0.774
+"5","2021","Lori Meyer","NSIC","40-10-0",0.8
+"6","2020","Lori Meyer","NSIC","17-3-0",0.85
+"7","2019","Lori Meyer","NSIC","37-19-0",0.661
+"8","2018","Lori Meyer","NSIC","35-19-0",0.648
+"9","2017","Lori Meyer","NSIC","64-7-0",0.901
+"10","2016","Lori Meyer","NSIC","45-17-0",0.726
+"11","2015","Lori Meyer","NSIC","38-23-0",0.623
+"12","2014","Lori Meyer","NSIC","43-13-0",0.768
+"13","2013","Lori Meyer","NSIC","46-12-0",0.793
+"14","2012","Lori Meyer","NSIC","49-10-0",0.831
+"15","2011","Lori Meyer","NSIC","54-16-0",0.771
+"16","2010","Lori Meyer","NSIC","36-15-0",0.706
+"17","2009","Lori Meyer","NSIC","39-17-0",0.696
+"18","2008","Lori Meyer","NCC","42-16-0",0.724
+"19","2007","Lori Meyer","NCC","45-15-0",0.75
+"20","2006","Lori Meyer","NCC","30-27-0",0.526
+"21","2005","Lori Meyer","NCC","29-31-0",0.483
+"22","2004","Lori Meyer","NCC","27-28-0",0.491
+"23","2003","Lori Meyer","NCC","34-18-1",0.651
+"24","2002","Lori Meyer","NCC","20-28-0",0.417
+"25","2001","Lori Meyer","-","22-29-0",0.431
+"26","1900","Lori Meyer","-","28-24-0",0.538
+"27","1999","Lori Meyer","-","20-28-0",0.417
+"28","1998","Lori Meyer","-","24-27-0",0.471
+"29","1997","Lori Meyer","-","36-16-0",0.692
+"30","1996","Lori Meyer","-","36-19-0",0.655
+"31","1995","Lori Meyer","-","36-20-0",0.643
+"32","1994","Lori Meyer","-","38-21-0",0.644
+"33","1993","Lori Meyer","-","38-18-0",0.679
+"34","1992","Lori Meyer","-","32-18-0",0.64
+"35","1991","Lori Meyer","-","21-26-0",0.447
+"36","1990","Lori Meyer","-","19-23-0",0.452
+"37","1989","Lori Meyer","-","41-15-0",0.732
+"38","1988","Lori Meyer","-","27-24-0",0.529
+"39","1987","Lori Meyer","-","48-10-2",0.817
+"40","1986","Lori Meyer","-","27-20-0",0.574
+"41","1985","Lori Meyer","-","29-18-0",0.617
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

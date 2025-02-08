@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Gwynedd Mercy","12399","2025","David Hoch","D-III","Atlantic East",0,0,0,0
-"2","Gwynedd Mercy","12399","2024","David Hoch","D-III","Atlantic East",16,23,0,0.41
-"3","Gwynedd Mercy","12399","2023","David Hoch","D-III","Atlantic East",17,18,0,0.486
-"4","Gwynedd Mercy","12399","2022","David Hoch","D-III","Atlantic East",5,25,0,0.167
-"5","Gwynedd Mercy","12399","2021","David Hoch","D-III","Atlantic East",4,20,0,0.167
-"6","Gwynedd Mercy","12399","2020","David Hoch","D-III","Atlantic East",1,7,0,0.125
-"7","Gwynedd Mercy","12399","2019","David Hoch","D-III","Atlantic East",9,21,0,0.3
-"8","Gwynedd Mercy","12399","2018","Ron Smull","D-III","CSAC",29,7,NA,0.806
-"9","Gwynedd Mercy","12399","2017","Ron Smull","D-III","CSAC",17,17,0,0.5
-"10","Gwynedd Mercy","12399","2016","Ron Smull","D-III","CSAC",26,11,0,0.703
-"11","Gwynedd Mercy","12399","2015","Ron Smull","D-III","CSAC",18,17,0,0.514
-"12","Gwynedd Mercy","12399","2014","Ron Smull","D-III","CSAC",12,24,0,0.333
-"13","Gwynedd Mercy","12399","2013","Ron Smull","D-III","CSAC",20,16,0,0.556
-"14","Gwynedd Mercy","12399","2012","Ron Smull","D-III","CSAC",8,28,0,0.222
-"15","Gwynedd Mercy","12399","2011","Ron Smull","D-III","CSAC",10,21,0,0.323
-"16","Gwynedd Mercy","12399","2010","Ron Smull","D-III","CSAC",8,25,0,0.242
-"17","Gwynedd Mercy","12399","2009","Ron Smull","D-III","CSAC",15,22,0,0.405
-"18","Gwynedd Mercy","12399","2008","Ron Smull","D-III","CSAC",22,16,0,0.579
-"19","Gwynedd Mercy","12399","2007","Ron Smull","D-III","CSAC",10,20,0,0.333
-"20","Gwynedd Mercy","12399","2006","Ray Perri","D-III","CSAC",7,32,0,0.179
-"21","Gwynedd Mercy","12399","2005","Ray Perri","D-III","CSAC",10,20,0,0.333
-"22","Gwynedd Mercy","12399","2004","Vicki Moore","D-III","CSAC",6,15,0,0.286
-"23","Gwynedd Mercy","12399","2003","Vicki Moore","","-",NA,NA,NA,NA
-"24","Gwynedd Mercy","12399","2002","Vicki Moore","D-III","CSAC",20,12,0,0.625
-"25","Gwynedd Mercy","12399","2001","Vicki Moore","D-III","-",18,16,0,0.529
-"26","Gwynedd Mercy","12399","1900","","","-",NA,NA,NA,NA
-"27","Gwynedd Mercy","12399","1999","","","-",NA,NA,NA,NA
-"28","Gwynedd Mercy","12399","1998","","","-",NA,NA,NA,NA
-"29","Gwynedd Mercy","12399","1997","","","-",NA,NA,NA,NA
-"30","Gwynedd Mercy","12399","1996","","","-",NA,NA,NA,NA
-"31","Gwynedd Mercy","12399","1995","","","-",NA,NA,NA,NA
-"32","Gwynedd Mercy","12399","1994","","","-",NA,NA,NA,NA
-"33","Gwynedd Mercy","12399","1993","","","-",NA,NA,NA,NA
-"34","Gwynedd Mercy","12399","1992","","","-",NA,NA,NA,NA
-"35","Gwynedd Mercy","12399","1991","","","-",NA,NA,NA,NA
-"36","Gwynedd Mercy","12399","1990","","","-",NA,NA,NA,NA
-"37","Gwynedd Mercy","12399","1981","","","-",NA,NA,NA,NA
-"38","Gwynedd Mercy","12399","","","","",308,433,0,0.416
+"","season","head_coach","conference","record","win_perc"
+"1","2025","David Hoch","Atlantic East","0-0-0",0
+"2","2024","David Hoch","Atlantic East","16-23-0",0.41
+"3","2023","David Hoch","Atlantic East","17-18-0",0.486
+"4","2022","David Hoch","Atlantic East","5-25-0",0.167
+"5","2021","David Hoch","Atlantic East","4-20-0",0.167
+"6","2020","David Hoch","Atlantic East","1-7-0",0.125
+"7","2019","David Hoch","Atlantic East","9-21-0",0.3
+"8","2018","Ron Smull","CSAC","29-7-0",0.806
+"9","2017","Ron Smull","CSAC","17-17-0",0.5
+"10","2016","Ron Smull","CSAC","26-11-0",0.703
+"11","2015","Ron Smull","CSAC","18-17-0",0.514
+"12","2014","Ron Smull","CSAC","12-24-0",0.333
+"13","2013","Ron Smull","CSAC","20-16-0",0.556
+"14","2012","Ron Smull","CSAC","8-28-0",0.222
+"15","2011","Ron Smull","CSAC","10-21-0",0.323
+"16","2010","Ron Smull","CSAC","8-25-0",0.242
+"17","2009","Ron Smull","CSAC","15-22-0",0.405
+"18","2008","Ron Smull","CSAC","22-16-0",0.579
+"19","2007","Ron Smull","CSAC","10-20-0",0.333
+"20","2006","Ray Perri","CSAC","7-32-0",0.179
+"21","2005","Ray Perri","CSAC","10-20-0",0.333
+"22","2004","Vicki Moore","CSAC","6-15-0",0.286
+"23","2003","Vicki Moore","-","NA-NA-0",NA
+"24","2002","Vicki Moore","CSAC","20-12-0",0.625
+"25","2001","Vicki Moore","-","18-16-0",0.529
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

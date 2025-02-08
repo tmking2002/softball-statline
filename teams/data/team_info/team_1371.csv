@@ -1,31 +1,30 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Southeastern Okla.","1371","2025","Mackenzie Sher","D-II","GAC",3,4,0,0.429
-"2","Southeastern Okla.","1371","2024","Mackenzie Sher","D-II","GAC",26,28,0,0.481
-"3","Southeastern Okla.","1371","2023","Mackenzie Sher","D-II","GAC",33,27,0,0.55
-"4","Southeastern Okla.","1371","2022","Courtney Rogers (8-4)Ron Faubion (22-21)","D-II","GAC",30,25,0,0.545
-"5","Southeastern Okla.","1371","2021","Ron Faubion","D-II","GAC",36,11,0,0.766
-"6","Southeastern Okla.","1371","2020","Ron Faubion","D-II","GAC",15,9,0,0.625
-"7","Southeastern Okla.","1371","2019","Ron Faubion","D-II","GAC",29,28,0,0.509
-"8","Southeastern Okla.","1371","2018","Ron Faubion","D-II","GAC",34,23,NA,0.596
-"9","Southeastern Okla.","1371","2017","Ron Faubion","D-II","GAC",18,34,0,0.346
-"10","Southeastern Okla.","1371","2016","Ron Faubion","D-II","GAC",29,23,0,0.558
-"11","Southeastern Okla.","1371","2015","Ron Faubion","D-II","GAC",32,23,0,0.582
-"12","Southeastern Okla.","1371","2014","Ron Faubion","D-II","GAC",45,23,1,0.659
-"13","Southeastern Okla.","1371","2013","Ron Faubion","D-II","GAC",45,9,0,0.833
-"14","Southeastern Okla.","1371","2012","Ron Faubion","D-II","GAC",40,16,0,0.714
-"15","Southeastern Okla.","1371","2011","Ron Faubion","D-II","Lone Star",36,19,0,0.655
-"16","Southeastern Okla.","1371","2010","Ron Faubion","D-II","Lone Star",26,26,0,0.5
-"17","Southeastern Okla.","1371","2009","Ron Faubion","D-II","Lone Star",53,13,0,0.803
-"18","Southeastern Okla.","1371","2008","Ron Faubion","D-II","Lone Star",53,12,0,0.815
-"19","Southeastern Okla.","1371","2007","Ron Faubion","D-II","Lone Star",30,25,0,0.545
-"20","Southeastern Okla.","1371","2006","Ron Faubion","D-II","Lone Star",42,14,0,0.75
-"21","Southeastern Okla.","1371","2005","Ron Faubion","D-II","Lone Star",46,24,0,0.657
-"22","Southeastern Okla.","1371","2004","Ron Faubion","D-II","Lone Star",30,19,0,0.612
-"23","Southeastern Okla.","1371","2003","Travis Scott","D-II","-",43,15,0,0.741
-"24","Southeastern Okla.","1371","2002","Travis Scott","D-II","Lone Star",26,19,0,0.578
-"25","Southeastern Okla.","1371","2001","Travis Scott","D-II","-",32,16,2,0.66
-"26","Southeastern Okla.","1371","1900","Ron Faubion","D-II","-",45,12,0,0.789
-"27","Southeastern Okla.","1371","1999","Ron Faubion","","-",51,15,0,0.773
-"28","Southeastern Okla.","1371","1998","Ron Faubion","","-",36,26,0,0.581
-"29","Southeastern Okla.","1371","1997","Ron Faubion","","-",52,9,0,0.852
-"30","Southeastern Okla.","1371","","","","",1016,547,3,0.65
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mackenzie Sher","GAC","3-4-0",0.429
+"2","2024","Mackenzie Sher","GAC","26-28-0",0.481
+"3","2023","Mackenzie Sher","GAC","33-27-0",0.55
+"4","2022","Courtney Rogers (8-4)Ron Faubion (22-21)","GAC","30-25-0",0.545
+"5","2021","Ron Faubion","GAC","36-11-0",0.766
+"6","2020","Ron Faubion","GAC","15-9-0",0.625
+"7","2019","Ron Faubion","GAC","29-28-0",0.509
+"8","2018","Ron Faubion","GAC","34-23-0",0.596
+"9","2017","Ron Faubion","GAC","18-34-0",0.346
+"10","2016","Ron Faubion","GAC","29-23-0",0.558
+"11","2015","Ron Faubion","GAC","32-23-0",0.582
+"12","2014","Ron Faubion","GAC","45-23-1",0.659
+"13","2013","Ron Faubion","GAC","45-9-0",0.833
+"14","2012","Ron Faubion","GAC","40-16-0",0.714
+"15","2011","Ron Faubion","Lone Star","36-19-0",0.655
+"16","2010","Ron Faubion","Lone Star","26-26-0",0.5
+"17","2009","Ron Faubion","Lone Star","53-13-0",0.803
+"18","2008","Ron Faubion","Lone Star","53-12-0",0.815
+"19","2007","Ron Faubion","Lone Star","30-25-0",0.545
+"20","2006","Ron Faubion","Lone Star","42-14-0",0.75
+"21","2005","Ron Faubion","Lone Star","46-24-0",0.657
+"22","2004","Ron Faubion","Lone Star","30-19-0",0.612
+"23","2003","Travis Scott","-","43-15-0",0.741
+"24","2002","Travis Scott","Lone Star","26-19-0",0.578
+"25","2001","Travis Scott","-","32-16-2",0.66
+"26","1900","Ron Faubion","-","45-12-0",0.789
+"27","1999","Ron Faubion","-","51-15-0",0.773
+"28","1998","Ron Faubion","-","36-26-0",0.581
+"29","1997","Ron Faubion","-","52-9-0",0.852

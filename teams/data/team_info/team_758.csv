@@ -1,22 +1,21 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Weber St.","758","2025","Kristin Delahoussaye","D-I","Big Sky",0,1,0,0
-"2","Weber St.","758","2024","Mary Kay Amicone","D-I","Big Sky",22,28,0,0.44
-"3","Weber St.","758","2023","Mary Kay Amicone","D-I","Big Sky",13,32,0,0.289
-"4","Weber St.","758","2022","Mary Kay Amicone","D-I","Big Sky",38,12,0,0.76
-"5","Weber St.","758","2021","Mary Kay Amicone","D-I","Big Sky",25,19,0,0.568
-"6","Weber St.","758","2020","Mary Kay Amicone","D-I","Big Sky",10,14,0,0.417
-"7","Weber St.","758","2019","Mary Kay Amicone","D-I","Big Sky",27,21,0,0.563
-"8","Weber St.","758","2018","Mary Kay Amicone","D-I","Big Sky",28,26,NA,0.519
-"9","Weber St.","758","2017","Mary Kay Amicone","D-I","Big Sky",37,22,1,0.625
-"10","Weber St.","758","2016","Mary Kay Amicone","D-I","Big Sky",37,19,0,0.661
-"11","Weber St.","758","2015","Mary Kay Amicone","D-I","Big Sky",38,19,0,0.667
-"12","Weber St.","758","2014","Mary Kay Amicone","D-I","Big Sky",22,25,0,0.468
-"13","Weber St.","758","2013","Tina Johnson","D-I","Big Sky",10,38,0,0.208
-"14","Weber St.","758","2012","Tina Johnson","D-I","Pacific Coast Softball",21,32,0,0.396
-"15","Weber St.","758","2011","Tina Johnson","D-I","Pacific Coast Softball",12,38,0,0.24
-"16","Weber St.","758","2010","Tina Johnson","D-I","Weber St.",2,48,0,0.04
-"17","Weber St.","758","2009","Tina Johnson","D-I","-",NA,NA,NA,NA
-"18","Weber St.","758","2007","","","-",NA,NA,NA,NA
-"19","Weber St.","758","1983","","D-I","-",NA,NA,NA,NA
-"20","Weber St.","758","1982","","D-I","-",NA,NA,NA,NA
-"21","Weber St.","758","","","","",342,394,1,0.465
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kristin Delahoussaye","Big Sky","0-1-0",0
+"2","2024","Mary Kay Amicone","Big Sky","22-28-0",0.44
+"3","2023","Mary Kay Amicone","Big Sky","13-32-0",0.289
+"4","2022","Mary Kay Amicone","Big Sky","38-12-0",0.76
+"5","2021","Mary Kay Amicone","Big Sky","25-19-0",0.568
+"6","2020","Mary Kay Amicone","Big Sky","10-14-0",0.417
+"7","2019","Mary Kay Amicone","Big Sky","27-21-0",0.563
+"8","2018","Mary Kay Amicone","Big Sky","28-26-0",0.519
+"9","2017","Mary Kay Amicone","Big Sky","37-22-1",0.625
+"10","2016","Mary Kay Amicone","Big Sky","37-19-0",0.661
+"11","2015","Mary Kay Amicone","Big Sky","38-19-0",0.667
+"12","2014","Mary Kay Amicone","Big Sky","22-25-0",0.468
+"13","2013","Tina Johnson","Big Sky","10-38-0",0.208
+"14","2012","Tina Johnson","Pacific Coast Softball","21-32-0",0.396
+"15","2011","Tina Johnson","Pacific Coast Softball","12-38-0",0.24
+"16","2010","Tina Johnson","Weber St.","2-48-0",0.04
+"17","2009","Tina Johnson","-","NA-NA-0",NA
+"18","2007","","-","NA-NA-0",NA
+"19","1983","","-","NA-NA-0",NA
+"20","1982","","-","NA-NA-0",NA

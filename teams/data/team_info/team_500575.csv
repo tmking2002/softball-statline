@@ -1,19 +1,18 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","York (NE)","500575","2023",NA,NA,"-",NA,NA,NA,0
-"2","York (NE)","500575","2022",NA,NA,"-",NA,NA,NA,0
-"3","York (NE)","500575","2020",NA,NA,"-",NA,NA,NA,0
-"4","York (NE)","500575","2019",NA,NA,"-",NA,NA,NA,0
-"5","York (NE)","500575","2016",NA,NA,"-",NA,NA,NA,NA
-"6","York (NE)","500575","2014",NA,NA,"-",NA,NA,NA,NA
-"7","York (NE)","500575","2013",NA,NA,"-",NA,NA,NA,NA
-"8","York (NE)","500575","2012",NA,NA,"-",NA,NA,NA,NA
-"9","York (NE)","500575","2011",NA,NA,"-",NA,NA,NA,NA
-"10","York (NE)","500575","2010",NA,NA,"-",NA,NA,NA,NA
-"11","York (NE)","500575","2009",NA,NA,"-",2,0,0,1
-"12","York (NE)","500575","2007",NA,NA,"-",NA,NA,NA,NA
-"13","York (NE)","500575","2006",NA,NA,"-",NA,NA,NA,NA
-"14","York (NE)","500575","2005",NA,NA,"-",NA,NA,NA,NA
-"15","York (NE)","500575","2004",NA,NA,"-",NA,NA,NA,NA
-"16","York (NE)","500575","2003",NA,NA,"-",NA,NA,NA,NA
-"17","York (NE)","500575","2002",NA,NA,"-",NA,NA,NA,NA
-"18","York (NE)","500575","",NA,NA,"",2,0,0,1
+"","season","head_coach","conference","record","win_perc"
+"1","2023",NA,"-","NA-NA-0",0
+"2","2022",NA,"-","NA-NA-0",0
+"3","2020",NA,"-","NA-NA-0",0
+"4","2019",NA,"-","NA-NA-0",0
+"5","2016",NA,"-","NA-NA-0",NA
+"6","2014",NA,"-","NA-NA-0",NA
+"7","2013",NA,"-","NA-NA-0",NA
+"8","2012",NA,"-","NA-NA-0",NA
+"9","2011",NA,"-","NA-NA-0",NA
+"10","2010",NA,"-","NA-NA-0",NA
+"11","2009",NA,"-","2-0-0",1
+"12","2007",NA,"-","NA-NA-0",NA
+"13","2006",NA,"-","NA-NA-0",NA
+"14","2005",NA,"-","NA-NA-0",NA
+"15","2004",NA,"-","NA-NA-0",NA
+"16","2003",NA,"-","NA-NA-0",NA
+"17","2002",NA,"-","NA-NA-0",NA

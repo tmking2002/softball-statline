@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Calumet Col.","506194","2025",NA,NA,"-",NA,NA,NA,0
-"2","Calumet Col.","506194","2017",NA,NA,"-",NA,NA,NA,NA
-"3","Calumet Col.","506194","2016",NA,NA,"-",NA,NA,NA,NA
-"4","Calumet Col.","506194","2015",NA,NA,"-",NA,NA,NA,NA
-"5","Calumet Col.","506194","2014",NA,NA,"-",NA,NA,NA,NA
-"6","Calumet Col.","506194","2013",NA,NA,"-",NA,NA,NA,NA
-"7","Calumet Col.","506194","2012",NA,NA,"-",NA,NA,NA,NA
-"8","Calumet Col.","506194","2011",NA,NA,"-",NA,NA,NA,NA
-"9","Calumet Col.","506194","2010",NA,NA,"-",NA,NA,NA,NA
-"10","Calumet Col.","506194","2009",NA,NA,"-",NA,NA,NA,NA
-"11","Calumet Col.","506194","2008",NA,NA,"-",NA,NA,NA,NA
-"12","Calumet Col.","506194","2007",NA,NA,"-",NA,NA,NA,NA
-"13","Calumet Col.","506194","2006",NA,NA,"-",NA,NA,NA,NA
-"14","Calumet Col.","506194","2005",NA,NA,"-",NA,NA,NA,NA
-"15","Calumet Col.","506194","2002",NA,NA,"-",NA,NA,NA,NA
-"16","Calumet Col.","506194","1981",NA,NA,"-",NA,NA,NA,NA
-"17","Calumet Col.","506194","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2017",NA,"-","NA-NA-0",NA
+"3","2016",NA,"-","NA-NA-0",NA
+"4","2015",NA,"-","NA-NA-0",NA
+"5","2014",NA,"-","NA-NA-0",NA
+"6","2013",NA,"-","NA-NA-0",NA
+"7","2012",NA,"-","NA-NA-0",NA
+"8","2011",NA,"-","NA-NA-0",NA
+"9","2010",NA,"-","NA-NA-0",NA
+"10","2009",NA,"-","NA-NA-0",NA
+"11","2008",NA,"-","NA-NA-0",NA
+"12","2007",NA,"-","NA-NA-0",NA
+"13","2006",NA,"-","NA-NA-0",NA
+"14","2005",NA,"-","NA-NA-0",NA
+"15","2002",NA,"-","NA-NA-0",NA
+"16","1981",NA,"-","NA-NA-0",NA

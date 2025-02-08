@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Winona St.","790","2025","Greg Jones","D-II","NSIC",0,0,0,0
-"2","Winona St.","790","2024","Greg Jones","D-II","NSIC",33,20,0,0.623
-"3","Winona St.","790","2023","Greg Jones","D-II","NSIC",38,16,0,0.704
-"4","Winona St.","790","2022","Greg Jones","D-II","NSIC",41,17,0,0.707
-"5","Winona St.","790","2021","Greg Jones","D-II","NSIC",37,12,0,0.755
-"6","Winona St.","790","2020","Greg Jones","D-II","NSIC",13,6,0,0.684
-"7","Winona St.","790","2019","Greg Jones","D-II","NSIC",53,9,0,0.855
-"8","Winona St.","790","2018","Greg Jones","D-II","NSIC",45,7,NA,0.865
-"9","Winona St.","790","2017","Greg Jones","D-II","NSIC",52,13,0,0.8
-"10","Winona St.","790","2016","Greg Jones","D-II","NSIC",35,17,0,0.673
-"11","Winona St.","790","2015","Greg Jones","D-II","NSIC",46,14,0,0.767
-"12","Winona St.","790","2014","Greg Jones","D-II","NSIC",48,9,0,0.842
-"13","Winona St.","790","2013","Greg Jones","D-II","NSIC",37,14,0,0.725
-"14","Winona St.","790","2012","Greg Jones","D-II","NSIC",44,12,0,0.786
-"15","Winona St.","790","2011","Greg Jones","D-II","NSIC",37,13,0,0.74
-"16","Winona St.","790","2010","Greg Jones","D-II","NSIC",38,14,0,0.731
-"17","Winona St.","790","2009","Greg Jones","D-II","NSIC",50,13,0,0.794
-"18","Winona St.","790","2008","Greg Jones","D-II","NSIC",38,15,0,0.717
-"19","Winona St.","790","2007","Greg Jones","D-II","NSIC",43,21,0,0.672
-"20","Winona St.","790","2006","Greg Jones","D-II","NSIC",41,15,1,0.728
-"21","Winona St.","790","2005","Greg Jones","D-II","NSIC",41,16,0,0.719
-"22","Winona St.","790","2004","Greg Jones","D-II","NSIC",37,15,0,0.712
-"23","Winona St.","790","2003","Greg Jones","D-II","NSIC",41,13,1,0.755
-"24","Winona St.","790","2002","Greg Jones","D-II","-",43,16,1,0.725
-"25","Winona St.","790","2001","Greg Jones","D-II","-",31,19,1,0.618
-"26","Winona St.","790","1900","Larry Holstad","D-II","-",28,18,NA,0.609
-"27","Winona St.","790","1999","Myron Smith Jr. (18-24)Larry Holstad (11-7)","D-II","-",29,31,NA,0.483
-"28","Winona St.","790","1998","Myron Smith Jr.","D-II","-",21,29,NA,0.42
-"29","Winona St.","790","1997","Myron Smith Jr.","D-II","-",39,23,NA,0.629
-"30","Winona St.","790","1996","Myron Smith Jr.","D-II","-",24,36,NA,0.4
-"31","Winona St.","790","1995","Myron Smith Jr.","D-II","-",11,15,NA,0.423
-"32","Winona St.","790","1994","JoEllen Bailey","D-II","-",14,22,NA,0.389
-"33","Winona St.","790","1993","JoEllen Bailey","D-II","-",18,11,NA,0.621
-"34","Winona St.","790","1992","JoEllen Bailey","D-II","-",16,17,NA,0.485
-"35","Winona St.","790","1991","JoEllen Bailey","D-II","-",12,19,NA,0.387
-"36","Winona St.","790","1990","JoEllen Bailey","D-II","-",14,22,NA,0.389
-"37","Winona St.","790","1989","","D-II","-",NA,NA,NA,NA
-"38","Winona St.","790","1988","","D-II","-",NA,NA,NA,NA
-"39","Winona St.","790","1987","","D-II","-",NA,NA,NA,NA
-"40","Winona St.","790","1986","","","-",NA,NA,NA,NA
-"41","Winona St.","790","1985","","","-",NA,NA,NA,NA
-"42","Winona St.","790","","","","",1188,579,4,0.672
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Greg Jones","NSIC","0-0-0",0
+"2","2024","Greg Jones","NSIC","33-20-0",0.623
+"3","2023","Greg Jones","NSIC","38-16-0",0.704
+"4","2022","Greg Jones","NSIC","41-17-0",0.707
+"5","2021","Greg Jones","NSIC","37-12-0",0.755
+"6","2020","Greg Jones","NSIC","13-6-0",0.684
+"7","2019","Greg Jones","NSIC","53-9-0",0.855
+"8","2018","Greg Jones","NSIC","45-7-0",0.865
+"9","2017","Greg Jones","NSIC","52-13-0",0.8
+"10","2016","Greg Jones","NSIC","35-17-0",0.673
+"11","2015","Greg Jones","NSIC","46-14-0",0.767
+"12","2014","Greg Jones","NSIC","48-9-0",0.842
+"13","2013","Greg Jones","NSIC","37-14-0",0.725
+"14","2012","Greg Jones","NSIC","44-12-0",0.786
+"15","2011","Greg Jones","NSIC","37-13-0",0.74
+"16","2010","Greg Jones","NSIC","38-14-0",0.731
+"17","2009","Greg Jones","NSIC","50-13-0",0.794
+"18","2008","Greg Jones","NSIC","38-15-0",0.717
+"19","2007","Greg Jones","NSIC","43-21-0",0.672
+"20","2006","Greg Jones","NSIC","41-15-1",0.728
+"21","2005","Greg Jones","NSIC","41-16-0",0.719
+"22","2004","Greg Jones","NSIC","37-15-0",0.712
+"23","2003","Greg Jones","NSIC","41-13-1",0.755
+"24","2002","Greg Jones","-","43-16-1",0.725
+"25","2001","Greg Jones","-","31-19-1",0.618
+"26","1900","Larry Holstad","-","28-18-0",0.609
+"27","1999","Myron Smith Jr. (18-24)Larry Holstad (11-7)","-","29-31-0",0.483
+"28","1998","Myron Smith Jr.","-","21-29-0",0.42
+"29","1997","Myron Smith Jr.","-","39-23-0",0.629
+"30","1996","Myron Smith Jr.","-","24-36-0",0.4
+"31","1995","Myron Smith Jr.","-","11-15-0",0.423
+"32","1994","JoEllen Bailey","-","14-22-0",0.389
+"33","1993","JoEllen Bailey","-","18-11-0",0.621
+"34","1992","JoEllen Bailey","-","16-17-0",0.485
+"35","1991","JoEllen Bailey","-","12-19-0",0.387
+"36","1990","JoEllen Bailey","-","14-22-0",0.389
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

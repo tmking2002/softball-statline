@@ -1,14 +1,13 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Stephens College","506407","2025",NA,NA,"-",NA,NA,NA,0
-"2","Stephens College","506407","2024",NA,NA,"-",NA,NA,NA,0
-"3","Stephens College","506407","2023",NA,NA,"-",NA,NA,NA,0
-"4","Stephens College","506407","2022",NA,NA,"-",NA,NA,NA,0
-"5","Stephens College","506407","2020",NA,NA,"-",NA,NA,NA,0
-"6","Stephens College","506407","2019",NA,NA,"-",NA,NA,NA,0
-"7","Stephens College","506407","2018",NA,NA,"-",NA,NA,NA,0
-"8","Stephens College","506407","2016",NA,NA,"-",NA,NA,NA,NA
-"9","Stephens College","506407","2015",NA,NA,"-",NA,NA,NA,NA
-"10","Stephens College","506407","2014",NA,NA,"-",NA,NA,NA,NA
-"11","Stephens College","506407","2013",NA,NA,"-",NA,NA,NA,NA
-"12","Stephens College","506407","2012",NA,NA,"-",NA,NA,NA,NA
-"13","Stephens College","506407","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2018",NA,"-","NA-NA-0",0
+"8","2016",NA,"-","NA-NA-0",NA
+"9","2015",NA,"-","NA-NA-0",NA
+"10","2014",NA,"-","NA-NA-0",NA
+"11","2013",NA,"-","NA-NA-0",NA
+"12","2012",NA,"-","NA-NA-0",NA

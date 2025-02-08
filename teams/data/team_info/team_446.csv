@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Morgan St.","446","2025","Larry Hineline","D-I","MEAC",0,1,0,0
-"2","Morgan St.","446","2024","Larry Hineline","D-I","MEAC",35,20,0,0.636
-"3","Morgan St.","446","2023","Larry Hineline","D-I","MEAC",25,21,0,0.543
-"4","Morgan St.","446","2022","Larry Hineline","D-I","MEAC",30,15,0,0.667
-"5","Morgan St.","446","2021","Larry Hineline","D-I","MEAC",24,17,0,0.585
-"6","Morgan St.","446","2020","Larry Hineline","D-I","MEAC",5,10,0,0.333
-"7","Morgan St.","446","2019","Larry Hineline","D-I","MEAC",23,25,0,0.479
-"8","Morgan St.","446","2018","Larry Hineline","D-I","MEAC",28,17,NA,0.622
-"9","Morgan St.","446","2017","Larry Hineline","D-I","MEAC",23,23,0,0.5
-"10","Morgan St.","446","2016","Larry Hineline","D-I","MEAC",4,28,0,0.125
-"11","Morgan St.","446","2015","Larry Hineline","D-I","MEAC",8,30,0,0.211
-"12","Morgan St.","446","2014","Jeff Bozier","D-I","MEAC",0,21,0,0
-"13","Morgan St.","446","2013","Jeff Bozier","D-I","MEAC",0,35,0,0
-"14","Morgan St.","446","2012","Jeff Bozier","D-I","MEAC",12,23,0,0.343
-"15","Morgan St.","446","2011","Jeff Bozier","D-I","MEAC",16,27,0,0.372
-"16","Morgan St.","446","2010","Jeff Bozier","D-I","MEAC",7,26,0,0.212
-"17","Morgan St.","446","2009","Jeff Bozier","D-I","MEAC",15,13,0,0.536
-"18","Morgan St.","446","2008","Jeff Bozier","D-I","MEAC",15,21,0,0.417
-"19","Morgan St.","446","2007","Jeff Bozier","D-I","MEAC",15,24,0,0.385
-"20","Morgan St.","446","2006","Jeff Bozier","D-I","MEAC",10,29,0,0.256
-"21","Morgan St.","446","2005","Jeff Bozier","D-I","MEAC",7,30,0,0.189
-"22","Morgan St.","446","2004","Jeff Bozier","D-I","MEAC",16,27,0,0.372
-"23","Morgan St.","446","2003","Ramona Riley-Bozier","D-I","MEAC",16,25,0,0.39
-"24","Morgan St.","446","2002","Ramona Riley-Bozier","D-I","MEAC",17,30,0,0.362
-"25","Morgan St.","446","2001","Ramona Riley-Bozier","D-I","MEAC",26,28,0,0.481
-"26","Morgan St.","446","1900","Ramona Riley-Bozier","D-I","MEAC",13,25,0,0.342
-"27","Morgan St.","446","1999","Ramona Riley-Bozier","D-I","MEAC",19,19,0,0.5
-"28","Morgan St.","446","1998","Ramona Riley-Bozier","D-I","-",25,9,NA,0.735
-"29","Morgan St.","446","1997","Ramona Riley-Bozier","D-I","MEAC",20,19,0,0.513
-"30","Morgan St.","446","1996","Ramona Riley-Bozier","D-I","-",15,17,NA,0.469
-"31","Morgan St.","446","1995","Ramona Riley-Bozier","D-I","-",10,22,NA,0.313
-"32","Morgan St.","446","1994","Wanda Richardson","D-I","-",8,21,NA,0.276
-"33","Morgan St.","446","1993","","D-I","-",NA,NA,NA,NA
-"34","Morgan St.","446","1992","","D-I","-",NA,NA,NA,NA
-"35","Morgan St.","446","1991","","D-I","-",NA,NA,NA,NA
-"36","Morgan St.","446","1990","","D-I","-",NA,NA,NA,NA
-"37","Morgan St.","446","1989","","D-I","-",NA,NA,NA,NA
-"38","Morgan St.","446","1988","","D-I","-",NA,NA,NA,NA
-"39","Morgan St.","446","1987","","D-I","-",NA,NA,NA,NA
-"40","Morgan St.","446","","","","",487,698,0,0.411
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Larry Hineline","MEAC","0-1-0",0
+"2","2024","Larry Hineline","MEAC","35-20-0",0.636
+"3","2023","Larry Hineline","MEAC","25-21-0",0.543
+"4","2022","Larry Hineline","MEAC","30-15-0",0.667
+"5","2021","Larry Hineline","MEAC","24-17-0",0.585
+"6","2020","Larry Hineline","MEAC","5-10-0",0.333
+"7","2019","Larry Hineline","MEAC","23-25-0",0.479
+"8","2018","Larry Hineline","MEAC","28-17-0",0.622
+"9","2017","Larry Hineline","MEAC","23-23-0",0.5
+"10","2016","Larry Hineline","MEAC","4-28-0",0.125
+"11","2015","Larry Hineline","MEAC","8-30-0",0.211
+"12","2014","Jeff Bozier","MEAC","0-21-0",0
+"13","2013","Jeff Bozier","MEAC","0-35-0",0
+"14","2012","Jeff Bozier","MEAC","12-23-0",0.343
+"15","2011","Jeff Bozier","MEAC","16-27-0",0.372
+"16","2010","Jeff Bozier","MEAC","7-26-0",0.212
+"17","2009","Jeff Bozier","MEAC","15-13-0",0.536
+"18","2008","Jeff Bozier","MEAC","15-21-0",0.417
+"19","2007","Jeff Bozier","MEAC","15-24-0",0.385
+"20","2006","Jeff Bozier","MEAC","10-29-0",0.256
+"21","2005","Jeff Bozier","MEAC","7-30-0",0.189
+"22","2004","Jeff Bozier","MEAC","16-27-0",0.372
+"23","2003","Ramona Riley-Bozier","MEAC","16-25-0",0.39
+"24","2002","Ramona Riley-Bozier","MEAC","17-30-0",0.362
+"25","2001","Ramona Riley-Bozier","MEAC","26-28-0",0.481
+"26","1900","Ramona Riley-Bozier","MEAC","13-25-0",0.342
+"27","1999","Ramona Riley-Bozier","MEAC","19-19-0",0.5
+"28","1998","Ramona Riley-Bozier","-","25-9-0",0.735
+"29","1997","Ramona Riley-Bozier","MEAC","20-19-0",0.513
+"30","1996","Ramona Riley-Bozier","-","15-17-0",0.469
+"31","1995","Ramona Riley-Bozier","-","10-22-0",0.313
+"32","1994","Wanda Richardson","-","8-21-0",0.276
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

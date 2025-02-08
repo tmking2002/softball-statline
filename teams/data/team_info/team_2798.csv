@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Albertus Magnus","2798","2025","Lou Bunosso","D-III","Great Northeast",0,0,0,0
-"2","Albertus Magnus","2798","2024","Lou Bunosso","D-III","Great Northeast",22,20,0,0.524
-"3","Albertus Magnus","2798","2023","Ed Emielita","D-III","Great Northeast",24,20,0,0.545
-"4","Albertus Magnus","2798","2022","Ed Emielita","D-III","Great Northeast",29,11,0,0.725
-"5","Albertus Magnus","2798","2021","Ed Emielita","D-III","Great Northeast",12,6,0,0.667
-"6","Albertus Magnus","2798","2020","Ed Emielita","D-III","Great Northeast",6,4,0,0.6
-"7","Albertus Magnus","2798","2019","Ed Emielita","D-III","Great Northeast",19,17,0,0.528
-"8","Albertus Magnus","2798","2018","Ed Emielita","D-III","Great Northeast",23,17,NA,0.575
-"9","Albertus Magnus","2798","2017","Ed Emielita","D-III","Great Northeast",28,15,0,0.651
-"10","Albertus Magnus","2798","2016","Ed Emielita","D-III","Great Northeast",22,17,0,0.564
-"11","Albertus Magnus","2798","2015","Ed Emielita","D-III","Great Northeast",27,15,0,0.643
-"12","Albertus Magnus","2798","2014","Ed Emielita","D-III","Great Northeast",17,18,0,0.486
-"13","Albertus Magnus","2798","2013","Ed Emielita","D-III","Great Northeast",16,22,0,0.421
-"14","Albertus Magnus","2798","2012","Ed Emielita","D-III","Great Northeast",16,24,0,0.4
-"15","Albertus Magnus","2798","2011","Ed Emielita","D-III","Great Northeast",1,31,0,0.031
-"16","Albertus Magnus","2798","2010","Ed Panzo","D-III","Great Northeast",0,28,0,0
-"17","Albertus Magnus","2798","2009","Ed Panzo","D-III","Great Northeast",0,25,0,0
-"18","Albertus Magnus","2798","2008","Ed Panzo","D-III","Great Northeast",3,28,0,0.097
-"19","Albertus Magnus","2798","2007","Ed Panzo","D-III","Great Northeast",6,18,0,0.25
-"20","Albertus Magnus","2798","2006","Ed Panzo","D-III","Great Northeast",14,16,0,0.467
-"21","Albertus Magnus","2798","2005","Ed Panzo","D-III","Great Northeast",12,16,0,0.429
-"22","Albertus Magnus","2798","2004","Mark Giordano","D-III","Great Northeast",6,18,0,0.25
-"23","Albertus Magnus","2798","2003","Mark Giordano","","-",14,13,0,0.519
-"24","Albertus Magnus","2798","2002","Mark Giordano","D-III","Great Northeast",23,12,1,0.653
-"25","Albertus Magnus","2798","2001","Mark Giordano","D-III","-",19,13,NA,0.594
-"26","Albertus Magnus","2798","1900","Mark Giordano","D-III","-",22,14,NA,0.611
-"27","Albertus Magnus","2798","1999","Mark Giordano","D-III","-",13,10,NA,0.565
-"28","Albertus Magnus","2798","1998","Mark Giordano","D-III","-",17,8,NA,0.68
-"29","Albertus Magnus","2798","1997","Mark Giordano","D-III","-",15,8,NA,0.652
-"30","Albertus Magnus","2798","1996","Mark Giordano","D-III","-",6,13,NA,0.316
-"31","Albertus Magnus","2798","1995","Mark Giordano","D-III","-",9,21,NA,0.3
-"32","Albertus Magnus","2798","1994","James Ferraro","D-III","-",9,11,0,0.45
-"33","Albertus Magnus","2798","1993","Paul Piscitelli","D-III","-",5,14,NA,0.263
-"34","Albertus Magnus","2798","1992","John Phostole","D-III","-",20,14,NA,0.588
-"35","Albertus Magnus","2798","1991","John Phostole","D-III","-",12,8,NA,0.6
-"36","Albertus Magnus","2798","1990","","D-III","-",NA,NA,NA,NA
-"37","Albertus Magnus","2798","1989","","D-III","-",NA,NA,NA,NA
-"38","Albertus Magnus","2798","1988","","D-III","-",NA,NA,NA,NA
-"39","Albertus Magnus","2798","1987","","D-III","-",NA,NA,NA,NA
-"40","Albertus Magnus","2798","1986","","D-III","-",NA,NA,NA,NA
-"41","Albertus Magnus","2798","","","","",487,545,1,0.472
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Lou Bunosso","Great Northeast","0-0-0",0
+"2","2024","Lou Bunosso","Great Northeast","22-20-0",0.524
+"3","2023","Ed Emielita","Great Northeast","24-20-0",0.545
+"4","2022","Ed Emielita","Great Northeast","29-11-0",0.725
+"5","2021","Ed Emielita","Great Northeast","12-6-0",0.667
+"6","2020","Ed Emielita","Great Northeast","6-4-0",0.6
+"7","2019","Ed Emielita","Great Northeast","19-17-0",0.528
+"8","2018","Ed Emielita","Great Northeast","23-17-0",0.575
+"9","2017","Ed Emielita","Great Northeast","28-15-0",0.651
+"10","2016","Ed Emielita","Great Northeast","22-17-0",0.564
+"11","2015","Ed Emielita","Great Northeast","27-15-0",0.643
+"12","2014","Ed Emielita","Great Northeast","17-18-0",0.486
+"13","2013","Ed Emielita","Great Northeast","16-22-0",0.421
+"14","2012","Ed Emielita","Great Northeast","16-24-0",0.4
+"15","2011","Ed Emielita","Great Northeast","1-31-0",0.031
+"16","2010","Ed Panzo","Great Northeast","0-28-0",0
+"17","2009","Ed Panzo","Great Northeast","0-25-0",0
+"18","2008","Ed Panzo","Great Northeast","3-28-0",0.097
+"19","2007","Ed Panzo","Great Northeast","6-18-0",0.25
+"20","2006","Ed Panzo","Great Northeast","14-16-0",0.467
+"21","2005","Ed Panzo","Great Northeast","12-16-0",0.429
+"22","2004","Mark Giordano","Great Northeast","6-18-0",0.25
+"23","2003","Mark Giordano","-","14-13-0",0.519
+"24","2002","Mark Giordano","Great Northeast","23-12-1",0.653
+"25","2001","Mark Giordano","-","19-13-0",0.594
+"26","1900","Mark Giordano","-","22-14-0",0.611
+"27","1999","Mark Giordano","-","13-10-0",0.565
+"28","1998","Mark Giordano","-","17-8-0",0.68
+"29","1997","Mark Giordano","-","15-8-0",0.652
+"30","1996","Mark Giordano","-","6-13-0",0.316
+"31","1995","Mark Giordano","-","9-21-0",0.3
+"32","1994","James Ferraro","-","9-11-0",0.45
+"33","1993","Paul Piscitelli","-","5-14-0",0.263
+"34","1992","John Phostole","-","20-14-0",0.588
+"35","1991","John Phostole","-","12-8-0",0.6
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA

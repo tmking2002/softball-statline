@@ -1,31 +1,30 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Mary's (TX)","1346","2025","Ronnie Ladines","D-II","Lone Star",5,5,0,0.5
-"2","St. Mary's (TX)","1346","2024","Donna Fields","D-II","Lone Star",32,26,0,0.552
-"3","St. Mary's (TX)","1346","2023","Donna Fields","D-II","Lone Star",32,27,0,0.542
-"4","St. Mary's (TX)","1346","2022","Donna Fields","D-II","Lone Star",38,19,0,0.667
-"5","St. Mary's (TX)","1346","2021","Donna Fields","D-II","Lone Star",20,23,0,0.465
-"6","St. Mary's (TX)","1346","2020","Donna Fields","D-II","Lone Star",11,18,0,0.379
-"7","St. Mary's (TX)","1346","2019","Donna Fields","D-II","Heartland",30,25,0,0.545
-"8","St. Mary's (TX)","1346","2018","Donna Fields","D-II","Heartland",34,23,NA,0.596
-"9","St. Mary's (TX)","1346","2017","Donna Fields","D-II","Heartland",44,16,0,0.733
-"10","St. Mary's (TX)","1346","2016","Donna Fields","D-II","Heartland",47,14,0,0.77
-"11","St. Mary's (TX)","1346","2015","Donna Fields","D-II","Heartland",48,12,0,0.8
-"12","St. Mary's (TX)","1346","2014","Donna Fields","D-II","Heartland",50,14,0,0.781
-"13","St. Mary's (TX)","1346","2013","Donna Fields","D-II","Heartland",45,15,0,0.75
-"14","St. Mary's (TX)","1346","2012","Donna Fields","D-II","Heartland",34,19,0,0.642
-"15","St. Mary's (TX)","1346","2011","Donna Fields","D-II","Heartland",36,21,0,0.632
-"16","St. Mary's (TX)","1346","2010","Donna Fields","D-II","Heartland",34,20,0,0.63
-"17","St. Mary's (TX)","1346","2009","Donna Fields","D-II","Heartland",32,32,0,0.5
-"18","St. Mary's (TX)","1346","2008","Donna Fields","D-II","Heartland",53,10,0,0.841
-"19","St. Mary's (TX)","1346","2007","Donna Fields","D-II","Heartland",45,18,0,0.714
-"20","St. Mary's (TX)","1346","2006","Donna Fields","D-II","Heartland",49,25,0,0.662
-"21","St. Mary's (TX)","1346","2005","Donna Fields","D-II","Heartland",49,11,0,0.817
-"22","St. Mary's (TX)","1346","2004","Donna Fields","D-II","Heartland",46,12,0,0.793
-"23","St. Mary's (TX)","1346","2003","Donna Fields","D-II","-",50,12,NA,0.806
-"24","St. Mary's (TX)","1346","2002","Donna Fields","D-II","Heartland",58,11,0,0.841
-"25","St. Mary's (TX)","1346","2001","Donna Fields","D-II","-",40,18,0,0.69
-"26","St. Mary's (TX)","1346","1900","Donna Fields","","-",40,18,NA,0.69
-"27","St. Mary's (TX)","1346","1999","Donna Fields","","-",32,19,NA,0.627
-"28","St. Mary's (TX)","1346","1998","Donna Fields","","-",42,23,NA,0.646
-"29","St. Mary's (TX)","1346","1997","","","-",NA,NA,NA,NA
-"30","St. Mary's (TX)","1346","","","","",1076,506,0,0.68
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ronnie Ladines","Lone Star","5-5-0",0.5
+"2","2024","Donna Fields","Lone Star","32-26-0",0.552
+"3","2023","Donna Fields","Lone Star","32-27-0",0.542
+"4","2022","Donna Fields","Lone Star","38-19-0",0.667
+"5","2021","Donna Fields","Lone Star","20-23-0",0.465
+"6","2020","Donna Fields","Lone Star","11-18-0",0.379
+"7","2019","Donna Fields","Heartland","30-25-0",0.545
+"8","2018","Donna Fields","Heartland","34-23-0",0.596
+"9","2017","Donna Fields","Heartland","44-16-0",0.733
+"10","2016","Donna Fields","Heartland","47-14-0",0.77
+"11","2015","Donna Fields","Heartland","48-12-0",0.8
+"12","2014","Donna Fields","Heartland","50-14-0",0.781
+"13","2013","Donna Fields","Heartland","45-15-0",0.75
+"14","2012","Donna Fields","Heartland","34-19-0",0.642
+"15","2011","Donna Fields","Heartland","36-21-0",0.632
+"16","2010","Donna Fields","Heartland","34-20-0",0.63
+"17","2009","Donna Fields","Heartland","32-32-0",0.5
+"18","2008","Donna Fields","Heartland","53-10-0",0.841
+"19","2007","Donna Fields","Heartland","45-18-0",0.714
+"20","2006","Donna Fields","Heartland","49-25-0",0.662
+"21","2005","Donna Fields","Heartland","49-11-0",0.817
+"22","2004","Donna Fields","Heartland","46-12-0",0.793
+"23","2003","Donna Fields","-","50-12-0",0.806
+"24","2002","Donna Fields","Heartland","58-11-0",0.841
+"25","2001","Donna Fields","-","40-18-0",0.69
+"26","1900","Donna Fields","-","40-18-0",0.69
+"27","1999","Donna Fields","-","32-19-0",0.627
+"28","1998","Donna Fields","-","42-23-0",0.646
+"29","1997","","-","NA-NA-0",NA

@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","La Verne","341","2025","Tara Anaya","D-III","SCIAC",0,0,0,0
-"2","La Verne","341","2024","Tara Anaya","D-III","SCIAC",13,24,0,0.351
-"3","La Verne","341","2023","Dennis Blas","D-III","SCIAC",21,17,0,0.553
-"4","La Verne","341","2022","Dennis Blas","D-III","SCIAC",26,16,0,0.619
-"5","La Verne","341","2021","Dennis Blas","D-III","SCIAC",3,5,0,0.375
-"6","La Verne","341","2020","Dennis Blas","D-III","SCIAC",11,5,0,0.688
-"7","La Verne","341","2019","Henry Moranchel","D-III","SCIAC",17,23,0,0.425
-"8","La Verne","341","2018","Julie Smith","D-III","SCIAC",28,16,NA,0.636
-"9","La Verne","341","2017","Julie Smith","D-III","SCIAC",31,14,0,0.689
-"10","La Verne","341","2016","Julie Smith","D-III","SCIAC",31,11,0,0.738
-"11","La Verne","341","2015","Julie Smith","D-III","SCIAC",23,19,0,0.548
-"12","La Verne","341","2014","Julie Smith","D-III","SCIAC",20,20,0,0.5
-"13","La Verne","341","2013","Julie Smith","D-III","SCIAC",25,16,0,0.61
-"14","La Verne","341","2012","Julie Smith","D-III","SCIAC",19,17,0,0.528
-"15","La Verne","341","2011","Julie Smith","D-III","SCIAC",26,16,0,0.619
-"16","La Verne","341","2010","Julie Smith","D-III","SCIAC",27,20,0,0.574
-"17","La Verne","341","2009","Julie Smith","D-III","SCIAC",29,17,0,0.63
-"18","La Verne","341","2008","Julie Smith","D-III","SCIAC",28,19,0,0.596
-"19","La Verne","341","2007","Anna Ferrara","D-III","SCIAC",23,17,0,0.575
-"20","La Verne","341","2006","Robin Haaker","D-III","SCIAC",31,12,0,0.721
-"21","La Verne","341","2005","Robin Haaker","D-III","SCIAC",27,13,0,0.675
-"22","La Verne","341","2004","Robin Haaker","D-III","SCIAC",27,14,0,0.659
-"23","La Verne","341","2003","Julie Kline","D-III","SCIAC",30,14,0,0.682
-"24","La Verne","341","2002","Julie Kline","D-III","SCIAC",37,6,1,0.852
-"25","La Verne","341","2001","Julie Kline","D-III","-",33,10,NA,0.767
-"26","La Verne","341","1900","Julie Kline","D-III","-",20,21,NA,0.488
-"27","La Verne","341","1999","Julie Kline","D-III","-",26,14,NA,0.65
-"28","La Verne","341","1998","Julie Kline","D-III","-",26,10,NA,0.722
-"29","La Verne","341","1997","Julie Kline","D-III","-",17,22,NA,0.436
-"30","La Verne","341","1996","Julie Kline","D-III","-",21,16,NA,0.568
-"31","La Verne","341","1995","Julie Kline","D-III","-",25,11,NA,0.694
-"32","La Verne","341","1994","Julie Kline","D-III","-",10,26,NA,0.278
-"33","La Verne","341","1993","Julie Kline","D-III","-",32,10,NA,0.762
-"34","La Verne","341","1992","Gary Stewart","D-III","-",15,26,NA,0.366
-"35","La Verne","341","1991","","D-III","-",NA,NA,NA,NA
-"36","La Verne","341","1990","","D-III","-",NA,NA,NA,NA
-"37","La Verne","341","1989","","D-III","-",NA,NA,NA,NA
-"38","La Verne","341","1988","","D-III","-",NA,NA,NA,NA
-"39","La Verne","341","1986","","D-III","-",NA,NA,NA,NA
-"40","La Verne","341","1985","","D-III","-",NA,NA,NA,NA
-"41","La Verne","341","1984","","D-III","-",NA,NA,NA,NA
-"42","La Verne","341","1983","","D-III","-",NA,NA,NA,NA
-"43","La Verne","341","","","","",778,517,1,0.601
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tara Anaya","SCIAC","0-0-0",0
+"2","2024","Tara Anaya","SCIAC","13-24-0",0.351
+"3","2023","Dennis Blas","SCIAC","21-17-0",0.553
+"4","2022","Dennis Blas","SCIAC","26-16-0",0.619
+"5","2021","Dennis Blas","SCIAC","3-5-0",0.375
+"6","2020","Dennis Blas","SCIAC","11-5-0",0.688
+"7","2019","Henry Moranchel","SCIAC","17-23-0",0.425
+"8","2018","Julie Smith","SCIAC","28-16-0",0.636
+"9","2017","Julie Smith","SCIAC","31-14-0",0.689
+"10","2016","Julie Smith","SCIAC","31-11-0",0.738
+"11","2015","Julie Smith","SCIAC","23-19-0",0.548
+"12","2014","Julie Smith","SCIAC","20-20-0",0.5
+"13","2013","Julie Smith","SCIAC","25-16-0",0.61
+"14","2012","Julie Smith","SCIAC","19-17-0",0.528
+"15","2011","Julie Smith","SCIAC","26-16-0",0.619
+"16","2010","Julie Smith","SCIAC","27-20-0",0.574
+"17","2009","Julie Smith","SCIAC","29-17-0",0.63
+"18","2008","Julie Smith","SCIAC","28-19-0",0.596
+"19","2007","Anna Ferrara","SCIAC","23-17-0",0.575
+"20","2006","Robin Haaker","SCIAC","31-12-0",0.721
+"21","2005","Robin Haaker","SCIAC","27-13-0",0.675
+"22","2004","Robin Haaker","SCIAC","27-14-0",0.659
+"23","2003","Julie Kline","SCIAC","30-14-0",0.682
+"24","2002","Julie Kline","SCIAC","37-6-1",0.852
+"25","2001","Julie Kline","-","33-10-0",0.767
+"26","1900","Julie Kline","-","20-21-0",0.488
+"27","1999","Julie Kline","-","26-14-0",0.65
+"28","1998","Julie Kline","-","26-10-0",0.722
+"29","1997","Julie Kline","-","17-22-0",0.436
+"30","1996","Julie Kline","-","21-16-0",0.568
+"31","1995","Julie Kline","-","25-11-0",0.694
+"32","1994","Julie Kline","-","10-26-0",0.278
+"33","1993","Julie Kline","-","32-10-0",0.762
+"34","1992","Gary Stewart","-","15-26-0",0.366
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1986","","-","NA-NA-0",NA
+"40","1985","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA

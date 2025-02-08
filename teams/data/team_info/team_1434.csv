@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Waynesburg","1434","2025","Chris Brunson","D-III","PAC",0,0,0,0
-"2","Waynesburg","1434","2024","Brett Shimek","D-III","PAC",23,18,0,0.561
-"3","Waynesburg","1434","2023","Brett Shimek","D-III","PAC",29,10,0,0.744
-"4","Waynesburg","1434","2022","Brett Shimek","D-III","PAC",27,11,0,0.711
-"5","Waynesburg","1434","2021","Brett Shimek","D-III","PAC",12,22,0,0.353
-"6","Waynesburg","1434","2020","Brett Shimek","D-III","PAC",1,6,0,0.143
-"7","Waynesburg","1434","2019","Richele Hall","D-III","PAC",8,26,0,0.235
-"8","Waynesburg","1434","2018","Richele Hall","D-III","PAC",12,20,NA,0.375
-"9","Waynesburg","1434","2017","Richele Hall","D-III","PAC",15,21,0,0.417
-"10","Waynesburg","1434","2016","Richele Hall","D-III","PAC",17,23,0,0.425
-"11","Waynesburg","1434","2015","Richele Hall","D-III","PAC",12,26,0,0.316
-"12","Waynesburg","1434","2014","Lou Giachetti","D-III","PAC",10,22,0,0.313
-"13","Waynesburg","1434","2013","Lou Giachetti","D-III","PAC",15,21,0,0.417
-"14","Waynesburg","1434","2012","Lou Giachetti","D-III","PAC",18,18,0,0.5
-"15","Waynesburg","1434","2011","Lou Giachetti","D-III","PAC",16,16,0,0.5
-"16","Waynesburg","1434","2010","Lou Giachetti","D-III","PAC",13,19,0,0.406
-"17","Waynesburg","1434","2009","Lou Giachetti","D-III","PAC",14,16,0,0.467
-"18","Waynesburg","1434","2008","Terry Acker","D-III","PAC",18,20,0,0.474
-"19","Waynesburg","1434","2007","Terry Acker","D-III","PAC",9,17,0,0.346
-"20","Waynesburg","1434","2006","Terry Acker","D-III","PAC",15,18,0,0.455
-"21","Waynesburg","1434","2005","Terry Acker","D-III","PAC",13,14,1,0.482
-"22","Waynesburg","1434","2004","Terry Acker","D-III","PAC",7,20,0,0.259
-"23","Waynesburg","1434","2003","Terry Acker","","-",NA,NA,NA,NA
-"24","Waynesburg","1434","2002","Terry Acker","D-III","PAC",8,18,0,0.308
-"25","Waynesburg","1434","2001","Terry Acker","D-III","-",11,13,0,0.458
-"26","Waynesburg","1434","1900","","D-III","-",NA,NA,NA,NA
-"27","Waynesburg","1434","1999","Ellie Davis","D-III","-",6,27,0,0.182
-"28","Waynesburg","1434","1998","","D-III","-",NA,NA,NA,NA
-"29","Waynesburg","1434","1997","Julie Jones","D-III","-",1,29,NA,0.033
-"30","Waynesburg","1434","1996","Julie Jones","D-III","-",4,14,NA,0.222
-"31","Waynesburg","1434","1995","Julie Jones","D-III","-",10,13,2,0.44
-"32","Waynesburg","1434","1994","Rob Phillips","D-III","-",14,12,NA,0.538
-"33","Waynesburg","1434","1993","Rob Phillips","D-III","-",19,9,NA,0.679
-"34","Waynesburg","1434","1992","Rob Phillips","D-III","-",9,3,NA,0.75
-"35","Waynesburg","1434","1991","Rob Phillips","D-III","-",7,7,NA,0.5
-"36","Waynesburg","1434","1990","","D-III","-",NA,NA,NA,NA
-"37","Waynesburg","1434","1981","","","-",NA,NA,NA,NA
-"38","Waynesburg","1434","","","","",393,529,3,0.426
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Chris Brunson","PAC","0-0-0",0
+"2","2024","Brett Shimek","PAC","23-18-0",0.561
+"3","2023","Brett Shimek","PAC","29-10-0",0.744
+"4","2022","Brett Shimek","PAC","27-11-0",0.711
+"5","2021","Brett Shimek","PAC","12-22-0",0.353
+"6","2020","Brett Shimek","PAC","1-6-0",0.143
+"7","2019","Richele Hall","PAC","8-26-0",0.235
+"8","2018","Richele Hall","PAC","12-20-0",0.375
+"9","2017","Richele Hall","PAC","15-21-0",0.417
+"10","2016","Richele Hall","PAC","17-23-0",0.425
+"11","2015","Richele Hall","PAC","12-26-0",0.316
+"12","2014","Lou Giachetti","PAC","10-22-0",0.313
+"13","2013","Lou Giachetti","PAC","15-21-0",0.417
+"14","2012","Lou Giachetti","PAC","18-18-0",0.5
+"15","2011","Lou Giachetti","PAC","16-16-0",0.5
+"16","2010","Lou Giachetti","PAC","13-19-0",0.406
+"17","2009","Lou Giachetti","PAC","14-16-0",0.467
+"18","2008","Terry Acker","PAC","18-20-0",0.474
+"19","2007","Terry Acker","PAC","9-17-0",0.346
+"20","2006","Terry Acker","PAC","15-18-0",0.455
+"21","2005","Terry Acker","PAC","13-14-1",0.482
+"22","2004","Terry Acker","PAC","7-20-0",0.259
+"23","2003","Terry Acker","-","NA-NA-0",NA
+"24","2002","Terry Acker","PAC","8-18-0",0.308
+"25","2001","Terry Acker","-","11-13-0",0.458
+"26","1900","","-","NA-NA-0",NA
+"27","1999","Ellie Davis","-","6-27-0",0.182
+"28","1998","","-","NA-NA-0",NA
+"29","1997","Julie Jones","-","1-29-0",0.033
+"30","1996","Julie Jones","-","4-14-0",0.222
+"31","1995","Julie Jones","-","10-13-2",0.44
+"32","1994","Rob Phillips","-","14-12-0",0.538
+"33","1993","Rob Phillips","-","19-9-0",0.679
+"34","1992","Rob Phillips","-","9-3-0",0.75
+"35","1991","Rob Phillips","-","7-7-0",0.5
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

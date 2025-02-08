@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UNC Greensboro","459","2025","Janelle Breneman","D-I","SoCon",1,1,0,0.5
-"2","UNC Greensboro","459","2024","Janelle Breneman","D-I","SoCon",33,26,0,0.559
-"3","UNC Greensboro","459","2023","Janelle Breneman","D-I","SoCon",37,22,0,0.627
-"4","UNC Greensboro","459","2022","Janelle Breneman","D-I","SoCon",39,18,0,0.684
-"5","UNC Greensboro","459","2021","Janelle Breneman","D-I","SoCon",34,17,0,0.667
-"6","UNC Greensboro","459","2020","Janelle Breneman","D-I","SoCon",15,7,0,0.682
-"7","UNC Greensboro","459","2019","Janelle Breneman","D-I","SoCon",33,23,0,0.589
-"8","UNC Greensboro","459","2018","Janelle Breneman","D-I","SoCon",46,13,0,0.78
-"9","UNC Greensboro","459","2017","Janelle Breneman","D-I","SoCon",29,24,0,0.547
-"10","UNC Greensboro","459","2016","Janelle Breneman","D-I","SoCon",33,26,0,0.559
-"11","UNC Greensboro","459","2015","Janelle Breneman","D-I","SoCon",25,22,0,0.532
-"12","UNC Greensboro","459","2014","Janelle Breneman","D-I","SoCon",31,26,0,0.544
-"13","UNC Greensboro","459","2013","Janelle Breneman","D-I","SoCon",38,19,0,0.667
-"14","UNC Greensboro","459","2012","Jennifer Herzig","D-I","SoCon",22,34,0,0.393
-"15","UNC Greensboro","459","2011","Jennifer Herzig","D-I","SoCon",26,32,0,0.448
-"16","UNC Greensboro","459","2010","Jennifer Herzig","D-I","SoCon",27,30,0,0.474
-"17","UNC Greensboro","459","2009","Jennifer Herzig","D-I","SoCon",26,33,0,0.441
-"18","UNC Greensboro","459","2008","Jennifer Herzig","D-I","SoCon",23,33,0,0.411
-"19","UNC Greensboro","459","2007","Jennifer Herzig","D-I","SoCon",29,37,0,0.439
-"20","UNC Greensboro","459","2006","Jennifer Herzig","D-I","SoCon",20,42,0,0.323
-"21","UNC Greensboro","459","2005","Stephanie DeFeo","D-I","SoCon",20,40,0,0.333
-"22","UNC Greensboro","459","2004","Stephanie DeFeo","D-I","SoCon",30,30,0,0.5
-"23","UNC Greensboro","459","2003","Stephanie DeFeo","D-I","SoCon",38,18,0,0.679
-"24","UNC Greensboro","459","2002","Karen Yoder","D-I","SoCon",35,30,0,0.538
-"25","UNC Greensboro","459","2001","Karen Yoder","D-I","SoCon",31,27,0,0.534
-"26","UNC Greensboro","459","1900","Katie Flynn","D-I","SoCon",37,29,0,0.561
-"27","UNC Greensboro","459","1999","Katie Flynn","D-I","SoCon",31,33,0,0.484
-"28","UNC Greensboro","459","1998","Katie Flynn","D-I","-",32,25,NA,0.561
-"29","UNC Greensboro","459","1997","Melody Cope","D-I","Big South",40,25,0,0.615
-"30","UNC Greensboro","459","1996","Melody Cope","D-I","-",29,32,NA,0.475
-"31","UNC Greensboro","459","1995","Melody Cope","D-I","-",49,17,NA,0.742
-"32","UNC Greensboro","459","1994","Melody Cope","D-I","-",35,23,NA,0.603
-"33","UNC Greensboro","459","1993","Melody Cope","D-I","-",36,14,2,0.712
-"34","UNC Greensboro","459","1992","Melody Cope","D-I","-",31,18,1,0.63
-"35","UNC Greensboro","459","1991","","D-I","-",NA,NA,NA,NA
-"36","UNC Greensboro","459","1990","","D-I","-",NA,NA,NA,NA
-"37","UNC Greensboro","459","1989","","D-I","-",NA,NA,NA,NA
-"38","UNC Greensboro","459","1988","","D-I","-",NA,NA,NA,NA
-"39","UNC Greensboro","459","1987","","","-",NA,NA,NA,NA
-"40","UNC Greensboro","459","1986","","","-",NA,NA,NA,NA
-"41","UNC Greensboro","459","1985","","","-",NA,NA,NA,NA
-"42","UNC Greensboro","459","","","","",1041,846,3,0.552
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Janelle Breneman","SoCon","1-1-0",0.5
+"2","2024","Janelle Breneman","SoCon","33-26-0",0.559
+"3","2023","Janelle Breneman","SoCon","37-22-0",0.627
+"4","2022","Janelle Breneman","SoCon","39-18-0",0.684
+"5","2021","Janelle Breneman","SoCon","34-17-0",0.667
+"6","2020","Janelle Breneman","SoCon","15-7-0",0.682
+"7","2019","Janelle Breneman","SoCon","33-23-0",0.589
+"8","2018","Janelle Breneman","SoCon","46-13-0",0.78
+"9","2017","Janelle Breneman","SoCon","29-24-0",0.547
+"10","2016","Janelle Breneman","SoCon","33-26-0",0.559
+"11","2015","Janelle Breneman","SoCon","25-22-0",0.532
+"12","2014","Janelle Breneman","SoCon","31-26-0",0.544
+"13","2013","Janelle Breneman","SoCon","38-19-0",0.667
+"14","2012","Jennifer Herzig","SoCon","22-34-0",0.393
+"15","2011","Jennifer Herzig","SoCon","26-32-0",0.448
+"16","2010","Jennifer Herzig","SoCon","27-30-0",0.474
+"17","2009","Jennifer Herzig","SoCon","26-33-0",0.441
+"18","2008","Jennifer Herzig","SoCon","23-33-0",0.411
+"19","2007","Jennifer Herzig","SoCon","29-37-0",0.439
+"20","2006","Jennifer Herzig","SoCon","20-42-0",0.323
+"21","2005","Stephanie DeFeo","SoCon","20-40-0",0.333
+"22","2004","Stephanie DeFeo","SoCon","30-30-0",0.5
+"23","2003","Stephanie DeFeo","SoCon","38-18-0",0.679
+"24","2002","Karen Yoder","SoCon","35-30-0",0.538
+"25","2001","Karen Yoder","SoCon","31-27-0",0.534
+"26","1900","Katie Flynn","SoCon","37-29-0",0.561
+"27","1999","Katie Flynn","SoCon","31-33-0",0.484
+"28","1998","Katie Flynn","-","32-25-0",0.561
+"29","1997","Melody Cope","Big South","40-25-0",0.615
+"30","1996","Melody Cope","-","29-32-0",0.475
+"31","1995","Melody Cope","-","49-17-0",0.742
+"32","1994","Melody Cope","-","35-23-0",0.603
+"33","1993","Melody Cope","-","36-14-2",0.712
+"34","1992","Melody Cope","-","31-18-1",0.63
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

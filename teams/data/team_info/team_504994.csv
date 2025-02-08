@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Arizona Christian","504994","2022",NA,NA,"-",NA,NA,NA,0
-"2","Arizona Christian","504994","2017",NA,NA,"-",NA,NA,NA,NA
-"3","Arizona Christian","504994","2016",NA,NA,"-",NA,NA,NA,NA
-"4","Arizona Christian","504994","2015",NA,NA,"-",NA,NA,NA,NA
-"5","Arizona Christian","504994","2014",NA,NA,"-",NA,NA,NA,NA
-"6","Arizona Christian","504994","2013",NA,NA,"-",NA,NA,NA,NA
-"7","Arizona Christian","504994","2010",NA,NA,"-",NA,NA,NA,NA
-"8","Arizona Christian","504994","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2022",NA,"-","NA-NA-0",0
+"2","2017",NA,"-","NA-NA-0",NA
+"3","2016",NA,"-","NA-NA-0",NA
+"4","2015",NA,"-","NA-NA-0",NA
+"5","2014",NA,"-","NA-NA-0",NA
+"6","2013",NA,"-","NA-NA-0",NA
+"7","2010",NA,"-","NA-NA-0",NA

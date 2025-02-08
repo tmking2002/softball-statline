@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Kentucky","334","2025","Rachel Lawson","D-I","SEC",2,0,0,1
-"2","Kentucky","334","2024","Rachel Lawson","D-I","SEC",31,24,0,0.564
-"3","Kentucky","334","2023","Rachel Lawson","D-I","SEC",31,22,1,0.583
-"4","Kentucky","334","2022","Rachel Lawson","D-I","SEC",37,19,0,0.661
-"5","Kentucky","334","2021","Rachel Lawson","D-I","SEC",43,16,0,0.729
-"6","Kentucky","334","2020","Rachel Lawson","D-I","SEC",20,4,0,0.833
-"7","Kentucky","334","2019","Rachel Lawson","D-I","SEC",36,24,0,0.6
-"8","Kentucky","334","2018","Rachel Lawson","D-I","SEC",35,21,0,0.625
-"9","Kentucky","334","2017","Rachel Lawson","D-I","SEC",39,19,0,0.672
-"10","Kentucky","334","2016","Rachel Lawson","D-I","SEC",46,14,0,0.767
-"11","Kentucky","334","2015","Rachel Lawson","D-I","SEC",32,26,0,0.552
-"12","Kentucky","334","2014","Rachel Lawson","D-I","SEC",50,19,0,0.725
-"13","Kentucky","334","2013","Rachel Lawson","D-I","SEC",41,21,0,0.661
-"14","Kentucky","334","2012","Rachel Lawson","D-I","SEC",30,30,0,0.5
-"15","Kentucky","334","2011","Rachel Lawson","D-I","SEC",40,16,0,0.714
-"16","Kentucky","334","2010","Rachel Lawson","D-I","SEC",32,27,0,0.542
-"17","Kentucky","334","2009","Rachel Lawson","D-I","SEC",34,23,0,0.596
-"18","Kentucky","334","2008","Rachel Lawson","D-I","SEC",17,37,0,0.315
-"19","Kentucky","334","2007","Eileen Schmidt","D-I","SEC",20,31,0,0.392
-"20","Kentucky","334","2006","Eileen Schmidt","D-I","SEC",21,36,0,0.368
-"21","Kentucky","334","2005","Beth Kirchner","D-I","SEC",20,41,0,0.328
-"22","Kentucky","334","2004","Beth Kirchner","D-I","SEC",25,31,1,0.447
-"23","Kentucky","334","2003","Beth Kirchner","D-I","SEC",16,40,0,0.286
-"24","Kentucky","334","2002","Beth Kirchner","D-I","SEC",24,32,0,0.429
-"25","Kentucky","334","2001","Beth Kirchner","D-I","SEC",27,34,0,0.443
-"26","Kentucky","334","1900","Beth Kirchner","D-I","SEC",36,29,0,0.554
-"27","Kentucky","334","1999","Beth Kirchner","D-I","SEC",23,44,0,0.343
-"28","Kentucky","334","1998","Beth Kirchner","D-I","-",19,43,NA,0.306
-"29","Kentucky","334","1997","Beth Kirchner","D-I","SEC",10,44,0,0.185
-"30","Kentucky","334","1996","","D-I","-",NA,NA,NA,NA
-"31","Kentucky","334","1995","","D-I","-",NA,NA,NA,NA
-"32","Kentucky","334","1994","","D-I","-",NA,NA,NA,NA
-"33","Kentucky","334","1993","","D-I","-",NA,NA,NA,NA
-"34","Kentucky","334","1992","","D-I","-",NA,NA,NA,NA
-"35","Kentucky","334","1991","","D-I","-",NA,NA,NA,NA
-"36","Kentucky","334","1990","","D-I","-",NA,NA,NA,NA
-"37","Kentucky","334","1989","","D-I","-",NA,NA,NA,NA
-"38","Kentucky","334","1988","","D-I","-",NA,NA,NA,NA
-"39","Kentucky","334","1987","","D-I","-",NA,NA,NA,NA
-"40","Kentucky","334","","","","",837,767,2,0.522
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rachel Lawson","SEC","2-0-0",1
+"2","2024","Rachel Lawson","SEC","31-24-0",0.564
+"3","2023","Rachel Lawson","SEC","31-22-1",0.583
+"4","2022","Rachel Lawson","SEC","37-19-0",0.661
+"5","2021","Rachel Lawson","SEC","43-16-0",0.729
+"6","2020","Rachel Lawson","SEC","20-4-0",0.833
+"7","2019","Rachel Lawson","SEC","36-24-0",0.6
+"8","2018","Rachel Lawson","SEC","35-21-0",0.625
+"9","2017","Rachel Lawson","SEC","39-19-0",0.672
+"10","2016","Rachel Lawson","SEC","46-14-0",0.767
+"11","2015","Rachel Lawson","SEC","32-26-0",0.552
+"12","2014","Rachel Lawson","SEC","50-19-0",0.725
+"13","2013","Rachel Lawson","SEC","41-21-0",0.661
+"14","2012","Rachel Lawson","SEC","30-30-0",0.5
+"15","2011","Rachel Lawson","SEC","40-16-0",0.714
+"16","2010","Rachel Lawson","SEC","32-27-0",0.542
+"17","2009","Rachel Lawson","SEC","34-23-0",0.596
+"18","2008","Rachel Lawson","SEC","17-37-0",0.315
+"19","2007","Eileen Schmidt","SEC","20-31-0",0.392
+"20","2006","Eileen Schmidt","SEC","21-36-0",0.368
+"21","2005","Beth Kirchner","SEC","20-41-0",0.328
+"22","2004","Beth Kirchner","SEC","25-31-1",0.447
+"23","2003","Beth Kirchner","SEC","16-40-0",0.286
+"24","2002","Beth Kirchner","SEC","24-32-0",0.429
+"25","2001","Beth Kirchner","SEC","27-34-0",0.443
+"26","1900","Beth Kirchner","SEC","36-29-0",0.554
+"27","1999","Beth Kirchner","SEC","23-44-0",0.343
+"28","1998","Beth Kirchner","-","19-43-0",0.306
+"29","1997","Beth Kirchner","SEC","10-44-0",0.185
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

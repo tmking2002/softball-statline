@@ -1,23 +1,22 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Southern Nazarene","30152","2025","Brian Madden","D-II","GAC",5,3,0,0.625
-"2","Southern Nazarene","30152","2024","Brian Madden","D-II","GAC",40,17,0,0.702
-"3","Southern Nazarene","30152","2023","Brian Madden","D-II","GAC",25,28,0,0.472
-"4","Southern Nazarene","30152","2022","Brian Madden","D-II","GAC",25,25,0,0.5
-"5","Southern Nazarene","30152","2021","Tere Webber (20-20)Brian Madden (20-20)","D-II","GAC",20,20,0,0.5
-"6","Southern Nazarene","30152","2020","Tere Webber (16-7)Brian Madden (16-7)","D-II","GAC",16,7,0,0.696
-"7","Southern Nazarene","30152","2019","Tere Webber","D-II","GAC",25,30,0,0.455
-"8","Southern Nazarene","30152","2018","Tere Webber","D-II","GAC",27,28,1,0.491
-"9","Southern Nazarene","30152","2017","Tere Webber","D-II","GAC",25,34,0,0.424
-"10","Southern Nazarene","30152","2016","Tere Webber","D-II","GAC",28,31,0,0.475
-"11","Southern Nazarene","30152","2015","Tere Webber","D-II","GAC",20,30,0,0.4
-"12","Southern Nazarene","30152","2014","Tere Webber","","-",19,34,0,0.358
-"13","Southern Nazarene","30152","2013","Tere Webber","","-",19,33,0,0.365
-"14","Southern Nazarene","30152","2012","Tere Webber","","-",42,18,0,0.7
-"15","Southern Nazarene","30152","2011","Tere Webber","","-",44,16,NA,0.733
-"16","Southern Nazarene","30152","2010","Tere Webber","","-",33,23,NA,0.589
-"17","Southern Nazarene","30152","2009","Tere Webber","","-",36,19,NA,0.655
-"18","Southern Nazarene","30152","2008","Tere Webber","","-",16,31,NA,0.34
-"19","Southern Nazarene","30152","2007","Tere Webber","","-",19,27,NA,0.413
-"20","Southern Nazarene","30152","2006","Tere Webber","","-",35,25,NA,0.583
-"21","Southern Nazarene","30152","2005","Tere Webber","","-",12,40,NA,0.231
-"22","Southern Nazarene","30152","","","","",531,519,1,0.506
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brian Madden","GAC","5-3-0",0.625
+"2","2024","Brian Madden","GAC","40-17-0",0.702
+"3","2023","Brian Madden","GAC","25-28-0",0.472
+"4","2022","Brian Madden","GAC","25-25-0",0.5
+"5","2021","Tere Webber (20-20)Brian Madden (20-20)","GAC","20-20-0",0.5
+"6","2020","Tere Webber (16-7)Brian Madden (16-7)","GAC","16-7-0",0.696
+"7","2019","Tere Webber","GAC","25-30-0",0.455
+"8","2018","Tere Webber","GAC","27-28-1",0.491
+"9","2017","Tere Webber","GAC","25-34-0",0.424
+"10","2016","Tere Webber","GAC","28-31-0",0.475
+"11","2015","Tere Webber","GAC","20-30-0",0.4
+"12","2014","Tere Webber","-","19-34-0",0.358
+"13","2013","Tere Webber","-","19-33-0",0.365
+"14","2012","Tere Webber","-","42-18-0",0.7
+"15","2011","Tere Webber","-","44-16-0",0.733
+"16","2010","Tere Webber","-","33-23-0",0.589
+"17","2009","Tere Webber","-","36-19-0",0.655
+"18","2008","Tere Webber","-","16-31-0",0.34
+"19","2007","Tere Webber","-","19-27-0",0.413
+"20","2006","Tere Webber","-","35-25-0",0.583
+"21","2005","Tere Webber","-","12-40-0",0.231

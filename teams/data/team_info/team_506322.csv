@@ -1,8 +1,7 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Cleary","506322","2020",NA,NA,"-",NA,NA,NA,0
-"2","Cleary","506322","2019",NA,NA,"-",NA,NA,NA,0
-"3","Cleary","506322","2018",NA,NA,"-",NA,NA,NA,0
-"4","Cleary","506322","2017",NA,NA,"-",NA,NA,NA,NA
-"5","Cleary","506322","2016",NA,NA,"-",NA,NA,NA,NA
-"6","Cleary","506322","2015",NA,NA,"-",NA,NA,NA,NA
-"7","Cleary","506322","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2020",NA,"-","NA-NA-0",0
+"2","2019",NA,"-","NA-NA-0",0
+"3","2018",NA,"-","NA-NA-0",0
+"4","2017",NA,"-","NA-NA-0",NA
+"5","2016",NA,"-","NA-NA-0",NA
+"6","2015",NA,"-","NA-NA-0",NA

@@ -1,37 +1,36 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Regis (CO)","568","2025","Candi Letts","D-II","RMAC",0,5,0,0
-"2","Regis (CO)","568","2024","Nicole Thompson","D-II","RMAC",33,26,0,0.559
-"3","Regis (CO)","568","2023","Nicole Thompson","D-II","RMAC",33,25,0,0.569
-"4","Regis (CO)","568","2022","Nicole Thompson","D-II","RMAC",35,23,0,0.603
-"5","Regis (CO)","568","2021","Nicole Thompson","D-II","RMAC",21,17,0,0.553
-"6","Regis (CO)","568","2020","Nicole Thompson","D-II","RMAC",10,10,0,0.5
-"7","Regis (CO)","568","2019","Daven Bond","D-II","RMAC",15,28,0,0.349
-"8","Regis (CO)","568","2018","Daven Bond","D-II","RMAC",38,19,NA,0.667
-"9","Regis (CO)","568","2017","Daven Bond","D-II","RMAC",31,26,0,0.544
-"10","Regis (CO)","568","2016","Nicole Trimboli","D-II","RMAC",27,21,0,0.563
-"11","Regis (CO)","568","2015","Nicole Trimboli","D-II","RMAC",32,19,0,0.627
-"12","Regis (CO)","568","2014","Nicole Trimboli","D-II","RMAC",22,28,0,0.44
-"13","Regis (CO)","568","2013","Nicole Trimboli","D-II","RMAC",14,31,0,0.311
-"14","Regis (CO)","568","2012","Nicole Trimboli","D-II","RMAC",22,27,0,0.449
-"15","Regis (CO)","568","2011","Nicole Trimboli","D-II","RMAC",33,24,0,0.579
-"16","Regis (CO)","568","2010","Dana Lillard","D-II","RMAC",22,28,0,0.44
-"17","Regis (CO)","568","2009","Dana Lillard","D-II","RMAC",31,25,0,0.554
-"18","Regis (CO)","568","2008","Dana Lillard","D-II","RMAC",25,26,0,0.49
-"19","Regis (CO)","568","2007","Dana Lillard","D-II","RMAC",29,19,0,0.604
-"20","Regis (CO)","568","2006","Dana Lillard","D-II","RMAC",27,12,0,0.692
-"21","Regis (CO)","568","2005","Dana Lillard","D-II","RMAC",38,11,0,0.776
-"22","Regis (CO)","568","2004","Dana Lillard","D-II","RMAC",28,14,0,0.667
-"23","Regis (CO)","568","2003","Dana Lillard","D-II","RMAC",21,25,0,0.457
-"24","Regis (CO)","568","2002","Dana Lillard","D-II","-",37,21,0,0.638
-"25","Regis (CO)","568","2001","John Horan","D-II","-",29,25,0,0.537
-"26","Regis (CO)","568","1900","John Horan","D-II","-",27,23,0,0.54
-"27","Regis (CO)","568","1999","John Horan","D-II","-",26,12,0,0.684
-"28","Regis (CO)","568","1998","John Horan","D-II","-",28,13,0,0.683
-"29","Regis (CO)","568","1997","Michelle Goldman (30-14)John Horan (30-14)","D-II","-",30,14,0,0.682
-"30","Regis (CO)","568","1996","John Horan","D-II","-",26,23,1,0.53
-"31","Regis (CO)","568","1995","John Horan","D-II","-",23,23,0,0.5
-"32","Regis (CO)","568","1994","Mo Nelson","D-II","-",25,23,0,0.521
-"33","Regis (CO)","568","1993","Mo Nelson","D-II","-",27,15,0,0.643
-"34","Regis (CO)","568","1992","","D-II","-",NA,NA,NA,NA
-"35","Regis (CO)","568","1991","","D-II","-",NA,NA,NA,NA
-"36","Regis (CO)","568","","","","",865,681,1,0.559
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Candi Letts","RMAC","0-5-0",0
+"2","2024","Nicole Thompson","RMAC","33-26-0",0.559
+"3","2023","Nicole Thompson","RMAC","33-25-0",0.569
+"4","2022","Nicole Thompson","RMAC","35-23-0",0.603
+"5","2021","Nicole Thompson","RMAC","21-17-0",0.553
+"6","2020","Nicole Thompson","RMAC","10-10-0",0.5
+"7","2019","Daven Bond","RMAC","15-28-0",0.349
+"8","2018","Daven Bond","RMAC","38-19-0",0.667
+"9","2017","Daven Bond","RMAC","31-26-0",0.544
+"10","2016","Nicole Trimboli","RMAC","27-21-0",0.563
+"11","2015","Nicole Trimboli","RMAC","32-19-0",0.627
+"12","2014","Nicole Trimboli","RMAC","22-28-0",0.44
+"13","2013","Nicole Trimboli","RMAC","14-31-0",0.311
+"14","2012","Nicole Trimboli","RMAC","22-27-0",0.449
+"15","2011","Nicole Trimboli","RMAC","33-24-0",0.579
+"16","2010","Dana Lillard","RMAC","22-28-0",0.44
+"17","2009","Dana Lillard","RMAC","31-25-0",0.554
+"18","2008","Dana Lillard","RMAC","25-26-0",0.49
+"19","2007","Dana Lillard","RMAC","29-19-0",0.604
+"20","2006","Dana Lillard","RMAC","27-12-0",0.692
+"21","2005","Dana Lillard","RMAC","38-11-0",0.776
+"22","2004","Dana Lillard","RMAC","28-14-0",0.667
+"23","2003","Dana Lillard","RMAC","21-25-0",0.457
+"24","2002","Dana Lillard","-","37-21-0",0.638
+"25","2001","John Horan","-","29-25-0",0.537
+"26","1900","John Horan","-","27-23-0",0.54
+"27","1999","John Horan","-","26-12-0",0.684
+"28","1998","John Horan","-","28-13-0",0.683
+"29","1997","Michelle Goldman (30-14)John Horan (30-14)","-","30-14-0",0.682
+"30","1996","John Horan","-","26-23-1",0.53
+"31","1995","John Horan","-","23-23-0",0.5
+"32","1994","Mo Nelson","-","25-23-0",0.521
+"33","1993","Mo Nelson","-","27-15-0",0.643
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA

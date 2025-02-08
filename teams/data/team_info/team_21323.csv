@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Chestnut Hill","21323","2025","David Scott","D-II","CACC",0,0,0,0
-"2","Chestnut Hill","21323","2024","David Scott","D-II","CACC",3,29,0,0.094
-"3","Chestnut Hill","21323","2023","Francine Roseman","D-II","CACC",8,39,0,0.17
-"4","Chestnut Hill","21323","2022","Francine Roseman","D-II","CACC",9,39,0,0.188
-"5","Chestnut Hill","21323","2021","Francine Roseman","D-II","CACC",3,27,0,0.1
-"6","Chestnut Hill","21323","2020","Francine Roseman","D-II","CACC",1,5,0,0.167
-"7","Chestnut Hill","21323","2019","Pete Berrios","D-II","CACC",18,24,0,0.429
-"8","Chestnut Hill","21323","2018","Michael Gospodarek","D-II","CACC",6,27,NA,0.182
-"9","Chestnut Hill","21323","2017","Michael Gospodarek","D-II","CACC",14,28,0,0.333
-"10","Chestnut Hill","21323","2016","Michael Gospodarek","D-II","CACC",12,42,0,0.222
-"11","Chestnut Hill","21323","2015","Michael Gospodarek","D-II","CACC",9,30,0,0.231
-"12","Chestnut Hill","21323","2014","John Kelly","D-II","CACC",6,28,0,0.176
-"13","Chestnut Hill","21323","2013","John Kelly","D-II","CACC",11,27,0,0.289
-"14","Chestnut Hill","21323","2012","John Kelly","D-II","CACC",2,30,0,0.063
-"15","Chestnut Hill","21323","2011","Steve Carr","D-II","CACC",6,32,0,0.158
-"16","Chestnut Hill","21323","2010","Steve Carr","D-II","CACC",2,36,0,0.053
-"17","Chestnut Hill","21323","2009","Steve Carr","D-II","CACC",4,38,0,0.095
-"18","Chestnut Hill","21323","2008","Steve Carr","D-III","CACC",12,33,0,0.267
-"19","Chestnut Hill","21323","2007","Steve Carr","D-III","United East",9,18,0,0.333
-"20","Chestnut Hill","21323","2006","Steve Carr","D-III","AWCC",7,23,0,0.233
-"21","Chestnut Hill","21323","2005","Steve Carr","D-III","AWCC",4,20,0,0.167
-"22","Chestnut Hill","21323","2004","Steve Carr","D-III","AWCC",10,15,0,0.4
-"23","Chestnut Hill","21323","2003","Steve Carr","","-",NA,NA,NA,NA
-"24","Chestnut Hill","21323","2002","","D-III","-",NA,NA,NA,NA
-"25","Chestnut Hill","21323","2001","","D-III","-",NA,NA,NA,NA
-"26","Chestnut Hill","21323","1900","","D-III","-",NA,NA,NA,NA
-"27","Chestnut Hill","21323","1999","","D-III","-",NA,NA,NA,NA
-"28","Chestnut Hill","21323","1998","Valerie Brennan","D-III","-",4,10,NA,0.286
-"29","Chestnut Hill","21323","1997","Valerie Brennan","D-III","-",7,5,NA,0.583
-"30","Chestnut Hill","21323","1996","Valerie Brennan","D-III","-",8,6,NA,0.571
-"31","Chestnut Hill","21323","1995","","D-III","-",NA,NA,NA,NA
-"32","Chestnut Hill","21323","1994","","D-III","-",NA,NA,NA,NA
-"33","Chestnut Hill","21323","1993","","D-III","-",NA,NA,NA,NA
-"34","Chestnut Hill","21323","1992","","D-III","-",NA,NA,NA,NA
-"35","Chestnut Hill","21323","1991","","D-III","-",NA,NA,NA,NA
-"36","Chestnut Hill","21323","1990","","D-III","-",NA,NA,NA,NA
-"37","Chestnut Hill","21323","","","","",175,611,0,0.223
+"","season","head_coach","conference","record","win_perc"
+"1","2025","David Scott","CACC","0-0-0",0
+"2","2024","David Scott","CACC","3-29-0",0.094
+"3","2023","Francine Roseman","CACC","8-39-0",0.17
+"4","2022","Francine Roseman","CACC","9-39-0",0.188
+"5","2021","Francine Roseman","CACC","3-27-0",0.1
+"6","2020","Francine Roseman","CACC","1-5-0",0.167
+"7","2019","Pete Berrios","CACC","18-24-0",0.429
+"8","2018","Michael Gospodarek","CACC","6-27-0",0.182
+"9","2017","Michael Gospodarek","CACC","14-28-0",0.333
+"10","2016","Michael Gospodarek","CACC","12-42-0",0.222
+"11","2015","Michael Gospodarek","CACC","9-30-0",0.231
+"12","2014","John Kelly","CACC","6-28-0",0.176
+"13","2013","John Kelly","CACC","11-27-0",0.289
+"14","2012","John Kelly","CACC","2-30-0",0.063
+"15","2011","Steve Carr","CACC","6-32-0",0.158
+"16","2010","Steve Carr","CACC","2-36-0",0.053
+"17","2009","Steve Carr","CACC","4-38-0",0.095
+"18","2008","Steve Carr","CACC","12-33-0",0.267
+"19","2007","Steve Carr","United East","9-18-0",0.333
+"20","2006","Steve Carr","AWCC","7-23-0",0.233
+"21","2005","Steve Carr","AWCC","4-20-0",0.167
+"22","2004","Steve Carr","AWCC","10-15-0",0.4
+"23","2003","Steve Carr","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Valerie Brennan","-","4-10-0",0.286
+"29","1997","Valerie Brennan","-","7-5-0",0.583
+"30","1996","Valerie Brennan","-","8-6-0",0.571
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

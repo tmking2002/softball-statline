@@ -1,32 +1,31 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ohio Dominican","30119","2025","Marcella Vanlandingham","D-II","G-MAC",1,3,0,0.25
-"2","Ohio Dominican","30119","2024","Marcella Vanlandingham","D-II","G-MAC",35,15,0,0.7
-"3","Ohio Dominican","30119","2023","Marcella Vanlandingham","D-II","G-MAC",34,22,0,0.607
-"4","Ohio Dominican","30119","2022","Marcella Vanlandingham","D-II","G-MAC",35,19,0,0.648
-"5","Ohio Dominican","30119","2021","Marcella Vanlandingham","D-II","G-MAC",30,18,0,0.625
-"6","Ohio Dominican","30119","2020","Marcella Vanlandingham","D-II","G-MAC",7,13,0,0.35
-"7","Ohio Dominican","30119","2019","Marcella Vanlandingham","D-II","G-MAC",32,22,0,0.593
-"8","Ohio Dominican","30119","2018","Marcella Vanlandingham","D-II","G-MAC",36,21,0,0.632
-"9","Ohio Dominican","30119","2017","Marcella Vanlandingham","D-II","GLIAC",27,22,0,0.551
-"10","Ohio Dominican","30119","2016","Marcella Vanlandingham","D-II","GLIAC",25,27,0,0.481
-"11","Ohio Dominican","30119","2015","Marcella Vanlandingham","D-II","GLIAC",12,36,0,0.25
-"12","Ohio Dominican","30119","2014","Marcella Vanlandingham","D-II","GLIAC",30,29,0,0.508
-"13","Ohio Dominican","30119","2013","Marcella Vanlandingham","D-II","GLIAC",23,30,1,0.435
-"14","Ohio Dominican","30119","2012","Marcella Vanlandingham","D-II","GLIAC",26,28,0,0.481
-"15","Ohio Dominican","30119","2011","Marcella Vanlandingham","D-II","GLIAC",14,37,0,0.275
-"16","Ohio Dominican","30119","2010","Marcella Vanlandingham","","-",29,25,0,0.537
-"17","Ohio Dominican","30119","2009","Marcella Vanlandingham","","-",27,23,0,0.54
-"18","Ohio Dominican","30119","2008","Marcella Vanlandingham","","-",22,30,0,0.423
-"19","Ohio Dominican","30119","2007","Marcella Vanlandingham","","-",21,28,0,0.429
-"20","Ohio Dominican","30119","2006","Marcella Vanlandingham","","-",41,20,0,0.672
-"21","Ohio Dominican","30119","2005","Marcella Vanlandingham","","-",45,14,0,0.763
-"22","Ohio Dominican","30119","2004","Marcella Vanlandingham","","-",30,20,0,0.6
-"23","Ohio Dominican","30119","2003","Marcella Vanlandingham","","-",37,20,0,0.649
-"24","Ohio Dominican","30119","2002","Marcella Vanlandingham","","-",43,21,0,0.672
-"25","Ohio Dominican","30119","2001","Marcella Vanlandingham","","-",35,16,0,0.686
-"26","Ohio Dominican","30119","1900","Marcella Vanlandingham","","-",38,21,0,0.644
-"27","Ohio Dominican","30119","1999","Marcella Vanlandingham","","-",40,19,0,0.678
-"28","Ohio Dominican","30119","1998","Marcella Vanlandingham","","-",25,28,0,0.472
-"29","Ohio Dominican","30119","1997","Marcella Vanlandingham","","-",26,27,0,0.491
-"30","Ohio Dominican","30119","1996","Marcella Vanlandingham","","-",17,20,0,0.459
-"31","Ohio Dominican","30119","","","","",843,674,1,0.556
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Marcella Vanlandingham","G-MAC","1-3-0",0.25
+"2","2024","Marcella Vanlandingham","G-MAC","35-15-0",0.7
+"3","2023","Marcella Vanlandingham","G-MAC","34-22-0",0.607
+"4","2022","Marcella Vanlandingham","G-MAC","35-19-0",0.648
+"5","2021","Marcella Vanlandingham","G-MAC","30-18-0",0.625
+"6","2020","Marcella Vanlandingham","G-MAC","7-13-0",0.35
+"7","2019","Marcella Vanlandingham","G-MAC","32-22-0",0.593
+"8","2018","Marcella Vanlandingham","G-MAC","36-21-0",0.632
+"9","2017","Marcella Vanlandingham","GLIAC","27-22-0",0.551
+"10","2016","Marcella Vanlandingham","GLIAC","25-27-0",0.481
+"11","2015","Marcella Vanlandingham","GLIAC","12-36-0",0.25
+"12","2014","Marcella Vanlandingham","GLIAC","30-29-0",0.508
+"13","2013","Marcella Vanlandingham","GLIAC","23-30-1",0.435
+"14","2012","Marcella Vanlandingham","GLIAC","26-28-0",0.481
+"15","2011","Marcella Vanlandingham","GLIAC","14-37-0",0.275
+"16","2010","Marcella Vanlandingham","-","29-25-0",0.537
+"17","2009","Marcella Vanlandingham","-","27-23-0",0.54
+"18","2008","Marcella Vanlandingham","-","22-30-0",0.423
+"19","2007","Marcella Vanlandingham","-","21-28-0",0.429
+"20","2006","Marcella Vanlandingham","-","41-20-0",0.672
+"21","2005","Marcella Vanlandingham","-","45-14-0",0.763
+"22","2004","Marcella Vanlandingham","-","30-20-0",0.6
+"23","2003","Marcella Vanlandingham","-","37-20-0",0.649
+"24","2002","Marcella Vanlandingham","-","43-21-0",0.672
+"25","2001","Marcella Vanlandingham","-","35-16-0",0.686
+"26","1900","Marcella Vanlandingham","-","38-21-0",0.644
+"27","1999","Marcella Vanlandingham","-","40-19-0",0.678
+"28","1998","Marcella Vanlandingham","-","25-28-0",0.472
+"29","1997","Marcella Vanlandingham","-","26-27-0",0.491
+"30","1996","Marcella Vanlandingham","-","17-20-0",0.459

@@ -1,21 +1,20 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Indiana Tech","502330","2025",NA,NA,"-",NA,NA,NA,0
-"2","Indiana Tech","502330","2024",NA,NA,"-",NA,NA,NA,0
-"3","Indiana Tech","502330","2019",NA,NA,"-",NA,NA,NA,0
-"4","Indiana Tech","502330","2017",NA,NA,"-",NA,NA,NA,NA
-"5","Indiana Tech","502330","2016",NA,NA,"-",NA,NA,NA,NA
-"6","Indiana Tech","502330","2015",NA,NA,"-",NA,NA,NA,NA
-"7","Indiana Tech","502330","2014",NA,NA,"-",NA,NA,NA,NA
-"8","Indiana Tech","502330","2013",NA,NA,"-",NA,NA,NA,NA
-"9","Indiana Tech","502330","2012",NA,NA,"-",NA,NA,NA,NA
-"10","Indiana Tech","502330","2011",NA,NA,"-",NA,NA,NA,NA
-"11","Indiana Tech","502330","2010",NA,NA,"-",NA,NA,NA,NA
-"12","Indiana Tech","502330","2009",NA,NA,"-",NA,NA,NA,NA
-"13","Indiana Tech","502330","2008",NA,NA,"-",NA,NA,NA,NA
-"14","Indiana Tech","502330","2007",NA,NA,"-",NA,NA,NA,NA
-"15","Indiana Tech","502330","2006",NA,NA,"-",NA,NA,NA,NA
-"16","Indiana Tech","502330","2005",NA,NA,"-",NA,NA,NA,NA
-"17","Indiana Tech","502330","2004",NA,NA,"-",NA,NA,NA,NA
-"18","Indiana Tech","502330","2003",NA,NA,"-",NA,NA,NA,NA
-"19","Indiana Tech","502330","2002",NA,NA,"-",NA,NA,NA,NA
-"20","Indiana Tech","502330","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2019",NA,"-","NA-NA-0",0
+"4","2017",NA,"-","NA-NA-0",NA
+"5","2016",NA,"-","NA-NA-0",NA
+"6","2015",NA,"-","NA-NA-0",NA
+"7","2014",NA,"-","NA-NA-0",NA
+"8","2013",NA,"-","NA-NA-0",NA
+"9","2012",NA,"-","NA-NA-0",NA
+"10","2011",NA,"-","NA-NA-0",NA
+"11","2010",NA,"-","NA-NA-0",NA
+"12","2009",NA,"-","NA-NA-0",NA
+"13","2008",NA,"-","NA-NA-0",NA
+"14","2007",NA,"-","NA-NA-0",NA
+"15","2006",NA,"-","NA-NA-0",NA
+"16","2005",NA,"-","NA-NA-0",NA
+"17","2004",NA,"-","NA-NA-0",NA
+"18","2003",NA,"-","NA-NA-0",NA
+"19","2002",NA,"-","NA-NA-0",NA

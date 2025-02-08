@@ -1,19 +1,18 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ottawa (KS)","506046","2025",NA,NA,"-",NA,NA,NA,0
-"2","Ottawa (KS)","506046","2024",NA,NA,"-",NA,NA,NA,0
-"3","Ottawa (KS)","506046","2023",NA,NA,"-",NA,NA,NA,0
-"4","Ottawa (KS)","506046","2022",NA,NA,"-",NA,NA,NA,0
-"5","Ottawa (KS)","506046","2020",NA,NA,"-",NA,NA,NA,0
-"6","Ottawa (KS)","506046","2019",NA,NA,"-",NA,NA,NA,0
-"7","Ottawa (KS)","506046","2017",NA,NA,"-",NA,NA,NA,NA
-"8","Ottawa (KS)","506046","2015",NA,NA,"-",NA,NA,NA,NA
-"9","Ottawa (KS)","506046","2014",NA,NA,"-",NA,NA,NA,NA
-"10","Ottawa (KS)","506046","2013",NA,NA,"-",NA,NA,NA,NA
-"11","Ottawa (KS)","506046","2012",NA,NA,"-",NA,NA,NA,NA
-"12","Ottawa (KS)","506046","2010",NA,NA,"-",NA,NA,NA,NA
-"13","Ottawa (KS)","506046","2009",NA,NA,"-",NA,NA,NA,NA
-"14","Ottawa (KS)","506046","2007",NA,NA,"-",NA,NA,NA,NA
-"15","Ottawa (KS)","506046","2005",NA,NA,"-",NA,NA,NA,NA
-"16","Ottawa (KS)","506046","2004",NA,NA,"-",NA,NA,NA,NA
-"17","Ottawa (KS)","506046","2003",NA,NA,"-",NA,NA,NA,NA
-"18","Ottawa (KS)","506046","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2017",NA,"-","NA-NA-0",NA
+"8","2015",NA,"-","NA-NA-0",NA
+"9","2014",NA,"-","NA-NA-0",NA
+"10","2013",NA,"-","NA-NA-0",NA
+"11","2012",NA,"-","NA-NA-0",NA
+"12","2010",NA,"-","NA-NA-0",NA
+"13","2009",NA,"-","NA-NA-0",NA
+"14","2007",NA,"-","NA-NA-0",NA
+"15","2005",NA,"-","NA-NA-0",NA
+"16","2004",NA,"-","NA-NA-0",NA
+"17","2003",NA,"-","NA-NA-0",NA

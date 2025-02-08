@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Providence","556","2025","Kelsey Christensen","D-I","Big East",0,2,0,0
-"2","Providence","556","2024","Kelsey Christensen","D-I","Big East",22,23,1,0.489
-"3","Providence","556","2023","Jill Karwoski","D-I","Big East",15,32,0,0.319
-"4","Providence","556","2022","Jill Karwoski","D-I","Big East",25,21,0,0.543
-"5","Providence","556","2021","Jill Karwoski","D-I","Big East",5,16,1,0.25
-"6","Providence","556","2020","Jill Karwoski","D-I","Big East",6,11,0,0.353
-"7","Providence","556","2019","Jill Karwoski","D-I","Big East",30,22,0,0.577
-"8","Providence","556","2018","Kerri Jacklets","D-I","Big East",13,32,NA,0.289
-"9","Providence","556","2017","Kerri Jacklets","D-I","Big East",23,25,0,0.479
-"10","Providence","556","2016","Kerri Jacklets","D-I","Big East",21,28,0,0.429
-"11","Providence","556","2015","Kerri Jacklets","D-I","Big East",16,23,0,0.41
-"12","Providence","556","2014","Kerri Jacklets","D-I","Big East",6,29,0,0.171
-"13","Providence","556","2013","Kerri Jacklets","D-I","The American",24,31,1,0.438
-"14","Providence","556","2012","Kerri Jacklets","D-I","The American",17,36,0,0.321
-"15","Providence","556","2011","Kerri Jacklets","D-I","The American",23,30,0,0.434
-"16","Providence","556","2010","Kerri Jacklets","D-I","The American",22,28,0,0.44
-"17","Providence","556","2009","Kerri Jacklets","D-I","The American",17,34,0,0.333
-"18","Providence","556","2008","Kerri Jacklets","D-I","The American",25,25,2,0.5
-"19","Providence","556","2007","Kerri Jacklets","D-I","The American",23,24,0,0.489
-"20","Providence","556","2006","Kerri Jacklets","D-I","The American",29,19,1,0.602
-"21","Providence","556","2005","Dana Fulmer","D-I","The American",33,20,0,0.623
-"22","Providence","556","2004","Dana Fulmer","D-I","The American",34,20,1,0.627
-"23","Providence","556","2003","Dana Fulmer","D-I","The American",20,24,0,0.455
-"24","Providence","556","2002","Dana Fulmer","D-I","The American",16,36,1,0.311
-"25","Providence","556","2001","Dana Fulmer","D-I","The American",23,28,1,0.452
-"26","Providence","556","1900","Dana Fulmer","D-I","The American",21,28,0,0.429
-"27","Providence","556","1999","Dana Fulmer","D-I","The American",12,39,0,0.235
-"28","Providence","556","1998","Dana Fulmer","D-I","-",17,25,2,0.409
-"29","Providence","556","1997","Michelle Fagnant","D-I","The American",13,28,0,0.317
-"30","Providence","556","1996","Michelle Fagnant","D-I","-",21,21,1,0.5
-"31","Providence","556","1995","Jen Finley","D-I","-",38,17,NA,0.691
-"32","Providence","556","1994","Jen Finley","D-I","-",38,20,NA,0.655
-"33","Providence","556","1993","Jackie Barto","D-I","-",34,18,NA,0.654
-"34","Providence","556","1992","Jackie Barto","D-I","-",35,17,NA,0.673
-"35","Providence","556","1991","Jackie Barto","D-I","-",21,24,1,0.467
-"36","Providence","556","1990","John Marchetti","D-I","-",19,25,3,0.436
-"37","Providence","556","1989","John Marchetti","D-I","-",19,19,NA,0.5
-"38","Providence","556","1988","John Marchetti","D-I","-",12,32,NA,0.273
-"39","Providence","556","1987","John Marchetti","D-I","-",12,18,NA,0.4
-"40","Providence","556","1986","John Marchetti","D-I","-",10,20,NA,0.333
-"41","Providence","556","1985","","","-",NA,NA,NA,NA
-"42","Providence","556","1984","","","-",NA,NA,NA,NA
-"43","Providence","556","1983","","D-I","-",NA,NA,NA,NA
-"44","Providence","556","1982","","D-I","-",NA,NA,NA,NA
-"45","Providence","556","","","","",810,970,16,0.455
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kelsey Christensen","Big East","0-2-0",0
+"2","2024","Kelsey Christensen","Big East","22-23-1",0.489
+"3","2023","Jill Karwoski","Big East","15-32-0",0.319
+"4","2022","Jill Karwoski","Big East","25-21-0",0.543
+"5","2021","Jill Karwoski","Big East","5-16-1",0.25
+"6","2020","Jill Karwoski","Big East","6-11-0",0.353
+"7","2019","Jill Karwoski","Big East","30-22-0",0.577
+"8","2018","Kerri Jacklets","Big East","13-32-0",0.289
+"9","2017","Kerri Jacklets","Big East","23-25-0",0.479
+"10","2016","Kerri Jacklets","Big East","21-28-0",0.429
+"11","2015","Kerri Jacklets","Big East","16-23-0",0.41
+"12","2014","Kerri Jacklets","Big East","6-29-0",0.171
+"13","2013","Kerri Jacklets","The American","24-31-1",0.438
+"14","2012","Kerri Jacklets","The American","17-36-0",0.321
+"15","2011","Kerri Jacklets","The American","23-30-0",0.434
+"16","2010","Kerri Jacklets","The American","22-28-0",0.44
+"17","2009","Kerri Jacklets","The American","17-34-0",0.333
+"18","2008","Kerri Jacklets","The American","25-25-2",0.5
+"19","2007","Kerri Jacklets","The American","23-24-0",0.489
+"20","2006","Kerri Jacklets","The American","29-19-1",0.602
+"21","2005","Dana Fulmer","The American","33-20-0",0.623
+"22","2004","Dana Fulmer","The American","34-20-1",0.627
+"23","2003","Dana Fulmer","The American","20-24-0",0.455
+"24","2002","Dana Fulmer","The American","16-36-1",0.311
+"25","2001","Dana Fulmer","The American","23-28-1",0.452
+"26","1900","Dana Fulmer","The American","21-28-0",0.429
+"27","1999","Dana Fulmer","The American","12-39-0",0.235
+"28","1998","Dana Fulmer","-","17-25-2",0.409
+"29","1997","Michelle Fagnant","The American","13-28-0",0.317
+"30","1996","Michelle Fagnant","-","21-21-1",0.5
+"31","1995","Jen Finley","-","38-17-0",0.691
+"32","1994","Jen Finley","-","38-20-0",0.655
+"33","1993","Jackie Barto","-","34-18-0",0.654
+"34","1992","Jackie Barto","-","35-17-0",0.673
+"35","1991","Jackie Barto","-","21-24-1",0.467
+"36","1990","John Marchetti","-","19-25-3",0.436
+"37","1989","John Marchetti","-","19-19-0",0.5
+"38","1988","John Marchetti","-","12-32-0",0.273
+"39","1987","John Marchetti","-","12-18-0",0.4
+"40","1986","John Marchetti","-","10-20-0",0.333
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

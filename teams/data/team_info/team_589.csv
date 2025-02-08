@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rutgers-Newark","589","2025","Jackie Davis","D-III","NJAC",0,0,0,0
-"2","Rutgers-Newark","589","2024","Jackie Davis","D-III","NJAC",6,30,0,0.167
-"3","Rutgers-Newark","589","2023","Jackie Davis","D-III","NJAC",9,29,0,0.237
-"4","Rutgers-Newark","589","2022","Jackie Davis","D-III","NJAC",13,19,0,0.406
-"5","Rutgers-Newark","589","2021","Caitlyn Seamster","D-III","NJAC",2,17,0,0.105
-"6","Rutgers-Newark","589","2020","Caitlyn Seamster","D-III","NJAC",2,2,0,0.5
-"7","Rutgers-Newark","589","2019","Kristen Hunt","D-III","NJAC",16,24,0,0.4
-"8","Rutgers-Newark","589","2018","Kristen Hunt","D-III","NJAC",21,17,NA,0.553
-"9","Rutgers-Newark","589","2017","Kristen Hunt","D-III","NJAC",15,23,0,0.395
-"10","Rutgers-Newark","589","2016","Kristen Hunt","D-III","NJAC",22,20,0,0.524
-"11","Rutgers-Newark","589","2015","Patty Clarke","D-III","NJAC",18,20,0,0.474
-"12","Rutgers-Newark","589","2014","Patty Clarke","D-III","NJAC",12,26,0,0.316
-"13","Rutgers-Newark","589","2013","Patty Clarke","D-III","NJAC",10,28,0,0.263
-"14","Rutgers-Newark","589","2012","Joshua Coffing","D-III","NJAC",16,23,0,0.41
-"15","Rutgers-Newark","589","2011","Patty Clarke","D-III","NJAC",11,27,0,0.289
-"16","Rutgers-Newark","589","2010","Patty Clarke","D-III","NJAC",11,27,0,0.289
-"17","Rutgers-Newark","589","2009","Patty Clarke","D-III","NJAC",4,31,0,0.114
-"18","Rutgers-Newark","589","2008","Patty Clarke","D-III","NJAC",5,35,0,0.125
-"19","Rutgers-Newark","589","2007","Lauren Peloquin","D-III","NJAC",12,24,0,0.333
-"20","Rutgers-Newark","589","2006","Lauren Peloquin","D-III","NJAC",18,22,0,0.45
-"21","Rutgers-Newark","589","2005","Al Fecso","D-III","NJAC",13,23,0,0.361
-"22","Rutgers-Newark","589","2004","Al Fecso","D-III","NJAC",17,22,0,0.436
-"23","Rutgers-Newark","589","2003","Al Fecso","D-III","NJAC",5,27,0,0.156
-"24","Rutgers-Newark","589","2002","Celia Mosier","D-III","NJAC",5,27,0,0.156
-"25","Rutgers-Newark","589","2001","Celia Mosier","D-III","-",6,29,NA,0.171
-"26","Rutgers-Newark","589","1900","Celia Mosier","D-III","-",10,17,NA,0.37
-"27","Rutgers-Newark","589","1999","Lori DeLuca","D-III","-",5,16,NA,0.238
-"28","Rutgers-Newark","589","1998","Lori DeLuca","D-III","-",0,16,NA,0
-"29","Rutgers-Newark","589","1997","Jack Farrell","D-III","-",8,19,NA,0.296
-"30","Rutgers-Newark","589","1996","Jack Farrell","D-III","-",15,17,NA,0.469
-"31","Rutgers-Newark","589","1995","Linda Yost","D-III","-",NA,NA,NA,NA
-"32","Rutgers-Newark","589","1994","Linda Yost","D-III","-",13,9,NA,0.591
-"33","Rutgers-Newark","589","1993","Elaine McGrath","D-III","-",16,11,NA,0.593
-"34","Rutgers-Newark","589","1992","Elaine McGrath","D-III","-",7,11,NA,0.389
-"35","Rutgers-Newark","589","1991","Elaine McGrath","D-III","-",11,10,NA,0.524
-"36","Rutgers-Newark","589","1990","","D-III","-",NA,NA,NA,NA
-"37","Rutgers-Newark","589","1989","","D-III","-",NA,NA,NA,NA
-"38","Rutgers-Newark","589","1987","","D-III","-",NA,NA,NA,NA
-"39","Rutgers-Newark","589","1981","","","-",NA,NA,NA,NA
-"40","Rutgers-Newark","589","","","","",354,698,0,0.337
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jackie Davis","NJAC","0-0-0",0
+"2","2024","Jackie Davis","NJAC","6-30-0",0.167
+"3","2023","Jackie Davis","NJAC","9-29-0",0.237
+"4","2022","Jackie Davis","NJAC","13-19-0",0.406
+"5","2021","Caitlyn Seamster","NJAC","2-17-0",0.105
+"6","2020","Caitlyn Seamster","NJAC","2-2-0",0.5
+"7","2019","Kristen Hunt","NJAC","16-24-0",0.4
+"8","2018","Kristen Hunt","NJAC","21-17-0",0.553
+"9","2017","Kristen Hunt","NJAC","15-23-0",0.395
+"10","2016","Kristen Hunt","NJAC","22-20-0",0.524
+"11","2015","Patty Clarke","NJAC","18-20-0",0.474
+"12","2014","Patty Clarke","NJAC","12-26-0",0.316
+"13","2013","Patty Clarke","NJAC","10-28-0",0.263
+"14","2012","Joshua Coffing","NJAC","16-23-0",0.41
+"15","2011","Patty Clarke","NJAC","11-27-0",0.289
+"16","2010","Patty Clarke","NJAC","11-27-0",0.289
+"17","2009","Patty Clarke","NJAC","4-31-0",0.114
+"18","2008","Patty Clarke","NJAC","5-35-0",0.125
+"19","2007","Lauren Peloquin","NJAC","12-24-0",0.333
+"20","2006","Lauren Peloquin","NJAC","18-22-0",0.45
+"21","2005","Al Fecso","NJAC","13-23-0",0.361
+"22","2004","Al Fecso","NJAC","17-22-0",0.436
+"23","2003","Al Fecso","NJAC","5-27-0",0.156
+"24","2002","Celia Mosier","NJAC","5-27-0",0.156
+"25","2001","Celia Mosier","-","6-29-0",0.171
+"26","1900","Celia Mosier","-","10-17-0",0.37
+"27","1999","Lori DeLuca","-","5-16-0",0.238
+"28","1998","Lori DeLuca","-","0-16-0",0
+"29","1997","Jack Farrell","-","8-19-0",0.296
+"30","1996","Jack Farrell","-","15-17-0",0.469
+"31","1995","Linda Yost","-","NA-NA-0",NA
+"32","1994","Linda Yost","-","13-9-0",0.591
+"33","1993","Elaine McGrath","-","16-11-0",0.593
+"34","1992","Elaine McGrath","-","7-11-0",0.389
+"35","1991","Elaine McGrath","-","11-10-0",0.524
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1987","","-","NA-NA-0",NA
+"39","1981","","-","NA-NA-0",NA

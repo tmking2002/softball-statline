@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Keystone","30047","2025","Mariah Ford","D-III","United East",0,0,0,0
-"2","Keystone","30047","2024","Mariah Ford","D-III","United East",12,17,0,0.414
-"3","Keystone","30047","2023","Mariah Ford","D-III","CSAC",10,21,0,0.323
-"4","Keystone","30047","2022","Gary Wilmet (10-14)Alison Ritter (4-3)","D-III","CSAC",14,17,0,0.452
-"5","Keystone","30047","2021","Alison Ritter","D-III","CSAC",15,8,0,0.652
-"6","Keystone","30047","2020","Alison Ritter","D-III","CSAC",1,7,0,0.125
-"7","Keystone","30047","2019","Alison Ritter","D-III","CSAC",14,28,0,0.333
-"8","Keystone","30047","2018","Alison Ritter","D-III","CSAC",13,27,NA,0.325
-"9","Keystone","30047","2017","Alison Ritter","D-III","CSAC",13,23,0,0.361
-"10","Keystone","30047","2016","Renee Barrows","D-III","CSAC",15,23,0,0.395
-"11","Keystone","30047","2015","Renee Barrows","D-III","CSAC",13,19,0,0.406
-"12","Keystone","30047","2014","Renee Barrows","D-III","CSAC",12,24,0,0.333
-"13","Keystone","30047","2013","Renee Barrows","D-III","CSAC",24,21,0,0.533
-"14","Keystone","30047","2012","Karly Evans","D-III","CSAC",19,17,0,0.528
-"15","Keystone","30047","2011","Juli Greep","D-III","CSAC",13,17,0,0.433
-"16","Keystone","30047","2010","Juli Greep","D-III","CSAC",13,24,1,0.355
-"17","Keystone","30047","2009","Juli Greep","D-III","CSAC",12,22,0,0.353
-"18","Keystone","30047","2008","Todd Hoskins","D-III","United East",9,23,0,0.281
-"19","Keystone","30047","2007","Todd Hoskins","","United East",3,28,0,0.097
-"20","Keystone","30047","2006","Todd Hoskins","","United East",3,31,0,0.088
-"21","Keystone","30047","2005","","","-",NA,NA,NA,NA
-"22","Keystone","30047","2004","","","-",NA,NA,NA,NA
-"23","Keystone","30047","","","","",228,397,1,0.365
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mariah Ford","United East","0-0-0",0
+"2","2024","Mariah Ford","United East","12-17-0",0.414
+"3","2023","Mariah Ford","CSAC","10-21-0",0.323
+"4","2022","Gary Wilmet (10-14)Alison Ritter (4-3)","CSAC","14-17-0",0.452
+"5","2021","Alison Ritter","CSAC","15-8-0",0.652
+"6","2020","Alison Ritter","CSAC","1-7-0",0.125
+"7","2019","Alison Ritter","CSAC","14-28-0",0.333
+"8","2018","Alison Ritter","CSAC","13-27-0",0.325
+"9","2017","Alison Ritter","CSAC","13-23-0",0.361
+"10","2016","Renee Barrows","CSAC","15-23-0",0.395
+"11","2015","Renee Barrows","CSAC","13-19-0",0.406
+"12","2014","Renee Barrows","CSAC","12-24-0",0.333
+"13","2013","Renee Barrows","CSAC","24-21-0",0.533
+"14","2012","Karly Evans","CSAC","19-17-0",0.528
+"15","2011","Juli Greep","CSAC","13-17-0",0.433
+"16","2010","Juli Greep","CSAC","13-24-1",0.355
+"17","2009","Juli Greep","CSAC","12-22-0",0.353
+"18","2008","Todd Hoskins","United East","9-23-0",0.281
+"19","2007","Todd Hoskins","United East","3-28-0",0.097
+"20","2006","Todd Hoskins","United East","3-31-0",0.088
+"21","2005","","-","NA-NA-0",NA
+"22","2004","","-","NA-NA-0",NA

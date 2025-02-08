@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Pitt.-Greensburg","11839","2025","Chuck Myers","D-III","AMCC",0,0,0,0
-"2","Pitt.-Greensburg","11839","2024","Chuck Myers","D-III","AMCC",16,21,0,0.432
-"3","Pitt.-Greensburg","11839","2023","Chuck Myers","D-III","AMCC",9,27,0,0.25
-"4","Pitt.-Greensburg","11839","2022","Chuck Myers","D-III","AMCC",7,26,0,0.212
-"5","Pitt.-Greensburg","11839","2021","Chuck Myers","D-III","AMCC",11,20,1,0.359
-"6","Pitt.-Greensburg","11839","2020","Chuck Myers","D-III","AMCC",4,6,0,0.4
-"7","Pitt.-Greensburg","11839","2019","Chuck Myers","D-III","AMCC",9,27,0,0.25
-"8","Pitt.-Greensburg","11839","2018","Chuck Myers","D-III","AMCC",7,21,NA,0.25
-"9","Pitt.-Greensburg","11839","2017","Chuck Myers","D-III","AMCC",19,17,0,0.528
-"10","Pitt.-Greensburg","11839","2016","Chuck Myers","D-III","AMCC",14,27,0,0.341
-"11","Pitt.-Greensburg","11839","2015","Lindsay Freitag","D-III","AMCC",16,21,0,0.432
-"12","Pitt.-Greensburg","11839","2014","Bill Monstrola","D-III","AMCC",11,19,0,0.367
-"13","Pitt.-Greensburg","11839","2013","Bill Monstrola","D-III","AMCC",20,19,0,0.513
-"14","Pitt.-Greensburg","11839","2012","Bill Monstrola","D-III","AMCC",18,17,0,0.514
-"15","Pitt.-Greensburg","11839","2011","Bill Monstrola","D-III","AMCC",9,23,0,0.281
-"16","Pitt.-Greensburg","11839","2010","Dana Munchinski","D-III","AMCC",5,23,0,0.179
-"17","Pitt.-Greensburg","11839","2009","Dana Munchinski","D-III","AMCC",17,16,0,0.515
-"18","Pitt.-Greensburg","11839","2008","Dana Munchinski","D-III","AMCC",8,14,0,0.364
-"19","Pitt.-Greensburg","11839","2007","Dana Munchinski","D-III","AMCC",10,18,0,0.357
-"20","Pitt.-Greensburg","11839","2006","Erica Exler","D-III","AMCC",5,27,0,0.156
-"21","Pitt.-Greensburg","11839","2005","Erica Exler","D-III","AMCC",8,28,0,0.222
-"22","Pitt.-Greensburg","11839","2004","Mark Katarski","D-III","AMCC",2,12,0,0.143
-"23","Pitt.-Greensburg","11839","2003","","D-III","-",NA,NA,NA,NA
-"24","Pitt.-Greensburg","11839","2002","","","-",NA,NA,NA,NA
-"25","Pitt.-Greensburg","11839","","","","",225,429,1,0.344
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Chuck Myers","AMCC","0-0-0",0
+"2","2024","Chuck Myers","AMCC","16-21-0",0.432
+"3","2023","Chuck Myers","AMCC","9-27-0",0.25
+"4","2022","Chuck Myers","AMCC","7-26-0",0.212
+"5","2021","Chuck Myers","AMCC","11-20-1",0.359
+"6","2020","Chuck Myers","AMCC","4-6-0",0.4
+"7","2019","Chuck Myers","AMCC","9-27-0",0.25
+"8","2018","Chuck Myers","AMCC","7-21-0",0.25
+"9","2017","Chuck Myers","AMCC","19-17-0",0.528
+"10","2016","Chuck Myers","AMCC","14-27-0",0.341
+"11","2015","Lindsay Freitag","AMCC","16-21-0",0.432
+"12","2014","Bill Monstrola","AMCC","11-19-0",0.367
+"13","2013","Bill Monstrola","AMCC","20-19-0",0.513
+"14","2012","Bill Monstrola","AMCC","18-17-0",0.514
+"15","2011","Bill Monstrola","AMCC","9-23-0",0.281
+"16","2010","Dana Munchinski","AMCC","5-23-0",0.179
+"17","2009","Dana Munchinski","AMCC","17-16-0",0.515
+"18","2008","Dana Munchinski","AMCC","8-14-0",0.364
+"19","2007","Dana Munchinski","AMCC","10-18-0",0.357
+"20","2006","Erica Exler","AMCC","5-27-0",0.156
+"21","2005","Erica Exler","AMCC","8-28-0",0.222
+"22","2004","Mark Katarski","AMCC","2-12-0",0.143
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

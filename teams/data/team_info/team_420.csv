@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Middlebury","420","2025","Kelly Bevere","D-III","NESCAC",0,0,0,0
-"2","Middlebury","420","2024","Kelly Bevere","D-III","NESCAC",23,12,0,0.657
-"3","Middlebury","420","2023","Kelly Bevere","D-III","NESCAC",18,17,0,0.514
-"4","Middlebury","420","2022","Kelly Bevere","D-III","NESCAC",20,10,0,0.667
-"5","Middlebury","420","2021","Kelly Bevere","D-III","NESCAC",6,10,0,0.375
-"6","Middlebury","420","2020","Kelly Bevere","D-III","NESCAC",NA,NA,NA,0
-"7","Middlebury","420","2019","Kelly Bevere","D-III","NESCAC",12,19,0,0.387
-"8","Middlebury","420","2018","Kelly Bevere","D-III","NESCAC",20,11,NA,0.645
-"9","Middlebury","420","2017","Kelly Bevere","D-III","NESCAC",17,14,1,0.547
-"10","Middlebury","420","2016","Kelly Bevere","D-III","NESCAC",21,11,0,0.656
-"11","Middlebury","420","2015","Kelly Bevere","D-III","NESCAC",20,11,0,0.645
-"12","Middlebury","420","2014","Kelly Bevere","D-III","NESCAC",19,16,0,0.543
-"13","Middlebury","420","2013","Kelly Bevere","D-III","NESCAC",26,11,0,0.703
-"14","Middlebury","420","2012","Kelly Bevere","D-III","NESCAC",22,16,0,0.579
-"15","Middlebury","420","2011","Kelly Bevere","D-III","NESCAC",30,8,0,0.789
-"16","Middlebury","420","2010","Kelly Bevere","D-III","NESCAC",18,12,0,0.6
-"17","Middlebury","420","2009","Kelly Bevere","D-III","NESCAC",17,15,0,0.531
-"18","Middlebury","420","2008","Kelly Bevere","D-III","NESCAC",14,20,0,0.412
-"19","Middlebury","420","2007","Kelly Bevere","D-III","NESCAC",21,12,0,0.636
-"20","Middlebury","420","2006","Angela Totaro","D-III","NESCAC",15,9,0,0.625
-"21","Middlebury","420","2005","Angela Totaro","D-III","NESCAC",20,10,0,0.667
-"22","Middlebury","420","2004","Diane Boettcher","D-III","NESCAC",24,8,0,0.75
-"23","Middlebury","420","2003","Diane Boettcher","D-III","NESCAC",17,14,0,0.548
-"24","Middlebury","420","2002","Diane Boettcher","D-III","NESCAC",12,17,0,0.414
-"25","Middlebury","420","2001","Diane Boettcher","D-III","-",4,17,NA,0.19
-"26","Middlebury","420","1900","Diane Boettcher","D-III","-",5,21,2,0.214
-"27","Middlebury","420","1999","Diane Boettcher","D-III","-",2,18,NA,0.1
-"28","Middlebury","420","1998","Amy Carlson","D-III","-",5,10,NA,0.333
-"29","Middlebury","420","1997","","D-III","-",NA,NA,NA,NA
-"30","Middlebury","420","1996","","D-III","-",NA,NA,NA,NA
-"31","Middlebury","420","1995","","D-III","-",NA,NA,NA,NA
-"32","Middlebury","420","1994","","D-III","-",NA,NA,NA,NA
-"33","Middlebury","420","1993","","D-III","-",NA,NA,NA,NA
-"34","Middlebury","420","1992","","D-III","-",NA,NA,NA,NA
-"35","Middlebury","420","1991","","D-III","-",NA,NA,NA,NA
-"36","Middlebury","420","1990","","D-III","-",NA,NA,NA,NA
-"37","Middlebury","420","1989","","D-III","-",NA,NA,NA,NA
-"38","Middlebury","420","1988","","D-III","-",NA,NA,NA,NA
-"39","Middlebury","420","1987","","","-",NA,NA,NA,NA
-"40","Middlebury","420","1986","","","-",NA,NA,NA,NA
-"41","Middlebury","420","1985","","","-",NA,NA,NA,NA
-"42","Middlebury","420","","","","",428,349,3,0.551
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kelly Bevere","NESCAC","0-0-0",0
+"2","2024","Kelly Bevere","NESCAC","23-12-0",0.657
+"3","2023","Kelly Bevere","NESCAC","18-17-0",0.514
+"4","2022","Kelly Bevere","NESCAC","20-10-0",0.667
+"5","2021","Kelly Bevere","NESCAC","6-10-0",0.375
+"6","2020","Kelly Bevere","NESCAC","NA-NA-0",0
+"7","2019","Kelly Bevere","NESCAC","12-19-0",0.387
+"8","2018","Kelly Bevere","NESCAC","20-11-0",0.645
+"9","2017","Kelly Bevere","NESCAC","17-14-1",0.547
+"10","2016","Kelly Bevere","NESCAC","21-11-0",0.656
+"11","2015","Kelly Bevere","NESCAC","20-11-0",0.645
+"12","2014","Kelly Bevere","NESCAC","19-16-0",0.543
+"13","2013","Kelly Bevere","NESCAC","26-11-0",0.703
+"14","2012","Kelly Bevere","NESCAC","22-16-0",0.579
+"15","2011","Kelly Bevere","NESCAC","30-8-0",0.789
+"16","2010","Kelly Bevere","NESCAC","18-12-0",0.6
+"17","2009","Kelly Bevere","NESCAC","17-15-0",0.531
+"18","2008","Kelly Bevere","NESCAC","14-20-0",0.412
+"19","2007","Kelly Bevere","NESCAC","21-12-0",0.636
+"20","2006","Angela Totaro","NESCAC","15-9-0",0.625
+"21","2005","Angela Totaro","NESCAC","20-10-0",0.667
+"22","2004","Diane Boettcher","NESCAC","24-8-0",0.75
+"23","2003","Diane Boettcher","NESCAC","17-14-0",0.548
+"24","2002","Diane Boettcher","NESCAC","12-17-0",0.414
+"25","2001","Diane Boettcher","-","4-17-0",0.19
+"26","1900","Diane Boettcher","-","5-21-2",0.214
+"27","1999","Diane Boettcher","-","2-18-0",0.1
+"28","1998","Amy Carlson","-","5-10-0",0.333
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

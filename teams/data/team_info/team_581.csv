@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rochester (NY)","581","2025","Abby Hurley-Martin","D-III","Liberty League",0,0,0,0
-"2","Rochester (NY)","581","2024","Abby Hurley-Martin","D-III","Liberty League",32,9,0,0.78
-"3","Rochester (NY)","581","2023","Margaret Yerdon-Grange","D-III","Liberty League",38,9,0,0.809
-"4","Rochester (NY)","581","2022","Margaret Yerdon-Grange","D-III","Liberty League",26,15,0,0.634
-"5","Rochester (NY)","581","2021","Margaret Yerdon-Grange","D-III","Liberty League",35,10,0,0.778
-"6","Rochester (NY)","581","2020","Margaret Yerdon-Grange","D-III","Liberty League",0,4,0,0
-"7","Rochester (NY)","581","2019","Margaret Yerdon-Grange","D-III","Liberty League",21,19,0,0.525
-"8","Rochester (NY)","581","2018","Margaret Yerdon-Grange","D-III","Liberty League",16,16,NA,0.5
-"9","Rochester (NY)","581","2017","Margaret Yerdon-Grange","D-III","Liberty League",21,15,0,0.583
-"10","Rochester (NY)","581","2016","Margaret Yerdon-Grange","D-III","Liberty League",27,23,0,0.54
-"11","Rochester (NY)","581","2015","Margaret Yerdon-Grange","D-III","Liberty League",29,13,0,0.69
-"12","Rochester (NY)","581","2014","Margaret Yerdon-Grange","D-III","Liberty League",32,14,0,0.696
-"13","Rochester (NY)","581","2013","Margaret Yerdon-Grange","D-III","Liberty League",23,19,0,0.548
-"14","Rochester (NY)","581","2012","Margaret Yerdon-Grange","D-III","Liberty League",29,15,0,0.659
-"15","Rochester (NY)","581","2011","Margaret Yerdon-Grange","D-III","Liberty League",26,15,0,0.634
-"16","Rochester (NY)","581","2010","Margaret Yerdon-Grange","D-III","Liberty League",22,19,0,0.537
-"17","Rochester (NY)","581","2009","Michelle Johnston","D-III","Liberty League",33,12,0,0.733
-"18","Rochester (NY)","581","2008","Michelle Johnston","D-III","Liberty League",32,12,0,0.727
-"19","Rochester (NY)","581","2007","Michelle Johnston","D-III","Liberty League",28,7,0,0.8
-"20","Rochester (NY)","581","2006","Michelle Johnston","D-III","Liberty League",24,19,0,0.558
-"21","Rochester (NY)","581","2005","Michelle Andre","D-III","Liberty League",27,18,0,0.6
-"22","Rochester (NY)","581","2004","","D-III","Liberty League",17,20,0,0.459
-"23","Rochester (NY)","581","2003","Kris Shanley","D-III","Liberty League",5,27,0,0.156
-"24","Rochester (NY)","581","2002","Kris Shanley","D-III","Liberty League",13,23,0,0.361
-"25","Rochester (NY)","581","2001","Kris Shanley","D-III","-",12,23,NA,0.343
-"26","Rochester (NY)","581","1900","JoLynne Corsi","D-III","-",10,27,0,0.27
-"27","Rochester (NY)","581","1999","","D-III","-",NA,NA,NA,NA
-"28","Rochester (NY)","581","1998","Kris Shanley","D-III","-",8,16,NA,0.333
-"29","Rochester (NY)","581","1997","","D-III","-",NA,NA,NA,NA
-"30","Rochester (NY)","581","1996","","D-III","-",NA,NA,NA,NA
-"31","Rochester (NY)","581","1995","","D-III","-",NA,NA,NA,NA
-"32","Rochester (NY)","581","1994","","D-III","-",NA,NA,NA,NA
-"33","Rochester (NY)","581","1993","","D-III","-",NA,NA,NA,NA
-"34","Rochester (NY)","581","1992","","D-III","-",NA,NA,NA,NA
-"35","Rochester (NY)","581","1991","","D-III","-",NA,NA,NA,NA
-"36","Rochester (NY)","581","1990","","D-III","-",NA,NA,NA,NA
-"37","Rochester (NY)","581","1989","","D-III","-",NA,NA,NA,NA
-"38","Rochester (NY)","581","1988","","D-III","-",NA,NA,NA,NA
-"39","Rochester (NY)","581","","","","",586,419,0,0.583
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Abby Hurley-Martin","Liberty League","0-0-0",0
+"2","2024","Abby Hurley-Martin","Liberty League","32-9-0",0.78
+"3","2023","Margaret Yerdon-Grange","Liberty League","38-9-0",0.809
+"4","2022","Margaret Yerdon-Grange","Liberty League","26-15-0",0.634
+"5","2021","Margaret Yerdon-Grange","Liberty League","35-10-0",0.778
+"6","2020","Margaret Yerdon-Grange","Liberty League","0-4-0",0
+"7","2019","Margaret Yerdon-Grange","Liberty League","21-19-0",0.525
+"8","2018","Margaret Yerdon-Grange","Liberty League","16-16-0",0.5
+"9","2017","Margaret Yerdon-Grange","Liberty League","21-15-0",0.583
+"10","2016","Margaret Yerdon-Grange","Liberty League","27-23-0",0.54
+"11","2015","Margaret Yerdon-Grange","Liberty League","29-13-0",0.69
+"12","2014","Margaret Yerdon-Grange","Liberty League","32-14-0",0.696
+"13","2013","Margaret Yerdon-Grange","Liberty League","23-19-0",0.548
+"14","2012","Margaret Yerdon-Grange","Liberty League","29-15-0",0.659
+"15","2011","Margaret Yerdon-Grange","Liberty League","26-15-0",0.634
+"16","2010","Margaret Yerdon-Grange","Liberty League","22-19-0",0.537
+"17","2009","Michelle Johnston","Liberty League","33-12-0",0.733
+"18","2008","Michelle Johnston","Liberty League","32-12-0",0.727
+"19","2007","Michelle Johnston","Liberty League","28-7-0",0.8
+"20","2006","Michelle Johnston","Liberty League","24-19-0",0.558
+"21","2005","Michelle Andre","Liberty League","27-18-0",0.6
+"22","2004","","Liberty League","17-20-0",0.459
+"23","2003","Kris Shanley","Liberty League","5-27-0",0.156
+"24","2002","Kris Shanley","Liberty League","13-23-0",0.361
+"25","2001","Kris Shanley","-","12-23-0",0.343
+"26","1900","JoLynne Corsi","-","10-27-0",0.27
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Kris Shanley","-","8-16-0",0.333
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA

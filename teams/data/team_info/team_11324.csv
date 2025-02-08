@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Agnes Scott","11324","2025","Courtney Knight","D-III","CCS",0,0,0,0
-"2","Agnes Scott","11324","2024","Courtney Knight","D-III","CCS",13,26,0,0.333
-"3","Agnes Scott","11324","2023","Kerry Busby","D-III","CCS",13,26,0,0.333
-"4","Agnes Scott","11324","2022","Kerry Busby","D-III","USA South",8,26,0,0.235
-"5","Agnes Scott","11324","2021","Kerry Busby","D-III","USA South",5,11,0,0.313
-"6","Agnes Scott","11324","2020","Kerry Busby","D-III","USA South",2,8,0,0.2
-"7","Agnes Scott","11324","2019","Kerry Busby","D-III","USA South",6,28,0,0.176
-"8","Agnes Scott","11324","2018","Kerry Busby","D-III","USA South",5,29,NA,0.147
-"9","Agnes Scott","11324","2017","Kerry Busby","D-III","USA South",0,32,0,0
-"10","Agnes Scott","11324","2016","Talya Trudell DiGirolamo","D-III","Great South",10,29,0,0.256
-"11","Agnes Scott","11324","2015","Talya Trudell DiGirolamo","D-III","Great South",12,26,0,0.316
-"12","Agnes Scott","11324","2014","Talya Trudell DiGirolamo","D-III","Great South",23,22,0,0.511
-"13","Agnes Scott","11324","2013","Talya Trudell DiGirolamo","D-III","Great South",19,14,0,0.576
-"14","Agnes Scott","11324","2012","Talya Trudell DiGirolamo","D-III","Great South",19,15,0,0.559
-"15","Agnes Scott","11324","2011","Shawn Bowers","D-III","Great South",8,16,0,0.333
-"16","Agnes Scott","11324","2010","Shawn Bowers","D-III","Great South",8,25,0,0.242
-"17","Agnes Scott","11324","2009","Shawn Bowers","D-III","Great South",5,22,0,0.185
-"18","Agnes Scott","11324","2008","Jeannie Ray","D-III","Great South",0,14,0,0
-"19","Agnes Scott","11324","2007","Jeannie Ray","D-III","Great South",0,14,0,0
-"20","Agnes Scott","11324","2006","Jim Hilleary","D-III","Great South",NA,NA,NA,NA
-"21","Agnes Scott","11324","2005","Jim Hilleary","D-III","Great South",13,21,0,0.382
-"22","Agnes Scott","11324","2004","","D-III","-",5,29,0,0.147
-"23","Agnes Scott","11324","2003","","D-III","-",NA,NA,NA,NA
-"24","Agnes Scott","11324","2002","","D-III","-",10,11,0,0.476
-"25","Agnes Scott","11324","2001","","D-III","-",NA,NA,NA,NA
-"26","Agnes Scott","11324","1900","Lori Brown","D-III","-",0,19,0,0
-"27","Agnes Scott","11324","1999","Justin Hayes","D-III","-",1,19,NA,0.05
-"28","Agnes Scott","11324","1998","","D-III","-",NA,NA,NA,NA
-"29","Agnes Scott","11324","1997","","D-III","-",NA,NA,NA,NA
-"30","Agnes Scott","11324","1996","","D-III","-",NA,NA,NA,NA
-"31","Agnes Scott","11324","1995","","D-III","-",NA,NA,NA,NA
-"32","Agnes Scott","11324","1994","","D-III","-",NA,NA,NA,NA
-"33","Agnes Scott","11324","1993","","D-III","-",NA,NA,NA,NA
-"34","Agnes Scott","11324","1992","","D-III","-",NA,NA,NA,NA
-"35","Agnes Scott","11324","1991","","D-III","-",NA,NA,NA,NA
-"36","Agnes Scott","11324","1990","","D-III","-",NA,NA,NA,NA
-"37","Agnes Scott","11324","","","","",185,482,0,0.277
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Courtney Knight","CCS","0-0-0",0
+"2","2024","Courtney Knight","CCS","13-26-0",0.333
+"3","2023","Kerry Busby","CCS","13-26-0",0.333
+"4","2022","Kerry Busby","USA South","8-26-0",0.235
+"5","2021","Kerry Busby","USA South","5-11-0",0.313
+"6","2020","Kerry Busby","USA South","2-8-0",0.2
+"7","2019","Kerry Busby","USA South","6-28-0",0.176
+"8","2018","Kerry Busby","USA South","5-29-0",0.147
+"9","2017","Kerry Busby","USA South","0-32-0",0
+"10","2016","Talya Trudell DiGirolamo","Great South","10-29-0",0.256
+"11","2015","Talya Trudell DiGirolamo","Great South","12-26-0",0.316
+"12","2014","Talya Trudell DiGirolamo","Great South","23-22-0",0.511
+"13","2013","Talya Trudell DiGirolamo","Great South","19-14-0",0.576
+"14","2012","Talya Trudell DiGirolamo","Great South","19-15-0",0.559
+"15","2011","Shawn Bowers","Great South","8-16-0",0.333
+"16","2010","Shawn Bowers","Great South","8-25-0",0.242
+"17","2009","Shawn Bowers","Great South","5-22-0",0.185
+"18","2008","Jeannie Ray","Great South","0-14-0",0
+"19","2007","Jeannie Ray","Great South","0-14-0",0
+"20","2006","Jim Hilleary","Great South","NA-NA-0",NA
+"21","2005","Jim Hilleary","Great South","13-21-0",0.382
+"22","2004","","-","5-29-0",0.147
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","10-11-0",0.476
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Lori Brown","-","0-19-0",0
+"27","1999","Justin Hayes","-","1-19-0",0.05
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

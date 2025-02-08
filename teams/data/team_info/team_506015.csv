@@ -1,14 +1,13 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Benedictine (KS)","506015","2024",NA,NA,"-",NA,NA,NA,0
-"2","Benedictine (KS)","506015","2023",NA,NA,"-",NA,NA,NA,0
-"3","Benedictine (KS)","506015","2019",NA,NA,"-",NA,NA,NA,0
-"4","Benedictine (KS)","506015","2018",NA,NA,"-",NA,NA,NA,0
-"5","Benedictine (KS)","506015","2016",NA,NA,"-",NA,NA,NA,NA
-"6","Benedictine (KS)","506015","2015",NA,NA,"-",NA,NA,NA,NA
-"7","Benedictine (KS)","506015","2011",NA,NA,"-",NA,NA,NA,NA
-"8","Benedictine (KS)","506015","2009",NA,NA,"-",NA,NA,NA,NA
-"9","Benedictine (KS)","506015","2006",NA,NA,"-",NA,NA,NA,NA
-"10","Benedictine (KS)","506015","2004",NA,NA,"-",NA,NA,NA,NA
-"11","Benedictine (KS)","506015","2003",NA,NA,"-",NA,NA,NA,NA
-"12","Benedictine (KS)","506015","2002",NA,NA,"-",NA,NA,NA,NA
-"13","Benedictine (KS)","506015","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2019",NA,"-","NA-NA-0",0
+"4","2018",NA,"-","NA-NA-0",0
+"5","2016",NA,"-","NA-NA-0",NA
+"6","2015",NA,"-","NA-NA-0",NA
+"7","2011",NA,"-","NA-NA-0",NA
+"8","2009",NA,"-","NA-NA-0",NA
+"9","2006",NA,"-","NA-NA-0",NA
+"10","2004",NA,"-","NA-NA-0",NA
+"11","2003",NA,"-","NA-NA-0",NA
+"12","2002",NA,"-","NA-NA-0",NA

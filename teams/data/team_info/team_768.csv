@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","West Virginia","768","2025",NA,NA,"-",NA,NA,NA,0
-"2","West Virginia","768","2020",NA,NA,"-",NA,NA,NA,0
-"3","West Virginia","768","2006",NA,NA,"-",NA,NA,NA,NA
-"4","West Virginia","768","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2020",NA,"-","NA-NA-0",0
+"3","2006",NA,"-","NA-NA-0",NA

@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Chapman","134","2025","Janet Lloyd","D-III","SCIAC",2,0,0,1
-"2","Chapman","134","2024","Janet Lloyd","D-III","SCIAC",27,16,0,0.628
-"3","Chapman","134","2023","Janet Lloyd","D-III","SCIAC",27,16,0,0.628
-"4","Chapman","134","2022","Janet Lloyd","D-III","SCIAC",28,14,0,0.667
-"5","Chapman","134","2021","Janet Lloyd","D-III","SCIAC",10,13,0,0.435
-"6","Chapman","134","2020","Janet Lloyd","D-III","SCIAC",6,10,0,0.375
-"7","Chapman","134","2019","Janet Lloyd","D-III","SCIAC",19,23,0,0.452
-"8","Chapman","134","2018","Janet Lloyd","D-III","SCIAC",17,23,NA,0.425
-"9","Chapman","134","2017","Janet Lloyd","D-III","SCIAC",20,20,0,0.5
-"10","Chapman","134","2016","Janet Lloyd","D-III","SCIAC",13,25,0,0.342
-"11","Chapman","134","2015","Janet Lloyd","D-III","SCIAC",15,19,0,0.441
-"12","Chapman","134","2014","Janet Lloyd","D-III","SCIAC",24,18,0,0.571
-"13","Chapman","134","2013","Janet Lloyd","D-III","SCIAC",24,16,0,0.6
-"14","Chapman","134","2012","Janet Lloyd","D-III","SCIAC",22,13,0,0.629
-"15","Chapman","134","2011","Janet Lloyd","D-III","Division III Independents",9,31,0,0.225
-"16","Chapman","134","2010","Janet Lloyd","D-III","Division III Independents",16,20,0,0.444
-"17","Chapman","134","2009","Janet Lloyd","D-III","-",17,20,0,0.459
-"18","Chapman","134","2008","Janet Lloyd","D-III","-",27,11,0,0.711
-"19","Chapman","134","2007","Janet Lloyd","D-III","-",29,13,0,0.69
-"20","Chapman","134","2006","Janet Lloyd","D-III","-",28,10,0,0.737
-"21","Chapman","134","2005","Janet Lloyd","D-III","-",36,9,0,0.8
-"22","Chapman","134","2004","Janet Lloyd","D-III","-",36,11,0,0.766
-"23","Chapman","134","2003","Janet Lloyd","D-III","-",30,10,0,0.75
-"24","Chapman","134","2002","Janet Lloyd","D-III","-",16,24,0,0.4
-"25","Chapman","134","2001","Janet Lloyd","D-III","-",22,14,NA,0.611
-"26","Chapman","134","1900","Janet Lloyd","D-III","-",39,11,NA,0.78
-"27","Chapman","134","1999","Janet Lloyd","D-III","-",35,10,NA,0.778
-"28","Chapman","134","1998","Lisle Lloyd (39-9)Janet Lloyd (39-9)","D-III","-",39,9,NA,0.813
-"29","Chapman","134","1997","Lisle Lloyd (34-9)Janet Lloyd (34-9)","D-III","-",34,9,NA,0.791
-"30","Chapman","134","1996","Janet Lloyd (40-9)Lisle Lloyd (40-9)","D-III","-",40,9,NA,0.816
-"31","Chapman","134","1995","Janet Lloyd (43-5)Lisle Lloyd (43-5)","D-III","-",43,5,NA,0.896
-"32","Chapman","134","1994","Lisle Lloyd","D-II","-",22,11,NA,0.667
-"33","Chapman","134","1993","Lisle Lloyd","D-II","-",27,23,NA,0.54
-"34","Chapman","134","1992","Lisle Lloyd","D-II","-",26,21,NA,0.553
-"35","Chapman","134","1991","Lisle Lloyd","D-II","-",47,13,NA,0.783
-"36","Chapman","134","1990","Lisle Lloyd","D-II","-",38,24,NA,0.613
-"37","Chapman","134","1989","Lisle Lloyd","D-II","-",39,7,NA,0.848
-"38","Chapman","134","1988","Lisle Lloyd","D-II","-",35,27,NA,0.565
-"39","Chapman","134","1987","Lisle Lloyd","D-II","-",13,28,1,0.321
-"40","Chapman","134","1986","Lisle Lloyd","D-II","-",32,22,NA,0.593
-"41","Chapman","134","1985","Lisle Lloyd","D-II","-",23,40,NA,0.365
-"42","Chapman","134","1984","Lisle Lloyd","D-II","-",45,29,1,0.607
-"43","Chapman","134","1983","Lisle Lloyd","D-II","-",26,26,NA,0.5
-"44","Chapman","134","1982","","D-II","-",NA,NA,NA,NA
-"45","Chapman","134","1981","","","-",NA,NA,NA,NA
-"46","Chapman","134","","","","",1123,723,2,0.608
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Janet Lloyd","SCIAC","2-0-0",1
+"2","2024","Janet Lloyd","SCIAC","27-16-0",0.628
+"3","2023","Janet Lloyd","SCIAC","27-16-0",0.628
+"4","2022","Janet Lloyd","SCIAC","28-14-0",0.667
+"5","2021","Janet Lloyd","SCIAC","10-13-0",0.435
+"6","2020","Janet Lloyd","SCIAC","6-10-0",0.375
+"7","2019","Janet Lloyd","SCIAC","19-23-0",0.452
+"8","2018","Janet Lloyd","SCIAC","17-23-0",0.425
+"9","2017","Janet Lloyd","SCIAC","20-20-0",0.5
+"10","2016","Janet Lloyd","SCIAC","13-25-0",0.342
+"11","2015","Janet Lloyd","SCIAC","15-19-0",0.441
+"12","2014","Janet Lloyd","SCIAC","24-18-0",0.571
+"13","2013","Janet Lloyd","SCIAC","24-16-0",0.6
+"14","2012","Janet Lloyd","SCIAC","22-13-0",0.629
+"15","2011","Janet Lloyd","Division III Independents","9-31-0",0.225
+"16","2010","Janet Lloyd","Division III Independents","16-20-0",0.444
+"17","2009","Janet Lloyd","-","17-20-0",0.459
+"18","2008","Janet Lloyd","-","27-11-0",0.711
+"19","2007","Janet Lloyd","-","29-13-0",0.69
+"20","2006","Janet Lloyd","-","28-10-0",0.737
+"21","2005","Janet Lloyd","-","36-9-0",0.8
+"22","2004","Janet Lloyd","-","36-11-0",0.766
+"23","2003","Janet Lloyd","-","30-10-0",0.75
+"24","2002","Janet Lloyd","-","16-24-0",0.4
+"25","2001","Janet Lloyd","-","22-14-0",0.611
+"26","1900","Janet Lloyd","-","39-11-0",0.78
+"27","1999","Janet Lloyd","-","35-10-0",0.778
+"28","1998","Lisle Lloyd (39-9)Janet Lloyd (39-9)","-","39-9-0",0.813
+"29","1997","Lisle Lloyd (34-9)Janet Lloyd (34-9)","-","34-9-0",0.791
+"30","1996","Janet Lloyd (40-9)Lisle Lloyd (40-9)","-","40-9-0",0.816
+"31","1995","Janet Lloyd (43-5)Lisle Lloyd (43-5)","-","43-5-0",0.896
+"32","1994","Lisle Lloyd","-","22-11-0",0.667
+"33","1993","Lisle Lloyd","-","27-23-0",0.54
+"34","1992","Lisle Lloyd","-","26-21-0",0.553
+"35","1991","Lisle Lloyd","-","47-13-0",0.783
+"36","1990","Lisle Lloyd","-","38-24-0",0.613
+"37","1989","Lisle Lloyd","-","39-7-0",0.848
+"38","1988","Lisle Lloyd","-","35-27-0",0.565
+"39","1987","Lisle Lloyd","-","13-28-1",0.321
+"40","1986","Lisle Lloyd","-","32-22-0",0.593
+"41","1985","Lisle Lloyd","-","23-40-0",0.365
+"42","1984","Lisle Lloyd","-","45-29-1",0.607
+"43","1983","Lisle Lloyd","-","26-26-0",0.5
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

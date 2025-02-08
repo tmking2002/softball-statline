@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Columbus St.","159","2025","Brad Huskisson","D-II","Peach Belt",3,1,0,0.75
-"2","Columbus St.","159","2024","Brad Huskisson","D-II","Peach Belt",35,24,0,0.593
-"3","Columbus St.","159","2023","Brad Huskisson","D-II","Peach Belt",46,16,0,0.742
-"4","Columbus St.","159","2022","Brad Huskisson","D-II","Peach Belt",30,24,0,0.556
-"5","Columbus St.","159","2021","Brad Huskisson","D-II","Peach Belt",30,14,0,0.682
-"6","Columbus St.","159","2020","Brad Huskisson","D-II","Peach Belt",14,9,0,0.609
-"7","Columbus St.","159","2019","Brad Huskisson","D-II","Peach Belt",35,16,0,0.686
-"8","Columbus St.","159","2018","Brad Huskisson","D-II","Peach Belt",33,19,NA,0.635
-"9","Columbus St.","159","2017","Brad Huskisson","D-II","Peach Belt",27,26,1,0.509
-"10","Columbus St.","159","2016","Brad Huskisson","D-II","Peach Belt",27,26,0,0.509
-"11","Columbus St.","159","2015","Brad Huskisson","D-II","Peach Belt",24,26,0,0.48
-"12","Columbus St.","159","2014","Brad Huskisson","D-II","Peach Belt",31,20,0,0.608
-"13","Columbus St.","159","2013","Brad Huskisson","D-II","Peach Belt",41,20,0,0.672
-"14","Columbus St.","159","2012","Brad Huskisson","D-II","Peach Belt",40,20,0,0.667
-"15","Columbus St.","159","2011","Brad Huskisson","D-II","Peach Belt",37,16,0,0.698
-"16","Columbus St.","159","2010","Brad Huskisson","D-II","Peach Belt",21,28,1,0.43
-"17","Columbus St.","159","2009","Brad Huskisson","D-II","Peach Belt",30,31,0,0.492
-"18","Columbus St.","159","2008","Tiffany Tootle","D-II","Peach Belt",24,18,0,0.571
-"19","Columbus St.","159","2007","Tiffany Tootle","D-II","Peach Belt",58,5,0,0.921
-"20","Columbus St.","159","2006","Tiffany Tootle","D-II","Peach Belt",39,15,0,0.722
-"21","Columbus St.","159","2005","Tiffany Tootle","D-II","Peach Belt",35,14,0,0.714
-"22","Columbus St.","159","2004","Tiffany Tootle","D-II","Peach Belt",32,17,0,0.653
-"23","Columbus St.","159","2003","Tiffany Tootle","D-II","Peach Belt",41,13,0,0.759
-"24","Columbus St.","159","2002","Tiffany Tootle","D-II","Peach Belt",26,18,0,0.591
-"25","Columbus St.","159","2001","Tiffany Tootle","D-II","-",34,15,0,0.694
-"26","Columbus St.","159","1900","Tiffany Tootle","D-II","-",39,19,0,0.672
-"27","Columbus St.","159","1999","Judy Favor","D-II","-",46,7,NA,0.868
-"28","Columbus St.","159","1998","Judy Favor","D-II","-",43,11,NA,0.796
-"29","Columbus St.","159","1997","Judy Favor","D-II","-",43,9,NA,0.827
-"30","Columbus St.","159","1996","Judy Favor","D-II","-",37,13,NA,0.74
-"31","Columbus St.","159","1995","Judy Favor","D-II","-",38,12,NA,0.76
-"32","Columbus St.","159","1994","Judy Favor","D-II","-",39,15,NA,0.722
-"33","Columbus St.","159","1993","Judy Favor","D-II","-",30,22,NA,0.577
-"34","Columbus St.","159","1992","Larry Kees","D-II","-",26,132,NA,0.165
-"35","Columbus St.","159","1986","","D-II","-",NA,NA,NA,NA
-"36","Columbus St.","159","1982","","D-II","-",NA,NA,NA,NA
-"37","Columbus St.","159","","","","",1134,691,2,0.621
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brad Huskisson","Peach Belt","3-1-0",0.75
+"2","2024","Brad Huskisson","Peach Belt","35-24-0",0.593
+"3","2023","Brad Huskisson","Peach Belt","46-16-0",0.742
+"4","2022","Brad Huskisson","Peach Belt","30-24-0",0.556
+"5","2021","Brad Huskisson","Peach Belt","30-14-0",0.682
+"6","2020","Brad Huskisson","Peach Belt","14-9-0",0.609
+"7","2019","Brad Huskisson","Peach Belt","35-16-0",0.686
+"8","2018","Brad Huskisson","Peach Belt","33-19-0",0.635
+"9","2017","Brad Huskisson","Peach Belt","27-26-1",0.509
+"10","2016","Brad Huskisson","Peach Belt","27-26-0",0.509
+"11","2015","Brad Huskisson","Peach Belt","24-26-0",0.48
+"12","2014","Brad Huskisson","Peach Belt","31-20-0",0.608
+"13","2013","Brad Huskisson","Peach Belt","41-20-0",0.672
+"14","2012","Brad Huskisson","Peach Belt","40-20-0",0.667
+"15","2011","Brad Huskisson","Peach Belt","37-16-0",0.698
+"16","2010","Brad Huskisson","Peach Belt","21-28-1",0.43
+"17","2009","Brad Huskisson","Peach Belt","30-31-0",0.492
+"18","2008","Tiffany Tootle","Peach Belt","24-18-0",0.571
+"19","2007","Tiffany Tootle","Peach Belt","58-5-0",0.921
+"20","2006","Tiffany Tootle","Peach Belt","39-15-0",0.722
+"21","2005","Tiffany Tootle","Peach Belt","35-14-0",0.714
+"22","2004","Tiffany Tootle","Peach Belt","32-17-0",0.653
+"23","2003","Tiffany Tootle","Peach Belt","41-13-0",0.759
+"24","2002","Tiffany Tootle","Peach Belt","26-18-0",0.591
+"25","2001","Tiffany Tootle","-","34-15-0",0.694
+"26","1900","Tiffany Tootle","-","39-19-0",0.672
+"27","1999","Judy Favor","-","46-7-0",0.868
+"28","1998","Judy Favor","-","43-11-0",0.796
+"29","1997","Judy Favor","-","43-9-0",0.827
+"30","1996","Judy Favor","-","37-13-0",0.74
+"31","1995","Judy Favor","-","38-12-0",0.76
+"32","1994","Judy Favor","-","39-15-0",0.722
+"33","1993","Judy Favor","-","30-22-0",0.577
+"34","1992","Larry Kees","-","26-132-0",0.165
+"35","1986","","-","NA-NA-0",NA
+"36","1982","","-","NA-NA-0",NA

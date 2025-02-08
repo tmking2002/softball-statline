@@ -1,6 +1,5 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Kansas St.","327","1986",NA,"D-I","-",NA,NA,NA,NA
-"2","Kansas St.","327","1985",NA,"D-I","-",NA,NA,NA,NA
-"3","Kansas St.","327","1983",NA,"D-I","-",NA,NA,NA,NA
-"4","Kansas St.","327","1982",NA,"D-I","-",NA,NA,NA,NA
-"5","Kansas St.","327","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","1986",NA,"-","NA-NA-0",NA
+"2","1985",NA,"-","NA-NA-0",NA
+"3","1983",NA,"-","NA-NA-0",NA
+"4","1982",NA,"-","NA-NA-0",NA

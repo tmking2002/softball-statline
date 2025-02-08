@@ -1,51 +1,50 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","North Carolina","457","2025","Megan Smith Lyon","D-I","ACC",1,1,0,0.5
-"2","North Carolina","457","2024","Megan Smith Lyon","D-I","ACC",30,20,0,0.6
-"3","North Carolina","457","2023","Donna Papa","D-I","ACC",26,28,0,0.481
-"4","North Carolina","457","2022","Donna Papa","D-I","ACC",23,28,0,0.451
-"5","North Carolina","457","2021","Donna Papa","D-I","ACC",14,26,0,0.35
-"6","North Carolina","457","2020","Donna Papa","D-I","ACC",10,14,0,0.417
-"7","North Carolina","457","2019","Donna Papa","D-I","ACC",38,20,0,0.655
-"8","North Carolina","457","2018","Donna Papa","D-I","ACC",30,26,NA,0.536
-"9","North Carolina","457","2017","Donna Papa","D-I","ACC",40,21,0,0.656
-"10","North Carolina","457","2016","Donna Papa","D-I","ACC",32,25,0,0.561
-"11","North Carolina","457","2015","Donna Papa","D-I","ACC",37,16,0,0.698
-"12","North Carolina","457","2014","Donna Papa","D-I","ACC",24,26,0,0.48
-"13","North Carolina","457","2013","Donna Papa","D-I","ACC",40,21,0,0.656
-"14","North Carolina","457","2012","Donna Papa","D-I","ACC",43,15,0,0.741
-"15","North Carolina","457","2011","Donna Papa","D-I","ACC",34,21,0,0.618
-"16","North Carolina","457","2010","Donna Papa","D-I","ACC",42,20,0,0.677
-"17","North Carolina","457","2009","Donna Papa","D-I","ACC",47,13,0,0.783
-"18","North Carolina","457","2008","Donna Papa","D-I","ACC",50,12,1,0.802
-"19","North Carolina","457","2007","Donna Papa","D-I","ACC",46,21,0,0.687
-"20","North Carolina","457","2006","Donna Papa","D-I","ACC",48,19,0,0.716
-"21","North Carolina","457","2005","Donna Papa","D-I","ACC",38,29,0,0.567
-"22","North Carolina","457","2004","Donna Papa","D-I","ACC",44,22,0,0.667
-"23","North Carolina","457","2003","Donna Papa","D-I","ACC",40,22,1,0.643
-"24","North Carolina","457","2002","Donna Papa","D-I","ACC",34,30,0,0.531
-"25","North Carolina","457","2001","Donna Papa","D-I","ACC",38,19,1,0.664
-"26","North Carolina","457","1900","Donna Papa","D-I","ACC",47,17,0,0.734
-"27","North Carolina","457","1999","Donna Papa","D-I","ACC",39,22,0,0.639
-"28","North Carolina","457","1998","Donna Papa","D-I","-",32,21,NA,0.604
-"29","North Carolina","457","1997","Donna Papa","D-I","ACC",21,34,0,0.382
-"30","North Carolina","457","1996","Donna Papa","D-I","-",33,29,1,0.532
-"31","North Carolina","457","1995","Donna Papa","D-I","-",25,34,NA,0.424
-"32","North Carolina","457","1994","Donna Papa","D-I","-",32,25,NA,0.561
-"33","North Carolina","457","1993","Donna Papa","D-I","-",42,17,NA,0.712
-"34","North Carolina","457","1992","Donna Papa","D-I","-",45,18,NA,0.714
-"35","North Carolina","457","1991","Donna Papa","D-I","-",36,12,NA,0.75
-"36","North Carolina","457","1990","Donna Papa","D-I","-",38,18,NA,0.679
-"37","North Carolina","457","1989","Donna Papa","D-I","-",35,17,NA,0.673
-"38","North Carolina","457","1988","Donna Papa","D-I","-",25,23,NA,0.521
-"39","North Carolina","457","1987","Donna Papa","D-I","-",36,11,1,0.76
-"40","North Carolina","457","1986","Donna Papa","D-I","-",35,13,NA,0.729
-"41","North Carolina","457","1985","Susan Clark","","-",28,14,NA,0.667
-"42","North Carolina","457","1984","Susan Clark","","-",26,14,NA,0.65
-"43","North Carolina","457","1983","Susan Clark","","-",19,19,NA,0.5
-"44","North Carolina","457","1982","Susan Clark","","-",34,28,NA,0.548
-"45","North Carolina","457","1981","Susan Clark","","-",47,22,NA,0.681
-"46","North Carolina","457","1980","Susan Clark","","-",25,16,NA,0.61
-"47","North Carolina","457","1979","Beth Miller","","-",18,11,NA,0.621
-"48","North Carolina","457","1978","Dolly Hunter","","-",21,13,NA,0.618
-"49","North Carolina","457","1977","Dolly Hunter","","-",13,18,NA,0.419
-"50","North Carolina","457","","","","",1601,981,5,0.62
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Megan Smith Lyon","ACC","1-1-0",0.5
+"2","2024","Megan Smith Lyon","ACC","30-20-0",0.6
+"3","2023","Donna Papa","ACC","26-28-0",0.481
+"4","2022","Donna Papa","ACC","23-28-0",0.451
+"5","2021","Donna Papa","ACC","14-26-0",0.35
+"6","2020","Donna Papa","ACC","10-14-0",0.417
+"7","2019","Donna Papa","ACC","38-20-0",0.655
+"8","2018","Donna Papa","ACC","30-26-0",0.536
+"9","2017","Donna Papa","ACC","40-21-0",0.656
+"10","2016","Donna Papa","ACC","32-25-0",0.561
+"11","2015","Donna Papa","ACC","37-16-0",0.698
+"12","2014","Donna Papa","ACC","24-26-0",0.48
+"13","2013","Donna Papa","ACC","40-21-0",0.656
+"14","2012","Donna Papa","ACC","43-15-0",0.741
+"15","2011","Donna Papa","ACC","34-21-0",0.618
+"16","2010","Donna Papa","ACC","42-20-0",0.677
+"17","2009","Donna Papa","ACC","47-13-0",0.783
+"18","2008","Donna Papa","ACC","50-12-1",0.802
+"19","2007","Donna Papa","ACC","46-21-0",0.687
+"20","2006","Donna Papa","ACC","48-19-0",0.716
+"21","2005","Donna Papa","ACC","38-29-0",0.567
+"22","2004","Donna Papa","ACC","44-22-0",0.667
+"23","2003","Donna Papa","ACC","40-22-1",0.643
+"24","2002","Donna Papa","ACC","34-30-0",0.531
+"25","2001","Donna Papa","ACC","38-19-1",0.664
+"26","1900","Donna Papa","ACC","47-17-0",0.734
+"27","1999","Donna Papa","ACC","39-22-0",0.639
+"28","1998","Donna Papa","-","32-21-0",0.604
+"29","1997","Donna Papa","ACC","21-34-0",0.382
+"30","1996","Donna Papa","-","33-29-1",0.532
+"31","1995","Donna Papa","-","25-34-0",0.424
+"32","1994","Donna Papa","-","32-25-0",0.561
+"33","1993","Donna Papa","-","42-17-0",0.712
+"34","1992","Donna Papa","-","45-18-0",0.714
+"35","1991","Donna Papa","-","36-12-0",0.75
+"36","1990","Donna Papa","-","38-18-0",0.679
+"37","1989","Donna Papa","-","35-17-0",0.673
+"38","1988","Donna Papa","-","25-23-0",0.521
+"39","1987","Donna Papa","-","36-11-1",0.76
+"40","1986","Donna Papa","-","35-13-0",0.729
+"41","1985","Susan Clark","-","28-14-0",0.667
+"42","1984","Susan Clark","-","26-14-0",0.65
+"43","1983","Susan Clark","-","19-19-0",0.5
+"44","1982","Susan Clark","-","34-28-0",0.548
+"45","1981","Susan Clark","-","47-22-0",0.681
+"46","1980","Susan Clark","-","25-16-0",0.61
+"47","1979","Beth Miller","-","18-11-0",0.621
+"48","1978","Dolly Hunter","-","21-13-0",0.618
+"49","1977","Dolly Hunter","-","13-18-0",0.419

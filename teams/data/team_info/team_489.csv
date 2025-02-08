@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","N.C. Central","489","2025","Now-Allah James","D-I","MEAC",0,3,0,0
-"2","N.C. Central","489","2024","Cat Tarvin","D-I","MEAC",20,36,0,0.357
-"3","N.C. Central","489","2023","Cat Tarvin","D-I","MEAC",19,35,0,0.352
-"4","N.C. Central","489","2022","Cat Tarvin","D-I","MEAC",12,36,0,0.25
-"5","N.C. Central","489","2021","Cat Tarvin","D-I","MEAC",13,31,0,0.295
-"6","N.C. Central","489","2020","Vashion Johnson","D-I","MEAC",1,15,0,0.063
-"7","N.C. Central","489","2019","Vashion Johnson","D-I","MEAC",23,26,0,0.469
-"8","N.C. Central","489","2018","Vashion Johnson","D-I","MEAC",20,26,NA,0.435
-"9","N.C. Central","489","2017","Vashion Johnson","D-I","MEAC",13,30,0,0.302
-"10","N.C. Central","489","2016","Theresa Stephens","D-I","MEAC",8,42,0,0.16
-"11","N.C. Central","489","2015","Theresa Stephens","D-I","MEAC",18,27,0,0.4
-"12","N.C. Central","489","2014","Theresa Stephens","D-I","MEAC",9,35,0,0.205
-"13","N.C. Central","489","2013","Theresa Stephens","D-I","N.C. Central",5,44,0,0.102
-"14","N.C. Central","489","2012","Theresa Stephens","D-I","N.C. Central",4,45,0,0.082
-"15","N.C. Central","489","2011","Mike Charlton","D-I","N.C. Central",7,37,0,0.159
-"16","N.C. Central","489","2010","Mike Charlton","D-I","N.C. Central",7,37,0,0.159
-"17","N.C. Central","489","2009","Mike Charlton","D-II","-",5,43,0,0.104
-"18","N.C. Central","489","2008","Mike Charlton","D-II","CIAA",3,46,0,0.061
-"19","N.C. Central","489","2007","Larry Keen","D-II","CIAA",31,11,0,0.738
-"20","N.C. Central","489","2006","Larry Keen","D-II","CIAA",35,16,0,0.686
-"21","N.C. Central","489","2005","Larry Keen","D-II","CIAA",26,18,0,0.591
-"22","N.C. Central","489","2004","Larry Keen","D-II","CIAA",17,20,0,0.459
-"23","N.C. Central","489","2003","Larry Keen","D-II","CIAA",13,12,0,0.52
-"24","N.C. Central","489","2002","Larry Keen","D-II","CIAA",9,27,0,0.25
-"25","N.C. Central","489","2001","Lori Vazquez","D-II","-",17,30,0,0.362
-"26","N.C. Central","489","1900","Gia Wilkerson","D-II","-",6,25,0,0.194
-"27","N.C. Central","489","1999","Gia Wilkerson","D-II","-",16,15,0,0.516
-"28","N.C. Central","489","1998","Ingrid Wicker-McCree","D-II","-",12,19,0,0.387
-"29","N.C. Central","489","1997","Ingrid Wicker-McCree","D-II","-",24,16,0,0.6
-"30","N.C. Central","489","1996","Ingrid Wicker-McCree","D-II","-",15,12,0,0.556
-"31","N.C. Central","489","1995","Ingrid Wicker-McCree","D-II","-",14,19,0,0.424
-"32","N.C. Central","489","1994","William ""Red"" Jackson","D-II","-",17,10,0,0.63
-"33","N.C. Central","489","1993","William ""Red"" Jackson","D-II","-",22,7,0,0.759
-"34","N.C. Central","489","1992","William ""Red"" Jackson","D-II","-",20,11,0,0.645
-"35","N.C. Central","489","1991","William ""Red"" Jackson","D-II","-",15,14,0,0.517
-"36","N.C. Central","489","1990","William ""Red"" Jackson","D-II","-",18,11,0,0.621
-"37","N.C. Central","489","","","","",514,887,0,0.367
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Now-Allah James","MEAC","0-3-0",0
+"2","2024","Cat Tarvin","MEAC","20-36-0",0.357
+"3","2023","Cat Tarvin","MEAC","19-35-0",0.352
+"4","2022","Cat Tarvin","MEAC","12-36-0",0.25
+"5","2021","Cat Tarvin","MEAC","13-31-0",0.295
+"6","2020","Vashion Johnson","MEAC","1-15-0",0.063
+"7","2019","Vashion Johnson","MEAC","23-26-0",0.469
+"8","2018","Vashion Johnson","MEAC","20-26-0",0.435
+"9","2017","Vashion Johnson","MEAC","13-30-0",0.302
+"10","2016","Theresa Stephens","MEAC","8-42-0",0.16
+"11","2015","Theresa Stephens","MEAC","18-27-0",0.4
+"12","2014","Theresa Stephens","MEAC","9-35-0",0.205
+"13","2013","Theresa Stephens","N.C. Central","5-44-0",0.102
+"14","2012","Theresa Stephens","N.C. Central","4-45-0",0.082
+"15","2011","Mike Charlton","N.C. Central","7-37-0",0.159
+"16","2010","Mike Charlton","N.C. Central","7-37-0",0.159
+"17","2009","Mike Charlton","-","5-43-0",0.104
+"18","2008","Mike Charlton","CIAA","3-46-0",0.061
+"19","2007","Larry Keen","CIAA","31-11-0",0.738
+"20","2006","Larry Keen","CIAA","35-16-0",0.686
+"21","2005","Larry Keen","CIAA","26-18-0",0.591
+"22","2004","Larry Keen","CIAA","17-20-0",0.459
+"23","2003","Larry Keen","CIAA","13-12-0",0.52
+"24","2002","Larry Keen","CIAA","9-27-0",0.25
+"25","2001","Lori Vazquez","-","17-30-0",0.362
+"26","1900","Gia Wilkerson","-","6-25-0",0.194
+"27","1999","Gia Wilkerson","-","16-15-0",0.516
+"28","1998","Ingrid Wicker-McCree","-","12-19-0",0.387
+"29","1997","Ingrid Wicker-McCree","-","24-16-0",0.6
+"30","1996","Ingrid Wicker-McCree","-","15-12-0",0.556
+"31","1995","Ingrid Wicker-McCree","-","14-19-0",0.424
+"32","1994","William ""Red"" Jackson","-","17-10-0",0.63
+"33","1993","William ""Red"" Jackson","-","22-7-0",0.759
+"34","1992","William ""Red"" Jackson","-","20-11-0",0.645
+"35","1991","William ""Red"" Jackson","-","15-14-0",0.517
+"36","1990","William ""Red"" Jackson","-","18-11-0",0.621

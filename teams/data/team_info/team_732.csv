@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Utah","732","2025","Amy Hogue","D-I","Big 12",2,0,0,1
-"2","Utah","732","2024","Amy Hogue","D-I","Pac-12",35,22,0,0.614
-"3","Utah","732","2023","Amy Hogue","D-I","Pac-12",42,16,0,0.724
-"4","Utah","732","2022","Amy Hogue","D-I","Pac-12",27,27,0,0.5
-"5","Utah","732","2021","Amy Hogue","D-I","Pac-12",22,33,0,0.4
-"6","Utah","732","2020","Amy Hogue","D-I","Pac-12",14,4,0,0.778
-"7","Utah","732","2019","Amy Hogue","D-I","Pac-12",19,35,0,0.352
-"8","Utah","732","2018","Amy Hogue","D-I","Pac-12",20,30,NA,0.4
-"9","Utah","732","2017","Amy Hogue","D-I","Pac-12",37,16,0,0.698
-"10","Utah","732","2016","Amy Hogue","D-I","Pac-12",35,22,0,0.614
-"11","Utah","732","2015","Amy Hogue","D-I","Pac-12",36,19,0,0.655
-"12","Utah","732","2014","Amy Hogue","D-I","Pac-12",31,24,0,0.564
-"13","Utah","732","2013","Amy Hogue","D-I","Pac-12",24,30,1,0.445
-"14","Utah","732","2012","Amy Hogue","D-I","Pac-12",28,28,0,0.5
-"15","Utah","732","2011","Amy Hogue","D-I","Mountain West",29,22,0,0.569
-"16","Utah","732","2010","Amy Hogue","D-I","Mountain West",26,29,0,0.473
-"17","Utah","732","2009","Amy Hogue","D-I","Mountain West",22,31,0,0.415
-"18","Utah","732","2008","Amy Hogue","D-I","Mountain West",28,27,0,0.509
-"19","Utah","732","2007","Angie Jacobs","D-I","Mountain West",25,26,1,0.49
-"20","Utah","732","2006","Mona Stevens","D-I","Mountain West",40,21,0,0.656
-"21","Utah","732","2005","Mona Stevens","D-I","Mountain West",21,29,0,0.42
-"22","Utah","732","2004","Mona Stevens","D-I","Mountain West",23,33,0,0.411
-"23","Utah","732","2003","Mona Stevens","D-I","Mountain West",20,27,0,0.426
-"24","Utah","732","2002","Mona Stevens","D-I","Mountain West",30,36,0,0.455
-"25","Utah","732","2001","Mona Stevens","D-I","Mountain West",37,25,1,0.595
-"26","Utah","732","1900","Mona Stevens","D-I","Mountain West",42,23,0,0.646
-"27","Utah","732","1999","Mona Stevens","D-I","WAC",28,27,0,0.509
-"28","Utah","732","1998","Mona Stevens","D-I","-",36,21,NA,0.632
-"29","Utah","732","1997","Mona Stevens","D-I","WAC",44,18,0,0.71
-"30","Utah","732","1996","Jo Evans","D-I","-",32,22,NA,0.593
-"31","Utah","732","1995","Jo Evans","D-I","-",31,20,NA,0.608
-"32","Utah","732","1994","Jo Evans","D-I","-",51,13,NA,0.797
-"33","Utah","732","1993","Jo Evans","D-I","-",23,22,NA,0.511
-"34","Utah","732","1992","Jo Evans","D-I","-",25,20,NA,0.556
-"35","Utah","732","1991","Jo Evans","D-I","-",28,16,NA,0.636
-"36","Utah","732","1990","Jo Evans","D-I","-",32,30,NA,0.516
-"37","Utah","732","1989","","D-I","-",NA,NA,NA,NA
-"38","Utah","732","1988","","D-I","-",NA,NA,NA,NA
-"39","Utah","732","1987","","D-I","-",NA,NA,NA,NA
-"40","Utah","732","1986","","D-I","-",NA,NA,NA,NA
-"41","Utah","732","1985","","D-I","-",NA,NA,NA,NA
-"42","Utah","732","1984","","D-I","-",NA,NA,NA,NA
-"43","Utah","732","1982","","D-I","-",NA,NA,NA,NA
-"44","Utah","732","","","","",1045,844,3,0.553
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Amy Hogue","Big 12","2-0-0",1
+"2","2024","Amy Hogue","Pac-12","35-22-0",0.614
+"3","2023","Amy Hogue","Pac-12","42-16-0",0.724
+"4","2022","Amy Hogue","Pac-12","27-27-0",0.5
+"5","2021","Amy Hogue","Pac-12","22-33-0",0.4
+"6","2020","Amy Hogue","Pac-12","14-4-0",0.778
+"7","2019","Amy Hogue","Pac-12","19-35-0",0.352
+"8","2018","Amy Hogue","Pac-12","20-30-0",0.4
+"9","2017","Amy Hogue","Pac-12","37-16-0",0.698
+"10","2016","Amy Hogue","Pac-12","35-22-0",0.614
+"11","2015","Amy Hogue","Pac-12","36-19-0",0.655
+"12","2014","Amy Hogue","Pac-12","31-24-0",0.564
+"13","2013","Amy Hogue","Pac-12","24-30-1",0.445
+"14","2012","Amy Hogue","Pac-12","28-28-0",0.5
+"15","2011","Amy Hogue","Mountain West","29-22-0",0.569
+"16","2010","Amy Hogue","Mountain West","26-29-0",0.473
+"17","2009","Amy Hogue","Mountain West","22-31-0",0.415
+"18","2008","Amy Hogue","Mountain West","28-27-0",0.509
+"19","2007","Angie Jacobs","Mountain West","25-26-1",0.49
+"20","2006","Mona Stevens","Mountain West","40-21-0",0.656
+"21","2005","Mona Stevens","Mountain West","21-29-0",0.42
+"22","2004","Mona Stevens","Mountain West","23-33-0",0.411
+"23","2003","Mona Stevens","Mountain West","20-27-0",0.426
+"24","2002","Mona Stevens","Mountain West","30-36-0",0.455
+"25","2001","Mona Stevens","Mountain West","37-25-1",0.595
+"26","1900","Mona Stevens","Mountain West","42-23-0",0.646
+"27","1999","Mona Stevens","WAC","28-27-0",0.509
+"28","1998","Mona Stevens","-","36-21-0",0.632
+"29","1997","Mona Stevens","WAC","44-18-0",0.71
+"30","1996","Jo Evans","-","32-22-0",0.593
+"31","1995","Jo Evans","-","31-20-0",0.608
+"32","1994","Jo Evans","-","51-13-0",0.797
+"33","1993","Jo Evans","-","23-22-0",0.511
+"34","1992","Jo Evans","-","25-20-0",0.556
+"35","1991","Jo Evans","-","28-16-0",0.636
+"36","1990","Jo Evans","-","32-30-0",0.516
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

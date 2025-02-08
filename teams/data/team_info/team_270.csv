@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hampton","270","2025","Cat Tarvin","D-I","CAA",0,1,0,0
-"2","Hampton","270","2024","Monique White","D-I","CAA",17,35,0,0.327
-"3","Hampton","270","2023","Monique White","D-I","CAA",15,31,0,0.326
-"4","Hampton","270","2022","Monique White","D-I","Big South",19,36,0,0.345
-"5","Hampton","270","2021","Angie Nicholson","D-I","Big South",0,0,0,0
-"6","Hampton","270","2020","Angie Nicholson","D-I","Big South",15,4,0,0.789
-"7","Hampton","270","2019","Angie Nicholson","D-I","Big South",23,26,0,0.469
-"8","Hampton","270","2018","Angie Nicholson","D-I","MEAC",24,28,NA,0.462
-"9","Hampton","270","2017","Angie Nicholson","D-I","MEAC",23,22,0,0.511
-"10","Hampton","270","2016","Joe DiPietro","D-I","MEAC",20,28,0,0.417
-"11","Hampton","270","2015","Joe DiPietro","D-I","MEAC",22,26,0,0.458
-"12","Hampton","270","2014","Mike Pelegrino","D-I","MEAC",29,20,0,0.592
-"13","Hampton","270","2013","Trena Prater","D-I","MEAC",35,26,0,0.574
-"14","Hampton","270","2012","Trena Prater","D-I","MEAC",25,33,0,0.431
-"15","Hampton","270","2011","Trena Prater","D-I","MEAC",13,35,0,0.271
-"16","Hampton","270","2010","Regina Gibbons","D-I","MEAC",21,38,0,0.356
-"17","Hampton","270","2009","Regina Gibbons","D-I","MEAC",26,23,0,0.531
-"18","Hampton","270","2008","Regina Gibbons","D-I","MEAC",31,18,0,0.633
-"19","Hampton","270","2007","Tiny Laster (34-10)Regina Gibbons (2-3)","D-I","MEAC",36,13,0,0.735
-"20","Hampton","270","2006","Tiny Laster","D-I","MEAC",32,22,0,0.593
-"21","Hampton","270","2005","Tiny Laster","D-I","MEAC",28,18,0,0.609
-"22","Hampton","270","2004","Tiny Laster","D-I","MEAC",31,23,0,0.574
-"23","Hampton","270","2003","Tiny Laster","D-I","MEAC",19,27,0,0.413
-"24","Hampton","270","2002","Tiny Laster","D-I","MEAC",34,18,0,0.654
-"25","Hampton","270","2001","Tiny Laster","D-I","MEAC",34,21,0,0.618
-"26","Hampton","270","1900","Tiny Laster","D-I","MEAC",36,18,0,0.667
-"27","Hampton","270","1999","Tiny Laster","D-I","MEAC",30,15,0,0.667
-"28","Hampton","270","1998","Tiny Laster","D-I","-",25,22,NA,0.532
-"29","Hampton","270","1997","Tiny Laster","D-I","MEAC",20,23,0,0.465
-"30","Hampton","270","1996","Tiny Laster","D-I","-",39,19,NA,0.672
-"31","Hampton","270","1995","Tiny Laster","D-II","-",42,3,NA,0.933
-"32","Hampton","270","1994","Tiny Laster","D-II","-",20,14,NA,0.588
-"33","Hampton","270","1993","Tiny Laster","D-II","-",24,6,NA,0.8
-"34","Hampton","270","1992","Tiny Laster","D-II","-",27,8,1,0.764
-"35","Hampton","270","1991","Tiny Laster","D-II","-",29,6,NA,0.829
-"36","Hampton","270","1990","Tiny Laster","D-II","-",22,12,NA,0.647
-"37","Hampton","270","1989","Tiny Laster","D-II","-",9,15,NA,0.375
-"38","Hampton","270","","","","",895,733,1,0.55
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Cat Tarvin","CAA","0-1-0",0
+"2","2024","Monique White","CAA","17-35-0",0.327
+"3","2023","Monique White","CAA","15-31-0",0.326
+"4","2022","Monique White","Big South","19-36-0",0.345
+"5","2021","Angie Nicholson","Big South","0-0-0",0
+"6","2020","Angie Nicholson","Big South","15-4-0",0.789
+"7","2019","Angie Nicholson","Big South","23-26-0",0.469
+"8","2018","Angie Nicholson","MEAC","24-28-0",0.462
+"9","2017","Angie Nicholson","MEAC","23-22-0",0.511
+"10","2016","Joe DiPietro","MEAC","20-28-0",0.417
+"11","2015","Joe DiPietro","MEAC","22-26-0",0.458
+"12","2014","Mike Pelegrino","MEAC","29-20-0",0.592
+"13","2013","Trena Prater","MEAC","35-26-0",0.574
+"14","2012","Trena Prater","MEAC","25-33-0",0.431
+"15","2011","Trena Prater","MEAC","13-35-0",0.271
+"16","2010","Regina Gibbons","MEAC","21-38-0",0.356
+"17","2009","Regina Gibbons","MEAC","26-23-0",0.531
+"18","2008","Regina Gibbons","MEAC","31-18-0",0.633
+"19","2007","Tiny Laster (34-10)Regina Gibbons (2-3)","MEAC","36-13-0",0.735
+"20","2006","Tiny Laster","MEAC","32-22-0",0.593
+"21","2005","Tiny Laster","MEAC","28-18-0",0.609
+"22","2004","Tiny Laster","MEAC","31-23-0",0.574
+"23","2003","Tiny Laster","MEAC","19-27-0",0.413
+"24","2002","Tiny Laster","MEAC","34-18-0",0.654
+"25","2001","Tiny Laster","MEAC","34-21-0",0.618
+"26","1900","Tiny Laster","MEAC","36-18-0",0.667
+"27","1999","Tiny Laster","MEAC","30-15-0",0.667
+"28","1998","Tiny Laster","-","25-22-0",0.532
+"29","1997","Tiny Laster","MEAC","20-23-0",0.465
+"30","1996","Tiny Laster","-","39-19-0",0.672
+"31","1995","Tiny Laster","-","42-3-0",0.933
+"32","1994","Tiny Laster","-","20-14-0",0.588
+"33","1993","Tiny Laster","-","24-6-0",0.8
+"34","1992","Tiny Laster","-","27-8-1",0.764
+"35","1991","Tiny Laster","-","29-6-0",0.829
+"36","1990","Tiny Laster","-","22-12-0",0.647
+"37","1989","Tiny Laster","-","9-15-0",0.375

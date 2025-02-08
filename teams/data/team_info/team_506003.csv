@@ -1,16 +1,15 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Georgetown (KY)","506003","2024","",NA,"-",NA,NA,NA,0
-"2","Georgetown (KY)","506003","2019","",NA,"-",NA,NA,NA,0
-"3","Georgetown (KY)","506003","2013","",NA,"-",NA,NA,NA,NA
-"4","Georgetown (KY)","506003","2011","",NA,"-",NA,NA,NA,NA
-"5","Georgetown (KY)","506003","2010","",NA,"-",NA,NA,NA,NA
-"6","Georgetown (KY)","506003","2009","",NA,"-",NA,NA,NA,NA
-"7","Georgetown (KY)","506003","2008","",NA,"-",NA,NA,NA,NA
-"8","Georgetown (KY)","506003","2007","",NA,"-",NA,NA,NA,NA
-"9","Georgetown (KY)","506003","2006","",NA,"-",NA,NA,NA,NA
-"10","Georgetown (KY)","506003","2005","",NA,"-",NA,NA,NA,NA
-"11","Georgetown (KY)","506003","2004","",NA,"-",NA,NA,NA,NA
-"12","Georgetown (KY)","506003","2003","",NA,"-",NA,NA,NA,NA
-"13","Georgetown (KY)","506003","2002","Mark Montgomery",NA,"-",36,16,0,0.692
-"14","Georgetown (KY)","506003","2001","Mark Montgomery",NA,"-",36,15,0,0.706
-"15","Georgetown (KY)","506003","","",NA,"",72,31,0,0.699
+"","season","head_coach","conference","record","win_perc"
+"1","2024","","-","NA-NA-0",0
+"2","2019","","-","NA-NA-0",0
+"3","2013","","-","NA-NA-0",NA
+"4","2011","","-","NA-NA-0",NA
+"5","2010","","-","NA-NA-0",NA
+"6","2009","","-","NA-NA-0",NA
+"7","2008","","-","NA-NA-0",NA
+"8","2007","","-","NA-NA-0",NA
+"9","2006","","-","NA-NA-0",NA
+"10","2005","","-","NA-NA-0",NA
+"11","2004","","-","NA-NA-0",NA
+"12","2003","","-","NA-NA-0",NA
+"13","2002","Mark Montgomery","-","36-16-0",0.692
+"14","2001","Mark Montgomery","-","36-15-0",0.706

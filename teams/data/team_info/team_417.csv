@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Michigan Tech","417","2024",NA,NA,"-",NA,NA,NA,0
-"2","Michigan Tech","417","2023",NA,NA,"-",NA,NA,NA,0
-"3","Michigan Tech","417","2019",NA,NA,"-",NA,NA,NA,0
-"4","Michigan Tech","417","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2019",NA,"-","NA-NA-0",0

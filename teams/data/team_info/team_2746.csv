@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Lake Erie","2746","2025","Shannon Schaub","D-II","G-MAC",0,0,0,0
-"2","Lake Erie","2746","2024","Grace Jackson","D-II","G-MAC",3,37,0,0.075
-"3","Lake Erie","2746","2023","Grace Jackson","D-II","G-MAC",10,30,0,0.25
-"4","Lake Erie","2746","2022","McKenna Garlock","D-II","G-MAC",13,27,0,0.325
-"5","Lake Erie","2746","2021","Rebecca Dyer","D-II","G-MAC",11,32,0,0.256
-"6","Lake Erie","2746","2020","Rebecca Dyer","D-II","G-MAC",2,11,0,0.154
-"7","Lake Erie","2746","2019","Rebecca Dyer","D-II","G-MAC",12,28,0,0.3
-"8","Lake Erie","2746","2018","Rebecca Dyer","D-II","G-MAC",16,22,NA,0.421
-"9","Lake Erie","2746","2017","Rebecca Dyer","D-II","GLIAC",12,26,0,0.316
-"10","Lake Erie","2746","2016","Stephanie Smith","D-II","GLIAC",16,26,0,0.381
-"11","Lake Erie","2746","2015","Stephanie Smith","D-II","GLIAC",13,23,0,0.361
-"12","Lake Erie","2746","2014","Stephanie Smith","D-II","GLIAC",4,33,0,0.108
-"13","Lake Erie","2746","2013","Kristin Hall","D-II","GLIAC",2,36,0,0.053
-"14","Lake Erie","2746","2012","Kristin Hall","D-II","GLIAC",5,44,0,0.102
-"15","Lake Erie","2746","2011","Kristin Hall","D-II","GLIAC",10,38,0,0.208
-"16","Lake Erie","2746","2010","Gary VanCauwenberge","D-II","Lake Erie",8,34,0,0.19
-"17","Lake Erie","2746","2009","Gary VanCauwenberge","D-III","-",5,34,0,0.128
-"18","Lake Erie","2746","2008","Gary VanCauwenberge","D-III","AMCC",23,20,0,0.535
-"19","Lake Erie","2746","2007","Gary VanCauwenberge","D-III","AMCC",13,16,0,0.448
-"20","Lake Erie","2746","2006","Gary VanCauwenberge","D-III","AMCC",26,16,1,0.616
-"21","Lake Erie","2746","2005","Gary VanCauwenberge","D-III","AMCC",10,23,0,0.303
-"22","Lake Erie","2746","2004","Gary VanCauwenberge","D-III","AMCC",5,25,0,0.167
-"23","Lake Erie","2746","2003","Gary VanCauwenberge","D-III","-",NA,NA,NA,NA
-"24","Lake Erie","2746","2002","Gary VanCauwenberge","D-III","-",1,25,NA,0.038
-"25","Lake Erie","2746","2001","Lauren Ferullo","","-",5,17,0,0.227
-"26","Lake Erie","2746","1900","","","-",NA,NA,NA,NA
-"27","Lake Erie","2746","1999","","","-",NA,NA,NA,NA
-"28","Lake Erie","2746","1998","","","-",NA,NA,NA,NA
-"29","Lake Erie","2746","1997","","","-",NA,NA,NA,NA
-"30","Lake Erie","2746","1996","","","-",NA,NA,NA,NA
-"31","Lake Erie","2746","1995","","","-",NA,NA,NA,NA
-"32","Lake Erie","2746","1994","","","-",NA,NA,NA,NA
-"33","Lake Erie","2746","1993","","","-",NA,NA,NA,NA
-"34","Lake Erie","2746","1992","","","-",NA,NA,NA,NA
-"35","Lake Erie","2746","1991","","","-",NA,NA,NA,NA
-"36","Lake Erie","2746","1990","","","-",NA,NA,NA,NA
-"37","Lake Erie","2746","","","","",225,623,1,0.266
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Shannon Schaub","G-MAC","0-0-0",0
+"2","2024","Grace Jackson","G-MAC","3-37-0",0.075
+"3","2023","Grace Jackson","G-MAC","10-30-0",0.25
+"4","2022","McKenna Garlock","G-MAC","13-27-0",0.325
+"5","2021","Rebecca Dyer","G-MAC","11-32-0",0.256
+"6","2020","Rebecca Dyer","G-MAC","2-11-0",0.154
+"7","2019","Rebecca Dyer","G-MAC","12-28-0",0.3
+"8","2018","Rebecca Dyer","G-MAC","16-22-0",0.421
+"9","2017","Rebecca Dyer","GLIAC","12-26-0",0.316
+"10","2016","Stephanie Smith","GLIAC","16-26-0",0.381
+"11","2015","Stephanie Smith","GLIAC","13-23-0",0.361
+"12","2014","Stephanie Smith","GLIAC","4-33-0",0.108
+"13","2013","Kristin Hall","GLIAC","2-36-0",0.053
+"14","2012","Kristin Hall","GLIAC","5-44-0",0.102
+"15","2011","Kristin Hall","GLIAC","10-38-0",0.208
+"16","2010","Gary VanCauwenberge","Lake Erie","8-34-0",0.19
+"17","2009","Gary VanCauwenberge","-","5-34-0",0.128
+"18","2008","Gary VanCauwenberge","AMCC","23-20-0",0.535
+"19","2007","Gary VanCauwenberge","AMCC","13-16-0",0.448
+"20","2006","Gary VanCauwenberge","AMCC","26-16-1",0.616
+"21","2005","Gary VanCauwenberge","AMCC","10-23-0",0.303
+"22","2004","Gary VanCauwenberge","AMCC","5-25-0",0.167
+"23","2003","Gary VanCauwenberge","-","NA-NA-0",NA
+"24","2002","Gary VanCauwenberge","-","1-25-0",0.038
+"25","2001","Lauren Ferullo","-","5-17-0",0.227
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

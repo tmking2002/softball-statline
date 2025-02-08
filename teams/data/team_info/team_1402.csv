@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Thomas More","1402","2025","Lindsay Eagan","D-II","G-MAC",0,0,0,0
-"2","Thomas More","1402","2024","Lindsay Eagan","D-II","G-MAC",15,35,0,0.3
-"3","Thomas More","1402","2023","Lindsay Eagan","D-II","G-MAC",2,0,0,1
-"4","Thomas More","1402","2022","Lindsay Eagan","","-",17,29,0,0.37
-"5","Thomas More","1402","2021","Lindsay Eagan","","-",17,28,0,0.378
-"6","Thomas More","1402","2020","Lindsay Eagan","","-",8,9,0,0.471
-"7","Thomas More","1402","2019","Lindsay Eagan","D-III","ACAA",34,11,0,0.756
-"8","Thomas More","1402","2018","Lindsay Eagan","D-III","PAC",32,16,NA,0.667
-"9","Thomas More","1402","2017","Lindsay Eagan","D-III","PAC",35,10,0,0.778
-"10","Thomas More","1402","2016","Lindsay Eagan","D-III","PAC",31,10,0,0.756
-"11","Thomas More","1402","2015","Lindsay Eagan","D-III","PAC",27,17,0,0.614
-"12","Thomas More","1402","2014","Lindsay Eagan","D-III","PAC",31,12,0,0.721
-"13","Thomas More","1402","2013","Lindsay Eagan","D-III","PAC",25,19,0,0.568
-"14","Thomas More","1402","2012","Lindsay Eagan","D-III","PAC",23,17,0,0.575
-"15","Thomas More","1402","2011","Lindsay Eagan","D-III","PAC",26,13,0,0.667
-"16","Thomas More","1402","2010","Lindsay Eagan","D-III","PAC",22,20,0,0.524
-"17","Thomas More","1402","2009","Lindsay Eagan","D-III","PAC",36,11,0,0.766
-"18","Thomas More","1402","2008","Emily Price","D-III","PAC",18,16,0,0.529
-"19","Thomas More","1402","2007","Everett Roper","D-III","PAC",28,11,0,0.718
-"20","Thomas More","1402","2006","Everett Roper","D-III","PAC",27,17,1,0.611
-"21","Thomas More","1402","2005","Everett Roper","D-III","-",19,9,0,0.679
-"22","Thomas More","1402","2004","Everett Roper","D-III","-",17,12,0,0.586
-"23","Thomas More","1402","2003","Everett Roper","D-III","-",25,13,0,0.658
-"24","Thomas More","1402","2002","Everett Roper","D-III","-",17,11,0,0.607
-"25","Thomas More","1402","2001","Everett Roper","D-III","-",11,24,1,0.319
-"26","Thomas More","1402","1900","Everett Roper","D-III","-",12,32,0,0.273
-"27","Thomas More","1402","1999","Everett Roper","D-III","-",0,24,0,0
-"28","Thomas More","1402","1998","Everett Roper","D-III","-",0,10,0,0
-"29","Thomas More","1402","1997","Everett Roper","D-III","-",0,13,0,0
-"30","Thomas More","1402","1996","","","-",NA,NA,NA,NA
-"31","Thomas More","1402","1995","","","-",NA,NA,NA,NA
-"32","Thomas More","1402","1994","","","-",NA,NA,NA,NA
-"33","Thomas More","1402","1993","Ted Kiep","D-III","-",0,21,0,0
-"34","Thomas More","1402","1992","Prudi Downs","D-III","-",0,21,0,0
-"35","Thomas More","1402","1991","Prudi Downs","D-III","-",1,13,0,0.071
-"36","Thomas More","1402","1981","","","-",NA,NA,NA,NA
-"37","Thomas More","1402","","","","",556,504,2,0.524
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Lindsay Eagan","G-MAC","0-0-0",0
+"2","2024","Lindsay Eagan","G-MAC","15-35-0",0.3
+"3","2023","Lindsay Eagan","G-MAC","2-0-0",1
+"4","2022","Lindsay Eagan","-","17-29-0",0.37
+"5","2021","Lindsay Eagan","-","17-28-0",0.378
+"6","2020","Lindsay Eagan","-","8-9-0",0.471
+"7","2019","Lindsay Eagan","ACAA","34-11-0",0.756
+"8","2018","Lindsay Eagan","PAC","32-16-0",0.667
+"9","2017","Lindsay Eagan","PAC","35-10-0",0.778
+"10","2016","Lindsay Eagan","PAC","31-10-0",0.756
+"11","2015","Lindsay Eagan","PAC","27-17-0",0.614
+"12","2014","Lindsay Eagan","PAC","31-12-0",0.721
+"13","2013","Lindsay Eagan","PAC","25-19-0",0.568
+"14","2012","Lindsay Eagan","PAC","23-17-0",0.575
+"15","2011","Lindsay Eagan","PAC","26-13-0",0.667
+"16","2010","Lindsay Eagan","PAC","22-20-0",0.524
+"17","2009","Lindsay Eagan","PAC","36-11-0",0.766
+"18","2008","Emily Price","PAC","18-16-0",0.529
+"19","2007","Everett Roper","PAC","28-11-0",0.718
+"20","2006","Everett Roper","PAC","27-17-1",0.611
+"21","2005","Everett Roper","-","19-9-0",0.679
+"22","2004","Everett Roper","-","17-12-0",0.586
+"23","2003","Everett Roper","-","25-13-0",0.658
+"24","2002","Everett Roper","-","17-11-0",0.607
+"25","2001","Everett Roper","-","11-24-1",0.319
+"26","1900","Everett Roper","-","12-32-0",0.273
+"27","1999","Everett Roper","-","0-24-0",0
+"28","1998","Everett Roper","-","0-10-0",0
+"29","1997","Everett Roper","-","0-13-0",0
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","Ted Kiep","-","0-21-0",0
+"34","1992","Prudi Downs","-","0-21-0",0
+"35","1991","Prudi Downs","-","1-13-0",0.071
+"36","1981","","-","NA-NA-0",NA

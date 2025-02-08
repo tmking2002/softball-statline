@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Guilford","1112","2025","Charissa Duncan","D-III","ODAC",0,0,0,0
-"2","Guilford","1112","2024","Charissa Duncan","D-III","ODAC",19,24,0,0.442
-"3","Guilford","1112","2023","Dennis Shores","D-III","ODAC",23,19,0,0.548
-"4","Guilford","1112","2022","Dennis Shores","D-III","ODAC",11,27,0,0.289
-"5","Guilford","1112","2021","Dennis Shores","D-III","ODAC",10,13,1,0.438
-"6","Guilford","1112","2020","Dennis Shores","D-III","ODAC",7,5,0,0.583
-"7","Guilford","1112","2019","Dennis Shores","D-III","ODAC",26,15,0,0.634
-"8","Guilford","1112","2018","Dennis Shores","D-III","ODAC",18,24,1,0.43
-"9","Guilford","1112","2017","Dennis Shores","D-III","ODAC",30,13,0,0.698
-"10","Guilford","1112","2016","Dennis Shores","D-III","ODAC",25,18,0,0.581
-"11","Guilford","1112","2015","Dennis Shores","D-III","ODAC",24,17,0,0.585
-"12","Guilford","1112","2014","Dennis Shores","D-III","ODAC",29,15,0,0.659
-"13","Guilford","1112","2013","Dennis Shores","D-III","ODAC",19,19,0,0.5
-"14","Guilford","1112","2012","Dennis Shores","D-III","ODAC",17,23,0,0.425
-"15","Guilford","1112","2011","Dennis Shores","D-III","ODAC",26,15,0,0.634
-"16","Guilford","1112","2010","Dennis Shores","D-III","ODAC",28,13,1,0.679
-"17","Guilford","1112","2009","Dennis Shores","D-III","ODAC",26,13,0,0.667
-"18","Guilford","1112","2008","Dennis Shores","D-III","ODAC",20,21,1,0.488
-"19","Guilford","1112","2007","Dennis Shores","D-III","ODAC",10,30,0,0.25
-"20","Guilford","1112","2006","Ty Cook","D-III","ODAC",9,31,0,0.225
-"21","Guilford","1112","2005","Ty Cook","D-III","ODAC",16,24,0,0.4
-"22","Guilford","1112","2004","Ty Cook","D-III","ODAC",9,27,0,0.25
-"23","Guilford","1112","2003","Barb Bausch","D-III","ODAC",12,19,0,0.387
-"24","Guilford","1112","2002","","","-",NA,NA,NA,NA
-"25","Guilford","1112","","","","",414,425,4,0.493
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Charissa Duncan","ODAC","0-0-0",0
+"2","2024","Charissa Duncan","ODAC","19-24-0",0.442
+"3","2023","Dennis Shores","ODAC","23-19-0",0.548
+"4","2022","Dennis Shores","ODAC","11-27-0",0.289
+"5","2021","Dennis Shores","ODAC","10-13-1",0.438
+"6","2020","Dennis Shores","ODAC","7-5-0",0.583
+"7","2019","Dennis Shores","ODAC","26-15-0",0.634
+"8","2018","Dennis Shores","ODAC","18-24-1",0.43
+"9","2017","Dennis Shores","ODAC","30-13-0",0.698
+"10","2016","Dennis Shores","ODAC","25-18-0",0.581
+"11","2015","Dennis Shores","ODAC","24-17-0",0.585
+"12","2014","Dennis Shores","ODAC","29-15-0",0.659
+"13","2013","Dennis Shores","ODAC","19-19-0",0.5
+"14","2012","Dennis Shores","ODAC","17-23-0",0.425
+"15","2011","Dennis Shores","ODAC","26-15-0",0.634
+"16","2010","Dennis Shores","ODAC","28-13-1",0.679
+"17","2009","Dennis Shores","ODAC","26-13-0",0.667
+"18","2008","Dennis Shores","ODAC","20-21-1",0.488
+"19","2007","Dennis Shores","ODAC","10-30-0",0.25
+"20","2006","Ty Cook","ODAC","9-31-0",0.225
+"21","2005","Ty Cook","ODAC","16-24-0",0.4
+"22","2004","Ty Cook","ODAC","9-27-0",0.25
+"23","2003","Barb Bausch","ODAC","12-19-0",0.387
+"24","2002","","-","NA-NA-0",NA

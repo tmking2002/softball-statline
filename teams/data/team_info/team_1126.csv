@@ -1,36 +1,35 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Holy Family","1126","2025","Jill Murray","D-II","CACC",0,0,0,0
-"2","Holy Family","1126","2024","Jill Murray","D-II","CACC",14,30,0,0.318
-"3","Holy Family","1126","2023","Jill Murray","D-II","CACC",17,31,0,0.354
-"4","Holy Family","1126","2022","Jill Murray","D-II","CACC",17,33,0,0.34
-"5","Holy Family","1126","2021","Jill Murray","D-II","CACC",5,26,0,0.161
-"6","Holy Family","1126","2020","Jill Murray","D-II","CACC",3,7,0,0.3
-"7","Holy Family","1126","2019","Crystalrae States Fusaro","D-II","CACC",5,43,0,0.104
-"8","Holy Family","1126","2018","Crystalrae States Fusaro","D-II","CACC",16,29,NA,0.356
-"9","Holy Family","1126","2017","Davon Ortega","D-II","CACC",28,20,0,0.583
-"10","Holy Family","1126","2016","Davon Ortega","D-II","CACC",30,17,0,0.638
-"11","Holy Family","1126","2015","Davon Ortega","D-II","CACC",19,15,0,0.559
-"12","Holy Family","1126","2014","Davon Ortega","D-II","CACC",27,16,0,0.628
-"13","Holy Family","1126","2013","Davon Ortega","D-II","CACC",24,24,0,0.5
-"14","Holy Family","1126","2012","Davon Ortega","D-II","CACC",21,26,0,0.447
-"15","Holy Family","1126","2011","Davon Ortega","D-II","CACC",13,29,0,0.31
-"16","Holy Family","1126","2010","Erin Livingston","D-II","CACC",24,23,0,0.511
-"17","Holy Family","1126","2009","Mickey McGroarty","D-II","CACC",22,28,0,0.44
-"18","Holy Family","1126","2008","Mickey McGroarty","D-II","CACC",22,22,0,0.5
-"19","Holy Family","1126","2007","Mickey McGroarty","D-II","CACC",16,22,0,0.421
-"20","Holy Family","1126","2006","Mickey McGroarty","D-II","CACC",21,29,0,0.42
-"21","Holy Family","1126","2005","Mickey McGroarty","D-II","CACC",23,18,0,0.561
-"22","Holy Family","1126","2004","Mickey McGroarty","D-II","CACC",25,22,0,0.532
-"23","Holy Family","1126","2003","Mickey McGroarty","","-",NA,NA,NA,NA
-"24","Holy Family","1126","2002","Mickey McGroarty","","-",NA,NA,NA,NA
-"25","Holy Family","1126","2001","Mickey McGroarty","","-",NA,NA,NA,NA
-"26","Holy Family","1126","1900","Mickey McGroarty","","-",NA,NA,NA,NA
-"27","Holy Family","1126","1999","Mickey McGroarty","","-",NA,NA,NA,NA
-"28","Holy Family","1126","1998","Mickey McGroarty","","-",NA,NA,NA,NA
-"29","Holy Family","1126","1997","Mickey McGroarty","","-",NA,NA,NA,NA
-"30","Holy Family","1126","1996","Mickey McGroarty","","-",NA,NA,NA,NA
-"31","Holy Family","1126","1995","Mickey McGroarty","","-",NA,NA,NA,NA
-"32","Holy Family","1126","1994","Mickey McGroarty","","-",NA,NA,NA,NA
-"33","Holy Family","1126","1993","Mickey McGroarty","","-",NA,NA,NA,NA
-"34","Holy Family","1126","1992","Mickey McGroarty","","-",NA,NA,NA,NA
-"35","Holy Family","1126","","","","",392,510,0,0.435
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jill Murray","CACC","0-0-0",0
+"2","2024","Jill Murray","CACC","14-30-0",0.318
+"3","2023","Jill Murray","CACC","17-31-0",0.354
+"4","2022","Jill Murray","CACC","17-33-0",0.34
+"5","2021","Jill Murray","CACC","5-26-0",0.161
+"6","2020","Jill Murray","CACC","3-7-0",0.3
+"7","2019","Crystalrae States Fusaro","CACC","5-43-0",0.104
+"8","2018","Crystalrae States Fusaro","CACC","16-29-0",0.356
+"9","2017","Davon Ortega","CACC","28-20-0",0.583
+"10","2016","Davon Ortega","CACC","30-17-0",0.638
+"11","2015","Davon Ortega","CACC","19-15-0",0.559
+"12","2014","Davon Ortega","CACC","27-16-0",0.628
+"13","2013","Davon Ortega","CACC","24-24-0",0.5
+"14","2012","Davon Ortega","CACC","21-26-0",0.447
+"15","2011","Davon Ortega","CACC","13-29-0",0.31
+"16","2010","Erin Livingston","CACC","24-23-0",0.511
+"17","2009","Mickey McGroarty","CACC","22-28-0",0.44
+"18","2008","Mickey McGroarty","CACC","22-22-0",0.5
+"19","2007","Mickey McGroarty","CACC","16-22-0",0.421
+"20","2006","Mickey McGroarty","CACC","21-29-0",0.42
+"21","2005","Mickey McGroarty","CACC","23-18-0",0.561
+"22","2004","Mickey McGroarty","CACC","25-22-0",0.532
+"23","2003","Mickey McGroarty","-","NA-NA-0",NA
+"24","2002","Mickey McGroarty","-","NA-NA-0",NA
+"25","2001","Mickey McGroarty","-","NA-NA-0",NA
+"26","1900","Mickey McGroarty","-","NA-NA-0",NA
+"27","1999","Mickey McGroarty","-","NA-NA-0",NA
+"28","1998","Mickey McGroarty","-","NA-NA-0",NA
+"29","1997","Mickey McGroarty","-","NA-NA-0",NA
+"30","1996","Mickey McGroarty","-","NA-NA-0",NA
+"31","1995","Mickey McGroarty","-","NA-NA-0",NA
+"32","1994","Mickey McGroarty","-","NA-NA-0",NA
+"33","1993","Mickey McGroarty","-","NA-NA-0",NA
+"34","1992","Mickey McGroarty","-","NA-NA-0",NA

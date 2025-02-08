@@ -1,22 +1,21 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Crown (MN)","30035","2025","Taylor Jones","D-III","UMAC",0,0,0,0
-"2","Crown (MN)","30035","2024","Ryan Borde","D-III","UMAC",6,31,0,0.162
-"3","Crown (MN)","30035","2023","Ashlyn Englehorn","D-III","UMAC",12,29,0,0.293
-"4","Crown (MN)","30035","2022","Ashlyn Englehorn","D-III","UMAC",8,20,0,0.286
-"5","Crown (MN)","30035","2021","Jamison Ross","D-III","UMAC",7,21,0,0.25
-"6","Crown (MN)","30035","2020","Jamison Ross","D-III","UMAC",6,6,0,0.5
-"7","Crown (MN)","30035","2019","Jamison Ross","D-III","UMAC",12,22,0,0.353
-"8","Crown (MN)","30035","2018","Jamison Ross","D-III","UMAC",18,20,NA,0.474
-"9","Crown (MN)","30035","2017","Jamison Ross","D-III","UMAC",15,24,0,0.385
-"10","Crown (MN)","30035","2016","Jamison Ross","D-III","UMAC",15,22,0,0.405
-"11","Crown (MN)","30035","2015","Jamison Ross","D-III","UMAC",13,27,0,0.325
-"12","Crown (MN)","30035","2014","Jamison Ross","D-III","UMAC",9,26,0,0.257
-"13","Crown (MN)","30035","2013","Jamison Ross","D-III","UMAC",0,25,0,0
-"14","Crown (MN)","30035","2012","Jamison Ross","D-III","UMAC",0,25,0,0
-"15","Crown (MN)","30035","2011","Jamison Ross","D-III","UMAC",0,32,0,0
-"16","Crown (MN)","30035","2010","Ed Harkness","D-III","UMAC",0,27,0,0
-"17","Crown (MN)","30035","2009","Brittany Stroop","D-III","UMAC",8,23,0,0.258
-"18","Crown (MN)","30035","2008","Brittany Stroop","D-III","-",3,22,0,0.12
-"19","Crown (MN)","30035","2007","","","-",3,21,0,0.125
-"20","Crown (MN)","30035","2006","","","-",5,30,0,0.143
-"21","Crown (MN)","30035","","","","",140,453,0,0.236
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Taylor Jones","UMAC","0-0-0",0
+"2","2024","Ryan Borde","UMAC","6-31-0",0.162
+"3","2023","Ashlyn Englehorn","UMAC","12-29-0",0.293
+"4","2022","Ashlyn Englehorn","UMAC","8-20-0",0.286
+"5","2021","Jamison Ross","UMAC","7-21-0",0.25
+"6","2020","Jamison Ross","UMAC","6-6-0",0.5
+"7","2019","Jamison Ross","UMAC","12-22-0",0.353
+"8","2018","Jamison Ross","UMAC","18-20-0",0.474
+"9","2017","Jamison Ross","UMAC","15-24-0",0.385
+"10","2016","Jamison Ross","UMAC","15-22-0",0.405
+"11","2015","Jamison Ross","UMAC","13-27-0",0.325
+"12","2014","Jamison Ross","UMAC","9-26-0",0.257
+"13","2013","Jamison Ross","UMAC","0-25-0",0
+"14","2012","Jamison Ross","UMAC","0-25-0",0
+"15","2011","Jamison Ross","UMAC","0-32-0",0
+"16","2010","Ed Harkness","UMAC","0-27-0",0
+"17","2009","Brittany Stroop","UMAC","8-23-0",0.258
+"18","2008","Brittany Stroop","-","3-22-0",0.12
+"19","2007","","-","3-21-0",0.125
+"20","2006","","-","5-30-0",0.143

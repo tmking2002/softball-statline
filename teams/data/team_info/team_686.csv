@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Swarthmore","686","2025","Melissa Finley","D-III","Centennial",0,0,0,0
-"2","Swarthmore","686","2024","Melissa Finley","D-III","Centennial",23,10,0,0.697
-"3","Swarthmore","686","2023","Melissa Finley","D-III","Centennial",26,18,0,0.591
-"4","Swarthmore","686","2022","Melissa Finley","D-III","Centennial",29,6,0,0.829
-"5","Swarthmore","686","2021","Melissa Finley","D-III","Centennial",0,0,0,0
-"6","Swarthmore","686","2020","Melissa Finley","D-III","Centennial",10,3,0,0.769
-"7","Swarthmore","686","2019","Melissa Finley","D-III","Centennial",22,15,0,0.595
-"8","Swarthmore","686","2018","Melissa Finley","D-III","Centennial",17,13,NA,0.567
-"9","Swarthmore","686","2017","Renee Clarke","D-III","Centennial",15,21,0,0.417
-"10","Swarthmore","686","2016","Renee Clarke","D-III","Centennial",10,26,0,0.278
-"11","Swarthmore","686","2015","Renee Clarke","D-III","Centennial",5,17,0,0.227
-"12","Swarthmore","686","2014","Renee Clarke","D-III","Centennial",11,21,0,0.344
-"13","Swarthmore","686","2013","Renee Clarke","D-III","Centennial",19,19,0,0.5
-"14","Swarthmore","686","2012","Renee Clarke","D-III","Centennial",20,20,0,0.5
-"15","Swarthmore","686","2011","Renee Clarke","D-III","Centennial",7,23,0,0.233
-"16","Swarthmore","686","2010","Renee Clarke","D-III","Centennial",21,23,0,0.477
-"17","Swarthmore","686","2009","Renee Clarke","D-III","Centennial",15,22,0,0.405
-"18","Swarthmore","686","2008","Renee Clarke","D-III","Centennial",23,20,0,0.535
-"19","Swarthmore","686","2007","Renee Clarke","D-III","Centennial",22,13,0,0.629
-"20","Swarthmore","686","2006","Renee Clarke","D-III","Centennial",23,17,0,0.575
-"21","Swarthmore","686","2005","Renee Clarke","D-III","Centennial",10,26,0,0.278
-"22","Swarthmore","686","2004","Renee Clarke","D-III","Centennial",10,22,0,0.313
-"23","Swarthmore","686","2003","","D-III","Centennial",6,23,0,0.207
-"24","Swarthmore","686","2002","","D-III","-",NA,NA,NA,NA
-"25","Swarthmore","686","2001","Mitch Kline","D-III","-",5,22,NA,0.185
-"26","Swarthmore","686","1900","","D-III","-",NA,NA,NA,NA
-"27","Swarthmore","686","1999","Cheri Goetcheus","D-III","-",1,24,NA,0.04
-"28","Swarthmore","686","1998","Cheri Goetcheus","D-III","-",10,23,NA,0.303
-"29","Swarthmore","686","1997","Cheri Goetcheus","D-III","-",4,25,NA,0.138
-"30","Swarthmore","686","1996","Cheri Goetcheus","D-III","-",2,26,0,0.071
-"31","Swarthmore","686","1995","","D-III","-",NA,NA,NA,NA
-"32","Swarthmore","686","1994","","D-III","-",NA,NA,NA,NA
-"33","Swarthmore","686","1993","","D-III","-",NA,NA,NA,NA
-"34","Swarthmore","686","1992","Annie Felter","D-III","-",10,16,NA,0.385
-"35","Swarthmore","686","1991","","D-III","-",NA,NA,NA,NA
-"36","Swarthmore","686","1990","","D-III","-",NA,NA,NA,NA
-"37","Swarthmore","686","1989","","D-III","-",NA,NA,NA,NA
-"38","Swarthmore","686","1988","","D-III","-",NA,NA,NA,NA
-"39","Swarthmore","686","1987","","D-III","-",NA,NA,NA,NA
-"40","Swarthmore","686","1986","","D-III","-",NA,NA,NA,NA
-"41","Swarthmore","686","1985","","D-III","-",NA,NA,NA,NA
-"42","Swarthmore","686","1984","","D-III","-",NA,NA,NA,NA
-"43","Swarthmore","686","1982","","D-III","-",NA,NA,NA,NA
-"44","Swarthmore","686","1981","","","-",NA,NA,NA,NA
-"45","Swarthmore","686","","","","",376,514,0,0.422
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Melissa Finley","Centennial","0-0-0",0
+"2","2024","Melissa Finley","Centennial","23-10-0",0.697
+"3","2023","Melissa Finley","Centennial","26-18-0",0.591
+"4","2022","Melissa Finley","Centennial","29-6-0",0.829
+"5","2021","Melissa Finley","Centennial","0-0-0",0
+"6","2020","Melissa Finley","Centennial","10-3-0",0.769
+"7","2019","Melissa Finley","Centennial","22-15-0",0.595
+"8","2018","Melissa Finley","Centennial","17-13-0",0.567
+"9","2017","Renee Clarke","Centennial","15-21-0",0.417
+"10","2016","Renee Clarke","Centennial","10-26-0",0.278
+"11","2015","Renee Clarke","Centennial","5-17-0",0.227
+"12","2014","Renee Clarke","Centennial","11-21-0",0.344
+"13","2013","Renee Clarke","Centennial","19-19-0",0.5
+"14","2012","Renee Clarke","Centennial","20-20-0",0.5
+"15","2011","Renee Clarke","Centennial","7-23-0",0.233
+"16","2010","Renee Clarke","Centennial","21-23-0",0.477
+"17","2009","Renee Clarke","Centennial","15-22-0",0.405
+"18","2008","Renee Clarke","Centennial","23-20-0",0.535
+"19","2007","Renee Clarke","Centennial","22-13-0",0.629
+"20","2006","Renee Clarke","Centennial","23-17-0",0.575
+"21","2005","Renee Clarke","Centennial","10-26-0",0.278
+"22","2004","Renee Clarke","Centennial","10-22-0",0.313
+"23","2003","","Centennial","6-23-0",0.207
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Mitch Kline","-","5-22-0",0.185
+"26","1900","","-","NA-NA-0",NA
+"27","1999","Cheri Goetcheus","-","1-24-0",0.04
+"28","1998","Cheri Goetcheus","-","10-23-0",0.303
+"29","1997","Cheri Goetcheus","-","4-25-0",0.138
+"30","1996","Cheri Goetcheus","-","2-26-0",0.071
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","Annie Felter","-","10-16-0",0.385
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA
+"44","1981","","-","NA-NA-0",NA

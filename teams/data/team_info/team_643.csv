@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Slippery Rock","643","2025","Stacey Rice","D-II","PSAC",0,0,0,0
-"2","Slippery Rock","643","2024","Stacey Rice","D-II","PSAC",25,27,0,0.481
-"3","Slippery Rock","643","2023","Stacey Rice","D-II","PSAC",29,24,0,0.547
-"4","Slippery Rock","643","2022","Stacey Rice","D-II","PSAC",15,22,1,0.408
-"5","Slippery Rock","643","2021","Stacey Rice","D-II","PSAC",13,27,0,0.325
-"6","Slippery Rock","643","2020","Stacey Rice","D-II","PSAC",6,12,0,0.333
-"7","Slippery Rock","643","2019","Stacey Rice","D-II","PSAC",18,27,0,0.4
-"8","Slippery Rock","643","2018","Stacey Rice","D-II","PSAC",24,19,NA,0.558
-"9","Slippery Rock","643","2017","Stacey Rice","D-II","PSAC",17,24,0,0.415
-"10","Slippery Rock","643","2016","Stacey Rice","D-II","PSAC",20,23,0,0.465
-"11","Slippery Rock","643","2015","Stacey Rice","D-II","PSAC",15,23,0,0.395
-"12","Slippery Rock","643","2014","Becky Sciacca","D-II","PSAC",16,26,0,0.381
-"13","Slippery Rock","643","2013","Becky Sciacca","D-II","PSAC",16,20,0,0.444
-"14","Slippery Rock","643","2012","Becky Sciacca","D-II","PSAC",16,17,0,0.485
-"15","Slippery Rock","643","2011","Vashion Johnson","D-II","PSAC",19,13,0,0.594
-"16","Slippery Rock","643","2010","Vashion Johnson","D-II","PSAC",22,21,0,0.512
-"17","Slippery Rock","643","2009","Vashion Johnson","D-II","PSAC",21,23,0,0.477
-"18","Slippery Rock","643","2008","Vashion Johnson","D-II","PSAC",27,17,0,0.614
-"19","Slippery Rock","643","2007","Vashion Johnson","D-II","PSAC",26,22,0,0.542
-"20","Slippery Rock","643","2006","Vashion Johnson","D-II","PSAC",20,24,0,0.455
-"21","Slippery Rock","643","2005","Vashion Johnson","D-II","PSAC",24,19,0,0.558
-"22","Slippery Rock","643","2004","Vashion Johnson","D-II","PSAC",25,17,0,0.595
-"23","Slippery Rock","643","2003","Joanne Leight","D-II","PSAC",10,26,0,0.278
-"24","Slippery Rock","643","2002","Joanne Leight","D-II","-",11,24,NA,0.314
-"25","Slippery Rock","643","2001","Joanne Leight","D-II","-",11,23,NA,0.324
-"26","Slippery Rock","643","1900","Joanne Leight","D-II","-",14,25,NA,0.359
-"27","Slippery Rock","643","1999","Joanne Leight","D-II","-",12,28,NA,0.3
-"28","Slippery Rock","643","1998","Joanne Leight","D-II","-",16,26,NA,0.381
-"29","Slippery Rock","643","1997","Joanne Leight","D-II","-",10,26,NA,0.278
-"30","Slippery Rock","643","1996","Laurie Lokash","D-II","-",5,27,NA,0.156
-"31","Slippery Rock","643","1995","Laurie Lokash","D-II","-",10,25,NA,0.286
-"32","Slippery Rock","643","1994","Laurie Lokash","D-II","-",9,24,NA,0.273
-"33","Slippery Rock","643","1993","Laurie Lokash","D-II","-",10,25,NA,0.286
-"34","Slippery Rock","643","1992","Laurie Lokash","D-II","-",12,21,NA,0.364
-"35","Slippery Rock","643","1991","Laurie Lokash","D-II","-",6,28,NA,0.176
-"36","Slippery Rock","643","1990","Laurie Lokash","D-II","-",10,25,NA,0.286
-"37","Slippery Rock","643","1989","Laurie Lokash","D-II","-",18,16,NA,0.529
-"38","Slippery Rock","643","1988","Laurie Lokash","D-II","-",14,18,NA,0.438
-"39","Slippery Rock","643","1987","Laurie Lokash","D-II","-",8,9,NA,0.471
-"40","Slippery Rock","643","1985","","D-II","-",NA,NA,NA,NA
-"41","Slippery Rock","643","1984","","D-II","-",NA,NA,NA,NA
-"42","Slippery Rock","643","1983","","D-II","-",NA,NA,NA,NA
-"43","Slippery Rock","643","1982","","D-II","-",NA,NA,NA,NA
-"44","Slippery Rock","643","","","","",600,843,1,0.416
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stacey Rice","PSAC","0-0-0",0
+"2","2024","Stacey Rice","PSAC","25-27-0",0.481
+"3","2023","Stacey Rice","PSAC","29-24-0",0.547
+"4","2022","Stacey Rice","PSAC","15-22-1",0.408
+"5","2021","Stacey Rice","PSAC","13-27-0",0.325
+"6","2020","Stacey Rice","PSAC","6-12-0",0.333
+"7","2019","Stacey Rice","PSAC","18-27-0",0.4
+"8","2018","Stacey Rice","PSAC","24-19-0",0.558
+"9","2017","Stacey Rice","PSAC","17-24-0",0.415
+"10","2016","Stacey Rice","PSAC","20-23-0",0.465
+"11","2015","Stacey Rice","PSAC","15-23-0",0.395
+"12","2014","Becky Sciacca","PSAC","16-26-0",0.381
+"13","2013","Becky Sciacca","PSAC","16-20-0",0.444
+"14","2012","Becky Sciacca","PSAC","16-17-0",0.485
+"15","2011","Vashion Johnson","PSAC","19-13-0",0.594
+"16","2010","Vashion Johnson","PSAC","22-21-0",0.512
+"17","2009","Vashion Johnson","PSAC","21-23-0",0.477
+"18","2008","Vashion Johnson","PSAC","27-17-0",0.614
+"19","2007","Vashion Johnson","PSAC","26-22-0",0.542
+"20","2006","Vashion Johnson","PSAC","20-24-0",0.455
+"21","2005","Vashion Johnson","PSAC","24-19-0",0.558
+"22","2004","Vashion Johnson","PSAC","25-17-0",0.595
+"23","2003","Joanne Leight","PSAC","10-26-0",0.278
+"24","2002","Joanne Leight","-","11-24-0",0.314
+"25","2001","Joanne Leight","-","11-23-0",0.324
+"26","1900","Joanne Leight","-","14-25-0",0.359
+"27","1999","Joanne Leight","-","12-28-0",0.3
+"28","1998","Joanne Leight","-","16-26-0",0.381
+"29","1997","Joanne Leight","-","10-26-0",0.278
+"30","1996","Laurie Lokash","-","5-27-0",0.156
+"31","1995","Laurie Lokash","-","10-25-0",0.286
+"32","1994","Laurie Lokash","-","9-24-0",0.273
+"33","1993","Laurie Lokash","-","10-25-0",0.286
+"34","1992","Laurie Lokash","-","12-21-0",0.364
+"35","1991","Laurie Lokash","-","6-28-0",0.176
+"36","1990","Laurie Lokash","-","10-25-0",0.286
+"37","1989","Laurie Lokash","-","18-16-0",0.529
+"38","1988","Laurie Lokash","-","14-18-0",0.438
+"39","1987","Laurie Lokash","-","8-9-0",0.471
+"40","1985","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

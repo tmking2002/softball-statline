@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Missouri S&T","435","2025","Summer Anagnostopoulos","D-II","GLVC",0,7,0,0
-"2","Missouri S&T","435","2024","Bryan Howard","D-II","GLVC",27,34,0,0.443
-"3","Missouri S&T","435","2023","Bryan Howard","D-II","GLVC",20,28,0,0.417
-"4","Missouri S&T","435","2022","Cathy Monroe","D-II","GLVC",24,26,0,0.48
-"5","Missouri S&T","435","2021","Cathy Monroe","D-II","GLVC",7,35,0,0.167
-"6","Missouri S&T","435","2020","Cathy Monroe","D-II","GLVC",3,13,0,0.188
-"7","Missouri S&T","435","2019","Cathy Monroe","D-II","GLVC",15,33,0,0.313
-"8","Missouri S&T","435","2018","Cathy Monroe","D-II","GLVC",27,27,NA,0.5
-"9","Missouri S&T","435","2017","Cathy Monroe","D-II","GLVC",22,31,0,0.415
-"10","Missouri S&T","435","2016","Cathy Monroe","D-II","GLVC",16,35,0,0.314
-"11","Missouri S&T","435","2015","Don Kennedy","D-II","GLVC",11,28,0,0.282
-"12","Missouri S&T","435","2014","Don Kennedy","D-II","GLVC",14,33,0,0.298
-"13","Missouri S&T","435","2013","Don Kennedy","D-II","GLVC",13,25,0,0.342
-"14","Missouri S&T","435","2012","Don Kennedy","D-II","GLVC",15,38,0,0.283
-"15","Missouri S&T","435","2011","Don Kennedy","D-II","GLVC",13,29,0,0.31
-"16","Missouri S&T","435","2010","Don Kennedy","D-II","GLVC",27,23,0,0.54
-"17","Missouri S&T","435","2009","Don Kennedy","D-II","GLVC",21,28,0,0.429
-"18","Missouri S&T","435","2008","Don Kennedy","D-II","GLVC",26,21,0,0.553
-"19","Missouri S&T","435","2007","Don Kennedy","D-II","GLVC",29,18,0,0.617
-"20","Missouri S&T","435","2006","Ryan Anderson","D-II","GLVC",33,10,0,0.767
-"21","Missouri S&T","435","2005","Ryan Anderson","D-II","Mid-America Intercollegiate",33,25,0,0.569
-"22","Missouri S&T","435","2004","Ryan Anderson","D-II","Mid-America Intercollegiate",41,14,0,0.745
-"23","Missouri S&T","435","2003","Dave Burwell","D-II","Mid-America Intercollegiate",19,26,0,0.422
-"24","Missouri S&T","435","2002","Dave Burwell","D-II","Mid-America Intercollegiate",13,33,0,0.283
-"25","Missouri S&T","435","2001","Dave Burwell","D-II","-",23,33,0,0.411
-"26","Missouri S&T","435","1900","Dave Burwell","D-II","-",16,37,0,0.302
-"27","Missouri S&T","435","1999","Dave Burwell","D-II","-",11,28,0,0.282
-"28","Missouri S&T","435","1998","Dave Burwell","D-II","-",21,18,0,0.538
-"29","Missouri S&T","435","1997","Dave Burwell","D-II","-",30,20,0,0.6
-"30","Missouri S&T","435","1996","Dave Burwell","D-II","-",29,21,0,0.58
-"31","Missouri S&T","435","1995","Dave Burwell","D-II","-",24,25,0,0.49
-"32","Missouri S&T","435","1994","Lisa Burwell","D-II","-",26,21,0,0.553
-"33","Missouri S&T","435","1993","Lisa Burwell","D-II","-",22,19,0,0.537
-"34","Missouri S&T","435","1992","Lisa Burwell","D-II","-",24,24,0,0.5
-"35","Missouri S&T","435","1991","","D-II","-",NA,NA,NA,NA
-"36","Missouri S&T","435","1990","","D-II","-",NA,NA,NA,NA
-"37","Missouri S&T","435","1989","Julie LeVeck","D-II","-",18,20,NA,0.474
-"38","Missouri S&T","435","1988","Julie LeVeck","D-II","-",24,10,NA,0.706
-"39","Missouri S&T","435","1985","","D-II","-",NA,NA,NA,NA
-"40","Missouri S&T","435","1984","","D-II","-",NA,NA,NA,NA
-"41","Missouri S&T","435","1982","","D-II","-",NA,NA,NA,NA
-"42","Missouri S&T","435","","","","",737,896,0,0.451
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Summer Anagnostopoulos","GLVC","0-7-0",0
+"2","2024","Bryan Howard","GLVC","27-34-0",0.443
+"3","2023","Bryan Howard","GLVC","20-28-0",0.417
+"4","2022","Cathy Monroe","GLVC","24-26-0",0.48
+"5","2021","Cathy Monroe","GLVC","7-35-0",0.167
+"6","2020","Cathy Monroe","GLVC","3-13-0",0.188
+"7","2019","Cathy Monroe","GLVC","15-33-0",0.313
+"8","2018","Cathy Monroe","GLVC","27-27-0",0.5
+"9","2017","Cathy Monroe","GLVC","22-31-0",0.415
+"10","2016","Cathy Monroe","GLVC","16-35-0",0.314
+"11","2015","Don Kennedy","GLVC","11-28-0",0.282
+"12","2014","Don Kennedy","GLVC","14-33-0",0.298
+"13","2013","Don Kennedy","GLVC","13-25-0",0.342
+"14","2012","Don Kennedy","GLVC","15-38-0",0.283
+"15","2011","Don Kennedy","GLVC","13-29-0",0.31
+"16","2010","Don Kennedy","GLVC","27-23-0",0.54
+"17","2009","Don Kennedy","GLVC","21-28-0",0.429
+"18","2008","Don Kennedy","GLVC","26-21-0",0.553
+"19","2007","Don Kennedy","GLVC","29-18-0",0.617
+"20","2006","Ryan Anderson","GLVC","33-10-0",0.767
+"21","2005","Ryan Anderson","Mid-America Intercollegiate","33-25-0",0.569
+"22","2004","Ryan Anderson","Mid-America Intercollegiate","41-14-0",0.745
+"23","2003","Dave Burwell","Mid-America Intercollegiate","19-26-0",0.422
+"24","2002","Dave Burwell","Mid-America Intercollegiate","13-33-0",0.283
+"25","2001","Dave Burwell","-","23-33-0",0.411
+"26","1900","Dave Burwell","-","16-37-0",0.302
+"27","1999","Dave Burwell","-","11-28-0",0.282
+"28","1998","Dave Burwell","-","21-18-0",0.538
+"29","1997","Dave Burwell","-","30-20-0",0.6
+"30","1996","Dave Burwell","-","29-21-0",0.58
+"31","1995","Dave Burwell","-","24-25-0",0.49
+"32","1994","Lisa Burwell","-","26-21-0",0.553
+"33","1993","Lisa Burwell","-","22-19-0",0.537
+"34","1992","Lisa Burwell","-","24-24-0",0.5
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","Julie LeVeck","-","18-20-0",0.474
+"38","1988","Julie LeVeck","-","24-10-0",0.706
+"39","1985","","-","NA-NA-0",NA
+"40","1984","","-","NA-NA-0",NA
+"41","1982","","-","NA-NA-0",NA

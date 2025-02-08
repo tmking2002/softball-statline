@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","CWRU","122","2025","Josie Henry","D-III","UAA",0,0,0,0
-"2","CWRU","122","2024","Josie Henry","D-III","UAA",40,9,0,0.816
-"3","CWRU","122","2023","Josie Henry","D-III","UAA",38,5,0,0.884
-"4","CWRU","122","2022","Josie Henry","D-III","UAA",30,12,0,0.714
-"5","CWRU","122","2021","Josie Henry","D-III","UAA",27,9,0,0.75
-"6","CWRU","122","2020","Josie Henry","D-III","UAA",6,4,0,0.6
-"7","CWRU","122","2019","Josie Henry","D-III","UAA",25,13,0,0.658
-"8","CWRU","122","2018","Josie Henry","D-III","UAA",38,12,NA,0.76
-"9","CWRU","122","2017","Josie Henry","D-III","UAA",20,17,0,0.541
-"10","CWRU","122","2016","Josie Henry","D-III","UAA",21,19,0,0.525
-"11","CWRU","122","2015","Josie Henry","D-III","UAA",32,11,0,0.744
-"12","CWRU","122","2014","Josie Henry","D-III","UAA",25,15,0,0.625
-"13","CWRU","122","2013","Josie Henry","D-III","UAA",24,13,0,0.649
-"14","CWRU","122","2012","Josie Henry","D-III","UAA",26,15,0,0.634
-"15","CWRU","122","2011","Josie Henry","D-III","UAA",19,25,0,0.432
-"16","CWRU","122","2010","Erin O'Neill","D-III","UAA",9,33,0,0.214
-"17","CWRU","122","2009","Erin O'Neill","D-III","UAA",15,24,0,0.385
-"18","CWRU","122","2008","Jennie Amodio","D-III","UAA",14,30,0,0.318
-"19","CWRU","122","2007","Jennie Amodio","D-III","UAA",19,17,0,0.528
-"20","CWRU","122","2006","Jennie Amodio","D-III","UAA",19,24,1,0.443
-"21","CWRU","122","2005","Jennie Amodio","D-III","UAA",8,32,0,0.2
-"22","CWRU","122","2004","Jennie Amodio","D-III","UAA",11,20,0,0.355
-"23","CWRU","122","2003","Jennie Amodio","D-III","UAA",5,32,1,0.145
-"24","CWRU","122","2002","Jennie Amodio","D-III","UAA",16,15,0,0.516
-"25","CWRU","122","2001","Jennie Amodio","D-III","-",31,10,0,0.756
-"26","CWRU","122","1900","Jennie Amodio","D-III","-",21,24,0,0.467
-"27","CWRU","122","1999","Karen Chambers","D-III","-",25,9,NA,0.735
-"28","CWRU","122","1998","Karen Chambers","D-III","-",17,7,1,0.7
-"29","CWRU","122","1997","Karen Chambers","D-III","-",14,7,NA,0.667
-"30","CWRU","122","1996","Karen Chambers","D-III","-",4,13,NA,0.235
-"31","CWRU","122","1995","","D-III","-",NA,NA,NA,NA
-"32","CWRU","122","1994","","D-III","-",NA,NA,NA,NA
-"33","CWRU","122","1993","","D-III","-",NA,NA,NA,NA
-"34","CWRU","122","1992","","D-III","-",NA,NA,NA,NA
-"35","CWRU","122","1991","","D-III","-",NA,NA,NA,NA
-"36","CWRU","122","1990","","D-III","-",NA,NA,NA,NA
-"37","CWRU","122","","","","",599,476,3,0.557
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Josie Henry","UAA","0-0-0",0
+"2","2024","Josie Henry","UAA","40-9-0",0.816
+"3","2023","Josie Henry","UAA","38-5-0",0.884
+"4","2022","Josie Henry","UAA","30-12-0",0.714
+"5","2021","Josie Henry","UAA","27-9-0",0.75
+"6","2020","Josie Henry","UAA","6-4-0",0.6
+"7","2019","Josie Henry","UAA","25-13-0",0.658
+"8","2018","Josie Henry","UAA","38-12-0",0.76
+"9","2017","Josie Henry","UAA","20-17-0",0.541
+"10","2016","Josie Henry","UAA","21-19-0",0.525
+"11","2015","Josie Henry","UAA","32-11-0",0.744
+"12","2014","Josie Henry","UAA","25-15-0",0.625
+"13","2013","Josie Henry","UAA","24-13-0",0.649
+"14","2012","Josie Henry","UAA","26-15-0",0.634
+"15","2011","Josie Henry","UAA","19-25-0",0.432
+"16","2010","Erin O'Neill","UAA","9-33-0",0.214
+"17","2009","Erin O'Neill","UAA","15-24-0",0.385
+"18","2008","Jennie Amodio","UAA","14-30-0",0.318
+"19","2007","Jennie Amodio","UAA","19-17-0",0.528
+"20","2006","Jennie Amodio","UAA","19-24-1",0.443
+"21","2005","Jennie Amodio","UAA","8-32-0",0.2
+"22","2004","Jennie Amodio","UAA","11-20-0",0.355
+"23","2003","Jennie Amodio","UAA","5-32-1",0.145
+"24","2002","Jennie Amodio","UAA","16-15-0",0.516
+"25","2001","Jennie Amodio","-","31-10-0",0.756
+"26","1900","Jennie Amodio","-","21-24-0",0.467
+"27","1999","Karen Chambers","-","25-9-0",0.735
+"28","1998","Karen Chambers","-","17-7-1",0.7
+"29","1997","Karen Chambers","-","14-7-0",0.667
+"30","1996","Karen Chambers","-","4-13-0",0.235
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

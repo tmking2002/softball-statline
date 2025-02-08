@@ -84,7 +84,10 @@ for(i in 1:length(team_ids)){
   print(i)
 
   df <- team_info %>% 
-    filter(team_id == team_ids[i]) %>% 
+    filter(team_id == team_ids[i] & season != "") %>%
+    mutate(ties = ifelse(is.na(ties), 0, ties),
+           record = paste(wins, losses, ties, sep = "-")) %>% 
+    select(season, head_coach, conference, record, win_perc) %>% 
     distinct()
 
   write.csv(df, paste0("teams/data/team_info/team_", team_ids[i], ".csv"))

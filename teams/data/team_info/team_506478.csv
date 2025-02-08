@@ -1,8 +1,7 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Columbia Int'l","506478","2024",NA,NA,"-",NA,NA,NA,0
-"2","Columbia Int'l","506478","2023",NA,NA,"-",NA,NA,NA,0
-"3","Columbia Int'l","506478","2022",NA,NA,"-",NA,NA,NA,0
-"4","Columbia Int'l","506478","2021",NA,NA,"-",NA,NA,NA,0
-"5","Columbia Int'l","506478","2020",NA,NA,"-",NA,NA,NA,0
-"6","Columbia Int'l","506478","2019",NA,NA,"-",NA,NA,NA,0
-"7","Columbia Int'l","506478","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2022",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0

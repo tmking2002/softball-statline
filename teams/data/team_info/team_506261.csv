@@ -1,11 +1,10 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Penn St.-Gr Allegheny","506261","2025","",NA,"-",NA,NA,NA,0
-"2","Penn St.-Gr Allegheny","506261","2024","",NA,"-",NA,NA,NA,0
-"3","Penn St.-Gr Allegheny","506261","2023","",NA,"-",NA,NA,NA,0
-"4","Penn St.-Gr Allegheny","506261","2022","",NA,"-",NA,NA,NA,0
-"5","Penn St.-Gr Allegheny","506261","2020","",NA,"-",NA,NA,NA,0
-"6","Penn St.-Gr Allegheny","506261","2019","Brian Daley",NA,"-",0,18,0,0
-"7","Penn St.-Gr Allegheny","506261","2013","",NA,"-",NA,NA,NA,NA
-"8","Penn St.-Gr Allegheny","506261","2009","",NA,"-",NA,NA,NA,NA
-"9","Penn St.-Gr Allegheny","506261","2008","",NA,"-",NA,NA,NA,NA
-"10","Penn St.-Gr Allegheny","506261","","",NA,"",0,18,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025","","-","NA-NA-0",0
+"2","2024","","-","NA-NA-0",0
+"3","2023","","-","NA-NA-0",0
+"4","2022","","-","NA-NA-0",0
+"5","2020","","-","NA-NA-0",0
+"6","2019","Brian Daley","-","0-18-0",0
+"7","2013","","-","NA-NA-0",NA
+"8","2009","","-","NA-NA-0",NA
+"9","2008","","-","NA-NA-0",NA

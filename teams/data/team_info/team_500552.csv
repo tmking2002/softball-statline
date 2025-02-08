@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bluefield Univ.","500552","2025",NA,NA,"-",NA,NA,NA,0
-"2","Bluefield Univ.","500552","2024",NA,NA,"-",NA,NA,NA,0
-"3","Bluefield Univ.","500552","2023",NA,NA,"-",NA,NA,NA,0
-"4","Bluefield Univ.","500552","2021",NA,NA,"-",NA,NA,NA,0
-"5","Bluefield Univ.","500552","2020",NA,NA,"-",NA,NA,NA,0
-"6","Bluefield Univ.","500552","2019",NA,NA,"-",NA,NA,NA,0
-"7","Bluefield Univ.","500552","2018",NA,NA,"-",NA,NA,NA,0
-"8","Bluefield Univ.","500552","2017",NA,NA,"-",NA,NA,NA,NA
-"9","Bluefield Univ.","500552","2016",NA,NA,"-",NA,NA,NA,NA
-"10","Bluefield Univ.","500552","2015",NA,NA,"-",NA,NA,NA,NA
-"11","Bluefield Univ.","500552","2014",NA,NA,"-",NA,NA,NA,NA
-"12","Bluefield Univ.","500552","2013",NA,NA,"-",NA,NA,NA,NA
-"13","Bluefield Univ.","500552","2012",NA,NA,"-",NA,NA,NA,NA
-"14","Bluefield Univ.","500552","2011",NA,NA,"-",NA,NA,NA,NA
-"15","Bluefield Univ.","500552","2010",NA,NA,"-",NA,NA,NA,NA
-"16","Bluefield Univ.","500552","2009",NA,NA,"-",NA,NA,NA,NA
-"17","Bluefield Univ.","500552","2008",NA,NA,"-",NA,NA,NA,NA
-"18","Bluefield Univ.","500552","2007",NA,NA,"-",NA,NA,NA,NA
-"19","Bluefield Univ.","500552","2006",NA,NA,"-",NA,NA,NA,NA
-"20","Bluefield Univ.","500552","2005",NA,NA,"-",NA,NA,NA,NA
-"21","Bluefield Univ.","500552","2002",NA,NA,"-",NA,NA,NA,NA
-"22","Bluefield Univ.","500552","1981",NA,NA,"-",NA,NA,NA,NA
-"23","Bluefield Univ.","500552","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2018",NA,"-","NA-NA-0",0
+"8","2017",NA,"-","NA-NA-0",NA
+"9","2016",NA,"-","NA-NA-0",NA
+"10","2015",NA,"-","NA-NA-0",NA
+"11","2014",NA,"-","NA-NA-0",NA
+"12","2013",NA,"-","NA-NA-0",NA
+"13","2012",NA,"-","NA-NA-0",NA
+"14","2011",NA,"-","NA-NA-0",NA
+"15","2010",NA,"-","NA-NA-0",NA
+"16","2009",NA,"-","NA-NA-0",NA
+"17","2008",NA,"-","NA-NA-0",NA
+"18","2007",NA,"-","NA-NA-0",NA
+"19","2006",NA,"-","NA-NA-0",NA
+"20","2005",NA,"-","NA-NA-0",NA
+"21","2002",NA,"-","NA-NA-0",NA
+"22","1981",NA,"-","NA-NA-0",NA

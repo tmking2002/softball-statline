@@ -1,27 +1,26 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","A&M-Corpus Christi","26172","2025","Kathleen Rodriguez","D-I","Southland",1,2,0,0.333
-"2","A&M-Corpus Christi","26172","2024","Kathleen Rodriguez","D-I","Southland",21,22,0,0.488
-"3","A&M-Corpus Christi","26172","2023","Kathleen Rodriguez","D-I","Southland",24,24,0,0.5
-"4","A&M-Corpus Christi","26172","2022","Kathleen Rodriguez","D-I","Southland",25,27,0,0.481
-"5","A&M-Corpus Christi","26172","2021","Kristen Zaleski","D-I","Southland",18,30,0,0.375
-"6","A&M-Corpus Christi","26172","2020","Kristen Zaleski","D-I","Southland",6,16,0,0.273
-"7","A&M-Corpus Christi","26172","2019","Blake Miller","D-I","Southland",8,43,0,0.157
-"8","A&M-Corpus Christi","26172","2018","Blake Miller","D-I","Southland",14,37,1,0.279
-"9","A&M-Corpus Christi","26172","2017","Blake Miller","D-I","Southland",12,36,0,0.25
-"10","A&M-Corpus Christi","26172","2016","Stephanie Hughes","D-I","Southland",18,30,0,0.375
-"11","A&M-Corpus Christi","26172","2015","Stephanie Hughes","D-I","Southland",20,30,1,0.402
-"12","A&M-Corpus Christi","26172","2014","Stephanie Hughes","D-I","Southland",16,36,0,0.308
-"13","A&M-Corpus Christi","26172","2013","Stephanie Hughes","D-I","Southland",11,39,0,0.22
-"14","A&M-Corpus Christi","26172","2012","Stephanie Hughes","D-I","Southland",18,23,0,0.439
-"15","A&M-Corpus Christi","26172","2011","Jake Schumann","D-I","Southland",41,19,0,0.683
-"16","A&M-Corpus Christi","26172","2010","Jake Schumann","D-I","Southland",35,22,0,0.614
-"17","A&M-Corpus Christi","26172","2009","Jake Schumann","D-I","Southland",23,31,0,0.426
-"18","A&M-Corpus Christi","26172","2008","Jake Schumann","D-I","Southland",21,32,0,0.396
-"19","A&M-Corpus Christi","26172","2007","Dawn Wuthrich","D-I","Southland",12,38,0,0.24
-"20","A&M-Corpus Christi","26172","2006","Dawn Wuthrich","D-I","Big South",10,35,0,0.222
-"21","A&M-Corpus Christi","26172","2005","Missy Dickerson","D-I","Big South",42,11,0,0.792
-"22","A&M-Corpus Christi","26172","2004","Missy Dickerson","D-I","Big South",39,21,0,0.65
-"23","A&M-Corpus Christi","26172","2003","Missy Dickerson","D-I","-",31,24,NA,0.564
-"24","A&M-Corpus Christi","26172","2002","Natasha Dumoski","D-I","-",35,30,0,0.538
-"25","A&M-Corpus Christi","26172","2001","Natasha Dumoski","D-I","-",19,41,0,0.317
-"26","A&M-Corpus Christi","26172","","","","",520,699,2,0.427
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kathleen Rodriguez","Southland","1-2-0",0.333
+"2","2024","Kathleen Rodriguez","Southland","21-22-0",0.488
+"3","2023","Kathleen Rodriguez","Southland","24-24-0",0.5
+"4","2022","Kathleen Rodriguez","Southland","25-27-0",0.481
+"5","2021","Kristen Zaleski","Southland","18-30-0",0.375
+"6","2020","Kristen Zaleski","Southland","6-16-0",0.273
+"7","2019","Blake Miller","Southland","8-43-0",0.157
+"8","2018","Blake Miller","Southland","14-37-1",0.279
+"9","2017","Blake Miller","Southland","12-36-0",0.25
+"10","2016","Stephanie Hughes","Southland","18-30-0",0.375
+"11","2015","Stephanie Hughes","Southland","20-30-1",0.402
+"12","2014","Stephanie Hughes","Southland","16-36-0",0.308
+"13","2013","Stephanie Hughes","Southland","11-39-0",0.22
+"14","2012","Stephanie Hughes","Southland","18-23-0",0.439
+"15","2011","Jake Schumann","Southland","41-19-0",0.683
+"16","2010","Jake Schumann","Southland","35-22-0",0.614
+"17","2009","Jake Schumann","Southland","23-31-0",0.426
+"18","2008","Jake Schumann","Southland","21-32-0",0.396
+"19","2007","Dawn Wuthrich","Southland","12-38-0",0.24
+"20","2006","Dawn Wuthrich","Big South","10-35-0",0.222
+"21","2005","Missy Dickerson","Big South","42-11-0",0.792
+"22","2004","Missy Dickerson","Big South","39-21-0",0.65
+"23","2003","Missy Dickerson","-","31-24-0",0.564
+"24","2002","Natasha Dumoski","-","35-30-0",0.538
+"25","2001","Natasha Dumoski","-","19-41-0",0.317

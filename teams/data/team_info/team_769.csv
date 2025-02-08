@@ -1,22 +1,21 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Western Caro.","769","2025","Jim Clift","D-I","SoCon",0,2,0,0
-"2","Western Caro.","769","2024","Jim Clift","D-I","SoCon",18,35,0,0.34
-"3","Western Caro.","769","2023","Jim Clift","D-I","SoCon",21,26,0,0.447
-"4","Western Caro.","769","2022","Jim Clift","D-I","SoCon",19,34,0,0.358
-"5","Western Caro.","769","2021","Jim Clift","D-I","SoCon",27,26,0,0.509
-"6","Western Caro.","769","2020","Jim Clift","D-I","SoCon",3,13,0,0.188
-"7","Western Caro.","769","2019","Jim Clift","D-I","SoCon",21,32,0,0.396
-"8","Western Caro.","769","2018","Jim Clift","D-I","SoCon",15,37,NA,0.288
-"9","Western Caro.","769","2017","Jim Clift","D-I","SoCon",18,30,0,0.375
-"10","Western Caro.","769","2016","Jim Clift","D-I","SoCon",33,24,0,0.579
-"11","Western Caro.","769","2015","Jim Clift","D-I","SoCon",22,31,0,0.415
-"12","Western Caro.","769","2014","Jim Clift","D-I","SoCon",19,34,0,0.358
-"13","Western Caro.","769","2013","Jim Clift","D-I","SoCon",20,36,0,0.357
-"14","Western Caro.","769","2012","Jim Clift","D-I","SoCon",24,34,0,0.414
-"15","Western Caro.","769","2011","Christine Hornak","D-I","SoCon",18,35,0,0.34
-"16","Western Caro.","769","2010","Christine Hornak","D-I","SoCon",10,43,0,0.189
-"17","Western Caro.","769","2009","Christine Hornak","D-I","SoCon",12,35,0,0.255
-"18","Western Caro.","769","2008","Christine Hornak","D-I","SoCon",19,36,0,0.345
-"19","Western Caro.","769","2007","Christine Hornak","D-I","SoCon",28,34,0,0.452
-"20","Western Caro.","769","2006","Megan Smith Lyon","D-I","SoCon",41,20,0,0.672
-"21","Western Caro.","769","","","","",388,597,0,0.394
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jim Clift","SoCon","0-2-0",0
+"2","2024","Jim Clift","SoCon","18-35-0",0.34
+"3","2023","Jim Clift","SoCon","21-26-0",0.447
+"4","2022","Jim Clift","SoCon","19-34-0",0.358
+"5","2021","Jim Clift","SoCon","27-26-0",0.509
+"6","2020","Jim Clift","SoCon","3-13-0",0.188
+"7","2019","Jim Clift","SoCon","21-32-0",0.396
+"8","2018","Jim Clift","SoCon","15-37-0",0.288
+"9","2017","Jim Clift","SoCon","18-30-0",0.375
+"10","2016","Jim Clift","SoCon","33-24-0",0.579
+"11","2015","Jim Clift","SoCon","22-31-0",0.415
+"12","2014","Jim Clift","SoCon","19-34-0",0.358
+"13","2013","Jim Clift","SoCon","20-36-0",0.357
+"14","2012","Jim Clift","SoCon","24-34-0",0.414
+"15","2011","Christine Hornak","SoCon","18-35-0",0.34
+"16","2010","Christine Hornak","SoCon","10-43-0",0.189
+"17","2009","Christine Hornak","SoCon","12-35-0",0.255
+"18","2008","Christine Hornak","SoCon","19-36-0",0.345
+"19","2007","Christine Hornak","SoCon","28-34-0",0.452
+"20","2006","Megan Smith Lyon","SoCon","41-20-0",0.672

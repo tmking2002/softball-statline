@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Stockton","681","2025","Mavreen Hering","D-III","NJAC",0,0,0,0
-"2","Stockton","681","2024","Mavreen Hering","D-III","NJAC",24,17,0,0.585
-"3","Stockton","681","2023","Mavreen Hering","D-III","NJAC",19,19,0,0.5
-"4","Stockton","681","2022","Mavreen Hering","D-III","NJAC",24,18,0,0.571
-"5","Stockton","681","2021","Mavreen Hering","D-III","NJAC",10,18,0,0.357
-"6","Stockton","681","2020","Mavreen Hering","D-III","NJAC",1,1,0,0.5
-"7","Stockton","681","2019","Mavreen Hering","D-III","NJAC",22,19,1,0.536
-"8","Stockton","681","2018","Mavreen Hering","D-III","NJAC",24,17,NA,0.585
-"9","Stockton","681","2017","Mavreen Hering","D-III","NJAC",26,21,1,0.552
-"10","Stockton","681","2016","Mavreen Hering","D-III","NJAC",32,13,0,0.711
-"11","Stockton","681","2015","Val Julien","D-III","NJAC",17,18,0,0.486
-"12","Stockton","681","2014","Val Julien","D-III","NJAC",26,16,0,0.619
-"13","Stockton","681","2013","Val Julien","D-III","NJAC",33,11,0,0.75
-"14","Stockton","681","2012","Val Julien","D-III","NJAC",25,15,0,0.625
-"15","Stockton","681","2011","Val Julien","D-III","NJAC",20,19,0,0.513
-"16","Stockton","681","2010","Val Julien","D-III","NJAC",28,17,0,0.622
-"17","Stockton","681","2009","Val Julien","D-III","NJAC",27,15,0,0.643
-"18","Stockton","681","2008","Val Julien","D-III","NJAC",27,16,0,0.628
-"19","Stockton","681","2007","Val Julien","D-III","NJAC",24,14,0,0.632
-"20","Stockton","681","2006","Val Julien","D-III","NJAC",23,20,0,0.535
-"21","Stockton","681","2005","Val Julien","D-III","NJAC",25,15,0,0.625
-"22","Stockton","681","2004","Val Julien","D-III","NJAC",18,15,1,0.544
-"23","Stockton","681","2003","Val Julien","D-III","NJAC",23,15,1,0.603
-"24","Stockton","681","2002","Val Julien","D-III","NJAC",14,24,0,0.368
-"25","Stockton","681","2001","Val Julien","D-III","-",13,22,NA,0.371
-"26","Stockton","681","1900","Val Julien","D-III","-",20,16,NA,0.556
-"27","Stockton","681","1999","Val Julien","D-III","-",17,15,NA,0.531
-"28","Stockton","681","1998","Val Julien","D-III","-",16,13,NA,0.552
-"29","Stockton","681","1997","Val Julien","D-III","-",18,13,NA,0.581
-"30","Stockton","681","1996","Val Julien","D-III","-",12,23,NA,0.343
-"31","Stockton","681","1995","Val Julien","D-III","-",13,25,NA,0.342
-"32","Stockton","681","1994","Val Julien","D-III","-",12,18,NA,0.4
-"33","Stockton","681","1993","Val Julien","D-III","-",15,18,NA,0.455
-"34","Stockton","681","1992","Val Julien","D-III","-",9,21,NA,0.3
-"35","Stockton","681","1991","Val Julien","D-III","-",16,18,NA,0.471
-"36","Stockton","681","1990","Val Julien","D-III","-",19,15,NA,0.559
-"37","Stockton","681","1989","Val Julien","D-III","-",7,21,NA,0.25
-"38","Stockton","681","1988","Val Julien","D-III","-",13,22,NA,0.371
-"39","Stockton","681","1987","Val Julien","D-III","-",9,20,NA,0.31
-"40","Stockton","681","1985","","D-III","-",NA,NA,NA,NA
-"41","Stockton","681","1983","","D-III","-",NA,NA,NA,NA
-"42","Stockton","681","","","","",721,653,4,0.525
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mavreen Hering","NJAC","0-0-0",0
+"2","2024","Mavreen Hering","NJAC","24-17-0",0.585
+"3","2023","Mavreen Hering","NJAC","19-19-0",0.5
+"4","2022","Mavreen Hering","NJAC","24-18-0",0.571
+"5","2021","Mavreen Hering","NJAC","10-18-0",0.357
+"6","2020","Mavreen Hering","NJAC","1-1-0",0.5
+"7","2019","Mavreen Hering","NJAC","22-19-1",0.536
+"8","2018","Mavreen Hering","NJAC","24-17-0",0.585
+"9","2017","Mavreen Hering","NJAC","26-21-1",0.552
+"10","2016","Mavreen Hering","NJAC","32-13-0",0.711
+"11","2015","Val Julien","NJAC","17-18-0",0.486
+"12","2014","Val Julien","NJAC","26-16-0",0.619
+"13","2013","Val Julien","NJAC","33-11-0",0.75
+"14","2012","Val Julien","NJAC","25-15-0",0.625
+"15","2011","Val Julien","NJAC","20-19-0",0.513
+"16","2010","Val Julien","NJAC","28-17-0",0.622
+"17","2009","Val Julien","NJAC","27-15-0",0.643
+"18","2008","Val Julien","NJAC","27-16-0",0.628
+"19","2007","Val Julien","NJAC","24-14-0",0.632
+"20","2006","Val Julien","NJAC","23-20-0",0.535
+"21","2005","Val Julien","NJAC","25-15-0",0.625
+"22","2004","Val Julien","NJAC","18-15-1",0.544
+"23","2003","Val Julien","NJAC","23-15-1",0.603
+"24","2002","Val Julien","NJAC","14-24-0",0.368
+"25","2001","Val Julien","-","13-22-0",0.371
+"26","1900","Val Julien","-","20-16-0",0.556
+"27","1999","Val Julien","-","17-15-0",0.531
+"28","1998","Val Julien","-","16-13-0",0.552
+"29","1997","Val Julien","-","18-13-0",0.581
+"30","1996","Val Julien","-","12-23-0",0.343
+"31","1995","Val Julien","-","13-25-0",0.342
+"32","1994","Val Julien","-","12-18-0",0.4
+"33","1993","Val Julien","-","15-18-0",0.455
+"34","1992","Val Julien","-","9-21-0",0.3
+"35","1991","Val Julien","-","16-18-0",0.471
+"36","1990","Val Julien","-","19-15-0",0.559
+"37","1989","Val Julien","-","7-21-0",0.25
+"38","1988","Val Julien","-","13-22-0",0.371
+"39","1987","Val Julien","-","9-20-0",0.31
+"40","1985","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA

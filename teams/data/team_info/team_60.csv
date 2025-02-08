@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bethel (MN)","60","2025","Penny Foore","D-III","MIAC",0,0,0,0
-"2","Bethel (MN)","60","2024","Penny Foore","D-III","MIAC",33,11,0,0.75
-"3","Bethel (MN)","60","2023","Penny Foore","D-III","MIAC",36,5,0,0.878
-"4","Bethel (MN)","60","2022","Penny Foore","D-III","MIAC",37,7,0,0.841
-"5","Bethel (MN)","60","2021","Penny Foore","D-III","MIAC",27,10,0,0.73
-"6","Bethel (MN)","60","2020","Penny Foore","D-III","MIAC",6,2,0,0.75
-"7","Bethel (MN)","60","2019","Penny Foore","D-III","MIAC",25,13,0,0.658
-"8","Bethel (MN)","60","2018","Penny Foore","D-III","MIAC",14,22,0,0.389
-"9","Bethel (MN)","60","2017","Penny Foore","D-III","MIAC",11,22,0,0.333
-"10","Bethel (MN)","60","2016","Penny Foore","D-III","MIAC",18,20,0,0.474
-"11","Bethel (MN)","60","2015","Penny Foore","D-III","MIAC",28,15,0,0.651
-"12","Bethel (MN)","60","2014","Rod Radcliffe","D-III","MIAC",25,18,0,0.581
-"13","Bethel (MN)","60","2013","Rod Radcliffe","D-III","MIAC",27,15,0,0.643
-"14","Bethel (MN)","60","2012","Rod Radcliffe","D-III","MIAC",16,24,0,0.4
-"15","Bethel (MN)","60","2011","Rod Radcliffe","D-III","MIAC",24,16,0,0.6
-"16","Bethel (MN)","60","2010","Rod Radcliffe","D-III","MIAC",23,20,0,0.535
-"17","Bethel (MN)","60","2009","Rod Radcliffe","D-III","MIAC",23,19,0,0.548
-"18","Bethel (MN)","60","2008","Rod Radcliffe","D-III","MIAC",19,18,0,0.514
-"19","Bethel (MN)","60","2007","Rod Radcliffe","D-III","MIAC",16,22,2,0.425
-"20","Bethel (MN)","60","2006","Rod Radcliffe","D-III","MIAC",20,20,0,0.5
-"21","Bethel (MN)","60","2005","Rod Radcliffe","D-III","MIAC",14,25,0,0.359
-"22","Bethel (MN)","60","2004","Darin Thompson","D-III","MIAC",16,24,0,0.4
-"23","Bethel (MN)","60","2003","Darin Thompson","D-III","MIAC",20,20,0,0.5
-"24","Bethel (MN)","60","2002","Darin Thompson","D-III","MIAC",16,17,1,0.485
-"25","Bethel (MN)","60","2001","Darin Thompson","D-III","-",10,22,NA,0.313
-"26","Bethel (MN)","60","1900","Darin Thompson","D-III","-",NA,NA,NA,NA
-"27","Bethel (MN)","60","1999","Darin Thompson","D-III","-",14,21,1,0.403
-"28","Bethel (MN)","60","1998","Darin Thompson","D-III","-",19,19,NA,0.5
-"29","Bethel (MN)","60","1997","Darin Thompson (21-12-1)Pam Wolf (21-12-1)","D-III","-",21,12,1,0.632
-"30","Bethel (MN)","60","1996","Pam Wolf","D-III","-",16,14,NA,0.533
-"31","Bethel (MN)","60","1995","","D-III","-",NA,NA,NA,NA
-"32","Bethel (MN)","60","1994","","D-III","-",NA,NA,NA,NA
-"33","Bethel (MN)","60","1993","","D-III","-",NA,NA,NA,NA
-"34","Bethel (MN)","60","1992","","D-III","-",NA,NA,NA,NA
-"35","Bethel (MN)","60","1991","","D-III","-",NA,NA,NA,NA
-"36","Bethel (MN)","60","1990","","D-III","-",NA,NA,NA,NA
-"37","Bethel (MN)","60","","","","",574,473,5,0.548
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Penny Foore","MIAC","0-0-0",0
+"2","2024","Penny Foore","MIAC","33-11-0",0.75
+"3","2023","Penny Foore","MIAC","36-5-0",0.878
+"4","2022","Penny Foore","MIAC","37-7-0",0.841
+"5","2021","Penny Foore","MIAC","27-10-0",0.73
+"6","2020","Penny Foore","MIAC","6-2-0",0.75
+"7","2019","Penny Foore","MIAC","25-13-0",0.658
+"8","2018","Penny Foore","MIAC","14-22-0",0.389
+"9","2017","Penny Foore","MIAC","11-22-0",0.333
+"10","2016","Penny Foore","MIAC","18-20-0",0.474
+"11","2015","Penny Foore","MIAC","28-15-0",0.651
+"12","2014","Rod Radcliffe","MIAC","25-18-0",0.581
+"13","2013","Rod Radcliffe","MIAC","27-15-0",0.643
+"14","2012","Rod Radcliffe","MIAC","16-24-0",0.4
+"15","2011","Rod Radcliffe","MIAC","24-16-0",0.6
+"16","2010","Rod Radcliffe","MIAC","23-20-0",0.535
+"17","2009","Rod Radcliffe","MIAC","23-19-0",0.548
+"18","2008","Rod Radcliffe","MIAC","19-18-0",0.514
+"19","2007","Rod Radcliffe","MIAC","16-22-2",0.425
+"20","2006","Rod Radcliffe","MIAC","20-20-0",0.5
+"21","2005","Rod Radcliffe","MIAC","14-25-0",0.359
+"22","2004","Darin Thompson","MIAC","16-24-0",0.4
+"23","2003","Darin Thompson","MIAC","20-20-0",0.5
+"24","2002","Darin Thompson","MIAC","16-17-1",0.485
+"25","2001","Darin Thompson","-","10-22-0",0.313
+"26","1900","Darin Thompson","-","NA-NA-0",NA
+"27","1999","Darin Thompson","-","14-21-1",0.403
+"28","1998","Darin Thompson","-","19-19-0",0.5
+"29","1997","Darin Thompson (21-12-1)Pam Wolf (21-12-1)","-","21-12-1",0.632
+"30","1996","Pam Wolf","-","16-14-0",0.533
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

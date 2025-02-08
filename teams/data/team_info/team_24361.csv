@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","P.R.-Mayaguez","24361","2020",NA,"","-",NA,NA,NA,0
-"2","P.R.-Mayaguez","24361","2016",NA,"D-II","-",NA,NA,NA,NA
-"3","P.R.-Mayaguez","24361","2015",NA,"D-II","-",NA,NA,NA,NA
-"4","P.R.-Mayaguez","24361","2014",NA,"D-II","-",NA,NA,NA,NA
-"5","P.R.-Mayaguez","24361","2013",NA,"D-II","-",NA,NA,NA,NA
-"6","P.R.-Mayaguez","24361","2006",NA,"","-",NA,NA,NA,NA
-"7","P.R.-Mayaguez","24361","2003",NA,"","-",NA,NA,NA,NA
-"8","P.R.-Mayaguez","24361","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2020",NA,"-","NA-NA-0",0
+"2","2016",NA,"-","NA-NA-0",NA
+"3","2015",NA,"-","NA-NA-0",NA
+"4","2014",NA,"-","NA-NA-0",NA
+"5","2013",NA,"-","NA-NA-0",NA
+"6","2006",NA,"-","NA-NA-0",NA
+"7","2003",NA,"-","NA-NA-0",NA

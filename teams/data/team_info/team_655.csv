@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Southeastern La.","655","2025","Rick Fremin","D-I","Southland",0,0,0,0
-"2","Southeastern La.","655","2024","Rick Fremin","D-I","Southland",47,15,0,0.758
-"3","Southeastern La.","655","2023","Rick Fremin","D-I","Southland",47,14,0,0.77
-"4","Southeastern La.","655","2022","Rick Fremin","D-I","Southland",40,16,0,0.714
-"5","Southeastern La.","655","2021","Rick Fremin","D-I","Southland",28,23,0,0.549
-"6","Southeastern La.","655","2020","Rick Fremin","D-I","Southland",15,8,0,0.652
-"7","Southeastern La.","655","2019","Rick Fremin","D-I","Southland",34,23,0,0.596
-"8","Southeastern La.","655","2018","Rick Fremin","D-I","Southland",38,21,NA,0.644
-"9","Southeastern La.","655","2017","Rick Fremin","D-I","Southland",26,29,0,0.473
-"10","Southeastern La.","655","2016","Pete Langlois","D-I","Southland",23,32,0,0.418
-"11","Southeastern La.","655","2015","Pete Langlois","D-I","Southland",22,30,0,0.423
-"12","Southeastern La.","655","2014","Pete Langlois","D-I","Southland",19,29,0,0.396
-"13","Southeastern La.","655","2013","Pete Langlois","D-I","Southland",31,23,0,0.574
-"14","Southeastern La.","655","2012","Pete Langlois","D-I","Southland",15,34,0,0.306
-"15","Southeastern La.","655","2011","Pete Langlois","D-I","Southland",22,30,0,0.423
-"16","Southeastern La.","655","2010","Pete Langlois","D-I","Southland",11,37,0,0.229
-"17","Southeastern La.","655","2009","Pete Langlois","D-I","Southland",14,33,0,0.298
-"18","Southeastern La.","655","2008","Pete Langlois","D-I","Southland",0,25,0,0
-"19","Southeastern La.","655","2007","Pete Langlois","D-I","Southland",0,27,0,0
-"20","Southeastern La.","655","2006","Pete Langlois","D-I","Southland",0,36,0,0
-"21","Southeastern La.","655","2005","Pete Langlois","D-I","Southland",20,27,0,0.426
-"22","Southeastern La.","655","2004","Pete Langlois","D-I","Southland",23,25,0,0.479
-"23","Southeastern La.","655","2003","Pete Langlois","D-I","Southland",15,31,0,0.326
-"24","Southeastern La.","655","2002","Pete Langlois","D-I","Southland",30,27,0,0.526
-"25","Southeastern La.","655","2001","Pete Langlois","D-I","Southland",31,22,0,0.585
-"26","Southeastern La.","655","1900","Pete Langlois","D-I","Southland",21,32,0,0.396
-"27","Southeastern La.","655","1999","Pete Langlois","D-I","Southland",25,29,0,0.463
-"28","Southeastern La.","655","1998","Pete Langlois","D-I","-",31,27,NA,0.534
-"29","Southeastern La.","655","1997","Pete Langlois","D-I","ASUN",12,37,0,0.245
-"30","Southeastern La.","655","1996","Pete Langlois","D-I","-",15,31,NA,0.326
-"31","Southeastern La.","655","1995","Corrie Hill (4-9)Pete Langlois (15-18)","D-I","-",19,27,NA,0.413
-"32","Southeastern La.","655","1994","Corrie Hill","D-I","-",22,31,1,0.417
-"33","Southeastern La.","655","1993","Corrie Hill","D-I","-",19,28,NA,0.404
-"34","Southeastern La.","655","1992","Jacqueline Paddio","D-I","-",18,31,NA,0.367
-"35","Southeastern La.","655","1991","Jacqueline Paddio","D-I","-",22,23,NA,0.489
-"36","Southeastern La.","655","1990","Jacqueline Paddio","D-I","-",24,21,NA,0.533
-"37","Southeastern La.","655","1989","Jacqueline Paddio","","-",21,20,NA,0.512
-"38","Southeastern La.","655","1988","Jacqueline Paddio","","-",1,32,NA,0.03
-"39","Southeastern La.","655","1987","","D-I","-",NA,NA,NA,NA
-"40","Southeastern La.","655","1986","","D-I","-",NA,NA,NA,NA
-"41","Southeastern La.","655","1985","","D-I","-",NA,NA,NA,NA
-"42","Southeastern La.","655","","","","",801,986,1,0.448
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rick Fremin","Southland","0-0-0",0
+"2","2024","Rick Fremin","Southland","47-15-0",0.758
+"3","2023","Rick Fremin","Southland","47-14-0",0.77
+"4","2022","Rick Fremin","Southland","40-16-0",0.714
+"5","2021","Rick Fremin","Southland","28-23-0",0.549
+"6","2020","Rick Fremin","Southland","15-8-0",0.652
+"7","2019","Rick Fremin","Southland","34-23-0",0.596
+"8","2018","Rick Fremin","Southland","38-21-0",0.644
+"9","2017","Rick Fremin","Southland","26-29-0",0.473
+"10","2016","Pete Langlois","Southland","23-32-0",0.418
+"11","2015","Pete Langlois","Southland","22-30-0",0.423
+"12","2014","Pete Langlois","Southland","19-29-0",0.396
+"13","2013","Pete Langlois","Southland","31-23-0",0.574
+"14","2012","Pete Langlois","Southland","15-34-0",0.306
+"15","2011","Pete Langlois","Southland","22-30-0",0.423
+"16","2010","Pete Langlois","Southland","11-37-0",0.229
+"17","2009","Pete Langlois","Southland","14-33-0",0.298
+"18","2008","Pete Langlois","Southland","0-25-0",0
+"19","2007","Pete Langlois","Southland","0-27-0",0
+"20","2006","Pete Langlois","Southland","0-36-0",0
+"21","2005","Pete Langlois","Southland","20-27-0",0.426
+"22","2004","Pete Langlois","Southland","23-25-0",0.479
+"23","2003","Pete Langlois","Southland","15-31-0",0.326
+"24","2002","Pete Langlois","Southland","30-27-0",0.526
+"25","2001","Pete Langlois","Southland","31-22-0",0.585
+"26","1900","Pete Langlois","Southland","21-32-0",0.396
+"27","1999","Pete Langlois","Southland","25-29-0",0.463
+"28","1998","Pete Langlois","-","31-27-0",0.534
+"29","1997","Pete Langlois","ASUN","12-37-0",0.245
+"30","1996","Pete Langlois","-","15-31-0",0.326
+"31","1995","Corrie Hill (4-9)Pete Langlois (15-18)","-","19-27-0",0.413
+"32","1994","Corrie Hill","-","22-31-1",0.417
+"33","1993","Corrie Hill","-","19-28-0",0.404
+"34","1992","Jacqueline Paddio","-","18-31-0",0.367
+"35","1991","Jacqueline Paddio","-","22-23-0",0.489
+"36","1990","Jacqueline Paddio","-","24-21-0",0.533
+"37","1989","Jacqueline Paddio","-","21-20-0",0.512
+"38","1988","Jacqueline Paddio","-","1-32-0",0.03
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

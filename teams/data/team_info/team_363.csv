@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Longwood","363","2025","Megan Brown","D-I","Big South",1,1,0,0.5
-"2","Longwood","363","2024","Megan Brown","D-I","Big South",19,33,0,0.365
-"3","Longwood","363","2023","Megan Brown","D-I","Big South",32,21,0,0.604
-"4","Longwood","363","2022","Megan Brown","D-I","Big South",34,24,0,0.586
-"5","Longwood","363","2021","Megan Brown","D-I","Big South",26,28,0,0.481
-"6","Longwood","363","2020","Kathy Riley","D-I","Big South",10,11,0,0.476
-"7","Longwood","363","2019","Kathy Riley","D-I","Big South",37,22,0,0.627
-"8","Longwood","363","2018","Kathy Riley","D-I","Big South",38,16,NA,0.704
-"9","Longwood","363","2017","Kathy Riley","D-I","Big South",30,29,0,0.508
-"10","Longwood","363","2016","Kathy Riley","D-I","Big South",40,20,0,0.667
-"11","Longwood","363","2015","Kathy Riley","D-I","Big South",34,25,0,0.576
-"12","Longwood","363","2014","Kathy Riley","D-I","Big South",40,16,0,0.714
-"13","Longwood","363","2013","Kathy Riley","D-I","Big South",41,20,0,0.672
-"14","Longwood","363","2012","Kathy Riley","D-I","Longwood",29,26,0,0.527
-"15","Longwood","363","2011","Kathy Riley","D-I","Longwood",37,13,0,0.74
-"16","Longwood","363","2010","Kathy Riley","D-I","Longwood",36,16,0,0.692
-"17","Longwood","363","2009","Kathy Riley","D-I","-",23,23,0,0.5
-"18","Longwood","363","2008","Kathy Riley","D-I","-",27,18,0,0.6
-"19","Longwood","363","2007","Kathy Riley","","-",21,18,0,0.538
-"20","Longwood","363","2006","Kathy Riley","","-",27,19,0,0.587
-"21","Longwood","363","2005","Kathy Riley","","-",32,20,0,0.615
-"22","Longwood","363","2004","Kathy Riley","D-II","-",37,13,0,0.74
-"23","Longwood","363","2003","Kathy Riley","D-II","Conference Carolinas",37,6,0,0.86
-"24","Longwood","363","2002","Kathy Riley","D-II","Conference Carolinas",37,14,0,0.725
-"25","Longwood","363","2001","Kathy Riley","D-II","-",26,14,1,0.646
-"26","Longwood","363","1900","Kathy Riley","D-II","-",34,23,NA,0.596
-"27","Longwood","363","1999","Kathy Riley","D-II","-",38,15,NA,0.717
-"28","Longwood","363","1998","Kathy Riley","D-II","-",22,18,NA,0.55
-"29","Longwood","363","1997","Glenda Grubbs (5-17)Wayne McWee (2-5)","D-II","-",NA,NA,NA,NA
-"30","Longwood","363","1996","Glenda Grubbs","D-II","-",13,19,NA,0.406
-"31","Longwood","363","1995","Loretta Coughlin","D-II","-",10,18,NA,0.357
-"32","Longwood","363","1994","Loretta Coughlin","D-II","-",22,10,1,0.682
-"33","Longwood","363","1993","Loretta Coughlin","D-II","-",14,15,NA,0.483
-"34","Longwood","363","1992","Loretta Coughlin","D-II","-",10,11,NA,0.476
-"35","Longwood","363","1991","Loretta Coughlin","D-II","-",11,13,NA,0.458
-"36","Longwood","363","1990","Loretta Coughlin","D-II","-",11,13,NA,0.458
-"37","Longwood","363","1989","Loretta Coughlin","D-II","-",12,14,NA,0.462
-"38","Longwood","363","1988","Loretta Coughlin","D-II","-",21,5,NA,0.808
-"39","Longwood","363","1987","Loretta Coughlin","D-II","-",10,8,1,0.553
-"40","Longwood","363","1986","Loretta Coughlin","D-II","-",8,17,NA,0.32
-"41","Longwood","363","1985","","D-II","-",NA,NA,NA,NA
-"42","Longwood","363","1984","","D-II","-",NA,NA,NA,NA
-"43","Longwood","363","","","","",987,665,3,0.597
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Megan Brown","Big South","1-1-0",0.5
+"2","2024","Megan Brown","Big South","19-33-0",0.365
+"3","2023","Megan Brown","Big South","32-21-0",0.604
+"4","2022","Megan Brown","Big South","34-24-0",0.586
+"5","2021","Megan Brown","Big South","26-28-0",0.481
+"6","2020","Kathy Riley","Big South","10-11-0",0.476
+"7","2019","Kathy Riley","Big South","37-22-0",0.627
+"8","2018","Kathy Riley","Big South","38-16-0",0.704
+"9","2017","Kathy Riley","Big South","30-29-0",0.508
+"10","2016","Kathy Riley","Big South","40-20-0",0.667
+"11","2015","Kathy Riley","Big South","34-25-0",0.576
+"12","2014","Kathy Riley","Big South","40-16-0",0.714
+"13","2013","Kathy Riley","Big South","41-20-0",0.672
+"14","2012","Kathy Riley","Longwood","29-26-0",0.527
+"15","2011","Kathy Riley","Longwood","37-13-0",0.74
+"16","2010","Kathy Riley","Longwood","36-16-0",0.692
+"17","2009","Kathy Riley","-","23-23-0",0.5
+"18","2008","Kathy Riley","-","27-18-0",0.6
+"19","2007","Kathy Riley","-","21-18-0",0.538
+"20","2006","Kathy Riley","-","27-19-0",0.587
+"21","2005","Kathy Riley","-","32-20-0",0.615
+"22","2004","Kathy Riley","-","37-13-0",0.74
+"23","2003","Kathy Riley","Conference Carolinas","37-6-0",0.86
+"24","2002","Kathy Riley","Conference Carolinas","37-14-0",0.725
+"25","2001","Kathy Riley","-","26-14-1",0.646
+"26","1900","Kathy Riley","-","34-23-0",0.596
+"27","1999","Kathy Riley","-","38-15-0",0.717
+"28","1998","Kathy Riley","-","22-18-0",0.55
+"29","1997","Glenda Grubbs (5-17)Wayne McWee (2-5)","-","NA-NA-0",NA
+"30","1996","Glenda Grubbs","-","13-19-0",0.406
+"31","1995","Loretta Coughlin","-","10-18-0",0.357
+"32","1994","Loretta Coughlin","-","22-10-1",0.682
+"33","1993","Loretta Coughlin","-","14-15-0",0.483
+"34","1992","Loretta Coughlin","-","10-11-0",0.476
+"35","1991","Loretta Coughlin","-","11-13-0",0.458
+"36","1990","Loretta Coughlin","-","11-13-0",0.458
+"37","1989","Loretta Coughlin","-","12-14-0",0.462
+"38","1988","Loretta Coughlin","-","21-5-0",0.808
+"39","1987","Loretta Coughlin","-","10-8-1",0.553
+"40","1986","Loretta Coughlin","-","8-17-0",0.32
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA

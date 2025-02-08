@@ -1,48 +1,47 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Cal St. Fullerton","97","2025","Gina Oaks Garcia","D-I","Big West",0,0,0,0
-"2","Cal St. Fullerton","97","2024","Kelly Ford","D-I","Big West",39,19,0,0.672
-"3","Cal St. Fullerton","97","2023","Kelly Ford","D-I","Big West",34,21,0,0.618
-"4","Cal St. Fullerton","97","2022","Kelly Ford","D-I","Big West",37,22,0,0.627
-"5","Cal St. Fullerton","97","2021","Kelly Ford","D-I","Big West",38,15,0,0.717
-"6","Cal St. Fullerton","97","2020","Kelly Ford","D-I","Big West",14,10,0,0.583
-"7","Cal St. Fullerton","97","2019","Kelly Ford","D-I","Big West",38,18,0,0.679
-"8","Cal St. Fullerton","97","2018","Kelly Ford","D-I","Big West",35,25,0,0.583
-"9","Cal St. Fullerton","97","2017","Kelly Ford","D-I","Big West",35,23,0,0.603
-"10","Cal St. Fullerton","97","2016","Kelly Ford","D-I","Big West",45,16,0,0.738
-"11","Cal St. Fullerton","97","2015","Kelly Ford","D-I","Big West",34,22,0,0.607
-"12","Cal St. Fullerton","97","2014","Kelly Ford","D-I","Big West",33,21,1,0.609
-"13","Cal St. Fullerton","97","2013","Kelly Ford","D-I","Big West",28,28,0,0.5
-"14","Cal St. Fullerton","97","2012","Michelle Gromacki","D-I","Big West",20,31,0,0.392
-"15","Cal St. Fullerton","97","2011","Michelle Gromacki","D-I","Big West",23,24,0,0.489
-"16","Cal St. Fullerton","97","2010","Michelle Gromacki","D-I","Big West",14,39,0,0.264
-"17","Cal St. Fullerton","97","2009","Michelle Gromacki","D-I","Big West",30,21,0,0.588
-"18","Cal St. Fullerton","97","2008","Michelle Gromacki","D-I","Big West",27,28,1,0.491
-"19","Cal St. Fullerton","97","2007","Michelle Gromacki","D-I","Big West",38,23,0,0.623
-"20","Cal St. Fullerton","97","2006","Michelle Gromacki","D-I","Big West",37,24,0,0.607
-"21","Cal St. Fullerton","97","2005","Michelle Gromacki","D-I","Big West",30,21,0,0.588
-"22","Cal St. Fullerton","97","2004","Michelle Gromacki","D-I","Big West",18,34,0,0.346
-"23","Cal St. Fullerton","97","2003","Michelle Gromacki","D-I","Big West",41,15,0,0.732
-"24","Cal St. Fullerton","97","2002","Michelle Gromacki","D-I","Big West",53,13,0,0.803
-"25","Cal St. Fullerton","97","2001","Michelle Gromacki","D-I","Big West",48,14,0,0.774
-"26","Cal St. Fullerton","97","1900","Michelle Gromacki","D-I","Big West",45,15,0,0.75
-"27","Cal St. Fullerton","97","1999","Judi Garman","D-I","Big West",36,29,0,0.554
-"28","Cal St. Fullerton","97","1998","Judi Garman","D-I","-",32,29,NA,0.525
-"29","Cal St. Fullerton","97","1997","Judi Garman","D-I","Big West",29,26,0,0.527
-"30","Cal St. Fullerton","97","1996","Judi Garman","D-I","-",41,28,NA,0.594
-"31","Cal St. Fullerton","97","1995","Judi Garman","D-I","-",46,17,NA,0.73
-"32","Cal St. Fullerton","97","1994","Judi Garman","D-I","-",35,29,NA,0.547
-"33","Cal St. Fullerton","97","1993","Judi Garman","D-I","-",37,21,NA,0.638
-"34","Cal St. Fullerton","97","1992","Judi Garman","D-I","-",45,20,NA,0.692
-"35","Cal St. Fullerton","97","1991","Judi Garman","D-I","-",52,16,1,0.761
-"36","Cal St. Fullerton","97","1990","Judi Garman","D-I","-",45,23,NA,0.662
-"37","Cal St. Fullerton","97","1989","Judi Garman","D-I","-",47,15,NA,0.758
-"38","Cal St. Fullerton","97","1988","Judi Garman","D-I","-",52,20,NA,0.722
-"39","Cal St. Fullerton","97","1987","Judi Garman","D-I","-",59,10,NA,0.855
-"40","Cal St. Fullerton","97","1986","Judi Garman","D-I","-",57,9,1,0.858
-"41","Cal St. Fullerton","97","1985","Judi Garman","D-I","-",54,10,NA,0.844
-"42","Cal St. Fullerton","97","1984","Judi Garman","D-I","-",54,12,NA,0.818
-"43","Cal St. Fullerton","97","1983","Judi Garman","D-I","-",56,15,NA,0.789
-"44","Cal St. Fullerton","97","1982","Judi Garman","D-I","-",55,6,2,0.889
-"45","Cal St. Fullerton","97","1981","Judi Garman","","-",51,14,NA,0.785
-"46","Cal St. Fullerton","97","1980","Judi Garman","","-",30,25,NA,0.545
-"47","Cal St. Fullerton","97","","","","",1747,916,6,0.656
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Gina Oaks Garcia","Big West","0-0-0",0
+"2","2024","Kelly Ford","Big West","39-19-0",0.672
+"3","2023","Kelly Ford","Big West","34-21-0",0.618
+"4","2022","Kelly Ford","Big West","37-22-0",0.627
+"5","2021","Kelly Ford","Big West","38-15-0",0.717
+"6","2020","Kelly Ford","Big West","14-10-0",0.583
+"7","2019","Kelly Ford","Big West","38-18-0",0.679
+"8","2018","Kelly Ford","Big West","35-25-0",0.583
+"9","2017","Kelly Ford","Big West","35-23-0",0.603
+"10","2016","Kelly Ford","Big West","45-16-0",0.738
+"11","2015","Kelly Ford","Big West","34-22-0",0.607
+"12","2014","Kelly Ford","Big West","33-21-1",0.609
+"13","2013","Kelly Ford","Big West","28-28-0",0.5
+"14","2012","Michelle Gromacki","Big West","20-31-0",0.392
+"15","2011","Michelle Gromacki","Big West","23-24-0",0.489
+"16","2010","Michelle Gromacki","Big West","14-39-0",0.264
+"17","2009","Michelle Gromacki","Big West","30-21-0",0.588
+"18","2008","Michelle Gromacki","Big West","27-28-1",0.491
+"19","2007","Michelle Gromacki","Big West","38-23-0",0.623
+"20","2006","Michelle Gromacki","Big West","37-24-0",0.607
+"21","2005","Michelle Gromacki","Big West","30-21-0",0.588
+"22","2004","Michelle Gromacki","Big West","18-34-0",0.346
+"23","2003","Michelle Gromacki","Big West","41-15-0",0.732
+"24","2002","Michelle Gromacki","Big West","53-13-0",0.803
+"25","2001","Michelle Gromacki","Big West","48-14-0",0.774
+"26","1900","Michelle Gromacki","Big West","45-15-0",0.75
+"27","1999","Judi Garman","Big West","36-29-0",0.554
+"28","1998","Judi Garman","-","32-29-0",0.525
+"29","1997","Judi Garman","Big West","29-26-0",0.527
+"30","1996","Judi Garman","-","41-28-0",0.594
+"31","1995","Judi Garman","-","46-17-0",0.73
+"32","1994","Judi Garman","-","35-29-0",0.547
+"33","1993","Judi Garman","-","37-21-0",0.638
+"34","1992","Judi Garman","-","45-20-0",0.692
+"35","1991","Judi Garman","-","52-16-1",0.761
+"36","1990","Judi Garman","-","45-23-0",0.662
+"37","1989","Judi Garman","-","47-15-0",0.758
+"38","1988","Judi Garman","-","52-20-0",0.722
+"39","1987","Judi Garman","-","59-10-0",0.855
+"40","1986","Judi Garman","-","57-9-1",0.858
+"41","1985","Judi Garman","-","54-10-0",0.844
+"42","1984","Judi Garman","-","54-12-0",0.818
+"43","1983","Judi Garman","-","56-15-0",0.789
+"44","1982","Judi Garman","-","55-6-2",0.889
+"45","1981","Judi Garman","-","51-14-0",0.785
+"46","1980","Judi Garman","-","30-25-0",0.545

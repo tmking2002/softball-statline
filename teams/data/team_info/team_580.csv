@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","RIT","580","2025","Rebecca Stryker","D-III","Liberty League",0,0,0,0
-"2","RIT","580","2024","Rebecca Stryker","D-III","Liberty League",13,23,1,0.365
-"3","RIT","580","2023","Rebecca Stryker","D-III","Liberty League",6,30,1,0.176
-"4","RIT","580","2022","Rebecca Stryker","D-III","Liberty League",7,27,0,0.206
-"5","RIT","580","2021","Rebecca Stryker","D-III","Liberty League",6,27,0,0.182
-"6","RIT","580","2020","Rebecca Stryker","D-III","Liberty League",6,3,0,0.667
-"7","RIT","580","2019","Rebecca Stryker","D-III","Liberty League",10,24,0,0.294
-"8","RIT","580","2018","Rebecca Stryker","D-III","Liberty League",7,21,NA,0.25
-"9","RIT","580","2017","Rebecca Stryker","D-III","Liberty League",22,16,0,0.579
-"10","RIT","580","2016","Rebecca Stryker","D-III","Liberty League",17,23,0,0.425
-"11","RIT","580","2015","Rebecca Stryker","D-III","Liberty League",14,22,0,0.389
-"12","RIT","580","2014","Rebecca Stryker","D-III","Liberty League",7,27,0,0.206
-"13","RIT","580","2013","Rebecca Stryker","D-III","Liberty League",13,21,0,0.382
-"14","RIT","580","2012","Rebecca Stryker","D-III","Liberty League",11,25,0,0.306
-"15","RIT","580","2011","Rebecca Stryker","D-III","Empire 8",24,12,0,0.667
-"16","RIT","580","2010","Rebecca Stryker","D-III","Empire 8",17,21,0,0.447
-"17","RIT","580","2009","Krissy Mamon","D-III","Empire 8",19,18,0,0.514
-"18","RIT","580","2008","Krissy Mamon","D-III","Empire 8",16,20,0,0.444
-"19","RIT","580","2007","Krissy Mamon","D-III","Empire 8",14,23,0,0.378
-"20","RIT","580","2006","Jack Carpenter","D-III","Empire 8",16,24,0,0.4
-"21","RIT","580","2005","Jack Carpenter","D-III","Empire 8",20,18,0,0.526
-"22","RIT","580","2004","Jack Carpenter","D-III","Empire 8",24,16,0,0.6
-"23","RIT","580","2003","Jack Carpenter","D-III","Empire 8",28,8,2,0.763
-"24","RIT","580","2002","Jack Carpenter","D-III","NYSWCAA",19,18,1,0.513
-"25","RIT","580","2001","Jack Carpenter","D-III","-",32,9,0,0.78
-"26","RIT","580","1900","Dave Pisano","D-III","-",27,14,NA,0.659
-"27","RIT","580","1999","Dave Pisano","D-III","-",26,20,NA,0.565
-"28","RIT","580","1998","Dave Pisano","D-III","-",17,18,NA,0.486
-"29","RIT","580","1997","Dave Pisano","D-III","-",18,18,NA,0.5
-"30","RIT","580","1996","Dave Pisano","D-III","-",17,15,NA,0.531
-"31","RIT","580","1995","Dave Pisano","D-III","-",14,16,NA,0.467
-"32","RIT","580","1994","Doug Davies","D-III","-",16,13,NA,0.552
-"33","RIT","580","1993","Doug Davies","D-III","-",17,10,NA,0.63
-"34","RIT","580","1992","Doug Davies","D-III","-",12,6,NA,0.667
-"35","RIT","580","1991","Eileen Hutcheson","D-III","-",16,12,NA,0.571
-"36","RIT","580","1990","Eileen Hutcheson","D-III","-",8,13,NA,0.381
-"37","RIT","580","1989","Eileen Hutcheson","","-",1,16,NA,0.059
-"38","RIT","580","1988","","D-III","-",NA,NA,NA,NA
-"39","RIT","580","1987","","D-III","-",NA,NA,NA,NA
-"40","RIT","580","1986","","D-III","-",NA,NA,NA,NA
-"41","RIT","580","1985","","D-III","-",NA,NA,NA,NA
-"42","RIT","580","1984","","D-III","-",NA,NA,NA,NA
-"43","RIT","580","1983","","D-III","-",NA,NA,NA,NA
-"44","RIT","580","1981","","","-",NA,NA,NA,NA
-"45","RIT","580","","","","",557,647,5,0.463
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rebecca Stryker","Liberty League","0-0-0",0
+"2","2024","Rebecca Stryker","Liberty League","13-23-1",0.365
+"3","2023","Rebecca Stryker","Liberty League","6-30-1",0.176
+"4","2022","Rebecca Stryker","Liberty League","7-27-0",0.206
+"5","2021","Rebecca Stryker","Liberty League","6-27-0",0.182
+"6","2020","Rebecca Stryker","Liberty League","6-3-0",0.667
+"7","2019","Rebecca Stryker","Liberty League","10-24-0",0.294
+"8","2018","Rebecca Stryker","Liberty League","7-21-0",0.25
+"9","2017","Rebecca Stryker","Liberty League","22-16-0",0.579
+"10","2016","Rebecca Stryker","Liberty League","17-23-0",0.425
+"11","2015","Rebecca Stryker","Liberty League","14-22-0",0.389
+"12","2014","Rebecca Stryker","Liberty League","7-27-0",0.206
+"13","2013","Rebecca Stryker","Liberty League","13-21-0",0.382
+"14","2012","Rebecca Stryker","Liberty League","11-25-0",0.306
+"15","2011","Rebecca Stryker","Empire 8","24-12-0",0.667
+"16","2010","Rebecca Stryker","Empire 8","17-21-0",0.447
+"17","2009","Krissy Mamon","Empire 8","19-18-0",0.514
+"18","2008","Krissy Mamon","Empire 8","16-20-0",0.444
+"19","2007","Krissy Mamon","Empire 8","14-23-0",0.378
+"20","2006","Jack Carpenter","Empire 8","16-24-0",0.4
+"21","2005","Jack Carpenter","Empire 8","20-18-0",0.526
+"22","2004","Jack Carpenter","Empire 8","24-16-0",0.6
+"23","2003","Jack Carpenter","Empire 8","28-8-2",0.763
+"24","2002","Jack Carpenter","NYSWCAA","19-18-1",0.513
+"25","2001","Jack Carpenter","-","32-9-0",0.78
+"26","1900","Dave Pisano","-","27-14-0",0.659
+"27","1999","Dave Pisano","-","26-20-0",0.565
+"28","1998","Dave Pisano","-","17-18-0",0.486
+"29","1997","Dave Pisano","-","18-18-0",0.5
+"30","1996","Dave Pisano","-","17-15-0",0.531
+"31","1995","Dave Pisano","-","14-16-0",0.467
+"32","1994","Doug Davies","-","16-13-0",0.552
+"33","1993","Doug Davies","-","17-10-0",0.63
+"34","1992","Doug Davies","-","12-6-0",0.667
+"35","1991","Eileen Hutcheson","-","16-12-0",0.571
+"36","1990","Eileen Hutcheson","-","8-13-0",0.381
+"37","1989","Eileen Hutcheson","-","1-16-0",0.059
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1981","","-","NA-NA-0",NA

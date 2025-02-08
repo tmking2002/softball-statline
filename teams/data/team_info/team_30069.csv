@@ -1,21 +1,20 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Franciscan","30069","2025","Daniella Pillar","D-III","PAC",0,0,0,0
-"2","Franciscan","30069","2024","Daniella Pillar","D-III","PAC",1,31,0,0.031
-"3","Franciscan","30069","2023","Chris McKnight","D-III","PAC",0,34,0,0
-"4","Franciscan","30069","2022","Chris McKnight","D-III","PAC",8,23,0,0.258
-"5","Franciscan","30069","2021","Nikki Yanchak","D-III","PAC",10,21,0,0.323
-"6","Franciscan","30069","2020","James Walker","D-III","AMCC",9,3,0,0.75
-"7","Franciscan","30069","2019","James Walker","D-III","AMCC",25,15,0,0.625
-"8","Franciscan","30069","2018","James Walker","D-III","AMCC",14,14,NA,0.5
-"9","Franciscan","30069","2017","James Walker","D-III","AMCC",12,20,0,0.375
-"10","Franciscan","30069","2016","James Walker","D-III","AMCC",0,38,0,0
-"11","Franciscan","30069","2015","James Walker","D-III","AMCC",1,33,0,0.029
-"12","Franciscan","30069","2014","James Walker","D-III","AMCC",1,31,0,0.031
-"13","Franciscan","30069","2013","Jen Parker","D-III","AMCC",0,34,0,0
-"14","Franciscan","30069","2012","Terry Leighty","D-III","AMCC",0,32,0,0
-"15","Franciscan","30069","2011","Terry Leighty","D-III","AMCC",3,27,0,0.1
-"16","Franciscan","30069","2010","Amanda Gutowski","D-III","AMCC",3,25,0,0.107
-"17","Franciscan","30069","2009","Amanda Gutowski","D-III","AMCC",1,26,0,0.037
-"18","Franciscan","30069","2008","Amanda Gutowski","","-",NA,NA,NA,NA
-"19","Franciscan","30069","2007","","","-",NA,NA,NA,NA
-"20","Franciscan","30069","","","","",88,407,0,0.178
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Daniella Pillar","PAC","0-0-0",0
+"2","2024","Daniella Pillar","PAC","1-31-0",0.031
+"3","2023","Chris McKnight","PAC","0-34-0",0
+"4","2022","Chris McKnight","PAC","8-23-0",0.258
+"5","2021","Nikki Yanchak","PAC","10-21-0",0.323
+"6","2020","James Walker","AMCC","9-3-0",0.75
+"7","2019","James Walker","AMCC","25-15-0",0.625
+"8","2018","James Walker","AMCC","14-14-0",0.5
+"9","2017","James Walker","AMCC","12-20-0",0.375
+"10","2016","James Walker","AMCC","0-38-0",0
+"11","2015","James Walker","AMCC","1-33-0",0.029
+"12","2014","James Walker","AMCC","1-31-0",0.031
+"13","2013","Jen Parker","AMCC","0-34-0",0
+"14","2012","Terry Leighty","AMCC","0-32-0",0
+"15","2011","Terry Leighty","AMCC","3-27-0",0.1
+"16","2010","Amanda Gutowski","AMCC","3-25-0",0.107
+"17","2009","Amanda Gutowski","AMCC","1-26-0",0.037
+"18","2008","Amanda Gutowski","-","NA-NA-0",NA
+"19","2007","","-","NA-NA-0",NA

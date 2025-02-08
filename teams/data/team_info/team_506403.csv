@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Texas Wesleyan","506403","2024",NA,NA,"-",NA,NA,NA,0
-"2","Texas Wesleyan","506403","2018",NA,NA,"-",NA,NA,NA,0
-"3","Texas Wesleyan","506403","2017",NA,NA,"-",NA,NA,NA,NA
-"4","Texas Wesleyan","506403","2016",NA,NA,"-",NA,NA,NA,NA
-"5","Texas Wesleyan","506403","2015",NA,NA,"-",NA,NA,NA,NA
-"6","Texas Wesleyan","506403","2014",NA,NA,"-",NA,NA,NA,NA
-"7","Texas Wesleyan","506403","2012",NA,NA,"-",NA,NA,NA,NA
-"8","Texas Wesleyan","506403","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2018",NA,"-","NA-NA-0",0
+"3","2017",NA,"-","NA-NA-0",NA
+"4","2016",NA,"-","NA-NA-0",NA
+"5","2015",NA,"-","NA-NA-0",NA
+"6","2014",NA,"-","NA-NA-0",NA
+"7","2012",NA,"-","NA-NA-0",NA

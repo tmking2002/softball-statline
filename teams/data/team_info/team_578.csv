@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Roanoke","578","2025","Mike Mitchell","D-III","ODAC",0,0,0,0
-"2","Roanoke","578","2024","Mike Mitchell","D-III","ODAC",33,16,0,0.673
-"3","Roanoke","578","2023","Mike Mitchell","D-III","ODAC",29,14,0,0.674
-"4","Roanoke","578","2022","Mike Mitchell","D-III","ODAC",30,14,0,0.682
-"5","Roanoke","578","2021","Mike Mitchell","D-III","ODAC",21,11,0,0.656
-"6","Roanoke","578","2020","Mike Mitchell","D-III","ODAC",9,9,0,0.5
-"7","Roanoke","578","2019","Mike Mitchell","D-III","ODAC",18,21,0,0.462
-"8","Roanoke","578","2018","Mike Mitchell","D-III","ODAC",24,18,NA,0.571
-"9","Roanoke","578","2017","Mike Mitchell","D-III","ODAC",24,17,0,0.585
-"10","Roanoke","578","2016","Mike Mitchell","D-III","ODAC",19,22,0,0.463
-"11","Roanoke","578","2015","Mike Mitchell","D-III","ODAC",22,14,0,0.611
-"12","Roanoke","578","2014","Mike Mitchell","D-III","ODAC",11,26,0,0.297
-"13","Roanoke","578","2013","Mike Mitchell","D-III","ODAC",31,14,0,0.689
-"14","Roanoke","578","2012","Mike Mitchell","D-III","ODAC",35,11,0,0.761
-"15","Roanoke","578","2011","Mike Mitchell","D-III","ODAC",27,11,0,0.711
-"16","Roanoke","578","2010","Mike Mitchell","D-III","ODAC",30,9,0,0.769
-"17","Roanoke","578","2009","Mike Mitchell","D-III","ODAC",24,11,0,0.686
-"18","Roanoke","578","2008","Mike Walthall","D-III","ODAC",28,10,0,0.737
-"19","Roanoke","578","2007","Mike Walthall","D-III","ODAC",29,9,0,0.763
-"20","Roanoke","578","2006","Mike Walthall","D-III","ODAC",38,7,0,0.844
-"21","Roanoke","578","2005","Alan Bayse","D-III","ODAC",33,12,0,0.733
-"22","Roanoke","578","2004","Alan Bayse","D-III","ODAC",34,12,0,0.739
-"23","Roanoke","578","2003","Alan Bayse","D-III","ODAC",30,8,0,0.789
-"24","Roanoke","578","2002","Alan Bayse","D-III","ODAC",38,5,0,0.884
-"25","Roanoke","578","2001","Alan Bayse","D-III","-",42,11,NA,0.792
-"26","Roanoke","578","1900","Alan Bayse","D-III","-",43,5,NA,0.896
-"27","Roanoke","578","1999","Alan Bayse","D-III","-",34,9,NA,0.791
-"28","Roanoke","578","1998","Alan Bayse","D-III","-",25,12,NA,0.676
-"29","Roanoke","578","1997","Alan Bayse","D-III","-",10,26,NA,0.278
-"30","Roanoke","578","1996","","D-III","-",NA,NA,NA,NA
-"31","Roanoke","578","1995","","D-III","-",NA,NA,NA,NA
-"32","Roanoke","578","1994","","D-III","-",NA,NA,NA,NA
-"33","Roanoke","578","1993","","D-III","-",NA,NA,NA,NA
-"34","Roanoke","578","1992","","D-III","-",NA,NA,NA,NA
-"35","Roanoke","578","1991","","D-III","-",NA,NA,NA,NA
-"36","Roanoke","578","1990","","D-III","-",NA,NA,NA,NA
-"37","Roanoke","578","1989","","D-III","-",NA,NA,NA,NA
-"38","Roanoke","578","1988","","D-III","-",NA,NA,NA,NA
-"39","Roanoke","578","1987","","","-",NA,NA,NA,NA
-"40","Roanoke","578","1986","","","-",NA,NA,NA,NA
-"41","Roanoke","578","1985","","","-",NA,NA,NA,NA
-"42","Roanoke","578","1984","","","-",NA,NA,NA,NA
-"43","Roanoke","578","1983","","","-",NA,NA,NA,NA
-"44","Roanoke","578","","","","",771,364,0,0.679
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mike Mitchell","ODAC","0-0-0",0
+"2","2024","Mike Mitchell","ODAC","33-16-0",0.673
+"3","2023","Mike Mitchell","ODAC","29-14-0",0.674
+"4","2022","Mike Mitchell","ODAC","30-14-0",0.682
+"5","2021","Mike Mitchell","ODAC","21-11-0",0.656
+"6","2020","Mike Mitchell","ODAC","9-9-0",0.5
+"7","2019","Mike Mitchell","ODAC","18-21-0",0.462
+"8","2018","Mike Mitchell","ODAC","24-18-0",0.571
+"9","2017","Mike Mitchell","ODAC","24-17-0",0.585
+"10","2016","Mike Mitchell","ODAC","19-22-0",0.463
+"11","2015","Mike Mitchell","ODAC","22-14-0",0.611
+"12","2014","Mike Mitchell","ODAC","11-26-0",0.297
+"13","2013","Mike Mitchell","ODAC","31-14-0",0.689
+"14","2012","Mike Mitchell","ODAC","35-11-0",0.761
+"15","2011","Mike Mitchell","ODAC","27-11-0",0.711
+"16","2010","Mike Mitchell","ODAC","30-9-0",0.769
+"17","2009","Mike Mitchell","ODAC","24-11-0",0.686
+"18","2008","Mike Walthall","ODAC","28-10-0",0.737
+"19","2007","Mike Walthall","ODAC","29-9-0",0.763
+"20","2006","Mike Walthall","ODAC","38-7-0",0.844
+"21","2005","Alan Bayse","ODAC","33-12-0",0.733
+"22","2004","Alan Bayse","ODAC","34-12-0",0.739
+"23","2003","Alan Bayse","ODAC","30-8-0",0.789
+"24","2002","Alan Bayse","ODAC","38-5-0",0.884
+"25","2001","Alan Bayse","-","42-11-0",0.792
+"26","1900","Alan Bayse","-","43-5-0",0.896
+"27","1999","Alan Bayse","-","34-9-0",0.791
+"28","1998","Alan Bayse","-","25-12-0",0.676
+"29","1997","Alan Bayse","-","10-26-0",0.278
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

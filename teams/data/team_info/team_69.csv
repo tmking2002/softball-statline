@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bowdoin","69","2025","Ryan Sullivan","D-III","NESCAC",0,0,0,0
-"2","Bowdoin","69","2024","Ryan Sullivan","D-III","NESCAC",24,16,0,0.6
-"3","Bowdoin","69","2023","Ryan Sullivan","D-III","NESCAC",19,20,0,0.487
-"4","Bowdoin","69","2022","Ryan Sullivan","D-III","NESCAC",13,18,0,0.419
-"5","Bowdoin","69","2021","Ryan Sullivan","D-III","NESCAC",4,6,0,0.4
-"6","Bowdoin","69","2020","Ryan Sullivan","D-III","NESCAC",1,1,0,0.5
-"7","Bowdoin","69","2019","Ryan Sullivan","D-III","NESCAC",26,11,0,0.703
-"8","Bowdoin","69","2018","Ryan Sullivan","D-III","NESCAC",30,12,NA,0.714
-"9","Bowdoin","69","2017","Ryan Sullivan","D-III","NESCAC",28,10,0,0.737
-"10","Bowdoin","69","2016","Ryan Sullivan","D-III","NESCAC",21,16,2,0.564
-"11","Bowdoin","69","2015","Ryan Sullivan","D-III","NESCAC",27,15,0,0.643
-"12","Bowdoin","69","2014","Ryan Sullivan","D-III","NESCAC",24,14,0,0.632
-"13","Bowdoin","69","2013","Ryan Sullivan","D-III","NESCAC",30,14,0,0.682
-"14","Bowdoin","69","2012","Ryan Sullivan","D-III","NESCAC",28,14,0,0.667
-"15","Bowdoin","69","2011","Ryan Sullivan","D-III","NESCAC",22,18,0,0.55
-"16","Bowdoin","69","2010","Ryan Sullivan","D-III","NESCAC",34,14,0,0.708
-"17","Bowdoin","69","2009","Ryan Sullivan","D-III","NESCAC",22,16,1,0.577
-"18","Bowdoin","69","2008","Ryan Sullivan","D-III","NESCAC",23,15,0,0.605
-"19","Bowdoin","69","2007","Ryan Sullivan","D-III","NESCAC",26,15,0,0.634
-"20","Bowdoin","69","2006","Ryan Sullivan","D-III","NESCAC",18,22,0,0.45
-"21","Bowdoin","69","2005","Ryan Sullivan","D-III","NESCAC",19,10,0,0.655
-"22","Bowdoin","69","2004","Jen Burton","D-III","NESCAC",22,10,0,0.688
-"23","Bowdoin","69","2003","Jen Burton","D-III","NESCAC",10,15,0,0.4
-"24","Bowdoin","69","2002","","D-III","-",NA,NA,NA,NA
-"25","Bowdoin","69","2001","Dawn Strout","D-III","-",19,7,NA,0.731
-"26","Bowdoin","69","1900","Dawn Strout","D-III","-",19,15,NA,0.559
-"27","Bowdoin","69","1999","Dawn Strout","D-III","-",20,12,NA,0.625
-"28","Bowdoin","69","1998","Howard S. Vandersea","D-III","-",7,20,NA,0.259
-"29","Bowdoin","69","1997","Howard S. Vandersea","D-III","-",1,17,NA,0.056
-"30","Bowdoin","69","1996","John Cullen","D-III","-",10,11,NA,0.476
-"31","Bowdoin","69","1995","John Cullen","D-III","-",6,14,NA,0.3
-"32","Bowdoin","69","1994","John Cullen","D-III","-",8,11,NA,0.421
-"33","Bowdoin","69","1993","John Cullen","D-III","-",8,7,1,0.531
-"34","Bowdoin","69","1992","John Cullen","D-III","-",9,6,NA,0.6
-"35","Bowdoin","69","1991","John Cullen","D-III","-",10,10,NA,0.5
-"36","Bowdoin","69","1990","John Cullen","D-III","-",9,10,NA,0.474
-"37","Bowdoin","69","1989","","D-III","-",NA,NA,NA,NA
-"38","Bowdoin","69","1988","","D-III","-",NA,NA,NA,NA
-"39","Bowdoin","69","1987","","D-III","-",NA,NA,NA,NA
-"40","Bowdoin","69","1986","","D-III","-",NA,NA,NA,NA
-"41","Bowdoin","69","1985","","D-III","-",NA,NA,NA,NA
-"42","Bowdoin","69","1984","","D-III","-",NA,NA,NA,NA
-"43","Bowdoin","69","1983","","D-III","-",NA,NA,NA,NA
-"44","Bowdoin","69","","","","",597,442,4,0.574
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ryan Sullivan","NESCAC","0-0-0",0
+"2","2024","Ryan Sullivan","NESCAC","24-16-0",0.6
+"3","2023","Ryan Sullivan","NESCAC","19-20-0",0.487
+"4","2022","Ryan Sullivan","NESCAC","13-18-0",0.419
+"5","2021","Ryan Sullivan","NESCAC","4-6-0",0.4
+"6","2020","Ryan Sullivan","NESCAC","1-1-0",0.5
+"7","2019","Ryan Sullivan","NESCAC","26-11-0",0.703
+"8","2018","Ryan Sullivan","NESCAC","30-12-0",0.714
+"9","2017","Ryan Sullivan","NESCAC","28-10-0",0.737
+"10","2016","Ryan Sullivan","NESCAC","21-16-2",0.564
+"11","2015","Ryan Sullivan","NESCAC","27-15-0",0.643
+"12","2014","Ryan Sullivan","NESCAC","24-14-0",0.632
+"13","2013","Ryan Sullivan","NESCAC","30-14-0",0.682
+"14","2012","Ryan Sullivan","NESCAC","28-14-0",0.667
+"15","2011","Ryan Sullivan","NESCAC","22-18-0",0.55
+"16","2010","Ryan Sullivan","NESCAC","34-14-0",0.708
+"17","2009","Ryan Sullivan","NESCAC","22-16-1",0.577
+"18","2008","Ryan Sullivan","NESCAC","23-15-0",0.605
+"19","2007","Ryan Sullivan","NESCAC","26-15-0",0.634
+"20","2006","Ryan Sullivan","NESCAC","18-22-0",0.45
+"21","2005","Ryan Sullivan","NESCAC","19-10-0",0.655
+"22","2004","Jen Burton","NESCAC","22-10-0",0.688
+"23","2003","Jen Burton","NESCAC","10-15-0",0.4
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Dawn Strout","-","19-7-0",0.731
+"26","1900","Dawn Strout","-","19-15-0",0.559
+"27","1999","Dawn Strout","-","20-12-0",0.625
+"28","1998","Howard S. Vandersea","-","7-20-0",0.259
+"29","1997","Howard S. Vandersea","-","1-17-0",0.056
+"30","1996","John Cullen","-","10-11-0",0.476
+"31","1995","John Cullen","-","6-14-0",0.3
+"32","1994","John Cullen","-","8-11-0",0.421
+"33","1993","John Cullen","-","8-7-1",0.531
+"34","1992","John Cullen","-","9-6-0",0.6
+"35","1991","John Cullen","-","10-10-0",0.5
+"36","1990","John Cullen","-","9-10-0",0.474
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

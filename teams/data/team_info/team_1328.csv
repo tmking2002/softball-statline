@@ -1,23 +1,22 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rockhurst","1328","2025","Dana Goss","D-II","GLVC",0,0,0,0
-"2","Rockhurst","1328","2024","Dana Goss","D-II","GLVC",17,24,0,0.415
-"3","Rockhurst","1328","2023","Tyler Gunelson","D-II","GLVC",21,26,0,0.447
-"4","Rockhurst","1328","2022","Heidi Jordan","D-II","GLVC",23,24,0,0.489
-"5","Rockhurst","1328","2021","Bailey Wittenauer","D-II","GLVC",26,16,0,0.619
-"6","Rockhurst","1328","2020","Bailey Wittenauer","D-II","GLVC",13,7,0,0.65
-"7","Rockhurst","1328","2019","Bailey Wittenauer","D-II","GLVC",21,26,0,0.447
-"8","Rockhurst","1328","2018","Bailey Wittenauer","D-II","GLVC",20,29,NA,0.408
-"9","Rockhurst","1328","2017","Galen Struve","D-II","GLVC",31,22,0,0.585
-"10","Rockhurst","1328","2016","Galen Struve","D-II","GLVC",21,27,0,0.438
-"11","Rockhurst","1328","2015","Galen Struve","D-II","GLVC",28,22,0,0.56
-"12","Rockhurst","1328","2014","Galen Struve","D-II","GLVC",21,29,0,0.42
-"13","Rockhurst","1328","2013","Galen Struve","D-II","GLVC",22,21,0,0.512
-"14","Rockhurst","1328","2012","Galen Struve","D-II","GLVC",20,32,0,0.385
-"15","Rockhurst","1328","2011","Galen Struve","D-II","GLVC",23,29,0,0.442
-"16","Rockhurst","1328","2010","Galen Struve","D-II","GLVC",11,33,0,0.25
-"17","Rockhurst","1328","2009","Galen Struve","D-II","GLVC",19,21,0,0.475
-"18","Rockhurst","1328","2008","Galen Struve","D-II","GLVC",28,20,0,0.583
-"19","Rockhurst","1328","2007","Galen Struve","D-II","GLVC",14,25,0,0.359
-"20","Rockhurst","1328","2006","Galen Struve","D-II","GLVC",11,37,0,0.229
-"21","Rockhurst","1328","2005","Galen Struve","D-II","-",16,16,0,0.5
-"22","Rockhurst","1328","","","","",406,486,0,0.455
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Dana Goss","GLVC","0-0-0",0
+"2","2024","Dana Goss","GLVC","17-24-0",0.415
+"3","2023","Tyler Gunelson","GLVC","21-26-0",0.447
+"4","2022","Heidi Jordan","GLVC","23-24-0",0.489
+"5","2021","Bailey Wittenauer","GLVC","26-16-0",0.619
+"6","2020","Bailey Wittenauer","GLVC","13-7-0",0.65
+"7","2019","Bailey Wittenauer","GLVC","21-26-0",0.447
+"8","2018","Bailey Wittenauer","GLVC","20-29-0",0.408
+"9","2017","Galen Struve","GLVC","31-22-0",0.585
+"10","2016","Galen Struve","GLVC","21-27-0",0.438
+"11","2015","Galen Struve","GLVC","28-22-0",0.56
+"12","2014","Galen Struve","GLVC","21-29-0",0.42
+"13","2013","Galen Struve","GLVC","22-21-0",0.512
+"14","2012","Galen Struve","GLVC","20-32-0",0.385
+"15","2011","Galen Struve","GLVC","23-29-0",0.442
+"16","2010","Galen Struve","GLVC","11-33-0",0.25
+"17","2009","Galen Struve","GLVC","19-21-0",0.475
+"18","2008","Galen Struve","GLVC","28-20-0",0.583
+"19","2007","Galen Struve","GLVC","14-25-0",0.359
+"20","2006","Galen Struve","GLVC","11-37-0",0.229
+"21","2005","Galen Struve","-","16-16-0",0.5

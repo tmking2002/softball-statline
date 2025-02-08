@@ -1,33 +1,32 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Simon Fraser","30127","2025","Stacy Fournier","D-II","Great Northwest",1,4,0,0.2
-"2","Simon Fraser","30127","2024","Stacy Fournier","D-II","Great Northwest",11,31,0,0.262
-"3","Simon Fraser","30127","2023","Stacy Fournier","D-II","Great Northwest",11,36,0,0.234
-"4","Simon Fraser","30127","2022","Tina Andreana","D-II","Great Northwest",18,22,0,0.45
-"5","Simon Fraser","30127","2021","Tina Andreana","D-II","Great Northwest",0,0,0,0
-"6","Simon Fraser","30127","2020","Tina Andreana","D-II","Great Northwest",13,5,0,0.722
-"7","Simon Fraser","30127","2019","Michelle Peters","D-II","Great Northwest",9,30,0,0.231
-"8","Simon Fraser","30127","2018","Mike Renney","D-II","Great Northwest",21,19,NA,0.525
-"9","Simon Fraser","30127","2017","Mike Renney","D-II","Great Northwest",12,32,0,0.273
-"10","Simon Fraser","30127","2016","Mike Renney","D-II","Great Northwest",26,23,0,0.531
-"11","Simon Fraser","30127","2015","Mike Renney","D-II","Great Northwest",17,30,0,0.362
-"12","Simon Fraser","30127","2014","Mike Renney","D-II","Great Northwest",4,33,0,0.108
-"13","Simon Fraser","30127","2013","Mike Renney","D-II","Great Northwest",30,23,0,0.566
-"14","Simon Fraser","30127","2012","Mike Renney","D-II","Great Northwest",33,14,0,0.702
-"15","Simon Fraser","30127","2011","Mike Renney","D-II","Great Northwest",18,25,0,0.419
-"16","Simon Fraser","30127","2010","Mike Renney","","-",28,14,0,0.667
-"17","Simon Fraser","30127","2009","Mike Renney","","-",20,13,NA,0.606
-"18","Simon Fraser","30127","2008","Mike Renney","","-",18,12,NA,0.6
-"19","Simon Fraser","30127","2007","Mike Renney","","-",25,5,NA,0.833
-"20","Simon Fraser","30127","2006","Mike Renney","","-",36,6,NA,0.857
-"21","Simon Fraser","30127","2005","Mike Renney","","-",38,8,NA,0.826
-"22","Simon Fraser","30127","2004","Mike Renney","","-",36,4,NA,0.9
-"23","Simon Fraser","30127","2003","Mike Renney","","-",37,4,NA,0.902
-"24","Simon Fraser","30127","2002","Mike Renney","","-",32,5,NA,0.865
-"25","Simon Fraser","30127","2001","Mike Renney","","-",30,11,NA,0.732
-"26","Simon Fraser","30127","1900","Mike Renney","","-",38,13,NA,0.745
-"27","Simon Fraser","30127","1999","Mike Renney","","-",40,7,NA,0.851
-"28","Simon Fraser","30127","1998","Mike Renney","","-",35,14,NA,0.714
-"29","Simon Fraser","30127","1997","Mike Renney","","-",21,9,NA,0.7
-"30","Simon Fraser","30127","1996","Mike Renney","","-",18,20,NA,0.474
-"31","Simon Fraser","30127","1995","Mike Renney","","-",26,17,NA,0.605
-"32","Simon Fraser","30127","","","","",702,489,0,0.589
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stacy Fournier","Great Northwest","1-4-0",0.2
+"2","2024","Stacy Fournier","Great Northwest","11-31-0",0.262
+"3","2023","Stacy Fournier","Great Northwest","11-36-0",0.234
+"4","2022","Tina Andreana","Great Northwest","18-22-0",0.45
+"5","2021","Tina Andreana","Great Northwest","0-0-0",0
+"6","2020","Tina Andreana","Great Northwest","13-5-0",0.722
+"7","2019","Michelle Peters","Great Northwest","9-30-0",0.231
+"8","2018","Mike Renney","Great Northwest","21-19-0",0.525
+"9","2017","Mike Renney","Great Northwest","12-32-0",0.273
+"10","2016","Mike Renney","Great Northwest","26-23-0",0.531
+"11","2015","Mike Renney","Great Northwest","17-30-0",0.362
+"12","2014","Mike Renney","Great Northwest","4-33-0",0.108
+"13","2013","Mike Renney","Great Northwest","30-23-0",0.566
+"14","2012","Mike Renney","Great Northwest","33-14-0",0.702
+"15","2011","Mike Renney","Great Northwest","18-25-0",0.419
+"16","2010","Mike Renney","-","28-14-0",0.667
+"17","2009","Mike Renney","-","20-13-0",0.606
+"18","2008","Mike Renney","-","18-12-0",0.6
+"19","2007","Mike Renney","-","25-5-0",0.833
+"20","2006","Mike Renney","-","36-6-0",0.857
+"21","2005","Mike Renney","-","38-8-0",0.826
+"22","2004","Mike Renney","-","36-4-0",0.9
+"23","2003","Mike Renney","-","37-4-0",0.902
+"24","2002","Mike Renney","-","32-5-0",0.865
+"25","2001","Mike Renney","-","30-11-0",0.732
+"26","1900","Mike Renney","-","38-13-0",0.745
+"27","1999","Mike Renney","-","40-7-0",0.851
+"28","1998","Mike Renney","-","35-14-0",0.714
+"29","1997","Mike Renney","-","21-9-0",0.7
+"30","1996","Mike Renney","-","18-20-0",0.474
+"31","1995","Mike Renney","-","26-17-0",0.605

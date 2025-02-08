@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UNC Pembroke","537","2025","Stephanie Graziani","D-II","Conference Carolinas",3,4,0,0.429
-"2","UNC Pembroke","537","2024","Stephanie Graziani","D-II","Conference Carolinas",19,33,0,0.365
-"3","UNC Pembroke","537","2023","Stephanie Graziani","D-II","Conference Carolinas",20,31,0,0.392
-"4","UNC Pembroke","537","2022","Brittany Bennett","D-II","Conference Carolinas",27,17,0,0.614
-"5","UNC Pembroke","537","2021","Brittany Bennett","D-II","Peach Belt",26,13,0,0.667
-"6","UNC Pembroke","537","2020","Brittany Bennett","D-II","Peach Belt",13,9,0,0.591
-"7","UNC Pembroke","537","2019","Brittany Bennett","D-II","Peach Belt",22,27,0,0.449
-"8","UNC Pembroke","537","2018","Brittany Bennett","D-II","Peach Belt",25,25,NA,0.5
-"9","UNC Pembroke","537","2017","Brittany Bennett","D-II","Peach Belt",26,27,0,0.491
-"10","UNC Pembroke","537","2016","Brittany Bennett","D-II","Peach Belt",31,24,1,0.563
-"11","UNC Pembroke","537","2015","Brittany Bennett","D-II","Peach Belt",26,21,0,0.553
-"12","UNC Pembroke","537","2014","Brittany Bennett","D-II","Peach Belt",22,24,0,0.478
-"13","UNC Pembroke","537","2013","Lacinda Melanson","D-II","Peach Belt",23,32,0,0.418
-"14","UNC Pembroke","537","2012","Lacinda Melanson","D-II","Peach Belt",16,31,0,0.34
-"15","UNC Pembroke","537","2011","Lacinda Melanson","D-II","Peach Belt",21,24,0,0.467
-"16","UNC Pembroke","537","2010","Lacinda Melanson","D-II","Peach Belt",29,19,0,0.604
-"17","UNC Pembroke","537","2009","Lacinda Melanson","D-II","Peach Belt",18,30,0,0.375
-"18","UNC Pembroke","537","2008","Steve Johnson","D-II","Peach Belt",46,14,0,0.767
-"19","UNC Pembroke","537","2007","Steve Johnson","D-II","Peach Belt",22,33,0,0.4
-"20","UNC Pembroke","537","2006","Steve Johnson","D-II","Peach Belt",23,32,0,0.418
-"21","UNC Pembroke","537","2005","Steve Johnson","D-II","Peach Belt",31,20,0,0.608
-"22","UNC Pembroke","537","2004","Steve Johnson","D-II","Peach Belt",17,30,0,0.362
-"23","UNC Pembroke","537","2003","Steve Johnson","D-II","Peach Belt",14,35,0,0.286
-"24","UNC Pembroke","537","2002","Denise Renfro","D-II","-",11,35,1,0.245
-"25","UNC Pembroke","537","2001","Denise Renfro","D-II","-",16,35,0,0.314
-"26","UNC Pembroke","537","1900","Denise Renfro","D-II","-",12,21,0,0.364
-"27","UNC Pembroke","537","1999","Denise Renfro","D-II","-",11,31,1,0.267
-"28","UNC Pembroke","537","1998","Denise Renfro","D-II","-",13,35,0,0.271
-"29","UNC Pembroke","537","1997","Melanie Grooms","D-II","-",13,20,0,0.394
-"30","UNC Pembroke","537","1996","Melanie Grooms","D-II","-",5,29,0,0.147
-"31","UNC Pembroke","537","1995","Dawn Langley","D-II","-",5,25,0,0.167
-"32","UNC Pembroke","537","1994","Dawn Langley","D-II","-",13,29,0,0.31
-"33","UNC Pembroke","537","1993","Dawn Langley","D-II","-",14,29,0,0.326
-"34","UNC Pembroke","537","1992","Dawn Langley","D-II","-",17,17,0,0.5
-"35","UNC Pembroke","537","1991","Dawn Langley","D-II","-",25,9,0,0.735
-"36","UNC Pembroke","537","1990","Dawn Langley","D-II","-",19,10,0,0.655
-"37","UNC Pembroke","537","","","","",694,880,3,0.441
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stephanie Graziani","Conference Carolinas","3-4-0",0.429
+"2","2024","Stephanie Graziani","Conference Carolinas","19-33-0",0.365
+"3","2023","Stephanie Graziani","Conference Carolinas","20-31-0",0.392
+"4","2022","Brittany Bennett","Conference Carolinas","27-17-0",0.614
+"5","2021","Brittany Bennett","Peach Belt","26-13-0",0.667
+"6","2020","Brittany Bennett","Peach Belt","13-9-0",0.591
+"7","2019","Brittany Bennett","Peach Belt","22-27-0",0.449
+"8","2018","Brittany Bennett","Peach Belt","25-25-0",0.5
+"9","2017","Brittany Bennett","Peach Belt","26-27-0",0.491
+"10","2016","Brittany Bennett","Peach Belt","31-24-1",0.563
+"11","2015","Brittany Bennett","Peach Belt","26-21-0",0.553
+"12","2014","Brittany Bennett","Peach Belt","22-24-0",0.478
+"13","2013","Lacinda Melanson","Peach Belt","23-32-0",0.418
+"14","2012","Lacinda Melanson","Peach Belt","16-31-0",0.34
+"15","2011","Lacinda Melanson","Peach Belt","21-24-0",0.467
+"16","2010","Lacinda Melanson","Peach Belt","29-19-0",0.604
+"17","2009","Lacinda Melanson","Peach Belt","18-30-0",0.375
+"18","2008","Steve Johnson","Peach Belt","46-14-0",0.767
+"19","2007","Steve Johnson","Peach Belt","22-33-0",0.4
+"20","2006","Steve Johnson","Peach Belt","23-32-0",0.418
+"21","2005","Steve Johnson","Peach Belt","31-20-0",0.608
+"22","2004","Steve Johnson","Peach Belt","17-30-0",0.362
+"23","2003","Steve Johnson","Peach Belt","14-35-0",0.286
+"24","2002","Denise Renfro","-","11-35-1",0.245
+"25","2001","Denise Renfro","-","16-35-0",0.314
+"26","1900","Denise Renfro","-","12-21-0",0.364
+"27","1999","Denise Renfro","-","11-31-1",0.267
+"28","1998","Denise Renfro","-","13-35-0",0.271
+"29","1997","Melanie Grooms","-","13-20-0",0.394
+"30","1996","Melanie Grooms","-","5-29-0",0.147
+"31","1995","Dawn Langley","-","5-25-0",0.167
+"32","1994","Dawn Langley","-","13-29-0",0.31
+"33","1993","Dawn Langley","-","14-29-0",0.326
+"34","1992","Dawn Langley","-","17-17-0",0.5
+"35","1991","Dawn Langley","-","25-9-0",0.735
+"36","1990","Dawn Langley","-","19-10-0",0.655

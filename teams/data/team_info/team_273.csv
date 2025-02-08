@@ -1,33 +1,32 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hartwick","273","2025","","D-III","Empire 8",NA,NA,NA,0
-"2","Hartwick","273","2016","","D-III","-",NA,NA,NA,NA
-"3","Hartwick","273","2015","","D-III","-",NA,NA,NA,NA
-"4","Hartwick","273","2014","","D-III","-",NA,NA,NA,NA
-"5","Hartwick","273","2013","","D-III","-",NA,NA,NA,NA
-"6","Hartwick","273","2012","","D-III","-",NA,NA,NA,NA
-"7","Hartwick","273","2011","","D-III","-",NA,NA,NA,NA
-"8","Hartwick","273","2010","","D-III","-",NA,NA,NA,NA
-"9","Hartwick","273","2007","Brian Claypool","D-III","Empire 8",NA,NA,NA,NA
-"10","Hartwick","273","2006","Brian Claypool","D-III","Empire 8",12,20,0,0.375
-"11","Hartwick","273","2005","Brian Claypool","D-III","Empire 8",5,30,0,0.143
-"12","Hartwick","273","2004","Jeff Gardner","D-III","Empire 8",10,24,0,0.294
-"13","Hartwick","273","2003","Jennifer Barnett","D-III","Empire 8",1,21,0,0.045
-"14","Hartwick","273","2002","Jennifer Barnett","D-III","Empire 8",8,27,0,0.229
-"15","Hartwick","273","2001","Jennifer Barnett","D-III","-",7,16,0,0.304
-"16","Hartwick","273","1900","Barbara Hicks","D-III","-",3,34,NA,0.081
-"17","Hartwick","273","1999","Barbara Hicks","D-III","-",24,15,NA,0.615
-"18","Hartwick","273","1998","Barbara Hicks","D-III","-",21,15,1,0.581
-"19","Hartwick","273","1997","Barbara Hicks","D-III","-",9,25,NA,0.265
-"20","Hartwick","273","1996","Barbara Hicks","D-III","-",10,25,NA,0.286
-"21","Hartwick","273","1995","Barbara Hicks","D-III","-",9,31,NA,0.225
-"22","Hartwick","273","1994","Nancy Kleinsmith","D-III","-",4,22,NA,0.154
-"23","Hartwick","273","1993","Nancy Kleinsmith","D-III","-",7,22,NA,0.241
-"24","Hartwick","273","1992","Nancy Kleinsmith","D-III","-",8,14,NA,0.364
-"25","Hartwick","273","1991","","","-",NA,NA,NA,NA
-"26","Hartwick","273","1990","","","-",NA,NA,NA,NA
-"27","Hartwick","273","1989","","","-",NA,NA,NA,NA
-"28","Hartwick","273","1988","","","-",NA,NA,NA,NA
-"29","Hartwick","273","1987","","","-",NA,NA,NA,NA
-"30","Hartwick","273","1986","","","-",NA,NA,NA,NA
-"31","Hartwick","273","1985","","","-",NA,NA,NA,NA
-"32","Hartwick","273","","","","",138,341,1,0.289
+"","season","head_coach","conference","record","win_perc"
+"1","2025","","Empire 8","NA-NA-0",0
+"2","2016","","-","NA-NA-0",NA
+"3","2015","","-","NA-NA-0",NA
+"4","2014","","-","NA-NA-0",NA
+"5","2013","","-","NA-NA-0",NA
+"6","2012","","-","NA-NA-0",NA
+"7","2011","","-","NA-NA-0",NA
+"8","2010","","-","NA-NA-0",NA
+"9","2007","Brian Claypool","Empire 8","NA-NA-0",NA
+"10","2006","Brian Claypool","Empire 8","12-20-0",0.375
+"11","2005","Brian Claypool","Empire 8","5-30-0",0.143
+"12","2004","Jeff Gardner","Empire 8","10-24-0",0.294
+"13","2003","Jennifer Barnett","Empire 8","1-21-0",0.045
+"14","2002","Jennifer Barnett","Empire 8","8-27-0",0.229
+"15","2001","Jennifer Barnett","-","7-16-0",0.304
+"16","1900","Barbara Hicks","-","3-34-0",0.081
+"17","1999","Barbara Hicks","-","24-15-0",0.615
+"18","1998","Barbara Hicks","-","21-15-1",0.581
+"19","1997","Barbara Hicks","-","9-25-0",0.265
+"20","1996","Barbara Hicks","-","10-25-0",0.286
+"21","1995","Barbara Hicks","-","9-31-0",0.225
+"22","1994","Nancy Kleinsmith","-","4-22-0",0.154
+"23","1993","Nancy Kleinsmith","-","7-22-0",0.241
+"24","1992","Nancy Kleinsmith","-","8-14-0",0.364
+"25","1991","","-","NA-NA-0",NA
+"26","1990","","-","NA-NA-0",NA
+"27","1989","","-","NA-NA-0",NA
+"28","1988","","-","NA-NA-0",NA
+"29","1987","","-","NA-NA-0",NA
+"30","1986","","-","NA-NA-0",NA
+"31","1985","","-","NA-NA-0",NA

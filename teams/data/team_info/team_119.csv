@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Carnegie Mellon","119","2025","Monica Harrison","D-III","UAA",0,0,0,0
-"2","Carnegie Mellon","119","2024","Monica Harrison","D-III","UAA",16,18,0,0.471
-"3","Carnegie Mellon","119","2023","Monica Harrison","D-III","UAA",15,23,0,0.395
-"4","Carnegie Mellon","119","2022","Monica Harrison","D-III","UAA",15,19,0,0.441
-"5","Carnegie Mellon","119","2021","Monica Harrison","D-III","UAA",15,6,1,0.705
-"6","Carnegie Mellon","119","2020","Monica Harrison","D-III","UAA",7,5,0,0.583
-"7","Carnegie Mellon","119","2019","Monica Harrison","D-III","UAA",13,25,0,0.342
-"8","Carnegie Mellon","119","","","","",81,96,1,0.458
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Monica Harrison","UAA","0-0-0",0
+"2","2024","Monica Harrison","UAA","16-18-0",0.471
+"3","2023","Monica Harrison","UAA","15-23-0",0.395
+"4","2022","Monica Harrison","UAA","15-19-0",0.441
+"5","2021","Monica Harrison","UAA","15-6-1",0.705
+"6","2020","Monica Harrison","UAA","7-5-0",0.583
+"7","2019","Monica Harrison","UAA","13-25-0",0.342

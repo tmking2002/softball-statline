@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Washington Col.","753","2025","Sally Snover","D-III","Centennial",0,0,0,0
-"2","Washington Col.","753","2024","Sally Snover","D-III","Centennial",20,19,1,0.513
-"3","Washington Col.","753","2023","Sally Snover","D-III","Centennial",20,19,1,0.513
-"4","Washington Col.","753","2022","Sally Snover","D-III","Centennial",16,19,0,0.457
-"5","Washington Col.","753","2021","Sally Snover","D-III","Centennial",9,8,0,0.529
-"6","Washington Col.","753","2020","Lacey Lord","D-III","Centennial",6,8,0,0.429
-"7","Washington Col.","753","2019","Lacey Lord","D-III","Centennial",10,30,0,0.25
-"8","Washington Col.","753","2018","Lacey Lord","D-III","Centennial",17,22,NA,0.436
-"9","Washington Col.","753","2017","Lacey Lord","D-III","Centennial",25,16,0,0.61
-"10","Washington Col.","753","2016","Lacey Lord","D-III","Centennial",22,20,0,0.524
-"11","Washington Col.","753","2015","Lacey Lord","D-III","Centennial",16,18,0,0.471
-"12","Washington Col.","753","2014","Lacey Lord","D-III","Centennial",26,13,1,0.663
-"13","Washington Col.","753","2013","Lacey Lord","D-III","Centennial",27,19,0,0.587
-"14","Washington Col.","753","2012","Lacey Lord","D-III","Centennial",21,20,0,0.512
-"15","Washington Col.","753","2011","Lacey Lord","D-III","Centennial",21,21,0,0.5
-"16","Washington Col.","753","2010","Lacey Lord","D-III","Centennial",13,19,0,0.406
-"17","Washington Col.","753","2009","Lacey Lord","D-III","Centennial",15,21,1,0.419
-"18","Washington Col.","753","2008","Louie Richardson","D-III","Centennial",9,21,0,0.3
-"19","Washington Col.","753","2007","Louie Richardson","D-III","Centennial",9,29,0,0.237
-"20","Washington Col.","753","2006","Louie Richardson","D-III","Centennial",16,22,0,0.421
-"21","Washington Col.","753","2005","Louie Richardson","D-III","Centennial",19,17,0,0.528
-"22","Washington Col.","753","2004","Lin Outten","D-III","Centennial",8,21,1,0.283
-"23","Washington Col.","753","2003","Lin Outten","D-III","Centennial",14,18,0,0.438
-"24","Washington Col.","753","2002","Lin Outten","D-III","Centennial",11,18,1,0.383
-"25","Washington Col.","753","2001","Lin Outten","D-III","-",11,21,NA,0.344
-"26","Washington Col.","753","1900","William Outten","D-III","-",18,14,NA,0.563
-"27","Washington Col.","753","1999","William Outten","D-III","-",15,19,NA,0.441
-"28","Washington Col.","753","1998","Lin Outten","D-III","-",9,21,NA,0.3
-"29","Washington Col.","753","1997","Lanee Cole-Smith","D-III","-",21,9,1,0.694
-"30","Washington Col.","753","1996","Lanee Cole-Smith","D-III","-",15,16,NA,0.484
-"31","Washington Col.","753","1995","Lanee Cole-Smith","D-III","-",13,11,NA,0.542
-"32","Washington Col.","753","1994","Lanee Cole-Smith","D-III","-",7,15,NA,0.318
-"33","Washington Col.","753","1993","Lanee Cole-Smith","D-III","-",3,14,NA,0.176
-"34","Washington Col.","753","1992","","D-III","-",NA,NA,NA,NA
-"35","Washington Col.","753","1991","","D-III","-",NA,NA,NA,NA
-"36","Washington Col.","753","1990","","D-III","-",NA,NA,NA,NA
-"37","Washington Col.","753","1987","","D-III","-",NA,NA,NA,NA
-"38","Washington Col.","753","1981","","","-",NA,NA,NA,NA
-"39","Washington Col.","753","","","","",482,578,7,0.455
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sally Snover","Centennial","0-0-0",0
+"2","2024","Sally Snover","Centennial","20-19-1",0.513
+"3","2023","Sally Snover","Centennial","20-19-1",0.513
+"4","2022","Sally Snover","Centennial","16-19-0",0.457
+"5","2021","Sally Snover","Centennial","9-8-0",0.529
+"6","2020","Lacey Lord","Centennial","6-8-0",0.429
+"7","2019","Lacey Lord","Centennial","10-30-0",0.25
+"8","2018","Lacey Lord","Centennial","17-22-0",0.436
+"9","2017","Lacey Lord","Centennial","25-16-0",0.61
+"10","2016","Lacey Lord","Centennial","22-20-0",0.524
+"11","2015","Lacey Lord","Centennial","16-18-0",0.471
+"12","2014","Lacey Lord","Centennial","26-13-1",0.663
+"13","2013","Lacey Lord","Centennial","27-19-0",0.587
+"14","2012","Lacey Lord","Centennial","21-20-0",0.512
+"15","2011","Lacey Lord","Centennial","21-21-0",0.5
+"16","2010","Lacey Lord","Centennial","13-19-0",0.406
+"17","2009","Lacey Lord","Centennial","15-21-1",0.419
+"18","2008","Louie Richardson","Centennial","9-21-0",0.3
+"19","2007","Louie Richardson","Centennial","9-29-0",0.237
+"20","2006","Louie Richardson","Centennial","16-22-0",0.421
+"21","2005","Louie Richardson","Centennial","19-17-0",0.528
+"22","2004","Lin Outten","Centennial","8-21-1",0.283
+"23","2003","Lin Outten","Centennial","14-18-0",0.438
+"24","2002","Lin Outten","Centennial","11-18-1",0.383
+"25","2001","Lin Outten","-","11-21-0",0.344
+"26","1900","William Outten","-","18-14-0",0.563
+"27","1999","William Outten","-","15-19-0",0.441
+"28","1998","Lin Outten","-","9-21-0",0.3
+"29","1997","Lanee Cole-Smith","-","21-9-1",0.694
+"30","1996","Lanee Cole-Smith","-","15-16-0",0.484
+"31","1995","Lanee Cole-Smith","-","13-11-0",0.542
+"32","1994","Lanee Cole-Smith","-","7-15-0",0.318
+"33","1993","Lanee Cole-Smith","-","3-14-0",0.176
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1987","","-","NA-NA-0",NA
+"38","1981","","-","NA-NA-0",NA

@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Ambrose","506002","2025","Ron Ferrill",NA,"-",NA,NA,NA,0
-"2","St. Ambrose","506002","2024","Ron Ferrill",NA,"-",NA,NA,NA,0
-"3","St. Ambrose","506002","2023","Ron Ferrill",NA,"-",NA,NA,NA,0
-"4","St. Ambrose","506002","2022","Ron Ferrill",NA,"-",27,17,0,0.614
-"5","St. Ambrose","506002","2021","Ron Ferrill",NA,"-",19,12,0,0.613
-"6","St. Ambrose","506002","2020","Ron Ferrill",NA,"-",13,11,0,0.542
-"7","St. Ambrose","506002","2019","Ron Ferrill",NA,"-",30,18,0,0.625
-"8","St. Ambrose","506002","2018","Ron Ferrill",NA,"-",27,20,0,0.574
-"9","St. Ambrose","506002","2017","Ron Ferrill",NA,"-",33,18,0,0.647
-"10","St. Ambrose","506002","2016","Ron Ferrill",NA,"-",35,18,0,0.66
-"11","St. Ambrose","506002","2015","Ron Ferrill",NA,"-",26,24,1,0.52
-"12","St. Ambrose","506002","2014","Ron Ferrill",NA,"-",32,22,0,0.593
-"13","St. Ambrose","506002","2013","Ron Ferrill",NA,"-",40,15,0,0.727
-"14","St. Ambrose","506002","2012","Ron Ferrill",NA,"-",29,27,0,0.518
-"15","St. Ambrose","506002","2011","Ron Ferrill",NA,"-",10,29,0,0.256
-"16","St. Ambrose","506002","2010","",NA,"-",NA,NA,NA,NA
-"17","St. Ambrose","506002","2009","",NA,"-",NA,NA,NA,NA
-"18","St. Ambrose","506002","2008","",NA,"-",NA,NA,NA,NA
-"19","St. Ambrose","506002","2007","",NA,"-",NA,NA,NA,NA
-"20","St. Ambrose","506002","2006","",NA,"-",NA,NA,NA,NA
-"21","St. Ambrose","506002","2005","",NA,"-",NA,NA,NA,NA
-"22","St. Ambrose","506002","2004","",NA,"-",NA,NA,NA,NA
-"23","St. Ambrose","506002","2003","",NA,"-",NA,NA,NA,NA
-"24","St. Ambrose","506002","2002","",NA,"-",NA,NA,NA,NA
-"25","St. Ambrose","506002","","",NA,"",321,231,1,0.581
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ron Ferrill","-","NA-NA-0",0
+"2","2024","Ron Ferrill","-","NA-NA-0",0
+"3","2023","Ron Ferrill","-","NA-NA-0",0
+"4","2022","Ron Ferrill","-","27-17-0",0.614
+"5","2021","Ron Ferrill","-","19-12-0",0.613
+"6","2020","Ron Ferrill","-","13-11-0",0.542
+"7","2019","Ron Ferrill","-","30-18-0",0.625
+"8","2018","Ron Ferrill","-","27-20-0",0.574
+"9","2017","Ron Ferrill","-","33-18-0",0.647
+"10","2016","Ron Ferrill","-","35-18-0",0.66
+"11","2015","Ron Ferrill","-","26-24-1",0.52
+"12","2014","Ron Ferrill","-","32-22-0",0.593
+"13","2013","Ron Ferrill","-","40-15-0",0.727
+"14","2012","Ron Ferrill","-","29-27-0",0.518
+"15","2011","Ron Ferrill","-","10-29-0",0.256
+"16","2010","","-","NA-NA-0",NA
+"17","2009","","-","NA-NA-0",NA
+"18","2008","","-","NA-NA-0",NA
+"19","2007","","-","NA-NA-0",NA
+"20","2006","","-","NA-NA-0",NA
+"21","2005","","-","NA-NA-0",NA
+"22","2004","","-","NA-NA-0",NA
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

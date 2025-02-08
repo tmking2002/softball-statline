@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Virginia Tech","742","2025","Pete D'Amour","D-I","ACC",2,0,0,1
-"2","Virginia Tech","742","2024","Pete D'Amour","D-I","ACC",40,14,1,0.736
-"3","Virginia Tech","742","2023","Pete D'Amour","D-I","ACC",39,20,0,0.661
-"4","Virginia Tech","742","2022","Pete D'Amour","D-I","ACC",46,10,0,0.821
-"5","Virginia Tech","742","2021","Pete D'Amour","D-I","ACC",37,15,0,0.712
-"6","Virginia Tech","742","2020","Pete D'Amour","D-I","ACC",21,4,0,0.84
-"7","Virginia Tech","742","2019","Pete D'Amour","D-I","ACC",47,11,0,0.81
-"8","Virginia Tech","742","2018","Scot Thomas","D-I","ACC",23,30,NA,0.434
-"9","Virginia Tech","742","2017","Scot Thomas","D-I","ACC",19,34,0,0.358
-"10","Virginia Tech","742","2016","Scot Thomas","D-I","ACC",29,28,0,0.509
-"11","Virginia Tech","742","2015","Scot Thomas","D-I","ACC",34,23,0,0.596
-"12","Virginia Tech","742","2014","Scot Thomas","D-I","ACC",36,23,0,0.61
-"13","Virginia Tech","742","2013","Scot Thomas","D-I","ACC",38,21,0,0.644
-"14","Virginia Tech","742","2012","Scot Thomas","D-I","ACC",42,21,0,0.667
-"15","Virginia Tech","742","2011","Scot Thomas","D-I","ACC",37,20,0,0.649
-"16","Virginia Tech","742","2010","Scot Thomas","D-I","ACC",25,33,0,0.431
-"17","Virginia Tech","742","2009","Scot Thomas","D-I","ACC",28,28,0,0.5
-"18","Virginia Tech","742","2008","Scot Thomas","D-I","ACC",49,19,0,0.721
-"19","Virginia Tech","742","2007","Scot Thomas","D-I","ACC",49,16,0,0.754
-"20","Virginia Tech","742","2006","Scot Thomas","D-I","ACC",39,21,0,0.65
-"21","Virginia Tech","742","2005","Scot Thomas","D-I","ACC",44,25,0,0.638
-"22","Virginia Tech","742","2004","Scot Thomas","D-I","The American",36,23,0,0.61
-"23","Virginia Tech","742","2003","Scot Thomas","D-I","The American",21,29,0,0.42
-"24","Virginia Tech","742","2002","Scot Thomas","D-I","The American",42,18,0,0.7
-"25","Virginia Tech","742","2001","Scot Thomas","D-I","The American",36,23,0,0.61
-"26","Virginia Tech","742","1900","Scot Thomas","D-I","Atlantic 10",41,22,0,0.651
-"27","Virginia Tech","742","1999","Scot Thomas","D-I","Atlantic 10",54,16,0,0.771
-"28","Virginia Tech","742","1998","Scot Thomas","D-I","-",32,31,NA,0.508
-"29","Virginia Tech","742","1997","Scot Thomas","D-I","Atlantic 10",24,32,0,0.429
-"30","Virginia Tech","742","1996","Scot Thomas","D-I","-",16,32,NA,0.333
-"31","Virginia Tech","742","1995","","D-I","-",NA,NA,NA,NA
-"32","Virginia Tech","742","1994","","D-I","-",NA,NA,NA,NA
-"33","Virginia Tech","742","1993","","D-I","-",NA,NA,NA,NA
-"34","Virginia Tech","742","1992","","","-",NA,NA,NA,NA
-"35","Virginia Tech","742","1991","","","-",NA,NA,NA,NA
-"36","Virginia Tech","742","1990","","","-",NA,NA,NA,NA
-"37","Virginia Tech","742","1989","","","-",NA,NA,NA,NA
-"38","Virginia Tech","742","1988","","","-",NA,NA,NA,NA
-"39","Virginia Tech","742","1987","","","-",NA,NA,NA,NA
-"40","Virginia Tech","742","1986","","","-",NA,NA,NA,NA
-"41","Virginia Tech","742","1985","","","-",NA,NA,NA,NA
-"42","Virginia Tech","742","1984","","","-",NA,NA,NA,NA
-"43","Virginia Tech","742","","","","",1026,642,1,0.615
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Pete D'Amour","ACC","2-0-0",1
+"2","2024","Pete D'Amour","ACC","40-14-1",0.736
+"3","2023","Pete D'Amour","ACC","39-20-0",0.661
+"4","2022","Pete D'Amour","ACC","46-10-0",0.821
+"5","2021","Pete D'Amour","ACC","37-15-0",0.712
+"6","2020","Pete D'Amour","ACC","21-4-0",0.84
+"7","2019","Pete D'Amour","ACC","47-11-0",0.81
+"8","2018","Scot Thomas","ACC","23-30-0",0.434
+"9","2017","Scot Thomas","ACC","19-34-0",0.358
+"10","2016","Scot Thomas","ACC","29-28-0",0.509
+"11","2015","Scot Thomas","ACC","34-23-0",0.596
+"12","2014","Scot Thomas","ACC","36-23-0",0.61
+"13","2013","Scot Thomas","ACC","38-21-0",0.644
+"14","2012","Scot Thomas","ACC","42-21-0",0.667
+"15","2011","Scot Thomas","ACC","37-20-0",0.649
+"16","2010","Scot Thomas","ACC","25-33-0",0.431
+"17","2009","Scot Thomas","ACC","28-28-0",0.5
+"18","2008","Scot Thomas","ACC","49-19-0",0.721
+"19","2007","Scot Thomas","ACC","49-16-0",0.754
+"20","2006","Scot Thomas","ACC","39-21-0",0.65
+"21","2005","Scot Thomas","ACC","44-25-0",0.638
+"22","2004","Scot Thomas","The American","36-23-0",0.61
+"23","2003","Scot Thomas","The American","21-29-0",0.42
+"24","2002","Scot Thomas","The American","42-18-0",0.7
+"25","2001","Scot Thomas","The American","36-23-0",0.61
+"26","1900","Scot Thomas","Atlantic 10","41-22-0",0.651
+"27","1999","Scot Thomas","Atlantic 10","54-16-0",0.771
+"28","1998","Scot Thomas","-","32-31-0",0.508
+"29","1997","Scot Thomas","Atlantic 10","24-32-0",0.429
+"30","1996","Scot Thomas","-","16-32-0",0.333
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA

@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Whittier","781","2025","Terry Schweikert","D-III","SCIAC",0,0,0,0
-"2","Whittier","781","2024","Trisha Senyo","D-III","SCIAC",18,18,0,0.5
-"3","Whittier","781","2023","Trisha Senyo","D-III","SCIAC",19,16,0,0.543
-"4","Whittier","781","2022","Trisha Senyo","D-III","SCIAC",22,17,0,0.564
-"5","Whittier","781","2021","Trisha Senyo","D-III","SCIAC",0,0,0,0
-"6","Whittier","781","2020","Trisha Senyo","D-III","SCIAC",6,8,0,0.429
-"7","Whittier","781","2019","Trisha Senyo","D-III","SCIAC",25,20,1,0.554
-"8","Whittier","781","2018","Trisha Senyo","D-III","SCIAC",25,16,1,0.607
-"9","Whittier","781","2017","Deanna Kingsbury","D-III","SCIAC",21,22,0,0.488
-"10","Whittier","781","2016","Deanna Kingsbury","D-III","SCIAC",21,22,0,0.488
-"11","Whittier","781","2015","Deanna Kingsbury","D-III","SCIAC",28,18,0,0.609
-"12","Whittier","781","2014","Shelley Whitaker","D-III","SCIAC",27,16,0,0.628
-"13","Whittier","781","2013","Shelley Whitaker","D-III","SCIAC",24,14,0,0.632
-"14","Whittier","781","2012","Shelley Whitaker","D-III","SCIAC",24,17,0,0.585
-"15","Whittier","781","2011","Shelley Whitaker","D-III","SCIAC",23,19,0,0.548
-"16","Whittier","781","2010","Shelley Whitaker","D-III","SCIAC",20,21,0,0.488
-"17","Whittier","781","2009","Jennifer Bridges","D-III","SCIAC",24,18,0,0.571
-"18","Whittier","781","2008","Jennifer Bridges","D-III","SCIAC",21,17,0,0.553
-"19","Whittier","781","2007","Erin Thorpe","D-III","SCIAC",23,17,0,0.575
-"20","Whittier","781","2006","Erin Thorpe","D-III","SCIAC",5,35,0,0.125
-"21","Whittier","781","2005","Erin Thorpe","D-III","SCIAC",12,25,0,0.324
-"22","Whittier","781","2004","Erin Thorpe","D-III","SCIAC",5,32,0,0.135
-"23","Whittier","781","2003","Erin Thorpe","D-III","-",5,32,0,0.135
-"24","Whittier","781","2002","","D-III","-",NA,NA,NA,NA
-"25","Whittier","781","2001","","D-III","-",NA,NA,NA,NA
-"26","Whittier","781","1900","Mike McBride","D-III","-",NA,NA,NA,NA
-"27","Whittier","781","1999","","D-III","-",NA,NA,NA,NA
-"28","Whittier","781","1998","Ramon Juarez","D-III","-",6,28,NA,0.176
-"29","Whittier","781","1997","Ramon Juarez","D-III","-",14,23,NA,0.378
-"30","Whittier","781","1996","Ramon Juarez","D-III","-",12,16,NA,0.429
-"31","Whittier","781","1995","Ramon Juarez","D-III","-",6,30,NA,0.167
-"32","Whittier","781","1994","Ramon Juarez","D-III","-",13,23,NA,0.361
-"33","Whittier","781","1993","Stephanie Fleischaker","D-III","-",11,23,NA,0.324
-"34","Whittier","781","1992","Mike McBride","D-III","-",6,18,1,0.26
-"35","Whittier","781","1991","Mike McBride","D-III","-",1,21,NA,0.045
-"36","Whittier","781","1990","","D-III","-",NA,NA,NA,NA
-"37","Whittier","781","1989","","D-III","-",NA,NA,NA,NA
-"38","Whittier","781","1988","","D-III","-",NA,NA,NA,NA
-"39","Whittier","781","1987","","D-III","-",NA,NA,NA,NA
-"40","Whittier","781","1986","","D-III","-",NA,NA,NA,NA
-"41","Whittier","781","1985","","D-III","-",NA,NA,NA,NA
-"42","Whittier","781","1984","","D-III","-",NA,NA,NA,NA
-"43","Whittier","781","1983","","D-III","-",NA,NA,NA,NA
-"44","Whittier","781","1982","","D-III","-",NA,NA,NA,NA
-"45","Whittier","781","","","","",467,602,3,0.437
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Terry Schweikert","SCIAC","0-0-0",0
+"2","2024","Trisha Senyo","SCIAC","18-18-0",0.5
+"3","2023","Trisha Senyo","SCIAC","19-16-0",0.543
+"4","2022","Trisha Senyo","SCIAC","22-17-0",0.564
+"5","2021","Trisha Senyo","SCIAC","0-0-0",0
+"6","2020","Trisha Senyo","SCIAC","6-8-0",0.429
+"7","2019","Trisha Senyo","SCIAC","25-20-1",0.554
+"8","2018","Trisha Senyo","SCIAC","25-16-1",0.607
+"9","2017","Deanna Kingsbury","SCIAC","21-22-0",0.488
+"10","2016","Deanna Kingsbury","SCIAC","21-22-0",0.488
+"11","2015","Deanna Kingsbury","SCIAC","28-18-0",0.609
+"12","2014","Shelley Whitaker","SCIAC","27-16-0",0.628
+"13","2013","Shelley Whitaker","SCIAC","24-14-0",0.632
+"14","2012","Shelley Whitaker","SCIAC","24-17-0",0.585
+"15","2011","Shelley Whitaker","SCIAC","23-19-0",0.548
+"16","2010","Shelley Whitaker","SCIAC","20-21-0",0.488
+"17","2009","Jennifer Bridges","SCIAC","24-18-0",0.571
+"18","2008","Jennifer Bridges","SCIAC","21-17-0",0.553
+"19","2007","Erin Thorpe","SCIAC","23-17-0",0.575
+"20","2006","Erin Thorpe","SCIAC","5-35-0",0.125
+"21","2005","Erin Thorpe","SCIAC","12-25-0",0.324
+"22","2004","Erin Thorpe","SCIAC","5-32-0",0.135
+"23","2003","Erin Thorpe","-","5-32-0",0.135
+"24","2002","","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Mike McBride","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Ramon Juarez","-","6-28-0",0.176
+"29","1997","Ramon Juarez","-","14-23-0",0.378
+"30","1996","Ramon Juarez","-","12-16-0",0.429
+"31","1995","Ramon Juarez","-","6-30-0",0.167
+"32","1994","Ramon Juarez","-","13-23-0",0.361
+"33","1993","Stephanie Fleischaker","-","11-23-0",0.324
+"34","1992","Mike McBride","-","6-18-1",0.26
+"35","1991","Mike McBride","-","1-21-0",0.045
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

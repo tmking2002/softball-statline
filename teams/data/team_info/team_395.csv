@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Maryville (MO)","395","2025","Chanin Billings","D-II","GLVC",6,0,0,1
-"2","Maryville (MO)","395","2024","Courtney Conley","D-II","GLVC",23,30,0,0.434
-"3","Maryville (MO)","395","2023","Courtney Conley","D-II","GLVC",30,21,0,0.588
-"4","Maryville (MO)","395","2022","Courtney Conley","D-II","GLVC",17,25,0,0.405
-"5","Maryville (MO)","395","2021","Courtney Conley","D-II","GLVC",21,16,0,0.568
-"6","Maryville (MO)","395","2020","Courtney Conley","D-II","GLVC",10,8,0,0.556
-"7","Maryville (MO)","395","2019","Courtney Conley","D-II","GLVC",33,19,0,0.635
-"8","Maryville (MO)","395","2018","Stephanie Decker","D-II","GLVC",26,21,1,0.552
-"9","Maryville (MO)","395","2017","Stephanie Decker","D-II","GLVC",22,26,0,0.458
-"10","Maryville (MO)","395","2016","Liz Kelly","D-II","GLVC",39,16,0,0.709
-"11","Maryville (MO)","395","2015","Liz Kelly","D-II","GLVC",18,32,0,0.36
-"12","Maryville (MO)","395","2014","Liz Kelly","D-II","GLVC",17,27,0,0.386
-"13","Maryville (MO)","395","2013","Liz Kelly","D-II","GLVC",12,24,0,0.333
-"14","Maryville (MO)","395","2012","Melissa Hurley","D-II","GLVC",15,35,0,0.3
-"15","Maryville (MO)","395","2011","Melissa Hurley","D-II","GLVC",12,36,0,0.25
-"16","Maryville (MO)","395","2010","Melissa Hurley","D-II","GLVC",17,30,0,0.362
-"17","Maryville (MO)","395","2009","Melissa Hurley","D-III","SLIAC",24,16,0,0.6
-"18","Maryville (MO)","395","2008","Charlie Kennedy","D-III","SLIAC",28,17,0,0.622
-"19","Maryville (MO)","395","2007","Charlie Kennedy","D-III","SLIAC",22,22,0,0.5
-"20","Maryville (MO)","395","2006","Charlie Kennedy","D-III","SLIAC",25,18,0,0.581
-"21","Maryville (MO)","395","2005","Charlie Kennedy","D-III","SLIAC",30,14,0,0.682
-"22","Maryville (MO)","395","2004","Charlie Kennedy","D-III","SLIAC",24,17,0,0.585
-"23","Maryville (MO)","395","2003","Charlie Kennedy","D-III","SLIAC",20,16,0,0.556
-"24","Maryville (MO)","395","2002","Charlie Kennedy","D-III","SLIAC",20,13,0,0.606
-"25","Maryville (MO)","395","2001","Charlie Kennedy","D-III","-",20,22,NA,0.476
-"26","Maryville (MO)","395","1900","Charlie Kennedy","D-III","-",31,9,1,0.768
-"27","Maryville (MO)","395","1999","Lonnie Folks","D-III","-",20,16,NA,0.556
-"28","Maryville (MO)","395","1998","Lonnie Folks","D-III","-",16,18,1,0.471
-"29","Maryville (MO)","395","1997","Lonnie Folks","D-III","-",25,9,NA,0.735
-"30","Maryville (MO)","395","1996","Lonnie Folks","D-III","-",16,12,NA,0.571
-"31","Maryville (MO)","395","1995","Steve Jarvis","D-III","-",13,21,NA,0.382
-"32","Maryville (MO)","395","1994","Steve Jarvis","D-III","-",21,11,NA,0.656
-"33","Maryville (MO)","395","1993","Steve Jarvis","D-III","-",10,13,NA,0.435
-"34","Maryville (MO)","395","1992","Steve Jarvis","D-III","-",15,14,NA,0.517
-"35","Maryville (MO)","395","1991","Steve Jarvis","D-III","-",10,19,NA,0.345
-"36","Maryville (MO)","395","1990","Steve Jarvis","D-III","-",5,20,NA,0.2
-"37","Maryville (MO)","395","1989","","D-III","-",NA,NA,NA,NA
-"38","Maryville (MO)","395","1988","","D-III","-",NA,NA,NA,NA
-"39","Maryville (MO)","395","1987","","D-III","-",NA,NA,NA,NA
-"40","Maryville (MO)","395","1986","","D-III","-",NA,NA,NA,NA
-"41","Maryville (MO)","395","1985","","D-III","-",NA,NA,NA,NA
-"42","Maryville (MO)","395","1984","","D-III","-",NA,NA,NA,NA
-"43","Maryville (MO)","395","1983","","D-III","-",NA,NA,NA,NA
-"44","Maryville (MO)","395","","","","",713,683,3,0.511
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Chanin Billings","GLVC","6-0-0",1
+"2","2024","Courtney Conley","GLVC","23-30-0",0.434
+"3","2023","Courtney Conley","GLVC","30-21-0",0.588
+"4","2022","Courtney Conley","GLVC","17-25-0",0.405
+"5","2021","Courtney Conley","GLVC","21-16-0",0.568
+"6","2020","Courtney Conley","GLVC","10-8-0",0.556
+"7","2019","Courtney Conley","GLVC","33-19-0",0.635
+"8","2018","Stephanie Decker","GLVC","26-21-1",0.552
+"9","2017","Stephanie Decker","GLVC","22-26-0",0.458
+"10","2016","Liz Kelly","GLVC","39-16-0",0.709
+"11","2015","Liz Kelly","GLVC","18-32-0",0.36
+"12","2014","Liz Kelly","GLVC","17-27-0",0.386
+"13","2013","Liz Kelly","GLVC","12-24-0",0.333
+"14","2012","Melissa Hurley","GLVC","15-35-0",0.3
+"15","2011","Melissa Hurley","GLVC","12-36-0",0.25
+"16","2010","Melissa Hurley","GLVC","17-30-0",0.362
+"17","2009","Melissa Hurley","SLIAC","24-16-0",0.6
+"18","2008","Charlie Kennedy","SLIAC","28-17-0",0.622
+"19","2007","Charlie Kennedy","SLIAC","22-22-0",0.5
+"20","2006","Charlie Kennedy","SLIAC","25-18-0",0.581
+"21","2005","Charlie Kennedy","SLIAC","30-14-0",0.682
+"22","2004","Charlie Kennedy","SLIAC","24-17-0",0.585
+"23","2003","Charlie Kennedy","SLIAC","20-16-0",0.556
+"24","2002","Charlie Kennedy","SLIAC","20-13-0",0.606
+"25","2001","Charlie Kennedy","-","20-22-0",0.476
+"26","1900","Charlie Kennedy","-","31-9-1",0.768
+"27","1999","Lonnie Folks","-","20-16-0",0.556
+"28","1998","Lonnie Folks","-","16-18-1",0.471
+"29","1997","Lonnie Folks","-","25-9-0",0.735
+"30","1996","Lonnie Folks","-","16-12-0",0.571
+"31","1995","Steve Jarvis","-","13-21-0",0.382
+"32","1994","Steve Jarvis","-","21-11-0",0.656
+"33","1993","Steve Jarvis","-","10-13-0",0.435
+"34","1992","Steve Jarvis","-","15-14-0",0.517
+"35","1991","Steve Jarvis","-","10-19-0",0.345
+"36","1990","Steve Jarvis","-","5-20-0",0.2
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

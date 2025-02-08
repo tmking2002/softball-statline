@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mississippi Col.","429","2025","Leigh Streetman","D-II","Gulf South",2,4,0,0.333
-"2","Mississippi Col.","429","2024","Brooke O'Hair","D-II","Gulf South",48,9,0,0.842
-"3","Mississippi Col.","429","2023","Brooke O'Hair","D-II","Gulf South",43,12,0,0.782
-"4","Mississippi Col.","429","2022","Brooke O'Hair","D-II","Gulf South",22,23,0,0.489
-"5","Mississippi Col.","429","2021","Brooke O'Hair","D-II","Gulf South",21,22,0,0.488
-"6","Mississippi Col.","429","2020","Brooke O'Hair","D-II","Gulf South",15,9,0,0.625
-"7","Mississippi Col.","429","2019","Brooke O'Hair","D-II","Gulf South",40,16,0,0.714
-"8","Mississippi Col.","429","2018","Brooke O'Hair","D-II","Gulf South",29,16,NA,0.644
-"9","Mississippi Col.","429","2017","Brooke O'Hair","D-II","Gulf South",35,20,0,0.636
-"10","Mississippi Col.","429","2016","Brooke O'Hair","D-II","Gulf South",38,19,0,0.667
-"11","Mississippi Col.","429","2015","Brooke O'Hair","D-II","Gulf South",30,24,0,0.556
-"12","Mississippi Col.","429","2014","Brooke O'Hair","D-III","ASC",34,14,0,0.708
-"13","Mississippi Col.","429","2013","Brooke O'Hair","D-III","ASC",8,31,0,0.205
-"14","Mississippi Col.","429","2012","Brooke O'Hair","D-III","ASC",26,14,0,0.65
-"15","Mississippi Col.","429","2011","Brooke O'Hair","D-III","ASC",33,15,0,0.688
-"16","Mississippi Col.","429","2010","Brooke O'Hair","D-III","ASC",29,13,0,0.69
-"17","Mississippi Col.","429","2009","Brooke O'Hair","D-III","ASC",22,17,0,0.564
-"18","Mississippi Col.","429","2008","Brooke O'Hair","D-III","ASC",19,21,0,0.475
-"19","Mississippi Col.","429","2007","Brooke O'Hair","D-III","ASC",38,10,0,0.792
-"20","Mississippi Col.","429","2006","Susan Musselwhite","D-III","ASC",24,16,0,0.6
-"21","Mississippi Col.","429","2005","Susan Musselwhite","D-III","ASC",25,14,0,0.641
-"22","Mississippi Col.","429","2004","Susan Musselwhite","D-III","ASC",22,14,0,0.611
-"23","Mississippi Col.","429","2003","Susan Musselwhite","D-III","ASC",23,16,0,0.59
-"24","Mississippi Col.","429","2002","Susan Musselwhite","D-III","ASC",26,14,1,0.646
-"25","Mississippi Col.","429","2001","Susan Musselwhite","D-III","-",22,10,NA,0.688
-"26","Mississippi Col.","429","1900","Susan Musselwhite","D-III","-",NA,NA,NA,NA
-"27","Mississippi Col.","429","1999","Susan Musselwhite","D-III","-",22,9,NA,0.71
-"28","Mississippi Col.","429","1998","Susan Musselwhite","D-III","-",17,8,NA,0.68
-"29","Mississippi Col.","429","1997","Susan Musselwhite","D-II","-",6,15,NA,0.286
-"30","Mississippi Col.","429","1996","Susan Musselwhite","D-II","-",4,24,NA,0.143
-"31","Mississippi Col.","429","1995","Rowanna Dozier","D-II","-",13,24,NA,0.351
-"32","Mississippi Col.","429","1994","Rowanna Dozier","D-II","-",15,19,NA,0.441
-"33","Mississippi Col.","429","1993","Rowanna Dozier","D-II","-",25,14,NA,0.641
-"34","Mississippi Col.","429","1992","Rowanna Dozier","D-II","-",16,26,NA,0.381
-"35","Mississippi Col.","429","1991","Lauren Collins","D-II","-",18,17,0,0.514
-"36","Mississippi Col.","429","1990","Lauren Collins","D-II","-",18,14,0,0.563
-"37","Mississippi Col.","429","1989","","D-II","-",NA,NA,NA,NA
-"38","Mississippi Col.","429","1988","","D-II","-",NA,NA,NA,NA
-"39","Mississippi Col.","429","1987","","D-II","-",NA,NA,NA,NA
-"40","Mississippi Col.","429","1986","","D-II","-",NA,NA,NA,NA
-"41","Mississippi Col.","429","","","","",828,563,1,0.595
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Leigh Streetman","Gulf South","2-4-0",0.333
+"2","2024","Brooke O'Hair","Gulf South","48-9-0",0.842
+"3","2023","Brooke O'Hair","Gulf South","43-12-0",0.782
+"4","2022","Brooke O'Hair","Gulf South","22-23-0",0.489
+"5","2021","Brooke O'Hair","Gulf South","21-22-0",0.488
+"6","2020","Brooke O'Hair","Gulf South","15-9-0",0.625
+"7","2019","Brooke O'Hair","Gulf South","40-16-0",0.714
+"8","2018","Brooke O'Hair","Gulf South","29-16-0",0.644
+"9","2017","Brooke O'Hair","Gulf South","35-20-0",0.636
+"10","2016","Brooke O'Hair","Gulf South","38-19-0",0.667
+"11","2015","Brooke O'Hair","Gulf South","30-24-0",0.556
+"12","2014","Brooke O'Hair","ASC","34-14-0",0.708
+"13","2013","Brooke O'Hair","ASC","8-31-0",0.205
+"14","2012","Brooke O'Hair","ASC","26-14-0",0.65
+"15","2011","Brooke O'Hair","ASC","33-15-0",0.688
+"16","2010","Brooke O'Hair","ASC","29-13-0",0.69
+"17","2009","Brooke O'Hair","ASC","22-17-0",0.564
+"18","2008","Brooke O'Hair","ASC","19-21-0",0.475
+"19","2007","Brooke O'Hair","ASC","38-10-0",0.792
+"20","2006","Susan Musselwhite","ASC","24-16-0",0.6
+"21","2005","Susan Musselwhite","ASC","25-14-0",0.641
+"22","2004","Susan Musselwhite","ASC","22-14-0",0.611
+"23","2003","Susan Musselwhite","ASC","23-16-0",0.59
+"24","2002","Susan Musselwhite","ASC","26-14-1",0.646
+"25","2001","Susan Musselwhite","-","22-10-0",0.688
+"26","1900","Susan Musselwhite","-","NA-NA-0",NA
+"27","1999","Susan Musselwhite","-","22-9-0",0.71
+"28","1998","Susan Musselwhite","-","17-8-0",0.68
+"29","1997","Susan Musselwhite","-","6-15-0",0.286
+"30","1996","Susan Musselwhite","-","4-24-0",0.143
+"31","1995","Rowanna Dozier","-","13-24-0",0.351
+"32","1994","Rowanna Dozier","-","15-19-0",0.441
+"33","1993","Rowanna Dozier","-","25-14-0",0.641
+"34","1992","Rowanna Dozier","-","16-26-0",0.381
+"35","1991","Lauren Collins","-","18-17-0",0.514
+"36","1990","Lauren Collins","-","18-14-0",0.563
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA

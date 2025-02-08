@@ -47,7 +47,7 @@ get_current_rpi <- function(scoreboard){
               record = paste(floor(sum(win)),floor(n() - sum(win)),ceiling(sum(win) %% 1), sep = "-"),
               games = n()) %>%
     ungroup() %>%
-    filter(games >= 5) %>% 
+    # filter(games >= 5) %>% 
     mutate(rpi_rank = rank(-rpi_coef, ties.method = 'min')) %>% 
     select(-games)
 

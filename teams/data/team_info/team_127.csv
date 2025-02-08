@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Central Conn. St.","127","2025","Breanne Gleason","D-I","NEC",0,0,0,0
-"2","Central Conn. St.","127","2024","Breanne Gleason","D-I","NEC",28,19,0,0.596
-"3","Central Conn. St.","127","2023","Breanne Gleason","D-I","NEC",21,16,0,0.568
-"4","Central Conn. St.","127","2022","Breanne Gleason","D-I","NEC",8,41,0,0.163
-"5","Central Conn. St.","127","2021","Breanne Gleason","D-I","NEC",23,15,0,0.605
-"6","Central Conn. St.","127","2020","Breanne Gleason","D-I","NEC",1,3,0,0.25
-"7","Central Conn. St.","127","2019","Breanne Gleason","D-I","NEC",17,24,0,0.415
-"8","Central Conn. St.","127","2018","Breanne Gleason","D-I","NEC",19,30,NA,0.388
-"9","Central Conn. St.","127","2017","Breanne Gleason","D-I","NEC",15,24,0,0.385
-"10","Central Conn. St.","127","2016","Breanne Gleason","D-I","NEC",18,26,1,0.411
-"11","Central Conn. St.","127","2015","Breanne Gleason","D-I","NEC",31,14,0,0.689
-"12","Central Conn. St.","127","2014","Breanne Gleason","D-I","NEC",29,16,0,0.644
-"13","Central Conn. St.","127","2013","Jeffrey Franquet","D-I","NEC",36,15,0,0.706
-"14","Central Conn. St.","127","2012","Jeffrey Franquet","D-I","NEC",31,19,0,0.62
-"15","Central Conn. St.","127","2011","Jeffrey Franquet","D-I","NEC",29,22,1,0.567
-"16","Central Conn. St.","127","2010","Jeffrey Franquet","D-I","NEC",19,31,0,0.38
-"17","Central Conn. St.","127","2009","Mandy Roczniak","D-I","NEC",9,34,0,0.209
-"18","Central Conn. St.","127","2008","Mandy Roczniak","D-I","NEC",14,25,0,0.359
-"19","Central Conn. St.","127","2007","Mandy Roczniak","D-I","NEC",18,26,0,0.409
-"20","Central Conn. St.","127","2006","Kelly Rodman","D-I","NEC",8,38,0,0.174
-"21","Central Conn. St.","127","2005","Kelly Rodman","D-I","NEC",15,32,0,0.319
-"22","Central Conn. St.","127","2004","Mandy Roczniak","D-I","NEC",9,41,0,0.18
-"23","Central Conn. St.","127","2003","Mandy Roczniak","D-I","NEC",10,35,0,0.222
-"24","Central Conn. St.","127","2002","Mandy Roczniak","D-I","NEC",11,35,1,0.245
-"25","Central Conn. St.","127","2001","Mandy Roczniak","D-I","NEC",10,38,0,0.208
-"26","Central Conn. St.","127","1900","Ron Pringle","D-I","NEC",7,39,0,0.152
-"27","Central Conn. St.","127","1999","Ron Pringle","D-I","NEC",11,37,0,0.229
-"28","Central Conn. St.","127","1998","Ron Pringle","D-I","-",8,34,NA,0.19
-"29","Central Conn. St.","127","1997","Ron Pringle","D-I","Summit League",4,35,1,0.113
-"30","Central Conn. St.","127","1996","Ron Pringle","D-I","-",12,36,NA,0.25
-"31","Central Conn. St.","127","1995","Ron Pringle","D-I","-",14,43,NA,0.246
-"32","Central Conn. St.","127","1994","Ron Pringle","D-I","-",22,24,1,0.479
-"33","Central Conn. St.","127","1993","Ron Pringle","D-I","-",8,20,NA,0.286
-"34","Central Conn. St.","127","1992","Ron Pringle","D-I","-",15,26,NA,0.366
-"35","Central Conn. St.","127","1991","Ron Pringle","D-I","-",17,25,NA,0.405
-"36","Central Conn. St.","127","1990","Ron Pringle","D-I","-",28,14,NA,0.667
-"37","Central Conn. St.","127","1989","Ron Pringle","D-I","-",19,17,NA,0.528
-"38","Central Conn. St.","127","1988","Ron Pringle","D-I","-",16,24,NA,0.4
-"39","Central Conn. St.","127","1987","","D-I","-",NA,NA,NA,NA
-"40","Central Conn. St.","127","1986","","D-II","-",NA,NA,NA,NA
-"41","Central Conn. St.","127","1985","","D-II","-",NA,NA,NA,NA
-"42","Central Conn. St.","127","1983","","D-II","-",NA,NA,NA,NA
-"43","Central Conn. St.","127","","","","",610,993,5,0.381
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Breanne Gleason","NEC","0-0-0",0
+"2","2024","Breanne Gleason","NEC","28-19-0",0.596
+"3","2023","Breanne Gleason","NEC","21-16-0",0.568
+"4","2022","Breanne Gleason","NEC","8-41-0",0.163
+"5","2021","Breanne Gleason","NEC","23-15-0",0.605
+"6","2020","Breanne Gleason","NEC","1-3-0",0.25
+"7","2019","Breanne Gleason","NEC","17-24-0",0.415
+"8","2018","Breanne Gleason","NEC","19-30-0",0.388
+"9","2017","Breanne Gleason","NEC","15-24-0",0.385
+"10","2016","Breanne Gleason","NEC","18-26-1",0.411
+"11","2015","Breanne Gleason","NEC","31-14-0",0.689
+"12","2014","Breanne Gleason","NEC","29-16-0",0.644
+"13","2013","Jeffrey Franquet","NEC","36-15-0",0.706
+"14","2012","Jeffrey Franquet","NEC","31-19-0",0.62
+"15","2011","Jeffrey Franquet","NEC","29-22-1",0.567
+"16","2010","Jeffrey Franquet","NEC","19-31-0",0.38
+"17","2009","Mandy Roczniak","NEC","9-34-0",0.209
+"18","2008","Mandy Roczniak","NEC","14-25-0",0.359
+"19","2007","Mandy Roczniak","NEC","18-26-0",0.409
+"20","2006","Kelly Rodman","NEC","8-38-0",0.174
+"21","2005","Kelly Rodman","NEC","15-32-0",0.319
+"22","2004","Mandy Roczniak","NEC","9-41-0",0.18
+"23","2003","Mandy Roczniak","NEC","10-35-0",0.222
+"24","2002","Mandy Roczniak","NEC","11-35-1",0.245
+"25","2001","Mandy Roczniak","NEC","10-38-0",0.208
+"26","1900","Ron Pringle","NEC","7-39-0",0.152
+"27","1999","Ron Pringle","NEC","11-37-0",0.229
+"28","1998","Ron Pringle","-","8-34-0",0.19
+"29","1997","Ron Pringle","Summit League","4-35-1",0.113
+"30","1996","Ron Pringle","-","12-36-0",0.25
+"31","1995","Ron Pringle","-","14-43-0",0.246
+"32","1994","Ron Pringle","-","22-24-1",0.479
+"33","1993","Ron Pringle","-","8-20-0",0.286
+"34","1992","Ron Pringle","-","15-26-0",0.366
+"35","1991","Ron Pringle","-","17-25-0",0.405
+"36","1990","Ron Pringle","-","28-14-0",0.667
+"37","1989","Ron Pringle","-","19-17-0",0.528
+"38","1988","Ron Pringle","-","16-24-0",0.4
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA

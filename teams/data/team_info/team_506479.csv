@@ -1,7 +1,6 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Fla. National","506479","2025",NA,NA,"-",NA,NA,NA,0
-"2","Fla. National","506479","2024",NA,NA,"-",NA,NA,NA,0
-"3","Fla. National","506479","2023",NA,NA,"-",NA,NA,NA,0
-"4","Fla. National","506479","2022",NA,NA,"-",NA,NA,NA,0
-"5","Fla. National","506479","2021",NA,NA,"-",NA,NA,NA,0
-"6","Fla. National","506479","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2021",NA,"-","NA-NA-0",0

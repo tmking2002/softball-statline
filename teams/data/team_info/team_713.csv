@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Trinity (CT)","713","2025","Lena Springer","D-III","NESCAC",0,0,0,0
-"2","Trinity (CT)","713","2024","Lena Springer","D-III","NESCAC",24,15,0,0.615
-"3","Trinity (CT)","713","2023","Mackenzie Keyes","D-III","NESCAC",13,20,0,0.394
-"4","Trinity (CT)","713","2022","Molly Rathbun","D-III","NESCAC",19,14,0,0.576
-"5","Trinity (CT)","713","2021","Molly Rathbun","D-III","NESCAC",4,8,0,0.333
-"6","Trinity (CT)","713","2020","Molly Rathbun","D-III","NESCAC",NA,NA,NA,0
-"7","Trinity (CT)","713","2019","Caitlin Hitchcock","D-III","NESCAC",19,14,0,0.576
-"8","Trinity (CT)","713","2018","Caitlin Hitchcock","D-III","NESCAC",17,14,NA,0.548
-"9","Trinity (CT)","713","2017","Caitlin Hitchcock","D-III","NESCAC",19,15,0,0.559
-"10","Trinity (CT)","713","2016","Caitlin Hitchcock","D-III","NESCAC",18,14,0,0.563
-"11","Trinity (CT)","713","2015","Caitlin Hitchcock","D-III","NESCAC",8,24,0,0.25
-"12","Trinity (CT)","713","2014","Caitlin Hitchcock","D-III","NESCAC",14,17,0,0.452
-"13","Trinity (CT)","713","2013","Caitlin Hitchcock","D-III","NESCAC",16,18,0,0.471
-"14","Trinity (CT)","713","2012","Caitlin Hitchcock","D-III","NESCAC",15,18,0,0.455
-"15","Trinity (CT)","713","2011","Caitlin Hitchcock","D-III","NESCAC",22,14,0,0.611
-"16","Trinity (CT)","713","2010","Caitlin Hitchcock","D-III","NESCAC",20,14,0,0.588
-"17","Trinity (CT)","713","2009","Caitlin Hitchcock","D-III","NESCAC",14,17,0,0.452
-"18","Trinity (CT)","713","2008","Caitlin Hitchcock","D-III","NESCAC",16,15,0,0.516
-"19","Trinity (CT)","713","2007","Caitlin Hitchcock","D-III","NESCAC",22,11,0,0.667
-"20","Trinity (CT)","713","2006","Caitlin Hitchcock","D-III","NESCAC",23,10,0,0.697
-"21","Trinity (CT)","713","2005","Caitlin Hitchcock","D-III","NESCAC",16,15,0,0.516
-"22","Trinity (CT)","713","2004","Caitlin Hitchcock","D-III","NESCAC",12,16,0,0.429
-"23","Trinity (CT)","713","2003","Caitlin Hitchcock","D-III","NESCAC",8,21,1,0.283
-"24","Trinity (CT)","713","2002","Tami Hyde","D-III","NESCAC",7,22,0,0.241
-"25","Trinity (CT)","713","2001","Tami Hyde","D-III","-",7,22,0,0.241
-"26","Trinity (CT)","713","1900","Fran Vandermeer","D-III","-",10,19,NA,0.345
-"27","Trinity (CT)","713","1999","Fran Vandermeer","D-III","-",15,20,NA,0.429
-"28","Trinity (CT)","713","1998","Fran Vandermeer","D-III","-",19,12,NA,0.613
-"29","Trinity (CT)","713","1997","Fran Vandermeer","D-III","-",8,18,NA,0.308
-"30","Trinity (CT)","713","1996","Dick Ellis","D-III","-",7,10,NA,0.412
-"31","Trinity (CT)","713","1995","Dick Ellis","D-III","-",6,14,NA,0.3
-"32","Trinity (CT)","713","1994","Dick Ellis","D-III","-",8,9,NA,0.471
-"33","Trinity (CT)","713","1993","Dick Ellis","D-III","-",10,8,NA,0.556
-"34","Trinity (CT)","713","1992","Dick Ellis","D-III","-",9,5,NA,0.643
-"35","Trinity (CT)","713","1991","Donald G. Miller","D-III","-",8,6,NA,0.571
-"36","Trinity (CT)","713","1990","Donald G. Miller","D-III","-",15,0,NA,1
-"37","Trinity (CT)","713","1989","Donald G. Miller","D-III","-",10,3,NA,0.769
-"38","Trinity (CT)","713","1988","Donald G. Miller","D-III","-",13,4,NA,0.765
-"39","Trinity (CT)","713","1987","Donald G. Miller","D-III","-",11,1,NA,0.917
-"40","Trinity (CT)","713","1986","Donald G. Miller","D-III","-",7,6,NA,0.538
-"41","Trinity (CT)","713","1985","Donald G. Miller","D-III","-",5,8,NA,0.385
-"42","Trinity (CT)","713","1984","Donald G. Miller","D-III","-",3,8,NA,0.273
-"43","Trinity (CT)","713","","","","",517,519,1,0.499
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Lena Springer","NESCAC","0-0-0",0
+"2","2024","Lena Springer","NESCAC","24-15-0",0.615
+"3","2023","Mackenzie Keyes","NESCAC","13-20-0",0.394
+"4","2022","Molly Rathbun","NESCAC","19-14-0",0.576
+"5","2021","Molly Rathbun","NESCAC","4-8-0",0.333
+"6","2020","Molly Rathbun","NESCAC","NA-NA-0",0
+"7","2019","Caitlin Hitchcock","NESCAC","19-14-0",0.576
+"8","2018","Caitlin Hitchcock","NESCAC","17-14-0",0.548
+"9","2017","Caitlin Hitchcock","NESCAC","19-15-0",0.559
+"10","2016","Caitlin Hitchcock","NESCAC","18-14-0",0.563
+"11","2015","Caitlin Hitchcock","NESCAC","8-24-0",0.25
+"12","2014","Caitlin Hitchcock","NESCAC","14-17-0",0.452
+"13","2013","Caitlin Hitchcock","NESCAC","16-18-0",0.471
+"14","2012","Caitlin Hitchcock","NESCAC","15-18-0",0.455
+"15","2011","Caitlin Hitchcock","NESCAC","22-14-0",0.611
+"16","2010","Caitlin Hitchcock","NESCAC","20-14-0",0.588
+"17","2009","Caitlin Hitchcock","NESCAC","14-17-0",0.452
+"18","2008","Caitlin Hitchcock","NESCAC","16-15-0",0.516
+"19","2007","Caitlin Hitchcock","NESCAC","22-11-0",0.667
+"20","2006","Caitlin Hitchcock","NESCAC","23-10-0",0.697
+"21","2005","Caitlin Hitchcock","NESCAC","16-15-0",0.516
+"22","2004","Caitlin Hitchcock","NESCAC","12-16-0",0.429
+"23","2003","Caitlin Hitchcock","NESCAC","8-21-1",0.283
+"24","2002","Tami Hyde","NESCAC","7-22-0",0.241
+"25","2001","Tami Hyde","-","7-22-0",0.241
+"26","1900","Fran Vandermeer","-","10-19-0",0.345
+"27","1999","Fran Vandermeer","-","15-20-0",0.429
+"28","1998","Fran Vandermeer","-","19-12-0",0.613
+"29","1997","Fran Vandermeer","-","8-18-0",0.308
+"30","1996","Dick Ellis","-","7-10-0",0.412
+"31","1995","Dick Ellis","-","6-14-0",0.3
+"32","1994","Dick Ellis","-","8-9-0",0.471
+"33","1993","Dick Ellis","-","10-8-0",0.556
+"34","1992","Dick Ellis","-","9-5-0",0.643
+"35","1991","Donald G. Miller","-","8-6-0",0.571
+"36","1990","Donald G. Miller","-","15-0-0",1
+"37","1989","Donald G. Miller","-","10-3-0",0.769
+"38","1988","Donald G. Miller","-","13-4-0",0.765
+"39","1987","Donald G. Miller","-","11-1-0",0.917
+"40","1986","Donald G. Miller","-","7-6-0",0.538
+"41","1985","Donald G. Miller","-","5-8-0",0.385
+"42","1984","Donald G. Miller","-","3-8-0",0.273

@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mount Union","452","2025","Meghan Simons","D-III","OAC",0,0,0,0
-"2","Mount Union","452","2024","Meghan Simons","D-III","OAC",34,10,0,0.773
-"3","Mount Union","452","2023","Meghan Simons","D-III","OAC",38,11,0,0.776
-"4","Mount Union","452","2022","Meghan Simons","D-III","OAC",23,18,1,0.56
-"5","Mount Union","452","2021","Meghan Simons","D-III","OAC",32,7,0,0.821
-"6","Mount Union","452","2020","Meghan Simons","D-III","OAC",11,2,0,0.846
-"7","Mount Union","452","2019","Meghan Simons","D-III","OAC",23,15,0,0.605
-"8","Mount Union","452","2018","Meghan Simons","D-III","OAC",16,22,NA,0.421
-"9","Mount Union","452","2017","Meghan Simons","D-III","OAC",19,23,1,0.453
-"10","Mount Union","452","2016","Meghan Simons","D-III","OAC",23,17,0,0.575
-"11","Mount Union","452","2015","Sandy Douglas","D-III","OAC",13,19,0,0.406
-"12","Mount Union","452","2014","Sandy Douglas","D-III","OAC",14,16,1,0.468
-"13","Mount Union","452","2013","Sandy Douglas","D-III","OAC",25,13,0,0.658
-"14","Mount Union","452","2012","Sandy Douglas","D-III","OAC",21,20,0,0.512
-"15","Mount Union","452","2011","Sandy Douglas","D-III","OAC",20,17,0,0.541
-"16","Mount Union","452","2010","Sandy Douglas","D-III","OAC",25,15,0,0.625
-"17","Mount Union","452","2009","Sandy Douglas","D-III","OAC",28,16,0,0.636
-"18","Mount Union","452","2008","Sandy Douglas","D-III","OAC",38,10,0,0.792
-"19","Mount Union","452","2007","Sandy Douglas","D-III","OAC",26,10,0,0.722
-"20","Mount Union","452","2006","Sandy Douglas","D-III","OAC",29,10,0,0.744
-"21","Mount Union","452","2005","Sandy Douglas","D-III","OAC",30,9,0,0.769
-"22","Mount Union","452","2004","Sandy Douglas","D-III","OAC",25,16,0,0.61
-"23","Mount Union","452","2003","Sandy Douglas","D-III","OAC",19,17,0,0.528
-"24","Mount Union","452","2002","Sandy Douglas","D-III","-",23,15,NA,0.605
-"25","Mount Union","452","2001","Sandy Douglas","D-III","-",18,21,NA,0.462
-"26","Mount Union","452","1900","Sandy Douglas","D-III","-",26,16,NA,0.619
-"27","Mount Union","452","1999","Sandy Douglas","D-III","-",29,15,NA,0.659
-"28","Mount Union","452","1998","Sandy Douglas","D-III","-",18,17,NA,0.514
-"29","Mount Union","452","1997","Sandy Douglas","D-III","-",21,15,NA,0.583
-"30","Mount Union","452","1996","Sandy Douglas","D-III","-",17,15,NA,0.531
-"31","Mount Union","452","1995","Sandy Douglas","D-III","-",24,14,NA,0.632
-"32","Mount Union","452","1994","Sandy Douglas","D-III","-",23,11,NA,0.676
-"33","Mount Union","452","1993","Sandy Douglas","D-III","-",14,16,NA,0.467
-"34","Mount Union","452","1992","Sandy Douglas","D-III","-",14,18,NA,0.438
-"35","Mount Union","452","1991","Sandy Douglas","D-III","-",29,9,NA,0.763
-"36","Mount Union","452","1990","Sandy Douglas","D-III","-",31,12,NA,0.721
-"37","Mount Union","452","1989","Sandy Douglas","D-III","-",20,13,NA,0.606
-"38","Mount Union","452","1988","Sandy Douglas","D-III","-",22,13,NA,0.629
-"39","Mount Union","452","1987","Sandy Douglas","D-III","-",9,11,NA,0.45
-"40","Mount Union","452","1986","Sandy Douglas","D-III","-",20,10,NA,0.667
-"41","Mount Union","452","1985","","D-III","-",NA,NA,NA,NA
-"42","Mount Union","452","1984","","D-III","-",NA,NA,NA,NA
-"43","Mount Union","452","1983","","D-III","-",NA,NA,NA,NA
-"44","Mount Union","452","1982","","D-III","-",NA,NA,NA,NA
-"45","Mount Union","452","1981","","","-",NA,NA,NA,NA
-"46","Mount Union","452","","","","",890,554,3,0.616
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Meghan Simons","OAC","0-0-0",0
+"2","2024","Meghan Simons","OAC","34-10-0",0.773
+"3","2023","Meghan Simons","OAC","38-11-0",0.776
+"4","2022","Meghan Simons","OAC","23-18-1",0.56
+"5","2021","Meghan Simons","OAC","32-7-0",0.821
+"6","2020","Meghan Simons","OAC","11-2-0",0.846
+"7","2019","Meghan Simons","OAC","23-15-0",0.605
+"8","2018","Meghan Simons","OAC","16-22-0",0.421
+"9","2017","Meghan Simons","OAC","19-23-1",0.453
+"10","2016","Meghan Simons","OAC","23-17-0",0.575
+"11","2015","Sandy Douglas","OAC","13-19-0",0.406
+"12","2014","Sandy Douglas","OAC","14-16-1",0.468
+"13","2013","Sandy Douglas","OAC","25-13-0",0.658
+"14","2012","Sandy Douglas","OAC","21-20-0",0.512
+"15","2011","Sandy Douglas","OAC","20-17-0",0.541
+"16","2010","Sandy Douglas","OAC","25-15-0",0.625
+"17","2009","Sandy Douglas","OAC","28-16-0",0.636
+"18","2008","Sandy Douglas","OAC","38-10-0",0.792
+"19","2007","Sandy Douglas","OAC","26-10-0",0.722
+"20","2006","Sandy Douglas","OAC","29-10-0",0.744
+"21","2005","Sandy Douglas","OAC","30-9-0",0.769
+"22","2004","Sandy Douglas","OAC","25-16-0",0.61
+"23","2003","Sandy Douglas","OAC","19-17-0",0.528
+"24","2002","Sandy Douglas","-","23-15-0",0.605
+"25","2001","Sandy Douglas","-","18-21-0",0.462
+"26","1900","Sandy Douglas","-","26-16-0",0.619
+"27","1999","Sandy Douglas","-","29-15-0",0.659
+"28","1998","Sandy Douglas","-","18-17-0",0.514
+"29","1997","Sandy Douglas","-","21-15-0",0.583
+"30","1996","Sandy Douglas","-","17-15-0",0.531
+"31","1995","Sandy Douglas","-","24-14-0",0.632
+"32","1994","Sandy Douglas","-","23-11-0",0.676
+"33","1993","Sandy Douglas","-","14-16-0",0.467
+"34","1992","Sandy Douglas","-","14-18-0",0.438
+"35","1991","Sandy Douglas","-","29-9-0",0.763
+"36","1990","Sandy Douglas","-","31-12-0",0.721
+"37","1989","Sandy Douglas","-","20-13-0",0.606
+"38","1988","Sandy Douglas","-","22-13-0",0.629
+"39","1987","Sandy Douglas","-","9-11-0",0.45
+"40","1986","Sandy Douglas","-","20-10-0",0.667
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

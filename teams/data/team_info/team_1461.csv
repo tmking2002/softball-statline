@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wilmington (OH)","1461","2025","Megan Warren","D-III","OAC",0,0,0,0
-"2","Wilmington (OH)","1461","2024","Megan Warren","D-III","OAC",19,20,1,0.488
-"3","Wilmington (OH)","1461","2023","Beth Floyd","D-III","OAC",15,21,0,0.417
-"4","Wilmington (OH)","1461","2022","Beth Floyd","D-III","OAC",13,19,0,0.406
-"5","Wilmington (OH)","1461","2021","Beth Floyd","D-III","OAC",16,24,0,0.4
-"6","Wilmington (OH)","1461","2020","Beth Floyd","D-III","OAC",7,3,0,0.7
-"7","Wilmington (OH)","1461","2019","Beth Floyd","D-III","OAC",18,14,0,0.563
-"8","Wilmington (OH)","1461","2018","Beth Floyd","D-III","OAC",11,21,NA,0.344
-"9","Wilmington (OH)","1461","2017","Beth Floyd","D-III","OAC",7,29,0,0.194
-"10","Wilmington (OH)","1461","2016","Beth Floyd","D-III","OAC",11,25,0,0.306
-"11","Wilmington (OH)","1461","2015","Beth Floyd","D-III","OAC",7,31,0,0.184
-"12","Wilmington (OH)","1461","2014","Beth Floyd","D-III","OAC",17,20,0,0.459
-"13","Wilmington (OH)","1461","2013","Beth Floyd","D-III","OAC",20,16,0,0.556
-"14","Wilmington (OH)","1461","2012","Beth Floyd","D-III","OAC",16,24,0,0.4
-"15","Wilmington (OH)","1461","2011","Beth Floyd","D-III","OAC",13,21,0,0.382
-"16","Wilmington (OH)","1461","2010","Beth Floyd","D-III","OAC",12,20,0,0.375
-"17","Wilmington (OH)","1461","2009","Beth Floyd","D-III","OAC",7,27,0,0.206
-"18","Wilmington (OH)","1461","2008","Beth Floyd","D-III","OAC",9,31,0,0.225
-"19","Wilmington (OH)","1461","2007","Quyen Tran","D-III","OAC",4,35,0,0.103
-"20","Wilmington (OH)","1461","2006","Quyen Tran","D-III","OAC",6,31,0,0.162
-"21","Wilmington (OH)","1461","2005","","D-III","OAC",2,33,0,0.057
-"22","Wilmington (OH)","1461","2004","","D-III","OAC",13,22,0,0.371
-"23","Wilmington (OH)","1461","2003","","","-",NA,NA,NA,NA
-"24","Wilmington (OH)","1461","2002","","D-III","-",NA,NA,NA,NA
-"25","Wilmington (OH)","1461","2001","","D-III","-",NA,NA,NA,NA
-"26","Wilmington (OH)","1461","1900","Kellie Diehl","D-III","-",13,30,NA,0.302
-"27","Wilmington (OH)","1461","1999","Kellie Diehl","D-III","-",10,30,NA,0.25
-"28","Wilmington (OH)","1461","1998","Kellie Diehl","D-III","-",9,24,NA,0.273
-"29","Wilmington (OH)","1461","1997","","D-III","-",NA,NA,NA,NA
-"30","Wilmington (OH)","1461","1996","","D-III","-",NA,NA,NA,NA
-"31","Wilmington (OH)","1461","1995","","D-III","-",NA,NA,NA,NA
-"32","Wilmington (OH)","1461","1994","","D-III","-",NA,NA,NA,NA
-"33","Wilmington (OH)","1461","1993","","D-III","-",NA,NA,NA,NA
-"34","Wilmington (OH)","1461","1992","","D-III","-",NA,NA,NA,NA
-"35","Wilmington (OH)","1461","1991","","D-III","-",NA,NA,NA,NA
-"36","Wilmington (OH)","1461","1990","","D-III","-",NA,NA,NA,NA
-"37","Wilmington (OH)","1461","1981","","","-",NA,NA,NA,NA
-"38","Wilmington (OH)","1461","","","","",275,571,1,0.325
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Megan Warren","OAC","0-0-0",0
+"2","2024","Megan Warren","OAC","19-20-1",0.488
+"3","2023","Beth Floyd","OAC","15-21-0",0.417
+"4","2022","Beth Floyd","OAC","13-19-0",0.406
+"5","2021","Beth Floyd","OAC","16-24-0",0.4
+"6","2020","Beth Floyd","OAC","7-3-0",0.7
+"7","2019","Beth Floyd","OAC","18-14-0",0.563
+"8","2018","Beth Floyd","OAC","11-21-0",0.344
+"9","2017","Beth Floyd","OAC","7-29-0",0.194
+"10","2016","Beth Floyd","OAC","11-25-0",0.306
+"11","2015","Beth Floyd","OAC","7-31-0",0.184
+"12","2014","Beth Floyd","OAC","17-20-0",0.459
+"13","2013","Beth Floyd","OAC","20-16-0",0.556
+"14","2012","Beth Floyd","OAC","16-24-0",0.4
+"15","2011","Beth Floyd","OAC","13-21-0",0.382
+"16","2010","Beth Floyd","OAC","12-20-0",0.375
+"17","2009","Beth Floyd","OAC","7-27-0",0.206
+"18","2008","Beth Floyd","OAC","9-31-0",0.225
+"19","2007","Quyen Tran","OAC","4-35-0",0.103
+"20","2006","Quyen Tran","OAC","6-31-0",0.162
+"21","2005","","OAC","2-33-0",0.057
+"22","2004","","OAC","13-22-0",0.371
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Kellie Diehl","-","13-30-0",0.302
+"27","1999","Kellie Diehl","-","10-30-0",0.25
+"28","1998","Kellie Diehl","-","9-24-0",0.273
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

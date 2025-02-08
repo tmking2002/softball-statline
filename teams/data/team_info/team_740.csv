@@ -1,7 +1,6 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","VCU","740","2022",NA,"","-",NA,NA,NA,0
-"2","VCU","740","2010",NA,"","-",NA,NA,NA,NA
-"3","VCU","740","1987",NA,"D-I","-",NA,NA,NA,NA
-"4","VCU","740","1986",NA,"D-I","-",NA,NA,NA,NA
-"5","VCU","740","1985",NA,"D-I","-",NA,NA,NA,NA
-"6","VCU","740","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2022",NA,"-","NA-NA-0",0
+"2","2010",NA,"-","NA-NA-0",NA
+"3","1987",NA,"-","NA-NA-0",NA
+"4","1986",NA,"-","NA-NA-0",NA
+"5","1985",NA,"-","NA-NA-0",NA

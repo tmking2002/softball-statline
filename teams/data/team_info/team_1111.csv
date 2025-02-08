@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Greenville","1111","2025","Ivan Estevez","D-III","SLIAC",0,0,0,0
-"2","Greenville","1111","2024","Ivan Estevez","D-III","SLIAC",35,10,0,0.778
-"3","Greenville","1111","2023","Ivan Estevez","D-III","SLIAC",24,17,0,0.585
-"4","Greenville","1111","2022","Angela Sheets","D-III","SLIAC",22,21,0,0.512
-"5","Greenville","1111","2021","Angela Sheets","D-III","SLIAC",9,15,0,0.375
-"6","Greenville","1111","2020","Buddy Foster","D-III","SLIAC",7,4,0,0.636
-"7","Greenville","1111","2019","Buddy Foster","D-III","SLIAC",21,14,0,0.6
-"8","Greenville","1111","2018","Buddy Foster","D-III","SLIAC",21,17,NA,0.553
-"9","Greenville","1111","2017","Buddy Foster","D-III","SLIAC",24,17,0,0.585
-"10","Greenville","1111","2016","Tracy Cromer","D-III","SLIAC",23,23,1,0.5
-"11","Greenville","1111","2015","Tracy Cromer","D-III","SLIAC",24,17,0,0.585
-"12","Greenville","1111","2014","Jamie Thanepohn (13-7)John Barnes (17-7)","D-III","SLIAC",30,14,0,0.682
-"13","Greenville","1111","2013","Tenequa Martin","D-III","SLIAC",13,19,0,0.406
-"14","Greenville","1111","2012","Tenequa Martin","D-III","SLIAC",14,25,0,0.359
-"15","Greenville","1111","2011","Brian Reinhard","D-III","SLIAC",14,23,0,0.378
-"16","Greenville","1111","2010","Brian Reinhard","D-III","SLIAC",18,18,0,0.5
-"17","Greenville","1111","2009","Brian Reinhard","D-III","SLIAC",14,20,0,0.412
-"18","Greenville","1111","2008","Brian Reinhard","D-III","SLIAC",16,16,0,0.5
-"19","Greenville","1111","2007","Brian Reinhard","D-III","SLIAC",14,17,0,0.452
-"20","Greenville","1111","2006","Brian Reinhard","D-III","SLIAC",16,19,0,0.457
-"21","Greenville","1111","2005","Brian Reinhard","D-III","SLIAC",16,26,0,0.381
-"22","Greenville","1111","2004","Brian Reinhard","D-III","SLIAC",5,31,0,0.139
-"23","Greenville","1111","2003","Brian Reinhard","D-III","SLIAC",10,24,0,0.294
-"24","Greenville","1111","2002","Brian Reinhard","D-III","-",7,22,NA,0.241
-"25","Greenville","1111","2001","Annie Comfort","D-III","-",6,28,0,0.176
-"26","Greenville","1111","1900","Annie Comfort","D-III","-",2,26,NA,0.071
-"27","Greenville","1111","1999","Gary Goldsmith","D-III","-",3,22,NA,0.12
-"28","Greenville","1111","1998","","D-III","-",NA,NA,NA,NA
-"29","Greenville","1111","1997","","D-III","-",NA,NA,NA,NA
-"30","Greenville","1111","1996","","D-III","-",NA,NA,NA,NA
-"31","Greenville","1111","1995","","D-III","-",NA,NA,NA,NA
-"32","Greenville","1111","1994","","D-III","-",NA,NA,NA,NA
-"33","Greenville","1111","1993","","D-III","-",NA,NA,NA,NA
-"34","Greenville","1111","1992","","D-III","-",NA,NA,NA,NA
-"35","Greenville","1111","1991","","D-III","-",NA,NA,NA,NA
-"36","Greenville","1111","1990","","D-III","-",NA,NA,NA,NA
-"37","Greenville","1111","","","","",408,505,1,0.447
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ivan Estevez","SLIAC","0-0-0",0
+"2","2024","Ivan Estevez","SLIAC","35-10-0",0.778
+"3","2023","Ivan Estevez","SLIAC","24-17-0",0.585
+"4","2022","Angela Sheets","SLIAC","22-21-0",0.512
+"5","2021","Angela Sheets","SLIAC","9-15-0",0.375
+"6","2020","Buddy Foster","SLIAC","7-4-0",0.636
+"7","2019","Buddy Foster","SLIAC","21-14-0",0.6
+"8","2018","Buddy Foster","SLIAC","21-17-0",0.553
+"9","2017","Buddy Foster","SLIAC","24-17-0",0.585
+"10","2016","Tracy Cromer","SLIAC","23-23-1",0.5
+"11","2015","Tracy Cromer","SLIAC","24-17-0",0.585
+"12","2014","Jamie Thanepohn (13-7)John Barnes (17-7)","SLIAC","30-14-0",0.682
+"13","2013","Tenequa Martin","SLIAC","13-19-0",0.406
+"14","2012","Tenequa Martin","SLIAC","14-25-0",0.359
+"15","2011","Brian Reinhard","SLIAC","14-23-0",0.378
+"16","2010","Brian Reinhard","SLIAC","18-18-0",0.5
+"17","2009","Brian Reinhard","SLIAC","14-20-0",0.412
+"18","2008","Brian Reinhard","SLIAC","16-16-0",0.5
+"19","2007","Brian Reinhard","SLIAC","14-17-0",0.452
+"20","2006","Brian Reinhard","SLIAC","16-19-0",0.457
+"21","2005","Brian Reinhard","SLIAC","16-26-0",0.381
+"22","2004","Brian Reinhard","SLIAC","5-31-0",0.139
+"23","2003","Brian Reinhard","SLIAC","10-24-0",0.294
+"24","2002","Brian Reinhard","-","7-22-0",0.241
+"25","2001","Annie Comfort","-","6-28-0",0.176
+"26","1900","Annie Comfort","-","2-26-0",0.071
+"27","1999","Gary Goldsmith","-","3-22-0",0.12
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

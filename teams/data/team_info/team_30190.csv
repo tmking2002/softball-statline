@@ -1,14 +1,13 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Penn College","30190","2025","Angie Stackhouse","D-III","United East",0,0,0,0
-"2","Penn College","30190","2024","Angie Stackhouse","D-III","United East",30,12,0,0.714
-"3","Penn College","30190","2023","Angie Stackhouse","D-III","United East",31,10,0,0.756
-"4","Penn College","30190","2022","Angie Stackhouse","D-III","United East",29,9,0,0.763
-"5","Penn College","30190","2021","Angie Stackhouse","D-III","United East",18,5,0,0.783
-"6","Penn College","30190","2020","Angie Stackhouse","D-III","United East",5,4,0,0.556
-"7","Penn College","30190","2019","Jackie Klahold","D-III","United East",25,15,0,0.625
-"8","Penn College","30190","2018","Jackie Klahold","D-III","United East",13,20,NA,0.394
-"9","Penn College","30190","2017","Jackie Klahold","D-III","United East",21,13,0,0.618
-"10","Penn College","30190","2016","Jackie Klahold","D-III","United East",16,19,0,0.457
-"11","Penn College","30190","2015","Jackie Klahold","D-III","United East",12,24,0,0.333
-"12","Penn College","30190","2014","","","-",NA,NA,NA,NA
-"13","Penn College","30190","","","","",200,131,0,0.604
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Angie Stackhouse","United East","0-0-0",0
+"2","2024","Angie Stackhouse","United East","30-12-0",0.714
+"3","2023","Angie Stackhouse","United East","31-10-0",0.756
+"4","2022","Angie Stackhouse","United East","29-9-0",0.763
+"5","2021","Angie Stackhouse","United East","18-5-0",0.783
+"6","2020","Angie Stackhouse","United East","5-4-0",0.556
+"7","2019","Jackie Klahold","United East","25-15-0",0.625
+"8","2018","Jackie Klahold","United East","13-20-0",0.394
+"9","2017","Jackie Klahold","United East","21-13-0",0.618
+"10","2016","Jackie Klahold","United East","16-19-0",0.457
+"11","2015","Jackie Klahold","United East","12-24-0",0.333
+"12","2014","","-","NA-NA-0",NA

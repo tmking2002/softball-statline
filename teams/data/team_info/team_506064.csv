@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Mary (KS)","506064","2023","",NA,"-",NA,NA,NA,0
-"2","St. Mary (KS)","506064","2015","",NA,"-",NA,NA,NA,NA
-"3","St. Mary (KS)","506064","2014","",NA,"-",NA,NA,NA,NA
-"4","St. Mary (KS)","506064","2013","",NA,"-",NA,NA,NA,NA
-"5","St. Mary (KS)","506064","2012","",NA,"-",NA,NA,NA,NA
-"6","St. Mary (KS)","506064","2010","",NA,"-",NA,NA,NA,NA
-"7","St. Mary (KS)","506064","2009","",NA,"-",0,1,0,0
-"8","St. Mary (KS)","506064","2007","",NA,"-",NA,NA,NA,NA
-"9","St. Mary (KS)","506064","2006","",NA,"-",NA,NA,NA,NA
-"10","St. Mary (KS)","506064","2005","",NA,"-",NA,NA,NA,NA
-"11","St. Mary (KS)","506064","2004","",NA,"-",NA,NA,NA,NA
-"12","St. Mary (KS)","506064","2003","",NA,"-",NA,NA,NA,NA
-"13","St. Mary (KS)","506064","2002","",NA,"-",NA,NA,NA,NA
-"14","St. Mary (KS)","506064","2001","",NA,"-",NA,NA,NA,NA
-"15","St. Mary (KS)","506064","1900","Susan Anderson",NA,"-",15,19,NA,0.441
-"16","St. Mary (KS)","506064","1999","Susan Anderson",NA,"-",6,21,NA,0.222
-"17","St. Mary (KS)","506064","","",NA,"",21,41,0,0.339
+"","season","head_coach","conference","record","win_perc"
+"1","2023","","-","NA-NA-0",0
+"2","2015","","-","NA-NA-0",NA
+"3","2014","","-","NA-NA-0",NA
+"4","2013","","-","NA-NA-0",NA
+"5","2012","","-","NA-NA-0",NA
+"6","2010","","-","NA-NA-0",NA
+"7","2009","","-","0-1-0",0
+"8","2007","","-","NA-NA-0",NA
+"9","2006","","-","NA-NA-0",NA
+"10","2005","","-","NA-NA-0",NA
+"11","2004","","-","NA-NA-0",NA
+"12","2003","","-","NA-NA-0",NA
+"13","2002","","-","NA-NA-0",NA
+"14","2001","","-","NA-NA-0",NA
+"15","1900","Susan Anderson","-","15-19-0",0.441
+"16","1999","Susan Anderson","-","6-21-0",0.222

@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hardin-Simmons","271","2025","Casey Wilson","D-III","ASC",4,0,0,1
-"2","Hardin-Simmons","271","2024","Casey Wilson","D-III","ASC",26,14,0,0.65
-"3","Hardin-Simmons","271","2023","Chanin Billings","D-III","ASC",26,15,0,0.634
-"4","Hardin-Simmons","271","2022","Chanin Billings","D-III","ASC",29,15,0,0.659
-"5","Hardin-Simmons","271","2021","Chanin Billings","D-III","ASC",16,20,0,0.444
-"6","Hardin-Simmons","271","2020","Chanin Billings","D-III","ASC",8,10,0,0.444
-"7","Hardin-Simmons","271","2019","Chanin Billings","D-III","ASC",20,24,0,0.455
-"8","Hardin-Simmons","271","2018","Chanin Billings","D-III","ASC",1,37,NA,0.026
-"9","Hardin-Simmons","271","2017","Arin Spence-Salas","D-III","ASC",17,22,0,0.436
-"10","Hardin-Simmons","271","2016","Arin Spence-Salas","D-III","ASC",16,21,0,0.432
-"11","Hardin-Simmons","271","2015","Arin Spence-Salas","D-III","ASC",22,16,0,0.579
-"12","Hardin-Simmons","271","2014","Arin Spence-Salas","D-III","ASC",22,19,0,0.537
-"13","Hardin-Simmons","271","2013","Arin Spence-Salas","D-III","ASC",16,25,1,0.393
-"14","Hardin-Simmons","271","2012","Dan Sheppard","D-III","ASC",23,17,0,0.575
-"15","Hardin-Simmons","271","2011","Dan Sheppard","D-III","ASC",24,19,0,0.558
-"16","Hardin-Simmons","271","2010","Rita Jordan","D-III","ASC",24,13,0,0.649
-"17","Hardin-Simmons","271","2009","Rita Jordan","D-III","ASC",31,12,0,0.721
-"18","Hardin-Simmons","271","2008","Rita Jordan","D-III","ASC",16,18,0,0.471
-"19","Hardin-Simmons","271","2007","Rita Jordan","D-III","ASC",29,16,0,0.644
-"20","Hardin-Simmons","271","2006","Rita Jordan","D-III","ASC",30,12,0,0.714
-"21","Hardin-Simmons","271","2005","Rita Jordan","D-III","ASC",32,9,0,0.78
-"22","Hardin-Simmons","271","2004","Rita Jordan","D-III","ASC",10,27,1,0.276
-"23","Hardin-Simmons","271","","","","",442,381,2,0.537
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Casey Wilson","ASC","4-0-0",1
+"2","2024","Casey Wilson","ASC","26-14-0",0.65
+"3","2023","Chanin Billings","ASC","26-15-0",0.634
+"4","2022","Chanin Billings","ASC","29-15-0",0.659
+"5","2021","Chanin Billings","ASC","16-20-0",0.444
+"6","2020","Chanin Billings","ASC","8-10-0",0.444
+"7","2019","Chanin Billings","ASC","20-24-0",0.455
+"8","2018","Chanin Billings","ASC","1-37-0",0.026
+"9","2017","Arin Spence-Salas","ASC","17-22-0",0.436
+"10","2016","Arin Spence-Salas","ASC","16-21-0",0.432
+"11","2015","Arin Spence-Salas","ASC","22-16-0",0.579
+"12","2014","Arin Spence-Salas","ASC","22-19-0",0.537
+"13","2013","Arin Spence-Salas","ASC","16-25-1",0.393
+"14","2012","Dan Sheppard","ASC","23-17-0",0.575
+"15","2011","Dan Sheppard","ASC","24-19-0",0.558
+"16","2010","Rita Jordan","ASC","24-13-0",0.649
+"17","2009","Rita Jordan","ASC","31-12-0",0.721
+"18","2008","Rita Jordan","ASC","16-18-0",0.471
+"19","2007","Rita Jordan","ASC","29-16-0",0.644
+"20","2006","Rita Jordan","ASC","30-12-0",0.714
+"21","2005","Rita Jordan","ASC","32-9-0",0.78
+"22","2004","Rita Jordan","ASC","10-27-1",0.276

@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Midwestern St.","1222","2025","Brittanie Talley","D-II","Lone Star",1,4,0,0.2
-"2","Midwestern St.","1222","2024","Brittanie Talley","D-II","Lone Star",15,36,0,0.294
-"3","Midwestern St.","1222","2023","Brittanie Talley","D-II","Lone Star",12,39,0,0.235
-"4","Midwestern St.","1222","2022","Brittanie Talley","D-II","Lone Star",8,37,0,0.178
-"5","Midwestern St.","1222","2021","Mark Ryal","D-II","Lone Star",15,27,0,0.357
-"6","Midwestern St.","1222","2020","Mark Ryal","D-II","Lone Star",3,19,0,0.136
-"7","Midwestern St.","1222","2019","Mark Ryal","D-II","Lone Star",22,19,0,0.537
-"8","Midwestern St.","1222","2018","Mark Ryal","D-II","Lone Star",15,23,NA,0.395
-"9","Midwestern St.","1222","2017","Mark Ryal","D-II","Lone Star",19,27,0,0.413
-"10","Midwestern St.","1222","2016","Brady Tigert","D-II","Lone Star",30,28,0,0.517
-"11","Midwestern St.","1222","2015","Brady Tigert","D-II","Lone Star",24,24,0,0.5
-"12","Midwestern St.","1222","2014","Brady Tigert","D-II","Lone Star",31,24,0,0.564
-"13","Midwestern St.","1222","2013","Brady Tigert","D-II","Lone Star",43,17,0,0.717
-"14","Midwestern St.","1222","2012","Brady Tigert","D-II","Lone Star",26,25,0,0.51
-"15","Midwestern St.","1222","2011","Brady Tigert","D-II","Lone Star",54,14,0,0.794
-"16","Midwestern St.","1222","2010","Brady Tigert","D-II","Lone Star",54,10,0,0.844
-"17","Midwestern St.","1222","2009","Brady Tigert","D-II","Lone Star",31,17,0,0.646
-"18","Midwestern St.","1222","2008","Brady Tigert","D-II","Lone Star",36,29,0,0.554
-"19","Midwestern St.","1222","2007","Brady Tigert","D-II","Lone Star",44,16,0,0.733
-"20","Midwestern St.","1222","2006","Brady Tigert","D-II","Lone Star",44,15,0,0.746
-"21","Midwestern St.","1222","2005","Brady Tigert","D-II","Lone Star",38,21,0,0.644
-"22","Midwestern St.","1222","2004","Brady Tigert","D-II","Lone Star",31,16,0,0.66
-"23","Midwestern St.","1222","","","","",596,487,0,0.55
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brittanie Talley","Lone Star","1-4-0",0.2
+"2","2024","Brittanie Talley","Lone Star","15-36-0",0.294
+"3","2023","Brittanie Talley","Lone Star","12-39-0",0.235
+"4","2022","Brittanie Talley","Lone Star","8-37-0",0.178
+"5","2021","Mark Ryal","Lone Star","15-27-0",0.357
+"6","2020","Mark Ryal","Lone Star","3-19-0",0.136
+"7","2019","Mark Ryal","Lone Star","22-19-0",0.537
+"8","2018","Mark Ryal","Lone Star","15-23-0",0.395
+"9","2017","Mark Ryal","Lone Star","19-27-0",0.413
+"10","2016","Brady Tigert","Lone Star","30-28-0",0.517
+"11","2015","Brady Tigert","Lone Star","24-24-0",0.5
+"12","2014","Brady Tigert","Lone Star","31-24-0",0.564
+"13","2013","Brady Tigert","Lone Star","43-17-0",0.717
+"14","2012","Brady Tigert","Lone Star","26-25-0",0.51
+"15","2011","Brady Tigert","Lone Star","54-14-0",0.794
+"16","2010","Brady Tigert","Lone Star","54-10-0",0.844
+"17","2009","Brady Tigert","Lone Star","31-17-0",0.646
+"18","2008","Brady Tigert","Lone Star","36-29-0",0.554
+"19","2007","Brady Tigert","Lone Star","44-16-0",0.733
+"20","2006","Brady Tigert","Lone Star","44-15-0",0.746
+"21","2005","Brady Tigert","Lone Star","38-21-0",0.644
+"22","2004","Brady Tigert","Lone Star","31-16-0",0.66

@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Johnson (TN)","502420","2025",NA,NA,"-",NA,NA,NA,0
-"2","Johnson (TN)","502420","2024",NA,NA,"-",NA,NA,NA,0
-"3","Johnson (TN)","502420","2023",NA,NA,"-",NA,NA,NA,0
-"4","Johnson (TN)","502420","2022",NA,NA,"-",NA,NA,NA,0
-"5","Johnson (TN)","502420","2021",NA,NA,"-",NA,NA,NA,0
-"6","Johnson (TN)","502420","2020",NA,NA,"-",NA,NA,NA,0
-"7","Johnson (TN)","502420","2019",NA,NA,"-",NA,NA,NA,0
-"8","Johnson (TN)","502420","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2021",NA,"-","NA-NA-0",0
+"6","2020",NA,"-","NA-NA-0",0
+"7","2019",NA,"-","NA-NA-0",0

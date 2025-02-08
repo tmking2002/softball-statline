@@ -1,15 +1,14 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Penn St.-Schuylkill","506302","2025",NA,NA,"-",NA,NA,NA,0
-"2","Penn St.-Schuylkill","506302","2024",NA,NA,"-",NA,NA,NA,0
-"3","Penn St.-Schuylkill","506302","2023",NA,NA,"-",NA,NA,NA,0
-"4","Penn St.-Schuylkill","506302","2022",NA,NA,"-",NA,NA,NA,0
-"5","Penn St.-Schuylkill","506302","2020",NA,NA,"-",NA,NA,NA,0
-"6","Penn St.-Schuylkill","506302","2019",NA,NA,"-",NA,NA,NA,0
-"7","Penn St.-Schuylkill","506302","2018",NA,NA,"-",NA,NA,NA,0
-"8","Penn St.-Schuylkill","506302","2017",NA,NA,"-",NA,NA,NA,NA
-"9","Penn St.-Schuylkill","506302","2016",NA,NA,"-",NA,NA,NA,NA
-"10","Penn St.-Schuylkill","506302","2015",NA,NA,"-",NA,NA,NA,NA
-"11","Penn St.-Schuylkill","506302","2013",NA,NA,"-",NA,NA,NA,NA
-"12","Penn St.-Schuylkill","506302","2012",NA,NA,"-",NA,NA,NA,NA
-"13","Penn St.-Schuylkill","506302","2009",NA,NA,"-",NA,NA,NA,NA
-"14","Penn St.-Schuylkill","506302","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2018",NA,"-","NA-NA-0",0
+"8","2017",NA,"-","NA-NA-0",NA
+"9","2016",NA,"-","NA-NA-0",NA
+"10","2015",NA,"-","NA-NA-0",NA
+"11","2013",NA,"-","NA-NA-0",NA
+"12","2012",NA,"-","NA-NA-0",NA
+"13","2009",NA,"-","NA-NA-0",NA

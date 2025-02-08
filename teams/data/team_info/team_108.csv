@@ -1,49 +1,48 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UC Davis","108","2025","Erin Thorpe","D-I","Big West",1,0,0,1
-"2","UC Davis","108","2024","Erin Thorpe","D-I","Big West",21,29,0,0.42
-"3","UC Davis","108","2023","Erin Thorpe","D-I","Big West",29,22,0,0.569
-"4","UC Davis","108","2022","Erin Thorpe","D-I","Big West",23,29,0,0.442
-"5","UC Davis","108","2021","Erin Thorpe","D-I","Big West",19,24,0,0.442
-"6","UC Davis","108","2020","Erin Thorpe","D-I","Big West",16,12,0,0.571
-"7","UC Davis","108","2019","Erin Thorpe","D-I","Big West",39,14,0,0.736
-"8","UC Davis","108","2018","Erin Thorpe","D-I","Big West",27,24,NA,0.529
-"9","UC Davis","108","2017","Erin Thorpe","D-I","Big West",22,32,0,0.407
-"10","UC Davis","108","2016","Erin Thorpe","D-I","Big West",15,35,0,0.3
-"11","UC Davis","108","2015","Erin Thorpe","D-I","Big West",18,31,0,0.367
-"12","UC Davis","108","2014","Karen Yoder","D-I","Big West",21,33,0,0.389
-"13","UC Davis","108","2013","Karen Yoder","D-I","Big West",25,27,0,0.481
-"14","UC Davis","108","2012","Karen Yoder","D-I","Big West",24,28,0,0.462
-"15","UC Davis","108","2011","Karen Yoder","D-I","Big West",22,28,0,0.44
-"16","UC Davis","108","2010","Karen Yoder","D-I","Big West",26,29,0,0.473
-"17","UC Davis","108","2009","Karen Yoder","D-I","Big West",22,32,0,0.407
-"18","UC Davis","108","2008","Karen Yoder","D-I","Big West",24,36,0,0.4
-"19","UC Davis","108","2007","Karen Yoder","","Big West",31,27,1,0.534
-"20","UC Davis","108","2006","Karen Yoder","","-",15,39,0,0.278
-"21","UC Davis","108","2005","Karen Yoder","","-",7,47,0,0.13
-"22","UC Davis","108","2004","Kathy DeYoung","D-II","CCAA",26,26,0,0.5
-"23","UC Davis","108","2003","Kathy DeYoung","D-II","CCAA",53,15,0,0.779
-"24","UC Davis","108","2002","Kathy DeYoung","D-II","CCAA",41,13,0,0.759
-"25","UC Davis","108","2001","Kathy DeYoung","D-II","-",44,14,NA,0.759
-"26","UC Davis","108","1900","Kathy DeYoung","D-II","-",40,17,NA,0.702
-"27","UC Davis","108","1999","Kathy DeYoung","D-II","-",41,12,NA,0.774
-"28","UC Davis","108","1998","Kathy DeYoung","D-II","-",30,13,NA,0.698
-"29","UC Davis","108","1997","Kathy DeYoung","D-II","-",52,7,1,0.875
-"30","UC Davis","108","1996","Kathy DeYoung","D-II","-",51,12,NA,0.81
-"31","UC Davis","108","1995","Kathy DeYoung","D-II","-",43,12,NA,0.782
-"32","UC Davis","108","1994","Kathy DeYoung","D-II","-",33,11,NA,0.75
-"33","UC Davis","108","1993","Kathy DeYoung","D-II","-",36,13,NA,0.735
-"34","UC Davis","108","1992","Kathy DeYoung","D-II","-",30,13,NA,0.698
-"35","UC Davis","108","1991","Kathy DeYoung","D-II","-",26,17,NA,0.605
-"36","UC Davis","108","1990","Kathy DeYoung","D-II","-",33,15,NA,0.688
-"37","UC Davis","108","1989","Kathy DeYoung","D-II","-",24,28,NA,0.462
-"38","UC Davis","108","1988","Kathy DeYoung","D-II","-",33,23,NA,0.589
-"39","UC Davis","108","1987","Kathy DeYoung","D-II","-",34,14,1,0.704
-"40","UC Davis","108","1986","Kathy DeYoung","D-II","-",30,12,NA,0.714
-"41","UC Davis","108","1985","Kathy DeYoung","D-II","-",23,13,NA,0.639
-"42","UC Davis","108","1984","Kathy DeYoung","D-II","-",19,17,NA,0.528
-"43","UC Davis","108","1983","Kathy DeYoung","D-II","-",2,19,NA,0.095
-"44","UC Davis","108","1982","Kathy DeYoung","D-II","-",9,15,NA,0.375
-"45","UC Davis","108","1981","Kathy DeYoung","D-II","-",7,17,NA,0.292
-"46","UC Davis","108","1980","Kathy DeYoung","D-II","-",9,16,NA,0.36
-"47","UC Davis","108","1979","Kathy DeYoung","D-II","-",8,16,NA,0.333
-"48","UC Davis","108","","","","",1224,978,3,0.556
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Erin Thorpe","Big West","1-0-0",1
+"2","2024","Erin Thorpe","Big West","21-29-0",0.42
+"3","2023","Erin Thorpe","Big West","29-22-0",0.569
+"4","2022","Erin Thorpe","Big West","23-29-0",0.442
+"5","2021","Erin Thorpe","Big West","19-24-0",0.442
+"6","2020","Erin Thorpe","Big West","16-12-0",0.571
+"7","2019","Erin Thorpe","Big West","39-14-0",0.736
+"8","2018","Erin Thorpe","Big West","27-24-0",0.529
+"9","2017","Erin Thorpe","Big West","22-32-0",0.407
+"10","2016","Erin Thorpe","Big West","15-35-0",0.3
+"11","2015","Erin Thorpe","Big West","18-31-0",0.367
+"12","2014","Karen Yoder","Big West","21-33-0",0.389
+"13","2013","Karen Yoder","Big West","25-27-0",0.481
+"14","2012","Karen Yoder","Big West","24-28-0",0.462
+"15","2011","Karen Yoder","Big West","22-28-0",0.44
+"16","2010","Karen Yoder","Big West","26-29-0",0.473
+"17","2009","Karen Yoder","Big West","22-32-0",0.407
+"18","2008","Karen Yoder","Big West","24-36-0",0.4
+"19","2007","Karen Yoder","Big West","31-27-1",0.534
+"20","2006","Karen Yoder","-","15-39-0",0.278
+"21","2005","Karen Yoder","-","7-47-0",0.13
+"22","2004","Kathy DeYoung","CCAA","26-26-0",0.5
+"23","2003","Kathy DeYoung","CCAA","53-15-0",0.779
+"24","2002","Kathy DeYoung","CCAA","41-13-0",0.759
+"25","2001","Kathy DeYoung","-","44-14-0",0.759
+"26","1900","Kathy DeYoung","-","40-17-0",0.702
+"27","1999","Kathy DeYoung","-","41-12-0",0.774
+"28","1998","Kathy DeYoung","-","30-13-0",0.698
+"29","1997","Kathy DeYoung","-","52-7-1",0.875
+"30","1996","Kathy DeYoung","-","51-12-0",0.81
+"31","1995","Kathy DeYoung","-","43-12-0",0.782
+"32","1994","Kathy DeYoung","-","33-11-0",0.75
+"33","1993","Kathy DeYoung","-","36-13-0",0.735
+"34","1992","Kathy DeYoung","-","30-13-0",0.698
+"35","1991","Kathy DeYoung","-","26-17-0",0.605
+"36","1990","Kathy DeYoung","-","33-15-0",0.688
+"37","1989","Kathy DeYoung","-","24-28-0",0.462
+"38","1988","Kathy DeYoung","-","33-23-0",0.589
+"39","1987","Kathy DeYoung","-","34-14-1",0.704
+"40","1986","Kathy DeYoung","-","30-12-0",0.714
+"41","1985","Kathy DeYoung","-","23-13-0",0.639
+"42","1984","Kathy DeYoung","-","19-17-0",0.528
+"43","1983","Kathy DeYoung","-","2-19-0",0.095
+"44","1982","Kathy DeYoung","-","9-15-0",0.375
+"45","1981","Kathy DeYoung","-","7-17-0",0.292
+"46","1980","Kathy DeYoung","-","9-16-0",0.36
+"47","1979","Kathy DeYoung","-","8-16-0",0.333

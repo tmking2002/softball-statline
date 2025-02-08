@@ -1,6 +1,5 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Southwestern (KS)","506063","2020",NA,NA,"-",NA,NA,NA,0
-"2","Southwestern (KS)","506063","2019",NA,NA,"-",NA,NA,NA,0
-"3","Southwestern (KS)","506063","2017",NA,NA,"-",NA,NA,NA,NA
-"4","Southwestern (KS)","506063","2005",NA,NA,"-",NA,NA,NA,NA
-"5","Southwestern (KS)","506063","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2020",NA,"-","NA-NA-0",0
+"2","2019",NA,"-","NA-NA-0",0
+"3","2017",NA,"-","NA-NA-0",NA
+"4","2005",NA,"-","NA-NA-0",NA

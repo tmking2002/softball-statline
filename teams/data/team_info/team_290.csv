@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Howard","290","2025","Tori Tyson","D-I","MEAC",2,0,0,1
-"2","Howard","290","2024","Tori Tyson","D-I","MEAC",32,13,0,0.711
-"3","Howard","290","2023","Tori Tyson","D-I","MEAC",20,26,0,0.435
-"4","Howard","290","2022","Tori Tyson","D-I","MEAC",31,24,0,0.564
-"5","Howard","290","2021","Tori Tyson","D-I","MEAC",17,13,0,0.567
-"6","Howard","290","2020","Tori Tyson","D-I","MEAC",3,21,0,0.125
-"7","Howard","290","2019","Tori Tyson","D-I","MEAC",19,30,0,0.388
-"8","Howard","290","2018","Lauren McCoy","D-I","MEAC",8,37,NA,0.178
-"9","Howard","290","2017","Lauren McCoy","D-I","MEAC",4,34,0,0.105
-"10","Howard","290","2016","Lauren McCoy","D-I","MEAC",10,32,0,0.238
-"11","Howard","290","2015","Lauren McCoy","D-I","MEAC",14,29,0,0.326
-"12","Howard","290","2014","Lauren McCoy","D-I","MEAC",4,37,0,0.098
-"13","Howard","290","2013","Lauren McCoy","D-I","MEAC",3,35,0,0.079
-"14","Howard","290","2012","Lauren McCoy","D-I","MEAC",13,37,0,0.26
-"15","Howard","290","2011","Lauren McCoy","D-I","MEAC",20,26,0,0.435
-"16","Howard","290","2010","Lauren McCoy","D-I","MEAC",26,22,0,0.542
-"17","Howard","290","2009","Tonja Braxton","D-I","MEAC",21,28,0,0.429
-"18","Howard","290","2008","Tonja Braxton","D-I","MEAC",23,17,0,0.575
-"19","Howard","290","2007","Tonja Braxton","D-I","MEAC",35,21,0,0.625
-"20","Howard","290","2006","Tonja Braxton","D-I","MEAC",26,27,0,0.491
-"21","Howard","290","2005","Tonja Braxton","D-I","MEAC",22,24,0,0.478
-"22","Howard","290","2004","Tonja Braxton","D-I","MEAC",12,28,0,0.3
-"23","Howard","290","2003","Tonja Braxton","D-I","MEAC",10,26,0,0.278
-"24","Howard","290","2002","","D-I","MEAC",3,32,0,0.086
-"25","Howard","290","","","","",378,619,0,0.379
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tori Tyson","MEAC","2-0-0",1
+"2","2024","Tori Tyson","MEAC","32-13-0",0.711
+"3","2023","Tori Tyson","MEAC","20-26-0",0.435
+"4","2022","Tori Tyson","MEAC","31-24-0",0.564
+"5","2021","Tori Tyson","MEAC","17-13-0",0.567
+"6","2020","Tori Tyson","MEAC","3-21-0",0.125
+"7","2019","Tori Tyson","MEAC","19-30-0",0.388
+"8","2018","Lauren McCoy","MEAC","8-37-0",0.178
+"9","2017","Lauren McCoy","MEAC","4-34-0",0.105
+"10","2016","Lauren McCoy","MEAC","10-32-0",0.238
+"11","2015","Lauren McCoy","MEAC","14-29-0",0.326
+"12","2014","Lauren McCoy","MEAC","4-37-0",0.098
+"13","2013","Lauren McCoy","MEAC","3-35-0",0.079
+"14","2012","Lauren McCoy","MEAC","13-37-0",0.26
+"15","2011","Lauren McCoy","MEAC","20-26-0",0.435
+"16","2010","Lauren McCoy","MEAC","26-22-0",0.542
+"17","2009","Tonja Braxton","MEAC","21-28-0",0.429
+"18","2008","Tonja Braxton","MEAC","23-17-0",0.575
+"19","2007","Tonja Braxton","MEAC","35-21-0",0.625
+"20","2006","Tonja Braxton","MEAC","26-27-0",0.491
+"21","2005","Tonja Braxton","MEAC","22-24-0",0.478
+"22","2004","Tonja Braxton","MEAC","12-28-0",0.3
+"23","2003","Tonja Braxton","MEAC","10-26-0",0.278
+"24","2002","","MEAC","3-32-0",0.086

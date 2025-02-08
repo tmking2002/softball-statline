@@ -1,32 +1,31 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Schreiner","1355","2025","Meghan Christensen","D-III","SCAC",0,6,0,0
-"2","Schreiner","1355","2024","Melissa Hansen","D-III","SCAC",4,33,0,0.108
-"3","Schreiner","1355","2023","Melissa Hansen","D-III","SCAC",16,24,0,0.4
-"4","Schreiner","1355","2022","Melissa Hansen","D-III","SCAC",16,27,0,0.372
-"5","Schreiner","1355","2021","Alexis Lynn","D-III","SCAC",20,21,0,0.488
-"6","Schreiner","1355","2020","Alexis Lynn","D-III","SCAC",8,10,0,0.444
-"7","Schreiner","1355","2019","Amy Meyer","D-III","SCAC",17,26,0,0.395
-"8","Schreiner","1355","2018","Amy Meyer","D-III","SCAC",23,13,1,0.635
-"9","Schreiner","1355","2017","Amy Meyer","D-III","SCAC",22,21,0,0.512
-"10","Schreiner","1355","2016","Amy Meyer","D-III","SCAC",9,31,0,0.225
-"11","Schreiner","1355","2015","Amy Meyer","D-III","SCAC",10,31,0,0.244
-"12","Schreiner","1355","2014","Jessica Peterka","D-III","SCAC",17,24,0,0.415
-"13","Schreiner","1355","2013","Jessica Peterka","D-III","ASC",3,37,0,0.075
-"14","Schreiner","1355","2012","Don Green","D-III","ASC",14,24,0,0.368
-"15","Schreiner","1355","2011","Don Green","D-III","ASC",13,25,0,0.342
-"16","Schreiner","1355","2010","Don Green","D-III","ASC",17,20,0,0.459
-"17","Schreiner","1355","2009","Don Green","D-III","ASC",26,15,0,0.634
-"18","Schreiner","1355","2008","Don Green","D-III","ASC",16,23,0,0.41
-"19","Schreiner","1355","2007","Don Green","D-III","ASC",9,24,0,0.273
-"20","Schreiner","1355","2006","Rhonda Ruesch","D-III","ASC",8,30,0,0.211
-"21","Schreiner","1355","2005","Rhonda Ruesch","D-III","ASC",6,30,0,0.167
-"22","Schreiner","1355","2004","Rhonda Ruesch","D-III","ASC",9,17,0,0.346
-"23","Schreiner","1355","2003","Rhonda Ruesch","","-",NA,NA,NA,NA
-"24","Schreiner","1355","2002","Rhonda Ruesch","D-II","-",NA,NA,NA,NA
-"25","Schreiner","1355","2001","","D-II","-",NA,NA,NA,NA
-"26","Schreiner","1355","1900","","D-II","-",NA,NA,NA,NA
-"27","Schreiner","1355","1999","","D-II","-",NA,NA,NA,NA
-"28","Schreiner","1355","1998","Kathleen Rodriguez","D-II","-",14,24,NA,0.368
-"29","Schreiner","1355","1997","Kathleen Rodriguez","D-II","-",32,15,NA,0.681
-"30","Schreiner","1355","1996","Kathleen Rodriguez","D-II","-",17,30,NA,0.362
-"31","Schreiner","1355","","","","",346,581,1,0.373
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Meghan Christensen","SCAC","0-6-0",0
+"2","2024","Melissa Hansen","SCAC","4-33-0",0.108
+"3","2023","Melissa Hansen","SCAC","16-24-0",0.4
+"4","2022","Melissa Hansen","SCAC","16-27-0",0.372
+"5","2021","Alexis Lynn","SCAC","20-21-0",0.488
+"6","2020","Alexis Lynn","SCAC","8-10-0",0.444
+"7","2019","Amy Meyer","SCAC","17-26-0",0.395
+"8","2018","Amy Meyer","SCAC","23-13-1",0.635
+"9","2017","Amy Meyer","SCAC","22-21-0",0.512
+"10","2016","Amy Meyer","SCAC","9-31-0",0.225
+"11","2015","Amy Meyer","SCAC","10-31-0",0.244
+"12","2014","Jessica Peterka","SCAC","17-24-0",0.415
+"13","2013","Jessica Peterka","ASC","3-37-0",0.075
+"14","2012","Don Green","ASC","14-24-0",0.368
+"15","2011","Don Green","ASC","13-25-0",0.342
+"16","2010","Don Green","ASC","17-20-0",0.459
+"17","2009","Don Green","ASC","26-15-0",0.634
+"18","2008","Don Green","ASC","16-23-0",0.41
+"19","2007","Don Green","ASC","9-24-0",0.273
+"20","2006","Rhonda Ruesch","ASC","8-30-0",0.211
+"21","2005","Rhonda Ruesch","ASC","6-30-0",0.167
+"22","2004","Rhonda Ruesch","ASC","9-17-0",0.346
+"23","2003","Rhonda Ruesch","-","NA-NA-0",NA
+"24","2002","Rhonda Ruesch","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Kathleen Rodriguez","-","14-24-0",0.368
+"29","1997","Kathleen Rodriguez","-","32-15-0",0.681
+"30","1996","Kathleen Rodriguez","-","17-30-0",0.362

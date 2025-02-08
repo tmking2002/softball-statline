@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Tulsa","719","2025","Crissy Strimple","D-I","The American",1,0,0,1
-"2","Tulsa","719","2024","Crissy Strimple","D-I","The American",30,23,0,0.566
-"3","Tulsa","719","2023","Crissy Strimple","D-I","The American",25,28,0,0.472
-"4","Tulsa","719","2022","Crissy Strimple","D-I","The American",18,30,1,0.378
-"5","Tulsa","719","2021","Crissy Strimple","D-I","The American",25,16,0,0.61
-"6","Tulsa","719","2020","Crissy Strimple","D-I","The American",13,11,0,0.542
-"7","Tulsa","719","2019","John Bargfeldt","D-I","The American",37,20,0,0.649
-"8","Tulsa","719","2018","John Bargfeldt","D-I","The American",34,25,0,0.576
-"9","Tulsa","719","2017","John Bargfeldt","D-I","The American",41,17,0,0.707
-"10","Tulsa","719","2016","John Bargfeldt","D-I","The American",35,21,0,0.625
-"11","Tulsa","719","2015","John Bargfeldt","D-I","The American",36,18,0,0.667
-"12","Tulsa","719","2014","John Bargfeldt","D-I","CUSA",53,9,0,0.855
-"13","Tulsa","719","2013","John Bargfeldt","D-I","CUSA",42,19,2,0.683
-"14","Tulsa","719","2012","John Bargfeldt","D-I","CUSA",42,14,0,0.75
-"15","Tulsa","719","2011","John Bargfeldt","D-I","CUSA",46,15,0,0.754
-"16","Tulsa","719","2010","John Bargfeldt","D-I","CUSA",31,21,0,0.596
-"17","Tulsa","719","2009","John Bargfeldt","D-I","CUSA",40,17,0,0.702
-"18","Tulsa","719","2008","John Bargfeldt","D-I","CUSA",34,25,0,0.576
-"19","Tulsa","719","2007","John Bargfeldt","D-I","CUSA",30,28,0,0.517
-"20","Tulsa","719","2006","John Bargfeldt","D-I","CUSA",34,24,0,0.586
-"21","Tulsa","719","2005","Christy Connoyer","D-I","WAC",31,30,0,0.508
-"22","Tulsa","719","2004","Jamie Pinkerton","D-I","WAC",45,18,0,0.714
-"23","Tulsa","719","2003","Jamie Pinkerton","D-I","WAC",34,29,0,0.54
-"24","Tulsa","719","2002","Jamie Pinkerton","D-I","WAC",48,16,0,0.75
-"25","Tulsa","719","2001","Jamie Pinkerton","D-I","WAC",13,42,0,0.236
-"26","Tulsa","719","1900","Lori Castellano","D-I","WAC",20,32,0,0.385
-"27","Tulsa","719","1999","Lori Castellano","D-I","WAC",19,39,0,0.328
-"28","Tulsa","719","1998","Lori Castellano","D-I","-",20,36,NA,0.357
-"29","Tulsa","719","1997","Pattie Holthaus","D-I","WAC",17,40,0,0.298
-"30","Tulsa","719","1996","Pattie Holthaus","D-I","-",24,33,NA,0.421
-"31","Tulsa","719","1995","Pattie Holthaus","D-I","-",10,35,NA,0.222
-"32","Tulsa","719","1994","Pattie Holthaus","D-I","-",16,41,NA,0.281
-"33","Tulsa","719","1993","Pattie Holthaus","D-I","-",2,43,NA,0.044
-"34","Tulsa","719","1992","","D-I","-",NA,NA,NA,NA
-"35","Tulsa","719","1991","","D-I","-",NA,NA,NA,NA
-"36","Tulsa","719","1990","","D-I","-",NA,NA,NA,NA
-"37","Tulsa","719","1989","","D-I","-",NA,NA,NA,NA
-"38","Tulsa","719","1988","","D-I","-",NA,NA,NA,NA
-"39","Tulsa","719","","","","",946,815,3,0.537
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Crissy Strimple","The American","1-0-0",1
+"2","2024","Crissy Strimple","The American","30-23-0",0.566
+"3","2023","Crissy Strimple","The American","25-28-0",0.472
+"4","2022","Crissy Strimple","The American","18-30-1",0.378
+"5","2021","Crissy Strimple","The American","25-16-0",0.61
+"6","2020","Crissy Strimple","The American","13-11-0",0.542
+"7","2019","John Bargfeldt","The American","37-20-0",0.649
+"8","2018","John Bargfeldt","The American","34-25-0",0.576
+"9","2017","John Bargfeldt","The American","41-17-0",0.707
+"10","2016","John Bargfeldt","The American","35-21-0",0.625
+"11","2015","John Bargfeldt","The American","36-18-0",0.667
+"12","2014","John Bargfeldt","CUSA","53-9-0",0.855
+"13","2013","John Bargfeldt","CUSA","42-19-2",0.683
+"14","2012","John Bargfeldt","CUSA","42-14-0",0.75
+"15","2011","John Bargfeldt","CUSA","46-15-0",0.754
+"16","2010","John Bargfeldt","CUSA","31-21-0",0.596
+"17","2009","John Bargfeldt","CUSA","40-17-0",0.702
+"18","2008","John Bargfeldt","CUSA","34-25-0",0.576
+"19","2007","John Bargfeldt","CUSA","30-28-0",0.517
+"20","2006","John Bargfeldt","CUSA","34-24-0",0.586
+"21","2005","Christy Connoyer","WAC","31-30-0",0.508
+"22","2004","Jamie Pinkerton","WAC","45-18-0",0.714
+"23","2003","Jamie Pinkerton","WAC","34-29-0",0.54
+"24","2002","Jamie Pinkerton","WAC","48-16-0",0.75
+"25","2001","Jamie Pinkerton","WAC","13-42-0",0.236
+"26","1900","Lori Castellano","WAC","20-32-0",0.385
+"27","1999","Lori Castellano","WAC","19-39-0",0.328
+"28","1998","Lori Castellano","-","20-36-0",0.357
+"29","1997","Pattie Holthaus","WAC","17-40-0",0.298
+"30","1996","Pattie Holthaus","-","24-33-0",0.421
+"31","1995","Pattie Holthaus","-","10-35-0",0.222
+"32","1994","Pattie Holthaus","-","16-41-0",0.281
+"33","1993","Pattie Holthaus","-","2-43-0",0.044
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA

@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rutgers-Camden","588","2025","Meredith McCarthy","D-III","NJAC",0,0,0,0
-"2","Rutgers-Camden","588","2024","Meredith McCarthy","D-III","NJAC",17,25,0,0.405
-"3","Rutgers-Camden","588","2023","Meredith McCarthy","D-III","NJAC",10,25,0,0.286
-"4","Rutgers-Camden","588","2022","Meredith McCarthy","D-III","NJAC",8,19,0,0.296
-"5","Rutgers-Camden","588","2021","Meredith McCarthy","D-III","NJAC",9,14,0,0.391
-"6","Rutgers-Camden","588","2020","Meredith McCarthy","D-III","NJAC",3,1,0,0.75
-"7","Rutgers-Camden","588","2019","Meredith McCarthy","D-III","NJAC",10,22,0,0.313
-"8","Rutgers-Camden","588","2018","Meredith McCarthy","D-III","NJAC",10,21,NA,0.323
-"9","Rutgers-Camden","588","2017","MIchelle Schlichtig","D-III","NJAC",13,23,0,0.361
-"10","Rutgers-Camden","588","2016","MIchelle Schlichtig","D-III","NJAC",21,19,0,0.525
-"11","Rutgers-Camden","588","2015","MIchelle Schlichtig","D-III","NJAC",20,14,1,0.586
-"12","Rutgers-Camden","588","2014","Brian Wolverton","D-III","NJAC",18,16,1,0.529
-"13","Rutgers-Camden","588","2013","Brian Wolverton","D-III","NJAC",21,19,0,0.525
-"14","Rutgers-Camden","588","2012","Brian Wolverton","D-III","NJAC",17,17,0,0.5
-"15","Rutgers-Camden","588","2011","Brian Wolverton","D-III","NJAC",16,18,0,0.471
-"16","Rutgers-Camden","588","2010","Brian Wolverton","D-III","NJAC",22,16,0,0.579
-"17","Rutgers-Camden","588","2009","Brian Wolverton","D-III","NJAC",26,19,0,0.578
-"18","Rutgers-Camden","588","2008","Brian Wolverton","D-III","NJAC",8,28,1,0.23
-"19","Rutgers-Camden","588","2007","Carl Taylor","D-III","NJAC",31,15,0,0.674
-"20","Rutgers-Camden","588","2006","Carl Taylor","D-III","NJAC",47,5,0,0.904
-"21","Rutgers-Camden","588","2005","Carl Taylor","D-III","NJAC",35,8,1,0.807
-"22","Rutgers-Camden","588","2004","Carl Taylor","D-III","NJAC",36,11,0,0.766
-"23","Rutgers-Camden","588","2003","Carl Taylor","D-III","NJAC",28,11,1,0.713
-"24","Rutgers-Camden","588","2002","Carl Taylor","D-III","NJAC",27,12,0,0.692
-"25","Rutgers-Camden","588","2001","Carl Taylor","D-III","-",18,15,NA,0.545
-"26","Rutgers-Camden","588","1900","Carl Taylor","D-III","-",12,10,NA,0.545
-"27","Rutgers-Camden","588","1999","Carl Taylor","D-III","-",7,10,NA,0.412
-"28","Rutgers-Camden","588","1998","Carl Taylor","D-III","-",5,10,NA,0.333
-"29","Rutgers-Camden","588","1997","Carl Taylor","D-III","-",1,11,NA,0.083
-"30","Rutgers-Camden","588","1996","Carl Taylor","D-III","-",2,12,NA,0.143
-"31","Rutgers-Camden","588","1995","Kevin Eltzholtz","D-III","-",4,18,NA,0.182
-"32","Rutgers-Camden","588","1994","Kevin Eltzholtz","D-III","-",3,12,1,0.219
-"33","Rutgers-Camden","588","1993","Kevin Eltzholtz","D-III","-",5,14,NA,0.263
-"34","Rutgers-Camden","588","1992","","D-III","-",NA,NA,NA,NA
-"35","Rutgers-Camden","588","1991","","D-III","-",NA,NA,NA,NA
-"36","Rutgers-Camden","588","1990","","D-III","-",NA,NA,NA,NA
-"37","Rutgers-Camden","588","1989","","D-III","-",NA,NA,NA,NA
-"38","Rutgers-Camden","588","1988","","D-III","-",NA,NA,NA,NA
-"39","Rutgers-Camden","588","1987","","D-III","-",NA,NA,NA,NA
-"40","Rutgers-Camden","588","1981","","","-",NA,NA,NA,NA
-"41","Rutgers-Camden","588","","","","",510,490,6,0.51
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Meredith McCarthy","NJAC","0-0-0",0
+"2","2024","Meredith McCarthy","NJAC","17-25-0",0.405
+"3","2023","Meredith McCarthy","NJAC","10-25-0",0.286
+"4","2022","Meredith McCarthy","NJAC","8-19-0",0.296
+"5","2021","Meredith McCarthy","NJAC","9-14-0",0.391
+"6","2020","Meredith McCarthy","NJAC","3-1-0",0.75
+"7","2019","Meredith McCarthy","NJAC","10-22-0",0.313
+"8","2018","Meredith McCarthy","NJAC","10-21-0",0.323
+"9","2017","MIchelle Schlichtig","NJAC","13-23-0",0.361
+"10","2016","MIchelle Schlichtig","NJAC","21-19-0",0.525
+"11","2015","MIchelle Schlichtig","NJAC","20-14-1",0.586
+"12","2014","Brian Wolverton","NJAC","18-16-1",0.529
+"13","2013","Brian Wolverton","NJAC","21-19-0",0.525
+"14","2012","Brian Wolverton","NJAC","17-17-0",0.5
+"15","2011","Brian Wolverton","NJAC","16-18-0",0.471
+"16","2010","Brian Wolverton","NJAC","22-16-0",0.579
+"17","2009","Brian Wolverton","NJAC","26-19-0",0.578
+"18","2008","Brian Wolverton","NJAC","8-28-1",0.23
+"19","2007","Carl Taylor","NJAC","31-15-0",0.674
+"20","2006","Carl Taylor","NJAC","47-5-0",0.904
+"21","2005","Carl Taylor","NJAC","35-8-1",0.807
+"22","2004","Carl Taylor","NJAC","36-11-0",0.766
+"23","2003","Carl Taylor","NJAC","28-11-1",0.713
+"24","2002","Carl Taylor","NJAC","27-12-0",0.692
+"25","2001","Carl Taylor","-","18-15-0",0.545
+"26","1900","Carl Taylor","-","12-10-0",0.545
+"27","1999","Carl Taylor","-","7-10-0",0.412
+"28","1998","Carl Taylor","-","5-10-0",0.333
+"29","1997","Carl Taylor","-","1-11-0",0.083
+"30","1996","Carl Taylor","-","2-12-0",0.143
+"31","1995","Kevin Eltzholtz","-","4-18-0",0.182
+"32","1994","Kevin Eltzholtz","-","3-12-1",0.219
+"33","1993","Kevin Eltzholtz","-","5-14-0",0.263
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1981","","-","NA-NA-0",NA

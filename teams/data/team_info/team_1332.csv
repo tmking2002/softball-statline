@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Dominican (IL)","1332","2025","Cristina Lukas","D-III","NACC",0,0,0,0
-"2","Dominican (IL)","1332","2024","Cristina Lukas","D-III","NACC",39,8,0,0.83
-"3","Dominican (IL)","1332","2023","Cristina Lukas","D-III","NACC",31,11,0,0.738
-"4","Dominican (IL)","1332","2022","Cristina Lukas","D-III","NACC",26,13,0,0.667
-"5","Dominican (IL)","1332","2021","Cristina Lukas","D-III","NACC",11,20,0,0.355
-"6","Dominican (IL)","1332","2020","Cristina Lukas","D-III","NACC",8,8,0,0.5
-"7","Dominican (IL)","1332","2019","Cristina Lukas","D-III","NACC",23,19,0,0.548
-"8","Dominican (IL)","1332","2018","Cristina Lukas","D-III","NACC",18,20,NA,0.474
-"9","Dominican (IL)","1332","2017","Cristina Lukas","D-III","NACC",30,13,0,0.698
-"10","Dominican (IL)","1332","2016","Cristina Lukas","D-III","NACC",27,15,0,0.643
-"11","Dominican (IL)","1332","2015","Cristina Lukas","D-III","NACC",27,14,0,0.659
-"12","Dominican (IL)","1332","2014","Cristina Lukas","D-III","NACC",23,17,0,0.575
-"13","Dominican (IL)","1332","2013","Cristina Lukas","D-III","NACC",29,13,0,0.69
-"14","Dominican (IL)","1332","2012","Cristina Lukas","D-III","NACC",24,21,0,0.533
-"15","Dominican (IL)","1332","2011","Cristina Lukas","D-III","NACC",24,15,0,0.615
-"16","Dominican (IL)","1332","2010","Cristina Lukas","D-III","NACC",24,15,0,0.615
-"17","Dominican (IL)","1332","2009","Cristina Lukas","D-III","NACC",30,14,0,0.682
-"18","Dominican (IL)","1332","2008","Cristina Lukas","D-III","NACC",14,23,0,0.378
-"19","Dominican (IL)","1332","2007","Cristina Lukas","D-III","NACC",10,22,0,0.313
-"20","Dominican (IL)","1332","2006","Michelle Oswald","D-III","NACC",3,34,0,0.081
-"21","Dominican (IL)","1332","2005","Michelle Oswald","D-III","NIIC",9,31,0,0.225
-"22","Dominican (IL)","1332","2004","Michelle Oswald","D-III","NIIC",11,29,1,0.28
-"23","Dominican (IL)","1332","2003","Michelle Oswald","D-III","-",NA,NA,NA,NA
-"24","Dominican (IL)","1332","2002","","","-",NA,NA,NA,NA
-"25","Dominican (IL)","1332","","","","",441,375,1,0.54
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Cristina Lukas","NACC","0-0-0",0
+"2","2024","Cristina Lukas","NACC","39-8-0",0.83
+"3","2023","Cristina Lukas","NACC","31-11-0",0.738
+"4","2022","Cristina Lukas","NACC","26-13-0",0.667
+"5","2021","Cristina Lukas","NACC","11-20-0",0.355
+"6","2020","Cristina Lukas","NACC","8-8-0",0.5
+"7","2019","Cristina Lukas","NACC","23-19-0",0.548
+"8","2018","Cristina Lukas","NACC","18-20-0",0.474
+"9","2017","Cristina Lukas","NACC","30-13-0",0.698
+"10","2016","Cristina Lukas","NACC","27-15-0",0.643
+"11","2015","Cristina Lukas","NACC","27-14-0",0.659
+"12","2014","Cristina Lukas","NACC","23-17-0",0.575
+"13","2013","Cristina Lukas","NACC","29-13-0",0.69
+"14","2012","Cristina Lukas","NACC","24-21-0",0.533
+"15","2011","Cristina Lukas","NACC","24-15-0",0.615
+"16","2010","Cristina Lukas","NACC","24-15-0",0.615
+"17","2009","Cristina Lukas","NACC","30-14-0",0.682
+"18","2008","Cristina Lukas","NACC","14-23-0",0.378
+"19","2007","Cristina Lukas","NACC","10-22-0",0.313
+"20","2006","Michelle Oswald","NACC","3-34-0",0.081
+"21","2005","Michelle Oswald","NIIC","9-31-0",0.225
+"22","2004","Michelle Oswald","NIIC","11-29-1",0.28
+"23","2003","Michelle Oswald","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

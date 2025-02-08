@@ -1,49 +1,48 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Pacific (OR)","2751","2025","Shelly Prochaska","D-III","NWC",0,0,0,0
-"2","Pacific (OR)","2751","2024","Shelly Prochaska","D-III","NWC",9,31,0,0.225
-"3","Pacific (OR)","2751","2023","Katie Duroe","D-III","NWC",7,29,0,0.194
-"4","Pacific (OR)","2751","2022","Katie Duroe","D-III","NWC",10,28,0,0.263
-"5","Pacific (OR)","2751","2021","Liz Yandall","D-III","NWC",17,19,0,0.472
-"6","Pacific (OR)","2751","2020","Liz Yandall","D-III","NWC",4,11,0,0.267
-"7","Pacific (OR)","2751","2019","Liz Yandall","D-III","NWC",23,18,0,0.561
-"8","Pacific (OR)","2751","2018","Liz Yandall","D-III","NWC",22,17,NA,0.564
-"9","Pacific (OR)","2751","2017","Liz Yandall","D-III","NWC",11,27,0,0.289
-"10","Pacific (OR)","2751","2016","Liz Yandall","D-III","NWC",25,16,1,0.607
-"11","Pacific (OR)","2751","2015","Liz Yandall","D-III","NWC",29,15,0,0.659
-"12","Pacific (OR)","2751","2014","Tim Hill","D-III","NWC",26,12,0,0.684
-"13","Pacific (OR)","2751","2013","Tim Hill","D-III","NWC",21,19,0,0.525
-"14","Pacific (OR)","2751","2012","Tim Hill","D-III","NWC",13,23,0,0.361
-"15","Pacific (OR)","2751","2011","Tim Hill","D-III","NWC",22,18,0,0.55
-"16","Pacific (OR)","2751","2010","Tim Hill","D-III","NWC",23,17,0,0.575
-"17","Pacific (OR)","2751","2009","Tim Hill","D-III","NWC",27,12,0,0.692
-"18","Pacific (OR)","2751","2008","Tim Hill","D-III","NWC",31,9,0,0.775
-"19","Pacific (OR)","2751","2007","Tim Hill","D-III","NWC",25,13,0,0.658
-"20","Pacific (OR)","2751","2006","Tim Hill","D-III","NWC",23,15,1,0.603
-"21","Pacific (OR)","2751","2005","Tim Hill","D-III","NWC",13,19,0,0.406
-"22","Pacific (OR)","2751","2004","Tim Hill","D-III","NWC",22,18,0,0.55
-"23","Pacific (OR)","2751","2003","Tim Hill","D-III","-",17,22,0,0.436
-"24","Pacific (OR)","2751","2002","Melissa Jones","D-III","NWC",9,28,0,0.243
-"25","Pacific (OR)","2751","2001","Melissa Jones","D-III","-",4,18,11,0.288
-"26","Pacific (OR)","2751","1900","Melissa Jones","D-III","-",10,22,0,0.313
-"27","Pacific (OR)","2751","1999","Cindy Schuppert","D-III","-",10,25,1,0.292
-"28","Pacific (OR)","2751","1998","Cindy Schuppert","","-",30,11,0,0.732
-"29","Pacific (OR)","2751","1997","Cindy Schuppert","","-",20,18,1,0.526
-"30","Pacific (OR)","2751","1996","","","-",15,11,0,0.577
-"31","Pacific (OR)","2751","1995","","","-",21,6,0,0.778
-"32","Pacific (OR)","2751","1994","","","-",18,17,0,0.514
-"33","Pacific (OR)","2751","1993","Judy Sherman (-)Cindy Schuppert (-)","","-",25,5,0,0.833
-"34","Pacific (OR)","2751","1992","Judy Sherman","","-",28,11,0,0.718
-"35","Pacific (OR)","2751","1991","Judy Sherman","","-",25,14,0,0.641
-"36","Pacific (OR)","2751","1990","Judy Sherman","","-",17,20,0,0.459
-"37","Pacific (OR)","2751","1989","Judy Sherman","","-",20,12,0,0.625
-"38","Pacific (OR)","2751","1988","Judy Sherman","D-III","-",15,11,0,0.577
-"39","Pacific (OR)","2751","1987","Judy Sherman","","-",32,9,0,0.78
-"40","Pacific (OR)","2751","1986","Judy Sherman","","-",26,10,0,0.722
-"41","Pacific (OR)","2751","1985","Judy Sherman","","-",27,2,0,0.931
-"42","Pacific (OR)","2751","1984","Judy Sherman","","-",23,3,0,0.885
-"43","Pacific (OR)","2751","1983","Judy Sherman","","-",NA,NA,NA,NA
-"44","Pacific (OR)","2751","1982","Judy Sherman","","-",23,6,0,0.793
-"45","Pacific (OR)","2751","1981","Judy Sherman","","-",30,5,0,0.857
-"46","Pacific (OR)","2751","1980","Judy Sherman","","-",26,5,0,0.839
-"47","Pacific (OR)","2751","1979","Judy Sherman","","-",6,9,0,0.4
-"48","Pacific (OR)","2751","","","","",880,686,15,0.561
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Shelly Prochaska","NWC","0-0-0",0
+"2","2024","Shelly Prochaska","NWC","9-31-0",0.225
+"3","2023","Katie Duroe","NWC","7-29-0",0.194
+"4","2022","Katie Duroe","NWC","10-28-0",0.263
+"5","2021","Liz Yandall","NWC","17-19-0",0.472
+"6","2020","Liz Yandall","NWC","4-11-0",0.267
+"7","2019","Liz Yandall","NWC","23-18-0",0.561
+"8","2018","Liz Yandall","NWC","22-17-0",0.564
+"9","2017","Liz Yandall","NWC","11-27-0",0.289
+"10","2016","Liz Yandall","NWC","25-16-1",0.607
+"11","2015","Liz Yandall","NWC","29-15-0",0.659
+"12","2014","Tim Hill","NWC","26-12-0",0.684
+"13","2013","Tim Hill","NWC","21-19-0",0.525
+"14","2012","Tim Hill","NWC","13-23-0",0.361
+"15","2011","Tim Hill","NWC","22-18-0",0.55
+"16","2010","Tim Hill","NWC","23-17-0",0.575
+"17","2009","Tim Hill","NWC","27-12-0",0.692
+"18","2008","Tim Hill","NWC","31-9-0",0.775
+"19","2007","Tim Hill","NWC","25-13-0",0.658
+"20","2006","Tim Hill","NWC","23-15-1",0.603
+"21","2005","Tim Hill","NWC","13-19-0",0.406
+"22","2004","Tim Hill","NWC","22-18-0",0.55
+"23","2003","Tim Hill","-","17-22-0",0.436
+"24","2002","Melissa Jones","NWC","9-28-0",0.243
+"25","2001","Melissa Jones","-","4-18-11",0.288
+"26","1900","Melissa Jones","-","10-22-0",0.313
+"27","1999","Cindy Schuppert","-","10-25-1",0.292
+"28","1998","Cindy Schuppert","-","30-11-0",0.732
+"29","1997","Cindy Schuppert","-","20-18-1",0.526
+"30","1996","","-","15-11-0",0.577
+"31","1995","","-","21-6-0",0.778
+"32","1994","","-","18-17-0",0.514
+"33","1993","Judy Sherman (-)Cindy Schuppert (-)","-","25-5-0",0.833
+"34","1992","Judy Sherman","-","28-11-0",0.718
+"35","1991","Judy Sherman","-","25-14-0",0.641
+"36","1990","Judy Sherman","-","17-20-0",0.459
+"37","1989","Judy Sherman","-","20-12-0",0.625
+"38","1988","Judy Sherman","-","15-11-0",0.577
+"39","1987","Judy Sherman","-","32-9-0",0.78
+"40","1986","Judy Sherman","-","26-10-0",0.722
+"41","1985","Judy Sherman","-","27-2-0",0.931
+"42","1984","Judy Sherman","-","23-3-0",0.885
+"43","1983","Judy Sherman","-","NA-NA-0",NA
+"44","1982","Judy Sherman","-","23-6-0",0.793
+"45","1981","Judy Sherman","-","30-5-0",0.857
+"46","1980","Judy Sherman","-","26-5-0",0.839
+"47","1979","Judy Sherman","-","6-9-0",0.4

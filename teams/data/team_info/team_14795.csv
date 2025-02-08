@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Cedar Crest","14795","2025","Kim Begley","D-III","United East",0,0,0,0
-"2","Cedar Crest","14795","2024","Kim Begley","D-III","United East",4,24,0,0.143
-"3","Cedar Crest","14795","2023","Kim Begley","D-III","CSAC",17,17,0,0.5
-"4","Cedar Crest","14795","2022","Kim Begley","D-III","CSAC",19,13,0,0.594
-"5","Cedar Crest","14795","2021","Kim Begley","D-III","CSAC",19,5,0,0.792
-"6","Cedar Crest","14795","2020","Kim Begley","D-III","CSAC",3,5,0,0.375
-"7","Cedar Crest","14795","2019","Kim Begley","D-III","CSAC",19,24,0,0.442
-"8","Cedar Crest","14795","2018","Katie Apostolopoulos","D-III","CSAC",19,18,NA,0.514
-"9","Cedar Crest","14795","2017","Katie Apostolopoulos","D-III","CSAC",23,13,0,0.639
-"10","Cedar Crest","14795","2016","Missy Mariano","D-III","CSAC",21,21,0,0.5
-"11","Cedar Crest","14795","2015","Christine Lombardo-Zaun","D-III","CSAC",10,20,0,0.333
-"12","Cedar Crest","14795","2014","Lisa McGuirk","D-III","CSAC",1,31,0,0.031
-"13","Cedar Crest","14795","2013","Herm Gestl","D-III","CSAC",10,18,0,0.357
-"14","Cedar Crest","14795","2012","Herm Gestl","D-III","CSAC",19,19,0,0.5
-"15","Cedar Crest","14795","2011","Herm Gestl","D-III","CSAC",11,21,0,0.344
-"16","Cedar Crest","14795","2010","Herm Gestl","D-III","CSAC",10,24,0,0.294
-"17","Cedar Crest","14795","2009","Kristi Henritzy","D-III","CSAC",11,19,0,0.367
-"18","Cedar Crest","14795","2008","Kristi Henritzy","D-III","CSAC",13,19,0,0.406
-"19","Cedar Crest","14795","2007","Kristi Henritzy","D-III","CSAC",8,23,0,0.258
-"20","Cedar Crest","14795","2006","Kristi Henritzy","D-III","CSAC",17,14,0,0.548
-"21","Cedar Crest","14795","2005","Kristi Henritzy","D-III","CSAC",6,22,0,0.214
-"22","Cedar Crest","14795","2004","Kristi Henritzy","D-III","CSAC",11,17,0,0.393
-"23","Cedar Crest","14795","2003","Kristi Henritzy","D-III","-",6,16,NA,0.273
-"24","Cedar Crest","14795","2002","Dianne Scott","D-III","CSAC",13,15,0,0.464
-"25","Cedar Crest","14795","2001","Rachel Turoscy","","-",3,23,NA,0.115
-"26","Cedar Crest","14795","1900","Rachel Turoscy","","-",8,24,NA,0.25
-"27","Cedar Crest","14795","1999","Rachel Turoscy","","-",3,27,NA,0.1
-"28","Cedar Crest","14795","1998","Rachel Turoscy","","-",3,20,NA,0.13
-"29","Cedar Crest","14795","1997","","","-",NA,NA,NA,NA
-"30","Cedar Crest","14795","1996","","","-",NA,NA,NA,NA
-"31","Cedar Crest","14795","1995","","","-",NA,NA,NA,NA
-"32","Cedar Crest","14795","1994","","","-",NA,NA,NA,NA
-"33","Cedar Crest","14795","1993","","","-",NA,NA,NA,NA
-"34","Cedar Crest","14795","1992","","","-",NA,NA,NA,NA
-"35","Cedar Crest","14795","1991","","","-",NA,NA,NA,NA
-"36","Cedar Crest","14795","1990","","","-",NA,NA,NA,NA
-"37","Cedar Crest","14795","","","","",307,512,0,0.375
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kim Begley","United East","0-0-0",0
+"2","2024","Kim Begley","United East","4-24-0",0.143
+"3","2023","Kim Begley","CSAC","17-17-0",0.5
+"4","2022","Kim Begley","CSAC","19-13-0",0.594
+"5","2021","Kim Begley","CSAC","19-5-0",0.792
+"6","2020","Kim Begley","CSAC","3-5-0",0.375
+"7","2019","Kim Begley","CSAC","19-24-0",0.442
+"8","2018","Katie Apostolopoulos","CSAC","19-18-0",0.514
+"9","2017","Katie Apostolopoulos","CSAC","23-13-0",0.639
+"10","2016","Missy Mariano","CSAC","21-21-0",0.5
+"11","2015","Christine Lombardo-Zaun","CSAC","10-20-0",0.333
+"12","2014","Lisa McGuirk","CSAC","1-31-0",0.031
+"13","2013","Herm Gestl","CSAC","10-18-0",0.357
+"14","2012","Herm Gestl","CSAC","19-19-0",0.5
+"15","2011","Herm Gestl","CSAC","11-21-0",0.344
+"16","2010","Herm Gestl","CSAC","10-24-0",0.294
+"17","2009","Kristi Henritzy","CSAC","11-19-0",0.367
+"18","2008","Kristi Henritzy","CSAC","13-19-0",0.406
+"19","2007","Kristi Henritzy","CSAC","8-23-0",0.258
+"20","2006","Kristi Henritzy","CSAC","17-14-0",0.548
+"21","2005","Kristi Henritzy","CSAC","6-22-0",0.214
+"22","2004","Kristi Henritzy","CSAC","11-17-0",0.393
+"23","2003","Kristi Henritzy","-","6-16-0",0.273
+"24","2002","Dianne Scott","CSAC","13-15-0",0.464
+"25","2001","Rachel Turoscy","-","3-23-0",0.115
+"26","1900","Rachel Turoscy","-","8-24-0",0.25
+"27","1999","Rachel Turoscy","-","3-27-0",0.1
+"28","1998","Rachel Turoscy","-","3-20-0",0.13
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

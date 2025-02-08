@@ -1,19 +1,18 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","La Sierra","502567","2024",NA,NA,"-",NA,NA,NA,0
-"2","La Sierra","502567","2023",NA,NA,"-",NA,NA,NA,0
-"3","La Sierra","502567","2020",NA,NA,"-",NA,NA,NA,0
-"4","La Sierra","502567","2019",NA,NA,"-",NA,NA,NA,0
-"5","La Sierra","502567","2018",NA,NA,"-",NA,NA,NA,0
-"6","La Sierra","502567","2017",NA,NA,"-",NA,NA,NA,NA
-"7","La Sierra","502567","2016",NA,NA,"-",NA,NA,NA,NA
-"8","La Sierra","502567","2015",NA,NA,"-",NA,NA,NA,NA
-"9","La Sierra","502567","2014",NA,NA,"-",NA,NA,NA,NA
-"10","La Sierra","502567","2013",NA,NA,"-",NA,NA,NA,NA
-"11","La Sierra","502567","2012",NA,NA,"-",NA,NA,NA,NA
-"12","La Sierra","502567","2011",NA,NA,"-",NA,NA,NA,NA
-"13","La Sierra","502567","2010",NA,NA,"-",NA,NA,NA,NA
-"14","La Sierra","502567","2009",NA,NA,"-",NA,NA,NA,NA
-"15","La Sierra","502567","2008",NA,NA,"-",NA,NA,NA,NA
-"16","La Sierra","502567","2007",NA,NA,"-",NA,NA,NA,NA
-"17","La Sierra","502567","2006",NA,NA,"-",NA,NA,NA,NA
-"18","La Sierra","502567","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2020",NA,"-","NA-NA-0",0
+"4","2019",NA,"-","NA-NA-0",0
+"5","2018",NA,"-","NA-NA-0",0
+"6","2017",NA,"-","NA-NA-0",NA
+"7","2016",NA,"-","NA-NA-0",NA
+"8","2015",NA,"-","NA-NA-0",NA
+"9","2014",NA,"-","NA-NA-0",NA
+"10","2013",NA,"-","NA-NA-0",NA
+"11","2012",NA,"-","NA-NA-0",NA
+"12","2011",NA,"-","NA-NA-0",NA
+"13","2010",NA,"-","NA-NA-0",NA
+"14","2009",NA,"-","NA-NA-0",NA
+"15","2008",NA,"-","NA-NA-0",NA
+"16","2007",NA,"-","NA-NA-0",NA
+"17","2006",NA,"-","NA-NA-0",NA

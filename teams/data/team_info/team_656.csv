@@ -1,52 +1,51 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UMass Dartmouth","656","2025","Rachael Powers","D-III","Little East",0,0,0,0
-"2","UMass Dartmouth","656","2024","Rachael Powers","D-III","Little East",24,14,0,0.632
-"3","UMass Dartmouth","656","2023","Amy Sasin","D-III","Little East",30,14,0,0.682
-"4","UMass Dartmouth","656","2022","Amy Sasin","D-III","Little East",33,10,1,0.761
-"5","UMass Dartmouth","656","2021","Amy Sasin","D-III","Little East",10,14,1,0.42
-"6","UMass Dartmouth","656","2020","Amy Sasin","D-III","Little East",7,6,0,0.538
-"7","UMass Dartmouth","656","2019","Amy Sasin","D-III","Little East",23,18,0,0.561
-"8","UMass Dartmouth","656","2018","Amy Sasin","D-III","Little East",24,15,NA,0.615
-"9","UMass Dartmouth","656","2017","Amy Sasin","D-III","Little East",22,19,0,0.537
-"10","UMass Dartmouth","656","2016","Amy Sasin","D-III","Little East",27,15,0,0.643
-"11","UMass Dartmouth","656","2015","Amy Sasin","D-III","Little East",8,20,0,0.286
-"12","UMass Dartmouth","656","2014","Amy Sasin","D-III","Little East",11,21,0,0.344
-"13","UMass Dartmouth","656","2013","Amy Sasin","D-III","Little East",12,28,0,0.3
-"14","UMass Dartmouth","656","2012","Amy Sasin","D-III","Little East",12,28,0,0.3
-"15","UMass Dartmouth","656","2011","Amy Sasin","D-III","Little East",12,27,0,0.308
-"16","UMass Dartmouth","656","2010","Kelly Roy-Sale","D-III","Little East",7,22,0,0.241
-"17","UMass Dartmouth","656","2009","Kelly Roy-Sale","D-III","Little East",7,23,0,0.233
-"18","UMass Dartmouth","656","2008","Kelly Roy-Sale","D-III","Little East",6,24,0,0.2
-"19","UMass Dartmouth","656","2007","Kelly Roy-Sale","D-III","Little East",6,17,0,0.261
-"20","UMass Dartmouth","656","2006","Holly Morris","D-III","Little East",16,13,1,0.55
-"21","UMass Dartmouth","656","2005","Virginia Cardozo","D-III","Little East",9,18,0,0.333
-"22","UMass Dartmouth","656","2004","Ralph Perry","D-III","Little East",4,18,0,0.182
-"23","UMass Dartmouth","656","2003","Marilyn Ritz","D-III","-",1,26,0,0.037
-"24","UMass Dartmouth","656","2002","Marilyn Ritz","D-III","-",11,21,0,0.344
-"25","UMass Dartmouth","656","2001","Marilyn Ritz","D-III","-",12,19,2,0.394
-"26","UMass Dartmouth","656","1900","Marilyn Ritz","D-III","-",6,28,0,0.176
-"27","UMass Dartmouth","656","1999","Marilyn Ritz","D-III","-",6,24,0,0.2
-"28","UMass Dartmouth","656","1998","Marilyn Ritz","D-III","-",6,28,0,0.176
-"29","UMass Dartmouth","656","1997","Marilyn Ritz","D-III","-",5,16,0,0.238
-"30","UMass Dartmouth","656","1996","Marilyn Ritz","D-III","-",19,13,0,0.594
-"31","UMass Dartmouth","656","1995","Marilyn Ritz","D-III","-",26,10,0,0.722
-"32","UMass Dartmouth","656","1994","Marilyn Ritz","D-III","-",24,6,0,0.8
-"33","UMass Dartmouth","656","1993","Marilyn Ritz","D-III","-",15,7,0,0.682
-"34","UMass Dartmouth","656","1992","Marilyn Ritz","D-III","-",18,4,0,0.818
-"35","UMass Dartmouth","656","1991","Marilyn Ritz","D-III","-",16,10,0,0.615
-"36","UMass Dartmouth","656","1990","Marilyn Ritz","D-III","-",24,8,0,0.75
-"37","UMass Dartmouth","656","1989","Marilyn Ritz","D-III","-",18,14,0,0.563
-"38","UMass Dartmouth","656","1988","Marilyn Ritz","D-III","-",20,8,1,0.707
-"39","UMass Dartmouth","656","1987","Marilyn Ritz","D-III","-",14,9,0,0.609
-"40","UMass Dartmouth","656","1986","Marilyn Ritz","D-III","-",18,11,0,0.621
-"41","UMass Dartmouth","656","1985","Marilyn Ritz","D-III","-",14,9,0,0.609
-"42","UMass Dartmouth","656","1984","Marilyn Ritz","D-III","-",12,10,1,0.543
-"43","UMass Dartmouth","656","1983","Sherry Medeiros","D-III","-",11,9,0,0.55
-"44","UMass Dartmouth","656","1982","Sherry Medeiros","D-III","-",10,8,0,0.556
-"45","UMass Dartmouth","656","1981","Sherry Medeiros","D-III","-",6,11,0,0.353
-"46","UMass Dartmouth","656","1980","Kathy Tierney","D-III","-",8,8,0,0.5
-"47","UMass Dartmouth","656","1979","Nancy Paulhus","D-III","-",1,8,1,0.15
-"48","UMass Dartmouth","656","1978","Nancy Paulhus","D-III","-",5,6,0,0.455
-"49","UMass Dartmouth","656","1977","Susan Hughes","D-III","-",6,5,0,0.545
-"50","UMass Dartmouth","656","1976","Jackie Proulx","D-III","-",4,2,0,0.667
-"51","UMass Dartmouth","656","","","","",646,722,8,0.472
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rachael Powers","Little East","0-0-0",0
+"2","2024","Rachael Powers","Little East","24-14-0",0.632
+"3","2023","Amy Sasin","Little East","30-14-0",0.682
+"4","2022","Amy Sasin","Little East","33-10-1",0.761
+"5","2021","Amy Sasin","Little East","10-14-1",0.42
+"6","2020","Amy Sasin","Little East","7-6-0",0.538
+"7","2019","Amy Sasin","Little East","23-18-0",0.561
+"8","2018","Amy Sasin","Little East","24-15-0",0.615
+"9","2017","Amy Sasin","Little East","22-19-0",0.537
+"10","2016","Amy Sasin","Little East","27-15-0",0.643
+"11","2015","Amy Sasin","Little East","8-20-0",0.286
+"12","2014","Amy Sasin","Little East","11-21-0",0.344
+"13","2013","Amy Sasin","Little East","12-28-0",0.3
+"14","2012","Amy Sasin","Little East","12-28-0",0.3
+"15","2011","Amy Sasin","Little East","12-27-0",0.308
+"16","2010","Kelly Roy-Sale","Little East","7-22-0",0.241
+"17","2009","Kelly Roy-Sale","Little East","7-23-0",0.233
+"18","2008","Kelly Roy-Sale","Little East","6-24-0",0.2
+"19","2007","Kelly Roy-Sale","Little East","6-17-0",0.261
+"20","2006","Holly Morris","Little East","16-13-1",0.55
+"21","2005","Virginia Cardozo","Little East","9-18-0",0.333
+"22","2004","Ralph Perry","Little East","4-18-0",0.182
+"23","2003","Marilyn Ritz","-","1-26-0",0.037
+"24","2002","Marilyn Ritz","-","11-21-0",0.344
+"25","2001","Marilyn Ritz","-","12-19-2",0.394
+"26","1900","Marilyn Ritz","-","6-28-0",0.176
+"27","1999","Marilyn Ritz","-","6-24-0",0.2
+"28","1998","Marilyn Ritz","-","6-28-0",0.176
+"29","1997","Marilyn Ritz","-","5-16-0",0.238
+"30","1996","Marilyn Ritz","-","19-13-0",0.594
+"31","1995","Marilyn Ritz","-","26-10-0",0.722
+"32","1994","Marilyn Ritz","-","24-6-0",0.8
+"33","1993","Marilyn Ritz","-","15-7-0",0.682
+"34","1992","Marilyn Ritz","-","18-4-0",0.818
+"35","1991","Marilyn Ritz","-","16-10-0",0.615
+"36","1990","Marilyn Ritz","-","24-8-0",0.75
+"37","1989","Marilyn Ritz","-","18-14-0",0.563
+"38","1988","Marilyn Ritz","-","20-8-1",0.707
+"39","1987","Marilyn Ritz","-","14-9-0",0.609
+"40","1986","Marilyn Ritz","-","18-11-0",0.621
+"41","1985","Marilyn Ritz","-","14-9-0",0.609
+"42","1984","Marilyn Ritz","-","12-10-1",0.543
+"43","1983","Sherry Medeiros","-","11-9-0",0.55
+"44","1982","Sherry Medeiros","-","10-8-0",0.556
+"45","1981","Sherry Medeiros","-","6-11-0",0.353
+"46","1980","Kathy Tierney","-","8-8-0",0.5
+"47","1979","Nancy Paulhus","-","1-8-1",0.15
+"48","1978","Nancy Paulhus","-","5-6-0",0.455
+"49","1977","Susan Hughes","-","6-5-0",0.545
+"50","1976","Jackie Proulx","-","4-2-0",0.667

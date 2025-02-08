@@ -1,49 +1,48 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Elmira","213","2025","Randie Torgalski","D-III","Empire 8",0,0,0,0
-"2","Elmira","213","2024","Randie Torgalski","D-III","Empire 8",15,19,0,0.441
-"3","Elmira","213","2023","Randie Torgalski","D-III","Empire 8",20,19,0,0.513
-"4","Elmira","213","2022","Randie Torgalski","D-III","Empire 8",16,15,0,0.516
-"5","Elmira","213","2021","Randie Torgalski","D-III","Empire 8",6,21,0,0.222
-"6","Elmira","213","2020","Randie Torgalski","D-III","Empire 8",NA,NA,NA,0
-"7","Elmira","213","2019","Rhonda Faunce","D-III","Empire 8",9,15,0,0.375
-"8","Elmira","213","2018","Rhonda Faunce","D-III","Empire 8",8,15,NA,0.348
-"9","Elmira","213","2017","Rhonda Faunce","D-III","Empire 8",10,13,0,0.435
-"10","Elmira","213","2016","Rhonda Faunce","D-III","Empire 8",10,14,0,0.417
-"11","Elmira","213","2015","Rhonda Faunce","D-III","Empire 8",8,16,0,0.333
-"12","Elmira","213","2014","Rhonda Faunce","D-III","Empire 8",17,15,0,0.531
-"13","Elmira","213","2013","Rhonda Faunce","D-III","Empire 8",25,14,0,0.641
-"14","Elmira","213","2012","Rhonda Faunce","D-III","Empire 8",8,16,0,0.333
-"15","Elmira","213","2011","Rhonda Faunce","D-III","Empire 8",6,14,0,0.3
-"16","Elmira","213","2010","Rhonda Faunce","D-III","Empire 8",16,10,0,0.615
-"17","Elmira","213","2009","Rhonda Faunce","D-III","Empire 8",16,11,0,0.593
-"18","Elmira","213","2008","Rhonda Faunce","D-III","Empire 8",13,13,1,0.5
-"19","Elmira","213","2007","Rhonda Faunce","D-III","Empire 8",12,14,0,0.462
-"20","Elmira","213","2006","Rhonda Faunce","D-III","Empire 8",10,14,0,0.417
-"21","Elmira","213","2005","Rhonda Faunce","D-III","Empire 8",13,12,0,0.52
-"22","Elmira","213","2004","Rhonda Faunce","D-III","Empire 8",14,10,0,0.583
-"23","Elmira","213","2003","Rhonda Faunce","D-III","Empire 8",18,22,0,0.45
-"24","Elmira","213","2002","Rhonda Faunce","D-III","-",14,13,0,0.519
-"25","Elmira","213","2001","Rhonda Faunce","D-III","-",8,14,0,0.364
-"26","Elmira","213","1900","Rhonda Faunce","D-III","-",9,13,0,0.409
-"27","Elmira","213","1999","Rhonda Faunce","D-III","-",5,23,0,0.179
-"28","Elmira","213","1998","Rhonda Faunce","D-III","-",16,17,0,0.485
-"29","Elmira","213","1997","Rhonda Faunce","D-III","-",19,14,NA,0.576
-"30","Elmira","213","1996","Rhonda Faunce","D-III","-",8,17,1,0.327
-"31","Elmira","213","1995","Rhonda Faunce","D-III","-",23,14,NA,0.622
-"32","Elmira","213","1994","Rhonda Faunce","D-III","-",15,13,NA,0.536
-"33","Elmira","213","1993","Rhonda Faunce","D-III","-",13,7,NA,0.65
-"34","Elmira","213","1992","Rhonda Faunce","D-III","-",13,13,NA,0.5
-"35","Elmira","213","1991","Rhonda Faunce","D-III","-",25,8,NA,0.758
-"36","Elmira","213","1990","Rhonda Faunce","D-III","-",14,8,1,0.63
-"37","Elmira","213","1989","Rhonda Faunce","D-III","-",6,8,NA,0.429
-"38","Elmira","213","1988","James Upper","D-III","-",7,11,0,0.389
-"39","Elmira","213","1987","Craig Rand","D-III","-",5,12,0,0.294
-"40","Elmira","213","1986","Craig Rand","D-III","-",2,13,0,0.133
-"41","Elmira","213","1985","David Wright","D-III","-",0,0,0,NA
-"42","Elmira","213","1984","Bill Limoncelli","D-III","-",4,12,0,0.25
-"43","Elmira","213","1983","Bob Crandall","D-III","-",2,6,0,0.25
-"44","Elmira","213","1982","Bob Crandall","D-III","-",6,9,0,0.4
-"45","Elmira","213","1981","Bob Crandall","D-III","-",3,8,0,0.273
-"46","Elmira","213","1980","Joan Bird","D-III","-",3,5,0,0.375
-"47","Elmira","213","1979","Joan Bird","D-III","-",0,8,0,0
-"48","Elmira","213","","","","",490,578,3,0.459
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Randie Torgalski","Empire 8","0-0-0",0
+"2","2024","Randie Torgalski","Empire 8","15-19-0",0.441
+"3","2023","Randie Torgalski","Empire 8","20-19-0",0.513
+"4","2022","Randie Torgalski","Empire 8","16-15-0",0.516
+"5","2021","Randie Torgalski","Empire 8","6-21-0",0.222
+"6","2020","Randie Torgalski","Empire 8","NA-NA-0",0
+"7","2019","Rhonda Faunce","Empire 8","9-15-0",0.375
+"8","2018","Rhonda Faunce","Empire 8","8-15-0",0.348
+"9","2017","Rhonda Faunce","Empire 8","10-13-0",0.435
+"10","2016","Rhonda Faunce","Empire 8","10-14-0",0.417
+"11","2015","Rhonda Faunce","Empire 8","8-16-0",0.333
+"12","2014","Rhonda Faunce","Empire 8","17-15-0",0.531
+"13","2013","Rhonda Faunce","Empire 8","25-14-0",0.641
+"14","2012","Rhonda Faunce","Empire 8","8-16-0",0.333
+"15","2011","Rhonda Faunce","Empire 8","6-14-0",0.3
+"16","2010","Rhonda Faunce","Empire 8","16-10-0",0.615
+"17","2009","Rhonda Faunce","Empire 8","16-11-0",0.593
+"18","2008","Rhonda Faunce","Empire 8","13-13-1",0.5
+"19","2007","Rhonda Faunce","Empire 8","12-14-0",0.462
+"20","2006","Rhonda Faunce","Empire 8","10-14-0",0.417
+"21","2005","Rhonda Faunce","Empire 8","13-12-0",0.52
+"22","2004","Rhonda Faunce","Empire 8","14-10-0",0.583
+"23","2003","Rhonda Faunce","Empire 8","18-22-0",0.45
+"24","2002","Rhonda Faunce","-","14-13-0",0.519
+"25","2001","Rhonda Faunce","-","8-14-0",0.364
+"26","1900","Rhonda Faunce","-","9-13-0",0.409
+"27","1999","Rhonda Faunce","-","5-23-0",0.179
+"28","1998","Rhonda Faunce","-","16-17-0",0.485
+"29","1997","Rhonda Faunce","-","19-14-0",0.576
+"30","1996","Rhonda Faunce","-","8-17-1",0.327
+"31","1995","Rhonda Faunce","-","23-14-0",0.622
+"32","1994","Rhonda Faunce","-","15-13-0",0.536
+"33","1993","Rhonda Faunce","-","13-7-0",0.65
+"34","1992","Rhonda Faunce","-","13-13-0",0.5
+"35","1991","Rhonda Faunce","-","25-8-0",0.758
+"36","1990","Rhonda Faunce","-","14-8-1",0.63
+"37","1989","Rhonda Faunce","-","6-8-0",0.429
+"38","1988","James Upper","-","7-11-0",0.389
+"39","1987","Craig Rand","-","5-12-0",0.294
+"40","1986","Craig Rand","-","2-13-0",0.133
+"41","1985","David Wright","-","0-0-0",NA
+"42","1984","Bill Limoncelli","-","4-12-0",0.25
+"43","1983","Bob Crandall","-","2-6-0",0.25
+"44","1982","Bob Crandall","-","6-9-0",0.4
+"45","1981","Bob Crandall","-","3-8-0",0.273
+"46","1980","Joan Bird","-","3-5-0",0.375
+"47","1979","Joan Bird","-","0-8-0",0

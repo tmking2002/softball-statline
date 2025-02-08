@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mount St. Mary's","450","2025","Anna Nagro","D-I","MAAC",0,0,0,0
-"2","Mount St. Mary's","450","2024","Anna Nagro","D-I","MAAC",14,32,0,0.304
-"3","Mount St. Mary's","450","2023","Anna Nagro","D-I","MAAC",32,19,0,0.627
-"4","Mount St. Mary's","450","2022","Anna Nagro","D-I","NEC",26,22,0,0.542
-"5","Mount St. Mary's","450","2021","Anna Nagro","D-I","NEC",19,25,0,0.432
-"6","Mount St. Mary's","450","2020","Anna Nagro","D-I","NEC",2,17,0,0.105
-"7","Mount St. Mary's","450","2019","Anna Nagro","D-I","NEC",27,28,0,0.491
-"8","Mount St. Mary's","450","2018","Anna Nagro","D-I","NEC",17,26,1,0.398
-"9","Mount St. Mary's","450","2017","Anna Nagro","D-I","NEC",20,31,0,0.392
-"10","Mount St. Mary's","450","2016","Anna Nagro","D-I","NEC",15,35,0,0.3
-"11","Mount St. Mary's","450","2015","Anna Nagro","D-I","NEC",11,33,0,0.25
-"12","Mount St. Mary's","450","2014","Anna Nagro","D-I","NEC",20,24,2,0.457
-"13","Mount St. Mary's","450","2013","Anna Nagro","D-I","NEC",16,30,0,0.348
-"14","Mount St. Mary's","450","2012","Anna Nagro","D-I","NEC",17,34,0,0.333
-"15","Mount St. Mary's","450","2011","Anna Nagro","D-I","NEC",15,31,0,0.326
-"16","Mount St. Mary's","450","2010","Larry Alvis","D-I","NEC",25,25,0,0.5
-"17","Mount St. Mary's","450","2009","Larry Alvis","D-I","NEC",18,30,0,0.375
-"18","Mount St. Mary's","450","2008","Larry Alvis","D-I","NEC",21,36,0,0.368
-"19","Mount St. Mary's","450","2007","Shana Gary","D-I","NEC",11,29,0,0.275
-"20","Mount St. Mary's","450","2006","Shana Gary","D-I","NEC",31,25,0,0.554
-"21","Mount St. Mary's","450","2005","Shana Gary","D-I","NEC",12,29,0,0.293
-"22","Mount St. Mary's","450","2004","Tricia Fuit","D-I","NEC",12,30,0,0.286
-"23","Mount St. Mary's","450","2003","Tricia Fuit","D-I","NEC",14,24,1,0.372
-"24","Mount St. Mary's","450","2002","Tricia Fuit","D-I","NEC",8,31,0,0.205
-"25","Mount St. Mary's","450","2001","Tricia Fuit","D-I","NEC",4,32,0,0.111
-"26","Mount St. Mary's","450","1900","Tricia Fuit","D-I","NEC",15,25,0,0.375
-"27","Mount St. Mary's","450","1999","Tricia Fuit","D-I","NEC",19,20,0,0.487
-"28","Mount St. Mary's","450","1998","Tricia Fuit","D-I","-",7,33,NA,0.175
-"29","Mount St. Mary's","450","1997","Tricia Fuit","D-I","NEC",8,32,0,0.2
-"30","Mount St. Mary's","450","1996","Jennifer Booth (0-15-1)Tricia Fuit (6-12)","D-I","-",6,27,NA,0.182
-"31","Mount St. Mary's","450","1995","Regina Gebhart","D-I","-",7,39,1,0.16
-"32","Mount St. Mary's","450","1994","Regina Gebhart","D-I","-",5,30,NA,0.143
-"33","Mount St. Mary's","450","1993","Regina Gebhart","D-I","-",5,22,NA,0.185
-"34","Mount St. Mary's","450","1992","Regina Gebhart","D-I","-",4,28,NA,0.125
-"35","Mount St. Mary's","450","1991","Regina Gebhart","D-I","-",1,29,NA,0.033
-"36","Mount St. Mary's","450","1990","Regina Gebhart","D-I","-",7,15,NA,0.318
-"37","Mount St. Mary's","450","1989","","D-I","-",NA,NA,NA,NA
-"38","Mount St. Mary's","450","1988","","D-II","-",NA,NA,NA,NA
-"39","Mount St. Mary's","450","1987","","D-II","-",NA,NA,NA,NA
-"40","Mount St. Mary's","450","1986","","D-II","-",NA,NA,NA,NA
-"41","Mount St. Mary's","450","1985","","D-II","-",NA,NA,NA,NA
-"42","Mount St. Mary's","450","1984","","D-II","-",NA,NA,NA,NA
-"43","Mount St. Mary's","450","1983","","D-II","-",NA,NA,NA,NA
-"44","Mount St. Mary's","450","1982","","D-II","-",NA,NA,NA,NA
-"45","Mount St. Mary's","450","","","","",491,978,5,0.335
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Anna Nagro","MAAC","0-0-0",0
+"2","2024","Anna Nagro","MAAC","14-32-0",0.304
+"3","2023","Anna Nagro","MAAC","32-19-0",0.627
+"4","2022","Anna Nagro","NEC","26-22-0",0.542
+"5","2021","Anna Nagro","NEC","19-25-0",0.432
+"6","2020","Anna Nagro","NEC","2-17-0",0.105
+"7","2019","Anna Nagro","NEC","27-28-0",0.491
+"8","2018","Anna Nagro","NEC","17-26-1",0.398
+"9","2017","Anna Nagro","NEC","20-31-0",0.392
+"10","2016","Anna Nagro","NEC","15-35-0",0.3
+"11","2015","Anna Nagro","NEC","11-33-0",0.25
+"12","2014","Anna Nagro","NEC","20-24-2",0.457
+"13","2013","Anna Nagro","NEC","16-30-0",0.348
+"14","2012","Anna Nagro","NEC","17-34-0",0.333
+"15","2011","Anna Nagro","NEC","15-31-0",0.326
+"16","2010","Larry Alvis","NEC","25-25-0",0.5
+"17","2009","Larry Alvis","NEC","18-30-0",0.375
+"18","2008","Larry Alvis","NEC","21-36-0",0.368
+"19","2007","Shana Gary","NEC","11-29-0",0.275
+"20","2006","Shana Gary","NEC","31-25-0",0.554
+"21","2005","Shana Gary","NEC","12-29-0",0.293
+"22","2004","Tricia Fuit","NEC","12-30-0",0.286
+"23","2003","Tricia Fuit","NEC","14-24-1",0.372
+"24","2002","Tricia Fuit","NEC","8-31-0",0.205
+"25","2001","Tricia Fuit","NEC","4-32-0",0.111
+"26","1900","Tricia Fuit","NEC","15-25-0",0.375
+"27","1999","Tricia Fuit","NEC","19-20-0",0.487
+"28","1998","Tricia Fuit","-","7-33-0",0.175
+"29","1997","Tricia Fuit","NEC","8-32-0",0.2
+"30","1996","Jennifer Booth (0-15-1)Tricia Fuit (6-12)","-","6-27-0",0.182
+"31","1995","Regina Gebhart","-","7-39-1",0.16
+"32","1994","Regina Gebhart","-","5-30-0",0.143
+"33","1993","Regina Gebhart","-","5-22-0",0.185
+"34","1992","Regina Gebhart","-","4-28-0",0.125
+"35","1991","Regina Gebhart","-","1-29-0",0.033
+"36","1990","Regina Gebhart","-","7-15-0",0.318
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

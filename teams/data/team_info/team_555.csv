@@ -1,31 +1,30 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Principia","555","2025","Grace Burrows","D-III","SLIAC",0,0,0,0
-"2","Principia","555","2024","Grace Burrows","D-III","SLIAC",0,0,0,0
-"3","Principia","555","2023","Ned Crecelius","D-III","SLIAC",0,0,0,0
-"4","Principia","555","2022","Ned Crecelius","D-III","SLIAC",0,24,0,0
-"5","Principia","555","2021","Ken Leavoy","D-III","SLIAC",0,0,0,0
-"6","Principia","555","2020","Ken Leavoy","D-III","SLIAC",1,3,0,0.25
-"7","Principia","555","2019","Ken Leavoy","D-III","SLIAC",5,28,0,0.152
-"8","Principia","555","2018","Ken Leavoy","D-III","SLIAC",9,25,NA,0.265
-"9","Principia","555","2017","Ken Leavoy","D-III","SLIAC",6,20,0,0.231
-"10","Principia","555","2016","Ken Leavoy","D-III","SLIAC",4,28,0,0.125
-"11","Principia","555","2015","Ken Leavoy","D-III","SLIAC",5,28,0,0.152
-"12","Principia","555","2014","Ken Leavoy","D-III","SLIAC",10,20,0,0.333
-"13","Principia","555","2013","Ken Leavoy","D-III","SLIAC",6,22,0,0.214
-"14","Principia","555","2012","Ken Leavoy","D-III","SLIAC",3,30,0,0.091
-"15","Principia","555","2011","Ken Leavoy","D-III","SLIAC",8,21,0,0.276
-"16","Principia","555","2010","Ken Leavoy","D-III","SLIAC",1,21,0,0.045
-"17","Principia","555","2002","","D-III","-",NA,NA,NA,NA
-"18","Principia","555","2001","","D-III","-",NA,NA,NA,NA
-"19","Principia","555","1900","","D-III","-",NA,NA,NA,NA
-"20","Principia","555","1999","Jill Horton","D-III","-",4,23,NA,0.148
-"21","Principia","555","1998","Jill Horton","D-III","-",4,26,NA,0.133
-"22","Principia","555","1997","Jill Horton","D-III","-",2,23,NA,0.08
-"23","Principia","555","1996","","D-III","-",NA,NA,NA,NA
-"24","Principia","555","1995","","D-III","-",NA,NA,NA,NA
-"25","Principia","555","1994","","D-III","-",NA,NA,NA,NA
-"26","Principia","555","1993","Jodi Kent","D-III","-",10,9,NA,0.526
-"27","Principia","555","1992","","D-III","-",NA,NA,NA,NA
-"28","Principia","555","1991","","D-III","-",NA,NA,NA,NA
-"29","Principia","555","1990","","","-",NA,NA,NA,NA
-"30","Principia","555","","","","",78,351,0,0.182
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Grace Burrows","SLIAC","0-0-0",0
+"2","2024","Grace Burrows","SLIAC","0-0-0",0
+"3","2023","Ned Crecelius","SLIAC","0-0-0",0
+"4","2022","Ned Crecelius","SLIAC","0-24-0",0
+"5","2021","Ken Leavoy","SLIAC","0-0-0",0
+"6","2020","Ken Leavoy","SLIAC","1-3-0",0.25
+"7","2019","Ken Leavoy","SLIAC","5-28-0",0.152
+"8","2018","Ken Leavoy","SLIAC","9-25-0",0.265
+"9","2017","Ken Leavoy","SLIAC","6-20-0",0.231
+"10","2016","Ken Leavoy","SLIAC","4-28-0",0.125
+"11","2015","Ken Leavoy","SLIAC","5-28-0",0.152
+"12","2014","Ken Leavoy","SLIAC","10-20-0",0.333
+"13","2013","Ken Leavoy","SLIAC","6-22-0",0.214
+"14","2012","Ken Leavoy","SLIAC","3-30-0",0.091
+"15","2011","Ken Leavoy","SLIAC","8-21-0",0.276
+"16","2010","Ken Leavoy","SLIAC","1-21-0",0.045
+"17","2002","","-","NA-NA-0",NA
+"18","2001","","-","NA-NA-0",NA
+"19","1900","","-","NA-NA-0",NA
+"20","1999","Jill Horton","-","4-23-0",0.148
+"21","1998","Jill Horton","-","4-26-0",0.133
+"22","1997","Jill Horton","-","2-23-0",0.08
+"23","1996","","-","NA-NA-0",NA
+"24","1995","","-","NA-NA-0",NA
+"25","1994","","-","NA-NA-0",NA
+"26","1993","Jodi Kent","-","10-9-0",0.526
+"27","1992","","-","NA-NA-0",NA
+"28","1991","","-","NA-NA-0",NA
+"29","1990","","-","NA-NA-0",NA

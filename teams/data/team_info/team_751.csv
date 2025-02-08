@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wash. & Jeff.","751","2025","Marissa Rush","D-III","PAC",0,0,0,0
-"2","Wash. & Jeff.","751","2024","Marissa Rush","D-III","PAC",12,18,0,0.4
-"3","Wash. & Jeff.","751","2023","Marissa Rush","D-III","PAC",12,20,0,0.375
-"4","Wash. & Jeff.","751","2022","Marissa Rush","D-III","PAC",12,15,0,0.444
-"5","Wash. & Jeff.","751","2021","Marissa Rush","D-III","PAC",17,15,1,0.53
-"6","Wash. & Jeff.","751","2020","Marissa Rush","D-III","PAC",4,9,0,0.308
-"7","Wash. & Jeff.","751","2019","Marissa Rush","D-III","PAC",17,21,0,0.447
-"8","Wash. & Jeff.","751","2018","Marissa Rush","D-III","PAC",13,21,NA,0.382
-"9","Wash. & Jeff.","751","2017","Nicole Vitello","D-III","PAC",4,25,0,0.138
-"10","Wash. & Jeff.","751","2016","Nicole Vitello","D-III","PAC",15,19,0,0.441
-"11","Wash. & Jeff.","751","2015","Nicole Vitello","D-III","PAC",18,18,0,0.5
-"12","Wash. & Jeff.","751","2014","Nicole Vitello","D-III","PAC",25,12,0,0.676
-"13","Wash. & Jeff.","751","2013","Nicole Vitello","D-III","PAC",30,16,0,0.652
-"14","Wash. & Jeff.","751","2012","Nicole Vitello","D-III","PAC",15,23,0,0.395
-"15","Wash. & Jeff.","751","2011","Nicole Vitello","D-III","PAC",7,22,0,0.241
-"16","Wash. & Jeff.","751","2010","Nicole Vitello","D-III","PAC",12,26,0,0.316
-"17","Wash. & Jeff.","751","2009","Nicole Vitello","D-III","PAC",17,23,0,0.425
-"18","Wash. & Jeff.","751","2008","Nicole Vitello","D-III","PAC",28,12,0,0.7
-"19","Wash. & Jeff.","751","2007","Stephani Ehrenfeld-Moore","D-III","PAC",19,15,0,0.559
-"20","Wash. & Jeff.","751","2006","Stephani Ehrenfeld-Moore","D-III","PAC",25,15,0,0.625
-"21","Wash. & Jeff.","751","2005","Stephani Ehrenfeld-Moore","D-III","PAC",21,18,0,0.538
-"22","Wash. & Jeff.","751","2004","Stephani Ehrenfeld-Moore","D-III","PAC",14,21,0,0.4
-"23","Wash. & Jeff.","751","2003","Stephani Ehrenfeld-Moore","D-III","PAC",5,21,0,0.192
-"24","Wash. & Jeff.","751","2002","Emily Houghton","D-III","PAC",8,19,0,0.296
-"25","Wash. & Jeff.","751","2001","","D-III","-",NA,NA,NA,NA
-"26","Wash. & Jeff.","751","1900","Angelo Moraczyk","D-III","-",11,16,NA,0.407
-"27","Wash. & Jeff.","751","1999","Christine Medwig","D-III","-",11,13,NA,0.458
-"28","Wash. & Jeff.","751","1998","Christine Medwig","D-III","-",14,8,NA,0.636
-"29","Wash. & Jeff.","751","1997","Christine Medwig","D-III","-",13,14,NA,0.481
-"30","Wash. & Jeff.","751","1996","Kim Wilson","D-III","-",26,5,NA,0.839
-"31","Wash. & Jeff.","751","1995","Kim Wilson","D-III","-",10,10,NA,0.5
-"32","Wash. & Jeff.","751","1994","Kim Wilson","D-III","-",8,16,NA,0.333
-"33","Wash. & Jeff.","751","1993","Kim Wilson","D-III","-",5,9,NA,0.357
-"34","Wash. & Jeff.","751","1992","Kim Wilson","D-III","-",5,9,NA,0.357
-"35","Wash. & Jeff.","751","1991","Kim Wilson","D-III","-",10,8,NA,0.556
-"36","Wash. & Jeff.","751","1990","","","-",NA,NA,NA,NA
-"37","Wash. & Jeff.","751","1988","","D-III","-",NA,NA,NA,NA
-"38","Wash. & Jeff.","751","1986","","D-III","-",NA,NA,NA,NA
-"39","Wash. & Jeff.","751","1983","","","-",NA,NA,NA,NA
-"40","Wash. & Jeff.","751","1981","","","-",NA,NA,NA,NA
-"41","Wash. & Jeff.","751","","","","",463,532,1,0.465
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Marissa Rush","PAC","0-0-0",0
+"2","2024","Marissa Rush","PAC","12-18-0",0.4
+"3","2023","Marissa Rush","PAC","12-20-0",0.375
+"4","2022","Marissa Rush","PAC","12-15-0",0.444
+"5","2021","Marissa Rush","PAC","17-15-1",0.53
+"6","2020","Marissa Rush","PAC","4-9-0",0.308
+"7","2019","Marissa Rush","PAC","17-21-0",0.447
+"8","2018","Marissa Rush","PAC","13-21-0",0.382
+"9","2017","Nicole Vitello","PAC","4-25-0",0.138
+"10","2016","Nicole Vitello","PAC","15-19-0",0.441
+"11","2015","Nicole Vitello","PAC","18-18-0",0.5
+"12","2014","Nicole Vitello","PAC","25-12-0",0.676
+"13","2013","Nicole Vitello","PAC","30-16-0",0.652
+"14","2012","Nicole Vitello","PAC","15-23-0",0.395
+"15","2011","Nicole Vitello","PAC","7-22-0",0.241
+"16","2010","Nicole Vitello","PAC","12-26-0",0.316
+"17","2009","Nicole Vitello","PAC","17-23-0",0.425
+"18","2008","Nicole Vitello","PAC","28-12-0",0.7
+"19","2007","Stephani Ehrenfeld-Moore","PAC","19-15-0",0.559
+"20","2006","Stephani Ehrenfeld-Moore","PAC","25-15-0",0.625
+"21","2005","Stephani Ehrenfeld-Moore","PAC","21-18-0",0.538
+"22","2004","Stephani Ehrenfeld-Moore","PAC","14-21-0",0.4
+"23","2003","Stephani Ehrenfeld-Moore","PAC","5-21-0",0.192
+"24","2002","Emily Houghton","PAC","8-19-0",0.296
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Angelo Moraczyk","-","11-16-0",0.407
+"27","1999","Christine Medwig","-","11-13-0",0.458
+"28","1998","Christine Medwig","-","14-8-0",0.636
+"29","1997","Christine Medwig","-","13-14-0",0.481
+"30","1996","Kim Wilson","-","26-5-0",0.839
+"31","1995","Kim Wilson","-","10-10-0",0.5
+"32","1994","Kim Wilson","-","8-16-0",0.333
+"33","1993","Kim Wilson","-","5-9-0",0.357
+"34","1992","Kim Wilson","-","5-9-0",0.357
+"35","1991","Kim Wilson","-","10-8-0",0.556
+"36","1990","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA
+"38","1986","","-","NA-NA-0",NA
+"39","1983","","-","NA-NA-0",NA
+"40","1981","","-","NA-NA-0",NA

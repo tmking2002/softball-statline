@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Winston-Salem","791","2025","Tiffany Massey","D-II","CIAA",0,0,0,0
-"2","Winston-Salem","791","2024","Tiffany Massey","D-II","CIAA",19,20,0,0.487
-"3","Winston-Salem","791","2023","Tiffany Massey","D-II","CIAA",21,14,0,0.6
-"4","Winston-Salem","791","2022","Lataya Hilliard-Gray","D-II","CIAA",15,12,0,0.556
-"5","Winston-Salem","791","2021","Lataya Hilliard-Gray","D-II","CIAA",4,3,0,0.571
-"6","Winston-Salem","791","2020","Lataya Hilliard-Gray","D-II","CIAA",5,13,0,0.278
-"7","Winston-Salem","791","2019","Lataya Hilliard-Gray","D-II","CIAA",33,13,0,0.717
-"8","Winston-Salem","791","2018","Lataya Hilliard-Gray","D-II","CIAA",12,26,NA,0.316
-"9","Winston-Salem","791","2017","Lataya Hilliard-Gray","D-II","CIAA",16,31,0,0.34
-"10","Winston-Salem","791","2016","Lataya Hilliard-Gray","D-II","CIAA",30,23,0,0.566
-"11","Winston-Salem","791","2015","Lataya Hilliard-Gray","D-II","CIAA",23,22,0,0.511
-"12","Winston-Salem","791","2014","Lataya Hilliard-Gray","D-II","CIAA",28,13,0,0.683
-"13","Winston-Salem","791","2013","Lataya Hilliard-Gray","D-II","CIAA",28,21,0,0.571
-"14","Winston-Salem","791","2012","Lataya Hilliard-Gray","D-II","CIAA",30,19,0,0.612
-"15","Winston-Salem","791","2011","Lataya Hilliard-Gray","D-II","CIAA",29,13,0,0.69
-"16","Winston-Salem","791","2010","Lataya Hilliard-Gray","D-I","Winston-Salem",9,27,0,0.25
-"17","Winston-Salem","791","2009","Lataya Hilliard-Gray","D-II","MEAC",14,26,0,0.35
-"18","Winston-Salem","791","2008","Lataya Hilliard-Gray","D-II","MEAC",20,29,0,0.408
-"19","Winston-Salem","791","2007","Lataya Hilliard-Gray","D-II","MEAC",12,31,0,0.279
-"20","Winston-Salem","791","2006","Lataya Hilliard-Gray","D-II","CIAA",19,18,0,0.514
-"21","Winston-Salem","791","2005","Lataya Hilliard-Gray","D-II","CIAA",12,22,0,0.353
-"22","Winston-Salem","791","2004","Lataya Hilliard-Gray","D-II","CIAA",22,11,0,0.667
-"23","Winston-Salem","791","2003","Lataya Hilliard-Gray","D-II","CIAA",21,11,0,0.656
-"24","Winston-Salem","791","2002","Lataya Hilliard-Gray","D-II","-",21,8,2,0.71
-"25","Winston-Salem","791","2001","Keith James","D-II","-",29,6,0,0.829
-"26","Winston-Salem","791","1900","Michael Winbush","D-II","-",32,2,0,0.941
-"27","Winston-Salem","791","1999","Michael Winbush","D-II","-",17,10,0,0.63
-"28","Winston-Salem","791","1998","Michael Winbush","D-II","-",22,6,0,0.786
-"29","Winston-Salem","791","1997","Michael Winbush","D-II","-",12,10,0,0.545
-"30","Winston-Salem","791","1996","Michael Winbush","D-II","-",11,13,0,0.458
-"31","Winston-Salem","791","1995","Michael Winbush","D-II","-",15,6,0,0.714
-"32","Winston-Salem","791","1994","Michael Winbush","D-II","-",9,19,0,0.321
-"33","Winston-Salem","791","1993","Michael Winbush","D-II","-",11,14,0,0.44
-"34","Winston-Salem","791","1991","","D-II","-",NA,NA,NA,NA
-"35","Winston-Salem","791","1990","","D-II","-",NA,NA,NA,NA
-"36","Winston-Salem","791","1989","","D-II","-",NA,NA,NA,NA
-"37","Winston-Salem","791","1988","","D-II","-",NA,NA,NA,NA
-"38","Winston-Salem","791","1986","","D-II","-",NA,NA,NA,NA
-"39","Winston-Salem","791","","","","",601,512,2,0.54
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tiffany Massey","CIAA","0-0-0",0
+"2","2024","Tiffany Massey","CIAA","19-20-0",0.487
+"3","2023","Tiffany Massey","CIAA","21-14-0",0.6
+"4","2022","Lataya Hilliard-Gray","CIAA","15-12-0",0.556
+"5","2021","Lataya Hilliard-Gray","CIAA","4-3-0",0.571
+"6","2020","Lataya Hilliard-Gray","CIAA","5-13-0",0.278
+"7","2019","Lataya Hilliard-Gray","CIAA","33-13-0",0.717
+"8","2018","Lataya Hilliard-Gray","CIAA","12-26-0",0.316
+"9","2017","Lataya Hilliard-Gray","CIAA","16-31-0",0.34
+"10","2016","Lataya Hilliard-Gray","CIAA","30-23-0",0.566
+"11","2015","Lataya Hilliard-Gray","CIAA","23-22-0",0.511
+"12","2014","Lataya Hilliard-Gray","CIAA","28-13-0",0.683
+"13","2013","Lataya Hilliard-Gray","CIAA","28-21-0",0.571
+"14","2012","Lataya Hilliard-Gray","CIAA","30-19-0",0.612
+"15","2011","Lataya Hilliard-Gray","CIAA","29-13-0",0.69
+"16","2010","Lataya Hilliard-Gray","Winston-Salem","9-27-0",0.25
+"17","2009","Lataya Hilliard-Gray","MEAC","14-26-0",0.35
+"18","2008","Lataya Hilliard-Gray","MEAC","20-29-0",0.408
+"19","2007","Lataya Hilliard-Gray","MEAC","12-31-0",0.279
+"20","2006","Lataya Hilliard-Gray","CIAA","19-18-0",0.514
+"21","2005","Lataya Hilliard-Gray","CIAA","12-22-0",0.353
+"22","2004","Lataya Hilliard-Gray","CIAA","22-11-0",0.667
+"23","2003","Lataya Hilliard-Gray","CIAA","21-11-0",0.656
+"24","2002","Lataya Hilliard-Gray","-","21-8-2",0.71
+"25","2001","Keith James","-","29-6-0",0.829
+"26","1900","Michael Winbush","-","32-2-0",0.941
+"27","1999","Michael Winbush","-","17-10-0",0.63
+"28","1998","Michael Winbush","-","22-6-0",0.786
+"29","1997","Michael Winbush","-","12-10-0",0.545
+"30","1996","Michael Winbush","-","11-13-0",0.458
+"31","1995","Michael Winbush","-","15-6-0",0.714
+"32","1994","Michael Winbush","-","9-19-0",0.321
+"33","1993","Michael Winbush","-","11-14-0",0.44
+"34","1991","","-","NA-NA-0",NA
+"35","1990","","-","NA-NA-0",NA
+"36","1989","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA
+"38","1986","","-","NA-NA-0",NA

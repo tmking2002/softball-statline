@@ -1,36 +1,35 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Francis Marion","1085","2025","Stacey Vallee","D-II","Conference Carolinas",4,0,0,1
-"2","Francis Marion","1085","2024","Stacey Vallee","D-II","Conference Carolinas",47,13,0,0.783
-"3","Francis Marion","1085","2023","Stacey Vallee","D-II","Conference Carolinas",42,13,0,0.764
-"4","Francis Marion","1085","2022","Stacey Vallee","D-II","Conference Carolinas",33,22,0,0.6
-"5","Francis Marion","1085","2021","Stacey Vallee","D-II","Peach Belt",11,21,0,0.344
-"6","Francis Marion","1085","2020","Stacey Vallee","D-II","Peach Belt",24,3,0,0.889
-"7","Francis Marion","1085","2019","Stacey Vallee","D-II","Peach Belt",31,19,0,0.62
-"8","Francis Marion","1085","2018","Stacey Vallee","D-II","Peach Belt",19,25,NA,0.432
-"9","Francis Marion","1085","2017","Stacey Vallee","D-II","Peach Belt",27,22,0,0.551
-"10","Francis Marion","1085","2016","Stacey Vallee","D-II","Peach Belt",34,21,0,0.618
-"11","Francis Marion","1085","2015","Stacey Vallee","D-II","Peach Belt",25,22,0,0.532
-"12","Francis Marion","1085","2014","Stacey Vallee","D-II","Peach Belt",23,28,0,0.451
-"13","Francis Marion","1085","2013","Stacey Vallee","D-II","Peach Belt",25,26,0,0.49
-"14","Francis Marion","1085","2012","Stacey Vallee","D-II","Peach Belt",31,20,0,0.608
-"15","Francis Marion","1085","2011","Stacey Vallee","D-II","Peach Belt",24,21,1,0.533
-"16","Francis Marion","1085","2010","Stacey Vallee","D-II","Peach Belt",36,16,0,0.692
-"17","Francis Marion","1085","2009","Stacey Vallee","D-II","Peach Belt",32,19,0,0.627
-"18","Francis Marion","1085","2008","Stacey Vallee","D-II","Peach Belt",39,16,0,0.709
-"19","Francis Marion","1085","2007","Stacey Vallee","D-II","Peach Belt",34,16,0,0.68
-"20","Francis Marion","1085","2006","Stacey Vallee","D-II","Peach Belt",27,16,0,0.628
-"21","Francis Marion","1085","2005","Stacey Vallee","D-II","Peach Belt",36,14,0,0.72
-"22","Francis Marion","1085","2004","Jack Byerley","D-II","Peach Belt",37,17,0,0.685
-"23","Francis Marion","1085","2003","Jack Byerley","D-II","Peach Belt",36,9,0,0.8
-"24","Francis Marion","1085","2002","Bill Gray","D-II","Peach Belt",35,20,0,0.636
-"25","Francis Marion","1085","2001","Bill Gray","D-II","-",34,21,0,0.618
-"26","Francis Marion","1085","1900","Bill Gray","D-II","-",35,23,0,0.603
-"27","Francis Marion","1085","1999","Bill Gray","D-II","-",25,27,0,0.481
-"28","Francis Marion","1085","1998","Bill Gray","D-II","-",29,26,0,0.527
-"29","Francis Marion","1085","1997","Bill Gray","D-II","-",36,19,0,0.655
-"30","Francis Marion","1085","1996","Rendy Yates","D-II","-",27,23,0,0.54
-"31","Francis Marion","1085","1995","Debbie Fore","D-II","-",29,24,0,0.547
-"32","Francis Marion","1085","1994","Debbie Fore","D-II","-",10,28,0,0.263
-"33","Francis Marion","1085","1993","Carrie Byrd","D-II","-",28,22,0,0.56
-"34","Francis Marion","1085","1992","Renae Kirkhart","D-II","-",13,32,2,0.298
-"35","Francis Marion","1085","","","","",978,664,3,0.595
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stacey Vallee","Conference Carolinas","4-0-0",1
+"2","2024","Stacey Vallee","Conference Carolinas","47-13-0",0.783
+"3","2023","Stacey Vallee","Conference Carolinas","42-13-0",0.764
+"4","2022","Stacey Vallee","Conference Carolinas","33-22-0",0.6
+"5","2021","Stacey Vallee","Peach Belt","11-21-0",0.344
+"6","2020","Stacey Vallee","Peach Belt","24-3-0",0.889
+"7","2019","Stacey Vallee","Peach Belt","31-19-0",0.62
+"8","2018","Stacey Vallee","Peach Belt","19-25-0",0.432
+"9","2017","Stacey Vallee","Peach Belt","27-22-0",0.551
+"10","2016","Stacey Vallee","Peach Belt","34-21-0",0.618
+"11","2015","Stacey Vallee","Peach Belt","25-22-0",0.532
+"12","2014","Stacey Vallee","Peach Belt","23-28-0",0.451
+"13","2013","Stacey Vallee","Peach Belt","25-26-0",0.49
+"14","2012","Stacey Vallee","Peach Belt","31-20-0",0.608
+"15","2011","Stacey Vallee","Peach Belt","24-21-1",0.533
+"16","2010","Stacey Vallee","Peach Belt","36-16-0",0.692
+"17","2009","Stacey Vallee","Peach Belt","32-19-0",0.627
+"18","2008","Stacey Vallee","Peach Belt","39-16-0",0.709
+"19","2007","Stacey Vallee","Peach Belt","34-16-0",0.68
+"20","2006","Stacey Vallee","Peach Belt","27-16-0",0.628
+"21","2005","Stacey Vallee","Peach Belt","36-14-0",0.72
+"22","2004","Jack Byerley","Peach Belt","37-17-0",0.685
+"23","2003","Jack Byerley","Peach Belt","36-9-0",0.8
+"24","2002","Bill Gray","Peach Belt","35-20-0",0.636
+"25","2001","Bill Gray","-","34-21-0",0.618
+"26","1900","Bill Gray","-","35-23-0",0.603
+"27","1999","Bill Gray","-","25-27-0",0.481
+"28","1998","Bill Gray","-","29-26-0",0.527
+"29","1997","Bill Gray","-","36-19-0",0.655
+"30","1996","Rendy Yates","-","27-23-0",0.54
+"31","1995","Debbie Fore","-","29-24-0",0.547
+"32","1994","Debbie Fore","-","10-28-0",0.263
+"33","1993","Carrie Byrd","-","28-22-0",0.56
+"34","1992","Renae Kirkhart","-","13-32-2",0.298

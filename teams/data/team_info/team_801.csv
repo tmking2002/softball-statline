@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UW-River Falls","801","2025","Ethan Giese","D-III","WIAC",0,0,0,0
-"2","UW-River Falls","801","2024","Amber Dohlman","D-III","WIAC",10,22,0,0.313
-"3","UW-River Falls","801","2023","Amber Dohlman","D-III","WIAC",15,21,0,0.417
-"4","UW-River Falls","801","2022","Amber Dohlman","D-III","WIAC",17,16,0,0.515
-"5","UW-River Falls","801","2021","Amber Dohlman","D-III","WIAC",11,18,0,0.379
-"6","UW-River Falls","801","2020","Amber Dohlman","D-III","WIAC",0,4,0,0
-"7","UW-River Falls","801","2019","Amber Dohlman","D-III","WIAC",8,27,0,0.229
-"8","UW-River Falls","801","2018","Amber Dohlman","D-III","WIAC",21,15,NA,0.583
-"9","UW-River Falls","801","2017","Amber Dohlman","D-III","WIAC",11,24,0,0.314
-"10","UW-River Falls","801","2016","Amber Dohlman","D-III","WIAC",14,22,1,0.392
-"11","UW-River Falls","801","2015","Faye Perkins","D-III","WIAC",23,22,0,0.511
-"12","UW-River Falls","801","2014","Faye Perkins","D-III","WIAC",17,22,0,0.436
-"13","UW-River Falls","801","2013","Faye Perkins","D-III","WIAC",21,16,0,0.568
-"14","UW-River Falls","801","2012","Faye Perkins","D-III","WIAC",34,15,0,0.694
-"15","UW-River Falls","801","2011","Jody Gabriel","D-III","WIAC",28,15,0,0.651
-"16","UW-River Falls","801","2010","Jody Gabriel","D-III","WIAC",24,16,0,0.6
-"17","UW-River Falls","801","2009","Jody Gabriel","D-III","WIAC",27,16,0,0.628
-"18","UW-River Falls","801","2008","Jody Gabriel","D-III","WIAC",29,13,0,0.69
-"19","UW-River Falls","801","2007","Faye Perkins","D-III","WIAC",32,12,0,0.727
-"20","UW-River Falls","801","2006","Faye Perkins","D-III","WIAC",22,19,1,0.536
-"21","UW-River Falls","801","2005","Faye Perkins","D-III","WIAC",18,23,0,0.439
-"22","UW-River Falls","801","2004","Faye Perkins","D-III","WIAC",20,22,0,0.476
-"23","UW-River Falls","801","2003","Faye Perkins","D-III","WIAC",20,17,0,0.541
-"24","UW-River Falls","801","2002","Faye Perkins","D-III","WIAC",15,18,0,0.455
-"25","UW-River Falls","801","2001","Faye Perkins","D-III","-",21,18,NA,0.538
-"26","UW-River Falls","801","1900","Faye Perkins","D-III","-",23,21,NA,0.523
-"27","UW-River Falls","801","1999","Faye Perkins","D-III","-",16,22,1,0.423
-"28","UW-River Falls","801","1998","Chris Stainer","D-III","-",18,25,NA,0.419
-"29","UW-River Falls","801","1997","Faye Perkins","D-III","-",16,26,NA,0.381
-"30","UW-River Falls","801","1996","Faye Perkins","D-III","-",24,16,NA,0.6
-"31","UW-River Falls","801","1995","Faye Perkins","D-III","-",27,19,NA,0.587
-"32","UW-River Falls","801","1994","Faye Perkins","D-III","-",27,18,NA,0.6
-"33","UW-River Falls","801","1993","Faye Perkins","D-III","-",28,16,NA,0.636
-"34","UW-River Falls","801","1992","Faye Perkins","D-III","-",21,15,NA,0.583
-"35","UW-River Falls","801","1991","Faye Perkins","D-III","-",21,10,NA,0.677
-"36","UW-River Falls","801","1990","Faye Perkins","D-III","-",19,17,NA,0.528
-"37","UW-River Falls","801","1989","Faye Perkins","D-III","-",14,19,NA,0.424
-"38","UW-River Falls","801","1988","","D-III","-",NA,NA,NA,NA
-"39","UW-River Falls","801","1987","","D-III","-",NA,NA,NA,NA
-"40","UW-River Falls","801","1985","","D-III","-",NA,NA,NA,NA
-"41","UW-River Falls","801","1981","","","-",NA,NA,NA,NA
-"42","UW-River Falls","801","","","","",712,657,3,0.52
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ethan Giese","WIAC","0-0-0",0
+"2","2024","Amber Dohlman","WIAC","10-22-0",0.313
+"3","2023","Amber Dohlman","WIAC","15-21-0",0.417
+"4","2022","Amber Dohlman","WIAC","17-16-0",0.515
+"5","2021","Amber Dohlman","WIAC","11-18-0",0.379
+"6","2020","Amber Dohlman","WIAC","0-4-0",0
+"7","2019","Amber Dohlman","WIAC","8-27-0",0.229
+"8","2018","Amber Dohlman","WIAC","21-15-0",0.583
+"9","2017","Amber Dohlman","WIAC","11-24-0",0.314
+"10","2016","Amber Dohlman","WIAC","14-22-1",0.392
+"11","2015","Faye Perkins","WIAC","23-22-0",0.511
+"12","2014","Faye Perkins","WIAC","17-22-0",0.436
+"13","2013","Faye Perkins","WIAC","21-16-0",0.568
+"14","2012","Faye Perkins","WIAC","34-15-0",0.694
+"15","2011","Jody Gabriel","WIAC","28-15-0",0.651
+"16","2010","Jody Gabriel","WIAC","24-16-0",0.6
+"17","2009","Jody Gabriel","WIAC","27-16-0",0.628
+"18","2008","Jody Gabriel","WIAC","29-13-0",0.69
+"19","2007","Faye Perkins","WIAC","32-12-0",0.727
+"20","2006","Faye Perkins","WIAC","22-19-1",0.536
+"21","2005","Faye Perkins","WIAC","18-23-0",0.439
+"22","2004","Faye Perkins","WIAC","20-22-0",0.476
+"23","2003","Faye Perkins","WIAC","20-17-0",0.541
+"24","2002","Faye Perkins","WIAC","15-18-0",0.455
+"25","2001","Faye Perkins","-","21-18-0",0.538
+"26","1900","Faye Perkins","-","23-21-0",0.523
+"27","1999","Faye Perkins","-","16-22-1",0.423
+"28","1998","Chris Stainer","-","18-25-0",0.419
+"29","1997","Faye Perkins","-","16-26-0",0.381
+"30","1996","Faye Perkins","-","24-16-0",0.6
+"31","1995","Faye Perkins","-","27-19-0",0.587
+"32","1994","Faye Perkins","-","27-18-0",0.6
+"33","1993","Faye Perkins","-","28-16-0",0.636
+"34","1992","Faye Perkins","-","21-15-0",0.583
+"35","1991","Faye Perkins","-","21-10-0",0.677
+"36","1990","Faye Perkins","-","19-17-0",0.528
+"37","1989","Faye Perkins","-","14-19-0",0.424
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1985","","-","NA-NA-0",NA
+"41","1981","","-","NA-NA-0",NA

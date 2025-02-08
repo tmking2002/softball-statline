@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Colby","151","2025","Terren Allen","D-III","NESCAC",0,0,0,0
-"2","Colby","151","2024","Terren Allen","D-III","NESCAC",18,19,0,0.486
-"3","Colby","151","2023","Terren Allen","D-III","NESCAC",24,14,0,0.632
-"4","Colby","151","2022","Terren Allen","D-III","NESCAC",19,15,0,0.559
-"5","Colby","151","2021","Terren Allen","D-III","NESCAC",5,9,0,0.357
-"6","Colby","151","2020","Terren Allen","D-III","NESCAC",NA,NA,NA,0
-"7","Colby","151","2019","Terren Allen","D-III","NESCAC",4,28,0,0.125
-"8","Colby","151","2018","Lisa-Ann Wallace","D-III","NESCAC",2,28,NA,0.067
-"9","Colby","151","2017","Lisa-Ann Wallace","D-III","NESCAC",11,19,0,0.367
-"10","Colby","151","2016","Lisa-Ann Wallace","D-III","NESCAC",15,15,0,0.5
-"11","Colby","151","2015","Kristina Katori","D-III","NESCAC",11,18,0,0.379
-"12","Colby","151","2014","Kristina Katori","D-III","NESCAC",7,19,0,0.269
-"13","Colby","151","2013","Kristina Katori","D-III","NESCAC",11,17,0,0.393
-"14","Colby","151","2012","Kristina Katori","D-III","NESCAC",12,20,0,0.375
-"15","Colby","151","2011","Kristina Katori","D-III","NESCAC",10,19,0,0.345
-"16","Colby","151","2010","Kristina Katori","D-III","NESCAC",11,19,0,0.367
-"17","Colby","151","2009","Dick Bailey","D-III","NESCAC",18,11,0,0.621
-"18","Colby","151","2008","Dick Bailey","D-III","NESCAC",17,14,0,0.548
-"19","Colby","151","2007","Dick Bailey","D-III","NESCAC",17,13,0,0.567
-"20","Colby","151","2006","Dick Bailey","D-III","NESCAC",11,20,0,0.355
-"21","Colby","151","2005","Dick Bailey","D-III","NESCAC",11,15,0,0.423
-"22","Colby","151","2004","Dick Bailey","D-III","NESCAC",18,11,1,0.617
-"23","Colby","151","2003","Dick Bailey","D-III","NESCAC",12,13,0,0.48
-"24","Colby","151","2002","Dick Bailey","D-III","-",13,13,NA,0.5
-"25","Colby","151","2001","Dick Bailey","D-III","-",10,15,NA,0.4
-"26","Colby","151","1900","Dick Bailey","D-III","-",18,12,NA,0.6
-"27","Colby","151","1999","Dick Bailey","D-III","-",20,12,NA,0.625
-"28","Colby","151","1998","Dick Bailey","D-III","-",14,20,NA,0.412
-"29","Colby","151","1997","Dick Bailey","D-III","-",18,8,NA,0.692
-"30","Colby","151","1996","","D-III","-",NA,NA,NA,NA
-"31","Colby","151","1995","","D-III","-",NA,NA,NA,NA
-"32","Colby","151","1994","Laura Halldorson","D-III","-",9,13,NA,0.409
-"33","Colby","151","1993","Laura Halldorson","D-III","-",5,15,1,0.262
-"34","Colby","151","1992","Laura Halldorson","D-III","-",5,8,NA,0.385
-"35","Colby","151","1991","Laura Halldorson","D-III","-",5,16,NA,0.238
-"36","Colby","151","1990","","D-III","-",NA,NA,NA,NA
-"37","Colby","151","1989","","D-III","-",NA,NA,NA,NA
-"38","Colby","151","1988","","D-III","-",NA,NA,NA,NA
-"39","Colby","151","1987","","","-",NA,NA,NA,NA
-"40","Colby","151","1986","","D-III","-",NA,NA,NA,NA
-"41","Colby","151","1985","","D-III","-",NA,NA,NA,NA
-"42","Colby","151","","","","",381,488,2,0.439
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Terren Allen","NESCAC","0-0-0",0
+"2","2024","Terren Allen","NESCAC","18-19-0",0.486
+"3","2023","Terren Allen","NESCAC","24-14-0",0.632
+"4","2022","Terren Allen","NESCAC","19-15-0",0.559
+"5","2021","Terren Allen","NESCAC","5-9-0",0.357
+"6","2020","Terren Allen","NESCAC","NA-NA-0",0
+"7","2019","Terren Allen","NESCAC","4-28-0",0.125
+"8","2018","Lisa-Ann Wallace","NESCAC","2-28-0",0.067
+"9","2017","Lisa-Ann Wallace","NESCAC","11-19-0",0.367
+"10","2016","Lisa-Ann Wallace","NESCAC","15-15-0",0.5
+"11","2015","Kristina Katori","NESCAC","11-18-0",0.379
+"12","2014","Kristina Katori","NESCAC","7-19-0",0.269
+"13","2013","Kristina Katori","NESCAC","11-17-0",0.393
+"14","2012","Kristina Katori","NESCAC","12-20-0",0.375
+"15","2011","Kristina Katori","NESCAC","10-19-0",0.345
+"16","2010","Kristina Katori","NESCAC","11-19-0",0.367
+"17","2009","Dick Bailey","NESCAC","18-11-0",0.621
+"18","2008","Dick Bailey","NESCAC","17-14-0",0.548
+"19","2007","Dick Bailey","NESCAC","17-13-0",0.567
+"20","2006","Dick Bailey","NESCAC","11-20-0",0.355
+"21","2005","Dick Bailey","NESCAC","11-15-0",0.423
+"22","2004","Dick Bailey","NESCAC","18-11-1",0.617
+"23","2003","Dick Bailey","NESCAC","12-13-0",0.48
+"24","2002","Dick Bailey","-","13-13-0",0.5
+"25","2001","Dick Bailey","-","10-15-0",0.4
+"26","1900","Dick Bailey","-","18-12-0",0.6
+"27","1999","Dick Bailey","-","20-12-0",0.625
+"28","1998","Dick Bailey","-","14-20-0",0.412
+"29","1997","Dick Bailey","-","18-8-0",0.692
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","Laura Halldorson","-","9-13-0",0.409
+"33","1993","Laura Halldorson","-","5-15-1",0.262
+"34","1992","Laura Halldorson","-","5-8-0",0.385
+"35","1991","Laura Halldorson","-","5-16-0",0.238
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

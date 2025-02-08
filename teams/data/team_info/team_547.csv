@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Plattsburgh St.","547","2025","Jessica Miller","D-III","SUNYAC",0,0,0,0
-"2","Plattsburgh St.","547","2024","Sam Van Dorn","D-III","SUNYAC",11,25,0,0.306
-"3","Plattsburgh St.","547","2023","Sam Van Dorn","D-III","SUNYAC",22,12,0,0.647
-"4","Plattsburgh St.","547","2022","Sam Van Dorn","D-III","SUNYAC",14,19,0,0.424
-"5","Plattsburgh St.","547","2021","Sam Van Dorn","D-III","SUNYAC",7,9,0,0.438
-"6","Plattsburgh St.","547","2020","Bree Ferchen","D-III","SUNYAC",NA,NA,NA,0
-"7","Plattsburgh St.","547","2019","John Flynn","D-III","SUNYAC",13,19,0,0.406
-"8","Plattsburgh St.","547","2018","Stephanie Conroy","D-III","SUNYAC",19,19,NA,0.5
-"9","Plattsburgh St.","547","2017","Stephanie Conroy","D-III","SUNYAC",25,19,0,0.568
-"10","Plattsburgh St.","547","2016","Stephanie Conroy","D-III","SUNYAC",26,17,0,0.605
-"11","Plattsburgh St.","547","2015","Stephanie Conroy","D-III","SUNYAC",10,22,0,0.313
-"12","Plattsburgh St.","547","2014","Stephanie Conroy","D-III","SUNYAC",8,24,0,0.25
-"13","Plattsburgh St.","547","2013","Stephanie Conroy","D-III","SUNYAC",24,16,0,0.6
-"14","Plattsburgh St.","547","2012","Stephanie Conroy","D-III","SUNYAC",35,11,0,0.761
-"15","Plattsburgh St.","547","2011","Stephanie Conroy","D-III","SUNYAC",32,8,0,0.8
-"16","Plattsburgh St.","547","2010","Stephanie Conroy","D-III","SUNYAC",25,16,0,0.61
-"17","Plattsburgh St.","547","2009","Sean Cotter","D-III","SUNYAC",19,23,0,0.452
-"18","Plattsburgh St.","547","2008","Sean Cotter","D-III","SUNYAC",30,13,0,0.698
-"19","Plattsburgh St.","547","2007","Sean Cotter","D-III","SUNYAC",37,14,0,0.725
-"20","Plattsburgh St.","547","2006","Sean Cotter","D-III","SUNYAC",40,9,0,0.816
-"21","Plattsburgh St.","547","2005","Sean Cotter","D-III","SUNYAC",23,19,0,0.548
-"22","Plattsburgh St.","547","2004","Sean Cotter","D-III","SUNYAC",20,22,0,0.476
-"23","Plattsburgh St.","547","2003","Sean Cotter","D-III","SUNYAC",18,16,1,0.529
-"24","Plattsburgh St.","547","2002","Sean Cotter","D-III","SUNYAC",31,15,0,0.674
-"25","Plattsburgh St.","547","2001","Sean Cotter","D-III","-",24,23,NA,0.511
-"26","Plattsburgh St.","547","1900","Sean Cotter","D-III","-",15,18,NA,0.455
-"27","Plattsburgh St.","547","1999","Kris Kistler","","-",9,10,NA,0.474
-"28","Plattsburgh St.","547","1998","","","-",NA,NA,NA,NA
-"29","Plattsburgh St.","547","1997","","","-",NA,NA,NA,NA
-"30","Plattsburgh St.","547","1996","","","-",NA,NA,NA,NA
-"31","Plattsburgh St.","547","1995","","","-",NA,NA,NA,NA
-"32","Plattsburgh St.","547","1994","","","-",NA,NA,NA,NA
-"33","Plattsburgh St.","547","1993","","","-",NA,NA,NA,NA
-"34","Plattsburgh St.","547","1992","","","-",NA,NA,NA,NA
-"35","Plattsburgh St.","547","1991","","","-",NA,NA,NA,NA
-"36","Plattsburgh St.","547","1990","","","-",NA,NA,NA,NA
-"37","Plattsburgh St.","547","","","","",537,418,1,0.562
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jessica Miller","SUNYAC","0-0-0",0
+"2","2024","Sam Van Dorn","SUNYAC","11-25-0",0.306
+"3","2023","Sam Van Dorn","SUNYAC","22-12-0",0.647
+"4","2022","Sam Van Dorn","SUNYAC","14-19-0",0.424
+"5","2021","Sam Van Dorn","SUNYAC","7-9-0",0.438
+"6","2020","Bree Ferchen","SUNYAC","NA-NA-0",0
+"7","2019","John Flynn","SUNYAC","13-19-0",0.406
+"8","2018","Stephanie Conroy","SUNYAC","19-19-0",0.5
+"9","2017","Stephanie Conroy","SUNYAC","25-19-0",0.568
+"10","2016","Stephanie Conroy","SUNYAC","26-17-0",0.605
+"11","2015","Stephanie Conroy","SUNYAC","10-22-0",0.313
+"12","2014","Stephanie Conroy","SUNYAC","8-24-0",0.25
+"13","2013","Stephanie Conroy","SUNYAC","24-16-0",0.6
+"14","2012","Stephanie Conroy","SUNYAC","35-11-0",0.761
+"15","2011","Stephanie Conroy","SUNYAC","32-8-0",0.8
+"16","2010","Stephanie Conroy","SUNYAC","25-16-0",0.61
+"17","2009","Sean Cotter","SUNYAC","19-23-0",0.452
+"18","2008","Sean Cotter","SUNYAC","30-13-0",0.698
+"19","2007","Sean Cotter","SUNYAC","37-14-0",0.725
+"20","2006","Sean Cotter","SUNYAC","40-9-0",0.816
+"21","2005","Sean Cotter","SUNYAC","23-19-0",0.548
+"22","2004","Sean Cotter","SUNYAC","20-22-0",0.476
+"23","2003","Sean Cotter","SUNYAC","18-16-1",0.529
+"24","2002","Sean Cotter","SUNYAC","31-15-0",0.674
+"25","2001","Sean Cotter","-","24-23-0",0.511
+"26","1900","Sean Cotter","-","15-18-0",0.455
+"27","1999","Kris Kistler","-","9-10-0",0.474
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Oklahoma","522","2025","Patty Gasso","D-I","SEC",3,0,0,1
-"2","Oklahoma","522","2024","Patty Gasso","D-I","Big 12",59,7,0,0.894
-"3","Oklahoma","522","2023","Patty Gasso","D-I","Big 12",61,1,0,0.984
-"4","Oklahoma","522","2022","Patty Gasso","D-I","Big 12",59,3,0,0.952
-"5","Oklahoma","522","2021","Patty Gasso","D-I","Big 12",56,4,0,0.933
-"6","Oklahoma","522","2020","Patty Gasso","D-I","Big 12",20,4,0,0.833
-"7","Oklahoma","522","2019","Patty Gasso","D-I","Big 12",57,6,0,0.905
-"8","Oklahoma","522","2018","Patty Gasso","D-I","Big 12",57,5,0,0.919
-"9","Oklahoma","522","2017","Patty Gasso","D-I","Big 12",61,9,0,0.871
-"10","Oklahoma","522","2016","Patty Gasso","D-I","Big 12",57,8,0,0.877
-"11","Oklahoma","522","2015","Patty Gasso","D-I","Big 12",49,9,0,0.845
-"12","Oklahoma","522","2014","Patty Gasso","D-I","Big 12",51,13,0,0.797
-"13","Oklahoma","522","2013","Patty Gasso","D-I","Big 12",57,4,0,0.934
-"14","Oklahoma","522","2012","Patty Gasso","D-I","Big 12",53,10,3,0.826
-"15","Oklahoma","522","2011","Patty Gasso","D-I","Big 12",43,19,0,0.694
-"16","Oklahoma","522","2010","Patty Gasso","D-I","Big 12",47,12,0,0.797
-"17","Oklahoma","522","2009","Patty Gasso","D-I","Big 12",41,16,0,0.719
-"18","Oklahoma","522","2008","Patty Gasso","D-I","Big 12",47,14,0,0.77
-"19","Oklahoma","522","2007","Patty Gasso","D-I","Big 12",55,8,0,0.873
-"20","Oklahoma","522","2006","Patty Gasso","D-I","Big 12",40,21,1,0.653
-"21","Oklahoma","522","2005","Patty Gasso","D-I","Big 12",50,17,0,0.746
-"22","Oklahoma","522","2004","Patty Gasso","D-I","Big 12",45,22,1,0.669
-"23","Oklahoma","522","2003","Patty Gasso","D-I","Big 12",47,14,0,0.77
-"24","Oklahoma","522","2002","Patty Gasso","D-I","Big 12",49,16,0,0.754
-"25","Oklahoma","522","2001","Patty Gasso","D-I","Big 12",50,9,0,0.847
-"26","Oklahoma","522","1900","Patty Gasso","D-I","Big 12",66,8,0,0.892
-"27","Oklahoma","522","1999","Patty Gasso","D-I","Big 12",40,16,0,0.714
-"28","Oklahoma","522","1998","Patty Gasso","D-I","-",49,15,NA,0.766
-"29","Oklahoma","522","1997","Patty Gasso","D-I","Big 12",55,19,0,0.743
-"30","Oklahoma","522","1996","Patty Gasso","D-I","-",50,20,NA,0.714
-"31","Oklahoma","522","1995","Patty Gasso","D-I","-",43,23,NA,0.652
-"32","Oklahoma","522","1994","Jim Beitia","D-I","-",58,15,NA,0.795
-"33","Oklahoma","522","1993","Michelle Thomas","D-I","-",22,28,NA,0.44
-"34","Oklahoma","522","1992","Jim Beitia","D-I","-",40,26,NA,0.606
-"35","Oklahoma","522","1991","Michelle Thomas","D-I","-",36,23,NA,0.61
-"36","Oklahoma","522","1990","Michelle Thomas","D-I","-",13,31,NA,0.295
-"37","Oklahoma","522","1989","Michelle Thomas","D-I","-",16,40,NA,0.286
-"38","Oklahoma","522","1988","Michelle Thomas","D-I","-",18,26,NA,0.409
-"39","Oklahoma","522","1987","Michelle Thomas","D-I","-",29,21,NA,0.58
-"40","Oklahoma","522","1986","Michelle Thomas","D-I","-",26,17,NA,0.605
-"41","Oklahoma","522","1985","Michelle Thomas","D-I","-",24,16,NA,0.6
-"42","Oklahoma","522","1984","","D-I","-",NA,NA,NA,NA
-"43","Oklahoma","522","1983","","D-I","-",NA,NA,NA,NA
-"44","Oklahoma","522","1982","","D-I","-",NA,NA,NA,NA
-"45","Oklahoma","522","","","","",1799,595,5,0.751
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Patty Gasso","SEC","3-0-0",1
+"2","2024","Patty Gasso","Big 12","59-7-0",0.894
+"3","2023","Patty Gasso","Big 12","61-1-0",0.984
+"4","2022","Patty Gasso","Big 12","59-3-0",0.952
+"5","2021","Patty Gasso","Big 12","56-4-0",0.933
+"6","2020","Patty Gasso","Big 12","20-4-0",0.833
+"7","2019","Patty Gasso","Big 12","57-6-0",0.905
+"8","2018","Patty Gasso","Big 12","57-5-0",0.919
+"9","2017","Patty Gasso","Big 12","61-9-0",0.871
+"10","2016","Patty Gasso","Big 12","57-8-0",0.877
+"11","2015","Patty Gasso","Big 12","49-9-0",0.845
+"12","2014","Patty Gasso","Big 12","51-13-0",0.797
+"13","2013","Patty Gasso","Big 12","57-4-0",0.934
+"14","2012","Patty Gasso","Big 12","53-10-3",0.826
+"15","2011","Patty Gasso","Big 12","43-19-0",0.694
+"16","2010","Patty Gasso","Big 12","47-12-0",0.797
+"17","2009","Patty Gasso","Big 12","41-16-0",0.719
+"18","2008","Patty Gasso","Big 12","47-14-0",0.77
+"19","2007","Patty Gasso","Big 12","55-8-0",0.873
+"20","2006","Patty Gasso","Big 12","40-21-1",0.653
+"21","2005","Patty Gasso","Big 12","50-17-0",0.746
+"22","2004","Patty Gasso","Big 12","45-22-1",0.669
+"23","2003","Patty Gasso","Big 12","47-14-0",0.77
+"24","2002","Patty Gasso","Big 12","49-16-0",0.754
+"25","2001","Patty Gasso","Big 12","50-9-0",0.847
+"26","1900","Patty Gasso","Big 12","66-8-0",0.892
+"27","1999","Patty Gasso","Big 12","40-16-0",0.714
+"28","1998","Patty Gasso","-","49-15-0",0.766
+"29","1997","Patty Gasso","Big 12","55-19-0",0.743
+"30","1996","Patty Gasso","-","50-20-0",0.714
+"31","1995","Patty Gasso","-","43-23-0",0.652
+"32","1994","Jim Beitia","-","58-15-0",0.795
+"33","1993","Michelle Thomas","-","22-28-0",0.44
+"34","1992","Jim Beitia","-","40-26-0",0.606
+"35","1991","Michelle Thomas","-","36-23-0",0.61
+"36","1990","Michelle Thomas","-","13-31-0",0.295
+"37","1989","Michelle Thomas","-","16-40-0",0.286
+"38","1988","Michelle Thomas","-","18-26-0",0.409
+"39","1987","Michelle Thomas","-","29-21-0",0.58
+"40","1986","Michelle Thomas","-","26-17-0",0.605
+"41","1985","Michelle Thomas","-","24-16-0",0.6
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

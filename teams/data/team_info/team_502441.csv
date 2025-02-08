@@ -1,22 +1,21 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Judson (AL)","502441","2021",NA,NA,"-",NA,NA,NA,0
-"2","Judson (AL)","502441","2020",NA,NA,"-",NA,NA,NA,0
-"3","Judson (AL)","502441","2019",NA,NA,"-",NA,NA,NA,0
-"4","Judson (AL)","502441","2018",NA,NA,"-",NA,NA,NA,0
-"5","Judson (AL)","502441","2017",NA,NA,"-",NA,NA,NA,NA
-"6","Judson (AL)","502441","2016",NA,NA,"-",NA,NA,NA,NA
-"7","Judson (AL)","502441","2015",NA,NA,"-",NA,NA,NA,NA
-"8","Judson (AL)","502441","2014",NA,NA,"-",NA,NA,NA,NA
-"9","Judson (AL)","502441","2013",NA,NA,"-",NA,NA,NA,NA
-"10","Judson (AL)","502441","2012",NA,NA,"-",NA,NA,NA,NA
-"11","Judson (AL)","502441","2011",NA,NA,"-",NA,NA,NA,NA
-"12","Judson (AL)","502441","2010",NA,NA,"-",NA,NA,NA,NA
-"13","Judson (AL)","502441","2009",NA,NA,"-",NA,NA,NA,NA
-"14","Judson (AL)","502441","2008",NA,NA,"-",NA,NA,NA,NA
-"15","Judson (AL)","502441","2007",NA,NA,"-",NA,NA,NA,NA
-"16","Judson (AL)","502441","2006",NA,NA,"-",NA,NA,NA,NA
-"17","Judson (AL)","502441","2005",NA,NA,"-",NA,NA,NA,NA
-"18","Judson (AL)","502441","2004",NA,NA,"-",0,2,0,0
-"19","Judson (AL)","502441","2003",NA,NA,"-",NA,NA,NA,NA
-"20","Judson (AL)","502441","2002",NA,NA,"-",NA,NA,NA,NA
-"21","Judson (AL)","502441","",NA,NA,"",0,2,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2021",NA,"-","NA-NA-0",0
+"2","2020",NA,"-","NA-NA-0",0
+"3","2019",NA,"-","NA-NA-0",0
+"4","2018",NA,"-","NA-NA-0",0
+"5","2017",NA,"-","NA-NA-0",NA
+"6","2016",NA,"-","NA-NA-0",NA
+"7","2015",NA,"-","NA-NA-0",NA
+"8","2014",NA,"-","NA-NA-0",NA
+"9","2013",NA,"-","NA-NA-0",NA
+"10","2012",NA,"-","NA-NA-0",NA
+"11","2011",NA,"-","NA-NA-0",NA
+"12","2010",NA,"-","NA-NA-0",NA
+"13","2009",NA,"-","NA-NA-0",NA
+"14","2008",NA,"-","NA-NA-0",NA
+"15","2007",NA,"-","NA-NA-0",NA
+"16","2006",NA,"-","NA-NA-0",NA
+"17","2005",NA,"-","NA-NA-0",NA
+"18","2004",NA,"-","0-2-0",0
+"19","2003",NA,"-","NA-NA-0",NA
+"20","2002",NA,"-","NA-NA-0",NA

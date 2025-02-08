@@ -1,28 +1,27 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Meredith","409","2025","Kim Scavone","D-III","USA South",0,0,0,0
-"2","Meredith","409","2024","Kim Scavone","D-III","USA South",19,23,0,0.452
-"3","Meredith","409","2023","Kim Scavone","D-III","USA South",22,19,0,0.537
-"4","Meredith","409","2022","Kim Scavone","D-III","USA South",20,16,0,0.556
-"5","Meredith","409","2021","Kim Scavone","D-III","USA South",9,19,0,0.321
-"6","Meredith","409","2020","Kim Scavone","D-III","USA South",4,12,0,0.25
-"7","Meredith","409","2019","Kim Scavone","D-III","USA South",14,22,0,0.389
-"8","Meredith","409","2018","Kim Scavone","D-III","USA South",28,17,1,0.62
-"9","Meredith","409","2017","Kim Scavone","D-III","USA South",28,17,0,0.622
-"10","Meredith","409","2016","Kim Scavone","D-III","USA South",20,20,0,0.5
-"11","Meredith","409","2015","Kim Scavone","D-III","USA South",15,19,0,0.441
-"12","Meredith","409","2014","Kim Scavone","D-III","USA South",22,20,0,0.524
-"13","Meredith","409","2013","Kim Scavone","D-III","USA South",15,14,0,0.517
-"14","Meredith","409","2012","Kim Scavone","D-III","USA South",27,13,0,0.675
-"15","Meredith","409","2011","Kim Scavone","D-III","USA South",16,22,0,0.421
-"16","Meredith","409","2010","Robert Luckadoo","D-III","USA South",22,17,0,0.564
-"17","Meredith","409","2009","Robert Luckadoo","D-III","USA South",13,19,0,0.406
-"18","Meredith","409","2008","Robert Luckadoo","D-III","USA South",10,26,0,0.278
-"19","Meredith","409","2007","Theresa Walker","D-III","-",6,30,0,0.167
-"20","Meredith","409","2006","Theresa Walker","D-III","-",5,27,0,0.156
-"21","Meredith","409","2005","Jim Smith","D-III","-",7,24,0,0.226
-"22","Meredith","409","2004","","D-III","-",17,20,1,0.461
-"23","Meredith","409","2003","","D-III","-",NA,NA,NA,NA
-"24","Meredith","409","2002","","","-",NA,NA,NA,NA
-"25","Meredith","409","1989","","D-II","-",NA,NA,NA,NA
-"26","Meredith","409","1983","","","-",NA,NA,NA,NA
-"27","Meredith","409","","","","",339,416,2,0.449
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kim Scavone","USA South","0-0-0",0
+"2","2024","Kim Scavone","USA South","19-23-0",0.452
+"3","2023","Kim Scavone","USA South","22-19-0",0.537
+"4","2022","Kim Scavone","USA South","20-16-0",0.556
+"5","2021","Kim Scavone","USA South","9-19-0",0.321
+"6","2020","Kim Scavone","USA South","4-12-0",0.25
+"7","2019","Kim Scavone","USA South","14-22-0",0.389
+"8","2018","Kim Scavone","USA South","28-17-1",0.62
+"9","2017","Kim Scavone","USA South","28-17-0",0.622
+"10","2016","Kim Scavone","USA South","20-20-0",0.5
+"11","2015","Kim Scavone","USA South","15-19-0",0.441
+"12","2014","Kim Scavone","USA South","22-20-0",0.524
+"13","2013","Kim Scavone","USA South","15-14-0",0.517
+"14","2012","Kim Scavone","USA South","27-13-0",0.675
+"15","2011","Kim Scavone","USA South","16-22-0",0.421
+"16","2010","Robert Luckadoo","USA South","22-17-0",0.564
+"17","2009","Robert Luckadoo","USA South","13-19-0",0.406
+"18","2008","Robert Luckadoo","USA South","10-26-0",0.278
+"19","2007","Theresa Walker","-","6-30-0",0.167
+"20","2006","Theresa Walker","-","5-27-0",0.156
+"21","2005","Jim Smith","-","7-24-0",0.226
+"22","2004","","-","17-20-1",0.461
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","1989","","-","NA-NA-0",NA
+"26","1983","","-","NA-NA-0",NA

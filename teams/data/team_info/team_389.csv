@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mary Baldwin","389","2025","Christy Shelton","D-III","USA South",0,0,0,0
-"2","Mary Baldwin","389","2024","Christy Shelton","D-III","USA South",17,17,0,0.5
-"3","Mary Baldwin","389","2023","Christy Shelton","D-III","USA South",19,17,1,0.527
-"4","Mary Baldwin","389","2022","Christy Shelton","D-III","USA South",9,26,1,0.264
-"5","Mary Baldwin","389","2021","Christy Shelton","D-III","USA South",5,17,0,0.227
-"6","Mary Baldwin","389","2020","Christy Shelton","D-III","USA South",3,9,0,0.25
-"7","Mary Baldwin","389","2019","Christy Shelton","D-III","USA South",6,28,0,0.176
-"8","Mary Baldwin","389","2018","Christy Shelton","D-III","USA South",1,30,NA,0.032
-"9","Mary Baldwin","389","2017","Christy Shelton","D-III","USA South",7,25,0,0.219
-"10","Mary Baldwin","389","2016","Christy Shelton","D-III","USA South",10,30,0,0.25
-"11","Mary Baldwin","389","2015","Christy Shelton","D-III","USA South",7,31,0,0.184
-"12","Mary Baldwin","389","2014","Christy Shelton","D-III","USA South",5,27,0,0.156
-"13","Mary Baldwin","389","2013","Christy Shelton","D-III","USA South",5,35,0,0.125
-"14","Mary Baldwin","389","2012","Christy Shelton","D-III","USA South",8,32,0,0.2
-"15","Mary Baldwin","389","2011","Christy Shelton","D-III","USA South",4,28,0,0.125
-"16","Mary Baldwin","389","2010","Christy Shelton","D-III","USA South",2,37,0,0.051
-"17","Mary Baldwin","389","2009","Christy Shelton","D-III","USA South",4,34,0,0.105
-"18","Mary Baldwin","389","2008","Christy Shelton","D-III","USA South",3,36,0,0.077
-"19","Mary Baldwin","389","2007","Christy Shelton","D-III","AWCC",8,25,0,0.242
-"20","Mary Baldwin","389","2006","Christy Shelton","D-III","AWCC",20,22,0,0.476
-"21","Mary Baldwin","389","2005","Christy Shelton","D-III","AWCC",15,24,0,0.385
-"22","Mary Baldwin","389","2004","Christy Shelton","D-III","AWCC",21,19,0,0.525
-"23","Mary Baldwin","389","2003","Chip Abernathy","D-III","AWCC",16,20,1,0.446
-"24","Mary Baldwin","389","2002","Chip Abernathy","D-III","AWCC",13,23,0,0.361
-"25","Mary Baldwin","389","2001","Chip Abernathy","D-III","-",3,21,0,0.125
-"26","Mary Baldwin","389","1900","","","-",NA,NA,NA,NA
-"27","Mary Baldwin","389","1999","","","-",NA,NA,NA,NA
-"28","Mary Baldwin","389","1998","","","-",NA,NA,NA,NA
-"29","Mary Baldwin","389","1997","","","-",NA,NA,NA,NA
-"30","Mary Baldwin","389","1996","","","-",NA,NA,NA,NA
-"31","Mary Baldwin","389","1995","","","-",NA,NA,NA,NA
-"32","Mary Baldwin","389","1994","","","-",NA,NA,NA,NA
-"33","Mary Baldwin","389","1993","","","-",NA,NA,NA,NA
-"34","Mary Baldwin","389","1992","","","-",NA,NA,NA,NA
-"35","Mary Baldwin","389","1991","","","-",NA,NA,NA,NA
-"36","Mary Baldwin","389","1990","","","-",NA,NA,NA,NA
-"37","Mary Baldwin","389","","","","",211,613,3,0.257
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Christy Shelton","USA South","0-0-0",0
+"2","2024","Christy Shelton","USA South","17-17-0",0.5
+"3","2023","Christy Shelton","USA South","19-17-1",0.527
+"4","2022","Christy Shelton","USA South","9-26-1",0.264
+"5","2021","Christy Shelton","USA South","5-17-0",0.227
+"6","2020","Christy Shelton","USA South","3-9-0",0.25
+"7","2019","Christy Shelton","USA South","6-28-0",0.176
+"8","2018","Christy Shelton","USA South","1-30-0",0.032
+"9","2017","Christy Shelton","USA South","7-25-0",0.219
+"10","2016","Christy Shelton","USA South","10-30-0",0.25
+"11","2015","Christy Shelton","USA South","7-31-0",0.184
+"12","2014","Christy Shelton","USA South","5-27-0",0.156
+"13","2013","Christy Shelton","USA South","5-35-0",0.125
+"14","2012","Christy Shelton","USA South","8-32-0",0.2
+"15","2011","Christy Shelton","USA South","4-28-0",0.125
+"16","2010","Christy Shelton","USA South","2-37-0",0.051
+"17","2009","Christy Shelton","USA South","4-34-0",0.105
+"18","2008","Christy Shelton","USA South","3-36-0",0.077
+"19","2007","Christy Shelton","AWCC","8-25-0",0.242
+"20","2006","Christy Shelton","AWCC","20-22-0",0.476
+"21","2005","Christy Shelton","AWCC","15-24-0",0.385
+"22","2004","Christy Shelton","AWCC","21-19-0",0.525
+"23","2003","Chip Abernathy","AWCC","16-20-1",0.446
+"24","2002","Chip Abernathy","AWCC","13-23-0",0.361
+"25","2001","Chip Abernathy","-","3-21-0",0.125
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

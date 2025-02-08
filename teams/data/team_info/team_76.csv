@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bridgewater St.","76","2025","Carrie Consalvi","D-III","MASCAC",0,0,0,0
-"2","Bridgewater St.","76","2024","Carrie Consalvi","D-III","MASCAC",19,20,0,0.487
-"3","Bridgewater St.","76","2023","Carrie Consalvi","D-III","MASCAC",15,27,1,0.36
-"4","Bridgewater St.","76","2022","Lindsey Couturier","D-III","MASCAC",23,16,1,0.588
-"5","Bridgewater St.","76","2021","Lindsey Couturier","D-III","MASCAC",17,11,1,0.603
-"6","Bridgewater St.","76","2020","Lindsey Couturier","D-III","MASCAC",4,8,0,0.333
-"7","Bridgewater St.","76","2019","Lindsey Couturier","D-III","MASCAC",20,21,0,0.488
-"8","Bridgewater St.","76","2018","Lindsey Couturier","D-III","MASCAC",18,19,NA,0.486
-"9","Bridgewater St.","76","2017","Chrissy Semler","D-III","MASCAC",15,20,0,0.429
-"10","Bridgewater St.","76","2016","Chrissy Semler","D-III","MASCAC",25,15,0,0.625
-"11","Bridgewater St.","76","2015","Chrissy Semler","D-III","MASCAC",20,16,0,0.556
-"12","Bridgewater St.","76","2014","Chrissy Semler","D-III","MASCAC",32,14,0,0.696
-"13","Bridgewater St.","76","2013","Lori Salvia","D-III","MASCAC",26,17,0,0.605
-"14","Bridgewater St.","76","2012","Lori Salvia","D-III","MASCAC",29,13,0,0.69
-"15","Bridgewater St.","76","2011","Lori Salvia","D-III","MASCAC",18,23,0,0.439
-"16","Bridgewater St.","76","2010","Lori Salvia","D-III","MASCAC",21,21,0,0.5
-"17","Bridgewater St.","76","2009","Lori Salvia","D-III","MASCAC",28,11,0,0.718
-"18","Bridgewater St.","76","2008","Lori Salvia","D-III","MASCAC",26,17,0,0.605
-"19","Bridgewater St.","76","2007","Janet Maguire","D-III","MASCAC",22,20,1,0.523
-"20","Bridgewater St.","76","2006","Janet Maguire","D-III","MASCAC",26,21,0,0.553
-"21","Bridgewater St.","76","2005","Janet Maguire","D-III","MASCAC",23,17,0,0.575
-"22","Bridgewater St.","76","2004","Janet Maguire","D-III","MASCAC",24,18,0,0.571
-"23","Bridgewater St.","76","2003","Janet Maguire","D-III","MASCAC",18,20,0,0.474
-"24","Bridgewater St.","76","2002","Janet Maguire","D-III","MASCAC",28,14,1,0.663
-"25","Bridgewater St.","76","2001","Janet Maguire","D-III","-",34,12,NA,0.739
-"26","Bridgewater St.","76","1900","Dee Dee Enabenter-Omidiji","D-III","-",36,10,1,0.777
-"27","Bridgewater St.","76","1999","Dee Dee Enabenter-Omidiji","D-III","-",38,9,NA,0.809
-"28","Bridgewater St.","76","1998","Dee Dee Enabenter-Omidiji","D-III","-",35,11,NA,0.761
-"29","Bridgewater St.","76","1997","Dee Dee Enabenter-Omidiji","D-III","-",23,17,NA,0.575
-"30","Bridgewater St.","76","1996","Dee Dee Enabenter-Omidiji","D-III","-",33,5,NA,0.868
-"31","Bridgewater St.","76","1995","Dee Dee Enabenter-Omidiji","D-III","-",21,20,NA,0.512
-"32","Bridgewater St.","76","1994","Dee Dee Enabenter-Omidiji","D-III","-",39,8,NA,0.83
-"33","Bridgewater St.","76","1993","Dee Dee Enabenter-Omidiji","D-III","-",27,10,NA,0.73
-"34","Bridgewater St.","76","1992","Deb Carreiro","D-III","-",18,12,NA,0.6
-"35","Bridgewater St.","76","1991","Dee Dee Enabenter-Omidiji","D-III","-",22,7,NA,0.759
-"36","Bridgewater St.","76","1990","Dee Dee Enabenter-Omidiji","D-III","-",23,6,NA,0.793
-"37","Bridgewater St.","76","1989","Dee Dee Enabenter-Omidiji","D-III","-",25,8,NA,0.758
-"38","Bridgewater St.","76","1988","Dee Dee Enabenter-Omidiji","D-III","-",26,8,1,0.757
-"39","Bridgewater St.","76","1987","Dee Dee Enabenter-Omidiji","D-III","-",18,10,NA,0.643
-"40","Bridgewater St.","76","1986","Dee Dee Enabenter-Omidiji","D-III","-",21,7,NA,0.75
-"41","Bridgewater St.","76","1985","Dee Dee Enabenter-Omidiji","D-III","-",21,11,NA,0.656
-"42","Bridgewater St.","76","1984","Dee Dee Enabenter-Omidiji","D-III","-",21,6,1,0.768
-"43","Bridgewater St.","76","","","","",978,576,8,0.629
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Carrie Consalvi","MASCAC","0-0-0",0
+"2","2024","Carrie Consalvi","MASCAC","19-20-0",0.487
+"3","2023","Carrie Consalvi","MASCAC","15-27-1",0.36
+"4","2022","Lindsey Couturier","MASCAC","23-16-1",0.588
+"5","2021","Lindsey Couturier","MASCAC","17-11-1",0.603
+"6","2020","Lindsey Couturier","MASCAC","4-8-0",0.333
+"7","2019","Lindsey Couturier","MASCAC","20-21-0",0.488
+"8","2018","Lindsey Couturier","MASCAC","18-19-0",0.486
+"9","2017","Chrissy Semler","MASCAC","15-20-0",0.429
+"10","2016","Chrissy Semler","MASCAC","25-15-0",0.625
+"11","2015","Chrissy Semler","MASCAC","20-16-0",0.556
+"12","2014","Chrissy Semler","MASCAC","32-14-0",0.696
+"13","2013","Lori Salvia","MASCAC","26-17-0",0.605
+"14","2012","Lori Salvia","MASCAC","29-13-0",0.69
+"15","2011","Lori Salvia","MASCAC","18-23-0",0.439
+"16","2010","Lori Salvia","MASCAC","21-21-0",0.5
+"17","2009","Lori Salvia","MASCAC","28-11-0",0.718
+"18","2008","Lori Salvia","MASCAC","26-17-0",0.605
+"19","2007","Janet Maguire","MASCAC","22-20-1",0.523
+"20","2006","Janet Maguire","MASCAC","26-21-0",0.553
+"21","2005","Janet Maguire","MASCAC","23-17-0",0.575
+"22","2004","Janet Maguire","MASCAC","24-18-0",0.571
+"23","2003","Janet Maguire","MASCAC","18-20-0",0.474
+"24","2002","Janet Maguire","MASCAC","28-14-1",0.663
+"25","2001","Janet Maguire","-","34-12-0",0.739
+"26","1900","Dee Dee Enabenter-Omidiji","-","36-10-1",0.777
+"27","1999","Dee Dee Enabenter-Omidiji","-","38-9-0",0.809
+"28","1998","Dee Dee Enabenter-Omidiji","-","35-11-0",0.761
+"29","1997","Dee Dee Enabenter-Omidiji","-","23-17-0",0.575
+"30","1996","Dee Dee Enabenter-Omidiji","-","33-5-0",0.868
+"31","1995","Dee Dee Enabenter-Omidiji","-","21-20-0",0.512
+"32","1994","Dee Dee Enabenter-Omidiji","-","39-8-0",0.83
+"33","1993","Dee Dee Enabenter-Omidiji","-","27-10-0",0.73
+"34","1992","Deb Carreiro","-","18-12-0",0.6
+"35","1991","Dee Dee Enabenter-Omidiji","-","22-7-0",0.759
+"36","1990","Dee Dee Enabenter-Omidiji","-","23-6-0",0.793
+"37","1989","Dee Dee Enabenter-Omidiji","-","25-8-0",0.758
+"38","1988","Dee Dee Enabenter-Omidiji","-","26-8-1",0.757
+"39","1987","Dee Dee Enabenter-Omidiji","-","18-10-0",0.643
+"40","1986","Dee Dee Enabenter-Omidiji","-","21-7-0",0.75
+"41","1985","Dee Dee Enabenter-Omidiji","-","21-11-0",0.656
+"42","1984","Dee Dee Enabenter-Omidiji","-","21-6-1",0.768

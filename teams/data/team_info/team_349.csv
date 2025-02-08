@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Le Moyne","349","2025","Tracey Roman","D-I","NEC",0,2,0,0
-"2","Le Moyne","349","2024","Tracey Roman","D-I","NEC",17,37,0,0.315
-"3","Le Moyne","349","2023","Tracey Roman","D-II","NE10",23,23,0,0.5
-"4","Le Moyne","349","2022","Tracey Roman","D-II","NE10",20,22,0,0.476
-"5","Le Moyne","349","2021","Tracey Roman","D-II","NE10",12,14,0,0.462
-"6","Le Moyne","349","2020","Tracey Roman","D-II","NE10",7,8,0,0.467
-"7","Le Moyne","349","2019","Riley Johnson","D-II","NE10",21,19,0,0.525
-"8","Le Moyne","349","2018","Jason Marino","D-II","NE10",32,15,NA,0.681
-"9","Le Moyne","349","2017","Jason Marino","D-II","NE10",29,17,0,0.63
-"10","Le Moyne","349","2016","Jason Marino","D-II","NE10",32,17,0,0.653
-"11","Le Moyne","349","2015","Jason Marino","D-II","NE10",18,16,0,0.529
-"12","Le Moyne","349","2014","Jason Marino","D-II","NE10",24,17,0,0.585
-"13","Le Moyne","349","2013","Jason Marino","D-II","NE10",21,21,0,0.5
-"14","Le Moyne","349","2012","Christina Plew-Whitlock","D-II","NE10",29,26,0,0.527
-"15","Le Moyne","349","2011","Christina Plew-Whitlock","D-II","NE10",18,21,1,0.463
-"16","Le Moyne","349","2010","Christina Plew-Whitlock","D-II","NE10",23,20,0,0.535
-"17","Le Moyne","349","2009","Christina Plew-Whitlock","D-II","NE10",45,13,0,0.776
-"18","Le Moyne","349","2008","Kenneth King","D-II","NE10",46,11,0,0.807
-"19","Le Moyne","349","2007","Kenneth King","D-II","NE10",32,17,0,0.653
-"20","Le Moyne","349","2006","Kenneth King","D-II","NE10",32,21,0,0.604
-"21","Le Moyne","349","2005","Kenneth King","D-II","NE10",43,11,0,0.796
-"22","Le Moyne","349","2004","Kenneth King","D-II","NE10",34,10,0,0.773
-"23","Le Moyne","349","2003","Kenneth King","D-II","NE10",47,10,0,0.825
-"24","Le Moyne","349","2002","Kenneth King","D-II","NE10",35,11,0,0.761
-"25","Le Moyne","349","2001","Kenneth King","D-II","-",33,16,1,0.67
-"26","Le Moyne","349","1900","Kenneth King","D-II","-",24,17,NA,0.585
-"27","Le Moyne","349","1999","Kenneth King","D-II","-",15,22,1,0.408
-"28","Le Moyne","349","1998","Kenneth King","D-II","-",21,22,1,0.489
-"29","Le Moyne","349","1997","Christine Rizzieri","D-II","-",22,22,NA,0.5
-"30","Le Moyne","349","1996","Christine Rizzieri","D-II","-",14,25,NA,0.359
-"31","Le Moyne","349","1995","Christine Rizzieri","D-II","-",16,23,NA,0.41
-"32","Le Moyne","349","1994","Christine Rizzieri","D-II","-",20,19,NA,0.513
-"33","Le Moyne","349","1993","Christine Rizzieri","D-II","-",19,14,NA,0.576
-"34","Le Moyne","349","1992","Christine Rizzieri","D-II","-",12,8,NA,0.6
-"35","Le Moyne","349","1991","Christine Rizzieri","D-II","-",17,10,NA,0.63
-"36","Le Moyne","349","1990","Christine Rizzieri","D-II","-",10,17,NA,0.37
-"37","Le Moyne","349","1989","Christine Rizzieri","D-II","-",12,13,NA,0.48
-"38","Le Moyne","349","1988","Christine Rizzieri","D-II","-",7,15,NA,0.318
-"39","Le Moyne","349","1987","Christine Rizzieri","D-II","-",11,15,NA,0.423
-"40","Le Moyne","349","1986","Christine Rizzieri","D-II","-",15,12,NA,0.556
-"41","Le Moyne","349","1985","Christine Rizzieri","D-II","-",17,7,NA,0.708
-"42","Le Moyne","349","1984","Christine Rizzieri","D-II","-",12,1,NA,0.923
-"43","Le Moyne","349","","","","",937,677,4,0.58
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tracey Roman","NEC","0-2-0",0
+"2","2024","Tracey Roman","NEC","17-37-0",0.315
+"3","2023","Tracey Roman","NE10","23-23-0",0.5
+"4","2022","Tracey Roman","NE10","20-22-0",0.476
+"5","2021","Tracey Roman","NE10","12-14-0",0.462
+"6","2020","Tracey Roman","NE10","7-8-0",0.467
+"7","2019","Riley Johnson","NE10","21-19-0",0.525
+"8","2018","Jason Marino","NE10","32-15-0",0.681
+"9","2017","Jason Marino","NE10","29-17-0",0.63
+"10","2016","Jason Marino","NE10","32-17-0",0.653
+"11","2015","Jason Marino","NE10","18-16-0",0.529
+"12","2014","Jason Marino","NE10","24-17-0",0.585
+"13","2013","Jason Marino","NE10","21-21-0",0.5
+"14","2012","Christina Plew-Whitlock","NE10","29-26-0",0.527
+"15","2011","Christina Plew-Whitlock","NE10","18-21-1",0.463
+"16","2010","Christina Plew-Whitlock","NE10","23-20-0",0.535
+"17","2009","Christina Plew-Whitlock","NE10","45-13-0",0.776
+"18","2008","Kenneth King","NE10","46-11-0",0.807
+"19","2007","Kenneth King","NE10","32-17-0",0.653
+"20","2006","Kenneth King","NE10","32-21-0",0.604
+"21","2005","Kenneth King","NE10","43-11-0",0.796
+"22","2004","Kenneth King","NE10","34-10-0",0.773
+"23","2003","Kenneth King","NE10","47-10-0",0.825
+"24","2002","Kenneth King","NE10","35-11-0",0.761
+"25","2001","Kenneth King","-","33-16-1",0.67
+"26","1900","Kenneth King","-","24-17-0",0.585
+"27","1999","Kenneth King","-","15-22-1",0.408
+"28","1998","Kenneth King","-","21-22-1",0.489
+"29","1997","Christine Rizzieri","-","22-22-0",0.5
+"30","1996","Christine Rizzieri","-","14-25-0",0.359
+"31","1995","Christine Rizzieri","-","16-23-0",0.41
+"32","1994","Christine Rizzieri","-","20-19-0",0.513
+"33","1993","Christine Rizzieri","-","19-14-0",0.576
+"34","1992","Christine Rizzieri","-","12-8-0",0.6
+"35","1991","Christine Rizzieri","-","17-10-0",0.63
+"36","1990","Christine Rizzieri","-","10-17-0",0.37
+"37","1989","Christine Rizzieri","-","12-13-0",0.48
+"38","1988","Christine Rizzieri","-","7-15-0",0.318
+"39","1987","Christine Rizzieri","-","11-15-0",0.423
+"40","1986","Christine Rizzieri","-","15-12-0",0.556
+"41","1985","Christine Rizzieri","-","17-7-0",0.708
+"42","1984","Christine Rizzieri","-","12-1-0",0.923

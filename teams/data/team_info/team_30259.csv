@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","USC Beaufort","30259","2025","Codee Yeske","D-II","Peach Belt",5,1,0,0.833
-"2","USC Beaufort","30259","2024","Codee Yeske","D-II","Peach Belt",20,25,0,0.444
-"3","USC Beaufort","30259","2023","Codee Yeske","D-II","Peach Belt",11,41,0,0.212
-"4","USC Beaufort","30259","","","","",36,67,0,0.35
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Codee Yeske","Peach Belt","5-1-0",0.833
+"2","2024","Codee Yeske","Peach Belt","20-25-0",0.444
+"3","2023","Codee Yeske","Peach Belt","11-41-0",0.212

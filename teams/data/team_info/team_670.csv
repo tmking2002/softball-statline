@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Texas St.","670","2025","Ricci Woodard","D-I","Sun Belt",1,1,0,0.5
-"2","Texas St.","670","2024","Ricci Woodard","D-I","Sun Belt",47,15,0,0.758
-"3","Texas St.","670","2023","Ricci Woodard","D-I","Sun Belt",35,25,1,0.582
-"4","Texas St.","670","2022","Ricci Woodard","D-I","Sun Belt",38,19,0,0.667
-"5","Texas St.","670","2021","Ricci Woodard","D-I","Sun Belt",39,14,0,0.736
-"6","Texas St.","670","2020","Ricci Woodard","D-I","Sun Belt",15,9,0,0.625
-"7","Texas St.","670","2019","Ricci Woodard","D-I","Sun Belt",29,25,0,0.537
-"8","Texas St.","670","2018","Ricci Woodard","D-I","Sun Belt",43,16,0,0.729
-"9","Texas St.","670","2017","Ricci Woodard","D-I","Sun Belt",42,17,0,0.712
-"10","Texas St.","670","2016","Ricci Woodard","D-I","Sun Belt",40,22,0,0.645
-"11","Texas St.","670","2015","Ricci Woodard","D-I","Sun Belt",32,21,0,0.604
-"12","Texas St.","670","2014","Ricci Woodard","D-I","Sun Belt",26,30,0,0.464
-"13","Texas St.","670","2013","Ricci Woodard","D-I","WAC",18,38,0,0.321
-"14","Texas St.","670","2012","Ricci Woodard","D-I","Southland",39,17,0,0.696
-"15","Texas St.","670","2011","Ricci Woodard","D-I","Southland",33,25,0,0.569
-"16","Texas St.","670","2010","Ricci Woodard","D-I","Southland",27,26,0,0.509
-"17","Texas St.","670","2009","Ricci Woodard","D-I","Southland",40,18,0,0.69
-"18","Texas St.","670","2008","Ricci Woodard","D-I","Southland",35,18,0,0.66
-"19","Texas St.","670","2007","Ricci Woodard","D-I","Southland",32,26,0,0.552
-"20","Texas St.","670","2006","Ricci Woodard","D-I","Southland",34,22,0,0.607
-"21","Texas St.","670","2005","Ricci Woodard","D-I","Southland",26,27,0,0.491
-"22","Texas St.","670","2004","Ricci Woodard","D-I","Southland",37,20,0,0.649
-"23","Texas St.","670","2003","Ricci Woodard","D-I","Southland",46,18,1,0.715
-"24","Texas St.","670","2002","Ricci Woodard","D-I","Southland",37,22,0,0.627
-"25","Texas St.","670","2001","Ricci Woodard","D-I","Southland",54,12,0,0.818
-"26","Texas St.","670","1900","Bobby Reeves","D-I","Southland",35,24,0,0.593
-"27","Texas St.","670","1999","Lea Ann Jarvis","D-I","Southland",34,31,0,0.523
-"28","Texas St.","670","1998","Lea Ann Jarvis","D-I","-",15,40,NA,0.273
-"29","Texas St.","670","1997","Lea Ann Jarvis","D-I","Southland",12,37,0,0.245
-"30","Texas St.","670","1996","Lea Ann Jarvis","D-I","-",14,40,NA,0.259
-"31","Texas St.","670","1995","Lea Ann Jarvis","D-I","-",17,35,NA,0.327
-"32","Texas St.","670","1994","Pam Wuestenberg","D-I","-",11,42,1,0.213
-"33","Texas St.","670","1993","Pam Wuestenberg","D-I","-",13,32,NA,0.289
-"34","Texas St.","670","1992","Pam Wuestenberg","D-I","-",21,26,NA,0.447
-"35","Texas St.","670","1991","Pam Wuestenberg","D-I","-",17,37,NA,0.315
-"36","Texas St.","670","1990","Pam Wuestenberg","D-I","-",8,35,NA,0.186
-"37","Texas St.","670","1989","Pam Wuestenberg","D-I","-",16,30,NA,0.348
-"38","Texas St.","670","1988","Pam Wuestenberg","D-I","-",21,39,NA,0.35
-"39","Texas St.","670","1987","Pam Wuestenberg","D-I","-",21,24,NA,0.467
-"40","Texas St.","670","1986","Pam Wuestenberg","D-I","-",13,35,NA,0.271
-"41","Texas St.","670","","","","",1113,1010,3,0.524
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ricci Woodard","Sun Belt","1-1-0",0.5
+"2","2024","Ricci Woodard","Sun Belt","47-15-0",0.758
+"3","2023","Ricci Woodard","Sun Belt","35-25-1",0.582
+"4","2022","Ricci Woodard","Sun Belt","38-19-0",0.667
+"5","2021","Ricci Woodard","Sun Belt","39-14-0",0.736
+"6","2020","Ricci Woodard","Sun Belt","15-9-0",0.625
+"7","2019","Ricci Woodard","Sun Belt","29-25-0",0.537
+"8","2018","Ricci Woodard","Sun Belt","43-16-0",0.729
+"9","2017","Ricci Woodard","Sun Belt","42-17-0",0.712
+"10","2016","Ricci Woodard","Sun Belt","40-22-0",0.645
+"11","2015","Ricci Woodard","Sun Belt","32-21-0",0.604
+"12","2014","Ricci Woodard","Sun Belt","26-30-0",0.464
+"13","2013","Ricci Woodard","WAC","18-38-0",0.321
+"14","2012","Ricci Woodard","Southland","39-17-0",0.696
+"15","2011","Ricci Woodard","Southland","33-25-0",0.569
+"16","2010","Ricci Woodard","Southland","27-26-0",0.509
+"17","2009","Ricci Woodard","Southland","40-18-0",0.69
+"18","2008","Ricci Woodard","Southland","35-18-0",0.66
+"19","2007","Ricci Woodard","Southland","32-26-0",0.552
+"20","2006","Ricci Woodard","Southland","34-22-0",0.607
+"21","2005","Ricci Woodard","Southland","26-27-0",0.491
+"22","2004","Ricci Woodard","Southland","37-20-0",0.649
+"23","2003","Ricci Woodard","Southland","46-18-1",0.715
+"24","2002","Ricci Woodard","Southland","37-22-0",0.627
+"25","2001","Ricci Woodard","Southland","54-12-0",0.818
+"26","1900","Bobby Reeves","Southland","35-24-0",0.593
+"27","1999","Lea Ann Jarvis","Southland","34-31-0",0.523
+"28","1998","Lea Ann Jarvis","-","15-40-0",0.273
+"29","1997","Lea Ann Jarvis","Southland","12-37-0",0.245
+"30","1996","Lea Ann Jarvis","-","14-40-0",0.259
+"31","1995","Lea Ann Jarvis","-","17-35-0",0.327
+"32","1994","Pam Wuestenberg","-","11-42-1",0.213
+"33","1993","Pam Wuestenberg","-","13-32-0",0.289
+"34","1992","Pam Wuestenberg","-","21-26-0",0.447
+"35","1991","Pam Wuestenberg","-","17-37-0",0.315
+"36","1990","Pam Wuestenberg","-","8-35-0",0.186
+"37","1989","Pam Wuestenberg","-","16-30-0",0.348
+"38","1988","Pam Wuestenberg","-","21-39-0",0.35
+"39","1987","Pam Wuestenberg","-","21-24-0",0.467
+"40","1986","Pam Wuestenberg","-","13-35-0",0.271

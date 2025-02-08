@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Suffolk","684","2025","Megan Cook","D-III","CNE",0,0,0,0
-"2","Suffolk","684","2024","Megan Cook","D-III","CNE",19,24,0,0.442
-"3","Suffolk","684","2023","Janet Maguire","D-III","CNE",10,24,0,0.294
-"4","Suffolk","684","2022","Janet Maguire","D-III","CNE",20,20,0,0.5
-"5","Suffolk","684","2021","Jackie Davis","D-III","CNE",12,17,0,0.414
-"6","Suffolk","684","2020","Jackie Davis","D-III","Great Northeast",3,7,0,0.3
-"7","Suffolk","684","2019","Jackie Davis","D-III","Great Northeast",21,18,0,0.538
-"8","Suffolk","684","2018","Jackie Davis","D-III","Great Northeast",31,9,NA,0.775
-"9","Suffolk","684","2017","Jackie Davis","D-III","Great Northeast",29,17,0,0.63
-"10","Suffolk","684","2016","Jackie Davis","D-III","Great Northeast",33,9,0,0.786
-"11","Suffolk","684","2015","Jackie Davis","D-III","Great Northeast",25,16,0,0.61
-"12","Suffolk","684","2014","Jackie Davis","D-III","Great Northeast",21,23,0,0.477
-"13","Suffolk","684","2013","Jackie Davis","D-III","Great Northeast",16,25,0,0.39
-"14","Suffolk","684","2012","Keri Lemasters","D-III","Great Northeast",20,21,0,0.488
-"15","Suffolk","684","2011","Keri Lemasters","D-III","Great Northeast",12,28,0,0.3
-"16","Suffolk","684","2010","Keri Lemasters","D-III","Great Northeast",9,31,0,0.225
-"17","Suffolk","684","2009","Keri Lemasters","D-III","Great Northeast",22,18,0,0.55
-"18","Suffolk","684","2008","Keri Lemasters","D-III","Great Northeast",17,20,0,0.459
-"19","Suffolk","684","2007","Vicki Schull","D-III","Great Northeast",15,22,0,0.405
-"20","Suffolk","684","2006","Vicki Schull","D-III","Great Northeast",32,10,0,0.762
-"21","Suffolk","684","2005","Elaine Schwager","D-III","Great Northeast",29,11,0,0.725
-"22","Suffolk","684","2004","Elaine Schwager","D-III","Great Northeast",21,15,0,0.583
-"23","Suffolk","684","2003","Elaine Schwager","D-III","-",27,5,0,0.844
-"24","Suffolk","684","2002","Elaine Schwager","D-III","Great Northeast",11,29,0,0.275
-"25","Suffolk","684","2001","Elaine Schwager","D-III","-",12,22,0,0.353
-"26","Suffolk","684","1900","Robert Norton","D-III","-",17,14,NA,0.548
-"27","Suffolk","684","1999","Christine Carr","D-III","-",20,12,NA,0.625
-"28","Suffolk","684","1998","Christine Carr","D-III","-",12,21,NA,0.364
-"29","Suffolk","684","1997","Christine Carr","D-III","-",5,14,NA,0.263
-"30","Suffolk","684","1996","Christine Carr","D-III","-",17,15,NA,0.531
-"31","Suffolk","684","1995","Christine Carr","D-III","-",10,23,NA,0.303
-"32","Suffolk","684","1994","Donna Ruseckas","D-III","-",7,15,NA,0.318
-"33","Suffolk","684","1993","Donna Ruseckas","D-III","-",3,16,NA,0.158
-"34","Suffolk","684","1992","Donna Ruseckas","D-III","-",8,9,NA,0.471
-"35","Suffolk","684","1991","","D-III","-",NA,NA,NA,NA
-"36","Suffolk","684","1990","","D-III","-",NA,NA,NA,NA
-"37","Suffolk","684","","","","",566,580,0,0.494
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Megan Cook","CNE","0-0-0",0
+"2","2024","Megan Cook","CNE","19-24-0",0.442
+"3","2023","Janet Maguire","CNE","10-24-0",0.294
+"4","2022","Janet Maguire","CNE","20-20-0",0.5
+"5","2021","Jackie Davis","CNE","12-17-0",0.414
+"6","2020","Jackie Davis","Great Northeast","3-7-0",0.3
+"7","2019","Jackie Davis","Great Northeast","21-18-0",0.538
+"8","2018","Jackie Davis","Great Northeast","31-9-0",0.775
+"9","2017","Jackie Davis","Great Northeast","29-17-0",0.63
+"10","2016","Jackie Davis","Great Northeast","33-9-0",0.786
+"11","2015","Jackie Davis","Great Northeast","25-16-0",0.61
+"12","2014","Jackie Davis","Great Northeast","21-23-0",0.477
+"13","2013","Jackie Davis","Great Northeast","16-25-0",0.39
+"14","2012","Keri Lemasters","Great Northeast","20-21-0",0.488
+"15","2011","Keri Lemasters","Great Northeast","12-28-0",0.3
+"16","2010","Keri Lemasters","Great Northeast","9-31-0",0.225
+"17","2009","Keri Lemasters","Great Northeast","22-18-0",0.55
+"18","2008","Keri Lemasters","Great Northeast","17-20-0",0.459
+"19","2007","Vicki Schull","Great Northeast","15-22-0",0.405
+"20","2006","Vicki Schull","Great Northeast","32-10-0",0.762
+"21","2005","Elaine Schwager","Great Northeast","29-11-0",0.725
+"22","2004","Elaine Schwager","Great Northeast","21-15-0",0.583
+"23","2003","Elaine Schwager","-","27-5-0",0.844
+"24","2002","Elaine Schwager","Great Northeast","11-29-0",0.275
+"25","2001","Elaine Schwager","-","12-22-0",0.353
+"26","1900","Robert Norton","-","17-14-0",0.548
+"27","1999","Christine Carr","-","20-12-0",0.625
+"28","1998","Christine Carr","-","12-21-0",0.364
+"29","1997","Christine Carr","-","5-14-0",0.263
+"30","1996","Christine Carr","-","17-15-0",0.531
+"31","1995","Christine Carr","-","10-23-0",0.303
+"32","1994","Donna Ruseckas","-","7-15-0",0.318
+"33","1993","Donna Ruseckas","-","3-16-0",0.158
+"34","1992","Donna Ruseckas","-","8-9-0",0.471
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

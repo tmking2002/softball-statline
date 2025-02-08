@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Tenn. Wesleyan","505220","2022",NA,NA,"-",NA,NA,NA,0
-"2","Tenn. Wesleyan","505220","2019",NA,NA,"-",NA,NA,NA,0
-"3","Tenn. Wesleyan","505220","2018",NA,NA,"-",NA,NA,NA,0
-"4","Tenn. Wesleyan","505220","2017",NA,NA,"-",NA,NA,NA,NA
-"5","Tenn. Wesleyan","505220","2015",NA,NA,"-",NA,NA,NA,NA
-"6","Tenn. Wesleyan","505220","2014",NA,NA,"-",NA,NA,NA,NA
-"7","Tenn. Wesleyan","505220","2013",NA,NA,"-",NA,NA,NA,NA
-"8","Tenn. Wesleyan","505220","2012",NA,NA,"-",NA,NA,NA,NA
-"9","Tenn. Wesleyan","505220","2011",NA,NA,"-",4,2,0,0.667
-"10","Tenn. Wesleyan","505220","2010",NA,NA,"-",NA,NA,NA,NA
-"11","Tenn. Wesleyan","505220","2009",NA,NA,"-",0,2,0,0
-"12","Tenn. Wesleyan","505220","2008",NA,NA,"-",NA,NA,NA,NA
-"13","Tenn. Wesleyan","505220","2007",NA,NA,"-",NA,NA,NA,NA
-"14","Tenn. Wesleyan","505220","2005",NA,NA,"-",NA,NA,NA,NA
-"15","Tenn. Wesleyan","505220","2004",NA,NA,"-",0,2,0,0
-"16","Tenn. Wesleyan","505220","2002",NA,NA,"-",NA,NA,NA,NA
-"17","Tenn. Wesleyan","505220","",NA,NA,"",4,6,0,0.4
+"","season","head_coach","conference","record","win_perc"
+"1","2022",NA,"-","NA-NA-0",0
+"2","2019",NA,"-","NA-NA-0",0
+"3","2018",NA,"-","NA-NA-0",0
+"4","2017",NA,"-","NA-NA-0",NA
+"5","2015",NA,"-","NA-NA-0",NA
+"6","2014",NA,"-","NA-NA-0",NA
+"7","2013",NA,"-","NA-NA-0",NA
+"8","2012",NA,"-","NA-NA-0",NA
+"9","2011",NA,"-","4-2-0",0.667
+"10","2010",NA,"-","NA-NA-0",NA
+"11","2009",NA,"-","0-2-0",0
+"12","2008",NA,"-","NA-NA-0",NA
+"13","2007",NA,"-","NA-NA-0",NA
+"14","2005",NA,"-","NA-NA-0",NA
+"15","2004",NA,"-","0-2-0",0
+"16","2002",NA,"-","NA-NA-0",NA

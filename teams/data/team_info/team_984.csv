@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bloomfield","984","2025","Delanie Cruz","D-II","CACC",0,0,0,0
-"2","Bloomfield","984","2024","Delanie Cruz","D-II","CACC",20,24,0,0.455
-"3","Bloomfield","984","2023","Phil Delgado","D-II","CACC",16,34,0,0.32
-"4","Bloomfield","984","2022","Phil Delgado","D-II","CACC",13,30,0,0.302
-"5","Bloomfield","984","2021","Phil Delgado","D-II","CACC",12,19,1,0.391
-"6","Bloomfield","984","2020","Phil Delgado","D-II","CACC",1,9,0,0.1
-"7","Bloomfield","984","2019","Phil Delgado","D-II","CACC",12,27,0,0.308
-"8","Bloomfield","984","2018","Ashton Corley","D-II","CACC",11,23,NA,0.324
-"9","Bloomfield","984","2017","Ashton Corley","D-II","CACC",21,22,0,0.488
-"10","Bloomfield","984","2016","Ashton Corley","D-II","CACC",25,23,0,0.521
-"11","Bloomfield","984","2015","Rocco Constantino","D-II","CACC",25,21,1,0.543
-"12","Bloomfield","984","2014","Rocco Constantino","D-II","CACC",20,20,0,0.5
-"13","Bloomfield","984","2013","Rocco Constantino","D-II","CACC",21,21,0,0.5
-"14","Bloomfield","984","2012","Rocco Constantino","D-II","CACC",32,22,0,0.593
-"15","Bloomfield","984","2011","Rocco Constantino","D-II","CACC",24,22,0,0.522
-"16","Bloomfield","984","2010","Rocco Constantino","D-II","CACC",14,25,0,0.359
-"17","Bloomfield","984","2009","Rocco Constantino","D-II","CACC",33,15,0,0.688
-"18","Bloomfield","984","2008","Rocco Constantino","D-II","CACC",19,27,0,0.413
-"19","Bloomfield","984","2007","Rocco Constantino","D-II","CACC",21,19,0,0.525
-"20","Bloomfield","984","2006","Anthony Nesto","D-II","CACC",16,30,0,0.348
-"21","Bloomfield","984","2005","Anthony Nesto","D-II","CACC",10,29,0,0.256
-"22","Bloomfield","984","2004","","D-II","CACC",3,38,0,0.073
-"23","Bloomfield","984","2003","","","-",NA,NA,NA,NA
-"24","Bloomfield","984","2002","","","-",NA,NA,NA,NA
-"25","Bloomfield","984","","","","",369,500,2,0.425
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Delanie Cruz","CACC","0-0-0",0
+"2","2024","Delanie Cruz","CACC","20-24-0",0.455
+"3","2023","Phil Delgado","CACC","16-34-0",0.32
+"4","2022","Phil Delgado","CACC","13-30-0",0.302
+"5","2021","Phil Delgado","CACC","12-19-1",0.391
+"6","2020","Phil Delgado","CACC","1-9-0",0.1
+"7","2019","Phil Delgado","CACC","12-27-0",0.308
+"8","2018","Ashton Corley","CACC","11-23-0",0.324
+"9","2017","Ashton Corley","CACC","21-22-0",0.488
+"10","2016","Ashton Corley","CACC","25-23-0",0.521
+"11","2015","Rocco Constantino","CACC","25-21-1",0.543
+"12","2014","Rocco Constantino","CACC","20-20-0",0.5
+"13","2013","Rocco Constantino","CACC","21-21-0",0.5
+"14","2012","Rocco Constantino","CACC","32-22-0",0.593
+"15","2011","Rocco Constantino","CACC","24-22-0",0.522
+"16","2010","Rocco Constantino","CACC","14-25-0",0.359
+"17","2009","Rocco Constantino","CACC","33-15-0",0.688
+"18","2008","Rocco Constantino","CACC","19-27-0",0.413
+"19","2007","Rocco Constantino","CACC","21-19-0",0.525
+"20","2006","Anthony Nesto","CACC","16-30-0",0.348
+"21","2005","Anthony Nesto","CACC","10-29-0",0.256
+"22","2004","","CACC","3-38-0",0.073
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

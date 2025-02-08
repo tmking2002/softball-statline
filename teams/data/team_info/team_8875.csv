@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Chowan","8875","2025","Junior Bailey","D-II","Conference Carolinas",4,0,0,1
-"2","Chowan","8875","2024","Junior Bailey","D-II","Conference Carolinas",6,33,0,0.154
-"3","Chowan","8875","2023","Junior Bailey","D-II","Conference Carolinas",16,29,0,0.356
-"4","Chowan","8875","2022","Ashley Gustafson","D-II","Conference Carolinas",9,35,0,0.205
-"5","Chowan","8875","2021","Ashley Gustafson","D-II","Conference Carolinas",8,25,1,0.25
-"6","Chowan","8875","2020","Ashley Gustafson","D-II","Conference Carolinas",8,11,0,0.421
-"7","Chowan","8875","2019","Brian De Witt","D-II","CIAA",21,22,0,0.488
-"8","Chowan","8875","2018","Brian De Witt","D-II","CIAA",31,16,NA,0.66
-"9","Chowan","8875","2017","Brian De Witt","D-II","CIAA",36,20,0,0.643
-"10","Chowan","8875","2016","Brian De Witt","D-II","CIAA",29,14,0,0.674
-"11","Chowan","8875","2015","Brian De Witt","D-II","CIAA",26,14,0,0.65
-"12","Chowan","8875","2014","Mandi Balduf","D-II","CIAA",17,31,0,0.354
-"13","Chowan","8875","2013","Mandi Balduf","D-II","CIAA",26,23,0,0.531
-"14","Chowan","8875","2012","Mandi Balduf","D-II","CIAA",25,26,0,0.49
-"15","Chowan","8875","2011","Mandi Balduf","D-II","CIAA",34,19,0,0.642
-"16","Chowan","8875","2010","Mandi Balduf","D-II","Chowan",29,24,0,0.547
-"17","Chowan","8875","2009","Mandi Balduf","D-II","-",30,21,0,0.588
-"18","Chowan","8875","2008","Mandi Balduf","D-II","-",22,30,0,0.423
-"19","Chowan","8875","2007","Jennifer Patrick-Swift","D-III","-",19,23,1,0.453
-"20","Chowan","8875","2006","Meredith Davies Long","D-III","-",22,15,0,0.595
-"21","Chowan","8875","2005","Meredith Davies Long","D-III","USA South",23,22,NA,0.511
-"22","Chowan","8875","2004","Meredith Davies Long","D-III","USA South",27,16,0,0.628
-"23","Chowan","8875","2003","Meredith Davies Long","D-III","-",NA,NA,NA,NA
-"24","Chowan","8875","2002","Meredith Davies Long","D-III","-",NA,NA,NA,NA
-"25","Chowan","8875","2001","Meredith Davies Long","D-III","-",9,29,0,0.237
-"26","Chowan","8875","1900","","D-III","-",NA,NA,NA,NA
-"27","Chowan","8875","1999","Jennie Amodio","D-III","-",21,22,0,0.488
-"28","Chowan","8875","1998","Karen Burke","D-III","-",24,15,0,0.615
-"29","Chowan","8875","1997","","D-III","-",NA,NA,NA,NA
-"30","Chowan","8875","1996","","D-III","-",NA,NA,NA,NA
-"31","Chowan","8875","1995","","D-III","-",NA,NA,NA,NA
-"32","Chowan","8875","1994","","D-III","-",NA,NA,NA,NA
-"33","Chowan","8875","1993","","D-III","-",NA,NA,NA,NA
-"34","Chowan","8875","1992","","D-III","-",NA,NA,NA,NA
-"35","Chowan","8875","1991","","D-III","-",NA,NA,NA,NA
-"36","Chowan","8875","1990","","D-III","-",NA,NA,NA,NA
-"37","Chowan","8875","","","","",522,535,2,0.494
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Junior Bailey","Conference Carolinas","4-0-0",1
+"2","2024","Junior Bailey","Conference Carolinas","6-33-0",0.154
+"3","2023","Junior Bailey","Conference Carolinas","16-29-0",0.356
+"4","2022","Ashley Gustafson","Conference Carolinas","9-35-0",0.205
+"5","2021","Ashley Gustafson","Conference Carolinas","8-25-1",0.25
+"6","2020","Ashley Gustafson","Conference Carolinas","8-11-0",0.421
+"7","2019","Brian De Witt","CIAA","21-22-0",0.488
+"8","2018","Brian De Witt","CIAA","31-16-0",0.66
+"9","2017","Brian De Witt","CIAA","36-20-0",0.643
+"10","2016","Brian De Witt","CIAA","29-14-0",0.674
+"11","2015","Brian De Witt","CIAA","26-14-0",0.65
+"12","2014","Mandi Balduf","CIAA","17-31-0",0.354
+"13","2013","Mandi Balduf","CIAA","26-23-0",0.531
+"14","2012","Mandi Balduf","CIAA","25-26-0",0.49
+"15","2011","Mandi Balduf","CIAA","34-19-0",0.642
+"16","2010","Mandi Balduf","Chowan","29-24-0",0.547
+"17","2009","Mandi Balduf","-","30-21-0",0.588
+"18","2008","Mandi Balduf","-","22-30-0",0.423
+"19","2007","Jennifer Patrick-Swift","-","19-23-1",0.453
+"20","2006","Meredith Davies Long","-","22-15-0",0.595
+"21","2005","Meredith Davies Long","USA South","23-22-0",0.511
+"22","2004","Meredith Davies Long","USA South","27-16-0",0.628
+"23","2003","Meredith Davies Long","-","NA-NA-0",NA
+"24","2002","Meredith Davies Long","-","NA-NA-0",NA
+"25","2001","Meredith Davies Long","-","9-29-0",0.237
+"26","1900","","-","NA-NA-0",NA
+"27","1999","Jennie Amodio","-","21-22-0",0.488
+"28","1998","Karen Burke","-","24-15-0",0.615
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

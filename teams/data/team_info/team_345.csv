@@ -1,35 +1,34 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Lake Superior St.","345","2017","Lori Shimasaki","D-II","GLIAC",NA,NA,NA,NA
-"2","Lake Superior St.","345","2016","Lori Shimasaki","D-II","GLIAC",5,35,0,0.125
-"3","Lake Superior St.","345","2015","Lori Shimasaki","D-II","GLIAC",12,28,0,0.3
-"4","Lake Superior St.","345","2014","Lori Shimasaki","D-II","GLIAC",8,24,0,0.25
-"5","Lake Superior St.","345","2013","Lori Shimasaki","D-II","GLIAC",7,22,0,0.241
-"6","Lake Superior St.","345","2012","Lori Shimasaki","D-II","GLIAC",8,31,0,0.205
-"7","Lake Superior St.","345","2011","Lori Shimasaki","D-II","GLIAC",5,28,0,0.152
-"8","Lake Superior St.","345","2010","Don Myers","D-II","GLIAC",10,38,0,0.208
-"9","Lake Superior St.","345","2009","Don Myers","D-II","GLIAC",7,42,0,0.143
-"10","Lake Superior St.","345","2008","Don Myers","D-II","GLIAC",9,31,0,0.225
-"11","Lake Superior St.","345","2007","Don Myers","D-II","GLIAC",7,33,0,0.175
-"12","Lake Superior St.","345","2006","Don Myers","D-II","GLIAC",10,36,0,0.217
-"13","Lake Superior St.","345","2005","Don Myers","D-II","GLIAC",9,30,0,0.231
-"14","Lake Superior St.","345","2004","Don Myers","D-II","GLIAC",31,33,0,0.484
-"15","Lake Superior St.","345","2003","Don Myers","D-II","GLIAC",5,44,0,0.102
-"16","Lake Superior St.","345","2002","Don Myers","D-II","-",10,33,0,0.233
-"17","Lake Superior St.","345","2001","Don Myers","D-II","-",10,31,1,0.25
-"18","Lake Superior St.","345","1900","Don Myers","D-II","-",20,28,0,0.417
-"19","Lake Superior St.","345","1999","Don Myers","D-II","-",22,34,0,0.393
-"20","Lake Superior St.","345","1998","Don Myers","D-II","-",16,29,0,0.356
-"21","Lake Superior St.","345","1997","Don Myers","D-II","-",12,34,0,0.261
-"22","Lake Superior St.","345","1996","Don Myers (7-42)Karen Sutton (7-42)","D-II","-",7,42,0,0.143
-"23","Lake Superior St.","345","1995","Don Myers (12-32)Karen Sutton (12-32)","D-II","-",12,32,0,0.273
-"24","Lake Superior St.","345","1994","Don Myers","D-II","-",12,33,0,0.267
-"25","Lake Superior St.","345","1993","Don Myers","D-II","-",6,25,0,0.194
-"26","Lake Superior St.","345","1992","Don Myers","D-II","-",15,28,0,0.349
-"27","Lake Superior St.","345","1991","","D-II","-",NA,NA,NA,NA
-"28","Lake Superior St.","345","1989","","D-II","-",NA,NA,NA,NA
-"29","Lake Superior St.","345","1988","","D-II","-",NA,NA,NA,NA
-"30","Lake Superior St.","345","1987","","D-II","-",NA,NA,NA,NA
-"31","Lake Superior St.","345","1986","","D-II","-",NA,NA,NA,NA
-"32","Lake Superior St.","345","1985","","D-II","-",NA,NA,NA,NA
-"33","Lake Superior St.","345","1982","","D-II","-",NA,NA,NA,NA
-"34","Lake Superior St.","345","","","","",275,804,1,0.255
+"","season","head_coach","conference","record","win_perc"
+"1","2017","Lori Shimasaki","GLIAC","NA-NA-0",NA
+"2","2016","Lori Shimasaki","GLIAC","5-35-0",0.125
+"3","2015","Lori Shimasaki","GLIAC","12-28-0",0.3
+"4","2014","Lori Shimasaki","GLIAC","8-24-0",0.25
+"5","2013","Lori Shimasaki","GLIAC","7-22-0",0.241
+"6","2012","Lori Shimasaki","GLIAC","8-31-0",0.205
+"7","2011","Lori Shimasaki","GLIAC","5-28-0",0.152
+"8","2010","Don Myers","GLIAC","10-38-0",0.208
+"9","2009","Don Myers","GLIAC","7-42-0",0.143
+"10","2008","Don Myers","GLIAC","9-31-0",0.225
+"11","2007","Don Myers","GLIAC","7-33-0",0.175
+"12","2006","Don Myers","GLIAC","10-36-0",0.217
+"13","2005","Don Myers","GLIAC","9-30-0",0.231
+"14","2004","Don Myers","GLIAC","31-33-0",0.484
+"15","2003","Don Myers","GLIAC","5-44-0",0.102
+"16","2002","Don Myers","-","10-33-0",0.233
+"17","2001","Don Myers","-","10-31-1",0.25
+"18","1900","Don Myers","-","20-28-0",0.417
+"19","1999","Don Myers","-","22-34-0",0.393
+"20","1998","Don Myers","-","16-29-0",0.356
+"21","1997","Don Myers","-","12-34-0",0.261
+"22","1996","Don Myers (7-42)Karen Sutton (7-42)","-","7-42-0",0.143
+"23","1995","Don Myers (12-32)Karen Sutton (12-32)","-","12-32-0",0.273
+"24","1994","Don Myers","-","12-33-0",0.267
+"25","1993","Don Myers","-","6-25-0",0.194
+"26","1992","Don Myers","-","15-28-0",0.349
+"27","1991","","-","NA-NA-0",NA
+"28","1989","","-","NA-NA-0",NA
+"29","1988","","-","NA-NA-0",NA
+"30","1987","","-","NA-NA-0",NA
+"31","1986","","-","NA-NA-0",NA
+"32","1985","","-","NA-NA-0",NA
+"33","1982","","-","NA-NA-0",NA

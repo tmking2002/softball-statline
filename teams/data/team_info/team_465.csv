@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UNLV","465","2025","Kristie Fox","D-I","Mountain West",1,0,0,1
-"2","UNLV","465","2024","Kristie Fox","D-I","Mountain West",31,19,0,0.62
-"3","UNLV","465","2023","Kristie Fox","D-I","Mountain West",23,27,0,0.46
-"4","UNLV","465","2022","Kristie Fox","D-I","Mountain West",43,15,0,0.741
-"5","UNLV","465","2021","Kristie Fox","D-I","Mountain West",25,15,0,0.625
-"6","UNLV","465","2020","Kristie Fox","D-I","Mountain West",21,5,0,0.808
-"7","UNLV","465","2019","Kristie Fox","D-I","Mountain West",36,14,0,0.72
-"8","UNLV","465","2018","Kristie Fox","D-I","Mountain West",33,20,NA,0.623
-"9","UNLV","465","2017","Lisa Dodd","D-I","Mountain West",25,27,0,0.481
-"10","UNLV","465","2016","Lisa Dodd","D-I","Mountain West",24,31,0,0.436
-"11","UNLV","465","2015","Lisa Dodd","D-I","Mountain West",25,30,0,0.455
-"12","UNLV","465","2014","Lisa Dodd","D-I","Mountain West",26,28,0,0.481
-"13","UNLV","465","2013","Lisa Dodd","D-I","Mountain West",21,31,0,0.404
-"14","UNLV","465","2012","Pete Manarino","D-I","Mountain West",22,27,0,0.449
-"15","UNLV","465","2011","Pete Manarino","D-I","Mountain West",27,18,0,0.6
-"16","UNLV","465","2010","Pete Manarino","D-I","Mountain West",33,20,0,0.623
-"17","UNLV","465","2009","Pete Manarino","D-I","Mountain West",31,21,0,0.596
-"18","UNLV","465","2008","Lonni Alameda","D-I","Mountain West",25,40,1,0.386
-"19","UNLV","465","2007","Lonni Alameda","D-I","Mountain West",37,27,0,0.578
-"20","UNLV","465","2006","Lonni Alameda","D-I","Mountain West",26,37,0,0.413
-"21","UNLV","465","2005","Lonni Alameda","D-I","Mountain West",44,19,0,0.698
-"22","UNLV","465","2004","Lonni Alameda","D-I","Mountain West",25,35,0,0.417
-"23","UNLV","465","2003","Shan McDonald","D-I","Mountain West",21,39,0,0.35
-"24","UNLV","465","2002","Shan McDonald","D-I","Mountain West",30,34,0,0.469
-"25","UNLV","465","2001","Shan McDonald","D-I","Mountain West",23,30,0,0.434
-"26","UNLV","465","1900","Shan McDonald","D-I","Mountain West",19,41,0,0.317
-"27","UNLV","465","1999","Shan McDonald","D-I","WAC",18,31,0,0.367
-"28","UNLV","465","1998","Shan McDonald","D-I","-",21,30,NA,0.412
-"29","UNLV","465","1997","Shan McDonald (26-28)Carol Spanks (26-28)","D-I","WAC",26,28,0,0.481
-"30","UNLV","465","1996","Shan McDonald (36-23)Carol Spanks (36-23)","D-I","-",36,23,NA,0.61
-"31","UNLV","465","1995","Shan McDonald (49-14)Carol Spanks (49-14)","D-I","-",49,14,NA,0.778
-"32","UNLV","465","1994","Shan McDonald","D-I","-",39,19,NA,0.672
-"33","UNLV","465","1993","Shan McDonald","D-I","-",37,17,1,0.682
-"34","UNLV","465","1992","Shan McDonald","D-I","-",34,22,NA,0.607
-"35","UNLV","465","1991","Shan McDonald","D-I","-",49,17,1,0.739
-"36","UNLV","465","1990","Shan McDonald","D-I","-",41,27,NA,0.603
-"37","UNLV","465","1989","Shan McDonald","D-I","-",32,28,NA,0.533
-"38","UNLV","465","1988","Shan McDonald","D-I","-",18,29,NA,0.383
-"39","UNLV","465","1987","Shan McDonald","D-I","-",15,40,NA,0.273
-"40","UNLV","465","1986","","D-I","-",NA,NA,NA,NA
-"41","UNLV","465","1985","","D-I","-",NA,NA,NA,NA
-"42","UNLV","465","1982","","D-I","-",NA,NA,NA,NA
-"43","UNLV","465","","","","",1112,975,3,0.533
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kristie Fox","Mountain West","1-0-0",1
+"2","2024","Kristie Fox","Mountain West","31-19-0",0.62
+"3","2023","Kristie Fox","Mountain West","23-27-0",0.46
+"4","2022","Kristie Fox","Mountain West","43-15-0",0.741
+"5","2021","Kristie Fox","Mountain West","25-15-0",0.625
+"6","2020","Kristie Fox","Mountain West","21-5-0",0.808
+"7","2019","Kristie Fox","Mountain West","36-14-0",0.72
+"8","2018","Kristie Fox","Mountain West","33-20-0",0.623
+"9","2017","Lisa Dodd","Mountain West","25-27-0",0.481
+"10","2016","Lisa Dodd","Mountain West","24-31-0",0.436
+"11","2015","Lisa Dodd","Mountain West","25-30-0",0.455
+"12","2014","Lisa Dodd","Mountain West","26-28-0",0.481
+"13","2013","Lisa Dodd","Mountain West","21-31-0",0.404
+"14","2012","Pete Manarino","Mountain West","22-27-0",0.449
+"15","2011","Pete Manarino","Mountain West","27-18-0",0.6
+"16","2010","Pete Manarino","Mountain West","33-20-0",0.623
+"17","2009","Pete Manarino","Mountain West","31-21-0",0.596
+"18","2008","Lonni Alameda","Mountain West","25-40-1",0.386
+"19","2007","Lonni Alameda","Mountain West","37-27-0",0.578
+"20","2006","Lonni Alameda","Mountain West","26-37-0",0.413
+"21","2005","Lonni Alameda","Mountain West","44-19-0",0.698
+"22","2004","Lonni Alameda","Mountain West","25-35-0",0.417
+"23","2003","Shan McDonald","Mountain West","21-39-0",0.35
+"24","2002","Shan McDonald","Mountain West","30-34-0",0.469
+"25","2001","Shan McDonald","Mountain West","23-30-0",0.434
+"26","1900","Shan McDonald","Mountain West","19-41-0",0.317
+"27","1999","Shan McDonald","WAC","18-31-0",0.367
+"28","1998","Shan McDonald","-","21-30-0",0.412
+"29","1997","Shan McDonald (26-28)Carol Spanks (26-28)","WAC","26-28-0",0.481
+"30","1996","Shan McDonald (36-23)Carol Spanks (36-23)","-","36-23-0",0.61
+"31","1995","Shan McDonald (49-14)Carol Spanks (49-14)","-","49-14-0",0.778
+"32","1994","Shan McDonald","-","39-19-0",0.672
+"33","1993","Shan McDonald","-","37-17-1",0.682
+"34","1992","Shan McDonald","-","34-22-0",0.607
+"35","1991","Shan McDonald","-","49-17-1",0.739
+"36","1990","Shan McDonald","-","41-27-0",0.603
+"37","1989","Shan McDonald","-","32-28-0",0.533
+"38","1988","Shan McDonald","-","18-29-0",0.383
+"39","1987","Shan McDonald","-","15-40-0",0.273
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1982","","-","NA-NA-0",NA

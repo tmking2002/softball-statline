@@ -1,8 +1,7 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Jessup","30262","2025","Brie Campbell","D-II","PacWest",1,1,0,0.5
-"2","Jessup","30262","2024","Brie Campbell","D-II","DII Independent",44,12,0,0.786
-"3","Jessup","30262","2023","Brie Campbell","","-",24,23,0,0.511
-"4","Jessup","30262","2022","Brie Campbell","","-",39,15,0,0.722
-"5","Jessup","30262","2021","Brie Campbell","","-",19,21,0,0.475
-"6","Jessup","30262","2020","Brie Campbell","","-",6,12,0,0.333
-"7","Jessup","30262","","","","",133,84,0,0.613
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brie Campbell","PacWest","1-1-0",0.5
+"2","2024","Brie Campbell","DII Independent","44-12-0",0.786
+"3","2023","Brie Campbell","-","24-23-0",0.511
+"4","2022","Brie Campbell","-","39-15-0",0.722
+"5","2021","Brie Campbell","-","19-21-0",0.475
+"6","2020","Brie Campbell","-","6-12-0",0.333

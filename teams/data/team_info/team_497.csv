@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","North Texas","497","2025","Rodney DeLong","D-I","The American",1,0,0,1
-"2","North Texas","497","2024","Rodney DeLong","D-I","The American",32,24,0,0.571
-"3","North Texas","497","2023","Rodney DeLong","D-I","CUSA",35,22,0,0.614
-"4","North Texas","497","2022","Rodney DeLong","D-I","CUSA",37,16,0,0.698
-"5","North Texas","497","2021","Rodney DeLong","D-I","CUSA",38,12,0,0.76
-"6","North Texas","497","2020","Rodney DeLong","D-I","CUSA",19,5,0,0.792
-"7","North Texas","497","2019","Rodney DeLong","D-I","CUSA",35,19,0,0.648
-"8","North Texas","497","2018","Tracey Kee","D-I","CUSA",25,27,NA,0.481
-"9","North Texas","497","2017","Tracey Kee","D-I","CUSA",25,31,0,0.446
-"10","North Texas","497","2016","Tracey Kee","D-I","CUSA",22,33,0,0.4
-"11","North Texas","497","2015","Tracey Kee","D-I","CUSA",19,31,0,0.38
-"12","North Texas","497","2014","Tracey Kee","D-I","CUSA",31,22,0,0.585
-"13","North Texas","497","2013","T.J. Hubbard","D-I","Sun Belt",29,24,0,0.547
-"14","North Texas","497","2012","T.J. Hubbard","D-I","Sun Belt",31,25,1,0.553
-"15","North Texas","497","2011","T.J. Hubbard","D-I","Sun Belt",22,30,0,0.423
-"16","North Texas","497","2010","T.J. Hubbard","D-I","Sun Belt",29,20,0,0.592
-"17","North Texas","497","2009","T.J. Hubbard","D-I","Sun Belt",26,28,0,0.481
-"18","North Texas","497","2008","T.J. Hubbard","D-I","Sun Belt",27,33,0,0.45
-"19","North Texas","497","2007","Kelly Burns","D-I","Sun Belt",22,36,0,0.379
-"20","North Texas","497","2006","Kelly Burns","D-I","Sun Belt",22,38,0,0.367
-"21","North Texas","497","2005","Kelly Burns","D-I","Sun Belt",15,38,0,0.283
-"22","North Texas","497","2004","Stacey Segal","D-I","Sun Belt",22,57,0,0.278
-"23","North Texas","497","1988","","D-I","-",NA,NA,NA,NA
-"24","North Texas","497","1986","","D-I","-",NA,NA,NA,NA
-"25","North Texas","497","","","","",564,571,1,0.497
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rodney DeLong","The American","1-0-0",1
+"2","2024","Rodney DeLong","The American","32-24-0",0.571
+"3","2023","Rodney DeLong","CUSA","35-22-0",0.614
+"4","2022","Rodney DeLong","CUSA","37-16-0",0.698
+"5","2021","Rodney DeLong","CUSA","38-12-0",0.76
+"6","2020","Rodney DeLong","CUSA","19-5-0",0.792
+"7","2019","Rodney DeLong","CUSA","35-19-0",0.648
+"8","2018","Tracey Kee","CUSA","25-27-0",0.481
+"9","2017","Tracey Kee","CUSA","25-31-0",0.446
+"10","2016","Tracey Kee","CUSA","22-33-0",0.4
+"11","2015","Tracey Kee","CUSA","19-31-0",0.38
+"12","2014","Tracey Kee","CUSA","31-22-0",0.585
+"13","2013","T.J. Hubbard","Sun Belt","29-24-0",0.547
+"14","2012","T.J. Hubbard","Sun Belt","31-25-1",0.553
+"15","2011","T.J. Hubbard","Sun Belt","22-30-0",0.423
+"16","2010","T.J. Hubbard","Sun Belt","29-20-0",0.592
+"17","2009","T.J. Hubbard","Sun Belt","26-28-0",0.481
+"18","2008","T.J. Hubbard","Sun Belt","27-33-0",0.45
+"19","2007","Kelly Burns","Sun Belt","22-36-0",0.379
+"20","2006","Kelly Burns","Sun Belt","22-38-0",0.367
+"21","2005","Kelly Burns","Sun Belt","15-38-0",0.283
+"22","2004","Stacey Segal","Sun Belt","22-57-0",0.278
+"23","1988","","-","NA-NA-0",NA
+"24","1986","","-","NA-NA-0",NA

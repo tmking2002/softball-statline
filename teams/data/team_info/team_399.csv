@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mass. Maritime","399","2025","Willis Griffiths","D-III","MASCAC",0,0,0,0
-"2","Mass. Maritime","399","2024","Willis Griffiths","D-III","MASCAC",11,17,0,0.393
-"3","Mass. Maritime","399","2023","Willis Griffiths","D-III","MASCAC",17,20,0,0.459
-"4","Mass. Maritime","399","2022","Willis Griffiths","D-III","MASCAC",7,27,0,0.206
-"5","Mass. Maritime","399","2021","Willis Griffiths","D-III","MASCAC",0,8,0,0
-"6","Mass. Maritime","399","2020","Willis Griffiths","D-III","MASCAC",NA,NA,NA,0
-"7","Mass. Maritime","399","2019","Kathleen L'Abbe","D-III","MASCAC",5,29,0,0.147
-"8","Mass. Maritime","399","2018","Kathleen L'Abbe","D-III","MASCAC",3,25,NA,0.107
-"9","Mass. Maritime","399","2017","Megan Giammalvo","D-III","MASCAC",7,17,0,0.292
-"10","Mass. Maritime","399","2016","Megan Giammalvo","D-III","MASCAC",5,23,0,0.179
-"11","Mass. Maritime","399","2015","Megan Giammalvo","D-III","MASCAC",4,14,0,0.222
-"12","Mass. Maritime","399","2014","Megan Giammalvo","D-III","MASCAC",0,20,0,0
-"13","Mass. Maritime","399","2013","Megan Giammalvo","D-III","MASCAC",0,22,0,0
-"14","Mass. Maritime","399","2012","Lindsay DeStefano","D-III","MASCAC",2,23,0,0.08
-"15","Mass. Maritime","399","2011","Lindsay DeStefano","D-III","MASCAC",1,23,0,0.042
-"16","Mass. Maritime","399","2010","Ashley Lorance","D-III","MASCAC",2,24,0,0.077
-"17","Mass. Maritime","399","2009","Christine McCarey","D-III","MASCAC",NA,NA,NA,NA
-"18","Mass. Maritime","399","2008","Christine McCarey","D-III","MASCAC",1,26,0,0.037
-"19","Mass. Maritime","399","2007","Bruce Gendron","D-III","MASCAC",2,24,0,0.077
-"20","Mass. Maritime","399","2006","Bruce Gendron","D-III","MASCAC",2,21,0,0.087
-"21","Mass. Maritime","399","2005","Maureen Holden","D-III","MASCAC",6,20,0,0.231
-"22","Mass. Maritime","399","2004","Maureen Holden","D-III","MASCAC",2,20,0,0.091
-"23","Mass. Maritime","399","2003","Maureen Holden","D-III","MASCAC",5,17,0,0.227
-"24","Mass. Maritime","399","2002","Maureen Holden","D-III","MASCAC",4,24,0,0.143
-"25","Mass. Maritime","399","2001","Maureen Holden","D-III","-",8,18,NA,0.308
-"26","Mass. Maritime","399","1900","Maureen Holden","D-III","-",4,22,NA,0.154
-"27","Mass. Maritime","399","1999","Michelle Gaziano","D-III","-",6,18,NA,0.25
-"28","Mass. Maritime","399","1998","Michelle Gaziano","D-III","-",6,19,NA,0.24
-"29","Mass. Maritime","399","1997","Beth Fulcher","D-III","-",7,15,NA,0.318
-"30","Mass. Maritime","399","1996","Walter Yohai","D-III","-",6,12,NA,0.333
-"31","Mass. Maritime","399","1995","Walter Yohai","D-III","-",5,12,NA,0.294
-"32","Mass. Maritime","399","1994","Walter Yohai","D-III","-",2,8,NA,0.2
-"33","Mass. Maritime","399","1993","Walter Yohai","D-III","-",1,11,NA,0.083
-"34","Mass. Maritime","399","1992","","D-III","-",NA,NA,NA,NA
-"35","Mass. Maritime","399","1991","","D-III","-",NA,NA,NA,NA
-"36","Mass. Maritime","399","1990","","","-",NA,NA,NA,NA
-"37","Mass. Maritime","399","1989","","","-",NA,NA,NA,NA
-"38","Mass. Maritime","399","1988","","","-",NA,NA,NA,NA
-"39","Mass. Maritime","399","1987","","","-",NA,NA,NA,NA
-"40","Mass. Maritime","399","1986","","","-",NA,NA,NA,NA
-"41","Mass. Maritime","399","1985","","","-",NA,NA,NA,NA
-"42","Mass. Maritime","399","","","","",131,579,0,0.185
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Willis Griffiths","MASCAC","0-0-0",0
+"2","2024","Willis Griffiths","MASCAC","11-17-0",0.393
+"3","2023","Willis Griffiths","MASCAC","17-20-0",0.459
+"4","2022","Willis Griffiths","MASCAC","7-27-0",0.206
+"5","2021","Willis Griffiths","MASCAC","0-8-0",0
+"6","2020","Willis Griffiths","MASCAC","NA-NA-0",0
+"7","2019","Kathleen L'Abbe","MASCAC","5-29-0",0.147
+"8","2018","Kathleen L'Abbe","MASCAC","3-25-0",0.107
+"9","2017","Megan Giammalvo","MASCAC","7-17-0",0.292
+"10","2016","Megan Giammalvo","MASCAC","5-23-0",0.179
+"11","2015","Megan Giammalvo","MASCAC","4-14-0",0.222
+"12","2014","Megan Giammalvo","MASCAC","0-20-0",0
+"13","2013","Megan Giammalvo","MASCAC","0-22-0",0
+"14","2012","Lindsay DeStefano","MASCAC","2-23-0",0.08
+"15","2011","Lindsay DeStefano","MASCAC","1-23-0",0.042
+"16","2010","Ashley Lorance","MASCAC","2-24-0",0.077
+"17","2009","Christine McCarey","MASCAC","NA-NA-0",NA
+"18","2008","Christine McCarey","MASCAC","1-26-0",0.037
+"19","2007","Bruce Gendron","MASCAC","2-24-0",0.077
+"20","2006","Bruce Gendron","MASCAC","2-21-0",0.087
+"21","2005","Maureen Holden","MASCAC","6-20-0",0.231
+"22","2004","Maureen Holden","MASCAC","2-20-0",0.091
+"23","2003","Maureen Holden","MASCAC","5-17-0",0.227
+"24","2002","Maureen Holden","MASCAC","4-24-0",0.143
+"25","2001","Maureen Holden","-","8-18-0",0.308
+"26","1900","Maureen Holden","-","4-22-0",0.154
+"27","1999","Michelle Gaziano","-","6-18-0",0.25
+"28","1998","Michelle Gaziano","-","6-19-0",0.24
+"29","1997","Beth Fulcher","-","7-15-0",0.318
+"30","1996","Walter Yohai","-","6-12-0",0.333
+"31","1995","Walter Yohai","-","5-12-0",0.294
+"32","1994","Walter Yohai","-","2-8-0",0.2
+"33","1993","Walter Yohai","-","1-11-0",0.083
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

@@ -1,22 +1,21 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ursuline","30140","2025","Danielle L'Argent","D-II","G-MAC",0,0,0,0
-"2","Ursuline","30140","2024","Danielle L'Argent","D-II","G-MAC",5,35,0,0.125
-"3","Ursuline","30140","2023","Danielle L'Argent","D-II","G-MAC",2,35,0,0.054
-"4","Ursuline","30140","2022","Sue Woodford","D-II","G-MAC",14,25,0,0.359
-"5","Ursuline","30140","2021","Sue Woodford","D-II","G-MAC",11,24,0,0.314
-"6","Ursuline","30140","2020","Sue Woodford","D-II","G-MAC",2,6,0,0.25
-"7","Ursuline","30140","2019","Sue Woodford","D-II","G-MAC",16,30,0,0.348
-"8","Ursuline","30140","2018","Sue Woodford","D-II","G-MAC",15,27,1,0.36
-"9","Ursuline","30140","2017","Sue Woodford","D-II","G-MAC",17,22,0,0.436
-"10","Ursuline","30140","2016","Sue Woodford","D-II","G-MAC",16,27,0,0.372
-"11","Ursuline","30140","2015","Sue Woodford","D-II","G-MAC",10,23,0,0.303
-"12","Ursuline","30140","2014","Sue Woodford","D-II","G-MAC",10,25,0,0.286
-"13","Ursuline","30140","2013","Sue Woodford","D-II","G-MAC",9,23,0,0.281
-"14","Ursuline","30140","2012","Sue Woodford","D-II","Ursuline",11,28,0,0.282
-"15","Ursuline","30140","2011","Sue Woodford","","-",NA,NA,NA,NA
-"16","Ursuline","30140","2010","Sue Woodford","","-",NA,NA,NA,NA
-"17","Ursuline","30140","2009","Sue Woodford","","-",NA,NA,NA,NA
-"18","Ursuline","30140","2008","Sue Woodford","","-",NA,NA,NA,NA
-"19","Ursuline","30140","2007","Sue Woodford","","-",NA,NA,NA,NA
-"20","Ursuline","30140","2005","Angie Nicholson","","-",25,18,NA,0.581
-"21","Ursuline","30140","","","","",163,348,1,0.319
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Danielle L'Argent","G-MAC","0-0-0",0
+"2","2024","Danielle L'Argent","G-MAC","5-35-0",0.125
+"3","2023","Danielle L'Argent","G-MAC","2-35-0",0.054
+"4","2022","Sue Woodford","G-MAC","14-25-0",0.359
+"5","2021","Sue Woodford","G-MAC","11-24-0",0.314
+"6","2020","Sue Woodford","G-MAC","2-6-0",0.25
+"7","2019","Sue Woodford","G-MAC","16-30-0",0.348
+"8","2018","Sue Woodford","G-MAC","15-27-1",0.36
+"9","2017","Sue Woodford","G-MAC","17-22-0",0.436
+"10","2016","Sue Woodford","G-MAC","16-27-0",0.372
+"11","2015","Sue Woodford","G-MAC","10-23-0",0.303
+"12","2014","Sue Woodford","G-MAC","10-25-0",0.286
+"13","2013","Sue Woodford","G-MAC","9-23-0",0.281
+"14","2012","Sue Woodford","Ursuline","11-28-0",0.282
+"15","2011","Sue Woodford","-","NA-NA-0",NA
+"16","2010","Sue Woodford","-","NA-NA-0",NA
+"17","2009","Sue Woodford","-","NA-NA-0",NA
+"18","2008","Sue Woodford","-","NA-NA-0",NA
+"19","2007","Sue Woodford","-","NA-NA-0",NA
+"20","2005","Angie Nicholson","-","25-18-0",0.581

@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Jackson St.","314","2025","Kevin Montgomery","D-I","SWAC",1,0,0,1
-"2","Jackson St.","314","2024","Kevin Montgomery","D-I","SWAC",33,19,0,0.635
-"3","Jackson St.","314","2023","Kevin Montgomery","D-I","SWAC",24,27,0,0.471
-"4","Jackson St.","314","2022","Kevin Montgomery","D-I","SWAC",24,27,0,0.471
-"5","Jackson St.","314","2021","Kevin Montgomery","D-I","SWAC",17,23,0,0.425
-"6","Jackson St.","314","2020","Kevin Montgomery","D-I","SWAC",9,16,0,0.36
-"7","Jackson St.","314","2019","Kevin Montgomery","D-I","SWAC",12,35,0,0.255
-"8","Jackson St.","314","2018","Darnell Walker","D-I","SWAC",9,31,NA,0.225
-"9","Jackson St.","314","2017","Darnell Walker","D-I","SWAC",12,36,0,0.25
-"10","Jackson St.","314","2016","Darnell Walker","D-I","SWAC",8,28,0,0.222
-"11","Jackson St.","314","2015","Rick Fremin","D-I","SWAC",24,26,0,0.48
-"12","Jackson St.","314","2014","Rick Fremin","D-I","SWAC",28,29,0,0.491
-"13","Jackson St.","314","2013","Rick Fremin","D-I","SWAC",28,29,0,0.491
-"14","Jackson St.","314","2012","Rick Fremin","D-I","SWAC",32,27,0,0.542
-"15","Jackson St.","314","2011","Rick Fremin","D-I","SWAC",26,22,0,0.542
-"16","Jackson St.","314","2010","Kenya Peters","D-I","SWAC",16,29,0,0.356
-"17","Jackson St.","314","2009","Kenya Peters","D-I","SWAC",21,25,0,0.457
-"18","Jackson St.","314","2008","Kenya Peters","D-I","SWAC",17,35,0,0.327
-"19","Jackson St.","314","2007","Kenya Peters","D-I","SWAC",17,27,1,0.389
-"20","Jackson St.","314","2006","Kenya Peters","D-I","SWAC",26,27,0,0.491
-"21","Jackson St.","314","2005","Kenya Peters","D-I","SWAC",12,34,0,0.261
-"22","Jackson St.","314","2004","Kenya Peters","D-I","SWAC",9,28,0,0.243
-"23","Jackson St.","314","2003","Jack Lott","D-I","SWAC",7,32,0,0.179
-"24","Jackson St.","314","2002","Jack Lott","D-I","SWAC",30,21,0,0.588
-"25","Jackson St.","314","2001","Jack Lott","D-I","SWAC",17,26,0,0.395
-"26","Jackson St.","314","1900","Gwendolyn Wilson","D-I","SWAC",17,30,0,0.362
-"27","Jackson St.","314","1999","Dwain Powe","D-I","SWAC",12,18,0,0.4
-"28","Jackson St.","314","1998","Michelle Houston","D-I","-",7,38,NA,0.156
-"29","Jackson St.","314","1997","Johnny Brown","D-I","SWAC",1,31,0,0.031
-"30","Jackson St.","314","1996","","D-I","-",NA,NA,NA,NA
-"31","Jackson St.","314","1995","","D-I","-",NA,NA,NA,NA
-"32","Jackson St.","314","1994","","D-I","-",NA,NA,NA,NA
-"33","Jackson St.","314","1993","","D-I","-",NA,NA,NA,NA
-"34","Jackson St.","314","1992","","D-I","-",NA,NA,NA,NA
-"35","Jackson St.","314","1991","","D-I","-",NA,NA,NA,NA
-"36","Jackson St.","314","1990","","D-I","-",NA,NA,NA,NA
-"37","Jackson St.","314","","","","",496,776,1,0.39
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kevin Montgomery","SWAC","1-0-0",1
+"2","2024","Kevin Montgomery","SWAC","33-19-0",0.635
+"3","2023","Kevin Montgomery","SWAC","24-27-0",0.471
+"4","2022","Kevin Montgomery","SWAC","24-27-0",0.471
+"5","2021","Kevin Montgomery","SWAC","17-23-0",0.425
+"6","2020","Kevin Montgomery","SWAC","9-16-0",0.36
+"7","2019","Kevin Montgomery","SWAC","12-35-0",0.255
+"8","2018","Darnell Walker","SWAC","9-31-0",0.225
+"9","2017","Darnell Walker","SWAC","12-36-0",0.25
+"10","2016","Darnell Walker","SWAC","8-28-0",0.222
+"11","2015","Rick Fremin","SWAC","24-26-0",0.48
+"12","2014","Rick Fremin","SWAC","28-29-0",0.491
+"13","2013","Rick Fremin","SWAC","28-29-0",0.491
+"14","2012","Rick Fremin","SWAC","32-27-0",0.542
+"15","2011","Rick Fremin","SWAC","26-22-0",0.542
+"16","2010","Kenya Peters","SWAC","16-29-0",0.356
+"17","2009","Kenya Peters","SWAC","21-25-0",0.457
+"18","2008","Kenya Peters","SWAC","17-35-0",0.327
+"19","2007","Kenya Peters","SWAC","17-27-1",0.389
+"20","2006","Kenya Peters","SWAC","26-27-0",0.491
+"21","2005","Kenya Peters","SWAC","12-34-0",0.261
+"22","2004","Kenya Peters","SWAC","9-28-0",0.243
+"23","2003","Jack Lott","SWAC","7-32-0",0.179
+"24","2002","Jack Lott","SWAC","30-21-0",0.588
+"25","2001","Jack Lott","SWAC","17-26-0",0.395
+"26","1900","Gwendolyn Wilson","SWAC","17-30-0",0.362
+"27","1999","Dwain Powe","SWAC","12-18-0",0.4
+"28","1998","Michelle Houston","-","7-38-0",0.156
+"29","1997","Johnny Brown","SWAC","1-31-0",0.031
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

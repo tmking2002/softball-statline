@@ -1,7 +1,6 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Allen","30240","2025","Kandi Krebs","D-II","SIAC",0,1,0,0
-"2","Allen","30240","2024","Kaela Robinson","D-II","SIAC",2,37,0,0.051
-"3","Allen","30240","2023","Kaela Robinson","D-II","SIAC",3,38,0,0.073
-"4","Allen","30240","2022","","D-II","SIAC",2,27,0,0.069
-"5","Allen","30240","2021","","","-",NA,NA,NA,0
-"6","Allen","30240","","","","",7,103,0,0.064
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kandi Krebs","SIAC","0-1-0",0
+"2","2024","Kaela Robinson","SIAC","2-37-0",0.051
+"3","2023","Kaela Robinson","SIAC","3-38-0",0.073
+"4","2022","","SIAC","2-27-0",0.069
+"5","2021","","-","NA-NA-0",0

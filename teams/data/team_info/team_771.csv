@@ -1,55 +1,54 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Western Ill.","771","2025","Alisa Goler","D-I","OVC",0,0,0,0
-"2","Western Ill.","771","2024","Alisa Goler","D-I","OVC",16,34,0,0.32
-"3","Western Ill.","771","2023","Alisa Goler","D-I","Summit League",9,36,0,0.2
-"4","Western Ill.","771","2022","Alisa Goler","D-I","Summit League",8,37,0,0.178
-"5","Western Ill.","771","2021","Alisa Goler","D-I","Summit League",16,29,0,0.356
-"6","Western Ill.","771","2020","Holly Van Vlymen","D-I","Summit League",6,13,0,0.316
-"7","Western Ill.","771","2019","Beth Golitko","D-I","Summit League",20,20,0,0.5
-"8","Western Ill.","771","2018","Beth Golitko","D-I","Summit League",17,31,NA,0.354
-"9","Western Ill.","771","2017","Holly Van Vlymen","D-I","Summit League",22,32,0,0.407
-"10","Western Ill.","771","2016","Holly Van Vlymen","D-I","Summit League",16,32,0,0.333
-"11","Western Ill.","771","2015","Holly Van Vlymen","D-I","Summit League",18,23,0,0.439
-"12","Western Ill.","771","2014","Holly Van Vlymen","D-I","Summit League",20,29,1,0.41
-"13","Western Ill.","771","2013","Holly Van Vlymen","D-I","Summit League",14,23,0,0.378
-"14","Western Ill.","771","2012","Holly Van Vlymen","D-I","Summit League",23,28,0,0.451
-"15","Western Ill.","771","2011","Holly Van Vlymen","D-I","Summit League",19,27,0,0.413
-"16","Western Ill.","771","2010","Holly Van Vlymen","D-I","Summit League",35,19,0,0.648
-"17","Western Ill.","771","2009","Holly Van Vlymen","D-I","Summit League",34,19,0,0.642
-"18","Western Ill.","771","2008","Holly Van Vlymen","D-I","Summit League",15,33,0,0.313
-"19","Western Ill.","771","2007","Holly Van Vlymen","D-I","Summit League",23,23,0,0.5
-"20","Western Ill.","771","2006","Holly Van Vlymen","D-I","Summit League",22,33,1,0.402
-"21","Western Ill.","771","2005","Kathy Veroni","D-I","Summit League",25,28,0,0.472
-"22","Western Ill.","771","2004","Kathy Veroni","D-I","Summit League",28,29,0,0.491
-"23","Western Ill.","771","2003","Kathy Veroni","D-I","Summit League",28,27,0,0.509
-"24","Western Ill.","771","2002","Kathy Veroni","D-I","Summit League",26,21,0,0.553
-"25","Western Ill.","771","2001","Kathy Veroni","D-I","Summit League",33,21,0,0.611
-"26","Western Ill.","771","1900","Kathy Veroni","D-I","Summit League",46,16,0,0.742
-"27","Western Ill.","771","1999","Kathy Veroni","D-I","Summit League",30,26,0,0.536
-"28","Western Ill.","771","1998","Kathy Veroni","D-I","-",23,24,NA,0.489
-"29","Western Ill.","771","1997","Kathy Veroni","D-I","Summit League",31,22,1,0.583
-"30","Western Ill.","771","1996","Kathy Veroni","D-I","-",32,24,NA,0.571
-"31","Western Ill.","771","1995","Kathy Veroni","D-I","-",37,24,NA,0.607
-"32","Western Ill.","771","1994","Kathy Veroni","D-I","-",35,25,0,0.583
-"33","Western Ill.","771","1993","Kathy Veroni","D-I","-",29,13,NA,0.69
-"34","Western Ill.","771","1992","Kathy Veroni","D-I","-",25,18,NA,0.581
-"35","Western Ill.","771","1991","Kathy Veroni","D-I","-",30,18,NA,0.625
-"36","Western Ill.","771","1990","Kathy Veroni","D-I","-",35,16,NA,0.686
-"37","Western Ill.","771","1989","Kathy Veroni","D-I","-",31,18,1,0.63
-"38","Western Ill.","771","1988","Kathy Veroni","D-I","-",28,22,NA,0.56
-"39","Western Ill.","771","1987","Kathy Veroni","D-I","-",33,24,NA,0.579
-"40","Western Ill.","771","1986","Kathy Veroni","D-I","-",18,25,NA,0.419
-"41","Western Ill.","771","1985","Kathy Veroni","D-I","-",21,19,NA,0.525
-"42","Western Ill.","771","1984","Kathy Veroni","D-I","-",30,9,NA,0.769
-"43","Western Ill.","771","1983","Kathy Veroni","D-I","-",16,16,NA,0.5
-"44","Western Ill.","771","1982","Kathy Veroni","D-I","-",29,15,NA,0.659
-"45","Western Ill.","771","1981","Kathy Veroni","","-",19,20,NA,0.487
-"46","Western Ill.","771","1980","Kathy Veroni","","-",31,9,NA,0.775
-"47","Western Ill.","771","1979","Kathy Veroni","","-",31,14,NA,0.689
-"48","Western Ill.","771","1978","Kathy Veroni","","-",17,8,NA,0.68
-"49","Western Ill.","771","1977","Kathy Veroni","","-",21,11,NA,0.656
-"50","Western Ill.","771","1976","Kathy Veroni","","-",7,9,NA,0.438
-"51","Western Ill.","771","1975","Kathy Veroni","","-",15,6,NA,0.714
-"52","Western Ill.","771","1974","Kathy Veroni","","-",11,14,NA,0.44
-"53","Western Ill.","771","1973","Kathy Veroni","","-",18,7,NA,0.72
-"54","Western Ill.","771","","","","",1222,1119,4,0.522
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Alisa Goler","OVC","0-0-0",0
+"2","2024","Alisa Goler","OVC","16-34-0",0.32
+"3","2023","Alisa Goler","Summit League","9-36-0",0.2
+"4","2022","Alisa Goler","Summit League","8-37-0",0.178
+"5","2021","Alisa Goler","Summit League","16-29-0",0.356
+"6","2020","Holly Van Vlymen","Summit League","6-13-0",0.316
+"7","2019","Beth Golitko","Summit League","20-20-0",0.5
+"8","2018","Beth Golitko","Summit League","17-31-0",0.354
+"9","2017","Holly Van Vlymen","Summit League","22-32-0",0.407
+"10","2016","Holly Van Vlymen","Summit League","16-32-0",0.333
+"11","2015","Holly Van Vlymen","Summit League","18-23-0",0.439
+"12","2014","Holly Van Vlymen","Summit League","20-29-1",0.41
+"13","2013","Holly Van Vlymen","Summit League","14-23-0",0.378
+"14","2012","Holly Van Vlymen","Summit League","23-28-0",0.451
+"15","2011","Holly Van Vlymen","Summit League","19-27-0",0.413
+"16","2010","Holly Van Vlymen","Summit League","35-19-0",0.648
+"17","2009","Holly Van Vlymen","Summit League","34-19-0",0.642
+"18","2008","Holly Van Vlymen","Summit League","15-33-0",0.313
+"19","2007","Holly Van Vlymen","Summit League","23-23-0",0.5
+"20","2006","Holly Van Vlymen","Summit League","22-33-1",0.402
+"21","2005","Kathy Veroni","Summit League","25-28-0",0.472
+"22","2004","Kathy Veroni","Summit League","28-29-0",0.491
+"23","2003","Kathy Veroni","Summit League","28-27-0",0.509
+"24","2002","Kathy Veroni","Summit League","26-21-0",0.553
+"25","2001","Kathy Veroni","Summit League","33-21-0",0.611
+"26","1900","Kathy Veroni","Summit League","46-16-0",0.742
+"27","1999","Kathy Veroni","Summit League","30-26-0",0.536
+"28","1998","Kathy Veroni","-","23-24-0",0.489
+"29","1997","Kathy Veroni","Summit League","31-22-1",0.583
+"30","1996","Kathy Veroni","-","32-24-0",0.571
+"31","1995","Kathy Veroni","-","37-24-0",0.607
+"32","1994","Kathy Veroni","-","35-25-0",0.583
+"33","1993","Kathy Veroni","-","29-13-0",0.69
+"34","1992","Kathy Veroni","-","25-18-0",0.581
+"35","1991","Kathy Veroni","-","30-18-0",0.625
+"36","1990","Kathy Veroni","-","35-16-0",0.686
+"37","1989","Kathy Veroni","-","31-18-1",0.63
+"38","1988","Kathy Veroni","-","28-22-0",0.56
+"39","1987","Kathy Veroni","-","33-24-0",0.579
+"40","1986","Kathy Veroni","-","18-25-0",0.419
+"41","1985","Kathy Veroni","-","21-19-0",0.525
+"42","1984","Kathy Veroni","-","30-9-0",0.769
+"43","1983","Kathy Veroni","-","16-16-0",0.5
+"44","1982","Kathy Veroni","-","29-15-0",0.659
+"45","1981","Kathy Veroni","-","19-20-0",0.487
+"46","1980","Kathy Veroni","-","31-9-0",0.775
+"47","1979","Kathy Veroni","-","31-14-0",0.689
+"48","1978","Kathy Veroni","-","17-8-0",0.68
+"49","1977","Kathy Veroni","-","21-11-0",0.656
+"50","1976","Kathy Veroni","-","7-9-0",0.438
+"51","1975","Kathy Veroni","-","15-6-0",0.714
+"52","1974","Kathy Veroni","-","11-14-0",0.44
+"53","1973","Kathy Veroni","-","18-7-0",0.72

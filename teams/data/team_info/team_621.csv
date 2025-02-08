@@ -1,48 +1,47 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Salem St.","621","2025","Ryan Leahy","D-III","MASCAC",0,0,0,0
-"2","Salem St.","621","2024","Ryan Leahy","D-III","MASCAC",14,26,0,0.35
-"3","Salem St.","621","2023","Isabella Russo","D-III","MASCAC",10,29,0,0.256
-"4","Salem St.","621","2022","Isabella Russo","D-III","MASCAC",10,26,0,0.278
-"5","Salem St.","621","2021","Megan Jenkerson","D-III","MASCAC",5,15,0,0.25
-"6","Salem St.","621","2020","Alex Campione","D-III","MASCAC",NA,NA,NA,0
-"7","Salem St.","621","2019","Alex Campione","D-III","MASCAC",13,25,0,0.342
-"8","Salem St.","621","2018","Ariel LaRosa","D-III","MASCAC",14,21,NA,0.4
-"9","Salem St.","621","2017","Leanne Harris","D-III","MASCAC",23,17,0,0.575
-"10","Salem St.","621","2016","Leanne Harris","D-III","MASCAC",13,23,0,0.361
-"11","Salem St.","621","2015","Leanne Harris","D-III","MASCAC",22,17,0,0.564
-"12","Salem St.","621","2014","Leanne Harris","D-III","MASCAC",17,21,1,0.449
-"13","Salem St.","621","2013","Leanne Harris","D-III","MASCAC",19,16,0,0.543
-"14","Salem St.","621","2012","Leanne Harris","D-III","MASCAC",33,14,0,0.702
-"15","Salem St.","621","2011","Leanne Harris","D-III","MASCAC",23,19,0,0.548
-"16","Salem St.","621","2010","Leanne Harris","D-III","MASCAC",35,10,1,0.772
-"17","Salem St.","621","2009","Leanne Harris","D-III","MASCAC",18,14,0,0.563
-"18","Salem St.","621","2008","Leanne Harris","D-III","MASCAC",20,21,0,0.488
-"19","Salem St.","621","2007","Leanne Harris","D-III","MASCAC",13,24,0,0.351
-"20","Salem St.","621","2006","Kristan Steele","D-III","MASCAC",6,28,0,0.176
-"21","Salem St.","621","2005","Kristan Steele","D-III","MASCAC",17,14,0,0.548
-"22","Salem St.","621","2004","Wendy Rogers","D-III","-",9,25,0,0.265
-"23","Salem St.","621","2003","Kathy O'Leary","D-III","-",9,20,1,0.317
-"24","Salem St.","621","2002","Kathy O'Leary","D-III","-",9,23,NA,0.281
-"25","Salem St.","621","2001","Kathy O'Leary","D-III","-",9,21,NA,0.3
-"26","Salem St.","621","1900","Kathy O'Leary","D-III","-",14,20,NA,0.412
-"27","Salem St.","621","1999","Kathy O'Leary","D-III","-",22,19,NA,0.537
-"28","Salem St.","621","1998","Kathy O'Leary","D-III","-",22,10,NA,0.688
-"29","Salem St.","621","1997","Kathy O'Leary","D-III","-",20,12,NA,0.625
-"30","Salem St.","621","1996","Kathy O'Leary","D-III","-",12,17,NA,0.414
-"31","Salem St.","621","1995","Kathy O'Leary","D-III","-",17,15,NA,0.531
-"32","Salem St.","621","1994","Kathy O'Leary","D-III","-",24,6,NA,0.8
-"33","Salem St.","621","1993","Kathy O'Leary","D-III","-",18,12,1,0.597
-"34","Salem St.","621","1992","Kathy O'Leary","D-III","-",17,12,NA,0.586
-"35","Salem St.","621","1991","Kathy O'Leary","D-III","-",26,7,NA,0.788
-"36","Salem St.","621","1990","Kathy O'Leary","D-III","-",20,8,NA,0.714
-"37","Salem St.","621","1989","Kathy O'Leary","D-III","-",13,12,NA,0.52
-"38","Salem St.","621","1988","Kathy O'Leary","D-III","-",10,21,NA,0.323
-"39","Salem St.","621","1987","","D-III","-",NA,NA,NA,NA
-"40","Salem St.","621","1986","","D-III","-",NA,NA,NA,NA
-"41","Salem St.","621","1985","","D-III","-",NA,NA,NA,NA
-"42","Salem St.","621","1984","","D-III","-",NA,NA,NA,NA
-"43","Salem St.","621","1983","","D-III","-",NA,NA,NA,NA
-"44","Salem St.","621","1982","","D-III","-",NA,NA,NA,NA
-"45","Salem St.","621","1981","","D-III","-",NA,NA,NA,NA
-"46","Salem St.","621","1980","","D-III","-",NA,NA,NA,NA
-"47","Salem St.","621","","","","",596,640,4,0.482
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ryan Leahy","MASCAC","0-0-0",0
+"2","2024","Ryan Leahy","MASCAC","14-26-0",0.35
+"3","2023","Isabella Russo","MASCAC","10-29-0",0.256
+"4","2022","Isabella Russo","MASCAC","10-26-0",0.278
+"5","2021","Megan Jenkerson","MASCAC","5-15-0",0.25
+"6","2020","Alex Campione","MASCAC","NA-NA-0",0
+"7","2019","Alex Campione","MASCAC","13-25-0",0.342
+"8","2018","Ariel LaRosa","MASCAC","14-21-0",0.4
+"9","2017","Leanne Harris","MASCAC","23-17-0",0.575
+"10","2016","Leanne Harris","MASCAC","13-23-0",0.361
+"11","2015","Leanne Harris","MASCAC","22-17-0",0.564
+"12","2014","Leanne Harris","MASCAC","17-21-1",0.449
+"13","2013","Leanne Harris","MASCAC","19-16-0",0.543
+"14","2012","Leanne Harris","MASCAC","33-14-0",0.702
+"15","2011","Leanne Harris","MASCAC","23-19-0",0.548
+"16","2010","Leanne Harris","MASCAC","35-10-1",0.772
+"17","2009","Leanne Harris","MASCAC","18-14-0",0.563
+"18","2008","Leanne Harris","MASCAC","20-21-0",0.488
+"19","2007","Leanne Harris","MASCAC","13-24-0",0.351
+"20","2006","Kristan Steele","MASCAC","6-28-0",0.176
+"21","2005","Kristan Steele","MASCAC","17-14-0",0.548
+"22","2004","Wendy Rogers","-","9-25-0",0.265
+"23","2003","Kathy O'Leary","-","9-20-1",0.317
+"24","2002","Kathy O'Leary","-","9-23-0",0.281
+"25","2001","Kathy O'Leary","-","9-21-0",0.3
+"26","1900","Kathy O'Leary","-","14-20-0",0.412
+"27","1999","Kathy O'Leary","-","22-19-0",0.537
+"28","1998","Kathy O'Leary","-","22-10-0",0.688
+"29","1997","Kathy O'Leary","-","20-12-0",0.625
+"30","1996","Kathy O'Leary","-","12-17-0",0.414
+"31","1995","Kathy O'Leary","-","17-15-0",0.531
+"32","1994","Kathy O'Leary","-","24-6-0",0.8
+"33","1993","Kathy O'Leary","-","18-12-1",0.597
+"34","1992","Kathy O'Leary","-","17-12-0",0.586
+"35","1991","Kathy O'Leary","-","26-7-0",0.788
+"36","1990","Kathy O'Leary","-","20-8-0",0.714
+"37","1989","Kathy O'Leary","-","13-12-0",0.52
+"38","1988","Kathy O'Leary","-","10-21-0",0.323
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA

@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","West Ga.","766","2025","Kristy Burton","D-I","ASUN",2,0,0,1
-"2","West Ga.","766","2024","Kristy Burton","D-II","Gulf South",20,33,0,0.377
-"3","West Ga.","766","2023","Kristy Burton","D-II","Gulf South",13,40,0,0.245
-"4","West Ga.","766","2022","Al Thomas (11-21)Lisa Phillips (4-10)","D-II","Gulf South",15,31,0,0.326
-"5","West Ga.","766","2021","Al Thomas","D-II","Gulf South",25,16,0,0.61
-"6","West Ga.","766","2020","Al Thomas","D-II","Gulf South",13,11,0,0.542
-"7","West Ga.","766","2019","Al Thomas","D-II","Gulf South",31,27,0,0.534
-"8","West Ga.","766","2018","Al Thomas","D-II","Gulf South",25,27,NA,0.481
-"9","West Ga.","766","2017","Al Thomas","D-II","Gulf South",29,24,0,0.547
-"10","West Ga.","766","2016","Mandy Harris-Morgan","D-II","Gulf South",33,23,0,0.589
-"11","West Ga.","766","2015","Mandy Harris-Morgan","D-II","Gulf South",15,31,0,0.326
-"12","West Ga.","766","2014","Mandy Harris-Morgan","D-II","Gulf South",26,28,0,0.481
-"13","West Ga.","766","2013","Mandy Harris-Morgan","D-II","Gulf South",15,36,0,0.294
-"14","West Ga.","766","2012","Mandy Harris-Morgan","D-II","Gulf South",14,40,0,0.259
-"15","West Ga.","766","2011","Erika Swanson","D-II","Gulf South",21,26,0,0.447
-"16","West Ga.","766","2010","Erika Swanson","D-II","Gulf South",16,41,0,0.281
-"17","West Ga.","766","2009","Erika Swanson","D-II","Gulf South",20,27,0,0.426
-"18","West Ga.","766","2008","Erika Swanson","D-II","Gulf South",7,30,0,0.189
-"19","West Ga.","766","2007","Erika Swanson","D-II","Gulf South",33,32,0,0.508
-"20","West Ga.","766","2006","Erika Swanson","D-II","Gulf South",39,26,0,0.6
-"21","West Ga.","766","2005","Erika Swanson","D-II","Gulf South",23,28,0,0.451
-"22","West Ga.","766","2004","Erika Swanson","D-II","Gulf South",21,38,0,0.356
-"23","West Ga.","766","2003","Erika Swanson","D-II","Gulf South",29,28,0,0.509
-"24","West Ga.","766","2002","Erika Swanson","D-II","-",21,29,NA,0.42
-"25","West Ga.","766","2001","","D-II","-",NA,NA,NA,NA
-"26","West Ga.","766","1900","Tabetha Stephens","D-II","-",22,25,1,0.469
-"27","West Ga.","766","1999","Tabetha Stephens","D-II","-",6,41,0,0.128
-"28","West Ga.","766","1998","Robbie Cameron","D-II","-",6,36,0,0.143
-"29","West Ga.","766","1997","Robbie Cameron","D-II","-",1,41,0,0.024
-"30","West Ga.","766","1996","Robbie Cameron","D-II","-",9,39,0,0.188
-"31","West Ga.","766","1995","Robbie Cameron","D-II","-",6,39,0,0.133
-"32","West Ga.","766","1994","Robbie Cameron","D-II","-",2,44,0,0.043
-"33","West Ga.","766","1993","Robbie Cameron","D-II","-",7,34,0,0.171
-"34","West Ga.","766","1992","Robbie Cameron","D-II","-",2,37,0,0.051
-"35","West Ga.","766","1991","Robbie Cameron","D-II","-",3,40,0,0.07
-"36","West Ga.","766","1990","Robbie Cameron","D-II","-",5,32,0,0.135
-"37","West Ga.","766","1989","Robbie Cameron","D-II","-",2,29,0,0.065
-"38","West Ga.","766","1988","","D-II","-",NA,NA,NA,NA
-"39","West Ga.","766","","","","",577,1109,1,0.342
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kristy Burton","ASUN","2-0-0",1
+"2","2024","Kristy Burton","Gulf South","20-33-0",0.377
+"3","2023","Kristy Burton","Gulf South","13-40-0",0.245
+"4","2022","Al Thomas (11-21)Lisa Phillips (4-10)","Gulf South","15-31-0",0.326
+"5","2021","Al Thomas","Gulf South","25-16-0",0.61
+"6","2020","Al Thomas","Gulf South","13-11-0",0.542
+"7","2019","Al Thomas","Gulf South","31-27-0",0.534
+"8","2018","Al Thomas","Gulf South","25-27-0",0.481
+"9","2017","Al Thomas","Gulf South","29-24-0",0.547
+"10","2016","Mandy Harris-Morgan","Gulf South","33-23-0",0.589
+"11","2015","Mandy Harris-Morgan","Gulf South","15-31-0",0.326
+"12","2014","Mandy Harris-Morgan","Gulf South","26-28-0",0.481
+"13","2013","Mandy Harris-Morgan","Gulf South","15-36-0",0.294
+"14","2012","Mandy Harris-Morgan","Gulf South","14-40-0",0.259
+"15","2011","Erika Swanson","Gulf South","21-26-0",0.447
+"16","2010","Erika Swanson","Gulf South","16-41-0",0.281
+"17","2009","Erika Swanson","Gulf South","20-27-0",0.426
+"18","2008","Erika Swanson","Gulf South","7-30-0",0.189
+"19","2007","Erika Swanson","Gulf South","33-32-0",0.508
+"20","2006","Erika Swanson","Gulf South","39-26-0",0.6
+"21","2005","Erika Swanson","Gulf South","23-28-0",0.451
+"22","2004","Erika Swanson","Gulf South","21-38-0",0.356
+"23","2003","Erika Swanson","Gulf South","29-28-0",0.509
+"24","2002","Erika Swanson","-","21-29-0",0.42
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Tabetha Stephens","-","22-25-1",0.469
+"27","1999","Tabetha Stephens","-","6-41-0",0.128
+"28","1998","Robbie Cameron","-","6-36-0",0.143
+"29","1997","Robbie Cameron","-","1-41-0",0.024
+"30","1996","Robbie Cameron","-","9-39-0",0.188
+"31","1995","Robbie Cameron","-","6-39-0",0.133
+"32","1994","Robbie Cameron","-","2-44-0",0.043
+"33","1993","Robbie Cameron","-","7-34-0",0.171
+"34","1992","Robbie Cameron","-","2-37-0",0.051
+"35","1991","Robbie Cameron","-","3-40-0",0.07
+"36","1990","Robbie Cameron","-","5-32-0",0.135
+"37","1989","Robbie Cameron","-","2-29-0",0.065
+"38","1988","","-","NA-NA-0",NA

@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Pitt.-Bradford","1315","2025","Tina Phillips","D-III","AMCC",0,0,0,0
-"2","Pitt.-Bradford","1315","2024","Tina Phillips","D-III","AMCC",23,11,0,0.676
-"3","Pitt.-Bradford","1315","2023","Tina Phillips","D-III","AMCC",11,27,0,0.289
-"4","Pitt.-Bradford","1315","2022","Tina Phillips","D-III","AMCC",11,24,0,0.314
-"5","Pitt.-Bradford","1315","2021","Tina Phillips","D-III","AMCC",16,6,0,0.727
-"6","Pitt.-Bradford","1315","2020","Tina Phillips","D-III","AMCC",1,8,0,0.111
-"7","Pitt.-Bradford","1315","2019","Tina Phillips","D-III","AMCC",23,18,0,0.561
-"8","Pitt.-Bradford","1315","2018","Tina Phillips","D-III","AMCC",14,18,NA,0.438
-"9","Pitt.-Bradford","1315","2017","Tina Phillips","D-III","AMCC",15,24,0,0.385
-"10","Pitt.-Bradford","1315","2016","Tina Phillips","D-III","AMCC",11,27,0,0.289
-"11","Pitt.-Bradford","1315","2015","Tina Phillips","D-III","AMCC",12,20,0,0.375
-"12","Pitt.-Bradford","1315","2014","Tina Phillips","D-III","AMCC",23,12,0,0.657
-"13","Pitt.-Bradford","1315","2013","Tina Phillips","D-III","AMCC",26,16,0,0.619
-"14","Pitt.-Bradford","1315","2012","Tina Phillips","D-III","AMCC",10,30,0,0.25
-"15","Pitt.-Bradford","1315","2011","Tina Phillips","D-III","AMCC",15,19,0,0.441
-"16","Pitt.-Bradford","1315","2010","Tina Phillips","D-III","AMCC",19,20,0,0.487
-"17","Pitt.-Bradford","1315","2009","Tina Phillips","D-III","AMCC",17,18,1,0.486
-"18","Pitt.-Bradford","1315","2008","Tina Phillips","D-III","AMCC",13,19,2,0.412
-"19","Pitt.-Bradford","1315","2007","Tina Phillips","D-III","AMCC",20,19,0,0.513
-"20","Pitt.-Bradford","1315","2006","Tina Phillips","D-III","AMCC",35,9,0,0.795
-"21","Pitt.-Bradford","1315","2005","Tina Phillips","D-III","AMCC",26,14,1,0.646
-"22","Pitt.-Bradford","1315","2004","Tina Phillips","D-III","AMCC",22,8,0,0.733
-"23","Pitt.-Bradford","1315","2003","Fred Wallace","D-III","AMCC",20,18,0,0.526
-"24","Pitt.-Bradford","1315","2002","Fred Wallace","D-III","-",NA,NA,NA,NA
-"25","Pitt.-Bradford","1315","2001","Fred Wallace","D-III","-",9,6,0,0.6
-"26","Pitt.-Bradford","1315","1900","","D-III","-",NA,NA,NA,NA
-"27","Pitt.-Bradford","1315","1999","","D-III","-",NA,NA,NA,NA
-"28","Pitt.-Bradford","1315","1998","","D-III","-",NA,NA,NA,NA
-"29","Pitt.-Bradford","1315","1997","","D-III","-",NA,NA,NA,NA
-"30","Pitt.-Bradford","1315","1996","","D-III","-",NA,NA,NA,NA
-"31","Pitt.-Bradford","1315","1995","","D-III","-",NA,NA,NA,NA
-"32","Pitt.-Bradford","1315","1994","","D-III","-",NA,NA,NA,NA
-"33","Pitt.-Bradford","1315","1993","","D-III","-",NA,NA,NA,NA
-"34","Pitt.-Bradford","1315","1992","","D-III","-",NA,NA,NA,NA
-"35","Pitt.-Bradford","1315","1991","","D-III","-",NA,NA,NA,NA
-"36","Pitt.-Bradford","1315","1990","","D-III","-",NA,NA,NA,NA
-"37","Pitt.-Bradford","1315","1981","","","-",NA,NA,NA,NA
-"38","Pitt.-Bradford","1315","","","","",392,391,4,0.501
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tina Phillips","AMCC","0-0-0",0
+"2","2024","Tina Phillips","AMCC","23-11-0",0.676
+"3","2023","Tina Phillips","AMCC","11-27-0",0.289
+"4","2022","Tina Phillips","AMCC","11-24-0",0.314
+"5","2021","Tina Phillips","AMCC","16-6-0",0.727
+"6","2020","Tina Phillips","AMCC","1-8-0",0.111
+"7","2019","Tina Phillips","AMCC","23-18-0",0.561
+"8","2018","Tina Phillips","AMCC","14-18-0",0.438
+"9","2017","Tina Phillips","AMCC","15-24-0",0.385
+"10","2016","Tina Phillips","AMCC","11-27-0",0.289
+"11","2015","Tina Phillips","AMCC","12-20-0",0.375
+"12","2014","Tina Phillips","AMCC","23-12-0",0.657
+"13","2013","Tina Phillips","AMCC","26-16-0",0.619
+"14","2012","Tina Phillips","AMCC","10-30-0",0.25
+"15","2011","Tina Phillips","AMCC","15-19-0",0.441
+"16","2010","Tina Phillips","AMCC","19-20-0",0.487
+"17","2009","Tina Phillips","AMCC","17-18-1",0.486
+"18","2008","Tina Phillips","AMCC","13-19-2",0.412
+"19","2007","Tina Phillips","AMCC","20-19-0",0.513
+"20","2006","Tina Phillips","AMCC","35-9-0",0.795
+"21","2005","Tina Phillips","AMCC","26-14-1",0.646
+"22","2004","Tina Phillips","AMCC","22-8-0",0.733
+"23","2003","Fred Wallace","AMCC","20-18-0",0.526
+"24","2002","Fred Wallace","-","NA-NA-0",NA
+"25","2001","Fred Wallace","-","9-6-0",0.6
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

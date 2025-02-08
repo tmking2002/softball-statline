@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Lander","1167","2025","Maddie Gibbs","D-II","Peach Belt",4,2,0,0.667
-"2","Lander","1167","2024","Maddie Gibbs","D-II","Peach Belt",33,18,0,0.647
-"3","Lander","1167","2023","Glen Crawford","D-II","Peach Belt",29,18,0,0.617
-"4","Lander","1167","2022","Glen Crawford","D-II","Peach Belt",35,15,0,0.7
-"5","Lander","1167","2021","Glen Crawford","D-II","Peach Belt",16,22,0,0.421
-"6","Lander","1167","2020","Glen Crawford","D-II","Peach Belt",18,5,1,0.771
-"7","Lander","1167","2019","Glen Crawford","D-II","Peach Belt",21,25,0,0.457
-"8","Lander","1167","2018","Glen Crawford","D-II","Peach Belt",32,18,NA,0.64
-"9","Lander","1167","2017","Glen Crawford","D-II","Peach Belt",21,29,0,0.42
-"10","Lander","1167","2016","Glen Crawford","D-II","Peach Belt",26,21,0,0.553
-"11","Lander","1167","2015","Christina Plew-Whitlock","D-II","Peach Belt",12,28,0,0.3
-"12","Lander","1167","2014","Christina Plew-Whitlock","D-II","Peach Belt",8,42,0,0.16
-"13","Lander","1167","2013","Christina Plew-Whitlock","D-II","Peach Belt",18,31,0,0.367
-"14","Lander","1167","2012","Doug Spears","D-II","Peach Belt",26,26,0,0.5
-"15","Lander","1167","2011","Brandon Duncan","D-II","Peach Belt",21,22,0,0.488
-"16","Lander","1167","2010","Brandon Duncan","D-II","Peach Belt",23,24,0,0.489
-"17","Lander","1167","2009","Brandon Duncan","D-II","Peach Belt",14,31,0,0.311
-"18","Lander","1167","2008","Brandon Duncan","D-II","Peach Belt",12,37,0,0.245
-"19","Lander","1167","2007","Jennifer Gustin","D-II","Peach Belt",15,41,0,0.268
-"20","Lander","1167","2006","Lee Dobbins","D-II","Peach Belt",27,28,1,0.491
-"21","Lander","1167","2005","Doug Spears","D-II","Peach Belt",32,34,0,0.485
-"22","Lander","1167","2004","Doug Spears","D-II","Peach Belt",29,31,0,0.483
-"23","Lander","1167","2003","Doug Spears","D-II","Peach Belt",31,20,0,0.608
-"24","Lander","1167","2002","Doug Spears","D-II","Peach Belt",31,31,0,0.5
-"25","Lander","1167","2001","Doug Spears","D-II","-",28,28,NA,0.5
-"26","Lander","1167","1900","Doug Spears","D-II","-",32,21,NA,0.604
-"27","Lander","1167","1999","Doug Spears","D-II","-",38,21,NA,0.644
-"28","Lander","1167","1998","Doug Spears","D-II","-",42,16,NA,0.724
-"29","Lander","1167","1997","Doug Spears","D-II","-",30,26,NA,0.536
-"30","Lander","1167","1996","Doug Spears","D-II","-",41,12,1,0.769
-"31","Lander","1167","1995","Doug Spears","D-II","-",38,15,NA,0.717
-"32","Lander","1167","1994","Doug Spears","D-II","-",46,16,NA,0.742
-"33","Lander","1167","1993","Doug Spears","D-II","-",28,20,NA,0.583
-"34","Lander","1167","1992","Doug Spears","D-II","-",36,22,NA,0.621
-"35","Lander","1167","1991","Doug Spears","","-",38,20,NA,0.655
-"36","Lander","1167","1990","Doug Spears","","-",44,13,NA,0.772
-"37","Lander","1167","1989","Doug Spears","","-",27,22,NA,0.551
-"38","Lander","1167","1988","Doug Spears","","-",33,24,NA,0.579
-"39","Lander","1167","1987","Doug Spears","","-",45,7,NA,0.865
-"40","Lander","1167","1986","Doug Spears","","-",32,11,NA,0.744
-"41","Lander","1167","1985","Doug Spears","","-",38,13,NA,0.745
-"42","Lander","1167","1984","Doug Spears","","-",20,20,NA,0.5
-"43","Lander","1167","1983","Doug Spears","","-",20,15,NA,0.571
-"44","Lander","1167","1982","Doug Spears","","-",22,16,NA,0.579
-"45","Lander","1167","","","","",1212,957,3,0.559
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Maddie Gibbs","Peach Belt","4-2-0",0.667
+"2","2024","Maddie Gibbs","Peach Belt","33-18-0",0.647
+"3","2023","Glen Crawford","Peach Belt","29-18-0",0.617
+"4","2022","Glen Crawford","Peach Belt","35-15-0",0.7
+"5","2021","Glen Crawford","Peach Belt","16-22-0",0.421
+"6","2020","Glen Crawford","Peach Belt","18-5-1",0.771
+"7","2019","Glen Crawford","Peach Belt","21-25-0",0.457
+"8","2018","Glen Crawford","Peach Belt","32-18-0",0.64
+"9","2017","Glen Crawford","Peach Belt","21-29-0",0.42
+"10","2016","Glen Crawford","Peach Belt","26-21-0",0.553
+"11","2015","Christina Plew-Whitlock","Peach Belt","12-28-0",0.3
+"12","2014","Christina Plew-Whitlock","Peach Belt","8-42-0",0.16
+"13","2013","Christina Plew-Whitlock","Peach Belt","18-31-0",0.367
+"14","2012","Doug Spears","Peach Belt","26-26-0",0.5
+"15","2011","Brandon Duncan","Peach Belt","21-22-0",0.488
+"16","2010","Brandon Duncan","Peach Belt","23-24-0",0.489
+"17","2009","Brandon Duncan","Peach Belt","14-31-0",0.311
+"18","2008","Brandon Duncan","Peach Belt","12-37-0",0.245
+"19","2007","Jennifer Gustin","Peach Belt","15-41-0",0.268
+"20","2006","Lee Dobbins","Peach Belt","27-28-1",0.491
+"21","2005","Doug Spears","Peach Belt","32-34-0",0.485
+"22","2004","Doug Spears","Peach Belt","29-31-0",0.483
+"23","2003","Doug Spears","Peach Belt","31-20-0",0.608
+"24","2002","Doug Spears","Peach Belt","31-31-0",0.5
+"25","2001","Doug Spears","-","28-28-0",0.5
+"26","1900","Doug Spears","-","32-21-0",0.604
+"27","1999","Doug Spears","-","38-21-0",0.644
+"28","1998","Doug Spears","-","42-16-0",0.724
+"29","1997","Doug Spears","-","30-26-0",0.536
+"30","1996","Doug Spears","-","41-12-1",0.769
+"31","1995","Doug Spears","-","38-15-0",0.717
+"32","1994","Doug Spears","-","46-16-0",0.742
+"33","1993","Doug Spears","-","28-20-0",0.583
+"34","1992","Doug Spears","-","36-22-0",0.621
+"35","1991","Doug Spears","-","38-20-0",0.655
+"36","1990","Doug Spears","-","44-13-0",0.772
+"37","1989","Doug Spears","-","27-22-0",0.551
+"38","1988","Doug Spears","-","33-24-0",0.579
+"39","1987","Doug Spears","-","45-7-0",0.865
+"40","1986","Doug Spears","-","32-11-0",0.744
+"41","1985","Doug Spears","-","38-13-0",0.745
+"42","1984","Doug Spears","-","20-20-0",0.5
+"43","1983","Doug Spears","-","20-15-0",0.571
+"44","1982","Doug Spears","-","22-16-0",0.579

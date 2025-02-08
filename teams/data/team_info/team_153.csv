@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Colgate","153","2025","Marissa Lamison-Myers","D-I","Patriot",0,2,0,0
-"2","Colgate","153","2024","Marissa Lamison-Myers","D-I","Patriot",22,28,0,0.44
-"3","Colgate","153","2023","Marissa Lamison-Myers","D-I","Patriot",17,31,0,0.354
-"4","Colgate","153","2022","Marissa Lamison-Myers","D-I","Patriot",20,28,0,0.417
-"5","Colgate","153","2021","Marissa Lamison-Myers","D-I","Patriot",16,15,1,0.516
-"6","Colgate","153","2020","Marissa Lamison-Myers","D-I","Patriot",12,8,0,0.6
-"7","Colgate","153","2019","Marissa Lamison-Myers","D-I","Patriot",25,27,0,0.481
-"8","Colgate","153","2018","Marissa Lamison-Myers","D-I","Patriot",11,32,NA,0.256
-"9","Colgate","153","2017","Melissa Finley","D-I","Patriot",13,30,1,0.307
-"10","Colgate","153","2016","Melissa Finley","D-I","Patriot",12,29,0,0.293
-"11","Colgate","153","2015","Melissa Finley","D-I","Patriot",17,21,0,0.447
-"12","Colgate","153","2014","Melissa Finley","D-I","Patriot",13,30,0,0.302
-"13","Colgate","153","2013","Melissa Finley","D-I","Patriot",16,32,0,0.333
-"14","Colgate","153","2012","Jaime Grillo","D-I","Patriot",19,28,0,0.404
-"15","Colgate","153","2011","Ashley Obrest","D-I","Patriot",27,21,0,0.563
-"16","Colgate","153","2010","Vickie Sax","D-I","Patriot",27,23,0,0.54
-"17","Colgate","153","2009","Vickie Sax","D-I","Patriot",25,18,0,0.581
-"18","Colgate","153","2008","Vickie Sax","D-I","Patriot",10,22,0,0.313
-"19","Colgate","153","2007","Vickie Sax","D-I","Patriot",25,24,0,0.51
-"20","Colgate","153","2006","Vickie Sax","D-I","Patriot",17,25,0,0.405
-"21","Colgate","153","2005","Vickie Sax","D-I","Patriot",19,19,0,0.5
-"22","Colgate","153","2004","Vickie Sax","D-I","Patriot",34,17,0,0.667
-"23","Colgate","153","2003","Vickie Sax","D-I","Patriot",29,15,0,0.659
-"24","Colgate","153","2002","Vickie Sax","D-I","Patriot",28,20,0,0.583
-"25","Colgate","153","2001","Vickie Sax","D-I","Patriot",30,26,0,0.536
-"26","Colgate","153","1900","Vickie Sax","D-I","Patriot",21,27,0,0.438
-"27","Colgate","153","1999","Vickie Sax","D-I","Patriot",23,25,0,0.479
-"28","Colgate","153","1998","Vickie Sax","D-I","-",25,23,1,0.52
-"29","Colgate","153","1997","Katie Flynn","D-I","Patriot",22,18,0,0.55
-"30","Colgate","153","1996","Katie Flynn","D-I","-",11,20,NA,0.355
-"31","Colgate","153","1995","Katie Flynn","D-I","-",13,26,NA,0.333
-"32","Colgate","153","1994","Katie Flynn","D-I","-",14,23,NA,0.378
-"33","Colgate","153","1993","Heidi Hazen","D-I","-",15,16,NA,0.484
-"34","Colgate","153","1992","Heidi Hazen","D-I","-",24,12,NA,0.667
-"35","Colgate","153","1991","Ron Case","D-I","-",19,21,NA,0.475
-"36","Colgate","153","1990","Ron Case","D-I","-",24,15,NA,0.615
-"37","Colgate","153","1989","Ron Case","D-I","-",16,15,NA,0.516
-"38","Colgate","153","1988","Ron Case","D-I","-",16,12,NA,0.571
-"39","Colgate","153","1987","","D-I","-",NA,NA,NA,NA
-"40","Colgate","153","1986","","D-I","-",NA,NA,NA,NA
-"41","Colgate","153","1985","","D-I","-",NA,NA,NA,NA
-"42","Colgate","153","1984","","D-I","-",NA,NA,NA,NA
-"43","Colgate","153","1983","","D-I","-",NA,NA,NA,NA
-"44","Colgate","153","","","","",727,824,3,0.469
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Marissa Lamison-Myers","Patriot","0-2-0",0
+"2","2024","Marissa Lamison-Myers","Patriot","22-28-0",0.44
+"3","2023","Marissa Lamison-Myers","Patriot","17-31-0",0.354
+"4","2022","Marissa Lamison-Myers","Patriot","20-28-0",0.417
+"5","2021","Marissa Lamison-Myers","Patriot","16-15-1",0.516
+"6","2020","Marissa Lamison-Myers","Patriot","12-8-0",0.6
+"7","2019","Marissa Lamison-Myers","Patriot","25-27-0",0.481
+"8","2018","Marissa Lamison-Myers","Patriot","11-32-0",0.256
+"9","2017","Melissa Finley","Patriot","13-30-1",0.307
+"10","2016","Melissa Finley","Patriot","12-29-0",0.293
+"11","2015","Melissa Finley","Patriot","17-21-0",0.447
+"12","2014","Melissa Finley","Patriot","13-30-0",0.302
+"13","2013","Melissa Finley","Patriot","16-32-0",0.333
+"14","2012","Jaime Grillo","Patriot","19-28-0",0.404
+"15","2011","Ashley Obrest","Patriot","27-21-0",0.563
+"16","2010","Vickie Sax","Patriot","27-23-0",0.54
+"17","2009","Vickie Sax","Patriot","25-18-0",0.581
+"18","2008","Vickie Sax","Patriot","10-22-0",0.313
+"19","2007","Vickie Sax","Patriot","25-24-0",0.51
+"20","2006","Vickie Sax","Patriot","17-25-0",0.405
+"21","2005","Vickie Sax","Patriot","19-19-0",0.5
+"22","2004","Vickie Sax","Patriot","34-17-0",0.667
+"23","2003","Vickie Sax","Patriot","29-15-0",0.659
+"24","2002","Vickie Sax","Patriot","28-20-0",0.583
+"25","2001","Vickie Sax","Patriot","30-26-0",0.536
+"26","1900","Vickie Sax","Patriot","21-27-0",0.438
+"27","1999","Vickie Sax","Patriot","23-25-0",0.479
+"28","1998","Vickie Sax","-","25-23-1",0.52
+"29","1997","Katie Flynn","Patriot","22-18-0",0.55
+"30","1996","Katie Flynn","-","11-20-0",0.355
+"31","1995","Katie Flynn","-","13-26-0",0.333
+"32","1994","Katie Flynn","-","14-23-0",0.378
+"33","1993","Heidi Hazen","-","15-16-0",0.484
+"34","1992","Heidi Hazen","-","24-12-0",0.667
+"35","1991","Ron Case","-","19-21-0",0.475
+"36","1990","Ron Case","-","24-15-0",0.615
+"37","1989","Ron Case","-","16-15-0",0.516
+"38","1988","Ron Case","-","16-12-0",0.571
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Utica","733","2025","Rinae Olsen","D-III","Empire 8",0,0,0,0
-"2","Utica","733","2024","Rinae Olsen","D-III","Empire 8",22,15,0,0.595
-"3","Utica","733","2023","Rinae Olsen","D-III","Empire 8",19,16,0,0.543
-"4","Utica","733","2022","Pat Mineo","D-III","Empire 8",14,24,0,0.368
-"5","Utica","733","2021","Pat Mineo","D-III","Empire 8",14,15,0,0.483
-"6","Utica","733","2020","Pat Mineo","D-III","Empire 8",NA,NA,NA,0
-"7","Utica","733","2019","Pat Mineo","D-III","Empire 8",18,20,0,0.474
-"8","Utica","733","2018","Pat Mineo","D-III","Empire 8",20,18,NA,0.526
-"9","Utica","733","2017","Pat Mineo","D-III","Empire 8",17,21,0,0.447
-"10","Utica","733","2016","Pat Mineo","D-III","Empire 8",22,18,0,0.55
-"11","Utica","733","2015","Pat Mineo","D-III","Empire 8",18,16,0,0.529
-"12","Utica","733","2014","Pat Mineo","D-III","Empire 8",22,12,0,0.647
-"13","Utica","733","2013","Pat Mineo","D-III","Empire 8",34,14,0,0.708
-"14","Utica","733","2012","Pat Mineo","D-III","Empire 8",22,17,0,0.564
-"15","Utica","733","2011","Pat Mineo","D-III","Empire 8",18,17,0,0.514
-"16","Utica","733","2010","Pat Mineo","D-III","Empire 8",13,27,0,0.325
-"17","Utica","733","2009","Pat Mineo","D-III","Empire 8",16,22,0,0.421
-"18","Utica","733","2008","Pat Mineo","D-III","Empire 8",15,20,0,0.429
-"19","Utica","733","2007","Pat Mineo","D-III","Empire 8",15,17,0,0.469
-"20","Utica","733","2006","Pat Mineo","D-III","Empire 8",31,11,0,0.738
-"21","Utica","733","2005","Pat Mineo","D-III","Empire 8",11,15,0,0.423
-"22","Utica","733","2004","Jim Murnane","D-III","Empire 8",18,20,0,0.474
-"23","Utica","733","2003","Jim Murnane","D-III","Empire 8",13,16,0,0.448
-"24","Utica","733","2002","Jim Murnane","D-III","Empire 8",13,12,0,0.52
-"25","Utica","733","2001","Jim Murnane","D-III","-",18,11,NA,0.621
-"26","Utica","733","1900","Dave Fontaine","D-III","-",18,9,NA,0.667
-"27","Utica","733","1999","Dave Fontaine","D-III","-",11,15,NA,0.423
-"28","Utica","733","1998","Dave Fontaine","D-III","-",2,25,NA,0.074
-"29","Utica","733","1997","Dave Fontaine","D-III","-",16,12,NA,0.571
-"30","Utica","733","1996","Dave Fontaine","D-III","-",20,7,NA,0.741
-"31","Utica","733","1995","Dave Fontaine","D-III","-",10,14,NA,0.417
-"32","Utica","733","1994","Dave Fontaine","D-III","-",9,14,NA,0.391
-"33","Utica","733","1993","","D-III","-",NA,NA,NA,NA
-"34","Utica","733","1992","","D-III","-",NA,NA,NA,NA
-"35","Utica","733","1991","","D-III","-",NA,NA,NA,NA
-"36","Utica","733","1990","","D-III","-",NA,NA,NA,NA
-"37","Utica","733","1989","","D-III","-",NA,NA,NA,NA
-"38","Utica","733","","","","",509,490,0,0.51
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rinae Olsen","Empire 8","0-0-0",0
+"2","2024","Rinae Olsen","Empire 8","22-15-0",0.595
+"3","2023","Rinae Olsen","Empire 8","19-16-0",0.543
+"4","2022","Pat Mineo","Empire 8","14-24-0",0.368
+"5","2021","Pat Mineo","Empire 8","14-15-0",0.483
+"6","2020","Pat Mineo","Empire 8","NA-NA-0",0
+"7","2019","Pat Mineo","Empire 8","18-20-0",0.474
+"8","2018","Pat Mineo","Empire 8","20-18-0",0.526
+"9","2017","Pat Mineo","Empire 8","17-21-0",0.447
+"10","2016","Pat Mineo","Empire 8","22-18-0",0.55
+"11","2015","Pat Mineo","Empire 8","18-16-0",0.529
+"12","2014","Pat Mineo","Empire 8","22-12-0",0.647
+"13","2013","Pat Mineo","Empire 8","34-14-0",0.708
+"14","2012","Pat Mineo","Empire 8","22-17-0",0.564
+"15","2011","Pat Mineo","Empire 8","18-17-0",0.514
+"16","2010","Pat Mineo","Empire 8","13-27-0",0.325
+"17","2009","Pat Mineo","Empire 8","16-22-0",0.421
+"18","2008","Pat Mineo","Empire 8","15-20-0",0.429
+"19","2007","Pat Mineo","Empire 8","15-17-0",0.469
+"20","2006","Pat Mineo","Empire 8","31-11-0",0.738
+"21","2005","Pat Mineo","Empire 8","11-15-0",0.423
+"22","2004","Jim Murnane","Empire 8","18-20-0",0.474
+"23","2003","Jim Murnane","Empire 8","13-16-0",0.448
+"24","2002","Jim Murnane","Empire 8","13-12-0",0.52
+"25","2001","Jim Murnane","-","18-11-0",0.621
+"26","1900","Dave Fontaine","-","18-9-0",0.667
+"27","1999","Dave Fontaine","-","11-15-0",0.423
+"28","1998","Dave Fontaine","-","2-25-0",0.074
+"29","1997","Dave Fontaine","-","16-12-0",0.571
+"30","1996","Dave Fontaine","-","20-7-0",0.741
+"31","1995","Dave Fontaine","-","10-14-0",0.417
+"32","1994","Dave Fontaine","-","9-14-0",0.391
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA

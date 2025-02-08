@@ -1,34 +1,33 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Queens (NC)","11504","2025","Kella Goins","D-I","ASUN",0,0,0,0
-"2","Queens (NC)","11504","2024","Kella Goins","D-I","ASUN",29,26,0,0.527
-"3","Queens (NC)","11504","2023","Stacey Schramm (8-9)Kella Goins (12-17)","D-I","ASUN",20,26,0,0.435
-"4","Queens (NC)","11504","2022","Stacey Schramm","D-II","SAC",28,21,0,0.571
-"5","Queens (NC)","11504","2021","Stacey Schramm","D-II","SAC",8,24,0,0.25
-"6","Queens (NC)","11504","2020","Stacey Schramm","D-II","SAC",14,15,0,0.483
-"7","Queens (NC)","11504","2019","Stacey Schramm","D-II","SAC",22,15,0,0.595
-"8","Queens (NC)","11504","2018","Stacey Schramm","D-II","SAC",35,17,NA,0.673
-"9","Queens (NC)","11504","2017","Stacey Schramm","D-II","SAC",21,29,0,0.42
-"10","Queens (NC)","11504","2016","Melanie Helterbran","D-II","SAC",25,27,0,0.481
-"11","Queens (NC)","11504","2015","Melanie Helterbran","D-II","SAC",12,33,0,0.267
-"12","Queens (NC)","11504","2014","Melanie Helterbran","D-II","SAC",21,25,0,0.457
-"13","Queens (NC)","11504","2013","Melanie Helterbran","D-II","Conference Carolinas",23,21,0,0.523
-"14","Queens (NC)","11504","2012","Miranda Ervin","D-II","Conference Carolinas",30,24,0,0.556
-"15","Queens (NC)","11504","2011","Miranda Ervin","D-II","Conference Carolinas",20,19,0,0.513
-"16","Queens (NC)","11504","2010","Stacey Schramm","D-II","Conference Carolinas",26,25,0,0.51
-"17","Queens (NC)","11504","2009","Stacey Schramm","D-II","Conference Carolinas",27,26,0,0.509
-"18","Queens (NC)","11504","2008","Sonya Bright","D-II","Conference Carolinas",11,28,0,0.282
-"19","Queens (NC)","11504","2007","Sonya Bright","D-II","Conference Carolinas",18,36,0,0.333
-"20","Queens (NC)","11504","2006","Adrian Ochoa","D-II","Conference Carolinas",34,24,0,0.586
-"21","Queens (NC)","11504","2005","Adrian Ochoa","D-II","Conference Carolinas",24,23,0,0.511
-"22","Queens (NC)","11504","2004","Adrian Ochoa","D-II","Conference Carolinas",13,26,0,0.333
-"23","Queens (NC)","11504","2003","Marci Turso","D-II","-",NA,NA,NA,NA
-"24","Queens (NC)","11504","2002","Marci Turso","D-II","-",27,22,0,0.551
-"25","Queens (NC)","11504","2001","Marci Turso","D-II","-",31,16,0,0.66
-"26","Queens (NC)","11504","1900","Jeff Aumend","D-II","-",18,22,1,0.451
-"27","Queens (NC)","11504","1999","Jeff Aumend","D-II","-",11,26,0,0.297
-"28","Queens (NC)","11504","1998","Jeff Aumend","D-II","-",25,19,0,0.568
-"29","Queens (NC)","11504","1997","Jeff Aumend","D-II","-",32,13,0,0.711
-"30","Queens (NC)","11504","1996","Jeff Aumend","D-II","-",17,23,0,0.425
-"31","Queens (NC)","11504","1995","Jeff Aumend","D-II","-",26,12,0,0.684
-"32","Queens (NC)","11504","1994","Jeff Aumend","D-II","-",26,17,0,0.605
-"33","Queens (NC)","11504","","","","",674,680,1,0.498
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kella Goins","ASUN","0-0-0",0
+"2","2024","Kella Goins","ASUN","29-26-0",0.527
+"3","2023","Stacey Schramm (8-9)Kella Goins (12-17)","ASUN","20-26-0",0.435
+"4","2022","Stacey Schramm","SAC","28-21-0",0.571
+"5","2021","Stacey Schramm","SAC","8-24-0",0.25
+"6","2020","Stacey Schramm","SAC","14-15-0",0.483
+"7","2019","Stacey Schramm","SAC","22-15-0",0.595
+"8","2018","Stacey Schramm","SAC","35-17-0",0.673
+"9","2017","Stacey Schramm","SAC","21-29-0",0.42
+"10","2016","Melanie Helterbran","SAC","25-27-0",0.481
+"11","2015","Melanie Helterbran","SAC","12-33-0",0.267
+"12","2014","Melanie Helterbran","SAC","21-25-0",0.457
+"13","2013","Melanie Helterbran","Conference Carolinas","23-21-0",0.523
+"14","2012","Miranda Ervin","Conference Carolinas","30-24-0",0.556
+"15","2011","Miranda Ervin","Conference Carolinas","20-19-0",0.513
+"16","2010","Stacey Schramm","Conference Carolinas","26-25-0",0.51
+"17","2009","Stacey Schramm","Conference Carolinas","27-26-0",0.509
+"18","2008","Sonya Bright","Conference Carolinas","11-28-0",0.282
+"19","2007","Sonya Bright","Conference Carolinas","18-36-0",0.333
+"20","2006","Adrian Ochoa","Conference Carolinas","34-24-0",0.586
+"21","2005","Adrian Ochoa","Conference Carolinas","24-23-0",0.511
+"22","2004","Adrian Ochoa","Conference Carolinas","13-26-0",0.333
+"23","2003","Marci Turso","-","NA-NA-0",NA
+"24","2002","Marci Turso","-","27-22-0",0.551
+"25","2001","Marci Turso","-","31-16-0",0.66
+"26","1900","Jeff Aumend","-","18-22-1",0.451
+"27","1999","Jeff Aumend","-","11-26-0",0.297
+"28","1998","Jeff Aumend","-","25-19-0",0.568
+"29","1997","Jeff Aumend","-","32-13-0",0.711
+"30","1996","Jeff Aumend","-","17-23-0",0.425
+"31","1995","Jeff Aumend","-","26-12-0",0.684
+"32","1994","Jeff Aumend","-","26-17-0",0.605

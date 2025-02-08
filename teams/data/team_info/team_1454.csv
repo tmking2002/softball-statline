@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Whitworth","1454","2025","Bob Castle","D-III","NWC",0,0,0,0
-"2","Whitworth","1454","2024","Bob Castle","D-III","NWC",15,25,0,0.375
-"3","Whitworth","1454","2023","Bob Castle","D-III","NWC",23,19,0,0.548
-"4","Whitworth","1454","2022","Bob Castle","D-III","NWC",25,17,0,0.595
-"5","Whitworth","1454","2021","Bob Castle","D-III","NWC",15,23,0,0.395
-"6","Whitworth","1454","2020","Bob Castle","D-III","NWC",4,9,0,0.308
-"7","Whitworth","1454","2019","Cristal Brown","D-III","NWC",31,11,0,0.738
-"8","Whitworth","1454","2018","Cristal Brown","D-III","NWC",24,18,NA,0.571
-"9","Whitworth","1454","2017","Cristal Brown","D-III","NWC",37,11,0,0.771
-"10","Whitworth","1454","2016","Cristal Brown","D-III","NWC",29,15,0,0.659
-"11","Whitworth","1454","2015","Cristal Brown","D-III","NWC",31,12,0,0.721
-"12","Whitworth","1454","2014","Cristal Brown","D-III","NWC",27,16,0,0.628
-"13","Whitworth","1454","2013","Cristal Brown","D-III","NWC",23,20,0,0.535
-"14","Whitworth","1454","2012","Cristal Brown","D-III","NWC",19,21,0,0.475
-"15","Whitworth","1454","2011","Joe Abraham","D-III","NWC",20,19,0,0.513
-"16","Whitworth","1454","2010","Joe Abraham","D-III","NWC",18,18,0,0.5
-"17","Whitworth","1454","2009","Joe Abraham","D-III","NWC",15,21,0,0.417
-"18","Whitworth","1454","2008","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",16,21,0,0.432
-"19","Whitworth","1454","2007","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",30,6,0,0.833
-"20","Whitworth","1454","2006","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",26,14,0,0.65
-"21","Whitworth","1454","2005","Teresa Hansen-Lahar","D-III","NWC",23,14,0,0.622
-"22","Whitworth","1454","2004","Teresa Hansen-Lahar","D-III","NWC",29,8,0,0.784
-"23","Whitworth","1454","2003","Teresa Hansen-Lahar","D-III","-",NA,NA,NA,NA
-"24","Whitworth","1454","2002","Teresa Hansen-Lahar","D-III","NWC",5,29,0,0.147
-"25","Whitworth","1454","2001","Teresa Hansen-Lahar","D-III","-",7,28,NA,0.2
-"26","Whitworth","1454","1900","Teresa Hansen-Lahar","D-III","-",6,27,NA,0.182
-"27","Whitworth","1454","1999","Gary Blake","D-III","-",9,26,0,0.257
-"28","Whitworth","1454","1998","","D-III","-",NA,NA,NA,NA
-"29","Whitworth","1454","1997","","D-III","-",NA,NA,NA,NA
-"30","Whitworth","1454","1996","","D-III","-",NA,NA,NA,NA
-"31","Whitworth","1454","1995","","D-III","-",NA,NA,NA,NA
-"32","Whitworth","1454","1994","","D-III","-",NA,NA,NA,NA
-"33","Whitworth","1454","1993","","D-III","-",NA,NA,NA,NA
-"34","Whitworth","1454","1992","","D-III","-",NA,NA,NA,NA
-"35","Whitworth","1454","1991","","D-III","-",NA,NA,NA,NA
-"36","Whitworth","1454","1990","","D-III","-",NA,NA,NA,NA
-"37","Whitworth","1454","","","","",507,448,0,0.531
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Bob Castle","NWC","0-0-0",0
+"2","2024","Bob Castle","NWC","15-25-0",0.375
+"3","2023","Bob Castle","NWC","23-19-0",0.548
+"4","2022","Bob Castle","NWC","25-17-0",0.595
+"5","2021","Bob Castle","NWC","15-23-0",0.395
+"6","2020","Bob Castle","NWC","4-9-0",0.308
+"7","2019","Cristal Brown","NWC","31-11-0",0.738
+"8","2018","Cristal Brown","NWC","24-18-0",0.571
+"9","2017","Cristal Brown","NWC","37-11-0",0.771
+"10","2016","Cristal Brown","NWC","29-15-0",0.659
+"11","2015","Cristal Brown","NWC","31-12-0",0.721
+"12","2014","Cristal Brown","NWC","27-16-0",0.628
+"13","2013","Cristal Brown","NWC","23-20-0",0.535
+"14","2012","Cristal Brown","NWC","19-21-0",0.475
+"15","2011","Joe Abraham","NWC","20-19-0",0.513
+"16","2010","Joe Abraham","NWC","18-18-0",0.5
+"17","2009","Joe Abraham","NWC","15-21-0",0.417
+"18","2008","Clarence ""Fuzzy"" Buckenberger","NWC","16-21-0",0.432
+"19","2007","Clarence ""Fuzzy"" Buckenberger","NWC","30-6-0",0.833
+"20","2006","Clarence ""Fuzzy"" Buckenberger","NWC","26-14-0",0.65
+"21","2005","Teresa Hansen-Lahar","NWC","23-14-0",0.622
+"22","2004","Teresa Hansen-Lahar","NWC","29-8-0",0.784
+"23","2003","Teresa Hansen-Lahar","-","NA-NA-0",NA
+"24","2002","Teresa Hansen-Lahar","NWC","5-29-0",0.147
+"25","2001","Teresa Hansen-Lahar","-","7-28-0",0.2
+"26","1900","Teresa Hansen-Lahar","-","6-27-0",0.182
+"27","1999","Gary Blake","-","9-26-0",0.257
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

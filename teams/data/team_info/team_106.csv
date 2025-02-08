@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","California (PA)","106","2025","Nikki Yanchak","D-II","PSAC",0,0,0,0
-"2","California (PA)","106","2024","Rick Bertagnolli","D-II","PSAC",23,20,0,0.535
-"3","California (PA)","106","2023","Rick Bertagnolli","D-II","PSAC",27,24,0,0.529
-"4","California (PA)","106","2022","Rick Bertagnolli","D-II","PSAC",22,13,0,0.629
-"5","California (PA)","106","2021","Rick Bertagnolli","D-II","PSAC",19,10,0,0.655
-"6","California (PA)","106","2020","Rick Bertagnolli","D-II","PSAC",4,12,0,0.25
-"7","California (PA)","106","2019","Rick Bertagnolli","D-II","PSAC",14,22,0,0.389
-"8","California (PA)","106","2018","Rick Bertagnolli","D-II","PSAC",19,18,NA,0.514
-"9","California (PA)","106","2017","Rick Bertagnolli","D-II","PSAC",22,17,0,0.564
-"10","California (PA)","106","2016","Rick Bertagnolli","D-II","PSAC",38,6,0,0.864
-"11","California (PA)","106","2015","Rick Bertagnolli","D-II","PSAC",43,13,0,0.768
-"12","California (PA)","106","2014","Rick Bertagnolli","D-II","PSAC",37,5,0,0.881
-"13","California (PA)","106","2013","Rick Bertagnolli","D-II","PSAC",38,6,0,0.864
-"14","California (PA)","106","2012","Rick Bertagnolli","D-II","PSAC",33,10,0,0.767
-"15","California (PA)","106","2011","Rick Bertagnolli","D-II","PSAC",29,14,0,0.674
-"16","California (PA)","106","2010","Rick Bertagnolli","D-II","PSAC",37,14,0,0.725
-"17","California (PA)","106","2009","Rick Bertagnolli","D-II","PSAC",35,10,0,0.778
-"18","California (PA)","106","2008","Rick Bertagnolli","D-II","PSAC",28,18,0,0.609
-"19","California (PA)","106","2007","Rick Bertagnolli","D-II","PSAC",15,17,0,0.469
-"20","California (PA)","106","2006","Rick Bertagnolli","D-II","PSAC",26,17,0,0.605
-"21","California (PA)","106","2005","Rick Bertagnolli","D-II","PSAC",24,16,0,0.6
-"22","California (PA)","106","2004","Rick Bertagnolli","D-II","PSAC",29,13,0,0.69
-"23","California (PA)","106","2003","Rick Bertagnolli","D-II","PSAC",28,8,0,0.778
-"24","California (PA)","106","2002","Rick Bertagnolli","D-II","PSAC",34,7,0,0.829
-"25","California (PA)","106","2001","Rick Bertagnolli","D-II","-",33,9,NA,0.786
-"26","California (PA)","106","1900","Rick Bertagnolli","D-II","-",44,15,NA,0.746
-"27","California (PA)","106","1999","Rick Bertagnolli","D-II","-",38,18,NA,0.679
-"28","California (PA)","106","1998","Rick Bertagnolli","D-II","-",47,7,NA,0.87
-"29","California (PA)","106","1997","Rick Bertagnolli","D-II","-",53,5,NA,0.914
-"30","California (PA)","106","1996","Rick Bertagnolli","D-II","-",45,5,NA,0.9
-"31","California (PA)","106","1995","Rick Bertagnolli","D-II","-",48,7,NA,0.873
-"32","California (PA)","106","1994","Rick Bertagnolli","D-II","-",38,13,NA,0.745
-"33","California (PA)","106","1993","Linda Kalafatis","D-II","-",34,9,NA,0.791
-"34","California (PA)","106","1992","Linda Kalafatis","D-II","-",31,10,1,0.75
-"35","California (PA)","106","1991","Linda Kalafatis","D-II","-",47,11,NA,0.81
-"36","California (PA)","106","1990","Linda Kalafatis","D-II","-",36,10,NA,0.783
-"37","California (PA)","106","1989","Linda Kalafatis","D-II","-",27,13,NA,0.675
-"38","California (PA)","106","1988","","D-II","-",NA,NA,NA,NA
-"39","California (PA)","106","1987","","D-II","-",NA,NA,NA,NA
-"40","California (PA)","106","1986","","D-II","-",NA,NA,NA,NA
-"41","California (PA)","106","1984","","D-II","-",NA,NA,NA,NA
-"42","California (PA)","106","1983","","D-II","-",NA,NA,NA,NA
-"43","California (PA)","106","1982","","D-II","-",NA,NA,NA,NA
-"44","California (PA)","106","","","","",1145,442,1,0.721
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Nikki Yanchak","PSAC","0-0-0",0
+"2","2024","Rick Bertagnolli","PSAC","23-20-0",0.535
+"3","2023","Rick Bertagnolli","PSAC","27-24-0",0.529
+"4","2022","Rick Bertagnolli","PSAC","22-13-0",0.629
+"5","2021","Rick Bertagnolli","PSAC","19-10-0",0.655
+"6","2020","Rick Bertagnolli","PSAC","4-12-0",0.25
+"7","2019","Rick Bertagnolli","PSAC","14-22-0",0.389
+"8","2018","Rick Bertagnolli","PSAC","19-18-0",0.514
+"9","2017","Rick Bertagnolli","PSAC","22-17-0",0.564
+"10","2016","Rick Bertagnolli","PSAC","38-6-0",0.864
+"11","2015","Rick Bertagnolli","PSAC","43-13-0",0.768
+"12","2014","Rick Bertagnolli","PSAC","37-5-0",0.881
+"13","2013","Rick Bertagnolli","PSAC","38-6-0",0.864
+"14","2012","Rick Bertagnolli","PSAC","33-10-0",0.767
+"15","2011","Rick Bertagnolli","PSAC","29-14-0",0.674
+"16","2010","Rick Bertagnolli","PSAC","37-14-0",0.725
+"17","2009","Rick Bertagnolli","PSAC","35-10-0",0.778
+"18","2008","Rick Bertagnolli","PSAC","28-18-0",0.609
+"19","2007","Rick Bertagnolli","PSAC","15-17-0",0.469
+"20","2006","Rick Bertagnolli","PSAC","26-17-0",0.605
+"21","2005","Rick Bertagnolli","PSAC","24-16-0",0.6
+"22","2004","Rick Bertagnolli","PSAC","29-13-0",0.69
+"23","2003","Rick Bertagnolli","PSAC","28-8-0",0.778
+"24","2002","Rick Bertagnolli","PSAC","34-7-0",0.829
+"25","2001","Rick Bertagnolli","-","33-9-0",0.786
+"26","1900","Rick Bertagnolli","-","44-15-0",0.746
+"27","1999","Rick Bertagnolli","-","38-18-0",0.679
+"28","1998","Rick Bertagnolli","-","47-7-0",0.87
+"29","1997","Rick Bertagnolli","-","53-5-0",0.914
+"30","1996","Rick Bertagnolli","-","45-5-0",0.9
+"31","1995","Rick Bertagnolli","-","48-7-0",0.873
+"32","1994","Rick Bertagnolli","-","38-13-0",0.745
+"33","1993","Linda Kalafatis","-","34-9-0",0.791
+"34","1992","Linda Kalafatis","-","31-10-1",0.75
+"35","1991","Linda Kalafatis","-","47-11-0",0.81
+"36","1990","Linda Kalafatis","-","36-10-0",0.783
+"37","1989","Linda Kalafatis","-","27-13-0",0.675
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

@@ -1,32 +1,31 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Dartmouth","172","2025","Jennifer Williams","D-I","Ivy League",0,0,0,0
-"2","Dartmouth","172","2024","Jennifer Williams","D-I","Ivy League",18,17,0,0.514
-"3","Dartmouth","172","2023","Jennifer Williams","D-I","Ivy League",14,25,0,0.359
-"4","Dartmouth","172","2022","Jennifer Williams","D-I","Ivy League",20,24,0,0.455
-"5","Dartmouth","172","2021","Jennifer Williams","D-I","Ivy League",3,2,0,0.6
-"6","Dartmouth","172","2020","Jennifer Williams","D-I","Ivy League",4,6,0,0.4
-"7","Dartmouth","172","2019","Jennifer Williams","D-I","Ivy League",13,27,0,0.325
-"8","Dartmouth","172","2018","Shannon Doepking","D-I","Ivy League",22,18,NA,0.55
-"9","Dartmouth","172","2017","Shannon Doepking","D-I","Ivy League",11,28,1,0.288
-"10","Dartmouth","172","2016","Shannon Doepking","D-I","Ivy League",27,15,0,0.643
-"11","Dartmouth","172","2015","Shannon Doepking","D-I","Ivy League",25,18,0,0.581
-"12","Dartmouth","172","2014","Rachel Hanson","D-I","Ivy League",31,19,0,0.62
-"13","Dartmouth","172","2013","Rachel Hanson","D-I","Ivy League",26,20,0,0.565
-"14","Dartmouth","172","2012","Rachel Hanson","D-I","Ivy League",14,25,0,0.359
-"15","Dartmouth","172","2011","Rachel Hanson","D-I","Ivy League",17,22,0,0.436
-"16","Dartmouth","172","2010","Christine Vogt","D-I","Ivy League",14,27,0,0.341
-"17","Dartmouth","172","2009","Christine Vogt","D-I","Ivy League",23,23,0,0.5
-"18","Dartmouth","172","2008","Christine Vogt","D-I","Ivy League",13,25,0,0.342
-"19","Dartmouth","172","2007","Christine Vogt","D-I","Ivy League",16,24,0,0.4
-"20","Dartmouth","172","2006","Christine Vogt","D-I","Ivy League",14,22,0,0.389
-"21","Dartmouth","172","2005","Christine Vogt","D-I","Ivy League",10,26,1,0.284
-"22","Dartmouth","172","2004","Jen Goodwin","D-I","Ivy League",17,20,0,0.459
-"23","Dartmouth","172","2003","Steffany Bender","D-I","Ivy League",13,21,0,0.382
-"24","Dartmouth","172","2002","Steffany Bender","D-I","Ivy League",26,19,0,0.578
-"25","Dartmouth","172","2001","Steffany Bender","D-I","Ivy League",21,17,0,0.553
-"26","Dartmouth","172","1900","Steffany Bender","D-I","Ivy League",32,16,0,0.667
-"27","Dartmouth","172","1999","Steffany Bender","D-I","Ivy League",18,27,0,0.4
-"28","Dartmouth","172","1998","Steffany Bender","D-I","-",10,28,1,0.269
-"29","Dartmouth","172","1997","Steffany Bender","D-I","Ivy League",8,26,0,0.235
-"30","Dartmouth","172","1996","Steffany Bender","","-",6,34,NA,0.15
-"31","Dartmouth","172","","","","",486,621,3,0.439
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jennifer Williams","Ivy League","0-0-0",0
+"2","2024","Jennifer Williams","Ivy League","18-17-0",0.514
+"3","2023","Jennifer Williams","Ivy League","14-25-0",0.359
+"4","2022","Jennifer Williams","Ivy League","20-24-0",0.455
+"5","2021","Jennifer Williams","Ivy League","3-2-0",0.6
+"6","2020","Jennifer Williams","Ivy League","4-6-0",0.4
+"7","2019","Jennifer Williams","Ivy League","13-27-0",0.325
+"8","2018","Shannon Doepking","Ivy League","22-18-0",0.55
+"9","2017","Shannon Doepking","Ivy League","11-28-1",0.288
+"10","2016","Shannon Doepking","Ivy League","27-15-0",0.643
+"11","2015","Shannon Doepking","Ivy League","25-18-0",0.581
+"12","2014","Rachel Hanson","Ivy League","31-19-0",0.62
+"13","2013","Rachel Hanson","Ivy League","26-20-0",0.565
+"14","2012","Rachel Hanson","Ivy League","14-25-0",0.359
+"15","2011","Rachel Hanson","Ivy League","17-22-0",0.436
+"16","2010","Christine Vogt","Ivy League","14-27-0",0.341
+"17","2009","Christine Vogt","Ivy League","23-23-0",0.5
+"18","2008","Christine Vogt","Ivy League","13-25-0",0.342
+"19","2007","Christine Vogt","Ivy League","16-24-0",0.4
+"20","2006","Christine Vogt","Ivy League","14-22-0",0.389
+"21","2005","Christine Vogt","Ivy League","10-26-1",0.284
+"22","2004","Jen Goodwin","Ivy League","17-20-0",0.459
+"23","2003","Steffany Bender","Ivy League","13-21-0",0.382
+"24","2002","Steffany Bender","Ivy League","26-19-0",0.578
+"25","2001","Steffany Bender","Ivy League","21-17-0",0.553
+"26","1900","Steffany Bender","Ivy League","32-16-0",0.667
+"27","1999","Steffany Bender","Ivy League","18-27-0",0.4
+"28","1998","Steffany Bender","-","10-28-1",0.269
+"29","1997","Steffany Bender","Ivy League","8-26-0",0.235
+"30","1996","Steffany Bender","-","6-34-0",0.15

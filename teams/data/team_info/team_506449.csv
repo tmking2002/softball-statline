@@ -1,12 +1,11 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Georgia Gwinnett","506449","2024",NA,NA,"-",NA,NA,NA,0
-"2","Georgia Gwinnett","506449","2023",NA,NA,"-",NA,NA,NA,0
-"3","Georgia Gwinnett","506449","2022",NA,NA,"-",NA,NA,NA,0
-"4","Georgia Gwinnett","506449","2021",NA,NA,"-",NA,NA,NA,0
-"5","Georgia Gwinnett","506449","2019",NA,NA,"-",NA,NA,NA,0
-"6","Georgia Gwinnett","506449","2018",NA,NA,"-",NA,NA,NA,0
-"7","Georgia Gwinnett","506449","2017",NA,NA,"-",NA,NA,NA,NA
-"8","Georgia Gwinnett","506449","2016",NA,NA,"-",NA,NA,NA,NA
-"9","Georgia Gwinnett","506449","2015",NA,NA,"-",NA,NA,NA,NA
-"10","Georgia Gwinnett","506449","2014",NA,NA,"-",NA,NA,NA,NA
-"11","Georgia Gwinnett","506449","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2022",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2019",NA,"-","NA-NA-0",0
+"6","2018",NA,"-","NA-NA-0",0
+"7","2017",NA,"-","NA-NA-0",NA
+"8","2016",NA,"-","NA-NA-0",NA
+"9","2015",NA,"-","NA-NA-0",NA
+"10","2014",NA,"-","NA-NA-0",NA

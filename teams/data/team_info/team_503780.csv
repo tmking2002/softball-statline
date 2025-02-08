@@ -1,23 +1,22 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bushnell","503780","2025","Katie Duroe",NA,"-",NA,NA,NA,0
-"2","Bushnell","503780","2024","Katie Duroe",NA,"-",NA,NA,NA,0
-"3","Bushnell","503780","2023","Katie Duroe",NA,"-",NA,NA,NA,0
-"4","Bushnell","503780","2022","Katie Duroe",NA,"-",NA,NA,NA,0
-"5","Bushnell","503780","2021","Katie Duroe",NA,"-",13,33,0,0.283
-"6","Bushnell","503780","2020","Katie Duroe",NA,"-",4,15,0,0.211
-"7","Bushnell","503780","2019","Katie Duroe",NA,"-",11,32,0,0.256
-"8","Bushnell","503780","2018","",NA,"-",NA,NA,NA,0
-"9","Bushnell","503780","2016","",NA,"-",NA,NA,NA,NA
-"10","Bushnell","503780","2015","",NA,"-",NA,NA,NA,NA
-"11","Bushnell","503780","2014","",NA,"-",NA,NA,NA,NA
-"12","Bushnell","503780","2013","",NA,"-",NA,NA,NA,NA
-"13","Bushnell","503780","2012","",NA,"-",NA,NA,NA,NA
-"14","Bushnell","503780","2011","",NA,"-",NA,NA,NA,NA
-"15","Bushnell","503780","2010","",NA,"-",NA,NA,NA,NA
-"16","Bushnell","503780","2009","",NA,"-",NA,NA,NA,NA
-"17","Bushnell","503780","2008","",NA,"-",NA,NA,NA,NA
-"18","Bushnell","503780","2006","",NA,"-",NA,NA,NA,NA
-"19","Bushnell","503780","2005","",NA,"-",NA,NA,NA,NA
-"20","Bushnell","503780","2004","",NA,"-",NA,NA,NA,NA
-"21","Bushnell","503780","2003","",NA,"-",NA,NA,NA,NA
-"22","Bushnell","503780","","",NA,"",28,80,0,0.259
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Katie Duroe","-","NA-NA-0",0
+"2","2024","Katie Duroe","-","NA-NA-0",0
+"3","2023","Katie Duroe","-","NA-NA-0",0
+"4","2022","Katie Duroe","-","NA-NA-0",0
+"5","2021","Katie Duroe","-","13-33-0",0.283
+"6","2020","Katie Duroe","-","4-15-0",0.211
+"7","2019","Katie Duroe","-","11-32-0",0.256
+"8","2018","","-","NA-NA-0",0
+"9","2016","","-","NA-NA-0",NA
+"10","2015","","-","NA-NA-0",NA
+"11","2014","","-","NA-NA-0",NA
+"12","2013","","-","NA-NA-0",NA
+"13","2012","","-","NA-NA-0",NA
+"14","2011","","-","NA-NA-0",NA
+"15","2010","","-","NA-NA-0",NA
+"16","2009","","-","NA-NA-0",NA
+"17","2008","","-","NA-NA-0",NA
+"18","2006","","-","NA-NA-0",NA
+"19","2005","","-","NA-NA-0",NA
+"20","2004","","-","NA-NA-0",NA
+"21","2003","","-","NA-NA-0",NA

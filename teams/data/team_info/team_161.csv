@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Concordia-M'head","161","2025","Annika Seedborg","D-III","MIAC",0,0,0,0
-"2","Concordia-M'head","161","2024","Scott Carter","D-III","MIAC",5,33,0,0.132
-"3","Concordia-M'head","161","2023","Chad Slyter","D-III","MIAC",5,32,0,0.135
-"4","Concordia-M'head","161","2022","Chad Slyter","D-III","MIAC",12,20,0,0.375
-"5","Concordia-M'head","161","2021","Chad Slyter","D-III","MIAC",22,21,0,0.512
-"6","Concordia-M'head","161","2020","Chad Slyter","D-III","MIAC",7,5,0,0.583
-"7","Concordia-M'head","161","2019","Chad Slyter","D-III","MIAC",10,28,0,0.263
-"8","Concordia-M'head","161","2018","Chad Slyter","D-III","MIAC",8,32,NA,0.2
-"9","Concordia-M'head","161","2017","Chad Slyter","D-III","MIAC",9,31,0,0.225
-"10","Concordia-M'head","161","2016","Mike Reese","D-III","MIAC",18,22,0,0.45
-"11","Concordia-M'head","161","2015","Mike Reese","D-III","MIAC",13,24,0,0.351
-"12","Concordia-M'head","161","2014","Mike Reese","D-III","MIAC",7,28,0,0.2
-"13","Concordia-M'head","161","2013","Mike Reese","D-III","MIAC",7,19,0,0.269
-"14","Concordia-M'head","161","2012","Megan Johnson","D-III","MIAC",8,27,0,0.229
-"15","Concordia-M'head","161","2011","Megan Johnson","D-III","MIAC",9,27,0,0.25
-"16","Concordia-M'head","161","2010","Megan Johnson","D-III","MIAC",11,28,0,0.282
-"17","Concordia-M'head","161","2009","Megan Johnson","D-III","MIAC",14,22,0,0.389
-"18","Concordia-M'head","161","2008","Stacey Holm","D-III","MIAC",10,28,0,0.263
-"19","Concordia-M'head","161","2007","Stacey Holm","D-III","MIAC",12,22,0,0.353
-"20","Concordia-M'head","161","2006","Stacey Holm","D-III","MIAC",15,19,0,0.441
-"21","Concordia-M'head","161","2005","Stacey Holm","D-III","MIAC",11,22,0,0.333
-"22","Concordia-M'head","161","2004","Stacey Holm","D-III","MIAC",12,22,0,0.353
-"23","Concordia-M'head","161","2003","Stacey Holm","D-III","MIAC",11,24,0,0.314
-"24","Concordia-M'head","161","2002","Steve Baumgartner","D-III","MIAC",19,12,0,0.613
-"25","Concordia-M'head","161","2001","Steve Baumgartner","D-III","-",10,16,NA,0.385
-"26","Concordia-M'head","161","1900","Steve Baumgartner","D-III","-",22,19,NA,0.537
-"27","Concordia-M'head","161","1999","Steve Baumgartner","D-III","-",21,14,NA,0.6
-"28","Concordia-M'head","161","1998","Steve Baumgartner","D-III","-",16,17,1,0.485
-"29","Concordia-M'head","161","1997","Steve Baumgartner","D-III","-",13,17,NA,0.433
-"30","Concordia-M'head","161","1996","Steve Baumgartner","D-III","-",18,14,NA,0.563
-"31","Concordia-M'head","161","1995","Steve Baumgartner","D-III","-",9,22,NA,0.29
-"32","Concordia-M'head","161","1994","Steve Baumgartner","D-III","-",14,20,NA,0.412
-"33","Concordia-M'head","161","1993","Steve Baumgartner","D-III","-",20,11,NA,0.645
-"34","Concordia-M'head","161","1992","","D-III","-",NA,NA,NA,NA
-"35","Concordia-M'head","161","1991","","D-III","-",NA,NA,NA,NA
-"36","Concordia-M'head","161","1990","","D-III","-",NA,NA,NA,NA
-"37","Concordia-M'head","161","1989","","D-III","-",NA,NA,NA,NA
-"38","Concordia-M'head","161","1988","","D-III","-",NA,NA,NA,NA
-"39","Concordia-M'head","161","1987","","","-",NA,NA,NA,NA
-"40","Concordia-M'head","161","1986","","","-",NA,NA,NA,NA
-"41","Concordia-M'head","161","1985","","","-",NA,NA,NA,NA
-"42","Concordia-M'head","161","1984","","","-",NA,NA,NA,NA
-"43","Concordia-M'head","161","1983","","","-",NA,NA,NA,NA
-"44","Concordia-M'head","161","1981","","","-",NA,NA,NA,NA
-"45","Concordia-M'head","161","","","","",398,698,1,0.363
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Annika Seedborg","MIAC","0-0-0",0
+"2","2024","Scott Carter","MIAC","5-33-0",0.132
+"3","2023","Chad Slyter","MIAC","5-32-0",0.135
+"4","2022","Chad Slyter","MIAC","12-20-0",0.375
+"5","2021","Chad Slyter","MIAC","22-21-0",0.512
+"6","2020","Chad Slyter","MIAC","7-5-0",0.583
+"7","2019","Chad Slyter","MIAC","10-28-0",0.263
+"8","2018","Chad Slyter","MIAC","8-32-0",0.2
+"9","2017","Chad Slyter","MIAC","9-31-0",0.225
+"10","2016","Mike Reese","MIAC","18-22-0",0.45
+"11","2015","Mike Reese","MIAC","13-24-0",0.351
+"12","2014","Mike Reese","MIAC","7-28-0",0.2
+"13","2013","Mike Reese","MIAC","7-19-0",0.269
+"14","2012","Megan Johnson","MIAC","8-27-0",0.229
+"15","2011","Megan Johnson","MIAC","9-27-0",0.25
+"16","2010","Megan Johnson","MIAC","11-28-0",0.282
+"17","2009","Megan Johnson","MIAC","14-22-0",0.389
+"18","2008","Stacey Holm","MIAC","10-28-0",0.263
+"19","2007","Stacey Holm","MIAC","12-22-0",0.353
+"20","2006","Stacey Holm","MIAC","15-19-0",0.441
+"21","2005","Stacey Holm","MIAC","11-22-0",0.333
+"22","2004","Stacey Holm","MIAC","12-22-0",0.353
+"23","2003","Stacey Holm","MIAC","11-24-0",0.314
+"24","2002","Steve Baumgartner","MIAC","19-12-0",0.613
+"25","2001","Steve Baumgartner","-","10-16-0",0.385
+"26","1900","Steve Baumgartner","-","22-19-0",0.537
+"27","1999","Steve Baumgartner","-","21-14-0",0.6
+"28","1998","Steve Baumgartner","-","16-17-1",0.485
+"29","1997","Steve Baumgartner","-","13-17-0",0.433
+"30","1996","Steve Baumgartner","-","18-14-0",0.563
+"31","1995","Steve Baumgartner","-","9-22-0",0.29
+"32","1994","Steve Baumgartner","-","14-20-0",0.412
+"33","1993","Steve Baumgartner","-","20-11-0",0.645
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1981","","-","NA-NA-0",NA

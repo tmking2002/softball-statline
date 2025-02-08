@@ -1,48 +1,47 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Grove City","265","2025","Kristen Cramer","D-III","PAC",0,0,0,0
-"2","Grove City","265","2024","Kristen Cramer","D-III","PAC",23,17,0,0.575
-"3","Grove City","265","2023","Kristen Cramer","D-III","PAC",21,15,0,0.583
-"4","Grove City","265","2022","Kristen Cramer","D-III","PAC",18,16,0,0.529
-"5","Grove City","265","2021","Kristen Cramer","D-III","PAC",16,20,0,0.444
-"6","Grove City","265","2020","Kristen Cramer","D-III","PAC",2,8,0,0.2
-"7","Grove City","265","2019","Kristen Cramer","D-III","PAC",11,14,0,0.44
-"8","Grove City","265","2018","Kristen Cramer","D-III","PAC",9,19,NA,0.321
-"9","Grove City","265","2017","Kristen Cramer","D-III","PAC",15,19,0,0.441
-"10","Grove City","265","2016","Kristen Cramer","D-III","PAC",6,23,0,0.207
-"11","Grove City","265","2015","Kristen Cramer","D-III","PAC",16,13,0,0.552
-"12","Grove City","265","2014","Christine VanHook","D-III","PAC",9,20,0,0.31
-"13","Grove City","265","2013","","D-III","PAC",11,21,0,0.344
-"14","Grove City","265","2012","Chelle Fuss","D-III","PAC",19,21,0,0.475
-"15","Grove City","265","2011","Chelle Fuss","D-III","PAC",18,16,0,0.529
-"16","Grove City","265","2010","Chelle Fuss","D-III","PAC",14,23,0,0.378
-"17","Grove City","265","2009","Chelle Fuss","D-III","PAC",16,20,0,0.444
-"18","Grove City","265","2008","Chelle Fuss","D-III","PAC",15,23,0,0.395
-"19","Grove City","265","2007","Chelle Fuss","D-III","PAC",9,25,0,0.265
-"20","Grove City","265","2006","Peter Fisher","D-III","PAC",11,15,1,0.426
-"21","Grove City","265","2005","Michelle Santom","D-III","PAC",10,20,0,0.333
-"22","Grove City","265","2004","Michelle Santom","D-III","PAC",14,9,0,0.609
-"23","Grove City","265","2003","Michelle Santom","D-III","PAC",17,29,0,0.37
-"24","Grove City","265","2002","Michelle Santom","D-III","PAC",2,17,0,0.105
-"25","Grove City","265","2001","Michelle Santom","D-III","-",7,15,NA,0.318
-"26","Grove City","265","1900","Michelle Santom","D-III","-",6,14,NA,0.3
-"27","Grove City","265","1999","Michelle Santom","D-III","-",12,12,NA,0.5
-"28","Grove City","265","1998","Susan Roberts","D-III","-",20,8,NA,0.714
-"29","Grove City","265","1997","Susan Roberts","D-III","-",17,11,NA,0.607
-"30","Grove City","265","1996","Susan Roberts","D-III","-",14,6,NA,0.7
-"31","Grove City","265","1995","Susan Roberts","D-III","-",17,11,NA,0.607
-"32","Grove City","265","1994","Susan Roberts","D-III","-",20,8,NA,0.714
-"33","Grove City","265","1993","Cathy Jacobs","D-III","-",3,14,NA,0.176
-"34","Grove City","265","1992","Cathy Jacobs","D-III","-",8,14,NA,0.364
-"35","Grove City","265","1991","Cathy Jacobs","D-III","-",9,9,NA,0.5
-"36","Grove City","265","1990","Cathy Jacobs","D-III","-",9,10,NA,0.474
-"37","Grove City","265","1989","Cathy Jacobs","D-III","-",10,11,NA,0.476
-"38","Grove City","265","1988","Don Lyle","D-III","-",18,6,NA,0.75
-"39","Grove City","265","1987","Don Lyle","D-III","-",13,7,NA,0.65
-"40","Grove City","265","1986","Don Lyle","D-III","-",14,9,NA,0.609
-"41","Grove City","265","1985","Don Lyle","D-III","-",15,6,NA,0.714
-"42","Grove City","265","1984","Don Lyle","D-III","-",7,9,NA,0.438
-"43","Grove City","265","1983","Don Lyle","D-III","-",3,8,NA,0.273
-"44","Grove City","265","1982","Don Lyle","D-III","-",9,6,NA,0.6
-"45","Grove City","265","1981","Don Lyle","D-III","-",4,8,NA,0.333
-"46","Grove City","265","1980","Don Lyle","D-III","-",8,2,NA,0.8
-"47","Grove City","265","","","","",545,627,1,0.465
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kristen Cramer","PAC","0-0-0",0
+"2","2024","Kristen Cramer","PAC","23-17-0",0.575
+"3","2023","Kristen Cramer","PAC","21-15-0",0.583
+"4","2022","Kristen Cramer","PAC","18-16-0",0.529
+"5","2021","Kristen Cramer","PAC","16-20-0",0.444
+"6","2020","Kristen Cramer","PAC","2-8-0",0.2
+"7","2019","Kristen Cramer","PAC","11-14-0",0.44
+"8","2018","Kristen Cramer","PAC","9-19-0",0.321
+"9","2017","Kristen Cramer","PAC","15-19-0",0.441
+"10","2016","Kristen Cramer","PAC","6-23-0",0.207
+"11","2015","Kristen Cramer","PAC","16-13-0",0.552
+"12","2014","Christine VanHook","PAC","9-20-0",0.31
+"13","2013","","PAC","11-21-0",0.344
+"14","2012","Chelle Fuss","PAC","19-21-0",0.475
+"15","2011","Chelle Fuss","PAC","18-16-0",0.529
+"16","2010","Chelle Fuss","PAC","14-23-0",0.378
+"17","2009","Chelle Fuss","PAC","16-20-0",0.444
+"18","2008","Chelle Fuss","PAC","15-23-0",0.395
+"19","2007","Chelle Fuss","PAC","9-25-0",0.265
+"20","2006","Peter Fisher","PAC","11-15-1",0.426
+"21","2005","Michelle Santom","PAC","10-20-0",0.333
+"22","2004","Michelle Santom","PAC","14-9-0",0.609
+"23","2003","Michelle Santom","PAC","17-29-0",0.37
+"24","2002","Michelle Santom","PAC","2-17-0",0.105
+"25","2001","Michelle Santom","-","7-15-0",0.318
+"26","1900","Michelle Santom","-","6-14-0",0.3
+"27","1999","Michelle Santom","-","12-12-0",0.5
+"28","1998","Susan Roberts","-","20-8-0",0.714
+"29","1997","Susan Roberts","-","17-11-0",0.607
+"30","1996","Susan Roberts","-","14-6-0",0.7
+"31","1995","Susan Roberts","-","17-11-0",0.607
+"32","1994","Susan Roberts","-","20-8-0",0.714
+"33","1993","Cathy Jacobs","-","3-14-0",0.176
+"34","1992","Cathy Jacobs","-","8-14-0",0.364
+"35","1991","Cathy Jacobs","-","9-9-0",0.5
+"36","1990","Cathy Jacobs","-","9-10-0",0.474
+"37","1989","Cathy Jacobs","-","10-11-0",0.476
+"38","1988","Don Lyle","-","18-6-0",0.75
+"39","1987","Don Lyle","-","13-7-0",0.65
+"40","1986","Don Lyle","-","14-9-0",0.609
+"41","1985","Don Lyle","-","15-6-0",0.714
+"42","1984","Don Lyle","-","7-9-0",0.438
+"43","1983","Don Lyle","-","3-8-0",0.273
+"44","1982","Don Lyle","-","9-6-0",0.6
+"45","1981","Don Lyle","-","4-8-0",0.333
+"46","1980","Don Lyle","-","8-2-0",0.8

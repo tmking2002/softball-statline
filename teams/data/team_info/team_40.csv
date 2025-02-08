@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Augustana (IL)","40","2025","John Nelson","D-III","CCIW",0,0,0,0
-"2","Augustana (IL)","40","2024","John Nelson","D-III","CCIW",26,15,0,0.634
-"3","Augustana (IL)","40","2023","Karl Gollan","D-III","CCIW",22,20,0,0.524
-"4","Augustana (IL)","40","2022","Kris Kistler","D-III","CCIW",18,17,0,0.514
-"5","Augustana (IL)","40","2021","Kris Kistler","D-III","CCIW",14,27,0,0.341
-"6","Augustana (IL)","40","2020","Kris Kistler","D-III","CCIW",2,2,0,0.5
-"7","Augustana (IL)","40","2019","Kris Kistler","D-III","CCIW",18,20,0,0.474
-"8","Augustana (IL)","40","2018","Kris Kistler","D-III","CCIW",22,16,NA,0.579
-"9","Augustana (IL)","40","2017","Kris Kistler","D-III","CCIW",14,22,0,0.389
-"10","Augustana (IL)","40","2016","Kris Kistler","D-III","CCIW",16,22,0,0.421
-"11","Augustana (IL)","40","2015","Kris Kistler","D-III","CCIW",28,14,1,0.663
-"12","Augustana (IL)","40","2014","Kris Kistler","D-III","CCIW",35,13,0,0.729
-"13","Augustana (IL)","40","2013","Kris Kistler","D-III","CCIW",32,14,0,0.696
-"14","Augustana (IL)","40","2012","Kris Kistler","D-III","CCIW",25,13,0,0.658
-"15","Augustana (IL)","40","2011","Kris Kistler","D-III","CCIW",19,19,0,0.5
-"16","Augustana (IL)","40","2010","Kris Kistler","D-III","CCIW",31,15,0,0.674
-"17","Augustana (IL)","40","2009","Kris Kistler","D-III","CCIW",28,14,0,0.667
-"18","Augustana (IL)","40","2008","Kris Kistler","D-III","CCIW",26,18,0,0.591
-"19","Augustana (IL)","40","2007","Kris Kistler","D-III","CCIW",30,14,0,0.682
-"20","Augustana (IL)","40","2006","Kris Kistler","D-III","CCIW",33,10,0,0.767
-"21","Augustana (IL)","40","2005","Kris Kistler","D-III","CCIW",33,12,0,0.733
-"22","Augustana (IL)","40","2004","Kris Kistler","D-III","CCIW",36,9,0,0.8
-"23","Augustana (IL)","40","2003","Kris Kistler","D-III","CCIW",26,14,1,0.646
-"24","Augustana (IL)","40","2002","Kris Kistler","D-III","CCIW",27,15,0,0.643
-"25","Augustana (IL)","40","2001","Kris Kistler","D-III","-",23,20,1,0.534
-"26","Augustana (IL)","40","1900","Kris Kistler","D-III","-",30,15,NA,0.667
-"27","Augustana (IL)","40","1999","Diane Schumacher","D-III","-",19,21,NA,0.475
-"28","Augustana (IL)","40","1998","Diane Schumacher","D-III","-",10,25,1,0.292
-"29","Augustana (IL)","40","1997","Diane Schumacher","D-III","-",13,23,NA,0.361
-"30","Augustana (IL)","40","1996","Diane Schumacher","D-III","-",27,14,NA,0.659
-"31","Augustana (IL)","40","1995","Diane Schumacher","D-III","-",16,26,NA,0.381
-"32","Augustana (IL)","40","1994","Diane Schumacher","D-III","-",7,20,NA,0.259
-"33","Augustana (IL)","40","1993","Diane Schumacher","D-III","-",8,17,NA,0.32
-"34","Augustana (IL)","40","1992","Diane Schumacher","D-III","-",5,25,NA,0.167
-"35","Augustana (IL)","40","1991","Diane Schumacher","D-III","-",21,11,NA,0.656
-"36","Augustana (IL)","40","1990","Diane Schumacher","D-III","-",12,12,NA,0.5
-"37","Augustana (IL)","40","1989","Diane Schumacher","D-III","-",14,22,NA,0.389
-"38","Augustana (IL)","40","1988","Diane Schumacher","D-III","-",23,14,NA,0.622
-"39","Augustana (IL)","40","1987","Diane Schumacher","D-III","-",10,16,NA,0.385
-"40","Augustana (IL)","40","1986","Diane Schumacher","D-III","-",20,7,NA,0.741
-"41","Augustana (IL)","40","1985","Diane Schumacher","D-III","-",19,11,NA,0.633
-"42","Augustana (IL)","40","1984","","D-III","-",NA,NA,NA,NA
-"43","Augustana (IL)","40","1983","","D-III","-",NA,NA,NA,NA
-"44","Augustana (IL)","40","1982","","D-III","-",NA,NA,NA,NA
-"45","Augustana (IL)","40","","","","",838,654,4,0.561
+"","season","head_coach","conference","record","win_perc"
+"1","2025","John Nelson","CCIW","0-0-0",0
+"2","2024","John Nelson","CCIW","26-15-0",0.634
+"3","2023","Karl Gollan","CCIW","22-20-0",0.524
+"4","2022","Kris Kistler","CCIW","18-17-0",0.514
+"5","2021","Kris Kistler","CCIW","14-27-0",0.341
+"6","2020","Kris Kistler","CCIW","2-2-0",0.5
+"7","2019","Kris Kistler","CCIW","18-20-0",0.474
+"8","2018","Kris Kistler","CCIW","22-16-0",0.579
+"9","2017","Kris Kistler","CCIW","14-22-0",0.389
+"10","2016","Kris Kistler","CCIW","16-22-0",0.421
+"11","2015","Kris Kistler","CCIW","28-14-1",0.663
+"12","2014","Kris Kistler","CCIW","35-13-0",0.729
+"13","2013","Kris Kistler","CCIW","32-14-0",0.696
+"14","2012","Kris Kistler","CCIW","25-13-0",0.658
+"15","2011","Kris Kistler","CCIW","19-19-0",0.5
+"16","2010","Kris Kistler","CCIW","31-15-0",0.674
+"17","2009","Kris Kistler","CCIW","28-14-0",0.667
+"18","2008","Kris Kistler","CCIW","26-18-0",0.591
+"19","2007","Kris Kistler","CCIW","30-14-0",0.682
+"20","2006","Kris Kistler","CCIW","33-10-0",0.767
+"21","2005","Kris Kistler","CCIW","33-12-0",0.733
+"22","2004","Kris Kistler","CCIW","36-9-0",0.8
+"23","2003","Kris Kistler","CCIW","26-14-1",0.646
+"24","2002","Kris Kistler","CCIW","27-15-0",0.643
+"25","2001","Kris Kistler","-","23-20-1",0.534
+"26","1900","Kris Kistler","-","30-15-0",0.667
+"27","1999","Diane Schumacher","-","19-21-0",0.475
+"28","1998","Diane Schumacher","-","10-25-1",0.292
+"29","1997","Diane Schumacher","-","13-23-0",0.361
+"30","1996","Diane Schumacher","-","27-14-0",0.659
+"31","1995","Diane Schumacher","-","16-26-0",0.381
+"32","1994","Diane Schumacher","-","7-20-0",0.259
+"33","1993","Diane Schumacher","-","8-17-0",0.32
+"34","1992","Diane Schumacher","-","5-25-0",0.167
+"35","1991","Diane Schumacher","-","21-11-0",0.656
+"36","1990","Diane Schumacher","-","12-12-0",0.5
+"37","1989","Diane Schumacher","-","14-22-0",0.389
+"38","1988","Diane Schumacher","-","23-14-0",0.622
+"39","1987","Diane Schumacher","-","10-16-0",0.385
+"40","1986","Diane Schumacher","-","20-7-0",0.741
+"41","1985","Diane Schumacher","-","19-11-0",0.633
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

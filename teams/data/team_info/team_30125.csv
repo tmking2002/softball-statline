@@ -1,20 +1,19 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Minot St.","30125","2025","Sal Rodriguez","D-II","NSIC",5,2,0,0.714
-"2","Minot St.","30125","2024","Sal Rodriguez","D-II","NSIC",24,19,0,0.558
-"3","Minot St.","30125","2023","Bailey Gaspar","D-II","NSIC",30,23,0,0.566
-"4","Minot St.","30125","2022","Nat Wagner","D-II","NSIC",28,20,0,0.583
-"5","Minot St.","30125","2021","Nat Wagner","D-II","NSIC",22,22,0,0.5
-"6","Minot St.","30125","2020","Nat Wagner","D-II","NSIC",10,6,0,0.625
-"7","Minot St.","30125","2019","Dave Kivett","D-II","NSIC",26,23,0,0.531
-"8","Minot St.","30125","2018","Dave Kivett","D-II","NSIC",25,24,NA,0.51
-"9","Minot St.","30125","2017","Bill Triplett","D-II","NSIC",25,22,0,0.532
-"10","Minot St.","30125","2016","Bill Triplett","D-II","NSIC",17,30,0,0.362
-"11","Minot St.","30125","2015","Bill Triplett","D-II","NSIC",32,21,0,0.604
-"12","Minot St.","30125","2014","Bill Triplett","D-II","NSIC",29,20,0,0.592
-"13","Minot St.","30125","2013","Bill Triplett","D-II","NSIC",41,11,0,0.788
-"14","Minot St.","30125","2012","Bill Triplett","D-II","NSIC",24,12,0,0.667
-"15","Minot St.","30125","2011","Bill Triplett","","-",30,12,0,0.714
-"16","Minot St.","30125","2010","Bill Triplett","","-",34,14,0,0.708
-"17","Minot St.","30125","2009","Bill Triplett","","-",27,16,0,0.628
-"18","Minot St.","30125","2008","Bill Triplett","","-",29,14,0,0.674
-"19","Minot St.","30125","","","","",458,311,0,0.596
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sal Rodriguez","NSIC","5-2-0",0.714
+"2","2024","Sal Rodriguez","NSIC","24-19-0",0.558
+"3","2023","Bailey Gaspar","NSIC","30-23-0",0.566
+"4","2022","Nat Wagner","NSIC","28-20-0",0.583
+"5","2021","Nat Wagner","NSIC","22-22-0",0.5
+"6","2020","Nat Wagner","NSIC","10-6-0",0.625
+"7","2019","Dave Kivett","NSIC","26-23-0",0.531
+"8","2018","Dave Kivett","NSIC","25-24-0",0.51
+"9","2017","Bill Triplett","NSIC","25-22-0",0.532
+"10","2016","Bill Triplett","NSIC","17-30-0",0.362
+"11","2015","Bill Triplett","NSIC","32-21-0",0.604
+"12","2014","Bill Triplett","NSIC","29-20-0",0.592
+"13","2013","Bill Triplett","NSIC","41-11-0",0.788
+"14","2012","Bill Triplett","NSIC","24-12-0",0.667
+"15","2011","Bill Triplett","-","30-12-0",0.714
+"16","2010","Bill Triplett","-","34-14-0",0.708
+"17","2009","Bill Triplett","-","27-16-0",0.628
+"18","2008","Bill Triplett","-","29-14-0",0.674

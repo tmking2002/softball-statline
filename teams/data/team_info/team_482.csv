@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Niagara","482","2025","Larry Puzan","D-I","MAAC",0,0,0,0
-"2","Niagara","482","2024","Larry Puzan","D-I","MAAC",29,21,0,0.58
-"3","Niagara","482","2023","Larry Puzan","D-I","MAAC",9,34,0,0.209
-"4","Niagara","482","2022","Larry Puzan","D-I","MAAC",14,26,0,0.35
-"5","Niagara","482","2021","Larry Puzan","D-I","MAAC",11,19,0,0.367
-"6","Niagara","482","2020","Larry Puzan","D-I","MAAC",3,7,0,0.3
-"7","Niagara","482","2019","Larry Puzan","D-I","MAAC",18,32,0,0.36
-"8","Niagara","482","2018","Larry Puzan","D-I","MAAC",16,33,NA,0.327
-"9","Niagara","482","2017","Larry Puzan","D-I","MAAC",19,26,0,0.422
-"10","Niagara","482","2016","Larry Puzan","D-I","MAAC",10,38,0,0.208
-"11","Niagara","482","2015","Larry Puzan","D-I","MAAC",4,40,0,0.091
-"12","Niagara","482","2014","Larry Puzan","D-I","MAAC",18,30,0,0.375
-"13","Niagara","482","2013","Al Dirschberger","D-I","MAAC",16,30,0,0.348
-"14","Niagara","482","2012","Al Dirschberger","D-I","MAAC",15,30,0,0.333
-"15","Niagara","482","2011","Al Dirschberger","D-I","MAAC",18,22,0,0.45
-"16","Niagara","482","2010","Al Dirschberger","D-I","MAAC",22,22,0,0.5
-"17","Niagara","482","2009","Al Dirschberger","D-I","MAAC",30,19,0,0.612
-"18","Niagara","482","2008","Al Dirschberger","D-I","MAAC",27,21,0,0.563
-"19","Niagara","482","2007","Al Dirschberger","D-I","MAAC",18,20,0,0.474
-"20","Niagara","482","2006","Al Dirschberger","D-I","MAAC",24,23,0,0.511
-"21","Niagara","482","2005","Al Dirschberger","D-I","MAAC",12,29,0,0.293
-"22","Niagara","482","2004","Al Dirschberger","D-I","MAAC",20,26,0,0.435
-"23","Niagara","482","2003","Al Dirschberger","D-I","MAAC",7,27,0,0.206
-"24","Niagara","482","2002","Al Dirschberger","D-I","MAAC",8,32,0,0.2
-"25","Niagara","482","2001","Al Dirschberger","D-I","MAAC",12,20,0,0.375
-"26","Niagara","482","1900","Al Dirschberger","D-I","MAAC",22,15,0,0.595
-"27","Niagara","482","1999","Al Dirschberger","D-I","MAAC",10,23,0,0.303
-"28","Niagara","482","1998","Al Dirschberger","D-I","-",22,19,NA,0.537
-"29","Niagara","482","1997","Al Dirschberger","D-I","MAAC",23,15,0,0.605
-"30","Niagara","482","1996","Al Dirschberger","D-I","-",17,17,NA,0.5
-"31","Niagara","482","1995","Al Dirschberger","D-I","-",15,19,NA,0.441
-"32","Niagara","482","1994","Al Dirschberger","D-I","-",10,18,NA,0.357
-"33","Niagara","482","1993","Al Dirschberger","D-I","-",4,32,NA,0.111
-"34","Niagara","482","1992","Al Dirschberger","D-I","-",5,19,NA,0.208
-"35","Niagara","482","1991","Al Dirschberger","D-I","-",4,20,NA,0.167
-"36","Niagara","482","1990","Gerilyn Proto","D-I","-",7,21,NA,0.25
-"37","Niagara","482","1989","","D-I","-",NA,NA,NA,NA
-"38","Niagara","482","1988","","D-I","-",NA,NA,NA,NA
-"39","Niagara","482","1987","","","-",NA,NA,NA,NA
-"40","Niagara","482","1986","","","-",NA,NA,NA,NA
-"41","Niagara","482","1985","","","-",NA,NA,NA,NA
-"42","Niagara","482","1982","","D-I","-",NA,NA,NA,NA
-"43","Niagara","482","","","","",519,845,0,0.38
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Larry Puzan","MAAC","0-0-0",0
+"2","2024","Larry Puzan","MAAC","29-21-0",0.58
+"3","2023","Larry Puzan","MAAC","9-34-0",0.209
+"4","2022","Larry Puzan","MAAC","14-26-0",0.35
+"5","2021","Larry Puzan","MAAC","11-19-0",0.367
+"6","2020","Larry Puzan","MAAC","3-7-0",0.3
+"7","2019","Larry Puzan","MAAC","18-32-0",0.36
+"8","2018","Larry Puzan","MAAC","16-33-0",0.327
+"9","2017","Larry Puzan","MAAC","19-26-0",0.422
+"10","2016","Larry Puzan","MAAC","10-38-0",0.208
+"11","2015","Larry Puzan","MAAC","4-40-0",0.091
+"12","2014","Larry Puzan","MAAC","18-30-0",0.375
+"13","2013","Al Dirschberger","MAAC","16-30-0",0.348
+"14","2012","Al Dirschberger","MAAC","15-30-0",0.333
+"15","2011","Al Dirschberger","MAAC","18-22-0",0.45
+"16","2010","Al Dirschberger","MAAC","22-22-0",0.5
+"17","2009","Al Dirschberger","MAAC","30-19-0",0.612
+"18","2008","Al Dirschberger","MAAC","27-21-0",0.563
+"19","2007","Al Dirschberger","MAAC","18-20-0",0.474
+"20","2006","Al Dirschberger","MAAC","24-23-0",0.511
+"21","2005","Al Dirschberger","MAAC","12-29-0",0.293
+"22","2004","Al Dirschberger","MAAC","20-26-0",0.435
+"23","2003","Al Dirschberger","MAAC","7-27-0",0.206
+"24","2002","Al Dirschberger","MAAC","8-32-0",0.2
+"25","2001","Al Dirschberger","MAAC","12-20-0",0.375
+"26","1900","Al Dirschberger","MAAC","22-15-0",0.595
+"27","1999","Al Dirschberger","MAAC","10-23-0",0.303
+"28","1998","Al Dirschberger","-","22-19-0",0.537
+"29","1997","Al Dirschberger","MAAC","23-15-0",0.605
+"30","1996","Al Dirschberger","-","17-17-0",0.5
+"31","1995","Al Dirschberger","-","15-19-0",0.441
+"32","1994","Al Dirschberger","-","10-18-0",0.357
+"33","1993","Al Dirschberger","-","4-32-0",0.111
+"34","1992","Al Dirschberger","-","5-19-0",0.208
+"35","1991","Al Dirschberger","-","4-20-0",0.167
+"36","1990","Gerilyn Proto","-","7-21-0",0.25
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1982","","-","NA-NA-0",NA

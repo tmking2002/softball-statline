@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hofstra","283","2025","Adrienne Clark","D-I","CAA",0,0,0,0
-"2","Hofstra","283","2024","Adrienne Clark","D-I","CAA",23,26,0,0.469
-"3","Hofstra","283","2023","Adrienne Clark","D-I","CAA",29,27,0,0.518
-"4","Hofstra","283","2022","Adrienne Clark","D-I","CAA",21,27,0,0.438
-"5","Hofstra","283","2021","Jay Miller","D-I","CAA",16,16,0,0.5
-"6","Hofstra","283","2020","Jay Miller","D-I","CAA",3,15,0,0.167
-"7","Hofstra","283","2019","Jay Miller","D-I","CAA",20,27,0,0.426
-"8","Hofstra","283","2018","Larissa Anderson","D-I","CAA",41,14,0,0.745
-"9","Hofstra","283","2017","Larissa Anderson","D-I","CAA",27,23,0,0.54
-"10","Hofstra","283","2016","Larissa Anderson","D-I","CAA",24,22,0,0.522
-"11","Hofstra","283","2015","Larissa Anderson","D-I","CAA",41,15,1,0.728
-"12","Hofstra","283","2014","Bill Edwards","D-I","CAA",34,15,0,0.694
-"13","Hofstra","283","2013","Bill Edwards","D-I","CAA",48,13,0,0.787
-"14","Hofstra","283","2012","Bill Edwards","D-I","CAA",42,15,0,0.737
-"15","Hofstra","283","2011","Bill Edwards","D-I","CAA",40,13,0,0.755
-"16","Hofstra","283","2010","Bill Edwards","D-I","CAA",45,12,0,0.789
-"17","Hofstra","283","2009","Bill Edwards","D-I","CAA",26,21,0,0.553
-"18","Hofstra","283","2008","Bill Edwards","D-I","CAA",45,13,0,0.776
-"19","Hofstra","283","2007","Bill Edwards","D-I","CAA",41,15,0,0.732
-"20","Hofstra","283","2006","Bill Edwards","D-I","CAA",37,20,0,0.649
-"21","Hofstra","283","2005","Bill Edwards","D-I","CAA",43,16,1,0.725
-"22","Hofstra","283","2004","Bill Edwards","D-I","CAA",38,21,0,0.644
-"23","Hofstra","283","2003","Bill Edwards","D-I","CAA",39,17,0,0.696
-"24","Hofstra","283","2002","Bill Edwards","D-I","CAA",28,25,0,0.528
-"25","Hofstra","283","2001","Bill Edwards","D-I","America East",37,26,0,0.587
-"26","Hofstra","283","1900","Bill Edwards","D-I","America East",42,21,0,0.667
-"27","Hofstra","283","1999","Bill Edwards","D-I","America East",40,19,0,0.678
-"28","Hofstra","283","1998","Bill Edwards","D-I","-",39,17,NA,0.696
-"29","Hofstra","283","1997","Bill Edwards","D-I","America East",38,16,0,0.704
-"30","Hofstra","283","1996","Bill Edwards","D-I","-",33,18,NA,0.647
-"31","Hofstra","283","1995","Bill Edwards","D-I","-",41,21,NA,0.661
-"32","Hofstra","283","1994","Bill Edwards","D-I","-",39,16,NA,0.709
-"33","Hofstra","283","1993","Bill Edwards","D-I","-",37,12,NA,0.755
-"34","Hofstra","283","1992","Bill Edwards","D-I","-",35,7,1,0.826
-"35","Hofstra","283","1991","Bill Edwards","D-I","-",24,13,NA,0.649
-"36","Hofstra","283","1990","Bill Edwards","D-I","-",19,17,1,0.527
-"37","Hofstra","283","1989","","D-I","-",NA,NA,NA,NA
-"38","Hofstra","283","1988","","D-I","-",NA,NA,NA,NA
-"39","Hofstra","283","1987","","D-I","-",NA,NA,NA,NA
-"40","Hofstra","283","1986","","D-I","-",NA,NA,NA,NA
-"41","Hofstra","283","1984","","D-I","-",NA,NA,NA,NA
-"42","Hofstra","283","","","","",1175,631,4,0.65
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Adrienne Clark","CAA","0-0-0",0
+"2","2024","Adrienne Clark","CAA","23-26-0",0.469
+"3","2023","Adrienne Clark","CAA","29-27-0",0.518
+"4","2022","Adrienne Clark","CAA","21-27-0",0.438
+"5","2021","Jay Miller","CAA","16-16-0",0.5
+"6","2020","Jay Miller","CAA","3-15-0",0.167
+"7","2019","Jay Miller","CAA","20-27-0",0.426
+"8","2018","Larissa Anderson","CAA","41-14-0",0.745
+"9","2017","Larissa Anderson","CAA","27-23-0",0.54
+"10","2016","Larissa Anderson","CAA","24-22-0",0.522
+"11","2015","Larissa Anderson","CAA","41-15-1",0.728
+"12","2014","Bill Edwards","CAA","34-15-0",0.694
+"13","2013","Bill Edwards","CAA","48-13-0",0.787
+"14","2012","Bill Edwards","CAA","42-15-0",0.737
+"15","2011","Bill Edwards","CAA","40-13-0",0.755
+"16","2010","Bill Edwards","CAA","45-12-0",0.789
+"17","2009","Bill Edwards","CAA","26-21-0",0.553
+"18","2008","Bill Edwards","CAA","45-13-0",0.776
+"19","2007","Bill Edwards","CAA","41-15-0",0.732
+"20","2006","Bill Edwards","CAA","37-20-0",0.649
+"21","2005","Bill Edwards","CAA","43-16-1",0.725
+"22","2004","Bill Edwards","CAA","38-21-0",0.644
+"23","2003","Bill Edwards","CAA","39-17-0",0.696
+"24","2002","Bill Edwards","CAA","28-25-0",0.528
+"25","2001","Bill Edwards","America East","37-26-0",0.587
+"26","1900","Bill Edwards","America East","42-21-0",0.667
+"27","1999","Bill Edwards","America East","40-19-0",0.678
+"28","1998","Bill Edwards","-","39-17-0",0.696
+"29","1997","Bill Edwards","America East","38-16-0",0.704
+"30","1996","Bill Edwards","-","33-18-0",0.647
+"31","1995","Bill Edwards","-","41-21-0",0.661
+"32","1994","Bill Edwards","-","39-16-0",0.709
+"33","1993","Bill Edwards","-","37-12-0",0.755
+"34","1992","Bill Edwards","-","35-7-1",0.826
+"35","1991","Bill Edwards","-","24-13-0",0.649
+"36","1990","Bill Edwards","-","19-17-1",0.527
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA

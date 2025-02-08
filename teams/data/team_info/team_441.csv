@@ -1,13 +1,12 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Montana","441","2025","Stef Ewing","D-I","Big Sky",1,1,0,0.5
-"2","Montana","441","2024","Melanie Meuchel","D-I","Big Sky",17,33,0,0.34
-"3","Montana","441","2023","Melanie Meuchel","D-I","Big Sky",10,37,0,0.213
-"4","Montana","441","2022","Melanie Meuchel","D-I","Big Sky",20,27,0,0.426
-"5","Montana","441","2021","Melanie Meuchel","D-I","Big Sky",19,30,0,0.388
-"6","Montana","441","2020","Melanie Meuchel","D-I","Big Sky",12,12,0,0.5
-"7","Montana","441","2019","Melanie Meuchel","D-I","Big Sky",25,31,0,0.446
-"8","Montana","441","2018","Melanie Meuchel","D-I","Big Sky",25,30,NA,0.455
-"9","Montana","441","2017","Jamie Pinkerton","D-I","Big Sky",35,24,0,0.593
-"10","Montana","441","2016","Jamie Pinkerton","D-I","Big Sky",29,27,0,0.518
-"11","Montana","441","2015","Jamie Pinkerton","D-I","Big Sky",16,34,0,0.32
-"12","Montana","441","","","","",209,286,0,0.422
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stef Ewing","Big Sky","1-1-0",0.5
+"2","2024","Melanie Meuchel","Big Sky","17-33-0",0.34
+"3","2023","Melanie Meuchel","Big Sky","10-37-0",0.213
+"4","2022","Melanie Meuchel","Big Sky","20-27-0",0.426
+"5","2021","Melanie Meuchel","Big Sky","19-30-0",0.388
+"6","2020","Melanie Meuchel","Big Sky","12-12-0",0.5
+"7","2019","Melanie Meuchel","Big Sky","25-31-0",0.446
+"8","2018","Melanie Meuchel","Big Sky","25-30-0",0.455
+"9","2017","Jamie Pinkerton","Big Sky","35-24-0",0.593
+"10","2016","Jamie Pinkerton","Big Sky","29-27-0",0.518
+"11","2015","Jamie Pinkerton","Big Sky","16-34-0",0.32

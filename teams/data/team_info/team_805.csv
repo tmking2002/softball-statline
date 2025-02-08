@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wis.-Whitewater","805","2025","Brenda Volk","D-III","WIAC",0,0,0,0
-"2","Wis.-Whitewater","805","2024","Brenda Volk","D-III","WIAC",33,10,0,0.767
-"3","Wis.-Whitewater","805","2023","Brenda Volk","D-III","WIAC",28,13,0,0.683
-"4","Wis.-Whitewater","805","2022","Brenda Volk","D-III","WIAC",20,19,0,0.513
-"5","Wis.-Whitewater","805","2021","Brenda Volk","D-III","WIAC",29,10,0,0.744
-"6","Wis.-Whitewater","805","2020","Brenda Volk","D-III","WIAC",NA,NA,NA,0
-"7","Wis.-Whitewater","805","2019","Brenda Volk","D-III","WIAC",28,14,0,0.667
-"8","Wis.-Whitewater","805","2018","Brenda Volk","D-III","WIAC",29,13,1,0.686
-"9","Wis.-Whitewater","805","2017","Brenda Volk","D-III","WIAC",37,9,0,0.804
-"10","Wis.-Whitewater","805","2016","Brenda Volk","D-III","WIAC",29,14,0,0.674
-"11","Wis.-Whitewater","805","2015","Brenda Volk","D-III","WIAC",36,9,0,0.8
-"12","Wis.-Whitewater","805","2014","Brenda Volk","D-III","WIAC",39,13,0,0.75
-"13","Wis.-Whitewater","805","2013","Brenda Volk","D-III","WIAC",32,7,0,0.821
-"14","Wis.-Whitewater","805","2012","Brenda Volk","D-III","WIAC",32,11,0,0.744
-"15","Wis.-Whitewater","805","2011","Brenda Volk","D-III","WIAC",28,12,0,0.7
-"16","Wis.-Whitewater","805","2010","Brenda Volk","D-III","WIAC",31,15,0,0.674
-"17","Wis.-Whitewater","805","2009","Brenda Volk","D-III","WIAC",38,7,0,0.844
-"18","Wis.-Whitewater","805","2008","Brenda Volk","D-III","WIAC",39,11,0,0.78
-"19","Wis.-Whitewater","805","2007","Brenda Volk","D-III","WIAC",24,15,0,0.615
-"20","Wis.-Whitewater","805","2006","Brenda Volk","D-III","WIAC",25,15,0,0.625
-"21","Wis.-Whitewater","805","2005","Brenda Volk","D-III","WIAC",19,24,0,0.442
-"22","Wis.-Whitewater","805","2004","Brenda Volk","D-III","WIAC",32,14,0,0.696
-"23","Wis.-Whitewater","805","2003","Brenda Volk","D-III","WIAC",24,18,1,0.57
-"24","Wis.-Whitewater","805","2002","Brenda Volk","D-III","WIAC",26,13,0,0.667
-"25","Wis.-Whitewater","805","2001","Brenda Volk","D-III","-",25,14,3,0.631
-"26","Wis.-Whitewater","805","1900","Brenda Volk","D-III","-",37,9,NA,0.804
-"27","Wis.-Whitewater","805","1999","Brenda Volk","D-III","-",41,7,NA,0.854
-"28","Wis.-Whitewater","805","1998","Irv Madsen","D-III","-",37,7,NA,0.841
-"29","Wis.-Whitewater","805","1997","Irv Madsen","D-III","-",30,8,NA,0.789
-"30","Wis.-Whitewater","805","1996","Irv Madsen","D-III","-",33,11,NA,0.75
-"31","Wis.-Whitewater","805","1995","Irv Madsen","D-III","-",23,17,NA,0.575
-"32","Wis.-Whitewater","805","1994","Irv Madsen","D-III","-",24,13,NA,0.649
-"33","Wis.-Whitewater","805","1993","Sarah Shillington","D-III","-",19,15,NA,0.559
-"34","Wis.-Whitewater","805","1992","Jo Lindoo","D-III","-",23,19,NA,0.548
-"35","Wis.-Whitewater","805","1991","Joyce Maudie","D-III","-",28,16,NA,0.636
-"36","Wis.-Whitewater","805","1990","Joyce Maudie","D-III","-",15,12,NA,0.556
-"37","Wis.-Whitewater","805","1989","","D-III","-",NA,NA,NA,NA
-"38","Wis.-Whitewater","805","1988","","D-III","-",NA,NA,NA,NA
-"39","Wis.-Whitewater","805","1987","","D-III","-",NA,NA,NA,NA
-"40","Wis.-Whitewater","805","1986","Irv Madsen","D-III","-",28,8,NA,0.778
-"41","Wis.-Whitewater","805","1985","Irv Madsen","D-III","-",24,10,NA,0.706
-"42","Wis.-Whitewater","805","1984","Irv Madsen","D-III","-",23,10,NA,0.697
-"43","Wis.-Whitewater","805","1983","Irv Madsen","D-III","-",17,12,NA,0.586
-"44","Wis.-Whitewater","805","1982","Irv Madsen","D-III","-",25,10,2,0.703
-"45","Wis.-Whitewater","805","1981","Jaynese Hiigel","D-III","-",13,11,1,0.54
-"46","Wis.-Whitewater","805","","","","",1123,495,8,0.693
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brenda Volk","WIAC","0-0-0",0
+"2","2024","Brenda Volk","WIAC","33-10-0",0.767
+"3","2023","Brenda Volk","WIAC","28-13-0",0.683
+"4","2022","Brenda Volk","WIAC","20-19-0",0.513
+"5","2021","Brenda Volk","WIAC","29-10-0",0.744
+"6","2020","Brenda Volk","WIAC","NA-NA-0",0
+"7","2019","Brenda Volk","WIAC","28-14-0",0.667
+"8","2018","Brenda Volk","WIAC","29-13-1",0.686
+"9","2017","Brenda Volk","WIAC","37-9-0",0.804
+"10","2016","Brenda Volk","WIAC","29-14-0",0.674
+"11","2015","Brenda Volk","WIAC","36-9-0",0.8
+"12","2014","Brenda Volk","WIAC","39-13-0",0.75
+"13","2013","Brenda Volk","WIAC","32-7-0",0.821
+"14","2012","Brenda Volk","WIAC","32-11-0",0.744
+"15","2011","Brenda Volk","WIAC","28-12-0",0.7
+"16","2010","Brenda Volk","WIAC","31-15-0",0.674
+"17","2009","Brenda Volk","WIAC","38-7-0",0.844
+"18","2008","Brenda Volk","WIAC","39-11-0",0.78
+"19","2007","Brenda Volk","WIAC","24-15-0",0.615
+"20","2006","Brenda Volk","WIAC","25-15-0",0.625
+"21","2005","Brenda Volk","WIAC","19-24-0",0.442
+"22","2004","Brenda Volk","WIAC","32-14-0",0.696
+"23","2003","Brenda Volk","WIAC","24-18-1",0.57
+"24","2002","Brenda Volk","WIAC","26-13-0",0.667
+"25","2001","Brenda Volk","-","25-14-3",0.631
+"26","1900","Brenda Volk","-","37-9-0",0.804
+"27","1999","Brenda Volk","-","41-7-0",0.854
+"28","1998","Irv Madsen","-","37-7-0",0.841
+"29","1997","Irv Madsen","-","30-8-0",0.789
+"30","1996","Irv Madsen","-","33-11-0",0.75
+"31","1995","Irv Madsen","-","23-17-0",0.575
+"32","1994","Irv Madsen","-","24-13-0",0.649
+"33","1993","Sarah Shillington","-","19-15-0",0.559
+"34","1992","Jo Lindoo","-","23-19-0",0.548
+"35","1991","Joyce Maudie","-","28-16-0",0.636
+"36","1990","Joyce Maudie","-","15-12-0",0.556
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","Irv Madsen","-","28-8-0",0.778
+"41","1985","Irv Madsen","-","24-10-0",0.706
+"42","1984","Irv Madsen","-","23-10-0",0.697
+"43","1983","Irv Madsen","-","17-12-0",0.586
+"44","1982","Irv Madsen","-","25-10-2",0.703
+"45","1981","Jaynese Hiigel","-","13-11-1",0.54

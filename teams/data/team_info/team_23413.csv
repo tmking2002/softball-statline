@@ -1,21 +1,20 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Trinity Washington","23413","2025","Beth Ratke","D-III","DIII Independent",0,0,0,0
-"2","Trinity Washington","23413","2024","Beth Ratke","D-III","DIII Independent",NA,NA,NA,0
-"3","Trinity Washington","23413","2023","Beth Ratke","D-III","DIII Independent",0,0,0,0
-"4","Trinity Washington","23413","2022","Beth Ratke","D-III","DIII Independent",0,0,0,0
-"5","Trinity Washington","23413","2021","Beth Ratke","D-III","DIII Independent",0,0,0,0
-"6","Trinity Washington","23413","2020","Beth Ratke","D-III","DIII Independent",0,4,0,0
-"7","Trinity Washington","23413","2019","Beth Ratke","D-III","DIII Independent",0,24,0,0
-"8","Trinity Washington","23413","2018","Regina Gibbons","D-III","DIII Independent",NA,24,NA,0
-"9","Trinity Washington","23413","2017","Regina Gibbons","D-III","-",1,23,0,0.042
-"10","Trinity Washington","23413","2016","Regina Gibbons","D-III","-",2,22,0,0.083
-"11","Trinity Washington","23413","2015","Regina Gibbons","D-III","Great South",0,20,0,0
-"12","Trinity Washington","23413","2014","Ed Williams","D-III","Great South",7,16,0,0.304
-"13","Trinity Washington","23413","2013","Ed Williams","D-III","Great South",0,22,0,0
-"14","Trinity Washington","23413","2012","","D-III","-",NA,NA,NA,NA
-"15","Trinity Washington","23413","2011","","D-III","-",NA,NA,NA,NA
-"16","Trinity Washington","23413","2010","","D-III","-",NA,NA,NA,NA
-"17","Trinity Washington","23413","2007","","D-III","AWCC",NA,NA,NA,NA
-"18","Trinity Washington","23413","2006","","D-III","AWCC",12,17,0,0.414
-"19","Trinity Washington","23413","2005","","D-III","AWCC",9,15,0,0.375
-"20","Trinity Washington","23413","","","","",31,187,0,0.142
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Beth Ratke","DIII Independent","0-0-0",0
+"2","2024","Beth Ratke","DIII Independent","NA-NA-0",0
+"3","2023","Beth Ratke","DIII Independent","0-0-0",0
+"4","2022","Beth Ratke","DIII Independent","0-0-0",0
+"5","2021","Beth Ratke","DIII Independent","0-0-0",0
+"6","2020","Beth Ratke","DIII Independent","0-4-0",0
+"7","2019","Beth Ratke","DIII Independent","0-24-0",0
+"8","2018","Regina Gibbons","DIII Independent","NA-24-0",0
+"9","2017","Regina Gibbons","-","1-23-0",0.042
+"10","2016","Regina Gibbons","-","2-22-0",0.083
+"11","2015","Regina Gibbons","Great South","0-20-0",0
+"12","2014","Ed Williams","Great South","7-16-0",0.304
+"13","2013","Ed Williams","Great South","0-22-0",0
+"14","2012","","-","NA-NA-0",NA
+"15","2011","","-","NA-NA-0",NA
+"16","2010","","-","NA-NA-0",NA
+"17","2007","","AWCC","NA-NA-0",NA
+"18","2006","","AWCC","12-17-0",0.414
+"19","2005","","AWCC","9-15-0",0.375

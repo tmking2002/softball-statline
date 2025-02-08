@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Evansville","219","2025","Mat Mundell","D-I","MVC",1,0,0,1
-"2","Evansville","219","2024","Mat Mundell","D-I","MVC",16,36,0,0.308
-"3","Evansville","219","2023","Mat Mundell","D-I","MVC",22,32,0,0.407
-"4","Evansville","219","2022","Mat Mundell","D-I","MVC",24,27,0,0.471
-"5","Evansville","219","2021","Mat Mundell","D-I","MVC",23,22,0,0.511
-"6","Evansville","219","2020","Mat Mundell","D-I","MVC",12,11,0,0.522
-"7","Evansville","219","2019","Mat Mundell","D-I","MVC",19,30,0,0.388
-"8","Evansville","219","2018","Mat Mundell","D-I","MVC",15,34,NA,0.306
-"9","Evansville","219","2017","Mat Mundell","D-I","MVC",20,33,0,0.377
-"10","Evansville","219","2016","Mat Mundell","D-I","MVC",24,26,0,0.48
-"11","Evansville","219","2015","Mat Mundell","D-I","MVC",10,45,0,0.182
-"12","Evansville","219","2014","Mark Redburn","D-I","MVC",19,32,0,0.373
-"13","Evansville","219","2013","Mark Redburn","D-I","MVC",23,30,0,0.434
-"14","Evansville","219","2012","Mark Redburn","D-I","MVC",18,37,0,0.327
-"15","Evansville","219","2011","Mark Redburn","D-I","MVC",12,42,0,0.222
-"16","Evansville","219","2010","Mark Redburn","D-I","MVC",18,34,0,0.346
-"17","Evansville","219","2009","Gwen Lewis","D-I","MVC",14,34,0,0.292
-"18","Evansville","219","2008","Gwen Lewis","D-I","MVC",25,21,0,0.543
-"19","Evansville","219","2007","Gwen Lewis","D-I","MVC",33,20,0,0.623
-"20","Evansville","219","2006","Gwen Lewis","D-I","MVC",24,26,0,0.48
-"21","Evansville","219","2005","Gwen Lewis","D-I","MVC",16,34,0,0.32
-"22","Evansville","219","2004","Gwen Lewis","D-I","MVC",40,20,0,0.667
-"23","Evansville","219","2003","Gwen Lewis","D-I","MVC",29,23,0,0.558
-"24","Evansville","219","2002","Gwen Lewis","D-I","MVC",34,27,0,0.557
-"25","Evansville","219","2001","Gwen Lewis","D-I","MVC",39,17,0,0.696
-"26","Evansville","219","1900","Gwen Lewis","D-I","MVC",37,21,1,0.636
-"27","Evansville","219","1999","Gwen Lewis","D-I","MVC",46,20,0,0.697
-"28","Evansville","219","1998","Gwen Lewis","D-I","-",34,23,NA,0.596
-"29","Evansville","219","1997","Gwen Lewis","D-I","MVC",30,24,0,0.556
-"30","Evansville","219","1996","Gwen Lewis","D-I","-",22,28,NA,0.44
-"31","Evansville","219","1995","Gwen Lewis","D-I","-",34,18,NA,0.654
-"32","Evansville","219","1994","Gwen Lewis","D-I","-",18,31,NA,0.367
-"33","Evansville","219","1993","Gwen Lewis","D-I","-",12,36,NA,0.25
-"34","Evansville","219","1992","Gwen Lewis","D-I","-",19,34,NA,0.358
-"35","Evansville","219","1991","Tammy Simmons","D-I","-",20,29,NA,0.408
-"36","Evansville","219","1990","Tammy Simmons","D-I","-",9,28,NA,0.243
-"37","Evansville","219","1989","Tammy Simmons","D-I","-",12,35,NA,0.255
-"38","Evansville","219","1988","","D-I","-",NA,NA,NA,NA
-"39","Evansville","219","1987","","D-I","-",NA,NA,NA,NA
-"40","Evansville","219","1986","","D-I","-",NA,NA,NA,NA
-"41","Evansville","219","1985","","D-I","-",NA,NA,NA,NA
-"42","Evansville","219","1984","","D-I","-",NA,NA,NA,NA
-"43","Evansville","219","1982","","D-I","-",NA,NA,NA,NA
-"44","Evansville","219","","","","",823,1020,1,0.447
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mat Mundell","MVC","1-0-0",1
+"2","2024","Mat Mundell","MVC","16-36-0",0.308
+"3","2023","Mat Mundell","MVC","22-32-0",0.407
+"4","2022","Mat Mundell","MVC","24-27-0",0.471
+"5","2021","Mat Mundell","MVC","23-22-0",0.511
+"6","2020","Mat Mundell","MVC","12-11-0",0.522
+"7","2019","Mat Mundell","MVC","19-30-0",0.388
+"8","2018","Mat Mundell","MVC","15-34-0",0.306
+"9","2017","Mat Mundell","MVC","20-33-0",0.377
+"10","2016","Mat Mundell","MVC","24-26-0",0.48
+"11","2015","Mat Mundell","MVC","10-45-0",0.182
+"12","2014","Mark Redburn","MVC","19-32-0",0.373
+"13","2013","Mark Redburn","MVC","23-30-0",0.434
+"14","2012","Mark Redburn","MVC","18-37-0",0.327
+"15","2011","Mark Redburn","MVC","12-42-0",0.222
+"16","2010","Mark Redburn","MVC","18-34-0",0.346
+"17","2009","Gwen Lewis","MVC","14-34-0",0.292
+"18","2008","Gwen Lewis","MVC","25-21-0",0.543
+"19","2007","Gwen Lewis","MVC","33-20-0",0.623
+"20","2006","Gwen Lewis","MVC","24-26-0",0.48
+"21","2005","Gwen Lewis","MVC","16-34-0",0.32
+"22","2004","Gwen Lewis","MVC","40-20-0",0.667
+"23","2003","Gwen Lewis","MVC","29-23-0",0.558
+"24","2002","Gwen Lewis","MVC","34-27-0",0.557
+"25","2001","Gwen Lewis","MVC","39-17-0",0.696
+"26","1900","Gwen Lewis","MVC","37-21-1",0.636
+"27","1999","Gwen Lewis","MVC","46-20-0",0.697
+"28","1998","Gwen Lewis","-","34-23-0",0.596
+"29","1997","Gwen Lewis","MVC","30-24-0",0.556
+"30","1996","Gwen Lewis","-","22-28-0",0.44
+"31","1995","Gwen Lewis","-","34-18-0",0.654
+"32","1994","Gwen Lewis","-","18-31-0",0.367
+"33","1993","Gwen Lewis","-","12-36-0",0.25
+"34","1992","Gwen Lewis","-","19-34-0",0.358
+"35","1991","Tammy Simmons","-","20-29-0",0.408
+"36","1990","Tammy Simmons","-","9-28-0",0.243
+"37","1989","Tammy Simmons","-","12-35-0",0.255
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Georgian Court","9004","2025","Mikayla Pourby","D-II","CACC",0,0,0,0
-"2","Georgian Court","9004","2024","Andrew Zeger","D-II","CACC",20,25,0,0.444
-"3","Georgian Court","9004","2023","Nicole Degenhardt","D-II","CACC",39,21,0,0.65
-"4","Georgian Court","9004","2022","Nicole Degenhardt","D-II","CACC",40,15,0,0.727
-"5","Georgian Court","9004","2021","Nicole Degenhardt","D-II","CACC",38,6,0,0.864
-"6","Georgian Court","9004","2020","Nicole Degenhardt","D-II","CACC",6,12,0,0.333
-"7","Georgian Court","9004","2019","Nicole Degenhardt","D-II","CACC",46,11,0,0.807
-"8","Georgian Court","9004","2018","Nicole Degenhardt","D-II","CACC",30,23,NA,0.566
-"9","Georgian Court","9004","2017","Nicole Degenhardt","D-II","CACC",14,30,0,0.318
-"10","Georgian Court","9004","2016","Nicole Degenhardt","D-II","CACC",7,39,0,0.152
-"11","Georgian Court","9004","2015","Angie Churchill","D-II","CACC",14,30,0,0.318
-"12","Georgian Court","9004","2014","Angie Churchill","D-II","CACC",33,24,0,0.579
-"13","Georgian Court","9004","2013","Mckewn Dannelly","D-II","CACC",31,27,0,0.534
-"14","Georgian Court","9004","2012","Mckewn Dannelly","D-II","CACC",34,21,0,0.618
-"15","Georgian Court","9004","2011","Freddy Flores","D-II","CACC",31,24,1,0.563
-"16","Georgian Court","9004","2010","Freddy Flores","D-II","CACC",39,19,0,0.672
-"17","Georgian Court","9004","2009","Jeffrey Franquet","D-II","CACC",40,17,0,0.702
-"18","Georgian Court","9004","2008","Jeffrey Franquet","D-II","CACC",39,16,0,0.709
-"19","Georgian Court","9004","2007","Jeffrey Franquet","D-II","CACC",29,24,0,0.547
-"20","Georgian Court","9004","2006","Len Glowzenski","D-II","CACC",29,17,0,0.63
-"21","Georgian Court","9004","2005","Len Glowzenski","D-II","CACC",28,16,0,0.636
-"22","Georgian Court","9004","2004","Len Glowzenski","D-II","CACC",25,15,0,0.625
-"23","Georgian Court","9004","2003","","","-",NA,NA,NA,NA
-"24","Georgian Court","9004","2002","","","-",NA,NA,NA,NA
-"25","Georgian Court","9004","","","","",612,432,1,0.586
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mikayla Pourby","CACC","0-0-0",0
+"2","2024","Andrew Zeger","CACC","20-25-0",0.444
+"3","2023","Nicole Degenhardt","CACC","39-21-0",0.65
+"4","2022","Nicole Degenhardt","CACC","40-15-0",0.727
+"5","2021","Nicole Degenhardt","CACC","38-6-0",0.864
+"6","2020","Nicole Degenhardt","CACC","6-12-0",0.333
+"7","2019","Nicole Degenhardt","CACC","46-11-0",0.807
+"8","2018","Nicole Degenhardt","CACC","30-23-0",0.566
+"9","2017","Nicole Degenhardt","CACC","14-30-0",0.318
+"10","2016","Nicole Degenhardt","CACC","7-39-0",0.152
+"11","2015","Angie Churchill","CACC","14-30-0",0.318
+"12","2014","Angie Churchill","CACC","33-24-0",0.579
+"13","2013","Mckewn Dannelly","CACC","31-27-0",0.534
+"14","2012","Mckewn Dannelly","CACC","34-21-0",0.618
+"15","2011","Freddy Flores","CACC","31-24-1",0.563
+"16","2010","Freddy Flores","CACC","39-19-0",0.672
+"17","2009","Jeffrey Franquet","CACC","40-17-0",0.702
+"18","2008","Jeffrey Franquet","CACC","39-16-0",0.709
+"19","2007","Jeffrey Franquet","CACC","29-24-0",0.547
+"20","2006","Len Glowzenski","CACC","29-17-0",0.63
+"21","2005","Len Glowzenski","CACC","28-16-0",0.636
+"22","2004","Len Glowzenski","CACC","25-15-0",0.625
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

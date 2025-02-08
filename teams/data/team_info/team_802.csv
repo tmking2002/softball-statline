@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wis.-Stevens Point","802","2025","Ryan Konitzer","D-III","WIAC",0,0,0,0
-"2","Wis.-Stevens Point","802","2024","Ryan Konitzer","D-III","WIAC",32,9,0,0.78
-"3","Wis.-Stevens Point","802","2023","Ryan Konitzer","D-III","WIAC",28,13,0,0.683
-"4","Wis.-Stevens Point","802","2022","Ryan Konitzer","D-III","WIAC",19,17,0,0.528
-"5","Wis.-Stevens Point","802","2021","Ryan Konitzer","D-III","WIAC",23,16,0,0.59
-"6","Wis.-Stevens Point","802","2020","Ryan Konitzer","D-III","WIAC",8,4,0,0.667
-"7","Wis.-Stevens Point","802","2019","Ryan Konitzer","D-III","WIAC",17,20,1,0.461
-"8","Wis.-Stevens Point","802","2018","Ryan Konitzer","D-III","WIAC",12,25,NA,0.324
-"9","Wis.-Stevens Point","802","2017","Ashley Steltenpohl","D-III","WIAC",12,24,0,0.333
-"10","Wis.-Stevens Point","802","2016","Ashley Steltenpohl","D-III","WIAC",14,22,0,0.389
-"11","Wis.-Stevens Point","802","2015","Jill Millis","D-III","WIAC",15,24,0,0.385
-"12","Wis.-Stevens Point","802","2014","Jill Millis","D-III","WIAC",11,22,0,0.333
-"13","Wis.-Stevens Point","802","2013","Jill Millis","D-III","WIAC",19,17,0,0.528
-"14","Wis.-Stevens Point","802","2012","Jill Millis","D-III","WIAC",14,24,0,0.368
-"15","Wis.-Stevens Point","802","2011","Tom Henke","D-III","WIAC",23,15,0,0.605
-"16","Wis.-Stevens Point","802","2010","Tom Henke","D-III","WIAC",22,18,0,0.55
-"17","Wis.-Stevens Point","802","2009","Tom Henke","D-III","WIAC",21,20,0,0.512
-"18","Wis.-Stevens Point","802","2008","Ann Munzenmaier","D-III","WIAC",24,11,0,0.686
-"19","Wis.-Stevens Point","802","2007","Ann Munzenmaier","D-III","WIAC",33,10,0,0.767
-"20","Wis.-Stevens Point","802","2006","Ann Munzenmaier","D-III","WIAC",24,16,1,0.598
-"21","Wis.-Stevens Point","802","2005","Ann Munzenmaier","D-III","WIAC",26,15,0,0.634
-"22","Wis.-Stevens Point","802","2004","Kelly Erickson","D-III","WIAC",20,21,0,0.488
-"23","Wis.-Stevens Point","802","2003","Paul Caufield","D-III","WIAC",21,17,0,0.553
-"24","Wis.-Stevens Point","802","2002","Paul Caufield","D-III","WIAC",21,12,0,0.636
-"25","Wis.-Stevens Point","802","2001","Ali Brian","D-III","-",25,13,0,0.658
-"26","Wis.-Stevens Point","802","1900","Kelli Harms","D-III","-",27,13,1,0.671
-"27","Wis.-Stevens Point","802","1999","Dean Shuda","D-III","-",38,13,NA,0.745
-"28","Wis.-Stevens Point","802","1998","Dean Shuda","D-III","-",43,15,NA,0.741
-"29","Wis.-Stevens Point","802","1997","Dean Shuda","D-III","-",21,14,NA,0.6
-"30","Wis.-Stevens Point","802","1996","Dean Shuda","D-III","-",33,12,NA,0.733
-"31","Wis.-Stevens Point","802","1995","Dean Shuda","D-III","-",30,15,NA,0.667
-"32","Wis.-Stevens Point","802","1994","Dean Shuda","D-III","-",27,14,NA,0.659
-"33","Wis.-Stevens Point","802","1993","Cherith Bevers","D-III","-",13,13,0,0.5
-"34","Wis.-Stevens Point","802","1992","Sharon Stellwagen","D-III","-",5,22,NA,0.185
-"35","Wis.-Stevens Point","802","1991","Sharon Stellwagen","D-III","-",10,23,NA,0.303
-"36","Wis.-Stevens Point","802","1990","","D-III","-",NA,NA,NA,NA
-"37","Wis.-Stevens Point","802","1989","","D-III","-",NA,NA,NA,NA
-"38","Wis.-Stevens Point","802","1988","","D-III","-",NA,NA,NA,NA
-"39","Wis.-Stevens Point","802","1987","","D-III","-",NA,NA,NA,NA
-"40","Wis.-Stevens Point","802","1986","","D-III","-",NA,NA,NA,NA
-"41","Wis.-Stevens Point","802","1983","","D-III","-",NA,NA,NA,NA
-"42","Wis.-Stevens Point","802","1982","","D-III","-",NA,NA,NA,NA
-"43","Wis.-Stevens Point","802","1981","","","-",NA,NA,NA,NA
-"44","Wis.-Stevens Point","802","","","","",731,559,3,0.567
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ryan Konitzer","WIAC","0-0-0",0
+"2","2024","Ryan Konitzer","WIAC","32-9-0",0.78
+"3","2023","Ryan Konitzer","WIAC","28-13-0",0.683
+"4","2022","Ryan Konitzer","WIAC","19-17-0",0.528
+"5","2021","Ryan Konitzer","WIAC","23-16-0",0.59
+"6","2020","Ryan Konitzer","WIAC","8-4-0",0.667
+"7","2019","Ryan Konitzer","WIAC","17-20-1",0.461
+"8","2018","Ryan Konitzer","WIAC","12-25-0",0.324
+"9","2017","Ashley Steltenpohl","WIAC","12-24-0",0.333
+"10","2016","Ashley Steltenpohl","WIAC","14-22-0",0.389
+"11","2015","Jill Millis","WIAC","15-24-0",0.385
+"12","2014","Jill Millis","WIAC","11-22-0",0.333
+"13","2013","Jill Millis","WIAC","19-17-0",0.528
+"14","2012","Jill Millis","WIAC","14-24-0",0.368
+"15","2011","Tom Henke","WIAC","23-15-0",0.605
+"16","2010","Tom Henke","WIAC","22-18-0",0.55
+"17","2009","Tom Henke","WIAC","21-20-0",0.512
+"18","2008","Ann Munzenmaier","WIAC","24-11-0",0.686
+"19","2007","Ann Munzenmaier","WIAC","33-10-0",0.767
+"20","2006","Ann Munzenmaier","WIAC","24-16-1",0.598
+"21","2005","Ann Munzenmaier","WIAC","26-15-0",0.634
+"22","2004","Kelly Erickson","WIAC","20-21-0",0.488
+"23","2003","Paul Caufield","WIAC","21-17-0",0.553
+"24","2002","Paul Caufield","WIAC","21-12-0",0.636
+"25","2001","Ali Brian","-","25-13-0",0.658
+"26","1900","Kelli Harms","-","27-13-1",0.671
+"27","1999","Dean Shuda","-","38-13-0",0.745
+"28","1998","Dean Shuda","-","43-15-0",0.741
+"29","1997","Dean Shuda","-","21-14-0",0.6
+"30","1996","Dean Shuda","-","33-12-0",0.733
+"31","1995","Dean Shuda","-","30-15-0",0.667
+"32","1994","Dean Shuda","-","27-14-0",0.659
+"33","1993","Cherith Bevers","-","13-13-0",0.5
+"34","1992","Sharon Stellwagen","-","5-22-0",0.185
+"35","1991","Sharon Stellwagen","-","10-23-0",0.303
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA
+"42","1982","","-","NA-NA-0",NA
+"43","1981","","-","NA-NA-0",NA

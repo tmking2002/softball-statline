@@ -1,27 +1,26 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bethel (IN)","500485","2017","",NA,"-",NA,NA,NA,NA
-"2","Bethel (IN)","500485","2016","",NA,"-",NA,NA,NA,NA
-"3","Bethel (IN)","500485","2012","",NA,"-",NA,NA,NA,NA
-"4","Bethel (IN)","500485","2011","",NA,"-",NA,NA,NA,NA
-"5","Bethel (IN)","500485","2010","",NA,"-",NA,NA,NA,NA
-"6","Bethel (IN)","500485","2009","",NA,"-",NA,NA,NA,NA
-"7","Bethel (IN)","500485","2008","",NA,"-",NA,NA,NA,NA
-"8","Bethel (IN)","500485","2007","",NA,"-",NA,NA,NA,NA
-"9","Bethel (IN)","500485","2006","",NA,"-",NA,NA,NA,NA
-"10","Bethel (IN)","500485","2005","",NA,"-",NA,NA,NA,NA
-"11","Bethel (IN)","500485","2004","",NA,"-",NA,NA,NA,NA
-"12","Bethel (IN)","500485","2003","",NA,"-",NA,NA,NA,NA
-"13","Bethel (IN)","500485","2002","",NA,"-",NA,NA,NA,NA
-"14","Bethel (IN)","500485","2001","",NA,"-",NA,NA,NA,NA
-"15","Bethel (IN)","500485","1900","Drew Peterson",NA,"-",37,14,NA,0.725
-"16","Bethel (IN)","500485","1999","Drew Peterson",NA,"-",38,13,NA,0.745
-"17","Bethel (IN)","500485","1998","Drew Peterson",NA,"-",20,20,NA,0.5
-"18","Bethel (IN)","500485","1997","Drew Peterson",NA,"-",24,18,1,0.57
-"19","Bethel (IN)","500485","1996","Drew Peterson",NA,"-",34,15,NA,0.694
-"20","Bethel (IN)","500485","1995","Drew Peterson",NA,"-",45,10,NA,0.818
-"21","Bethel (IN)","500485","1994","Drew Peterson",NA,"-",29,6,1,0.819
-"22","Bethel (IN)","500485","1993","Drew Peterson",NA,"-",30,11,NA,0.732
-"23","Bethel (IN)","500485","1992","Drew Peterson",NA,"-",21,18,NA,0.538
-"24","Bethel (IN)","500485","1991","Drew Peterson",NA,"-",5,25,NA,0.167
-"25","Bethel (IN)","500485","1990","",NA,"-",NA,NA,NA,NA
-"26","Bethel (IN)","500485","","",NA,"",283,150,2,0.653
+"","season","head_coach","conference","record","win_perc"
+"1","2017","","-","NA-NA-0",NA
+"2","2016","","-","NA-NA-0",NA
+"3","2012","","-","NA-NA-0",NA
+"4","2011","","-","NA-NA-0",NA
+"5","2010","","-","NA-NA-0",NA
+"6","2009","","-","NA-NA-0",NA
+"7","2008","","-","NA-NA-0",NA
+"8","2007","","-","NA-NA-0",NA
+"9","2006","","-","NA-NA-0",NA
+"10","2005","","-","NA-NA-0",NA
+"11","2004","","-","NA-NA-0",NA
+"12","2003","","-","NA-NA-0",NA
+"13","2002","","-","NA-NA-0",NA
+"14","2001","","-","NA-NA-0",NA
+"15","1900","Drew Peterson","-","37-14-0",0.725
+"16","1999","Drew Peterson","-","38-13-0",0.745
+"17","1998","Drew Peterson","-","20-20-0",0.5
+"18","1997","Drew Peterson","-","24-18-1",0.57
+"19","1996","Drew Peterson","-","34-15-0",0.694
+"20","1995","Drew Peterson","-","45-10-0",0.818
+"21","1994","Drew Peterson","-","29-6-1",0.819
+"22","1993","Drew Peterson","-","30-11-0",0.732
+"23","1992","Drew Peterson","-","21-18-0",0.538
+"24","1991","Drew Peterson","-","5-25-0",0.167
+"25","1990","","-","NA-NA-0",NA

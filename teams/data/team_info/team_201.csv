@@ -1,54 +1,53 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Eastern Ill.","201","2025","Dan Paulson (0-0)Kristi Paulson (0-0)","D-I","OVC",0,0,0,0
-"2","Eastern Ill.","201","2024","Tara Archibald","D-I","OVC",40,17,0,0.702
-"3","Eastern Ill.","201","2023","Tara Archibald","D-I","OVC",34,21,0,0.618
-"4","Eastern Ill.","201","2022","Tara Archibald","D-I","OVC",25,30,0,0.455
-"5","Eastern Ill.","201","2021","Tara Archibald","D-I","OVC",25,19,0,0.568
-"6","Eastern Ill.","201","2020","Tara Archibald","D-I","OVC",11,10,0,0.524
-"7","Eastern Ill.","201","2019","Kim Schuette","D-I","OVC",16,39,0,0.291
-"8","Eastern Ill.","201","2018","Kim Schuette","D-I","OVC",36,20,NA,0.643
-"9","Eastern Ill.","201","2017","Kim Schuette","D-I","OVC",28,21,0,0.571
-"10","Eastern Ill.","201","2016","Angie Nicholson","D-I","OVC",25,28,0,0.472
-"11","Eastern Ill.","201","2015","Angie Nicholson","D-I","OVC",21,27,0,0.438
-"12","Eastern Ill.","201","2014","Angie Nicholson","D-I","OVC",38,17,0,0.691
-"13","Eastern Ill.","201","2013","Kim Schuette","D-I","OVC",36,14,0,0.72
-"14","Eastern Ill.","201","2012","Kim Schuette","D-I","OVC",28,26,0,0.519
-"15","Eastern Ill.","201","2011","Kim Schuette","D-I","OVC",40,12,0,0.769
-"16","Eastern Ill.","201","2010","Kim Schuette","D-I","OVC",24,27,0,0.471
-"17","Eastern Ill.","201","2009","Kim Schuette","D-I","OVC",25,29,0,0.463
-"18","Eastern Ill.","201","2008","Kim Schuette","D-I","OVC",20,26,0,0.435
-"19","Eastern Ill.","201","2007","Kim Schuette","D-I","OVC",23,31,0,0.426
-"20","Eastern Ill.","201","2006","Kim Schuette","D-I","OVC",36,26,1,0.579
-"21","Eastern Ill.","201","2005","Lloydene Searle","D-I","OVC",15,32,0,0.319
-"22","Eastern Ill.","201","2004","Lloydene Searle","D-I","OVC",21,35,0,0.375
-"23","Eastern Ill.","201","2003","Lloydene Searle","D-I","OVC",14,34,0,0.292
-"24","Eastern Ill.","201","2002","Lloydene Searle","D-I","OVC",20,24,0,0.455
-"25","Eastern Ill.","201","2001","Lloydene Searle","D-I","OVC",15,34,0,0.306
-"26","Eastern Ill.","201","1900","Lloydene Searle","D-I","OVC",27,36,0,0.429
-"27","Eastern Ill.","201","1999","Lloydene Searle","D-I","OVC",26,29,0,0.473
-"28","Eastern Ill.","201","1998","Lloydene Searle","D-I","-",26,21,NA,0.553
-"29","Eastern Ill.","201","1997","Stephanie Fox","D-I","OVC",38,25,0,0.603
-"30","Eastern Ill.","201","1996","Stephanie Fox","D-I","-",24,23,NA,0.511
-"31","Eastern Ill.","201","1995","Beth Perine","D-I","-",29,26,NA,0.527
-"32","Eastern Ill.","201","1994","Beth Perine","D-I","-",24,28,NA,0.462
-"33","Eastern Ill.","201","1993","Beth Perine","D-I","-",21,26,NA,0.447
-"34","Eastern Ill.","201","1992","Beth Perine","D-I","-",20,24,NA,0.455
-"35","Eastern Ill.","201","1991","Kathy Arendsen","D-I","-",28,20,NA,0.583
-"36","Eastern Ill.","201","1990","Kathy Arendsen","D-I","-",18,16,NA,0.529
-"37","Eastern Ill.","201","1989","Janet Marquis","D-I","-",12,23,0,0.343
-"38","Eastern Ill.","201","1988","Janet Marquis","D-I","-",29,17,0,0.63
-"39","Eastern Ill.","201","1987","Janet Marquis","D-I","-",25,19,1,0.567
-"40","Eastern Ill.","201","1986","Janet Marquis","D-I","-",30,15,1,0.663
-"41","Eastern Ill.","201","1985","Deanna D'Abbraccio","D-I","-",25,22,1,0.531
-"42","Eastern Ill.","201","1984","Deanna D'Abbraccio","D-I","-",14,21,1,0.403
-"43","Eastern Ill.","201","1983","Deanna D'Abbraccio","D-I","-",20,10,0,0.667
-"44","Eastern Ill.","201","1982","Deanna D'Abbraccio","D-II","-",45,8,0,0.849
-"45","Eastern Ill.","201","1981","Deanna D'Abbraccio","D-II","-",22,11,0,0.667
-"46","Eastern Ill.","201","1980","Lynette Nevins","D-II","-",16,22,0,0.421
-"47","Eastern Ill.","201","1979","Melinda Fischer","D-II","-",23,12,0,0.657
-"48","Eastern Ill.","201","1978","Melinda Fischer","D-II","-",18,13,0,0.581
-"49","Eastern Ill.","201","1977","Helen Riley","D-II","-",14,13,0,0.519
-"50","Eastern Ill.","201","1976","Helen Riley","D-II","-",11,5,0,0.688
-"51","Eastern Ill.","201","1975","Helen Riley","D-II","-",10,5,0,0.667
-"52","Eastern Ill.","201","1974","Helen Riley","D-II","-",10,0,0,1
-"53","Eastern Ill.","201","","","","",1221,1089,5,0.529
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Dan Paulson (0-0)Kristi Paulson (0-0)","OVC","0-0-0",0
+"2","2024","Tara Archibald","OVC","40-17-0",0.702
+"3","2023","Tara Archibald","OVC","34-21-0",0.618
+"4","2022","Tara Archibald","OVC","25-30-0",0.455
+"5","2021","Tara Archibald","OVC","25-19-0",0.568
+"6","2020","Tara Archibald","OVC","11-10-0",0.524
+"7","2019","Kim Schuette","OVC","16-39-0",0.291
+"8","2018","Kim Schuette","OVC","36-20-0",0.643
+"9","2017","Kim Schuette","OVC","28-21-0",0.571
+"10","2016","Angie Nicholson","OVC","25-28-0",0.472
+"11","2015","Angie Nicholson","OVC","21-27-0",0.438
+"12","2014","Angie Nicholson","OVC","38-17-0",0.691
+"13","2013","Kim Schuette","OVC","36-14-0",0.72
+"14","2012","Kim Schuette","OVC","28-26-0",0.519
+"15","2011","Kim Schuette","OVC","40-12-0",0.769
+"16","2010","Kim Schuette","OVC","24-27-0",0.471
+"17","2009","Kim Schuette","OVC","25-29-0",0.463
+"18","2008","Kim Schuette","OVC","20-26-0",0.435
+"19","2007","Kim Schuette","OVC","23-31-0",0.426
+"20","2006","Kim Schuette","OVC","36-26-1",0.579
+"21","2005","Lloydene Searle","OVC","15-32-0",0.319
+"22","2004","Lloydene Searle","OVC","21-35-0",0.375
+"23","2003","Lloydene Searle","OVC","14-34-0",0.292
+"24","2002","Lloydene Searle","OVC","20-24-0",0.455
+"25","2001","Lloydene Searle","OVC","15-34-0",0.306
+"26","1900","Lloydene Searle","OVC","27-36-0",0.429
+"27","1999","Lloydene Searle","OVC","26-29-0",0.473
+"28","1998","Lloydene Searle","-","26-21-0",0.553
+"29","1997","Stephanie Fox","OVC","38-25-0",0.603
+"30","1996","Stephanie Fox","-","24-23-0",0.511
+"31","1995","Beth Perine","-","29-26-0",0.527
+"32","1994","Beth Perine","-","24-28-0",0.462
+"33","1993","Beth Perine","-","21-26-0",0.447
+"34","1992","Beth Perine","-","20-24-0",0.455
+"35","1991","Kathy Arendsen","-","28-20-0",0.583
+"36","1990","Kathy Arendsen","-","18-16-0",0.529
+"37","1989","Janet Marquis","-","12-23-0",0.343
+"38","1988","Janet Marquis","-","29-17-0",0.63
+"39","1987","Janet Marquis","-","25-19-1",0.567
+"40","1986","Janet Marquis","-","30-15-1",0.663
+"41","1985","Deanna D'Abbraccio","-","25-22-1",0.531
+"42","1984","Deanna D'Abbraccio","-","14-21-1",0.403
+"43","1983","Deanna D'Abbraccio","-","20-10-0",0.667
+"44","1982","Deanna D'Abbraccio","-","45-8-0",0.849
+"45","1981","Deanna D'Abbraccio","-","22-11-0",0.667
+"46","1980","Lynette Nevins","-","16-22-0",0.421
+"47","1979","Melinda Fischer","-","23-12-0",0.657
+"48","1978","Melinda Fischer","-","18-13-0",0.581
+"49","1977","Helen Riley","-","14-13-0",0.519
+"50","1976","Helen Riley","-","11-5-0",0.688
+"51","1975","Helen Riley","-","10-5-0",0.667
+"52","1974","Helen Riley","-","10-0-0",1

@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Linfield","1179","2025","Jackson Vaughan","D-III","NWC",0,0,0,0
-"2","Linfield","1179","2024","Jackson Vaughan","D-III","NWC",50,4,0,0.926
-"3","Linfield","1179","2023","Jackson Vaughan","D-III","NWC",46,6,0,0.885
-"4","Linfield","1179","2022","Jackson Vaughan","D-III","NWC",38,9,0,0.809
-"5","Linfield","1179","2021","Jackson Vaughan","D-III","NWC",38,9,0,0.809
-"6","Linfield","1179","2020","Jackson Vaughan","D-III","NWC",12,2,0,0.857
-"7","Linfield","1179","2019","Jackson Vaughan","D-III","NWC",39,8,1,0.823
-"8","Linfield","1179","2018","Jackson Vaughan","D-III","NWC",39,10,NA,0.796
-"9","Linfield","1179","2017","Jackson Vaughan","D-III","NWC",32,10,0,0.762
-"10","Linfield","1179","2016","Jackson Vaughan","D-III","NWC",32,16,0,0.667
-"11","Linfield","1179","2015","Jackson Vaughan","D-III","NWC",39,15,0,0.722
-"12","Linfield","1179","2014","Jackson Vaughan","D-III","NWC",34,9,0,0.791
-"13","Linfield","1179","2013","Jackson Vaughan","D-III","NWC",36,8,0,0.818
-"14","Linfield","1179","2012","Jackson Vaughan","D-III","NWC",46,7,0,0.868
-"15","Linfield","1179","2011","Jackson Vaughan","D-III","NWC",51,3,0,0.944
-"16","Linfield","1179","2010","Jackson Vaughan","D-III","NWC",42,7,0,0.857
-"17","Linfield","1179","2009","Jackson Vaughan","D-III","NWC",39,6,0,0.867
-"18","Linfield","1179","2008","Jackson Vaughan","D-III","NWC",38,6,0,0.864
-"19","Linfield","1179","2007","Jackson Vaughan","D-III","NWC",45,7,0,0.865
-"20","Linfield","1179","2006","Jackson Vaughan","D-III","NWC",37,11,0,0.771
-"21","Linfield","1179","2005","Jackson Vaughan","D-III","NWC",31,9,1,0.768
-"22","Linfield","1179","2004","Jackson Vaughan","D-III","NWC",37,9,0,0.804
-"23","Linfield","1179","2003","Jackson Vaughan","D-III","NWC",27,11,0,0.711
-"24","Linfield","1179","2002","Jackson Vaughan","D-III","NWC",21,17,0,0.553
-"25","Linfield","1179","2001","Laura Kenow","D-III","-",24,17,NA,0.585
-"26","Linfield","1179","1900","Laura Kenow","D-III","-",24,10,NA,0.706
-"27","Linfield","1179","1999","Laura Kenow","D-III","-",20,17,NA,0.541
-"28","Linfield","1179","1998","","D-III","-",NA,NA,NA,NA
-"29","Linfield","1179","1997","","D-III","-",NA,NA,NA,NA
-"30","Linfield","1179","1996","","D-III","-",NA,NA,NA,NA
-"31","Linfield","1179","1995","","D-III","-",NA,NA,NA,NA
-"32","Linfield","1179","1994","","D-III","-",NA,NA,NA,NA
-"33","Linfield","1179","1993","","D-III","-",NA,NA,NA,NA
-"34","Linfield","1179","1992","","D-III","-",NA,NA,NA,NA
-"35","Linfield","1179","1991","","D-III","-",NA,NA,NA,NA
-"36","Linfield","1179","1990","","D-III","-",NA,NA,NA,NA
-"37","Linfield","1179","1989","","","-",NA,NA,NA,NA
-"38","Linfield","1179","1988","","","-",NA,NA,NA,NA
-"39","Linfield","1179","1987","","","-",NA,NA,NA,NA
-"40","Linfield","1179","","","","",917,243,2,0.79
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jackson Vaughan","NWC","0-0-0",0
+"2","2024","Jackson Vaughan","NWC","50-4-0",0.926
+"3","2023","Jackson Vaughan","NWC","46-6-0",0.885
+"4","2022","Jackson Vaughan","NWC","38-9-0",0.809
+"5","2021","Jackson Vaughan","NWC","38-9-0",0.809
+"6","2020","Jackson Vaughan","NWC","12-2-0",0.857
+"7","2019","Jackson Vaughan","NWC","39-8-1",0.823
+"8","2018","Jackson Vaughan","NWC","39-10-0",0.796
+"9","2017","Jackson Vaughan","NWC","32-10-0",0.762
+"10","2016","Jackson Vaughan","NWC","32-16-0",0.667
+"11","2015","Jackson Vaughan","NWC","39-15-0",0.722
+"12","2014","Jackson Vaughan","NWC","34-9-0",0.791
+"13","2013","Jackson Vaughan","NWC","36-8-0",0.818
+"14","2012","Jackson Vaughan","NWC","46-7-0",0.868
+"15","2011","Jackson Vaughan","NWC","51-3-0",0.944
+"16","2010","Jackson Vaughan","NWC","42-7-0",0.857
+"17","2009","Jackson Vaughan","NWC","39-6-0",0.867
+"18","2008","Jackson Vaughan","NWC","38-6-0",0.864
+"19","2007","Jackson Vaughan","NWC","45-7-0",0.865
+"20","2006","Jackson Vaughan","NWC","37-11-0",0.771
+"21","2005","Jackson Vaughan","NWC","31-9-1",0.768
+"22","2004","Jackson Vaughan","NWC","37-9-0",0.804
+"23","2003","Jackson Vaughan","NWC","27-11-0",0.711
+"24","2002","Jackson Vaughan","NWC","21-17-0",0.553
+"25","2001","Laura Kenow","-","24-17-0",0.585
+"26","1900","Laura Kenow","-","24-10-0",0.706
+"27","1999","Laura Kenow","-","20-17-0",0.541
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

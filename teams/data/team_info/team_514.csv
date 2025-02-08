@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Oakland","514","2025","Chris Stelma","D-I","Horizon",0,0,0,0
-"2","Oakland","514","2024","Sam Henderson","D-I","Horizon",25,19,0,0.568
-"3","Oakland","514","2023","Lauren Karn","D-I","Horizon",21,21,0,0.5
-"4","Oakland","514","2022","Lauren Karn","D-I","Horizon",26,17,0,0.605
-"5","Oakland","514","2021","Lauren Karn","D-I","Horizon",26,16,0,0.619
-"6","Oakland","514","2020","Lauren Karn","D-I","Horizon",7,11,0,0.389
-"7","Oakland","514","2019","Lauren Karn","D-I","Horizon",18,33,0,0.353
-"8","Oakland","514","2018","Lauren Karn","D-I","Horizon",23,27,NA,0.46
-"9","Oakland","514","2017","Connie Miner","D-I","Horizon",20,26,0,0.435
-"10","Oakland","514","2016","Connie Miner","D-I","Horizon",13,31,0,0.295
-"11","Oakland","514","2015","Connie Miner","D-I","Horizon",27,24,0,0.529
-"12","Oakland","514","2014","Connie Miner","D-I","Horizon",16,23,0,0.41
-"13","Oakland","514","2013","Connie Miner","D-I","Summit League",7,23,1,0.242
-"14","Oakland","514","2012","LaDonia Hughes","D-I","Summit League",8,38,0,0.174
-"15","Oakland","514","2011","LaDonia Hughes","D-I","Summit League",17,29,0,0.37
-"16","Oakland","514","2010","Glenn MacDonald","D-I","Summit League",17,37,0,0.315
-"17","Oakland","514","2009","Glenn MacDonald","D-I","Summit League",24,27,0,0.471
-"18","Oakland","514","2008","Glenn MacDonald","D-I","Summit League",15,28,0,0.349
-"19","Oakland","514","2007","Glenn MacDonald","D-I","Summit League",21,36,0,0.368
-"20","Oakland","514","2006","Glenn MacDonald","D-I","Summit League",28,31,0,0.475
-"21","Oakland","514","2005","Mike Tomlinson","D-I","Summit League",12,41,0,0.226
-"22","Oakland","514","2004","Mike Tomlinson","D-I","Summit League",11,42,0,0.208
-"23","Oakland","514","2003","Steve Ogg","D-I","Summit League",34,26,1,0.566
-"24","Oakland","514","2002","Steve Ogg","D-I","Summit League",26,38,1,0.408
-"25","Oakland","514","2001","Steve Ogg","D-I","Summit League",25,29,0,0.463
-"26","Oakland","514","1900","Steve Ogg","D-I","Summit League",17,31,1,0.357
-"27","Oakland","514","1999","","D-I","-",NA,NA,NA,NA
-"28","Oakland","514","1998","","D-I","-",NA,NA,NA,NA
-"29","Oakland","514","1997","","D-I","-",NA,NA,NA,NA
-"30","Oakland","514","1996","","D-I","-",NA,NA,NA,NA
-"31","Oakland","514","1995","","D-I","-",NA,NA,NA,NA
-"32","Oakland","514","1994","","D-I","-",NA,NA,NA,NA
-"33","Oakland","514","1993","","D-I","-",NA,NA,NA,NA
-"34","Oakland","514","1992","","D-I","-",NA,NA,NA,NA
-"35","Oakland","514","1991","","D-I","-",NA,NA,NA,NA
-"36","Oakland","514","1990","","D-I","-",NA,NA,NA,NA
-"37","Oakland","514","","","","",484,704,4,0.408
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Chris Stelma","Horizon","0-0-0",0
+"2","2024","Sam Henderson","Horizon","25-19-0",0.568
+"3","2023","Lauren Karn","Horizon","21-21-0",0.5
+"4","2022","Lauren Karn","Horizon","26-17-0",0.605
+"5","2021","Lauren Karn","Horizon","26-16-0",0.619
+"6","2020","Lauren Karn","Horizon","7-11-0",0.389
+"7","2019","Lauren Karn","Horizon","18-33-0",0.353
+"8","2018","Lauren Karn","Horizon","23-27-0",0.46
+"9","2017","Connie Miner","Horizon","20-26-0",0.435
+"10","2016","Connie Miner","Horizon","13-31-0",0.295
+"11","2015","Connie Miner","Horizon","27-24-0",0.529
+"12","2014","Connie Miner","Horizon","16-23-0",0.41
+"13","2013","Connie Miner","Summit League","7-23-1",0.242
+"14","2012","LaDonia Hughes","Summit League","8-38-0",0.174
+"15","2011","LaDonia Hughes","Summit League","17-29-0",0.37
+"16","2010","Glenn MacDonald","Summit League","17-37-0",0.315
+"17","2009","Glenn MacDonald","Summit League","24-27-0",0.471
+"18","2008","Glenn MacDonald","Summit League","15-28-0",0.349
+"19","2007","Glenn MacDonald","Summit League","21-36-0",0.368
+"20","2006","Glenn MacDonald","Summit League","28-31-0",0.475
+"21","2005","Mike Tomlinson","Summit League","12-41-0",0.226
+"22","2004","Mike Tomlinson","Summit League","11-42-0",0.208
+"23","2003","Steve Ogg","Summit League","34-26-1",0.566
+"24","2002","Steve Ogg","Summit League","26-38-1",0.408
+"25","2001","Steve Ogg","Summit League","25-29-0",0.463
+"26","1900","Steve Ogg","Summit League","17-31-1",0.357
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

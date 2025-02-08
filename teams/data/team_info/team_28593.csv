@@ -1,25 +1,24 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Birmingham-So.","28593","2024","Megan Curry","D-III","SAA",24,17,0,0.585
-"2","Birmingham-So.","28593","2023","Amanda Locke","D-III","SAA",31,9,0,0.775
-"3","Birmingham-So.","28593","2022","Amanda Locke","D-III","SAA",32,8,0,0.8
-"4","Birmingham-So.","28593","2021","Kimball Cassady","D-III","SAA",33,8,0,0.805
-"5","Birmingham-So.","28593","2020","Kimball Cassady","D-III","SAA",14,4,0,0.778
-"6","Birmingham-So.","28593","2019","Kimball Cassady","D-III","SAA",35,7,0,0.833
-"7","Birmingham-So.","28593","2018","Kimball Cassady","D-III","SAA",28,15,NA,0.651
-"8","Birmingham-So.","28593","2017","Kimball Cassady","D-III","SAA",22,18,0,0.55
-"9","Birmingham-So.","28593","2016","Kimball Cassady","D-III","SAA",37,10,0,0.787
-"10","Birmingham-So.","28593","2015","Kimball Cassady","D-III","SAA",32,8,1,0.793
-"11","Birmingham-So.","28593","2014","Kimball Cassady","D-III","SAA",29,18,0,0.617
-"12","Birmingham-So.","28593","2013","Kimball Cassady","D-III","SAA",28,18,0,0.609
-"13","Birmingham-So.","28593","2012","Kimball Cassady","D-III","SCAC",36,11,0,0.766
-"14","Birmingham-So.","28593","2011","Kimball Cassady","D-III","SCAC",21,9,0,0.7
-"15","Birmingham-So.","28593","2010","Stephanie VanBrakle Prothro","D-III","SCAC",25,9,0,0.735
-"16","Birmingham-So.","28593","2009","Stephanie VanBrakle Prothro","","SCAC",32,5,0,0.865
-"17","Birmingham-So.","28593","2008","Craig Hyde","","Big South",32,28,0,0.533
-"18","Birmingham-So.","28593","2007","Tyra Perry","D-I","Big South",25,37,0,0.403
-"19","Birmingham-So.","28593","2006","Tyra Perry","D-I","Big South",28,21,0,0.571
-"20","Birmingham-So.","28593","2005","Tyra Perry","D-I","Big South",25,32,0,0.439
-"21","Birmingham-So.","28593","2004","Tyra Perry","D-I","Big South",25,34,0,0.424
-"22","Birmingham-So.","28593","2003","Tyra Perry","D-I","-",26,32,NA,0.448
-"23","Birmingham-So.","28593","2002","Tyra Perry","D-I","Big South",17,42,0,0.288
-"24","Birmingham-So.","28593","","","","",637,400,1,0.614
+"","season","head_coach","conference","record","win_perc"
+"1","2024","Megan Curry","SAA","24-17-0",0.585
+"2","2023","Amanda Locke","SAA","31-9-0",0.775
+"3","2022","Amanda Locke","SAA","32-8-0",0.8
+"4","2021","Kimball Cassady","SAA","33-8-0",0.805
+"5","2020","Kimball Cassady","SAA","14-4-0",0.778
+"6","2019","Kimball Cassady","SAA","35-7-0",0.833
+"7","2018","Kimball Cassady","SAA","28-15-0",0.651
+"8","2017","Kimball Cassady","SAA","22-18-0",0.55
+"9","2016","Kimball Cassady","SAA","37-10-0",0.787
+"10","2015","Kimball Cassady","SAA","32-8-1",0.793
+"11","2014","Kimball Cassady","SAA","29-18-0",0.617
+"12","2013","Kimball Cassady","SAA","28-18-0",0.609
+"13","2012","Kimball Cassady","SCAC","36-11-0",0.766
+"14","2011","Kimball Cassady","SCAC","21-9-0",0.7
+"15","2010","Stephanie VanBrakle Prothro","SCAC","25-9-0",0.735
+"16","2009","Stephanie VanBrakle Prothro","SCAC","32-5-0",0.865
+"17","2008","Craig Hyde","Big South","32-28-0",0.533
+"18","2007","Tyra Perry","Big South","25-37-0",0.403
+"19","2006","Tyra Perry","Big South","28-21-0",0.571
+"20","2005","Tyra Perry","Big South","25-32-0",0.439
+"21","2004","Tyra Perry","Big South","25-34-0",0.424
+"22","2003","Tyra Perry","-","26-32-0",0.448
+"23","2002","Tyra Perry","Big South","17-42-0",0.288

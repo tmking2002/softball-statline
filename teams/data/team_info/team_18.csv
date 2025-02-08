@@ -1,48 +1,47 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Alfred","18","2025","Luke Wesneski","D-III","Empire 8",0,0,0,0
-"2","Alfred","18","2024","Luke Wesneski","D-III","Empire 8",27,14,0,0.659
-"3","Alfred","18","2023","Luke Wesneski","D-III","Empire 8",25,14,1,0.638
-"4","Alfred","18","2022","Luke Wesneski","D-III","Empire 8",26,16,0,0.619
-"5","Alfred","18","2021","Luke Wesneski","D-III","Empire 8",32,11,0,0.744
-"6","Alfred","18","2020","Luke Wesneski","D-III","Empire 8",7,5,0,0.583
-"7","Alfred","18","2019","Luke Wesneski","D-III","Empire 8",23,20,1,0.534
-"8","Alfred","18","2018","Luke Wesneski","D-III","Empire 8",22,19,NA,0.537
-"9","Alfred","18","2017","Luke Wesneski","D-III","Empire 8",21,17,0,0.553
-"10","Alfred","18","2016","Luke Wesneski","D-III","Empire 8",29,12,0,0.707
-"11","Alfred","18","2015","Gino Olivieri","D-III","Empire 8",40,7,0,0.851
-"12","Alfred","18","2014","Gino Olivieri","D-III","Empire 8",29,12,0,0.707
-"13","Alfred","18","2013","Gino Olivieri","D-III","Empire 8",29,20,0,0.592
-"14","Alfred","18","2012","Gino Olivieri","D-III","Empire 8",27,14,0,0.659
-"15","Alfred","18","2011","Gino Olivieri","D-III","Empire 8",14,8,0,0.636
-"16","Alfred","18","2010","Gino Olivieri","D-III","Empire 8",37,8,0,0.822
-"17","Alfred","18","2009","Gino Olivieri","D-III","Empire 8",27,11,0,0.711
-"18","Alfred","18","2008","Gino Olivieri","D-III","Empire 8",24,13,0,0.649
-"19","Alfred","18","2007","Gino Olivieri","D-III","Empire 8",23,16,0,0.59
-"20","Alfred","18","2006","Gino Olivieri","D-III","Empire 8",10,22,0,0.313
-"21","Alfred","18","2005","Jaime McLaughlin","D-III","Empire 8",16,14,0,0.533
-"22","Alfred","18","2004","Jaime McLaughlin","D-III","Empire 8",10,17,0,0.37
-"23","Alfred","18","2003","Jaime McLaughlin","D-III","Empire 8",4,20,0,0.167
-"24","Alfred","18","2002","Jaime McLaughlin","D-III","Empire 8",5,26,0,0.161
-"25","Alfred","18","2001","Pat Codispoti","D-III","-",11,19,NA,0.367
-"26","Alfred","18","1900","Pat Codispoti","D-III","-",16,13,NA,0.552
-"27","Alfred","18","1999","Pat Codispoti","D-III","-",7,11,NA,0.389
-"28","Alfred","18","1998","Pat Codispoti","D-III","-",0,16,NA,0
-"29","Alfred","18","1997","Kathy Duggan","D-III","-",7,16,NA,0.304
-"30","Alfred","18","1996","Kathy Duggan","D-III","-",6,6,1,0.5
-"31","Alfred","18","1995","Melissa Rivers","D-III","-",6,9,NA,0.4
-"32","Alfred","18","1994","Melissa Rivers","D-III","-",2,15,1,0.139
-"33","Alfred","18","1993","","D-III","-",NA,NA,NA,NA
-"34","Alfred","18","1992","","D-III","-",NA,NA,NA,NA
-"35","Alfred","18","1991","","D-III","-",NA,NA,NA,NA
-"36","Alfred","18","1990","","D-III","-",NA,NA,NA,NA
-"37","Alfred","18","1989","","D-III","-",NA,NA,NA,NA
-"38","Alfred","18","1988","","","-",NA,NA,NA,NA
-"39","Alfred","18","1987","","","-",NA,NA,NA,NA
-"40","Alfred","18","1986","","","-",NA,NA,NA,NA
-"41","Alfred","18","1985","","","-",NA,NA,NA,NA
-"42","Alfred","18","1984","","","-",NA,NA,NA,NA
-"43","Alfred","18","1983","","","-",NA,NA,NA,NA
-"44","Alfred","18","1982","","","-",NA,NA,NA,NA
-"45","Alfred","18","1981","","","-",NA,NA,NA,NA
-"46","Alfred","18","1980","","","-",NA,NA,NA,NA
-"47","Alfred","18","","","","",562,441,4,0.56
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Luke Wesneski","Empire 8","0-0-0",0
+"2","2024","Luke Wesneski","Empire 8","27-14-0",0.659
+"3","2023","Luke Wesneski","Empire 8","25-14-1",0.638
+"4","2022","Luke Wesneski","Empire 8","26-16-0",0.619
+"5","2021","Luke Wesneski","Empire 8","32-11-0",0.744
+"6","2020","Luke Wesneski","Empire 8","7-5-0",0.583
+"7","2019","Luke Wesneski","Empire 8","23-20-1",0.534
+"8","2018","Luke Wesneski","Empire 8","22-19-0",0.537
+"9","2017","Luke Wesneski","Empire 8","21-17-0",0.553
+"10","2016","Luke Wesneski","Empire 8","29-12-0",0.707
+"11","2015","Gino Olivieri","Empire 8","40-7-0",0.851
+"12","2014","Gino Olivieri","Empire 8","29-12-0",0.707
+"13","2013","Gino Olivieri","Empire 8","29-20-0",0.592
+"14","2012","Gino Olivieri","Empire 8","27-14-0",0.659
+"15","2011","Gino Olivieri","Empire 8","14-8-0",0.636
+"16","2010","Gino Olivieri","Empire 8","37-8-0",0.822
+"17","2009","Gino Olivieri","Empire 8","27-11-0",0.711
+"18","2008","Gino Olivieri","Empire 8","24-13-0",0.649
+"19","2007","Gino Olivieri","Empire 8","23-16-0",0.59
+"20","2006","Gino Olivieri","Empire 8","10-22-0",0.313
+"21","2005","Jaime McLaughlin","Empire 8","16-14-0",0.533
+"22","2004","Jaime McLaughlin","Empire 8","10-17-0",0.37
+"23","2003","Jaime McLaughlin","Empire 8","4-20-0",0.167
+"24","2002","Jaime McLaughlin","Empire 8","5-26-0",0.161
+"25","2001","Pat Codispoti","-","11-19-0",0.367
+"26","1900","Pat Codispoti","-","16-13-0",0.552
+"27","1999","Pat Codispoti","-","7-11-0",0.389
+"28","1998","Pat Codispoti","-","0-16-0",0
+"29","1997","Kathy Duggan","-","7-16-0",0.304
+"30","1996","Kathy Duggan","-","6-6-1",0.5
+"31","1995","Melissa Rivers","-","6-9-0",0.4
+"32","1994","Melissa Rivers","-","2-15-1",0.139
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA

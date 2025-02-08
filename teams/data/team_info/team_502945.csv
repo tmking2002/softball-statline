@@ -1,17 +1,16 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Marian (IN)","502945","2024",NA,NA,"-",NA,NA,NA,0
-"2","Marian (IN)","502945","2015",NA,NA,"-",NA,NA,NA,NA
-"3","Marian (IN)","502945","2013",NA,NA,"-",NA,NA,NA,NA
-"4","Marian (IN)","502945","2012",NA,NA,"-",NA,NA,NA,NA
-"5","Marian (IN)","502945","2011",NA,NA,"-",NA,NA,NA,NA
-"6","Marian (IN)","502945","2010",NA,NA,"-",NA,NA,NA,NA
-"7","Marian (IN)","502945","2009",NA,NA,"-",NA,NA,NA,NA
-"8","Marian (IN)","502945","2008",NA,NA,"-",NA,NA,NA,NA
-"9","Marian (IN)","502945","2007",NA,NA,"-",NA,NA,NA,NA
-"10","Marian (IN)","502945","2006",NA,NA,"-",NA,NA,NA,NA
-"11","Marian (IN)","502945","2005",NA,NA,"-",NA,NA,NA,NA
-"12","Marian (IN)","502945","2004",NA,NA,"-",NA,NA,NA,NA
-"13","Marian (IN)","502945","2003",NA,NA,"-",NA,NA,NA,NA
-"14","Marian (IN)","502945","2002",NA,NA,"-",NA,NA,NA,NA
-"15","Marian (IN)","502945","1999",NA,NA,"-",NA,NA,NA,NA
-"16","Marian (IN)","502945","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2015",NA,"-","NA-NA-0",NA
+"3","2013",NA,"-","NA-NA-0",NA
+"4","2012",NA,"-","NA-NA-0",NA
+"5","2011",NA,"-","NA-NA-0",NA
+"6","2010",NA,"-","NA-NA-0",NA
+"7","2009",NA,"-","NA-NA-0",NA
+"8","2008",NA,"-","NA-NA-0",NA
+"9","2007",NA,"-","NA-NA-0",NA
+"10","2006",NA,"-","NA-NA-0",NA
+"11","2005",NA,"-","NA-NA-0",NA
+"12","2004",NA,"-","NA-NA-0",NA
+"13","2003",NA,"-","NA-NA-0",NA
+"14","2002",NA,"-","NA-NA-0",NA
+"15","1999",NA,"-","NA-NA-0",NA

@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","DePauw","177","2025","Sue Anderson","D-III","NCAC",0,0,0,0
-"2","DePauw","177","2024","Erica Hanrahan","D-III","NCAC",30,16,1,0.649
-"3","DePauw","177","2023","Erica Hanrahan","D-III","NCAC",23,21,0,0.523
-"4","DePauw","177","2022","Erica Hanrahan","D-III","NCAC",35,11,0,0.761
-"5","DePauw","177","2021","Erica Hanrahan","D-III","NCAC",40,5,0,0.889
-"6","DePauw","177","2020","Erica Hanrahan","D-III","NCAC",6,3,0,0.667
-"7","DePauw","177","2019","Erica Hanrahan","D-III","NCAC",33,14,0,0.702
-"8","DePauw","177","2018","Erica Hanrahan","D-III","NCAC",23,22,NA,0.511
-"9","DePauw","177","2017","Erica Hanrahan","D-III","NCAC",23,21,0,0.523
-"10","DePauw","177","2016","Erica Hanrahan","D-III","NCAC",31,18,0,0.633
-"11","DePauw","177","2015","Erica Hanrahan","D-III","NCAC",36,16,0,0.692
-"12","DePauw","177","2014","Erica Hanrahan","D-III","NCAC",27,20,0,0.574
-"13","DePauw","177","2013","Erica Hanrahan","D-III","NCAC",22,17,0,0.564
-"14","DePauw","177","2012","Bonnie Skrenta","D-III","NCAC",29,12,0,0.707
-"15","DePauw","177","2011","Bonnie Skrenta","D-III","SCAC",32,11,1,0.739
-"16","DePauw","177","2010","Bonnie Skrenta","D-III","SCAC",40,9,0,0.816
-"17","DePauw","177","2009","Bonnie Skrenta","D-III","SCAC",32,9,0,0.78
-"18","DePauw","177","2008","Bonnie Skrenta","D-III","SCAC",40,4,0,0.909
-"19","DePauw","177","2007","Bonnie Skrenta","D-III","SCAC",37,7,0,0.841
-"20","DePauw","177","2006","Bonnie Skrenta","D-III","SCAC",31,10,0,0.756
-"21","DePauw","177","2005","Bonnie Skrenta","D-III","SCAC",19,18,1,0.513
-"22","DePauw","177","2004","Bonnie Skrenta","D-III","SCAC",14,23,0,0.378
-"23","DePauw","177","2003","Bonnie Skrenta","D-III","SCAC",6,24,0,0.2
-"24","DePauw","177","2002","Deb Zellers","D-III","SCAC",12,24,1,0.338
-"25","DePauw","177","2001","Deb Zellers","D-III","-",23,14,1,0.618
-"26","DePauw","177","1900","Deb Zellers","D-III","-",25,14,1,0.638
-"27","DePauw","177","1999","Deb Zellers","D-III","-",19,18,NA,0.514
-"28","DePauw","177","1998","Deb Zellers","D-III","-",21,9,NA,0.7
-"29","DePauw","177","1997","Deb Zellers","D-III","-",17,11,NA,0.607
-"30","DePauw","177","1996","Deb Zellers","D-III","-",12,12,NA,0.5
-"31","DePauw","177","1995","","D-III","-",NA,NA,NA,NA
-"32","DePauw","177","1994","","D-III","-",NA,NA,NA,NA
-"33","DePauw","177","1993","","D-III","-",NA,NA,NA,NA
-"34","DePauw","177","1992","","D-III","-",NA,NA,NA,NA
-"35","DePauw","177","1991","","D-III","-",NA,NA,NA,NA
-"36","DePauw","177","1990","","D-III","-",NA,NA,NA,NA
-"37","DePauw","177","1988","","D-III","-",NA,NA,NA,NA
-"38","DePauw","177","1987","","D-III","-",NA,NA,NA,NA
-"39","DePauw","177","","","","",738,413,6,0.64
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sue Anderson","NCAC","0-0-0",0
+"2","2024","Erica Hanrahan","NCAC","30-16-1",0.649
+"3","2023","Erica Hanrahan","NCAC","23-21-0",0.523
+"4","2022","Erica Hanrahan","NCAC","35-11-0",0.761
+"5","2021","Erica Hanrahan","NCAC","40-5-0",0.889
+"6","2020","Erica Hanrahan","NCAC","6-3-0",0.667
+"7","2019","Erica Hanrahan","NCAC","33-14-0",0.702
+"8","2018","Erica Hanrahan","NCAC","23-22-0",0.511
+"9","2017","Erica Hanrahan","NCAC","23-21-0",0.523
+"10","2016","Erica Hanrahan","NCAC","31-18-0",0.633
+"11","2015","Erica Hanrahan","NCAC","36-16-0",0.692
+"12","2014","Erica Hanrahan","NCAC","27-20-0",0.574
+"13","2013","Erica Hanrahan","NCAC","22-17-0",0.564
+"14","2012","Bonnie Skrenta","NCAC","29-12-0",0.707
+"15","2011","Bonnie Skrenta","SCAC","32-11-1",0.739
+"16","2010","Bonnie Skrenta","SCAC","40-9-0",0.816
+"17","2009","Bonnie Skrenta","SCAC","32-9-0",0.78
+"18","2008","Bonnie Skrenta","SCAC","40-4-0",0.909
+"19","2007","Bonnie Skrenta","SCAC","37-7-0",0.841
+"20","2006","Bonnie Skrenta","SCAC","31-10-0",0.756
+"21","2005","Bonnie Skrenta","SCAC","19-18-1",0.513
+"22","2004","Bonnie Skrenta","SCAC","14-23-0",0.378
+"23","2003","Bonnie Skrenta","SCAC","6-24-0",0.2
+"24","2002","Deb Zellers","SCAC","12-24-1",0.338
+"25","2001","Deb Zellers","-","23-14-1",0.618
+"26","1900","Deb Zellers","-","25-14-1",0.638
+"27","1999","Deb Zellers","-","19-18-0",0.514
+"28","1998","Deb Zellers","-","21-9-0",0.7
+"29","1997","Deb Zellers","-","17-11-0",0.607
+"30","1996","Deb Zellers","-","12-12-0",0.5
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA
+"38","1987","","-","NA-NA-0",NA

@@ -1,16 +1,15 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ohio Christian","506333","2025","",NA,"-",NA,NA,NA,0
-"2","Ohio Christian","506333","2023","",NA,"-",NA,NA,NA,0
-"3","Ohio Christian","506333","2022","",NA,"-",NA,NA,NA,0
-"4","Ohio Christian","506333","2021","Jackie Huff",NA,"-",9,39,0,0.188
-"5","Ohio Christian","506333","2020","Jackie Huff",NA,"-",4,4,0,0.5
-"6","Ohio Christian","506333","2019","",NA,"-",NA,NA,NA,0
-"7","Ohio Christian","506333","2018","",NA,"-",NA,NA,NA,0
-"8","Ohio Christian","506333","2017","",NA,"-",13,33,0,0.283
-"9","Ohio Christian","506333","2016","Kelsey Chapman",NA,"-",13,29,0,0.31
-"10","Ohio Christian","506333","2015","Kelsey Chapman",NA,"-",8,32,0,0.2
-"11","Ohio Christian","506333","2014","",NA,"-",NA,NA,NA,NA
-"12","Ohio Christian","506333","2013","",NA,"-",NA,NA,NA,NA
-"13","Ohio Christian","506333","2012","",NA,"-",NA,NA,NA,NA
-"14","Ohio Christian","506333","2011","",NA,"-",NA,NA,NA,NA
-"15","Ohio Christian","506333","","",NA,"",47,137,0,0.255
+"","season","head_coach","conference","record","win_perc"
+"1","2025","","-","NA-NA-0",0
+"2","2023","","-","NA-NA-0",0
+"3","2022","","-","NA-NA-0",0
+"4","2021","Jackie Huff","-","9-39-0",0.188
+"5","2020","Jackie Huff","-","4-4-0",0.5
+"6","2019","","-","NA-NA-0",0
+"7","2018","","-","NA-NA-0",0
+"8","2017","","-","13-33-0",0.283
+"9","2016","Kelsey Chapman","-","13-29-0",0.31
+"10","2015","Kelsey Chapman","-","8-32-0",0.2
+"11","2014","","-","NA-NA-0",NA
+"12","2013","","-","NA-NA-0",NA
+"13","2012","","-","NA-NA-0",NA
+"14","2011","","-","NA-NA-0",NA

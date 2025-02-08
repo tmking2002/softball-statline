@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Temple","690","2014","Joe DiPietro","D-I","The American",15,30,0,0.333
-"2","Temple","690","2013","Joe DiPietro","D-I","Atlantic 10",32,26,0,0.552
-"3","Temple","690","2012","Joe DiPietro","D-I","Atlantic 10",27,22,0,0.551
-"4","Temple","690","2011","Joe DiPietro","D-I","Atlantic 10",22,23,0,0.489
-"5","Temple","690","2010","Joe DiPietro","D-I","Atlantic 10",19,30,0,0.388
-"6","Temple","690","2009","Joe DiPietro","D-I","Atlantic 10",15,25,0,0.375
-"7","Temple","690","2008","Casey Dickson","D-I","Atlantic 10",15,24,0,0.385
-"8","Temple","690","2007","Casey Dickson","D-I","Atlantic 10",18,21,0,0.462
-"9","Temple","690","2006","Casey Dickson","D-I","Atlantic 10",22,23,0,0.489
-"10","Temple","690","2005","Rocci Pignoli","D-I","Atlantic 10",16,29,0,0.356
-"11","Temple","690","2004","Rocci Pignoli","D-I","Atlantic 10",30,18,0,0.625
-"12","Temple","690","2003","Rocci Pignoli","D-I","Atlantic 10",22,20,0,0.524
-"13","Temple","690","2002","Rocci Pignoli","D-I","Atlantic 10",27,25,0,0.519
-"14","Temple","690","2001","Rocci Pignoli","D-I","Atlantic 10",29,26,0,0.527
-"15","Temple","690","1900","Rocci Pignoli","D-I","Atlantic 10",19,31,0,0.38
-"16","Temple","690","1999","Rocci Pignoli","D-I","Atlantic 10",15,32,1,0.323
-"17","Temple","690","1998","Rocci Pignoli","D-I","-",16,28,NA,0.364
-"18","Temple","690","1997","Carol Kashow","D-I","Atlantic 10",24,29,0,0.453
-"19","Temple","690","1996","Carol Kashow","D-I","-",31,20,NA,0.608
-"20","Temple","690","1995","Carol Kashow","D-I","-",20,26,NA,0.435
-"21","Temple","690","1994","Carol Kashow","D-I","-",25,29,NA,0.463
-"22","Temple","690","1993","Carol Kashow","D-I","-",21,34,NA,0.382
-"23","Temple","690","1992","Carol Kashow","D-I","-",25,25,1,0.5
-"24","Temple","690","1991","Ronnie Maurek","D-I","-",18,28,1,0.394
-"25","Temple","690","1990","Ronnie Maurek","D-I","-",28,18,NA,0.609
-"26","Temple","690","1989","Ronnie Maurek","D-I","-",31,18,NA,0.633
-"27","Temple","690","1988","Ronnie Maurek","D-I","-",19,27,NA,0.413
-"28","Temple","690","1987","Ronnie Maurek","D-I","-",27,21,NA,0.563
-"29","Temple","690","1986","Ronnie Maurek","D-I","-",19,19,NA,0.5
-"30","Temple","690","1985","Ronnie Maurek","D-I","-",26,15,NA,0.634
-"31","Temple","690","1984","Ronnie Maurek","D-I","-",24,11,NA,0.686
-"32","Temple","690","1983","Ronnie Maurek","D-I","-",10,13,NA,0.435
-"33","Temple","690","1982","Ronnie Maurek","D-I","-",13,10,NA,0.565
-"34","Temple","690","1981","Ronnie Maurek","D-I","-",20,7,NA,0.741
-"35","Temple","690","1980","Ronnie Maurek","D-I","-",8,9,NA,0.471
-"36","Temple","690","1979","Ronnie Maurek","D-I","-",15,12,NA,0.556
-"37","Temple","690","1978","Ronnie Maurek","D-I","-",19,7,NA,0.731
-"38","Temple","690","1977","Ronnie Maurek","D-I","-",11,6,NA,0.647
-"39","Temple","690","1976","Ronnie Maurek","D-I","-",6,5,NA,0.545
-"40","Temple","690","1975","Ronnie Maurek","D-I","-",7,3,NA,0.7
-"41","Temple","690","","","","",806,825,3,0.494
+"","season","head_coach","conference","record","win_perc"
+"1","2014","Joe DiPietro","The American","15-30-0",0.333
+"2","2013","Joe DiPietro","Atlantic 10","32-26-0",0.552
+"3","2012","Joe DiPietro","Atlantic 10","27-22-0",0.551
+"4","2011","Joe DiPietro","Atlantic 10","22-23-0",0.489
+"5","2010","Joe DiPietro","Atlantic 10","19-30-0",0.388
+"6","2009","Joe DiPietro","Atlantic 10","15-25-0",0.375
+"7","2008","Casey Dickson","Atlantic 10","15-24-0",0.385
+"8","2007","Casey Dickson","Atlantic 10","18-21-0",0.462
+"9","2006","Casey Dickson","Atlantic 10","22-23-0",0.489
+"10","2005","Rocci Pignoli","Atlantic 10","16-29-0",0.356
+"11","2004","Rocci Pignoli","Atlantic 10","30-18-0",0.625
+"12","2003","Rocci Pignoli","Atlantic 10","22-20-0",0.524
+"13","2002","Rocci Pignoli","Atlantic 10","27-25-0",0.519
+"14","2001","Rocci Pignoli","Atlantic 10","29-26-0",0.527
+"15","1900","Rocci Pignoli","Atlantic 10","19-31-0",0.38
+"16","1999","Rocci Pignoli","Atlantic 10","15-32-1",0.323
+"17","1998","Rocci Pignoli","-","16-28-0",0.364
+"18","1997","Carol Kashow","Atlantic 10","24-29-0",0.453
+"19","1996","Carol Kashow","-","31-20-0",0.608
+"20","1995","Carol Kashow","-","20-26-0",0.435
+"21","1994","Carol Kashow","-","25-29-0",0.463
+"22","1993","Carol Kashow","-","21-34-0",0.382
+"23","1992","Carol Kashow","-","25-25-1",0.5
+"24","1991","Ronnie Maurek","-","18-28-1",0.394
+"25","1990","Ronnie Maurek","-","28-18-0",0.609
+"26","1989","Ronnie Maurek","-","31-18-0",0.633
+"27","1988","Ronnie Maurek","-","19-27-0",0.413
+"28","1987","Ronnie Maurek","-","27-21-0",0.563
+"29","1986","Ronnie Maurek","-","19-19-0",0.5
+"30","1985","Ronnie Maurek","-","26-15-0",0.634
+"31","1984","Ronnie Maurek","-","24-11-0",0.686
+"32","1983","Ronnie Maurek","-","10-13-0",0.435
+"33","1982","Ronnie Maurek","-","13-10-0",0.565
+"34","1981","Ronnie Maurek","-","20-7-0",0.741
+"35","1980","Ronnie Maurek","-","8-9-0",0.471
+"36","1979","Ronnie Maurek","-","15-12-0",0.556
+"37","1978","Ronnie Maurek","-","19-7-0",0.731
+"38","1977","Ronnie Maurek","-","11-6-0",0.647
+"39","1976","Ronnie Maurek","-","6-5-0",0.545
+"40","1975","Ronnie Maurek","-","7-3-0",0.7

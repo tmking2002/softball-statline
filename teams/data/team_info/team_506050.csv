@@ -1,8 +1,7 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Tabor","506050","2021",NA,NA,"-",NA,NA,NA,0
-"2","Tabor","506050","2014",NA,NA,"-",NA,NA,NA,NA
-"3","Tabor","506050","2010",NA,NA,"-",NA,NA,NA,NA
-"4","Tabor","506050","2005",NA,NA,"-",NA,NA,NA,NA
-"5","Tabor","506050","2003",NA,NA,"-",NA,NA,NA,NA
-"6","Tabor","506050","2002",NA,NA,"-",NA,NA,NA,NA
-"7","Tabor","506050","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2021",NA,"-","NA-NA-0",0
+"2","2014",NA,"-","NA-NA-0",NA
+"3","2010",NA,"-","NA-NA-0",NA
+"4","2005",NA,"-","NA-NA-0",NA
+"5","2003",NA,"-","NA-NA-0",NA
+"6","2002",NA,"-","NA-NA-0",NA

@@ -1,34 +1,33 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hawaii Pacific","2696","2025","Jarnett Lono","D-II","PacWest",6,4,0,0.6
-"2","Hawaii Pacific","2696","2024","Jarnett Lono","D-II","PacWest",9,31,0,0.225
-"3","Hawaii Pacific","2696","2023","Jarnett Lono","D-II","PacWest",22,32,0,0.407
-"4","Hawaii Pacific","2696","2022","Jarnett Lono","D-II","PacWest",24,26,0,0.48
-"5","Hawaii Pacific","2696","2021","Jarnett Lono","D-II","PacWest",8,15,0,0.348
-"6","Hawaii Pacific","2696","2020","Jarnett Lono (14-13)Bryan Nakasone (14-13)","D-II","PacWest",14,13,0,0.519
-"7","Hawaii Pacific","2696","2019","Bryan Nakasone (31-24)Jarnett Lono (31-24)","D-II","PacWest",31,24,0,0.564
-"8","Hawaii Pacific","2696","2018","Bryan Nakasone (22-18)Jarnett Lono (22-18)","D-II","PacWest",22,18,NA,0.55
-"9","Hawaii Pacific","2696","2017","Bryan Nakasone","D-II","PacWest",29,19,0,0.604
-"10","Hawaii Pacific","2696","2016","Bryan Nakasone","D-II","PacWest",16,32,0,0.333
-"11","Hawaii Pacific","2696","2015","Bryan Nakasone","D-II","PacWest",26,21,1,0.552
-"12","Hawaii Pacific","2696","2014","Bryan Nakasone","D-II","PacWest",21,22,0,0.488
-"13","Hawaii Pacific","2696","2013","Bryan Nakasone","D-II","PacWest",30,19,0,0.612
-"14","Hawaii Pacific","2696","2012","Bryan Nakasone","D-II","PacWest",32,18,0,0.64
-"15","Hawaii Pacific","2696","2011","Bryan Nakasone","D-II","PacWest",38,12,0,0.76
-"16","Hawaii Pacific","2696","2010","Bryan Nakasone","D-II","PacWest",50,8,0,0.862
-"17","Hawaii Pacific","2696","2009","Bryan Nakasone","D-II","PacWest",42,12,0,0.778
-"18","Hawaii Pacific","2696","2008","Howard Okita","D-II","PacWest",43,5,1,0.888
-"19","Hawaii Pacific","2696","2007","Howard Okita","D-II","PacWest",34,16,0,0.68
-"20","Hawaii Pacific","2696","2006","Howard Okita","D-II","PacWest",22,17,0,0.564
-"21","Hawaii Pacific","2696","2005","Howard Okita","D-II","PacWest",31,15,0,0.674
-"22","Hawaii Pacific","2696","2004","Howard Okita","D-II","PacWest",22,21,0,0.512
-"23","Hawaii Pacific","2696","2003","Howard Okita","D-II","-",32,20,0,0.615
-"24","Hawaii Pacific","2696","2002","Howard Okita","D-II","-",21,21,0,0.5
-"25","Hawaii Pacific","2696","2001","Howard Okita","D-II","-",34,15,0,0.694
-"26","Hawaii Pacific","2696","1900","Howard Okita","D-II","-",36,14,0,0.72
-"27","Hawaii Pacific","2696","1999","Howard Okita","D-II","-",44,6,1,0.873
-"28","Hawaii Pacific","2696","1998","Howard Okita","","-",35,17,0,0.673
-"29","Hawaii Pacific","2696","1997","Howard Okita","","-",49,8,0,0.86
-"30","Hawaii Pacific","2696","1996","Howard Okita","","-",35,13,0,0.729
-"31","Hawaii Pacific","2696","1995","Howard Okita","","-",28,10,1,0.731
-"32","Hawaii Pacific","2696","1994","Howard Okita","","-",34,10,0,0.773
-"33","Hawaii Pacific","2696","","","","",920,534,4,0.632
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jarnett Lono","PacWest","6-4-0",0.6
+"2","2024","Jarnett Lono","PacWest","9-31-0",0.225
+"3","2023","Jarnett Lono","PacWest","22-32-0",0.407
+"4","2022","Jarnett Lono","PacWest","24-26-0",0.48
+"5","2021","Jarnett Lono","PacWest","8-15-0",0.348
+"6","2020","Jarnett Lono (14-13)Bryan Nakasone (14-13)","PacWest","14-13-0",0.519
+"7","2019","Bryan Nakasone (31-24)Jarnett Lono (31-24)","PacWest","31-24-0",0.564
+"8","2018","Bryan Nakasone (22-18)Jarnett Lono (22-18)","PacWest","22-18-0",0.55
+"9","2017","Bryan Nakasone","PacWest","29-19-0",0.604
+"10","2016","Bryan Nakasone","PacWest","16-32-0",0.333
+"11","2015","Bryan Nakasone","PacWest","26-21-1",0.552
+"12","2014","Bryan Nakasone","PacWest","21-22-0",0.488
+"13","2013","Bryan Nakasone","PacWest","30-19-0",0.612
+"14","2012","Bryan Nakasone","PacWest","32-18-0",0.64
+"15","2011","Bryan Nakasone","PacWest","38-12-0",0.76
+"16","2010","Bryan Nakasone","PacWest","50-8-0",0.862
+"17","2009","Bryan Nakasone","PacWest","42-12-0",0.778
+"18","2008","Howard Okita","PacWest","43-5-1",0.888
+"19","2007","Howard Okita","PacWest","34-16-0",0.68
+"20","2006","Howard Okita","PacWest","22-17-0",0.564
+"21","2005","Howard Okita","PacWest","31-15-0",0.674
+"22","2004","Howard Okita","PacWest","22-21-0",0.512
+"23","2003","Howard Okita","-","32-20-0",0.615
+"24","2002","Howard Okita","-","21-21-0",0.5
+"25","2001","Howard Okita","-","34-15-0",0.694
+"26","1900","Howard Okita","-","36-14-0",0.72
+"27","1999","Howard Okita","-","44-6-1",0.873
+"28","1998","Howard Okita","-","35-17-0",0.673
+"29","1997","Howard Okita","-","49-8-0",0.86
+"30","1996","Howard Okita","-","35-13-0",0.729
+"31","1995","Howard Okita","-","28-10-1",0.731
+"32","1994","Howard Okita","-","34-10-0",0.773

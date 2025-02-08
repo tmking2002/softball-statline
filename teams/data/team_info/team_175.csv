@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Dayton","175","2025","Cara Clark","D-I","Atlantic 10",2,0,0,1
-"2","Dayton","175","2024","Cara Clark","D-I","Atlantic 10",33,21,0,0.611
-"3","Dayton","175","2023","Cara Clark","D-I","Atlantic 10",35,20,0,0.636
-"4","Dayton","175","2022","Cara Clark","D-I","Atlantic 10",22,24,0,0.478
-"5","Dayton","175","2021","Cara Clark","D-I","Atlantic 10",21,25,0,0.457
-"6","Dayton","175","2020","Cara Clark","D-I","Atlantic 10",8,12,0,0.4
-"7","Dayton","175","2019","Cara Clark","D-I","Atlantic 10",24,27,0,0.471
-"8","Dayton","175","2018","Cara Clark","D-I","Atlantic 10",31,25,NA,0.554
-"9","Dayton","175","2017","Cara Clark","D-I","Atlantic 10",29,27,0,0.518
-"10","Dayton","175","2016","Cara Clark","D-I","Atlantic 10",27,21,1,0.561
-"11","Dayton","175","2015","Cara Clark","D-I","Atlantic 10",39,14,0,0.736
-"12","Dayton","175","2014","Cara Clark","D-I","Atlantic 10",27,29,0,0.482
-"13","Dayton","175","2013","Cara Clark","D-I","Atlantic 10",22,24,0,0.478
-"14","Dayton","175","2012","Cara Clark","D-I","Atlantic 10",22,29,0,0.431
-"15","Dayton","175","2011","Cara Clark","D-I","Atlantic 10",22,26,0,0.458
-"16","Dayton","175","2010","Cara Clark","D-I","Atlantic 10",18,36,1,0.336
-"17","Dayton","175","2009","Cara Clark","D-I","Atlantic 10",13,34,0,0.277
-"18","Dayton","175","2008","Cara Clark","D-I","Atlantic 10",20,31,0,0.392
-"19","Dayton","175","2007","Jodi Eickemeyer","D-I","Atlantic 10",11,30,0,0.268
-"20","Dayton","175","2006","Jodi Eickemeyer","D-I","Atlantic 10",18,30,0,0.375
-"21","Dayton","175","2005","Jodi Eickemeyer","D-I","Atlantic 10",20,18,1,0.526
-"22","Dayton","175","2004","Jodi Eickemeyer","D-I","Atlantic 10",14,35,0,0.286
-"23","Dayton","175","2003","Jodi Eickemeyer","D-I","Atlantic 10",23,21,0,0.523
-"24","Dayton","175","2002","Jodi Eickemeyer","D-I","Atlantic 10",17,26,0,0.395
-"25","Dayton","175","2001","Jodi Eickemeyer","D-I","Atlantic 10",19,31,0,0.38
-"26","Dayton","175","1900","Jodi Eickemeyer","D-I","Atlantic 10",35,23,1,0.602
-"27","Dayton","175","1999","Jodi Eickemeyer","D-I","Atlantic 10",20,36,0,0.357
-"28","Dayton","175","1998","Jodi Eickemeyer","D-I","-",23,23,NA,0.5
-"29","Dayton","175","1997","Jodi Eickemeyer","D-I","Atlantic 10",16,27,2,0.378
-"30","Dayton","175","1996","Jodi Eickemeyer","D-I","-",14,23,1,0.382
-"31","Dayton","175","1995","Daryl Ogg","D-I","-",7,28,NA,0.2
-"32","Dayton","175","1994","Daryl Ogg","D-I","-",6,39,NA,0.133
-"33","Dayton","175","1993","Daryl Ogg","D-I","-",9,28,NA,0.243
-"34","Dayton","175","1992","Becky Dicke","D-I","-",12,34,NA,0.261
-"35","Dayton","175","1991","Becky Dicke","D-I","-",15,14,NA,0.517
-"36","Dayton","175","1990","Becky Dicke","D-I","-",8,32,NA,0.2
-"37","Dayton","175","1989","Becky Dicke","D-I","-",12,34,NA,0.261
-"38","Dayton","175","1988","","D-I","-",NA,NA,NA,NA
-"39","Dayton","175","1987","Jeryl Neff","D-I","-",12,27,NA,0.308
-"40","Dayton","175","1986","Jeryl Neff","D-I","-",20,14,NA,0.588
-"41","Dayton","175","1985","Jeryl Neff","D-I","-",10,15,NA,0.4
-"42","Dayton","175","1982","","D-I","-",NA,NA,NA,NA
-"43","Dayton","175","","","","",756,1013,7,0.428
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Cara Clark","Atlantic 10","2-0-0",1
+"2","2024","Cara Clark","Atlantic 10","33-21-0",0.611
+"3","2023","Cara Clark","Atlantic 10","35-20-0",0.636
+"4","2022","Cara Clark","Atlantic 10","22-24-0",0.478
+"5","2021","Cara Clark","Atlantic 10","21-25-0",0.457
+"6","2020","Cara Clark","Atlantic 10","8-12-0",0.4
+"7","2019","Cara Clark","Atlantic 10","24-27-0",0.471
+"8","2018","Cara Clark","Atlantic 10","31-25-0",0.554
+"9","2017","Cara Clark","Atlantic 10","29-27-0",0.518
+"10","2016","Cara Clark","Atlantic 10","27-21-1",0.561
+"11","2015","Cara Clark","Atlantic 10","39-14-0",0.736
+"12","2014","Cara Clark","Atlantic 10","27-29-0",0.482
+"13","2013","Cara Clark","Atlantic 10","22-24-0",0.478
+"14","2012","Cara Clark","Atlantic 10","22-29-0",0.431
+"15","2011","Cara Clark","Atlantic 10","22-26-0",0.458
+"16","2010","Cara Clark","Atlantic 10","18-36-1",0.336
+"17","2009","Cara Clark","Atlantic 10","13-34-0",0.277
+"18","2008","Cara Clark","Atlantic 10","20-31-0",0.392
+"19","2007","Jodi Eickemeyer","Atlantic 10","11-30-0",0.268
+"20","2006","Jodi Eickemeyer","Atlantic 10","18-30-0",0.375
+"21","2005","Jodi Eickemeyer","Atlantic 10","20-18-1",0.526
+"22","2004","Jodi Eickemeyer","Atlantic 10","14-35-0",0.286
+"23","2003","Jodi Eickemeyer","Atlantic 10","23-21-0",0.523
+"24","2002","Jodi Eickemeyer","Atlantic 10","17-26-0",0.395
+"25","2001","Jodi Eickemeyer","Atlantic 10","19-31-0",0.38
+"26","1900","Jodi Eickemeyer","Atlantic 10","35-23-1",0.602
+"27","1999","Jodi Eickemeyer","Atlantic 10","20-36-0",0.357
+"28","1998","Jodi Eickemeyer","-","23-23-0",0.5
+"29","1997","Jodi Eickemeyer","Atlantic 10","16-27-2",0.378
+"30","1996","Jodi Eickemeyer","-","14-23-1",0.382
+"31","1995","Daryl Ogg","-","7-28-0",0.2
+"32","1994","Daryl Ogg","-","6-39-0",0.133
+"33","1993","Daryl Ogg","-","9-28-0",0.243
+"34","1992","Becky Dicke","-","12-34-0",0.261
+"35","1991","Becky Dicke","-","15-14-0",0.517
+"36","1990","Becky Dicke","-","8-32-0",0.2
+"37","1989","Becky Dicke","-","12-34-0",0.261
+"38","1988","","-","NA-NA-0",NA
+"39","1987","Jeryl Neff","-","12-27-0",0.308
+"40","1986","Jeryl Neff","-","20-14-0",0.588
+"41","1985","Jeryl Neff","-","10-15-0",0.4
+"42","1982","","-","NA-NA-0",NA

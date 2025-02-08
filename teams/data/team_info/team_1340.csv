@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Joseph's (L.I.)","1340","2025","Lisa Jusino","D-III","Skyline",0,0,0,0
-"2","St. Joseph's (L.I.)","1340","2024","Lisa Jusino","D-III","Skyline",12,20,0,0.375
-"3","St. Joseph's (L.I.)","1340","2023","Lisa Jusino","D-III","Skyline",7,23,0,0.233
-"4","St. Joseph's (L.I.)","1340","2022","Lisa Jusino","D-III","Skyline",16,14,0,0.533
-"5","St. Joseph's (L.I.)","1340","2021","Lisa Jusino","D-III","Skyline",13,10,0,0.565
-"6","St. Joseph's (L.I.)","1340","2020","Lisa Jusino","D-III","Skyline",NA,NA,NA,0
-"7","St. Joseph's (L.I.)","1340","2019","Lisa Jusino","D-III","Skyline",20,15,0,0.571
-"8","St. Joseph's (L.I.)","1340","2018","Lisa Jusino","D-III","Skyline",20,10,NA,0.667
-"9","St. Joseph's (L.I.)","1340","2017","Lisa Jusino","D-III","Skyline",20,17,0,0.541
-"10","St. Joseph's (L.I.)","1340","2016","Lisa Jusino","D-III","Skyline",21,14,0,0.6
-"11","St. Joseph's (L.I.)","1340","2015","Al Sciangula","D-III","Skyline",18,18,0,0.5
-"12","St. Joseph's (L.I.)","1340","2014","Al Sciangula","D-III","Skyline",22,14,0,0.611
-"13","St. Joseph's (L.I.)","1340","2013","Al Sciangula","D-III","Skyline",25,19,0,0.568
-"14","St. Joseph's (L.I.)","1340","2012","Al Sciangula","D-III","Skyline",23,19,0,0.548
-"15","St. Joseph's (L.I.)","1340","2011","Al Sciangula","D-III","Skyline",16,16,0,0.5
-"16","St. Joseph's (L.I.)","1340","2010","Al Sciangula","D-III","Skyline",16,21,0,0.432
-"17","St. Joseph's (L.I.)","1340","2009","Al Sciangula","D-III","Skyline",9,22,0,0.29
-"18","St. Joseph's (L.I.)","1340","2008","Al Sciangula","D-III","Skyline",33,8,0,0.805
-"19","St. Joseph's (L.I.)","1340","2007","Al Sciangula","D-III","Skyline",23,11,0,0.676
-"20","St. Joseph's (L.I.)","1340","2006","Al Sciangula","D-III","Skyline",23,11,0,0.676
-"21","St. Joseph's (L.I.)","1340","2005","Al Sciangula","D-III","Skyline",10,14,0,0.417
-"22","St. Joseph's (L.I.)","1340","2004","Gary Smith","D-III","Skyline",11,19,0,0.367
-"23","St. Joseph's (L.I.)","1340","2003","Gary Smith","D-III","-",26,14,NA,0.65
-"24","St. Joseph's (L.I.)","1340","2002","Gary Smith","D-III","-",21,12,NA,0.636
-"25","St. Joseph's (L.I.)","1340","2001","Gary Smith","D-III","-",24,7,NA,0.774
-"26","St. Joseph's (L.I.)","1340","1900","Gary Smith","D-III","-",29,10,NA,0.744
-"27","St. Joseph's (L.I.)","1340","1999","Gary Smith","D-III","-",24,12,NA,0.667
-"28","St. Joseph's (L.I.)","1340","1998","Gary Smith","D-III","-",19,6,NA,0.76
-"29","St. Joseph's (L.I.)","1340","1997","Gary Smith","D-III","-",12,9,NA,0.571
-"30","St. Joseph's (L.I.)","1340","1996","Gary Smith","D-III","-",20,2,NA,0.909
-"31","St. Joseph's (L.I.)","1340","1995","Gary Smith","D-III","-",5,20,NA,0.2
-"32","St. Joseph's (L.I.)","1340","1994","Gary Smith","D-III","-",12,15,NA,0.444
-"33","St. Joseph's (L.I.)","1340","1993","Gary Smith","D-III","-",7,18,NA,0.28
-"34","St. Joseph's (L.I.)","1340","1992","Gary Smith","D-III","-",4,20,NA,0.167
-"35","St. Joseph's (L.I.)","1340","1991","Gary Smith","D-III","-",8,7,NA,0.533
-"36","St. Joseph's (L.I.)","1340","1990","Gary Smith","D-III","-",13,6,NA,0.684
-"37","St. Joseph's (L.I.)","1340","1989","Gary Smith","D-III","-",5,8,NA,0.385
-"38","St. Joseph's (L.I.)","1340","1981","","","-",NA,NA,NA,NA
-"39","St. Joseph's (L.I.)","1340","","","","",587,481,0,0.55
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Lisa Jusino","Skyline","0-0-0",0
+"2","2024","Lisa Jusino","Skyline","12-20-0",0.375
+"3","2023","Lisa Jusino","Skyline","7-23-0",0.233
+"4","2022","Lisa Jusino","Skyline","16-14-0",0.533
+"5","2021","Lisa Jusino","Skyline","13-10-0",0.565
+"6","2020","Lisa Jusino","Skyline","NA-NA-0",0
+"7","2019","Lisa Jusino","Skyline","20-15-0",0.571
+"8","2018","Lisa Jusino","Skyline","20-10-0",0.667
+"9","2017","Lisa Jusino","Skyline","20-17-0",0.541
+"10","2016","Lisa Jusino","Skyline","21-14-0",0.6
+"11","2015","Al Sciangula","Skyline","18-18-0",0.5
+"12","2014","Al Sciangula","Skyline","22-14-0",0.611
+"13","2013","Al Sciangula","Skyline","25-19-0",0.568
+"14","2012","Al Sciangula","Skyline","23-19-0",0.548
+"15","2011","Al Sciangula","Skyline","16-16-0",0.5
+"16","2010","Al Sciangula","Skyline","16-21-0",0.432
+"17","2009","Al Sciangula","Skyline","9-22-0",0.29
+"18","2008","Al Sciangula","Skyline","33-8-0",0.805
+"19","2007","Al Sciangula","Skyline","23-11-0",0.676
+"20","2006","Al Sciangula","Skyline","23-11-0",0.676
+"21","2005","Al Sciangula","Skyline","10-14-0",0.417
+"22","2004","Gary Smith","Skyline","11-19-0",0.367
+"23","2003","Gary Smith","-","26-14-0",0.65
+"24","2002","Gary Smith","-","21-12-0",0.636
+"25","2001","Gary Smith","-","24-7-0",0.774
+"26","1900","Gary Smith","-","29-10-0",0.744
+"27","1999","Gary Smith","-","24-12-0",0.667
+"28","1998","Gary Smith","-","19-6-0",0.76
+"29","1997","Gary Smith","-","12-9-0",0.571
+"30","1996","Gary Smith","-","20-2-0",0.909
+"31","1995","Gary Smith","-","5-20-0",0.2
+"32","1994","Gary Smith","-","12-15-0",0.444
+"33","1993","Gary Smith","-","7-18-0",0.28
+"34","1992","Gary Smith","-","4-20-0",0.167
+"35","1991","Gary Smith","-","8-7-0",0.533
+"36","1990","Gary Smith","-","13-6-0",0.684
+"37","1989","Gary Smith","-","5-8-0",0.385
+"38","1981","","-","NA-NA-0",NA

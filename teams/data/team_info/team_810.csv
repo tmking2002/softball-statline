@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wright St.","810","2023","","","-",NA,NA,NA,0
-"2","Wright St.","810","2020","Laura Matthews","D-I","Horizon",7,11,0,0.389
-"3","Wright St.","810","2019","Laura Matthews","D-I","Horizon",22,33,0,0.4
-"4","Wright St.","810","2018","Laura Matthews","D-I","Horizon",21,32,NA,0.396
-"5","Wright St.","810","2017","Justine Wichman","D-I","Horizon",21,31,0,0.404
-"6","Wright St.","810","2016","Lynn Curylo","D-I","Horizon",37,23,0,0.617
-"7","Wright St.","810","2015","Lynn Curylo","D-I","Horizon",23,33,0,0.411
-"8","Wright St.","810","2014","Lynn Curylo","D-I","Horizon",22,34,0,0.393
-"9","Wright St.","810","2013","Lynn Curylo","D-I","Horizon",19,37,0,0.339
-"10","Wright St.","810","2012","Lynn Curylo","D-I","Horizon",23,31,0,0.426
-"11","Wright St.","810","2011","Lynn Curylo","D-I","Horizon",26,29,0,0.473
-"12","Wright St.","810","2010","Linda Garza","D-I","Horizon",31,30,1,0.508
-"13","Wright St.","810","2009","Mike Larabee","D-I","Horizon",34,21,0,0.618
-"14","Wright St.","810","2008","Mike Larabee","D-I","Horizon",33,26,0,0.559
-"15","Wright St.","810","2007","Mike Larabee","D-I","Horizon",25,35,0,0.417
-"16","Wright St.","810","2006","Mike Larabee","D-I","Horizon",7,41,0,0.146
-"17","Wright St.","810","2005","Mike Larabee","D-I","Horizon",15,24,0,0.385
-"18","Wright St.","810","2004","Sheila Nahrgang","D-I","Horizon",16,43,1,0.275
-"19","Wright St.","810","2003","Sheila Nahrgang","D-I","Horizon",17,37,0,0.315
-"20","Wright St.","810","2002","Sheila Nahrgang","D-I","Horizon",11,26,0,0.297
-"21","Wright St.","810","2001","Sheila Nahrgang","D-I","Horizon",28,22,0,0.56
-"22","Wright St.","810","1900","Sheila Nahrgang","D-I","Horizon",36,20,0,0.643
-"23","Wright St.","810","1999","Sheila Nahrgang","D-I","Horizon",33,20,0,0.623
-"24","Wright St.","810","1998","Sheila Nahrgang","D-I","-",15,31,NA,0.326
-"25","Wright St.","810","1997","Sheila Nahrgang","D-I","Horizon",29,23,0,0.558
-"26","Wright St.","810","1996","Sheila Nahrgang","D-I","-",19,23,NA,0.452
-"27","Wright St.","810","1995","Sheila Nahrgang","D-I","-",16,29,NA,0.356
-"28","Wright St.","810","1994","Sheila Nahrgang","D-I","-",5,32,1,0.145
-"29","Wright St.","810","1993","Sheila Nahrgang","D-I","-",10,27,NA,0.27
-"30","Wright St.","810","1992","Jerry Hawker","D-I","-",10,32,NA,0.238
-"31","Wright St.","810","1991","Jerry Hawker","D-I","-",8,40,NA,0.167
-"32","Wright St.","810","1990","Jerry Hawker","D-I","-",16,23,NA,0.41
-"33","Wright St.","810","1989","Jerry Hawker","D-I","-",16,20,NA,0.444
-"34","Wright St.","810","1988","","D-I","-",NA,NA,NA,NA
-"35","Wright St.","810","1987","","D-I","-",NA,NA,NA,NA
-"36","Wright St.","810","1986","","D-II","-",NA,NA,NA,NA
-"37","Wright St.","810","1985","","D-II","-",NA,NA,NA,NA
-"38","Wright St.","810","1984","","D-II","-",NA,NA,NA,NA
-"39","Wright St.","810","1983","","D-II","-",NA,NA,NA,NA
-"40","Wright St.","810","1982","","D-II","-",NA,NA,NA,NA
-"41","Wright St.","810","","","","",651,919,3,0.415
+"","season","head_coach","conference","record","win_perc"
+"1","2023","","-","NA-NA-0",0
+"2","2020","Laura Matthews","Horizon","7-11-0",0.389
+"3","2019","Laura Matthews","Horizon","22-33-0",0.4
+"4","2018","Laura Matthews","Horizon","21-32-0",0.396
+"5","2017","Justine Wichman","Horizon","21-31-0",0.404
+"6","2016","Lynn Curylo","Horizon","37-23-0",0.617
+"7","2015","Lynn Curylo","Horizon","23-33-0",0.411
+"8","2014","Lynn Curylo","Horizon","22-34-0",0.393
+"9","2013","Lynn Curylo","Horizon","19-37-0",0.339
+"10","2012","Lynn Curylo","Horizon","23-31-0",0.426
+"11","2011","Lynn Curylo","Horizon","26-29-0",0.473
+"12","2010","Linda Garza","Horizon","31-30-1",0.508
+"13","2009","Mike Larabee","Horizon","34-21-0",0.618
+"14","2008","Mike Larabee","Horizon","33-26-0",0.559
+"15","2007","Mike Larabee","Horizon","25-35-0",0.417
+"16","2006","Mike Larabee","Horizon","7-41-0",0.146
+"17","2005","Mike Larabee","Horizon","15-24-0",0.385
+"18","2004","Sheila Nahrgang","Horizon","16-43-1",0.275
+"19","2003","Sheila Nahrgang","Horizon","17-37-0",0.315
+"20","2002","Sheila Nahrgang","Horizon","11-26-0",0.297
+"21","2001","Sheila Nahrgang","Horizon","28-22-0",0.56
+"22","1900","Sheila Nahrgang","Horizon","36-20-0",0.643
+"23","1999","Sheila Nahrgang","Horizon","33-20-0",0.623
+"24","1998","Sheila Nahrgang","-","15-31-0",0.326
+"25","1997","Sheila Nahrgang","Horizon","29-23-0",0.558
+"26","1996","Sheila Nahrgang","-","19-23-0",0.452
+"27","1995","Sheila Nahrgang","-","16-29-0",0.356
+"28","1994","Sheila Nahrgang","-","5-32-1",0.145
+"29","1993","Sheila Nahrgang","-","10-27-0",0.27
+"30","1992","Jerry Hawker","-","10-32-0",0.238
+"31","1991","Jerry Hawker","-","8-40-0",0.167
+"32","1990","Jerry Hawker","-","16-23-0",0.41
+"33","1989","Jerry Hawker","-","16-20-0",0.444
+"34","1988","","-","NA-NA-0",NA
+"35","1987","","-","NA-NA-0",NA
+"36","1986","","-","NA-NA-0",NA
+"37","1985","","-","NA-NA-0",NA
+"38","1984","","-","NA-NA-0",NA
+"39","1983","","-","NA-NA-0",NA
+"40","1982","","-","NA-NA-0",NA

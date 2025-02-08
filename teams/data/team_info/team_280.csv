@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hillsdale","280","2025","Kyle Gross","D-II","G-MAC",3,3,0,0.5
-"2","Hillsdale","280","2024","Kyle Gross","D-II","G-MAC",34,14,0,0.708
-"3","Hillsdale","280","2023","Kyle Gross","D-II","G-MAC",35,21,0,0.625
-"4","Hillsdale","280","2022","Kyle Gross","D-II","G-MAC",31,20,0,0.608
-"5","Hillsdale","280","2021","Kyle Gross","D-II","G-MAC",33,19,0,0.635
-"6","Hillsdale","280","2020","Kyle Gross","D-II","G-MAC",4,16,0,0.2
-"7","Hillsdale","280","2019","Kyle Gross","D-II","G-MAC",23,28,0,0.451
-"8","Hillsdale","280","2018","Joe Abraham","D-II","G-MAC",25,16,NA,0.61
-"9","Hillsdale","280","2017","Joe Abraham","D-II","GLIAC",25,23,0,0.521
-"10","Hillsdale","280","2016","Joe Abraham","D-II","GLIAC",25,12,0,0.676
-"11","Hillsdale","280","2015","Joe Abraham","D-II","GLIAC",25,23,0,0.521
-"12","Hillsdale","280","2014","Joe Abraham","D-II","GLIAC",21,17,0,0.553
-"13","Hillsdale","280","2013","Joe Abraham","D-II","GLIAC",11,21,0,0.344
-"14","Hillsdale","280","2012","Joe Abraham","D-II","GLIAC",25,24,0,0.51
-"15","Hillsdale","280","2011","Jamie Meyers","D-II","GLIAC",16,31,0,0.34
-"16","Hillsdale","280","2010","Jamie Meyers","D-II","GLIAC",16,28,0,0.364
-"17","Hillsdale","280","2009","Jamie Meyers","D-II","GLIAC",17,27,0,0.386
-"18","Hillsdale","280","2008","Jamie Meyers","D-II","GLIAC",13,37,0,0.26
-"19","Hillsdale","280","2007","Becky Martinez","D-II","GLIAC",18,24,0,0.429
-"20","Hillsdale","280","2006","Sunny Jones","D-II","GLIAC",25,24,0,0.51
-"21","Hillsdale","280","2005","Sunny Jones","D-II","GLIAC",21,19,1,0.524
-"22","Hillsdale","280","2004","Jay Jondro","D-II","GLIAC",16,18,1,0.471
-"23","Hillsdale","280","2003","Jay Jondro","D-II","GLIAC",18,17,0,0.514
-"24","Hillsdale","280","2002","Jay Jondro","D-II","-",NA,NA,NA,NA
-"25","Hillsdale","280","2001","Jay Jondro","D-II","-",25,19,1,0.567
-"26","Hillsdale","280","1900","Jay Jondro","D-II","-",22,18,NA,0.55
-"27","Hillsdale","280","1999","Jay Jondro","D-II","-",13,25,1,0.346
-"28","Hillsdale","280","1998","Mark Huffman","D-II","-",17,24,NA,0.415
-"29","Hillsdale","280","1997","Mark Huffman","D-II","-",19,27,NA,0.413
-"30","Hillsdale","280","1996","Mark Huffman","D-II","-",24,19,NA,0.558
-"31","Hillsdale","280","1995","Mark Huffman","D-II","-",23,19,NA,0.548
-"32","Hillsdale","280","1994","Mark Huffman","D-II","-",24,23,NA,0.511
-"33","Hillsdale","280","1993","Mark Huffman","D-II","-",24,12,NA,0.667
-"34","Hillsdale","280","1992","Mark Huffman","D-II","-",25,9,NA,0.735
-"35","Hillsdale","280","1991","","D-II","-",NA,NA,NA,NA
-"36","Hillsdale","280","1990","","D-II","-",NA,NA,NA,NA
-"37","Hillsdale","280","","","","",696,677,4,0.507
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kyle Gross","G-MAC","3-3-0",0.5
+"2","2024","Kyle Gross","G-MAC","34-14-0",0.708
+"3","2023","Kyle Gross","G-MAC","35-21-0",0.625
+"4","2022","Kyle Gross","G-MAC","31-20-0",0.608
+"5","2021","Kyle Gross","G-MAC","33-19-0",0.635
+"6","2020","Kyle Gross","G-MAC","4-16-0",0.2
+"7","2019","Kyle Gross","G-MAC","23-28-0",0.451
+"8","2018","Joe Abraham","G-MAC","25-16-0",0.61
+"9","2017","Joe Abraham","GLIAC","25-23-0",0.521
+"10","2016","Joe Abraham","GLIAC","25-12-0",0.676
+"11","2015","Joe Abraham","GLIAC","25-23-0",0.521
+"12","2014","Joe Abraham","GLIAC","21-17-0",0.553
+"13","2013","Joe Abraham","GLIAC","11-21-0",0.344
+"14","2012","Joe Abraham","GLIAC","25-24-0",0.51
+"15","2011","Jamie Meyers","GLIAC","16-31-0",0.34
+"16","2010","Jamie Meyers","GLIAC","16-28-0",0.364
+"17","2009","Jamie Meyers","GLIAC","17-27-0",0.386
+"18","2008","Jamie Meyers","GLIAC","13-37-0",0.26
+"19","2007","Becky Martinez","GLIAC","18-24-0",0.429
+"20","2006","Sunny Jones","GLIAC","25-24-0",0.51
+"21","2005","Sunny Jones","GLIAC","21-19-1",0.524
+"22","2004","Jay Jondro","GLIAC","16-18-1",0.471
+"23","2003","Jay Jondro","GLIAC","18-17-0",0.514
+"24","2002","Jay Jondro","-","NA-NA-0",NA
+"25","2001","Jay Jondro","-","25-19-1",0.567
+"26","1900","Jay Jondro","-","22-18-0",0.55
+"27","1999","Jay Jondro","-","13-25-1",0.346
+"28","1998","Mark Huffman","-","17-24-0",0.415
+"29","1997","Mark Huffman","-","19-27-0",0.413
+"30","1996","Mark Huffman","-","24-19-0",0.558
+"31","1995","Mark Huffman","-","23-19-0",0.548
+"32","1994","Mark Huffman","-","24-23-0",0.511
+"33","1993","Mark Huffman","-","24-12-0",0.667
+"34","1992","Mark Huffman","-","25-9-0",0.735
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

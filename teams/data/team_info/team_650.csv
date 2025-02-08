@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","South Dakota","650","2025","Robert Wagner","D-I","Summit League",0,1,0,0
-"2","South Dakota","650","2024","Robert Wagner","D-I","Summit League",23,30,0,0.434
-"3","South Dakota","650","2023","Robert Wagner","D-I","Summit League",24,28,0,0.462
-"4","South Dakota","650","2022","Robert Wagner","D-I","Summit League",28,25,0,0.528
-"5","South Dakota","650","2021","Robert Wagner","D-I","Summit League",13,39,0,0.25
-"6","South Dakota","650","2020","Robert Wagner","D-I","Summit League",11,18,0,0.379
-"7","South Dakota","650","2019","Robert Wagner","D-I","Summit League",33,28,0,0.541
-"8","South Dakota","650","2018","Robert Wagner","D-I","Summit League",17,38,NA,0.309
-"9","South Dakota","650","2017","Robert Wagner","D-I","Summit League",22,32,0,0.407
-"10","South Dakota","650","2016","Amy Klyse","D-I","Summit League",15,38,0,0.283
-"11","South Dakota","650","2015","Amy Klyse","D-I","Summit League",28,25,1,0.528
-"12","South Dakota","650","2014","Amy Klyse","D-I","Summit League",29,22,0,0.569
-"13","South Dakota","650","2013","Amy Klyse","D-I","Summit League",29,20,0,0.592
-"14","South Dakota","650","2012","Amy Klyse","D-I","Summit League",16,39,0,0.291
-"15","South Dakota","650","2011","Amy Klyse","D-I","GWC",21,30,0,0.412
-"16","South Dakota","650","2010","Amy Klyse","D-I","GWC",21,30,1,0.413
-"17","South Dakota","650","2009","Amy Klyse","D-II","-",33,18,0,0.647
-"18","South Dakota","650","2008","Amy Klyse","D-II","NCC",19,24,0,0.442
-"19","South Dakota","650","2007","Kim Zarling","D-II","NCC",19,41,0,0.317
-"20","South Dakota","650","2006","Kim Zarling","D-II","NCC",17,32,0,0.347
-"21","South Dakota","650","2005","Kim Zarling","D-II","NCC",22,42,0,0.344
-"22","South Dakota","650","2004","Kim Zarling","D-II","NCC",23,38,0,0.377
-"23","South Dakota","650","2003","Kim Zarling","D-II","NCC",31,26,0,0.544
-"24","South Dakota","650","2002","Kim Zarling","D-II","NCC",24,38,0,0.387
-"25","South Dakota","650","2001","Kim Zarling","D-II","-",32,36,0,0.471
-"26","South Dakota","650","1900","Kim Zarling","D-II","-",29,34,0,0.46
-"27","South Dakota","650","1999","Kim Zarling","D-II","-",34,28,0,0.548
-"28","South Dakota","650","1998","Kim Zarling","D-II","-",40,22,0,0.645
-"29","South Dakota","650","1997","Kim Zarling","D-II","-",27,31,0,0.466
-"30","South Dakota","650","1996","Kim Zarling","D-II","-",27,35,0,0.435
-"31","South Dakota","650","1995","Mary Mock","D-II","-",18,22,0,0.45
-"32","South Dakota","650","1994","Marilyn Strate","D-II","-",16,32,0,0.333
-"33","South Dakota","650","1993","Anne Richter","D-II","-",21,33,0,0.389
-"34","South Dakota","650","1992","Anne Richter","D-II","-",6,42,0,0.125
-"35","South Dakota","650","1991","Anne Richter","D-II","-",5,34,0,0.128
-"36","South Dakota","650","1989","","D-II","-",NA,NA,NA,NA
-"37","South Dakota","650","1988","","D-II","-",NA,NA,NA,NA
-"38","South Dakota","650","1987","","D-II","-",NA,NA,NA,NA
-"39","South Dakota","650","1984","","D-II","-",NA,NA,NA,NA
-"40","South Dakota","650","1983","","D-II","-",NA,NA,NA,NA
-"41","South Dakota","650","1982","","D-II","-",NA,NA,NA,NA
-"42","South Dakota","650","","","","",773,1051,2,0.424
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Robert Wagner","Summit League","0-1-0",0
+"2","2024","Robert Wagner","Summit League","23-30-0",0.434
+"3","2023","Robert Wagner","Summit League","24-28-0",0.462
+"4","2022","Robert Wagner","Summit League","28-25-0",0.528
+"5","2021","Robert Wagner","Summit League","13-39-0",0.25
+"6","2020","Robert Wagner","Summit League","11-18-0",0.379
+"7","2019","Robert Wagner","Summit League","33-28-0",0.541
+"8","2018","Robert Wagner","Summit League","17-38-0",0.309
+"9","2017","Robert Wagner","Summit League","22-32-0",0.407
+"10","2016","Amy Klyse","Summit League","15-38-0",0.283
+"11","2015","Amy Klyse","Summit League","28-25-1",0.528
+"12","2014","Amy Klyse","Summit League","29-22-0",0.569
+"13","2013","Amy Klyse","Summit League","29-20-0",0.592
+"14","2012","Amy Klyse","Summit League","16-39-0",0.291
+"15","2011","Amy Klyse","GWC","21-30-0",0.412
+"16","2010","Amy Klyse","GWC","21-30-1",0.413
+"17","2009","Amy Klyse","-","33-18-0",0.647
+"18","2008","Amy Klyse","NCC","19-24-0",0.442
+"19","2007","Kim Zarling","NCC","19-41-0",0.317
+"20","2006","Kim Zarling","NCC","17-32-0",0.347
+"21","2005","Kim Zarling","NCC","22-42-0",0.344
+"22","2004","Kim Zarling","NCC","23-38-0",0.377
+"23","2003","Kim Zarling","NCC","31-26-0",0.544
+"24","2002","Kim Zarling","NCC","24-38-0",0.387
+"25","2001","Kim Zarling","-","32-36-0",0.471
+"26","1900","Kim Zarling","-","29-34-0",0.46
+"27","1999","Kim Zarling","-","34-28-0",0.548
+"28","1998","Kim Zarling","-","40-22-0",0.645
+"29","1997","Kim Zarling","-","27-31-0",0.466
+"30","1996","Kim Zarling","-","27-35-0",0.435
+"31","1995","Mary Mock","-","18-22-0",0.45
+"32","1994","Marilyn Strate","-","16-32-0",0.333
+"33","1993","Anne Richter","-","21-33-0",0.389
+"34","1992","Anne Richter","-","6-42-0",0.125
+"35","1991","Anne Richter","-","5-34-0",0.128
+"36","1989","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA
+"38","1987","","-","NA-NA-0",NA
+"39","1984","","-","NA-NA-0",NA
+"40","1983","","-","NA-NA-0",NA
+"41","1982","","-","NA-NA-0",NA

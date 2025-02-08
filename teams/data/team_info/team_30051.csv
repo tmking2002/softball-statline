@@ -1,20 +1,19 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","King (TN)","30051","2025","Kyleigh Payne","D-II","Conference Carolinas",1,1,0,0.5
-"2","King (TN)","30051","2024","Kyleigh Payne","D-II","Conference Carolinas",27,24,0,0.529
-"3","King (TN)","30051","2023","Kyleigh Payne","D-II","Conference Carolinas",36,24,0,0.6
-"4","King (TN)","30051","2022","Jake Cockerham","D-II","Conference Carolinas",42,17,0,0.712
-"5","King (TN)","30051","2021","Jake Cockerham","D-II","Conference Carolinas",25,16,0,0.61
-"6","King (TN)","30051","2020","Jake Cockerham","D-II","Conference Carolinas",11,13,0,0.458
-"7","King (TN)","30051","2019","Jake Cockerham","D-II","Conference Carolinas",31,21,0,0.596
-"8","King (TN)","30051","2018","Jenn Testa","D-II","Conference Carolinas",36,22,NA,0.621
-"9","King (TN)","30051","2017","Jenn Testa","D-II","Conference Carolinas",32,19,0,0.627
-"10","King (TN)","30051","2016","Jenn Testa","D-II","Conference Carolinas",19,31,0,0.38
-"11","King (TN)","30051","2015","Jenn Testa","D-II","Conference Carolinas",18,27,0,0.4
-"12","King (TN)","30051","2014","Jenn Testa","D-II","Conference Carolinas",30,26,0,0.536
-"13","King (TN)","30051","2013","Jenn Testa","D-II","Conference Carolinas",31,26,0,0.544
-"14","King (TN)","30051","2012","Jenn Testa","D-II","Conference Carolinas",34,19,0,0.642
-"15","King (TN)","30051","2011","Jenn Testa","D-II","King (TN)",13,27,0,0.325
-"16","King (TN)","30051","2010","Jenn Testa","","-",22,17,0,0.564
-"17","King (TN)","30051","2009","Jenn Testa","","-",23,16,0,0.59
-"18","King (TN)","30051","2008","","","-",NA,NA,NA,NA
-"19","King (TN)","30051","","","","",431,346,0,0.555
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kyleigh Payne","Conference Carolinas","1-1-0",0.5
+"2","2024","Kyleigh Payne","Conference Carolinas","27-24-0",0.529
+"3","2023","Kyleigh Payne","Conference Carolinas","36-24-0",0.6
+"4","2022","Jake Cockerham","Conference Carolinas","42-17-0",0.712
+"5","2021","Jake Cockerham","Conference Carolinas","25-16-0",0.61
+"6","2020","Jake Cockerham","Conference Carolinas","11-13-0",0.458
+"7","2019","Jake Cockerham","Conference Carolinas","31-21-0",0.596
+"8","2018","Jenn Testa","Conference Carolinas","36-22-0",0.621
+"9","2017","Jenn Testa","Conference Carolinas","32-19-0",0.627
+"10","2016","Jenn Testa","Conference Carolinas","19-31-0",0.38
+"11","2015","Jenn Testa","Conference Carolinas","18-27-0",0.4
+"12","2014","Jenn Testa","Conference Carolinas","30-26-0",0.536
+"13","2013","Jenn Testa","Conference Carolinas","31-26-0",0.544
+"14","2012","Jenn Testa","Conference Carolinas","34-19-0",0.642
+"15","2011","Jenn Testa","King (TN)","13-27-0",0.325
+"16","2010","Jenn Testa","-","22-17-0",0.564
+"17","2009","Jenn Testa","-","23-16-0",0.59
+"18","2008","","-","NA-NA-0",NA

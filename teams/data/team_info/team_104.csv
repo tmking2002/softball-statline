@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UC Santa Barbara","104","2025","Jo Evans","D-I","Big West",0,0,0,0
-"2","UC Santa Barbara","104","2024","Jo Evans","D-I","Big West",20,28,0,0.417
-"3","UC Santa Barbara","104","2023","Jo Evans","D-I","Big West",26,22,0,0.542
-"4","UC Santa Barbara","104","2022","Brie Galiciano","D-I","Big West",15,39,0,0.278
-"5","UC Santa Barbara","104","2021","Brie Galiciano","D-I","Big West",15,31,0,0.326
-"6","UC Santa Barbara","104","2020","Brie Galiciano","D-I","Big West",12,16,0,0.429
-"7","UC Santa Barbara","104","2019","Brie Galiciano","D-I","Big West",10,42,0,0.192
-"8","UC Santa Barbara","104","2018","Brie Galiciano","D-I","Big West",20,34,NA,0.37
-"9","UC Santa Barbara","104","2017","Brie Galiciano","D-I","Big West",31,28,0,0.525
-"10","UC Santa Barbara","104","2016","Brie Galiciano","D-I","Big West",28,28,0,0.5
-"11","UC Santa Barbara","104","2015","Brie Galiciano","D-I","Big West",19,35,0,0.352
-"12","UC Santa Barbara","104","2014","Brie Galiciano","D-I","Big West",35,21,1,0.623
-"13","UC Santa Barbara","104","2013","Brie Galiciano","D-I","Big West",31,24,0,0.564
-"14","UC Santa Barbara","104","2012","Brie Galiciano","D-I","Big West",30,28,0,0.517
-"15","UC Santa Barbara","104","2011","Brie Galiciano","D-I","Big West",27,26,0,0.509
-"16","UC Santa Barbara","104","2010","Brie Galiciano","D-I","Big West",15,37,0,0.288
-"17","UC Santa Barbara","104","2009","Brie Galiciano","D-I","Big West",26,25,0,0.51
-"18","UC Santa Barbara","104","2008","Brie Galiciano","D-I","Big West",30,24,0,0.556
-"19","UC Santa Barbara","104","2007","Kristy Schroeder","D-I","Big West",30,23,0,0.566
-"20","UC Santa Barbara","104","2006","Kristy Schroeder","D-I","Big West",24,22,0,0.522
-"21","UC Santa Barbara","104","2005","Kristy Schroeder","D-I","Big West",26,22,0,0.542
-"22","UC Santa Barbara","104","2004","Kristy Schroeder","D-I","Big West",32,31,0,0.508
-"23","UC Santa Barbara","104","2003","Kristy Schroeder","D-I","Big West",34,22,0,0.607
-"24","UC Santa Barbara","104","2002","Kristy Schroeder","D-I","Big West",27,36,0,0.429
-"25","UC Santa Barbara","104","2001","Liz Kelly","D-I","Big West",18,34,0,0.346
-"26","UC Santa Barbara","104","1900","Liz Kelly","D-I","Big West",30,21,0,0.588
-"27","UC Santa Barbara","104","1999","Liz Kelly","D-I","Big West",24,30,0,0.444
-"28","UC Santa Barbara","104","1998","Liz Kelly","D-I","-",25,25,NA,0.5
-"29","UC Santa Barbara","104","1997","Liz Kelly","D-I","Big West",24,35,0,0.407
-"30","UC Santa Barbara","104","1996","Liz Kelly","D-I","-",20,30,NA,0.4
-"31","UC Santa Barbara","104","1995","Liz Kelly","D-I","-",24,35,NA,0.407
-"32","UC Santa Barbara","104","1994","Frann Wageneck","D-I","-",23,33,NA,0.411
-"33","UC Santa Barbara","104","1993","Sandy Pearce","D-I","-",22,29,NA,0.431
-"34","UC Santa Barbara","104","1992","Sandy Pearce","D-I","-",19,29,NA,0.396
-"35","UC Santa Barbara","104","1991","Brenda Greene","D-I","-",18,43,NA,0.295
-"36","UC Santa Barbara","104","1990","Brenda Greene","D-I","-",23,34,NA,0.404
-"37","UC Santa Barbara","104","1989","Brenda Greene","D-I","-",25,29,NA,0.463
-"38","UC Santa Barbara","104","1988","Brenda Greene","D-I","-",6,50,NA,0.107
-"39","UC Santa Barbara","104","1987","Brenda Greene","D-I","-",33,30,NA,0.524
-"40","UC Santa Barbara","104","1986","Brenda Greene","D-I","-",20,30,NA,0.4
-"41","UC Santa Barbara","104","1985","","","-",NA,NA,NA,NA
-"42","UC Santa Barbara","104","1984","","","-",NA,NA,NA,NA
-"43","UC Santa Barbara","104","1983","","","-",NA,NA,NA,NA
-"44","UC Santa Barbara","104","1982","","D-I","-",NA,NA,NA,NA
-"45","UC Santa Barbara","104","","","","",917,1161,1,0.441
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jo Evans","Big West","0-0-0",0
+"2","2024","Jo Evans","Big West","20-28-0",0.417
+"3","2023","Jo Evans","Big West","26-22-0",0.542
+"4","2022","Brie Galiciano","Big West","15-39-0",0.278
+"5","2021","Brie Galiciano","Big West","15-31-0",0.326
+"6","2020","Brie Galiciano","Big West","12-16-0",0.429
+"7","2019","Brie Galiciano","Big West","10-42-0",0.192
+"8","2018","Brie Galiciano","Big West","20-34-0",0.37
+"9","2017","Brie Galiciano","Big West","31-28-0",0.525
+"10","2016","Brie Galiciano","Big West","28-28-0",0.5
+"11","2015","Brie Galiciano","Big West","19-35-0",0.352
+"12","2014","Brie Galiciano","Big West","35-21-1",0.623
+"13","2013","Brie Galiciano","Big West","31-24-0",0.564
+"14","2012","Brie Galiciano","Big West","30-28-0",0.517
+"15","2011","Brie Galiciano","Big West","27-26-0",0.509
+"16","2010","Brie Galiciano","Big West","15-37-0",0.288
+"17","2009","Brie Galiciano","Big West","26-25-0",0.51
+"18","2008","Brie Galiciano","Big West","30-24-0",0.556
+"19","2007","Kristy Schroeder","Big West","30-23-0",0.566
+"20","2006","Kristy Schroeder","Big West","24-22-0",0.522
+"21","2005","Kristy Schroeder","Big West","26-22-0",0.542
+"22","2004","Kristy Schroeder","Big West","32-31-0",0.508
+"23","2003","Kristy Schroeder","Big West","34-22-0",0.607
+"24","2002","Kristy Schroeder","Big West","27-36-0",0.429
+"25","2001","Liz Kelly","Big West","18-34-0",0.346
+"26","1900","Liz Kelly","Big West","30-21-0",0.588
+"27","1999","Liz Kelly","Big West","24-30-0",0.444
+"28","1998","Liz Kelly","-","25-25-0",0.5
+"29","1997","Liz Kelly","Big West","24-35-0",0.407
+"30","1996","Liz Kelly","-","20-30-0",0.4
+"31","1995","Liz Kelly","-","24-35-0",0.407
+"32","1994","Frann Wageneck","-","23-33-0",0.411
+"33","1993","Sandy Pearce","-","22-29-0",0.431
+"34","1992","Sandy Pearce","-","19-29-0",0.396
+"35","1991","Brenda Greene","-","18-43-0",0.295
+"36","1990","Brenda Greene","-","23-34-0",0.404
+"37","1989","Brenda Greene","-","25-29-0",0.463
+"38","1988","Brenda Greene","-","6-50-0",0.107
+"39","1987","Brenda Greene","-","33-30-0",0.524
+"40","1986","Brenda Greene","-","20-30-0",0.4
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

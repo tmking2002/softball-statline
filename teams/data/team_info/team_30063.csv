@@ -1,23 +1,22 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Seton Hill","30063","2025","Cassie Moore","D-II","PSAC",2,0,0,1
-"2","Seton Hill","30063","2024","Cassie Moore","D-II","PSAC",37,17,0,0.685
-"3","Seton Hill","30063","2023","Cassie Moore","D-II","PSAC",29,17,0,0.63
-"4","Seton Hill","30063","2022","Jessica Strong","D-II","PSAC",42,12,0,0.778
-"5","Seton Hill","30063","2021","Jessica Strong","D-II","PSAC",32,14,0,0.696
-"6","Seton Hill","30063","2020","Jessica Strong","D-II","PSAC",7,10,0,0.412
-"7","Seton Hill","30063","2019","Jessica Strong","D-II","PSAC",29,18,0,0.617
-"8","Seton Hill","30063","2018","Bill Monstrola","D-II","PSAC",23,17,NA,0.575
-"9","Seton Hill","30063","2017","Bill Monstrola","D-II","PSAC",22,23,0,0.489
-"10","Seton Hill","30063","2016","Bill Monstrola","D-II","PSAC",16,26,0,0.381
-"11","Seton Hill","30063","2015","Bill Monstrola","D-II","PSAC",33,15,1,0.684
-"12","Seton Hill","30063","2014","Jen Mineau","D-II","PSAC",21,20,0,0.512
-"13","Seton Hill","30063","2013","Paul O'Brien","D-II","WVIAC",13,21,0,0.382
-"14","Seton Hill","30063","2012","Samantha Hurst","D-II","WVIAC",20,29,0,0.408
-"15","Seton Hill","30063","2011","Jennifer Patrick-Swift","D-II","WVIAC",18,23,0,0.439
-"16","Seton Hill","30063","2010","Laura Cymmerman","D-II","WVIAC",24,26,1,0.48
-"17","Seton Hill","30063","2009","Laura Cymmerman","D-II","WVIAC",26,20,0,0.565
-"18","Seton Hill","30063","2008","Laura Cymmerman","D-II","-",NA,NA,NA,NA
-"19","Seton Hill","30063","2007","Laura Cymmerman","D-II","-",NA,NA,NA,NA
-"20","Seton Hill","30063","2006","Laura Cymmerman","D-II","-",NA,NA,NA,NA
-"21","Seton Hill","30063","2002","","","-",NA,NA,NA,NA
-"22","Seton Hill","30063","","","","",394,308,2,0.561
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Cassie Moore","PSAC","2-0-0",1
+"2","2024","Cassie Moore","PSAC","37-17-0",0.685
+"3","2023","Cassie Moore","PSAC","29-17-0",0.63
+"4","2022","Jessica Strong","PSAC","42-12-0",0.778
+"5","2021","Jessica Strong","PSAC","32-14-0",0.696
+"6","2020","Jessica Strong","PSAC","7-10-0",0.412
+"7","2019","Jessica Strong","PSAC","29-18-0",0.617
+"8","2018","Bill Monstrola","PSAC","23-17-0",0.575
+"9","2017","Bill Monstrola","PSAC","22-23-0",0.489
+"10","2016","Bill Monstrola","PSAC","16-26-0",0.381
+"11","2015","Bill Monstrola","PSAC","33-15-1",0.684
+"12","2014","Jen Mineau","PSAC","21-20-0",0.512
+"13","2013","Paul O'Brien","WVIAC","13-21-0",0.382
+"14","2012","Samantha Hurst","WVIAC","20-29-0",0.408
+"15","2011","Jennifer Patrick-Swift","WVIAC","18-23-0",0.439
+"16","2010","Laura Cymmerman","WVIAC","24-26-1",0.48
+"17","2009","Laura Cymmerman","WVIAC","26-20-0",0.565
+"18","2008","Laura Cymmerman","-","NA-NA-0",NA
+"19","2007","Laura Cymmerman","-","NA-NA-0",NA
+"20","2006","Laura Cymmerman","-","NA-NA-0",NA
+"21","2002","","-","NA-NA-0",NA

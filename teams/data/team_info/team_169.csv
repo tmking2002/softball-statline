@@ -1,51 +1,50 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Creighton","169","2025","Krista Wood","D-I","Big East",1,1,0,0.5
-"2","Creighton","169","2024","Krista Wood","D-I","Big East",36,22,0,0.621
-"3","Creighton","169","2023","Krista Wood","D-I","Big East",22,31,0,0.415
-"4","Creighton","169","2022","Brent Vigness","D-I","Big East",15,27,0,0.357
-"5","Creighton","169","2021","Brent Vigness","D-I","Big East",14,14,0,0.5
-"6","Creighton","169","2020","Brent Vigness","D-I","Big East",13,12,0,0.52
-"7","Creighton","169","2019","Brent Vigness","D-I","Big East",20,24,0,0.455
-"8","Creighton","169","2018","Brent Vigness","D-I","Big East",28,15,NA,0.651
-"9","Creighton","169","2017","Brent Vigness","D-I","Big East",18,32,0,0.36
-"10","Creighton","169","2016","Brent Vigness","D-I","Big East",25,22,0,0.532
-"11","Creighton","169","2015","Brent Vigness","D-I","Big East",22,21,0,0.512
-"12","Creighton","169","2014","Brent Vigness","D-I","Big East",29,24,0,0.547
-"13","Creighton","169","2013","Brent Vigness","D-I","MVC",29,18,0,0.617
-"14","Creighton","169","2012","Brent Vigness","D-I","MVC",30,27,1,0.526
-"15","Creighton","169","2011","Brent Vigness","D-I","MVC",25,28,0,0.472
-"16","Creighton","169","2010","Brent Vigness","D-I","MVC",37,23,0,0.617
-"17","Creighton","169","2009","Brent Vigness","D-I","MVC",35,16,0,0.686
-"18","Creighton","169","2008","Brent Vigness","D-I","MVC",43,17,0,0.717
-"19","Creighton","169","2007","Brent Vigness","D-I","MVC",40,14,1,0.736
-"20","Creighton","169","2006","Brent Vigness","D-I","MVC",23,27,0,0.46
-"21","Creighton","169","2005","Brent Vigness","D-I","MVC",44,13,0,0.772
-"22","Creighton","169","2004","Brent Vigness","D-I","MVC",44,17,1,0.718
-"23","Creighton","169","2003","Brent Vigness","D-I","MVC",26,24,0,0.52
-"24","Creighton","169","2002","Brent Vigness","D-I","MVC",28,28,0,0.5
-"25","Creighton","169","2001","Brent Vigness","D-I","MVC",30,27,0,0.526
-"26","Creighton","169","1900","Brent Vigness","D-I","MVC",34,22,0,0.607
-"27","Creighton","169","1999","Brent Vigness","D-I","MVC",31,28,0,0.525
-"28","Creighton","169","1998","Brent Vigness","D-I","-",33,15,NA,0.688
-"29","Creighton","169","1997","Brent Vigness","D-I","MVC",32,30,0,0.516
-"30","Creighton","169","1996","Brent Vigness","D-I","-",17,24,NA,0.415
-"31","Creighton","169","1995","Brent Vigness","D-I","-",32,19,NA,0.627
-"32","Creighton","169","1994","Brent Vigness","D-I","-",24,31,NA,0.436
-"33","Creighton","169","1993","Mary Higgins","D-I","-",32,23,NA,0.582
-"34","Creighton","169","1992","Mary Higgins","D-I","-",20,32,NA,0.385
-"35","Creighton","169","1991","Mary Higgins","D-I","-",38,25,NA,0.603
-"36","Creighton","169","1990","Mary Higgins","D-I","-",39,23,NA,0.629
-"37","Creighton","169","1989","Mary Higgins","D-I","-",49,19,NA,0.721
-"38","Creighton","169","1988","Mary Higgins","D-I","-",38,18,NA,0.679
-"39","Creighton","169","1987","Mary Higgins","D-I","-",34,13,NA,0.723
-"40","Creighton","169","1986","Mary Higgins","D-I","-",36,22,NA,0.621
-"41","Creighton","169","1985","Mary Higgins","D-I","-",43,18,NA,0.705
-"42","Creighton","169","1984","Mary Higgins","D-I","-",28,12,NA,0.7
-"43","Creighton","169","1983","Mary Higgins","D-I","-",21,18,NA,0.538
-"44","Creighton","169","1982","Mary Higgins","D-I","-",39,13,NA,0.75
-"45","Creighton","169","1981","Mary Higgins","","-",51,7,NA,0.879
-"46","Creighton","169","1980","Mary Higgins","","-",46,18,NA,0.719
-"47","Creighton","169","1979","Mary Higgins","","-",22,13,NA,0.629
-"48","Creighton","169","1978","Mary Higgins","","-",20,11,NA,0.645
-"49","Creighton","169","1977","Mary Higgins","","-",8,14,NA,0.364
-"50","Creighton","169","","","","",1444,992,3,0.593
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Krista Wood","Big East","1-1-0",0.5
+"2","2024","Krista Wood","Big East","36-22-0",0.621
+"3","2023","Krista Wood","Big East","22-31-0",0.415
+"4","2022","Brent Vigness","Big East","15-27-0",0.357
+"5","2021","Brent Vigness","Big East","14-14-0",0.5
+"6","2020","Brent Vigness","Big East","13-12-0",0.52
+"7","2019","Brent Vigness","Big East","20-24-0",0.455
+"8","2018","Brent Vigness","Big East","28-15-0",0.651
+"9","2017","Brent Vigness","Big East","18-32-0",0.36
+"10","2016","Brent Vigness","Big East","25-22-0",0.532
+"11","2015","Brent Vigness","Big East","22-21-0",0.512
+"12","2014","Brent Vigness","Big East","29-24-0",0.547
+"13","2013","Brent Vigness","MVC","29-18-0",0.617
+"14","2012","Brent Vigness","MVC","30-27-1",0.526
+"15","2011","Brent Vigness","MVC","25-28-0",0.472
+"16","2010","Brent Vigness","MVC","37-23-0",0.617
+"17","2009","Brent Vigness","MVC","35-16-0",0.686
+"18","2008","Brent Vigness","MVC","43-17-0",0.717
+"19","2007","Brent Vigness","MVC","40-14-1",0.736
+"20","2006","Brent Vigness","MVC","23-27-0",0.46
+"21","2005","Brent Vigness","MVC","44-13-0",0.772
+"22","2004","Brent Vigness","MVC","44-17-1",0.718
+"23","2003","Brent Vigness","MVC","26-24-0",0.52
+"24","2002","Brent Vigness","MVC","28-28-0",0.5
+"25","2001","Brent Vigness","MVC","30-27-0",0.526
+"26","1900","Brent Vigness","MVC","34-22-0",0.607
+"27","1999","Brent Vigness","MVC","31-28-0",0.525
+"28","1998","Brent Vigness","-","33-15-0",0.688
+"29","1997","Brent Vigness","MVC","32-30-0",0.516
+"30","1996","Brent Vigness","-","17-24-0",0.415
+"31","1995","Brent Vigness","-","32-19-0",0.627
+"32","1994","Brent Vigness","-","24-31-0",0.436
+"33","1993","Mary Higgins","-","32-23-0",0.582
+"34","1992","Mary Higgins","-","20-32-0",0.385
+"35","1991","Mary Higgins","-","38-25-0",0.603
+"36","1990","Mary Higgins","-","39-23-0",0.629
+"37","1989","Mary Higgins","-","49-19-0",0.721
+"38","1988","Mary Higgins","-","38-18-0",0.679
+"39","1987","Mary Higgins","-","34-13-0",0.723
+"40","1986","Mary Higgins","-","36-22-0",0.621
+"41","1985","Mary Higgins","-","43-18-0",0.705
+"42","1984","Mary Higgins","-","28-12-0",0.7
+"43","1983","Mary Higgins","-","21-18-0",0.538
+"44","1982","Mary Higgins","-","39-13-0",0.75
+"45","1981","Mary Higgins","-","51-7-0",0.879
+"46","1980","Mary Higgins","-","46-18-0",0.719
+"47","1979","Mary Higgins","-","22-13-0",0.629
+"48","1978","Mary Higgins","-","20-11-0",0.645
+"49","1977","Mary Higgins","-","8-14-0",0.364

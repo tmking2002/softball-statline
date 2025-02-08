@@ -1,37 +1,36 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","UC-Colo. Springs","9754","2025","Dwight Sanders","D-II","RMAC",4,2,0,0.667
-"2","UC-Colo. Springs","9754","2024","Dwight Sanders","D-II","RMAC",19,32,0,0.373
-"3","UC-Colo. Springs","9754","2023","Ricki Rothbauer-Stubbs","D-II","RMAC",14,37,0,0.275
-"4","UC-Colo. Springs","9754","2022","Ricki Rothbauer-Stubbs","D-II","RMAC",27,24,0,0.529
-"5","UC-Colo. Springs","9754","2021","Ricki Rothbauer-Stubbs","D-II","RMAC",17,25,0,0.405
-"6","UC-Colo. Springs","9754","2020","Ricki Rothbauer-Stubbs","D-II","RMAC",10,13,0,0.435
-"7","UC-Colo. Springs","9754","2019","Ricki Rothbauer-Stubbs","D-II","RMAC",28,26,0,0.519
-"8","UC-Colo. Springs","9754","2018","Ricki Rothbauer-Stubbs","D-II","RMAC",27,27,NA,0.5
-"9","UC-Colo. Springs","9754","2017","Ricki Rothbauer-Stubbs","D-II","RMAC",17,28,0,0.378
-"10","UC-Colo. Springs","9754","2016","Ricki Rothbauer-Stubbs","D-II","RMAC",21,23,0,0.477
-"11","UC-Colo. Springs","9754","2015","Scott Peterson","D-II","RMAC",18,27,0,0.4
-"12","UC-Colo. Springs","9754","2014","Scott Peterson","D-II","RMAC",27,19,0,0.587
-"13","UC-Colo. Springs","9754","2013","Scott Peterson","D-II","RMAC",35,23,1,0.602
-"14","UC-Colo. Springs","9754","2012","Scott Peterson","D-II","RMAC",22,23,0,0.489
-"15","UC-Colo. Springs","9754","2011","Scott Peterson","D-II","RMAC",22,28,0,0.44
-"16","UC-Colo. Springs","9754","2010","Scott Peterson","D-II","RMAC",16,32,0,0.333
-"17","UC-Colo. Springs","9754","2009","Scott Peterson","D-II","RMAC",15,27,0,0.357
-"18","UC-Colo. Springs","9754","2008","Scott Peterson","D-II","RMAC",22,29,0,0.431
-"19","UC-Colo. Springs","9754","2007","Scott Peterson","D-II","RMAC",36,20,0,0.643
-"20","UC-Colo. Springs","9754","2006","Scott Peterson","D-II","RMAC",36,16,0,0.692
-"21","UC-Colo. Springs","9754","2005","Scott Peterson","D-II","RMAC",30,18,0,0.625
-"22","UC-Colo. Springs","9754","2004","Scott Peterson","D-II","RMAC",39,13,0,0.75
-"23","UC-Colo. Springs","9754","2003","Scott Peterson","D-II","-",22,26,0,0.458
-"24","UC-Colo. Springs","9754","2002","Scott Peterson","D-II","RMAC",26,30,0,0.464
-"25","UC-Colo. Springs","9754","2001","Scott Peterson","D-II","-",8,36,0,0.182
-"26","UC-Colo. Springs","9754","1900","Leticia Pineda-Boutte","D-II","-",21,26,0,0.447
-"27","UC-Colo. Springs","9754","1999","Jose Garcia","D-II","-",21,25,0,0.457
-"28","UC-Colo. Springs","9754","1998","Jose Garcia","D-II","-",20,19,0,0.513
-"29","UC-Colo. Springs","9754","1997","Jose Garcia","D-II","-",11,27,0,0.289
-"30","UC-Colo. Springs","9754","1996","Jose Garcia","D-II","-",17,23,0,0.425
-"31","UC-Colo. Springs","9754","1995","Jose Garcia","D-II","-",15,24,0,0.385
-"32","UC-Colo. Springs","9754","1994","Jackie Coburn","D-II","-",23,19,0,0.548
-"33","UC-Colo. Springs","9754","1993","Jackie Coburn","D-II","-",19,24,0,0.442
-"34","UC-Colo. Springs","9754","1992","Jackie Coburn","D-II","-",13,43,0,0.232
-"35","UC-Colo. Springs","9754","1991","Jackie Coburn","D-II","-",5,21,0,0.192
-"36","UC-Colo. Springs","9754","","","","",723,855,1,0.458
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Dwight Sanders","RMAC","4-2-0",0.667
+"2","2024","Dwight Sanders","RMAC","19-32-0",0.373
+"3","2023","Ricki Rothbauer-Stubbs","RMAC","14-37-0",0.275
+"4","2022","Ricki Rothbauer-Stubbs","RMAC","27-24-0",0.529
+"5","2021","Ricki Rothbauer-Stubbs","RMAC","17-25-0",0.405
+"6","2020","Ricki Rothbauer-Stubbs","RMAC","10-13-0",0.435
+"7","2019","Ricki Rothbauer-Stubbs","RMAC","28-26-0",0.519
+"8","2018","Ricki Rothbauer-Stubbs","RMAC","27-27-0",0.5
+"9","2017","Ricki Rothbauer-Stubbs","RMAC","17-28-0",0.378
+"10","2016","Ricki Rothbauer-Stubbs","RMAC","21-23-0",0.477
+"11","2015","Scott Peterson","RMAC","18-27-0",0.4
+"12","2014","Scott Peterson","RMAC","27-19-0",0.587
+"13","2013","Scott Peterson","RMAC","35-23-1",0.602
+"14","2012","Scott Peterson","RMAC","22-23-0",0.489
+"15","2011","Scott Peterson","RMAC","22-28-0",0.44
+"16","2010","Scott Peterson","RMAC","16-32-0",0.333
+"17","2009","Scott Peterson","RMAC","15-27-0",0.357
+"18","2008","Scott Peterson","RMAC","22-29-0",0.431
+"19","2007","Scott Peterson","RMAC","36-20-0",0.643
+"20","2006","Scott Peterson","RMAC","36-16-0",0.692
+"21","2005","Scott Peterson","RMAC","30-18-0",0.625
+"22","2004","Scott Peterson","RMAC","39-13-0",0.75
+"23","2003","Scott Peterson","-","22-26-0",0.458
+"24","2002","Scott Peterson","RMAC","26-30-0",0.464
+"25","2001","Scott Peterson","-","8-36-0",0.182
+"26","1900","Leticia Pineda-Boutte","-","21-26-0",0.447
+"27","1999","Jose Garcia","-","21-25-0",0.457
+"28","1998","Jose Garcia","-","20-19-0",0.513
+"29","1997","Jose Garcia","-","11-27-0",0.289
+"30","1996","Jose Garcia","-","17-23-0",0.425
+"31","1995","Jose Garcia","-","15-24-0",0.385
+"32","1994","Jackie Coburn","-","23-19-0",0.548
+"33","1993","Jackie Coburn","-","19-24-0",0.442
+"34","1992","Jackie Coburn","-","13-43-0",0.232
+"35","1991","Jackie Coburn","-","5-21-0",0.192

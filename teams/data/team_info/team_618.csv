@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Scholastica","618","2025","Kallee Wilkins","D-III","MIAC",0,0,0,0
-"2","St. Scholastica","618","2024","Kallee Wilkins","D-III","MIAC",8,28,0,0.222
-"3","St. Scholastica","618","2023","Rilee Dawson","D-III","MIAC",17,18,0,0.486
-"4","St. Scholastica","618","2022","Rilee Dawson","D-III","MIAC",15,21,0,0.417
-"5","St. Scholastica","618","2021","Rilee Dawson","D-III","UMAC",32,8,0,0.8
-"6","St. Scholastica","618","2020","Rilee Dawson","D-III","UMAC",7,7,0,0.5
-"7","St. Scholastica","618","2019","Rilee Dawson","D-III","UMAC",23,16,0,0.59
-"8","St. Scholastica","618","2018","Rilee Dawson","D-III","UMAC",22,13,NA,0.629
-"9","St. Scholastica","618","2017","Rilee Dawson","D-III","UMAC",24,17,0,0.585
-"10","St. Scholastica","618","2016","Rilee Dawson","D-III","UMAC",26,15,0,0.634
-"11","St. Scholastica","618","2015","Jennifer Walter","D-III","UMAC",31,16,0,0.66
-"12","St. Scholastica","618","2014","Jennifer Walter","D-III","UMAC",27,12,0,0.692
-"13","St. Scholastica","618","2013","Jennifer Walter","D-III","UMAC",24,14,0,0.632
-"14","St. Scholastica","618","2012","Jennifer Walter","D-III","UMAC",32,12,0,0.727
-"15","St. Scholastica","618","2011","Jennifer Walter","D-III","UMAC",29,15,0,0.659
-"16","St. Scholastica","618","2010","Jennifer Walter","D-III","UMAC",29,13,0,0.69
-"17","St. Scholastica","618","2009","Jennifer Walter","D-III","UMAC",31,12,0,0.721
-"18","St. Scholastica","618","2008","Jennifer Walter","D-III","-",19,21,0,0.475
-"19","St. Scholastica","618","2007","Jennifer Walter","D-III","-",25,16,0,0.61
-"20","St. Scholastica","618","2006","Jennifer Walter","D-III","-",37,9,0,0.8
-"21","St. Scholastica","618","2005","Jennifer Walter","D-III","-",34,7,0,0.829
-"22","St. Scholastica","618","2004","Jennifer Walter","D-III","-",40,8,0,0.833
-"23","St. Scholastica","618","2003","Jennifer Walter","D-III","-",30,14,0,0.682
-"24","St. Scholastica","618","2002","Jennifer Walter","D-III","-",18,22,NA,0.45
-"25","St. Scholastica","618","2001","Jennifer Walter","D-III","-",21,23,NA,0.477
-"26","St. Scholastica","618","1900","Jennifer Walter","D-III","-",20,19,NA,0.513
-"27","St. Scholastica","618","1999","Shawna Davidson","D-III","-",18,27,NA,0.4
-"28","St. Scholastica","618","1998","Shawna Davidson","D-III","-",24,25,NA,0.49
-"29","St. Scholastica","618","1997","Dina Kangas","D-III","-",25,24,NA,0.51
-"30","St. Scholastica","618","1996","Dina Kangas","D-III","-",7,20,NA,0.259
-"31","St. Scholastica","618","1995","Tricia Lasky","D-III","-",8,24,NA,0.25
-"32","St. Scholastica","618","1994","Tricia Lasky","D-III","-",14,17,NA,0.452
-"33","St. Scholastica","618","1993","Tricia Lasky","D-III","-",3,14,NA,0.176
-"34","St. Scholastica","618","1992","Tricia Lasky","D-III","-",10,14,NA,0.417
-"35","St. Scholastica","618","1991","Bill Ross","D-III","-",15,11,NA,0.577
-"36","St. Scholastica","618","1990","Bill Ross","D-III","-",17,16,NA,0.515
-"37","St. Scholastica","618","1989","Bill Ross","","-",15,13,NA,0.536
-"38","St. Scholastica","618","1988","Bill Ross","","-",19,14,NA,0.576
-"39","St. Scholastica","618","1987","Bill Ross","","-",12,14,NA,0.462
-"40","St. Scholastica","618","1986","Bill Ross","","-",13,8,NA,0.619
-"41","St. Scholastica","618","1985","Bill Ross","","-",11,7,NA,0.611
-"42","St. Scholastica","618","1984","Bill Ross","","-",9,12,NA,0.429
-"43","St. Scholastica","618","1981","","","-",NA,NA,NA,NA
-"44","St. Scholastica","618","","","","",841,636,0,0.569
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kallee Wilkins","MIAC","0-0-0",0
+"2","2024","Kallee Wilkins","MIAC","8-28-0",0.222
+"3","2023","Rilee Dawson","MIAC","17-18-0",0.486
+"4","2022","Rilee Dawson","MIAC","15-21-0",0.417
+"5","2021","Rilee Dawson","UMAC","32-8-0",0.8
+"6","2020","Rilee Dawson","UMAC","7-7-0",0.5
+"7","2019","Rilee Dawson","UMAC","23-16-0",0.59
+"8","2018","Rilee Dawson","UMAC","22-13-0",0.629
+"9","2017","Rilee Dawson","UMAC","24-17-0",0.585
+"10","2016","Rilee Dawson","UMAC","26-15-0",0.634
+"11","2015","Jennifer Walter","UMAC","31-16-0",0.66
+"12","2014","Jennifer Walter","UMAC","27-12-0",0.692
+"13","2013","Jennifer Walter","UMAC","24-14-0",0.632
+"14","2012","Jennifer Walter","UMAC","32-12-0",0.727
+"15","2011","Jennifer Walter","UMAC","29-15-0",0.659
+"16","2010","Jennifer Walter","UMAC","29-13-0",0.69
+"17","2009","Jennifer Walter","UMAC","31-12-0",0.721
+"18","2008","Jennifer Walter","-","19-21-0",0.475
+"19","2007","Jennifer Walter","-","25-16-0",0.61
+"20","2006","Jennifer Walter","-","37-9-0",0.8
+"21","2005","Jennifer Walter","-","34-7-0",0.829
+"22","2004","Jennifer Walter","-","40-8-0",0.833
+"23","2003","Jennifer Walter","-","30-14-0",0.682
+"24","2002","Jennifer Walter","-","18-22-0",0.45
+"25","2001","Jennifer Walter","-","21-23-0",0.477
+"26","1900","Jennifer Walter","-","20-19-0",0.513
+"27","1999","Shawna Davidson","-","18-27-0",0.4
+"28","1998","Shawna Davidson","-","24-25-0",0.49
+"29","1997","Dina Kangas","-","25-24-0",0.51
+"30","1996","Dina Kangas","-","7-20-0",0.259
+"31","1995","Tricia Lasky","-","8-24-0",0.25
+"32","1994","Tricia Lasky","-","14-17-0",0.452
+"33","1993","Tricia Lasky","-","3-14-0",0.176
+"34","1992","Tricia Lasky","-","10-14-0",0.417
+"35","1991","Bill Ross","-","15-11-0",0.577
+"36","1990","Bill Ross","-","17-16-0",0.515
+"37","1989","Bill Ross","-","15-13-0",0.536
+"38","1988","Bill Ross","-","19-14-0",0.576
+"39","1987","Bill Ross","-","12-14-0",0.462
+"40","1986","Bill Ross","-","13-8-0",0.619
+"41","1985","Bill Ross","-","11-7-0",0.611
+"42","1984","Bill Ross","-","9-12-0",0.429
+"43","1981","","-","NA-NA-0",NA

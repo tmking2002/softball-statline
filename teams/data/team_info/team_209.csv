@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Edinboro","209","2025","Dan Gierlak","D-II","PSAC",0,0,0,0
-"2","Edinboro","209","2024","Dan Gierlak","D-II","PSAC",15,29,0,0.341
-"3","Edinboro","209","2023","Dan Gierlak","D-II","PSAC",15,27,0,0.357
-"4","Edinboro","209","2022","Dan Gierlak","D-II","PSAC",8,23,0,0.258
-"5","Edinboro","209","2021","Dan Gierlak","D-II","PSAC",12,17,0,0.414
-"6","Edinboro","209","2020","Dan Gierlak","D-II","PSAC",0,12,0,0
-"7","Edinboro","209","2019","Dan Gierlak","D-II","PSAC",22,19,0,0.537
-"8","Edinboro","209","2018","Dan Gierlak","D-II","PSAC",6,25,NA,0.194
-"9","Edinboro","209","2017","Dan Gierlak","D-II","PSAC",16,21,0,0.432
-"10","Edinboro","209","2016","Dan Gierlak","D-II","PSAC",14,20,0,0.412
-"11","Edinboro","209","2015","Dan Gierlak","D-II","PSAC",23,14,1,0.618
-"12","Edinboro","209","2014","Dan Gierlak","D-II","PSAC",17,24,1,0.417
-"13","Edinboro","209","2013","Dan Gierlak","D-II","PSAC",8,23,0,0.258
-"14","Edinboro","209","2012","Dan Gierlak","D-II","PSAC",16,18,0,0.471
-"15","Edinboro","209","2011","Dan Gierlak","D-II","PSAC",13,16,0,0.448
-"16","Edinboro","209","2010","Dan Gierlak","D-II","PSAC",19,18,0,0.514
-"17","Edinboro","209","2009","Dan Gierlak","D-II","PSAC",26,19,0,0.578
-"18","Edinboro","209","2008","Dan Gierlak","D-II","PSAC",18,20,0,0.474
-"19","Edinboro","209","2007","Dan Gierlak","D-II","PSAC",21,22,0,0.488
-"20","Edinboro","209","2006","Dan Gierlak","D-II","PSAC",15,23,0,0.395
-"21","Edinboro","209","2005","Dan Gierlak","D-II","PSAC",10,19,1,0.35
-"22","Edinboro","209","2004","Dan Gierlak","D-II","PSAC",8,28,0,0.222
-"23","Edinboro","209","2003","Dan Gierlak","D-II","PSAC",16,22,0,0.421
-"24","Edinboro","209","2002","Dan Gierlak","D-II","PSAC",7,24,0,0.226
-"25","Edinboro","209","2001","Dan Gierlak","D-II","-",9,28,0,0.243
-"26","Edinboro","209","1900","Dan Gierlak","D-II","-",21,15,0,0.583
-"27","Edinboro","209","1999","Dan Gierlak","D-II","-",20,22,1,0.477
-"28","Edinboro","209","1998","Dan Gierlak","D-II","-",15,24,0,0.385
-"29","Edinboro","209","1997","Dan Gierlak","D-II","-",20,22,0,0.476
-"30","Edinboro","209","1996","Dan Gierlak","D-II","-",19,19,0,0.5
-"31","Edinboro","209","1995","Lisa Nemeth","D-II","-",9,39,0,0.188
-"32","Edinboro","209","1994","Dan Gierlak","D-II","-",21,10,0,0.677
-"33","Edinboro","209","1993","Dan Gierlak","D-II","-",13,20,0,0.394
-"34","Edinboro","209","1992","Dan Gierlak","D-II","-",6,16,0,0.273
-"35","Edinboro","209","1991","Dan Gierlak","D-II","-",11,23,0,0.324
-"36","Edinboro","209","1990","Dan Gierlak","D-II","-",14,20,1,0.414
-"37","Edinboro","209","1989","Dan Gierlak","D-II","-",19,14,0,0.576
-"38","Edinboro","209","1988","","","-",NA,NA,NA,NA
-"39","Edinboro","209","1987","","D-II","-",NA,NA,NA,NA
-"40","Edinboro","209","1986","","D-II","-",NA,NA,NA,NA
-"41","Edinboro","209","1985","","D-II","-",NA,NA,NA,NA
-"42","Edinboro","209","1984","","D-II","-",NA,NA,NA,NA
-"43","Edinboro","209","1983","","D-II","-",NA,NA,NA,NA
-"44","Edinboro","209","","","","",522,755,5,0.409
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Dan Gierlak","PSAC","0-0-0",0
+"2","2024","Dan Gierlak","PSAC","15-29-0",0.341
+"3","2023","Dan Gierlak","PSAC","15-27-0",0.357
+"4","2022","Dan Gierlak","PSAC","8-23-0",0.258
+"5","2021","Dan Gierlak","PSAC","12-17-0",0.414
+"6","2020","Dan Gierlak","PSAC","0-12-0",0
+"7","2019","Dan Gierlak","PSAC","22-19-0",0.537
+"8","2018","Dan Gierlak","PSAC","6-25-0",0.194
+"9","2017","Dan Gierlak","PSAC","16-21-0",0.432
+"10","2016","Dan Gierlak","PSAC","14-20-0",0.412
+"11","2015","Dan Gierlak","PSAC","23-14-1",0.618
+"12","2014","Dan Gierlak","PSAC","17-24-1",0.417
+"13","2013","Dan Gierlak","PSAC","8-23-0",0.258
+"14","2012","Dan Gierlak","PSAC","16-18-0",0.471
+"15","2011","Dan Gierlak","PSAC","13-16-0",0.448
+"16","2010","Dan Gierlak","PSAC","19-18-0",0.514
+"17","2009","Dan Gierlak","PSAC","26-19-0",0.578
+"18","2008","Dan Gierlak","PSAC","18-20-0",0.474
+"19","2007","Dan Gierlak","PSAC","21-22-0",0.488
+"20","2006","Dan Gierlak","PSAC","15-23-0",0.395
+"21","2005","Dan Gierlak","PSAC","10-19-1",0.35
+"22","2004","Dan Gierlak","PSAC","8-28-0",0.222
+"23","2003","Dan Gierlak","PSAC","16-22-0",0.421
+"24","2002","Dan Gierlak","PSAC","7-24-0",0.226
+"25","2001","Dan Gierlak","-","9-28-0",0.243
+"26","1900","Dan Gierlak","-","21-15-0",0.583
+"27","1999","Dan Gierlak","-","20-22-1",0.477
+"28","1998","Dan Gierlak","-","15-24-0",0.385
+"29","1997","Dan Gierlak","-","20-22-0",0.476
+"30","1996","Dan Gierlak","-","19-19-0",0.5
+"31","1995","Lisa Nemeth","-","9-39-0",0.188
+"32","1994","Dan Gierlak","-","21-10-0",0.677
+"33","1993","Dan Gierlak","-","13-20-0",0.394
+"34","1992","Dan Gierlak","-","6-16-0",0.273
+"35","1991","Dan Gierlak","-","11-23-0",0.324
+"36","1990","Dan Gierlak","-","14-20-1",0.414
+"37","1989","Dan Gierlak","-","19-14-0",0.576
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

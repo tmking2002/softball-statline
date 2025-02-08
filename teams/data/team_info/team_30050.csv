@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ill. Springfield","30050","2025","Shannon Guthrie","D-II","GLVC",2,1,0,0.667
-"2","Ill. Springfield","30050","2024","Shannon Guthrie","D-II","GLVC",28,26,0,0.519
-"3","Ill. Springfield","30050","2023","Shannon Guthrie","D-II","GLVC",34,24,0,0.586
-"4","Ill. Springfield","30050","2022","Shannon Guthrie","D-II","GLVC",31,19,0,0.62
-"5","Ill. Springfield","30050","2021","Shannon Guthrie","D-II","GLVC",19,27,0,0.413
-"6","Ill. Springfield","30050","2020","Shannon Guthrie","D-II","GLVC",10,8,0,0.556
-"7","Ill. Springfield","30050","2019","Shannon Guthrie","D-II","GLVC",29,26,0,0.527
-"8","Ill. Springfield","30050","2018","Shannon Guthrie","D-II","GLVC",40,19,NA,0.678
-"9","Ill. Springfield","30050","2017","Shannon Guthrie","D-II","GLVC",31,23,0,0.574
-"10","Ill. Springfield","30050","2016","Shannon Guthrie","D-II","GLVC",24,26,0,0.48
-"11","Ill. Springfield","30050","2015","Shannon Guthrie","D-II","GLVC",32,22,0,0.593
-"12","Ill. Springfield","30050","2014","Mat Mundell","D-II","GLVC",27,25,0,0.519
-"13","Ill. Springfield","30050","2013","Mat Mundell","D-II","GLVC",21,28,0,0.429
-"14","Ill. Springfield","30050","2012","Mat Mundell","D-II","GLVC",36,22,0,0.621
-"15","Ill. Springfield","30050","2011","Mat Mundell","D-II","GLVC",15,27,0,0.357
-"16","Ill. Springfield","30050","2010","Mat Mundell","D-II","GLVC",14,32,0,0.304
-"17","Ill. Springfield","30050","","","","",393,355,0,0.525
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Shannon Guthrie","GLVC","2-1-0",0.667
+"2","2024","Shannon Guthrie","GLVC","28-26-0",0.519
+"3","2023","Shannon Guthrie","GLVC","34-24-0",0.586
+"4","2022","Shannon Guthrie","GLVC","31-19-0",0.62
+"5","2021","Shannon Guthrie","GLVC","19-27-0",0.413
+"6","2020","Shannon Guthrie","GLVC","10-8-0",0.556
+"7","2019","Shannon Guthrie","GLVC","29-26-0",0.527
+"8","2018","Shannon Guthrie","GLVC","40-19-0",0.678
+"9","2017","Shannon Guthrie","GLVC","31-23-0",0.574
+"10","2016","Shannon Guthrie","GLVC","24-26-0",0.48
+"11","2015","Shannon Guthrie","GLVC","32-22-0",0.593
+"12","2014","Mat Mundell","GLVC","27-25-0",0.519
+"13","2013","Mat Mundell","GLVC","21-28-0",0.429
+"14","2012","Mat Mundell","GLVC","36-22-0",0.621
+"15","2011","Mat Mundell","GLVC","15-27-0",0.357
+"16","2010","Mat Mundell","GLVC","14-32-0",0.304

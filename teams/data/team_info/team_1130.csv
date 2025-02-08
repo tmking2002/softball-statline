@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Huntingdon","1130","2025","Casey Chrietzberg","D-III","CCS",0,0,0,0
-"2","Huntingdon","1130","2024","Casey Chrietzberg","D-III","CCS",33,8,0,0.805
-"3","Huntingdon","1130","2023","Casey Chrietzberg","D-III","CCS",31,10,0,0.756
-"4","Huntingdon","1130","2022","Casey Chrietzberg","D-III","USA South",27,12,0,0.692
-"5","Huntingdon","1130","2021","Casey Chrietzberg","D-III","USA South",16,18,0,0.471
-"6","Huntingdon","1130","2020","Casey Chrietzberg","D-III","USA South",6,8,0,0.429
-"7","Huntingdon","1130","2019","Casey Chrietzberg","D-III","USA South",30,15,0,0.667
-"8","Huntingdon","1130","2018","Casey Chrietzberg","D-III","USA South",21,20,NA,0.512
-"9","Huntingdon","1130","2017","Casey Chrietzberg","D-III","USA South",18,26,0,0.409
-"10","Huntingdon","1130","2016","Gynger Williams","D-III","USA South",17,21,0,0.447
-"11","Huntingdon","1130","2015","Gynger Williams","D-III","USA South",20,18,0,0.526
-"12","Huntingdon","1130","2014","Gynger Williams","D-III","USA South",25,15,0,0.625
-"13","Huntingdon","1130","2013","Gynger Williams","D-III","Great South",25,11,0,0.694
-"14","Huntingdon","1130","2012","Gynger Williams","D-III","Great South",28,15,0,0.651
-"15","Huntingdon","1130","2011","Gynger Williams","D-III","Great South",26,16,0,0.619
-"16","Huntingdon","1130","2010","Gynger Williams","D-III","Great South",22,22,0,0.5
-"17","Huntingdon","1130","2009","Gynger Williams","D-III","Great South",17,22,1,0.438
-"18","Huntingdon","1130","2008","Angela Cook","D-III","Great South",17,25,0,0.405
-"19","Huntingdon","1130","2007","Angela Cook","D-III","Great South",16,18,0,0.471
-"20","Huntingdon","1130","2006","Angela Cook","D-III","Great South",21,16,0,0.568
-"21","Huntingdon","1130","2005","Angela Cook","D-III","Great South",27,11,0,0.711
-"22","Huntingdon","1130","2004","Angela Cook","D-III","-",20,14,0,0.588
-"23","Huntingdon","1130","2003","","D-III","-",NA,NA,NA,NA
-"24","Huntingdon","1130","2002","","D-III","-",NA,NA,NA,NA
-"25","Huntingdon","1130","2001","Kristie Betancur","D-III","-",NA,NA,NA,NA
-"26","Huntingdon","1130","1900","","D-III","-",NA,NA,NA,NA
-"27","Huntingdon","1130","1999","","D-III","-",NA,NA,NA,NA
-"28","Huntingdon","1130","1998","","D-III","-",NA,NA,NA,NA
-"29","Huntingdon","1130","1997","","D-III","-",NA,NA,NA,NA
-"30","Huntingdon","1130","1996","","D-III","-",NA,NA,NA,NA
-"31","Huntingdon","1130","1995","","D-III","-",NA,NA,NA,NA
-"32","Huntingdon","1130","1994","","D-III","-",NA,NA,NA,NA
-"33","Huntingdon","1130","1993","","D-III","-",NA,NA,NA,NA
-"34","Huntingdon","1130","1992","","D-III","-",NA,NA,NA,NA
-"35","Huntingdon","1130","1991","","D-III","-",NA,NA,NA,NA
-"36","Huntingdon","1130","1990","","D-III","-",NA,NA,NA,NA
-"37","Huntingdon","1130","","","","",463,341,1,0.576
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Casey Chrietzberg","CCS","0-0-0",0
+"2","2024","Casey Chrietzberg","CCS","33-8-0",0.805
+"3","2023","Casey Chrietzberg","CCS","31-10-0",0.756
+"4","2022","Casey Chrietzberg","USA South","27-12-0",0.692
+"5","2021","Casey Chrietzberg","USA South","16-18-0",0.471
+"6","2020","Casey Chrietzberg","USA South","6-8-0",0.429
+"7","2019","Casey Chrietzberg","USA South","30-15-0",0.667
+"8","2018","Casey Chrietzberg","USA South","21-20-0",0.512
+"9","2017","Casey Chrietzberg","USA South","18-26-0",0.409
+"10","2016","Gynger Williams","USA South","17-21-0",0.447
+"11","2015","Gynger Williams","USA South","20-18-0",0.526
+"12","2014","Gynger Williams","USA South","25-15-0",0.625
+"13","2013","Gynger Williams","Great South","25-11-0",0.694
+"14","2012","Gynger Williams","Great South","28-15-0",0.651
+"15","2011","Gynger Williams","Great South","26-16-0",0.619
+"16","2010","Gynger Williams","Great South","22-22-0",0.5
+"17","2009","Gynger Williams","Great South","17-22-1",0.438
+"18","2008","Angela Cook","Great South","17-25-0",0.405
+"19","2007","Angela Cook","Great South","16-18-0",0.471
+"20","2006","Angela Cook","Great South","21-16-0",0.568
+"21","2005","Angela Cook","Great South","27-11-0",0.711
+"22","2004","Angela Cook","-","20-14-0",0.588
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Kristie Betancur","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

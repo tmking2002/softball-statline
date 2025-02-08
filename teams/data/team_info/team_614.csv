@@ -1,48 +1,47 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Norbert","614","2025","JoAnn Krueger","D-III","NACC",0,0,0,0
-"2","St. Norbert","614","2024","JoAnn Krueger","D-III","NACC",10,30,0,0.25
-"3","St. Norbert","614","2023","JoAnn Krueger","D-III","NACC",14,25,1,0.363
-"4","St. Norbert","614","2022","JoAnn Krueger","D-III","NACC",7,31,0,0.184
-"5","St. Norbert","614","2021","JoAnn Krueger","D-III","MWC",19,9,0,0.679
-"6","St. Norbert","614","2020","JoAnn Krueger","D-III","MWC",NA,NA,NA,0
-"7","St. Norbert","614","2019","JoAnn Krueger","D-III","MWC",23,18,0,0.561
-"8","St. Norbert","614","2018","JoAnn Krueger","D-III","MWC",11,21,NA,0.344
-"9","St. Norbert","614","2017","JoAnn Krueger","D-III","MWC",21,16,0,0.568
-"10","St. Norbert","614","2016","JoAnn Krueger","D-III","MWC",6,30,0,0.167
-"11","St. Norbert","614","2015","JoAnn Krueger","D-III","MWC",13,21,0,0.382
-"12","St. Norbert","614","2014","JoAnn Krueger","D-III","MWC",18,17,0,0.514
-"13","St. Norbert","614","2013","JoAnn Krueger","D-III","MWC",20,15,0,0.571
-"14","St. Norbert","614","2012","JoAnn Krueger","D-III","MWC",18,20,0,0.474
-"15","St. Norbert","614","2011","JoAnn Krueger","D-III","MWC",20,18,0,0.526
-"16","St. Norbert","614","2010","JoAnn Krueger","D-III","MWC",33,8,0,0.805
-"17","St. Norbert","614","2009","JoAnn Krueger","D-III","MWC",17,19,0,0.472
-"18","St. Norbert","614","2008","JoAnn Krueger","D-III","MWC",16,16,0,0.5
-"19","St. Norbert","614","2007","JoAnn Krueger","D-III","MWC",20,14,0,0.588
-"20","St. Norbert","614","2006","JoAnn Krueger","D-III","MWC",21,14,0,0.6
-"21","St. Norbert","614","2005","JoAnn Krueger","D-III","MWC",10,21,1,0.328
-"22","St. Norbert","614","2004","JoAnn Krueger","D-III","MWC",12,19,0,0.387
-"23","St. Norbert","614","2003","JoAnn Krueger","D-III","MWC",20,10,0,0.667
-"24","St. Norbert","614","2002","JoAnn Krueger","D-III","MWC",17,15,0,0.531
-"25","St. Norbert","614","2001","JoAnn Krueger","D-III","-",22,13,NA,0.629
-"26","St. Norbert","614","1900","JoAnn Krueger","D-III","-",19,13,NA,0.594
-"27","St. Norbert","614","1999","JoAnn Krueger","D-III","-",14,18,NA,0.438
-"28","St. Norbert","614","1998","JoAnn Krueger","D-III","-",15,17,NA,0.469
-"29","St. Norbert","614","1997","Lee Wagner","D-III","-",12,18,NA,0.4
-"30","St. Norbert","614","1996","Lee Wagner","D-III","-",17,12,NA,0.586
-"31","St. Norbert","614","1995","Connie Tilley","D-III","-",10,16,NA,0.385
-"32","St. Norbert","614","1994","Connie Tilley","D-III","-",16,12,NA,0.571
-"33","St. Norbert","614","1993","Connie Tilley","D-III","-",16,7,NA,0.696
-"34","St. Norbert","614","1992","Connie Tilley","D-III","-",19,6,NA,0.76
-"35","St. Norbert","614","1991","Connie Tilley","D-III","-",20,8,NA,0.714
-"36","St. Norbert","614","1990","Connie Tilley","D-III","-",16,12,NA,0.571
-"37","St. Norbert","614","1989","Connie Tilley","D-III","-",19,10,NA,0.655
-"38","St. Norbert","614","1988","Connie Tilley","D-III","-",14,9,NA,0.609
-"39","St. Norbert","614","1987","Connie Tilley","D-III","-",14,8,NA,0.636
-"40","St. Norbert","614","1986","Connie Tilley","D-III","-",21,9,NA,0.7
-"41","St. Norbert","614","1985","Connie Tilley","D-III","-",15,9,NA,0.625
-"42","St. Norbert","614","1984","Connie Tilley","D-III","-",13,10,NA,0.565
-"43","St. Norbert","614","1983","Connie Tilley","D-III","-",6,5,NA,0.545
-"44","St. Norbert","614","1982","","","-",NA,NA,NA,NA
-"45","St. Norbert","614","1981","","","-",NA,NA,NA,NA
-"46","St. Norbert","614","1980","","","-",NA,NA,NA,NA
-"47","St. Norbert","614","","","","",664,619,2,0.518
+"","season","head_coach","conference","record","win_perc"
+"1","2025","JoAnn Krueger","NACC","0-0-0",0
+"2","2024","JoAnn Krueger","NACC","10-30-0",0.25
+"3","2023","JoAnn Krueger","NACC","14-25-1",0.363
+"4","2022","JoAnn Krueger","NACC","7-31-0",0.184
+"5","2021","JoAnn Krueger","MWC","19-9-0",0.679
+"6","2020","JoAnn Krueger","MWC","NA-NA-0",0
+"7","2019","JoAnn Krueger","MWC","23-18-0",0.561
+"8","2018","JoAnn Krueger","MWC","11-21-0",0.344
+"9","2017","JoAnn Krueger","MWC","21-16-0",0.568
+"10","2016","JoAnn Krueger","MWC","6-30-0",0.167
+"11","2015","JoAnn Krueger","MWC","13-21-0",0.382
+"12","2014","JoAnn Krueger","MWC","18-17-0",0.514
+"13","2013","JoAnn Krueger","MWC","20-15-0",0.571
+"14","2012","JoAnn Krueger","MWC","18-20-0",0.474
+"15","2011","JoAnn Krueger","MWC","20-18-0",0.526
+"16","2010","JoAnn Krueger","MWC","33-8-0",0.805
+"17","2009","JoAnn Krueger","MWC","17-19-0",0.472
+"18","2008","JoAnn Krueger","MWC","16-16-0",0.5
+"19","2007","JoAnn Krueger","MWC","20-14-0",0.588
+"20","2006","JoAnn Krueger","MWC","21-14-0",0.6
+"21","2005","JoAnn Krueger","MWC","10-21-1",0.328
+"22","2004","JoAnn Krueger","MWC","12-19-0",0.387
+"23","2003","JoAnn Krueger","MWC","20-10-0",0.667
+"24","2002","JoAnn Krueger","MWC","17-15-0",0.531
+"25","2001","JoAnn Krueger","-","22-13-0",0.629
+"26","1900","JoAnn Krueger","-","19-13-0",0.594
+"27","1999","JoAnn Krueger","-","14-18-0",0.438
+"28","1998","JoAnn Krueger","-","15-17-0",0.469
+"29","1997","Lee Wagner","-","12-18-0",0.4
+"30","1996","Lee Wagner","-","17-12-0",0.586
+"31","1995","Connie Tilley","-","10-16-0",0.385
+"32","1994","Connie Tilley","-","16-12-0",0.571
+"33","1993","Connie Tilley","-","16-7-0",0.696
+"34","1992","Connie Tilley","-","19-6-0",0.76
+"35","1991","Connie Tilley","-","20-8-0",0.714
+"36","1990","Connie Tilley","-","16-12-0",0.571
+"37","1989","Connie Tilley","-","19-10-0",0.655
+"38","1988","Connie Tilley","-","14-9-0",0.609
+"39","1987","Connie Tilley","-","14-8-0",0.636
+"40","1986","Connie Tilley","-","21-9-0",0.7
+"41","1985","Connie Tilley","-","15-9-0",0.625
+"42","1984","Connie Tilley","-","13-10-0",0.565
+"43","1983","Connie Tilley","-","6-5-0",0.545
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA

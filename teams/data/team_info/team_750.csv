@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wartburg","750","2025","Jamie Mueller","D-III","American Rivers",0,0,0,0
-"2","Wartburg","750","2024","Jamie Mueller","D-III","American Rivers",23,18,0,0.561
-"3","Wartburg","750","2023","Jamie Mueller","D-III","American Rivers",25,18,0,0.581
-"4","Wartburg","750","2022","Jamie Mueller","D-III","American Rivers",30,14,0,0.682
-"5","Wartburg","750","2021","Jamie Mueller","D-III","American Rivers",26,10,0,0.722
-"6","Wartburg","750","2020","Jamie Mueller","D-III","American Rivers",9,3,0,0.75
-"7","Wartburg","750","2019","Jamie Mueller","D-III","American Rivers",27,13,0,0.675
-"8","Wartburg","750","2018","Jamie Mueller","D-III","American Rivers",17,17,NA,0.5
-"9","Wartburg","750","2017","Jamie Mueller","D-III","American Rivers",22,16,0,0.579
-"10","Wartburg","750","2016","Jamie Mueller","D-III","American Rivers",18,24,0,0.429
-"11","Wartburg","750","2015","Leigh Ann LaFave","D-III","American Rivers",22,17,0,0.564
-"12","Wartburg","750","2014","Leigh Ann LaFave","D-III","American Rivers",17,19,0,0.472
-"13","Wartburg","750","2013","Leigh Ann LaFave","D-III","American Rivers",4,30,0,0.118
-"14","Wartburg","750","2012","Leigh Ann LaFave","D-III","American Rivers",5,35,0,0.125
-"15","Wartburg","750","2011","Kara Kehe","D-III","American Rivers",10,27,0,0.27
-"16","Wartburg","750","2010","Kara Kehe","D-III","American Rivers",14,20,0,0.412
-"17","Wartburg","750","2009","Kara Kehe","D-III","American Rivers",37,8,0,0.822
-"18","Wartburg","750","2008","Kara Kehe","D-III","American Rivers",32,8,0,0.8
-"19","Wartburg","750","2007","Kara Kehe","D-III","American Rivers",31,8,0,0.795
-"20","Wartburg","750","2006","Kara Kehe","D-III","American Rivers",40,7,0,0.851
-"21","Wartburg","750","2005","Kara Kehe","D-III","American Rivers",31,8,0,0.795
-"22","Wartburg","750","2004","Kara Kehe","D-III","American Rivers",32,8,0,0.8
-"23","Wartburg","750","2003","Randy Schneider","D-III","American Rivers",38,10,0,0.792
-"24","Wartburg","750","2002","Randy Schneider","D-III","American Rivers",27,10,0,0.73
-"25","Wartburg","750","2001","Randy Schneider","D-III","-",36,9,1,0.793
-"26","Wartburg","750","1900","Randy Schneider","D-III","-",28,14,NA,0.667
-"27","Wartburg","750","1999","Robin Baker Hoppenworth","D-III","-",21,21,NA,0.5
-"28","Wartburg","750","1998","Robin Baker Hoppenworth","D-III","-",26,12,NA,0.684
-"29","Wartburg","750","1997","Robin Baker Hoppenworth","D-III","-",18,21,NA,0.462
-"30","Wartburg","750","1996","Robin Baker Hoppenworth","D-III","-",14,16,NA,0.467
-"31","Wartburg","750","1995","Robin Baker Hoppenworth","D-III","-",20,15,NA,0.571
-"32","Wartburg","750","1994","Robin Baker Hoppenworth","D-III","-",29,12,NA,0.707
-"33","Wartburg","750","1993","Robin Baker Hoppenworth","D-III","-",14,11,NA,0.56
-"34","Wartburg","750","1992","Robin Baker Hoppenworth","D-III","-",12,25,NA,0.324
-"35","Wartburg","750","1991","Robin Baker Hoppenworth","D-III","-",20,14,NA,0.588
-"36","Wartburg","750","1990","Janet Vaughan","D-III","-",16,15,NA,0.516
-"37","Wartburg","750","1989","Janet Vaughan","D-III","-",18,18,NA,0.5
-"38","Wartburg","750","1988","Janet Vaughan","D-III","-",20,15,NA,0.571
-"39","Wartburg","750","1987","Janet Vaughan","D-III","-",16,20,NA,0.444
-"40","Wartburg","750","1986","Janet Vaughan","D-III","-",8,23,NA,0.258
-"41","Wartburg","750","1985","","","-",NA,NA,NA,NA
-"42","Wartburg","750","1984","","D-III","-",NA,NA,NA,NA
-"43","Wartburg","750","1983","","D-III","-",NA,NA,NA,NA
-"44","Wartburg","750","1982","","D-III","-",NA,NA,NA,NA
-"45","Wartburg","750","1981","","","-",NA,NA,NA,NA
-"46","Wartburg","750","","","","",853,609,1,0.583
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Jamie Mueller","American Rivers","0-0-0",0
+"2","2024","Jamie Mueller","American Rivers","23-18-0",0.561
+"3","2023","Jamie Mueller","American Rivers","25-18-0",0.581
+"4","2022","Jamie Mueller","American Rivers","30-14-0",0.682
+"5","2021","Jamie Mueller","American Rivers","26-10-0",0.722
+"6","2020","Jamie Mueller","American Rivers","9-3-0",0.75
+"7","2019","Jamie Mueller","American Rivers","27-13-0",0.675
+"8","2018","Jamie Mueller","American Rivers","17-17-0",0.5
+"9","2017","Jamie Mueller","American Rivers","22-16-0",0.579
+"10","2016","Jamie Mueller","American Rivers","18-24-0",0.429
+"11","2015","Leigh Ann LaFave","American Rivers","22-17-0",0.564
+"12","2014","Leigh Ann LaFave","American Rivers","17-19-0",0.472
+"13","2013","Leigh Ann LaFave","American Rivers","4-30-0",0.118
+"14","2012","Leigh Ann LaFave","American Rivers","5-35-0",0.125
+"15","2011","Kara Kehe","American Rivers","10-27-0",0.27
+"16","2010","Kara Kehe","American Rivers","14-20-0",0.412
+"17","2009","Kara Kehe","American Rivers","37-8-0",0.822
+"18","2008","Kara Kehe","American Rivers","32-8-0",0.8
+"19","2007","Kara Kehe","American Rivers","31-8-0",0.795
+"20","2006","Kara Kehe","American Rivers","40-7-0",0.851
+"21","2005","Kara Kehe","American Rivers","31-8-0",0.795
+"22","2004","Kara Kehe","American Rivers","32-8-0",0.8
+"23","2003","Randy Schneider","American Rivers","38-10-0",0.792
+"24","2002","Randy Schneider","American Rivers","27-10-0",0.73
+"25","2001","Randy Schneider","-","36-9-1",0.793
+"26","1900","Randy Schneider","-","28-14-0",0.667
+"27","1999","Robin Baker Hoppenworth","-","21-21-0",0.5
+"28","1998","Robin Baker Hoppenworth","-","26-12-0",0.684
+"29","1997","Robin Baker Hoppenworth","-","18-21-0",0.462
+"30","1996","Robin Baker Hoppenworth","-","14-16-0",0.467
+"31","1995","Robin Baker Hoppenworth","-","20-15-0",0.571
+"32","1994","Robin Baker Hoppenworth","-","29-12-0",0.707
+"33","1993","Robin Baker Hoppenworth","-","14-11-0",0.56
+"34","1992","Robin Baker Hoppenworth","-","12-25-0",0.324
+"35","1991","Robin Baker Hoppenworth","-","20-14-0",0.588
+"36","1990","Janet Vaughan","-","16-15-0",0.516
+"37","1989","Janet Vaughan","-","18-18-0",0.5
+"38","1988","Janet Vaughan","-","20-15-0",0.571
+"39","1987","Janet Vaughan","-","16-20-0",0.444
+"40","1986","Janet Vaughan","-","8-23-0",0.258
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

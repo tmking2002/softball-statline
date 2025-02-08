@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Fitchburg St.","227","2025","Carissa Cicolini","D-III","MASCAC",0,0,0,0
-"2","Fitchburg St.","227","2024","Carissa Cicolini","D-III","MASCAC",11,26,0,0.297
-"3","Fitchburg St.","227","2023","Dick Hurley","D-III","MASCAC",15,23,0,0.395
-"4","Fitchburg St.","227","2022","Merry MacDonald","D-III","MASCAC",17,21,0,0.447
-"5","Fitchburg St.","227","2021","Merry MacDonald","D-III","MASCAC",10,14,0,0.417
-"6","Fitchburg St.","227","2020","Merry MacDonald","D-III","MASCAC",6,4,0,0.6
-"7","Fitchburg St.","227","2019","Merry MacDonald","D-III","MASCAC",26,16,0,0.619
-"8","Fitchburg St.","227","2018","Merry MacDonald","D-III","MASCAC",13,20,NA,0.394
-"9","Fitchburg St.","227","2017","Merry MacDonald","D-III","MASCAC",11,19,0,0.367
-"10","Fitchburg St.","227","2016","Merry MacDonald","D-III","MASCAC",19,18,0,0.514
-"11","Fitchburg St.","227","2015","Merry MacDonald","D-III","MASCAC",11,16,0,0.407
-"12","Fitchburg St.","227","2014","Merry MacDonald","D-III","MASCAC",14,17,0,0.452
-"13","Fitchburg St.","227","2013","Merry MacDonald","D-III","MASCAC",20,22,0,0.476
-"14","Fitchburg St.","227","2012","Frank Steffanidies","D-III","MASCAC",14,24,0,0.368
-"15","Fitchburg St.","227","2011","Frank Steffanidies","D-III","MASCAC",14,23,0,0.378
-"16","Fitchburg St.","227","2010","Frank Steffanidies","D-III","MASCAC",10,24,0,0.294
-"17","Fitchburg St.","227","2009","Frank Steffanidies","D-III","MASCAC",5,27,0,0.156
-"18","Fitchburg St.","227","2008","Frank Steffanidies","D-III","MASCAC",12,21,0,0.364
-"19","Fitchburg St.","227","2007","Michelle Daley","D-III","MASCAC",19,18,0,0.514
-"20","Fitchburg St.","227","2006","Michelle Daley","D-III","MASCAC",18,20,0,0.474
-"21","Fitchburg St.","227","2005","Michelle Daley","D-III","MASCAC",15,21,0,0.417
-"22","Fitchburg St.","227","2004","Michelle Daley","D-III","MASCAC",19,15,0,0.559
-"23","Fitchburg St.","227","2003","Michelle Daley","D-III","MASCAC",19,15,0,0.559
-"24","Fitchburg St.","227","2002","Michelle Daley","D-III","MASCAC",26,12,0,0.684
-"25","Fitchburg St.","227","2001","Michelle Daley","D-III","-",14,11,1,0.558
-"26","Fitchburg St.","227","1900","Lisa-Ann Wallace","D-III","-",20,5,NA,0.8
-"27","Fitchburg St.","227","1999","Lisa-Ann Wallace","D-III","-",19,20,NA,0.487
-"28","Fitchburg St.","227","1998","Lisa-Ann Wallace","D-III","-",21,14,1,0.597
-"29","Fitchburg St.","227","1997","Lisa-Ann Wallace","D-III","-",11,25,NA,0.306
-"30","Fitchburg St.","227","1996","Lisa-Ann Wallace","D-III","-",8,17,NA,0.32
-"31","Fitchburg St.","227","1995","Ken Ellis","D-III","-",11,18,NA,0.379
-"32","Fitchburg St.","227","1994","Ken Ellis","D-III","-",7,17,NA,0.292
-"33","Fitchburg St.","227","1993","Ken Ellis","D-III","-",5,14,NA,0.263
-"34","Fitchburg St.","227","1992","Ken Ellis","D-III","-",4,18,NA,0.182
-"35","Fitchburg St.","227","1991","Cherry Bennett","D-III","-",10,15,NA,0.4
-"36","Fitchburg St.","227","1990","Jane Powers","D-III","-",10,12,NA,0.455
-"37","Fitchburg St.","227","1989","","D-III","-",NA,NA,NA,NA
-"38","Fitchburg St.","227","1988","","D-III","-",NA,NA,NA,NA
-"39","Fitchburg St.","227","1987","","D-III","-",NA,NA,NA,NA
-"40","Fitchburg St.","227","1986","","D-III","-",NA,NA,NA,NA
-"41","Fitchburg St.","227","1985","","D-III","-",NA,NA,NA,NA
-"42","Fitchburg St.","227","1984","","D-III","-",NA,NA,NA,NA
-"43","Fitchburg St.","227","1983","","D-III","-",NA,NA,NA,NA
-"44","Fitchburg St.","227","1982","","D-III","-",NA,NA,NA,NA
-"45","Fitchburg St.","227","","","","",484,622,2,0.438
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Carissa Cicolini","MASCAC","0-0-0",0
+"2","2024","Carissa Cicolini","MASCAC","11-26-0",0.297
+"3","2023","Dick Hurley","MASCAC","15-23-0",0.395
+"4","2022","Merry MacDonald","MASCAC","17-21-0",0.447
+"5","2021","Merry MacDonald","MASCAC","10-14-0",0.417
+"6","2020","Merry MacDonald","MASCAC","6-4-0",0.6
+"7","2019","Merry MacDonald","MASCAC","26-16-0",0.619
+"8","2018","Merry MacDonald","MASCAC","13-20-0",0.394
+"9","2017","Merry MacDonald","MASCAC","11-19-0",0.367
+"10","2016","Merry MacDonald","MASCAC","19-18-0",0.514
+"11","2015","Merry MacDonald","MASCAC","11-16-0",0.407
+"12","2014","Merry MacDonald","MASCAC","14-17-0",0.452
+"13","2013","Merry MacDonald","MASCAC","20-22-0",0.476
+"14","2012","Frank Steffanidies","MASCAC","14-24-0",0.368
+"15","2011","Frank Steffanidies","MASCAC","14-23-0",0.378
+"16","2010","Frank Steffanidies","MASCAC","10-24-0",0.294
+"17","2009","Frank Steffanidies","MASCAC","5-27-0",0.156
+"18","2008","Frank Steffanidies","MASCAC","12-21-0",0.364
+"19","2007","Michelle Daley","MASCAC","19-18-0",0.514
+"20","2006","Michelle Daley","MASCAC","18-20-0",0.474
+"21","2005","Michelle Daley","MASCAC","15-21-0",0.417
+"22","2004","Michelle Daley","MASCAC","19-15-0",0.559
+"23","2003","Michelle Daley","MASCAC","19-15-0",0.559
+"24","2002","Michelle Daley","MASCAC","26-12-0",0.684
+"25","2001","Michelle Daley","-","14-11-1",0.558
+"26","1900","Lisa-Ann Wallace","-","20-5-0",0.8
+"27","1999","Lisa-Ann Wallace","-","19-20-0",0.487
+"28","1998","Lisa-Ann Wallace","-","21-14-1",0.597
+"29","1997","Lisa-Ann Wallace","-","11-25-0",0.306
+"30","1996","Lisa-Ann Wallace","-","8-17-0",0.32
+"31","1995","Ken Ellis","-","11-18-0",0.379
+"32","1994","Ken Ellis","-","7-17-0",0.292
+"33","1993","Ken Ellis","-","5-14-0",0.263
+"34","1992","Ken Ellis","-","4-18-0",0.182
+"35","1991","Cherry Bennett","-","10-15-0",0.4
+"36","1990","Jane Powers","-","10-12-0",0.455
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

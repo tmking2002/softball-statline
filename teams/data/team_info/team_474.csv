@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","New Orleans","474","1988",NA,"D-I","-",NA,NA,NA,NA
-"2","New Orleans","474","1987",NA,"D-I","-",NA,NA,NA,NA
-"3","New Orleans","474","1986",NA,"D-I","-",NA,NA,NA,NA
-"4","New Orleans","474","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","1988",NA,"-","NA-NA-0",NA
+"2","1987",NA,"-","NA-NA-0",NA
+"3","1986",NA,"-","NA-NA-0",NA

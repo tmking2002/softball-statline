@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ill. Wesleyan","300","2025","Tiffany Prager","D-III","CCIW",0,0,0,0
-"2","Ill. Wesleyan","300","2024","Tiffany Prager","D-III","CCIW",31,12,0,0.721
-"3","Ill. Wesleyan","300","2023","Tiffany Prager","D-III","CCIW",27,16,0,0.628
-"4","Ill. Wesleyan","300","2022","Tiffany Prager","D-III","CCIW",27,15,0,0.643
-"5","Ill. Wesleyan","300","2021","Tiffany Prager","D-III","CCIW",27,16,0,0.628
-"6","Ill. Wesleyan","300","2020","Tiffany Prager","D-III","CCIW",9,1,0,0.9
-"7","Ill. Wesleyan","300","2019","Tiffany Prager","D-III","CCIW",39,10,0,0.796
-"8","Ill. Wesleyan","300","2018","Tiffany Prager","D-III","CCIW",40,14,1,0.736
-"9","Ill. Wesleyan","300","2017","Tiffany Prager","D-III","CCIW",37,15,0,0.712
-"10","Ill. Wesleyan","300","2016","Kat McCreery","D-III","CCIW",35,13,0,0.729
-"11","Ill. Wesleyan","300","2015","Kat McCreery","D-III","CCIW",36,10,0,0.783
-"12","Ill. Wesleyan","300","2014","Kat McCreery","D-III","CCIW",41,7,0,0.854
-"13","Ill. Wesleyan","300","2013","Steve King","D-III","CCIW",32,11,0,0.744
-"14","Ill. Wesleyan","300","2012","Steve King","D-III","CCIW",39,8,0,0.83
-"15","Ill. Wesleyan","300","2011","Steve King","D-III","CCIW",21,15,0,0.583
-"16","Ill. Wesleyan","300","2010","Steve King","D-III","CCIW",33,16,0,0.673
-"17","Ill. Wesleyan","300","2009","Steve King","D-III","CCIW",37,6,0,0.86
-"18","Ill. Wesleyan","300","2008","Steve King","D-III","CCIW",30,11,0,0.732
-"19","Ill. Wesleyan","300","2007","Lloyd Hulit","D-III","CCIW",32,14,0,0.696
-"20","Ill. Wesleyan","300","2006","Lloyd Hulit","D-III","CCIW",32,12,0,0.727
-"21","Ill. Wesleyan","300","2005","Beth Hasheider","D-III","CCIW",20,18,0,0.526
-"22","Ill. Wesleyan","300","2004","Beth Hasheider","D-III","CCIW",31,10,0,0.756
-"23","Ill. Wesleyan","300","2003","Beth Hasheider","D-III","CCIW",38,8,0,0.826
-"24","Ill. Wesleyan","300","2002","Beth Hasheider","D-III","CCIW",32,11,0,0.744
-"25","Ill. Wesleyan","300","2001","Mandy Neal","D-III","-",39,14,NA,0.736
-"26","Ill. Wesleyan","300","1900","Mandy Neal","D-III","-",30,19,NA,0.612
-"27","Ill. Wesleyan","300","1999","Mandy Neal","D-III","-",27,12,1,0.688
-"28","Ill. Wesleyan","300","1998","Mandy Neal","D-III","-",25,13,NA,0.658
-"29","Ill. Wesleyan","300","1997","Mandy Neal","D-III","-",27,14,NA,0.659
-"30","Ill. Wesleyan","300","1996","Mandy Neal","D-III","-",26,21,NA,0.553
-"31","Ill. Wesleyan","300","1995","Mandy Neal","D-III","-",30,14,NA,0.682
-"32","Ill. Wesleyan","300","1994","Mandy Neal","D-III","-",34,9,NA,0.791
-"33","Ill. Wesleyan","300","1993","Mandy Neal","D-III","-",19,12,NA,0.613
-"34","Ill. Wesleyan","300","1992","Mandy Neal","D-III","-",23,9,NA,0.719
-"35","Ill. Wesleyan","300","1991","Mandy Neal","D-III","-",31,7,NA,0.816
-"36","Ill. Wesleyan","300","1990","Mandy Neal","D-III","-",20,16,NA,0.556
-"37","Ill. Wesleyan","300","1989","Mandy Neal","D-III","-",13,18,NA,0.419
-"38","Ill. Wesleyan","300","1988","","D-III","-",NA,NA,NA,NA
-"39","Ill. Wesleyan","300","1987","","D-III","-",NA,NA,NA,NA
-"40","Ill. Wesleyan","300","1986","","D-III","-",NA,NA,NA,NA
-"41","Ill. Wesleyan","300","1985","","D-III","-",NA,NA,NA,NA
-"42","Ill. Wesleyan","300","1984","","D-III","-",NA,NA,NA,NA
-"43","Ill. Wesleyan","300","1982","","D-III","-",NA,NA,NA,NA
-"44","Ill. Wesleyan","300","","","","",1070,447,2,0.705
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tiffany Prager","CCIW","0-0-0",0
+"2","2024","Tiffany Prager","CCIW","31-12-0",0.721
+"3","2023","Tiffany Prager","CCIW","27-16-0",0.628
+"4","2022","Tiffany Prager","CCIW","27-15-0",0.643
+"5","2021","Tiffany Prager","CCIW","27-16-0",0.628
+"6","2020","Tiffany Prager","CCIW","9-1-0",0.9
+"7","2019","Tiffany Prager","CCIW","39-10-0",0.796
+"8","2018","Tiffany Prager","CCIW","40-14-1",0.736
+"9","2017","Tiffany Prager","CCIW","37-15-0",0.712
+"10","2016","Kat McCreery","CCIW","35-13-0",0.729
+"11","2015","Kat McCreery","CCIW","36-10-0",0.783
+"12","2014","Kat McCreery","CCIW","41-7-0",0.854
+"13","2013","Steve King","CCIW","32-11-0",0.744
+"14","2012","Steve King","CCIW","39-8-0",0.83
+"15","2011","Steve King","CCIW","21-15-0",0.583
+"16","2010","Steve King","CCIW","33-16-0",0.673
+"17","2009","Steve King","CCIW","37-6-0",0.86
+"18","2008","Steve King","CCIW","30-11-0",0.732
+"19","2007","Lloyd Hulit","CCIW","32-14-0",0.696
+"20","2006","Lloyd Hulit","CCIW","32-12-0",0.727
+"21","2005","Beth Hasheider","CCIW","20-18-0",0.526
+"22","2004","Beth Hasheider","CCIW","31-10-0",0.756
+"23","2003","Beth Hasheider","CCIW","38-8-0",0.826
+"24","2002","Beth Hasheider","CCIW","32-11-0",0.744
+"25","2001","Mandy Neal","-","39-14-0",0.736
+"26","1900","Mandy Neal","-","30-19-0",0.612
+"27","1999","Mandy Neal","-","27-12-1",0.688
+"28","1998","Mandy Neal","-","25-13-0",0.658
+"29","1997","Mandy Neal","-","27-14-0",0.659
+"30","1996","Mandy Neal","-","26-21-0",0.553
+"31","1995","Mandy Neal","-","30-14-0",0.682
+"32","1994","Mandy Neal","-","34-9-0",0.791
+"33","1993","Mandy Neal","-","19-12-0",0.613
+"34","1992","Mandy Neal","-","23-9-0",0.719
+"35","1991","Mandy Neal","-","31-7-0",0.816
+"36","1990","Mandy Neal","-","20-16-0",0.556
+"37","1989","Mandy Neal","-","13-18-0",0.419
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

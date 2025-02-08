@@ -1,36 +1,35 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Morehead St.","444","2025","Megan Griffith","D-I","OVC",0,0,0,0
-"2","Morehead St.","444","2024","Megan Griffith","D-I","OVC",12,28,0,0.3
-"3","Morehead St.","444","2023","Megan Griffith","D-I","OVC",11,33,0,0.25
-"4","Morehead St.","444","2022","Samantha Jones","D-I","OVC",8,36,0,0.182
-"5","Morehead St.","444","2021","Samantha Jones","D-I","OVC",11,30,0,0.268
-"6","Morehead St.","444","2020","Samantha Jones","D-I","OVC",6,10,0,0.375
-"7","Morehead St.","444","2019","Samantha Jones","D-I","OVC",2,42,0,0.045
-"8","Morehead St.","444","2018","David Williams","D-I","OVC",28,23,NA,0.549
-"9","Morehead St.","444","2017","David Williams","D-I","OVC",26,22,0,0.542
-"10","Morehead St.","444","2016","David Williams","D-I","OVC",26,27,0,0.491
-"11","Morehead St.","444","2015","David Williams","D-I","OVC",22,24,0,0.478
-"12","Morehead St.","444","2014","David Williams","D-I","OVC",15,37,2,0.296
-"13","Morehead St.","444","2013","David Williams","D-I","OVC",24,25,0,0.49
-"14","Morehead St.","444","2012","David Williams","D-I","OVC",16,34,0,0.32
-"15","Morehead St.","444","2011","Holly Bruder","D-I","OVC",19,36,0,0.345
-"16","Morehead St.","444","2010","Holly Bruder","D-I","OVC",27,24,0,0.529
-"17","Morehead St.","444","2009","Holly Bruder","D-I","OVC",35,20,0,0.636
-"18","Morehead St.","444","2008","Holly Bruder","D-I","OVC",34,16,0,0.68
-"19","Morehead St.","444","2007","Jill Karwoski","D-I","OVC",21,32,0,0.396
-"20","Morehead St.","444","2006","Jill Karwoski","D-I","OVC",13,40,0,0.245
-"21","Morehead St.","444","2005","Jill Karwoski","D-I","OVC",16,35,0,0.314
-"22","Morehead St.","444","2004","Jill Karwoski","D-I","OVC",12,35,0,0.255
-"23","Morehead St.","444","2003","Jennifer VanSickle","D-I","OVC",10,33,1,0.239
-"24","Morehead St.","444","2002","Jennifer VanSickle","D-I","OVC",10,32,1,0.244
-"25","Morehead St.","444","2001","Jennifer VanSickle","D-I","OVC",13,29,0,0.31
-"26","Morehead St.","444","1900","Jennifer VanSickle","D-I","OVC",20,35,0,0.364
-"27","Morehead St.","444","1999","Jennifer VanSickle","D-I","OVC",27,18,0,0.6
-"28","Morehead St.","444","1998","Jennifer VanSickle","D-I","-",15,33,0,0.313
-"29","Morehead St.","444","1997","Jennifer VanSickle","D-I","OVC",20,35,1,0.366
-"30","Morehead St.","444","1996","Jennifer VanSickle","D-I","-",17,38,0,0.309
-"31","Morehead St.","444","1995","Jennifer VanSickle","D-I","-",18,33,0,0.353
-"32","Morehead St.","444","1994","Jennifer VanSickle","D-I","-",14,23,0,0.378
-"33","Morehead St.","444","1993","Jeff Young","D-I","-",25,17,1,0.593
-"34","Morehead St.","444","1992","Jeff Young","D-I","-",22,23,NA,0.489
-"35","Morehead St.","444","","","","",595,958,6,0.384
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Megan Griffith","OVC","0-0-0",0
+"2","2024","Megan Griffith","OVC","12-28-0",0.3
+"3","2023","Megan Griffith","OVC","11-33-0",0.25
+"4","2022","Samantha Jones","OVC","8-36-0",0.182
+"5","2021","Samantha Jones","OVC","11-30-0",0.268
+"6","2020","Samantha Jones","OVC","6-10-0",0.375
+"7","2019","Samantha Jones","OVC","2-42-0",0.045
+"8","2018","David Williams","OVC","28-23-0",0.549
+"9","2017","David Williams","OVC","26-22-0",0.542
+"10","2016","David Williams","OVC","26-27-0",0.491
+"11","2015","David Williams","OVC","22-24-0",0.478
+"12","2014","David Williams","OVC","15-37-2",0.296
+"13","2013","David Williams","OVC","24-25-0",0.49
+"14","2012","David Williams","OVC","16-34-0",0.32
+"15","2011","Holly Bruder","OVC","19-36-0",0.345
+"16","2010","Holly Bruder","OVC","27-24-0",0.529
+"17","2009","Holly Bruder","OVC","35-20-0",0.636
+"18","2008","Holly Bruder","OVC","34-16-0",0.68
+"19","2007","Jill Karwoski","OVC","21-32-0",0.396
+"20","2006","Jill Karwoski","OVC","13-40-0",0.245
+"21","2005","Jill Karwoski","OVC","16-35-0",0.314
+"22","2004","Jill Karwoski","OVC","12-35-0",0.255
+"23","2003","Jennifer VanSickle","OVC","10-33-1",0.239
+"24","2002","Jennifer VanSickle","OVC","10-32-1",0.244
+"25","2001","Jennifer VanSickle","OVC","13-29-0",0.31
+"26","1900","Jennifer VanSickle","OVC","20-35-0",0.364
+"27","1999","Jennifer VanSickle","OVC","27-18-0",0.6
+"28","1998","Jennifer VanSickle","-","15-33-0",0.313
+"29","1997","Jennifer VanSickle","OVC","20-35-1",0.366
+"30","1996","Jennifer VanSickle","-","17-38-0",0.309
+"31","1995","Jennifer VanSickle","-","18-33-0",0.353
+"32","1994","Jennifer VanSickle","-","14-23-0",0.378
+"33","1993","Jeff Young","-","25-17-1",0.593
+"34","1992","Jeff Young","-","22-23-0",0.489

@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Quinnipiac","562","2025","Hillary Smith","D-I","MAAC",0,0,0,0
-"2","Quinnipiac","562","2024","Hillary Smith","D-I","MAAC",20,25,0,0.444
-"3","Quinnipiac","562","2023","Hillary Smith","D-I","MAAC",17,25,0,0.405
-"4","Quinnipiac","562","2022","Hillary Smith","D-I","MAAC",12,29,0,0.293
-"5","Quinnipiac","562","2021","Hillary Smith","D-I","MAAC",8,28,0,0.222
-"6","Quinnipiac","562","2020","Hillary Smith","D-I","MAAC",2,9,0,0.182
-"7","Quinnipiac","562","2019","Hillary Smith","D-I","MAAC",17,32,0,0.347
-"8","Quinnipiac","562","2018","Jill Karwoski","D-I","MAAC",22,29,NA,0.431
-"9","Quinnipiac","562","2017","Jill Karwoski","D-I","MAAC",23,27,0,0.46
-"10","Quinnipiac","562","2016","Jill Karwoski","D-I","MAAC",28,29,0,0.491
-"11","Quinnipiac","562","2015","Jill Karwoski","D-I","MAAC",17,33,0,0.34
-"12","Quinnipiac","562","2014","Jill Karwoski","D-I","MAAC",12,37,0,0.245
-"13","Quinnipiac","562","2013","Germaine Fairchild","D-I","NEC",17,35,0,0.327
-"14","Quinnipiac","562","2012","Germaine Fairchild","D-I","NEC",32,18,0,0.64
-"15","Quinnipiac","562","2011","Germaine Fairchild","D-I","NEC",32,26,0,0.552
-"16","Quinnipiac","562","2010","Germaine Fairchild","D-I","NEC",28,24,0,0.538
-"17","Quinnipiac","562","2009","Germaine Fairchild","D-I","NEC",18,30,0,0.375
-"18","Quinnipiac","562","2008","Germaine Fairchild","D-I","NEC",20,36,0,0.357
-"19","Quinnipiac","562","2007","Germaine Fairchild","D-I","NEC",18,27,0,0.4
-"20","Quinnipiac","562","2006","Germaine Fairchild","D-I","NEC",19,37,0,0.339
-"21","Quinnipiac","562","2005","Germaine Fairchild","D-I","NEC",19,29,1,0.398
-"22","Quinnipiac","562","2004","Germaine Fairchild","D-I","NEC",23,28,0,0.451
-"23","Quinnipiac","562","2003","Germaine Fairchild","D-I","NEC",34,19,0,0.642
-"24","Quinnipiac","562","2002","Germaine Fairchild","D-I","NEC",16,22,0,0.421
-"25","Quinnipiac","562","2001","Germaine Fairchild","D-I","NEC",17,26,0,0.395
-"26","Quinnipiac","562","1900","Maribeth Clifford","D-I","NEC",17,21,0,0.447
-"27","Quinnipiac","562","1999","Frank Kafka","D-I","NEC",23,21,0,0.523
-"28","Quinnipiac","562","1998","Frank Kafka","D-II","-",21,19,2,0.524
-"29","Quinnipiac","562","1997","Frank Kafka","D-II","-",24,13,NA,0.649
-"30","Quinnipiac","562","1996","Frank Kafka","D-II","-",30,15,NA,0.667
-"31","Quinnipiac","562","1995","Frank Kafka","D-II","-",33,11,1,0.744
-"32","Quinnipiac","562","1994","Frank Kafka","D-II","-",30,20,NA,0.6
-"33","Quinnipiac","562","1993","Frank Kafka","D-II","-",18,19,NA,0.486
-"34","Quinnipiac","562","1992","Frank Kafka","D-II","-",18,16,NA,0.529
-"35","Quinnipiac","562","1991","Frank Kafka","D-II","-",19,22,NA,0.463
-"36","Quinnipiac","562","1990","Frank Kafka","D-II","-",25,18,NA,0.581
-"37","Quinnipiac","562","1989","Frank Kafka","D-II","-",17,21,NA,0.447
-"38","Quinnipiac","562","1988","Frank Kafka","D-II","-",23,23,NA,0.5
-"39","Quinnipiac","562","1987","Frank Kafka","D-II","-",20,20,NA,0.5
-"40","Quinnipiac","562","1986","","D-II","-",NA,NA,NA,NA
-"41","Quinnipiac","562","1985","","D-II","-",NA,NA,NA,NA
-"42","Quinnipiac","562","1984","","D-II","-",NA,NA,NA,NA
-"43","Quinnipiac","562","1983","","D-II","-",NA,NA,NA,NA
-"44","Quinnipiac","562","1982","","D-II","-",NA,NA,NA,NA
-"45","Quinnipiac","562","","","","",789,919,4,0.462
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Hillary Smith","MAAC","0-0-0",0
+"2","2024","Hillary Smith","MAAC","20-25-0",0.444
+"3","2023","Hillary Smith","MAAC","17-25-0",0.405
+"4","2022","Hillary Smith","MAAC","12-29-0",0.293
+"5","2021","Hillary Smith","MAAC","8-28-0",0.222
+"6","2020","Hillary Smith","MAAC","2-9-0",0.182
+"7","2019","Hillary Smith","MAAC","17-32-0",0.347
+"8","2018","Jill Karwoski","MAAC","22-29-0",0.431
+"9","2017","Jill Karwoski","MAAC","23-27-0",0.46
+"10","2016","Jill Karwoski","MAAC","28-29-0",0.491
+"11","2015","Jill Karwoski","MAAC","17-33-0",0.34
+"12","2014","Jill Karwoski","MAAC","12-37-0",0.245
+"13","2013","Germaine Fairchild","NEC","17-35-0",0.327
+"14","2012","Germaine Fairchild","NEC","32-18-0",0.64
+"15","2011","Germaine Fairchild","NEC","32-26-0",0.552
+"16","2010","Germaine Fairchild","NEC","28-24-0",0.538
+"17","2009","Germaine Fairchild","NEC","18-30-0",0.375
+"18","2008","Germaine Fairchild","NEC","20-36-0",0.357
+"19","2007","Germaine Fairchild","NEC","18-27-0",0.4
+"20","2006","Germaine Fairchild","NEC","19-37-0",0.339
+"21","2005","Germaine Fairchild","NEC","19-29-1",0.398
+"22","2004","Germaine Fairchild","NEC","23-28-0",0.451
+"23","2003","Germaine Fairchild","NEC","34-19-0",0.642
+"24","2002","Germaine Fairchild","NEC","16-22-0",0.421
+"25","2001","Germaine Fairchild","NEC","17-26-0",0.395
+"26","1900","Maribeth Clifford","NEC","17-21-0",0.447
+"27","1999","Frank Kafka","NEC","23-21-0",0.523
+"28","1998","Frank Kafka","-","21-19-2",0.524
+"29","1997","Frank Kafka","-","24-13-0",0.649
+"30","1996","Frank Kafka","-","30-15-0",0.667
+"31","1995","Frank Kafka","-","33-11-1",0.744
+"32","1994","Frank Kafka","-","30-20-0",0.6
+"33","1993","Frank Kafka","-","18-19-0",0.486
+"34","1992","Frank Kafka","-","18-16-0",0.529
+"35","1991","Frank Kafka","-","19-22-0",0.463
+"36","1990","Frank Kafka","-","25-18-0",0.581
+"37","1989","Frank Kafka","-","17-21-0",0.447
+"38","1988","Frank Kafka","-","23-23-0",0.5
+"39","1987","Frank Kafka","-","20-20-0",0.5
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bethany (WV)","59","2025","Olivia Scarbrough","D-III","PAC",0,0,0,0
-"2","Bethany (WV)","59","2024","Olivia Scarbrough","D-III","PAC",25,14,0,0.641
-"3","Bethany (WV)","59","2023","Brian Daley","D-III","PAC",8,21,1,0.283
-"4","Bethany (WV)","59","2022","Cassie Moore","D-III","PAC",18,16,0,0.529
-"5","Bethany (WV)","59","2021","Cassie Moore","D-III","PAC",21,17,0,0.553
-"6","Bethany (WV)","59","2020","Cassie Moore","D-III","PAC",4,6,0,0.4
-"7","Bethany (WV)","59","2019","Cassie Moore","D-III","PAC",10,22,0,0.313
-"8","Bethany (WV)","59","2018","Jan Forsty","D-III","PAC",17,19,NA,0.472
-"9","Bethany (WV)","59","2017","Jan Forsty","D-III","PAC",16,22,0,0.421
-"10","Bethany (WV)","59","2016","Jan Forsty","D-III","PAC",22,20,0,0.524
-"11","Bethany (WV)","59","2015","Jan Forsty","D-III","PAC",27,18,0,0.6
-"12","Bethany (WV)","59","2014","Jan Forsty","D-III","PAC",18,24,0,0.429
-"13","Bethany (WV)","59","2013","Jan Forsty","D-III","PAC",19,19,0,0.5
-"14","Bethany (WV)","59","2012","Jan Forsty","D-III","PAC",13,24,0,0.351
-"15","Bethany (WV)","59","2011","Jan Forsty","D-III","PAC",29,16,0,0.644
-"16","Bethany (WV)","59","2010","Jan Forsty","D-III","PAC",35,15,0,0.7
-"17","Bethany (WV)","59","2009","Jan Forsty","D-III","PAC",24,21,0,0.533
-"18","Bethany (WV)","59","2008","Jan Forsty","D-III","PAC",24,23,0,0.511
-"19","Bethany (WV)","59","2007","Jan Forsty","D-III","PAC",15,23,0,0.395
-"20","Bethany (WV)","59","2006","Jan Forsty","D-III","PAC",14,24,0,0.368
-"21","Bethany (WV)","59","2005","Jan Forsty","D-III","PAC",27,14,1,0.655
-"22","Bethany (WV)","59","2004","Jan Forsty","D-III","PAC",29,15,0,0.659
-"23","Bethany (WV)","59","2003","Jan Forsty","D-III","PAC",31,8,0,0.795
-"24","Bethany (WV)","59","2002","Jan Forsty","D-III","PAC",32,10,0,0.762
-"25","Bethany (WV)","59","2001","Jan Forsty","D-III","-",29,17,NA,0.63
-"26","Bethany (WV)","59","1900","Jan Forsty","D-III","-",26,15,1,0.631
-"27","Bethany (WV)","59","1999","Jan Forsty","D-III","-",23,17,NA,0.575
-"28","Bethany (WV)","59","1998","Jan Forsty","D-III","-",23,17,NA,0.575
-"29","Bethany (WV)","59","1997","Jan Forsty","D-III","-",34,11,NA,0.756
-"30","Bethany (WV)","59","1996","Jan Forsty","D-III","-",22,14,NA,0.611
-"31","Bethany (WV)","59","1995","Jan Forsty","D-III","-",23,18,1,0.56
-"32","Bethany (WV)","59","1994","Jan Forsty","D-III","-",20,4,NA,0.833
-"33","Bethany (WV)","59","1993","Jan Forsty","D-III","-",22,7,NA,0.759
-"34","Bethany (WV)","59","1992","Jan Forsty","D-III","-",20,7,1,0.732
-"35","Bethany (WV)","59","1991","Jan Forsty","D-III","-",18,8,NA,0.692
-"36","Bethany (WV)","59","1990","Jan Forsty","D-III","-",10,13,NA,0.435
-"37","Bethany (WV)","59","1989","Jan Forsty","D-III","-",12,8,NA,0.6
-"38","Bethany (WV)","59","1988","Jan Forsty","D-III","-",10,14,NA,0.417
-"39","Bethany (WV)","59","1986","","D-III","-",NA,NA,NA,NA
-"40","Bethany (WV)","59","1984","","D-III","-",NA,NA,NA,NA
-"41","Bethany (WV)","59","1983","","D-III","-",NA,NA,NA,NA
-"42","Bethany (WV)","59","1981","","","-",NA,NA,NA,NA
-"43","Bethany (WV)","59","","","","",770,581,5,0.57
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Olivia Scarbrough","PAC","0-0-0",0
+"2","2024","Olivia Scarbrough","PAC","25-14-0",0.641
+"3","2023","Brian Daley","PAC","8-21-1",0.283
+"4","2022","Cassie Moore","PAC","18-16-0",0.529
+"5","2021","Cassie Moore","PAC","21-17-0",0.553
+"6","2020","Cassie Moore","PAC","4-6-0",0.4
+"7","2019","Cassie Moore","PAC","10-22-0",0.313
+"8","2018","Jan Forsty","PAC","17-19-0",0.472
+"9","2017","Jan Forsty","PAC","16-22-0",0.421
+"10","2016","Jan Forsty","PAC","22-20-0",0.524
+"11","2015","Jan Forsty","PAC","27-18-0",0.6
+"12","2014","Jan Forsty","PAC","18-24-0",0.429
+"13","2013","Jan Forsty","PAC","19-19-0",0.5
+"14","2012","Jan Forsty","PAC","13-24-0",0.351
+"15","2011","Jan Forsty","PAC","29-16-0",0.644
+"16","2010","Jan Forsty","PAC","35-15-0",0.7
+"17","2009","Jan Forsty","PAC","24-21-0",0.533
+"18","2008","Jan Forsty","PAC","24-23-0",0.511
+"19","2007","Jan Forsty","PAC","15-23-0",0.395
+"20","2006","Jan Forsty","PAC","14-24-0",0.368
+"21","2005","Jan Forsty","PAC","27-14-1",0.655
+"22","2004","Jan Forsty","PAC","29-15-0",0.659
+"23","2003","Jan Forsty","PAC","31-8-0",0.795
+"24","2002","Jan Forsty","PAC","32-10-0",0.762
+"25","2001","Jan Forsty","-","29-17-0",0.63
+"26","1900","Jan Forsty","-","26-15-1",0.631
+"27","1999","Jan Forsty","-","23-17-0",0.575
+"28","1998","Jan Forsty","-","23-17-0",0.575
+"29","1997","Jan Forsty","-","34-11-0",0.756
+"30","1996","Jan Forsty","-","22-14-0",0.611
+"31","1995","Jan Forsty","-","23-18-1",0.56
+"32","1994","Jan Forsty","-","20-4-0",0.833
+"33","1993","Jan Forsty","-","22-7-0",0.759
+"34","1992","Jan Forsty","-","20-7-1",0.732
+"35","1991","Jan Forsty","-","18-8-0",0.692
+"36","1990","Jan Forsty","-","10-13-0",0.435
+"37","1989","Jan Forsty","-","12-8-0",0.6
+"38","1988","Jan Forsty","-","10-14-0",0.417
+"39","1986","","-","NA-NA-0",NA
+"40","1984","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA
+"42","1981","","-","NA-NA-0",NA

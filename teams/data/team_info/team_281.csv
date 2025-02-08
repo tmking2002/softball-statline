@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hiram","281","2025","Scott Pohlman","D-III","NCAC",0,0,0,0
-"2","Hiram","281","2024","Shannon Schaub","D-III","NCAC",25,17,0,0.595
-"3","Hiram","281","2023","Summer Collins","D-III","NCAC",27,16,0,0.628
-"4","Hiram","281","2022","Scott Pohlman","D-III","NCAC",26,16,0,0.619
-"5","Hiram","281","2021","Scott Pohlman","D-III","NCAC",24,17,0,0.585
-"6","Hiram","281","2020","Scott Pohlman","D-III","NCAC",4,10,0,0.286
-"7","Hiram","281","2019","Scott Pohlman","D-III","NCAC",11,24,1,0.319
-"8","Hiram","281","2018","Scott Pohlman","D-III","NCAC",9,26,NA,0.257
-"9","Hiram","281","2017","Scott Pohlman","D-III","NCAC",8,30,0,0.211
-"10","Hiram","281","2016","Jackie Price","D-III","NCAC",12,26,0,0.316
-"11","Hiram","281","2015","Jackie Price","D-III","NCAC",9,23,0,0.281
-"12","Hiram","281","2014","Kristin Tassey","D-III","NCAC",13,19,0,0.406
-"13","Hiram","281","2013","Kristin Tassey","D-III","NCAC",12,24,0,0.333
-"14","Hiram","281","2012","Kristin Tassey","D-III","NCAC",19,17,0,0.528
-"15","Hiram","281","2011","Kristin Tassey","D-III","NCAC",29,14,0,0.674
-"16","Hiram","281","2010","Kristin Tassey","D-III","NCAC",20,17,0,0.541
-"17","Hiram","281","2009","Kristin Tassey","D-III","NCAC",27,16,0,0.628
-"18","Hiram","281","2008","Kristin Tassey","D-III","NCAC",18,20,0,0.474
-"19","Hiram","281","2007","Kristin Tassey","D-III","NCAC",22,14,0,0.611
-"20","Hiram","281","2006","Michelle Burke","D-III","NCAC",10,27,1,0.276
-"21","Hiram","281","2005","Sue Woodford","D-III","NCAC",12,21,0,0.364
-"22","Hiram","281","2004","Sue Woodford","D-III","NCAC",6,21,0,0.222
-"23","Hiram","281","2003","","D-III","NCAC",8,24,0,0.25
-"24","Hiram","281","2002","","D-III","-",NA,NA,NA,NA
-"25","Hiram","281","2001","Heather Rakosik","D-III","-",12,28,0,0.3
-"26","Hiram","281","1900","","D-III","-",NA,NA,NA,NA
-"27","Hiram","281","1999","","D-III","-",NA,NA,NA,NA
-"28","Hiram","281","1998","Stacey Maleckar","D-III","-",4,30,NA,0.118
-"29","Hiram","281","1997","Stacey Maleckar","D-III","-",1,29,NA,0.033
-"30","Hiram","281","1996","Stacey Maleckar","D-III","-",5,29,NA,0.147
-"31","Hiram","281","1995","Stacey Maleckar","D-III","-",2,26,NA,0.071
-"32","Hiram","281","1994","Myrtis Herndon","D-III","-",0,32,NA,0
-"33","Hiram","281","1993","","D-III","-",NA,NA,NA,NA
-"34","Hiram","281","1992","","D-III","-",NA,NA,NA,NA
-"35","Hiram","281","1991","","D-III","-",NA,NA,NA,NA
-"36","Hiram","281","1990","","D-III","-",NA,NA,NA,NA
-"37","Hiram","281","1989","","D-III","-",NA,NA,NA,NA
-"38","Hiram","281","1988","","D-III","-",NA,NA,NA,NA
-"39","Hiram","281","1987","","D-III","-",NA,NA,NA,NA
-"40","Hiram","281","1986","","D-III","-",NA,NA,NA,NA
-"41","Hiram","281","1985","","D-III","-",NA,NA,NA,NA
-"42","Hiram","281","1981","","","-",NA,NA,NA,NA
-"43","Hiram","281","","","","",375,613,2,0.38
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Scott Pohlman","NCAC","0-0-0",0
+"2","2024","Shannon Schaub","NCAC","25-17-0",0.595
+"3","2023","Summer Collins","NCAC","27-16-0",0.628
+"4","2022","Scott Pohlman","NCAC","26-16-0",0.619
+"5","2021","Scott Pohlman","NCAC","24-17-0",0.585
+"6","2020","Scott Pohlman","NCAC","4-10-0",0.286
+"7","2019","Scott Pohlman","NCAC","11-24-1",0.319
+"8","2018","Scott Pohlman","NCAC","9-26-0",0.257
+"9","2017","Scott Pohlman","NCAC","8-30-0",0.211
+"10","2016","Jackie Price","NCAC","12-26-0",0.316
+"11","2015","Jackie Price","NCAC","9-23-0",0.281
+"12","2014","Kristin Tassey","NCAC","13-19-0",0.406
+"13","2013","Kristin Tassey","NCAC","12-24-0",0.333
+"14","2012","Kristin Tassey","NCAC","19-17-0",0.528
+"15","2011","Kristin Tassey","NCAC","29-14-0",0.674
+"16","2010","Kristin Tassey","NCAC","20-17-0",0.541
+"17","2009","Kristin Tassey","NCAC","27-16-0",0.628
+"18","2008","Kristin Tassey","NCAC","18-20-0",0.474
+"19","2007","Kristin Tassey","NCAC","22-14-0",0.611
+"20","2006","Michelle Burke","NCAC","10-27-1",0.276
+"21","2005","Sue Woodford","NCAC","12-21-0",0.364
+"22","2004","Sue Woodford","NCAC","6-21-0",0.222
+"23","2003","","NCAC","8-24-0",0.25
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Heather Rakosik","-","12-28-0",0.3
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Stacey Maleckar","-","4-30-0",0.118
+"29","1997","Stacey Maleckar","-","1-29-0",0.033
+"30","1996","Stacey Maleckar","-","5-29-0",0.147
+"31","1995","Stacey Maleckar","-","2-26-0",0.071
+"32","1994","Myrtis Herndon","-","0-32-0",0
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1981","","-","NA-NA-0",NA

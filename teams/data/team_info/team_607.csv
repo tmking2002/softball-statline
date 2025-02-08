@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Lawrence","607","2025","Rosie Phillips","D-III","Liberty League",0,0,0,0
-"2","St. Lawrence","607","2024","Rosie Phillips","D-III","Liberty League",19,15,0,0.559
-"3","St. Lawrence","607","2023","Rosie Phillips","D-III","Liberty League",8,24,0,0.25
-"4","St. Lawrence","607","2022","Rosie Phillips","D-III","Liberty League",16,15,0,0.516
-"5","St. Lawrence","607","2021","Elisa Van Kirk","D-III","Liberty League",7,22,0,0.241
-"6","St. Lawrence","607","2020","Elisa Van Kirk","D-III","Liberty League",NA,NA,NA,0
-"7","St. Lawrence","607","2019","Elisa Van Kirk","D-III","Liberty League",18,16,0,0.529
-"8","St. Lawrence","607","2018","Elisa Van Kirk","D-III","Liberty League",13,17,NA,0.433
-"9","St. Lawrence","607","2017","Elisa Van Kirk","D-III","Liberty League",22,11,0,0.667
-"10","St. Lawrence","607","2016","Elisa Van Kirk","D-III","Liberty League",14,21,0,0.4
-"11","St. Lawrence","607","2015","Elisa Van Kirk","D-III","Liberty League",15,13,0,0.536
-"12","St. Lawrence","607","2014","Elisa Van Kirk","D-III","Liberty League",17,19,0,0.472
-"13","St. Lawrence","607","2013","Elisa Van Kirk","D-III","Liberty League",22,17,0,0.564
-"14","St. Lawrence","607","2012","Fran Grembowicz","D-III","Liberty League",20,13,0,0.606
-"15","St. Lawrence","607","2011","Fran Grembowicz","D-III","Liberty League",11,21,0,0.344
-"16","St. Lawrence","607","2010","Fran Grembowicz","D-III","Liberty League",12,17,0,0.414
-"17","St. Lawrence","607","2009","Fran Grembowicz","D-III","Liberty League",5,25,0,0.167
-"18","St. Lawrence","607","2008","Fran Grembowicz","D-III","Liberty League",9,21,0,0.3
-"19","St. Lawrence","607","2007","Fran Grembowicz","D-III","Liberty League",8,19,1,0.304
-"20","St. Lawrence","607","2006","Fran Grembowicz","D-III","Liberty League",9,23,0,0.281
-"21","St. Lawrence","607","2005","Fran Grembowicz","D-III","Liberty League",10,19,0,0.345
-"22","St. Lawrence","607","2004","Fran Grembowicz","D-III","Liberty League",13,15,0,0.464
-"23","St. Lawrence","607","2003","Fran Grembowicz","D-III","Liberty League",18,10,0,0.643
-"24","St. Lawrence","607","2002","Fran Grembowicz","D-III","Liberty League",18,16,0,0.529
-"25","St. Lawrence","607","2001","Fran Grembowicz","D-III","-",20,15,NA,0.571
-"26","St. Lawrence","607","1900","Fran Grembowicz","D-III","-",15,6,NA,0.714
-"27","St. Lawrence","607","1999","","D-III","-",NA,NA,NA,NA
-"28","St. Lawrence","607","1998","","D-III","-",NA,NA,NA,NA
-"29","St. Lawrence","607","1997","","D-III","-",NA,NA,NA,NA
-"30","St. Lawrence","607","1996","","D-III","-",NA,NA,NA,NA
-"31","St. Lawrence","607","1995","","D-III","-",NA,NA,NA,NA
-"32","St. Lawrence","607","1994","","D-III","-",NA,NA,NA,NA
-"33","St. Lawrence","607","1993","","D-III","-",NA,NA,NA,NA
-"34","St. Lawrence","607","1992","","D-III","-",NA,NA,NA,NA
-"35","St. Lawrence","607","1991","","D-III","-",NA,NA,NA,NA
-"36","St. Lawrence","607","1990","","D-III","-",NA,NA,NA,NA
-"37","St. Lawrence","607","1989","","","-",NA,NA,NA,NA
-"38","St. Lawrence","607","1988","","","-",NA,NA,NA,NA
-"39","St. Lawrence","607","1987","","","-",NA,NA,NA,NA
-"40","St. Lawrence","607","1986","","","-",NA,NA,NA,NA
-"41","St. Lawrence","607","1985","","","-",NA,NA,NA,NA
-"42","St. Lawrence","607","1984","","","-",NA,NA,NA,NA
-"43","St. Lawrence","607","","","","",339,410,1,0.453
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rosie Phillips","Liberty League","0-0-0",0
+"2","2024","Rosie Phillips","Liberty League","19-15-0",0.559
+"3","2023","Rosie Phillips","Liberty League","8-24-0",0.25
+"4","2022","Rosie Phillips","Liberty League","16-15-0",0.516
+"5","2021","Elisa Van Kirk","Liberty League","7-22-0",0.241
+"6","2020","Elisa Van Kirk","Liberty League","NA-NA-0",0
+"7","2019","Elisa Van Kirk","Liberty League","18-16-0",0.529
+"8","2018","Elisa Van Kirk","Liberty League","13-17-0",0.433
+"9","2017","Elisa Van Kirk","Liberty League","22-11-0",0.667
+"10","2016","Elisa Van Kirk","Liberty League","14-21-0",0.4
+"11","2015","Elisa Van Kirk","Liberty League","15-13-0",0.536
+"12","2014","Elisa Van Kirk","Liberty League","17-19-0",0.472
+"13","2013","Elisa Van Kirk","Liberty League","22-17-0",0.564
+"14","2012","Fran Grembowicz","Liberty League","20-13-0",0.606
+"15","2011","Fran Grembowicz","Liberty League","11-21-0",0.344
+"16","2010","Fran Grembowicz","Liberty League","12-17-0",0.414
+"17","2009","Fran Grembowicz","Liberty League","5-25-0",0.167
+"18","2008","Fran Grembowicz","Liberty League","9-21-0",0.3
+"19","2007","Fran Grembowicz","Liberty League","8-19-1",0.304
+"20","2006","Fran Grembowicz","Liberty League","9-23-0",0.281
+"21","2005","Fran Grembowicz","Liberty League","10-19-0",0.345
+"22","2004","Fran Grembowicz","Liberty League","13-15-0",0.464
+"23","2003","Fran Grembowicz","Liberty League","18-10-0",0.643
+"24","2002","Fran Grembowicz","Liberty League","18-16-0",0.529
+"25","2001","Fran Grembowicz","-","20-15-0",0.571
+"26","1900","Fran Grembowicz","-","15-6-0",0.714
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA

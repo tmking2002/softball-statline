@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Merchant Marine","724","2013","Cassie Arroyo","D-III","Landmark",NA,NA,NA,NA
-"2","Merchant Marine","724","2012","Cassie Arroyo","D-III","Landmark",0,2,0,0
-"3","Merchant Marine","724","2011","Cassie Arroyo","D-III","Landmark",0,17,0,0
-"4","Merchant Marine","724","2010","Cassie Arroyo","D-III","Landmark",11,18,0,0.379
-"5","Merchant Marine","724","2009","Cassie Arroyo","D-III","Landmark",19,18,0,0.514
-"6","Merchant Marine","724","2008","Cassie Arroyo","D-III","Landmark",15,23,1,0.397
-"7","Merchant Marine","724","2007","Kelly Flahive","D-III","Skyline",18,17,0,0.514
-"8","Merchant Marine","724","2006","Heather Stone","D-III","Skyline",17,24,0,0.415
-"9","Merchant Marine","724","2005","Heather Stone","D-III","Skyline",23,16,0,0.59
-"10","Merchant Marine","724","2004","Heather Stone","D-III","Skyline",28,16,1,0.633
-"11","Merchant Marine","724","2003","Heather Stone","D-III","Skyline",16,25,0,0.39
-"12","Merchant Marine","724","2002","Heather Stone","D-III","-",17,17,NA,0.5
-"13","Merchant Marine","724","2001","Heather Stone","D-III","-",9,23,NA,0.281
-"14","Merchant Marine","724","1900","Nicci Hays Fort","D-III","-",4,23,NA,0.148
-"15","Merchant Marine","724","1999","Nicci Hays Fort","D-III","-",11,18,NA,0.379
-"16","Merchant Marine","724","1998","","D-III","-",NA,NA,NA,NA
-"17","Merchant Marine","724","1997","Steve LaSalle","D-III","-",13,13,NA,0.5
-"18","Merchant Marine","724","1996","Steve LaSalle","D-III","-",9,12,NA,0.429
-"19","Merchant Marine","724","1995","Chris Brown","D-III","-",2,16,NA,0.111
-"20","Merchant Marine","724","1994","Chris Brown","D-III","-",5,7,0,0.417
-"21","Merchant Marine","724","1993","","D-III","-",NA,NA,NA,NA
-"22","Merchant Marine","724","1992","","D-III","-",NA,NA,NA,NA
-"23","Merchant Marine","724","1991","","D-III","-",NA,NA,NA,NA
-"24","Merchant Marine","724","1990","","D-III","-",NA,NA,NA,NA
-"25","Merchant Marine","724","","","","",217,305,2,0.416
+"","season","head_coach","conference","record","win_perc"
+"1","2013","Cassie Arroyo","Landmark","NA-NA-0",NA
+"2","2012","Cassie Arroyo","Landmark","0-2-0",0
+"3","2011","Cassie Arroyo","Landmark","0-17-0",0
+"4","2010","Cassie Arroyo","Landmark","11-18-0",0.379
+"5","2009","Cassie Arroyo","Landmark","19-18-0",0.514
+"6","2008","Cassie Arroyo","Landmark","15-23-1",0.397
+"7","2007","Kelly Flahive","Skyline","18-17-0",0.514
+"8","2006","Heather Stone","Skyline","17-24-0",0.415
+"9","2005","Heather Stone","Skyline","23-16-0",0.59
+"10","2004","Heather Stone","Skyline","28-16-1",0.633
+"11","2003","Heather Stone","Skyline","16-25-0",0.39
+"12","2002","Heather Stone","-","17-17-0",0.5
+"13","2001","Heather Stone","-","9-23-0",0.281
+"14","1900","Nicci Hays Fort","-","4-23-0",0.148
+"15","1999","Nicci Hays Fort","-","11-18-0",0.379
+"16","1998","","-","NA-NA-0",NA
+"17","1997","Steve LaSalle","-","13-13-0",0.5
+"18","1996","Steve LaSalle","-","9-12-0",0.429
+"19","1995","Chris Brown","-","2-16-0",0.111
+"20","1994","Chris Brown","-","5-7-0",0.417
+"21","1993","","-","NA-NA-0",NA
+"22","1992","","-","NA-NA-0",NA
+"23","1991","","-","NA-NA-0",NA
+"24","1990","","-","NA-NA-0",NA

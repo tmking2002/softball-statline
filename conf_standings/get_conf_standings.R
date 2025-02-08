@@ -5,7 +5,7 @@ library(tidyverse)
 
 print("CONF STANDINGS")
 
-cur_season <- 2024
+cur_season <- 2025
 
 info <- try(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")), silent = TRUE)
 

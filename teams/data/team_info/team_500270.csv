@@ -1,16 +1,15 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Point U.","500270","2025",NA,NA,"-",NA,NA,NA,0
-"2","Point U.","500270","2024",NA,NA,"-",NA,NA,NA,0
-"3","Point U.","500270","2023",NA,NA,"-",NA,NA,NA,0
-"4","Point U.","500270","2022",NA,NA,"-",NA,NA,NA,0
-"5","Point U.","500270","2021",NA,NA,"-",NA,NA,NA,0
-"6","Point U.","500270","2020",NA,NA,"-",NA,NA,NA,0
-"7","Point U.","500270","2019",NA,NA,"-",NA,NA,NA,0
-"8","Point U.","500270","2018",NA,NA,"-",NA,NA,NA,0
-"9","Point U.","500270","2017",NA,NA,"-",NA,NA,NA,NA
-"10","Point U.","500270","2016",NA,NA,"-",NA,NA,NA,NA
-"11","Point U.","500270","2015",NA,NA,"-",NA,NA,NA,NA
-"12","Point U.","500270","2014",NA,NA,"-",NA,NA,NA,NA
-"13","Point U.","500270","2013",NA,NA,"-",NA,NA,NA,NA
-"14","Point U.","500270","2012",NA,NA,"-",NA,NA,NA,NA
-"15","Point U.","500270","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2021",NA,"-","NA-NA-0",0
+"6","2020",NA,"-","NA-NA-0",0
+"7","2019",NA,"-","NA-NA-0",0
+"8","2018",NA,"-","NA-NA-0",0
+"9","2017",NA,"-","NA-NA-0",NA
+"10","2016",NA,"-","NA-NA-0",NA
+"11","2015",NA,"-","NA-NA-0",NA
+"12","2014",NA,"-","NA-NA-0",NA
+"13","2013",NA,"-","NA-NA-0",NA
+"14","2012",NA,"-","NA-NA-0",NA

@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Oberlin","515","2025","Sara Schoenhoft","D-III","NCAC",0,0,0,0
-"2","Oberlin","515","2024","Sara Schoenhoft","D-III","NCAC",6,26,0,0.188
-"3","Oberlin","515","2023","Sara Schoenhoft","D-III","NCAC",9,25,0,0.265
-"4","Oberlin","515","2022","Sara Schoenhoft","D-III","NCAC",8,24,1,0.258
-"5","Oberlin","515","2021","Sara Schoenhoft","D-III","NCAC",2,6,0,0.25
-"6","Oberlin","515","2020","Sara Schoenhoft","D-III","NCAC",NA,NA,NA,0
-"7","Oberlin","515","2019","Sara Schoenhoft","D-III","NCAC",12,22,0,0.353
-"8","Oberlin","515","2018","Sara Schoenhoft","D-III","NCAC",8,26,NA,0.235
-"9","Oberlin","515","2017","Sara Schoenhoft","D-III","NCAC",12,28,0,0.3
-"10","Oberlin","515","2016","Sara Schoenhoft","D-III","NCAC",2,35,0,0.054
-"11","Oberlin","515","2015","Mimi Mahon","D-III","NCAC",6,28,2,0.194
-"12","Oberlin","515","2014","Mimi Mahon","D-III","NCAC",11,23,0,0.324
-"13","Oberlin","515","2013","Mimi Mahon","D-III","NCAC",4,30,0,0.118
-"14","Oberlin","515","2012","Mimi Mahon","D-III","NCAC",14,26,0,0.35
-"15","Oberlin","515","2011","Adrienne Davis","D-III","NCAC",5,27,0,0.156
-"16","Oberlin","515","2010","Adrienne Davis","D-III","NCAC",4,32,0,0.111
-"17","Oberlin","515","2009","Adrienne Davis","D-III","NCAC",8,26,0,0.235
-"18","Oberlin","515","2008","Adrienne Davis","D-III","NCAC",3,30,0,0.091
-"19","Oberlin","515","2007","Adrienne Davis","D-III","NCAC",1,25,0,0.038
-"20","Oberlin","515","2006","Adrienne Davis","D-III","NCAC",3,26,0,0.103
-"21","Oberlin","515","2005","Johanna Van der Hulst","D-III","NCAC",1,24,0,0.04
-"22","Oberlin","515","2004","","D-III","NCAC",0,16,0,0
-"23","Oberlin","515","2003","","D-III","NCAC",5,18,0,0.217
-"24","Oberlin","515","2002","","D-III","-",NA,NA,NA,NA
-"25","Oberlin","515","2001","Jane Wildman","D-III","-",1,20,0,0.048
-"26","Oberlin","515","1900","","D-III","-",NA,NA,NA,NA
-"27","Oberlin","515","1999","","D-III","-",NA,NA,NA,NA
-"28","Oberlin","515","1998","","D-III","-",NA,NA,NA,NA
-"29","Oberlin","515","1997","","D-III","-",NA,NA,NA,NA
-"30","Oberlin","515","1996","","D-III","-",NA,NA,NA,NA
-"31","Oberlin","515","1995","","D-III","-",NA,NA,NA,NA
-"32","Oberlin","515","1994","","D-III","-",NA,NA,NA,NA
-"33","Oberlin","515","1993","","D-III","-",NA,NA,NA,NA
-"34","Oberlin","515","1992","","D-III","-",NA,NA,NA,NA
-"35","Oberlin","515","1991","","D-III","-",NA,NA,NA,NA
-"36","Oberlin","515","1990","","D-III","-",NA,NA,NA,NA
-"37","Oberlin","515","","","","",125,543,3,0.189
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sara Schoenhoft","NCAC","0-0-0",0
+"2","2024","Sara Schoenhoft","NCAC","6-26-0",0.188
+"3","2023","Sara Schoenhoft","NCAC","9-25-0",0.265
+"4","2022","Sara Schoenhoft","NCAC","8-24-1",0.258
+"5","2021","Sara Schoenhoft","NCAC","2-6-0",0.25
+"6","2020","Sara Schoenhoft","NCAC","NA-NA-0",0
+"7","2019","Sara Schoenhoft","NCAC","12-22-0",0.353
+"8","2018","Sara Schoenhoft","NCAC","8-26-0",0.235
+"9","2017","Sara Schoenhoft","NCAC","12-28-0",0.3
+"10","2016","Sara Schoenhoft","NCAC","2-35-0",0.054
+"11","2015","Mimi Mahon","NCAC","6-28-2",0.194
+"12","2014","Mimi Mahon","NCAC","11-23-0",0.324
+"13","2013","Mimi Mahon","NCAC","4-30-0",0.118
+"14","2012","Mimi Mahon","NCAC","14-26-0",0.35
+"15","2011","Adrienne Davis","NCAC","5-27-0",0.156
+"16","2010","Adrienne Davis","NCAC","4-32-0",0.111
+"17","2009","Adrienne Davis","NCAC","8-26-0",0.235
+"18","2008","Adrienne Davis","NCAC","3-30-0",0.091
+"19","2007","Adrienne Davis","NCAC","1-25-0",0.038
+"20","2006","Adrienne Davis","NCAC","3-26-0",0.103
+"21","2005","Johanna Van der Hulst","NCAC","1-24-0",0.04
+"22","2004","","NCAC","0-16-0",0
+"23","2003","","NCAC","5-18-0",0.217
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Jane Wildman","-","1-20-0",0.048
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

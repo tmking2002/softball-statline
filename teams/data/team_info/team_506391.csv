@@ -1,4 +1,3 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Virginia-Lynchburg","506391","2013",NA,NA,"-",NA,NA,NA,NA
-"2","Virginia-Lynchburg","506391","2012",NA,NA,"-",NA,NA,NA,NA
-"3","Virginia-Lynchburg","506391","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2013",NA,"-","NA-NA-0",NA
+"2","2012",NA,"-","NA-NA-0",NA

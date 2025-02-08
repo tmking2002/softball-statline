@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Allegheny","19","2025","Beth Curtiss","D-III","PAC",0,0,0,0
-"2","Allegheny","19","2024","Beth Curtiss","D-III","PAC",26,12,0,0.684
-"3","Allegheny","19","2023","Beth Curtiss","D-III","PAC",24,12,0,0.667
-"4","Allegheny","19","2022","Beth Curtiss","D-III","NCAC",11,20,1,0.359
-"5","Allegheny","19","2021","Beth Curtiss","D-III","NCAC",4,18,0,0.182
-"6","Allegheny","19","2020","Beth Curtiss","D-III","NCAC",0,4,0,0
-"7","Allegheny","19","2019","Beth Curtiss","D-III","NCAC",8,23,1,0.266
-"8","Allegheny","19","2018","Beth Curtiss","D-III","NCAC",18,15,NA,0.545
-"9","Allegheny","19","2017","Beth Curtiss","D-III","NCAC",10,24,0,0.294
-"10","Allegheny","19","2016","Beth Curtiss","D-III","NCAC",9,21,0,0.3
-"11","Allegheny","19","2015","Beth Curtiss","D-III","NCAC",15,14,1,0.517
-"12","Allegheny","19","2014","Beth Curtiss","D-III","NCAC",13,22,0,0.371
-"13","Allegheny","19","2013","Beth Curtiss","D-III","NCAC",24,20,0,0.545
-"14","Allegheny","19","2012","Sandra Sanford","D-III","NCAC",27,11,1,0.705
-"15","Allegheny","19","2011","Sandra Sanford","D-III","NCAC",7,21,0,0.25
-"16","Allegheny","19","2010","Sandra Sanford","D-III","NCAC",12,21,0,0.364
-"17","Allegheny","19","2009","Sandra Sanford","D-III","NCAC",24,18,0,0.571
-"18","Allegheny","19","2008","Sandra Sanford","D-III","NCAC",24,15,0,0.615
-"19","Allegheny","19","2007","Sandra Sanford","D-III","NCAC",19,19,0,0.5
-"20","Allegheny","19","2006","Sandra Sanford","D-III","NCAC",19,21,0,0.475
-"21","Allegheny","19","2005","Sandra Sanford","D-III","NCAC",21,18,0,0.538
-"22","Allegheny","19","2004","Sandra Sanford","D-III","NCAC",23,16,0,0.59
-"23","Allegheny","19","2003","Renee Hicks","D-III","NCAC",16,22,1,0.423
-"24","Allegheny","19","2002","Renee Hicks","D-III","NCAC",22,15,0,0.595
-"25","Allegheny","19","2001","Renee Hicks","D-III","-",13,22,NA,0.371
-"26","Allegheny","19","1900","Renee Hicks","D-III","-",18,24,NA,0.429
-"27","Allegheny","19","1999","Deb Peffer","D-III","-",20,18,1,0.526
-"28","Allegheny","19","1998","Deb Peffer","D-III","-",17,20,NA,0.459
-"29","Allegheny","19","1997","Deb Peffer","D-III","-",22,21,NA,0.512
-"30","Allegheny","19","1996","Deb Peffer","D-III","-",30,14,NA,0.682
-"31","Allegheny","19","1995","Michelle Fagnant","D-III","-",39,10,NA,0.796
-"32","Allegheny","19","1994","Michelle Fagnant","D-III","-",34,6,NA,0.85
-"33","Allegheny","19","1993","Shelley Monas","D-III","-",27,13,NA,0.675
-"34","Allegheny","19","1992","Shelley Monas","D-III","-",22,12,NA,0.647
-"35","Allegheny","19","1991","Shelley Monas","D-III","-",13,21,NA,0.382
-"36","Allegheny","19","1990","Sheilah Gulas","D-III","-",26,12,NA,0.684
-"37","Allegheny","19","1989","Sheilah Gulas","D-III","-",31,10,NA,0.756
-"38","Allegheny","19","1988","Sheilah Gulas","D-III","-",38,5,NA,0.884
-"39","Allegheny","19","1987","Sheilah Gulas","D-III","-",25,12,NA,0.676
-"40","Allegheny","19","1986","","D-III","-",NA,NA,NA,NA
-"41","Allegheny","19","1985","","D-III","-",NA,NA,NA,NA
-"42","Allegheny","19","1983","","D-III","-",NA,NA,NA,NA
-"43","Allegheny","19","1982","","D-III","-",NA,NA,NA,NA
-"44","Allegheny","19","","","","",751,622,6,0.547
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Beth Curtiss","PAC","0-0-0",0
+"2","2024","Beth Curtiss","PAC","26-12-0",0.684
+"3","2023","Beth Curtiss","PAC","24-12-0",0.667
+"4","2022","Beth Curtiss","NCAC","11-20-1",0.359
+"5","2021","Beth Curtiss","NCAC","4-18-0",0.182
+"6","2020","Beth Curtiss","NCAC","0-4-0",0
+"7","2019","Beth Curtiss","NCAC","8-23-1",0.266
+"8","2018","Beth Curtiss","NCAC","18-15-0",0.545
+"9","2017","Beth Curtiss","NCAC","10-24-0",0.294
+"10","2016","Beth Curtiss","NCAC","9-21-0",0.3
+"11","2015","Beth Curtiss","NCAC","15-14-1",0.517
+"12","2014","Beth Curtiss","NCAC","13-22-0",0.371
+"13","2013","Beth Curtiss","NCAC","24-20-0",0.545
+"14","2012","Sandra Sanford","NCAC","27-11-1",0.705
+"15","2011","Sandra Sanford","NCAC","7-21-0",0.25
+"16","2010","Sandra Sanford","NCAC","12-21-0",0.364
+"17","2009","Sandra Sanford","NCAC","24-18-0",0.571
+"18","2008","Sandra Sanford","NCAC","24-15-0",0.615
+"19","2007","Sandra Sanford","NCAC","19-19-0",0.5
+"20","2006","Sandra Sanford","NCAC","19-21-0",0.475
+"21","2005","Sandra Sanford","NCAC","21-18-0",0.538
+"22","2004","Sandra Sanford","NCAC","23-16-0",0.59
+"23","2003","Renee Hicks","NCAC","16-22-1",0.423
+"24","2002","Renee Hicks","NCAC","22-15-0",0.595
+"25","2001","Renee Hicks","-","13-22-0",0.371
+"26","1900","Renee Hicks","-","18-24-0",0.429
+"27","1999","Deb Peffer","-","20-18-1",0.526
+"28","1998","Deb Peffer","-","17-20-0",0.459
+"29","1997","Deb Peffer","-","22-21-0",0.512
+"30","1996","Deb Peffer","-","30-14-0",0.682
+"31","1995","Michelle Fagnant","-","39-10-0",0.796
+"32","1994","Michelle Fagnant","-","34-6-0",0.85
+"33","1993","Shelley Monas","-","27-13-0",0.675
+"34","1992","Shelley Monas","-","22-12-0",0.647
+"35","1991","Shelley Monas","-","13-21-0",0.382
+"36","1990","Sheilah Gulas","-","26-12-0",0.684
+"37","1989","Sheilah Gulas","-","31-10-0",0.756
+"38","1988","Sheilah Gulas","-","38-5-0",0.884
+"39","1987","Sheilah Gulas","-","25-12-0",0.676
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

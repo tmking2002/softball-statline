@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Saint Augustine's","594","2025","Dorothy Neal","D-II","CIAA",0,0,0,0
-"2","Saint Augustine's","594","2024","Dorothy Neal","D-II","CIAA",0,0,0,0
-"3","Saint Augustine's","594","2023","Dorothy Neal","D-II","CIAA",3,18,0,0.143
-"4","Saint Augustine's","594","2022","Dorothy Neal","D-II","CIAA",3,21,0,0.125
-"5","Saint Augustine's","594","2021","Dorothy Neal","D-II","CIAA",0,0,0,0
-"6","Saint Augustine's","594","2020","Dorothy Neal","D-II","CIAA",0,8,0,0
-"7","Saint Augustine's","594","2019","Dorothy Neal","D-II","CIAA",5,19,0,0.208
-"8","Saint Augustine's","594","2018","Dorothy Neal","D-II","CIAA",17,10,NA,0.63
-"9","Saint Augustine's","594","2017","Dorothy Neal","D-II","CIAA",16,14,0,0.533
-"10","Saint Augustine's","594","2016","Nikki Bynum-Bumpass","D-II","CIAA",8,26,0,0.235
-"11","Saint Augustine's","594","2015","Nikki Bynum-Bumpass","D-II","CIAA",22,15,0,0.595
-"12","Saint Augustine's","594","2014","Nikki Bynum-Bumpass","D-II","CIAA",18,21,0,0.462
-"13","Saint Augustine's","594","2013","Nikki Bynum-Bumpass","D-II","CIAA",17,12,1,0.583
-"14","Saint Augustine's","594","2012","Nikki Bynum-Bumpass","D-II","CIAA",12,23,0,0.343
-"15","Saint Augustine's","594","2011","Dorothy Neal","D-II","CIAA",5,26,0,0.161
-"16","Saint Augustine's","594","2010","Dorothy Neal","D-II","CIAA",1,25,0,0.038
-"17","Saint Augustine's","594","2009","Dorothy Neal","D-II","CIAA",6,21,0,0.222
-"18","Saint Augustine's","594","2008","Dorothy Neal","D-II","CIAA",6,21,0,0.222
-"19","Saint Augustine's","594","2007","Dorothy Neal","D-II","CIAA",10,18,0,0.357
-"20","Saint Augustine's","594","2006","Dorothy Neal","D-II","CIAA",4,15,0,0.211
-"21","Saint Augustine's","594","2005","Dorothy Neal","D-II","CIAA",6,16,0,0.273
-"22","Saint Augustine's","594","2004","Dorothy Neal","D-II","CIAA",10,17,0,0.37
-"23","Saint Augustine's","594","2003","Dorothy Neal","D-II","CIAA",17,9,0,0.654
-"24","Saint Augustine's","594","2002","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"25","Saint Augustine's","594","2001","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"26","Saint Augustine's","594","1900","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"27","Saint Augustine's","594","1999","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"28","Saint Augustine's","594","1998","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"29","Saint Augustine's","594","1997","Dorothy Neal","D-II","-",NA,NA,NA,NA
-"30","Saint Augustine's","594","1996","Dorothy Neal","D-II","-",20,10,0,0.667
-"31","Saint Augustine's","594","1995","","D-II","-",NA,NA,NA,NA
-"32","Saint Augustine's","594","1994","Bev Downing","D-II","-",22,8,NA,0.733
-"33","Saint Augustine's","594","1993","Dorothy Neal","D-II","-",15,11,0,0.577
-"34","Saint Augustine's","594","1992","","D-II","-",NA,NA,NA,NA
-"35","Saint Augustine's","594","1991","","D-II","-",NA,NA,NA,NA
-"36","Saint Augustine's","594","1990","Bev Downing","D-II","-",33,12,0,0.733
-"37","Saint Augustine's","594","1989","Bev Downing","D-II","-",NA,NA,NA,NA
-"38","Saint Augustine's","594","1988","Bev Downing","D-II","-",NA,NA,NA,NA
-"39","Saint Augustine's","594","1987","Bev Downing","D-II","-",24,7,0,0.774
-"40","Saint Augustine's","594","","","","",300,403,1,0.427
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Dorothy Neal","CIAA","0-0-0",0
+"2","2024","Dorothy Neal","CIAA","0-0-0",0
+"3","2023","Dorothy Neal","CIAA","3-18-0",0.143
+"4","2022","Dorothy Neal","CIAA","3-21-0",0.125
+"5","2021","Dorothy Neal","CIAA","0-0-0",0
+"6","2020","Dorothy Neal","CIAA","0-8-0",0
+"7","2019","Dorothy Neal","CIAA","5-19-0",0.208
+"8","2018","Dorothy Neal","CIAA","17-10-0",0.63
+"9","2017","Dorothy Neal","CIAA","16-14-0",0.533
+"10","2016","Nikki Bynum-Bumpass","CIAA","8-26-0",0.235
+"11","2015","Nikki Bynum-Bumpass","CIAA","22-15-0",0.595
+"12","2014","Nikki Bynum-Bumpass","CIAA","18-21-0",0.462
+"13","2013","Nikki Bynum-Bumpass","CIAA","17-12-1",0.583
+"14","2012","Nikki Bynum-Bumpass","CIAA","12-23-0",0.343
+"15","2011","Dorothy Neal","CIAA","5-26-0",0.161
+"16","2010","Dorothy Neal","CIAA","1-25-0",0.038
+"17","2009","Dorothy Neal","CIAA","6-21-0",0.222
+"18","2008","Dorothy Neal","CIAA","6-21-0",0.222
+"19","2007","Dorothy Neal","CIAA","10-18-0",0.357
+"20","2006","Dorothy Neal","CIAA","4-15-0",0.211
+"21","2005","Dorothy Neal","CIAA","6-16-0",0.273
+"22","2004","Dorothy Neal","CIAA","10-17-0",0.37
+"23","2003","Dorothy Neal","CIAA","17-9-0",0.654
+"24","2002","Dorothy Neal","-","NA-NA-0",NA
+"25","2001","Dorothy Neal","-","NA-NA-0",NA
+"26","1900","Dorothy Neal","-","NA-NA-0",NA
+"27","1999","Dorothy Neal","-","NA-NA-0",NA
+"28","1998","Dorothy Neal","-","NA-NA-0",NA
+"29","1997","Dorothy Neal","-","NA-NA-0",NA
+"30","1996","Dorothy Neal","-","20-10-0",0.667
+"31","1995","","-","NA-NA-0",NA
+"32","1994","Bev Downing","-","22-8-0",0.733
+"33","1993","Dorothy Neal","-","15-11-0",0.577
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","Bev Downing","-","33-12-0",0.733
+"37","1989","Bev Downing","-","NA-NA-0",NA
+"38","1988","Bev Downing","-","NA-NA-0",NA
+"39","1987","Bev Downing","-","24-7-0",0.774

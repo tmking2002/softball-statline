@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Marist","386","2025","Joe Ausanio","D-I","MAAC",1,1,0,0.5
-"2","Marist","386","2024","Joe Ausanio","D-I","MAAC",36,19,0,0.655
-"3","Marist","386","2023","Joe Ausanio","D-I","MAAC",29,30,0,0.492
-"4","Marist","386","2022","Joe Ausanio","D-I","MAAC",25,30,0,0.455
-"5","Marist","386","2021","Joe Ausanio","D-I","MAAC",15,12,0,0.556
-"6","Marist","386","2020","Joe Ausanio","D-I","MAAC",10,9,0,0.526
-"7","Marist","386","2019","Joe Ausanio","D-I","MAAC",35,22,0,0.614
-"8","Marist","386","2018","Joe Ausanio","D-I","MAAC",27,32,NA,0.458
-"9","Marist","386","2017","Joe Ausanio","D-I","MAAC",37,22,0,0.627
-"10","Marist","386","2016","Joe Ausanio","D-I","MAAC",45,13,0,0.776
-"11","Marist","386","2015","Joe Ausanio","D-I","MAAC",28,26,0,0.519
-"12","Marist","386","2014","Joe Ausanio","D-I","MAAC",27,24,0,0.529
-"13","Marist","386","2013","Joe Ausanio","D-I","MAAC",30,26,0,0.536
-"14","Marist","386","2012","Joe Ausanio","D-I","MAAC",28,27,0,0.509
-"15","Marist","386","2011","Joe Ausanio","D-I","MAAC",33,22,0,0.6
-"16","Marist","386","2010","Joe Ausanio","D-I","MAAC",10,35,0,0.222
-"17","Marist","386","2009","Joe Ausanio","D-I","MAAC",16,33,0,0.327
-"18","Marist","386","2008","Erin Layton","D-I","MAAC",24,30,0,0.444
-"19","Marist","386","2007","Erin Layton","D-I","MAAC",20,30,0,0.4
-"20","Marist","386","2006","Melissa Tucci","D-I","MAAC",33,13,0,0.717
-"21","Marist","386","2005","Melissa Tucci","D-I","MAAC",23,22,0,0.511
-"22","Marist","386","2004","Melissa Tucci","D-I","MAAC",11,43,0,0.204
-"23","Marist","386","2003","Melissa Tucci","D-I","MAAC",10,31,0,0.244
-"24","Marist","386","2002","Melissa Tucci","D-I","MAAC",10,35,1,0.228
-"25","Marist","386","2001","Jonnah O'Donnell","D-I","MAAC",25,24,1,0.51
-"26","Marist","386","1900","Jonnah O'Donnell","D-I","MAAC",30,16,0,0.652
-"27","Marist","386","1999","Jonnah O'Donnell","D-I","MAAC",16,21,0,0.432
-"28","Marist","386","1998","Jonnah O'Donnell","D-I","-",20,13,1,0.603
-"29","Marist","386","1997","Jonnah O'Donnell","D-I","NEC",23,21,0,0.523
-"30","Marist","386","1996","Jonnah O'Donnell","D-I","-",28,14,NA,0.667
-"31","Marist","386","1995","George Burgin (33-12-1)Jonnah O'Donnell (33-12-1)","D-I","-",33,12,1,0.728
-"32","Marist","386","1994","George Burgin","D-I","-",28,16,NA,0.636
-"33","Marist","386","1993","Tom Chiavelli","D-I","-",22,22,NA,0.5
-"34","Marist","386","1992","Tom Chiavelli","D-I","-",4,29,NA,0.121
-"35","Marist","386","1991","","D-I","-",NA,NA,NA,NA
-"36","Marist","386","1990","","D-I","-",NA,NA,NA,NA
-"37","Marist","386","","","","",792,775,4,0.505
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Joe Ausanio","MAAC","1-1-0",0.5
+"2","2024","Joe Ausanio","MAAC","36-19-0",0.655
+"3","2023","Joe Ausanio","MAAC","29-30-0",0.492
+"4","2022","Joe Ausanio","MAAC","25-30-0",0.455
+"5","2021","Joe Ausanio","MAAC","15-12-0",0.556
+"6","2020","Joe Ausanio","MAAC","10-9-0",0.526
+"7","2019","Joe Ausanio","MAAC","35-22-0",0.614
+"8","2018","Joe Ausanio","MAAC","27-32-0",0.458
+"9","2017","Joe Ausanio","MAAC","37-22-0",0.627
+"10","2016","Joe Ausanio","MAAC","45-13-0",0.776
+"11","2015","Joe Ausanio","MAAC","28-26-0",0.519
+"12","2014","Joe Ausanio","MAAC","27-24-0",0.529
+"13","2013","Joe Ausanio","MAAC","30-26-0",0.536
+"14","2012","Joe Ausanio","MAAC","28-27-0",0.509
+"15","2011","Joe Ausanio","MAAC","33-22-0",0.6
+"16","2010","Joe Ausanio","MAAC","10-35-0",0.222
+"17","2009","Joe Ausanio","MAAC","16-33-0",0.327
+"18","2008","Erin Layton","MAAC","24-30-0",0.444
+"19","2007","Erin Layton","MAAC","20-30-0",0.4
+"20","2006","Melissa Tucci","MAAC","33-13-0",0.717
+"21","2005","Melissa Tucci","MAAC","23-22-0",0.511
+"22","2004","Melissa Tucci","MAAC","11-43-0",0.204
+"23","2003","Melissa Tucci","MAAC","10-31-0",0.244
+"24","2002","Melissa Tucci","MAAC","10-35-1",0.228
+"25","2001","Jonnah O'Donnell","MAAC","25-24-1",0.51
+"26","1900","Jonnah O'Donnell","MAAC","30-16-0",0.652
+"27","1999","Jonnah O'Donnell","MAAC","16-21-0",0.432
+"28","1998","Jonnah O'Donnell","-","20-13-1",0.603
+"29","1997","Jonnah O'Donnell","NEC","23-21-0",0.523
+"30","1996","Jonnah O'Donnell","-","28-14-0",0.667
+"31","1995","George Burgin (33-12-1)Jonnah O'Donnell (33-12-1)","-","33-12-1",0.728
+"32","1994","George Burgin","-","28-16-0",0.636
+"33","1993","Tom Chiavelli","-","22-22-0",0.5
+"34","1992","Tom Chiavelli","-","4-29-0",0.121
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

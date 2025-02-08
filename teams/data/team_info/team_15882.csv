@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rosemont","15882","2025","Bill Relyea","D-III","United East",0,0,0,0
-"2","Rosemont","15882","2024","Bill Relyea","D-III","United East",16,17,0,0.485
-"3","Rosemont","15882","2023","Bill Relyea","D-III","CSAC",21,19,0,0.525
-"4","Rosemont","15882","2022","Bill Relyea","D-III","CSAC",18,16,0,0.529
-"5","Rosemont","15882","2021","Bill Relyea","D-III","CSAC",9,8,0,0.529
-"6","Rosemont","15882","2020","Bill Relyea","D-III","CSAC",2,7,0,0.222
-"7","Rosemont","15882","2019","Francine Roseman","D-III","CSAC",16,24,0,0.4
-"8","Rosemont","15882","2018","Francine Roseman","D-III","CSAC",10,21,NA,0.323
-"9","Rosemont","15882","2017","Francine Roseman","D-III","CSAC",5,20,0,0.2
-"10","Rosemont","15882","2016","Erin Skinner","D-III","CSAC",3,27,0,0.1
-"11","Rosemont","15882","2015","Erin Skinner","D-III","CSAC",4,27,0,0.129
-"12","Rosemont","15882","2014","Erin Skinner","D-III","CSAC",3,19,0,0.136
-"13","Rosemont","15882","2013","Corey Heulitt","D-III","CSAC",7,25,0,0.219
-"14","Rosemont","15882","2012","Corey Heulitt","D-III","CSAC",7,25,0,0.219
-"15","Rosemont","15882","2011","Jerry Heulitt","D-III","CSAC",4,20,0,0.167
-"16","Rosemont","15882","2010","Jami Hughes","D-III","CSAC",0,26,0,0
-"17","Rosemont","15882","2009","Joe Long","D-III","CSAC",1,26,0,0.037
-"18","Rosemont","15882","2008","Joe Long","D-III","CSAC",0,25,0,0
-"19","Rosemont","15882","2007","Joe Long","D-III","CSAC",1,27,0,0.036
-"20","Rosemont","15882","2006","Joe Long","D-III","CSAC",1,24,0,0.04
-"21","Rosemont","15882","2005","Marie Bray","D-III","CSAC",14,12,0,0.538
-"22","Rosemont","15882","2004","Marie Bray","D-III","CSAC",10,17,0,0.37
-"23","Rosemont","15882","2003","Marie Bray","D-III","-",NA,NA,NA,NA
-"24","Rosemont","15882","2002","Marie Bray","D-III","-",NA,NA,NA,NA
-"25","Rosemont","15882","2001","Marie Bray","D-III","-",6,25,NA,0.194
-"26","Rosemont","15882","1900","Marie Bray","D-III","-",0,23,NA,0
-"27","Rosemont","15882","1999","Marie Bray","D-III","-",5,15,NA,0.25
-"28","Rosemont","15882","1998","Kathy Kroupa","D-III","-",23,13,NA,0.639
-"29","Rosemont","15882","1997","Kathy Kroupa","D-III","-",1,20,NA,0.048
-"30","Rosemont","15882","1996","Gerald Thompson","D-III","-",2,22,NA,0.083
-"31","Rosemont","15882","1995","","D-III","-",NA,NA,NA,NA
-"32","Rosemont","15882","1994","Michelle Yeager","D-III","-",20,8,NA,0.714
-"33","Rosemont","15882","1993","Michelle Yeager","D-III","-",5,8,NA,0.385
-"34","Rosemont","15882","1992","Michelle Yeager","D-III","-",3,6,NA,0.333
-"35","Rosemont","15882","1991","","D-III","-",NA,NA,NA,NA
-"36","Rosemont","15882","1990","","D-III","-",NA,NA,NA,NA
-"37","Rosemont","15882","","","","",217,572,0,0.275
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Bill Relyea","United East","0-0-0",0
+"2","2024","Bill Relyea","United East","16-17-0",0.485
+"3","2023","Bill Relyea","CSAC","21-19-0",0.525
+"4","2022","Bill Relyea","CSAC","18-16-0",0.529
+"5","2021","Bill Relyea","CSAC","9-8-0",0.529
+"6","2020","Bill Relyea","CSAC","2-7-0",0.222
+"7","2019","Francine Roseman","CSAC","16-24-0",0.4
+"8","2018","Francine Roseman","CSAC","10-21-0",0.323
+"9","2017","Francine Roseman","CSAC","5-20-0",0.2
+"10","2016","Erin Skinner","CSAC","3-27-0",0.1
+"11","2015","Erin Skinner","CSAC","4-27-0",0.129
+"12","2014","Erin Skinner","CSAC","3-19-0",0.136
+"13","2013","Corey Heulitt","CSAC","7-25-0",0.219
+"14","2012","Corey Heulitt","CSAC","7-25-0",0.219
+"15","2011","Jerry Heulitt","CSAC","4-20-0",0.167
+"16","2010","Jami Hughes","CSAC","0-26-0",0
+"17","2009","Joe Long","CSAC","1-26-0",0.037
+"18","2008","Joe Long","CSAC","0-25-0",0
+"19","2007","Joe Long","CSAC","1-27-0",0.036
+"20","2006","Joe Long","CSAC","1-24-0",0.04
+"21","2005","Marie Bray","CSAC","14-12-0",0.538
+"22","2004","Marie Bray","CSAC","10-17-0",0.37
+"23","2003","Marie Bray","-","NA-NA-0",NA
+"24","2002","Marie Bray","-","NA-NA-0",NA
+"25","2001","Marie Bray","-","6-25-0",0.194
+"26","1900","Marie Bray","-","0-23-0",0
+"27","1999","Marie Bray","-","5-15-0",0.25
+"28","1998","Kathy Kroupa","-","23-13-0",0.639
+"29","1997","Kathy Kroupa","-","1-20-0",0.048
+"30","1996","Gerald Thompson","-","2-22-0",0.083
+"31","1995","","-","NA-NA-0",NA
+"32","1994","Michelle Yeager","-","20-8-0",0.714
+"33","1993","Michelle Yeager","-","5-8-0",0.385
+"34","1992","Michelle Yeager","-","3-6-0",0.333
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

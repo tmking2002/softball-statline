@@ -1,11 +1,10 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ky. Christian","502500","2025",NA,NA,"-",NA,NA,NA,0
-"2","Ky. Christian","502500","2024",NA,NA,"-",NA,NA,NA,0
-"3","Ky. Christian","502500","2023",NA,NA,"-",NA,NA,NA,0
-"4","Ky. Christian","502500","2022",NA,NA,"-",NA,NA,NA,0
-"5","Ky. Christian","502500","2020",NA,NA,"-",NA,NA,NA,0
-"6","Ky. Christian","502500","2019",NA,NA,"-",NA,NA,NA,0
-"7","Ky. Christian","502500","2017",NA,NA,"-",NA,NA,NA,NA
-"8","Ky. Christian","502500","2016",NA,NA,"-",NA,NA,NA,NA
-"9","Ky. Christian","502500","2015",NA,NA,"-",NA,NA,NA,NA
-"10","Ky. Christian","502500","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2017",NA,"-","NA-NA-0",NA
+"8","2016",NA,"-","NA-NA-0",NA
+"9","2015",NA,"-","NA-NA-0",NA

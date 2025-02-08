@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","East. Mennonite","203","2025","J.D. McCurdy","D-III","ODAC",0,0,0,0
-"2","East. Mennonite","203","2024","J.D. McCurdy","D-III","ODAC",11,22,0,0.333
-"3","East. Mennonite","203","2023","J.D. McCurdy","D-III","ODAC",11,22,1,0.338
-"4","East. Mennonite","203","2022","J.D. McCurdy","D-III","ODAC",19,16,1,0.542
-"5","East. Mennonite","203","2021","J.D. McCurdy","D-III","ODAC",3,23,0,0.115
-"6","East. Mennonite","203","2020","J.D. McCurdy","D-III","ODAC",4,8,0,0.333
-"7","East. Mennonite","203","2019","J.D. McCurdy","D-III","ODAC",16,20,0,0.444
-"8","East. Mennonite","203","2018","J.D. McCurdy","D-III","ODAC",21,19,NA,0.525
-"9","East. Mennonite","203","2017","J.D. McCurdy","D-III","ODAC",22,16,0,0.579
-"10","East. Mennonite","203","2016","J.D. McCurdy","D-III","ODAC",31,14,0,0.689
-"11","East. Mennonite","203","2015","J.D. McCurdy","D-III","ODAC",16,14,0,0.533
-"12","East. Mennonite","203","2014","J.D. McCurdy","D-III","ODAC",18,18,1,0.5
-"13","East. Mennonite","203","2013","J.D. McCurdy","D-III","ODAC",21,19,0,0.525
-"14","East. Mennonite","203","2012","J.D. McCurdy","D-III","ODAC",27,13,0,0.675
-"15","East. Mennonite","203","2011","J.D. McCurdy","D-III","ODAC",27,13,0,0.675
-"16","East. Mennonite","203","2010","J.D. McCurdy","D-III","ODAC",19,18,0,0.514
-"17","East. Mennonite","203","2009","J.D. McCurdy","D-III","ODAC",21,19,0,0.525
-"18","East. Mennonite","203","2008","J.D. McCurdy","D-III","ODAC",30,13,0,0.698
-"19","East. Mennonite","203","2007","J.D. McCurdy","D-III","ODAC",25,14,0,0.641
-"20","East. Mennonite","203","2006","J.D. McCurdy","D-III","ODAC",23,18,0,0.561
-"21","East. Mennonite","203","2005","J.D. McCurdy","D-III","ODAC",17,14,0,0.548
-"22","East. Mennonite","203","2004","J.D. McCurdy","D-III","ODAC",11,22,0,0.333
-"23","East. Mennonite","203","2003","Karla Alderfer","","-",NA,NA,NA,NA
-"24","East. Mennonite","203","2002","Karla Alderfer","D-III","-",10,25,NA,0.286
-"25","East. Mennonite","203","2001","Karla Alderfer","D-III","-",6,16,0,0.273
-"26","East. Mennonite","203","1900","Karla Alderfer","D-III","-",2,26,0,0.071
-"27","East. Mennonite","203","1999","Brenda Belcher","D-III","-",3,22,NA,0.12
-"28","East. Mennonite","203","1998","Brenda Belcher","D-III","-",2,22,NA,0.083
-"29","East. Mennonite","203","1997","Ruth-Anne Wideman","D-III","-",11,13,NA,0.458
-"30","East. Mennonite","203","1996","Roger Mast","D-III","-",10,17,NA,0.37
-"31","East. Mennonite","203","1995","Roger Mast","D-III","-",12,23,NA,0.343
-"32","East. Mennonite","203","1994","Roger Mast","D-III","-",10,22,NA,0.313
-"33","East. Mennonite","203","1993","Roger Mast","D-III","-",9,15,NA,0.375
-"34","East. Mennonite","203","1992","Roger Mast","D-III","-",21,12,1,0.632
-"35","East. Mennonite","203","1991","","D-III","-",NA,NA,NA,NA
-"36","East. Mennonite","203","1990","","D-III","-",NA,NA,NA,NA
-"37","East. Mennonite","203","1989","","D-III","-",NA,NA,NA,NA
-"38","East. Mennonite","203","1988","","D-III","-",NA,NA,NA,NA
-"39","East. Mennonite","203","1987","","D-III","-",NA,NA,NA,NA
-"40","East. Mennonite","203","1986","","D-III","-",NA,NA,NA,NA
-"41","East. Mennonite","203","1985","","D-III","-",NA,NA,NA,NA
-"42","East. Mennonite","203","1983","","D-III","-",NA,NA,NA,NA
-"43","East. Mennonite","203","","","","",489,568,4,0.463
+"","season","head_coach","conference","record","win_perc"
+"1","2025","J.D. McCurdy","ODAC","0-0-0",0
+"2","2024","J.D. McCurdy","ODAC","11-22-0",0.333
+"3","2023","J.D. McCurdy","ODAC","11-22-1",0.338
+"4","2022","J.D. McCurdy","ODAC","19-16-1",0.542
+"5","2021","J.D. McCurdy","ODAC","3-23-0",0.115
+"6","2020","J.D. McCurdy","ODAC","4-8-0",0.333
+"7","2019","J.D. McCurdy","ODAC","16-20-0",0.444
+"8","2018","J.D. McCurdy","ODAC","21-19-0",0.525
+"9","2017","J.D. McCurdy","ODAC","22-16-0",0.579
+"10","2016","J.D. McCurdy","ODAC","31-14-0",0.689
+"11","2015","J.D. McCurdy","ODAC","16-14-0",0.533
+"12","2014","J.D. McCurdy","ODAC","18-18-1",0.5
+"13","2013","J.D. McCurdy","ODAC","21-19-0",0.525
+"14","2012","J.D. McCurdy","ODAC","27-13-0",0.675
+"15","2011","J.D. McCurdy","ODAC","27-13-0",0.675
+"16","2010","J.D. McCurdy","ODAC","19-18-0",0.514
+"17","2009","J.D. McCurdy","ODAC","21-19-0",0.525
+"18","2008","J.D. McCurdy","ODAC","30-13-0",0.698
+"19","2007","J.D. McCurdy","ODAC","25-14-0",0.641
+"20","2006","J.D. McCurdy","ODAC","23-18-0",0.561
+"21","2005","J.D. McCurdy","ODAC","17-14-0",0.548
+"22","2004","J.D. McCurdy","ODAC","11-22-0",0.333
+"23","2003","Karla Alderfer","-","NA-NA-0",NA
+"24","2002","Karla Alderfer","-","10-25-0",0.286
+"25","2001","Karla Alderfer","-","6-16-0",0.273
+"26","1900","Karla Alderfer","-","2-26-0",0.071
+"27","1999","Brenda Belcher","-","3-22-0",0.12
+"28","1998","Brenda Belcher","-","2-22-0",0.083
+"29","1997","Ruth-Anne Wideman","-","11-13-0",0.458
+"30","1996","Roger Mast","-","10-17-0",0.37
+"31","1995","Roger Mast","-","12-23-0",0.343
+"32","1994","Roger Mast","-","10-22-0",0.313
+"33","1993","Roger Mast","-","9-15-0",0.375
+"34","1992","Roger Mast","-","21-12-1",0.632
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA

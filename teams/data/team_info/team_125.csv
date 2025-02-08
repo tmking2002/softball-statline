@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Centenary (LA)","125","2025","Whitney Patterson","D-III","SCAC",0,0,0,0
-"2","Centenary (LA)","125","2024","Whitney Patterson","D-III","SCAC",13,27,0,0.325
-"3","Centenary (LA)","125","2023","Whitney Patterson","D-III","SCAC",18,24,0,0.429
-"4","Centenary (LA)","125","2022","Whitney Patterson","D-III","SCAC",15,21,0,0.417
-"5","Centenary (LA)","125","2021","Mark Suire","D-III","SCAC",18,20,0,0.474
-"6","Centenary (LA)","125","2020","Mark Suire","D-III","SCAC",6,6,0,0.5
-"7","Centenary (LA)","125","2019","Mark Suire","D-III","SCAC",18,23,0,0.439
-"8","Centenary (LA)","125","2018","Mark Suire","D-III","SCAC",20,22,NA,0.476
-"9","Centenary (LA)","125","2017","Mark Suire","D-III","SCAC",15,25,0,0.375
-"10","Centenary (LA)","125","2016","Mark Suire","D-III","SCAC",23,22,0,0.511
-"11","Centenary (LA)","125","2015","Amanda Nordberg","D-III","SCAC",7,26,0,0.212
-"12","Centenary (LA)","125","2014","Amanda Nordberg","D-III","SCAC",5,31,0,0.139
-"13","Centenary (LA)","125","2013","Mark Lambert","D-III","SCAC",8,32,0,0.2
-"14","Centenary (LA)","125","2012","Mark Lambert","D-III","ASC",5,34,0,0.128
-"15","Centenary (LA)","125","2011","Mark Lambert","D-I","Summit League",5,36,0,0.122
-"16","Centenary (LA)","125","2010","Mark Montgomery","D-I","Summit League",10,34,0,0.227
-"17","Centenary (LA)","125","2009","Mark Montgomery","D-I","Summit League",32,23,0,0.582
-"18","Centenary (LA)","125","2008","Mark Montgomery","D-I","Summit League",34,26,0,0.567
-"19","Centenary (LA)","125","2007","Mark Montgomery","D-I","Summit League",22,27,0,0.449
-"20","Centenary (LA)","125","2006","Mark Montgomery","D-I","Summit League",31,25,0,0.554
-"21","Centenary (LA)","125","2005","Mark Montgomery","D-I","Summit League",31,28,0,0.525
-"22","Centenary (LA)","125","2004","Mark Montgomery","D-I","Summit League",36,28,0,0.563
-"23","Centenary (LA)","125","2003","Mark Montgomery","D-I","-",20,35,0,0.364
-"24","Centenary (LA)","125","2002","Lisa McGuirk","D-I","-",19,35,0,0.352
-"25","Centenary (LA)","125","2001","Lisa McGuirk","D-I","-",21,43,0,0.328
-"26","Centenary (LA)","125","1900","Lisa McGuirk","D-I","-",8,52,0,0.133
-"27","Centenary (LA)","125","1999","Matt Prysock","D-I","ASUN",9,53,0,0.145
-"28","Centenary (LA)","125","1998","Michael Bastian","D-I","-",17,48,NA,0.262
-"29","Centenary (LA)","125","1997","Michael Bastian","D-I","ASUN",25,35,0,0.417
-"30","Centenary (LA)","125","1996","Laneigh Clark","D-I","-",18,39,NA,0.316
-"31","Centenary (LA)","125","1995","Laneigh Clark","D-I","-",7,36,1,0.17
-"32","Centenary (LA)","125","1994","Laneigh Clark","D-I","-",24,36,NA,0.4
-"33","Centenary (LA)","125","1993","Laneigh Clark","D-I","-",14,31,NA,0.311
-"34","Centenary (LA)","125","1992","Laneigh Clark","D-I","-",16,28,2,0.37
-"35","Centenary (LA)","125","1991","Tami Cyr","D-I","-",36,22,NA,0.621
-"36","Centenary (LA)","125","1990","Tami Cyr","D-I","-",27,15,NA,0.643
-"37","Centenary (LA)","125","1989","Tami Cyr","D-I","-",31,21,NA,0.596
-"38","Centenary (LA)","125","1988","Tami Cyr","D-I","-",23,21,NA,0.523
-"39","Centenary (LA)","125","1987","Tami Cyr","D-I","-",10,20,NA,0.333
-"40","Centenary (LA)","125","","","","",697,1110,3,0.386
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Whitney Patterson","SCAC","0-0-0",0
+"2","2024","Whitney Patterson","SCAC","13-27-0",0.325
+"3","2023","Whitney Patterson","SCAC","18-24-0",0.429
+"4","2022","Whitney Patterson","SCAC","15-21-0",0.417
+"5","2021","Mark Suire","SCAC","18-20-0",0.474
+"6","2020","Mark Suire","SCAC","6-6-0",0.5
+"7","2019","Mark Suire","SCAC","18-23-0",0.439
+"8","2018","Mark Suire","SCAC","20-22-0",0.476
+"9","2017","Mark Suire","SCAC","15-25-0",0.375
+"10","2016","Mark Suire","SCAC","23-22-0",0.511
+"11","2015","Amanda Nordberg","SCAC","7-26-0",0.212
+"12","2014","Amanda Nordberg","SCAC","5-31-0",0.139
+"13","2013","Mark Lambert","SCAC","8-32-0",0.2
+"14","2012","Mark Lambert","ASC","5-34-0",0.128
+"15","2011","Mark Lambert","Summit League","5-36-0",0.122
+"16","2010","Mark Montgomery","Summit League","10-34-0",0.227
+"17","2009","Mark Montgomery","Summit League","32-23-0",0.582
+"18","2008","Mark Montgomery","Summit League","34-26-0",0.567
+"19","2007","Mark Montgomery","Summit League","22-27-0",0.449
+"20","2006","Mark Montgomery","Summit League","31-25-0",0.554
+"21","2005","Mark Montgomery","Summit League","31-28-0",0.525
+"22","2004","Mark Montgomery","Summit League","36-28-0",0.563
+"23","2003","Mark Montgomery","-","20-35-0",0.364
+"24","2002","Lisa McGuirk","-","19-35-0",0.352
+"25","2001","Lisa McGuirk","-","21-43-0",0.328
+"26","1900","Lisa McGuirk","-","8-52-0",0.133
+"27","1999","Matt Prysock","ASUN","9-53-0",0.145
+"28","1998","Michael Bastian","-","17-48-0",0.262
+"29","1997","Michael Bastian","ASUN","25-35-0",0.417
+"30","1996","Laneigh Clark","-","18-39-0",0.316
+"31","1995","Laneigh Clark","-","7-36-1",0.17
+"32","1994","Laneigh Clark","-","24-36-0",0.4
+"33","1993","Laneigh Clark","-","14-31-0",0.311
+"34","1992","Laneigh Clark","-","16-28-2",0.37
+"35","1991","Tami Cyr","-","36-22-0",0.621
+"36","1990","Tami Cyr","-","27-15-0",0.643
+"37","1989","Tami Cyr","-","31-21-0",0.596
+"38","1988","Tami Cyr","-","23-21-0",0.523
+"39","1987","Tami Cyr","-","10-20-0",0.333

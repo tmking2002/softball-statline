@@ -1,16 +1,15 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Valley Forge","30166","2025","Marissa Meenan","D-III","United East",0,0,0,0
-"2","Valley Forge","30166","2024","Marissa Meenan","D-III","United East",7,21,0,0.25
-"3","Valley Forge","30166","2023","Jeffrey Cellucci","D-III","CSAC",7,23,0,0.233
-"4","Valley Forge","30166","2022","Jeffrey Cellucci","D-III","CSAC",5,19,0,0.208
-"5","Valley Forge","30166","2021","Jeffrey Cellucci","D-III","CSAC",1,13,0,0.071
-"6","Valley Forge","30166","2020","Jeffrey Cellucci","D-III","ACAA",NA,NA,NA,0
-"7","Valley Forge","30166","2019","Josh Simpson","D-III","ACAA",8,20,0,0.286
-"8","Valley Forge","30166","2018","Josh Simpson","D-III","ACAA",11,19,NA,0.367
-"9","Valley Forge","30166","2017","Josh Simpson","D-III","-",3,21,0,0.125
-"10","Valley Forge","30166","2016","Courtney Lepping","","-",7,20,0,0.259
-"11","Valley Forge","30166","2015","Amanda Gauthier","","-",5,25,0,0.167
-"12","Valley Forge","30166","2014","Amanda Gauthier","","-",0,18,0,0
-"13","Valley Forge","30166","2013","Amanda Gauthier","","-",5,20,0,0.2
-"14","Valley Forge","30166","2012","Amanda Gauthier","","-",0,26,0,0
-"15","Valley Forge","30166","","","","",59,245,0,0.194
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Marissa Meenan","United East","0-0-0",0
+"2","2024","Marissa Meenan","United East","7-21-0",0.25
+"3","2023","Jeffrey Cellucci","CSAC","7-23-0",0.233
+"4","2022","Jeffrey Cellucci","CSAC","5-19-0",0.208
+"5","2021","Jeffrey Cellucci","CSAC","1-13-0",0.071
+"6","2020","Jeffrey Cellucci","ACAA","NA-NA-0",0
+"7","2019","Josh Simpson","ACAA","8-20-0",0.286
+"8","2018","Josh Simpson","ACAA","11-19-0",0.367
+"9","2017","Josh Simpson","-","3-21-0",0.125
+"10","2016","Courtney Lepping","-","7-20-0",0.259
+"11","2015","Amanda Gauthier","-","5-25-0",0.167
+"12","2014","Amanda Gauthier","-","0-18-0",0
+"13","2013","Amanda Gauthier","-","5-20-0",0.2
+"14","2012","Amanda Gauthier","-","0-26-0",0

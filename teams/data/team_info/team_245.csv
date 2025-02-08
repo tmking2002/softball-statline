@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Gallaudet","245","2025","Justen Burns","D-III","United East",0,0,0,0
-"2","Gallaudet","245","2024","Justen Burns","D-III","United East",4,28,0,0.125
-"3","Gallaudet","245","2023","Justen Burns","D-III","United East",16,24,0,0.4
-"4","Gallaudet","245","2022","Justen Burns","D-III","United East",6,32,0,0.158
-"5","Gallaudet","245","2021","Justen Burns","D-III","United East",0,0,0,0
-"6","Gallaudet","245","2020","Justen Burns","D-III","United East",5,0,0,1
-"7","Gallaudet","245","2019","Justen Burns","D-III","United East",12,20,0,0.375
-"8","Gallaudet","245","2018","Justen Burns","D-III","United East",13,22,NA,0.371
-"9","Gallaudet","245","2017","Justen Burns","D-III","United East",16,23,1,0.413
-"10","Gallaudet","245","2016","Joseph Kolcun","D-III","United East",10,18,0,0.357
-"11","Gallaudet","245","2015","Joseph Kolcun","D-III","United East",4,33,0,0.108
-"12","Gallaudet","245","2014","Joseph Kolcun","D-III","United East",13,25,0,0.342
-"13","Gallaudet","245","2013","Joseph Kolcun","D-III","United East",11,29,0,0.275
-"14","Gallaudet","245","2012","Joseph Kolcun","D-III","United East",8,28,0,0.222
-"15","Gallaudet","245","2011","Joseph Kolcun","D-III","United East",10,26,0,0.278
-"16","Gallaudet","245","2010","Kitty Bottoms","D-III","C2C",3,23,0,0.115
-"17","Gallaudet","245","2009","Sarah Doleac","D-III","C2C",4,22,0,0.154
-"18","Gallaudet","245","2008","Sarah Doleac","D-III","C2C",7,20,1,0.268
-"19","Gallaudet","245","2007","Sarah Doleac","D-III","C2C",6,15,0,0.286
-"20","Gallaudet","245","2006","Sarah Doleac","D-III","C2C",12,19,0,0.387
-"21","Gallaudet","245","2005","Sarah Doleac","D-III","C2C",8,17,0,0.32
-"22","Gallaudet","245","2004","Sarah Doleac","D-III","C2C",10,20,0,0.333
-"23","Gallaudet","245","2003","Sarah Doleac","D-III","C2C",10,14,0,0.417
-"24","Gallaudet","245","2002","Sarah Doleac","D-III","C2C",6,18,0,0.25
-"25","Gallaudet","245","2001","Sarah Doleac","D-III","-",NA,NA,NA,NA
-"26","Gallaudet","245","1900","Sarah Doleac","D-III","-",10,12,NA,0.455
-"27","Gallaudet","245","1999","Sarah Doleac","D-III","-",17,18,NA,0.486
-"28","Gallaudet","245","1998","Sarah Doleac","D-III","-",12,17,NA,0.414
-"29","Gallaudet","245","1997","Sarah Doleac","D-III","-",1,24,NA,0.04
-"30","Gallaudet","245","1996","Sarah Doleac","D-III","-",11,15,NA,0.423
-"31","Gallaudet","245","1995","Sarah Doleac","D-III","-",9,20,NA,0.31
-"32","Gallaudet","245","1994","Sarah Doleac","D-III","-",11,20,NA,0.355
-"33","Gallaudet","245","1993","Sarah Doleac","D-III","-",16,4,NA,0.8
-"34","Gallaudet","245","1992","Sarah Doleac","D-III","-",7,10,NA,0.412
-"35","Gallaudet","245","1991","Sarah Doleac","D-III","-",5,15,NA,0.25
-"36","Gallaudet","245","1990","Sarah Doleac","D-III","-",2,14,NA,0.125
-"37","Gallaudet","245","1989","Sarah Doleac","D-III","-",10,12,NA,0.455
-"38","Gallaudet","245","1988","Sarah Doleac","D-III","-",15,7,NA,0.682
-"39","Gallaudet","245","1987","Sarah Doleac","D-III","-",11,3,NA,0.786
-"40","Gallaudet","245","1986","Sarah Doleac","D-III","-",6,15,NA,0.286
-"41","Gallaudet","245","","","","",337,682,2,0.331
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Justen Burns","United East","0-0-0",0
+"2","2024","Justen Burns","United East","4-28-0",0.125
+"3","2023","Justen Burns","United East","16-24-0",0.4
+"4","2022","Justen Burns","United East","6-32-0",0.158
+"5","2021","Justen Burns","United East","0-0-0",0
+"6","2020","Justen Burns","United East","5-0-0",1
+"7","2019","Justen Burns","United East","12-20-0",0.375
+"8","2018","Justen Burns","United East","13-22-0",0.371
+"9","2017","Justen Burns","United East","16-23-1",0.413
+"10","2016","Joseph Kolcun","United East","10-18-0",0.357
+"11","2015","Joseph Kolcun","United East","4-33-0",0.108
+"12","2014","Joseph Kolcun","United East","13-25-0",0.342
+"13","2013","Joseph Kolcun","United East","11-29-0",0.275
+"14","2012","Joseph Kolcun","United East","8-28-0",0.222
+"15","2011","Joseph Kolcun","United East","10-26-0",0.278
+"16","2010","Kitty Bottoms","C2C","3-23-0",0.115
+"17","2009","Sarah Doleac","C2C","4-22-0",0.154
+"18","2008","Sarah Doleac","C2C","7-20-1",0.268
+"19","2007","Sarah Doleac","C2C","6-15-0",0.286
+"20","2006","Sarah Doleac","C2C","12-19-0",0.387
+"21","2005","Sarah Doleac","C2C","8-17-0",0.32
+"22","2004","Sarah Doleac","C2C","10-20-0",0.333
+"23","2003","Sarah Doleac","C2C","10-14-0",0.417
+"24","2002","Sarah Doleac","C2C","6-18-0",0.25
+"25","2001","Sarah Doleac","-","NA-NA-0",NA
+"26","1900","Sarah Doleac","-","10-12-0",0.455
+"27","1999","Sarah Doleac","-","17-18-0",0.486
+"28","1998","Sarah Doleac","-","12-17-0",0.414
+"29","1997","Sarah Doleac","-","1-24-0",0.04
+"30","1996","Sarah Doleac","-","11-15-0",0.423
+"31","1995","Sarah Doleac","-","9-20-0",0.31
+"32","1994","Sarah Doleac","-","11-20-0",0.355
+"33","1993","Sarah Doleac","-","16-4-0",0.8
+"34","1992","Sarah Doleac","-","7-10-0",0.412
+"35","1991","Sarah Doleac","-","5-15-0",0.25
+"36","1990","Sarah Doleac","-","2-14-0",0.125
+"37","1989","Sarah Doleac","-","10-12-0",0.455
+"38","1988","Sarah Doleac","-","15-7-0",0.682
+"39","1987","Sarah Doleac","-","11-3-0",0.786
+"40","1986","Sarah Doleac","-","6-15-0",0.286

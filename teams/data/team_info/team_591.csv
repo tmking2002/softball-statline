@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Saginaw Valley","591","2025","Ryan Schalk","D-II","GLIAC",0,0,0,0
-"2","Saginaw Valley","591","2024","Ryan Schalk","D-II","GLIAC",35,22,0,0.614
-"3","Saginaw Valley","591","2023","Ryan Schalk","D-II","GLIAC",37,16,0,0.698
-"4","Saginaw Valley","591","2022","Christie Ambrosi","D-II","GLIAC",36,20,0,0.643
-"5","Saginaw Valley","591","2021","Christie Ambrosi","D-II","GLIAC",29,17,0,0.63
-"6","Saginaw Valley","591","2020","Todd Buckingham","D-II","GLIAC",16,2,0,0.889
-"7","Saginaw Valley","591","2019","Todd Buckingham","D-II","GLIAC",28,24,0,0.538
-"8","Saginaw Valley","591","2018","Todd Buckingham","D-II","GLIAC",29,27,NA,0.518
-"9","Saginaw Valley","591","2017","Todd Buckingham","D-II","GLIAC",14,16,0,0.467
-"10","Saginaw Valley","591","2016","Todd Buckingham","D-II","GLIAC",0,17,0,0
-"11","Saginaw Valley","591","2015","Todd Buckingham","D-II","GLIAC",0,19,0,0
-"12","Saginaw Valley","591","2014","Todd Buckingham","D-II","GLIAC",0,11,0,0
-"13","Saginaw Valley","591","2013","Todd Buckingham","D-II","GLIAC",16,22,0,0.421
-"14","Saginaw Valley","591","2012","Tim Rousse","D-II","GLIAC",21,25,0,0.457
-"15","Saginaw Valley","591","2011","Tim Rousse (23-8)Everett Roper (17-8)","D-II","GLIAC",40,16,0,0.714
-"16","Saginaw Valley","591","2010","Everett Roper","D-II","GLIAC",30,16,0,0.652
-"17","Saginaw Valley","591","2009","Everett Roper","D-II","GLIAC",39,11,0,0.78
-"18","Saginaw Valley","591","2008","Everett Roper","D-II","GLIAC",34,17,0,0.667
-"19","Saginaw Valley","591","2007","Bill Graham","D-II","GLIAC",25,20,0,0.556
-"20","Saginaw Valley","591","2006","Sabrina Lane","D-II","GLIAC",22,32,0,0.407
-"21","Saginaw Valley","591","2005","Sabrina Lane","D-II","GLIAC",20,20,0,0.5
-"22","Saginaw Valley","591","2004","Sabrina Lane","D-II","GLIAC",31,19,1,0.618
-"23","Saginaw Valley","591","2003","Fred Neering","D-II","GLIAC",21,21,0,0.5
-"24","Saginaw Valley","591","2002","Fred Neering","D-II","-",22,20,1,0.523
-"25","Saginaw Valley","591","2001","Fred Neering","D-II","-",23,27,1,0.461
-"26","Saginaw Valley","591","1900","Fred Neering","D-II","-",34,20,1,0.627
-"27","Saginaw Valley","591","1999","Fred Neering","D-II","-",42,17,0,0.712
-"28","Saginaw Valley","591","1998","Fred Neering","D-II","-",26,16,0,0.619
-"29","Saginaw Valley","591","1997","Fred Neering","D-II","-",23,21,0,0.523
-"30","Saginaw Valley","591","1996","Ted Chapman","D-II","-",19,24,0,0.442
-"31","Saginaw Valley","591","1995","Robert Becker","D-II","-",24,21,0,0.533
-"32","Saginaw Valley","591","1994","Claudette Charney","D-II","-",28,11,0,0.718
-"33","Saginaw Valley","591","1993","Claudette Charney","D-II","-",21,25,0,0.457
-"34","Saginaw Valley","591","1992","Art Gillis","D-II","-",50,15,0,0.769
-"35","Saginaw Valley","591","1991","Art Gillis","D-II","-",26,17,0,0.605
-"36","Saginaw Valley","591","1990","Art Tolfree","D-II","-",46,11,0,0.807
-"37","Saginaw Valley","591","1989","Art Tolfree","D-II","-",39,13,0,0.75
-"38","Saginaw Valley","591","1988","Art Tolfree","D-II","-",37,13,0,0.74
-"39","Saginaw Valley","591","1987","Art Tolfree","D-II","-",21,15,0,0.583
-"40","Saginaw Valley","591","1986","Art Tolfree","D-II","-",31,20,0,0.608
-"41","Saginaw Valley","591","1985","","D-II","-",NA,NA,NA,NA
-"42","Saginaw Valley","591","1984","","D-II","-",NA,NA,NA,NA
-"43","Saginaw Valley","591","1983","","D-II","-",NA,NA,NA,NA
-"44","Saginaw Valley","591","","","","",1035,716,4,0.591
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ryan Schalk","GLIAC","0-0-0",0
+"2","2024","Ryan Schalk","GLIAC","35-22-0",0.614
+"3","2023","Ryan Schalk","GLIAC","37-16-0",0.698
+"4","2022","Christie Ambrosi","GLIAC","36-20-0",0.643
+"5","2021","Christie Ambrosi","GLIAC","29-17-0",0.63
+"6","2020","Todd Buckingham","GLIAC","16-2-0",0.889
+"7","2019","Todd Buckingham","GLIAC","28-24-0",0.538
+"8","2018","Todd Buckingham","GLIAC","29-27-0",0.518
+"9","2017","Todd Buckingham","GLIAC","14-16-0",0.467
+"10","2016","Todd Buckingham","GLIAC","0-17-0",0
+"11","2015","Todd Buckingham","GLIAC","0-19-0",0
+"12","2014","Todd Buckingham","GLIAC","0-11-0",0
+"13","2013","Todd Buckingham","GLIAC","16-22-0",0.421
+"14","2012","Tim Rousse","GLIAC","21-25-0",0.457
+"15","2011","Tim Rousse (23-8)Everett Roper (17-8)","GLIAC","40-16-0",0.714
+"16","2010","Everett Roper","GLIAC","30-16-0",0.652
+"17","2009","Everett Roper","GLIAC","39-11-0",0.78
+"18","2008","Everett Roper","GLIAC","34-17-0",0.667
+"19","2007","Bill Graham","GLIAC","25-20-0",0.556
+"20","2006","Sabrina Lane","GLIAC","22-32-0",0.407
+"21","2005","Sabrina Lane","GLIAC","20-20-0",0.5
+"22","2004","Sabrina Lane","GLIAC","31-19-1",0.618
+"23","2003","Fred Neering","GLIAC","21-21-0",0.5
+"24","2002","Fred Neering","-","22-20-1",0.523
+"25","2001","Fred Neering","-","23-27-1",0.461
+"26","1900","Fred Neering","-","34-20-1",0.627
+"27","1999","Fred Neering","-","42-17-0",0.712
+"28","1998","Fred Neering","-","26-16-0",0.619
+"29","1997","Fred Neering","-","23-21-0",0.523
+"30","1996","Ted Chapman","-","19-24-0",0.442
+"31","1995","Robert Becker","-","24-21-0",0.533
+"32","1994","Claudette Charney","-","28-11-0",0.718
+"33","1993","Claudette Charney","-","21-25-0",0.457
+"34","1992","Art Gillis","-","50-15-0",0.769
+"35","1991","Art Gillis","-","26-17-0",0.605
+"36","1990","Art Tolfree","-","46-11-0",0.807
+"37","1989","Art Tolfree","-","39-13-0",0.75
+"38","1988","Art Tolfree","-","37-13-0",0.74
+"39","1987","Art Tolfree","-","21-15-0",0.583
+"40","1986","Art Tolfree","-","31-20-0",0.608
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

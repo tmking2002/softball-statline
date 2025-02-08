@@ -1,8 +1,7 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Okla. Wesleyan","506189","2017",NA,NA,"-",NA,NA,NA,NA
-"2","Okla. Wesleyan","506189","2016",NA,NA,"-",NA,NA,NA,NA
-"3","Okla. Wesleyan","506189","2015",NA,NA,"-",NA,NA,NA,NA
-"4","Okla. Wesleyan","506189","2014",NA,NA,"-",NA,NA,NA,NA
-"5","Okla. Wesleyan","506189","2013",NA,NA,"-",NA,NA,NA,NA
-"6","Okla. Wesleyan","506189","2004",NA,NA,"-",NA,NA,NA,NA
-"7","Okla. Wesleyan","506189","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2017",NA,"-","NA-NA-0",NA
+"2","2016",NA,"-","NA-NA-0",NA
+"3","2015",NA,"-","NA-NA-0",NA
+"4","2014",NA,"-","NA-NA-0",NA
+"5","2013",NA,"-","NA-NA-0",NA
+"6","2004",NA,"-","NA-NA-0",NA

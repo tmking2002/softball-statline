@@ -1,35 +1,34 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Mount Holyoke","449","2024","","","-",0,0,0,0
-"2","Mount Holyoke","449","2015","","D-III","-",NA,NA,NA,NA
-"3","Mount Holyoke","449","2014","","D-III","-",NA,NA,NA,NA
-"4","Mount Holyoke","449","2013","","D-III","-",NA,NA,NA,NA
-"5","Mount Holyoke","449","2012","","D-III","-",NA,NA,NA,NA
-"6","Mount Holyoke","449","2011","","D-III","-",NA,NA,NA,NA
-"7","Mount Holyoke","449","2010","","D-III","-",NA,NA,NA,NA
-"8","Mount Holyoke","449","2004","Andy Whitcomb","D-III","NEWMAC",9,22,1,0.297
-"9","Mount Holyoke","449","2003","Andy Whitcomb","D-III","NEWMAC",11,21,0,0.344
-"10","Mount Holyoke","449","2002","Andy Whitcomb","D-III","NEWMAC",13,17,0,0.433
-"11","Mount Holyoke","449","2001","Andy Whitcomb","D-III","-",NA,NA,NA,NA
-"12","Mount Holyoke","449","1900","Andy Whitcomb","D-III","-",17,12,NA,0.586
-"13","Mount Holyoke","449","1999","Andy Whitcomb","D-III","-",NA,NA,NA,NA
-"14","Mount Holyoke","449","1998","Pat Fabozzi","D-III","-",2,16,NA,0.111
-"15","Mount Holyoke","449","1997","Pat Fabozzi","D-III","-",1,18,NA,0.053
-"16","Mount Holyoke","449","1996","Pat Fabozzi","D-III","-",1,17,1,0.079
-"17","Mount Holyoke","449","1995","","D-III","-",NA,NA,NA,NA
-"18","Mount Holyoke","449","1994","","D-III","-",NA,NA,NA,NA
-"19","Mount Holyoke","449","1993","","D-III","-",NA,NA,NA,NA
-"20","Mount Holyoke","449","1992","","D-III","-",NA,NA,NA,NA
-"21","Mount Holyoke","449","1991","","D-III","-",NA,NA,NA,NA
-"22","Mount Holyoke","449","1990","","D-III","-",NA,NA,NA,NA
-"23","Mount Holyoke","449","1989","","D-III","-",NA,NA,NA,NA
-"24","Mount Holyoke","449","1988","","D-III","-",NA,NA,NA,NA
-"25","Mount Holyoke","449","1987","","D-III","-",NA,NA,NA,NA
-"26","Mount Holyoke","449","1986","","D-III","-",NA,NA,NA,NA
-"27","Mount Holyoke","449","1985","","D-III","-",NA,NA,NA,NA
-"28","Mount Holyoke","449","1984","Karen Tropp Veronesi","D-III","-",31,20,NA,0.608
-"29","Mount Holyoke","449","1983","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
-"30","Mount Holyoke","449","1982","Karen Tropp Veronesi","D-III","-",6,3,NA,0.667
-"31","Mount Holyoke","449","1981","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
-"32","Mount Holyoke","449","1980","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
-"33","Mount Holyoke","449","1979","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
-"34","Mount Holyoke","449","","","","",95,150,2,0.389
+"","season","head_coach","conference","record","win_perc"
+"1","2024","","-","0-0-0",0
+"2","2015","","-","NA-NA-0",NA
+"3","2014","","-","NA-NA-0",NA
+"4","2013","","-","NA-NA-0",NA
+"5","2012","","-","NA-NA-0",NA
+"6","2011","","-","NA-NA-0",NA
+"7","2010","","-","NA-NA-0",NA
+"8","2004","Andy Whitcomb","NEWMAC","9-22-1",0.297
+"9","2003","Andy Whitcomb","NEWMAC","11-21-0",0.344
+"10","2002","Andy Whitcomb","NEWMAC","13-17-0",0.433
+"11","2001","Andy Whitcomb","-","NA-NA-0",NA
+"12","1900","Andy Whitcomb","-","17-12-0",0.586
+"13","1999","Andy Whitcomb","-","NA-NA-0",NA
+"14","1998","Pat Fabozzi","-","2-16-0",0.111
+"15","1997","Pat Fabozzi","-","1-18-0",0.053
+"16","1996","Pat Fabozzi","-","1-17-1",0.079
+"17","1995","","-","NA-NA-0",NA
+"18","1994","","-","NA-NA-0",NA
+"19","1993","","-","NA-NA-0",NA
+"20","1992","","-","NA-NA-0",NA
+"21","1991","","-","NA-NA-0",NA
+"22","1990","","-","NA-NA-0",NA
+"23","1989","","-","NA-NA-0",NA
+"24","1988","","-","NA-NA-0",NA
+"25","1987","","-","NA-NA-0",NA
+"26","1986","","-","NA-NA-0",NA
+"27","1985","","-","NA-NA-0",NA
+"28","1984","Karen Tropp Veronesi","-","31-20-0",0.608
+"29","1983","Karen Tropp Veronesi","-","1-1-0",0.5
+"30","1982","Karen Tropp Veronesi","-","6-3-0",0.667
+"31","1981","Karen Tropp Veronesi","-","1-1-0",0.5
+"32","1980","Karen Tropp Veronesi","-","1-1-0",0.5
+"33","1979","Karen Tropp Veronesi","-","1-1-0",0.5

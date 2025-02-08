@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Centenary (NJ)","12884","2025","Kim Broking","D-III","Atlantic East",0,0,0,0
-"2","Centenary (NJ)","12884","2024","Kim Broking","D-III","Atlantic East",29,16,0,0.644
-"3","Centenary (NJ)","12884","2023","Kim Broking","D-III","Atlantic East",15,23,0,0.395
-"4","Centenary (NJ)","12884","2022","Kim Broking","D-III","Atlantic East",8,24,0,0.25
-"5","Centenary (NJ)","12884","2021","Kim Broking","D-III","Atlantic East",9,11,0,0.45
-"6","Centenary (NJ)","12884","2020","Kim Broking","D-III","CSAC",5,3,0,0.625
-"7","Centenary (NJ)","12884","2019","Kim Broking","D-III","CSAC",16,21,0,0.432
-"8","Centenary (NJ)","12884","2018","Kim Broking","D-III","CSAC",10,24,NA,0.294
-"9","Centenary (NJ)","12884","2017","Kim Broking","D-III","CSAC",14,22,0,0.389
-"10","Centenary (NJ)","12884","2016","Kim Broking","D-III","CSAC",9,22,0,0.29
-"11","Centenary (NJ)","12884","2015","Kim Broking","D-III","CSAC",19,20,0,0.487
-"12","Centenary (NJ)","12884","2014","Kim Broking","D-III","CSAC",15,25,0,0.375
-"13","Centenary (NJ)","12884","2013","Kim Broking","D-III","CSAC",20,14,0,0.588
-"14","Centenary (NJ)","12884","2012","Kim Broking","D-III","CSAC",27,16,0,0.628
-"15","Centenary (NJ)","12884","2011","Kim Broking","D-III","CSAC",29,13,0,0.69
-"16","Centenary (NJ)","12884","2010","Kim Broking","D-III","CSAC",30,14,0,0.682
-"17","Centenary (NJ)","12884","2009","Kim Broking","D-III","CSAC",27,14,0,0.659
-"18","Centenary (NJ)","12884","2008","Billie Jo Blackwell","D-III","CSAC",10,22,0,0.313
-"19","Centenary (NJ)","12884","2007","Billie Jo Blackwell","D-III","Skyline",9,14,0,0.391
-"20","Centenary (NJ)","12884","2006","Billie Jo Blackwell","D-III","Skyline",13,22,0,0.371
-"21","Centenary (NJ)","12884","2005","Billie Jo Blackwell","D-III","Skyline",14,14,0,0.5
-"22","Centenary (NJ)","12884","2004","Billie Jo Blackwell","D-III","Skyline",21,17,0,0.553
-"23","Centenary (NJ)","12884","2003","Billie Jo Blackwell","","-",NA,NA,NA,NA
-"24","Centenary (NJ)","12884","2002","Billie Jo Blackwell","D-III","ECAC",11,18,0,0.379
-"25","Centenary (NJ)","12884","2001","Billie Jo Blackwell","D-III","-",17,15,0,0.531
-"26","Centenary (NJ)","12884","1900","Billie Jo Blackwell","D-III","-",0,22,0,0
-"27","Centenary (NJ)","12884","1999","Billie Jo Blackwell","D-III","-",0,22,0,0
-"28","Centenary (NJ)","12884","1998","","D-III","-",NA,NA,NA,NA
-"29","Centenary (NJ)","12884","1997","","D-III","-",NA,NA,NA,NA
-"30","Centenary (NJ)","12884","1996","","D-III","-",NA,NA,NA,NA
-"31","Centenary (NJ)","12884","1995","","D-III","-",NA,NA,NA,NA
-"32","Centenary (NJ)","12884","1994","","D-III","-",NA,NA,NA,NA
-"33","Centenary (NJ)","12884","1993","","D-III","-",NA,NA,NA,NA
-"34","Centenary (NJ)","12884","1992","","D-III","-",NA,NA,NA,NA
-"35","Centenary (NJ)","12884","1991","","D-III","-",NA,NA,NA,NA
-"36","Centenary (NJ)","12884","1990","","D-III","-",NA,NA,NA,NA
-"37","Centenary (NJ)","12884","","","","",377,448,0,0.457
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kim Broking","Atlantic East","0-0-0",0
+"2","2024","Kim Broking","Atlantic East","29-16-0",0.644
+"3","2023","Kim Broking","Atlantic East","15-23-0",0.395
+"4","2022","Kim Broking","Atlantic East","8-24-0",0.25
+"5","2021","Kim Broking","Atlantic East","9-11-0",0.45
+"6","2020","Kim Broking","CSAC","5-3-0",0.625
+"7","2019","Kim Broking","CSAC","16-21-0",0.432
+"8","2018","Kim Broking","CSAC","10-24-0",0.294
+"9","2017","Kim Broking","CSAC","14-22-0",0.389
+"10","2016","Kim Broking","CSAC","9-22-0",0.29
+"11","2015","Kim Broking","CSAC","19-20-0",0.487
+"12","2014","Kim Broking","CSAC","15-25-0",0.375
+"13","2013","Kim Broking","CSAC","20-14-0",0.588
+"14","2012","Kim Broking","CSAC","27-16-0",0.628
+"15","2011","Kim Broking","CSAC","29-13-0",0.69
+"16","2010","Kim Broking","CSAC","30-14-0",0.682
+"17","2009","Kim Broking","CSAC","27-14-0",0.659
+"18","2008","Billie Jo Blackwell","CSAC","10-22-0",0.313
+"19","2007","Billie Jo Blackwell","Skyline","9-14-0",0.391
+"20","2006","Billie Jo Blackwell","Skyline","13-22-0",0.371
+"21","2005","Billie Jo Blackwell","Skyline","14-14-0",0.5
+"22","2004","Billie Jo Blackwell","Skyline","21-17-0",0.553
+"23","2003","Billie Jo Blackwell","-","NA-NA-0",NA
+"24","2002","Billie Jo Blackwell","ECAC","11-18-0",0.379
+"25","2001","Billie Jo Blackwell","-","17-15-0",0.531
+"26","1900","Billie Jo Blackwell","-","0-22-0",0
+"27","1999","Billie Jo Blackwell","-","0-22-0",0
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

@@ -1,10 +1,9 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Trinity Baptist","505332","2025",NA,NA,"-",NA,NA,NA,0
-"2","Trinity Baptist","505332","2024",NA,NA,"-",NA,NA,NA,0
-"3","Trinity Baptist","505332","2023",NA,NA,"-",NA,NA,NA,0
-"4","Trinity Baptist","505332","2022",NA,NA,"-",NA,NA,NA,0
-"5","Trinity Baptist","505332","2021",NA,NA,"-",NA,NA,NA,0
-"6","Trinity Baptist","505332","2020",NA,NA,"-",NA,NA,NA,0
-"7","Trinity Baptist","505332","2019",NA,NA,"-",NA,NA,NA,0
-"8","Trinity Baptist","505332","2018",NA,NA,"-",NA,NA,NA,0
-"9","Trinity Baptist","505332","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2021",NA,"-","NA-NA-0",0
+"6","2020",NA,"-","NA-NA-0",0
+"7","2019",NA,"-","NA-NA-0",0
+"8","2018",NA,"-","NA-NA-0",0

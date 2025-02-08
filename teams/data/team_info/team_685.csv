@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Susquehanna","685","2025","Caressa DeRossett","D-III","Landmark",0,0,0,0
-"2","Susquehanna","685","2024","Caressa DeRossett","D-III","Landmark",19,18,0,0.514
-"3","Susquehanna","685","2023","Caressa DeRossett","D-III","Landmark",25,16,0,0.61
-"4","Susquehanna","685","2022","Brad Posner","D-III","Landmark",28,9,0,0.757
-"5","Susquehanna","685","2021","Brad Posner","D-III","Landmark",8,14,0,0.364
-"6","Susquehanna","685","2020","Brad Posner","D-III","Landmark",6,4,0,0.6
-"7","Susquehanna","685","2019","Brad Posner","D-III","Landmark",20,17,0,0.541
-"8","Susquehanna","685","2018","Brad Posner","D-III","Landmark",27,16,NA,0.628
-"9","Susquehanna","685","2017","Brad Posner","D-III","Landmark",29,16,0,0.644
-"10","Susquehanna","685","2016","Brad Posner","D-III","Landmark",24,15,0,0.615
-"11","Susquehanna","685","2015","Kathy Kroupa","D-III","Landmark",31,7,0,0.816
-"12","Susquehanna","685","2014","Kathy Kroupa","D-III","Landmark",23,16,0,0.59
-"13","Susquehanna","685","2013","Kathy Kroupa","D-III","Landmark",40,9,0,0.816
-"14","Susquehanna","685","2012","Kathy Kroupa","D-III","Landmark",26,14,0,0.65
-"15","Susquehanna","685","2011","Kathy Kroupa","D-III","Landmark",29,12,0,0.707
-"16","Susquehanna","685","2010","Kathy Kroupa","D-III","Landmark",34,13,0,0.723
-"17","Susquehanna","685","2009","Kathy Kroupa","D-III","Landmark",22,15,0,0.595
-"18","Susquehanna","685","2008","Kathy Kroupa","D-III","Landmark",11,22,0,0.333
-"19","Susquehanna","685","2007","Kathy Kroupa","D-III","MAC Commonwealth",16,12,0,0.571
-"20","Susquehanna","685","2006","Kathy Kroupa","D-III","MAC Commonwealth",22,12,0,0.647
-"21","Susquehanna","685","2005","Kathy Kroupa","D-III","MAC Commonwealth",17,15,0,0.531
-"22","Susquehanna","685","2004","Kathy Kroupa","D-III","MAC Commonwealth",18,13,0,0.581
-"23","Susquehanna","685","2003","Kathy Kroupa","D-III","MAC Commonwealth",9,12,1,0.432
-"24","Susquehanna","685","2002","Cheri Swineford","D-III","MAC Commonwealth",21,14,1,0.597
-"25","Susquehanna","685","2001","Cheri Swineford (16-12-1)Vince Anselmo (16-12-1)","D-III","-",16,12,1,0.569
-"26","Susquehanna","685","1900","Vince Anselmo","D-III","-",14,13,NA,0.519
-"27","Susquehanna","685","1999","Vince Anselmo","D-III","-",20,15,NA,0.571
-"28","Susquehanna","685","1998","Vince Anselmo","D-III","-",26,14,NA,0.65
-"29","Susquehanna","685","1997","Vince Anselmo","D-III","-",20,11,NA,0.645
-"30","Susquehanna","685","1996","Vince Anselmo","D-III","-",17,16,NA,0.515
-"31","Susquehanna","685","1995","Vince Anselmo","D-III","-",14,14,NA,0.5
-"32","Susquehanna","685","1994","Sue Hertzog","D-III","-",9,9,NA,0.5
-"33","Susquehanna","685","1993","Sue Hertzog","D-III","-",7,9,NA,0.438
-"34","Susquehanna","685","1992","Carole Templon","D-III","-",12,7,NA,0.632
-"35","Susquehanna","685","1991","Carole Templon","D-III","-",7,12,NA,0.368
-"36","Susquehanna","685","1990","Carole Templon","D-III","-",13,12,NA,0.52
-"37","Susquehanna","685","1989","Carole Templon","D-III","-",10,9,NA,0.526
-"38","Susquehanna","685","1988","Debbie Fore","D-III","-",15,7,NA,0.682
-"39","Susquehanna","685","1987","Debbie Fore","D-III","-",7,20,NA,0.259
-"40","Susquehanna","685","1986","Debbie Fore","D-III","-",16,6,NA,0.727
-"41","Susquehanna","685","1985","Donna Papa","D-III","-",16,8,NA,0.667
-"42","Susquehanna","685","1984","Donna Papa","D-III","-",13,7,NA,0.65
-"43","Susquehanna","685","1983","","D-III","-",NA,NA,NA,NA
-"44","Susquehanna","685","1982","","D-III","-",NA,NA,NA,NA
-"45","Susquehanna","685","1981","","","-",NA,NA,NA,NA
-"46","Susquehanna","685","","","","",757,512,3,0.596
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Caressa DeRossett","Landmark","0-0-0",0
+"2","2024","Caressa DeRossett","Landmark","19-18-0",0.514
+"3","2023","Caressa DeRossett","Landmark","25-16-0",0.61
+"4","2022","Brad Posner","Landmark","28-9-0",0.757
+"5","2021","Brad Posner","Landmark","8-14-0",0.364
+"6","2020","Brad Posner","Landmark","6-4-0",0.6
+"7","2019","Brad Posner","Landmark","20-17-0",0.541
+"8","2018","Brad Posner","Landmark","27-16-0",0.628
+"9","2017","Brad Posner","Landmark","29-16-0",0.644
+"10","2016","Brad Posner","Landmark","24-15-0",0.615
+"11","2015","Kathy Kroupa","Landmark","31-7-0",0.816
+"12","2014","Kathy Kroupa","Landmark","23-16-0",0.59
+"13","2013","Kathy Kroupa","Landmark","40-9-0",0.816
+"14","2012","Kathy Kroupa","Landmark","26-14-0",0.65
+"15","2011","Kathy Kroupa","Landmark","29-12-0",0.707
+"16","2010","Kathy Kroupa","Landmark","34-13-0",0.723
+"17","2009","Kathy Kroupa","Landmark","22-15-0",0.595
+"18","2008","Kathy Kroupa","Landmark","11-22-0",0.333
+"19","2007","Kathy Kroupa","MAC Commonwealth","16-12-0",0.571
+"20","2006","Kathy Kroupa","MAC Commonwealth","22-12-0",0.647
+"21","2005","Kathy Kroupa","MAC Commonwealth","17-15-0",0.531
+"22","2004","Kathy Kroupa","MAC Commonwealth","18-13-0",0.581
+"23","2003","Kathy Kroupa","MAC Commonwealth","9-12-1",0.432
+"24","2002","Cheri Swineford","MAC Commonwealth","21-14-1",0.597
+"25","2001","Cheri Swineford (16-12-1)Vince Anselmo (16-12-1)","-","16-12-1",0.569
+"26","1900","Vince Anselmo","-","14-13-0",0.519
+"27","1999","Vince Anselmo","-","20-15-0",0.571
+"28","1998","Vince Anselmo","-","26-14-0",0.65
+"29","1997","Vince Anselmo","-","20-11-0",0.645
+"30","1996","Vince Anselmo","-","17-16-0",0.515
+"31","1995","Vince Anselmo","-","14-14-0",0.5
+"32","1994","Sue Hertzog","-","9-9-0",0.5
+"33","1993","Sue Hertzog","-","7-9-0",0.438
+"34","1992","Carole Templon","-","12-7-0",0.632
+"35","1991","Carole Templon","-","7-12-0",0.368
+"36","1990","Carole Templon","-","13-12-0",0.52
+"37","1989","Carole Templon","-","10-9-0",0.526
+"38","1988","Debbie Fore","-","15-7-0",0.682
+"39","1987","Debbie Fore","-","7-20-0",0.259
+"40","1986","Debbie Fore","-","16-6-0",0.727
+"41","1985","Donna Papa","-","16-8-0",0.667
+"42","1984","Donna Papa","-","13-7-0",0.65
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

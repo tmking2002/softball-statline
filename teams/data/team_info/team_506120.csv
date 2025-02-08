@@ -1,9 +1,8 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Bethel (KS)","506120","2024",NA,NA,"-",NA,NA,NA,0
-"2","Bethel (KS)","506120","2023",NA,NA,"-",NA,NA,NA,0
-"3","Bethel (KS)","506120","2022",NA,NA,"-",NA,NA,NA,0
-"4","Bethel (KS)","506120","2021",NA,NA,"-",NA,NA,NA,0
-"5","Bethel (KS)","506120","2016",NA,NA,"-",NA,NA,NA,NA
-"6","Bethel (KS)","506120","2014",NA,NA,"-",NA,NA,NA,NA
-"7","Bethel (KS)","506120","2013",NA,NA,"-",NA,NA,NA,NA
-"8","Bethel (KS)","506120","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2022",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2016",NA,"-","NA-NA-0",NA
+"6","2014",NA,"-","NA-NA-0",NA
+"7","2013",NA,"-","NA-NA-0",NA

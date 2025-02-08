@@ -1,46 +1,45 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Truman St.","499","2025","Ron Ferrill","D-II","GLVC",2,4,0,0.333
-"2","Truman St.","499","2024","Ron Ferrill","D-II","GLVC",23,29,0,0.442
-"3","Truman St.","499","2023","Ron Ferrill","D-II","GLVC",17,37,0,0.315
-"4","Truman St.","499","2022","Amanda Bradberry","D-II","GLVC",8,35,0,0.186
-"5","Truman St.","499","2021","Amanda Bradberry","D-II","GLVC",12,26,0,0.316
-"6","Truman St.","499","2020","Amanda Bradberry","D-II","GLVC",5,7,0,0.417
-"7","Truman St.","499","2019","Erin Brown","D-II","GLVC",32,19,0,0.627
-"8","Truman St.","499","2018","Erin Brown","D-II","GLVC",26,20,NA,0.565
-"9","Truman St.","499","2017","Erin Brown","D-II","GLVC",40,23,0,0.635
-"10","Truman St.","499","2016","Erin Brown","D-II","GLVC",30,20,0,0.6
-"11","Truman St.","499","2015","Erin Brown","D-II","GLVC",33,16,0,0.673
-"12","Truman St.","499","2014","Erin Brown","D-II","GLVC",43,13,0,0.768
-"13","Truman St.","499","2013","Erin Brown","D-II","Mid-America Intercollegiate",29,18,0,0.617
-"14","Truman St.","499","2012","Erin Brown","D-II","Mid-America Intercollegiate",23,28,0,0.451
-"15","Truman St.","499","2011","Erin Brown","D-II","Mid-America Intercollegiate",20,28,0,0.417
-"16","Truman St.","499","2010","Erin Brown","D-II","Mid-America Intercollegiate",22,33,0,0.4
-"17","Truman St.","499","2009","Erin Brown","D-II","Mid-America Intercollegiate",11,34,0,0.244
-"18","Truman St.","499","2008","Erin Brown","D-II","Mid-America Intercollegiate",22,21,0,0.512
-"19","Truman St.","499","2007","Erin Brown","D-II","Mid-America Intercollegiate",17,29,0,0.37
-"20","Truman St.","499","2006","Lacey Schanz","D-II","Mid-America Intercollegiate",30,23,0,0.566
-"21","Truman St.","499","2005","Lacey Schanz","D-II","Mid-America Intercollegiate",35,23,0,0.603
-"22","Truman St.","499","2004","Lacey Schanz","D-II","Mid-America Intercollegiate",44,12,0,0.786
-"23","Truman St.","499","2003","Lacey Schanz","D-II","Mid-America Intercollegiate",39,16,0,0.709
-"24","Truman St.","499","2002","Kristi Bredbenner","D-II","Mid-America Intercollegiate",31,19,0,0.62
-"25","Truman St.","499","2001","Kristy Schroeder","D-II","-",43,11,0,0.796
-"26","Truman St.","499","1900","Kristy Schroeder","D-II","-",44,12,0,0.786
-"27","Truman St.","499","1999","Kristy Schroeder","D-II","-",46,11,0,0.807
-"28","Truman St.","499","1998","Dan Zimmer","D-II","-",20,15,0,0.571
-"29","Truman St.","499","1997","Dan Zimmer","D-II","-",20,15,0,0.571
-"30","Truman St.","499","1996","Dan Zimmer","D-II","-",12,22,0,0.353
-"31","Truman St.","499","1995","Dan Zimmer","D-II","-",12,25,0,0.324
-"32","Truman St.","499","1994","Dan Zimmer","D-II","-",23,23,0,0.5
-"33","Truman St.","499","1993","Dan Zimmer","D-II","-",9,17,0,0.346
-"34","Truman St.","499","1992","Dan Zimmer","D-II","-",8,22,0,0.267
-"35","Truman St.","499","1991","Dan Zimmer","D-II","-",14,29,0,0.326
-"36","Truman St.","499","1990","Dan Zimmer","D-II","-",17,18,0,0.486
-"37","Truman St.","499","1989","","D-II","-",NA,NA,NA,NA
-"38","Truman St.","499","1988","","D-II","-",NA,NA,NA,NA
-"39","Truman St.","499","1987","","D-II","-",NA,NA,NA,NA
-"40","Truman St.","499","1986","","D-II","-",NA,NA,NA,NA
-"41","Truman St.","499","1985","","D-II","-",NA,NA,NA,NA
-"42","Truman St.","499","1984","","D-II","-",NA,NA,NA,NA
-"43","Truman St.","499","1983","","D-II","-",NA,NA,NA,NA
-"44","Truman St.","499","1982","","D-II","-",NA,NA,NA,NA
-"45","Truman St.","499","","","","",862,753,0,0.534
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ron Ferrill","GLVC","2-4-0",0.333
+"2","2024","Ron Ferrill","GLVC","23-29-0",0.442
+"3","2023","Ron Ferrill","GLVC","17-37-0",0.315
+"4","2022","Amanda Bradberry","GLVC","8-35-0",0.186
+"5","2021","Amanda Bradberry","GLVC","12-26-0",0.316
+"6","2020","Amanda Bradberry","GLVC","5-7-0",0.417
+"7","2019","Erin Brown","GLVC","32-19-0",0.627
+"8","2018","Erin Brown","GLVC","26-20-0",0.565
+"9","2017","Erin Brown","GLVC","40-23-0",0.635
+"10","2016","Erin Brown","GLVC","30-20-0",0.6
+"11","2015","Erin Brown","GLVC","33-16-0",0.673
+"12","2014","Erin Brown","GLVC","43-13-0",0.768
+"13","2013","Erin Brown","Mid-America Intercollegiate","29-18-0",0.617
+"14","2012","Erin Brown","Mid-America Intercollegiate","23-28-0",0.451
+"15","2011","Erin Brown","Mid-America Intercollegiate","20-28-0",0.417
+"16","2010","Erin Brown","Mid-America Intercollegiate","22-33-0",0.4
+"17","2009","Erin Brown","Mid-America Intercollegiate","11-34-0",0.244
+"18","2008","Erin Brown","Mid-America Intercollegiate","22-21-0",0.512
+"19","2007","Erin Brown","Mid-America Intercollegiate","17-29-0",0.37
+"20","2006","Lacey Schanz","Mid-America Intercollegiate","30-23-0",0.566
+"21","2005","Lacey Schanz","Mid-America Intercollegiate","35-23-0",0.603
+"22","2004","Lacey Schanz","Mid-America Intercollegiate","44-12-0",0.786
+"23","2003","Lacey Schanz","Mid-America Intercollegiate","39-16-0",0.709
+"24","2002","Kristi Bredbenner","Mid-America Intercollegiate","31-19-0",0.62
+"25","2001","Kristy Schroeder","-","43-11-0",0.796
+"26","1900","Kristy Schroeder","-","44-12-0",0.786
+"27","1999","Kristy Schroeder","-","46-11-0",0.807
+"28","1998","Dan Zimmer","-","20-15-0",0.571
+"29","1997","Dan Zimmer","-","20-15-0",0.571
+"30","1996","Dan Zimmer","-","12-22-0",0.353
+"31","1995","Dan Zimmer","-","12-25-0",0.324
+"32","1994","Dan Zimmer","-","23-23-0",0.5
+"33","1993","Dan Zimmer","-","9-17-0",0.346
+"34","1992","Dan Zimmer","-","8-22-0",0.267
+"35","1991","Dan Zimmer","-","14-29-0",0.326
+"36","1990","Dan Zimmer","-","17-18-0",0.486
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA

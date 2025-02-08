@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Olaf","615","2025","Kayla Hatting","D-III","MIAC",0,0,0,0
-"2","St. Olaf","615","2024","Kayla Hatting","D-III","MIAC",25,14,0,0.641
-"3","St. Olaf","615","2023","Kayla Hatting","D-III","MIAC",21,20,0,0.512
-"4","St. Olaf","615","2022","Kayla Hatting","D-III","MIAC",24,18,0,0.571
-"5","St. Olaf","615","2021","Kayla Hatting","D-III","MIAC",26,8,0,0.765
-"6","St. Olaf","615","2020","Kayla Hatting","D-III","MIAC",7,1,0,0.875
-"7","St. Olaf","615","2019","Kayla Hatting","D-III","MIAC",27,14,0,0.659
-"8","St. Olaf","615","2018","Kayla Hatting","D-III","MIAC",23,18,0,0.561
-"9","St. Olaf","615","2017","Kayla Hatting","D-III","MIAC",26,12,0,0.684
-"10","St. Olaf","615","2016","Ruthie Neuger","D-III","MIAC",14,19,0,0.424
-"11","St. Olaf","615","2015","Ruthie Neuger","D-III","MIAC",15,25,0,0.375
-"12","St. Olaf","615","2014","Ruthie Neuger","D-III","MIAC",7,25,0,0.219
-"13","St. Olaf","615","2013","Ruthie Neuger","D-III","MIAC",15,17,0,0.469
-"14","St. Olaf","615","2012","Ruthie Neuger","D-III","MIAC",18,22,0,0.45
-"15","St. Olaf","615","2011","Ruthie Neuger","D-III","MIAC",14,24,0,0.368
-"16","St. Olaf","615","2010","Ruthie Neuger","D-III","MIAC",19,21,0,0.475
-"17","St. Olaf","615","2009","Ruthie Neuger","D-III","MIAC",9,29,0,0.237
-"18","St. Olaf","615","2008","Ruthie Neuger","D-III","MIAC",17,17,0,0.5
-"19","St. Olaf","615","2007","Ruthie Neuger","D-III","MIAC",10,23,0,0.303
-"20","St. Olaf","615","2006","Ruthie Neuger","D-III","MIAC",14,24,0,0.368
-"21","St. Olaf","615","2005","Ruthie Neuger","D-III","MIAC",14,22,0,0.389
-"22","St. Olaf","615","2004","Lori Cooling","D-III","MIAC",7,26,0,0.212
-"23","St. Olaf","615","2003","Lori Cooling","D-III","MIAC",6,26,0,0.188
-"24","St. Olaf","615","2002","Lori Cooling","D-III","MIAC",10,23,0,0.303
-"25","St. Olaf","615","2001","Lori Cooling","D-III","-",11,22,1,0.338
-"26","St. Olaf","615","1900","Lori Cooling","D-III","-",10,29,NA,0.256
-"27","St. Olaf","615","1999","Lori Cooling","D-III","-",15,24,NA,0.385
-"28","St. Olaf","615","1998","Lori Cooling","D-III","-",27,13,NA,0.675
-"29","St. Olaf","615","1997","Lori Cooling","D-III","-",31,12,NA,0.721
-"30","St. Olaf","615","1996","Lori Cooling","D-III","-",28,12,NA,0.7
-"31","St. Olaf","615","1995","Lori Cooling","D-III","-",23,17,NA,0.575
-"32","St. Olaf","615","1994","Art Iverson","D-III","-",13,15,NA,0.464
-"33","St. Olaf","615","1993","Art Iverson","D-III","-",17,15,NA,0.531
-"34","St. Olaf","615","1992","Art Iverson","D-III","-",27,5,1,0.833
-"35","St. Olaf","615","1991","","D-III","-",NA,NA,NA,NA
-"36","St. Olaf","615","1990","","D-III","-",NA,NA,NA,NA
-"37","St. Olaf","615","1989","","","-",NA,NA,NA,NA
-"38","St. Olaf","615","1988","","","-",NA,NA,NA,NA
-"39","St. Olaf","615","1987","","D-III","-",NA,NA,NA,NA
-"40","St. Olaf","615","1986","","D-III","-",NA,NA,NA,NA
-"41","St. Olaf","615","1985","","D-III","-",NA,NA,NA,NA
-"42","St. Olaf","615","1984","","D-III","-",NA,NA,NA,NA
-"43","St. Olaf","615","","","","",570,612,2,0.482
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kayla Hatting","MIAC","0-0-0",0
+"2","2024","Kayla Hatting","MIAC","25-14-0",0.641
+"3","2023","Kayla Hatting","MIAC","21-20-0",0.512
+"4","2022","Kayla Hatting","MIAC","24-18-0",0.571
+"5","2021","Kayla Hatting","MIAC","26-8-0",0.765
+"6","2020","Kayla Hatting","MIAC","7-1-0",0.875
+"7","2019","Kayla Hatting","MIAC","27-14-0",0.659
+"8","2018","Kayla Hatting","MIAC","23-18-0",0.561
+"9","2017","Kayla Hatting","MIAC","26-12-0",0.684
+"10","2016","Ruthie Neuger","MIAC","14-19-0",0.424
+"11","2015","Ruthie Neuger","MIAC","15-25-0",0.375
+"12","2014","Ruthie Neuger","MIAC","7-25-0",0.219
+"13","2013","Ruthie Neuger","MIAC","15-17-0",0.469
+"14","2012","Ruthie Neuger","MIAC","18-22-0",0.45
+"15","2011","Ruthie Neuger","MIAC","14-24-0",0.368
+"16","2010","Ruthie Neuger","MIAC","19-21-0",0.475
+"17","2009","Ruthie Neuger","MIAC","9-29-0",0.237
+"18","2008","Ruthie Neuger","MIAC","17-17-0",0.5
+"19","2007","Ruthie Neuger","MIAC","10-23-0",0.303
+"20","2006","Ruthie Neuger","MIAC","14-24-0",0.368
+"21","2005","Ruthie Neuger","MIAC","14-22-0",0.389
+"22","2004","Lori Cooling","MIAC","7-26-0",0.212
+"23","2003","Lori Cooling","MIAC","6-26-0",0.188
+"24","2002","Lori Cooling","MIAC","10-23-0",0.303
+"25","2001","Lori Cooling","-","11-22-1",0.338
+"26","1900","Lori Cooling","-","10-29-0",0.256
+"27","1999","Lori Cooling","-","15-24-0",0.385
+"28","1998","Lori Cooling","-","27-13-0",0.675
+"29","1997","Lori Cooling","-","31-12-0",0.721
+"30","1996","Lori Cooling","-","28-12-0",0.7
+"31","1995","Lori Cooling","-","23-17-0",0.575
+"32","1994","Art Iverson","-","13-15-0",0.464
+"33","1993","Art Iverson","-","17-15-0",0.531
+"34","1992","Art Iverson","-","27-5-1",0.833
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA

@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Hendrix","1124","2025","Kara LeLeux","D-III","SAA",0,0,0,0
-"2","Hendrix","1124","2024","Jaydan Hunt","D-III","SAA",10,26,0,0.278
-"3","Hendrix","1124","2023","Jaydan Hunt","D-III","SAA",10,24,0,0.294
-"4","Hendrix","1124","2022","Mark Suire","D-III","SAA",20,18,0,0.526
-"5","Hendrix","1124","2021","Amy Weaver","D-III","SAA",6,15,0,0.286
-"6","Hendrix","1124","2020","Amy Weaver","D-III","SAA",7,7,0,0.5
-"7","Hendrix","1124","2019","Amy Weaver","D-III","SAA",20,19,0,0.513
-"8","Hendrix","1124","2018","Amy Weaver","D-III","SAA",20,15,NA,0.571
-"9","Hendrix","1124","2017","Amy Weaver","D-III","SAA",18,20,0,0.474
-"10","Hendrix","1124","2016","Amy Weaver","D-III","SAA",21,18,0,0.538
-"11","Hendrix","1124","2015","Amy Weaver","D-III","SAA",14,26,0,0.35
-"12","Hendrix","1124","2014","Amy Weaver","D-III","SAA",17,22,0,0.436
-"13","Hendrix","1124","2013","Amy Weaver","D-III","SAA",22,19,0,0.537
-"14","Hendrix","1124","2012","Amy Weaver","D-III","SCAC",17,18,0,0.486
-"15","Hendrix","1124","2011","Amy Weaver","D-III","SCAC",12,27,0,0.308
-"16","Hendrix","1124","2010","Amy Weaver","D-III","SCAC",19,19,0,0.5
-"17","Hendrix","1124","2009","Amy Weaver","D-III","SCAC",22,20,0,0.524
-"18","Hendrix","1124","2008","Amy Weaver","D-III","SCAC",13,27,0,0.325
-"19","Hendrix","1124","2007","Amy Weaver","D-III","SCAC",17,26,0,0.395
-"20","Hendrix","1124","2006","Amy Weaver","D-III","SCAC",30,14,0,0.682
-"21","Hendrix","1124","2005","Amy Weaver","D-III","SCAC",22,17,2,0.561
-"22","Hendrix","1124","2004","Amy Weaver","D-III","SCAC",12,30,0,0.286
-"23","Hendrix","1124","2003","Amy Weaver","D-III","SCAC",7,21,0,0.25
-"24","Hendrix","1124","2002","Beverly Robison","D-III","SCAC",0,29,0,0
-"25","Hendrix","1124","2001","Beverly Robison","D-III","-",10,22,0,0.313
-"26","Hendrix","1124","1900","","","-",NA,NA,NA,NA
-"27","Hendrix","1124","1999","","","-",NA,NA,NA,NA
-"28","Hendrix","1124","1998","","","-",NA,NA,NA,NA
-"29","Hendrix","1124","1997","","","-",NA,NA,NA,NA
-"30","Hendrix","1124","1996","","","-",NA,NA,NA,NA
-"31","Hendrix","1124","1995","","","-",NA,NA,NA,NA
-"32","Hendrix","1124","1994","","","-",NA,NA,NA,NA
-"33","Hendrix","1124","1993","","","-",NA,NA,NA,NA
-"34","Hendrix","1124","1992","","","-",NA,NA,NA,NA
-"35","Hendrix","1124","1991","","","-",NA,NA,NA,NA
-"36","Hendrix","1124","1990","","","-",NA,NA,NA,NA
-"37","Hendrix","1124","","","","",366,499,2,0.423
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kara LeLeux","SAA","0-0-0",0
+"2","2024","Jaydan Hunt","SAA","10-26-0",0.278
+"3","2023","Jaydan Hunt","SAA","10-24-0",0.294
+"4","2022","Mark Suire","SAA","20-18-0",0.526
+"5","2021","Amy Weaver","SAA","6-15-0",0.286
+"6","2020","Amy Weaver","SAA","7-7-0",0.5
+"7","2019","Amy Weaver","SAA","20-19-0",0.513
+"8","2018","Amy Weaver","SAA","20-15-0",0.571
+"9","2017","Amy Weaver","SAA","18-20-0",0.474
+"10","2016","Amy Weaver","SAA","21-18-0",0.538
+"11","2015","Amy Weaver","SAA","14-26-0",0.35
+"12","2014","Amy Weaver","SAA","17-22-0",0.436
+"13","2013","Amy Weaver","SAA","22-19-0",0.537
+"14","2012","Amy Weaver","SCAC","17-18-0",0.486
+"15","2011","Amy Weaver","SCAC","12-27-0",0.308
+"16","2010","Amy Weaver","SCAC","19-19-0",0.5
+"17","2009","Amy Weaver","SCAC","22-20-0",0.524
+"18","2008","Amy Weaver","SCAC","13-27-0",0.325
+"19","2007","Amy Weaver","SCAC","17-26-0",0.395
+"20","2006","Amy Weaver","SCAC","30-14-0",0.682
+"21","2005","Amy Weaver","SCAC","22-17-2",0.561
+"22","2004","Amy Weaver","SCAC","12-30-0",0.286
+"23","2003","Amy Weaver","SCAC","7-21-0",0.25
+"24","2002","Beverly Robison","SCAC","0-29-0",0
+"25","2001","Beverly Robison","-","10-22-0",0.313
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

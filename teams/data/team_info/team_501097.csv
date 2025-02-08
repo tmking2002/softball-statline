@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Columbia (MO)","501097","2025",NA,NA,"-",NA,NA,NA,0
-"2","Columbia (MO)","501097","2024",NA,NA,"-",NA,NA,NA,0
-"3","Columbia (MO)","501097","2023",NA,NA,"-",NA,NA,NA,0
-"4","Columbia (MO)","501097","2021",NA,NA,"-",NA,NA,NA,0
-"5","Columbia (MO)","501097","2020",NA,NA,"-",NA,NA,NA,0
-"6","Columbia (MO)","501097","2018",NA,NA,"-",NA,NA,NA,0
-"7","Columbia (MO)","501097","2017",NA,NA,"-",NA,NA,NA,NA
-"8","Columbia (MO)","501097","2013",NA,NA,"-",NA,NA,NA,NA
-"9","Columbia (MO)","501097","2012",NA,NA,"-",NA,NA,NA,NA
-"10","Columbia (MO)","501097","2011",NA,NA,"-",NA,NA,NA,NA
-"11","Columbia (MO)","501097","2008",NA,NA,"-",NA,NA,NA,NA
-"12","Columbia (MO)","501097","2007",NA,NA,"-",0,3,0,0
-"13","Columbia (MO)","501097","2006",NA,NA,"-",NA,NA,NA,NA
-"14","Columbia (MO)","501097","2004",NA,NA,"-",NA,NA,NA,NA
-"15","Columbia (MO)","501097","2003",NA,NA,"-",NA,NA,NA,NA
-"16","Columbia (MO)","501097","2002",NA,NA,"-",NA,NA,NA,NA
-"17","Columbia (MO)","501097","",NA,NA,"",0,3,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2018",NA,"-","NA-NA-0",0
+"7","2017",NA,"-","NA-NA-0",NA
+"8","2013",NA,"-","NA-NA-0",NA
+"9","2012",NA,"-","NA-NA-0",NA
+"10","2011",NA,"-","NA-NA-0",NA
+"11","2008",NA,"-","NA-NA-0",NA
+"12","2007",NA,"-","0-3-0",0
+"13","2006",NA,"-","NA-NA-0",NA
+"14","2004",NA,"-","NA-NA-0",NA
+"15","2003",NA,"-","NA-NA-0",NA
+"16","2002",NA,"-","NA-NA-0",NA

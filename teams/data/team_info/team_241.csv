@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Franklin Pierce","241","2025","Andy Klaus","D-II","NE10",0,0,0,0
-"2","Franklin Pierce","241","2024","Andy Klaus","D-II","NE10",27,14,0,0.659
-"3","Franklin Pierce","241","2023","Andy Klaus","D-II","NE10",32,20,0,0.615
-"4","Franklin Pierce","241","2022","Andy Klaus","D-II","NE10",30,12,0,0.714
-"5","Franklin Pierce","241","2021","Andy Klaus","D-II","NE10",21,9,0,0.7
-"6","Franklin Pierce","241","2020","Andy Klaus","D-II","NE10",10,1,0,0.909
-"7","Franklin Pierce","241","2019","Andy Klaus","D-II","NE10",11,30,0,0.268
-"8","Franklin Pierce","241","2018","Hannah Griffin","D-II","NE10",11,24,NA,0.314
-"9","Franklin Pierce","241","2017","Hannah Griffin","D-II","NE10",1,34,0,0.029
-"10","Franklin Pierce","241","2016","Mike Pelland","D-II","NE10",15,22,0,0.405
-"11","Franklin Pierce","241","2015","Christine Grenache","D-II","NE10",8,19,0,0.296
-"12","Franklin Pierce","241","2014","Christine Grenache","D-II","NE10",12,20,0,0.375
-"13","Franklin Pierce","241","2013","Christine Grenache","D-II","NE10",9,31,0,0.225
-"14","Franklin Pierce","241","2012","Christine Grenache","D-II","NE10",9,30,0,0.231
-"15","Franklin Pierce","241","2011","Richard Hurley","D-II","NE10",9,31,0,0.225
-"16","Franklin Pierce","241","2010","Richard Hurley","D-II","NE10",15,28,0,0.349
-"17","Franklin Pierce","241","2009","Richard Hurley","D-II","NE10",5,37,0,0.119
-"18","Franklin Pierce","241","2008","Richard Hurley","D-II","NE10",9,33,0,0.214
-"19","Franklin Pierce","241","2007","Richard Hurley","D-II","NE10",9,29,0,0.237
-"20","Franklin Pierce","241","2006","Richard Hurley","D-II","NE10",12,27,1,0.313
-"21","Franklin Pierce","241","2005","Richard Hurley","D-II","NE10",9,30,0,0.231
-"22","Franklin Pierce","241","2004","Richard Hurley","D-II","NE10",10,26,1,0.284
-"23","Franklin Pierce","241","2003","Richard Hurley","D-II","NE10",14,26,1,0.354
-"24","Franklin Pierce","241","2002","Frank Steffanidies","D-II","-",16,23,1,0.413
-"25","Franklin Pierce","241","2001","Frank Steffanidies","D-II","-",13,35,0,0.271
-"26","Franklin Pierce","241","1900","Frank Steffanidies","D-II","-",8,22,0,0.267
-"27","Franklin Pierce","241","1999","Lisa Bocash","D-II","-",3,30,1,0.103
-"28","Franklin Pierce","241","1998","Lisa Bocash","D-II","-",7,24,0,0.226
-"29","Franklin Pierce","241","1997","Lauren Hatfield","D-II","-",6,22,0,0.214
-"30","Franklin Pierce","241","1996","Lauren Hatfield","D-II","-",16,14,0,0.533
-"31","Franklin Pierce","241","1995","David Chadbourne","D-II","-",12,19,0,0.387
-"32","Franklin Pierce","241","1994","Mike Pelland","D-II","-",16,18,0,0.471
-"33","Franklin Pierce","241","1993","Mike Pelland","D-II","-",10,25,0,0.286
-"34","Franklin Pierce","241","1992","Bruce Kirsh","D-II","-",4,24,0,0.143
-"35","Franklin Pierce","241","1991","Bruce Kirsh","D-II","-",6,20,0,0.231
-"36","Franklin Pierce","241","1990","","D-II","-",NA,NA,NA,NA
-"37","Franklin Pierce","241","1988","","D-II","-",NA,NA,NA,NA
-"38","Franklin Pierce","241","","","","",405,809,5,0.334
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Andy Klaus","NE10","0-0-0",0
+"2","2024","Andy Klaus","NE10","27-14-0",0.659
+"3","2023","Andy Klaus","NE10","32-20-0",0.615
+"4","2022","Andy Klaus","NE10","30-12-0",0.714
+"5","2021","Andy Klaus","NE10","21-9-0",0.7
+"6","2020","Andy Klaus","NE10","10-1-0",0.909
+"7","2019","Andy Klaus","NE10","11-30-0",0.268
+"8","2018","Hannah Griffin","NE10","11-24-0",0.314
+"9","2017","Hannah Griffin","NE10","1-34-0",0.029
+"10","2016","Mike Pelland","NE10","15-22-0",0.405
+"11","2015","Christine Grenache","NE10","8-19-0",0.296
+"12","2014","Christine Grenache","NE10","12-20-0",0.375
+"13","2013","Christine Grenache","NE10","9-31-0",0.225
+"14","2012","Christine Grenache","NE10","9-30-0",0.231
+"15","2011","Richard Hurley","NE10","9-31-0",0.225
+"16","2010","Richard Hurley","NE10","15-28-0",0.349
+"17","2009","Richard Hurley","NE10","5-37-0",0.119
+"18","2008","Richard Hurley","NE10","9-33-0",0.214
+"19","2007","Richard Hurley","NE10","9-29-0",0.237
+"20","2006","Richard Hurley","NE10","12-27-1",0.313
+"21","2005","Richard Hurley","NE10","9-30-0",0.231
+"22","2004","Richard Hurley","NE10","10-26-1",0.284
+"23","2003","Richard Hurley","NE10","14-26-1",0.354
+"24","2002","Frank Steffanidies","-","16-23-1",0.413
+"25","2001","Frank Steffanidies","-","13-35-0",0.271
+"26","1900","Frank Steffanidies","-","8-22-0",0.267
+"27","1999","Lisa Bocash","-","3-30-1",0.103
+"28","1998","Lisa Bocash","-","7-24-0",0.226
+"29","1997","Lauren Hatfield","-","6-22-0",0.214
+"30","1996","Lauren Hatfield","-","16-14-0",0.533
+"31","1995","David Chadbourne","-","12-19-0",0.387
+"32","1994","Mike Pelland","-","16-18-0",0.471
+"33","1993","Mike Pelland","-","10-25-0",0.286
+"34","1992","Bruce Kirsh","-","4-24-0",0.143
+"35","1991","Bruce Kirsh","-","6-20-0",0.231
+"36","1990","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA

@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Point Park","504175","2024",NA,NA,"-",NA,NA,NA,0
-"2","Point Park","504175","2023",NA,NA,"-",NA,NA,NA,0
-"3","Point Park","504175","2022",NA,NA,"-",NA,NA,NA,0
-"4","Point Park","504175","2021",NA,NA,"-",NA,NA,NA,0
-"5","Point Park","504175","2020",NA,NA,"-",NA,NA,NA,0
-"6","Point Park","504175","2019",NA,NA,"-",NA,NA,NA,0
-"7","Point Park","504175","2018",NA,NA,"-",NA,NA,NA,0
-"8","Point Park","504175","2017",NA,NA,"-",NA,NA,NA,NA
-"9","Point Park","504175","2016",NA,NA,"-",NA,NA,NA,NA
-"10","Point Park","504175","2015",NA,NA,"-",NA,NA,NA,NA
-"11","Point Park","504175","2014",NA,NA,"-",NA,NA,NA,NA
-"12","Point Park","504175","2013",NA,NA,"-",NA,NA,NA,NA
-"13","Point Park","504175","2012",NA,NA,"-",NA,NA,NA,NA
-"14","Point Park","504175","2010",NA,NA,"-",NA,NA,NA,NA
-"15","Point Park","504175","2007",NA,NA,"-",NA,NA,NA,NA
-"16","Point Park","504175","2006",NA,NA,"-",NA,NA,NA,NA
-"17","Point Park","504175","2005",NA,NA,"-",NA,NA,NA,NA
-"18","Point Park","504175","2004",NA,NA,"-",NA,NA,NA,NA
-"19","Point Park","504175","2003",NA,NA,"-",NA,NA,NA,NA
-"20","Point Park","504175","2002",NA,NA,"-",NA,NA,NA,NA
-"21","Point Park","504175","1900",NA,NA,"-",NA,NA,NA,NA
-"22","Point Park","504175","1997",NA,NA,"-",NA,NA,NA,NA
-"23","Point Park","504175","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2022",NA,"-","NA-NA-0",0
+"4","2021",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2018",NA,"-","NA-NA-0",0
+"8","2017",NA,"-","NA-NA-0",NA
+"9","2016",NA,"-","NA-NA-0",NA
+"10","2015",NA,"-","NA-NA-0",NA
+"11","2014",NA,"-","NA-NA-0",NA
+"12","2013",NA,"-","NA-NA-0",NA
+"13","2012",NA,"-","NA-NA-0",NA
+"14","2010",NA,"-","NA-NA-0",NA
+"15","2007",NA,"-","NA-NA-0",NA
+"16","2006",NA,"-","NA-NA-0",NA
+"17","2005",NA,"-","NA-NA-0",NA
+"18","2004",NA,"-","NA-NA-0",NA
+"19","2003",NA,"-","NA-NA-0",NA
+"20","2002",NA,"-","NA-NA-0",NA
+"21","1900",NA,"-","NA-NA-0",NA
+"22","1997",NA,"-","NA-NA-0",NA

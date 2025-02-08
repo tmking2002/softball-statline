@@ -1,6 +1,5 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","P.R.-Rio Piedras","2716","2012",NA,"D-II","-",NA,NA,NA,NA
-"2","P.R.-Rio Piedras","2716","2011",NA,"D-II","-",NA,NA,NA,NA
-"3","P.R.-Rio Piedras","2716","2010",NA,"D-II","-",NA,NA,NA,NA
-"4","P.R.-Rio Piedras","2716","2006",NA,"","-",NA,NA,NA,NA
-"5","P.R.-Rio Piedras","2716","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2012",NA,"-","NA-NA-0",NA
+"2","2011",NA,"-","NA-NA-0",NA
+"3","2010",NA,"-","NA-NA-0",NA
+"4","2006",NA,"-","NA-NA-0",NA

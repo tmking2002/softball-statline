@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Buffalo","86","2025","Mike Ruechel","D-I","MAC",0,2,0,0
-"2","Buffalo","86","2024","Mike Ruechel","D-I","MAC",16,32,0,0.333
-"3","Buffalo","86","2023","Mike Ruechel","D-I","MAC",14,36,0,0.28
-"4","Buffalo","86","2022","Mike Ruechel","D-I","MAC",22,24,0,0.478
-"5","Buffalo","86","2021","Mike Ruechel","D-I","MAC",18,35,0,0.34
-"6","Buffalo","86","2020","Mike Ruechel","D-I","MAC",2,11,0,0.154
-"7","Buffalo","86","2019","Mike Ruechel","D-I","MAC",10,32,1,0.244
-"8","Buffalo","86","2018","Mike Roberts","D-I","MAC",16,31,NA,0.34
-"9","Buffalo","86","2017","Trena Prater","D-I","MAC",9,46,0,0.164
-"10","Buffalo","86","2016","Trena Prater","D-I","MAC",17,37,0,0.315
-"11","Buffalo","86","2015","Trena Prater","D-I","MAC",13,37,0,0.26
-"12","Buffalo","86","2014","Trena Prater","D-I","MAC",30,22,0,0.577
-"13","Buffalo","86","2013","Jennifer Teague","D-I","MAC",16,32,0,0.333
-"14","Buffalo","86","2012","Jennifer Teague","D-I","MAC",14,31,0,0.311
-"15","Buffalo","86","2011","Jennifer Teague","D-I","MAC",12,35,0,0.255
-"16","Buffalo","86","2010","Jennifer Teague","D-I","MAC",21,34,0,0.382
-"17","Buffalo","86","2009","Jennifer Teague","D-I","MAC",25,27,0,0.481
-"18","Buffalo","86","2008","Marie Curran","D-I","MAC",10,32,0,0.238
-"19","Buffalo","86","2007","Marie Curran","D-I","MAC",3,45,0,0.063
-"20","Buffalo","86","2006","Marie Curran","D-I","MAC",16,42,0,0.276
-"21","Buffalo","86","2005","Marie Curran","D-I","MAC",22,28,0,0.44
-"22","Buffalo","86","2004","Marie Curran","D-I","MAC",25,23,0,0.521
-"23","Buffalo","86","2003","Marie Curran","D-I","MAC",18,21,0,0.462
-"24","Buffalo","86","2002","Marie Curran","D-I","MAC",13,25,0,0.342
-"25","Buffalo","86","2001","Marie Curran","D-I","MAC",12,40,0,0.231
-"26","Buffalo","86","1900","Marie Curran","D-I","MAC",7,38,0,0.156
-"27","Buffalo","86","1999","","D-I","-",NA,NA,NA,NA
-"28","Buffalo","86","1998","","D-I","-",NA,NA,NA,NA
-"29","Buffalo","86","1997","","D-I","-",NA,NA,NA,NA
-"30","Buffalo","86","1996","","D-I","-",NA,NA,NA,NA
-"31","Buffalo","86","1995","","D-I","-",NA,NA,NA,NA
-"32","Buffalo","86","1994","","D-I","-",NA,NA,NA,NA
-"33","Buffalo","86","1993","","D-I","-",NA,NA,NA,NA
-"34","Buffalo","86","1992","","D-I","-",NA,NA,NA,NA
-"35","Buffalo","86","1991","","D-I","-",NA,NA,NA,NA
-"36","Buffalo","86","1990","","D-I","-",NA,NA,NA,NA
-"37","Buffalo","86","1987","","D-III","-",NA,NA,NA,NA
-"38","Buffalo","86","1986","","D-III","-",NA,NA,NA,NA
-"39","Buffalo","86","1985","","D-III","-",NA,NA,NA,NA
-"40","Buffalo","86","1984","","D-III","-",NA,NA,NA,NA
-"41","Buffalo","86","1983","","D-III","-",NA,NA,NA,NA
-"42","Buffalo","86","1982","","D-III","-",NA,NA,NA,NA
-"43","Buffalo","86","","","","",381,798,1,0.323
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mike Ruechel","MAC","0-2-0",0
+"2","2024","Mike Ruechel","MAC","16-32-0",0.333
+"3","2023","Mike Ruechel","MAC","14-36-0",0.28
+"4","2022","Mike Ruechel","MAC","22-24-0",0.478
+"5","2021","Mike Ruechel","MAC","18-35-0",0.34
+"6","2020","Mike Ruechel","MAC","2-11-0",0.154
+"7","2019","Mike Ruechel","MAC","10-32-1",0.244
+"8","2018","Mike Roberts","MAC","16-31-0",0.34
+"9","2017","Trena Prater","MAC","9-46-0",0.164
+"10","2016","Trena Prater","MAC","17-37-0",0.315
+"11","2015","Trena Prater","MAC","13-37-0",0.26
+"12","2014","Trena Prater","MAC","30-22-0",0.577
+"13","2013","Jennifer Teague","MAC","16-32-0",0.333
+"14","2012","Jennifer Teague","MAC","14-31-0",0.311
+"15","2011","Jennifer Teague","MAC","12-35-0",0.255
+"16","2010","Jennifer Teague","MAC","21-34-0",0.382
+"17","2009","Jennifer Teague","MAC","25-27-0",0.481
+"18","2008","Marie Curran","MAC","10-32-0",0.238
+"19","2007","Marie Curran","MAC","3-45-0",0.063
+"20","2006","Marie Curran","MAC","16-42-0",0.276
+"21","2005","Marie Curran","MAC","22-28-0",0.44
+"22","2004","Marie Curran","MAC","25-23-0",0.521
+"23","2003","Marie Curran","MAC","18-21-0",0.462
+"24","2002","Marie Curran","MAC","13-25-0",0.342
+"25","2001","Marie Curran","MAC","12-40-0",0.231
+"26","1900","Marie Curran","MAC","7-38-0",0.156
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1987","","-","NA-NA-0",NA
+"38","1986","","-","NA-NA-0",NA
+"39","1985","","-","NA-NA-0",NA
+"40","1984","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA
+"42","1982","","-","NA-NA-0",NA

@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Old Westbury","524","2025","Tom Pennino","D-III","Skyline",0,0,0,0
-"2","Old Westbury","524","2024","Tom Pennino","D-III","Skyline",24,14,0,0.632
-"3","Old Westbury","524","2023","Tom Pennino","D-III","Skyline",12,17,0,0.414
-"4","Old Westbury","524","2022","Tom Pennino","D-III","Skyline",9,21,0,0.3
-"5","Old Westbury","524","2021","Tom Pennino","D-III","Skyline",5,13,0,0.278
-"6","Old Westbury","524","2020","Tom Pennino","D-III","Skyline",NA,NA,NA,0
-"7","Old Westbury","524","2019","Rich Borawski (7-6)Anthony Vertuccio (2-12)","D-III","Skyline",9,18,0,0.333
-"8","Old Westbury","524","2018","Rich Borawski","D-III","Skyline",14,13,NA,0.519
-"9","Old Westbury","524","2017","Kathy Morrell","D-III","Skyline",12,15,0,0.444
-"10","Old Westbury","524","2016","Mary Jo Fazio","D-III","Skyline",10,14,0,0.417
-"11","Old Westbury","524","2015","Mary Jo Fazio","D-III","Skyline",8,24,0,0.25
-"12","Old Westbury","524","2014","Mary Jo Fazio","D-III","Skyline",11,16,0,0.407
-"13","Old Westbury","524","2013","Mary Jo Fazio","D-III","Skyline",19,18,0,0.514
-"14","Old Westbury","524","2012","Mary Jo Fazio","D-III","Skyline",26,19,0,0.578
-"15","Old Westbury","524","2011","Mary Jo Fazio","D-III","Skyline",20,12,0,0.625
-"16","Old Westbury","524","2010","Mary Jo Fazio","D-III","Skyline",20,19,0,0.513
-"17","Old Westbury","524","2009","Mary Jo Fazio","D-III","Skyline",22,14,0,0.611
-"18","Old Westbury","524","2008","Mary Jo Fazio","D-III","Skyline",15,16,0,0.484
-"19","Old Westbury","524","2007","Mary Jo Fazio","D-III","Skyline",8,22,0,0.267
-"20","Old Westbury","524","2006","Brian Simmons","D-III","Skyline",14,16,0,0.467
-"21","Old Westbury","524","2005","Keri-Anne Boller","D-III","Skyline",2,19,0,0.095
-"22","Old Westbury","524","2004","Keri-Anne Boller","D-III","Skyline",7,19,0,0.269
-"23","Old Westbury","524","2003","Keri-Anne Boller","D-III","Skyline",11,17,0,0.393
-"24","Old Westbury","524","2002","Keri-Anne Boller","D-III","Skyline",1,22,0,0.043
-"25","Old Westbury","524","2001","Sam Prioleau","D-III","-",7,9,0,0.438
-"26","Old Westbury","524","1900","","D-III","-",NA,NA,NA,NA
-"27","Old Westbury","524","1999","","D-III","-",NA,NA,NA,NA
-"28","Old Westbury","524","1998","","D-III","-",NA,NA,NA,NA
-"29","Old Westbury","524","1997","","D-III","-",NA,NA,NA,NA
-"30","Old Westbury","524","1996","","D-III","-",NA,NA,NA,NA
-"31","Old Westbury","524","1995","","D-III","-",NA,NA,NA,NA
-"32","Old Westbury","524","1994","James Vlahakis","D-III","-",17,15,NA,0.531
-"33","Old Westbury","524","1993","James Vlahakis","D-III","-",14,1,NA,0.933
-"34","Old Westbury","524","1992","Dori Breen","D-III","-",5,7,0,0.417
-"35","Old Westbury","524","1991","","D-III","-",NA,NA,NA,NA
-"36","Old Westbury","524","1990","","D-III","-",NA,NA,NA,NA
-"37","Old Westbury","524","1983","","","-",NA,NA,NA,NA
-"38","Old Westbury","524","","","","",322,410,0,0.44
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Tom Pennino","Skyline","0-0-0",0
+"2","2024","Tom Pennino","Skyline","24-14-0",0.632
+"3","2023","Tom Pennino","Skyline","12-17-0",0.414
+"4","2022","Tom Pennino","Skyline","9-21-0",0.3
+"5","2021","Tom Pennino","Skyline","5-13-0",0.278
+"6","2020","Tom Pennino","Skyline","NA-NA-0",0
+"7","2019","Rich Borawski (7-6)Anthony Vertuccio (2-12)","Skyline","9-18-0",0.333
+"8","2018","Rich Borawski","Skyline","14-13-0",0.519
+"9","2017","Kathy Morrell","Skyline","12-15-0",0.444
+"10","2016","Mary Jo Fazio","Skyline","10-14-0",0.417
+"11","2015","Mary Jo Fazio","Skyline","8-24-0",0.25
+"12","2014","Mary Jo Fazio","Skyline","11-16-0",0.407
+"13","2013","Mary Jo Fazio","Skyline","19-18-0",0.514
+"14","2012","Mary Jo Fazio","Skyline","26-19-0",0.578
+"15","2011","Mary Jo Fazio","Skyline","20-12-0",0.625
+"16","2010","Mary Jo Fazio","Skyline","20-19-0",0.513
+"17","2009","Mary Jo Fazio","Skyline","22-14-0",0.611
+"18","2008","Mary Jo Fazio","Skyline","15-16-0",0.484
+"19","2007","Mary Jo Fazio","Skyline","8-22-0",0.267
+"20","2006","Brian Simmons","Skyline","14-16-0",0.467
+"21","2005","Keri-Anne Boller","Skyline","2-19-0",0.095
+"22","2004","Keri-Anne Boller","Skyline","7-19-0",0.269
+"23","2003","Keri-Anne Boller","Skyline","11-17-0",0.393
+"24","2002","Keri-Anne Boller","Skyline","1-22-0",0.043
+"25","2001","Sam Prioleau","-","7-9-0",0.438
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","James Vlahakis","-","17-15-0",0.531
+"33","1993","James Vlahakis","-","14-1-0",0.933
+"34","1992","Dori Breen","-","5-7-0",0.417
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1983","","-","NA-NA-0",NA

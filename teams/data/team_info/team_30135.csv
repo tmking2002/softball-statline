@@ -1,24 +1,23 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","California Baptist","30135","2025","Mike Smith","D-I","WAC",1,1,0,0.5
-"2","California Baptist","30135","2024","Mike Smith","D-I","WAC",33,25,0,0.569
-"3","California Baptist","30135","2023","Mike Smith","D-I","WAC",28,29,0,0.491
-"4","California Baptist","30135","2022","Mike Smith","D-I","WAC",30,26,0,0.536
-"5","California Baptist","30135","2021","Bill Baber","D-I","WAC",21,30,1,0.413
-"6","California Baptist","30135","2020","Bill Baber","D-I","WAC",10,14,0,0.417
-"7","California Baptist","30135","2019","Bill Baber","D-I","WAC",21,32,0,0.396
-"8","California Baptist","30135","2018","Bill Baber","D-II","PacWest",35,12,NA,0.745
-"9","California Baptist","30135","2017","Bill Baber","D-II","PacWest",36,13,0,0.735
-"10","California Baptist","30135","2016","Bill Baber","D-II","PacWest",42,13,0,0.764
-"11","California Baptist","30135","2015","Bill Baber","D-II","PacWest",42,11,0,0.792
-"12","California Baptist","30135","2014","Bill Baber","D-II","PacWest",46,13,0,0.78
-"13","California Baptist","30135","2013","Bill Baber","D-II","PacWest",31,18,0,0.633
-"14","California Baptist","30135","2012","Bill Baber","D-II","PacWest",49,6,0,0.891
-"15","California Baptist","30135","2011","Mike Smith","","-",66,5,0,0.93
-"16","California Baptist","30135","2010","Mike Smith","","-",64,4,0,0.941
-"17","California Baptist","30135","2009","Mike Smith","","-",61,5,0,0.924
-"18","California Baptist","30135","2008","Mike Smith","","-",60,8,0,0.882
-"19","California Baptist","30135","2007","Mike Smith","","-",59,5,0,0.922
-"20","California Baptist","30135","2006","Mike Smith","","-",57,7,0,0.891
-"21","California Baptist","30135","2005","Mike Smith","","-",55,7,0,0.887
-"22","California Baptist","30135","2004","Mike Smith","","-",45,15,0,0.75
-"23","California Baptist","30135","","","","",892,299,1,0.749
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mike Smith","WAC","1-1-0",0.5
+"2","2024","Mike Smith","WAC","33-25-0",0.569
+"3","2023","Mike Smith","WAC","28-29-0",0.491
+"4","2022","Mike Smith","WAC","30-26-0",0.536
+"5","2021","Bill Baber","WAC","21-30-1",0.413
+"6","2020","Bill Baber","WAC","10-14-0",0.417
+"7","2019","Bill Baber","WAC","21-32-0",0.396
+"8","2018","Bill Baber","PacWest","35-12-0",0.745
+"9","2017","Bill Baber","PacWest","36-13-0",0.735
+"10","2016","Bill Baber","PacWest","42-13-0",0.764
+"11","2015","Bill Baber","PacWest","42-11-0",0.792
+"12","2014","Bill Baber","PacWest","46-13-0",0.78
+"13","2013","Bill Baber","PacWest","31-18-0",0.633
+"14","2012","Bill Baber","PacWest","49-6-0",0.891
+"15","2011","Mike Smith","-","66-5-0",0.93
+"16","2010","Mike Smith","-","64-4-0",0.941
+"17","2009","Mike Smith","-","61-5-0",0.924
+"18","2008","Mike Smith","-","60-8-0",0.882
+"19","2007","Mike Smith","-","59-5-0",0.922
+"20","2006","Mike Smith","-","57-7-0",0.891
+"21","2005","Mike Smith","-","55-7-0",0.887
+"22","2004","Mike Smith","-","45-15-0",0.75

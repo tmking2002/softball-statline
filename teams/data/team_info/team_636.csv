@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Shaw","636","2025","Reginald Cooper","D-II","CIAA",0,0,0,0
-"2","Shaw","636","2024","Reginald Cooper","D-II","CIAA",6,23,0,0.207
-"3","Shaw","636","2023","Mercedes Hargett","D-II","CIAA",7,20,0,0.259
-"4","Shaw","636","2022","Mercedes Hargett","D-II","CIAA",5,27,0,0.156
-"5","Shaw","636","2021","Mercedes Hargett","D-II","CIAA",0,6,0,0
-"6","Shaw","636","2020","Nadia Jefferies","D-II","CIAA",3,16,0,0.158
-"7","Shaw","636","2019","Christina Coleman","D-II","CIAA",3,21,0,0.125
-"8","Shaw","636","2018","DiShondra Goree","D-II","CIAA",12,20,NA,0.375
-"9","Shaw","636","2017","DiShondra Goree","D-II","CIAA",6,28,0,0.176
-"10","Shaw","636","2016","DiShondra Goree","D-II","CIAA",10,31,0,0.244
-"11","Shaw","636","2015","DiShondra Goree","D-II","CIAA",7,27,0,0.206
-"12","Shaw","636","2014","Kimberly Miller","D-II","CIAA",7,25,0,0.219
-"13","Shaw","636","2013","Kimberly Miller","D-II","CIAA",16,24,0,0.4
-"14","Shaw","636","2012","Kimberly Miller","D-II","CIAA",13,29,0,0.31
-"15","Shaw","636","2011","Kimberly Miller","D-II","CIAA",14,42,0,0.25
-"16","Shaw","636","2010","Kimberly Miller","D-II","CIAA",15,25,0,0.375
-"17","Shaw","636","2009","Kimberly Miller","D-II","CIAA",12,19,0,0.387
-"18","Shaw","636","2008","Laura Aker","D-II","CIAA",6,19,0,0.24
-"19","Shaw","636","2007","Laura Aker","D-II","CIAA",9,19,0,0.321
-"20","Shaw","636","2006","Laura Aker","D-II","CIAA",10,14,0,0.417
-"21","Shaw","636","2005","Laura Aker","D-II","CIAA",19,19,0,0.5
-"22","Shaw","636","2004","Dianthia Ford-Kee","D-II","CIAA",23,18,0,0.561
-"23","Shaw","636","2003","Dianthia Ford-Kee","D-II","CIAA",30,14,0,0.682
-"24","Shaw","636","2002","Dianthia Ford-Kee","D-II","CIAA",19,19,0,0.5
-"25","Shaw","636","2001","Dianthia Ford-Kee","D-II","-",23,19,NA,0.548
-"26","Shaw","636","1900","Dianthia Ford-Kee","D-II","-",6,20,NA,0.231
-"27","Shaw","636","1999","Dianthia Ford-Kee","D-II","-",12,17,NA,0.414
-"28","Shaw","636","1998","Dianthia Ford-Kee","D-II","-",14,16,NA,0.467
-"29","Shaw","636","1997","Dianthia Ford-Kee","D-II","-",15,17,NA,0.469
-"30","Shaw","636","1996","Dianthia Ford-Kee","D-II","-",24,10,NA,0.706
-"31","Shaw","636","1995","Dianthia Ford-Kee","D-II","-",21,10,NA,0.677
-"32","Shaw","636","1994","Dianthia Ford-Kee","D-II","-",30,9,NA,0.769
-"33","Shaw","636","1993","Dianthia Ford-Kee","D-II","-",27,13,NA,0.675
-"34","Shaw","636","1992","Dianthia Ford-Kee","D-II","-",26,11,NA,0.703
-"35","Shaw","636","1991","Dianthia Ford-Kee","D-II","-",25,12,NA,0.676
-"36","Shaw","636","1990","","D-II","-",NA,NA,NA,NA
-"37","Shaw","636","1989","","D-II","-",NA,NA,NA,NA
-"38","Shaw","636","","","","",475,659,0,0.419
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Reginald Cooper","CIAA","0-0-0",0
+"2","2024","Reginald Cooper","CIAA","6-23-0",0.207
+"3","2023","Mercedes Hargett","CIAA","7-20-0",0.259
+"4","2022","Mercedes Hargett","CIAA","5-27-0",0.156
+"5","2021","Mercedes Hargett","CIAA","0-6-0",0
+"6","2020","Nadia Jefferies","CIAA","3-16-0",0.158
+"7","2019","Christina Coleman","CIAA","3-21-0",0.125
+"8","2018","DiShondra Goree","CIAA","12-20-0",0.375
+"9","2017","DiShondra Goree","CIAA","6-28-0",0.176
+"10","2016","DiShondra Goree","CIAA","10-31-0",0.244
+"11","2015","DiShondra Goree","CIAA","7-27-0",0.206
+"12","2014","Kimberly Miller","CIAA","7-25-0",0.219
+"13","2013","Kimberly Miller","CIAA","16-24-0",0.4
+"14","2012","Kimberly Miller","CIAA","13-29-0",0.31
+"15","2011","Kimberly Miller","CIAA","14-42-0",0.25
+"16","2010","Kimberly Miller","CIAA","15-25-0",0.375
+"17","2009","Kimberly Miller","CIAA","12-19-0",0.387
+"18","2008","Laura Aker","CIAA","6-19-0",0.24
+"19","2007","Laura Aker","CIAA","9-19-0",0.321
+"20","2006","Laura Aker","CIAA","10-14-0",0.417
+"21","2005","Laura Aker","CIAA","19-19-0",0.5
+"22","2004","Dianthia Ford-Kee","CIAA","23-18-0",0.561
+"23","2003","Dianthia Ford-Kee","CIAA","30-14-0",0.682
+"24","2002","Dianthia Ford-Kee","CIAA","19-19-0",0.5
+"25","2001","Dianthia Ford-Kee","-","23-19-0",0.548
+"26","1900","Dianthia Ford-Kee","-","6-20-0",0.231
+"27","1999","Dianthia Ford-Kee","-","12-17-0",0.414
+"28","1998","Dianthia Ford-Kee","-","14-16-0",0.467
+"29","1997","Dianthia Ford-Kee","-","15-17-0",0.469
+"30","1996","Dianthia Ford-Kee","-","24-10-0",0.706
+"31","1995","Dianthia Ford-Kee","-","21-10-0",0.677
+"32","1994","Dianthia Ford-Kee","-","30-9-0",0.769
+"33","1993","Dianthia Ford-Kee","-","27-13-0",0.675
+"34","1992","Dianthia Ford-Kee","-","26-11-0",0.703
+"35","1991","Dianthia Ford-Kee","-","25-12-0",0.676
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA

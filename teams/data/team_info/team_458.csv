@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Charlotte","458","2025","Courtney Breault","D-I","The American",0,0,0,0
-"2","Charlotte","458","2024","Ashley Chastain Woodard","D-I","The American",39,18,0,0.684
-"3","Charlotte","458","2023","Ashley Chastain Woodard","D-I","CUSA",35,23,0,0.603
-"4","Charlotte","458","2022","Ashley Chastain Woodard","D-I","CUSA",35,23,0,0.603
-"5","Charlotte","458","2021","Ashley Chastain Woodard","D-I","CUSA",31,19,0,0.62
-"6","Charlotte","458","2020","Ashley Chastain Woodard","D-I","CUSA",14,13,0,0.519
-"7","Charlotte","458","2019","Aimee DeVos","D-I","CUSA",15,35,0,0.3
-"8","Charlotte","458","2018","Aimee DeVos","D-I","CUSA",18,32,NA,0.36
-"9","Charlotte","458","2017","Aimee DeVos","D-I","CUSA",30,23,0,0.566
-"10","Charlotte","458","2016","Aimee DeVos","D-I","CUSA",32,23,0,0.582
-"11","Charlotte","458","2015","Aimee DeVos","D-I","CUSA",24,27,0,0.471
-"12","Charlotte","458","2014","Aimee DeVos","D-I","CUSA",20,29,0,0.408
-"13","Charlotte","458","2013","Aimee DeVos","D-I","Atlantic 10",28,28,0,0.5
-"14","Charlotte","458","2012","Aimee DeVos","D-I","Atlantic 10",30,27,0,0.526
-"15","Charlotte","458","2011","Aimee DeVos","D-I","Atlantic 10",30,24,0,0.556
-"16","Charlotte","458","2010","Aimee DeVos","D-I","Atlantic 10",40,18,0,0.69
-"17","Charlotte","458","2009","Aimee DeVos","D-I","Atlantic 10",33,16,0,0.673
-"18","Charlotte","458","2008","Aimee DeVos","D-I","Atlantic 10",35,31,0,0.53
-"19","Charlotte","458","2007","Aimee DeVos","D-I","Atlantic 10",34,23,0,0.596
-"20","Charlotte","458","2006","Aimee DeVos","D-I","Atlantic 10",42,13,0,0.764
-"21","Charlotte","458","2005","Aimee DeVos","D-I","CUSA",17,39,1,0.307
-"22","Charlotte","458","2004","Aimee DeVos","D-I","CUSA",23,29,0,0.442
-"23","Charlotte","458","2003","Aimee DeVos","D-I","CUSA",14,31,0,0.311
-"24","Charlotte","458","2002","Aimee DeVos","D-I","CUSA",24,27,0,0.471
-"25","Charlotte","458","2001","Aimee DeVos","D-I","CUSA",17,33,0,0.34
-"26","Charlotte","458","1900","Aimee DeVos","D-I","ACC",12,45,0,0.211
-"27","Charlotte","458","1999","Aimee DeVos","D-I","ACC",21,36,0,0.368
-"28","Charlotte","458","1998","Aimee DeVos","D-I","-",22,31,NA,0.415
-"29","Charlotte","458","1997","Aimee DeVos","D-I","ACC",29,27,0,0.518
-"30","Charlotte","458","1996","Aimee DeVos","D-I","-",27,24,1,0.529
-"31","Charlotte","458","1995","Aimee DeVos","D-I","-",18,43,NA,0.295
-"32","Charlotte","458","1994","Ellyn Bartges","D-I","-",17,40,NA,0.298
-"33","Charlotte","458","1993","Ellyn Bartges","D-I","-",17,38,NA,0.309
-"34","Charlotte","458","1992","Ellyn Bartges","D-I","-",15,29,NA,0.341
-"35","Charlotte","458","1991","Ellyn Bartges","D-I","-",26,24,1,0.52
-"36","Charlotte","458","1990","Dick Wiseman","D-I","-",39,13,NA,0.75
-"37","Charlotte","458","1989","Dick Wiseman","D-I","-",24,25,NA,0.49
-"38","Charlotte","458","1988","Dick Wiseman","D-I","-",34,20,NA,0.63
-"39","Charlotte","458","1987","","D-I","-",NA,NA,NA,NA
-"40","Charlotte","458","1986","","D-I","-",NA,NA,NA,NA
-"41","Charlotte","458","","","","",961,999,3,0.49
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Courtney Breault","The American","0-0-0",0
+"2","2024","Ashley Chastain Woodard","The American","39-18-0",0.684
+"3","2023","Ashley Chastain Woodard","CUSA","35-23-0",0.603
+"4","2022","Ashley Chastain Woodard","CUSA","35-23-0",0.603
+"5","2021","Ashley Chastain Woodard","CUSA","31-19-0",0.62
+"6","2020","Ashley Chastain Woodard","CUSA","14-13-0",0.519
+"7","2019","Aimee DeVos","CUSA","15-35-0",0.3
+"8","2018","Aimee DeVos","CUSA","18-32-0",0.36
+"9","2017","Aimee DeVos","CUSA","30-23-0",0.566
+"10","2016","Aimee DeVos","CUSA","32-23-0",0.582
+"11","2015","Aimee DeVos","CUSA","24-27-0",0.471
+"12","2014","Aimee DeVos","CUSA","20-29-0",0.408
+"13","2013","Aimee DeVos","Atlantic 10","28-28-0",0.5
+"14","2012","Aimee DeVos","Atlantic 10","30-27-0",0.526
+"15","2011","Aimee DeVos","Atlantic 10","30-24-0",0.556
+"16","2010","Aimee DeVos","Atlantic 10","40-18-0",0.69
+"17","2009","Aimee DeVos","Atlantic 10","33-16-0",0.673
+"18","2008","Aimee DeVos","Atlantic 10","35-31-0",0.53
+"19","2007","Aimee DeVos","Atlantic 10","34-23-0",0.596
+"20","2006","Aimee DeVos","Atlantic 10","42-13-0",0.764
+"21","2005","Aimee DeVos","CUSA","17-39-1",0.307
+"22","2004","Aimee DeVos","CUSA","23-29-0",0.442
+"23","2003","Aimee DeVos","CUSA","14-31-0",0.311
+"24","2002","Aimee DeVos","CUSA","24-27-0",0.471
+"25","2001","Aimee DeVos","CUSA","17-33-0",0.34
+"26","1900","Aimee DeVos","ACC","12-45-0",0.211
+"27","1999","Aimee DeVos","ACC","21-36-0",0.368
+"28","1998","Aimee DeVos","-","22-31-0",0.415
+"29","1997","Aimee DeVos","ACC","29-27-0",0.518
+"30","1996","Aimee DeVos","-","27-24-1",0.529
+"31","1995","Aimee DeVos","-","18-43-0",0.295
+"32","1994","Ellyn Bartges","-","17-40-0",0.298
+"33","1993","Ellyn Bartges","-","17-38-0",0.309
+"34","1992","Ellyn Bartges","-","15-29-0",0.341
+"35","1991","Ellyn Bartges","-","26-24-1",0.52
+"36","1990","Dick Wiseman","-","39-13-0",0.75
+"37","1989","Dick Wiseman","-","24-25-0",0.49
+"38","1988","Dick Wiseman","-","34-20-0",0.63
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA

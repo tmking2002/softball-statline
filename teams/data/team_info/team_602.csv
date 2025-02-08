@@ -1,7 +1,6 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Saint John's (MN)","602","2024",NA,NA,"-",NA,NA,NA,0
-"2","Saint John's (MN)","602","2022",NA,NA,"-",NA,NA,NA,0
-"3","Saint John's (MN)","602","2021",NA,NA,"-",NA,NA,NA,0
-"4","Saint John's (MN)","602","2019",NA,NA,"-",NA,NA,NA,0
-"5","Saint John's (MN)","602","2005",NA,NA,"-",NA,NA,NA,NA
-"6","Saint John's (MN)","602","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2022",NA,"-","NA-NA-0",0
+"3","2021",NA,"-","NA-NA-0",0
+"4","2019",NA,"-","NA-NA-0",0
+"5","2005",NA,"-","NA-NA-0",NA

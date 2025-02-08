@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Chico St.","95","2025","Angel Shamblin","D-II","CCAA",5,0,0,1
-"2","Chico St.","95","2024","Angel Shamblin","D-II","CCAA",13,29,0,0.31
-"3","Chico St.","95","2023","Angel Shamblin","D-II","CCAA",26,26,0,0.5
-"4","Chico St.","95","2022","Angel Shamblin","D-II","CCAA",37,17,0,0.685
-"5","Chico St.","95","2021","Angel Shamblin","D-II","CCAA",0,0,0,0
-"6","Chico St.","95","2020","Angel Shamblin","D-II","CCAA",19,2,0,0.905
-"7","Chico St.","95","2019","Angel Shamblin","D-II","CCAA",31,17,0,0.646
-"8","Chico St.","95","2018","Angel Shamblin","D-II","CCAA",55,6,NA,0.902
-"9","Chico St.","95","2017","Angel Shamblin","D-II","CCAA",39,18,0,0.684
-"10","Chico St.","95","2016","Angel Shamblin","D-II","CCAA",40,16,0,0.714
-"11","Chico St.","95","2015","Angel Shamblin","D-II","CCAA",29,22,0,0.569
-"12","Chico St.","95","2014","Angel Shamblin","D-II","CCAA",24,26,0,0.48
-"13","Chico St.","95","2013","Angel Shamblin","D-II","CCAA",24,24,0,0.5
-"14","Chico St.","95","2012","Angel Shamblin","D-II","CCAA",35,18,0,0.66
-"15","Chico St.","95","2011","Angel Shamblin","D-II","CCAA",31,19,0,0.62
-"16","Chico St.","95","2010","Angel Shamblin","D-II","CCAA",33,21,0,0.611
-"17","Chico St.","95","2009","Jamie Brown","D-II","CCAA",19,36,0,0.345
-"18","Chico St.","95","2008","Jamie Brown","D-II","CCAA",25,28,0,0.472
-"19","Chico St.","95","2007","Jamie Brown","D-II","CCAA",15,34,0,0.306
-"20","Chico St.","95","2006","Teri Rupe","D-II","CCAA",8,10,0,0.444
-"21","Chico St.","95","2005","Teri Rupe","D-II","CCAA",33,16,0,0.673
-"22","Chico St.","95","2004","Teri Rupe","D-II","CCAA",27,27,0,0.5
-"23","Chico St.","95","2003","Teri Rupe","D-II","CCAA",22,31,0,0.415
-"24","Chico St.","95","2002","Teri Rupe","D-II","CCAA",36,27,0,0.571
-"25","Chico St.","95","2001","Teri Rupe","D-II","-",24,31,1,0.438
-"26","Chico St.","95","1900","Teri Rupe","D-II","-",27,21,0,0.563
-"27","Chico St.","95","1999","Teri Rupe","D-II","-",18,24,1,0.43
-"28","Chico St.","95","1998","Teri Rupe","D-II","-",18,22,0,0.45
-"29","Chico St.","95","1997","Teri Rupe","D-II","-",21,31,0,0.404
-"30","Chico St.","95","1996","Teri Rupe","D-II","-",22,36,0,0.379
-"31","Chico St.","95","1995","Teri Rupe","D-II","-",25,29,0,0.463
-"32","Chico St.","95","1994","Charles Johnson","D-II","-",30,19,0,0.612
-"33","Chico St.","95","1993","Charles Johnson","D-II","-",27,24,0,0.529
-"34","Chico St.","95","1991","","D-II","-",NA,NA,NA,NA
-"35","Chico St.","95","1990","","D-II","-",NA,NA,NA,NA
-"36","Chico St.","95","1989","","D-II","-",NA,NA,NA,NA
-"37","Chico St.","95","1988","","D-II","-",NA,NA,NA,NA
-"38","Chico St.","95","1987","","D-II","-",NA,NA,NA,NA
-"39","Chico St.","95","1986","","D-II","-",NA,NA,NA,NA
-"40","Chico St.","95","1984","","D-II","-",NA,NA,NA,NA
-"41","Chico St.","95","1983","","D-II","-",NA,NA,NA,NA
-"42","Chico St.","95","","","","",838,707,2,0.542
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Angel Shamblin","CCAA","5-0-0",1
+"2","2024","Angel Shamblin","CCAA","13-29-0",0.31
+"3","2023","Angel Shamblin","CCAA","26-26-0",0.5
+"4","2022","Angel Shamblin","CCAA","37-17-0",0.685
+"5","2021","Angel Shamblin","CCAA","0-0-0",0
+"6","2020","Angel Shamblin","CCAA","19-2-0",0.905
+"7","2019","Angel Shamblin","CCAA","31-17-0",0.646
+"8","2018","Angel Shamblin","CCAA","55-6-0",0.902
+"9","2017","Angel Shamblin","CCAA","39-18-0",0.684
+"10","2016","Angel Shamblin","CCAA","40-16-0",0.714
+"11","2015","Angel Shamblin","CCAA","29-22-0",0.569
+"12","2014","Angel Shamblin","CCAA","24-26-0",0.48
+"13","2013","Angel Shamblin","CCAA","24-24-0",0.5
+"14","2012","Angel Shamblin","CCAA","35-18-0",0.66
+"15","2011","Angel Shamblin","CCAA","31-19-0",0.62
+"16","2010","Angel Shamblin","CCAA","33-21-0",0.611
+"17","2009","Jamie Brown","CCAA","19-36-0",0.345
+"18","2008","Jamie Brown","CCAA","25-28-0",0.472
+"19","2007","Jamie Brown","CCAA","15-34-0",0.306
+"20","2006","Teri Rupe","CCAA","8-10-0",0.444
+"21","2005","Teri Rupe","CCAA","33-16-0",0.673
+"22","2004","Teri Rupe","CCAA","27-27-0",0.5
+"23","2003","Teri Rupe","CCAA","22-31-0",0.415
+"24","2002","Teri Rupe","CCAA","36-27-0",0.571
+"25","2001","Teri Rupe","-","24-31-1",0.438
+"26","1900","Teri Rupe","-","27-21-0",0.563
+"27","1999","Teri Rupe","-","18-24-1",0.43
+"28","1998","Teri Rupe","-","18-22-0",0.45
+"29","1997","Teri Rupe","-","21-31-0",0.404
+"30","1996","Teri Rupe","-","22-36-0",0.379
+"31","1995","Teri Rupe","-","25-29-0",0.463
+"32","1994","Charles Johnson","-","30-19-0",0.612
+"33","1993","Charles Johnson","-","27-24-0",0.529
+"34","1991","","-","NA-NA-0",NA
+"35","1990","","-","NA-NA-0",NA
+"36","1989","","-","NA-NA-0",NA
+"37","1988","","-","NA-NA-0",NA
+"38","1987","","-","NA-NA-0",NA
+"39","1986","","-","NA-NA-0",NA
+"40","1984","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA

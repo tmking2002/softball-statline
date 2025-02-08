@@ -1,20 +1,19 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Penn St.-Beaver","506277","2025",NA,NA,"-",NA,NA,NA,0
-"2","Penn St.-Beaver","506277","2024",NA,NA,"-",NA,NA,NA,0
-"3","Penn St.-Beaver","506277","2023",NA,NA,"-",NA,NA,NA,0
-"4","Penn St.-Beaver","506277","2022",NA,NA,"-",NA,NA,NA,0
-"5","Penn St.-Beaver","506277","2020",NA,NA,"-",NA,NA,NA,0
-"6","Penn St.-Beaver","506277","2019",NA,NA,"-",NA,NA,NA,0
-"7","Penn St.-Beaver","506277","2018",NA,NA,"-",NA,NA,NA,0
-"8","Penn St.-Beaver","506277","2017",NA,NA,"-",NA,NA,NA,NA
-"9","Penn St.-Beaver","506277","2016",NA,NA,"-",NA,NA,NA,NA
-"10","Penn St.-Beaver","506277","2015",NA,NA,"-",NA,NA,NA,NA
-"11","Penn St.-Beaver","506277","2013",NA,NA,"-",NA,NA,NA,NA
-"12","Penn St.-Beaver","506277","2012",NA,NA,"-",NA,NA,NA,NA
-"13","Penn St.-Beaver","506277","2011",NA,NA,"-",NA,NA,NA,NA
-"14","Penn St.-Beaver","506277","2010",NA,NA,"-",NA,NA,NA,NA
-"15","Penn St.-Beaver","506277","2009",NA,NA,"-",NA,NA,NA,NA
-"16","Penn St.-Beaver","506277","2008",NA,NA,"-",NA,NA,NA,NA
-"17","Penn St.-Beaver","506277","2007",NA,NA,"-",NA,NA,NA,NA
-"18","Penn St.-Beaver","506277","2006",NA,NA,"-",NA,NA,NA,NA
-"19","Penn St.-Beaver","506277","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2020",NA,"-","NA-NA-0",0
+"6","2019",NA,"-","NA-NA-0",0
+"7","2018",NA,"-","NA-NA-0",0
+"8","2017",NA,"-","NA-NA-0",NA
+"9","2016",NA,"-","NA-NA-0",NA
+"10","2015",NA,"-","NA-NA-0",NA
+"11","2013",NA,"-","NA-NA-0",NA
+"12","2012",NA,"-","NA-NA-0",NA
+"13","2011",NA,"-","NA-NA-0",NA
+"14","2010",NA,"-","NA-NA-0",NA
+"15","2009",NA,"-","NA-NA-0",NA
+"16","2008",NA,"-","NA-NA-0",NA
+"17","2007",NA,"-","NA-NA-0",NA
+"18","2006",NA,"-","NA-NA-0",NA

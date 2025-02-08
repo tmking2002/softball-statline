@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Shenandoah","637","2025","Courtney Moyer","D-III","ODAC",0,0,0,0
-"2","Shenandoah","637","2024","Courtney Moyer","D-III","ODAC",16,26,0,0.381
-"3","Shenandoah","637","2023","Courtney Moyer","D-III","ODAC",15,25,0,0.375
-"4","Shenandoah","637","2022","Courtney Moyer","D-III","ODAC",14,24,0,0.368
-"5","Shenandoah","637","2021","Courtney Moyer","D-III","ODAC",11,21,0,0.344
-"6","Shenandoah","637","2020","Courtney Moyer","D-III","ODAC",7,5,0,0.583
-"7","Shenandoah","637","2019","Marlena Kotynski","D-III","ODAC",19,23,0,0.452
-"8","Shenandoah","637","2018","Marlena Kotynski","D-III","ODAC",13,25,NA,0.342
-"9","Shenandoah","637","2017","Marlena Kotynski","D-III","ODAC",11,29,0,0.275
-"10","Shenandoah","637","2016","Marlena Kotynski","D-III","ODAC",8,30,0,0.211
-"11","Shenandoah","637","2015","Marlena Kotynski","D-III","ODAC",10,22,0,0.313
-"12","Shenandoah","637","2014","Marlena Kotynski","D-III","ODAC",10,23,0,0.303
-"13","Shenandoah","637","2013","Marlena Kotynski","D-III","ODAC",28,18,0,0.609
-"14","Shenandoah","637","2012","Marlena Kotynski","D-III","USA South",24,17,0,0.585
-"15","Shenandoah","637","2011","Marlena Kotynski","D-III","USA South",32,17,0,0.653
-"16","Shenandoah","637","2010","Marlena Kotynski","D-III","USA South",21,19,1,0.524
-"17","Shenandoah","637","2009","Marlena Kotynski","D-III","USA South",30,13,0,0.698
-"18","Shenandoah","637","2008","Marlena Kotynski","D-III","USA South",30,12,0,0.714
-"19","Shenandoah","637","2007","Marlena Kotynski","D-III","USA South",19,21,0,0.475
-"20","Shenandoah","637","2006","Marlena Kotynski","D-III","USA South",15,28,0,0.349
-"21","Shenandoah","637","2005","Marlena Kotynski","D-III","USA South",13,21,0,0.382
-"22","Shenandoah","637","2004","Michelle Manning","D-III","USA South",10,23,0,0.303
-"23","Shenandoah","637","2003","Ellie Tanner","D-III","USA South",3,21,0,0.125
-"24","Shenandoah","637","2002","Ellie Tanner","D-III","USA South",4,29,0,0.121
-"25","Shenandoah","637","2001","Ellie Tanner","D-III","-",2,28,NA,0.067
-"26","Shenandoah","637","1900","Dave McGuigan","D-III","-",5,30,NA,0.143
-"27","Shenandoah","637","1999","Dave McGuigan","D-III","-",6,23,NA,0.207
-"28","Shenandoah","637","1998","Ana Litton","D-III","-",7,25,NA,0.219
-"29","Shenandoah","637","1997","Ana Litton","D-III","-",8,19,NA,0.296
-"30","Shenandoah","637","1996","Ana Litton","D-III","-",3,20,NA,0.13
-"31","Shenandoah","637","1995","Carol Grubb","D-III","-",9,19,NA,0.321
-"32","Shenandoah","637","1994","Carol Grubb","D-III","-",6,19,NA,0.24
-"33","Shenandoah","637","1993","John Earley","D-III","-",6,6,NA,0.5
-"34","Shenandoah","637","1992","John Earley","D-III","-",16,12,NA,0.571
-"35","Shenandoah","637","1991","John Earley","D-III","-",6,10,NA,0.375
-"36","Shenandoah","637","1990","John Earley","D-III","-",0,13,NA,0
-"37","Shenandoah","637","1989","John Earley","D-III","-",5,8,NA,0.385
-"38","Shenandoah","637","1988","","D-III","-",NA,NA,NA,NA
-"39","Shenandoah","637","1987","","D-III","-",NA,NA,NA,NA
-"40","Shenandoah","637","","","","",442,724,1,0.379
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Courtney Moyer","ODAC","0-0-0",0
+"2","2024","Courtney Moyer","ODAC","16-26-0",0.381
+"3","2023","Courtney Moyer","ODAC","15-25-0",0.375
+"4","2022","Courtney Moyer","ODAC","14-24-0",0.368
+"5","2021","Courtney Moyer","ODAC","11-21-0",0.344
+"6","2020","Courtney Moyer","ODAC","7-5-0",0.583
+"7","2019","Marlena Kotynski","ODAC","19-23-0",0.452
+"8","2018","Marlena Kotynski","ODAC","13-25-0",0.342
+"9","2017","Marlena Kotynski","ODAC","11-29-0",0.275
+"10","2016","Marlena Kotynski","ODAC","8-30-0",0.211
+"11","2015","Marlena Kotynski","ODAC","10-22-0",0.313
+"12","2014","Marlena Kotynski","ODAC","10-23-0",0.303
+"13","2013","Marlena Kotynski","ODAC","28-18-0",0.609
+"14","2012","Marlena Kotynski","USA South","24-17-0",0.585
+"15","2011","Marlena Kotynski","USA South","32-17-0",0.653
+"16","2010","Marlena Kotynski","USA South","21-19-1",0.524
+"17","2009","Marlena Kotynski","USA South","30-13-0",0.698
+"18","2008","Marlena Kotynski","USA South","30-12-0",0.714
+"19","2007","Marlena Kotynski","USA South","19-21-0",0.475
+"20","2006","Marlena Kotynski","USA South","15-28-0",0.349
+"21","2005","Marlena Kotynski","USA South","13-21-0",0.382
+"22","2004","Michelle Manning","USA South","10-23-0",0.303
+"23","2003","Ellie Tanner","USA South","3-21-0",0.125
+"24","2002","Ellie Tanner","USA South","4-29-0",0.121
+"25","2001","Ellie Tanner","-","2-28-0",0.067
+"26","1900","Dave McGuigan","-","5-30-0",0.143
+"27","1999","Dave McGuigan","-","6-23-0",0.207
+"28","1998","Ana Litton","-","7-25-0",0.219
+"29","1997","Ana Litton","-","8-19-0",0.296
+"30","1996","Ana Litton","-","3-20-0",0.13
+"31","1995","Carol Grubb","-","9-19-0",0.321
+"32","1994","Carol Grubb","-","6-19-0",0.24
+"33","1993","John Earley","-","6-6-0",0.5
+"34","1992","John Earley","-","16-12-0",0.571
+"35","1991","John Earley","-","6-10-0",0.375
+"36","1990","John Earley","-","0-13-0",0
+"37","1989","John Earley","-","5-8-0",0.385
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Cairn","1305","2025","Brady Tillotson","D-III","United East",0,0,0,0
-"2","Cairn","1305","2024","Michelle Ogborn","D-III","United East",7,25,0,0.219
-"3","Cairn","1305","2023","Michelle Ogborn","D-III","CSAC",12,19,0,0.387
-"4","Cairn","1305","2022","Jenna Collier","D-III","CSAC",8,22,0,0.267
-"5","Cairn","1305","2021","Jenna Collier","D-III","CSAC",10,16,0,0.385
-"6","Cairn","1305","2020","David Alshay","D-III","CSAC",1,7,0,0.125
-"7","Cairn","1305","2019","David Alshay","D-III","CSAC",12,19,1,0.391
-"8","Cairn","1305","2018","David Alshay","D-III","CSAC",18,20,NA,0.474
-"9","Cairn","1305","2017","David Alshay","D-III","CSAC",14,20,0,0.412
-"10","Cairn","1305","2016","Jason Miller","D-III","CSAC",1,31,0,0.031
-"11","Cairn","1305","2015","Jason Miller","D-III","CSAC",7,29,0,0.194
-"12","Cairn","1305","2014","Jason Miller","D-III","CSAC",13,20,0,0.394
-"13","Cairn","1305","2013","Jason Miller","D-III","CSAC",6,31,0,0.162
-"14","Cairn","1305","2012","Ed Howell","D-III","CSAC",5,35,0,0.125
-"15","Cairn","1305","2011","Rachael Joye","D-III","CSAC",1,27,0,0.036
-"16","Cairn","1305","2010","Rachael Joye","D-III","CSAC",11,25,0,0.306
-"17","Cairn","1305","2009","Rachael Joye","D-III","CSAC",13,19,0,0.406
-"18","Cairn","1305","2008","Rachael Joye","D-III","United East",17,17,0,0.5
-"19","Cairn","1305","2007","Rachael Joye","D-III","United East",11,17,1,0.397
-"20","Cairn","1305","2006","Drew Watson","D-III","United East",2,32,0,0.059
-"21","Cairn","1305","2005","Drew Watson","D-III","United East",5,20,0,0.2
-"22","Cairn","1305","2004","Drew Watson","D-III","-",3,17,0,0.15
-"23","Cairn","1305","2003","","D-III","-",NA,NA,NA,NA
-"24","Cairn","1305","2002","","","-",NA,NA,NA,NA
-"25","Cairn","1305","","","","",177,468,2,0.275
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brady Tillotson","United East","0-0-0",0
+"2","2024","Michelle Ogborn","United East","7-25-0",0.219
+"3","2023","Michelle Ogborn","CSAC","12-19-0",0.387
+"4","2022","Jenna Collier","CSAC","8-22-0",0.267
+"5","2021","Jenna Collier","CSAC","10-16-0",0.385
+"6","2020","David Alshay","CSAC","1-7-0",0.125
+"7","2019","David Alshay","CSAC","12-19-1",0.391
+"8","2018","David Alshay","CSAC","18-20-0",0.474
+"9","2017","David Alshay","CSAC","14-20-0",0.412
+"10","2016","Jason Miller","CSAC","1-31-0",0.031
+"11","2015","Jason Miller","CSAC","7-29-0",0.194
+"12","2014","Jason Miller","CSAC","13-20-0",0.394
+"13","2013","Jason Miller","CSAC","6-31-0",0.162
+"14","2012","Ed Howell","CSAC","5-35-0",0.125
+"15","2011","Rachael Joye","CSAC","1-27-0",0.036
+"16","2010","Rachael Joye","CSAC","11-25-0",0.306
+"17","2009","Rachael Joye","CSAC","13-19-0",0.406
+"18","2008","Rachael Joye","United East","17-17-0",0.5
+"19","2007","Rachael Joye","United East","11-17-1",0.397
+"20","2006","Drew Watson","United East","2-32-0",0.059
+"21","2005","Drew Watson","United East","5-20-0",0.2
+"22","2004","Drew Watson","-","3-17-0",0.15
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA

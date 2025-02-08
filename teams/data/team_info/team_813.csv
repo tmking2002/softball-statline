@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Yale","813","2025","Laura Ricciardone","D-I","Ivy League",0,0,0,0
-"2","Yale","813","2024","Laura Ricciardone","D-I","Ivy League",20,26,0,0.435
-"3","Yale","813","2023","Laura Ricciardone","D-I","Ivy League",20,23,0,0.465
-"4","Yale","813","2022","Jen Goodwin","D-I","Ivy League",11,23,0,0.324
-"5","Yale","813","2021","Jen Goodwin","D-I","Ivy League",0,0,0,0
-"6","Yale","813","2020","Jen Goodwin","D-I","Ivy League",5,10,0,0.333
-"7","Yale","813","2019","Jen Goodwin","D-I","Ivy League",16,27,0,0.372
-"8","Yale","813","2018","Jen Goodwin","D-I","Ivy League",10,30,NA,0.25
-"9","Yale","813","2017","Jen Goodwin","D-I","Ivy League",17,28,0,0.378
-"10","Yale","813","2016","Jen Goodwin","D-I","Ivy League",18,31,1,0.37
-"11","Yale","813","2015","Jen Goodwin","D-I","Ivy League",11,23,0,0.324
-"12","Yale","813","2014","Jen Goodwin","D-I","Ivy League",8,33,0,0.195
-"13","Yale","813","2013","Jen Goodwin","D-I","Ivy League",10,37,0,0.213
-"14","Yale","813","2012","Barbara Reinalda","D-I","Ivy League",12,34,0,0.261
-"15","Yale","813","2011","Barbara Reinalda","D-I","Ivy League",17,25,0,0.405
-"16","Yale","813","2010","Barbara Reinalda","D-I","Ivy League",11,28,0,0.282
-"17","Yale","813","2009","Barbara Reinalda","D-I","Ivy League",22,22,0,0.5
-"18","Yale","813","2008","Barbara Reinalda","D-I","Ivy League",20,25,1,0.446
-"19","Yale","813","2007","Barbara Reinalda","D-I","Ivy League",21,21,0,0.5
-"20","Yale","813","2006","Barbara Reinalda","D-I","Ivy League",28,22,0,0.56
-"21","Yale","813","2005","Barbara Reinalda","D-I","Ivy League",14,28,0,0.333
-"22","Yale","813","2004","Andy Van Etten","D-I","Ivy League",30,22,0,0.577
-"23","Yale","813","2003","Andy Van Etten","D-I","Ivy League",27,23,0,0.54
-"24","Yale","813","2002","Andy Van Etten","D-I","Ivy League",22,22,1,0.5
-"25","Yale","813","2001","Andy Van Etten","D-I","Ivy League",24,21,0,0.533
-"26","Yale","813","1900","Andy Van Etten","D-I","Ivy League",19,23,1,0.453
-"27","Yale","813","1999","Andy Van Etten","D-I","Ivy League",26,20,1,0.564
-"28","Yale","813","1998","Andy Van Etten","D-I","-",24,26,NA,0.48
-"29","Yale","813","1997","Andy Van Etten","D-I","Ivy League",30,22,0,0.577
-"30","Yale","813","1996","Andy Van Etten","D-I","-",18,24,NA,0.429
-"31","Yale","813","1995","Kathy Arendsen","D-I","-",25,19,NA,0.568
-"32","Yale","813","1994","Kathy Arendsen","D-I","-",22,16,NA,0.579
-"33","Yale","813","1993","Kathy Arendsen","D-I","-",31,12,NA,0.721
-"34","Yale","813","1992","Kathy Arendsen","D-I","-",12,26,NA,0.316
-"35","Yale","813","1991","Trish Wodatch","D-I","-",18,19,NA,0.486
-"36","Yale","813","1990","Jane Martindale","D-I","-",13,15,NA,0.464
-"37","Yale","813","1989","Jane Martindale","D-I","-",14,15,NA,0.483
-"38","Yale","813","1988","Jane Martindale","D-I","-",14,26,NA,0.35
-"39","Yale","813","1987","Jane Martindale","D-I","-",20,14,NA,0.588
-"40","Yale","813","1985","","D-I","-",NA,NA,NA,NA
-"41","Yale","813","1984","","D-I","-",NA,NA,NA,NA
-"42","Yale","813","1983","","D-I","-",NA,NA,NA,NA
-"43","Yale","813","1982","","D-I","-",NA,NA,NA,NA
-"44","Yale","813","","","","",680,861,5,0.441
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Laura Ricciardone","Ivy League","0-0-0",0
+"2","2024","Laura Ricciardone","Ivy League","20-26-0",0.435
+"3","2023","Laura Ricciardone","Ivy League","20-23-0",0.465
+"4","2022","Jen Goodwin","Ivy League","11-23-0",0.324
+"5","2021","Jen Goodwin","Ivy League","0-0-0",0
+"6","2020","Jen Goodwin","Ivy League","5-10-0",0.333
+"7","2019","Jen Goodwin","Ivy League","16-27-0",0.372
+"8","2018","Jen Goodwin","Ivy League","10-30-0",0.25
+"9","2017","Jen Goodwin","Ivy League","17-28-0",0.378
+"10","2016","Jen Goodwin","Ivy League","18-31-1",0.37
+"11","2015","Jen Goodwin","Ivy League","11-23-0",0.324
+"12","2014","Jen Goodwin","Ivy League","8-33-0",0.195
+"13","2013","Jen Goodwin","Ivy League","10-37-0",0.213
+"14","2012","Barbara Reinalda","Ivy League","12-34-0",0.261
+"15","2011","Barbara Reinalda","Ivy League","17-25-0",0.405
+"16","2010","Barbara Reinalda","Ivy League","11-28-0",0.282
+"17","2009","Barbara Reinalda","Ivy League","22-22-0",0.5
+"18","2008","Barbara Reinalda","Ivy League","20-25-1",0.446
+"19","2007","Barbara Reinalda","Ivy League","21-21-0",0.5
+"20","2006","Barbara Reinalda","Ivy League","28-22-0",0.56
+"21","2005","Barbara Reinalda","Ivy League","14-28-0",0.333
+"22","2004","Andy Van Etten","Ivy League","30-22-0",0.577
+"23","2003","Andy Van Etten","Ivy League","27-23-0",0.54
+"24","2002","Andy Van Etten","Ivy League","22-22-1",0.5
+"25","2001","Andy Van Etten","Ivy League","24-21-0",0.533
+"26","1900","Andy Van Etten","Ivy League","19-23-1",0.453
+"27","1999","Andy Van Etten","Ivy League","26-20-1",0.564
+"28","1998","Andy Van Etten","-","24-26-0",0.48
+"29","1997","Andy Van Etten","Ivy League","30-22-0",0.577
+"30","1996","Andy Van Etten","-","18-24-0",0.429
+"31","1995","Kathy Arendsen","-","25-19-0",0.568
+"32","1994","Kathy Arendsen","-","22-16-0",0.579
+"33","1993","Kathy Arendsen","-","31-12-0",0.721
+"34","1992","Kathy Arendsen","-","12-26-0",0.316
+"35","1991","Trish Wodatch","-","18-19-0",0.486
+"36","1990","Jane Martindale","-","13-15-0",0.464
+"37","1989","Jane Martindale","-","14-15-0",0.483
+"38","1988","Jane Martindale","-","14-26-0",0.35
+"39","1987","Jane Martindale","-","20-14-0",0.588
+"40","1985","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

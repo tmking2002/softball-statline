@@ -1,54 +1,53 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Minnesota","428","2025","Piper Ritter","D-I","Big Ten",0,5,0,0
-"2","Minnesota","428","2024","Piper Ritter","D-I","Big Ten",28,25,0,0.528
-"3","Minnesota","428","2023","Piper Ritter","D-I","Big Ten",38,19,0,0.667
-"4","Minnesota","428","2022","Piper Ritter","D-I","Big Ten",27,26,1,0.509
-"5","Minnesota","428","2021","Piper Ritter","D-I","Big Ten",31,13,0,0.705
-"6","Minnesota","428","2020","Jamie Trachsel","D-I","Big Ten",15,9,1,0.62
-"7","Minnesota","428","2019","Jamie Trachsel","D-I","Big Ten",46,14,0,0.767
-"8","Minnesota","428","2018","Jamie Trachsel","D-I","Big Ten",41,17,0,0.707
-"9","Minnesota","428","2017","Jessica Allister","D-I","Big Ten",56,5,0,0.918
-"10","Minnesota","428","2016","Jessica Allister","D-I","Big Ten",43,14,0,0.754
-"11","Minnesota","428","2015","Jessica Allister","D-I","Big Ten",49,11,0,0.817
-"12","Minnesota","428","2014","Jessica Allister","D-I","Big Ten",44,12,0,0.786
-"13","Minnesota","428","2013","Jessica Allister","D-I","Big Ten",36,19,0,0.655
-"14","Minnesota","428","2012","Jessica Allister","D-I","Big Ten",31,22,0,0.585
-"15","Minnesota","428","2011","Jessica Allister","D-I","Big Ten",31,24,0,0.564
-"16","Minnesota","428","2010","Lisa Bernstein (16-37)Julie Standering (16-37)","D-I","Big Ten",16,37,0,0.302
-"17","Minnesota","428","2009","Lisa Bernstein (23-32)Julie Standering (23-32)","D-I","Big Ten",23,32,0,0.418
-"18","Minnesota","428","2008","Julie Standering (29-16)Lisa Bernstein (29-16)","D-I","Big Ten",29,16,0,0.644
-"19","Minnesota","428","2007","Lisa Bernstein (24-22)Julie Standering (24-22)","D-I","Big Ten",24,22,0,0.522
-"20","Minnesota","428","2006","Lisa Bernstein (17-33)Julie Standering (17-33)","D-I","Big Ten",17,33,0,0.34
-"21","Minnesota","428","2005","Lisa Bernstein (25-27)Julie Standering (25-27)","D-I","Big Ten",25,27,0,0.481
-"22","Minnesota","428","2004","Lisa Bernstein (33-23)Julie Standering (33-23)","D-I","Big Ten",33,23,0,0.589
-"23","Minnesota","428","2003","Lisa Bernstein (37-21-1)Julie Standering (37-21-1)","D-I","Big Ten",37,21,1,0.636
-"24","Minnesota","428","2002","Lisa Bernstein (38-21)Julie Standering (38-21)","D-I","Big Ten",38,21,0,0.644
-"25","Minnesota","428","2001","Lisa Bernstein (36-22-1)Julie Standering (36-22-1)","D-I","Big Ten",36,22,1,0.619
-"26","Minnesota","428","1900","Lisa Bernstein (31-28)Julie Standering (31-28)","D-I","Big Ten",31,28,0,0.525
-"27","Minnesota","428","1999","Julie Standering (48-20)Lisa Bernstein (48-20)","D-I","Big Ten",48,20,0,0.706
-"28","Minnesota","428","1998","Lisa Bernstein","D-I","-",47,21,NA,0.691
-"29","Minnesota","428","1997","Lisa Bernstein","D-I","Big Ten",37,19,0,0.661
-"30","Minnesota","428","1996","Lisa Bernstein","D-I","-",44,18,NA,0.71
-"31","Minnesota","428","1995","Lisa Bernstein","D-I","-",27,29,NA,0.482
-"32","Minnesota","428","1994","Lisa Bernstein","D-I","-",19,43,NA,0.306
-"33","Minnesota","428","1993","Lisa Bernstein","D-I","-",32,24,NA,0.571
-"34","Minnesota","428","1992","Lisa Bernstein","D-I","-",33,28,1,0.54
-"35","Minnesota","428","1991","Teresa Wilson","D-I","-",48,27,NA,0.64
-"36","Minnesota","428","1990","Teresa Wilson","D-I","-",31,32,NA,0.492
-"37","Minnesota","428","1989","Linda Wells","D-I","-",27,29,NA,0.482
-"38","Minnesota","428","1988","Linda Wells","D-I","-",31,25,NA,0.554
-"39","Minnesota","428","1987","Linda Wells","D-I","-",21,36,NA,0.368
-"40","Minnesota","428","1986","Linda Wells","D-I","-",28,23,NA,0.549
-"41","Minnesota","428","1985","Linda Wells","D-I","-",25,24,NA,0.51
-"42","Minnesota","428","1984","Linda Wells","D-I","-",30,19,NA,0.612
-"43","Minnesota","428","1983","Linda Wells","D-I","-",32,18,NA,0.64
-"44","Minnesota","428","1982","Linda Wells","D-I","-",15,15,NA,0.5
-"45","Minnesota","428","1981","Linda Wells","","-",29,11,NA,0.725
-"46","Minnesota","428","1980","Linda Wells","","-",18,21,1,0.463
-"47","Minnesota","428","1979","Linda Wells","","-",25,8,NA,0.758
-"48","Minnesota","428","1978","Linda Wells","","-",38,14,NA,0.731
-"49","Minnesota","428","1977","Linda Wells","","-",15,8,NA,0.652
-"50","Minnesota","428","1976","Jenny Johnson-Kappes","","-",16,4,NA,0.8
-"51","Minnesota","428","1975","Linda Wells","","-",12,5,NA,0.706
-"52","Minnesota","428","1974","Linda Wells","","-",5,8,NA,0.385
-"53","Minnesota","428","","","","",1558,1046,6,0.598
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Piper Ritter","Big Ten","0-5-0",0
+"2","2024","Piper Ritter","Big Ten","28-25-0",0.528
+"3","2023","Piper Ritter","Big Ten","38-19-0",0.667
+"4","2022","Piper Ritter","Big Ten","27-26-1",0.509
+"5","2021","Piper Ritter","Big Ten","31-13-0",0.705
+"6","2020","Jamie Trachsel","Big Ten","15-9-1",0.62
+"7","2019","Jamie Trachsel","Big Ten","46-14-0",0.767
+"8","2018","Jamie Trachsel","Big Ten","41-17-0",0.707
+"9","2017","Jessica Allister","Big Ten","56-5-0",0.918
+"10","2016","Jessica Allister","Big Ten","43-14-0",0.754
+"11","2015","Jessica Allister","Big Ten","49-11-0",0.817
+"12","2014","Jessica Allister","Big Ten","44-12-0",0.786
+"13","2013","Jessica Allister","Big Ten","36-19-0",0.655
+"14","2012","Jessica Allister","Big Ten","31-22-0",0.585
+"15","2011","Jessica Allister","Big Ten","31-24-0",0.564
+"16","2010","Lisa Bernstein (16-37)Julie Standering (16-37)","Big Ten","16-37-0",0.302
+"17","2009","Lisa Bernstein (23-32)Julie Standering (23-32)","Big Ten","23-32-0",0.418
+"18","2008","Julie Standering (29-16)Lisa Bernstein (29-16)","Big Ten","29-16-0",0.644
+"19","2007","Lisa Bernstein (24-22)Julie Standering (24-22)","Big Ten","24-22-0",0.522
+"20","2006","Lisa Bernstein (17-33)Julie Standering (17-33)","Big Ten","17-33-0",0.34
+"21","2005","Lisa Bernstein (25-27)Julie Standering (25-27)","Big Ten","25-27-0",0.481
+"22","2004","Lisa Bernstein (33-23)Julie Standering (33-23)","Big Ten","33-23-0",0.589
+"23","2003","Lisa Bernstein (37-21-1)Julie Standering (37-21-1)","Big Ten","37-21-1",0.636
+"24","2002","Lisa Bernstein (38-21)Julie Standering (38-21)","Big Ten","38-21-0",0.644
+"25","2001","Lisa Bernstein (36-22-1)Julie Standering (36-22-1)","Big Ten","36-22-1",0.619
+"26","1900","Lisa Bernstein (31-28)Julie Standering (31-28)","Big Ten","31-28-0",0.525
+"27","1999","Julie Standering (48-20)Lisa Bernstein (48-20)","Big Ten","48-20-0",0.706
+"28","1998","Lisa Bernstein","-","47-21-0",0.691
+"29","1997","Lisa Bernstein","Big Ten","37-19-0",0.661
+"30","1996","Lisa Bernstein","-","44-18-0",0.71
+"31","1995","Lisa Bernstein","-","27-29-0",0.482
+"32","1994","Lisa Bernstein","-","19-43-0",0.306
+"33","1993","Lisa Bernstein","-","32-24-0",0.571
+"34","1992","Lisa Bernstein","-","33-28-1",0.54
+"35","1991","Teresa Wilson","-","48-27-0",0.64
+"36","1990","Teresa Wilson","-","31-32-0",0.492
+"37","1989","Linda Wells","-","27-29-0",0.482
+"38","1988","Linda Wells","-","31-25-0",0.554
+"39","1987","Linda Wells","-","21-36-0",0.368
+"40","1986","Linda Wells","-","28-23-0",0.549
+"41","1985","Linda Wells","-","25-24-0",0.51
+"42","1984","Linda Wells","-","30-19-0",0.612
+"43","1983","Linda Wells","-","32-18-0",0.64
+"44","1982","Linda Wells","-","15-15-0",0.5
+"45","1981","Linda Wells","-","29-11-0",0.725
+"46","1980","Linda Wells","-","18-21-1",0.463
+"47","1979","Linda Wells","-","25-8-0",0.758
+"48","1978","Linda Wells","-","38-14-0",0.731
+"49","1977","Linda Wells","-","15-8-0",0.652
+"50","1976","Jenny Johnson-Kappes","-","16-4-0",0.8
+"51","1975","Linda Wells","-","12-5-0",0.706
+"52","1974","Linda Wells","-","5-8-0",0.385

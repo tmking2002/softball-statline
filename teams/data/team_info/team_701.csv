@@ -1,31 +1,30 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Texas Woman's","701","2025","Gay McNutt","D-II","Lone Star",4,0,0,1
-"2","Texas Woman's","701","2024","Gay McNutt","D-II","Lone Star",25,29,0,0.463
-"3","Texas Woman's","701","2023","Gay McNutt","D-II","Lone Star",25,28,0,0.472
-"4","Texas Woman's","701","2022","Amber Barker","D-II","Lone Star",12,33,0,0.267
-"5","Texas Woman's","701","2021","Amber Barker","D-II","Lone Star",7,26,0,0.212
-"6","Texas Woman's","701","2020","Amber Barker","D-II","Lone Star",6,16,0,0.273
-"7","Texas Woman's","701","2019","Amber Barker","D-II","Lone Star",11,29,0,0.275
-"8","Texas Woman's","701","2018","Genny Stidham","D-II","Lone Star",25,20,NA,0.556
-"9","Texas Woman's","701","2017","Genny Stidham","D-II","Lone Star",37,22,0,0.627
-"10","Texas Woman's","701","2016","Genny Stidham","D-II","Lone Star",34,24,0,0.586
-"11","Texas Woman's","701","2015","Genny Stidham","D-II","Lone Star",30,22,2,0.574
-"12","Texas Woman's","701","2014","Genny Stidham","D-II","Lone Star",34,19,0,0.642
-"13","Texas Woman's","701","2013","Richie Bruister","D-II","Lone Star",51,14,0,0.785
-"14","Texas Woman's","701","2012","Richie Bruister","D-II","Lone Star",37,17,0,0.685
-"15","Texas Woman's","701","2011","Richie Bruister","D-II","Lone Star",30,26,0,0.536
-"16","Texas Woman's","701","2010","Richie Bruister","D-II","Lone Star",39,22,0,0.639
-"17","Texas Woman's","701","2009","Richie Bruister","D-II","Lone Star",26,25,0,0.51
-"18","Texas Woman's","701","2008","Randy Porter","D-II","Lone Star",18,42,0,0.3
-"19","Texas Woman's","701","2007","Randy Porter","D-II","Lone Star",25,34,0,0.424
-"20","Texas Woman's","701","2006","Marty Blowers","D-II","Lone Star",25,36,1,0.411
-"21","Texas Woman's","701","2005","Dianne Baker","D-II","Lone Star",21,25,0,0.457
-"22","Texas Woman's","701","2004","Dianne Baker","D-II","Lone Star",40,15,0,0.727
-"23","Texas Woman's","701","2003","Dianne Baker","D-II","Lone Star",36,23,1,0.608
-"24","Texas Woman's","701","2002","Dianne Baker","D-II","Lone Star",43,15,0,0.741
-"25","Texas Woman's","701","2001","Dianne Baker","D-II","-",17,22,NA,0.436
-"26","Texas Woman's","701","1900","Dianne Baker","D-II","-",32,17,NA,0.653
-"27","Texas Woman's","701","1999","Dianne Baker","D-II","-",47,17,NA,0.734
-"28","Texas Woman's","701","1998","Dianne Baker","D-II","-",23,17,NA,0.575
-"29","Texas Woman's","701","1997","Dianne Baker","D-II","-",26,19,1,0.576
-"30","Texas Woman's","701","","","","",786,654,5,0.546
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Gay McNutt","Lone Star","4-0-0",1
+"2","2024","Gay McNutt","Lone Star","25-29-0",0.463
+"3","2023","Gay McNutt","Lone Star","25-28-0",0.472
+"4","2022","Amber Barker","Lone Star","12-33-0",0.267
+"5","2021","Amber Barker","Lone Star","7-26-0",0.212
+"6","2020","Amber Barker","Lone Star","6-16-0",0.273
+"7","2019","Amber Barker","Lone Star","11-29-0",0.275
+"8","2018","Genny Stidham","Lone Star","25-20-0",0.556
+"9","2017","Genny Stidham","Lone Star","37-22-0",0.627
+"10","2016","Genny Stidham","Lone Star","34-24-0",0.586
+"11","2015","Genny Stidham","Lone Star","30-22-2",0.574
+"12","2014","Genny Stidham","Lone Star","34-19-0",0.642
+"13","2013","Richie Bruister","Lone Star","51-14-0",0.785
+"14","2012","Richie Bruister","Lone Star","37-17-0",0.685
+"15","2011","Richie Bruister","Lone Star","30-26-0",0.536
+"16","2010","Richie Bruister","Lone Star","39-22-0",0.639
+"17","2009","Richie Bruister","Lone Star","26-25-0",0.51
+"18","2008","Randy Porter","Lone Star","18-42-0",0.3
+"19","2007","Randy Porter","Lone Star","25-34-0",0.424
+"20","2006","Marty Blowers","Lone Star","25-36-1",0.411
+"21","2005","Dianne Baker","Lone Star","21-25-0",0.457
+"22","2004","Dianne Baker","Lone Star","40-15-0",0.727
+"23","2003","Dianne Baker","Lone Star","36-23-1",0.608
+"24","2002","Dianne Baker","Lone Star","43-15-0",0.741
+"25","2001","Dianne Baker","-","17-22-0",0.436
+"26","1900","Dianne Baker","-","32-17-0",0.653
+"27","1999","Dianne Baker","-","47-17-0",0.734
+"28","1998","Dianne Baker","-","23-17-0",0.575
+"29","1997","Dianne Baker","-","26-19-1",0.576

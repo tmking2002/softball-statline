@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Georgia Tech","255","2025","Aileen Morales","D-I","ACC",1,1,0,0.5
-"2","Georgia Tech","255","2024","Aileen Morales","D-I","ACC",32,23,0,0.582
-"3","Georgia Tech","255","2023","Aileen Morales","D-I","ACC",26,27,0,0.491
-"4","Georgia Tech","255","2022","Aileen Morales","D-I","ACC",38,18,0,0.679
-"5","Georgia Tech","255","2021","Aileen Morales","D-I","ACC",20,26,0,0.435
-"6","Georgia Tech","255","2020","Aileen Morales","D-I","ACC",12,11,0,0.522
-"7","Georgia Tech","255","2019","Aileen Morales","D-I","ACC",31,27,0,0.534
-"8","Georgia Tech","255","2018","Aileen Morales","D-I","ACC",28,26,NA,0.519
-"9","Georgia Tech","255","2017","Shelly Hoerner","D-I","ACC",19,34,0,0.358
-"10","Georgia Tech","255","2016","Shelly Hoerner","D-I","ACC",22,33,0,0.4
-"11","Georgia Tech","255","2015","Shelly Hoerner","D-I","ACC",16,34,0,0.32
-"12","Georgia Tech","255","2014","Shelly Hoerner","D-I","ACC",23,24,0,0.489
-"13","Georgia Tech","255","2013","Sharon Perkins","D-I","ACC",25,30,0,0.455
-"14","Georgia Tech","255","2012","Sharon Perkins","D-I","ACC",37,23,0,0.617
-"15","Georgia Tech","255","2011","Sharon Perkins","D-I","ACC",45,12,0,0.789
-"16","Georgia Tech","255","2010","Sharon Perkins","D-I","ACC",51,11,0,0.823
-"17","Georgia Tech","255","2009","Sharon Perkins","D-I","ACC",46,15,0,0.754
-"18","Georgia Tech","255","2008","Sharon Perkins","D-I","ACC",32,31,0,0.508
-"19","Georgia Tech","255","2007","Sharon Perkins","D-I","ACC",54,16,0,0.771
-"20","Georgia Tech","255","2006","Ehren Earleywine","D-I","ACC",48,22,0,0.686
-"21","Georgia Tech","255","2005","Ehren Earleywine","D-I","ACC",51,14,0,0.785
-"22","Georgia Tech","255","2004","Ehren Earleywine","D-I","ACC",47,19,0,0.712
-"23","Georgia Tech","255","2003","Kate Madden","D-I","ACC",37,25,0,0.597
-"24","Georgia Tech","255","2002","Kate Madden","D-I","ACC",52,18,0,0.743
-"25","Georgia Tech","255","2001","Kate Madden","D-I","ACC",22,29,0,0.431
-"26","Georgia Tech","255","1900","Kate Madden","D-I","ACC",25,33,0,0.431
-"27","Georgia Tech","255","1999","Kate Madden","D-I","ACC",22,38,0,0.367
-"28","Georgia Tech","255","1998","Regina Tomaselli","D-I","-",24,32,NA,0.429
-"29","Georgia Tech","255","1997","Regina Tomaselli","D-I","ACC",22,34,0,0.393
-"30","Georgia Tech","255","1996","Regina Tomaselli","D-I","-",32,20,NA,0.615
-"31","Georgia Tech","255","1995","Regina Tomaselli","D-I","-",30,25,NA,0.545
-"32","Georgia Tech","255","1994","Regina Tomaselli","D-I","-",35,23,NA,0.603
-"33","Georgia Tech","255","1993","Regina Tomaselli","D-I","-",28,25,NA,0.528
-"34","Georgia Tech","255","1992","Regina Tomaselli","D-I","-",30,22,NA,0.577
-"35","Georgia Tech","255","1991","Regina Tomaselli","D-I","-",38,12,1,0.755
-"36","Georgia Tech","255","1990","Nick Mazza","D-I","-",15,34,NA,0.306
-"37","Georgia Tech","255","1989","","D-I","-",NA,NA,NA,NA
-"38","Georgia Tech","255","1988","","D-I","-",NA,NA,NA,NA
-"39","Georgia Tech","255","1987","","D-I","-",NA,NA,NA,NA
-"40","Georgia Tech","255","1986","","D-I","-",NA,NA,NA,NA
-"41","Georgia Tech","255","1985","","D-I","-",NA,NA,NA,NA
-"42","Georgia Tech","255","","","","",1116,847,1,0.568
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Aileen Morales","ACC","1-1-0",0.5
+"2","2024","Aileen Morales","ACC","32-23-0",0.582
+"3","2023","Aileen Morales","ACC","26-27-0",0.491
+"4","2022","Aileen Morales","ACC","38-18-0",0.679
+"5","2021","Aileen Morales","ACC","20-26-0",0.435
+"6","2020","Aileen Morales","ACC","12-11-0",0.522
+"7","2019","Aileen Morales","ACC","31-27-0",0.534
+"8","2018","Aileen Morales","ACC","28-26-0",0.519
+"9","2017","Shelly Hoerner","ACC","19-34-0",0.358
+"10","2016","Shelly Hoerner","ACC","22-33-0",0.4
+"11","2015","Shelly Hoerner","ACC","16-34-0",0.32
+"12","2014","Shelly Hoerner","ACC","23-24-0",0.489
+"13","2013","Sharon Perkins","ACC","25-30-0",0.455
+"14","2012","Sharon Perkins","ACC","37-23-0",0.617
+"15","2011","Sharon Perkins","ACC","45-12-0",0.789
+"16","2010","Sharon Perkins","ACC","51-11-0",0.823
+"17","2009","Sharon Perkins","ACC","46-15-0",0.754
+"18","2008","Sharon Perkins","ACC","32-31-0",0.508
+"19","2007","Sharon Perkins","ACC","54-16-0",0.771
+"20","2006","Ehren Earleywine","ACC","48-22-0",0.686
+"21","2005","Ehren Earleywine","ACC","51-14-0",0.785
+"22","2004","Ehren Earleywine","ACC","47-19-0",0.712
+"23","2003","Kate Madden","ACC","37-25-0",0.597
+"24","2002","Kate Madden","ACC","52-18-0",0.743
+"25","2001","Kate Madden","ACC","22-29-0",0.431
+"26","1900","Kate Madden","ACC","25-33-0",0.431
+"27","1999","Kate Madden","ACC","22-38-0",0.367
+"28","1998","Regina Tomaselli","-","24-32-0",0.429
+"29","1997","Regina Tomaselli","ACC","22-34-0",0.393
+"30","1996","Regina Tomaselli","-","32-20-0",0.615
+"31","1995","Regina Tomaselli","-","30-25-0",0.545
+"32","1994","Regina Tomaselli","-","35-23-0",0.603
+"33","1993","Regina Tomaselli","-","28-25-0",0.528
+"34","1992","Regina Tomaselli","-","30-22-0",0.577
+"35","1991","Regina Tomaselli","-","38-12-1",0.755
+"36","1990","Nick Mazza","-","15-34-0",0.306
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

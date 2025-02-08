@@ -1,13 +1,12 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Tex. A&M-Commerce","199","2025","Brittany Miller","D-I","Southland",1,1,0,0.5
-"2","Tex. A&M-Commerce","199","2024","Brittany Miller","D-I","Southland",9,45,0,0.167
-"3","Tex. A&M-Commerce","199","2023","Brittany Miller","D-I","Southland",9,39,0,0.188
-"4","Tex. A&M-Commerce","199","2022","Gay McNutt","D-II","Lone Star",43,15,0,0.741
-"5","Tex. A&M-Commerce","199","2021","Richie Bruister","D-II","Lone Star",33,18,0,0.647
-"6","Tex. A&M-Commerce","199","2020","Richie Bruister","D-II","Lone Star",16,7,0,0.696
-"7","Tex. A&M-Commerce","199","2019","Richie Bruister","D-II","Lone Star",40,16,0,0.714
-"8","Tex. A&M-Commerce","199","2018","Richie Bruister","D-II","Lone Star",42,12,NA,0.778
-"9","Tex. A&M-Commerce","199","2017","Richie Bruister","D-II","Lone Star",34,20,0,0.63
-"10","Tex. A&M-Commerce","199","2016","Richie Bruister","D-II","Lone Star",37,19,0,0.661
-"11","Tex. A&M-Commerce","199","2015","Richie Bruister","D-II","Lone Star",29,24,0,0.547
-"12","Tex. A&M-Commerce","199","","","","",293,216,0,0.576
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Brittany Miller","Southland","1-1-0",0.5
+"2","2024","Brittany Miller","Southland","9-45-0",0.167
+"3","2023","Brittany Miller","Southland","9-39-0",0.188
+"4","2022","Gay McNutt","Lone Star","43-15-0",0.741
+"5","2021","Richie Bruister","Lone Star","33-18-0",0.647
+"6","2020","Richie Bruister","Lone Star","16-7-0",0.696
+"7","2019","Richie Bruister","Lone Star","40-16-0",0.714
+"8","2018","Richie Bruister","Lone Star","42-12-0",0.778
+"9","2017","Richie Bruister","Lone Star","34-20-0",0.63
+"10","2016","Richie Bruister","Lone Star","37-19-0",0.661
+"11","2015","Richie Bruister","Lone Star","29-24-0",0.547

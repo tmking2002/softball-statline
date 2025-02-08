@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Dickinson","185","2025","Matt Richwine","D-III","Centennial",0,0,0,0
-"2","Dickinson","185","2024","Matt Richwine","D-III","Centennial",11,21,0,0.344
-"3","Dickinson","185","2023","Matt Richwine","D-III","Centennial",23,15,0,0.605
-"4","Dickinson","185","2022","Matt Richwine","D-III","Centennial",11,24,0,0.314
-"5","Dickinson","185","2021","Matt Richwine","D-III","Centennial",2,7,0,0.222
-"6","Dickinson","185","2020","Matt Richwine","D-III","Centennial",2,5,0,0.286
-"7","Dickinson","185","2019","Matt Richwine","D-III","Centennial",26,17,0,0.605
-"8","Dickinson","185","2018","Matt Richwine","D-III","Centennial",17,17,NA,0.5
-"9","Dickinson","185","2017","Matt Richwine","D-III","Centennial",10,26,0,0.278
-"10","Dickinson","185","2016","Matt Richwine","D-III","Centennial",15,24,0,0.385
-"11","Dickinson","185","2015","Matt Richwine","D-III","Centennial",15,20,0,0.429
-"12","Dickinson","185","2014","Matt Richwine","D-III","Centennial",14,20,0,0.412
-"13","Dickinson","185","2013","Matt Richwine","D-III","Centennial",15,22,0,0.405
-"14","Dickinson","185","2012","Matt Richwine","D-III","Centennial",12,26,0,0.316
-"15","Dickinson","185","2011","Matt Richwine","D-III","Centennial",20,17,0,0.541
-"16","Dickinson","185","2010","Matt Richwine","D-III","Centennial",19,19,0,0.5
-"17","Dickinson","185","2009","Matt Richwine","D-III","Centennial",17,14,0,0.548
-"18","Dickinson","185","2008","Matt Richwine","D-III","Centennial",26,16,0,0.619
-"19","Dickinson","185","2007","Matt Richwine","D-III","Centennial",17,14,0,0.548
-"20","Dickinson","185","2006","Matt Richwine","D-III","Centennial",16,24,0,0.4
-"21","Dickinson","185","2005","Matt Richwine","D-III","Centennial",10,24,0,0.294
-"22","Dickinson","185","2004","Matt Richwine","D-III","Centennial",12,20,0,0.375
-"23","Dickinson","185","2003","Matt Richwine","D-III","Centennial",10,24,0,0.294
-"24","Dickinson","185","2002","Matt Richwine","D-III","Centennial",11,22,0,0.333
-"25","Dickinson","185","2001","Brenda Clements","D-III","-",8,26,NA,0.235
-"26","Dickinson","185","1900","Brenda Clements","D-III","-",15,15,NA,0.5
-"27","Dickinson","185","1999","","D-III","-",NA,NA,NA,NA
-"28","Dickinson","185","1998","Moira Long","D-III","-",20,10,NA,0.667
-"29","Dickinson","185","1997","Anne Haynam","D-III","-",8,26,0,0.235
-"30","Dickinson","185","1996","Pam Mehrens","D-III","-",21,10,1,0.672
-"31","Dickinson","185","1995","Cindee Trapp","D-III","-",26,15,NA,0.634
-"32","Dickinson","185","1994","Jeryl Neff","D-III","-",7,24,NA,0.226
-"33","Dickinson","185","1993","Jeryl Neff","D-III","-",11,9,NA,0.55
-"34","Dickinson","185","1992","Michelle Delloso","D-III","-",14,15,0,0.483
-"35","Dickinson","185","1991","","D-III","-",NA,NA,NA,NA
-"36","Dickinson","185","1990","","D-III","-",NA,NA,NA,NA
-"37","Dickinson","185","1989","","D-III","-",NA,NA,NA,NA
-"38","Dickinson","185","1985","","D-III","-",NA,NA,NA,NA
-"39","Dickinson","185","1981","","","-",NA,NA,NA,NA
-"40","Dickinson","185","","","","",461,588,1,0.44
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Matt Richwine","Centennial","0-0-0",0
+"2","2024","Matt Richwine","Centennial","11-21-0",0.344
+"3","2023","Matt Richwine","Centennial","23-15-0",0.605
+"4","2022","Matt Richwine","Centennial","11-24-0",0.314
+"5","2021","Matt Richwine","Centennial","2-7-0",0.222
+"6","2020","Matt Richwine","Centennial","2-5-0",0.286
+"7","2019","Matt Richwine","Centennial","26-17-0",0.605
+"8","2018","Matt Richwine","Centennial","17-17-0",0.5
+"9","2017","Matt Richwine","Centennial","10-26-0",0.278
+"10","2016","Matt Richwine","Centennial","15-24-0",0.385
+"11","2015","Matt Richwine","Centennial","15-20-0",0.429
+"12","2014","Matt Richwine","Centennial","14-20-0",0.412
+"13","2013","Matt Richwine","Centennial","15-22-0",0.405
+"14","2012","Matt Richwine","Centennial","12-26-0",0.316
+"15","2011","Matt Richwine","Centennial","20-17-0",0.541
+"16","2010","Matt Richwine","Centennial","19-19-0",0.5
+"17","2009","Matt Richwine","Centennial","17-14-0",0.548
+"18","2008","Matt Richwine","Centennial","26-16-0",0.619
+"19","2007","Matt Richwine","Centennial","17-14-0",0.548
+"20","2006","Matt Richwine","Centennial","16-24-0",0.4
+"21","2005","Matt Richwine","Centennial","10-24-0",0.294
+"22","2004","Matt Richwine","Centennial","12-20-0",0.375
+"23","2003","Matt Richwine","Centennial","10-24-0",0.294
+"24","2002","Matt Richwine","Centennial","11-22-0",0.333
+"25","2001","Brenda Clements","-","8-26-0",0.235
+"26","1900","Brenda Clements","-","15-15-0",0.5
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Moira Long","-","20-10-0",0.667
+"29","1997","Anne Haynam","-","8-26-0",0.235
+"30","1996","Pam Mehrens","-","21-10-1",0.672
+"31","1995","Cindee Trapp","-","26-15-0",0.634
+"32","1994","Jeryl Neff","-","7-24-0",0.226
+"33","1993","Jeryl Neff","-","11-9-0",0.55
+"34","1992","Michelle Delloso","-","14-15-0",0.483
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1985","","-","NA-NA-0",NA
+"39","1981","","-","NA-NA-0",NA

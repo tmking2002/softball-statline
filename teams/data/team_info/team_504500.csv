@@ -1,18 +1,17 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Francis (IN)","504500","2024","",NA,"-",NA,NA,NA,0
-"2","St. Francis (IN)","504500","2017","",NA,"-",NA,NA,NA,NA
-"3","St. Francis (IN)","504500","2016","",NA,"-",NA,NA,NA,NA
-"4","St. Francis (IN)","504500","2015","",NA,"-",NA,NA,NA,NA
-"5","St. Francis (IN)","504500","2012","",NA,"-",NA,NA,NA,NA
-"6","St. Francis (IN)","504500","2010","",NA,"-",NA,NA,NA,NA
-"7","St. Francis (IN)","504500","2009","",NA,"-",NA,NA,NA,NA
-"8","St. Francis (IN)","504500","2008","",NA,"-",NA,NA,NA,NA
-"9","St. Francis (IN)","504500","2007","",NA,"-",NA,NA,NA,NA
-"10","St. Francis (IN)","504500","2006","",NA,"-",NA,NA,NA,NA
-"11","St. Francis (IN)","504500","2005","",NA,"-",NA,NA,NA,NA
-"12","St. Francis (IN)","504500","2004","",NA,"-",NA,NA,NA,NA
-"13","St. Francis (IN)","504500","2003","Ken Nuber",NA,"-",19,23,0,0.452
-"14","St. Francis (IN)","504500","2002","Ken Nuber",NA,"-",11,21,0,0.344
-"15","St. Francis (IN)","504500","2001","Ken Nuber",NA,"-",23,9,0,0.719
-"16","St. Francis (IN)","504500","1900","Ken Nuber",NA,"-",22,22,0,0.5
-"17","St. Francis (IN)","504500","","",NA,"",75,75,0,0.5
+"","season","head_coach","conference","record","win_perc"
+"1","2024","","-","NA-NA-0",0
+"2","2017","","-","NA-NA-0",NA
+"3","2016","","-","NA-NA-0",NA
+"4","2015","","-","NA-NA-0",NA
+"5","2012","","-","NA-NA-0",NA
+"6","2010","","-","NA-NA-0",NA
+"7","2009","","-","NA-NA-0",NA
+"8","2008","","-","NA-NA-0",NA
+"9","2007","","-","NA-NA-0",NA
+"10","2006","","-","NA-NA-0",NA
+"11","2005","","-","NA-NA-0",NA
+"12","2004","","-","NA-NA-0",NA
+"13","2003","Ken Nuber","-","19-23-0",0.452
+"14","2002","Ken Nuber","-","11-21-0",0.344
+"15","2001","Ken Nuber","-","23-9-0",0.719
+"16","1900","Ken Nuber","-","22-22-0",0.5

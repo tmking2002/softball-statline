@@ -1,14 +1,13 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Pitt.-Johnstown","546","2025","Niki Pecora","D-II","PSAC",0,0,0,0
-"2","Pitt.-Johnstown","546","2024","Niki Pecora","D-II","PSAC",7,35,0,0.167
-"3","Pitt.-Johnstown","546","2023","Niki Pecora","D-II","PSAC",15,29,0,0.341
-"4","Pitt.-Johnstown","546","2022","Niki Pecora","D-II","PSAC",18,21,0,0.462
-"5","Pitt.-Johnstown","546","2021","Niki Pecora","D-II","PSAC",9,27,0,0.25
-"6","Pitt.-Johnstown","546","2020","Niki Pecora","D-II","PSAC",5,4,0,0.556
-"7","Pitt.-Johnstown","546","2019","Niki Pecora","D-II","PSAC",19,19,0,0.5
-"8","Pitt.-Johnstown","546","2018","Niki Pecora","D-II","PSAC",13,23,NA,0.361
-"9","Pitt.-Johnstown","546","2017","Niki Pecora","D-II","PSAC",15,23,0,0.395
-"10","Pitt.-Johnstown","546","2016","Niki Pecora","D-II","PSAC",10,23,0,0.303
-"11","Pitt.-Johnstown","546","2015","Sabrina Lane","D-II","PSAC",7,30,0,0.189
-"12","Pitt.-Johnstown","546","2014","","D-II","PSAC",NA,NA,NA,NA
-"13","Pitt.-Johnstown","546","","","","",118,234,0,0.335
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Niki Pecora","PSAC","0-0-0",0
+"2","2024","Niki Pecora","PSAC","7-35-0",0.167
+"3","2023","Niki Pecora","PSAC","15-29-0",0.341
+"4","2022","Niki Pecora","PSAC","18-21-0",0.462
+"5","2021","Niki Pecora","PSAC","9-27-0",0.25
+"6","2020","Niki Pecora","PSAC","5-4-0",0.556
+"7","2019","Niki Pecora","PSAC","19-19-0",0.5
+"8","2018","Niki Pecora","PSAC","13-23-0",0.361
+"9","2017","Niki Pecora","PSAC","15-23-0",0.395
+"10","2016","Niki Pecora","PSAC","10-23-0",0.303
+"11","2015","Sabrina Lane","PSAC","7-30-0",0.189
+"12","2014","","PSAC","NA-NA-0",NA

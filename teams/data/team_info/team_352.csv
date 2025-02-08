@@ -1,52 +1,51 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Lehigh","352","2025","Fran Troyan","D-I","Patriot",0,2,0,0
-"2","Lehigh","352","2024","Fran Troyan","D-I","Patriot",32,20,0,0.615
-"3","Lehigh","352","2023","Fran Troyan","D-I","Patriot",40,14,0,0.741
-"4","Lehigh","352","2022","Fran Troyan","D-I","Patriot",31,20,1,0.606
-"5","Lehigh","352","2021","Fran Troyan","D-I","Patriot",18,16,0,0.529
-"6","Lehigh","352","2020","Fran Troyan","D-I","Patriot",8,9,0,0.471
-"7","Lehigh","352","2019","Fran Troyan","D-I","Patriot",27,28,0,0.491
-"8","Lehigh","352","2018","Fran Troyan","D-I","Patriot",24,26,1,0.48
-"9","Lehigh","352","2017","Fran Troyan","D-I","Patriot",36,20,0,0.643
-"10","Lehigh","352","2016","Fran Troyan","D-I","Patriot",36,16,0,0.692
-"11","Lehigh","352","2015","Fran Troyan","D-I","Patriot",40,9,0,0.816
-"12","Lehigh","352","2014","Fran Troyan","D-I","Patriot",30,20,0,0.6
-"13","Lehigh","352","2013","Fran Troyan","D-I","Patriot",39,18,1,0.681
-"14","Lehigh","352","2012","Fran Troyan","D-I","Patriot",40,19,0,0.678
-"15","Lehigh","352","2011","Fran Troyan","D-I","Patriot",33,23,0,0.589
-"16","Lehigh","352","2010","Fran Troyan","D-I","Patriot",31,19,0,0.62
-"17","Lehigh","352","2009","Fran Troyan","D-I","Patriot",38,18,1,0.675
-"18","Lehigh","352","2008","Fran Troyan","D-I","Patriot",39,17,1,0.693
-"19","Lehigh","352","2007","Fran Troyan","D-I","Patriot",35,18,1,0.657
-"20","Lehigh","352","2006","Fran Troyan","D-I","Patriot",43,14,0,0.754
-"21","Lehigh","352","2005","Fran Troyan","D-I","Patriot",41,10,0,0.804
-"22","Lehigh","352","2004","Fran Troyan","D-I","Patriot",40,17,2,0.695
-"23","Lehigh","352","2003","Fran Troyan","D-I","Patriot",39,10,0,0.796
-"24","Lehigh","352","2002","Fran Troyan","D-I","Patriot",36,16,0,0.692
-"25","Lehigh","352","2001","Fran Troyan","D-I","Patriot",39,15,0,0.722
-"26","Lehigh","352","1900","Fran Troyan","D-I","Patriot",26,23,0,0.531
-"27","Lehigh","352","1999","Fran Troyan","D-I","Patriot",21,30,0,0.412
-"28","Lehigh","352","1998","Fran Troyan","D-I","-",23,29,NA,0.442
-"29","Lehigh","352","1997","Fran Troyan","D-I","Patriot",21,20,0,0.512
-"30","Lehigh","352","1996","Fran Troyan","D-I","-",33,14,NA,0.702
-"31","Lehigh","352","1995","Sue Troyan","D-I","-",38,12,NA,0.76
-"32","Lehigh","352","1994","Sue Troyan","D-I","-",28,17,NA,0.622
-"33","Lehigh","352","1993","Sue Troyan","D-I","-",29,15,NA,0.659
-"34","Lehigh","352","1992","Sue Troyan","D-I","-",21,21,NA,0.5
-"35","Lehigh","352","1991","Sue Troyan","D-I","-",10,25,1,0.292
-"36","Lehigh","352","1990","Tammy Danner","D-I","-",7,28,NA,0.2
-"37","Lehigh","352","1989","Tammy Danner","D-I","-",15,23,NA,0.395
-"38","Lehigh","352","1988","Tammy Danner","D-I","-",18,23,NA,0.439
-"39","Lehigh","352","1987","Tammy Danner","D-I","-",11,28,NA,0.282
-"40","Lehigh","352","1986","","D-I","-",NA,NA,NA,NA
-"41","Lehigh","352","1985","","D-I","-",NA,NA,NA,NA
-"42","Lehigh","352","1984","","D-I","-",NA,NA,NA,NA
-"43","Lehigh","352","1983","","D-I","-",NA,NA,NA,NA
-"44","Lehigh","352","1982","","D-I","-",NA,NA,NA,NA
-"45","Lehigh","352","1981","","D-I","-",NA,NA,NA,NA
-"46","Lehigh","352","1980","","D-I","-",NA,NA,NA,NA
-"47","Lehigh","352","1979","","D-I","-",NA,NA,NA,NA
-"48","Lehigh","352","1978","Tom Thompson","D-I","-",7,5,NA,0.583
-"49","Lehigh","352","1977","Tom Thompson","D-I","-",7,2,NA,0.778
-"50","Lehigh","352","1976","Tom Thompson","D-I","-",4,3,NA,0.571
-"51","Lehigh","352","","","","",1134,732,9,0.607
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Fran Troyan","Patriot","0-2-0",0
+"2","2024","Fran Troyan","Patriot","32-20-0",0.615
+"3","2023","Fran Troyan","Patriot","40-14-0",0.741
+"4","2022","Fran Troyan","Patriot","31-20-1",0.606
+"5","2021","Fran Troyan","Patriot","18-16-0",0.529
+"6","2020","Fran Troyan","Patriot","8-9-0",0.471
+"7","2019","Fran Troyan","Patriot","27-28-0",0.491
+"8","2018","Fran Troyan","Patriot","24-26-1",0.48
+"9","2017","Fran Troyan","Patriot","36-20-0",0.643
+"10","2016","Fran Troyan","Patriot","36-16-0",0.692
+"11","2015","Fran Troyan","Patriot","40-9-0",0.816
+"12","2014","Fran Troyan","Patriot","30-20-0",0.6
+"13","2013","Fran Troyan","Patriot","39-18-1",0.681
+"14","2012","Fran Troyan","Patriot","40-19-0",0.678
+"15","2011","Fran Troyan","Patriot","33-23-0",0.589
+"16","2010","Fran Troyan","Patriot","31-19-0",0.62
+"17","2009","Fran Troyan","Patriot","38-18-1",0.675
+"18","2008","Fran Troyan","Patriot","39-17-1",0.693
+"19","2007","Fran Troyan","Patriot","35-18-1",0.657
+"20","2006","Fran Troyan","Patriot","43-14-0",0.754
+"21","2005","Fran Troyan","Patriot","41-10-0",0.804
+"22","2004","Fran Troyan","Patriot","40-17-2",0.695
+"23","2003","Fran Troyan","Patriot","39-10-0",0.796
+"24","2002","Fran Troyan","Patriot","36-16-0",0.692
+"25","2001","Fran Troyan","Patriot","39-15-0",0.722
+"26","1900","Fran Troyan","Patriot","26-23-0",0.531
+"27","1999","Fran Troyan","Patriot","21-30-0",0.412
+"28","1998","Fran Troyan","-","23-29-0",0.442
+"29","1997","Fran Troyan","Patriot","21-20-0",0.512
+"30","1996","Fran Troyan","-","33-14-0",0.702
+"31","1995","Sue Troyan","-","38-12-0",0.76
+"32","1994","Sue Troyan","-","28-17-0",0.622
+"33","1993","Sue Troyan","-","29-15-0",0.659
+"34","1992","Sue Troyan","-","21-21-0",0.5
+"35","1991","Sue Troyan","-","10-25-1",0.292
+"36","1990","Tammy Danner","-","7-28-0",0.2
+"37","1989","Tammy Danner","-","15-23-0",0.395
+"38","1988","Tammy Danner","-","18-23-0",0.439
+"39","1987","Tammy Danner","-","11-28-0",0.282
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA
+"47","1979","","-","NA-NA-0",NA
+"48","1978","Tom Thompson","-","7-5-0",0.583
+"49","1977","Tom Thompson","-","7-2-0",0.778
+"50","1976","Tom Thompson","-","4-3-0",0.571

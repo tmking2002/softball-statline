@@ -1,37 +1,18 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Cobleskill St.","30083","2025","Morgan Flamholtz","D-III","North Atlantic",0,0,0,0
-"2","Cobleskill St.","30083","2024","Morgan Flamholtz","D-III","North Atlantic",19,15,0,0.559
-"3","Cobleskill St.","30083","2023","Morgan Flamholtz","D-III","North Atlantic",11,25,0,0.306
-"4","Cobleskill St.","30083","2022","Liz Neubinski","D-III","North Atlantic",15,15,0,0.5
-"5","Cobleskill St.","30083","2021","Liz Neubinski","D-III","North Atlantic",7,7,0,0.5
-"6","Cobleskill St.","30083","2020","Liz Neubinski","D-III","United East",NA,NA,NA,0
-"7","Cobleskill St.","30083","2019","Liz Neubinski","D-III","United East",15,17,0,0.469
-"8","Cobleskill St.","30083","2018","Michael Jorgensen","D-III","United East",9,18,NA,0.333
-"9","Cobleskill St.","30083","2017","Michael Jorgensen","D-III","United East",3,27,0,0.1
-"10","Cobleskill St.","30083","2016","Michael Jorgensen","D-III","United East",2,24,0,0.077
-"11","Cobleskill St.","30083","2015","Michael Jorgensen","D-III","United East",21,8,0,0.724
-"12","Cobleskill St.","30083","2014","Michael Jorgensen","D-III","United East",18,10,0,0.643
-"13","Cobleskill St.","30083","2013","Michael Jorgensen","D-III","United East",18,18,0,0.5
-"14","Cobleskill St.","30083","2012","Mary Irving","D-III","United East",13,21,0,0.382
-"15","Cobleskill St.","30083","2011","Mary Irving","D-III","United East",3,21,0,0.125
-"16","Cobleskill St.","30083","2010","Mary Irving","D-III","United East",6,28,0,0.176
-"17","Cobleskill St.","30083","2009","Mary Irving","D-III","United East",8,17,0,0.32
-"18","Cobleskill St.","30083","","","","",168,271,0,0.383
-"19","SUNY Cobleskill","30083","2025","Morgan Flamholtz","D-III","North Atlantic",0,0,0,0
-"20","SUNY Cobleskill","30083","2024","Morgan Flamholtz","D-III","North Atlantic",19,15,0,0.559
-"21","SUNY Cobleskill","30083","2023","Morgan Flamholtz","D-III","North Atlantic",11,25,0,0.306
-"22","SUNY Cobleskill","30083","2022","Liz Neubinski","D-III","North Atlantic",15,15,0,0.5
-"23","SUNY Cobleskill","30083","2021","Liz Neubinski","D-III","North Atlantic",7,7,0,0.5
-"24","SUNY Cobleskill","30083","2020","Liz Neubinski","D-III","United East",NA,NA,NA,0
-"25","SUNY Cobleskill","30083","2019","Liz Neubinski","D-III","United East",15,17,0,0.469
-"26","SUNY Cobleskill","30083","2018","Michael Jorgensen","D-III","United East",9,18,NA,0.333
-"27","SUNY Cobleskill","30083","2017","Michael Jorgensen","D-III","United East",3,27,0,0.1
-"28","SUNY Cobleskill","30083","2016","Michael Jorgensen","D-III","United East",2,24,0,0.077
-"29","SUNY Cobleskill","30083","2015","Michael Jorgensen","D-III","United East",21,8,0,0.724
-"30","SUNY Cobleskill","30083","2014","Michael Jorgensen","D-III","United East",18,10,0,0.643
-"31","SUNY Cobleskill","30083","2013","Michael Jorgensen","D-III","United East",18,18,0,0.5
-"32","SUNY Cobleskill","30083","2012","Mary Irving","D-III","United East",13,21,0,0.382
-"33","SUNY Cobleskill","30083","2011","Mary Irving","D-III","United East",3,21,0,0.125
-"34","SUNY Cobleskill","30083","2010","Mary Irving","D-III","United East",6,28,0,0.176
-"35","SUNY Cobleskill","30083","2009","Mary Irving","D-III","United East",8,17,0,0.32
-"36","SUNY Cobleskill","30083","","","","",168,271,0,0.383
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Morgan Flamholtz","North Atlantic","0-0-0",0
+"2","2024","Morgan Flamholtz","North Atlantic","19-15-0",0.559
+"3","2023","Morgan Flamholtz","North Atlantic","11-25-0",0.306
+"4","2022","Liz Neubinski","North Atlantic","15-15-0",0.5
+"5","2021","Liz Neubinski","North Atlantic","7-7-0",0.5
+"6","2020","Liz Neubinski","United East","NA-NA-0",0
+"7","2019","Liz Neubinski","United East","15-17-0",0.469
+"8","2018","Michael Jorgensen","United East","9-18-0",0.333
+"9","2017","Michael Jorgensen","United East","3-27-0",0.1
+"10","2016","Michael Jorgensen","United East","2-24-0",0.077
+"11","2015","Michael Jorgensen","United East","21-8-0",0.724
+"12","2014","Michael Jorgensen","United East","18-10-0",0.643
+"13","2013","Michael Jorgensen","United East","18-18-0",0.5
+"14","2012","Mary Irving","United East","13-21-0",0.382
+"15","2011","Mary Irving","United East","3-21-0",0.125
+"16","2010","Mary Irving","United East","6-28-0",0.176
+"17","2009","Mary Irving","United East","8-17-0",0.32

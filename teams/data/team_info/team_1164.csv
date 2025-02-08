@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Lakeland","1164","2025","Kayla Bryant","D-III","NACC",0,0,0,0
-"2","Lakeland","1164","2024","Tammy Utley","D-III","NACC",35,10,0,0.778
-"3","Lakeland","1164","2023","Tammy Utley","D-III","NACC",14,22,0,0.389
-"4","Lakeland","1164","2022","Tammy Utley","D-III","NACC",18,15,0,0.545
-"5","Lakeland","1164","2021","Tammy Utley","D-III","NACC",12,25,1,0.329
-"6","Lakeland","1164","2020","Tammy Utley","D-III","NACC",5,5,0,0.5
-"7","Lakeland","1164","2019","Tammy Utley","D-III","NACC",14,24,0,0.368
-"8","Lakeland","1164","2018","Tammy Utley","D-III","NACC",11,25,NA,0.306
-"9","Lakeland","1164","2017","Hailey Cavanagh","D-III","NACC",16,24,0,0.4
-"10","Lakeland","1164","2016","Hailey Cavanagh","D-III","NACC",21,17,0,0.553
-"11","Lakeland","1164","2015","Hailey Cavanagh","D-III","NACC",19,21,0,0.475
-"12","Lakeland","1164","2014","Hailey Cavanagh","D-III","NACC",14,22,0,0.389
-"13","Lakeland","1164","2013","Hailey Cavanagh","D-III","NACC",13,24,0,0.351
-"14","Lakeland","1164","2012","Chad Buchmann","D-III","NACC",20,19,0,0.513
-"15","Lakeland","1164","2011","Chad Buchmann","D-III","NACC",15,26,0,0.366
-"16","Lakeland","1164","2010","Chad Buchmann","D-III","NACC",27,18,0,0.6
-"17","Lakeland","1164","2009","Chad Buchmann","D-III","NACC",30,10,0,0.75
-"18","Lakeland","1164","2008","Chad Buchmann","D-III","NACC",17,20,0,0.459
-"19","Lakeland","1164","2007","Chad Buchmann","D-III","NACC",27,12,0,0.692
-"20","Lakeland","1164","2006","Chad Buchmann","D-III","NACC",18,21,0,0.462
-"21","Lakeland","1164","2005","Chad Buchmann","D-III","Lake Michigan",10,27,0,0.27
-"22","Lakeland","1164","2004","","D-III","Lake Michigan",16,22,0,0.421
-"23","Lakeland","1164","2003","","D-III","Lake Michigan",17,21,0,0.447
-"24","Lakeland","1164","2002","","D-III","Lake Michigan",26,28,2,0.482
-"25","Lakeland","1164","2001","","D-III","-",NA,NA,NA,NA
-"26","Lakeland","1164","1900","Stacey Remington","D-III","-",18,13,NA,0.581
-"27","Lakeland","1164","1999","Stacey Remington","D-III","-",23,11,NA,0.676
-"28","Lakeland","1164","1998","Stacey Remington","D-III","-",16,12,NA,0.571
-"29","Lakeland","1164","1997","Jane Bouche","D-III","-",18,15,NA,0.545
-"30","Lakeland","1164","1996","Jane Bouche","D-III","-",22,8,NA,0.733
-"31","Lakeland","1164","1995","Jane Bouche","D-III","-",18,10,NA,0.643
-"32","Lakeland","1164","1994","Jane Bouche","","-",23,8,NA,0.742
-"33","Lakeland","1164","1993","Jane Bouche","","-",22,5,NA,0.815
-"34","Lakeland","1164","1992","Jane Bouche","","-",17,3,NA,0.85
-"35","Lakeland","1164","1991","Jane Bouche","","-",24,6,NA,0.8
-"36","Lakeland","1164","1990","Jane Bouche","","-",20,12,NA,0.625
-"37","Lakeland","1164","1989","","","-",NA,NA,NA,NA
-"38","Lakeland","1164","1988","","","-",NA,NA,NA,NA
-"39","Lakeland","1164","1987","","","-",NA,NA,NA,NA
-"40","Lakeland","1164","1986","","","-",NA,NA,NA,NA
-"41","Lakeland","1164","1985","","","-",NA,NA,NA,NA
-"42","Lakeland","1164","1981","","","-",NA,NA,NA,NA
-"43","Lakeland","1164","","","","",636,561,3,0.531
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kayla Bryant","NACC","0-0-0",0
+"2","2024","Tammy Utley","NACC","35-10-0",0.778
+"3","2023","Tammy Utley","NACC","14-22-0",0.389
+"4","2022","Tammy Utley","NACC","18-15-0",0.545
+"5","2021","Tammy Utley","NACC","12-25-1",0.329
+"6","2020","Tammy Utley","NACC","5-5-0",0.5
+"7","2019","Tammy Utley","NACC","14-24-0",0.368
+"8","2018","Tammy Utley","NACC","11-25-0",0.306
+"9","2017","Hailey Cavanagh","NACC","16-24-0",0.4
+"10","2016","Hailey Cavanagh","NACC","21-17-0",0.553
+"11","2015","Hailey Cavanagh","NACC","19-21-0",0.475
+"12","2014","Hailey Cavanagh","NACC","14-22-0",0.389
+"13","2013","Hailey Cavanagh","NACC","13-24-0",0.351
+"14","2012","Chad Buchmann","NACC","20-19-0",0.513
+"15","2011","Chad Buchmann","NACC","15-26-0",0.366
+"16","2010","Chad Buchmann","NACC","27-18-0",0.6
+"17","2009","Chad Buchmann","NACC","30-10-0",0.75
+"18","2008","Chad Buchmann","NACC","17-20-0",0.459
+"19","2007","Chad Buchmann","NACC","27-12-0",0.692
+"20","2006","Chad Buchmann","NACC","18-21-0",0.462
+"21","2005","Chad Buchmann","Lake Michigan","10-27-0",0.27
+"22","2004","","Lake Michigan","16-22-0",0.421
+"23","2003","","Lake Michigan","17-21-0",0.447
+"24","2002","","Lake Michigan","26-28-2",0.482
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Stacey Remington","-","18-13-0",0.581
+"27","1999","Stacey Remington","-","23-11-0",0.676
+"28","1998","Stacey Remington","-","16-12-0",0.571
+"29","1997","Jane Bouche","-","18-15-0",0.545
+"30","1996","Jane Bouche","-","22-8-0",0.733
+"31","1995","Jane Bouche","-","18-10-0",0.643
+"32","1994","Jane Bouche","-","23-8-0",0.742
+"33","1993","Jane Bouche","-","22-5-0",0.815
+"34","1992","Jane Bouche","-","17-3-0",0.85
+"35","1991","Jane Bouche","-","24-6-0",0.8
+"36","1990","Jane Bouche","-","20-12-0",0.625
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1981","","-","NA-NA-0",NA

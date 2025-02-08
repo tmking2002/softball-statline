@@ -1,3 +1,2 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Dist. Columbia","186","1982",NA,"D-II","-",NA,NA,NA,NA
-"2","Dist. Columbia","186","",NA,"","",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","1982",NA,"-","NA-NA-0",NA

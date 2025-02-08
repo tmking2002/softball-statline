@@ -1,38 +1,37 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Rhodes","573","2025","Rebecca Arbino","D-III","SAA",0,0,0,0
-"2","Rhodes","573","2024","Rebecca Arbino","D-III","SAA",19,24,1,0.443
-"3","Rhodes","573","2023","Rebecca Arbino","D-III","SAA",12,27,0,0.308
-"4","Rhodes","573","2022","Luke Wagner","D-III","SAA",13,21,0,0.382
-"5","Rhodes","573","2021","Luke Wagner","D-III","SAA",17,18,0,0.486
-"6","Rhodes","573","2020","Luke Wagner","D-III","SAA",12,9,0,0.571
-"7","Rhodes","573","2019","Luke Wagner","D-III","SAA",27,16,0,0.628
-"8","Rhodes","573","2018","Luke Wagner","D-III","SAA",23,16,NA,0.59
-"9","Rhodes","573","2017","Luke Wagner","D-III","SAA",22,21,0,0.512
-"10","Rhodes","573","2016","Luke Wagner","D-III","SAA",25,20,0,0.556
-"11","Rhodes","573","2015","Luke Wagner","D-III","SAA",16,21,1,0.434
-"12","Rhodes","573","2014","Luke Wagner","D-III","SAA",26,14,0,0.65
-"13","Rhodes","573","2013","Luke Wagner","D-III","SAA",25,15,0,0.625
-"14","Rhodes","573","2012","Luke Wagner","D-III","SCAC",17,17,1,0.5
-"15","Rhodes","573","2011","David Hicks","D-III","SCAC",25,17,0,0.595
-"16","Rhodes","573","2010","David Hicks","D-III","SCAC",27,15,0,0.643
-"17","Rhodes","573","2009","David Hicks","D-III","SCAC",29,12,0,0.707
-"18","Rhodes","573","2008","David Hicks","D-III","SCAC",13,19,0,0.406
-"19","Rhodes","573","2007","David Hicks","D-III","SCAC",22,15,0,0.595
-"20","Rhodes","573","2006","David Hicks","D-III","SCAC",3,25,0,0.107
-"21","Rhodes","573","2005","Neal Cordell","D-III","SCAC",7,24,0,0.226
-"22","Rhodes","573","2004","Neal Cordell","D-III","SCAC",7,19,0,0.269
-"23","Rhodes","573","2003","Neal Cordell","D-III","SCAC",0,16,0,0
-"24","Rhodes","573","2002","Tonya Shropshire","D-III","SCAC",4,15,1,0.225
-"25","Rhodes","573","2001","Tonya Shropshire","D-III","-",19,9,NA,0.679
-"26","Rhodes","573","1900","","D-III","-",NA,NA,NA,NA
-"27","Rhodes","573","1999","Tonya Shropshire","D-III","-",23,13,NA,0.639
-"28","Rhodes","573","1998","Darren Ambrose","D-III","-",11,14,0,0.44
-"29","Rhodes","573","1997","","D-III","-",NA,NA,NA,NA
-"30","Rhodes","573","1996","","D-III","-",NA,NA,NA,NA
-"31","Rhodes","573","1995","","D-III","-",NA,NA,NA,NA
-"32","Rhodes","573","1994","","D-III","-",NA,NA,NA,NA
-"33","Rhodes","573","1993","","D-III","-",NA,NA,NA,NA
-"34","Rhodes","573","1992","","D-III","-",NA,NA,NA,NA
-"35","Rhodes","573","1991","","D-III","-",NA,NA,NA,NA
-"36","Rhodes","573","1990","","D-III","-",NA,NA,NA,NA
-"37","Rhodes","573","","","","",444,452,4,0.496
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Rebecca Arbino","SAA","0-0-0",0
+"2","2024","Rebecca Arbino","SAA","19-24-1",0.443
+"3","2023","Rebecca Arbino","SAA","12-27-0",0.308
+"4","2022","Luke Wagner","SAA","13-21-0",0.382
+"5","2021","Luke Wagner","SAA","17-18-0",0.486
+"6","2020","Luke Wagner","SAA","12-9-0",0.571
+"7","2019","Luke Wagner","SAA","27-16-0",0.628
+"8","2018","Luke Wagner","SAA","23-16-0",0.59
+"9","2017","Luke Wagner","SAA","22-21-0",0.512
+"10","2016","Luke Wagner","SAA","25-20-0",0.556
+"11","2015","Luke Wagner","SAA","16-21-1",0.434
+"12","2014","Luke Wagner","SAA","26-14-0",0.65
+"13","2013","Luke Wagner","SAA","25-15-0",0.625
+"14","2012","Luke Wagner","SCAC","17-17-1",0.5
+"15","2011","David Hicks","SCAC","25-17-0",0.595
+"16","2010","David Hicks","SCAC","27-15-0",0.643
+"17","2009","David Hicks","SCAC","29-12-0",0.707
+"18","2008","David Hicks","SCAC","13-19-0",0.406
+"19","2007","David Hicks","SCAC","22-15-0",0.595
+"20","2006","David Hicks","SCAC","3-25-0",0.107
+"21","2005","Neal Cordell","SCAC","7-24-0",0.226
+"22","2004","Neal Cordell","SCAC","7-19-0",0.269
+"23","2003","Neal Cordell","SCAC","0-16-0",0
+"24","2002","Tonya Shropshire","SCAC","4-15-1",0.225
+"25","2001","Tonya Shropshire","-","19-9-0",0.679
+"26","1900","","-","NA-NA-0",NA
+"27","1999","Tonya Shropshire","-","23-13-0",0.639
+"28","1998","Darren Ambrose","-","11-14-0",0.44
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

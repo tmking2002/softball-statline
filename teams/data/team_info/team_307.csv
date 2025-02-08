@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Indiana (PA)","307","2025","Shawna Bellaud","D-II","PSAC",0,0,0,0
-"2","Indiana (PA)","307","2024","Shawna Bellaud","D-II","PSAC",29,25,0,0.537
-"3","Indiana (PA)","307","2023","Shawna Bellaud","D-II","PSAC",26,23,0,0.531
-"4","Indiana (PA)","307","2022","Shawna Bellaud","D-II","PSAC",17,21,0,0.447
-"5","Indiana (PA)","307","2021","Shawna Bellaud","D-II","PSAC",17,15,0,0.531
-"6","Indiana (PA)","307","2020","Shawna Bellaud","D-II","PSAC",4,10,0,0.286
-"7","Indiana (PA)","307","2019","Shawna Bellaud","D-II","PSAC",15,27,1,0.36
-"8","Indiana (PA)","307","2018","Bill Graham","D-II","PSAC",20,17,NA,0.541
-"9","Indiana (PA)","307","2017","Bill Graham","D-II","PSAC",24,19,0,0.558
-"10","Indiana (PA)","307","2016","Bill Graham","D-II","PSAC",28,19,0,0.596
-"11","Indiana (PA)","307","2015","Bill Graham","D-II","PSAC",19,24,0,0.442
-"12","Indiana (PA)","307","2014","Bill Graham","D-II","PSAC",32,17,0,0.653
-"13","Indiana (PA)","307","2013","Bill Graham","D-II","PSAC",26,15,0,0.634
-"14","Indiana (PA)","307","2012","Bill Graham","D-II","PSAC",31,14,1,0.685
-"15","Indiana (PA)","307","2011","Bill Graham","D-II","PSAC",38,8,0,0.826
-"16","Indiana (PA)","307","2010","Bill Graham","D-II","PSAC",38,12,0,0.76
-"17","Indiana (PA)","307","2009","Ali Ferrari","D-II","PSAC",19,19,0,0.5
-"18","Indiana (PA)","307","2008","Ali Ferrari","D-II","PSAC",17,26,0,0.395
-"19","Indiana (PA)","307","2007","Sue Snyder","D-II","PSAC",20,27,0,0.426
-"20","Indiana (PA)","307","2006","Sue Snyder","D-II","PSAC",21,20,0,0.512
-"21","Indiana (PA)","307","2005","Sue Snyder","D-II","PSAC",25,17,0,0.595
-"22","Indiana (PA)","307","2004","Sue Snyder","D-II","PSAC",25,16,0,0.61
-"23","Indiana (PA)","307","2003","Sue Snyder","D-II","PSAC",25,18,0,0.581
-"24","Indiana (PA)","307","2002","Sue Snyder","D-II","PSAC",26,15,0,0.634
-"25","Indiana (PA)","307","2001","Sue Snyder","D-II","-",35,11,0,0.761
-"26","Indiana (PA)","307","1900","Sue Snyder","D-II","-",31,18,0,0.633
-"27","Indiana (PA)","307","1999","Sue Snyder","D-II","-",27,19,0,0.587
-"28","Indiana (PA)","307","1998","Sue Snyder","D-II","-",23,14,0,0.622
-"29","Indiana (PA)","307","1997","Sue Snyder","D-II","-",24,16,0,0.6
-"30","Indiana (PA)","307","1996","Sue Snyder","D-II","-",20,19,0,0.513
-"31","Indiana (PA)","307","1995","Sue Snyder","D-II","-",9,25,0,0.265
-"32","Indiana (PA)","307","1994","Joyce Kanaskie","D-II","-",5,25,0,0.167
-"33","Indiana (PA)","307","1993","Erika Renwick","D-II","-",10,22,0,0.313
-"34","Indiana (PA)","307","1992","Erika Renwick","D-II","-",13,19,0,0.406
-"35","Indiana (PA)","307","1991","Erika Renwick","D-II","-",14,21,0,0.4
-"36","Indiana (PA)","307","1990","Shelley Brown","D-II","-",9,17,NA,0.346
-"37","Indiana (PA)","307","1989","Joyce Maudie","D-II","-",4,30,NA,0.118
-"38","Indiana (PA)","307","1988","","D-II","-",NA,NA,NA,NA
-"39","Indiana (PA)","307","1987","","D-II","-",NA,NA,NA,NA
-"40","Indiana (PA)","307","1985","","D-II","-",NA,NA,NA,NA
-"41","Indiana (PA)","307","1984","","D-II","-",NA,NA,NA,NA
-"42","Indiana (PA)","307","","","","",766,680,2,0.53
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Shawna Bellaud","PSAC","0-0-0",0
+"2","2024","Shawna Bellaud","PSAC","29-25-0",0.537
+"3","2023","Shawna Bellaud","PSAC","26-23-0",0.531
+"4","2022","Shawna Bellaud","PSAC","17-21-0",0.447
+"5","2021","Shawna Bellaud","PSAC","17-15-0",0.531
+"6","2020","Shawna Bellaud","PSAC","4-10-0",0.286
+"7","2019","Shawna Bellaud","PSAC","15-27-1",0.36
+"8","2018","Bill Graham","PSAC","20-17-0",0.541
+"9","2017","Bill Graham","PSAC","24-19-0",0.558
+"10","2016","Bill Graham","PSAC","28-19-0",0.596
+"11","2015","Bill Graham","PSAC","19-24-0",0.442
+"12","2014","Bill Graham","PSAC","32-17-0",0.653
+"13","2013","Bill Graham","PSAC","26-15-0",0.634
+"14","2012","Bill Graham","PSAC","31-14-1",0.685
+"15","2011","Bill Graham","PSAC","38-8-0",0.826
+"16","2010","Bill Graham","PSAC","38-12-0",0.76
+"17","2009","Ali Ferrari","PSAC","19-19-0",0.5
+"18","2008","Ali Ferrari","PSAC","17-26-0",0.395
+"19","2007","Sue Snyder","PSAC","20-27-0",0.426
+"20","2006","Sue Snyder","PSAC","21-20-0",0.512
+"21","2005","Sue Snyder","PSAC","25-17-0",0.595
+"22","2004","Sue Snyder","PSAC","25-16-0",0.61
+"23","2003","Sue Snyder","PSAC","25-18-0",0.581
+"24","2002","Sue Snyder","PSAC","26-15-0",0.634
+"25","2001","Sue Snyder","-","35-11-0",0.761
+"26","1900","Sue Snyder","-","31-18-0",0.633
+"27","1999","Sue Snyder","-","27-19-0",0.587
+"28","1998","Sue Snyder","-","23-14-0",0.622
+"29","1997","Sue Snyder","-","24-16-0",0.6
+"30","1996","Sue Snyder","-","20-19-0",0.513
+"31","1995","Sue Snyder","-","9-25-0",0.265
+"32","1994","Joyce Kanaskie","-","5-25-0",0.167
+"33","1993","Erika Renwick","-","10-22-0",0.313
+"34","1992","Erika Renwick","-","13-19-0",0.406
+"35","1991","Erika Renwick","-","14-21-0",0.4
+"36","1990","Shelley Brown","-","9-17-0",0.346
+"37","1989","Joyce Maudie","-","4-30-0",0.118
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1985","","-","NA-NA-0",NA
+"41","1984","","-","NA-NA-0",NA

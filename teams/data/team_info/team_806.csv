@@ -1,44 +1,43 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wittenberg","806","2025","Ashley Goodwin","D-III","NCAC",0,0,0,0
-"2","Wittenberg","806","2024","Ashley Goodwin","D-III","NCAC",21,21,0,0.5
-"3","Wittenberg","806","2023","Shannon Schaub","D-III","NCAC",10,25,0,0.286
-"4","Wittenberg","806","2022","Shannon Schaub","D-III","NCAC",15,20,0,0.429
-"5","Wittenberg","806","2021","Shannon Schaub","D-III","NCAC",22,12,2,0.639
-"6","Wittenberg","806","2020","Shannon Schaub","D-III","NCAC",7,3,0,0.7
-"7","Wittenberg","806","2019","Shannon Schaub","D-III","NCAC",8,27,1,0.236
-"8","Wittenberg","806","2018","Kennedy Haynes","D-III","NCAC",24,17,NA,0.585
-"9","Wittenberg","806","2017","Laura Matthews","D-III","NCAC",29,7,0,0.806
-"10","Wittenberg","806","2016","Laura Matthews","D-III","NCAC",32,9,1,0.774
-"11","Wittenberg","806","2015","Laura Matthews","D-III","NCAC",21,16,0,0.568
-"12","Wittenberg","806","2014","Laura Matthews","D-III","NCAC",24,11,0,0.686
-"13","Wittenberg","806","2013","Laura Matthews","D-III","NCAC",23,13,0,0.639
-"14","Wittenberg","806","2012","Becky Hall","D-III","NCAC",23,17,0,0.575
-"15","Wittenberg","806","2011","Becky Hall","D-III","NCAC",13,24,0,0.351
-"16","Wittenberg","806","2010","Becky Hall","D-III","NCAC",19,21,0,0.475
-"17","Wittenberg","806","2009","Becky Hall","D-III","NCAC",18,20,0,0.474
-"18","Wittenberg","806","2008","Becky Hall","D-III","NCAC",23,13,0,0.639
-"19","Wittenberg","806","2007","Becky Hall","D-III","NCAC",27,13,0,0.675
-"20","Wittenberg","806","2006","Becky Hall","D-III","NCAC",21,18,0,0.538
-"21","Wittenberg","806","2005","Becky Hall","D-III","NCAC",11,24,0,0.314
-"22","Wittenberg","806","2004","Becky Hall","D-III","NCAC",20,15,0,0.571
-"23","Wittenberg","806","2003","Becky Hall","D-III","NCAC",25,21,0,0.543
-"24","Wittenberg","806","2002","Becky Hall","D-III","NCAC",12,21,1,0.368
-"25","Wittenberg","806","2001","Becky Hall","D-III","-",19,15,NA,0.559
-"26","Wittenberg","806","1900","Becky Hall","D-III","-",31,14,NA,0.689
-"27","Wittenberg","806","1999","Becky Hall","D-III","-",23,20,NA,0.535
-"28","Wittenberg","806","1998","Angel Prinos","D-III","-",14,15,NA,0.483
-"29","Wittenberg","806","1997","Pam Brenning","D-III","-",19,13,NA,0.594
-"30","Wittenberg","806","1996","Sheilah Gulas","D-III","-",17,14,NA,0.548
-"31","Wittenberg","806","1995","Sheilah Gulas","D-III","-",16,21,NA,0.432
-"32","Wittenberg","806","1994","Sheilah Gulas","D-III","-",18,14,NA,0.563
-"33","Wittenberg","806","1993","Sheilah Gulas","D-III","-",16,9,NA,0.64
-"34","Wittenberg","806","1992","Sheilah Gulas","D-III","-",13,13,NA,0.5
-"35","Wittenberg","806","1991","Sheilah Gulas","D-III","-",3,14,NA,0.176
-"36","Wittenberg","806","1990","Caroline Zimmerman","D-III","-",2,14,NA,0.125
-"37","Wittenberg","806","1989","Caroline Zimmerman","D-III","-",8,15,NA,0.348
-"38","Wittenberg","806","1988","","D-III","-",NA,NA,NA,NA
-"39","Wittenberg","806","1987","Caroline Zimmerman","D-III","-",2,16,NA,0.111
-"40","Wittenberg","806","1986","Caroline Zimmerman","D-III","-",8,15,NA,0.348
-"41","Wittenberg","806","1985","Caroline Zimmerman","D-III","-",13,16,NA,0.448
-"42","Wittenberg","806","1981","","","-",NA,NA,NA,NA
-"43","Wittenberg","806","","","","",670,626,5,0.517
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Ashley Goodwin","NCAC","0-0-0",0
+"2","2024","Ashley Goodwin","NCAC","21-21-0",0.5
+"3","2023","Shannon Schaub","NCAC","10-25-0",0.286
+"4","2022","Shannon Schaub","NCAC","15-20-0",0.429
+"5","2021","Shannon Schaub","NCAC","22-12-2",0.639
+"6","2020","Shannon Schaub","NCAC","7-3-0",0.7
+"7","2019","Shannon Schaub","NCAC","8-27-1",0.236
+"8","2018","Kennedy Haynes","NCAC","24-17-0",0.585
+"9","2017","Laura Matthews","NCAC","29-7-0",0.806
+"10","2016","Laura Matthews","NCAC","32-9-1",0.774
+"11","2015","Laura Matthews","NCAC","21-16-0",0.568
+"12","2014","Laura Matthews","NCAC","24-11-0",0.686
+"13","2013","Laura Matthews","NCAC","23-13-0",0.639
+"14","2012","Becky Hall","NCAC","23-17-0",0.575
+"15","2011","Becky Hall","NCAC","13-24-0",0.351
+"16","2010","Becky Hall","NCAC","19-21-0",0.475
+"17","2009","Becky Hall","NCAC","18-20-0",0.474
+"18","2008","Becky Hall","NCAC","23-13-0",0.639
+"19","2007","Becky Hall","NCAC","27-13-0",0.675
+"20","2006","Becky Hall","NCAC","21-18-0",0.538
+"21","2005","Becky Hall","NCAC","11-24-0",0.314
+"22","2004","Becky Hall","NCAC","20-15-0",0.571
+"23","2003","Becky Hall","NCAC","25-21-0",0.543
+"24","2002","Becky Hall","NCAC","12-21-1",0.368
+"25","2001","Becky Hall","-","19-15-0",0.559
+"26","1900","Becky Hall","-","31-14-0",0.689
+"27","1999","Becky Hall","-","23-20-0",0.535
+"28","1998","Angel Prinos","-","14-15-0",0.483
+"29","1997","Pam Brenning","-","19-13-0",0.594
+"30","1996","Sheilah Gulas","-","17-14-0",0.548
+"31","1995","Sheilah Gulas","-","16-21-0",0.432
+"32","1994","Sheilah Gulas","-","18-14-0",0.563
+"33","1993","Sheilah Gulas","-","16-9-0",0.64
+"34","1992","Sheilah Gulas","-","13-13-0",0.5
+"35","1991","Sheilah Gulas","-","3-14-0",0.176
+"36","1990","Caroline Zimmerman","-","2-14-0",0.125
+"37","1989","Caroline Zimmerman","-","8-15-0",0.348
+"38","1988","","-","NA-NA-0",NA
+"39","1987","Caroline Zimmerman","-","2-16-0",0.111
+"40","1986","Caroline Zimmerman","-","8-15-0",0.348
+"41","1985","Caroline Zimmerman","-","13-16-0",0.448
+"42","1981","","-","NA-NA-0",NA

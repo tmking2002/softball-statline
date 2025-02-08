@@ -1,41 +1,40 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Olivet","525","2025","Michaela Hamilton","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
-"2","Olivet","525","2024","Michaela Hamilton","D-III","Michigan Intercol. Ath. Assn.",3,27,0,0.1
-"3","Olivet","525","2023","Michaela Hamilton","D-III","Michigan Intercol. Ath. Assn.",0,24,0,0
-"4","Olivet","525","2022","Michaela Hamilton","D-III","Michigan Intercol. Ath. Assn.",2,23,0,0.08
-"5","Olivet","525","2021","Jennifer Cassell","D-III","Michigan Intercol. Ath. Assn.",1,23,0,0.042
-"6","Olivet","525","2020","Darrick Brown","D-III","Michigan Intercol. Ath. Assn.",4,10,0,0.286
-"7","Olivet","525","2019","Darrick Brown","D-III","Michigan Intercol. Ath. Assn.",19,17,0,0.528
-"8","Olivet","525","2018","Darrick Brown","D-III","Michigan Intercol. Ath. Assn.",18,16,NA,0.529
-"9","Olivet","525","2017","Darrick Brown","D-III","Michigan Intercol. Ath. Assn.",15,23,0,0.395
-"10","Olivet","525","2016","Darrick Brown","D-III","Michigan Intercol. Ath. Assn.",16,18,0,0.471
-"11","Olivet","525","2015","James Farnum","D-III","Michigan Intercol. Ath. Assn.",18,16,0,0.529
-"12","Olivet","525","2014","James Farnum","D-III","Michigan Intercol. Ath. Assn.",26,11,0,0.703
-"13","Olivet","525","2013","James Farnum","D-III","Michigan Intercol. Ath. Assn.",11,21,0,0.344
-"14","Olivet","525","2012","James Farnum","D-III","Michigan Intercol. Ath. Assn.",11,23,0,0.324
-"15","Olivet","525","2011","Ryan Tundevold","D-III","Michigan Intercol. Ath. Assn.",14,21,0,0.4
-"16","Olivet","525","2010","James Farnum","D-III","Michigan Intercol. Ath. Assn.",14,18,0,0.438
-"17","Olivet","525","2009","James Farnum","D-III","Michigan Intercol. Ath. Assn.",23,11,0,0.676
-"18","Olivet","525","2008","James Farnum","D-III","Michigan Intercol. Ath. Assn.",15,21,0,0.417
-"19","Olivet","525","2007","James Farnum","D-III","Michigan Intercol. Ath. Assn.",20,12,0,0.625
-"20","Olivet","525","2006","James Farnum","D-III","Michigan Intercol. Ath. Assn.",24,12,0,0.667
-"21","Olivet","525","2005","James Farnum","D-III","Michigan Intercol. Ath. Assn.",22,14,0,0.611
-"22","Olivet","525","2004","James Farnum","D-III","Michigan Intercol. Ath. Assn.",19,15,0,0.559
-"23","Olivet","525","2003","James Knight","D-III","Michigan Intercol. Ath. Assn.",19,19,0,0.5
-"24","Olivet","525","2002","James Knight","D-III","-",8,23,0,0.258
-"25","Olivet","525","2001","James Knight","D-III","-",6,26,1,0.197
-"26","Olivet","525","1900","James Knight","D-III","-",20,16,1,0.554
-"27","Olivet","525","1999","James Knight","D-III","-",18,24,NA,0.429
-"28","Olivet","525","1998","","D-III","-",NA,NA,NA,NA
-"29","Olivet","525","1997","","D-III","-",NA,NA,NA,NA
-"30","Olivet","525","1996","Tom Walsh","D-III","-",6,28,NA,0.176
-"31","Olivet","525","1995","","D-III","-",NA,NA,NA,NA
-"32","Olivet","525","1994","","D-III","-",NA,NA,NA,NA
-"33","Olivet","525","1993","","D-III","-",NA,NA,NA,NA
-"34","Olivet","525","1992","","D-III","-",NA,NA,NA,NA
-"35","Olivet","525","1991","","D-III","-",NA,NA,NA,NA
-"36","Olivet","525","1990","","D-III","-",NA,NA,NA,NA
-"37","Olivet","525","1989","","D-III","-",NA,NA,NA,NA
-"38","Olivet","525","1988","","D-III","-",NA,NA,NA,NA
-"39","Olivet","525","1987","","D-III","-",NA,NA,NA,NA
-"40","Olivet","525","","","","",372,512,2,0.421
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-0-0",0
+"2","2024","Michaela Hamilton","Michigan Intercol. Ath. Assn.","3-27-0",0.1
+"3","2023","Michaela Hamilton","Michigan Intercol. Ath. Assn.","0-24-0",0
+"4","2022","Michaela Hamilton","Michigan Intercol. Ath. Assn.","2-23-0",0.08
+"5","2021","Jennifer Cassell","Michigan Intercol. Ath. Assn.","1-23-0",0.042
+"6","2020","Darrick Brown","Michigan Intercol. Ath. Assn.","4-10-0",0.286
+"7","2019","Darrick Brown","Michigan Intercol. Ath. Assn.","19-17-0",0.528
+"8","2018","Darrick Brown","Michigan Intercol. Ath. Assn.","18-16-0",0.529
+"9","2017","Darrick Brown","Michigan Intercol. Ath. Assn.","15-23-0",0.395
+"10","2016","Darrick Brown","Michigan Intercol. Ath. Assn.","16-18-0",0.471
+"11","2015","James Farnum","Michigan Intercol. Ath. Assn.","18-16-0",0.529
+"12","2014","James Farnum","Michigan Intercol. Ath. Assn.","26-11-0",0.703
+"13","2013","James Farnum","Michigan Intercol. Ath. Assn.","11-21-0",0.344
+"14","2012","James Farnum","Michigan Intercol. Ath. Assn.","11-23-0",0.324
+"15","2011","Ryan Tundevold","Michigan Intercol. Ath. Assn.","14-21-0",0.4
+"16","2010","James Farnum","Michigan Intercol. Ath. Assn.","14-18-0",0.438
+"17","2009","James Farnum","Michigan Intercol. Ath. Assn.","23-11-0",0.676
+"18","2008","James Farnum","Michigan Intercol. Ath. Assn.","15-21-0",0.417
+"19","2007","James Farnum","Michigan Intercol. Ath. Assn.","20-12-0",0.625
+"20","2006","James Farnum","Michigan Intercol. Ath. Assn.","24-12-0",0.667
+"21","2005","James Farnum","Michigan Intercol. Ath. Assn.","22-14-0",0.611
+"22","2004","James Farnum","Michigan Intercol. Ath. Assn.","19-15-0",0.559
+"23","2003","James Knight","Michigan Intercol. Ath. Assn.","19-19-0",0.5
+"24","2002","James Knight","-","8-23-0",0.258
+"25","2001","James Knight","-","6-26-1",0.197
+"26","1900","James Knight","-","20-16-1",0.554
+"27","1999","James Knight","-","18-24-0",0.429
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","Tom Walsh","-","6-28-0",0.176
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA

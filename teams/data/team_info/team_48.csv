@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Charleston So.","48","2025","Christi Musser","D-I","Big South",0,2,0,0
-"2","Charleston So.","48","2024","Christi Musser","D-I","Big South",23,27,0,0.46
-"3","Charleston So.","48","2023","Christi Musser","D-I","Big South",22,27,0,0.449
-"4","Charleston So.","48","2022","Christi Musser","D-I","Big South",27,28,0,0.491
-"5","Charleston So.","48","2021","Christi Musser","D-I","Big South",11,24,0,0.314
-"6","Charleston So.","48","2020","Venus Taylor","D-I","Big South",10,9,0,0.526
-"7","Charleston So.","48","2019","Venus Taylor","D-I","Big South",18,37,0,0.327
-"8","Charleston So.","48","2018","Shane Winkler","D-I","Big South",26,30,NA,0.464
-"9","Charleston So.","48","2017","Shane Winkler","D-I","Big South",26,36,0,0.419
-"10","Charleston So.","48","2016","Shane Winkler","D-I","Big South",22,34,0,0.393
-"11","Charleston So.","48","2015","Shane Winkler","D-I","Big South",31,28,0,0.525
-"12","Charleston So.","48","2014","Shane Winkler","D-I","Big South",31,38,2,0.451
-"13","Charleston So.","48","2013","Shane Winkler","D-I","Big South",15,40,0,0.273
-"14","Charleston So.","48","2012","Shane Winkler","D-I","Big South",33,26,0,0.559
-"15","Charleston So.","48","2011","Shane Winkler","D-I","Big South",25,33,0,0.431
-"16","Charleston So.","48","2010","Shane Winkler","D-I","Big South",30,28,1,0.517
-"17","Charleston So.","48","2009","Shane Winkler","D-I","Big South",26,33,0,0.441
-"18","Charleston So.","48","2008","Jeff Aumend","D-I","Big South",18,41,0,0.305
-"19","Charleston So.","48","2007","Jeff Aumend","D-I","Big South",15,44,0,0.254
-"20","Charleston So.","48","2006","Jeff Aumend","D-I","Big South",14,40,1,0.264
-"21","Charleston So.","48","2005","Joyce Wellhoefer","D-I","Big South",19,43,0,0.306
-"22","Charleston So.","48","2004","Chandelle Schulte","D-I","Big South",19,38,0,0.333
-"23","Charleston So.","48","2003","Chandelle Schulte","D-I","Big South",15,38,0,0.283
-"24","Charleston So.","48","2002","Chandelle Schulte","D-I","Big South",18,38,0,0.321
-"25","Charleston So.","48","2001","Chandelle Schulte","D-I","Big South",29,27,0,0.518
-"26","Charleston So.","48","1900","Chandelle Schulte","D-I","Big South",15,39,0,0.278
-"27","Charleston So.","48","1999","Vanessa Glasscock","D-I","Big South",9,45,0,0.167
-"28","Charleston So.","48","1998","Vanessa Glasscock","D-I","-",2,45,NA,0.043
-"29","Charleston So.","48","1997","Vanessa Glasscock","D-I","Big South",15,27,0,0.357
-"30","Charleston So.","48","1996","Sue Killian","D-I","-",9,35,1,0.211
-"31","Charleston So.","48","1995","Sue Killian","D-I","-",18,25,NA,0.419
-"32","Charleston So.","48","1994","Sue Killian","D-I","-",23,30,NA,0.434
-"33","Charleston So.","48","1993","Jack Jordan","D-I","-",30,17,1,0.635
-"34","Charleston So.","48","1992","Jack Jordan","D-I","-",30,29,NA,0.508
-"35","Charleston So.","48","1991","Jack Jordan","D-I","-",25,22,NA,0.532
-"36","Charleston So.","48","1990","Howie Bagwell","D-I","-",32,23,NA,0.582
-"37","Charleston So.","48","1989","Howie Bagwell","D-I","-",18,13,NA,0.581
-"38","Charleston So.","48","1988","Howie Bagwell","D-I","-",32,15,NA,0.681
-"39","Charleston So.","48","1987","Howie Bagwell","D-I","-",32,14,NA,0.696
-"40","Charleston So.","48","1986","Howie Bagwell","D-I","-",19,22,NA,0.463
-"41","Charleston So.","48","","","","",832,1190,6,0.412
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Christi Musser","Big South","0-2-0",0
+"2","2024","Christi Musser","Big South","23-27-0",0.46
+"3","2023","Christi Musser","Big South","22-27-0",0.449
+"4","2022","Christi Musser","Big South","27-28-0",0.491
+"5","2021","Christi Musser","Big South","11-24-0",0.314
+"6","2020","Venus Taylor","Big South","10-9-0",0.526
+"7","2019","Venus Taylor","Big South","18-37-0",0.327
+"8","2018","Shane Winkler","Big South","26-30-0",0.464
+"9","2017","Shane Winkler","Big South","26-36-0",0.419
+"10","2016","Shane Winkler","Big South","22-34-0",0.393
+"11","2015","Shane Winkler","Big South","31-28-0",0.525
+"12","2014","Shane Winkler","Big South","31-38-2",0.451
+"13","2013","Shane Winkler","Big South","15-40-0",0.273
+"14","2012","Shane Winkler","Big South","33-26-0",0.559
+"15","2011","Shane Winkler","Big South","25-33-0",0.431
+"16","2010","Shane Winkler","Big South","30-28-1",0.517
+"17","2009","Shane Winkler","Big South","26-33-0",0.441
+"18","2008","Jeff Aumend","Big South","18-41-0",0.305
+"19","2007","Jeff Aumend","Big South","15-44-0",0.254
+"20","2006","Jeff Aumend","Big South","14-40-1",0.264
+"21","2005","Joyce Wellhoefer","Big South","19-43-0",0.306
+"22","2004","Chandelle Schulte","Big South","19-38-0",0.333
+"23","2003","Chandelle Schulte","Big South","15-38-0",0.283
+"24","2002","Chandelle Schulte","Big South","18-38-0",0.321
+"25","2001","Chandelle Schulte","Big South","29-27-0",0.518
+"26","1900","Chandelle Schulte","Big South","15-39-0",0.278
+"27","1999","Vanessa Glasscock","Big South","9-45-0",0.167
+"28","1998","Vanessa Glasscock","-","2-45-0",0.043
+"29","1997","Vanessa Glasscock","Big South","15-27-0",0.357
+"30","1996","Sue Killian","-","9-35-1",0.211
+"31","1995","Sue Killian","-","18-25-0",0.419
+"32","1994","Sue Killian","-","23-30-0",0.434
+"33","1993","Jack Jordan","-","30-17-1",0.635
+"34","1992","Jack Jordan","-","30-29-0",0.508
+"35","1991","Jack Jordan","-","25-22-0",0.532
+"36","1990","Howie Bagwell","-","32-23-0",0.582
+"37","1989","Howie Bagwell","-","18-13-0",0.581
+"38","1988","Howie Bagwell","-","32-15-0",0.681
+"39","1987","Howie Bagwell","-","32-14-0",0.696
+"40","1986","Howie Bagwell","-","19-22-0",0.463

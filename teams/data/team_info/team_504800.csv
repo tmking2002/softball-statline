@@ -1,26 +1,25 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Siena Heights","504800","2025",NA,NA,"-",NA,NA,NA,0
-"2","Siena Heights","504800","2024",NA,NA,"-",NA,NA,NA,0
-"3","Siena Heights","504800","2023",NA,NA,"-",NA,NA,NA,0
-"4","Siena Heights","504800","2022",NA,NA,"-",NA,NA,NA,0
-"5","Siena Heights","504800","2021",NA,NA,"-",NA,NA,NA,0
-"6","Siena Heights","504800","2020",NA,NA,"-",NA,NA,NA,0
-"7","Siena Heights","504800","2019",NA,NA,"-",NA,NA,NA,0
-"8","Siena Heights","504800","2018",NA,NA,"-",NA,NA,NA,0
-"9","Siena Heights","504800","2017",NA,NA,"-",NA,NA,NA,NA
-"10","Siena Heights","504800","2016",NA,NA,"-",NA,NA,NA,NA
-"11","Siena Heights","504800","2015",NA,NA,"-",NA,NA,NA,NA
-"12","Siena Heights","504800","2014",NA,NA,"-",NA,NA,NA,NA
-"13","Siena Heights","504800","2013",NA,NA,"-",NA,NA,NA,NA
-"14","Siena Heights","504800","2012",NA,NA,"-",NA,NA,NA,NA
-"15","Siena Heights","504800","2011",NA,NA,"-",NA,NA,NA,NA
-"16","Siena Heights","504800","2010",NA,NA,"-",NA,NA,NA,NA
-"17","Siena Heights","504800","2009",NA,NA,"-",NA,NA,NA,NA
-"18","Siena Heights","504800","2008",NA,NA,"-",NA,NA,NA,NA
-"19","Siena Heights","504800","2007",NA,NA,"-",NA,NA,NA,NA
-"20","Siena Heights","504800","2006",NA,NA,"-",NA,NA,NA,NA
-"21","Siena Heights","504800","2005",NA,NA,"-",NA,NA,NA,NA
-"22","Siena Heights","504800","2004",NA,NA,"-",NA,NA,NA,NA
-"23","Siena Heights","504800","2003",NA,NA,"-",NA,NA,NA,NA
-"24","Siena Heights","504800","2002",NA,NA,"-",NA,NA,NA,NA
-"25","Siena Heights","504800","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2025",NA,"-","NA-NA-0",0
+"2","2024",NA,"-","NA-NA-0",0
+"3","2023",NA,"-","NA-NA-0",0
+"4","2022",NA,"-","NA-NA-0",0
+"5","2021",NA,"-","NA-NA-0",0
+"6","2020",NA,"-","NA-NA-0",0
+"7","2019",NA,"-","NA-NA-0",0
+"8","2018",NA,"-","NA-NA-0",0
+"9","2017",NA,"-","NA-NA-0",NA
+"10","2016",NA,"-","NA-NA-0",NA
+"11","2015",NA,"-","NA-NA-0",NA
+"12","2014",NA,"-","NA-NA-0",NA
+"13","2013",NA,"-","NA-NA-0",NA
+"14","2012",NA,"-","NA-NA-0",NA
+"15","2011",NA,"-","NA-NA-0",NA
+"16","2010",NA,"-","NA-NA-0",NA
+"17","2009",NA,"-","NA-NA-0",NA
+"18","2008",NA,"-","NA-NA-0",NA
+"19","2007",NA,"-","NA-NA-0",NA
+"20","2006",NA,"-","NA-NA-0",NA
+"21","2005",NA,"-","NA-NA-0",NA
+"22","2004",NA,"-","NA-NA-0",NA
+"23","2003",NA,"-","NA-NA-0",NA
+"24","2002",NA,"-","NA-NA-0",NA

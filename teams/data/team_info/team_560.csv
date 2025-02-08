@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Queens (NY)","560","2025","Amy Delmore","D-II","ECC",0,0,0,0
-"2","Queens (NY)","560","2024","Amy Delmore","D-II","ECC",18,27,0,0.4
-"3","Queens (NY)","560","2023","Amy Delmore","D-II","ECC",11,34,0,0.244
-"4","Queens (NY)","560","2022","Amy Delmore","D-II","ECC",8,28,0,0.222
-"5","Queens (NY)","560","2021","Amy Delmore","D-II","ECC",4,20,0,0.167
-"6","Queens (NY)","560","2020","Amy Delmore","D-II","ECC",0,10,0,0
-"7","Queens (NY)","560","2019","Amy Delmore","D-II","ECC",7,30,0,0.189
-"8","Queens (NY)","560","2018","Amy Delmore","D-II","ECC",13,23,NA,0.361
-"9","Queens (NY)","560","2017","Christina Berardi","D-II","ECC",13,17,0,0.433
-"10","Queens (NY)","560","2016","Amy Delmore","D-II","ECC",13,21,1,0.386
-"11","Queens (NY)","560","2015","Amy Delmore","D-II","ECC",35,16,0,0.686
-"12","Queens (NY)","560","2014","Amy Delmore","D-II","ECC",33,20,1,0.62
-"13","Queens (NY)","560","2013","Amy Delmore","D-II","ECC",14,25,0,0.359
-"14","Queens (NY)","560","2012","Brian DeMasters","D-II","ECC",20,18,0,0.526
-"15","Queens (NY)","560","2011","Brian DeMasters","D-II","ECC",23,24,0,0.489
-"16","Queens (NY)","560","2010","Brian DeMasters","D-II","ECC",16,31,0,0.34
-"17","Queens (NY)","560","2009","Brian DeMasters","D-II","ECC",23,23,0,0.5
-"18","Queens (NY)","560","2008","Brian DeMasters","D-II","ECC",16,30,0,0.348
-"19","Queens (NY)","560","2007","Brian DeMasters","D-II","ECC",20,25,0,0.444
-"20","Queens (NY)","560","2006","Brian DeMasters","D-II","ECC",28,22,0,0.56
-"21","Queens (NY)","560","2005","Brian DeMasters","D-II","ECC",20,23,0,0.465
-"22","Queens (NY)","560","2004","Brian DeMasters","D-II","ECC",24,20,0,0.545
-"23","Queens (NY)","560","2003","Brian DeMasters","D-II","ECC",27,17,0,0.614
-"24","Queens (NY)","560","2002","Brian DeMasters","D-II","ECC",25,18,0,0.581
-"25","Queens (NY)","560","2001","Brian DeMasters","D-II","-",30,19,NA,0.612
-"26","Queens (NY)","560","1900","Brian DeMasters","D-II","-",27,18,NA,0.6
-"27","Queens (NY)","560","1999","Brian DeMasters","D-II","-",37,16,NA,0.698
-"28","Queens (NY)","560","1998","Brian DeMasters","D-II","-",31,14,NA,0.689
-"29","Queens (NY)","560","1997","Brian DeMasters","D-II","-",27,18,NA,0.6
-"30","Queens (NY)","560","1996","Brian DeMasters","D-II","-",24,20,NA,0.545
-"31","Queens (NY)","560","1995","Brian DeMasters","D-II","-",19,24,NA,0.442
-"32","Queens (NY)","560","1994","Brian DeMasters","D-II","-",18,25,NA,0.419
-"33","Queens (NY)","560","1993","Brian DeMasters","D-II","-",26,19,NA,0.578
-"34","Queens (NY)","560","1992","Brian DeMasters","D-II","-",19,17,NA,0.528
-"35","Queens (NY)","560","1991","Brian DeMasters","D-II","-",19,14,1,0.574
-"36","Queens (NY)","560","1990","Brian DeMasters","D-II","-",16,18,NA,0.471
-"37","Queens (NY)","560","1989","Brian DeMasters","D-II","-",12,16,NA,0.429
-"38","Queens (NY)","560","","","","",716,760,3,0.485
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Amy Delmore","ECC","0-0-0",0
+"2","2024","Amy Delmore","ECC","18-27-0",0.4
+"3","2023","Amy Delmore","ECC","11-34-0",0.244
+"4","2022","Amy Delmore","ECC","8-28-0",0.222
+"5","2021","Amy Delmore","ECC","4-20-0",0.167
+"6","2020","Amy Delmore","ECC","0-10-0",0
+"7","2019","Amy Delmore","ECC","7-30-0",0.189
+"8","2018","Amy Delmore","ECC","13-23-0",0.361
+"9","2017","Christina Berardi","ECC","13-17-0",0.433
+"10","2016","Amy Delmore","ECC","13-21-1",0.386
+"11","2015","Amy Delmore","ECC","35-16-0",0.686
+"12","2014","Amy Delmore","ECC","33-20-1",0.62
+"13","2013","Amy Delmore","ECC","14-25-0",0.359
+"14","2012","Brian DeMasters","ECC","20-18-0",0.526
+"15","2011","Brian DeMasters","ECC","23-24-0",0.489
+"16","2010","Brian DeMasters","ECC","16-31-0",0.34
+"17","2009","Brian DeMasters","ECC","23-23-0",0.5
+"18","2008","Brian DeMasters","ECC","16-30-0",0.348
+"19","2007","Brian DeMasters","ECC","20-25-0",0.444
+"20","2006","Brian DeMasters","ECC","28-22-0",0.56
+"21","2005","Brian DeMasters","ECC","20-23-0",0.465
+"22","2004","Brian DeMasters","ECC","24-20-0",0.545
+"23","2003","Brian DeMasters","ECC","27-17-0",0.614
+"24","2002","Brian DeMasters","ECC","25-18-0",0.581
+"25","2001","Brian DeMasters","-","30-19-0",0.612
+"26","1900","Brian DeMasters","-","27-18-0",0.6
+"27","1999","Brian DeMasters","-","37-16-0",0.698
+"28","1998","Brian DeMasters","-","31-14-0",0.689
+"29","1997","Brian DeMasters","-","27-18-0",0.6
+"30","1996","Brian DeMasters","-","24-20-0",0.545
+"31","1995","Brian DeMasters","-","19-24-0",0.442
+"32","1994","Brian DeMasters","-","18-25-0",0.419
+"33","1993","Brian DeMasters","-","26-19-0",0.578
+"34","1992","Brian DeMasters","-","19-17-0",0.528
+"35","1991","Brian DeMasters","-","19-14-1",0.574
+"36","1990","Brian DeMasters","-","16-18-0",0.471
+"37","1989","Brian DeMasters","-","12-16-0",0.429

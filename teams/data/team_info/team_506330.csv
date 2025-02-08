@@ -1,7 +1,6 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Northwestern Ohio","506330","2018",NA,NA,"-",NA,NA,NA,0
-"2","Northwestern Ohio","506330","2017",NA,NA,"-",NA,NA,NA,NA
-"3","Northwestern Ohio","506330","2016",NA,NA,"-",NA,NA,NA,NA
-"4","Northwestern Ohio","506330","2015",NA,NA,"-",NA,NA,NA,NA
-"5","Northwestern Ohio","506330","2014",NA,NA,"-",NA,NA,NA,NA
-"6","Northwestern Ohio","506330","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2018",NA,"-","NA-NA-0",0
+"2","2017",NA,"-","NA-NA-0",NA
+"3","2016",NA,"-","NA-NA-0",NA
+"4","2015",NA,"-","NA-NA-0",NA
+"5","2014",NA,"-","NA-NA-0",NA

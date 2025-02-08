@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Vanguard","30263","2025","Sydney Lahners","D-II","PacWest",1,4,0,0.2
-"2","Vanguard","30263","2024","Sydney Lahners","D-II","DII Independent",42,13,0,0.764
-"3","Vanguard","30263","2023","Sydney Lahners","","-",27,30,0,0.474
-"4","Vanguard","30263","","","","",70,47,0,0.598
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Sydney Lahners","PacWest","1-4-0",0.2
+"2","2024","Sydney Lahners","DII Independent","42-13-0",0.764
+"3","2023","Sydney Lahners","-","27-30-0",0.474

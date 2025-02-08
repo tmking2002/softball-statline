@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Chatham","10972","2025","Mike Marsili","D-III","PAC",0,0,0,0
-"2","Chatham","10972","2024","Courtney Orr","D-III","PAC",10,26,0,0.278
-"3","Chatham","10972","2023","Deanna Tritinger","D-III","PAC",11,25,0,0.306
-"4","Chatham","10972","2022","Deanna Tritinger","D-III","PAC",12,22,0,0.353
-"5","Chatham","10972","2021","Deanna Tritinger","D-III","PAC",13,20,0,0.394
-"6","Chatham","10972","2020","Deanna Tritinger","D-III","PAC",1,9,0,0.1
-"7","Chatham","10972","2019","Deanna Tritinger","D-III","PAC",12,20,0,0.375
-"8","Chatham","10972","2018","Deanna Tritinger","D-III","PAC",5,25,NA,0.167
-"9","Chatham","10972","2017","Deanna Tritinger","D-III","PAC",5,24,0,0.172
-"10","Chatham","10972","2016","Jason Evans","D-III","PAC",2,29,0,0.065
-"11","Chatham","10972","2015","Jason Evans","D-III","PAC",3,23,0,0.115
-"12","Chatham","10972","2014","Tom Gilbert","D-III","PAC",6,19,0,0.24
-"13","Chatham","10972","2013","Kelsey Knapp","D-III","PAC",8,28,0,0.222
-"14","Chatham","10972","2012","Bethany Bachman","D-III","PAC",13,23,0,0.361
-"15","Chatham","10972","2011","Bethany Bachman","D-III","PAC",9,18,0,0.333
-"16","Chatham","10972","2010","Sam LoFaso","D-III","PAC",7,25,0,0.219
-"17","Chatham","10972","2009","Sam LoFaso","D-III","PAC",4,26,0,0.133
-"18","Chatham","10972","2008","Sam LoFaso","D-III","PAC",8,26,0,0.235
-"19","Chatham","10972","2007","Sam LoFaso","D-III","AWCC",4,12,0,0.25
-"20","Chatham","10972","2006","Bob Bunnell","D-III","AWCC",3,9,0,0.25
-"21","Chatham","10972","2005","Phil Mastrean","D-III","AWCC",12,9,0,0.571
-"22","Chatham","10972","2004","Colleen O'Brien","D-III","AWCC",7,12,0,0.368
-"23","Chatham","10972","2003","Colleen O'Brien","","-",NA,NA,NA,NA
-"24","Chatham","10972","2002","Colleen O'Brien","D-III","-",NA,NA,NA,NA
-"25","Chatham","10972","2001","Noreen O'Malley","D-III","-",11,9,NA,0.55
-"26","Chatham","10972","1900","Noreen O'Malley","D-III","-",9,22,NA,0.29
-"27","Chatham","10972","1999","","D-III","-",NA,NA,NA,NA
-"28","Chatham","10972","1998","","D-III","-",NA,NA,NA,NA
-"29","Chatham","10972","1997","","D-III","-",NA,NA,NA,NA
-"30","Chatham","10972","1996","","D-III","-",NA,NA,NA,NA
-"31","Chatham","10972","1995","","D-III","-",NA,NA,NA,NA
-"32","Chatham","10972","1994","","D-III","-",NA,NA,NA,NA
-"33","Chatham","10972","1993","","D-III","-",NA,NA,NA,NA
-"34","Chatham","10972","1992","","D-III","-",NA,NA,NA,NA
-"35","Chatham","10972","1991","","D-III","-",NA,NA,NA,NA
-"36","Chatham","10972","1990","","D-III","-",NA,NA,NA,NA
-"37","Chatham","10972","1981","","","-",NA,NA,NA,NA
-"38","Chatham","10972","","","","",175,461,0,0.275
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mike Marsili","PAC","0-0-0",0
+"2","2024","Courtney Orr","PAC","10-26-0",0.278
+"3","2023","Deanna Tritinger","PAC","11-25-0",0.306
+"4","2022","Deanna Tritinger","PAC","12-22-0",0.353
+"5","2021","Deanna Tritinger","PAC","13-20-0",0.394
+"6","2020","Deanna Tritinger","PAC","1-9-0",0.1
+"7","2019","Deanna Tritinger","PAC","12-20-0",0.375
+"8","2018","Deanna Tritinger","PAC","5-25-0",0.167
+"9","2017","Deanna Tritinger","PAC","5-24-0",0.172
+"10","2016","Jason Evans","PAC","2-29-0",0.065
+"11","2015","Jason Evans","PAC","3-23-0",0.115
+"12","2014","Tom Gilbert","PAC","6-19-0",0.24
+"13","2013","Kelsey Knapp","PAC","8-28-0",0.222
+"14","2012","Bethany Bachman","PAC","13-23-0",0.361
+"15","2011","Bethany Bachman","PAC","9-18-0",0.333
+"16","2010","Sam LoFaso","PAC","7-25-0",0.219
+"17","2009","Sam LoFaso","PAC","4-26-0",0.133
+"18","2008","Sam LoFaso","PAC","8-26-0",0.235
+"19","2007","Sam LoFaso","AWCC","4-12-0",0.25
+"20","2006","Bob Bunnell","AWCC","3-9-0",0.25
+"21","2005","Phil Mastrean","AWCC","12-9-0",0.571
+"22","2004","Colleen O'Brien","AWCC","7-12-0",0.368
+"23","2003","Colleen O'Brien","-","NA-NA-0",NA
+"24","2002","Colleen O'Brien","-","NA-NA-0",NA
+"25","2001","Noreen O'Malley","-","11-9-0",0.55
+"26","1900","Noreen O'Malley","-","9-22-0",0.29
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

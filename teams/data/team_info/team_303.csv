@@ -1,39 +1,38 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Immaculata","303","2025","Stefanie Feinstein","D-III","Atlantic East",0,0,0,0
-"2","Immaculata","303","2024","Stefanie Feinstein","D-III","Atlantic East",14,20,0,0.412
-"3","Immaculata","303","2023","Stefanie Feinstein","D-III","Atlantic East",13,21,0,0.382
-"4","Immaculata","303","2022","Stefanie Feinstein","D-III","Atlantic East",10,24,0,0.294
-"5","Immaculata","303","2021","Mike Wallace","D-III","Atlantic East",5,16,0,0.238
-"6","Immaculata","303","2020","Mike Wallace","D-III","Atlantic East",9,1,0,0.9
-"7","Immaculata","303","2019","Mike Wallace","D-III","Atlantic East",26,11,2,0.692
-"8","Immaculata","303","2018","Mike Wallace","D-III","CSAC",28,16,NA,0.636
-"9","Immaculata","303","2017","Mike Wallace","D-III","CSAC",26,16,0,0.619
-"10","Immaculata","303","2016","Mike Wallace","D-III","CSAC",16,21,0,0.432
-"11","Immaculata","303","2015","Mike Wallace","D-III","CSAC",18,20,0,0.474
-"12","Immaculata","303","2014","Mike Wallace","D-III","CSAC",24,11,0,0.686
-"13","Immaculata","303","2013","Mike Wallace","D-III","CSAC",22,18,0,0.55
-"14","Immaculata","303","2012","Dolores Martino","D-III","CSAC",21,20,0,0.512
-"15","Immaculata","303","2011","Dolores Martino","D-III","CSAC",21,12,0,0.636
-"16","Immaculata","303","2010","Dolores Martino","D-III","CSAC",17,17,0,0.5
-"17","Immaculata","303","2009","Dolores Martino","D-III","CSAC",17,18,0,0.486
-"18","Immaculata","303","2008","Dolores Martino","D-III","CSAC",4,20,0,0.167
-"19","Immaculata","303","2007","Dolores Martino","D-III","CSAC",4,21,1,0.173
-"20","Immaculata","303","2006","John Kelly","D-III","CSAC",7,18,0,0.28
-"21","Immaculata","303","2005","John Kelly","D-III","CSAC",3,21,0,0.125
-"22","Immaculata","303","2004","Erin McDonnell","D-III","CSAC",8,16,0,0.333
-"23","Immaculata","303","2003","Nicole Hartshorn","D-III","CSAC",11,12,0,0.478
-"24","Immaculata","303","2002","Nicole Hartshorn","D-III","CSAC",18,17,0,0.514
-"25","Immaculata","303","2001","","D-III","-",NA,NA,NA,NA
-"26","Immaculata","303","1900","","D-III","-",NA,NA,NA,NA
-"27","Immaculata","303","1999","","D-III","-",NA,NA,NA,NA
-"28","Immaculata","303","1998","","D-III","-",NA,NA,NA,NA
-"29","Immaculata","303","1997","","D-III","-",NA,NA,NA,NA
-"30","Immaculata","303","1996","","D-III","-",NA,NA,NA,NA
-"31","Immaculata","303","1995","Denise Foedinger","D-III","-",9,12,NA,0.429
-"32","Immaculata","303","1994","","D-III","-",NA,NA,NA,NA
-"33","Immaculata","303","1993","","D-III","-",NA,NA,NA,NA
-"34","Immaculata","303","1992","","D-III","-",NA,NA,NA,NA
-"35","Immaculata","303","1991","","D-III","-",NA,NA,NA,NA
-"36","Immaculata","303","1990","","D-III","-",NA,NA,NA,NA
-"37","Immaculata","303","1981","","","-",NA,NA,NA,NA
-"38","Immaculata","303","","","","",351,399,3,0.468
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Stefanie Feinstein","Atlantic East","0-0-0",0
+"2","2024","Stefanie Feinstein","Atlantic East","14-20-0",0.412
+"3","2023","Stefanie Feinstein","Atlantic East","13-21-0",0.382
+"4","2022","Stefanie Feinstein","Atlantic East","10-24-0",0.294
+"5","2021","Mike Wallace","Atlantic East","5-16-0",0.238
+"6","2020","Mike Wallace","Atlantic East","9-1-0",0.9
+"7","2019","Mike Wallace","Atlantic East","26-11-2",0.692
+"8","2018","Mike Wallace","CSAC","28-16-0",0.636
+"9","2017","Mike Wallace","CSAC","26-16-0",0.619
+"10","2016","Mike Wallace","CSAC","16-21-0",0.432
+"11","2015","Mike Wallace","CSAC","18-20-0",0.474
+"12","2014","Mike Wallace","CSAC","24-11-0",0.686
+"13","2013","Mike Wallace","CSAC","22-18-0",0.55
+"14","2012","Dolores Martino","CSAC","21-20-0",0.512
+"15","2011","Dolores Martino","CSAC","21-12-0",0.636
+"16","2010","Dolores Martino","CSAC","17-17-0",0.5
+"17","2009","Dolores Martino","CSAC","17-18-0",0.486
+"18","2008","Dolores Martino","CSAC","4-20-0",0.167
+"19","2007","Dolores Martino","CSAC","4-21-1",0.173
+"20","2006","John Kelly","CSAC","7-18-0",0.28
+"21","2005","John Kelly","CSAC","3-21-0",0.125
+"22","2004","Erin McDonnell","CSAC","8-16-0",0.333
+"23","2003","Nicole Hartshorn","CSAC","11-12-0",0.478
+"24","2002","Nicole Hartshorn","CSAC","18-17-0",0.514
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","Denise Foedinger","-","9-12-0",0.429
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

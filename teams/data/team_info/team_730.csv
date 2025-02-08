@@ -1,43 +1,42 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Ursinus","730","2025","Taylor Gardner","D-III","Centennial",0,0,0,0
-"2","Ursinus","730","2024","Taylor Gardner","D-III","Centennial",15,23,0,0.395
-"3","Ursinus","730","2023","Taylor Gardner","D-III","Centennial",29,14,0,0.674
-"4","Ursinus","730","2022","Samantha Campo","D-III","Centennial",17,18,0,0.486
-"5","Ursinus","730","2021","Samantha Campo","D-III","Centennial",5,5,0,0.5
-"6","Ursinus","730","2020","Samantha Campo","D-III","Centennial",6,6,0,0.5
-"7","Ursinus","730","2019","Samantha Campo","D-III","Centennial",20,20,1,0.5
-"8","Ursinus","730","2018","Samantha Campo","D-III","Centennial",15,21,NA,0.417
-"9","Ursinus","730","2017","Samantha Campo","D-III","Centennial",17,19,0,0.472
-"10","Ursinus","730","2016","Samantha Campo","D-III","Centennial",17,19,0,0.472
-"11","Ursinus","730","2015","Samantha Campo","D-III","Centennial",13,20,0,0.394
-"12","Ursinus","730","2014","Samantha Campo","D-III","Centennial",10,24,0,0.294
-"13","Ursinus","730","2013","Samantha Campo","D-III","Centennial",15,19,0,0.441
-"14","Ursinus","730","2012","Jennifer Croneberger","D-III","Centennial",23,18,0,0.561
-"15","Ursinus","730","2011","Jennifer Croneberger","D-III","Centennial",18,18,0,0.5
-"16","Ursinus","730","2010","Terry McGowan","D-III","Centennial",28,7,0,0.8
-"17","Ursinus","730","2009","Terry McGowan","D-III","Centennial",28,10,0,0.737
-"18","Ursinus","730","2008","Terry McGowan","D-III","Centennial",36,11,0,0.766
-"19","Ursinus","730","2007","Terry McGowan","D-III","Centennial",30,10,0,0.75
-"20","Ursinus","730","2006","Terry McGowan","D-III","Centennial",30,8,0,0.789
-"21","Ursinus","730","2005","Terry McGowan","D-III","Centennial",37,10,0,0.787
-"22","Ursinus","730","2004","Terry McGowan","D-III","Centennial",33,11,1,0.744
-"23","Ursinus","730","2003","Terry McGowan","D-III","Centennial",22,10,0,0.688
-"24","Ursinus","730","2002","Terry McGowan","D-III","Centennial",20,18,1,0.526
-"25","Ursinus","730","2001","Terry McGowan","D-III","-",27,12,0,0.692
-"26","Ursinus","730","1900","Don Groff","D-III","-",34,12,NA,0.739
-"27","Ursinus","730","1999","Don Groff","D-III","-",22,21,NA,0.512
-"28","Ursinus","730","1998","Don Groff","D-III","-",16,19,NA,0.457
-"29","Ursinus","730","1997","Don Groff","D-III","-",28,16,NA,0.636
-"30","Ursinus","730","1996","Don Groff","D-III","-",42,4,NA,0.913
-"31","Ursinus","730","1995","Don Groff","D-III","-",29,8,NA,0.784
-"32","Ursinus","730","1994","Don Groff","D-III","-",19,15,NA,0.559
-"33","Ursinus","730","1993","Don Groff","D-III","-",19,11,NA,0.633
-"34","Ursinus","730","1992","Don Groff","D-III","-",13,21,NA,0.382
-"35","Ursinus","730","1991","Don Groff","D-III","-",9,23,NA,0.281
-"36","Ursinus","730","1990","","D-III","-",NA,NA,NA,NA
-"37","Ursinus","730","1987","","D-III","-",NA,NA,NA,NA
-"38","Ursinus","730","1986","","D-III","-",NA,NA,NA,NA
-"39","Ursinus","730","1985","","D-III","-",NA,NA,NA,NA
-"40","Ursinus","730","1983","","D-III","-",NA,NA,NA,NA
-"41","Ursinus","730","1982","","D-III","-",NA,NA,NA,NA
-"42","Ursinus","730","","","","",742,501,3,0.597
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Taylor Gardner","Centennial","0-0-0",0
+"2","2024","Taylor Gardner","Centennial","15-23-0",0.395
+"3","2023","Taylor Gardner","Centennial","29-14-0",0.674
+"4","2022","Samantha Campo","Centennial","17-18-0",0.486
+"5","2021","Samantha Campo","Centennial","5-5-0",0.5
+"6","2020","Samantha Campo","Centennial","6-6-0",0.5
+"7","2019","Samantha Campo","Centennial","20-20-1",0.5
+"8","2018","Samantha Campo","Centennial","15-21-0",0.417
+"9","2017","Samantha Campo","Centennial","17-19-0",0.472
+"10","2016","Samantha Campo","Centennial","17-19-0",0.472
+"11","2015","Samantha Campo","Centennial","13-20-0",0.394
+"12","2014","Samantha Campo","Centennial","10-24-0",0.294
+"13","2013","Samantha Campo","Centennial","15-19-0",0.441
+"14","2012","Jennifer Croneberger","Centennial","23-18-0",0.561
+"15","2011","Jennifer Croneberger","Centennial","18-18-0",0.5
+"16","2010","Terry McGowan","Centennial","28-7-0",0.8
+"17","2009","Terry McGowan","Centennial","28-10-0",0.737
+"18","2008","Terry McGowan","Centennial","36-11-0",0.766
+"19","2007","Terry McGowan","Centennial","30-10-0",0.75
+"20","2006","Terry McGowan","Centennial","30-8-0",0.789
+"21","2005","Terry McGowan","Centennial","37-10-0",0.787
+"22","2004","Terry McGowan","Centennial","33-11-1",0.744
+"23","2003","Terry McGowan","Centennial","22-10-0",0.688
+"24","2002","Terry McGowan","Centennial","20-18-1",0.526
+"25","2001","Terry McGowan","-","27-12-0",0.692
+"26","1900","Don Groff","-","34-12-0",0.739
+"27","1999","Don Groff","-","22-21-0",0.512
+"28","1998","Don Groff","-","16-19-0",0.457
+"29","1997","Don Groff","-","28-16-0",0.636
+"30","1996","Don Groff","-","42-4-0",0.913
+"31","1995","Don Groff","-","29-8-0",0.784
+"32","1994","Don Groff","-","19-15-0",0.559
+"33","1993","Don Groff","-","19-11-0",0.633
+"34","1992","Don Groff","-","13-21-0",0.382
+"35","1991","Don Groff","-","9-23-0",0.281
+"36","1990","","-","NA-NA-0",NA
+"37","1987","","-","NA-NA-0",NA
+"38","1986","","-","NA-NA-0",NA
+"39","1985","","-","NA-NA-0",NA
+"40","1983","","-","NA-NA-0",NA
+"41","1982","","-","NA-NA-0",NA

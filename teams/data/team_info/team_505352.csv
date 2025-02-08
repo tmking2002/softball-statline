@@ -1,6 +1,5 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Trinity (FL)","505352","2023",NA,NA,"-",NA,NA,NA,0
-"2","Trinity (FL)","505352","2022",NA,NA,"-",NA,NA,NA,0
-"3","Trinity (FL)","505352","2003",NA,NA,"-",NA,NA,NA,NA
-"4","Trinity (FL)","505352","1900",NA,NA,"-",NA,NA,NA,NA
-"5","Trinity (FL)","505352","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2023",NA,"-","NA-NA-0",0
+"2","2022",NA,"-","NA-NA-0",0
+"3","2003",NA,"-","NA-NA-0",NA
+"4","1900",NA,"-","NA-NA-0",NA

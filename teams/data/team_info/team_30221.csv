@@ -1,14 +1,13 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Davenport","30221","2025","Kathryn Bzdafka","D-II","GLIAC",0,0,0,0
-"2","Davenport","30221","2024","Kathryn Bzdafka","D-II","GLIAC",15,31,0,0.326
-"3","Davenport","30221","2023","Kathryn Bzdafka","D-II","GLIAC",13,32,0,0.289
-"4","Davenport","30221","2022","Kathryn Bzdafka","D-II","GLIAC",25,22,0,0.532
-"5","Davenport","30221","2021","Amber Bowman","D-II","GLIAC",23,23,0,0.5
-"6","Davenport","30221","2020","Amber Bowman","D-II","GLIAC",7,10,0,0.412
-"7","Davenport","30221","2019","McCall Salmon","D-II","GLIAC",32,21,0,0.604
-"8","Davenport","30221","2018","McCall Salmon","D-II","GLIAC",35,21,NA,0.625
-"9","Davenport","30221","2017","McCall Salmon","D-II","-",4,1,0,0.8
-"10","Davenport","30221","2016","McCall Salmon","","-",39,12,0,0.765
-"11","Davenport","30221","2015","McCall Salmon","","-",42,10,0,0.808
-"12","Davenport","30221","2014","McCall Salmon","","-",38,10,0,0.792
-"13","Davenport","30221","","","","",273,193,0,0.586
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Kathryn Bzdafka","GLIAC","0-0-0",0
+"2","2024","Kathryn Bzdafka","GLIAC","15-31-0",0.326
+"3","2023","Kathryn Bzdafka","GLIAC","13-32-0",0.289
+"4","2022","Kathryn Bzdafka","GLIAC","25-22-0",0.532
+"5","2021","Amber Bowman","GLIAC","23-23-0",0.5
+"6","2020","Amber Bowman","GLIAC","7-10-0",0.412
+"7","2019","McCall Salmon","GLIAC","32-21-0",0.604
+"8","2018","McCall Salmon","GLIAC","35-21-0",0.625
+"9","2017","McCall Salmon","-","4-1-0",0.8
+"10","2016","McCall Salmon","-","39-12-0",0.765
+"11","2015","McCall Salmon","-","42-10-0",0.808
+"12","2014","McCall Salmon","-","38-10-0",0.792

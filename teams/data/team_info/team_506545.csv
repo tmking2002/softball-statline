@@ -1,5 +1,4 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Oakland City","506545","2024",NA,NA,"-",NA,NA,NA,0
-"2","Oakland City","506545","2023",NA,NA,"-",NA,NA,NA,0
-"3","Oakland City","506545","2022",NA,NA,"-",NA,NA,NA,0
-"4","Oakland City","506545","",NA,NA,"",0,0,0,0
+"","season","head_coach","conference","record","win_perc"
+"1","2024",NA,"-","NA-NA-0",0
+"2","2023",NA,"-","NA-NA-0",0
+"3","2022",NA,"-","NA-NA-0",0

@@ -1,40 +1,39 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","St. Bonaventure","596","2025","Mike Threehouse","D-I","Atlantic 10",0,0,0,0
-"2","St. Bonaventure","596","2024","Mike Threehouse","D-I","Atlantic 10",4,39,0,0.093
-"3","St. Bonaventure","596","2023","Mike Threehouse","D-I","Atlantic 10",12,35,1,0.26
-"4","St. Bonaventure","596","2022","Mike Threehouse","D-I","Atlantic 10",8,38,0,0.174
-"5","St. Bonaventure","596","2021","Mike Threehouse","D-I","Atlantic 10",2,26,0,0.071
-"6","St. Bonaventure","596","2020","Mike Threehouse","D-I","Atlantic 10",2,7,0,0.222
-"7","St. Bonaventure","596","2019","Mike Threehouse","D-I","Atlantic 10",9,36,0,0.2
-"8","St. Bonaventure","596","2018","Mike Threehouse","D-I","Atlantic 10",10,32,NA,0.238
-"9","St. Bonaventure","596","2017","Mike Threehouse","D-I","Atlantic 10",12,37,0,0.245
-"10","St. Bonaventure","596","2016","Mike Threehouse","D-I","Atlantic 10",15,32,0,0.319
-"11","St. Bonaventure","596","2015","Mike Threehouse","D-I","Atlantic 10",15,24,0,0.385
-"12","St. Bonaventure","596","2014","Mike Threehouse","D-I","Atlantic 10",7,33,0,0.175
-"13","St. Bonaventure","596","2013","Mike Threehouse","D-I","Atlantic 10",10,42,0,0.192
-"14","St. Bonaventure","596","2012","Mike Threehouse","D-I","Atlantic 10",17,27,0,0.386
-"15","St. Bonaventure","596","2011","Mike Threehouse","D-I","Atlantic 10",13,20,0,0.394
-"16","St. Bonaventure","596","2010","Mike Threehouse","D-I","Atlantic 10",13,27,0,0.325
-"17","St. Bonaventure","596","2009","Mike Threehouse","D-I","Atlantic 10",12,28,0,0.3
-"18","St. Bonaventure","596","2008","Mike Threehouse","D-I","Atlantic 10",20,25,0,0.444
-"19","St. Bonaventure","596","2007","Mike Threehouse","D-I","Atlantic 10",18,18,0,0.5
-"20","St. Bonaventure","596","2006","Mike Threehouse","D-I","Atlantic 10",23,22,0,0.511
-"21","St. Bonaventure","596","2005","Mike Threehouse","D-I","Atlantic 10",14,26,0,0.35
-"22","St. Bonaventure","596","2004","Mike Threehouse","D-I","Atlantic 10",12,24,0,0.333
-"23","St. Bonaventure","596","2003","Mike Threehouse","D-I","Atlantic 10",19,21,0,0.475
-"24","St. Bonaventure","596","2002","Mike Threehouse","D-I","Atlantic 10",12,22,0,0.353
-"25","St. Bonaventure","596","2001","Mike Threehouse","D-I","Atlantic 10",9,34,0,0.209
-"26","St. Bonaventure","596","1900","Mike Threehouse","D-I","Atlantic 10",19,28,0,0.404
-"27","St. Bonaventure","596","1999","Mike Threehouse","D-I","Atlantic 10",11,36,0,0.234
-"28","St. Bonaventure","596","1998","Mike Threehouse","D-I","-",17,21,NA,0.447
-"29","St. Bonaventure","596","1997","Mike Threehouse","D-I","Atlantic 10",13,23,0,0.361
-"30","St. Bonaventure","596","1996","Todd Randall","D-I","-",10,29,NA,0.256
-"31","St. Bonaventure","596","1995","Todd Randall","D-I","-",11,25,1,0.311
-"32","St. Bonaventure","596","1994","Todd Randall","D-I","-",3,27,NA,0.1
-"33","St. Bonaventure","596","1993","Todd Randall","D-I","-",3,21,NA,0.125
-"34","St. Bonaventure","596","1992","Cindy Ryan Nannen","D-I","-",10,22,NA,0.313
-"35","St. Bonaventure","596","1991","Cindy Ryan Nannen","D-I","-",7,21,NA,0.25
-"36","St. Bonaventure","596","1990","Maureen Quattrone","D-I","-",5,23,NA,0.179
-"37","St. Bonaventure","596","1989","Maureen Quattrone","D-I","-",9,20,NA,0.31
-"38","St. Bonaventure","596","1988","Maureen Quattrone","D-I","-",8,23,NA,0.258
-"39","St. Bonaventure","596","","","","",414,994,2,0.294
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Mike Threehouse","Atlantic 10","0-0-0",0
+"2","2024","Mike Threehouse","Atlantic 10","4-39-0",0.093
+"3","2023","Mike Threehouse","Atlantic 10","12-35-1",0.26
+"4","2022","Mike Threehouse","Atlantic 10","8-38-0",0.174
+"5","2021","Mike Threehouse","Atlantic 10","2-26-0",0.071
+"6","2020","Mike Threehouse","Atlantic 10","2-7-0",0.222
+"7","2019","Mike Threehouse","Atlantic 10","9-36-0",0.2
+"8","2018","Mike Threehouse","Atlantic 10","10-32-0",0.238
+"9","2017","Mike Threehouse","Atlantic 10","12-37-0",0.245
+"10","2016","Mike Threehouse","Atlantic 10","15-32-0",0.319
+"11","2015","Mike Threehouse","Atlantic 10","15-24-0",0.385
+"12","2014","Mike Threehouse","Atlantic 10","7-33-0",0.175
+"13","2013","Mike Threehouse","Atlantic 10","10-42-0",0.192
+"14","2012","Mike Threehouse","Atlantic 10","17-27-0",0.386
+"15","2011","Mike Threehouse","Atlantic 10","13-20-0",0.394
+"16","2010","Mike Threehouse","Atlantic 10","13-27-0",0.325
+"17","2009","Mike Threehouse","Atlantic 10","12-28-0",0.3
+"18","2008","Mike Threehouse","Atlantic 10","20-25-0",0.444
+"19","2007","Mike Threehouse","Atlantic 10","18-18-0",0.5
+"20","2006","Mike Threehouse","Atlantic 10","23-22-0",0.511
+"21","2005","Mike Threehouse","Atlantic 10","14-26-0",0.35
+"22","2004","Mike Threehouse","Atlantic 10","12-24-0",0.333
+"23","2003","Mike Threehouse","Atlantic 10","19-21-0",0.475
+"24","2002","Mike Threehouse","Atlantic 10","12-22-0",0.353
+"25","2001","Mike Threehouse","Atlantic 10","9-34-0",0.209
+"26","1900","Mike Threehouse","Atlantic 10","19-28-0",0.404
+"27","1999","Mike Threehouse","Atlantic 10","11-36-0",0.234
+"28","1998","Mike Threehouse","-","17-21-0",0.447
+"29","1997","Mike Threehouse","Atlantic 10","13-23-0",0.361
+"30","1996","Todd Randall","-","10-29-0",0.256
+"31","1995","Todd Randall","-","11-25-1",0.311
+"32","1994","Todd Randall","-","3-27-0",0.1
+"33","1993","Todd Randall","-","3-21-0",0.125
+"34","1992","Cindy Ryan Nannen","-","10-22-0",0.313
+"35","1991","Cindy Ryan Nannen","-","7-21-0",0.25
+"36","1990","Maureen Quattrone","-","5-23-0",0.179
+"37","1989","Maureen Quattrone","-","9-20-0",0.31
+"38","1988","Maureen Quattrone","-","8-23-0",0.258

@@ -1,17 +1,16 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","NJIT","471","2002","","D-III","-",NA,NA,NA,NA
-"2","NJIT","471","2001","","D-III","-",NA,NA,NA,NA
-"3","NJIT","471","1900","","D-III","-",NA,NA,NA,NA
-"4","NJIT","471","1999","","D-III","-",NA,NA,NA,NA
-"5","NJIT","471","1998","","D-III","-",NA,NA,NA,NA
-"6","NJIT","471","1997","","D-III","-",NA,NA,NA,NA
-"7","NJIT","471","1996","","D-III","-",NA,NA,NA,NA
-"8","NJIT","471","1995","Denise Bernarducci","D-III","-",5,5,0,0.5
-"9","NJIT","471","1994","","D-III","-",NA,NA,NA,NA
-"10","NJIT","471","1993","Tony Siniscalco","D-III","-",0,7,1,0.063
-"11","NJIT","471","1992","","D-III","-",NA,NA,NA,NA
-"12","NJIT","471","1991","","D-III","-",NA,NA,NA,NA
-"13","NJIT","471","1990","","D-III","-",NA,NA,NA,NA
-"14","NJIT","471","1988","","D-III","-",NA,NA,NA,NA
-"15","NJIT","471","1987","","D-III","-",NA,NA,NA,NA
-"16","NJIT","471","","","","",5,12,1,0.306
+"","season","head_coach","conference","record","win_perc"
+"1","2002","","-","NA-NA-0",NA
+"2","2001","","-","NA-NA-0",NA
+"3","1900","","-","NA-NA-0",NA
+"4","1999","","-","NA-NA-0",NA
+"5","1998","","-","NA-NA-0",NA
+"6","1997","","-","NA-NA-0",NA
+"7","1996","","-","NA-NA-0",NA
+"8","1995","Denise Bernarducci","-","5-5-0",0.5
+"9","1994","","-","NA-NA-0",NA
+"10","1993","Tony Siniscalco","-","0-7-1",0.063
+"11","1992","","-","NA-NA-0",NA
+"12","1991","","-","NA-NA-0",NA
+"13","1990","","-","NA-NA-0",NA
+"14","1988","","-","NA-NA-0",NA
+"15","1987","","-","NA-NA-0",NA

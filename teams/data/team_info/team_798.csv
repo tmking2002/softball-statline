@@ -1,47 +1,46 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Wis.-Oshkosh","798","2025","Scott Beyer","D-III","WIAC",0,0,0,0
-"2","Wis.-Oshkosh","798","2024","Scott Beyer","D-III","WIAC",45,7,0,0.865
-"3","Wis.-Oshkosh","798","2023","Scott Beyer","D-III","WIAC",36,9,0,0.8
-"4","Wis.-Oshkosh","798","2022","Scott Beyer","D-III","WIAC",26,10,0,0.722
-"5","Wis.-Oshkosh","798","2021","Scott Beyer","D-III","WIAC",29,13,0,0.69
-"6","Wis.-Oshkosh","798","2020","Scott Beyer","D-III","WIAC",5,1,0,0.833
-"7","Wis.-Oshkosh","798","2019","Scott Beyer","D-III","WIAC",23,17,0,0.575
-"8","Wis.-Oshkosh","798","2018","Scott Beyer","D-III","WIAC",26,14,NA,0.65
-"9","Wis.-Oshkosh","798","2017","Scott Beyer","D-III","WIAC",33,13,0,0.717
-"10","Wis.-Oshkosh","798","2016","Scott Beyer","D-III","WIAC",26,13,0,0.667
-"11","Wis.-Oshkosh","798","2015","Scott Beyer","D-III","WIAC",30,12,0,0.714
-"12","Wis.-Oshkosh","798","2014","Scott Beyer","D-III","WIAC",23,11,0,0.676
-"13","Wis.-Oshkosh","798","2013","Cindy Suess","D-III","WIAC",25,11,0,0.694
-"14","Wis.-Oshkosh","798","2012","Cindy Suess","D-III","WIAC",22,20,0,0.524
-"15","Wis.-Oshkosh","798","2011","Cindy Suess","D-III","WIAC",21,17,0,0.553
-"16","Wis.-Oshkosh","798","2010","Cindy Suess","D-III","WIAC",22,21,0,0.512
-"17","Wis.-Oshkosh","798","2009","Cindy Suess","D-III","WIAC",20,17,0,0.541
-"18","Wis.-Oshkosh","798","2008","Cindy Suess","D-III","WIAC",32,11,0,0.744
-"19","Wis.-Oshkosh","798","2007","Cindy Suess","D-III","WIAC",36,11,0,0.766
-"20","Wis.-Oshkosh","798","2006","Cindy Suess","D-III","WIAC",27,17,0,0.614
-"21","Wis.-Oshkosh","798","2005","Cindy Suess","D-III","WIAC",24,15,1,0.613
-"22","Wis.-Oshkosh","798","2004","Amy Smith","D-III","WIAC",20,19,0,0.513
-"23","Wis.-Oshkosh","798","2003","Sharon Panske (0-10)Chrissy Lambie (8-15)","D-III","WIAC",8,25,NA,0.242
-"24","Wis.-Oshkosh","798","2002","Sharon Panske","D-III","WIAC",15,14,0,0.517
-"25","Wis.-Oshkosh","798","2001","Sharon Panske","D-III","-",16,24,1,0.402
-"26","Wis.-Oshkosh","798","1900","Sharon Panske","D-III","-",20,23,NA,0.465
-"27","Wis.-Oshkosh","798","1999","Sharon Panske","D-III","-",21,19,NA,0.525
-"28","Wis.-Oshkosh","798","1998","Sharon Panske","D-III","-",22,17,NA,0.564
-"29","Wis.-Oshkosh","798","1997","Sharon Panske","D-III","-",23,16,NA,0.59
-"30","Wis.-Oshkosh","798","1996","Sharon Panske","D-III","-",22,19,NA,0.537
-"31","Wis.-Oshkosh","798","1995","Sharon Panske","D-III","-",8,28,NA,0.222
-"32","Wis.-Oshkosh","798","1994","Sharon Panske","D-III","-",19,22,NA,0.463
-"33","Wis.-Oshkosh","798","1993","Sharon Panske","D-III","-",16,17,NA,0.485
-"34","Wis.-Oshkosh","798","1992","Sharon Panske","D-III","-",23,14,NA,0.622
-"35","Wis.-Oshkosh","798","1991","Sharon Panske","D-III","-",7,17,NA,0.292
-"36","Wis.-Oshkosh","798","1990","Sharon Panske","D-III","-",16,14,1,0.532
-"37","Wis.-Oshkosh","798","1989","Sharon Panske","D-III","-",17,14,NA,0.548
-"38","Wis.-Oshkosh","798","1988","Sharon Panske","D-III","-",22,15,NA,0.595
-"39","Wis.-Oshkosh","798","1987","Sharon Panske","D-III","-",31,9,NA,0.775
-"40","Wis.-Oshkosh","798","1986","","D-III","-",NA,NA,NA,NA
-"41","Wis.-Oshkosh","798","1985","","D-III","-",NA,NA,NA,NA
-"42","Wis.-Oshkosh","798","1984","","D-III","-",NA,NA,NA,NA
-"43","Wis.-Oshkosh","798","1983","","D-III","-",NA,NA,NA,NA
-"44","Wis.-Oshkosh","798","1982","","D-III","-",NA,NA,NA,NA
-"45","Wis.-Oshkosh","798","1981","","","-",NA,NA,NA,NA
-"46","Wis.-Oshkosh","798","","","","",857,586,3,0.594
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Scott Beyer","WIAC","0-0-0",0
+"2","2024","Scott Beyer","WIAC","45-7-0",0.865
+"3","2023","Scott Beyer","WIAC","36-9-0",0.8
+"4","2022","Scott Beyer","WIAC","26-10-0",0.722
+"5","2021","Scott Beyer","WIAC","29-13-0",0.69
+"6","2020","Scott Beyer","WIAC","5-1-0",0.833
+"7","2019","Scott Beyer","WIAC","23-17-0",0.575
+"8","2018","Scott Beyer","WIAC","26-14-0",0.65
+"9","2017","Scott Beyer","WIAC","33-13-0",0.717
+"10","2016","Scott Beyer","WIAC","26-13-0",0.667
+"11","2015","Scott Beyer","WIAC","30-12-0",0.714
+"12","2014","Scott Beyer","WIAC","23-11-0",0.676
+"13","2013","Cindy Suess","WIAC","25-11-0",0.694
+"14","2012","Cindy Suess","WIAC","22-20-0",0.524
+"15","2011","Cindy Suess","WIAC","21-17-0",0.553
+"16","2010","Cindy Suess","WIAC","22-21-0",0.512
+"17","2009","Cindy Suess","WIAC","20-17-0",0.541
+"18","2008","Cindy Suess","WIAC","32-11-0",0.744
+"19","2007","Cindy Suess","WIAC","36-11-0",0.766
+"20","2006","Cindy Suess","WIAC","27-17-0",0.614
+"21","2005","Cindy Suess","WIAC","24-15-1",0.613
+"22","2004","Amy Smith","WIAC","20-19-0",0.513
+"23","2003","Sharon Panske (0-10)Chrissy Lambie (8-15)","WIAC","8-25-0",0.242
+"24","2002","Sharon Panske","WIAC","15-14-0",0.517
+"25","2001","Sharon Panske","-","16-24-1",0.402
+"26","1900","Sharon Panske","-","20-23-0",0.465
+"27","1999","Sharon Panske","-","21-19-0",0.525
+"28","1998","Sharon Panske","-","22-17-0",0.564
+"29","1997","Sharon Panske","-","23-16-0",0.59
+"30","1996","Sharon Panske","-","22-19-0",0.537
+"31","1995","Sharon Panske","-","8-28-0",0.222
+"32","1994","Sharon Panske","-","19-22-0",0.463
+"33","1993","Sharon Panske","-","16-17-0",0.485
+"34","1992","Sharon Panske","-","23-14-0",0.622
+"35","1991","Sharon Panske","-","7-17-0",0.292
+"36","1990","Sharon Panske","-","16-14-1",0.532
+"37","1989","Sharon Panske","-","17-14-0",0.548
+"38","1988","Sharon Panske","-","22-15-0",0.595
+"39","1987","Sharon Panske","-","31-9-0",0.775
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

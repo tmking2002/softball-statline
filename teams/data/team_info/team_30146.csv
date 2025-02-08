@@ -1,42 +1,41 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Azusa Pacific","30146","2025","Carrie Webber","D-II","PacWest",3,4,0,0.429
-"2","Azusa Pacific","30146","2024","Carrie Webber","D-II","PacWest",31,21,0,0.596
-"3","Azusa Pacific","30146","2023","Carrie Webber","D-II","PacWest",34,26,0,0.567
-"4","Azusa Pacific","30146","2022","Carrie Webber","D-II","PacWest",35,17,0,0.673
-"5","Azusa Pacific","30146","2021","Carrie Webber","D-II","PacWest",18,18,0,0.5
-"6","Azusa Pacific","30146","2020","Carrie Webber","D-II","PacWest",9,12,0,0.429
-"7","Azusa Pacific","30146","2019","Carrie Webber","D-II","PacWest",31,17,0,0.646
-"8","Azusa Pacific","30146","2018","Carrie Webber","D-II","PacWest",22,25,NA,0.468
-"9","Azusa Pacific","30146","2017","Carrie Webber","D-II","PacWest",32,18,0,0.64
-"10","Azusa Pacific","30146","2016","Carrie Webber","D-II","PacWest",40,12,0,0.769
-"11","Azusa Pacific","30146","2015","Carrie Webber","D-II","PacWest",29,26,0,0.527
-"12","Azusa Pacific","30146","2014","Carrie Webber","","-",40,19,0,0.678
-"13","Azusa Pacific","30146","2013","Carrie Webber","","-",23,24,0,0.489
-"14","Azusa Pacific","30146","2012","Carrie Webber","","-",38,8,0,0.826
-"15","Azusa Pacific","30146","2011","Carrie Webber","","-",33,23,0,0.589
-"16","Azusa Pacific","30146","2010","Carrie Webber","","-",27,22,0,0.551
-"17","Azusa Pacific","30146","2009","Carrie Webber","","-",27,22,0,0.551
-"18","Azusa Pacific","30146","2008","Carrie Webber","","-",21,26,0,0.447
-"19","Azusa Pacific","30146","2007","Lori Kwiatkowski","","-",15,25,0,0.375
-"20","Azusa Pacific","30146","2006","Lori Kwiatkowski","","-",26,20,0,0.565
-"21","Azusa Pacific","30146","2005","Sharon Lehman","","-",32,16,0,0.667
-"22","Azusa Pacific","30146","2004","Sharon Lehman","","-",26,20,0,0.565
-"23","Azusa Pacific","30146","2003","Sharon Lehman","","-",41,20,0,0.672
-"24","Azusa Pacific","30146","2002","Sharon Lehman","","-",34,19,0,0.642
-"25","Azusa Pacific","30146","2001","Sharon Lehman","","-",40,18,0,0.69
-"26","Azusa Pacific","30146","1900","Sharon Lehman","","-",53,15,0,0.779
-"27","Azusa Pacific","30146","1999","Sharon Lehman","","-",32,23,0,0.582
-"28","Azusa Pacific","30146","1998","Sharon Lehman","","-",38,20,0,0.655
-"29","Azusa Pacific","30146","1997","Sharon Lehman","","-",51,11,0,0.823
-"30","Azusa Pacific","30146","1996","Sharon Lehman","","-",47,14,0,0.77
-"31","Azusa Pacific","30146","1995","Sharon Lehman","","-",34,19,0,0.642
-"32","Azusa Pacific","30146","1994","Teri Crowin","","-",18,23,0,0.439
-"33","Azusa Pacific","30146","1993","Doug Barnett","","-",37,15,0,0.712
-"34","Azusa Pacific","30146","1992","Doug Barnett","","-",31,20,0,0.608
-"35","Azusa Pacific","30146","1991","Doug Barnett","","-",34,21,0,0.618
-"36","Azusa Pacific","30146","1990","Doug Barnett","","-",19,19,0,0.5
-"37","Azusa Pacific","30146","1989","Laura Woods","","-",16,18,0,0.471
-"38","Azusa Pacific","30146","1988","Laura Woods","","-",14,17,0,0.452
-"39","Azusa Pacific","30146","1987","Laura Woods","","-",14,19,0,0.424
-"40","Azusa Pacific","30146","1986","Laura Woods","","-",19,5,0,0.792
-"41","Azusa Pacific","30146","","","","",1164,737,0,0.612
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Carrie Webber","PacWest","3-4-0",0.429
+"2","2024","Carrie Webber","PacWest","31-21-0",0.596
+"3","2023","Carrie Webber","PacWest","34-26-0",0.567
+"4","2022","Carrie Webber","PacWest","35-17-0",0.673
+"5","2021","Carrie Webber","PacWest","18-18-0",0.5
+"6","2020","Carrie Webber","PacWest","9-12-0",0.429
+"7","2019","Carrie Webber","PacWest","31-17-0",0.646
+"8","2018","Carrie Webber","PacWest","22-25-0",0.468
+"9","2017","Carrie Webber","PacWest","32-18-0",0.64
+"10","2016","Carrie Webber","PacWest","40-12-0",0.769
+"11","2015","Carrie Webber","PacWest","29-26-0",0.527
+"12","2014","Carrie Webber","-","40-19-0",0.678
+"13","2013","Carrie Webber","-","23-24-0",0.489
+"14","2012","Carrie Webber","-","38-8-0",0.826
+"15","2011","Carrie Webber","-","33-23-0",0.589
+"16","2010","Carrie Webber","-","27-22-0",0.551
+"17","2009","Carrie Webber","-","27-22-0",0.551
+"18","2008","Carrie Webber","-","21-26-0",0.447
+"19","2007","Lori Kwiatkowski","-","15-25-0",0.375
+"20","2006","Lori Kwiatkowski","-","26-20-0",0.565
+"21","2005","Sharon Lehman","-","32-16-0",0.667
+"22","2004","Sharon Lehman","-","26-20-0",0.565
+"23","2003","Sharon Lehman","-","41-20-0",0.672
+"24","2002","Sharon Lehman","-","34-19-0",0.642
+"25","2001","Sharon Lehman","-","40-18-0",0.69
+"26","1900","Sharon Lehman","-","53-15-0",0.779
+"27","1999","Sharon Lehman","-","32-23-0",0.582
+"28","1998","Sharon Lehman","-","38-20-0",0.655
+"29","1997","Sharon Lehman","-","51-11-0",0.823
+"30","1996","Sharon Lehman","-","47-14-0",0.77
+"31","1995","Sharon Lehman","-","34-19-0",0.642
+"32","1994","Teri Crowin","-","18-23-0",0.439
+"33","1993","Doug Barnett","-","37-15-0",0.712
+"34","1992","Doug Barnett","-","31-20-0",0.608
+"35","1991","Doug Barnett","-","34-21-0",0.618
+"36","1990","Doug Barnett","-","19-19-0",0.5
+"37","1989","Laura Woods","-","16-18-0",0.471
+"38","1988","Laura Woods","-","14-17-0",0.452
+"39","1987","Laura Woods","-","14-19-0",0.424
+"40","1986","Laura Woods","-","19-5-0",0.792

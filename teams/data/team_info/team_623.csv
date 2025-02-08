@@ -1,45 +1,44 @@
-"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
-"1","Salve Regina","623","2025","Shauna DeLade","D-III","NEWMAC",0,0,0,0
-"2","Salve Regina","623","2024","Shauna DeLade","D-III","NEWMAC",12,24,0,0.333
-"3","Salve Regina","623","2023","Shauna DeLade","D-III","CNE",18,24,0,0.429
-"4","Salve Regina","623","2022","Shauna DeLade","D-III","CNE",17,22,0,0.436
-"5","Salve Regina","623","2021","Jannelle Iaquinto","D-III","CNE",7,9,0,0.438
-"6","Salve Regina","623","2020","Jannelle Iaquinto","D-III","CNE",1,1,0,0.5
-"7","Salve Regina","623","2019","Jannelle Iaquinto","D-III","CNE",23,20,0,0.535
-"8","Salve Regina","623","2018","Jannelle Iaquinto","D-III","CNE",17,21,NA,0.447
-"9","Salve Regina","623","2017","Jannelle Iaquinto","D-III","CNE",26,13,0,0.667
-"10","Salve Regina","623","2016","Jessica DePolito","D-III","CNE",25,18,0,0.581
-"11","Salve Regina","623","2015","Jessica DePolito","D-III","CNE",20,20,0,0.5
-"12","Salve Regina","623","2014","Jessica DePolito","D-III","CNE",22,19,0,0.537
-"13","Salve Regina","623","2013","Kerri Scroope","D-III","CNE",23,19,0,0.548
-"14","Salve Regina","623","2012","Kerri Scroope","D-III","CNE",24,17,0,0.585
-"15","Salve Regina","623","2011","Kerri Scroope","D-III","CNE",15,26,0,0.366
-"16","Salve Regina","623","2010","Kerri Scroope","D-III","CNE",20,14,0,0.588
-"17","Salve Regina","623","2009","Kerri Scroope","D-III","CNE",25,20,1,0.554
-"18","Salve Regina","623","2008","Kerri Scroope","D-III","CNE",19,22,0,0.463
-"19","Salve Regina","623","2007","Lisa Yenush","D-III","CNE",19,19,0,0.5
-"20","Salve Regina","623","2006","Lisa Yenush","D-III","CNE",9,28,0,0.243
-"21","Salve Regina","623","2005","Lisa Yenush","D-III","CNE",14,23,0,0.378
-"22","Salve Regina","623","2004","Lisa Yenush","D-III","CNE",22,19,1,0.536
-"23","Salve Regina","623","2003","Lisa Yenush","D-III","CNE",22,18,1,0.549
-"24","Salve Regina","623","2002","Lisa Yenush","D-III","CNE",22,17,1,0.563
-"25","Salve Regina","623","2001","Lisa Yenush","D-III","-",15,21,1,0.419
-"26","Salve Regina","623","1900","Lisa Yenush","D-III","-",19,18,NA,0.514
-"27","Salve Regina","623","1999","Ron Manton","D-III","-",20,8,NA,0.714
-"28","Salve Regina","623","1998","Mick Klitzner","D-III","-",16,17,1,0.485
-"29","Salve Regina","623","1997","Tricia Cronin","D-III","-",17,9,NA,0.654
-"30","Salve Regina","623","1996","Tricia Cronin","D-III","-",19,8,NA,0.704
-"31","Salve Regina","623","1995","Tricia Cronin","D-III","-",18,15,NA,0.545
-"32","Salve Regina","623","1994","Tricia Cronin","D-III","-",20,4,NA,0.833
-"33","Salve Regina","623","1993","Tricia Cronin","D-III","-",20,10,NA,0.667
-"34","Salve Regina","623","1992","Tricia Cronin","D-III","-",13,10,NA,0.565
-"35","Salve Regina","623","1991","","D-III","-",NA,NA,NA,NA
-"36","Salve Regina","623","1990","","D-III","-",NA,NA,NA,NA
-"37","Salve Regina","623","1989","","D-III","-",NA,NA,NA,NA
-"38","Salve Regina","623","1988","","D-III","-",NA,NA,NA,NA
-"39","Salve Regina","623","1987","","D-III","-",NA,NA,NA,NA
-"40","Salve Regina","623","1985","","D-III","-",NA,NA,NA,NA
-"41","Salve Regina","623","1983","","D-III","-",NA,NA,NA,NA
-"42","Salve Regina","623","1982","","D-III","-",NA,NA,NA,NA
-"43","Salve Regina","623","1981","","","-",NA,NA,NA,NA
-"44","Salve Regina","623","","","","",599,553,6,0.52
+"","season","head_coach","conference","record","win_perc"
+"1","2025","Shauna DeLade","NEWMAC","0-0-0",0
+"2","2024","Shauna DeLade","NEWMAC","12-24-0",0.333
+"3","2023","Shauna DeLade","CNE","18-24-0",0.429
+"4","2022","Shauna DeLade","CNE","17-22-0",0.436
+"5","2021","Jannelle Iaquinto","CNE","7-9-0",0.438
+"6","2020","Jannelle Iaquinto","CNE","1-1-0",0.5
+"7","2019","Jannelle Iaquinto","CNE","23-20-0",0.535
+"8","2018","Jannelle Iaquinto","CNE","17-21-0",0.447
+"9","2017","Jannelle Iaquinto","CNE","26-13-0",0.667
+"10","2016","Jessica DePolito","CNE","25-18-0",0.581
+"11","2015","Jessica DePolito","CNE","20-20-0",0.5
+"12","2014","Jessica DePolito","CNE","22-19-0",0.537
+"13","2013","Kerri Scroope","CNE","23-19-0",0.548
+"14","2012","Kerri Scroope","CNE","24-17-0",0.585
+"15","2011","Kerri Scroope","CNE","15-26-0",0.366
+"16","2010","Kerri Scroope","CNE","20-14-0",0.588
+"17","2009","Kerri Scroope","CNE","25-20-1",0.554
+"18","2008","Kerri Scroope","CNE","19-22-0",0.463
+"19","2007","Lisa Yenush","CNE","19-19-0",0.5
+"20","2006","Lisa Yenush","CNE","9-28-0",0.243
+"21","2005","Lisa Yenush","CNE","14-23-0",0.378
+"22","2004","Lisa Yenush","CNE","22-19-1",0.536
+"23","2003","Lisa Yenush","CNE","22-18-1",0.549
+"24","2002","Lisa Yenush","CNE","22-17-1",0.563
+"25","2001","Lisa Yenush","-","15-21-1",0.419
+"26","1900","Lisa Yenush","-","19-18-0",0.514
+"27","1999","Ron Manton","-","20-8-0",0.714
+"28","1998","Mick Klitzner","-","16-17-1",0.485
+"29","1997","Tricia Cronin","-","17-9-0",0.654
+"30","1996","Tricia Cronin","-","19-8-0",0.704
+"31","1995","Tricia Cronin","-","18-15-0",0.545
+"32","1994","Tricia Cronin","-","20-4-0",0.833
+"33","1993","Tricia Cronin","-","20-10-0",0.667
+"34","1992","Tricia Cronin","-","13-10-0",0.565
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1985","","-","NA-NA-0",NA
+"41","1983","","-","NA-NA-0",NA
+"42","1982","","-","NA-NA-0",NA
+"43","1981","","-","NA-NA-0",NA
