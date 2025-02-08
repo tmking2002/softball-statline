@@ -1,7 +1,8 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2021",NA,"-","0-0-0",0
-"5","2020",NA,"-","0-0-0",0
-"6","2019",NA,"-","0-0-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","To Be Announced","506224","2024",NA,NA,"-",NA,NA,NA,0
+"2","To Be Announced","506224","2023",NA,NA,"-",NA,NA,NA,0
+"3","To Be Announced","506224","2022",NA,NA,"-",NA,NA,NA,0
+"4","To Be Announced","506224","2021",NA,NA,"-",NA,NA,NA,0
+"5","To Be Announced","506224","2020",NA,NA,"-",NA,NA,NA,0
+"6","To Be Announced","506224","2019",NA,NA,"-",NA,NA,NA,0
+"7","To Be Announced","506224","",NA,NA,"",0,0,0,0

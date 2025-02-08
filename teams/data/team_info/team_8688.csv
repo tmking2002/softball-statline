@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Cassie Young (11-25)Jamie Young (11-25)","Michigan Intercol. Ath. Assn.","11-25-0","0.306"
-"2","2022","Jamie Young (12-19)Cassie Young (12-19)","Michigan Intercol. Ath. Assn.","12-19-0","0.387"
-"3","2021","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","13-17-0","0.433"
-"4","2020","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","6-6-0","0.500"
-"5","2019","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","15-24-0","0.385"
-"6","2018","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","36-7-0","0.837"
-"7","2017","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","24-15-0","0.615"
-"8","2016","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","19-18-0","0.514"
-"9","2015","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","23-14-0","0.622"
-"10","2014","Kelli Zache Martin","Michigan Intercol. Ath. Assn.","16-16-0","0.500"
-"11","2013","Erin Sullivan","Michigan Intercol. Ath. Assn.","19-17-0","0.528"
-"12","2012","Erin Sullivan","Michigan Intercol. Ath. Assn.","27-13-0","0.675"
-"13","2011","Erin Sullivan","Michigan Intercol. Ath. Assn.","20-13-0","0.606"
-"14","2010","Erin Sullivan","Michigan Intercol. Ath. Assn.","21-19-0","0.525"
-"15","2009","Erin Sullivan","Michigan Intercol. Ath. Assn.","22-12-0","0.647"
-"16","2008","Erin Sullivan","Michigan Intercol. Ath. Assn.","23-10-0","0.697"
-"17","2007","Erin Sullivan","Michigan Intercol. Ath. Assn.","25-9-0","0.735"
-"18","2006","Erin Sullivan","Michigan Intercol. Ath. Assn.","28-13-0","0.683"
-"19","2005","Kristi Beechy","Michigan Intercol. Ath. Assn.","7-23-0","0.233"
-"20","2004","Anna Welsh","Michigan Intercol. Ath. Assn.","20-19-0","0.513"
-"21","2003","Anna Welsh","-","15-17-1","0.469"
-"22","2002","John Ganeff","Michigan Intercol. Ath. Assn.","8-16-0","0.333"
-"23","2001","John Kovach","-","14-19-0","0.424"
-"24","2000","Joseph Speybroeck","-","20-19-0","0.513"
-"25","1999","Tom Spencer","-","16-26-0","0.381"
-"26","1998","Jan Travis","-","21-16-0","0.568"
-"27","1997","Jan Travis","-","14-23-1","0.378"
-"28","1996","Maggie Killian (20-17-1)Jan Travis (20-17-1)","-","20-17-1","0.541"
-"29","1995","Maggie Killian (20-16)Jan Travis (20-16)","-","20-16-0","0.556"
-"30","1994","Donald Cromer","-","23-13-0","0.639"
-"31","1993","Donald Cromer","-","16-10-0","0.615"
-"32","1992","Donald Cromer","-","8-13-0","0.381"
-"33","1991","Donald Cromer","-","13-15-0","0.464"
-"34","1990","Donald Cromer","-","16-12-0","0.571"
-"35","2024","Cassie Young (0-0)Jamie Young (0-0)","Michigan Intercol. Ath. Assn.","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Mary's (IN)","8688","2025","Jordyn Walter","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","St. Mary's (IN)","8688","2024","Cassie Young (10-22)Jamie Young (10-22)","D-III","Michigan Intercol. Ath. Assn.",10,22,0,0.313
+"3","St. Mary's (IN)","8688","2023","Cassie Young (11-25)Jamie Young (11-25)","D-III","Michigan Intercol. Ath. Assn.",11,25,0,0.306
+"4","St. Mary's (IN)","8688","2022","Jamie Young (12-19)Cassie Young (12-19)","D-III","Michigan Intercol. Ath. Assn.",12,19,0,0.387
+"5","St. Mary's (IN)","8688","2021","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",13,17,0,0.433
+"6","St. Mary's (IN)","8688","2020","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",6,6,0,0.5
+"7","St. Mary's (IN)","8688","2019","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",15,24,0,0.385
+"8","St. Mary's (IN)","8688","2018","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",36,7,NA,0.837
+"9","St. Mary's (IN)","8688","2017","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",24,15,0,0.615
+"10","St. Mary's (IN)","8688","2016","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",19,18,0,0.514
+"11","St. Mary's (IN)","8688","2015","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",23,14,0,0.622
+"12","St. Mary's (IN)","8688","2014","Kelli Zache Martin","D-III","Michigan Intercol. Ath. Assn.",16,16,0,0.5
+"13","St. Mary's (IN)","8688","2013","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",19,17,0,0.528
+"14","St. Mary's (IN)","8688","2012","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",27,13,0,0.675
+"15","St. Mary's (IN)","8688","2011","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",20,13,0,0.606
+"16","St. Mary's (IN)","8688","2010","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",21,19,0,0.525
+"17","St. Mary's (IN)","8688","2009","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",22,12,0,0.647
+"18","St. Mary's (IN)","8688","2008","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",23,10,0,0.697
+"19","St. Mary's (IN)","8688","2007","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",25,9,0,0.735
+"20","St. Mary's (IN)","8688","2006","Erin Sullivan","D-III","Michigan Intercol. Ath. Assn.",28,13,0,0.683
+"21","St. Mary's (IN)","8688","2005","Kristi Beechy","D-III","Michigan Intercol. Ath. Assn.",7,23,0,0.233
+"22","St. Mary's (IN)","8688","2004","Anna Welsh","D-III","Michigan Intercol. Ath. Assn.",20,19,0,0.513
+"23","St. Mary's (IN)","8688","2003","Anna Welsh","D-III","-",15,17,1,0.47
+"24","St. Mary's (IN)","8688","2002","John Ganeff","D-III","Michigan Intercol. Ath. Assn.",8,16,0,0.333
+"25","St. Mary's (IN)","8688","2001","John Kovach","D-III","-",14,19,0,0.424
+"26","St. Mary's (IN)","8688","1900","Joseph Speybroeck","D-III","-",20,19,NA,0.513
+"27","St. Mary's (IN)","8688","1999","Tom Spencer","D-III","-",16,26,NA,0.381
+"28","St. Mary's (IN)","8688","1998","Jan Travis","D-III","-",21,16,NA,0.568
+"29","St. Mary's (IN)","8688","1997","Jan Travis","D-III","-",14,23,1,0.382
+"30","St. Mary's (IN)","8688","1996","Maggie Killian (20-17-1)Jan Travis (20-17-1)","D-III","-",20,17,1,0.539
+"31","St. Mary's (IN)","8688","1995","Maggie Killian (20-16)Jan Travis (20-16)","D-III","-",20,16,NA,0.556
+"32","St. Mary's (IN)","8688","1994","Donald Cromer","D-III","-",23,13,NA,0.639
+"33","St. Mary's (IN)","8688","1993","Donald Cromer","D-III","-",16,10,NA,0.615
+"34","St. Mary's (IN)","8688","1992","Donald Cromer","D-III","-",8,13,NA,0.381
+"35","St. Mary's (IN)","8688","1991","Donald Cromer","D-III","-",13,15,NA,0.464
+"36","St. Mary's (IN)","8688","1990","Donald Cromer","D-III","-",16,12,NA,0.571
+"37","St. Mary's (IN)","8688","","","","",621,563,3,0.524

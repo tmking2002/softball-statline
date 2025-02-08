@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jessie Homesley","Peach Belt","19-31-0",0.38
-"2",2022,"Jessie Homesley","Peach Belt","23-21-0",0.523
-"3",2021,"Jessie Homesley","Peach Belt","34-12-0",0.739
-"4",2020,"Kayla Lucas","Peach Belt","19-3-0",0.864
-"5",2019,"Kayla Lucas","Peach Belt","44-20-0",0.688
-"6",2018,"Kayla Lucas","Peach Belt","35-21-0",0.625
-"7",2017,"Kayla Lucas","Peach Belt","43-14-0",0.754
-"8",2016,"Kayla Lucas","Peach Belt","32-20-0",0.615
-"9",2015,"Aileen Morales","Peach Belt","31-18-0",0.633
-"10",2014,"Aileen Morales","-","20-33-0",0.377
-"11",2013,"Paul Raccio","-","27-27-0",0.5
-"12",2012,"","-","25-20-0",0.556
-"13",2024,"Jessie Homesley","Conference Carolinas","22-20-0",0.524
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Young Harris","30154","2025","Jessie Homesley","D-II","Conference Carolinas",1,2,0,0.333
+"2","Young Harris","30154","2024","Jessie Homesley","D-II","Conference Carolinas",29,24,0,0.547
+"3","Young Harris","30154","2023","Jessie Homesley","D-II","Peach Belt",19,31,0,0.38
+"4","Young Harris","30154","2022","Jessie Homesley","D-II","Peach Belt",23,21,0,0.523
+"5","Young Harris","30154","2021","Jessie Homesley","D-II","Peach Belt",34,12,0,0.739
+"6","Young Harris","30154","2020","Kayla Lucas","D-II","Peach Belt",19,3,0,0.864
+"7","Young Harris","30154","2019","Kayla Lucas","D-II","Peach Belt",44,20,0,0.688
+"8","Young Harris","30154","2018","Kayla Lucas","D-II","Peach Belt",35,21,NA,0.625
+"9","Young Harris","30154","2017","Kayla Lucas","D-II","Peach Belt",43,14,0,0.754
+"10","Young Harris","30154","2016","Kayla Lucas","D-II","Peach Belt",32,20,0,0.615
+"11","Young Harris","30154","2015","Aileen Morales","D-II","Peach Belt",31,18,0,0.633
+"12","Young Harris","30154","2014","Aileen Morales","","-",20,33,0,0.377
+"13","Young Harris","30154","2013","Paul Raccio","","-",27,27,0,0.5
+"14","Young Harris","30154","2012","","","-",25,20,0,0.556
+"15","Young Harris","30154","","","","",382,266,0,0.59

@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Abby Hurley-Martin","SCAC","15-28-0",0.349
-"2",2022,"Abby Hurley-Martin","SCAC","21-24-0",0.467
-"3",2021,"Abby Hurley-Martin","SCAC","16-15-0",0.516
-"4",2020,"Abby Hurley-Martin","SCAC","7-12-0",0.368
-"5",2019,"Brandi Dolsen","SCAC","17-23-0",0.425
-"6",2018,"Brandi Dolsen","SCAC","16-22-0",0.421
-"7",2017,"Brandi Dolsen","SCAC","17-28-0",0.378
-"8",2016,"Brandi Dolsen","SCAC","26-16-0",0.619
-"9",2015,"Brandi Dolsen","SCAC","17-15-0",0.531
-"10",2014,"Brandi Dolsen","SCAC","25-18-0",0.581
-"11",2013,"Brandi Dolsen","SCAC","27-16-0",0.628
-"12",2012,"Selena Collins","SCAC","28-14-0",0.667
-"13",2011,"Selena Collins","SCAC","21-24-0",0.467
-"14",2010,"Nicole Smith","SCAC","16-22-0",0.421
-"15",2009,"Nicole Smith","SCAC","13-22-0",0.371
-"16",2008,"Nicole Smith","SCAC","19-19-0",0.5
-"17",2007,"Nicole Smith","SCAC","26-12-0",0.684
-"18",2006,"Roland Rodriguez","SCAC","29-14-0",0.674
-"19",2005,"Roland Rodriguez","SCAC","28-22-0",0.56
-"20",2004,"Roland Rodriguez","SCAC","21-16-0",0.568
-"21",2003,"Roland Rodriguez","SCAC","21-17-0",0.553
-"22",2002,"Roland Rodriguez","SCAC","27-16-0",0.628
-"23",2001,"Roland Rodriguez","-","29-10-0",0.744
-"24",2000,"Lana Rutledge","-","18-19-0",0.486
-"25",1999,"Lana Rutledge","-","17-16-0",0.515
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"Teresa Machu","-","0-0-0",NA
-"32",1992,"Teresa Machu","-","1-19-1",0.05
-"33",1991,"Teresa Machu","-","0-15-0",0
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"","-","0-0-0",NA
-"44",2024,"Bailey Wittenauer","SCAC","31-13-0",0.705
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Trinity (TX)","715","2025","Bailey Wittenauer","D-III","SCAC",2,0,0,1
+"2","Trinity (TX)","715","2024","Bailey Wittenauer","D-III","SCAC",31,13,0,0.705
+"3","Trinity (TX)","715","2023","Abby Hurley-Martin","D-III","SCAC",15,28,0,0.349
+"4","Trinity (TX)","715","2022","Abby Hurley-Martin","D-III","SCAC",21,24,0,0.467
+"5","Trinity (TX)","715","2021","Abby Hurley-Martin","D-III","SCAC",16,15,0,0.516
+"6","Trinity (TX)","715","2020","Abby Hurley-Martin","D-III","SCAC",7,12,0,0.368
+"7","Trinity (TX)","715","2019","Brandi Dolsen","D-III","SCAC",17,23,0,0.425
+"8","Trinity (TX)","715","2018","Brandi Dolsen","D-III","SCAC",16,22,NA,0.421
+"9","Trinity (TX)","715","2017","Brandi Dolsen","D-III","SCAC",17,28,0,0.378
+"10","Trinity (TX)","715","2016","Brandi Dolsen","D-III","SCAC",26,16,0,0.619
+"11","Trinity (TX)","715","2015","Brandi Dolsen","D-III","SCAC",17,15,0,0.531
+"12","Trinity (TX)","715","2014","Brandi Dolsen","D-III","SCAC",25,18,0,0.581
+"13","Trinity (TX)","715","2013","Brandi Dolsen","D-III","SCAC",27,16,0,0.628
+"14","Trinity (TX)","715","2012","Selena Collins","D-III","SCAC",28,14,0,0.667
+"15","Trinity (TX)","715","2011","Selena Collins","D-III","SCAC",21,24,0,0.467
+"16","Trinity (TX)","715","2010","Nicole Smith","D-III","SCAC",16,22,0,0.421
+"17","Trinity (TX)","715","2009","Nicole Smith","D-III","SCAC",13,22,0,0.371
+"18","Trinity (TX)","715","2008","Nicole Smith","D-III","SCAC",19,19,0,0.5
+"19","Trinity (TX)","715","2007","Nicole Smith","D-III","SCAC",26,12,0,0.684
+"20","Trinity (TX)","715","2006","Roland Rodriguez","D-III","SCAC",29,14,0,0.674
+"21","Trinity (TX)","715","2005","Roland Rodriguez","D-III","SCAC",28,22,0,0.56
+"22","Trinity (TX)","715","2004","Roland Rodriguez","D-III","SCAC",21,16,0,0.568
+"23","Trinity (TX)","715","2003","Roland Rodriguez","D-III","SCAC",21,17,0,0.553
+"24","Trinity (TX)","715","2002","Roland Rodriguez","D-III","SCAC",27,16,0,0.628
+"25","Trinity (TX)","715","2001","Roland Rodriguez","D-III","-",29,10,NA,0.744
+"26","Trinity (TX)","715","1900","Lana Rutledge","D-III","-",18,19,NA,0.486
+"27","Trinity (TX)","715","1999","Lana Rutledge","D-III","-",17,16,NA,0.515
+"28","Trinity (TX)","715","1998","","D-III","-",NA,NA,NA,NA
+"29","Trinity (TX)","715","1997","","D-III","-",NA,NA,NA,NA
+"30","Trinity (TX)","715","1996","","D-III","-",NA,NA,NA,NA
+"31","Trinity (TX)","715","1995","","D-III","-",NA,NA,NA,NA
+"32","Trinity (TX)","715","1994","","D-III","-",NA,NA,NA,NA
+"33","Trinity (TX)","715","1993","Teresa Machu","D-III","-",NA,NA,NA,NA
+"34","Trinity (TX)","715","1992","Teresa Machu","D-III","-",1,19,1,0.071
+"35","Trinity (TX)","715","1991","Teresa Machu","D-III","-",0,15,NA,0
+"36","Trinity (TX)","715","1990","","D-III","-",NA,NA,NA,NA
+"37","Trinity (TX)","715","1989","","","-",NA,NA,NA,NA
+"38","Trinity (TX)","715","1988","","","-",NA,NA,NA,NA
+"39","Trinity (TX)","715","1987","","","-",NA,NA,NA,NA
+"40","Trinity (TX)","715","1986","","","-",NA,NA,NA,NA
+"41","Trinity (TX)","715","1985","","","-",NA,NA,NA,NA
+"42","Trinity (TX)","715","1984","","","-",NA,NA,NA,NA
+"43","Trinity (TX)","715","1983","","","-",NA,NA,NA,NA
+"44","Trinity (TX)","715","1982","","","-",NA,NA,NA,NA
+"45","Trinity (TX)","715","1981","","","-",NA,NA,NA,NA
+"46","Trinity (TX)","715","","","","",551,507,1,0.521

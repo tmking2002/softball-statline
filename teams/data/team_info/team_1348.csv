@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kristen Sullivan","ECC","32-18-0",0.64
-"2",2022,"Kristen Sullivan","ECC","28-21-0",0.571
-"3",2021,"Kristen Sullivan","ECC","24-13-0",0.649
-"4",2020,"Kristen Sullivan","ECC","1-9-0",0.1
-"5",2019,"Kristen Sullivan","ECC","25-21-0",0.543
-"6",2018,"Kristen Sullivan","ECC","14-30-0",0.318
-"7",2017,"Kristen Sullivan","ECC","18-26-0",0.409
-"8",2016,"Kristen Sullivan","ECC","15-32-0",0.319
-"9",2015,"Kristen Sullivan","ECC","11-30-0",0.268
-"10",2014,"Barbara Vano","ECC","2-36-0",0.053
-"11",2013,"Barbara Vano","ECC","8-30-0",0.211
-"12",2012,"Barbara Vano","ECC","9-31-0",0.225
-"13",2011,"Barbara Vano","ECC","15-24-1",0.385
-"14",2010,"Barbara Vano","ECC","7-38-0",0.156
-"15",2009,"Barbara Vano","ECC","5-36-0",0.122
-"16",2008,"Barbara Vano","ECC","22-24-0",0.478
-"17",2007,"Barbara Vano","ECC","14-26-2",0.35
-"18",2006,"Barbara Vano","ECC","19-25-0",0.432
-"19",2005,"Barbara Vano","ECC","18-22-0",0.45
-"20",2004,"","ECC","3-10-0",0.231
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2024,"Kristen Sullivan","ECC","30-19-0",0.612
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Thomas Aquinas","1348","2025","Kristen Sullivan","D-II","ECC",0,0,0,0
+"2","St. Thomas Aquinas","1348","2024","Kristen Sullivan","D-II","ECC",34,24,0,0.586
+"3","St. Thomas Aquinas","1348","2023","Kristen Sullivan","D-II","ECC",32,18,0,0.64
+"4","St. Thomas Aquinas","1348","2022","Kristen Sullivan","D-II","ECC",28,21,0,0.571
+"5","St. Thomas Aquinas","1348","2021","Kristen Sullivan","D-II","ECC",24,13,0,0.649
+"6","St. Thomas Aquinas","1348","2020","Kristen Sullivan","D-II","ECC",1,9,0,0.1
+"7","St. Thomas Aquinas","1348","2019","Kristen Sullivan","D-II","ECC",25,21,0,0.543
+"8","St. Thomas Aquinas","1348","2018","Kristen Sullivan","D-II","ECC",14,30,NA,0.318
+"9","St. Thomas Aquinas","1348","2017","Kristen Sullivan","D-II","ECC",18,26,0,0.409
+"10","St. Thomas Aquinas","1348","2016","Kristen Sullivan","D-II","ECC",15,32,0,0.319
+"11","St. Thomas Aquinas","1348","2015","Kristen Sullivan","D-II","ECC",11,30,0,0.268
+"12","St. Thomas Aquinas","1348","2014","Barbara Vano","D-II","ECC",2,36,0,0.053
+"13","St. Thomas Aquinas","1348","2013","Barbara Vano","D-II","ECC",8,30,0,0.211
+"14","St. Thomas Aquinas","1348","2012","Barbara Vano","D-II","ECC",9,31,0,0.225
+"15","St. Thomas Aquinas","1348","2011","Barbara Vano","D-II","ECC",15,24,1,0.388
+"16","St. Thomas Aquinas","1348","2010","Barbara Vano","D-II","ECC",7,38,0,0.156
+"17","St. Thomas Aquinas","1348","2009","Barbara Vano","D-II","ECC",5,36,0,0.122
+"18","St. Thomas Aquinas","1348","2008","Barbara Vano","D-II","ECC",22,24,0,0.478
+"19","St. Thomas Aquinas","1348","2007","Barbara Vano","D-II","ECC",14,26,2,0.357
+"20","St. Thomas Aquinas","1348","2006","Barbara Vano","D-II","ECC",19,25,0,0.432
+"21","St. Thomas Aquinas","1348","2005","Barbara Vano","D-II","ECC",18,22,0,0.45
+"22","St. Thomas Aquinas","1348","2004","","D-II","ECC",3,10,0,0.231
+"23","St. Thomas Aquinas","1348","2003","","","-",NA,NA,NA,NA
+"24","St. Thomas Aquinas","1348","2002","","","-",NA,NA,NA,NA
+"25","St. Thomas Aquinas","1348","","","","",324,526,3,0.382

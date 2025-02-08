@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Arielle Cooper","NEWMAC","31-11-0",0.738
-"2",2022,"Arielle Cooper","NEWMAC","19-16-0",0.543
-"3",2021,"Arielle Cooper","NEWMAC","6-8-0",0.429
-"4",2020,"Donna Koczajowski","NEWMAC","9-1-0",0.9
-"5",2019,"Donna Koczajowski","NEWMAC","18-20-0",0.474
-"6",2018,"Donna Koczajowski","NEWMAC","22-13-0",0.629
-"7",2017,"Donna Koczajowski","NEWMAC","17-18-0",0.486
-"8",2016,"Donna Koczajowski","NEWMAC","9-31-0",0.225
-"9",2015,"Donna Koczajowski","NEWMAC","14-18-0",0.438
-"10",2014,"Donna Koczajowski","NEWMAC","14-20-0",0.412
-"11",2013,"Donna Koczajowski","NEWMAC","22-17-0",0.564
-"12",2012,"Donna Koczajowski","NEWMAC","28-19-0",0.596
-"13",2011,"Donna Koczajowski","NEWMAC","38-4-0",0.905
-"14",2010,"Donna Koczajowski","NEWMAC","34-10-0",0.773
-"15",2009,"Donna Koczajowski","NEWMAC","39-7-1",0.848
-"16",2008,"Donna Koczajowski","NEWMAC","14-24-0",0.368
-"17",2007,"Donna Koczajowski","NEWMAC","11-21-0",0.344
-"18",2006,"Donna Koczajowski","NEWMAC","20-21-0",0.488
-"19",2005,"Donna Koczajowski","NEWMAC","21-14-0",0.6
-"20",2004,"Donna Koczajowski","NEWMAC","28-12-0",0.7
-"21",2003,"Donna Koczajowski","-","30-13-0",0.698
-"22",2002,"Donna Koczajowski","NEWMAC","29-11-0",0.725
-"23",2001,"Donna Koczajowski","-","21-19-0",0.525
-"24",2000,"Donna Koczajowski","-","15-18-0",0.455
-"25",1999,"Donna Koczajowski","-","26-14-0",0.65
-"26",1998,"Donna Koczajowski","-","26-12-0",0.684
-"27",1997,"Marilyn Mather","-","24-4-0",0.857
-"28",1996,"Tom Haas","-","24-4-0",0.857
-"29",1995,"Tom Haas","-","13-17-0",0.433
-"30",1994,"Tom Haas","-","9-22-0",0.29
-"31",1993,"Rob Ayer","-","0-23-0",0
-"32",1992,"Tom Haas","-","12-14-0",0.462
-"33",1991,"Tom Haas","-","11-14-0",0.44
-"34",1990,"Tom Haas","-","7-19-0",0.269
-"35",1989,"Tom Haas","-","15-15-0",0.5
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1983,"","-","0-0-0",NA
-"39",1982,"","-","0-0-0",NA
-"40",2024,"Arielle Cooper","NEWMAC","13-22-0",0.371
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Coast Guard","722","2025","Arielle Cooper","D-III","NEWMAC",0,0,0,0
+"2","Coast Guard","722","2024","Arielle Cooper","D-III","NEWMAC",13,22,0,0.371
+"3","Coast Guard","722","2023","Arielle Cooper","D-III","NEWMAC",31,11,0,0.738
+"4","Coast Guard","722","2022","Arielle Cooper","D-III","NEWMAC",19,16,0,0.543
+"5","Coast Guard","722","2021","Arielle Cooper","D-III","NEWMAC",6,8,0,0.429
+"6","Coast Guard","722","2020","Donna Koczajowski","D-III","NEWMAC",9,1,0,0.9
+"7","Coast Guard","722","2019","Donna Koczajowski","D-III","NEWMAC",18,20,0,0.474
+"8","Coast Guard","722","2018","Donna Koczajowski","D-III","NEWMAC",22,13,NA,0.629
+"9","Coast Guard","722","2017","Donna Koczajowski","D-III","NEWMAC",17,18,0,0.486
+"10","Coast Guard","722","2016","Donna Koczajowski","D-III","NEWMAC",9,31,0,0.225
+"11","Coast Guard","722","2015","Donna Koczajowski","D-III","NEWMAC",14,18,0,0.438
+"12","Coast Guard","722","2014","Donna Koczajowski","D-III","NEWMAC",14,20,0,0.412
+"13","Coast Guard","722","2013","Donna Koczajowski","D-III","NEWMAC",22,17,0,0.564
+"14","Coast Guard","722","2012","Donna Koczajowski","D-III","NEWMAC",28,19,0,0.596
+"15","Coast Guard","722","2011","Donna Koczajowski","D-III","NEWMAC",38,4,0,0.905
+"16","Coast Guard","722","2010","Donna Koczajowski","D-III","NEWMAC",34,10,0,0.773
+"17","Coast Guard","722","2009","Donna Koczajowski","D-III","NEWMAC",39,7,1,0.84
+"18","Coast Guard","722","2008","Donna Koczajowski","D-III","NEWMAC",14,24,0,0.368
+"19","Coast Guard","722","2007","Donna Koczajowski","D-III","NEWMAC",11,21,0,0.344
+"20","Coast Guard","722","2006","Donna Koczajowski","D-III","NEWMAC",20,21,0,0.488
+"21","Coast Guard","722","2005","Donna Koczajowski","D-III","NEWMAC",21,14,0,0.6
+"22","Coast Guard","722","2004","Donna Koczajowski","D-III","NEWMAC",28,12,0,0.7
+"23","Coast Guard","722","2003","Donna Koczajowski","D-III","-",30,13,NA,0.698
+"24","Coast Guard","722","2002","Donna Koczajowski","D-III","NEWMAC",29,11,0,0.725
+"25","Coast Guard","722","2001","Donna Koczajowski","D-III","-",21,19,NA,0.525
+"26","Coast Guard","722","1900","Donna Koczajowski","D-III","-",15,18,NA,0.455
+"27","Coast Guard","722","1999","Donna Koczajowski","D-III","-",26,14,NA,0.65
+"28","Coast Guard","722","1998","Donna Koczajowski","D-III","-",26,12,NA,0.684
+"29","Coast Guard","722","1997","Marilyn Mather","D-III","-",24,4,NA,0.857
+"30","Coast Guard","722","1996","Tom Haas","D-III","-",24,4,NA,0.857
+"31","Coast Guard","722","1995","Tom Haas","D-III","-",13,17,NA,0.433
+"32","Coast Guard","722","1994","Tom Haas","D-III","-",9,22,NA,0.29
+"33","Coast Guard","722","1993","Rob Ayer","D-III","-",0,23,0,0
+"34","Coast Guard","722","1992","Tom Haas","D-III","-",12,14,NA,0.462
+"35","Coast Guard","722","1991","Tom Haas","D-III","-",11,14,NA,0.44
+"36","Coast Guard","722","1990","Tom Haas","D-III","-",7,19,NA,0.269
+"37","Coast Guard","722","1989","Tom Haas","D-III","-",15,15,NA,0.5
+"38","Coast Guard","722","1988","","D-III","-",NA,NA,NA,NA
+"39","Coast Guard","722","1987","","D-III","-",NA,NA,NA,NA
+"40","Coast Guard","722","1983","","D-III","-",NA,NA,NA,NA
+"41","Coast Guard","722","1982","","D-III","-",NA,NA,NA,NA
+"42","Coast Guard","722","","","","",689,546,1,0.558

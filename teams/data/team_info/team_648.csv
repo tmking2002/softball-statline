@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Beverly Smith","SEC","40-22-0",0.645
-"2",2022,"Beverly Smith","SEC","26-30-0",0.464
-"3",2021,"Beverly Smith","SEC","26-26-0",0.5
-"4",2020,"Beverly Smith","SEC","17-6-0",0.739
-"5",2019,"Beverly Smith","SEC","38-19-0",0.667
-"6",2018,"Beverly Smith","SEC","49-17-0",0.742
-"7",2017,"Beverly Smith","SEC","34-25-0",0.576
-"8",2016,"Beverly Smith","SEC","38-23-0",0.623
-"9",2015,"Beverly Smith","SEC","38-22-0",0.633
-"10",2014,"Beverly Smith","SEC","36-22-0",0.621
-"11",2013,"Beverly Smith","SEC","34-25-0",0.576
-"12",2012,"Beverly Smith","SEC","23-32-0",0.418
-"13",2011,"Beverly Smith","SEC","26-30-0",0.464
-"14",2010,"Joyce Compton","SEC","11-40-0",0.216
-"15",2009,"Joyce Compton","SEC","21-24-0",0.467
-"16",2008,"Joyce Compton","SEC","21-26-0",0.447
-"17",2007,"Joyce Compton","SEC","38-26-0",0.594
-"18",2006,"Joyce Compton","SEC","28-30-0",0.483
-"19",2005,"Joyce Compton","SEC","28-28-1",0.5
-"20",2004,"Joyce Compton","SEC","28-24-0",0.538
-"21",2003,"Joyce Compton","SEC","41-20-0",0.672
-"22",2002,"Joyce Compton","SEC","46-20-0",0.697
-"23",2001,"Joyce Compton","SEC","40-20-1",0.667
-"24",2000,"Joyce Compton","SEC","41-28-0",0.594
-"25",1999,"Joyce Compton","SEC","49-21-0",0.7
-"26",1998,"Joyce Compton","-","36-21-0",0.632
-"27",1997,"Joyce Compton","SEC","63-5-0",0.926
-"28",1996,"Joyce Compton","-","38-13-0",0.745
-"29",1995,"Joyce Compton","-","53-21-0",0.716
-"30",1994,"Joyce Compton","-","52-17-0",0.754
-"31",1993,"Joyce Compton","-","36-21-1",0.632
-"32",1992,"Joyce Compton","-","54-14-0",0.794
-"33",1991,"Joyce Compton","-","51-13-0",0.797
-"34",1990,"Joyce Compton","-","49-14-0",0.778
-"35",1989,"Joyce Compton","-","46-12-0",0.793
-"36",1988,"Joyce Compton","-","47-14-0",0.77
-"37",1987,"Joyce Compton","-","34-14-0",0.708
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Beverly Smith","SEC","36-24-0",0.6
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","South Carolina","648","2025","Ashley Chastain Woodard","D-I","SEC",2,0,0,1
+"2","South Carolina","648","2024","Beverly Smith","D-I","SEC",36,24,0,0.6
+"3","South Carolina","648","2023","Beverly Smith","D-I","SEC",40,22,0,0.645
+"4","South Carolina","648","2022","Beverly Smith","D-I","SEC",26,30,0,0.464
+"5","South Carolina","648","2021","Beverly Smith","D-I","SEC",26,26,0,0.5
+"6","South Carolina","648","2020","Beverly Smith","D-I","SEC",17,6,0,0.739
+"7","South Carolina","648","2019","Beverly Smith","D-I","SEC",38,19,0,0.667
+"8","South Carolina","648","2018","Beverly Smith","D-I","SEC",49,17,0,0.742
+"9","South Carolina","648","2017","Beverly Smith","D-I","SEC",34,25,0,0.576
+"10","South Carolina","648","2016","Beverly Smith","D-I","SEC",38,23,0,0.623
+"11","South Carolina","648","2015","Beverly Smith","D-I","SEC",38,22,0,0.633
+"12","South Carolina","648","2014","Beverly Smith","D-I","SEC",36,22,0,0.621
+"13","South Carolina","648","2013","Beverly Smith","D-I","SEC",34,25,0,0.576
+"14","South Carolina","648","2012","Beverly Smith","D-I","SEC",23,32,0,0.418
+"15","South Carolina","648","2011","Beverly Smith","D-I","SEC",26,30,0,0.464
+"16","South Carolina","648","2010","Joyce Compton","D-I","SEC",11,40,0,0.216
+"17","South Carolina","648","2009","Joyce Compton","D-I","SEC",21,24,0,0.467
+"18","South Carolina","648","2008","Joyce Compton","D-I","SEC",21,26,0,0.447
+"19","South Carolina","648","2007","Joyce Compton","D-I","SEC",38,26,0,0.594
+"20","South Carolina","648","2006","Joyce Compton","D-I","SEC",28,30,0,0.483
+"21","South Carolina","648","2005","Joyce Compton","D-I","SEC",28,28,1,0.5
+"22","South Carolina","648","2004","Joyce Compton","D-I","SEC",28,24,0,0.538
+"23","South Carolina","648","2003","Joyce Compton","D-I","SEC",41,20,0,0.672
+"24","South Carolina","648","2002","Joyce Compton","D-I","SEC",46,20,0,0.697
+"25","South Carolina","648","2001","Joyce Compton","D-I","SEC",40,20,1,0.664
+"26","South Carolina","648","1900","Joyce Compton","D-I","SEC",41,28,0,0.594
+"27","South Carolina","648","1999","Joyce Compton","D-I","SEC",49,21,0,0.7
+"28","South Carolina","648","1998","Joyce Compton","D-I","-",36,21,NA,0.632
+"29","South Carolina","648","1997","Joyce Compton","D-I","SEC",63,5,0,0.926
+"30","South Carolina","648","1996","Joyce Compton","D-I","-",38,13,NA,0.745
+"31","South Carolina","648","1995","Joyce Compton","D-I","-",53,21,NA,0.716
+"32","South Carolina","648","1994","Joyce Compton","D-I","-",52,17,NA,0.754
+"33","South Carolina","648","1993","Joyce Compton","D-I","-",36,21,1,0.629
+"34","South Carolina","648","1992","Joyce Compton","D-I","-",54,14,NA,0.794
+"35","South Carolina","648","1991","Joyce Compton","D-I","-",51,13,NA,0.797
+"36","South Carolina","648","1990","Joyce Compton","D-I","-",49,14,NA,0.778
+"37","South Carolina","648","1989","Joyce Compton","D-I","-",46,12,NA,0.793
+"38","South Carolina","648","1988","Joyce Compton","D-I","-",47,14,NA,0.77
+"39","South Carolina","648","1987","Joyce Compton","D-I","-",34,14,NA,0.708
+"40","South Carolina","648","1986","","D-I","-",NA,NA,NA,NA
+"41","South Carolina","648","1985","","","-",NA,NA,NA,NA
+"42","South Carolina","648","1984","","","-",NA,NA,NA,NA
+"43","South Carolina","648","1983","","","-",NA,NA,NA,NA
+"44","South Carolina","648","","","","",1414,809,3,0.636

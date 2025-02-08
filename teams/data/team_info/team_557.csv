@@ -1,39 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kara Dressel","NWC","10-24-0","0.294"
-"2","2022","Kara Dressel","NWC","4-32-0","0.111"
-"3","2021","Kara Dressel","NWC","10-22-0","0.312"
-"4","2020","Kara Dressel","NWC","4-5-0","0.444"
-"5","2019","Kellyn Tate","NWC","4-35-0","0.103"
-"6","2018","Kellyn Tate","NWC","10-22-1","0.312"
-"7","2017","Kellyn Tate","NWC","12-26-0","0.316"
-"8","2016","Kellyn Tate","NWC","10-28-0","0.263"
-"9","2015","Kellyn Tate","NWC","4-36-0","0.100"
-"10","2014","Kellyn Tate","NWC","3-31-0","0.088"
-"11","2013","Kellyn Tate","NWC","2-37-0","0.051"
-"12","2012","Jennifer Peterson","NWC","3-31-0","0.088"
-"13","2011","Jennifer Peterson","NWC","11-27-0","0.289"
-"14","2010","Jennifer Peterson","NWC","13-27-0","0.325"
-"15","2009","Jennifer Peterson","NWC","16-24-0","0.400"
-"16","2008","Robin Hamilton","NWC","11-23-0","0.324"
-"17","2007","Robin Hamilton","NWC","23-17-0","0.575"
-"18","2006","Robin Hamilton","NWC","24-14-1","0.632"
-"19","2005","Robin Hamilton","NWC","18-19-0","0.486"
-"20","2004","Robin Hamilton","NWC","15-21-0","0.417"
-"21","2003","Robin Hamilton","-","13-20-0","0.394"
-"22","2002","Robin Hamilton","-","23-9-1","0.719"
-"23","2001","Robin Hamilton","-","21-12-1","0.636"
-"24","2000","Robin Hamilton","-","29-13-0","0.690"
-"25","1999","Robin Hamilton","-","31-13-0","0.705"
-"26","1998","Robin Hamilton","-","25-20-0","0.556"
-"27","1997","Robin Hamilton","-","22-16-0","0.579"
-"28","1996","Robin Hamilton","-","18-20-0","0.474"
-"29","1995","Robin Hamilton","-","30-11-0","0.732"
-"30","1994","Robin Hamilton","-","21-23-0","0.477"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","Robin Hamilton","-","20-11-0","0.645"
-"33","1991","Robin Hamilton","-","25-6-0","0.806"
-"34","1990","Robin Hamilton","-","26-6-0","0.812"
-"35","1989","Robin Hamilton","-","18-9-0","0.667"
-"36","1988","Robin Hamilton","-","16-6-0","0.727"
-"37","1987","Robin Hamilton","-","12-8-0","0.600"
-"38","1986","Robin Hamilton","-","14-6-0","0.700"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Puget Sound","557","2025","Kara Dressel","D-III","NWC",0,0,0,0
+"2","Puget Sound","557","2024","Kara Dressel","D-III","NWC",7,27,0,0.206
+"3","Puget Sound","557","2023","Kara Dressel","D-III","NWC",10,24,0,0.294
+"4","Puget Sound","557","2022","Kara Dressel","D-III","NWC",4,32,0,0.111
+"5","Puget Sound","557","2021","Kara Dressel","D-III","NWC",10,22,0,0.313
+"6","Puget Sound","557","2020","Kara Dressel","D-III","NWC",4,5,0,0.444
+"7","Puget Sound","557","2019","Kellyn Tate","D-III","NWC",4,35,0,0.103
+"8","Puget Sound","557","2018","Kellyn Tate","D-III","NWC",10,22,1,0.318
+"9","Puget Sound","557","2017","Kellyn Tate","D-III","NWC",12,26,0,0.316
+"10","Puget Sound","557","2016","Kellyn Tate","D-III","NWC",10,28,0,0.263
+"11","Puget Sound","557","2015","Kellyn Tate","D-III","NWC",4,36,0,0.1
+"12","Puget Sound","557","2014","Kellyn Tate","D-III","NWC",3,31,0,0.088
+"13","Puget Sound","557","2013","Kellyn Tate","D-III","NWC",2,37,0,0.051
+"14","Puget Sound","557","2012","Jennifer Peterson","D-III","NWC",3,31,0,0.088
+"15","Puget Sound","557","2011","Jennifer Peterson","D-III","NWC",11,27,0,0.289
+"16","Puget Sound","557","2010","Jennifer Peterson","D-III","NWC",13,27,0,0.325
+"17","Puget Sound","557","2009","Jennifer Peterson","D-III","NWC",16,24,0,0.4
+"18","Puget Sound","557","2008","Robin Hamilton","D-III","NWC",11,23,0,0.324
+"19","Puget Sound","557","2007","Robin Hamilton","D-III","NWC",23,17,0,0.575
+"20","Puget Sound","557","2006","Robin Hamilton","D-III","NWC",24,14,1,0.628
+"21","Puget Sound","557","2005","Robin Hamilton","D-III","NWC",18,19,0,0.486
+"22","Puget Sound","557","2004","Robin Hamilton","D-III","NWC",15,21,0,0.417
+"23","Puget Sound","557","2003","Robin Hamilton","D-III","-",13,20,0,0.394
+"24","Puget Sound","557","2002","Robin Hamilton","D-III","-",23,9,1,0.712
+"25","Puget Sound","557","2001","Robin Hamilton","D-III","-",21,12,1,0.632
+"26","Puget Sound","557","1900","Robin Hamilton","D-III","-",29,13,NA,0.69
+"27","Puget Sound","557","1999","Robin Hamilton","D-III","-",31,13,NA,0.705
+"28","Puget Sound","557","1998","Robin Hamilton","D-III","-",25,20,NA,0.556
+"29","Puget Sound","557","1997","Robin Hamilton","D-III","-",22,16,NA,0.579
+"30","Puget Sound","557","1996","Robin Hamilton","","-",18,20,NA,0.474
+"31","Puget Sound","557","1995","Robin Hamilton","","-",30,11,NA,0.732
+"32","Puget Sound","557","1994","Robin Hamilton","","-",21,23,NA,0.477
+"33","Puget Sound","557","1993","","","-",NA,NA,NA,NA
+"34","Puget Sound","557","1992","Robin Hamilton","","-",20,11,NA,0.645
+"35","Puget Sound","557","1991","Robin Hamilton","","-",25,6,NA,0.806
+"36","Puget Sound","557","1990","Robin Hamilton","","-",26,6,NA,0.813
+"37","Puget Sound","557","1989","Robin Hamilton","","-",18,9,NA,0.667
+"38","Puget Sound","557","1988","Robin Hamilton","","-",16,6,NA,0.727
+"39","Puget Sound","557","1987","Robin Hamilton","","-",12,8,NA,0.6
+"40","Puget Sound","557","1986","Robin Hamilton","","-",14,6,NA,0.7
+"41","Puget Sound","557","","","","",578,737,4,0.44

@@ -1,7 +1,8 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2014",NA,"-","0-0-0",NA
-"2","2012",NA,"-","0-0-0",NA
-"3","2010",NA,"-","0-0-0",NA
-"4","2004",NA,"-","0-0-0",NA
-"5","2003",NA,"-","0-0-0",NA
-"6","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Randall","502132","2014",NA,NA,"-",NA,NA,NA,NA
+"2","Randall","502132","2012",NA,NA,"-",NA,NA,NA,NA
+"3","Randall","502132","2010",NA,NA,"-",NA,NA,NA,NA
+"4","Randall","502132","2004",NA,NA,"-",NA,NA,NA,NA
+"5","Randall","502132","2003",NA,NA,"-",NA,NA,NA,NA
+"6","Randall","502132","2002",NA,NA,"-",NA,NA,NA,NA
+"7","Randall","502132","",NA,NA,"",0,0,0,0

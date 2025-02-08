@@ -1,17 +1,19 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Alexis Lynn","SCAC","21-22-0",0.488
-"2",2022,"Emerald Doria","SCAC","14-27-0",0.341
-"3",2021,"Emerald Doria","SCAC","13-18-0",0.419
-"4",2020,"Emerald Doria","SCAC","14-5-0",0.737
-"5",2019,"Angela Froboese","SCAC","35-6-0",0.854
-"6",2018,"Angela Froboese","SCAC","23-17-0",0.575
-"7",2017,"Angela Froboese","SCAC","27-13-0",0.675
-"8",2016,"Angela Froboese","SCAC","18-24-0",0.429
-"9",2015,"Angela Froboese","SCAC","18-21-0",0.462
-"10",2014,"Angela Froboese","SCAC","18-20-1",0.474
-"11",2013,"Angela Froboese","SCAC","34-13-0",0.723
-"12",2012,"Angela Froboese","SCAC","26-18-0",0.591
-"13",2011,"Angela Froboese","SCAC","29-15-0",0.659
-"14",2010,"Angela Froboese","SCAC","33-13-0",0.717
-"15",2009,"Angela Froboese","SCAC","19-16-0",0.543
-"16",2024,"Alexis Lynn","SCAC","19-26-0",0.422
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southwestern (TX)","8746","2025","Alexis Lynn","D-III","SCAC",0,2,0,0
+"2","Southwestern (TX)","8746","2024","Alexis Lynn","D-III","SCAC",18,26,0,0.409
+"3","Southwestern (TX)","8746","2023","Alexis Lynn","D-III","SCAC",21,22,0,0.488
+"4","Southwestern (TX)","8746","2022","Emerald Doria","D-III","SCAC",14,27,0,0.341
+"5","Southwestern (TX)","8746","2021","Emerald Doria","D-III","SCAC",13,18,0,0.419
+"6","Southwestern (TX)","8746","2020","Emerald Doria","D-III","SCAC",14,5,0,0.737
+"7","Southwestern (TX)","8746","2019","Angela Froboese","D-III","SCAC",35,6,0,0.854
+"8","Southwestern (TX)","8746","2018","Angela Froboese","D-III","SCAC",23,17,NA,0.575
+"9","Southwestern (TX)","8746","2017","Angela Froboese","D-III","SCAC",27,13,0,0.675
+"10","Southwestern (TX)","8746","2016","Angela Froboese","D-III","SCAC",18,24,0,0.429
+"11","Southwestern (TX)","8746","2015","Angela Froboese","D-III","SCAC",18,21,0,0.462
+"12","Southwestern (TX)","8746","2014","Angela Froboese","D-III","SCAC",18,20,1,0.474
+"13","Southwestern (TX)","8746","2013","Angela Froboese","D-III","SCAC",34,13,0,0.723
+"14","Southwestern (TX)","8746","2012","Angela Froboese","D-III","SCAC",26,18,0,0.591
+"15","Southwestern (TX)","8746","2011","Angela Froboese","D-III","SCAC",29,15,0,0.659
+"16","Southwestern (TX)","8746","2010","Angela Froboese","D-III","SCAC",33,13,0,0.717
+"17","Southwestern (TX)","8746","2009","Angela Froboese","D-III","SCAC",19,16,0,0.543
+"18","Southwestern (TX)","8746","","","","",360,276,1,0.566

@@ -1,12 +1,14 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Todd Randall","AMCC","10-25-0",0.286
-"2",2022,"Todd Randall","AMCC","10-23-0",0.303
-"3",2021,"Rob Fair","AMCC","7-21-0",0.25
-"4",2020,"Rob Fair","AMCC","5-5-0",0.5
-"5",2019,"Susan DeNillo","ACAA","9-18-0",0.333
-"6",2018,"Susan DeNillo","ACAA","0-25-0",0
-"7",2017,"Susan DeNillo","-","4-24-0",0.143
-"8",2016,"Jo Beardsley","-","4-28-0",0.125
-"9",2015,"Jo Beardsley","-","10-24-0",0.294
-"10",2014,"Jo Beardsley","-","7-15-0",0.318
-"11",2024,"Todd Randall","AMCC","15-20-0",0.429
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Alfred St.","30170","2025","Todd Randall","D-III","AMCC",0,0,0,0
+"2","Alfred St.","30170","2024","Todd Randall","D-III","AMCC",15,20,0,0.429
+"3","Alfred St.","30170","2023","Todd Randall","D-III","AMCC",10,25,0,0.286
+"4","Alfred St.","30170","2022","Todd Randall","D-III","AMCC",10,23,0,0.303
+"5","Alfred St.","30170","2021","Rob Fair","D-III","AMCC",7,21,0,0.25
+"6","Alfred St.","30170","2020","Rob Fair","D-III","AMCC",5,5,0,0.5
+"7","Alfred St.","30170","2019","Susan DeNillo","D-III","ACAA",9,18,0,0.333
+"8","Alfred St.","30170","2018","Susan DeNillo","D-III","ACAA",NA,25,NA,0
+"9","Alfred St.","30170","2017","Susan DeNillo","","-",4,24,0,0.143
+"10","Alfred St.","30170","2016","Jo Beardsley","","-",4,28,0,0.125
+"11","Alfred St.","30170","2015","Jo Beardsley","","-",10,24,0,0.294
+"12","Alfred St.","30170","2014","Jo Beardsley","","-",7,15,0,0.318
+"13","Alfred St.","30170","","","","",81,228,0,0.262

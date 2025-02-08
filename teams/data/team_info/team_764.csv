@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jennifer Lane","NESCAC","13-25-0",0.342
-"2",2022,"Jennifer Lane","NESCAC","13-19-0",0.406
-"3",2021,"Jennifer Lane","NESCAC","1-14-0",0.067
-"4",2020,"Jennifer Lane","NESCAC","2-0-0",1
-"5",2019,"Jennifer Lane","NESCAC","12-21-0",0.364
-"6",2018,"Jennifer Lane","NESCAC","14-16-0",0.467
-"7",2017,"Jennifer Lane","NESCAC","12-20-0",0.375
-"8",2016,"Jennifer Lane","NESCAC","21-14-0",0.6
-"9",2015,"Jennifer Lane","NESCAC","14-17-1",0.452
-"10",2014,"Jennifer Lane","NESCAC","10-22-0",0.312
-"11",2013,"Jennifer Lane","NESCAC","24-12-0",0.667
-"12",2012,"Jennifer Lane","NESCAC","8-26-0",0.235
-"13",2011,"Jennifer Lane","NESCAC","12-19-0",0.387
-"14",2010,"Jennifer Lane","NESCAC","24-18-1",0.571
-"15",2009,"Jennifer Lane","NESCAC","17-20-0",0.459
-"16",2008,"Jennifer Lane","NESCAC","21-16-0",0.568
-"17",2007,"Jennifer Lane","NESCAC","21-15-0",0.583
-"18",2006,"Jennifer Lane","NESCAC","13-21-0",0.382
-"19",2005,"Jennifer Lane","NESCAC","11-18-0",0.379
-"20",2004,"Jennifer Lane","NESCAC","11-20-0",0.355
-"21",2003,"Jennifer Lane","NESCAC","7-22-0",0.241
-"22",2002,"Jennifer Lane","NESCAC","8-23-1",0.258
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Renee Melchiona","-","8-20-0",0.286
-"25",1999,"Renee Melchiona","-","11-23-0",0.324
-"26",1998,"Lucille Gecewicz","-","10-17-0",0.37
-"27",1997,"Lucille Gecewicz","-","12-15-0",0.444
-"28",1996,"Lucille Gecewicz","-","8-21-0",0.276
-"29",1995,"David Snyder","-","16-10-0",0.615
-"30",1994,"David Snyder","-","9-10-0",0.474
-"31",1993,"David Snyder","-","6-8-0",0.429
-"32",1992,"David Snyder","-","7-13-0",0.35
-"33",1991,"David Snyder","-","2-14-0",0.125
-"34",1990,"David Snyder","-","4-15-0",0.211
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Jennifer Lane","NESCAC","16-21-0",0.432
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wesleyan (CT)","764","2025","Jennifer Lane","D-III","NESCAC",0,0,0,0
+"2","Wesleyan (CT)","764","2024","Jennifer Lane","D-III","NESCAC",16,21,0,0.432
+"3","Wesleyan (CT)","764","2023","Jennifer Lane","D-III","NESCAC",13,25,0,0.342
+"4","Wesleyan (CT)","764","2022","Jennifer Lane","D-III","NESCAC",13,19,0,0.406
+"5","Wesleyan (CT)","764","2021","Jennifer Lane","D-III","NESCAC",1,14,0,0.067
+"6","Wesleyan (CT)","764","2020","Jennifer Lane","D-III","NESCAC",2,0,0,1
+"7","Wesleyan (CT)","764","2019","Jennifer Lane","D-III","NESCAC",12,21,0,0.364
+"8","Wesleyan (CT)","764","2018","Jennifer Lane","D-III","NESCAC",14,16,NA,0.467
+"9","Wesleyan (CT)","764","2017","Jennifer Lane","D-III","NESCAC",12,20,0,0.375
+"10","Wesleyan (CT)","764","2016","Jennifer Lane","D-III","NESCAC",21,14,0,0.6
+"11","Wesleyan (CT)","764","2015","Jennifer Lane","D-III","NESCAC",14,17,1,0.453
+"12","Wesleyan (CT)","764","2014","Jennifer Lane","D-III","NESCAC",10,22,0,0.313
+"13","Wesleyan (CT)","764","2013","Jennifer Lane","D-III","NESCAC",24,12,0,0.667
+"14","Wesleyan (CT)","764","2012","Jennifer Lane","D-III","NESCAC",8,26,0,0.235
+"15","Wesleyan (CT)","764","2011","Jennifer Lane","D-III","NESCAC",12,19,0,0.387
+"16","Wesleyan (CT)","764","2010","Jennifer Lane","D-III","NESCAC",24,18,1,0.57
+"17","Wesleyan (CT)","764","2009","Jennifer Lane","D-III","NESCAC",17,20,0,0.459
+"18","Wesleyan (CT)","764","2008","Jennifer Lane","D-III","NESCAC",21,16,0,0.568
+"19","Wesleyan (CT)","764","2007","Jennifer Lane","D-III","NESCAC",21,15,0,0.583
+"20","Wesleyan (CT)","764","2006","Jennifer Lane","D-III","NESCAC",13,21,0,0.382
+"21","Wesleyan (CT)","764","2005","Jennifer Lane","D-III","NESCAC",11,18,0,0.379
+"22","Wesleyan (CT)","764","2004","Jennifer Lane","D-III","NESCAC",11,20,0,0.355
+"23","Wesleyan (CT)","764","2003","Jennifer Lane","D-III","NESCAC",7,22,0,0.241
+"24","Wesleyan (CT)","764","2002","Jennifer Lane","D-III","NESCAC",8,23,1,0.266
+"25","Wesleyan (CT)","764","2001","","D-III","-",NA,NA,NA,NA
+"26","Wesleyan (CT)","764","1900","Renee Melchiona","D-III","-",8,20,NA,0.286
+"27","Wesleyan (CT)","764","1999","Renee Melchiona","D-III","-",11,23,NA,0.324
+"28","Wesleyan (CT)","764","1998","Lucille Gecewicz","D-III","-",10,17,NA,0.37
+"29","Wesleyan (CT)","764","1997","Lucille Gecewicz","D-III","-",12,15,NA,0.444
+"30","Wesleyan (CT)","764","1996","Lucille Gecewicz","D-III","-",8,21,NA,0.276
+"31","Wesleyan (CT)","764","1995","David Snyder","D-III","-",16,10,NA,0.615
+"32","Wesleyan (CT)","764","1994","David Snyder","D-III","-",9,10,NA,0.474
+"33","Wesleyan (CT)","764","1993","David Snyder","D-III","-",6,8,NA,0.429
+"34","Wesleyan (CT)","764","1992","David Snyder","D-III","-",7,13,NA,0.35
+"35","Wesleyan (CT)","764","1991","David Snyder","D-III","-",2,14,NA,0.125
+"36","Wesleyan (CT)","764","1990","David Snyder","D-III","-",4,15,NA,0.211
+"37","Wesleyan (CT)","764","1989","","D-III","-",NA,NA,NA,NA
+"38","Wesleyan (CT)","764","1988","","D-III","-",NA,NA,NA,NA
+"39","Wesleyan (CT)","764","1987","","","-",NA,NA,NA,NA
+"40","Wesleyan (CT)","764","1986","","","-",NA,NA,NA,NA
+"41","Wesleyan (CT)","764","1985","","","-",NA,NA,NA,NA
+"42","Wesleyan (CT)","764","","","","",398,585,3,0.405

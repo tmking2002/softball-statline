@@ -1,29 +1,31 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brittney Williams","SWAC","13-34-0",0.277
-"2",2022,"Brittney Williams","SWAC","16-34-0",0.32
-"3",2021,"John Garris","SWAC","12-26-0",0.316
-"4",2020,"John Garris","SWAC","4-11-0",0.267
-"5",2019,"John Garris","SWAC","8-27-0",0.229
-"6",2018,"John Garris","SWAC","17-23-0",0.425
-"7",2017,"John Garris","SWAC","17-22-0",0.436
-"8",2016,"John Garris","SWAC","12-20-0",0.375
-"9",2015,"John Garris","SWAC","16-14-0",0.533
-"10",2014,"Nancy Marshall","SWAC","11-37-0",0.229
-"11",2013,"Nancy Marshall","SWAC","5-43-0",0.104
-"12",2012,"Nancy Marshall","SWAC","7-33-0",0.175
-"13",2011,"Nancy Marshall","SWAC","21-24-0",0.467
-"14",2010,"Nancy Marshall","SWAC","16-28-0",0.364
-"15",2009,"Nancy Marshall","SWAC","21-21-0",0.5
-"16",2008,"Nancy Marshall","SWAC","28-18-0",0.609
-"17",2007,"Nancy Marshall","SWAC","18-20-0",0.474
-"18",2006,"Nancy Marshall","SWAC","26-24-0",0.52
-"19",2005,"Nancy Marshall","SWAC","31-12-0",0.721
-"20",2004,"Nancy Marshall","SWAC","27-18-0",0.6
-"21",2003,"Nancy Marshall","SWAC","19-16-0",0.543
-"22",2002,"Nancy Marshall","SWAC","24-24-0",0.5
-"23",2001,"Nancy Marshall","SWAC","20-21-0",0.488
-"24",2000,"Nancy Marshall","SWAC","22-24-0",0.478
-"25",1999,"Nancy Marshall","SWAC","31-14-0",0.689
-"26",1998,"Nancy Marshall","-","18-17-0",0.514
-"27",1997,"Nancy Marshall","SWAC","24-9-0",0.727
-"28",2024,"Brittney Williams","SWAC","14-23-0",0.378
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southern U.","665","2025","Brittney Williams","D-I","SWAC",0,3,0,0
+"2","Southern U.","665","2024","Brittney Williams","D-I","SWAC",15,26,0,0.366
+"3","Southern U.","665","2023","Brittney Williams","D-I","SWAC",13,34,0,0.277
+"4","Southern U.","665","2022","Brittney Williams","D-I","SWAC",16,34,0,0.32
+"5","Southern U.","665","2021","John Garris","D-I","SWAC",12,26,0,0.316
+"6","Southern U.","665","2020","John Garris","D-I","SWAC",4,11,0,0.267
+"7","Southern U.","665","2019","John Garris","D-I","SWAC",8,27,0,0.229
+"8","Southern U.","665","2018","John Garris","D-I","SWAC",17,23,NA,0.425
+"9","Southern U.","665","2017","John Garris","D-I","SWAC",17,22,0,0.436
+"10","Southern U.","665","2016","John Garris","D-I","SWAC",12,20,0,0.375
+"11","Southern U.","665","2015","John Garris","D-I","SWAC",16,14,0,0.533
+"12","Southern U.","665","2014","Nancy Marshall","D-I","SWAC",11,37,0,0.229
+"13","Southern U.","665","2013","Nancy Marshall","D-I","SWAC",5,43,0,0.104
+"14","Southern U.","665","2012","Nancy Marshall","D-I","SWAC",7,33,0,0.175
+"15","Southern U.","665","2011","Nancy Marshall","D-I","SWAC",21,24,0,0.467
+"16","Southern U.","665","2010","Nancy Marshall","D-I","SWAC",16,28,0,0.364
+"17","Southern U.","665","2009","Nancy Marshall","D-I","SWAC",21,21,0,0.5
+"18","Southern U.","665","2008","Nancy Marshall","D-I","SWAC",28,18,0,0.609
+"19","Southern U.","665","2007","Nancy Marshall","D-I","SWAC",18,20,0,0.474
+"20","Southern U.","665","2006","Nancy Marshall","D-I","SWAC",26,24,0,0.52
+"21","Southern U.","665","2005","Nancy Marshall","D-I","SWAC",31,12,0,0.721
+"22","Southern U.","665","2004","Nancy Marshall","D-I","SWAC",27,18,0,0.6
+"23","Southern U.","665","2003","Nancy Marshall","D-I","SWAC",19,16,0,0.543
+"24","Southern U.","665","2002","Nancy Marshall","D-I","SWAC",24,24,0,0.5
+"25","Southern U.","665","2001","Nancy Marshall","D-I","SWAC",20,21,0,0.488
+"26","Southern U.","665","1900","Nancy Marshall","D-I","SWAC",22,24,0,0.478
+"27","Southern U.","665","1999","Nancy Marshall","D-I","SWAC",31,14,0,0.689
+"28","Southern U.","665","1998","Nancy Marshall","D-I","-",18,17,NA,0.514
+"29","Southern U.","665","1997","Nancy Marshall","D-I","SWAC",24,9,0,0.727
+"30","Southern U.","665","","","","",499,643,0,0.437

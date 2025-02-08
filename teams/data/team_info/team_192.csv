@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Josh Keener","American Rivers","12-28-0",0.3
-"2",2022,"Jeff Lamb","American Rivers","24-9-0",0.727
-"3",2021,"Jeff Lamb","American Rivers","23-19-0",0.548
-"4",2020,"Jeff Lamb","American Rivers","10-4-0",0.714
-"5",2019,"Jeff Lamb","American Rivers","26-13-0",0.667
-"6",2018,"Wendi Wipperfurth","American Rivers","8-30-0",0.211
-"7",2017,"Wendi Wipperfurth","American Rivers","11-28-0",0.282
-"8",2016,"Wendi Wipperfurth","American Rivers","8-28-0",0.222
-"9",2015,"Wendi Wipperfurth","American Rivers","15-27-0",0.357
-"10",2014,"Wendi Wipperfurth","American Rivers","22-15-0",0.595
-"11",2013,"Wendi Wipperfurth","American Rivers","16-18-0",0.471
-"12",2012,"Wendi Wipperfurth","American Rivers","18-22-0",0.45
-"13",2011,"Wendi Wipperfurth","American Rivers","16-21-0",0.432
-"14",2010,"Corey Parr","American Rivers","10-25-0",0.286
-"15",2009,"Corey Parr","American Rivers","12-26-0",0.316
-"16",2008,"Corey Parr","American Rivers","14-20-0",0.412
-"17",2007,"Corey Parr","American Rivers","13-27-0",0.325
-"18",2006,"Elisha Perkins","American Rivers","8-32-0",0.2
-"19",2005,"Todd Huffman","American Rivers","8-26-0",0.235
-"20",2004,"Todd Huffman","American Rivers","12-24-0",0.333
-"21",2003,"Don Till","American Rivers","9-23-0",0.281
-"22",2002,"Don Till","American Rivers","6-32-0",0.158
-"23",2001,"Tina Deardorff","-","6-19-0",0.24
-"24",2000,"David Thielen","-","14-27-0",0.341
-"25",1999,"","-","0-0-0",NA
-"26",1998,"Jeff Brooks","-","14-17-0",0.452
-"27",1997,"Jeff Brooks","-","17-17-0",0.5
-"28",1996,"Randy Dolson","-","2-26-0",0.071
-"29",1995,"Randy Dolson","-","2-24-0",0.077
-"30",1994,"Vickie Moore","-","3-25-0",0.107
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1985,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",1981,"","-","0-0-0",NA
-"42",2024,"Andrea Bombace","American Rivers","10-25-0",0.286
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Dubuque","192","2025","Kristen Duross","D-III","American Rivers",0,0,0,0
+"2","Dubuque","192","2024","Andrea Bombace","D-III","American Rivers",10,25,0,0.286
+"3","Dubuque","192","2023","Josh Keener","D-III","American Rivers",12,28,0,0.3
+"4","Dubuque","192","2022","Jeff Lamb","D-III","American Rivers",24,9,0,0.727
+"5","Dubuque","192","2021","Jeff Lamb","D-III","American Rivers",23,19,0,0.548
+"6","Dubuque","192","2020","Jeff Lamb","D-III","American Rivers",10,4,0,0.714
+"7","Dubuque","192","2019","Jeff Lamb","D-III","American Rivers",26,13,0,0.667
+"8","Dubuque","192","2018","Wendi Wipperfurth","D-III","American Rivers",8,30,NA,0.211
+"9","Dubuque","192","2017","Wendi Wipperfurth","D-III","American Rivers",11,28,0,0.282
+"10","Dubuque","192","2016","Wendi Wipperfurth","D-III","American Rivers",8,28,0,0.222
+"11","Dubuque","192","2015","Wendi Wipperfurth","D-III","American Rivers",15,27,0,0.357
+"12","Dubuque","192","2014","Wendi Wipperfurth","D-III","American Rivers",22,15,0,0.595
+"13","Dubuque","192","2013","Wendi Wipperfurth","D-III","American Rivers",16,18,0,0.471
+"14","Dubuque","192","2012","Wendi Wipperfurth","D-III","American Rivers",18,22,0,0.45
+"15","Dubuque","192","2011","Wendi Wipperfurth","D-III","American Rivers",16,21,0,0.432
+"16","Dubuque","192","2010","Corey Parr","D-III","American Rivers",10,25,0,0.286
+"17","Dubuque","192","2009","Corey Parr","D-III","American Rivers",12,26,0,0.316
+"18","Dubuque","192","2008","Corey Parr","D-III","American Rivers",14,20,0,0.412
+"19","Dubuque","192","2007","Corey Parr","D-III","American Rivers",13,27,0,0.325
+"20","Dubuque","192","2006","Elisha Perkins","D-III","American Rivers",8,32,0,0.2
+"21","Dubuque","192","2005","Todd Huffman","D-III","American Rivers",8,26,0,0.235
+"22","Dubuque","192","2004","Todd Huffman","D-III","American Rivers",12,24,0,0.333
+"23","Dubuque","192","2003","Don Till","D-III","American Rivers",9,23,0,0.281
+"24","Dubuque","192","2002","Don Till","D-III","American Rivers",6,32,0,0.158
+"25","Dubuque","192","2001","Tina Deardorff","D-III","-",6,19,0,0.24
+"26","Dubuque","192","1900","David Thielen","D-III","-",14,27,NA,0.341
+"27","Dubuque","192","1999","","D-III","-",NA,NA,NA,NA
+"28","Dubuque","192","1998","Jeff Brooks","D-III","-",14,17,NA,0.452
+"29","Dubuque","192","1997","Jeff Brooks","D-III","-",17,17,NA,0.5
+"30","Dubuque","192","1996","Randy Dolson","D-III","-",2,26,NA,0.071
+"31","Dubuque","192","1995","Randy Dolson","D-III","-",2,24,NA,0.077
+"32","Dubuque","192","1994","Vickie Moore","D-III","-",3,25,NA,0.107
+"33","Dubuque","192","1993","","D-III","-",NA,NA,NA,NA
+"34","Dubuque","192","1992","","D-III","-",NA,NA,NA,NA
+"35","Dubuque","192","1991","","D-III","-",NA,NA,NA,NA
+"36","Dubuque","192","1990","","D-III","-",NA,NA,NA,NA
+"37","Dubuque","192","1989","","D-III","-",NA,NA,NA,NA
+"38","Dubuque","192","1988","","D-III","-",NA,NA,NA,NA
+"39","Dubuque","192","1987","","D-III","-",NA,NA,NA,NA
+"40","Dubuque","192","1985","","D-III","-",NA,NA,NA,NA
+"41","Dubuque","192","1984","","D-III","-",NA,NA,NA,NA
+"42","Dubuque","192","1983","","D-III","-",NA,NA,NA,NA
+"43","Dubuque","192","1981","","","-",NA,NA,NA,NA
+"44","Dubuque","192","","","","",369,677,0,0.353

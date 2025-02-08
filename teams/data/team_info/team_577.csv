@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Steve Wammer","MWC","14-24-0",0.368
-"2",2022,"Steve Wammer","MWC","11-27-0",0.289
-"3",2021,"Steve Wammer","MWC","5-31-0",0.139
-"4",2020,"Steve Wammer","MWC","0-4-0",0
-"5",2019,"Steve Wammer","MWC","10-26-0",0.278
-"6",2018,"Steve Wammer","MWC","16-20-0",0.444
-"7",2017,"Brooke Kalman","MWC","13-23-0",0.361
-"8",2016,"Jen Mueller","MWC","4-31-1",0.114
-"9",2015,"Jen Mueller","MWC","5-26-0",0.161
-"10",2014,"Jen Mueller","MWC","8-25-0",0.242
-"11",2013,"Jen Mueller","MWC","11-17-0",0.393
-"12",2012,"Jen Mueller","MWC","16-13-0",0.552
-"13",2011,"Jen Mueller","MWC","27-10-0",0.73
-"14",2010,"Jen Mueller","MWC","14-20-0",0.412
-"15",2009,"Jen Mueller","MWC","20-14-0",0.588
-"16",2008,"Kelly Witte","MWC","20-14-0",0.588
-"17",2007,"Kelly Witte","MWC","17-14-0",0.548
-"18",2006,"Kelly Witte","MWC","17-16-0",0.515
-"19",2005,"Kelly Witte","MWC","16-16-0",0.5
-"20",2004,"Kelly Witte","MWC","26-10-0",0.722
-"21",2003,"Kelly Witte","MWC","18-9-0",0.667
-"22",2002,"Kelly Witte","MWC","11-16-0",0.407
-"23",2001,"Kelly Witte","-","19-14-0",0.576
-"24",2000,"Kelly Witte","-","23-14-0",0.622
-"25",1999,"Kelly Witte","-","14-12-0",0.538
-"26",1998,"Kelly Witte","-","10-19-0",0.345
-"27",1997,"Julie Heinz","-","4-21-0",0.16
-"28",1996,"Julie Heinz","-","10-17-0",0.37
-"29",1995,"Julie Heinz","-","5-9-0",0.357
-"30",1994,"Julie Heinz","-","10-18-0",0.357
-"31",1993,"Julie Heinz","-","9-16-0",0.36
-"32",1992,"Julie Heinz","-","1-11-2",0.083
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1984,"","-","0-0-0",NA
-"37",2024,"Steve Wammer","MWC","11-25-0",0.306
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ripon","577","2025","Emilia Jackson","D-III","MWC",0,0,0,0
+"2","Ripon","577","2024","Steve Wammer","D-III","MWC",11,25,0,0.306
+"3","Ripon","577","2023","Steve Wammer","D-III","MWC",14,24,0,0.368
+"4","Ripon","577","2022","Steve Wammer","D-III","MWC",11,27,0,0.289
+"5","Ripon","577","2021","Steve Wammer","D-III","MWC",5,31,0,0.139
+"6","Ripon","577","2020","Steve Wammer","D-III","MWC",0,4,0,0
+"7","Ripon","577","2019","Steve Wammer","D-III","MWC",10,26,0,0.278
+"8","Ripon","577","2018","Steve Wammer","D-III","MWC",16,20,NA,0.444
+"9","Ripon","577","2017","Brooke Kalman","D-III","MWC",13,23,0,0.361
+"10","Ripon","577","2016","Jen Mueller","D-III","MWC",4,31,1,0.125
+"11","Ripon","577","2015","Jen Mueller","D-III","MWC",5,26,0,0.161
+"12","Ripon","577","2014","Jen Mueller","D-III","MWC",8,25,0,0.242
+"13","Ripon","577","2013","Jen Mueller","D-III","MWC",11,17,0,0.393
+"14","Ripon","577","2012","Jen Mueller","D-III","MWC",16,13,0,0.552
+"15","Ripon","577","2011","Jen Mueller","D-III","MWC",27,10,0,0.73
+"16","Ripon","577","2010","Jen Mueller","D-III","MWC",14,20,0,0.412
+"17","Ripon","577","2009","Jen Mueller","D-III","MWC",20,14,0,0.588
+"18","Ripon","577","2008","Kelly Witte","D-III","MWC",20,14,0,0.588
+"19","Ripon","577","2007","Kelly Witte","D-III","MWC",17,14,0,0.548
+"20","Ripon","577","2006","Kelly Witte","D-III","MWC",17,16,0,0.515
+"21","Ripon","577","2005","Kelly Witte","D-III","MWC",16,16,0,0.5
+"22","Ripon","577","2004","Kelly Witte","D-III","MWC",26,10,0,0.722
+"23","Ripon","577","2003","Kelly Witte","D-III","MWC",18,9,0,0.667
+"24","Ripon","577","2002","Kelly Witte","D-III","MWC",11,16,0,0.407
+"25","Ripon","577","2001","Kelly Witte","D-III","-",19,14,NA,0.576
+"26","Ripon","577","1900","Kelly Witte","D-III","-",23,14,NA,0.622
+"27","Ripon","577","1999","Kelly Witte","D-III","-",14,12,NA,0.538
+"28","Ripon","577","1998","Kelly Witte","D-III","-",10,19,NA,0.345
+"29","Ripon","577","1997","Julie Heinz","D-III","-",4,21,NA,0.16
+"30","Ripon","577","1996","Julie Heinz","D-III","-",10,17,NA,0.37
+"31","Ripon","577","1995","Julie Heinz","D-III","-",5,9,NA,0.357
+"32","Ripon","577","1994","Julie Heinz","D-III","-",10,18,NA,0.357
+"33","Ripon","577","1993","Julie Heinz","D-III","-",9,16,NA,0.36
+"34","Ripon","577","1992","Julie Heinz","D-III","-",1,11,2,0.143
+"35","Ripon","577","1991","","D-III","-",NA,NA,NA,NA
+"36","Ripon","577","1990","","D-III","-",NA,NA,NA,NA
+"37","Ripon","577","1989","","D-III","-",NA,NA,NA,NA
+"38","Ripon","577","1984","","D-III","-",NA,NA,NA,NA
+"39","Ripon","577","","","","",415,582,3,0.417

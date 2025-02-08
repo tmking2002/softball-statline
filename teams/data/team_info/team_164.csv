@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Laura Valentino","Big East","34-15-0",0.694
-"2",2022,"Laura Valentino","Big East","38-18-0",0.679
-"3",2021,"Laura Valentino","Big East","22-20-0",0.524
-"4",2020,"Laura Valentino","AAC","16-5-0",0.762
-"5",2019,"Jen McIntyre","AAC","21-29-0",0.42
-"6",2018,"Jen McIntyre","AAC","20-35-0",0.364
-"7",2017,"Jen McIntyre","AAC","17-31-0",0.354
-"8",2016,"Jen McIntyre","AAC","19-33-0",0.365
-"9",2015,"Jen McIntyre","AAC","18-35-0",0.34
-"10",2014,"Karen Mullins","AAC","13-38-0",0.255
-"11",2013,"Karen Mullins","AAC","26-27-0",0.491
-"12",2012,"Karen Mullins","AAC","21-27-0",0.438
-"13",2011,"Karen Mullins","AAC","19-30-0",0.388
-"14",2010,"Karen Mullins","AAC","21-30-0",0.412
-"15",2009,"Karen Mullins","AAC","29-22-0",0.569
-"16",2008,"Karen Mullins","AAC","28-22-0",0.56
-"17",2007,"Karen Mullins","AAC","22-21-0",0.512
-"18",2006,"Karen Mullins","AAC","19-29-0",0.396
-"19",2005,"Karen Mullins","AAC","20-25-0",0.444
-"20",2004,"Karen Mullins","AAC","23-23-0",0.5
-"21",2003,"Karen Mullins","AAC","24-23-1",0.511
-"22",2002,"Karen Mullins","AAC","13-36-0",0.265
-"23",2001,"Karen Mullins","AAC","36-23-0",0.61
-"24",2000,"Karen Mullins","AAC","37-17-0",0.685
-"25",1999,"Karen Mullins","AAC","23-23-0",0.5
-"26",1998,"Karen Mullins","-","24-21-1",0.533
-"27",1997,"Karen Mullins","AAC","30-20-0",0.6
-"28",1996,"Karen Mullins","-","36-22-0",0.621
-"29",1995,"Karen Mullins","-","37-20-0",0.649
-"30",1994,"Karen Mullins","-","29-18-0",0.617
-"31",1993,"Karen Mullins","-","45-14-0",0.763
-"32",1992,"Karen Mullins","-","42-10-0",0.808
-"33",1991,"Karen Mullins","-","35-18-1",0.66
-"34",1990,"Karen Mullins","-","34-9-0",0.791
-"35",1989,"Karen Mullins","-","29-12-0",0.707
-"36",1988,"Karen Mullins","-","34-13-0",0.723
-"37",1987,"Karen Mullins","-","27-7-1",0.794
-"38",1986,"Karen Mullins","-","30-17-1",0.638
-"39",1985,"Karen Mullins","-","34-7-0",0.829
-"40",1984,"Karen Mullins","-","22-2-0",0.917
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Laura Valentino","Big East","31-24-0",0.564
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UConn","164","2025","Laura Valentino","D-I","Big East",1,1,0,0.5
+"2","UConn","164","2024","Laura Valentino","D-I","Big East",31,24,0,0.564
+"3","UConn","164","2023","Laura Valentino","D-I","Big East",34,15,0,0.694
+"4","UConn","164","2022","Laura Valentino","D-I","Big East",38,18,0,0.679
+"5","UConn","164","2021","Laura Valentino","D-I","Big East",22,20,0,0.524
+"6","UConn","164","2020","Laura Valentino","D-I","The American",16,5,0,0.762
+"7","UConn","164","2019","Jen McIntyre","D-I","The American",21,29,0,0.42
+"8","UConn","164","2018","Jen McIntyre","D-I","The American",20,35,NA,0.364
+"9","UConn","164","2017","Jen McIntyre","D-I","The American",17,31,0,0.354
+"10","UConn","164","2016","Jen McIntyre","D-I","The American",19,33,0,0.365
+"11","UConn","164","2015","Jen McIntyre","D-I","The American",18,35,0,0.34
+"12","UConn","164","2014","Karen Mullins","D-I","The American",13,38,0,0.255
+"13","UConn","164","2013","Karen Mullins","D-I","The American",26,27,0,0.491
+"14","UConn","164","2012","Karen Mullins","D-I","The American",21,27,0,0.438
+"15","UConn","164","2011","Karen Mullins","D-I","The American",19,30,0,0.388
+"16","UConn","164","2010","Karen Mullins","D-I","The American",21,30,0,0.412
+"17","UConn","164","2009","Karen Mullins","D-I","The American",29,22,0,0.569
+"18","UConn","164","2008","Karen Mullins","D-I","The American",28,22,0,0.56
+"19","UConn","164","2007","Karen Mullins","D-I","The American",22,21,0,0.512
+"20","UConn","164","2006","Karen Mullins","D-I","The American",19,29,0,0.396
+"21","UConn","164","2005","Karen Mullins","D-I","The American",20,25,0,0.444
+"22","UConn","164","2004","Karen Mullins","D-I","The American",23,23,0,0.5
+"23","UConn","164","2003","Karen Mullins","D-I","The American",24,23,1,0.51
+"24","UConn","164","2002","Karen Mullins","D-I","The American",13,36,0,0.265
+"25","UConn","164","2001","Karen Mullins","D-I","The American",36,23,0,0.61
+"26","UConn","164","1900","Karen Mullins","D-I","The American",37,17,0,0.685
+"27","UConn","164","1999","Karen Mullins","D-I","The American",23,23,0,0.5
+"28","UConn","164","1998","Karen Mullins","D-I","-",24,21,1,0.533
+"29","UConn","164","1997","Karen Mullins","D-I","The American",30,20,0,0.6
+"30","UConn","164","1996","Karen Mullins","D-I","-",36,22,NA,0.621
+"31","UConn","164","1995","Karen Mullins","D-I","-",37,20,NA,0.649
+"32","UConn","164","1994","Karen Mullins","D-I","-",29,18,NA,0.617
+"33","UConn","164","1993","Karen Mullins","D-I","-",45,14,NA,0.763
+"34","UConn","164","1992","Karen Mullins","D-I","-",42,10,NA,0.808
+"35","UConn","164","1991","Karen Mullins","D-I","-",35,18,1,0.657
+"36","UConn","164","1990","Karen Mullins","D-I","-",34,9,NA,0.791
+"37","UConn","164","1989","Karen Mullins","D-I","-",29,12,NA,0.707
+"38","UConn","164","1988","Karen Mullins","D-I","-",34,13,NA,0.723
+"39","UConn","164","1987","Karen Mullins","D-I","-",27,7,1,0.786
+"40","UConn","164","1986","Karen Mullins","D-I","-",30,17,1,0.635
+"41","UConn","164","1985","Karen Mullins","D-I","-",34,7,NA,0.829
+"42","UConn","164","1984","Karen Mullins","D-I","-",22,2,NA,0.917
+"43","UConn","164","1983","","D-I","-",NA,NA,NA,NA
+"44","UConn","164","1982","","D-I","-",NA,NA,NA,NA
+"45","UConn","164","","","","",1099,872,5,0.557

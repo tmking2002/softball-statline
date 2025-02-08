@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Perry Clark","C2C","10-25-0",0.286
-"2",2022,"Perry Clark","C2C","14-18-0",0.438
-"3",2021,"Perry Clark","C2C","6-24-0",0.2
-"4",2020,"Perry Clark","ACAA","4-10-0",0.286
-"5",2019,"Perry Clark","ACAA","7-22-0",0.241
-"6",2018,"Perry Clark","DIII Independent","7-19-0",0.269
-"7",2017,"Tim Edwards","-","14-21-0",0.4
-"8",2016,"Tim Edwards","Gulf South","9-20-0",0.31
-"9",2015,"Tim Edwards","-","9-22-0",0.29
-"10",2014,"Tim Edwards","-","3-29-0",0.094
-"11",2013,"Melinda Wallace","-","0-19-0",0
-"12",2012,"Janae Magnuson","Division III Independents","9-25-0",0.265
-"13",2011,"Janae Magnuson","Division III Independents","0-30-0",0
-"14",2010,"Janae Magnuson","Division III Independents","0-0-0",NA
-"15",2009,"Janae Magnuson","-","0-27-0",0
-"16",2008,"Janae Magnuson","-","0-0-0",NA
-"17",2007,"Janae Magnuson","-","0-0-0",NA
-"18",2006,"","-","0-0-0",NA
-"19",2004,"","-","0-0-0",NA
-"20",1981,"","-","0-0-0",NA
-"21",2024,"Perry Clark","C2C","12-27-0",0.308
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mount Mary","30033","2025","Cody Tesch","D-III","C2C",0,0,0,0
+"2","Mount Mary","30033","2024","Perry Clark","D-III","C2C",10,28,0,0.263
+"3","Mount Mary","30033","2023","Perry Clark","D-III","C2C",10,25,0,0.286
+"4","Mount Mary","30033","2022","Perry Clark","D-III","C2C",14,18,0,0.438
+"5","Mount Mary","30033","2021","Perry Clark","D-III","C2C",6,24,0,0.2
+"6","Mount Mary","30033","2020","Perry Clark","D-III","ACAA",4,10,0,0.286
+"7","Mount Mary","30033","2019","Perry Clark","D-III","ACAA",7,22,0,0.241
+"8","Mount Mary","30033","2018","Perry Clark","D-III","DIII Independent",7,19,NA,0.269
+"9","Mount Mary","30033","2017","Tim Edwards","D-III","-",14,21,0,0.4
+"10","Mount Mary","30033","2016","Tim Edwards","D-III","Gulf South",9,20,0,0.31
+"11","Mount Mary","30033","2015","Tim Edwards","D-III","-",9,22,0,0.29
+"12","Mount Mary","30033","2014","Tim Edwards","D-III","-",3,29,0,0.094
+"13","Mount Mary","30033","2013","Melinda Wallace","D-III","-",0,19,0,0
+"14","Mount Mary","30033","2012","Janae Magnuson","D-III","Division III Independents",9,25,0,0.265
+"15","Mount Mary","30033","2011","Janae Magnuson","D-III","Division III Independents",0,30,0,0
+"16","Mount Mary","30033","2010","Janae Magnuson","D-III","Division III Independents",NA,NA,NA,NA
+"17","Mount Mary","30033","2009","Janae Magnuson","","-",0,27,0,0
+"18","Mount Mary","30033","2008","Janae Magnuson","","-",NA,NA,NA,NA
+"19","Mount Mary","30033","2007","Janae Magnuson","","-",NA,NA,NA,NA
+"20","Mount Mary","30033","2006","","","-",NA,NA,NA,NA
+"21","Mount Mary","30033","2004","","","-",NA,NA,NA,NA
+"22","Mount Mary","30033","1981","","","-",NA,NA,NA,NA
+"23","Mount Mary","30033","","","","",102,339,0,0.231

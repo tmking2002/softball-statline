@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ben Tyree","G-MAC","34-16-0",0.68
-"2",2022,"Ben Tyree","G-MAC","33-17-0",0.66
-"3",2021,"Ben Tyree","G-MAC","27-14-0",0.659
-"4",2020,"Ben Tyree","G-MAC","15-3-0",0.833
-"5",2019,"Ben Tyree","G-MAC","31-16-0",0.66
-"6",2018,"Ben Tyree","G-MAC","30-17-1",0.638
-"7",2017,"Ben Tyree","G-MAC","28-27-0",0.509
-"8",2016,"Ben Tyree","G-MAC","45-17-0",0.726
-"9",2015,"Ben Tyree","G-MAC","40-10-0",0.8
-"10",2014,"Ben Tyree","-","36-10-0",0.783
-"11",2013,"Ben Tyree","-","29-12-0",0.707
-"12",2012,"Ben Tyree","-","38-18-1",0.679
-"13",2011,"Ben Tyree","-","48-4-0",0.923
-"14",2010,"Ben Tyree","-","45-17-0",0.726
-"15",2009,"Ben Tyree","-","22-20-0",0.524
-"16",2008,"Ernie Reynolds","-","53-9-0",0.855
-"17",2007,"Ernie Reynolds","-","59-11-0",0.843
-"18",2006,"Ernie Reynolds","-","47-15-0",0.758
-"19",2005,"Ernie Reynolds","-","37-9-0",0.804
-"20",2004,"Angela Sullivan","-","29-17-0",0.63
-"21",2003,"Angela Sullivan","-","31-17-0",0.646
-"22",2002,"Angela Sullivan","-","31-21-0",0.596
-"23",2001,"Angela Sullivan","-","26-25-0",0.51
-"24",2000,"Angela Sullivan","-","21-29-0",0.42
-"25",1999,"Michael Johnson","-","12-29-1",0.293
-"26",1998,"Paul Wiggs","-","8-16-0",0.333
-"27",1997,"Renae Kirkhart","-","14-26-0",0.35
-"28",1996,"Renae Kirkhart","-","22-25-0",0.468
-"29",1995,"Renae Kirkhart","-","24-30-0",0.444
-"30",1994,"Renae Kirkhart","-","5-34-0",0.128
-"31",1993,"Renae Kirkhart","-","7-23-0",0.233
-"32",1992,"Lyn Slonecker","-","22-20-1",0.524
-"33",2024,"Ben Tyree","G-MAC","44-14-0",0.759
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Trevecca Nazarene","30002","2025","Ben Tyree","D-II","Gulf South",6,0,0,1
+"2","Trevecca Nazarene","30002","2024","Ben Tyree","D-II","G-MAC",47,15,0,0.758
+"3","Trevecca Nazarene","30002","2023","Ben Tyree","D-II","G-MAC",34,16,0,0.68
+"4","Trevecca Nazarene","30002","2022","Ben Tyree","D-II","G-MAC",33,17,0,0.66
+"5","Trevecca Nazarene","30002","2021","Ben Tyree","D-II","G-MAC",27,14,0,0.659
+"6","Trevecca Nazarene","30002","2020","Ben Tyree","D-II","G-MAC",15,3,0,0.833
+"7","Trevecca Nazarene","30002","2019","Ben Tyree","D-II","G-MAC",31,16,0,0.66
+"8","Trevecca Nazarene","30002","2018","Ben Tyree","D-II","G-MAC",30,17,1,0.635
+"9","Trevecca Nazarene","30002","2017","Ben Tyree","D-II","G-MAC",28,27,0,0.509
+"10","Trevecca Nazarene","30002","2016","Ben Tyree","D-II","G-MAC",45,17,0,0.726
+"11","Trevecca Nazarene","30002","2015","Ben Tyree","D-II","G-MAC",40,10,0,0.8
+"12","Trevecca Nazarene","30002","2014","Ben Tyree","","-",36,10,0,0.783
+"13","Trevecca Nazarene","30002","2013","Ben Tyree","","-",29,12,0,0.707
+"14","Trevecca Nazarene","30002","2012","Ben Tyree","","-",38,18,1,0.675
+"15","Trevecca Nazarene","30002","2011","Ben Tyree","","-",48,4,NA,0.923
+"16","Trevecca Nazarene","30002","2010","Ben Tyree","","-",45,17,0,0.726
+"17","Trevecca Nazarene","30002","2009","Ben Tyree","","-",22,20,0,0.524
+"18","Trevecca Nazarene","30002","2008","Ernie Reynolds","","-",53,9,0,0.855
+"19","Trevecca Nazarene","30002","2007","Ernie Reynolds","","-",59,11,0,0.843
+"20","Trevecca Nazarene","30002","2006","Ernie Reynolds","","-",47,15,0,0.758
+"21","Trevecca Nazarene","30002","2005","Ernie Reynolds","","-",37,9,0,0.804
+"22","Trevecca Nazarene","30002","2004","Angela Sullivan","","-",29,17,0,0.63
+"23","Trevecca Nazarene","30002","2003","Angela Sullivan","","-",31,17,0,0.646
+"24","Trevecca Nazarene","30002","2002","Angela Sullivan","","-",31,21,0,0.596
+"25","Trevecca Nazarene","30002","2001","Angela Sullivan","","-",26,25,0,0.51
+"26","Trevecca Nazarene","30002","1900","Angela Sullivan","","-",21,29,0,0.42
+"27","Trevecca Nazarene","30002","1999","Michael Johnson","","-",12,29,1,0.298
+"28","Trevecca Nazarene","30002","1998","Paul Wiggs","","-",8,16,0,0.333
+"29","Trevecca Nazarene","30002","1997","Renae Kirkhart","","-",14,26,0,0.35
+"30","Trevecca Nazarene","30002","1996","Renae Kirkhart","","-",22,25,0,0.468
+"31","Trevecca Nazarene","30002","1995","Renae Kirkhart","","-",24,30,0,0.444
+"32","Trevecca Nazarene","30002","1994","Renae Kirkhart","","-",5,34,0,0.128
+"33","Trevecca Nazarene","30002","1993","Renae Kirkhart","","-",7,23,0,0.233
+"34","Trevecca Nazarene","30002","1992","Lyn Slonecker","","-",22,20,1,0.523
+"35","Trevecca Nazarene","30002","","","","",1002,589,4,0.629

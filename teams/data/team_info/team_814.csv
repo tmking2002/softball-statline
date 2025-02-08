@@ -1,11 +1,14 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Matthew Kaldon","Skyline","2-29-0","0.065"
-"2","2022","Jillian Serraro","Skyline","0-25-0","0.000"
-"3","2021","Danielle DeStaso","Skyline","0-2-0","0.000"
-"4","2020","Danielle DeStaso","Skyline","0-0-0","  NaN"
-"5","2019","Danielle DeStaso","Skyline","4-26-0","0.133"
-"6","2018","Danielle DeStaso","Skyline","2-27-0","0.069"
-"7","2017","Steve Schucker","Skyline","3-21-0","0.125"
-"8","2016","Steve Schucker","Skyline","7-22-0","0.241"
-"9","2015","Steve Schucker","-","6-18-0","0.250"
-"10","2014","","-","2-7-0","0.222"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Yeshiva","814","2025","Melissa Mapes","D-III","Skyline",0,0,0,0
+"2","Yeshiva","814","2024","Matthew Kaldon","D-III","Skyline",0,30,0,0
+"3","Yeshiva","814","2023","Matthew Kaldon","D-III","Skyline",2,29,0,0.065
+"4","Yeshiva","814","2022","Jillian Serraro","D-III","Skyline",0,25,0,0
+"5","Yeshiva","814","2021","Danielle DeStaso","D-III","Skyline",0,2,0,0
+"6","Yeshiva","814","2020","Danielle DeStaso","D-III","Skyline",NA,NA,NA,0
+"7","Yeshiva","814","2019","Danielle DeStaso","D-III","Skyline",4,26,0,0.133
+"8","Yeshiva","814","2018","Danielle DeStaso","D-III","Skyline",2,27,NA,0.069
+"9","Yeshiva","814","2017","Steve Schucker","D-III","Skyline",3,21,0,0.125
+"10","Yeshiva","814","2016","Steve Schucker","D-III","Skyline",7,22,0,0.241
+"11","Yeshiva","814","2015","Steve Schucker","D-III","-",6,18,0,0.25
+"12","Yeshiva","814","2014","","D-III","-",2,7,0,0.222
+"13","Yeshiva","814","","","","",26,207,0,0.112

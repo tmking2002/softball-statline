@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2019",NA,"-","0-0-0",0
-"2","2016",NA,"-","0-0-0",NA
-"3","2015",NA,"-","0-0-0",NA
-"4","2014",NA,"-","0-0-0",NA
-"5","2013",NA,"-","0-0-0",NA
-"6","2012",NA,"-","0-0-0",NA
-"7","2011",NA,"-","0-0-0",NA
-"8","2010",NA,"-","0-0-0",NA
-"9","2008",NA,"-","0-0-0",NA
-"10","2007",NA,"-","0-0-0",NA
-"11","2005",NA,"-","0-0-0",NA
-"12","2002",NA,"-","0-0-0",NA
-"13","2000",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grace (IN)","501960","2025",NA,NA,"-",NA,NA,NA,0
+"2","Grace (IN)","501960","2019",NA,NA,"-",NA,NA,NA,0
+"3","Grace (IN)","501960","2016",NA,NA,"-",NA,NA,NA,NA
+"4","Grace (IN)","501960","2015",NA,NA,"-",NA,NA,NA,NA
+"5","Grace (IN)","501960","2014",NA,NA,"-",NA,NA,NA,NA
+"6","Grace (IN)","501960","2013",NA,NA,"-",NA,NA,NA,NA
+"7","Grace (IN)","501960","2012",NA,NA,"-",NA,NA,NA,NA
+"8","Grace (IN)","501960","2011",NA,NA,"-",NA,NA,NA,NA
+"9","Grace (IN)","501960","2010",NA,NA,"-",NA,NA,NA,NA
+"10","Grace (IN)","501960","2008",NA,NA,"-",NA,NA,NA,NA
+"11","Grace (IN)","501960","2007",NA,NA,"-",NA,NA,NA,NA
+"12","Grace (IN)","501960","2005",NA,NA,"-",NA,NA,NA,NA
+"13","Grace (IN)","501960","2002",NA,NA,"-",NA,NA,NA,NA
+"14","Grace (IN)","501960","1900",NA,NA,"-",NA,NA,NA,NA
+"15","Grace (IN)","501960","",NA,NA,"",0,0,0,0

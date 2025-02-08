@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jodi Hermanek","ACC","24-25-0",0.49
-"2",2022,"Jodi Hermanek","ACC","14-27-0",0.341
-"3",2021,"Jodi Hermanek","ACC","17-29-0",0.37
-"4",2020,"Jodi Hermanek","ACC","8-12-0",0.4
-"5",2019,"Jodi Hermanek","ACC","13-41-0",0.241
-"6",2018,"Holly Aprile","ACC","33-18-1",0.647
-"7",2017,"Holly Aprile","ACC","24-23-0",0.511
-"8",2016,"Holly Aprile","ACC","31-21-0",0.596
-"9",2015,"Holly Aprile","ACC","37-22-0",0.627
-"10",2014,"Holly Aprile","ACC","15-29-0",0.341
-"11",2013,"Holly Aprile","AAC","19-29-0",0.396
-"12",2012,"Holly Aprile","AAC","26-26-0",0.5
-"13",2011,"Holly Aprile","AAC","34-17-0",0.667
-"14",2010,"Holly Aprile","AAC","27-25-0",0.519
-"15",2009,"Holly Aprile","AAC","25-24-0",0.51
-"16",2008,"Michelle Phalen","AAC","31-25-0",0.554
-"17",2007,"Michelle Phalen","AAC","23-35-0",0.397
-"18",2006,"Michelle Phalen","AAC","32-27-0",0.542
-"19",2005,"Michelle Phalen","AAC","23-29-0",0.442
-"20",2004,"Michelle Phalen","AAC","21-36-0",0.368
-"21",2003,"Michelle Phalen","AAC","24-31-0",0.436
-"22",2002,"Michelle Phalen","AAC","21-33-0",0.389
-"23",2001,"Michelle Phalen","AAC","14-39-0",0.264
-"24",2000,"Michelle Phalen","AAC","21-28-0",0.429
-"25",1999,"Michelle Phalen","AAC","16-34-1",0.32
-"26",1998,"Michelle Phalen","-","0-12-0",0
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Jenny Allard","ACC","17-32-0",0.347
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Pittsburgh","545","2025","Jenny Allard","D-I","ACC",1,1,0,0.5
+"2","Pittsburgh","545","2024","Jenny Allard","D-I","ACC",17,32,0,0.347
+"3","Pittsburgh","545","2023","Jodi Hermanek","D-I","ACC",24,25,0,0.49
+"4","Pittsburgh","545","2022","Jodi Hermanek","D-I","ACC",14,27,0,0.341
+"5","Pittsburgh","545","2021","Jodi Hermanek","D-I","ACC",17,29,0,0.37
+"6","Pittsburgh","545","2020","Jodi Hermanek","D-I","ACC",8,12,0,0.4
+"7","Pittsburgh","545","2019","Jodi Hermanek","D-I","ACC",13,41,0,0.241
+"8","Pittsburgh","545","2018","Holly Aprile","D-I","ACC",33,18,1,0.644
+"9","Pittsburgh","545","2017","Holly Aprile","D-I","ACC",24,23,0,0.511
+"10","Pittsburgh","545","2016","Holly Aprile","D-I","ACC",31,21,0,0.596
+"11","Pittsburgh","545","2015","Holly Aprile","D-I","ACC",37,22,0,0.627
+"12","Pittsburgh","545","2014","Holly Aprile","D-I","ACC",15,29,0,0.341
+"13","Pittsburgh","545","2013","Holly Aprile","D-I","The American",19,29,0,0.396
+"14","Pittsburgh","545","2012","Holly Aprile","D-I","The American",26,26,0,0.5
+"15","Pittsburgh","545","2011","Holly Aprile","D-I","The American",34,17,0,0.667
+"16","Pittsburgh","545","2010","Holly Aprile","D-I","The American",27,25,0,0.519
+"17","Pittsburgh","545","2009","Holly Aprile","D-I","The American",25,24,0,0.51
+"18","Pittsburgh","545","2008","Michelle Phalen","D-I","The American",31,25,0,0.554
+"19","Pittsburgh","545","2007","Michelle Phalen","D-I","The American",23,35,0,0.397
+"20","Pittsburgh","545","2006","Michelle Phalen","D-I","The American",32,27,0,0.542
+"21","Pittsburgh","545","2005","Michelle Phalen","D-I","The American",23,29,0,0.442
+"22","Pittsburgh","545","2004","Michelle Phalen","D-I","The American",21,36,0,0.368
+"23","Pittsburgh","545","2003","Michelle Phalen","D-I","The American",24,31,0,0.436
+"24","Pittsburgh","545","2002","Michelle Phalen","D-I","The American",21,33,0,0.389
+"25","Pittsburgh","545","2001","Michelle Phalen","D-I","The American",14,39,0,0.264
+"26","Pittsburgh","545","1900","Michelle Phalen","D-I","The American",21,28,0,0.429
+"27","Pittsburgh","545","1999","Michelle Phalen","D-I","The American",16,34,1,0.324
+"28","Pittsburgh","545","1998","Michelle Phalen","D-I","-",0,12,NA,0
+"29","Pittsburgh","545","1997","","D-I","-",NA,NA,NA,NA
+"30","Pittsburgh","545","1996","","D-I","-",NA,NA,NA,NA
+"31","Pittsburgh","545","1995","","D-I","-",NA,NA,NA,NA
+"32","Pittsburgh","545","1994","","D-I","-",NA,NA,NA,NA
+"33","Pittsburgh","545","1993","","D-I","-",NA,NA,NA,NA
+"34","Pittsburgh","545","1992","","D-I","-",NA,NA,NA,NA
+"35","Pittsburgh","545","1991","","D-I","-",NA,NA,NA,NA
+"36","Pittsburgh","545","1990","","D-I","-",NA,NA,NA,NA
+"37","Pittsburgh","545","","","","",591,730,2,0.447

@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Elisabeth Beirne","Horizon","16-31-0",0.34
-"2",2022,"Elisabeth Beirne","Horizon","12-38-0",0.24
-"3",2021,"Elisabeth Beirne","Horizon","14-31-0",0.311
-"4",2020,"Elisabeth Beirne","Horizon","5-15-0",0.25
-"5",2019,"Elisabeth Beirne","Horizon","18-38-0",0.321
-"6",2018,"Elisabeth Beirne","Horizon","16-33-0",0.327
-"7",2017,"Heather Tarter","Summit League","23-31-0",0.426
-"8",2016,"Amanda Eberhart","Summit League","20-35-0",0.364
-"9",2015,"Amanda Eberhart","Summit League","33-18-0",0.647
-"10",2014,"Amanda Eberhart","Summit League","24-24-0",0.5
-"11",2013,"Amanda Eberhart","Summit League","18-31-0",0.367
-"12",2012,"Maggie Calcaterra (8-20)Jana Fields (-)","Summit League","18-32-0",0.36
-"13",2011,"Maggie Calcaterra","Summit League","15-32-0",0.319
-"14",2010,"Maggie Calcaterra","Summit League","16-37-0",0.302
-"15",2009,"Maggie Calcaterra","Summit League","3-50-0",0.057
-"16",2008,"Maggie Calcaterra","Summit League","11-27-0",0.289
-"17",2007,"Maggie Calcaterra","Summit League","14-32-0",0.304
-"18",2006,"Maggie Calcaterra","Summit League","13-37-0",0.26
-"19",2005,"Julie Pratt","Summit League","7-25-0",0.219
-"20",2004,"Julie Pratt","Summit League","22-26-0",0.458
-"21",2003,"Julie Pratt","-","12-35-0",0.255
-"22",2002,"Julie Pratt","Summit League","8-35-0",0.186
-"23",2001,"Julie Pratt","Summit League","22-36-0",0.379
-"24",2000,"Julie Pratt","Summit League","17-34-0",0.333
-"25",1999,"Shonda Stanton","Summit League","27-25-0",0.519
-"26",1998,"Van Wilson","-","8-20-0",0.286
-"27",1997,"J.T. Schrage","-","16-20-0",0.444
-"28",1996,"Kris Risley","-","13-24-0",0.351
-"29",1995,"Cindy Reese","-","9-34-0",0.209
-"30",1994,"Cindy Reese","-","28-26-1",0.519
-"31",1993,"Cindy Reese","-","0-0-0",NA
-"32",1992,"Cindy Reese","-","0-0-0",NA
-"33",2024,"Elisabeth Beirne","Horizon","13-37-0",0.26
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","IUPUI","2699","2025","Elisabeth Beirne","D-I","Horizon",0,1,0,0
+"2","IUPUI","2699","2024","Elisabeth Beirne","D-I","Horizon",13,37,0,0.26
+"3","IUPUI","2699","2023","Elisabeth Beirne","D-I","Horizon",16,31,0,0.34
+"4","IUPUI","2699","2022","Elisabeth Beirne","D-I","Horizon",12,38,0,0.24
+"5","IUPUI","2699","2021","Elisabeth Beirne","D-I","Horizon",14,31,0,0.311
+"6","IUPUI","2699","2020","Elisabeth Beirne","D-I","Horizon",5,15,0,0.25
+"7","IUPUI","2699","2019","Elisabeth Beirne","D-I","Horizon",18,38,0,0.321
+"8","IUPUI","2699","2018","Elisabeth Beirne","D-I","Horizon",16,33,NA,0.327
+"9","IUPUI","2699","2017","Heather Tarter","D-I","Summit League",23,31,0,0.426
+"10","IUPUI","2699","2016","Amanda Eberhart","D-I","Summit League",20,35,0,0.364
+"11","IUPUI","2699","2015","Amanda Eberhart","D-I","Summit League",33,18,0,0.647
+"12","IUPUI","2699","2014","Amanda Eberhart","D-I","Summit League",24,24,0,0.5
+"13","IUPUI","2699","2013","Amanda Eberhart","D-I","Summit League",18,31,0,0.367
+"14","IUPUI","2699","2012","Maggie Calcaterra (21-33)Jana Fields (21-33)","D-I","Summit League",21,33,0,0.389
+"15","IUPUI","2699","2011","Maggie Calcaterra","D-I","Summit League",15,32,0,0.319
+"16","IUPUI","2699","2010","Maggie Calcaterra","D-I","Summit League",16,37,0,0.302
+"17","IUPUI","2699","2009","Maggie Calcaterra","D-I","Summit League",3,50,0,0.057
+"18","IUPUI","2699","2008","Maggie Calcaterra","D-I","Summit League",11,27,0,0.289
+"19","IUPUI","2699","2007","Maggie Calcaterra","D-I","Summit League",14,32,0,0.304
+"20","IUPUI","2699","2006","Maggie Calcaterra","D-I","Summit League",13,37,0,0.26
+"21","IUPUI","2699","2005","Julie Pratt","D-I","Summit League",7,25,0,0.219
+"22","IUPUI","2699","2004","Julie Pratt","D-I","Summit League",22,26,0,0.458
+"23","IUPUI","2699","2003","Julie Pratt","D-I","-",12,35,0,0.255
+"24","IUPUI","2699","2002","Julie Pratt","D-I","Summit League",8,35,0,0.186
+"25","IUPUI","2699","2001","Julie Pratt","D-I","Summit League",22,36,0,0.379
+"26","IUPUI","2699","1900","Julie Pratt","D-I","Summit League",17,34,0,0.333
+"27","IUPUI","2699","1999","Shonda Stanton","D-I","Summit League",27,25,0,0.519
+"28","IUPUI","2699","1998","Van Wilson","D-II","-",8,20,0,0.286
+"29","IUPUI","2699","1997","J.T. Schrage","D-II","-",16,20,0,0.444
+"30","IUPUI","2699","1996","Kris Risley","D-II","-",13,24,0,0.351
+"31","IUPUI","2699","1995","Cindy Reese","D-II","-",9,34,0,0.209
+"32","IUPUI","2699","1994","Cindy Reese","D-II","-",28,26,1,0.518
+"33","IUPUI","2699","1993","Cindy Reese","D-II","-",NA,NA,NA,NA
+"34","IUPUI","2699","1992","Cindy Reese","D-II","-",NA,NA,NA,NA
+"35","IUPUI","2699","","","","",494,951,1,0.342

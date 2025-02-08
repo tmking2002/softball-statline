@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jenny Condon","Big West","19-23-0",0.452
-"2",2022,"Jenny Condon","Big West","19-29-0",0.396
-"3",2021,"Jenny Condon","Big West","13-22-0",0.371
-"4",2020,"Jenny Condon","Big West","10-13-0",0.435
-"5",2019,"Jenny Condon","Big West","11-40-0",0.216
-"6",2018,"Jenny Condon","Big West","25-25-0",0.5
-"7",2017,"Jenny Condon","Big West","38-21-0",0.644
-"8",2016,"Jenny Condon","Big West","0-23-0",0
-"9",2015,"Jenny Condon","Big West","22-33-0",0.4
-"10",2014,"Jenny Condon","Big West","0-19-0",0
-"11",2013,"Jenny Condon","Big West","0-34-1",0
-"12",2012,"Jenny Condon","Big West","13-36-0",0.265
-"13",2011,"Jenny Condon","Big West","11-36-0",0.234
-"14",2010,"Jenny Condon","Big West","23-24-0",0.489
-"15",2009,"Jenny Condon","Big West","41-12-0",0.774
-"16",2008,"Jenny Condon","Big West","24-22-0",0.522
-"17",2007,"Jenny Condon","Big West","39-17-0",0.696
-"18",2006,"Jenny Condon","Big West","27-23-0",0.54
-"19",2005,"Jenny Condon","Big West","35-16-0",0.686
-"20",2004,"Lisa Boyer","Big West","22-28-0",0.44
-"21",2003,"Lisa Boyer","Big West","22-38-0",0.367
-"22",2002,"Lisa Boyer","Big West","25-29-0",0.463
-"23",2001,"Lisa Boyer","Big West","28-29-0",0.491
-"24",2000,"Lisa Boyer","Big West","15-35-0",0.3
-"25",1999,"Lisa Boyer","Big West","22-30-0",0.423
-"26",1998,"Lisa Boyer","-","22-28-0",0.44
-"27",1997,"Lisa Boyer","Big West","37-17-0",0.685
-"28",1996,"Lisa Boyer","-","23-19-0",0.548
-"29",1995,"Lisa Boyer","-","25-18-0",0.581
-"30",1994,"Lisa Boyer","-","31-18-0",0.633
-"31",1993,"Lisa Boyer","-","30-16-0",0.652
-"32",1992,"Lisa Boyer","-","35-13-0",0.729
-"33",1991,"Lisa Boyer","-","31-22-0",0.585
-"34",1990,"Lisa Boyer","-","36-21-0",0.632
-"35",1989,"Lisa Boyer","-","32-16-1",0.667
-"36",1988,"","-","0-0-0",NA
-"37",1985,"","-","0-0-0",NA
-"38",1984,"","-","0-0-0",NA
-"39",1983,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",2024,"Jenny Condon","Big West","28-17-0",0.622
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cal Poly","90","2025","Jenny Condon","D-I","Big West",0,2,0,0
+"2","Cal Poly","90","2024","Jenny Condon","D-I","Big West",28,17,0,0.622
+"3","Cal Poly","90","2023","Jenny Condon","D-I","Big West",19,23,0,0.452
+"4","Cal Poly","90","2022","Jenny Condon","D-I","Big West",19,29,0,0.396
+"5","Cal Poly","90","2021","Jenny Condon","D-I","Big West",13,22,0,0.371
+"6","Cal Poly","90","2020","Jenny Condon","D-I","Big West",10,13,0,0.435
+"7","Cal Poly","90","2019","Jenny Condon","D-I","Big West",11,40,0,0.216
+"8","Cal Poly","90","2018","Jenny Condon","D-I","Big West",25,25,NA,0.5
+"9","Cal Poly","90","2017","Jenny Condon","D-I","Big West",38,21,0,0.644
+"10","Cal Poly","90","2016","Jenny Condon","D-I","Big West",0,23,0,0
+"11","Cal Poly","90","2015","Jenny Condon","D-I","Big West",22,33,0,0.4
+"12","Cal Poly","90","2014","Jenny Condon","D-I","Big West",0,19,0,0
+"13","Cal Poly","90","2013","Jenny Condon","D-I","Big West",19,34,1,0.361
+"14","Cal Poly","90","2012","Jenny Condon","D-I","Big West",13,36,0,0.265
+"15","Cal Poly","90","2011","Jenny Condon","D-I","Big West",11,36,0,0.234
+"16","Cal Poly","90","2010","Jenny Condon","D-I","Big West",23,24,0,0.489
+"17","Cal Poly","90","2009","Jenny Condon","D-I","Big West",41,12,0,0.774
+"18","Cal Poly","90","2008","Jenny Condon","D-I","Big West",24,22,0,0.522
+"19","Cal Poly","90","2007","Jenny Condon","D-I","Big West",39,17,0,0.696
+"20","Cal Poly","90","2006","Jenny Condon","D-I","Big West",27,23,0,0.54
+"21","Cal Poly","90","2005","Jenny Condon","D-I","Big West",35,16,0,0.686
+"22","Cal Poly","90","2004","Lisa Boyer","D-I","Big West",22,28,0,0.44
+"23","Cal Poly","90","2003","Lisa Boyer","D-I","Big West",22,38,0,0.367
+"24","Cal Poly","90","2002","Lisa Boyer","D-I","Big West",25,29,0,0.463
+"25","Cal Poly","90","2001","Lisa Boyer","D-I","Big West",28,29,0,0.491
+"26","Cal Poly","90","1900","Lisa Boyer","D-I","Big West",15,35,0,0.3
+"27","Cal Poly","90","1999","Lisa Boyer","D-I","Big West",22,30,0,0.423
+"28","Cal Poly","90","1998","Lisa Boyer","D-I","-",22,28,NA,0.44
+"29","Cal Poly","90","1997","Lisa Boyer","D-I","Big West",37,17,0,0.685
+"30","Cal Poly","90","1996","Lisa Boyer","D-I","-",23,19,NA,0.548
+"31","Cal Poly","90","1995","Lisa Boyer","D-I","-",25,18,NA,0.581
+"32","Cal Poly","90","1994","Lisa Boyer","D-II","-",31,18,NA,0.633
+"33","Cal Poly","90","1993","Lisa Boyer","D-II","-",30,16,NA,0.652
+"34","Cal Poly","90","1992","Lisa Boyer","D-II","-",35,13,NA,0.729
+"35","Cal Poly","90","1991","Lisa Boyer","D-II","-",31,22,NA,0.585
+"36","Cal Poly","90","1990","Lisa Boyer","D-II","-",36,21,NA,0.632
+"37","Cal Poly","90","1989","Lisa Boyer","D-II","-",32,16,1,0.663
+"38","Cal Poly","90","1988","","D-I","-",NA,NA,NA,NA
+"39","Cal Poly","90","1985","","D-II","-",NA,NA,NA,NA
+"40","Cal Poly","90","1984","","D-II","-",NA,NA,NA,NA
+"41","Cal Poly","90","1983","","D-II","-",NA,NA,NA,NA
+"42","Cal Poly","90","1982","","D-II","-",NA,NA,NA,NA
+"43","Cal Poly","90","","","","",853,864,2,0.497

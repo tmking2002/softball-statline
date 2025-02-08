@@ -1,5 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Angela Froboese","SCAC","33-10-0",0.767
-"2",2022,"Angela Froboese","SCAC","25-15-0",0.625
-"3",2021,"Angela Froboese","SCAC","0-0-0",NA
-"4",2024,"Angela Froboese","SCAC","23-14-0",0.622
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Thomas (TX)","2810","2025","Angela Froboese","D-III","SCAC",0,0,0,0
+"2","St. Thomas (TX)","2810","2024","Angela Froboese","D-III","SCAC",24,14,0,0.632
+"3","St. Thomas (TX)","2810","2023","Angela Froboese","D-III","SCAC",33,10,0,0.767
+"4","St. Thomas (TX)","2810","2022","Angela Froboese","D-III","SCAC",25,15,0,0.625
+"5","St. Thomas (TX)","2810","2021","Angela Froboese","","SCAC",NA,NA,NA,0
+"6","St. Thomas (TX)","2810","","","","",82,39,0,0.678

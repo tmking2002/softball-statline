@@ -1,4 +1,5 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2012",NA,"-","0-0-0",NA
-"2","2010",NA,"-","0-0-0",NA
-"3","2009",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","VTSU Randolph","505487","2012",NA,NA,"-",NA,NA,NA,NA
+"2","VTSU Randolph","505487","2010",NA,NA,"-",NA,NA,NA,NA
+"3","VTSU Randolph","505487","2009",NA,NA,"-",NA,NA,NA,NA
+"4","VTSU Randolph","505487","",NA,NA,"",0,0,0,0

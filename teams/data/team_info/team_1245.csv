@@ -1,32 +1,34 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mandy Sansbury","Conference Carolinas","23-20-0",0.535
-"2",2022,"Mandy Sansbury","Conference Carolinas","39-13-0",0.75
-"3",2021,"Mandy Sansbury","Conference Carolinas","24-15-0",0.615
-"4",2020,"Mandy Sansbury","Conference Carolinas","17-5-0",0.773
-"5",2019,"Mandy Sansbury","Conference Carolinas","33-19-0",0.635
-"6",2018,"Mandy Sansbury","Conference Carolinas","24-28-0",0.462
-"7",2017,"Mandy Sansbury","Conference Carolinas","25-29-0",0.463
-"8",2016,"Mandy Sansbury","Conference Carolinas","33-20-0",0.623
-"9",2015,"Mandy Sansbury","Conference Carolinas","29-20-0",0.592
-"10",2014,"Jaime Kylis","Conference Carolinas","24-26-0",0.48
-"11",2013,"Jaime Kylis","Conference Carolinas","34-15-0",0.694
-"12",2012,"Jaime Kylis","Conference Carolinas","31-17-0",0.646
-"13",2011,"Jaime Kylis","Conference Carolinas","23-27-0",0.46
-"14",2010,"Jaime Kylis","Conference Carolinas","23-29-0",0.442
-"15",2009,"Jaime Kylis","Conference Carolinas","25-18-1",0.581
-"16",2008,"Jaime Kylis","Conference Carolinas","29-21-0",0.58
-"17",2007,"Jaime Kylis","Conference Carolinas","39-19-0",0.672
-"18",2006,"Jaime Kylis","Conference Carolinas","26-30-0",0.464
-"19",2005,"Jaime Kylis","Conference Carolinas","17-33-0",0.34
-"20",2004,"Jaime Kylis","Conference Carolinas","14-35-0",0.286
-"21",2003,"Sharon Gregory","-","0-0-0",NA
-"22",2002,"Sharon Gregory","Conference Carolinas","18-34-0",0.346
-"23",2001,"Sharon Gregory","-","11-31-0",0.262
-"24",2000,"Sharon Gregory","-","35-15-0",0.7
-"25",1999,"Sharon Gregory","-","23-26-0",0.469
-"26",1998,"Sharon Gregory","-","35-17-0",0.673
-"27",1997,"Kathy Riley","-","31-23-0",0.574
-"28",1996,"Kathy Riley","-","28-26-0",0.519
-"29",1995,"Kathy Riley","-","16-17-0",0.485
-"30",1994,"Kathy Riley","-","12-16-0",0.429
-"31",2024,"Luke Shamblin","Conference Carolinas","30-14-0",0.682
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mount Olive","1245","2025","India Kornegay","D-II","Conference Carolinas",2,4,0,0.333
+"2","Mount Olive","1245","2024","Luke Shamblin","D-II","Conference Carolinas",36,16,0,0.692
+"3","Mount Olive","1245","2023","Mandy Sansbury","D-II","Conference Carolinas",23,20,0,0.535
+"4","Mount Olive","1245","2022","Mandy Sansbury","D-II","Conference Carolinas",39,13,0,0.75
+"5","Mount Olive","1245","2021","Mandy Sansbury","D-II","Conference Carolinas",24,15,0,0.615
+"6","Mount Olive","1245","2020","Mandy Sansbury","D-II","Conference Carolinas",17,5,0,0.773
+"7","Mount Olive","1245","2019","Mandy Sansbury","D-II","Conference Carolinas",33,19,0,0.635
+"8","Mount Olive","1245","2018","Mandy Sansbury","D-II","Conference Carolinas",24,28,NA,0.462
+"9","Mount Olive","1245","2017","Mandy Sansbury","D-II","Conference Carolinas",25,29,0,0.463
+"10","Mount Olive","1245","2016","Mandy Sansbury","D-II","Conference Carolinas",33,20,0,0.623
+"11","Mount Olive","1245","2015","Mandy Sansbury","D-II","Conference Carolinas",29,20,0,0.592
+"12","Mount Olive","1245","2014","Jaime Kylis","D-II","Conference Carolinas",24,26,0,0.48
+"13","Mount Olive","1245","2013","Jaime Kylis","D-II","Conference Carolinas",34,15,0,0.694
+"14","Mount Olive","1245","2012","Jaime Kylis","D-II","Conference Carolinas",31,17,0,0.646
+"15","Mount Olive","1245","2011","Jaime Kylis","D-II","Conference Carolinas",23,27,0,0.46
+"16","Mount Olive","1245","2010","Jaime Kylis","D-II","Conference Carolinas",23,29,0,0.442
+"17","Mount Olive","1245","2009","Jaime Kylis","D-II","Conference Carolinas",25,18,1,0.58
+"18","Mount Olive","1245","2008","Jaime Kylis","D-II","Conference Carolinas",29,21,0,0.58
+"19","Mount Olive","1245","2007","Jaime Kylis","D-II","Conference Carolinas",39,19,0,0.672
+"20","Mount Olive","1245","2006","Jaime Kylis","D-II","Conference Carolinas",26,30,0,0.464
+"21","Mount Olive","1245","2005","Jaime Kylis","D-II","Conference Carolinas",17,33,0,0.34
+"22","Mount Olive","1245","2004","Jaime Kylis","D-II","Conference Carolinas",14,35,0,0.286
+"23","Mount Olive","1245","2003","Sharon Gregory","","-",NA,NA,NA,NA
+"24","Mount Olive","1245","2002","Sharon Gregory","D-II","Conference Carolinas",18,34,0,0.346
+"25","Mount Olive","1245","2001","Sharon Gregory","D-II","-",11,31,NA,0.262
+"26","Mount Olive","1245","1900","Sharon Gregory","D-II","-",35,15,NA,0.7
+"27","Mount Olive","1245","1999","Sharon Gregory","D-II","-",23,26,NA,0.469
+"28","Mount Olive","1245","1998","Sharon Gregory","D-II","-",35,17,NA,0.673
+"29","Mount Olive","1245","1997","Kathy Riley","D-II","-",31,23,NA,0.574
+"30","Mount Olive","1245","1996","Kathy Riley","D-II","-",28,26,NA,0.519
+"31","Mount Olive","1245","1995","Kathy Riley","D-II","-",16,17,NA,0.485
+"32","Mount Olive","1245","1994","Kathy Riley","D-II","-",12,16,NA,0.429
+"33","Mount Olive","1245","","","","",779,664,1,0.54

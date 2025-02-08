@@ -1,35 +1,37 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Val Silvestrini","Sunshine State","28-22-0",0.56
-"2",2022,"Val Silvestrini","Sunshine State","32-20-0",0.615
-"3",2021,"Val Silvestrini","Sunshine State","13-15-0",0.464
-"4",2020,"Val Silvestrini","Sunshine State","16-11-0",0.593
-"5",2019,"Val Silvestrini","Sunshine State","42-12-0",0.778
-"6",2018,"Val Silvestrini","Sunshine State","32-21-0",0.604
-"7",2017,"Val Silvestrini","Sunshine State","26-25-0",0.51
-"8",2016,"Val Silvestrini","Sunshine State","39-15-0",0.722
-"9",2015,"Val Silvestrini","Sunshine State","38-20-0",0.655
-"10",2014,"Val Silvestrini","Sunshine State","23-25-0",0.479
-"11",2013,"Val Silvestrini","Sunshine State","25-22-0",0.532
-"12",2012,"Val Silvestrini","Sunshine State","24-27-0",0.471
-"13",2011,"Val Silvestrini","Sunshine State","24-26-0",0.48
-"14",2010,"Val Silvestrini","Sunshine State","22-28-0",0.44
-"15",2009,"Ellie O'Shea","Sunshine State","21-26-0",0.447
-"16",2008,"Ellie O'Shea","Sunshine State","9-6-0",0.6
-"17",2007,"Ellie O'Shea","Sunshine State","42-25-0",0.627
-"18",2006,"Ellie O'Shea","Sunshine State","31-16-0",0.66
-"19",2005,"Nancy Bottge","Sunshine State","33-15-0",0.688
-"20",2004,"Nancy Bottge","Sunshine State","29-18-1",0.617
-"21",2003,"Nancy Bottge","Sunshine State","30-20-1",0.6
-"22",2002,"Nancy Bottge","Sunshine State","26-26-0",0.5
-"23",2001,"Nancy Bottge","-","27-23-0",0.54
-"24",2000,"Nancy Bottge","-","25-21-0",0.543
-"25",1999,"Nancy Bottge","-","29-21-0",0.58
-"26",1998,"Nancy Bottge","-","25-21-0",0.543
-"27",1997,"Nancy Bottge","-","30-25-0",0.545
-"28",1996,"Nancy Bottge","-","33-25-0",0.569
-"29",1995,"Nancy Bottge","-","29-22-0",0.569
-"30",1994,"Paul Ouellette","-","7-35-0",0.167
-"31",1993,"Paul Ouellette","-","14-30-0",0.318
-"32",1992,"Tom DeFilippo","-","12-28-0",0.3
-"33",1991,"Tom DeFilippo","-","14-27-0",0.341
-"34",2024,"Val Silvestrini","Sunshine State","23-17-0",0.575
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Florida Tech","230","2025","Val Silvestrini","D-II","Sunshine State",3,4,0,0.429
+"2","Florida Tech","230","2024","Val Silvestrini","D-II","Sunshine State",25,21,0,0.543
+"3","Florida Tech","230","2023","Val Silvestrini","D-II","Sunshine State",28,22,0,0.56
+"4","Florida Tech","230","2022","Val Silvestrini","D-II","Sunshine State",32,20,0,0.615
+"5","Florida Tech","230","2021","Val Silvestrini","D-II","Sunshine State",13,15,0,0.464
+"6","Florida Tech","230","2020","Val Silvestrini","D-II","Sunshine State",16,11,0,0.593
+"7","Florida Tech","230","2019","Val Silvestrini","D-II","Sunshine State",42,12,0,0.778
+"8","Florida Tech","230","2018","Val Silvestrini","D-II","Sunshine State",32,21,NA,0.604
+"9","Florida Tech","230","2017","Val Silvestrini","D-II","Sunshine State",26,25,0,0.51
+"10","Florida Tech","230","2016","Val Silvestrini","D-II","Sunshine State",39,15,0,0.722
+"11","Florida Tech","230","2015","Val Silvestrini","D-II","Sunshine State",38,20,0,0.655
+"12","Florida Tech","230","2014","Val Silvestrini","D-II","Sunshine State",23,25,0,0.479
+"13","Florida Tech","230","2013","Val Silvestrini","D-II","Sunshine State",25,22,0,0.532
+"14","Florida Tech","230","2012","Val Silvestrini","D-II","Sunshine State",24,27,0,0.471
+"15","Florida Tech","230","2011","Val Silvestrini","D-II","Sunshine State",24,26,0,0.48
+"16","Florida Tech","230","2010","Val Silvestrini","D-II","Sunshine State",22,28,0,0.44
+"17","Florida Tech","230","2009","Ellie O'Shea","D-II","Sunshine State",21,26,0,0.447
+"18","Florida Tech","230","2008","Ellie O'Shea","D-II","Sunshine State",9,6,0,0.6
+"19","Florida Tech","230","2007","Ellie O'Shea","D-II","Sunshine State",42,25,0,0.627
+"20","Florida Tech","230","2006","Ellie O'Shea","D-II","Sunshine State",31,16,0,0.66
+"21","Florida Tech","230","2005","Nancy Bottge","D-II","Sunshine State",33,15,0,0.688
+"22","Florida Tech","230","2004","Nancy Bottge","D-II","Sunshine State",29,18,1,0.615
+"23","Florida Tech","230","2003","Nancy Bottge","D-II","Sunshine State",30,20,1,0.598
+"24","Florida Tech","230","2002","Nancy Bottge","D-II","Sunshine State",26,26,0,0.5
+"25","Florida Tech","230","2001","Nancy Bottge","D-II","-",27,23,0,0.54
+"26","Florida Tech","230","1900","Nancy Bottge","D-II","-",25,21,0,0.543
+"27","Florida Tech","230","1999","Nancy Bottge","D-II","-",29,21,0,0.58
+"28","Florida Tech","230","1998","Nancy Bottge","D-II","-",25,21,0,0.543
+"29","Florida Tech","230","1997","Nancy Bottge","D-II","-",30,25,0,0.545
+"30","Florida Tech","230","1996","Nancy Bottge","D-II","-",33,25,0,0.569
+"31","Florida Tech","230","1995","Nancy Bottge","D-II","-",29,22,0,0.569
+"32","Florida Tech","230","1994","Paul Ouellette","D-II","-",7,35,0,0.167
+"33","Florida Tech","230","1993","Paul Ouellette","D-II","-",14,30,0,0.318
+"34","Florida Tech","230","1992","Tom DeFilippo","D-II","-",12,28,0,0.3
+"35","Florida Tech","230","1991","Tom DeFilippo","D-II","-",14,27,0,0.341
+"36","Florida Tech","230","","","","",878,744,2,0.541

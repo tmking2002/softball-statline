@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lori Perez","Big Sky","27-20-0",0.574
-"2",2022,"Lori Perez","Big Sky","30-25-0",0.545
-"3",2021,"Lori Perez","Big Sky","15-27-0",0.357
-"4",2020,"Lori Perez","Big Sky","14-11-1",0.56
-"5",2019,"Lori Perez","Big Sky","31-25-0",0.554
-"6",2018,"Lori Perez","Big Sky","31-20-0",0.608
-"7",2017,"Lori Perez","Big Sky","21-28-1",0.429
-"8",2016,"Lori Perez","Big Sky","28-22-0",0.56
-"9",2015,"Lori Perez","Big Sky","35-26-0",0.574
-"10",2014,"Lori Perez","Big Sky","25-21-0",0.543
-"11",2013,"Kathy Strahan","Big Sky","22-22-0",0.5
-"12",2012,"Kathy Strahan","Pacific Coast Softball","27-19-0",0.587
-"13",2011,"Kathy Strahan","Pacific Coast Softball","20-24-0",0.455
-"14",2010,"Kathy Strahan","Pacific Coast Softball","23-31-0",0.426
-"15",2009,"Kathy Strahan","Pacific Coast Softball","28-23-0",0.549
-"16",2008,"Kathy Strahan","Pacific Coast Softball","32-21-0",0.604
-"17",2007,"Kathy Strahan","Pacific Coast Softball","20-33-0",0.377
-"18",2006,"Kathy Strahan","Pacific Coast Softball","35-20-0",0.636
-"19",2005,"Kathy Strahan","Pacific Coast Softball","30-23-0",0.566
-"20",2004,"Kathy Strahan","Pacific Coast Softball","32-28-0",0.533
-"21",2003,"Kathy Strahan","Big West","30-26-0",0.536
-"22",2002,"Kathy Strahan","Big West","18-33-0",0.353
-"23",2001,"Kathy Strahan","Big West","17-37-0",0.315
-"24",2000,"Kathy Strahan","Big West","25-30-0",0.455
-"25",1999,"Kathy Strahan","Big West","27-26-0",0.509
-"26",1998,"Kathy Strahan","-","25-23-0",0.521
-"27",1997,"Kathy Strahan","Big West","32-24-1",0.571
-"28",1996,"Kathy Strahan","-","32-26-0",0.552
-"29",1995,"Kathy Strahan","-","40-15-0",0.727
-"30",1994,"Kathy Strahan","-","25-30-1",0.455
-"31",1993,"Kathy Strahan","-","36-21-0",0.632
-"32",1992,"Debbie Nelson","-","36-27-0",0.571
-"33",1991,"Irene Shea","-","28-33-0",0.459
-"34",1990,"Irene Shea","-","31-28-0",0.525
-"35",1989,"Irene Shea","-","57-19-0",0.75
-"36",1988,"Irene Shea","-","57-12-0",0.826
-"37",1987,"Irene Shea","-","35-21-0",0.625
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"","-","0-0-0",NA
-"44",2024,"Lori Perez","Big Sky","28-21-0",0.571
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sacramento St.","102","2025","Lori Perez","D-I","Big Sky",1,0,0,1
+"2","Sacramento St.","102","2024","Lori Perez","D-I","Big Sky",28,20,0,0.583
+"3","Sacramento St.","102","2023","Lori Perez","D-I","Big Sky",27,20,0,0.574
+"4","Sacramento St.","102","2022","Lori Perez","D-I","Big Sky",30,25,0,0.545
+"5","Sacramento St.","102","2021","Lori Perez","D-I","Big Sky",15,27,0,0.357
+"6","Sacramento St.","102","2020","Lori Perez","D-I","Big Sky",14,11,1,0.558
+"7","Sacramento St.","102","2019","Lori Perez","D-I","Big Sky",31,25,0,0.554
+"8","Sacramento St.","102","2018","Lori Perez","D-I","Big Sky",31,20,0,0.608
+"9","Sacramento St.","102","2017","Lori Perez","D-I","Big Sky",21,28,1,0.43
+"10","Sacramento St.","102","2016","Lori Perez","D-I","Big Sky",28,22,0,0.56
+"11","Sacramento St.","102","2015","Lori Perez","D-I","Big Sky",35,26,0,0.574
+"12","Sacramento St.","102","2014","Lori Perez","D-I","Big Sky",25,21,0,0.543
+"13","Sacramento St.","102","2013","Kathy Strahan","D-I","Big Sky",22,22,0,0.5
+"14","Sacramento St.","102","2012","Kathy Strahan","D-I","Pacific Coast Softball",27,19,0,0.587
+"15","Sacramento St.","102","2011","Kathy Strahan","D-I","Pacific Coast Softball",20,24,0,0.455
+"16","Sacramento St.","102","2010","Kathy Strahan","D-I","Pacific Coast Softball",23,31,0,0.426
+"17","Sacramento St.","102","2009","Kathy Strahan","D-I","Pacific Coast Softball",28,23,0,0.549
+"18","Sacramento St.","102","2008","Kathy Strahan","D-I","Pacific Coast Softball",32,21,0,0.604
+"19","Sacramento St.","102","2007","Kathy Strahan","D-I","Pacific Coast Softball",20,33,0,0.377
+"20","Sacramento St.","102","2006","Kathy Strahan","D-I","Pacific Coast Softball",35,20,0,0.636
+"21","Sacramento St.","102","2005","Kathy Strahan","D-I","Pacific Coast Softball",30,23,0,0.566
+"22","Sacramento St.","102","2004","Kathy Strahan","D-I","Pacific Coast Softball",32,28,0,0.533
+"23","Sacramento St.","102","2003","Kathy Strahan","D-I","Big West",30,26,0,0.536
+"24","Sacramento St.","102","2002","Kathy Strahan","D-I","Big West",18,33,0,0.353
+"25","Sacramento St.","102","2001","Kathy Strahan","D-I","Big West",17,37,0,0.315
+"26","Sacramento St.","102","1900","Kathy Strahan","D-I","Big West",25,30,0,0.455
+"27","Sacramento St.","102","1999","Kathy Strahan","D-I","Big West",27,26,0,0.509
+"28","Sacramento St.","102","1998","Kathy Strahan","D-I","-",25,23,NA,0.521
+"29","Sacramento St.","102","1997","Kathy Strahan","D-I","Big West",32,24,1,0.57
+"30","Sacramento St.","102","1996","Kathy Strahan","D-I","-",32,26,NA,0.552
+"31","Sacramento St.","102","1995","Kathy Strahan","D-I","-",40,15,NA,0.727
+"32","Sacramento St.","102","1994","Kathy Strahan","D-I","-",25,30,1,0.455
+"33","Sacramento St.","102","1993","Kathy Strahan","D-I","-",36,21,NA,0.632
+"34","Sacramento St.","102","1992","Debbie Nelson","D-I","-",36,27,NA,0.571
+"35","Sacramento St.","102","1991","Irene Shea","D-I","-",28,33,NA,0.459
+"36","Sacramento St.","102","1990","Irene Shea","D-I","-",31,28,NA,0.525
+"37","Sacramento St.","102","1989","Irene Shea","D-II","-",57,19,NA,0.75
+"38","Sacramento St.","102","1988","Irene Shea","D-II","-",57,12,NA,0.826
+"39","Sacramento St.","102","1987","Irene Shea","D-II","-",35,21,NA,0.625
+"40","Sacramento St.","102","1986","","","-",NA,NA,NA,NA
+"41","Sacramento St.","102","1985","","","-",NA,NA,NA,NA
+"42","Sacramento St.","102","1984","","","-",NA,NA,NA,NA
+"43","Sacramento St.","102","1983","","","-",NA,NA,NA,NA
+"44","Sacramento St.","102","1982","","","-",NA,NA,NA,NA
+"45","Sacramento St.","102","1981","","","-",NA,NA,NA,NA
+"46","Sacramento St.","102","","","","",1106,920,4,0.546

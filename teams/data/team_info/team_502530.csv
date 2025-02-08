@@ -1,4 +1,5 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2006",NA,"-","0-0-0",NA
-"2","2004",NA,"-","0-0-0",NA
-"3","2003",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","King's (NY)","502530","2006",NA,NA,"-",NA,NA,NA,NA
+"2","King's (NY)","502530","2004",NA,NA,"-",NA,NA,NA,NA
+"3","King's (NY)","502530","2003",NA,NA,"-",NA,NA,NA,NA
+"4","King's (NY)","502530","",NA,NA,"",0,0,0,0

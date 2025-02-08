@@ -1,21 +1,23 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ty Singleton","Sunshine State","15-27-0",0.357
-"2",2022,"Ty Singleton","Sunshine State","14-26-0",0.35
-"3",2021,"Jessica Cooley","Sunshine State","17-12-0",0.586
-"4",2020,"Jessica Cooley","Sunshine State","15-11-0",0.577
-"5",2019,"Bailey Castro","Sunshine State","27-24-0",0.529
-"6",2018,"Bailey Castro","Sunshine State","36-8-0",0.818
-"7",2017,"Kimmy Bloemers","-","32-17-0",0.653
-"8",2016,"Kimmy Bloemers","-","34-15-0",0.694
-"9",2015,"Kimmy Bloemers","-","33-22-0",0.6
-"10",2014,"Kimmy Bloemers","-","30-16-0",0.652
-"11",2013,"Kimmy Bloemers","-","27-23-0",0.54
-"12",2012,"Kimmy Bloemers","Palm Beach Atl.","30-21-0",0.588
-"13",2011,"Kimmy Bloemers","Palm Beach Atl.","27-19-0",0.587
-"14",2010,"Kimmy Bloemers","Palm Beach Atl.","36-13-0",0.735
-"15",2009,"Kimmy Bloemers","-","33-22-0",0.6
-"16",2008,"Kimmy Bloemers","-","33-24-0",0.579
-"17",2007,"Kimmy Bloemers","-","22-33-0",0.4
-"18",2006,"","-","0-0-0",NA
-"19",2004,"","-","0-0-0",NA
-"20",2024,"Ty Singleton","Sunshine State","11-23-0",0.324
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Palm Beach Atl.","30045","2025","Ty Singleton","D-II","Sunshine State",3,1,0,0.75
+"2","Palm Beach Atl.","30045","2024","Ty Singleton","D-II","Sunshine State",15,26,0,0.366
+"3","Palm Beach Atl.","30045","2023","Ty Singleton","D-II","Sunshine State",15,27,0,0.357
+"4","Palm Beach Atl.","30045","2022","Ty Singleton","D-II","Sunshine State",14,26,0,0.35
+"5","Palm Beach Atl.","30045","2021","Jessica Cooley","D-II","Sunshine State",17,12,0,0.586
+"6","Palm Beach Atl.","30045","2020","Jessica Cooley","D-II","Sunshine State",15,11,0,0.577
+"7","Palm Beach Atl.","30045","2019","Bailey Castro","D-II","Sunshine State",27,24,0,0.529
+"8","Palm Beach Atl.","30045","2018","Bailey Castro","D-II","Sunshine State",36,8,NA,0.818
+"9","Palm Beach Atl.","30045","2017","Kimmy Bloemers","D-II","-",32,17,0,0.653
+"10","Palm Beach Atl.","30045","2016","Kimmy Bloemers","D-II","-",34,15,0,0.694
+"11","Palm Beach Atl.","30045","2015","Kimmy Bloemers","D-II","-",33,22,0,0.6
+"12","Palm Beach Atl.","30045","2014","Kimmy Bloemers","D-II","-",30,16,0,0.652
+"13","Palm Beach Atl.","30045","2013","Kimmy Bloemers","D-II","-",27,23,0,0.54
+"14","Palm Beach Atl.","30045","2012","Kimmy Bloemers","D-II","Palm Beach Atl.",30,21,0,0.588
+"15","Palm Beach Atl.","30045","2011","Kimmy Bloemers","D-II","Palm Beach Atl.",27,19,0,0.587
+"16","Palm Beach Atl.","30045","2010","Kimmy Bloemers","D-II","Palm Beach Atl.",36,13,0,0.735
+"17","Palm Beach Atl.","30045","2009","Kimmy Bloemers","D-II","-",33,22,0,0.6
+"18","Palm Beach Atl.","30045","2008","Kimmy Bloemers","D-II","-",33,24,0,0.579
+"19","Palm Beach Atl.","30045","2007","Kimmy Bloemers","","-",22,33,0,0.4
+"20","Palm Beach Atl.","30045","2006","","","-",NA,NA,NA,NA
+"21","Palm Beach Atl.","30045","2004","","","-",NA,NA,NA,NA
+"22","Palm Beach Atl.","30045","","","","",479,360,0,0.571

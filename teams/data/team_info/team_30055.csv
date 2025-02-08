@@ -1,20 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Andrea Kenney","CCAA","28-25-0",0.528
-"2",2022,"Andrea Kenney","CCAA","37-23-0",0.617
-"3",2021,"Andrea Kenney","CCAA","0-0-0",NA
-"4",2020,"Andrea Kenney","CCAA","12-12-0",0.5
-"5",2019,"Andrea Kenney","CCAA","29-25-0",0.537
-"6",2018,"Andrea Kenney","CCAA","25-29-0",0.463
-"7",2017,"Andrea Kenney","CCAA","43-13-0",0.768
-"8",2016,"Andrea Kenney","CCAA","26-26-1",0.5
-"9",2015,"Andrea Kenney","CCAA","47-12-0",0.797
-"10",2014,"Andrea Kenney","CCAA","48-12-0",0.8
-"11",2013,"Andrea Kenney","CCAA","27-28-0",0.491
-"12",2012,"Andrea Kenney","CCAA","46-14-0",0.767
-"13",2011,"Andrea Kenney","CCAA","24-27-0",0.471
-"14",2010,"Andrea Kenney","CCAA","33-20-0",0.623
-"15",2009,"Andrea Kenney","CCAA","36-27-1",0.571
-"16",2008,"Andrea Kenney","CCAA","35-26-0",0.574
-"17",2007,"Andrea Kenney","CCAA","23-40-0",0.365
-"18",2006,"Andrea Kenney","CCAA","20-33-0",0.377
-"19",2024,"Andrea Kenney","CCAA","13-27-0",0.325
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cal St. Monterey Bay","30055","2025","Emily Montanez","D-II","CCAA",3,2,0,0.6
+"2","Cal St. Monterey Bay","30055","2024","Andrea Kenney","D-II","CCAA",19,30,0,0.388
+"3","Cal St. Monterey Bay","30055","2023","Andrea Kenney","D-II","CCAA",28,25,0,0.528
+"4","Cal St. Monterey Bay","30055","2022","Andrea Kenney","D-II","CCAA",37,23,0,0.617
+"5","Cal St. Monterey Bay","30055","2021","Andrea Kenney","D-II","CCAA",0,0,0,0
+"6","Cal St. Monterey Bay","30055","2020","Andrea Kenney","D-II","CCAA",12,12,0,0.5
+"7","Cal St. Monterey Bay","30055","2019","Andrea Kenney","D-II","CCAA",29,25,0,0.537
+"8","Cal St. Monterey Bay","30055","2018","Andrea Kenney","D-II","CCAA",25,29,NA,0.463
+"9","Cal St. Monterey Bay","30055","2017","Andrea Kenney","D-II","CCAA",43,13,0,0.768
+"10","Cal St. Monterey Bay","30055","2016","Andrea Kenney","D-II","CCAA",26,26,1,0.5
+"11","Cal St. Monterey Bay","30055","2015","Andrea Kenney","D-II","CCAA",47,12,0,0.797
+"12","Cal St. Monterey Bay","30055","2014","Andrea Kenney","D-II","CCAA",48,12,0,0.8
+"13","Cal St. Monterey Bay","30055","2013","Andrea Kenney","D-II","CCAA",27,28,0,0.491
+"14","Cal St. Monterey Bay","30055","2012","Andrea Kenney","D-II","CCAA",46,14,0,0.767
+"15","Cal St. Monterey Bay","30055","2011","Andrea Kenney","D-II","CCAA",24,27,0,0.471
+"16","Cal St. Monterey Bay","30055","2010","Andrea Kenney","D-II","CCAA",33,20,0,0.623
+"17","Cal St. Monterey Bay","30055","2009","Andrea Kenney","D-II","CCAA",36,27,1,0.57
+"18","Cal St. Monterey Bay","30055","2008","Andrea Kenney","D-II","CCAA",35,26,0,0.574
+"19","Cal St. Monterey Bay","30055","2007","Andrea Kenney","D-II","CCAA",23,40,NA,0.365
+"20","Cal St. Monterey Bay","30055","2006","Andrea Kenney","D-II","CCAA",20,33,0,0.377
+"21","Cal St. Monterey Bay","30055","","","","",561,424,2,0.569

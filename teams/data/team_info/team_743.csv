@@ -1,31 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jameshia Smith","CIAA","12-18-0",0.4
-"2",2022,"Jameshia Smith","CIAA","20-13-0",0.606
-"3",2021,"Jameshia Smith","CIAA","0-0-0",NA
-"4",2020,"Lynne Gilbert","CIAA","3-13-0",0.188
-"5",2019,"Lynne Gilbert","CIAA","17-22-0",0.436
-"6",2018,"Lynne Gilbert","CIAA","15-16-0",0.484
-"7",2017,"LaTasha Branch","CIAA","11-23-0",0.324
-"8",2016,"LaTasha Branch","CIAA","14-22-0",0.389
-"9",2015,"LaTasha Branch","CIAA","14-18-0",0.438
-"10",2014,"LaTasha Branch","CIAA","20-8-0",0.714
-"11",2013,"Torrie Lashley","CIAA","20-20-0",0.5
-"12",2012,"Torrie Lashley","CIAA","20-21-0",0.488
-"13",2011,"Torrie Lashley","CIAA","21-15-0",0.583
-"14",2010,"Torrie Lashley","CIAA","17-20-0",0.459
-"15",2009,"Torrie Lashley","CIAA","21-12-0",0.636
-"16",2008,"Torrie Lashley","CIAA","23-15-0",0.605
-"17",2007,"Torrie Lashley","CIAA","23-16-0",0.59
-"18",2006,"Shervi Barnes","CIAA","14-18-0",0.438
-"19",2005,"Michael Winbush","CIAA","17-14-0",0.548
-"20",2004,"","CIAA","20-24-0",0.455
-"21",2003,"","CIAA","21-14-0",0.6
-"22",2002,"","-","0-0-0",NA
-"23",2001,"Shonda Pegram","-","13-24-0",0.351
-"24",2000,"Keri Cobb","-","16-15-0",0.516
-"25",1999,"Shervi Barnes","-","24-11-0",0.686
-"26",1998,"Reva Green","-","22-9-0",0.71
-"27",1997,"Bertha Cummings","-","14-13-0",0.519
-"28",1996,"Bertha Cummings","-","14-13-0",0.519
-"29",1986,"","-","0-0-0",NA
-"30",2024,"Jameshia Smith","CIAA","25-5-0",0.833
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Virginia St.","743","2025","Jameshia Smith","D-II","CIAA",0,0,0,0
+"2","Virginia St.","743","2024","Jameshia Smith","D-II","CIAA",25,5,0,0.833
+"3","Virginia St.","743","2023","Jameshia Smith","D-II","CIAA",12,18,0,0.4
+"4","Virginia St.","743","2022","Jameshia Smith","D-II","CIAA",20,13,0,0.606
+"5","Virginia St.","743","2021","Jameshia Smith","D-II","CIAA",0,0,0,0
+"6","Virginia St.","743","2020","Lynne Gilbert","D-II","CIAA",3,13,0,0.188
+"7","Virginia St.","743","2019","Lynne Gilbert","D-II","CIAA",17,22,0,0.436
+"8","Virginia St.","743","2018","Lynne Gilbert","D-II","CIAA",15,16,NA,0.484
+"9","Virginia St.","743","2017","LaTasha Branch","D-II","CIAA",11,23,0,0.324
+"10","Virginia St.","743","2016","LaTasha Branch","D-II","CIAA",14,22,0,0.389
+"11","Virginia St.","743","2015","LaTasha Branch","D-II","CIAA",14,18,0,0.438
+"12","Virginia St.","743","2014","LaTasha Branch","D-II","CIAA",20,8,0,0.714
+"13","Virginia St.","743","2013","Torrie Lashley","D-II","CIAA",20,20,0,0.5
+"14","Virginia St.","743","2012","Torrie Lashley","D-II","CIAA",20,21,0,0.488
+"15","Virginia St.","743","2011","Torrie Lashley","D-II","CIAA",21,15,0,0.583
+"16","Virginia St.","743","2010","Torrie Lashley","D-II","CIAA",17,20,0,0.459
+"17","Virginia St.","743","2009","Torrie Lashley","D-II","CIAA",21,12,0,0.636
+"18","Virginia St.","743","2008","Torrie Lashley","D-II","CIAA",23,15,0,0.605
+"19","Virginia St.","743","2007","Torrie Lashley","D-II","CIAA",23,16,0,0.59
+"20","Virginia St.","743","2006","Shervi Barnes","D-II","CIAA",14,18,0,0.438
+"21","Virginia St.","743","2005","Michael Winbush","D-II","CIAA",17,14,0,0.548
+"22","Virginia St.","743","2004","","D-II","CIAA",20,24,0,0.455
+"23","Virginia St.","743","2003","","D-II","CIAA",21,14,0,0.6
+"24","Virginia St.","743","2002","","D-II","-",NA,NA,NA,NA
+"25","Virginia St.","743","2001","Shonda Pegram","D-II","-",13,24,0,0.351
+"26","Virginia St.","743","1900","Keri Cobb","D-II","-",16,15,0,0.516
+"27","Virginia St.","743","1999","Shervi Barnes","D-II","-",24,11,0,0.686
+"28","Virginia St.","743","1998","Reva Green","D-II","-",22,9,0,0.71
+"29","Virginia St.","743","1997","Bertha Cummings","D-II","-",14,13,NA,0.519
+"30","Virginia St.","743","1996","Bertha Cummings","D-II","-",14,13,NA,0.519
+"31","Virginia St.","743","1986","","D-II","-",NA,NA,NA,NA
+"32","Virginia St.","743","","","","",471,432,0,0.522

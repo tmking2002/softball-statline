@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Camise Patterson","SWAC","20-24-0","0.455"
-"2","2022","Constance Orr","SWAC","18-31-0","0.367"
-"3","2021","Constance Orr","MEAC","6-22-0","0.214"
-"4","2020","Veronica Wiggins","MEAC","3-17-0","0.150"
-"5","2019","Veronica Wiggins","MEAC","26-27-0","0.491"
-"6","2018","Veronica Wiggins","MEAC","23-29-0","0.442"
-"7","2017","Veronica Wiggins","MEAC","23-32-1","0.418"
-"8","2016","Veronica Wiggins","MEAC","27-30-0","0.474"
-"9","2015","Veronica Wiggins","MEAC","18-39-0","0.316"
-"10","2014","Veronica Wiggins","MEAC","0-29-0","0.000"
-"11","2013","Veronica Wiggins","MEAC","0-32-0","0.000"
-"12","2012","Veronica Wiggins","MEAC","28-29-0","0.491"
-"13","2011","Veronica Wiggins","MEAC","26-26-0","0.500"
-"14","2010","Veronica Wiggins","MEAC","30-24-0","0.556"
-"15","2009","Veronica Wiggins","MEAC","30-32-0","0.484"
-"16","2008","Veronica Wiggins","MEAC","16-40-0","0.286"
-"17","2007","Veronica Wiggins","MEAC","16-46-0","0.258"
-"18","2006","Veronica Wiggins","MEAC","40-25-0","0.615"
-"19","2005","Veronica Wiggins","MEAC","37-33-0","0.529"
-"20","2004","Veronica Wiggins","MEAC","34-31-0","0.523"
-"21","2003","Veronica Wiggins","MEAC","30-27-0","0.526"
-"22","2002","Veronica Wiggins","MEAC","30-30-0","0.500"
-"23","2001","Veronica Wiggins","MEAC","22-40-0","0.355"
-"24","2000","Veronica Wiggins","MEAC","28-31-0","0.475"
-"25","1999","Veronica Wiggins","MEAC","34-31-0","0.523"
-"26","1998","Veronica Wiggins","-","38-35-0","0.521"
-"27","1997","Veronica Wiggins","MEAC","43-22-0","0.662"
-"28","1996","Veronica Wiggins","-","28-34-0","0.452"
-"29","1995","Veronica Wiggins","-","20-32-0","0.385"
-"30","1994","Veronica Wiggins","-","34-29-0","0.540"
-"31","1993","Veronica Wiggins","-","33-25-0","0.569"
-"32","1992","Veronica Wiggins","-","9-41-0","0.180"
-"33","1991","Robin Abney","-","19-44-0","0.302"
-"34","1990","Robin Abney","-","23-37-0","0.383"
-"35","1989","Sandy Pearce","-","15-30-0","0.333"
-"36","1988","Sandy Pearce","-","17-24-0","0.415"
-"37","1985","Robert Smith","-","21-25-0","0.457"
-"38","2024","Camise Patterson","SWAC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Florida A&M","228","2025","Brittany Beall","D-I","SWAC",0,0,0,0
+"2","Florida A&M","228","2024","Camise Patterson","D-I","SWAC",26,20,0,0.565
+"3","Florida A&M","228","2023","Camise Patterson","D-I","SWAC",20,24,0,0.455
+"4","Florida A&M","228","2022","Constance Orr","D-I","SWAC",18,31,0,0.367
+"5","Florida A&M","228","2021","Constance Orr","D-I","MEAC",6,22,0,0.214
+"6","Florida A&M","228","2020","Veronica Wiggins","D-I","MEAC",3,17,0,0.15
+"7","Florida A&M","228","2019","Veronica Wiggins","D-I","MEAC",26,27,0,0.491
+"8","Florida A&M","228","2018","Veronica Wiggins","D-I","MEAC",23,29,NA,0.442
+"9","Florida A&M","228","2017","Veronica Wiggins","D-I","MEAC",23,32,1,0.42
+"10","Florida A&M","228","2016","Veronica Wiggins","D-I","MEAC",27,30,0,0.474
+"11","Florida A&M","228","2015","Veronica Wiggins","D-I","MEAC",18,39,0,0.316
+"12","Florida A&M","228","2014","Veronica Wiggins","D-I","MEAC",0,29,0,0
+"13","Florida A&M","228","2013","Veronica Wiggins","D-I","MEAC",0,32,0,0
+"14","Florida A&M","228","2012","Veronica Wiggins","D-I","MEAC",28,29,0,0.491
+"15","Florida A&M","228","2011","Veronica Wiggins","D-I","MEAC",26,26,0,0.5
+"16","Florida A&M","228","2010","Veronica Wiggins","D-I","MEAC",30,24,0,0.556
+"17","Florida A&M","228","2009","Veronica Wiggins","D-I","MEAC",30,32,0,0.484
+"18","Florida A&M","228","2008","Veronica Wiggins","D-I","MEAC",16,40,0,0.286
+"19","Florida A&M","228","2007","Veronica Wiggins","D-I","MEAC",16,46,0,0.258
+"20","Florida A&M","228","2006","Veronica Wiggins","D-I","MEAC",40,25,0,0.615
+"21","Florida A&M","228","2005","Veronica Wiggins","D-I","MEAC",37,33,0,0.529
+"22","Florida A&M","228","2004","Veronica Wiggins","D-I","MEAC",34,31,0,0.523
+"23","Florida A&M","228","2003","Veronica Wiggins","D-I","MEAC",30,27,0,0.526
+"24","Florida A&M","228","2002","Veronica Wiggins","D-I","MEAC",30,30,0,0.5
+"25","Florida A&M","228","2001","Veronica Wiggins","D-I","MEAC",22,40,0,0.355
+"26","Florida A&M","228","1900","Veronica Wiggins","D-I","MEAC",28,31,0,0.475
+"27","Florida A&M","228","1999","Veronica Wiggins","D-I","MEAC",34,31,0,0.523
+"28","Florida A&M","228","1998","Veronica Wiggins","D-I","-",38,35,0,0.521
+"29","Florida A&M","228","1997","Veronica Wiggins","D-I","MEAC",43,22,0,0.662
+"30","Florida A&M","228","1996","Veronica Wiggins","D-I","-",28,34,0,0.452
+"31","Florida A&M","228","1995","Veronica Wiggins","D-I","-",20,32,0,0.385
+"32","Florida A&M","228","1994","Veronica Wiggins","D-I","-",34,29,0,0.54
+"33","Florida A&M","228","1993","Veronica Wiggins","D-I","-",33,25,0,0.569
+"34","Florida A&M","228","1992","Veronica Wiggins","D-I","-",9,41,0,0.18
+"35","Florida A&M","228","1991","Robin Abney","D-I","-",19,44,0,0.302
+"36","Florida A&M","228","1990","Robin Abney","D-I","-",23,37,0,0.383
+"37","Florida A&M","228","1989","Sandy Pearce","D-I","-",15,30,NA,0.333
+"38","Florida A&M","228","1988","Sandy Pearce","D-I","-",17,24,NA,0.415
+"39","Florida A&M","228","1985","Robert Smith","D-I","-",21,25,0,0.457
+"40","Florida A&M","228","","","","",891,1155,1,0.436

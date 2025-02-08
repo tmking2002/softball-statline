@@ -1,13 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Casady Webb","GAC","13-37-0",0.26
-"2",2022,"Ryan Wondrasek","GAC","14-33-1",0.298
-"3",2021,"Jill Webb","GAC","8-31-0",0.205
-"4",2020,"Jill Webb","GAC","4-15-0",0.211
-"5",2019,"Jill Webb","GAC","9-43-0",0.173
-"6",2018,"Jill Webb","GAC","17-33-0",0.34
-"7",2017,"Jill Webb","GAC","18-38-0",0.321
-"8",2016,"Charlie Zeilman","GAC","11-41-0",0.212
-"9",2015,"Ricki Rothbauer-Stubbs","-","23-26-0",0.469
-"10",2014,"Jason Anderson","-","41-15-0",0.732
-"11",2013,"","-","17-23-0",0.425
-"12",2024,"Casady Webb","GAC","17-33-0",0.34
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Northwestern Okla.","30178","2025","Casady Webb","D-II","GAC",2,4,0,0.333
+"2","Northwestern Okla.","30178","2024","Casady Webb","D-II","GAC",17,33,0,0.34
+"3","Northwestern Okla.","30178","2023","Casady Webb","D-II","GAC",13,37,0,0.26
+"4","Northwestern Okla.","30178","2022","Ryan Wondrasek","D-II","GAC",14,33,1,0.302
+"5","Northwestern Okla.","30178","2021","Jill Webb","D-II","GAC",8,31,0,0.205
+"6","Northwestern Okla.","30178","2020","Jill Webb","D-II","GAC",4,15,0,0.211
+"7","Northwestern Okla.","30178","2019","Jill Webb","D-II","GAC",9,43,0,0.173
+"8","Northwestern Okla.","30178","2018","Jill Webb","D-II","GAC",17,33,NA,0.34
+"9","Northwestern Okla.","30178","2017","Jill Webb","D-II","GAC",18,38,0,0.321
+"10","Northwestern Okla.","30178","2016","Charlie Zeilman","D-II","GAC",11,41,0,0.212
+"11","Northwestern Okla.","30178","2015","Ricki Rothbauer-Stubbs","","-",23,26,0,0.469
+"12","Northwestern Okla.","30178","2014","Jason Anderson","","-",41,15,0,0.732
+"13","Northwestern Okla.","30178","2013","","","-",17,23,0,0.425
+"14","Northwestern Okla.","30178","","","","",194,372,1,0.343

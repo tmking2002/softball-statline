@@ -1,2 +1,6 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"DII Independent","0-0-0","NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Roosevelt","2807","2025","Michele Alexander","D-II","GLIAC",0,0,0,0
+"2","Roosevelt","2807","2024","Michele Alexander","D-II","DII Independent",17,22,0,0.436
+"3","Roosevelt","2807","2023","Michele Alexander","","-",23,17,0,0.575
+"4","Roosevelt","2807","2022","Michele Alexander","","-",22,20,0,0.524
+"5","Roosevelt","2807","","","","",62,59,0,0.512

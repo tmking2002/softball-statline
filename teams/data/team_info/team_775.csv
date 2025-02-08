@@ -1,47 +1,49 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Amanda Novak","CCC","28-16-0",0.636
-"2",2022,"Amanda Novak","CCC","28-15-0",0.651
-"3",2021,"Amanda Novak","CCC","16-8-0",0.667
-"4",2020,"Amanda Novak","CCC","3-3-0",0.5
-"5",2019,"Amanda Novak","CCC","21-17-0",0.553
-"6",2018,"Lori Mayhew","CCC","25-18-0",0.581
-"7",2017,"Lori Mayhew","CCC","24-11-0",0.686
-"8",2016,"Lori Mayhew","CCC","23-18-0",0.561
-"9",2015,"Lori Mayhew","CCC","30-9-0",0.769
-"10",2014,"Lori Mayhew","CCC","23-18-0",0.561
-"11",2013,"Lori Mayhew","CCC","27-19-0",0.587
-"12",2012,"Lori Mayhew","CCC","17-23-0",0.425
-"13",2011,"Lori Mayhew","CCC","27-18-0",0.6
-"14",2010,"Lori Mayhew","CCC","26-20-1",0.565
-"15",2009,"Lori Mayhew","CCC","30-16-0",0.652
-"16",2008,"Lori Mayhew","CCC","29-16-0",0.644
-"17",2007,"Lori Mayhew","Great Northeast","31-18-0",0.633
-"18",2006,"Lori Mayhew","Great Northeast","37-10-0",0.787
-"19",2005,"Lori Mayhew","Great Northeast","39-6-0",0.867
-"20",2004,"Lori Mayhew","Great Northeast","33-11-0",0.75
-"21",2003,"Lori Mayhew","Great Northeast","32-7-0",0.821
-"22",2002,"Lori Mayhew","Great Northeast","34-9-1",0.791
-"23",2001,"Lori Mayhew","-","22-9-0",0.71
-"24",2000,"Lori Mayhew","-","21-13-0",0.618
-"25",1999,"Lori Mayhew","-","16-18-0",0.471
-"26",1998,"Lori Mayhew","-","11-13-1",0.458
-"27",1997,"Lori Mayhew","-","10-15-0",0.4
-"28",1996,"Eric Geldart","-","9-20-0",0.31
-"29",1995,"Eric Geldart","-","13-20-0",0.394
-"30",1994,"Eric Geldart","-","17-16-0",0.515
-"31",1993,"Eric Geldart","-","13-8-0",0.619
-"32",1992,"Eric Geldart","-","16-8-0",0.667
-"33",1991,"Eric Geldart","-","25-11-0",0.694
-"34",1990,"Eric Geldart","-","24-9-0",0.727
-"35",1989,"Eric Geldart","-","20-10-0",0.667
-"36",1988,"Eric Geldart","-","21-6-0",0.778
-"37",1987,"Eric Geldart","-","10-9-0",0.526
-"38",1986,"Eric Geldart","-","28-9-0",0.757
-"39",1985,"Eric Geldart","-","28-11-0",0.718
-"40",1984,"Eric Geldart","-","16-8-0",0.667
-"41",1983,"Eric Geldart","-","10-8-0",0.556
-"42",1982,"Eric Geldart","-","12-5-0",0.706
-"43",1981,"Eric Geldart","-","7-10-0",0.412
-"44",1980,"Eric Geldart","-","9-9-0",0.5
-"45",1979,"Eric Geldart","-","10-13-0",0.435
-"46",2024,"Amanda Novak","CCC","27-15-0",0.643
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Western New Eng.","775","2025","Amanda Novak","D-III","CNE",0,0,0,0
+"2","Western New Eng.","775","2024","Amanda Novak","D-III","CNE",27,15,0,0.643
+"3","Western New Eng.","775","2023","Amanda Novak","D-III","CNE",28,16,0,0.636
+"4","Western New Eng.","775","2022","Amanda Novak","D-III","CNE",28,15,0,0.651
+"5","Western New Eng.","775","2021","Amanda Novak","D-III","CNE",16,8,0,0.667
+"6","Western New Eng.","775","2020","Amanda Novak","D-III","CNE",3,3,0,0.5
+"7","Western New Eng.","775","2019","Amanda Novak","D-III","CNE",21,17,0,0.553
+"8","Western New Eng.","775","2018","Lori Mayhew","D-III","CNE",25,18,NA,0.581
+"9","Western New Eng.","775","2017","Lori Mayhew","D-III","CNE",24,11,0,0.686
+"10","Western New Eng.","775","2016","Lori Mayhew","D-III","CNE",23,18,0,0.561
+"11","Western New Eng.","775","2015","Lori Mayhew","D-III","CNE",30,9,0,0.769
+"12","Western New Eng.","775","2014","Lori Mayhew","D-III","CNE",23,18,0,0.561
+"13","Western New Eng.","775","2013","Lori Mayhew","D-III","CNE",27,19,0,0.587
+"14","Western New Eng.","775","2012","Lori Mayhew","D-III","CNE",17,23,0,0.425
+"15","Western New Eng.","775","2011","Lori Mayhew","D-III","CNE",27,18,0,0.6
+"16","Western New Eng.","775","2010","Lori Mayhew","D-III","CNE",26,20,1,0.564
+"17","Western New Eng.","775","2009","Lori Mayhew","D-III","CNE",30,16,0,0.652
+"18","Western New Eng.","775","2008","Lori Mayhew","D-III","CNE",29,16,0,0.644
+"19","Western New Eng.","775","2007","Lori Mayhew","D-III","Great Northeast",31,18,0,0.633
+"20","Western New Eng.","775","2006","Lori Mayhew","D-III","Great Northeast",37,10,0,0.787
+"21","Western New Eng.","775","2005","Lori Mayhew","D-III","Great Northeast",39,6,0,0.867
+"22","Western New Eng.","775","2004","Lori Mayhew","D-III","Great Northeast",33,11,0,0.75
+"23","Western New Eng.","775","2003","Lori Mayhew","D-III","Great Northeast",32,7,0,0.821
+"24","Western New Eng.","775","2002","Lori Mayhew","D-III","Great Northeast",34,9,1,0.784
+"25","Western New Eng.","775","2001","Lori Mayhew","D-III","-",22,9,NA,0.71
+"26","Western New Eng.","775","1900","Lori Mayhew","D-III","-",21,13,NA,0.618
+"27","Western New Eng.","775","1999","Lori Mayhew","D-III","-",16,18,NA,0.471
+"28","Western New Eng.","775","1998","Lori Mayhew","D-III","-",11,13,1,0.46
+"29","Western New Eng.","775","1997","Lori Mayhew","D-III","-",10,15,NA,0.4
+"30","Western New Eng.","775","1996","Eric Geldart","D-III","-",9,20,NA,0.31
+"31","Western New Eng.","775","1995","Eric Geldart","D-III","-",13,20,NA,0.394
+"32","Western New Eng.","775","1994","Eric Geldart","D-III","-",17,16,NA,0.515
+"33","Western New Eng.","775","1993","Eric Geldart","D-III","-",13,8,NA,0.619
+"34","Western New Eng.","775","1992","Eric Geldart","D-III","-",16,8,NA,0.667
+"35","Western New Eng.","775","1991","Eric Geldart","D-III","-",25,11,NA,0.694
+"36","Western New Eng.","775","1990","Eric Geldart","D-III","-",24,9,NA,0.727
+"37","Western New Eng.","775","1989","Eric Geldart","D-III","-",20,10,NA,0.667
+"38","Western New Eng.","775","1988","Eric Geldart","D-III","-",21,6,NA,0.778
+"39","Western New Eng.","775","1987","Eric Geldart","D-III","-",10,9,NA,0.526
+"40","Western New Eng.","775","1986","Eric Geldart","D-III","-",28,9,NA,0.757
+"41","Western New Eng.","775","1985","Eric Geldart","D-III","-",28,11,NA,0.718
+"42","Western New Eng.","775","1984","Eric Geldart","D-III","-",16,8,NA,0.667
+"43","Western New Eng.","775","1983","Eric Geldart","D-III","-",10,8,NA,0.556
+"44","Western New Eng.","775","1982","Eric Geldart","D-III","-",12,5,NA,0.706
+"45","Western New Eng.","775","1981","Eric Geldart","D-III","-",7,10,NA,0.412
+"46","Western New Eng.","775","1980","Eric Geldart","D-III","-",9,9,NA,0.5
+"47","Western New Eng.","775","1979","Eric Geldart","D-III","-",10,13,NA,0.435
+"48","Western New Eng.","775","","","","",978,579,3,0.628

@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kim Wilson","NJAC","42-10-0",0.808
-"2",2022,"Kim Wilson","NJAC","35-10-0",0.778
-"3",2021,"Kim Wilson","NJAC","27-7-0",0.794
-"4",2020,"Kim Wilson","NJAC","5-2-1",0.714
-"5",2019,"Kim Wilson","NJAC","33-15-0",0.688
-"6",2018,"Kim Wilson","NJAC","39-13-1",0.75
-"7",2017,"Kim Wilson","NJAC","33-11-0",0.75
-"8",2016,"Kim Wilson","NJAC","42-11-0",0.792
-"9",2015,"Kim Wilson","NJAC","38-8-0",0.826
-"10",2014,"Kim Wilson","NJAC","37-12-0",0.755
-"11",2013,"Kim Wilson","NJAC","41-9-0",0.82
-"12",2012,"Kim Wilson","NJAC","39-9-0",0.812
-"13",2011,"Kim Wilson","NJAC","31-13-0",0.705
-"14",2010,"Kim Wilson","NJAC","28-13-0",0.683
-"15",2009,"Kim Wilson","NJAC","35-12-0",0.745
-"16",2008,"Kim Wilson","NJAC","31-11-0",0.738
-"17",2007,"Kim Wilson","NJAC","23-17-0",0.575
-"18",2006,"Kim Wilson","NJAC","41-7-0",0.854
-"19",2005,"Kim Wilson","NJAC","25-14-0",0.641
-"20",2004,"Kim Wilson","NJAC","28-10-0",0.737
-"21",2003,"Kim Wilson","NJAC","19-15-0",0.559
-"22",2002,"Kim Wilson","NJAC","33-16-0",0.673
-"23",2001,"Kim Wilson","-","34-11-0",0.756
-"24",2000,"Kim Wilson","-","32-13-0",0.711
-"25",1999,"Kim Wilson","-","37-10-0",0.787
-"26",1998,"Kim Wilson","-","35-9-0",0.795
-"27",1997,"Kim Wilson","-","35-5-0",0.875
-"28",1996,"Bill Mulvihill","-","32-9-0",0.78
-"29",1995,"Kim Franchi (10-2)Bill Mulvihill (22-12)","-","0-0-0",NA
-"30",1994,"Kim Franchi","-","37-9-0",0.804
-"31",1993,"Kim Franchi","-","35-14-0",0.714
-"32",1992,"Kim Franchi","-","30-14-0",0.682
-"33",1991,"Dawn Bunting","-","23-12-0",0.657
-"34",1990,"Dawn Bunting","-","29-14-0",0.674
-"35",1989,"Dawn Bunting","-","27-12-0",0.692
-"36",1988,"Dawn Bunting","-","26-15-0",0.634
-"37",1987,"Dawn Bunting","-","27-13-0",0.675
-"38",1986,"Dawn Bunting","-","21-12-0",0.636
-"39",1985,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Kim Wilson","NJAC","38-8-0",0.826
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rowan","259","2025","Kim Wilson","D-III","NJAC",0,0,0,0
+"2","Rowan","259","2024","Kim Wilson","D-III","NJAC",41,10,0,0.804
+"3","Rowan","259","2023","Kim Wilson","D-III","NJAC",42,10,0,0.808
+"4","Rowan","259","2022","Kim Wilson","D-III","NJAC",35,10,0,0.778
+"5","Rowan","259","2021","Kim Wilson","D-III","NJAC",27,7,0,0.794
+"6","Rowan","259","2020","Kim Wilson","D-III","NJAC",5,2,1,0.688
+"7","Rowan","259","2019","Kim Wilson","D-III","NJAC",33,15,0,0.688
+"8","Rowan","259","2018","Kim Wilson","D-III","NJAC",39,13,1,0.745
+"9","Rowan","259","2017","Kim Wilson","D-III","NJAC",33,11,0,0.75
+"10","Rowan","259","2016","Kim Wilson","D-III","NJAC",42,11,0,0.792
+"11","Rowan","259","2015","Kim Wilson","D-III","NJAC",38,8,0,0.826
+"12","Rowan","259","2014","Kim Wilson","D-III","NJAC",37,12,0,0.755
+"13","Rowan","259","2013","Kim Wilson","D-III","NJAC",41,9,0,0.82
+"14","Rowan","259","2012","Kim Wilson","D-III","NJAC",39,9,0,0.813
+"15","Rowan","259","2011","Kim Wilson","D-III","NJAC",31,13,0,0.705
+"16","Rowan","259","2010","Kim Wilson","D-III","NJAC",28,13,0,0.683
+"17","Rowan","259","2009","Kim Wilson","D-III","NJAC",35,12,0,0.745
+"18","Rowan","259","2008","Kim Wilson","D-III","NJAC",31,11,0,0.738
+"19","Rowan","259","2007","Kim Wilson","D-III","NJAC",23,17,0,0.575
+"20","Rowan","259","2006","Kim Wilson","D-III","NJAC",41,7,0,0.854
+"21","Rowan","259","2005","Kim Wilson","D-III","NJAC",25,14,0,0.641
+"22","Rowan","259","2004","Kim Wilson","D-III","NJAC",28,10,0,0.737
+"23","Rowan","259","2003","Kim Wilson","D-III","NJAC",19,15,0,0.559
+"24","Rowan","259","2002","Kim Wilson","D-III","NJAC",33,16,0,0.673
+"25","Rowan","259","2001","Kim Wilson","D-III","-",34,11,NA,0.756
+"26","Rowan","259","1900","Kim Wilson","D-III","-",32,13,NA,0.711
+"27","Rowan","259","1999","Kim Wilson","D-III","-",37,10,NA,0.787
+"28","Rowan","259","1998","Kim Wilson","D-III","-",35,9,NA,0.795
+"29","Rowan","259","1997","Kim Wilson","D-III","-",35,5,NA,0.875
+"30","Rowan","259","1996","Bill Mulvihill","D-III","-",32,9,NA,0.78
+"31","Rowan","259","1995","Kim Franchi (10-2)Bill Mulvihill (22-12)","D-III","-",NA,NA,NA,NA
+"32","Rowan","259","1994","Kim Franchi","D-II","-",37,9,0,0.804
+"33","Rowan","259","1993","Kim Franchi","D-II","-",35,14,0,0.714
+"34","Rowan","259","1992","Kim Franchi","D-II","-",30,14,0,0.682
+"35","Rowan","259","1991","Dawn Bunting","","-",23,12,0,0.657
+"36","Rowan","259","1990","Dawn Bunting","","-",29,14,0,0.674
+"37","Rowan","259","1989","Dawn Bunting","","-",27,12,0,0.692
+"38","Rowan","259","1988","Dawn Bunting","","-",26,15,0,0.634
+"39","Rowan","259","1987","Dawn Bunting","","-",27,13,0,0.675
+"40","Rowan","259","1986","Dawn Bunting","","-",21,12,0,0.636
+"41","Rowan","259","1985","","D-III","-",NA,NA,NA,NA
+"42","Rowan","259","1981","","","-",NA,NA,NA,NA
+"43","Rowan","259","","","","",1206,427,2,0.738

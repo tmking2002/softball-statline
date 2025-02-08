@@ -1,12 +1,14 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kristen McGaughey","Liberty League","20-17-0",0.541
-"2",2022,"Kristen McGaughey","Liberty League","15-17-0",0.469
-"3",2021,"Kristen McGaughey","Liberty League","18-14-0",0.562
-"4",2020,"Kristen McGaughey","Liberty League","5-4-0",0.556
-"5",2019,"Kristen McGaughey","Liberty League","25-15-0",0.625
-"6",2018,"Kristen McGaughey","Liberty League","8-25-1",0.242
-"7",2017,"Kristen McGaughey","Liberty League","22-17-0",0.564
-"8",2016,"Kristen McGaughey","Liberty League","20-14-0",0.588
-"9",2015,"Kristen McGaughey","Liberty League","18-13-0",0.581
-"10",2014,"Kristen McGaughey","Liberty League","6-26-0",0.188
-"11",2024,"Kristen McGaughey","Liberty League","11-25-0",0.306
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Clarkson","146","2025","Kristen McGaughey","D-III","Liberty League",0,0,0,0
+"2","Clarkson","146","2024","Kristen McGaughey","D-III","Liberty League",11,25,0,0.306
+"3","Clarkson","146","2023","Kristen McGaughey","D-III","Liberty League",20,17,0,0.541
+"4","Clarkson","146","2022","Kristen McGaughey","D-III","Liberty League",15,17,0,0.469
+"5","Clarkson","146","2021","Kristen McGaughey","D-III","Liberty League",18,14,0,0.563
+"6","Clarkson","146","2020","Kristen McGaughey","D-III","Liberty League",5,4,0,0.556
+"7","Clarkson","146","2019","Kristen McGaughey","D-III","Liberty League",25,15,0,0.625
+"8","Clarkson","146","2018","Kristen McGaughey","D-III","Liberty League",8,25,1,0.25
+"9","Clarkson","146","2017","Kristen McGaughey","D-III","Liberty League",22,17,0,0.564
+"10","Clarkson","146","2016","Kristen McGaughey","D-III","Liberty League",20,14,0,0.588
+"11","Clarkson","146","2015","Kristen McGaughey","D-III","Liberty League",18,13,0,0.581
+"12","Clarkson","146","2014","Kristen McGaughey","D-III","Liberty League",6,26,0,0.188
+"13","Clarkson","146","","","","",168,187,1,0.473

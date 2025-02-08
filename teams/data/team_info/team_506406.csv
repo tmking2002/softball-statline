@@ -1,13 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2021",NA,"-","0-0-0",0
-"5","2020",NA,"-","0-0-0",0
-"6","2019",NA,"-","0-0-0",0
-"7","2018",NA,"-","0-0-0",0
-"8","2017",NA,"-","0-0-0",NA
-"9","2016",NA,"-","0-0-0",NA
-"10","2015",NA,"-","0-0-0",NA
-"11","2014",NA,"-","0-0-0",NA
-"12","2013",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Eastern Ore.","506406","2025",NA,NA,"-",NA,NA,NA,0
+"2","Eastern Ore.","506406","2024",NA,NA,"-",NA,NA,NA,0
+"3","Eastern Ore.","506406","2023",NA,NA,"-",NA,NA,NA,0
+"4","Eastern Ore.","506406","2022",NA,NA,"-",NA,NA,NA,0
+"5","Eastern Ore.","506406","2021",NA,NA,"-",NA,NA,NA,0
+"6","Eastern Ore.","506406","2020",NA,NA,"-",NA,NA,NA,0
+"7","Eastern Ore.","506406","2019",NA,NA,"-",NA,NA,NA,0
+"8","Eastern Ore.","506406","2018",NA,NA,"-",NA,NA,NA,0
+"9","Eastern Ore.","506406","2017",NA,NA,"-",NA,NA,NA,NA
+"10","Eastern Ore.","506406","2016",NA,NA,"-",NA,NA,NA,NA
+"11","Eastern Ore.","506406","2015",NA,NA,"-",NA,NA,NA,NA
+"12","Eastern Ore.","506406","2014",NA,NA,"-",NA,NA,NA,NA
+"13","Eastern Ore.","506406","2013",NA,NA,"-",NA,NA,NA,NA
+"14","Eastern Ore.","506406","",NA,NA,"",0,0,0,0

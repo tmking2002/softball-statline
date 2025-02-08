@@ -1,33 +1,35 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bailey Wigness","Big South","20-33-0",0.377
-"2",2022,"Bailey Wigness","Big South","15-29-0",0.341
-"3",2021,"Tom Cole","Big South","5-29-0",0.147
-"4",2020,"Tom Cole","Big South","24-5-0",0.828
-"5",2019,"Tom Cole","Big South","30-24-0",0.556
-"6",2018,"Tom Cole","Big South","29-29-0",0.5
-"7",2017,"Tom Cole","Big South","16-34-0",0.32
-"8",2016,"Tom Cole","Big South","21-33-0",0.389
-"9",2015,"Tom Cole","Big South","15-35-0",0.3
-"10",2014,"Tom Cole","Big South","16-36-0",0.308
-"11",2013,"Tom Cole","Big South","13-31-0",0.295
-"12",2012,"Tom Cole","Big South","28-28-0",0.5
-"13",2011,"Tom Cole","Big South","18-28-0",0.391
-"14",2010,"Tom Cole","Big South","22-32-0",0.407
-"15",2009,"Tom Cole","Big South","19-27-0",0.413
-"16",2008,"Tom Cole","ASUN","22-35-0",0.386
-"17",2007,"Tom Cole","ASUN","35-26-1",0.574
-"18",2006,"Tom Cole","ASUN","12-38-0",0.24
-"19",2005,"Tom Cole","ASUN","19-33-1",0.365
-"20",2004,"Tom Cole","ASUN","30-32-1",0.484
-"21",2003,"Tom Cole","ASUN","13-36-0",0.265
-"22",2002,"Tom Cole","-","36-27-0",0.571
-"23",2001,"Tom Cole","-","19-29-0",0.396
-"24",2000,"Tom Cole","-","0-0-0",NA
-"25",1999,"Debbie Raysin","-","21-25-0",0.457
-"26",1998,"Debbie Raysin","-","22-30-0",0.423
-"27",1997,"Ellen McGinnis","-","27-18-0",0.6
-"28",1996,"Ellen McGinnis","-","30-14-0",0.682
-"29",1995,"Ellen McGinnis","-","22-30-0",0.423
-"30",1994,"Donna Robertson","-","10-20-0",0.333
-"31",1993,"Donna Robertson","-","6-15-0",0.286
-"32",2024,"Bailey Wigness","Big South","33-20-0",0.623
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Gardner-Webb","1092","2025","Bailey Wigness","D-I","Big South",0,1,0,0
+"2","Gardner-Webb","1092","2024","Bailey Wigness","D-I","Big South",33,20,0,0.623
+"3","Gardner-Webb","1092","2023","Bailey Wigness","D-I","Big South",20,33,0,0.377
+"4","Gardner-Webb","1092","2022","Bailey Wigness","D-I","Big South",15,29,0,0.341
+"5","Gardner-Webb","1092","2021","Tom Cole","D-I","Big South",5,29,0,0.147
+"6","Gardner-Webb","1092","2020","Tom Cole","D-I","Big South",24,5,0,0.828
+"7","Gardner-Webb","1092","2019","Tom Cole","D-I","Big South",30,24,0,0.556
+"8","Gardner-Webb","1092","2018","Tom Cole","D-I","Big South",29,29,NA,0.5
+"9","Gardner-Webb","1092","2017","Tom Cole","D-I","Big South",16,34,0,0.32
+"10","Gardner-Webb","1092","2016","Tom Cole","D-I","Big South",21,33,0,0.389
+"11","Gardner-Webb","1092","2015","Tom Cole","D-I","Big South",15,35,0,0.3
+"12","Gardner-Webb","1092","2014","Tom Cole","D-I","Big South",16,36,0,0.308
+"13","Gardner-Webb","1092","2013","Tom Cole","D-I","Big South",13,31,0,0.295
+"14","Gardner-Webb","1092","2012","Tom Cole","D-I","Big South",30,32,0,0.484
+"15","Gardner-Webb","1092","2011","Tom Cole","D-I","Big South",18,28,0,0.391
+"16","Gardner-Webb","1092","2010","Tom Cole","D-I","Big South",22,32,0,0.407
+"17","Gardner-Webb","1092","2009","Tom Cole","D-I","Big South",19,27,0,0.413
+"18","Gardner-Webb","1092","2008","Tom Cole","D-I","ASUN",22,35,0,0.386
+"19","Gardner-Webb","1092","2007","Tom Cole","D-I","ASUN",35,26,1,0.573
+"20","Gardner-Webb","1092","2006","Tom Cole","D-I","ASUN",12,38,0,0.24
+"21","Gardner-Webb","1092","2005","Tom Cole","D-I","ASUN",19,33,1,0.368
+"22","Gardner-Webb","1092","2004","Tom Cole","D-I","ASUN",30,32,1,0.484
+"23","Gardner-Webb","1092","2003","Tom Cole","D-I","ASUN",13,36,0,0.265
+"24","Gardner-Webb","1092","2002","Tom Cole","D-II","-",36,27,0,0.571
+"25","Gardner-Webb","1092","2001","Tom Cole","D-II","-",19,29,0,0.396
+"26","Gardner-Webb","1092","1900","Tom Cole","D-II","-",NA,NA,NA,NA
+"27","Gardner-Webb","1092","1999","Debbie Raysin","D-II","-",21,25,NA,0.457
+"28","Gardner-Webb","1092","1998","Debbie Raysin","D-II","-",22,30,NA,0.423
+"29","Gardner-Webb","1092","1997","Ellen McGinnis","D-II","-",27,18,NA,0.6
+"30","Gardner-Webb","1092","1996","Ellen McGinnis","D-II","-",30,14,NA,0.682
+"31","Gardner-Webb","1092","1995","Ellen McGinnis","D-II","-",22,30,NA,0.423
+"32","Gardner-Webb","1092","1994","Donna Robertson","D-II","-",10,20,NA,0.333
+"33","Gardner-Webb","1092","1993","Donna Robertson","D-II","-",6,15,NA,0.286
+"34","Gardner-Webb","1092","","","","",650,866,3,0.429

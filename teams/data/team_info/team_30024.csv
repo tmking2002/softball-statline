@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Cody Thomson","WAC","17-32-0",0.347
-"2",2022,"Cody Thomson","WAC","24-27-0",0.471
-"3",2021,"Stacy May-Johnson","WAC","24-28-0",0.462
-"4",2020,"Stacy May-Johnson","WAC","12-7-0",0.632
-"5",2019,"T.J. Hubbard","WAC","15-31-0",0.326
-"6",2018,"T.J. Hubbard","WAC","21-31-0",0.404
-"7",2017,"T.J. Hubbard","WAC","16-24-0",0.4
-"8",2016,"Nikki Palmer","WAC","9-43-0",0.173
-"9",2015,"Nikki Palmer","WAC","18-41-0",0.305
-"10",2014,"Nikki Palmer","WAC","18-42-0",0.3
-"11",2013,"Rachel Hartgrove","Pacific Coast Softball","35-20-0",0.636
-"12",2012,"Todd Fairbourne","Pacific Coast Softball","33-26-1",0.559
-"13",2011,"Todd Fairbourne","GWC","20-30-0",0.4
-"14",2010,"Todd Fairbourne","Pacific Coast Softball","28-31-0",0.475
-"15",2009,"Todd Fairbourne","-","16-27-0",0.372
-"16",2008,"Todd Fairbourne","-","17-34-0",0.333
-"17",2007,"Todd Fairbourne","-","23-29-0",0.442
-"18",2006,"Todd Fairbourne","-","15-36-0",0.294
-"19",2005,"Todd Fairbourne","-","13-36-1",0.265
-"20",2004,"","-","1-7-0",0.125
-"21",2024,"Cody Thomson","WAC","25-28-0",0.472
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Utah Valley","30024","2025","Cody Thomson","D-I","WAC",0,2,0,0
+"2","Utah Valley","30024","2024","Cody Thomson","D-I","WAC",25,28,0,0.472
+"3","Utah Valley","30024","2023","Cody Thomson","D-I","WAC",17,32,0,0.347
+"4","Utah Valley","30024","2022","Cody Thomson","D-I","WAC",24,27,0,0.471
+"5","Utah Valley","30024","2021","Stacy May-Johnson","D-I","WAC",24,28,0,0.462
+"6","Utah Valley","30024","2020","Stacy May-Johnson","D-I","WAC",12,7,0,0.632
+"7","Utah Valley","30024","2019","T.J. Hubbard","D-I","WAC",15,31,0,0.326
+"8","Utah Valley","30024","2018","T.J. Hubbard","D-I","WAC",21,31,NA,0.404
+"9","Utah Valley","30024","2017","T.J. Hubbard","D-I","WAC",16,24,0,0.4
+"10","Utah Valley","30024","2016","Nikki Palmer","D-I","WAC",9,43,0,0.173
+"11","Utah Valley","30024","2015","Nikki Palmer","D-I","WAC",18,41,0,0.305
+"12","Utah Valley","30024","2014","Nikki Palmer","D-I","WAC",18,42,0,0.3
+"13","Utah Valley","30024","2013","Rachel Hartgrove","D-I","Pacific Coast Softball",35,20,0,0.636
+"14","Utah Valley","30024","2012","Todd Fairbourne","D-I","Pacific Coast Softball",35,26,1,0.573
+"15","Utah Valley","30024","2011","Todd Fairbourne","D-I","GWC",20,30,0,0.4
+"16","Utah Valley","30024","2010","Todd Fairbourne","D-I","Pacific Coast Softball",28,31,0,0.475
+"17","Utah Valley","30024","2009","Todd Fairbourne","D-I","-",16,27,0,0.372
+"18","Utah Valley","30024","2008","Todd Fairbourne","D-I","-",17,34,0,0.333
+"19","Utah Valley","30024","2007","Todd Fairbourne","D-I","-",23,29,0,0.442
+"20","Utah Valley","30024","2006","Todd Fairbourne","D-I","-",15,36,0,0.294
+"21","Utah Valley","30024","2005","Todd Fairbourne","D-I","-",13,36,1,0.27
+"22","Utah Valley","30024","2004","","D-I","-",1,7,0,0.125
+"23","Utah Valley","30024","","","","",402,612,2,0.397

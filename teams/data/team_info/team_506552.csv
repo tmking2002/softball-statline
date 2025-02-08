@@ -1,4 +1,6 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Paine","506552","2025",NA,NA,"-",NA,NA,NA,0
+"2","Paine","506552","2024",NA,NA,"-",NA,NA,NA,0
+"3","Paine","506552","2023",NA,NA,"-",NA,NA,NA,0
+"4","Paine","506552","2022",NA,NA,"-",NA,NA,NA,0
+"5","Paine","506552","",NA,NA,"",0,0,0,0

@@ -1,46 +1,48 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Boo De Oliveira","Big Ten","23-30-0",0.434
-"2",2022,"Boo De Oliveira","Big Ten","24-31-0",0.436
-"3",2021,"Boo De Oliveira","Big Ten","18-26-0",0.409
-"4",2020,"Boo De Oliveira","Big Ten","15-10-0",0.6
-"5",2019,"Boo De Oliveira","Big Ten","34-29-0",0.54
-"6",2018,"Boo De Oliveira","Big Ten","16-40-0",0.286
-"7",2017,"Boo De Oliveira","Big Ten","20-36-0",0.357
-"8",2016,"Kim Schuette","Big Ten","27-28-0",0.491
-"9",2015,"Kim Schuette","Big Ten","31-25-0",0.554
-"10",2014,"Kim Schuette","Big Ten","27-28-1",0.491
-"11",2013,"Kim Maher","Big Ten","23-32-0",0.418
-"12",2012,"Kim Maher","Big Ten","31-22-0",0.585
-"13",2011,"Kim Maher","Big Ten","30-18-2",0.625
-"14",2010,"Kim Maher","Big Ten","27-27-0",0.5
-"15",2009,"Kim Maher","Big Ten","31-20-0",0.608
-"16",2008,"Kim Maher","Big Ten","35-23-0",0.603
-"17",2007,"Kim Maher","Big Ten","33-32-1",0.508
-"18",2006,"Kim Maher","Big Ten","30-30-0",0.5
-"19",2005,"Carol Bruggeman","Big Ten","34-24-1",0.586
-"20",2004,"Carol Bruggeman","Big Ten","32-25-0",0.561
-"21",2003,"Carol Bruggeman","Big Ten","34-27-0",0.557
-"22",2002,"Carol Bruggeman","Big Ten","33-26-0",0.559
-"23",2001,"Carol Bruggeman","Big Ten","34-24-1",0.586
-"24",2000,"Carol Bruggeman","Big Ten","33-28-0",0.541
-"25",1999,"Carol Bruggeman","Big Ten","30-26-0",0.536
-"26",1998,"Carol Bruggeman","-","29-30-0",0.492
-"27",1997,"Carol Bruggeman","Big Ten","41-25-0",0.621
-"28",1996,"Carol Bruggeman","-","36-21-0",0.632
-"29",1995,"Carol Bruggeman","-","23-31-0",0.426
-"30",1994,"Carol Bruggeman","-","21-17-1",0.553
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"Jay Miller","-","16-11-0",0.593
-"44",1980,"Jay Miller","-","13-10-0",0.565
-"45",2024,"Magail Frezzotti","Big Ten","25-27-0",0.481
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Purdue","559","2025","Magail Frezzotti","D-I","Big Ten",1,2,0,0.333
+"2","Purdue","559","2024","Magail Frezzotti","D-I","Big Ten",25,27,0,0.481
+"3","Purdue","559","2023","Boo De Oliveira","D-I","Big Ten",23,30,0,0.434
+"4","Purdue","559","2022","Boo De Oliveira","D-I","Big Ten",24,31,0,0.436
+"5","Purdue","559","2021","Boo De Oliveira","D-I","Big Ten",18,26,0,0.409
+"6","Purdue","559","2020","Boo De Oliveira","D-I","Big Ten",15,10,0,0.6
+"7","Purdue","559","2019","Boo De Oliveira","D-I","Big Ten",34,29,0,0.54
+"8","Purdue","559","2018","Boo De Oliveira","D-I","Big Ten",16,40,NA,0.286
+"9","Purdue","559","2017","Boo De Oliveira","D-I","Big Ten",20,36,0,0.357
+"10","Purdue","559","2016","Kim Schuette","D-I","Big Ten",27,28,0,0.491
+"11","Purdue","559","2015","Kim Schuette","D-I","Big Ten",31,25,0,0.554
+"12","Purdue","559","2014","Kim Schuette","D-I","Big Ten",28,27,1,0.509
+"13","Purdue","559","2013","Kim Maher","D-I","Big Ten",23,32,0,0.418
+"14","Purdue","559","2012","Kim Maher","D-I","Big Ten",31,22,0,0.585
+"15","Purdue","559","2011","Kim Maher","D-I","Big Ten",30,18,2,0.62
+"16","Purdue","559","2010","Kim Maher","D-I","Big Ten",27,27,0,0.5
+"17","Purdue","559","2009","Kim Maher","D-I","Big Ten",31,20,0,0.608
+"18","Purdue","559","2008","Kim Maher","D-I","Big Ten",35,23,0,0.603
+"19","Purdue","559","2007","Kim Maher","D-I","Big Ten",33,32,1,0.508
+"20","Purdue","559","2006","Kim Maher","D-I","Big Ten",30,30,0,0.5
+"21","Purdue","559","2005","Carol Bruggeman","D-I","Big Ten",34,24,1,0.585
+"22","Purdue","559","2004","Carol Bruggeman","D-I","Big Ten",32,25,0,0.561
+"23","Purdue","559","2003","Carol Bruggeman","D-I","Big Ten",34,27,0,0.557
+"24","Purdue","559","2002","Carol Bruggeman","D-I","Big Ten",33,26,0,0.559
+"25","Purdue","559","2001","Carol Bruggeman","D-I","Big Ten",34,24,1,0.585
+"26","Purdue","559","1900","Carol Bruggeman","D-I","Big Ten",33,28,0,0.541
+"27","Purdue","559","1999","Carol Bruggeman","D-I","Big Ten",30,26,0,0.536
+"28","Purdue","559","1998","Carol Bruggeman","D-I","-",29,30,NA,0.492
+"29","Purdue","559","1997","Carol Bruggeman","D-I","Big Ten",41,25,0,0.621
+"30","Purdue","559","1996","Carol Bruggeman","D-I","-",36,21,NA,0.632
+"31","Purdue","559","1995","Carol Bruggeman","D-I","-",23,31,NA,0.426
+"32","Purdue","559","1994","Carol Bruggeman","D-I","-",21,17,1,0.551
+"33","Purdue","559","1993","","D-I","-",NA,NA,NA,NA
+"34","Purdue","559","1992","","D-I","-",NA,NA,NA,NA
+"35","Purdue","559","1991","","D-I","-",NA,NA,NA,NA
+"36","Purdue","559","1990","","D-I","-",NA,NA,NA,NA
+"37","Purdue","559","1989","","D-I","-",NA,NA,NA,NA
+"38","Purdue","559","1988","","D-I","-",NA,NA,NA,NA
+"39","Purdue","559","1987","","D-I","-",NA,NA,NA,NA
+"40","Purdue","559","1986","","D-I","-",NA,NA,NA,NA
+"41","Purdue","559","1985","","D-I","-",NA,NA,NA,NA
+"42","Purdue","559","1984","","D-I","-",NA,NA,NA,NA
+"43","Purdue","559","1983","","D-I","-",NA,NA,NA,NA
+"44","Purdue","559","1982","","D-I","-",NA,NA,NA,NA
+"45","Purdue","559","1981","Jay Miller","D-I","-",16,11,NA,0.593
+"46","Purdue","559","1980","Jay Miller","D-I","-",13,10,NA,0.565
+"47","Purdue","559","","","","",911,840,7,0.52

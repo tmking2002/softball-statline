@@ -1,33 +1,34 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2018","","-","0-0-0","  NaN"
-"2","2015","","-","0-0-0","  NaN"
-"3","2014","","-","0-0-0","  NaN"
-"4","2013","","-","0-0-0","  NaN"
-"5","2012","","-","0-0-0","  NaN"
-"6","2011","","-","0-0-0","  NaN"
-"7","2010","","-","0-0-0","  NaN"
-"8","2009","Josh Varner","Skyline","0-0-0","  NaN"
-"9","2008","Josh Varner","Skyline","2-10-0","0.167"
-"10","2007","Josh Varner","Skyline","3-13-0","0.188"
-"11","2006","Michelle DiCostanzo","Skyline","2-18-0","0.100"
-"12","2005","Paul Acquaro","Skyline","4-18-0","0.182"
-"13","2004","","Skyline","2-13-0","0.133"
-"14","2003","","Skyline","2-13-0","0.133"
-"15","2002","","-","0-0-0","  NaN"
-"16","2001","","-","0-0-0","  NaN"
-"17","2000","Bill Glassman","-","0-12-0","0.000"
-"18","1999","","-","0-0-0","  NaN"
-"19","1998","","-","0-0-0","  NaN"
-"20","1997","","-","0-0-0","  NaN"
-"21","1996","","-","0-0-0","  NaN"
-"22","1995","","-","0-0-0","  NaN"
-"23","1994","","-","0-0-0","  NaN"
-"24","1993","","-","0-0-0","  NaN"
-"25","1992","","-","0-0-0","  NaN"
-"26","1991","","-","0-0-0","  NaN"
-"27","1990","","-","0-0-0","  NaN"
-"28","1989","","-","0-0-0","  NaN"
-"29","1988","","-","0-0-0","  NaN"
-"30","1987","","-","0-0-0","  NaN"
-"31","1986","","-","0-0-0","  NaN"
-"32","1985","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","SUNY Maritime","478","2018","","","-",NA,NA,NA,0
+"2","SUNY Maritime","478","2015","","D-III","-",NA,NA,NA,NA
+"3","SUNY Maritime","478","2014","","D-III","-",NA,NA,NA,NA
+"4","SUNY Maritime","478","2013","","D-III","-",NA,NA,NA,NA
+"5","SUNY Maritime","478","2012","","D-III","-",NA,NA,NA,NA
+"6","SUNY Maritime","478","2011","","D-III","-",NA,NA,NA,NA
+"7","SUNY Maritime","478","2010","","D-III","-",NA,NA,NA,NA
+"8","SUNY Maritime","478","2009","Josh Varner","D-III","Skyline",NA,NA,NA,NA
+"9","SUNY Maritime","478","2008","Josh Varner","D-III","Skyline",2,10,0,0.167
+"10","SUNY Maritime","478","2007","Josh Varner","D-III","Skyline",3,13,0,0.188
+"11","SUNY Maritime","478","2006","Michelle DiCostanzo","D-III","Skyline",2,18,0,0.1
+"12","SUNY Maritime","478","2005","Paul Acquaro","D-III","Skyline",4,18,0,0.182
+"13","SUNY Maritime","478","2004","","D-III","Skyline",2,13,0,0.133
+"14","SUNY Maritime","478","2003","","D-III","Skyline",2,13,0,0.133
+"15","SUNY Maritime","478","2002","","D-III","-",NA,NA,NA,NA
+"16","SUNY Maritime","478","2001","","D-III","-",NA,NA,NA,NA
+"17","SUNY Maritime","478","1900","Bill Glassman","D-III","-",0,12,NA,0
+"18","SUNY Maritime","478","1999","","D-III","-",NA,NA,NA,NA
+"19","SUNY Maritime","478","1998","","D-III","-",NA,NA,NA,NA
+"20","SUNY Maritime","478","1997","","","-",NA,NA,NA,NA
+"21","SUNY Maritime","478","1996","","","-",NA,NA,NA,NA
+"22","SUNY Maritime","478","1995","","","-",NA,NA,NA,NA
+"23","SUNY Maritime","478","1994","","","-",NA,NA,NA,NA
+"24","SUNY Maritime","478","1993","","","-",NA,NA,NA,NA
+"25","SUNY Maritime","478","1992","","","-",NA,NA,NA,NA
+"26","SUNY Maritime","478","1991","","","-",NA,NA,NA,NA
+"27","SUNY Maritime","478","1990","","","-",NA,NA,NA,NA
+"28","SUNY Maritime","478","1989","","","-",NA,NA,NA,NA
+"29","SUNY Maritime","478","1988","","","-",NA,NA,NA,NA
+"30","SUNY Maritime","478","1987","","","-",NA,NA,NA,NA
+"31","SUNY Maritime","478","1986","","","-",NA,NA,NA,NA
+"32","SUNY Maritime","478","1985","","","-",NA,NA,NA,NA
+"33","SUNY Maritime","478","","","","",15,97,0,0.134

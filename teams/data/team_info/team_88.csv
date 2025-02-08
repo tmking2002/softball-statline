@@ -1,43 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Chris Protesto","Atlantic East","30-14-0",0.682
-"2",2022,"Chris Protesto","Atlantic East","23-12-0",0.657
-"3",2021,"Chris Protesto","Atlantic East","17-8-0",0.68
-"4",2020,"Chris Protesto","Atlantic East","8-6-0",0.571
-"5",2019,"Sammy Thompson","Atlantic East","20-18-0",0.526
-"6",2018,"Sammy Thompson","CSAC","22-12-0",0.647
-"7",2017,"Sammy Thompson","CSAC","19-23-0",0.452
-"8",2016,"Mitch Kline","CSAC","25-18-0",0.581
-"9",2015,"Mitch Kline","CSAC","27-12-0",0.692
-"10",2014,"Mitch Kline","CSAC","25-18-0",0.581
-"11",2013,"Mitch Kline","CSAC","14-20-0",0.412
-"12",2012,"Lisa McGregor","CSAC","17-23-0",0.425
-"13",2011,"Lisa McGregor","CSAC","13-20-0",0.394
-"14",2010,"Lisa McGregor","CSAC","25-19-0",0.568
-"15",2009,"Lisa McGregor","CSAC","16-19-0",0.457
-"16",2008,"Lisa McGregor","CSAC","12-25-0",0.324
-"17",2007,"Martine Susko","CSAC","16-23-0",0.41
-"18",2006,"Martine Susko","CSAC","18-20-0",0.474
-"19",2005,"Martine Susko","CSAC","22-17-0",0.564
-"20",2004,"Karen Pelkey","CSAC","33-12-0",0.733
-"21",2003,"Karen Pelkey","CSAC","35-8-0",0.814
-"22",2002,"Karen Pelkey","CSAC","37-8-0",0.822
-"23",2001,"Bridget Orchard","-","42-5-0",0.894
-"24",2000,"Bridget Orchard","-","39-9-0",0.812
-"25",1999,"Bridget Orchard","-","26-14-1",0.65
-"26",1998,"Bridget Orchard","-","22-14-1",0.611
-"27",1997,"Rosanne Corcoran","-","13-16-0",0.448
-"28",1996,"Jim Hedtke","-","16-17-0",0.485
-"29",1995,"Jim Hedtke","-","12-18-0",0.4
-"30",1994,"Jim Hedtke","-","0-0-0",NA
-"31",1993,"Jim Hedtke","-","0-0-0",NA
-"32",1992,"Jim Hedtke","-","9-12-0",0.429
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Chris Protesto","Atlantic East","11-14-0",0.44
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cabrini","88","2024","Chris Protesto","D-III","Atlantic East",11,15,0,0.423
+"2","Cabrini","88","2023","Chris Protesto","D-III","Atlantic East",30,14,0,0.682
+"3","Cabrini","88","2022","Chris Protesto","D-III","Atlantic East",23,12,0,0.657
+"4","Cabrini","88","2021","Chris Protesto","D-III","Atlantic East",17,8,0,0.68
+"5","Cabrini","88","2020","Chris Protesto","D-III","Atlantic East",8,6,0,0.571
+"6","Cabrini","88","2019","Sammy Thompson","D-III","Atlantic East",20,18,0,0.526
+"7","Cabrini","88","2018","Sammy Thompson","D-III","CSAC",22,12,NA,0.647
+"8","Cabrini","88","2017","Sammy Thompson","D-III","CSAC",19,23,0,0.452
+"9","Cabrini","88","2016","Mitch Kline","D-III","CSAC",25,18,0,0.581
+"10","Cabrini","88","2015","Mitch Kline","D-III","CSAC",27,12,0,0.692
+"11","Cabrini","88","2014","Mitch Kline","D-III","CSAC",25,18,0,0.581
+"12","Cabrini","88","2013","Mitch Kline","D-III","CSAC",14,20,0,0.412
+"13","Cabrini","88","2012","Lisa McGregor","D-III","CSAC",17,23,0,0.425
+"14","Cabrini","88","2011","Lisa McGregor","D-III","CSAC",13,20,0,0.394
+"15","Cabrini","88","2010","Lisa McGregor","D-III","CSAC",25,19,0,0.568
+"16","Cabrini","88","2009","Lisa McGregor","D-III","CSAC",16,19,0,0.457
+"17","Cabrini","88","2008","Lisa McGregor","D-III","CSAC",12,25,0,0.324
+"18","Cabrini","88","2007","Martine Susko","D-III","CSAC",16,23,0,0.41
+"19","Cabrini","88","2006","Martine Susko","D-III","CSAC",18,20,0,0.474
+"20","Cabrini","88","2005","Martine Susko","D-III","CSAC",22,17,0,0.564
+"21","Cabrini","88","2004","Karen Pelkey","D-III","CSAC",33,12,0,0.733
+"22","Cabrini","88","2003","Karen Pelkey","D-III","CSAC",35,8,0,0.814
+"23","Cabrini","88","2002","Karen Pelkey","D-III","CSAC",37,8,0,0.822
+"24","Cabrini","88","2001","Bridget Orchard","D-III","-",42,5,NA,0.894
+"25","Cabrini","88","1900","Bridget Orchard","D-III","-",39,9,NA,0.813
+"26","Cabrini","88","1999","Bridget Orchard","D-III","-",26,14,1,0.646
+"27","Cabrini","88","1998","Bridget Orchard","D-III","-",22,14,1,0.608
+"28","Cabrini","88","1997","Rosanne Corcoran","D-III","-",13,16,0,0.448
+"29","Cabrini","88","1996","Jim Hedtke","D-III","-",16,17,NA,0.485
+"30","Cabrini","88","1995","Jim Hedtke","D-III","-",12,18,NA,0.4
+"31","Cabrini","88","1994","Jim Hedtke","D-III","-",NA,NA,NA,NA
+"32","Cabrini","88","1993","Jim Hedtke","D-III","-",NA,NA,NA,NA
+"33","Cabrini","88","1992","Jim Hedtke","D-III","-",9,12,NA,0.429
+"34","Cabrini","88","1991","","D-III","-",NA,NA,NA,NA
+"35","Cabrini","88","1990","","","-",NA,NA,NA,NA
+"36","Cabrini","88","1989","","","-",NA,NA,NA,NA
+"37","Cabrini","88","1988","","","-",NA,NA,NA,NA
+"38","Cabrini","88","1987","","","-",NA,NA,NA,NA
+"39","Cabrini","88","1986","","","-",NA,NA,NA,NA
+"40","Cabrini","88","1985","","","-",NA,NA,NA,NA
+"41","Cabrini","88","1984","","","-",NA,NA,NA,NA
+"42","Cabrini","88","1983","","","-",NA,NA,NA,NA
+"43","Cabrini","88","","","","",664,475,2,0.583

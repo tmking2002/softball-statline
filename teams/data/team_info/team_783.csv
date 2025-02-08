@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jamie Lachall","MAC Commonwealth","16-23-0",0.41
-"2",2022,"Fred Dohrmann","MAC Commonwealth","20-16-0",0.556
-"3",2021,"Fred Dohrmann","MAC Commonwealth","13-18-0",0.419
-"4",2020,"Fred Dohrmann","MAC Commonwealth","6-2-0",0.75
-"5",2019,"Fred Dohrmann","MAC Commonwealth","27-16-0",0.628
-"6",2018,"Fred Dohrmann","MAC Commonwealth","13-15-0",0.464
-"7",2017,"Fred Dohrmann","MAC Commonwealth","28-13-0",0.683
-"8",2016,"Fred Dohrmann","MAC Commonwealth","31-11-0",0.738
-"9",2015,"Fred Dohrmann","MAC Commonwealth","25-9-0",0.735
-"10",2014,"Fred Dohrmann","MAC Commonwealth","21-11-0",0.656
-"11",2013,"Fred Dohrmann","MAC Commonwealth","18-20-0",0.474
-"12",2012,"Fred Dohrmann","MAC Commonwealth","22-18-0",0.55
-"13",2011,"Fred Dohrmann","MAC Commonwealth","14-20-0",0.412
-"14",2010,"Fred Dohrmann","MAC Commonwealth","27-15-0",0.643
-"15",2009,"Fred Dohrmann","MAC Commonwealth","24-18-0",0.571
-"16",2008,"Fred Dohrmann","MAC Commonwealth","30-12-0",0.714
-"17",2007,"Fred Dohrmann","MAC Commonwealth","23-15-0",0.605
-"18",2006,"Fred Dohrmann","MAC Commonwealth","19-17-0",0.528
-"19",2005,"Fred Dohrmann","MAC Commonwealth","10-29-0",0.256
-"20",2004,"Fred Dohrmann","MAC Commonwealth","23-14-0",0.622
-"21",2003,"Fred Dohrmann","MAC Commonwealth","21-13-0",0.618
-"22",2002,"Fred Dohrmann","MAC Commonwealth","14-21-0",0.4
-"23",2001,"Fred Dohrmann","-","17-18-0",0.486
-"24",2000,"Fred Dohrmann","-","18-14-0",0.562
-"25",1999,"Fred Dohrmann","-","13-17-0",0.433
-"26",1998,"Fred Dohrmann","-","23-10-0",0.697
-"27",1997,"Fred Dohrmann","-","19-16-0",0.543
-"28",1996,"Fred Dohrmann","-","20-13-0",0.606
-"29",1995,"Fred Dohrmann","-","25-9-0",0.735
-"30",1994,"Fred Dohrmann","-","16-16-0",0.5
-"31",1993,"Fred Dohrmann","-","13-13-0",0.5
-"32",1992,"Fred Dohrmann","-","19-9-0",0.679
-"33",1991,"Fred Dohrmann","-","18-10-0",0.643
-"34",1990,"Fred Dohrmann","-","16-10-0",0.615
-"35",1989,"Fred Dohrmann","-","13-12-0",0.52
-"36",1988,"Fred Dohrmann","-","6-12-0",0.333
-"37",1987,"Fred Dohrmann","-","4-11-0",0.267
-"38",1986,"Fred Dohrmann","-","5-15-0",0.25
-"39",1985,"Fred Dohrmann","-","5-15-0",0.25
-"40",1984,"Fred Dohrmann","-","3-9-0",0.25
-"41",1983,"Fred Dohrmann","-","8-7-0",0.533
-"42",1982,"","-","0-0-0",NA
-"43",1981,"Fred Dohrmann","-","7-7-0",0.5
-"44",2024,"Jamie Lachall","MAC Commonwealth","13-19-0",0.406
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Widener","783","2025","Jamie Lachall","D-III","MAC Commonwealth",0,0,0,0
+"2","Widener","783","2024","Jamie Lachall","D-III","MAC Commonwealth",13,19,0,0.406
+"3","Widener","783","2023","Jamie Lachall","D-III","MAC Commonwealth",16,23,0,0.41
+"4","Widener","783","2022","Fred Dohrmann","D-III","MAC Commonwealth",20,16,0,0.556
+"5","Widener","783","2021","Fred Dohrmann","D-III","MAC Commonwealth",13,18,0,0.419
+"6","Widener","783","2020","Fred Dohrmann","D-III","MAC Commonwealth",6,2,0,0.75
+"7","Widener","783","2019","Fred Dohrmann","D-III","MAC Commonwealth",27,16,0,0.628
+"8","Widener","783","2018","Fred Dohrmann","D-III","MAC Commonwealth",13,15,NA,0.464
+"9","Widener","783","2017","Fred Dohrmann","D-III","MAC Commonwealth",28,13,0,0.683
+"10","Widener","783","2016","Fred Dohrmann","D-III","MAC Commonwealth",31,11,0,0.738
+"11","Widener","783","2015","Fred Dohrmann","D-III","MAC Commonwealth",25,9,0,0.735
+"12","Widener","783","2014","Fred Dohrmann","D-III","MAC Commonwealth",21,11,0,0.656
+"13","Widener","783","2013","Fred Dohrmann","D-III","MAC Commonwealth",18,20,0,0.474
+"14","Widener","783","2012","Fred Dohrmann","D-III","MAC Commonwealth",22,18,0,0.55
+"15","Widener","783","2011","Fred Dohrmann","D-III","MAC Commonwealth",14,20,0,0.412
+"16","Widener","783","2010","Fred Dohrmann","D-III","MAC Commonwealth",27,15,0,0.643
+"17","Widener","783","2009","Fred Dohrmann","D-III","MAC Commonwealth",24,18,0,0.571
+"18","Widener","783","2008","Fred Dohrmann","D-III","MAC Commonwealth",30,12,0,0.714
+"19","Widener","783","2007","Fred Dohrmann","D-III","MAC Commonwealth",23,15,0,0.605
+"20","Widener","783","2006","Fred Dohrmann","D-III","MAC Commonwealth",19,17,0,0.528
+"21","Widener","783","2005","Fred Dohrmann","D-III","MAC Commonwealth",10,29,0,0.256
+"22","Widener","783","2004","Fred Dohrmann","D-III","MAC Commonwealth",23,14,0,0.622
+"23","Widener","783","2003","Fred Dohrmann","D-III","MAC Commonwealth",21,13,0,0.618
+"24","Widener","783","2002","Fred Dohrmann","D-III","MAC Commonwealth",14,21,0,0.4
+"25","Widener","783","2001","Fred Dohrmann","D-III","-",17,18,NA,0.486
+"26","Widener","783","1900","Fred Dohrmann","D-III","-",18,14,NA,0.563
+"27","Widener","783","1999","Fred Dohrmann","D-III","-",13,17,NA,0.433
+"28","Widener","783","1998","Fred Dohrmann","D-III","-",23,10,NA,0.697
+"29","Widener","783","1997","Fred Dohrmann","D-III","-",19,16,NA,0.543
+"30","Widener","783","1996","Fred Dohrmann","D-III","-",20,13,NA,0.606
+"31","Widener","783","1995","Fred Dohrmann","D-III","-",25,9,NA,0.735
+"32","Widener","783","1994","Fred Dohrmann","D-III","-",16,16,NA,0.5
+"33","Widener","783","1993","Fred Dohrmann","D-III","-",13,13,NA,0.5
+"34","Widener","783","1992","Fred Dohrmann","D-III","-",19,9,NA,0.679
+"35","Widener","783","1991","Fred Dohrmann","D-III","-",18,10,NA,0.643
+"36","Widener","783","1990","Fred Dohrmann","D-III","-",16,10,NA,0.615
+"37","Widener","783","1989","Fred Dohrmann","D-III","-",13,12,NA,0.52
+"38","Widener","783","1988","Fred Dohrmann","D-III","-",6,12,NA,0.333
+"39","Widener","783","1987","Fred Dohrmann","D-III","-",4,11,0,0.267
+"40","Widener","783","1986","Fred Dohrmann","D-III","-",5,15,0,0.25
+"41","Widener","783","1985","Fred Dohrmann","D-III","-",5,15,0,0.25
+"42","Widener","783","1984","Fred Dohrmann","D-III","-",3,9,NA,0.25
+"43","Widener","783","1983","Fred Dohrmann","D-III","-",8,7,NA,0.533
+"44","Widener","783","1982","","","-",NA,NA,NA,NA
+"45","Widener","783","1981","Fred Dohrmann","","-",7,7,NA,0.5
+"46","Widener","783","","","","",726,608,0,0.544

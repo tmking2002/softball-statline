@@ -1,43 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Tracey Garofalo","ECC","11-37-0","0.229"
-"2","2022","Tracey Garofalo","ECC","12-26-0","0.316"
-"3","2021","Eric Kraut","ECC","5-17-0","0.227"
-"4","2020","Eric Kraut","ECC","0-0-0","  NaN"
-"5","2019","Stella Porto","CUNYAC","18-17-0","0.514"
-"6","2018","Stella Porto","CUNYAC","23-12-0","0.657"
-"7","2017","Stella Porto","CUNYAC","35-9-0","0.795"
-"8","2016","Stella Porto","CUNYAC","26-14-0","0.650"
-"9","2015","Stella Porto","CUNYAC","31-12-0","0.721"
-"10","2014","Stella Porto","CUNYAC","23-17-0","0.575"
-"11","2013","Stella Porto","CUNYAC","24-16-0","0.600"
-"12","2012","Stella Porto","CUNYAC","17-20-0","0.459"
-"13","2011","Stella Porto","CUNYAC","26-13-0","0.667"
-"14","2010","Stella Porto","CUNYAC","24-17-0","0.585"
-"15","2009","Stella Porto","CUNYAC","21-14-0","0.600"
-"16","2008","Stella Porto","CUNYAC","19-23-0","0.452"
-"17","2007","Stella Porto","CUNYAC","26-10-0","0.722"
-"18","2006","Stella Porto","CUNYAC","21-20-0","0.512"
-"19","2005","Stella Porto","CUNYAC","24-16-1","0.600"
-"20","2004","Stella Porto","CUNYAC","18-14-1","0.562"
-"21","2003","Stella Porto","CUNYAC","18-5-0","0.783"
-"22","2002","Gina Battista","-","27-10-0","0.730"
-"23","2001","Gina Battista","-","18-10-0","0.643"
-"24","2000","Gina Battista","-","15-15-0","0.500"
-"25","1999","Gina Battista","-","17-10-0","0.630"
-"26","1998","Gina Battista","-","13-16-0","0.448"
-"27","1997","Sonny Grasso","-","14-13-0","0.519"
-"28","1996","Sonny Grasso","-","10-13-0","0.435"
-"29","1995","Sonny Grasso","-","9-16-0","0.360"
-"30","1994","Rich Gilberto","-","12-13-0","0.480"
-"31","1993","Rich Gilberto","-","12-12-0","0.500"
-"32","1992","Rich Gilberto","-","11-9-0","0.550"
-"33","1991","Rich Gilberto","-","17-10-0","0.630"
-"34","1990","Rich Gilberto","-","23-5-0","0.821"
-"35","1989","Rich Gilberto","-","16-10-1","0.615"
-"36","1988","Rich Gilberto","-","13-10-0","0.565"
-"37","1987","Rich Gilberto","-","11-9-0","0.550"
-"38","1986","Rich Gilberto","-","17-8-0","0.680"
-"39","1985","Rich Gilberto","-","13-8-0","0.619"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","1982","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Staten Island","675","2025","Tracey Garofalo","D-II","ECC",0,0,0,0
+"2","Staten Island","675","2024","Tracey Garofalo","D-II","ECC",15,31,0,0.326
+"3","Staten Island","675","2023","Tracey Garofalo","D-II","ECC",11,37,0,0.229
+"4","Staten Island","675","2022","Tracey Garofalo","D-II","ECC",12,26,0,0.316
+"5","Staten Island","675","2021","Eric Kraut","D-II","ECC",5,17,0,0.227
+"6","Staten Island","675","2020","Eric Kraut","D-II","ECC",NA,NA,NA,0
+"7","Staten Island","675","2019","Stella Porto","D-III","CUNYAC",18,17,0,0.514
+"8","Staten Island","675","2018","Stella Porto","D-III","CUNYAC",23,12,NA,0.657
+"9","Staten Island","675","2017","Stella Porto","D-III","CUNYAC",35,9,0,0.795
+"10","Staten Island","675","2016","Stella Porto","D-III","CUNYAC",26,14,0,0.65
+"11","Staten Island","675","2015","Stella Porto","D-III","CUNYAC",31,12,0,0.721
+"12","Staten Island","675","2014","Stella Porto","D-III","CUNYAC",23,17,0,0.575
+"13","Staten Island","675","2013","Stella Porto","D-III","CUNYAC",24,16,0,0.6
+"14","Staten Island","675","2012","Stella Porto","D-III","CUNYAC",17,20,0,0.459
+"15","Staten Island","675","2011","Stella Porto","D-III","CUNYAC",26,13,0,0.667
+"16","Staten Island","675","2010","Stella Porto","D-III","CUNYAC",24,17,0,0.585
+"17","Staten Island","675","2009","Stella Porto","D-III","CUNYAC",21,14,0,0.6
+"18","Staten Island","675","2008","Stella Porto","D-III","CUNYAC",19,23,0,0.452
+"19","Staten Island","675","2007","Stella Porto","D-III","CUNYAC",26,10,0,0.722
+"20","Staten Island","675","2006","Stella Porto","D-III","CUNYAC",21,20,0,0.512
+"21","Staten Island","675","2005","Stella Porto","D-III","CUNYAC",24,16,1,0.598
+"22","Staten Island","675","2004","Stella Porto","D-III","CUNYAC",18,14,1,0.561
+"23","Staten Island","675","2003","Stella Porto","D-III","CUNYAC",18,5,0,0.783
+"24","Staten Island","675","2002","Gina Battista","D-III","-",27,10,0,0.73
+"25","Staten Island","675","2001","Gina Battista","D-III","-",18,10,NA,0.643
+"26","Staten Island","675","1900","Gina Battista","D-III","-",15,15,NA,0.5
+"27","Staten Island","675","1999","Gina Battista","D-III","-",17,10,NA,0.63
+"28","Staten Island","675","1998","Gina Battista","D-III","-",13,16,NA,0.448
+"29","Staten Island","675","1997","Sonny Grasso","D-III","-",14,13,NA,0.519
+"30","Staten Island","675","1996","Sonny Grasso","D-III","-",10,13,NA,0.435
+"31","Staten Island","675","1995","Sonny Grasso","D-III","-",9,16,NA,0.36
+"32","Staten Island","675","1994","Rich Gilberto","D-III","-",12,13,NA,0.48
+"33","Staten Island","675","1993","Rich Gilberto","D-III","-",12,12,NA,0.5
+"34","Staten Island","675","1992","Rich Gilberto","D-III","-",11,9,NA,0.55
+"35","Staten Island","675","1991","Rich Gilberto","D-III","-",17,10,NA,0.63
+"36","Staten Island","675","1990","Rich Gilberto","D-III","-",23,5,NA,0.821
+"37","Staten Island","675","1989","Rich Gilberto","D-III","-",16,10,1,0.611
+"38","Staten Island","675","1988","Rich Gilberto","D-III","-",13,10,NA,0.565
+"39","Staten Island","675","1987","Rich Gilberto","","-",11,9,NA,0.55
+"40","Staten Island","675","1986","Rich Gilberto","","-",17,8,NA,0.68
+"41","Staten Island","675","1985","Rich Gilberto","","-",13,8,NA,0.619
+"42","Staten Island","675","1984","","","-",NA,NA,NA,NA
+"43","Staten Island","675","1983","","","-",NA,NA,NA,NA
+"44","Staten Island","675","1982","","D-III","-",NA,NA,NA,NA
+"45","Staten Island","675","","","","",705,557,3,0.558

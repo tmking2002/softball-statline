@@ -1,10 +1,11 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Jarvis Christian","506004","2023",NA,NA,"-",NA,NA,NA,0
+"2","Jarvis Christian","506004","2022",NA,NA,"-",NA,NA,NA,0
+"3","Jarvis Christian","506004","2021",NA,NA,"-",NA,NA,NA,0
+"4","Jarvis Christian","506004","2020",NA,NA,"-",NA,NA,NA,0
+"5","Jarvis Christian","506004","2019",NA,NA,"-",NA,NA,NA,0
+"6","Jarvis Christian","506004","2018",NA,NA,"-",NA,NA,NA,0
+"7","Jarvis Christian","506004","2017",NA,NA,"-",NA,NA,NA,NA
+"8","Jarvis Christian","506004","2016",NA,NA,"-",NA,NA,NA,NA
+"9","Jarvis Christian","506004","2015",NA,NA,"-",NA,NA,NA,NA
+"10","Jarvis Christian","506004","",NA,NA,"",0,0,0,0

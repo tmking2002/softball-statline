@@ -1,12 +1,14 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Clay Ardeeser","Conference Carolinas","5-37-0",0.119
-"2",2022,"Alex Oliver","Conference Carolinas","9-28-0",0.243
-"3",2021,"Coy Adkins","Conference Carolinas","15-17-0",0.469
-"4",2020,"Coy Adkins","Conference Carolinas","8-8-0",0.5
-"5",2019,"Coy Adkins","Conference Carolinas","21-20-0",0.512
-"6",2018,"Coy Adkins","Conference Carolinas","8-39-0",0.17
-"7",2017,"Becca Staton","Conference Carolinas","9-37-0",0.196
-"8",2016,"Becca Staton","Conference Carolinas","23-31-0",0.426
-"9",2015,"Becca Staton","Conference Carolinas","24-22-0",0.522
-"10",2014,"Anna Ball","Conference Carolinas","19-32-0",0.373
-"11",2024,"Clay Ardeeser","Conference Carolinas","14-26-0",0.35
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southern Wesleyan","30192","2025","Clay Ardeeser","D-II","Conference Carolinas",3,0,0,1
+"2","Southern Wesleyan","30192","2024","Clay Ardeeser","D-II","Conference Carolinas",21,28,0,0.429
+"3","Southern Wesleyan","30192","2023","Clay Ardeeser","D-II","Conference Carolinas",5,37,0,0.119
+"4","Southern Wesleyan","30192","2022","Alex Oliver","D-II","Conference Carolinas",9,28,0,0.243
+"5","Southern Wesleyan","30192","2021","Coy Adkins","D-II","Conference Carolinas",15,17,0,0.469
+"6","Southern Wesleyan","30192","2020","Coy Adkins","D-II","Conference Carolinas",8,8,0,0.5
+"7","Southern Wesleyan","30192","2019","Coy Adkins","D-II","Conference Carolinas",21,20,0,0.512
+"8","Southern Wesleyan","30192","2018","Coy Adkins","D-II","Conference Carolinas",8,39,NA,0.17
+"9","Southern Wesleyan","30192","2017","Becca Staton","D-II","Conference Carolinas",9,37,0,0.196
+"10","Southern Wesleyan","30192","2016","Becca Staton","D-II","Conference Carolinas",23,31,0,0.426
+"11","Southern Wesleyan","30192","2015","Becca Staton","D-II","Conference Carolinas",24,22,0,0.522
+"12","Southern Wesleyan","30192","2014","Anna Ball","","Conference Carolinas",19,32,0,0.373
+"13","Southern Wesleyan","30192","","","","",165,299,0,0.356

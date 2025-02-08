@@ -1,28 +1,30 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tara Wheeler","Gulf South","12-33-0",0.267
-"2",2022,"Jordan Bastain","Gulf South","16-31-0",0.34
-"3",2021,"Jordan Bastain","Gulf South","7-29-0",0.194
-"4",2020,"Jordan Bastain","Gulf South","9-17-0",0.346
-"5",2019,"Jessie Homesley","Gulf South","11-38-0",0.224
-"6",2018,"Jessie Homesley","Gulf South","10-39-0",0.204
-"7",2017,"Mandi Balduf","Gulf South","6-44-0",0.12
-"8",2016,"Mandi Balduf","Gulf South","9-43-0",0.173
-"9",2015,"Mandi Balduf","Gulf South","10-41-0",0.196
-"10",2014,"Paige Wright-Lovett","Gulf South","9-40-0",0.184
-"11",2013,"Paige Wright-Lovett","Gulf South","11-30-0",0.268
-"12",2012,"Kimberly Hayden","Gulf South","14-31-0",0.311
-"13",2011,"Kimberly Hayden","Gulf South","12-30-0",0.286
-"14",2010,"Kimberly Hayden","Gulf South","17-30-0",0.362
-"15",2009,"Donna Crone","Gulf South","20-24-0",0.455
-"16",2008,"Donna Crone","Gulf South","19-28-0",0.404
-"17",2007,"Donna Crone","Gulf South","16-25-0",0.39
-"18",2006,"Donna Crone","Gulf South","21-33-0",0.389
-"19",2005,"Donna Crone","Gulf South","13-29-0",0.31
-"20",2004,"Donna Crone","Gulf South","15-26-0",0.366
-"21",2003,"Donna Crone","Gulf South","14-28-0",0.333
-"22",2002,"Donna Crone","-","20-21-0",0.488
-"23",2001,"Donna Crone","-","11-27-0",0.289
-"24",2000,"Donna Crone","-","8-31-0",0.205
-"25",1999,"Dina Henry","-","9-25-0",0.265
-"26",1997,"","-","0-0-0",NA
-"27",2024,"Tara Wheeler","Gulf South","13-26-0",0.333
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Christian Brothers","1015","2025","Tara Wheeler","D-II","Gulf South",4,1,0,0.8
+"2","Christian Brothers","1015","2024","Tara Wheeler","D-II","Gulf South",18,30,0,0.375
+"3","Christian Brothers","1015","2023","Tara Wheeler","D-II","Gulf South",11,33,0,0.25
+"4","Christian Brothers","1015","2022","Jordan Bastain","D-II","Gulf South",16,31,0,0.34
+"5","Christian Brothers","1015","2021","Jordan Bastain","D-II","Gulf South",7,29,0,0.194
+"6","Christian Brothers","1015","2020","Jordan Bastain","D-II","Gulf South",9,17,0,0.346
+"7","Christian Brothers","1015","2019","Jessie Homesley","D-II","Gulf South",11,38,0,0.224
+"8","Christian Brothers","1015","2018","Jessie Homesley","D-II","Gulf South",10,39,NA,0.204
+"9","Christian Brothers","1015","2017","Mandi Balduf","D-II","Gulf South",6,44,0,0.12
+"10","Christian Brothers","1015","2016","Mandi Balduf","D-II","Gulf South",9,43,0,0.173
+"11","Christian Brothers","1015","2015","Mandi Balduf","D-II","Gulf South",10,41,0,0.196
+"12","Christian Brothers","1015","2014","Paige Wright-Lovett","D-II","Gulf South",9,40,0,0.184
+"13","Christian Brothers","1015","2013","Paige Wright-Lovett","D-II","Gulf South",11,30,0,0.268
+"14","Christian Brothers","1015","2012","Kimberly Hayden","D-II","Gulf South",14,31,0,0.311
+"15","Christian Brothers","1015","2011","Kimberly Hayden","D-II","Gulf South",12,30,0,0.286
+"16","Christian Brothers","1015","2010","Kimberly Hayden","D-II","Gulf South",17,30,0,0.362
+"17","Christian Brothers","1015","2009","Donna Crone","D-II","Gulf South",20,24,0,0.455
+"18","Christian Brothers","1015","2008","Donna Crone","D-II","Gulf South",19,28,0,0.404
+"19","Christian Brothers","1015","2007","Donna Crone","D-II","Gulf South",16,25,0,0.39
+"20","Christian Brothers","1015","2006","Donna Crone","D-II","Gulf South",21,33,0,0.389
+"21","Christian Brothers","1015","2005","Donna Crone","D-II","Gulf South",13,29,0,0.31
+"22","Christian Brothers","1015","2004","Donna Crone","D-II","Gulf South",15,26,0,0.366
+"23","Christian Brothers","1015","2003","Donna Crone","D-II","Gulf South",14,28,0,0.333
+"24","Christian Brothers","1015","2002","Donna Crone","","-",20,21,NA,0.488
+"25","Christian Brothers","1015","2001","Donna Crone","","-",11,27,NA,0.289
+"26","Christian Brothers","1015","1900","Donna Crone","","-",8,31,NA,0.205
+"27","Christian Brothers","1015","1999","Dina Henry","","-",9,25,0,0.265
+"28","Christian Brothers","1015","1997","","","-",NA,NA,NA,NA
+"29","Christian Brothers","1015","","","","",340,804,0,0.297

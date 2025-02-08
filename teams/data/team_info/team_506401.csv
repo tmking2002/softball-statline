@@ -1,5 +1,6 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","Laura North","-","NA-NA-NA",0
-"2","2017","","-","0-0-0",NA
-"3","2016","","-","0-0-0",NA
-"4","2013","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","William Penn","506401","2024","Laura North",NA,"-",NA,NA,NA,0
+"2","William Penn","506401","2017","",NA,"-",NA,NA,NA,NA
+"3","William Penn","506401","2016","",NA,"-",NA,NA,NA,NA
+"4","William Penn","506401","2013","",NA,"-",NA,NA,NA,NA
+"5","William Penn","506401","","",NA,"",0,0,0,0

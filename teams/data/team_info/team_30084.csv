@@ -1,31 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Van Zanic","PAC","23-17-0",0.575
-"2",2022,"Van Zanic","PAC","19-16-0",0.543
-"3",2021,"Van Zanic","PAC","36-5-0",0.878
-"4",2020,"Van Zanic","PAC","3-5-0",0.375
-"5",2019,"Van Zanic","PAC","19-19-0",0.5
-"6",2018,"Van Zanic","PAC","14-18-0",0.438
-"7",2017,"Van Zanic","PAC","19-16-0",0.543
-"8",2016,"Van Zanic","PAC","17-19-0",0.472
-"9",2015,"Van Zanic","PAC","19-19-0",0.5
-"10",2014,"Van Zanic","PAC","23-16-0",0.59
-"11",2013,"Van Zanic","PAC","23-20-0",0.535
-"12",2012,"Van Zanic","PAC","30-19-0",0.612
-"13",2011,"Van Zanic","PAC","27-13-0",0.675
-"14",2010,"Van Zanic","PAC","23-17-0",0.575
-"15",2009,"Van Zanic","PAC","25-15-0",0.625
-"16",2008,"Van Zanic","PAC","29-13-0",0.69
-"17",2007,"Van Zanic","-","33-22-0",0.6
-"18",2006,"Van Zanic","-","31-23-0",0.574
-"19",2005,"Van Zanic","-","0-0-0",NA
-"20",2004,"Van Zanic","-","0-0-0",NA
-"21",2003,"Van Zanic","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Chelle Fuss","-","0-0-0",NA
-"25",1999,"Chelle Fuss","-","0-0-0",NA
-"26",1998,"Chelle Fuss","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"Chelle Fuss","-","0-0-0",NA
-"29",1981,"","-","0-0-0",NA
-"30",2024,"Van Zanic","PAC","27-20-0",0.574
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Geneva","30084","2025","Van Zanic","D-III","PAC",0,0,0,0
+"2","Geneva","30084","2024","Van Zanic","D-III","PAC",30,20,0,0.6
+"3","Geneva","30084","2023","Van Zanic","D-III","PAC",23,17,0,0.575
+"4","Geneva","30084","2022","Van Zanic","D-III","PAC",19,16,0,0.543
+"5","Geneva","30084","2021","Van Zanic","D-III","PAC",36,5,0,0.878
+"6","Geneva","30084","2020","Van Zanic","D-III","PAC",3,5,0,0.375
+"7","Geneva","30084","2019","Van Zanic","D-III","PAC",19,19,0,0.5
+"8","Geneva","30084","2018","Van Zanic","D-III","PAC",14,18,NA,0.438
+"9","Geneva","30084","2017","Van Zanic","D-III","PAC",19,16,0,0.543
+"10","Geneva","30084","2016","Van Zanic","D-III","PAC",17,19,0,0.472
+"11","Geneva","30084","2015","Van Zanic","D-III","PAC",19,19,0,0.5
+"12","Geneva","30084","2014","Van Zanic","D-III","PAC",23,16,0,0.59
+"13","Geneva","30084","2013","Van Zanic","D-III","PAC",23,20,0,0.535
+"14","Geneva","30084","2012","Van Zanic","D-III","PAC",30,19,0,0.612
+"15","Geneva","30084","2011","Van Zanic","D-III","PAC",27,13,0,0.675
+"16","Geneva","30084","2010","Van Zanic","D-III","PAC",23,17,0,0.575
+"17","Geneva","30084","2009","Van Zanic","D-III","PAC",25,15,0,0.625
+"18","Geneva","30084","2008","Van Zanic","D-III","PAC",29,13,0,0.69
+"19","Geneva","30084","2007","Van Zanic","","-",33,22,0,0.6
+"20","Geneva","30084","2006","Van Zanic","","-",31,23,0,0.574
+"21","Geneva","30084","2005","Van Zanic","","-",NA,NA,NA,NA
+"22","Geneva","30084","2004","Van Zanic","","-",NA,NA,NA,NA
+"23","Geneva","30084","2003","Van Zanic","","-",NA,NA,NA,NA
+"24","Geneva","30084","2002","","","-",NA,NA,NA,NA
+"25","Geneva","30084","2001","","","-",NA,NA,NA,NA
+"26","Geneva","30084","1900","Chelle Fuss","","-",NA,NA,NA,NA
+"27","Geneva","30084","1999","Chelle Fuss","","-",NA,NA,NA,NA
+"28","Geneva","30084","1998","Chelle Fuss","","-",NA,NA,NA,NA
+"29","Geneva","30084","1997","","","-",NA,NA,NA,NA
+"30","Geneva","30084","1996","Chelle Fuss","","-",NA,NA,NA,NA
+"31","Geneva","30084","1981","","","-",NA,NA,NA,NA
+"32","Geneva","30084","","","","",443,312,0,0.587

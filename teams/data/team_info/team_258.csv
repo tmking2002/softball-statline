@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brooke Kalman","Centennial","24-14-1",0.632
-"2",2022,"Annette Hunt-Shepard","Centennial","19-18-0",0.514
-"3",2021,"Annette Hunt-Shepard","Centennial","13-5-0",0.722
-"4",2020,"Annette Hunt-Shepard","Centennial","8-2-0",0.8
-"5",2019,"Annette Hunt-Shepard","Centennial","17-19-0",0.472
-"6",2018,"Annette Hunt-Shepard","Centennial","25-16-0",0.61
-"7",2017,"Annette Hunt-Shepard","Centennial","28-14-1",0.667
-"8",2016,"Annette Hunt-Shepard","Centennial","26-13-0",0.667
-"9",2015,"Annette Hunt-Shepard","Centennial","30-14-0",0.682
-"10",2014,"Annette Hunt-Shepard","Centennial","20-16-0",0.556
-"11",2013,"Ashley Mowery","Centennial","17-21-0",0.447
-"12",2012,"Samantha Abrams","Centennial","21-17-0",0.553
-"13",2011,"Samantha Abrams","Centennial","19-17-0",0.528
-"14",2010,"Samantha Abrams","Centennial","21-16-1",0.568
-"15",2009,"Samantha Abrams","Centennial","27-10-1",0.73
-"16",2008,"Samantha Abrams","Centennial","13-18-0",0.419
-"17",2007,"Mike Kirkpatrick","Centennial","25-15-0",0.625
-"18",2006,"Mike Kirkpatrick","Centennial","25-14-0",0.641
-"19",2005,"Mike Kirkpatrick","Centennial","31-10-1",0.756
-"20",2004,"Mike Kirkpatrick","Centennial","22-13-0",0.629
-"21",2003,"Mike Kirkpatrick","Centennial","26-11-0",0.703
-"22",2002,"Mike Kirkpatrick","Centennial","23-13-0",0.639
-"23",2001,"Mike Kirkpatrick","-","23-10-0",0.697
-"24",2000,"Mike Kirkpatrick","-","20-5-0",0.8
-"25",1999,"Mike Kirkpatrick","-","26-13-0",0.667
-"26",1998,"Mike Kirkpatrick","-","24-10-0",0.706
-"27",1997,"Mike Kirkpatrick","-","24-9-0",0.727
-"28",1996,"Mike Kirkpatrick","-","14-8-0",0.636
-"29",1995,"Mike Kirkpatrick","-","11-14-0",0.44
-"30",1994,"Mike Kirkpatrick","-","21-4-0",0.84
-"31",1993,"Mike Kirkpatrick","-","11-5-0",0.688
-"32",1992,"Mike Kirkpatrick","-","15-6-0",0.714
-"33",1991,"Mike Kirkpatrick","-","13-4-0",0.765
-"34",1990,"Mike Kirkpatrick","-","4-14-0",0.222
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Brooke Kalman","Centennial","28-13-0",0.683
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Gettysburg","258","2025","Brooke Kalman","D-III","Centennial",0,0,0,0
+"2","Gettysburg","258","2024","Brooke Kalman","D-III","Centennial",28,13,0,0.683
+"3","Gettysburg","258","2023","Brooke Kalman","D-III","Centennial",24,14,1,0.628
+"4","Gettysburg","258","2022","Annette Hunt-Shepard","D-III","Centennial",19,18,0,0.514
+"5","Gettysburg","258","2021","Annette Hunt-Shepard","D-III","Centennial",13,5,0,0.722
+"6","Gettysburg","258","2020","Annette Hunt-Shepard","D-III","Centennial",8,2,0,0.8
+"7","Gettysburg","258","2019","Annette Hunt-Shepard","D-III","Centennial",17,19,0,0.472
+"8","Gettysburg","258","2018","Annette Hunt-Shepard","D-III","Centennial",25,16,NA,0.61
+"9","Gettysburg","258","2017","Annette Hunt-Shepard","D-III","Centennial",28,14,1,0.663
+"10","Gettysburg","258","2016","Annette Hunt-Shepard","D-III","Centennial",26,13,0,0.667
+"11","Gettysburg","258","2015","Annette Hunt-Shepard","D-III","Centennial",30,14,0,0.682
+"12","Gettysburg","258","2014","Annette Hunt-Shepard","D-III","Centennial",20,16,0,0.556
+"13","Gettysburg","258","2013","Ashley Mowery","D-III","Centennial",17,21,0,0.447
+"14","Gettysburg","258","2012","Samantha Abrams","D-III","Centennial",21,17,0,0.553
+"15","Gettysburg","258","2011","Samantha Abrams","D-III","Centennial",19,17,0,0.528
+"16","Gettysburg","258","2010","Samantha Abrams","D-III","Centennial",21,16,1,0.566
+"17","Gettysburg","258","2009","Samantha Abrams","D-III","Centennial",27,10,1,0.724
+"18","Gettysburg","258","2008","Samantha Abrams","D-III","Centennial",13,18,0,0.419
+"19","Gettysburg","258","2007","Mike Kirkpatrick","D-III","Centennial",25,15,0,0.625
+"20","Gettysburg","258","2006","Mike Kirkpatrick","D-III","Centennial",25,14,0,0.641
+"21","Gettysburg","258","2005","Mike Kirkpatrick","D-III","Centennial",31,10,1,0.75
+"22","Gettysburg","258","2004","Mike Kirkpatrick","D-III","Centennial",22,13,0,0.629
+"23","Gettysburg","258","2003","Mike Kirkpatrick","D-III","Centennial",26,11,0,0.703
+"24","Gettysburg","258","2002","Mike Kirkpatrick","D-III","Centennial",23,13,0,0.639
+"25","Gettysburg","258","2001","Mike Kirkpatrick","D-III","-",23,10,NA,0.697
+"26","Gettysburg","258","1900","Mike Kirkpatrick","D-III","-",20,5,NA,0.8
+"27","Gettysburg","258","1999","Mike Kirkpatrick","D-III","-",26,13,NA,0.667
+"28","Gettysburg","258","1998","Mike Kirkpatrick","D-III","-",24,10,NA,0.706
+"29","Gettysburg","258","1997","Mike Kirkpatrick","D-III","-",24,9,NA,0.727
+"30","Gettysburg","258","1996","Mike Kirkpatrick","D-III","-",14,8,NA,0.636
+"31","Gettysburg","258","1995","Mike Kirkpatrick","D-III","-",11,14,NA,0.44
+"32","Gettysburg","258","1994","Mike Kirkpatrick","D-III","-",21,4,NA,0.84
+"33","Gettysburg","258","1993","Mike Kirkpatrick","D-III","-",11,5,NA,0.688
+"34","Gettysburg","258","1992","Mike Kirkpatrick","D-III","-",15,6,NA,0.714
+"35","Gettysburg","258","1991","Mike Kirkpatrick","D-III","-",13,4,NA,0.765
+"36","Gettysburg","258","1990","Mike Kirkpatrick","D-III","-",4,14,NA,0.222
+"37","Gettysburg","258","1989","","D-III","-",NA,NA,NA,NA
+"38","Gettysburg","258","1988","","D-III","-",NA,NA,NA,NA
+"39","Gettysburg","258","1987","","D-III","-",NA,NA,NA,NA
+"40","Gettysburg","258","1986","","D-III","-",NA,NA,NA,NA
+"41","Gettysburg","258","1985","","D-III","-",NA,NA,NA,NA
+"42","Gettysburg","258","1984","","D-III","-",NA,NA,NA,NA
+"43","Gettysburg","258","1983","","D-III","-",NA,NA,NA,NA
+"44","Gettysburg","258","1982","","D-III","-",NA,NA,NA,NA
+"45","Gettysburg","258","","","","",714,421,5,0.629

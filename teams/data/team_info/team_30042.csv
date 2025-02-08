@@ -1,21 +1,23 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Erin Miller","NECC","24-19-0",0.558
-"2",2022,"Erin Miller","NECC","19-21-0",0.475
-"3",2021,"Erin Miller","NECC","8-17-0",0.32
-"4",2020,"Erin Miller","NECC","2-6-0",0.25
-"5",2019,"Heather Rush","NECC","11-22-0",0.333
-"6",2018,"Heather Rush","NECC","14-21-0",0.4
-"7",2017,"Heather Rush","NECC","11-19-0",0.367
-"8",2016,"Allison Wigand","NECC","11-22-0",0.333
-"9",2015,"Allison Wigand","NECC","17-15-0",0.531
-"10",2014,"Jillian Rispoli","NECC","19-19-0",0.5
-"11",2013,"Jillian Rispoli","NECC","11-24-0",0.314
-"12",2012,"Jillian Rispoli","NECC","21-15-0",0.583
-"13",2011,"Bernadette Macca","NECC","15-19-0",0.441
-"14",2010,"Bernadette Macca","NECC","22-14-0",0.611
-"15",2009,"","NECC","16-18-1",0.471
-"16",2008,"","-","14-19-0",0.424
-"17",2007,"","-","4-11-0",0.267
-"18",2006,"","-","0-0-0",NA
-"19",1981,"","-","0-0-0",NA
-"20",2024,"Samantha Hynes","Great Northeast","16-20-0",0.444
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mitchell","30042","2025","Kaitlin Thibodeau-Corey","D-III","Great Northeast",0,0,0,0
+"2","Mitchell","30042","2024","Samantha Hynes","D-III","Great Northeast",16,20,0,0.444
+"3","Mitchell","30042","2023","Erin Miller","D-III","NECC",24,19,0,0.558
+"4","Mitchell","30042","2022","Erin Miller","D-III","NECC",19,21,0,0.475
+"5","Mitchell","30042","2021","Erin Miller","D-III","NECC",8,17,0,0.32
+"6","Mitchell","30042","2020","Erin Miller","D-III","NECC",2,6,0,0.25
+"7","Mitchell","30042","2019","Heather Rush","D-III","NECC",11,22,0,0.333
+"8","Mitchell","30042","2018","Heather Rush","D-III","NECC",14,21,NA,0.4
+"9","Mitchell","30042","2017","Heather Rush","D-III","NECC",11,19,0,0.367
+"10","Mitchell","30042","2016","Allison Wigand","D-III","NECC",11,22,0,0.333
+"11","Mitchell","30042","2015","Allison Wigand","D-III","NECC",17,15,0,0.531
+"12","Mitchell","30042","2014","Jillian Rispoli","D-III","NECC",19,19,0,0.5
+"13","Mitchell","30042","2013","Jillian Rispoli","D-III","NECC",11,24,0,0.314
+"14","Mitchell","30042","2012","Jillian Rispoli","D-III","NECC",21,15,0,0.583
+"15","Mitchell","30042","2011","Bernadette Macca","D-III","NECC",15,19,0,0.441
+"16","Mitchell","30042","2010","Bernadette Macca","D-III","NECC",22,14,0,0.611
+"17","Mitchell","30042","2009","","D-III","NECC",16,18,1,0.471
+"18","Mitchell","30042","2008","","D-III","-",14,19,0,0.424
+"19","Mitchell","30042","2007","","D-III","-",4,11,0,0.267
+"20","Mitchell","30042","2006","","","-",NA,NA,NA,NA
+"21","Mitchell","30042","1981","","","-",NA,NA,NA,NA
+"22","Mitchell","30042","","","","",255,321,1,0.443

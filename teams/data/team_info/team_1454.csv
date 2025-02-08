@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bob Castle","NWC","23-19-0",0.548
-"2",2022,"Bob Castle","NWC","25-17-0",0.595
-"3",2021,"Bob Castle","NWC","15-23-0",0.395
-"4",2020,"Bob Castle","NWC","4-9-0",0.308
-"5",2019,"Cristal Brown","NWC","31-11-0",0.738
-"6",2018,"Cristal Brown","NWC","24-18-0",0.571
-"7",2017,"Cristal Brown","NWC","37-11-0",0.771
-"8",2016,"Cristal Brown","NWC","29-15-0",0.659
-"9",2015,"Cristal Brown","NWC","31-12-0",0.721
-"10",2014,"Cristal Brown","NWC","27-16-0",0.628
-"11",2013,"Cristal Brown","NWC","23-20-0",0.535
-"12",2012,"Cristal Brown","NWC","19-21-0",0.475
-"13",2011,"Joe Abraham","NWC","20-19-0",0.513
-"14",2010,"Joe Abraham","NWC","18-18-0",0.5
-"15",2009,"Joe Abraham","NWC","15-21-0",0.417
-"16",2008,"Clarence ""Fuzzy"" Buckenberger","NWC","16-21-0",0.432
-"17",2007,"Clarence ""Fuzzy"" Buckenberger","NWC","30-6-0",0.833
-"18",2006,"Clarence ""Fuzzy"" Buckenberger","NWC","26-14-0",0.65
-"19",2005,"Teresa Hansen-Lahar","NWC","23-14-0",0.622
-"20",2004,"Teresa Hansen-Lahar","NWC","29-8-0",0.784
-"21",2003,"Teresa Hansen-Lahar","-","0-0-0",NA
-"22",2002,"Teresa Hansen-Lahar","NWC","5-29-0",0.147
-"23",2001,"Teresa Hansen-Lahar","-","7-28-0",0.2
-"24",2000,"Teresa Hansen-Lahar","-","6-27-0",0.182
-"25",1999,"Gary Blake","-","9-26-0",0.257
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Bob Castle","NWC","14-26-0",0.35
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Whitworth","1454","2025","Bob Castle","D-III","NWC",0,0,0,0
+"2","Whitworth","1454","2024","Bob Castle","D-III","NWC",15,25,0,0.375
+"3","Whitworth","1454","2023","Bob Castle","D-III","NWC",23,19,0,0.548
+"4","Whitworth","1454","2022","Bob Castle","D-III","NWC",25,17,0,0.595
+"5","Whitworth","1454","2021","Bob Castle","D-III","NWC",15,23,0,0.395
+"6","Whitworth","1454","2020","Bob Castle","D-III","NWC",4,9,0,0.308
+"7","Whitworth","1454","2019","Cristal Brown","D-III","NWC",31,11,0,0.738
+"8","Whitworth","1454","2018","Cristal Brown","D-III","NWC",24,18,NA,0.571
+"9","Whitworth","1454","2017","Cristal Brown","D-III","NWC",37,11,0,0.771
+"10","Whitworth","1454","2016","Cristal Brown","D-III","NWC",29,15,0,0.659
+"11","Whitworth","1454","2015","Cristal Brown","D-III","NWC",31,12,0,0.721
+"12","Whitworth","1454","2014","Cristal Brown","D-III","NWC",27,16,0,0.628
+"13","Whitworth","1454","2013","Cristal Brown","D-III","NWC",23,20,0,0.535
+"14","Whitworth","1454","2012","Cristal Brown","D-III","NWC",19,21,0,0.475
+"15","Whitworth","1454","2011","Joe Abraham","D-III","NWC",20,19,0,0.513
+"16","Whitworth","1454","2010","Joe Abraham","D-III","NWC",18,18,0,0.5
+"17","Whitworth","1454","2009","Joe Abraham","D-III","NWC",15,21,0,0.417
+"18","Whitworth","1454","2008","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",16,21,0,0.432
+"19","Whitworth","1454","2007","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",30,6,0,0.833
+"20","Whitworth","1454","2006","Clarence ""Fuzzy"" Buckenberger","D-III","NWC",26,14,0,0.65
+"21","Whitworth","1454","2005","Teresa Hansen-Lahar","D-III","NWC",23,14,0,0.622
+"22","Whitworth","1454","2004","Teresa Hansen-Lahar","D-III","NWC",29,8,0,0.784
+"23","Whitworth","1454","2003","Teresa Hansen-Lahar","D-III","-",NA,NA,NA,NA
+"24","Whitworth","1454","2002","Teresa Hansen-Lahar","D-III","NWC",5,29,0,0.147
+"25","Whitworth","1454","2001","Teresa Hansen-Lahar","D-III","-",7,28,NA,0.2
+"26","Whitworth","1454","1900","Teresa Hansen-Lahar","D-III","-",6,27,NA,0.182
+"27","Whitworth","1454","1999","Gary Blake","D-III","-",9,26,0,0.257
+"28","Whitworth","1454","1998","","D-III","-",NA,NA,NA,NA
+"29","Whitworth","1454","1997","","D-III","-",NA,NA,NA,NA
+"30","Whitworth","1454","1996","","D-III","-",NA,NA,NA,NA
+"31","Whitworth","1454","1995","","D-III","-",NA,NA,NA,NA
+"32","Whitworth","1454","1994","","D-III","-",NA,NA,NA,NA
+"33","Whitworth","1454","1993","","D-III","-",NA,NA,NA,NA
+"34","Whitworth","1454","1992","","D-III","-",NA,NA,NA,NA
+"35","Whitworth","1454","1991","","D-III","-",NA,NA,NA,NA
+"36","Whitworth","1454","1990","","D-III","-",NA,NA,NA,NA
+"37","Whitworth","1454","","","","",507,448,0,0.531

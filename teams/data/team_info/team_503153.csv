@@ -1,9 +1,11 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2017",NA,"-","0-0-0",NA
-"3","2016",NA,"-","0-0-0",NA
-"4","2015",NA,"-","0-0-0",NA
-"5","2014",NA,"-","0-0-0",NA
-"6","2013",NA,"-","0-0-0",NA
-"7","2012",NA,"-","0-0-0",NA
-"8","2007",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mid-Amer. Christian","503153","2024",NA,NA,"-",NA,NA,NA,0
+"2","Mid-Amer. Christian","503153","2023",NA,NA,"-",NA,NA,NA,0
+"3","Mid-Amer. Christian","503153","2017",NA,NA,"-",NA,NA,NA,NA
+"4","Mid-Amer. Christian","503153","2016",NA,NA,"-",NA,NA,NA,NA
+"5","Mid-Amer. Christian","503153","2015",NA,NA,"-",NA,NA,NA,NA
+"6","Mid-Amer. Christian","503153","2014",NA,NA,"-",NA,NA,NA,NA
+"7","Mid-Amer. Christian","503153","2013",NA,NA,"-",NA,NA,NA,NA
+"8","Mid-Amer. Christian","503153","2012",NA,NA,"-",NA,NA,NA,NA
+"9","Mid-Amer. Christian","503153","2007",NA,NA,"-",NA,NA,NA,NA
+"10","Mid-Amer. Christian","503153","",NA,NA,"",0,0,0,0

@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Natalia Ardagna","Little East","20-21-0",0.488
-"2",2022,"Natalia Ardagna","Little East","21-19-0",0.525
-"3",2021,"Natalia Ardagna","Little East","3-12-1",0.2
-"4",2020,"Natalia Ardagna","Little East","0-0-0",NA
-"5",2019,"Natalia Ardagna","Little East","23-20-0",0.535
-"6",2018,"Natalia Ardagna","Little East","17-25-0",0.405
-"7",2017,"Natalia Ardagna","Little East","30-13-0",0.698
-"8",2016,"Natalia Ardagna","Little East","22-19-0",0.537
-"9",2015,"Natalia Ardagna","Little East","6-24-0",0.2
-"10",2014,"Natalia Ardagna","Little East","12-25-0",0.324
-"11",2013,"Natalia Ardagna","Little East","15-27-0",0.357
-"12",2012,"Natalia Ardagna","Little East","17-21-0",0.447
-"13",2011,"Natalia Ardagna","Little East","24-15-0",0.615
-"14",2010,"Natalia Ardagna","Little East","21-18-0",0.538
-"15",2009,"Natalia Ardagna","Little East","11-21-0",0.344
-"16",2008,"Natalia Ardagna","Little East","7-28-0",0.2
-"17",2007,"Amy Zombeck","Little East","7-17-0",0.292
-"18",2006,"Amy Zombeck","Little East","12-25-1",0.324
-"19",2005,"Amy Zombeck","Little East","6-24-2",0.2
-"20",2004,"","Little East","6-24-0",0.2
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Janet Maguire","-","9-21-0",0.3
-"25",1999,"Lisa McGuirk","-","0-28-0",0
-"26",1998,"Lisa McGuirk","-","1-21-0",0.045
-"27",1997,"Kerri Quinn","-","2-16-0",0.111
-"28",1996,"Kerri Quinn","-","5-12-0",0.294
-"29",1995,"Christine McBride","-","10-8-0",0.556
-"30",1994,"Christine McBride","-","7-15-0",0.318
-"31",1993,"Dana Brown","-","8-10-0",0.444
-"32",1992,"Dana Brown","-","4-15-0",0.211
-"33",1991,"Dana Brown","-","5-14-0",0.263
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1983,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",2024,"Natalia Ardagna","Little East","28-12-0",0.7
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UMass Boston","401","2025","Natalia Ardagna","D-III","Little East",0,0,0,0
+"2","UMass Boston","401","2024","Natalia Ardagna","D-III","Little East",28,12,0,0.7
+"3","UMass Boston","401","2023","Natalia Ardagna","D-III","Little East",20,21,0,0.488
+"4","UMass Boston","401","2022","Natalia Ardagna","D-III","Little East",21,19,0,0.525
+"5","UMass Boston","401","2021","Natalia Ardagna","D-III","Little East",3,12,1,0.219
+"6","UMass Boston","401","2020","Natalia Ardagna","D-III","Little East",NA,NA,NA,0
+"7","UMass Boston","401","2019","Natalia Ardagna","D-III","Little East",23,20,0,0.535
+"8","UMass Boston","401","2018","Natalia Ardagna","D-III","Little East",17,25,NA,0.405
+"9","UMass Boston","401","2017","Natalia Ardagna","D-III","Little East",30,13,0,0.698
+"10","UMass Boston","401","2016","Natalia Ardagna","D-III","Little East",22,19,0,0.537
+"11","UMass Boston","401","2015","Natalia Ardagna","D-III","Little East",6,24,0,0.2
+"12","UMass Boston","401","2014","Natalia Ardagna","D-III","Little East",12,25,0,0.324
+"13","UMass Boston","401","2013","Natalia Ardagna","D-III","Little East",15,27,0,0.357
+"14","UMass Boston","401","2012","Natalia Ardagna","D-III","Little East",17,21,0,0.447
+"15","UMass Boston","401","2011","Natalia Ardagna","D-III","Little East",24,15,0,0.615
+"16","UMass Boston","401","2010","Natalia Ardagna","D-III","Little East",21,18,0,0.538
+"17","UMass Boston","401","2009","Natalia Ardagna","D-III","Little East",11,21,0,0.344
+"18","UMass Boston","401","2008","Natalia Ardagna","D-III","Little East",7,28,0,0.2
+"19","UMass Boston","401","2007","Amy Zombeck","D-III","Little East",7,17,0,0.292
+"20","UMass Boston","401","2006","Amy Zombeck","D-III","Little East",12,25,1,0.329
+"21","UMass Boston","401","2005","Amy Zombeck","D-III","Little East",6,24,2,0.219
+"22","UMass Boston","401","2004","","D-III","Little East",6,24,0,0.2
+"23","UMass Boston","401","2003","","D-III","-",NA,NA,NA,NA
+"24","UMass Boston","401","2002","","D-III","-",NA,NA,NA,NA
+"25","UMass Boston","401","2001","","D-III","-",NA,NA,NA,NA
+"26","UMass Boston","401","1900","Janet Maguire","D-III","-",9,21,NA,0.3
+"27","UMass Boston","401","1999","Lisa McGuirk","D-III","-",0,28,NA,0
+"28","UMass Boston","401","1998","Lisa McGuirk","D-III","-",1,21,NA,0.045
+"29","UMass Boston","401","1997","Kerri Quinn","D-III","-",2,16,NA,0.111
+"30","UMass Boston","401","1996","Kerri Quinn","D-III","-",5,12,NA,0.294
+"31","UMass Boston","401","1995","Christine McBride","D-III","-",10,8,NA,0.556
+"32","UMass Boston","401","1994","Christine McBride","D-III","-",7,15,NA,0.318
+"33","UMass Boston","401","1993","Dana Brown","D-III","-",8,10,NA,0.444
+"34","UMass Boston","401","1992","Dana Brown","D-III","-",4,15,NA,0.211
+"35","UMass Boston","401","1991","Dana Brown","D-III","-",5,14,NA,0.263
+"36","UMass Boston","401","1990","","D-III","-",NA,NA,NA,NA
+"37","UMass Boston","401","1989","","D-III","-",NA,NA,NA,NA
+"38","UMass Boston","401","1988","","D-III","-",NA,NA,NA,NA
+"39","UMass Boston","401","1987","","D-III","-",NA,NA,NA,NA
+"40","UMass Boston","401","1986","","D-III","-",NA,NA,NA,NA
+"41","UMass Boston","401","1983","","D-III","-",NA,NA,NA,NA
+"42","UMass Boston","401","1982","","D-III","-",NA,NA,NA,NA
+"43","UMass Boston","401","","","","",359,570,4,0.387

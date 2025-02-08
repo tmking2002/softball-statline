@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kristi Bredbenner","AAC","44-12-0",0.786
-"2",2022,"Kristi Bredbenner","AAC","34-18-0",0.654
-"3",2021,"Kristi Bredbenner","AAC","41-13-1",0.759
-"4",2020,"Kristi Bredbenner","AAC","11-16-0",0.407
-"5",2019,"Kristi Bredbenner","AAC","32-24-0",0.571
-"6",2018,"Kristi Bredbenner","AAC","32-23-0",0.582
-"7",2017,"Kristi Bredbenner","MVC","32-20-0",0.615
-"8",2016,"Kristi Bredbenner","MVC","36-21-0",0.632
-"9",2015,"Kristi Bredbenner","MVC","34-23-0",0.596
-"10",2014,"Kristi Bredbenner","MVC","34-21-0",0.618
-"11",2013,"Kristi Bredbenner","MVC","24-47-0",0.338
-"12",2012,"Kristi Bredbenner","MVC","15-40-0",0.273
-"13",2011,"Mike Perniciaro","MVC","20-37-0",0.351
-"14",2010,"Mike Perniciaro","MVC","22-31-0",0.415
-"15",2009,"Mike Perniciaro","MVC","21-32-0",0.396
-"16",2008,"Mike Perniciaro","MVC","33-28-0",0.541
-"17",2007,"Mike Perniciaro","MVC","37-28-0",0.569
-"18",2006,"Mike Perniciaro","MVC","35-23-0",0.603
-"19",2005,"Tim Walton","MVC","46-18-0",0.719
-"20",2004,"Tim Walton","MVC","38-26-0",0.594
-"21",2003,"Tim Walton","MVC","39-20-0",0.661
-"22",2002,"Judy Favor","MVC","20-34-0",0.37
-"23",2001,"Judy Favor","MVC","23-30-0",0.434
-"24",2000,"Judy Favor","MVC","17-37-0",0.315
-"25",1999,"Jim Maynard","MVC","21-38-0",0.356
-"26",1998,"Jim Maynard","-","30-32-0",0.484
-"27",1997,"Jim Maynard","MVC","18-37-0",0.327
-"28",1996,"Jim Maynard","-","31-31-0",0.5
-"29",1995,"Jim Maynard","-","33-21-0",0.611
-"30",1994,"Jim Maynard","-","31-24-0",0.564
-"31",1993,"Jim Maynard","-","39-18-0",0.684
-"32",1992,"Jim Maynard","-","26-32-0",0.448
-"33",1991,"Jim Maynard","-","26-23-1",0.531
-"34",1990,"Jim Maynard","-","23-42-0",0.354
-"35",1989,"Jim Maynard","-","35-31-0",0.53
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Kristi Bredbenner","AAC","28-22-0",0.56
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wichita St.","782","2025","Kristi Bredbenner","D-I","The American",1,0,0,1
+"2","Wichita St.","782","2024","Kristi Bredbenner","D-I","The American",28,22,0,0.56
+"3","Wichita St.","782","2023","Kristi Bredbenner","D-I","The American",44,12,0,0.786
+"4","Wichita St.","782","2022","Kristi Bredbenner","D-I","The American",34,18,0,0.654
+"5","Wichita St.","782","2021","Kristi Bredbenner","D-I","The American",41,13,1,0.755
+"6","Wichita St.","782","2020","Kristi Bredbenner","D-I","The American",11,16,0,0.407
+"7","Wichita St.","782","2019","Kristi Bredbenner","D-I","The American",32,24,0,0.571
+"8","Wichita St.","782","2018","Kristi Bredbenner","D-I","The American",32,23,0,0.582
+"9","Wichita St.","782","2017","Kristi Bredbenner","D-I","MVC",32,20,0,0.615
+"10","Wichita St.","782","2016","Kristi Bredbenner","D-I","MVC",36,21,0,0.632
+"11","Wichita St.","782","2015","Kristi Bredbenner","D-I","MVC",41,28,0,0.594
+"12","Wichita St.","782","2014","Kristi Bredbenner","D-I","MVC",34,21,0,0.618
+"13","Wichita St.","782","2013","Kristi Bredbenner","D-I","MVC",24,47,0,0.338
+"14","Wichita St.","782","2012","Kristi Bredbenner","D-I","MVC",15,40,0,0.273
+"15","Wichita St.","782","2011","Mike Perniciaro","D-I","MVC",20,37,0,0.351
+"16","Wichita St.","782","2010","Mike Perniciaro","D-I","MVC",22,31,0,0.415
+"17","Wichita St.","782","2009","Mike Perniciaro","D-I","MVC",21,32,0,0.396
+"18","Wichita St.","782","2008","Mike Perniciaro","D-I","MVC",33,28,0,0.541
+"19","Wichita St.","782","2007","Mike Perniciaro","D-I","MVC",37,28,0,0.569
+"20","Wichita St.","782","2006","Mike Perniciaro","D-I","MVC",35,23,0,0.603
+"21","Wichita St.","782","2005","Tim Walton","D-I","MVC",46,18,0,0.719
+"22","Wichita St.","782","2004","Tim Walton","D-I","MVC",38,26,0,0.594
+"23","Wichita St.","782","2003","Tim Walton","D-I","MVC",39,20,0,0.661
+"24","Wichita St.","782","2002","Judy Favor","D-I","MVC",20,34,0,0.37
+"25","Wichita St.","782","2001","Judy Favor","D-I","MVC",23,30,0,0.434
+"26","Wichita St.","782","1900","Judy Favor","D-I","MVC",17,37,0,0.315
+"27","Wichita St.","782","1999","Jim Maynard","D-I","MVC",21,38,0,0.356
+"28","Wichita St.","782","1998","Jim Maynard","D-I","-",30,32,NA,0.484
+"29","Wichita St.","782","1997","Jim Maynard","D-I","MVC",18,37,0,0.327
+"30","Wichita St.","782","1996","Jim Maynard","D-I","-",31,31,NA,0.5
+"31","Wichita St.","782","1995","Jim Maynard","D-I","-",33,21,NA,0.611
+"32","Wichita St.","782","1994","Jim Maynard","D-I","-",31,24,NA,0.564
+"33","Wichita St.","782","1993","Jim Maynard","D-I","-",39,18,NA,0.684
+"34","Wichita St.","782","1992","Jim Maynard","D-I","-",26,32,NA,0.448
+"35","Wichita St.","782","1991","Jim Maynard","D-I","-",26,23,1,0.53
+"36","Wichita St.","782","1990","Jim Maynard","D-I","-",23,42,NA,0.354
+"37","Wichita St.","782","1989","Jim Maynard","D-I","-",35,31,NA,0.53
+"38","Wichita St.","782","1988","","D-I","-",NA,NA,NA,NA
+"39","Wichita St.","782","1987","","D-I","-",NA,NA,NA,NA
+"40","Wichita St.","782","1986","","D-I","-",NA,NA,NA,NA
+"41","Wichita St.","782","1985","","D-I","-",NA,NA,NA,NA
+"42","Wichita St.","782","1984","","D-I","-",NA,NA,NA,NA
+"43","Wichita St.","782","1983","","D-I","-",NA,NA,NA,NA
+"44","Wichita St.","782","1982","","D-I","-",NA,NA,NA,NA
+"45","Wichita St.","782","","","","",1069,978,2,0.522

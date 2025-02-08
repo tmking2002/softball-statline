@@ -1,19 +1,21 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Sam Mendez","Lone Star","8-42-0",0.16
-"2",2022,"Tiala Tagaloa","Lone Star","21-30-0",0.412
-"3",2021,"Tiala Tagaloa","Lone Star","7-33-0",0.175
-"4",2020,"Tiala Tagaloa","Lone Star","15-15-0",0.5
-"5",2019,"Tiala Tagaloa","Lone Star","10-39-0",0.204
-"6",2018,"Tiala Tagaloa","Lone Star","16-36-0",0.308
-"7",2017,"Tiala Tagaloa","Lone Star","10-46-0",0.179
-"8",2016,"Tiala Tagaloa","Heartland","12-39-0",0.235
-"9",2015,"Tiala Tagaloa","Heartland","8-43-0",0.157
-"10",2014,"Annalyn Burch","Heartland","13-40-0",0.245
-"11",2013,"Annalyn Burch","Heartland","13-37-0",0.26
-"12",2012,"Annalyn Burch","Heartland","17-32-0",0.347
-"13",2011,"","Heartland","18-27-0",0.4
-"14",2010,"","Heartland","18-29-0",0.383
-"15",2009,"","Heartland","15-36-0",0.294
-"16",2008,"","-","0-0-0",NA
-"17",2007,"","-","0-0-0",NA
-"18",2024,"Sam Mendez","Lone Star","4-38-0",0.095
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Tex. Permian Basin","30088","2025","AubreeAna Avila-Oropeza","D-II","Lone Star",4,1,0,0.8
+"2","Tex. Permian Basin","30088","2024","Sam Mendez","D-II","Lone Star",7,44,0,0.137
+"3","Tex. Permian Basin","30088","2023","Sam Mendez","D-II","Lone Star",8,42,0,0.16
+"4","Tex. Permian Basin","30088","2022","Tiala Tagaloa","D-II","Lone Star",21,30,0,0.412
+"5","Tex. Permian Basin","30088","2021","Tiala Tagaloa","D-II","Lone Star",7,33,0,0.175
+"6","Tex. Permian Basin","30088","2020","Tiala Tagaloa","D-II","Lone Star",15,15,0,0.5
+"7","Tex. Permian Basin","30088","2019","Tiala Tagaloa","D-II","Lone Star",10,39,0,0.204
+"8","Tex. Permian Basin","30088","2018","Tiala Tagaloa","D-II","Lone Star",16,36,NA,0.308
+"9","Tex. Permian Basin","30088","2017","Tiala Tagaloa","D-II","Lone Star",10,46,0,0.179
+"10","Tex. Permian Basin","30088","2016","Tiala Tagaloa","D-II","Heartland",12,39,0,0.235
+"11","Tex. Permian Basin","30088","2015","Tiala Tagaloa","D-II","Heartland",8,43,0,0.157
+"12","Tex. Permian Basin","30088","2014","Annalyn Burch","D-II","Heartland",13,40,0,0.245
+"13","Tex. Permian Basin","30088","2013","Annalyn Burch","D-II","Heartland",14,36,0,0.28
+"14","Tex. Permian Basin","30088","2012","Annalyn Burch","D-II","Heartland",17,32,0,0.347
+"15","Tex. Permian Basin","30088","2011","","D-II","Heartland",18,27,0,0.4
+"16","Tex. Permian Basin","30088","2010","","D-II","Heartland",18,29,0,0.383
+"17","Tex. Permian Basin","30088","2009","","D-II","Heartland",15,36,0,0.294
+"18","Tex. Permian Basin","30088","2008","","","-",NA,NA,NA,NA
+"19","Tex. Permian Basin","30088","2007","","","-",NA,NA,NA,NA
+"20","Tex. Permian Basin","30088","","","","",213,568,0,0.273

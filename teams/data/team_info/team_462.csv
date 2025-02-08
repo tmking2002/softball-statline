@@ -1,38 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Mary Yori","American Rivers","21-18-0","0.538"
-"2","2022","Mary Yori","American Rivers","23-16-0","0.590"
-"3","2021","Mary Yori","American Rivers","16-21-0","0.432"
-"4","2020","Mary Yori","American Rivers","8-4-0","0.667"
-"5","2019","Mary Yori","American Rivers","22-14-0","0.611"
-"6","2018","Mary Yori","American Rivers","22-18-0","0.550"
-"7","2017","Mary Yori","American Rivers","18-18-0","0.500"
-"8","2016","Mary Yori","-","21-19-0","0.525"
-"9","2015","Butch McLaren","-","19-22-0","0.463"
-"10","2014","Butch McLaren","-","14-22-0","0.389"
-"11","2013","Butch McLaren","-","17-19-0","0.472"
-"12","2012","Lance Kingery","Division III Independents","15-21-0","0.417"
-"13","2011","Lance Kingery","Division III Independents","28-9-0","0.757"
-"14","2010","Lance Kingery","Division III Independents","27-14-0","0.659"
-"15","2009","Lance Kingery","-","20-16-0","0.556"
-"16","2008","Lance Kingery","-","22-16-0","0.579"
-"17","2007","Lance Kingery","-","24-12-0","0.667"
-"18","2006","Lance Kingery","-","20-18-0","0.526"
-"19","2005","Lance Kingery","-","10-28-0","0.263"
-"20","2004","Lance Kingery","-","28-12-0","0.700"
-"21","2003","Lance Kingery","-","14-21-0","0.400"
-"22","2002","Lance Kingery","-","16-16-0","0.500"
-"23","2001","Gina Chambers","-","18-17-0","0.514"
-"24","2000","Gina Chambers","-","14-24-0","0.368"
-"25","1999","Joan Scherbring","-","7-21-0","0.250"
-"26","1998","Joan Scherbring","-","9-28-0","0.243"
-"27","1997","Joan Scherbring","-","7-23-0","0.233"
-"28","1996","Doug Ahlberg","-","6-28-0","0.176"
-"29","1995","Doug Ahlberg","-","16-20-0","0.444"
-"30","1994","Doug Ahlberg","-","22-19-0","0.537"
-"31","1993","Doug Ahlberg","-","19-19-0","0.500"
-"32","1992","Doug Ahlberg","-","15-15-0","0.500"
-"33","1991","Doug Ahlberg","-","12-22-0","0.353"
-"34","1990","Doug Ahlberg","-","13-20-0","0.394"
-"35","1989","Doug Ahlberg","-","9-21-0","0.300"
-"36","1988","Doug Ahlberg","-","8-20-0","0.286"
-"37","1987","Rhonda Revelle","-","8-16-0","0.333"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Neb. Wesleyan","462","2025","Mary Yori","D-III","American Rivers",0,0,0,0
+"2","Neb. Wesleyan","462","2024","Mary Yori","D-III","American Rivers",26,11,0,0.703
+"3","Neb. Wesleyan","462","2023","Mary Yori","D-III","American Rivers",21,18,0,0.538
+"4","Neb. Wesleyan","462","2022","Mary Yori","D-III","American Rivers",23,16,0,0.59
+"5","Neb. Wesleyan","462","2021","Mary Yori","D-III","American Rivers",16,21,0,0.432
+"6","Neb. Wesleyan","462","2020","Mary Yori","D-III","American Rivers",8,4,0,0.667
+"7","Neb. Wesleyan","462","2019","Mary Yori","D-III","American Rivers",22,14,0,0.611
+"8","Neb. Wesleyan","462","2018","Mary Yori","D-III","American Rivers",22,18,NA,0.55
+"9","Neb. Wesleyan","462","2017","Mary Yori","D-III","American Rivers",18,18,0,0.5
+"10","Neb. Wesleyan","462","2016","Mary Yori","D-III","-",21,19,0,0.525
+"11","Neb. Wesleyan","462","2015","Butch McLaren","D-III","-",19,22,0,0.463
+"12","Neb. Wesleyan","462","2014","Butch McLaren","D-III","-",14,22,0,0.389
+"13","Neb. Wesleyan","462","2013","Butch McLaren","D-III","-",17,19,0,0.472
+"14","Neb. Wesleyan","462","2012","Lance Kingery","D-III","Division III Independents",15,21,0,0.417
+"15","Neb. Wesleyan","462","2011","Lance Kingery","D-III","Division III Independents",28,9,0,0.757
+"16","Neb. Wesleyan","462","2010","Lance Kingery","D-III","Division III Independents",27,14,0,0.659
+"17","Neb. Wesleyan","462","2009","Lance Kingery","D-III","-",20,16,0,0.556
+"18","Neb. Wesleyan","462","2008","Lance Kingery","D-III","-",22,16,0,0.579
+"19","Neb. Wesleyan","462","2007","Lance Kingery","D-III","-",24,12,0,0.667
+"20","Neb. Wesleyan","462","2006","Lance Kingery","D-III","-",20,18,0,0.526
+"21","Neb. Wesleyan","462","2005","Lance Kingery","D-III","-",10,28,0,0.263
+"22","Neb. Wesleyan","462","2004","Lance Kingery","D-III","-",28,12,0,0.7
+"23","Neb. Wesleyan","462","2003","Lance Kingery","D-III","-",14,21,0,0.4
+"24","Neb. Wesleyan","462","2002","Lance Kingery","D-III","-",16,16,0,0.5
+"25","Neb. Wesleyan","462","2001","Gina Chambers","D-III","-",18,17,NA,0.514
+"26","Neb. Wesleyan","462","1900","Gina Chambers","D-III","-",14,24,NA,0.368
+"27","Neb. Wesleyan","462","1999","Joan Scherbring","D-III","-",7,21,NA,0.25
+"28","Neb. Wesleyan","462","1998","Joan Scherbring","D-III","-",9,28,NA,0.243
+"29","Neb. Wesleyan","462","1997","Joan Scherbring","D-III","-",7,23,NA,0.233
+"30","Neb. Wesleyan","462","1996","Doug Ahlberg","D-III","-",6,28,0,0.176
+"31","Neb. Wesleyan","462","1995","Doug Ahlberg","D-III","-",16,20,0,0.444
+"32","Neb. Wesleyan","462","1994","Doug Ahlberg","D-III","-",22,19,0,0.537
+"33","Neb. Wesleyan","462","1993","Doug Ahlberg","D-III","-",19,19,0,0.5
+"34","Neb. Wesleyan","462","1992","Doug Ahlberg","D-III","-",15,15,0,0.5
+"35","Neb. Wesleyan","462","1991","Doug Ahlberg","D-III","-",12,22,0,0.353
+"36","Neb. Wesleyan","462","1990","Doug Ahlberg","D-III","-",13,20,0,0.394
+"37","Neb. Wesleyan","462","1989","Doug Ahlberg","D-III","-",9,21,0,0.3
+"38","Neb. Wesleyan","462","1988","Doug Ahlberg","D-III","-",8,20,0,0.286
+"39","Neb. Wesleyan","462","1987","Rhonda Revelle","D-III","-",8,16,NA,0.333
+"40","Neb. Wesleyan","462","","","","",634,698,0,0.476

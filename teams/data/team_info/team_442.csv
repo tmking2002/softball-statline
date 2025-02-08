@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Anita Kubicka (17-9)Eddie Stawinski (3-3)John Elliott (0-4)","NJAC","20-16-0",0.556
-"2",2022,"Anita Kubicka","NJAC","23-18-0",0.561
-"3",2021,"Anita Kubicka","NJAC","13-9-0",0.591
-"4",2020,"Anita Kubicka","NJAC","10-2-0",0.833
-"5",2019,"Anita Kubicka","NJAC","29-14-0",0.674
-"6",2018,"Anita Kubicka","NJAC","23-13-0",0.639
-"7",2017,"Anita Kubicka","NJAC","22-18-0",0.55
-"8",2016,"Anita Kubicka","NJAC","20-18-0",0.526
-"9",2015,"Anita Kubicka","NJAC","13-22-0",0.371
-"10",2014,"Anita Kubicka","NJAC","42-8-0",0.84
-"11",2013,"Anita Kubicka","NJAC","46-5-0",0.902
-"12",2012,"Anita Kubicka","NJAC","44-9-0",0.83
-"13",2011,"Anita Kubicka","NJAC","27-12-0",0.692
-"14",2010,"Anita Kubicka","NJAC","21-15-0",0.583
-"15",2009,"Anita Kubicka","NJAC","29-18-0",0.617
-"16",2008,"Anita Kubicka","NJAC","43-6-0",0.878
-"17",2007,"Anita Kubicka","NJAC","38-8-0",0.826
-"18",2006,"Anita Kubicka","NJAC","33-13-0",0.717
-"19",2005,"Anita Kubicka","NJAC","28-9-1",0.757
-"20",2004,"Anita Kubicka","NJAC","34-10-0",0.773
-"21",2003,"Anita Kubicka","NJAC","36-9-0",0.8
-"22",2002,"Anita Kubicka","NJAC","30-11-0",0.732
-"23",2001,"Anita Kubicka","-","36-12-0",0.75
-"24",2000,"Anita Kubicka","-","31-10-1",0.756
-"25",1999,"Anita Kubicka","-","37-10-0",0.787
-"26",1998,"Anita Kubicka","-","27-10-0",0.73
-"27",1997,"Anita Kubicka","-","38-11-0",0.776
-"28",1996,"Anita Kubicka","-","33-10-0",0.767
-"29",1995,"Anita Kubicka","-","37-11-0",0.771
-"30",1994,"Anita Kubicka","-","29-19-0",0.604
-"31",1993,"Anita Kubicka","-","31-10-0",0.756
-"32",1992,"Anita Kubicka","-","27-18-0",0.6
-"33",1991,"Anita Kubicka","-","19-20-0",0.487
-"34",1990,"Willie Rucker","-","29-17-0",0.63
-"35",1989,"Willie Rucker","-","28-12-0",0.7
-"36",1988,"Willie Rucker","-","32-12-0",0.727
-"37",1987,"Willie Rucker","-","34-10-0",0.773
-"38",1986,"Willie Rucker","-","31-13-0",0.705
-"39",1985,"Willie Rucker","-","28-12-0",0.7
-"40",1984,"Willie Rucker","-","27-11-0",0.711
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Eddie Stawinski","NJAC","17-21-0",0.447
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Montclair St.","442","2025","Nicole Degenhardt","D-III","NJAC",0,0,0,0
+"2","Montclair St.","442","2024","Nicole Degenhardt","D-III","NJAC",17,21,0,0.447
+"3","Montclair St.","442","2023","Anita Kubicka (17-9)Eddie Stawinski (3-3)John Elliott (0-4)","D-III","NJAC",20,16,0,0.556
+"4","Montclair St.","442","2022","Anita Kubicka","D-III","NJAC",23,18,0,0.561
+"5","Montclair St.","442","2021","Anita Kubicka","D-III","NJAC",13,9,0,0.591
+"6","Montclair St.","442","2020","Anita Kubicka","D-III","NJAC",10,2,0,0.833
+"7","Montclair St.","442","2019","Anita Kubicka","D-III","NJAC",29,14,0,0.674
+"8","Montclair St.","442","2018","Anita Kubicka","D-III","NJAC",23,13,NA,0.639
+"9","Montclair St.","442","2017","Anita Kubicka","D-III","NJAC",22,18,0,0.55
+"10","Montclair St.","442","2016","Anita Kubicka","D-III","NJAC",20,18,0,0.526
+"11","Montclair St.","442","2015","Anita Kubicka","D-III","NJAC",13,22,0,0.371
+"12","Montclair St.","442","2014","Anita Kubicka","D-III","NJAC",42,8,0,0.84
+"13","Montclair St.","442","2013","Anita Kubicka","D-III","NJAC",46,5,0,0.902
+"14","Montclair St.","442","2012","Anita Kubicka","D-III","NJAC",44,9,0,0.83
+"15","Montclair St.","442","2011","Anita Kubicka","D-III","NJAC",27,12,0,0.692
+"16","Montclair St.","442","2010","Anita Kubicka","D-III","NJAC",21,15,0,0.583
+"17","Montclair St.","442","2009","Anita Kubicka","D-III","NJAC",29,18,0,0.617
+"18","Montclair St.","442","2008","Anita Kubicka","D-III","NJAC",43,6,0,0.878
+"19","Montclair St.","442","2007","Anita Kubicka","D-III","NJAC",38,8,0,0.826
+"20","Montclair St.","442","2006","Anita Kubicka","D-III","NJAC",33,13,0,0.717
+"21","Montclair St.","442","2005","Anita Kubicka","D-III","NJAC",28,9,1,0.75
+"22","Montclair St.","442","2004","Anita Kubicka","D-III","NJAC",34,10,0,0.773
+"23","Montclair St.","442","2003","Anita Kubicka","D-III","NJAC",36,9,0,0.8
+"24","Montclair St.","442","2002","Anita Kubicka","D-III","NJAC",30,11,0,0.732
+"25","Montclair St.","442","2001","Anita Kubicka","D-III","-",36,12,NA,0.75
+"26","Montclair St.","442","1900","Anita Kubicka","D-III","-",31,10,1,0.75
+"27","Montclair St.","442","1999","Anita Kubicka","D-III","-",37,10,NA,0.787
+"28","Montclair St.","442","1998","Anita Kubicka","D-III","-",27,10,NA,0.73
+"29","Montclair St.","442","1997","Anita Kubicka","D-III","-",38,11,NA,0.776
+"30","Montclair St.","442","1996","Anita Kubicka","D-III","-",33,10,NA,0.767
+"31","Montclair St.","442","1995","Anita Kubicka","D-III","-",37,11,NA,0.771
+"32","Montclair St.","442","1994","Anita Kubicka","D-III","-",29,19,NA,0.604
+"33","Montclair St.","442","1993","Anita Kubicka","D-III","-",31,10,NA,0.756
+"34","Montclair St.","442","1992","Anita Kubicka","D-III","-",27,18,NA,0.6
+"35","Montclair St.","442","1991","Anita Kubicka","D-III","-",19,20,NA,0.487
+"36","Montclair St.","442","1990","Willie Rucker","D-III","-",29,17,NA,0.63
+"37","Montclair St.","442","1989","Willie Rucker","D-III","-",28,12,NA,0.7
+"38","Montclair St.","442","1988","Willie Rucker","D-III","-",32,12,NA,0.727
+"39","Montclair St.","442","1987","Willie Rucker","D-III","-",34,10,NA,0.773
+"40","Montclair St.","442","1986","Willie Rucker","D-III","-",31,13,NA,0.705
+"41","Montclair St.","442","1985","Willie Rucker","D-III","-",28,12,NA,0.7
+"42","Montclair St.","442","1984","Willie Rucker","D-III","-",27,11,NA,0.711
+"43","Montclair St.","442","1983","","D-III","-",NA,NA,NA,NA
+"44","Montclair St.","442","1982","","D-III","-",NA,NA,NA,NA
+"45","Montclair St.","442","","","","",1195,512,2,0.7

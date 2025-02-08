@@ -1,14 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2021","","-","0-0-0",0
-"3","2020","","-","0-0-0",0
-"4","2019","","-","0-0-0",0
-"5","2018","Ashley Hickman","-","27-24-0",0.529
-"6","2017","Ashley Hickman","-","26-25-0",0.51
-"7","2016","Ashley Hickman","-","9-39-0",0.188
-"8","2015","Ashley Hickman","-","4-35-0",0.103
-"9","2014","","-","0-0-0",NA
-"10","2013","","-","0-0-0",NA
-"11","2011","","-","0-0-0",NA
-"12","2008","","-","0-0-0",NA
-"13","2005","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","McPherson","506039","2024","",NA,"-",NA,NA,NA,0
+"2","McPherson","506039","2021","",NA,"-",NA,NA,NA,0
+"3","McPherson","506039","2020","",NA,"-",NA,NA,NA,0
+"4","McPherson","506039","2019","",NA,"-",NA,NA,NA,0
+"5","McPherson","506039","2018","Ashley Hickman",NA,"-",27,24,0,0.529
+"6","McPherson","506039","2017","Ashley Hickman",NA,"-",26,25,0,0.51
+"7","McPherson","506039","2016","Ashley Hickman",NA,"-",9,39,0,0.188
+"8","McPherson","506039","2015","Ashley Hickman",NA,"-",4,35,0,0.103
+"9","McPherson","506039","2014","",NA,"-",NA,NA,NA,NA
+"10","McPherson","506039","2013","",NA,"-",NA,NA,NA,NA
+"11","McPherson","506039","2011","",NA,"-",NA,NA,NA,NA
+"12","McPherson","506039","2008","",NA,"-",NA,NA,NA,NA
+"13","McPherson","506039","2005","",NA,"-",NA,NA,NA,NA
+"14","McPherson","506039","","",NA,"",66,123,0,0.349

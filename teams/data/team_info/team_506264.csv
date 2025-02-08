@@ -1,13 +1,19 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2020",NA,"-","0-0-0",0
-"4","2019",NA,"-","0-0-0",0
-"5","2018",NA,"-","0-0-0",0
-"6","2017",NA,"-","0-0-0",NA
-"7","2016",NA,"-","0-0-0",NA
-"8","2013",NA,"-","0-0-0",NA
-"9","2012",NA,"-","0-0-0",NA
-"10","2011",NA,"-","0-0-0",NA
-"11","2010",NA,"-","0-0-0",NA
-"12","1981",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-New Kens.","506264","2025","Mike Marsili",NA,"-",NA,NA,NA,0
+"2","Penn St.-New Kens.","506264","2024","Mike Marsili",NA,"-",18,10,0,0.643
+"3","Penn St.-New Kens.","506264","2023","Mike Marsili",NA,"-",20,13,0,0.606
+"4","Penn St.-New Kens.","506264","2022","Mike Marsili",NA,"-",5,15,0,0.25
+"5","Penn St.-New Kens.","506264","2021","Mike Marsili",NA,"-",13,14,0,0.481
+"6","Penn St.-New Kens.","506264","2020","Mike Marsili",NA,"-",0,4,0,0
+"7","Penn St.-New Kens.","506264","2019","",NA,"-",8,20,0,0.286
+"8","Penn St.-New Kens.","506264","2018","Mike Marsili",NA,"-",1,23,0,0.042
+"9","Penn St.-New Kens.","506264","2017","Mike Marsili",NA,"-",13,14,0,0.481
+"10","Penn St.-New Kens.","506264","2016","Mike Marsili",NA,"-",6,12,0,0.333
+"11","Penn St.-New Kens.","506264","2015","Mike Marsili",NA,"-",2,14,0,0.125
+"12","Penn St.-New Kens.","506264","2014","Mike Marsili",NA,"-",14,10,0,0.583
+"13","Penn St.-New Kens.","506264","2013","Mike Marsili",NA,"-",10,12,0,0.455
+"14","Penn St.-New Kens.","506264","2012","Mike Marsili",NA,"-",13,13,0,0.5
+"15","Penn St.-New Kens.","506264","2011","",NA,"-",NA,NA,NA,NA
+"16","Penn St.-New Kens.","506264","2010","",NA,"-",NA,NA,NA,NA
+"17","Penn St.-New Kens.","506264","1981","",NA,"-",NA,NA,NA,NA
+"18","Penn St.-New Kens.","506264","","",NA,"",123,174,0,0.414

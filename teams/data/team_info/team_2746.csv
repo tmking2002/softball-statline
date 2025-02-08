@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Grace Jackson","G-MAC","10-30-0","0.250"
-"2","2022","McKenna Garlock","G-MAC","13-27-0","0.325"
-"3","2021","Rebecca Dyer","G-MAC","11-32-0","0.256"
-"4","2020","Rebecca Dyer","G-MAC","2-11-0","0.154"
-"5","2019","Rebecca Dyer","G-MAC","12-28-0","0.300"
-"6","2018","Rebecca Dyer","G-MAC","16-22-0","0.421"
-"7","2017","Rebecca Dyer","GLIAC","12-26-0","0.316"
-"8","2016","Stephanie Smith","GLIAC","16-26-0","0.381"
-"9","2015","Stephanie Smith","GLIAC","13-23-0","0.361"
-"10","2014","Stephanie Smith","GLIAC","4-33-0","0.108"
-"11","2013","Kristin Hall","GLIAC","2-36-0","0.053"
-"12","2012","Kristin Hall","GLIAC","5-44-0","0.102"
-"13","2011","Kristin Hall","GLIAC","10-38-0","0.208"
-"14","2010","Gary VanCauwenberge","Lake Erie","8-34-0","0.190"
-"15","2009","Gary VanCauwenberge","-","5-34-0","0.128"
-"16","2008","Gary VanCauwenberge","AMCC","23-20-0","0.535"
-"17","2007","Gary VanCauwenberge","AMCC","13-16-0","0.448"
-"18","2006","Gary VanCauwenberge","AMCC","26-16-1","0.619"
-"19","2005","Gary VanCauwenberge","AMCC","10-23-0","0.303"
-"20","2004","Gary VanCauwenberge","AMCC","5-25-0","0.167"
-"21","2003","Gary VanCauwenberge","-","0-0-0","  NaN"
-"22","2002","Gary VanCauwenberge","-","1-25-0","0.038"
-"23","2001","Lauren Ferullo","-","5-17-0","0.227"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lake Erie","2746","2025","Shannon Schaub","D-II","G-MAC",0,0,0,0
+"2","Lake Erie","2746","2024","Grace Jackson","D-II","G-MAC",3,37,0,0.075
+"3","Lake Erie","2746","2023","Grace Jackson","D-II","G-MAC",10,30,0,0.25
+"4","Lake Erie","2746","2022","McKenna Garlock","D-II","G-MAC",13,27,0,0.325
+"5","Lake Erie","2746","2021","Rebecca Dyer","D-II","G-MAC",11,32,0,0.256
+"6","Lake Erie","2746","2020","Rebecca Dyer","D-II","G-MAC",2,11,0,0.154
+"7","Lake Erie","2746","2019","Rebecca Dyer","D-II","G-MAC",12,28,0,0.3
+"8","Lake Erie","2746","2018","Rebecca Dyer","D-II","G-MAC",16,22,NA,0.421
+"9","Lake Erie","2746","2017","Rebecca Dyer","D-II","GLIAC",12,26,0,0.316
+"10","Lake Erie","2746","2016","Stephanie Smith","D-II","GLIAC",16,26,0,0.381
+"11","Lake Erie","2746","2015","Stephanie Smith","D-II","GLIAC",13,23,0,0.361
+"12","Lake Erie","2746","2014","Stephanie Smith","D-II","GLIAC",4,33,0,0.108
+"13","Lake Erie","2746","2013","Kristin Hall","D-II","GLIAC",2,36,0,0.053
+"14","Lake Erie","2746","2012","Kristin Hall","D-II","GLIAC",5,44,0,0.102
+"15","Lake Erie","2746","2011","Kristin Hall","D-II","GLIAC",10,38,0,0.208
+"16","Lake Erie","2746","2010","Gary VanCauwenberge","D-II","Lake Erie",8,34,0,0.19
+"17","Lake Erie","2746","2009","Gary VanCauwenberge","D-III","-",5,34,0,0.128
+"18","Lake Erie","2746","2008","Gary VanCauwenberge","D-III","AMCC",23,20,0,0.535
+"19","Lake Erie","2746","2007","Gary VanCauwenberge","D-III","AMCC",13,16,0,0.448
+"20","Lake Erie","2746","2006","Gary VanCauwenberge","D-III","AMCC",26,16,1,0.616
+"21","Lake Erie","2746","2005","Gary VanCauwenberge","D-III","AMCC",10,23,0,0.303
+"22","Lake Erie","2746","2004","Gary VanCauwenberge","D-III","AMCC",5,25,0,0.167
+"23","Lake Erie","2746","2003","Gary VanCauwenberge","D-III","-",NA,NA,NA,NA
+"24","Lake Erie","2746","2002","Gary VanCauwenberge","D-III","-",1,25,NA,0.038
+"25","Lake Erie","2746","2001","Lauren Ferullo","","-",5,17,0,0.227
+"26","Lake Erie","2746","1900","","","-",NA,NA,NA,NA
+"27","Lake Erie","2746","1999","","","-",NA,NA,NA,NA
+"28","Lake Erie","2746","1998","","","-",NA,NA,NA,NA
+"29","Lake Erie","2746","1997","","","-",NA,NA,NA,NA
+"30","Lake Erie","2746","1996","","","-",NA,NA,NA,NA
+"31","Lake Erie","2746","1995","","","-",NA,NA,NA,NA
+"32","Lake Erie","2746","1994","","","-",NA,NA,NA,NA
+"33","Lake Erie","2746","1993","","","-",NA,NA,NA,NA
+"34","Lake Erie","2746","1992","","","-",NA,NA,NA,NA
+"35","Lake Erie","2746","1991","","","-",NA,NA,NA,NA
+"36","Lake Erie","2746","1990","","","-",NA,NA,NA,NA
+"37","Lake Erie","2746","","","","",225,623,1,0.266

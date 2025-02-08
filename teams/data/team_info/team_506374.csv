@@ -1,6 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2020","","-","0-0-0",0
-"2","2015","Kerry Crum","-","17-32-0",0.347
-"3","2014","Kerry Crum","-","27-27-0",0.5
-"4","2013","Kerry Crum","-","10-22-0",0.313
-"5","2012","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Benedictine-Sprngfld","506374","2020","",NA,"-",NA,NA,NA,0
+"2","Benedictine-Sprngfld","506374","2015","Kerry Crum",NA,"-",17,32,0,0.347
+"3","Benedictine-Sprngfld","506374","2014","Kerry Crum",NA,"-",27,27,0,0.5
+"4","Benedictine-Sprngfld","506374","2013","Kerry Crum",NA,"-",10,22,0,0.313
+"5","Benedictine-Sprngfld","506374","2012","",NA,"-",NA,NA,NA,NA
+"6","Benedictine-Sprngfld","506374","","",NA,"",54,81,0,0.4

@@ -1,18 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Amy Hooks","Southland","22-34-0",0.393
-"2",2022,"Amy Hooks","WAC","11-38-0",0.224
-"3",2021,"Amy Hooks","Southland","8-43-0",0.157
-"4",2020,"Amy Hooks","Southland","9-12-0",0.429
-"5",2019,"Amy Hooks","Southland","23-34-0",0.404
-"6",2018,"Holly Bruder","Southland","28-28-0",0.5
-"7",2017,"Holly Bruder","Southland","34-31-0",0.523
-"8",2016,"Holly Bruder","Southland","35-22-0",0.614
-"9",2015,"Holly Bruder","Southland","26-28-0",0.481
-"10",2014,"Holly Bruder","Southland","20-30-0",0.4
-"11",2013,"Holly Bruder","Southland","24-35-0",0.407
-"12",2010,"","-","0-0-0",NA
-"13",1987,"Patty Calvert","-","9-26-0",0.257
-"14",1986,"Patty Calvert","-","14-19-0",0.424
-"15",1985,"Patty Calvert","-","14-28-0",0.333
-"16",1984,"Patty Calvert","-","13-43-0",0.232
-"17",2024,"Amy Hooks","Southland","26-25-0",0.51
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lamar University","346","2025","Amy Hooks","D-I","Southland",2,0,0,1
+"2","Lamar University","346","2024","Amy Hooks","D-I","Southland",26,25,0,0.51
+"3","Lamar University","346","2023","Amy Hooks","D-I","Southland",22,34,0,0.393
+"4","Lamar University","346","2022","Amy Hooks","D-I","WAC",11,38,0,0.224
+"5","Lamar University","346","2021","Amy Hooks","D-I","Southland",8,43,0,0.157
+"6","Lamar University","346","2020","Amy Hooks","D-I","Southland",9,12,0,0.429
+"7","Lamar University","346","2019","Amy Hooks","D-I","Southland",23,34,0,0.404
+"8","Lamar University","346","2018","Holly Bruder","D-I","Southland",28,28,NA,0.5
+"9","Lamar University","346","2017","Holly Bruder","D-I","Southland",34,31,0,0.523
+"10","Lamar University","346","2016","Holly Bruder","D-I","Southland",35,22,0,0.614
+"11","Lamar University","346","2015","Holly Bruder","D-I","Southland",26,28,0,0.481
+"12","Lamar University","346","2014","Holly Bruder","D-I","Southland",20,30,0,0.4
+"13","Lamar University","346","2013","Holly Bruder","D-I","Southland",24,35,0,0.407
+"14","Lamar University","346","2010","","","-",NA,NA,NA,NA
+"15","Lamar University","346","1987","Patty Calvert","","-",9,26,0,0.257
+"16","Lamar University","346","1986","Patty Calvert","","-",14,19,0,0.424
+"17","Lamar University","346","1985","Patty Calvert","","-",14,28,0,0.333
+"18","Lamar University","346","1984","Patty Calvert","","-",13,43,0,0.232
+"19","Lamar University","346","","","","",318,476,0,0.401

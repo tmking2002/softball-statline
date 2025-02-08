@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lawanda Pearson","SIAC","19-21-0",0.475
-"2",2022,"Lawanda Pearson","SIAC","6-23-0",0.207
-"3",2021,"Lawanda Pearson","SIAC","1-13-0",0.071
-"4",2020,"Lawanda Pearson","SIAC","5-11-0",0.312
-"5",2019,"Lawanda Pearson","SIAC","14-21-0",0.4
-"6",2018,"Lawanda Pearson","SIAC","8-19-0",0.296
-"7",2017,"Lawanda Pearson","SIAC","19-26-0",0.422
-"8",2016,"Lawanda Pearson","SIAC","11-31-0",0.262
-"9",2015,"Lawanda Pearson","SIAC","11-29-0",0.275
-"10",2014,"Lawanda Pearson","SIAC","20-23-0",0.465
-"11",2013,"Lawanda Pearson","SIAC","23-20-0",0.535
-"12",2012,"Lawanda Pearson","SIAC","20-23-0",0.465
-"13",2011,"Lawanda Pearson","SIAC","32-15-0",0.681
-"14",2010,"Lawanda Pearson","SIAC","22-24-0",0.478
-"15",2009,"Lawanda Pearson","SIAC","19-37-0",0.339
-"16",2008,"","SIAC","25-26-0",0.49
-"17",2007,"","SIAC","15-21-0",0.417
-"18",2006,"","SIAC","18-33-0",0.353
-"19",2005,"","SIAC","22-32-0",0.407
-"20",2004,"","SIAC","14-21-0",0.4
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2024,"Lawanda Pearson","SIAC","13-22-0",0.371
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Clark Atlanta","144","2025","Nicole Bayona","D-II","SIAC",1,3,0,0.25
+"2","Clark Atlanta","144","2024","Lawanda Pearson","D-II","SIAC",14,30,0,0.318
+"3","Clark Atlanta","144","2023","Lawanda Pearson","D-II","SIAC",19,21,0,0.475
+"4","Clark Atlanta","144","2022","Lawanda Pearson","D-II","SIAC",6,23,0,0.207
+"5","Clark Atlanta","144","2021","Lawanda Pearson","D-II","SIAC",1,13,0,0.071
+"6","Clark Atlanta","144","2020","Lawanda Pearson","D-II","SIAC",5,11,0,0.313
+"7","Clark Atlanta","144","2019","Lawanda Pearson","D-II","SIAC",14,21,0,0.4
+"8","Clark Atlanta","144","2018","Lawanda Pearson","D-II","SIAC",8,19,NA,0.296
+"9","Clark Atlanta","144","2017","Lawanda Pearson","D-II","SIAC",19,26,0,0.422
+"10","Clark Atlanta","144","2016","Lawanda Pearson","D-II","SIAC",11,31,0,0.262
+"11","Clark Atlanta","144","2015","Lawanda Pearson","D-II","SIAC",11,29,0,0.275
+"12","Clark Atlanta","144","2014","Lawanda Pearson","D-II","SIAC",20,23,0,0.465
+"13","Clark Atlanta","144","2013","Lawanda Pearson","D-II","SIAC",23,20,0,0.535
+"14","Clark Atlanta","144","2012","Lawanda Pearson","D-II","SIAC",20,23,0,0.465
+"15","Clark Atlanta","144","2011","Lawanda Pearson","D-II","SIAC",32,15,0,0.681
+"16","Clark Atlanta","144","2010","Lawanda Pearson","D-II","SIAC",22,24,0,0.478
+"17","Clark Atlanta","144","2009","Lawanda Pearson","D-II","SIAC",19,37,0,0.339
+"18","Clark Atlanta","144","2008","","D-II","SIAC",25,26,0,0.49
+"19","Clark Atlanta","144","2007","","D-II","SIAC",15,21,0,0.417
+"20","Clark Atlanta","144","2006","","D-II","SIAC",18,33,0,0.353
+"21","Clark Atlanta","144","2005","","D-II","SIAC",22,32,0,0.407
+"22","Clark Atlanta","144","2004","","D-II","SIAC",14,21,0,0.4
+"23","Clark Atlanta","144","2003","","D-II","-",NA,NA,NA,NA
+"24","Clark Atlanta","144","2002","","","-",NA,NA,NA,NA
+"25","Clark Atlanta","144","","","","",339,502,0,0.403

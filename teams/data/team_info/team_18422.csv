@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mike Holloran","Great Northeast","18-23-0",0.439
-"2",2022,"Mike Holloran","Great Northeast","13-25-0",0.342
-"3",2021,"Mike Holloran","Great Northeast","7-4-0",0.636
-"4",2020,"Mike Holloran","Great Northeast","1-7-0",0.125
-"5",2019,"Mike Holloran","Great Northeast","10-26-0",0.278
-"6",2018,"Mike Holloran","Great Northeast","11-29-0",0.275
-"7",2017,"Mike Holloran","Great Northeast","11-23-0",0.324
-"8",2016,"Mike Holloran","Great Northeast","11-21-0",0.344
-"9",2015,"Dave Morissette","Great Northeast","14-20-0",0.412
-"10",2014,"Dave Morissette","Great Northeast","9-25-0",0.265
-"11",2013,"Dave Morissette","Great Northeast","16-21-0",0.432
-"12",2012,"Dave Morissette","Great Northeast","25-14-0",0.641
-"13",2011,"Dave Morissette","Great Northeast","26-15-0",0.634
-"14",2010,"Kelly O'Connell","Great Northeast","33-6-0",0.846
-"15",2009,"Kelly O'Connell","Great Northeast","17-16-0",0.515
-"16",2008,"Kelly O'Connell","Great Northeast","25-14-0",0.641
-"17",2007,"Kelly O'Connell","Great Northeast","25-10-0",0.714
-"18",2006,"Kelly O'Connell","Great Northeast","6-16-0",0.273
-"19",2005,"Jennifer Craft","Great Northeast","4-20-0",0.167
-"20",2004,"Jennifer Craft","Great Northeast","5-19-0",0.208
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"David Hogan","-","5-12-0",0.294
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Noelle Sass","Great Northeast","15-18-0",0.455
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rivier","18422","2025","Noelle Sass","D-III","Great Northeast",0,0,0,0
+"2","Rivier","18422","2024","Noelle Sass","D-III","Great Northeast",15,18,0,0.455
+"3","Rivier","18422","2023","Mike Holloran","D-III","Great Northeast",18,23,0,0.439
+"4","Rivier","18422","2022","Mike Holloran","D-III","Great Northeast",13,25,0,0.342
+"5","Rivier","18422","2021","Mike Holloran","D-III","Great Northeast",7,4,0,0.636
+"6","Rivier","18422","2020","Mike Holloran","D-III","Great Northeast",1,7,0,0.125
+"7","Rivier","18422","2019","Mike Holloran","D-III","Great Northeast",10,26,0,0.278
+"8","Rivier","18422","2018","Mike Holloran","D-III","Great Northeast",11,29,NA,0.275
+"9","Rivier","18422","2017","Mike Holloran","D-III","Great Northeast",11,23,0,0.324
+"10","Rivier","18422","2016","Mike Holloran","D-III","Great Northeast",11,21,0,0.344
+"11","Rivier","18422","2015","Dave Morissette","D-III","Great Northeast",14,20,0,0.412
+"12","Rivier","18422","2014","Dave Morissette","D-III","Great Northeast",9,25,0,0.265
+"13","Rivier","18422","2013","Dave Morissette","D-III","Great Northeast",16,21,0,0.432
+"14","Rivier","18422","2012","Dave Morissette","D-III","Great Northeast",25,14,0,0.641
+"15","Rivier","18422","2011","Dave Morissette","D-III","Great Northeast",26,15,0,0.634
+"16","Rivier","18422","2010","Kelly O'Connell","D-III","Great Northeast",33,6,0,0.846
+"17","Rivier","18422","2009","Kelly O'Connell","D-III","Great Northeast",17,16,0,0.515
+"18","Rivier","18422","2008","Kelly O'Connell","D-III","Great Northeast",25,14,0,0.641
+"19","Rivier","18422","2007","Kelly O'Connell","D-III","Great Northeast",25,10,0,0.714
+"20","Rivier","18422","2006","Kelly O'Connell","D-III","Great Northeast",6,16,0,0.273
+"21","Rivier","18422","2005","Jennifer Craft","D-III","Great Northeast",4,20,0,0.167
+"22","Rivier","18422","2004","Jennifer Craft","D-III","Great Northeast",5,19,0,0.208
+"23","Rivier","18422","2003","","D-III","-",NA,NA,NA,NA
+"24","Rivier","18422","2002","","D-III","-",NA,NA,NA,NA
+"25","Rivier","18422","2001","","D-III","-",NA,NA,NA,NA
+"26","Rivier","18422","1900","","D-III","-",NA,NA,NA,NA
+"27","Rivier","18422","1999","","D-III","-",NA,NA,NA,NA
+"28","Rivier","18422","1998","David Hogan","D-III","-",5,12,NA,0.294
+"29","Rivier","18422","1997","","D-III","-",NA,NA,NA,NA
+"30","Rivier","18422","1996","","D-III","-",NA,NA,NA,NA
+"31","Rivier","18422","1995","","D-III","-",NA,NA,NA,NA
+"32","Rivier","18422","1994","","D-III","-",NA,NA,NA,NA
+"33","Rivier","18422","1993","","D-III","-",NA,NA,NA,NA
+"34","Rivier","18422","1992","","D-III","-",NA,NA,NA,NA
+"35","Rivier","18422","1991","","D-III","-",NA,NA,NA,NA
+"36","Rivier","18422","1990","","D-III","-",NA,NA,NA,NA
+"37","Rivier","18422","","","","",307,384,0,0.444

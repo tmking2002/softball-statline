@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kelly Kirkpatrick","PAC","9-23-0",0.281
-"2",2022,"Kelly Kirkpatrick","PAC","8-18-0",0.308
-"3",2021,"Kelly Kirkpatrick","PAC","1-29-0",0.033
-"4",2020,"Stephanie Fort","PAC","3-9-0",0.25
-"5",2019,"Stephanie Fort","PAC","19-25-0",0.432
-"6",2018,"Lori Schimmel","PAC","12-22-0",0.353
-"7",2017,"Lori Schimmel","PAC","17-20-0",0.459
-"8",2016,"Lori Schimmel","PAC","14-20-0",0.412
-"9",2015,"Amy Schafer","PAC","16-16-0",0.5
-"10",2014,"Amy Schafer","PAC","12-22-0",0.353
-"11",2013,"Amy Schafer","PAC","14-20-0",0.412
-"12",2012,"Amy Schafer","PAC","20-20-0",0.5
-"13",2011,"Amy Schafer","PAC","11-22-0",0.333
-"14",2010,"Amy Schafer","PAC","19-20-0",0.487
-"15",2009,"Amy Schafer","PAC","12-24-0",0.333
-"16",2008,"Amy Schafer","PAC","11-20-0",0.355
-"17",2007,"Amy Schafer","PAC","8-22-0",0.267
-"18",2006,"Amy Schafer","PAC","3-34-0",0.081
-"19",2005,"Sarah Roseto","PAC","6-21-0",0.222
-"20",2004,"Sarah Roseto","PAC","12-23-0",0.343
-"21",2003,"JoAnn Gordon","PAC","14-17-0",0.452
-"22",2002,"JoAnn Gordon","-","16-17-0",0.485
-"23",2001,"JoAnn Gordon","-","17-19-0",0.472
-"24",2000,"JoAnn Gordon","-","14-17-0",0.452
-"25",1999,"Lynn Trimble","-","19-6-0",0.76
-"26",1998,"Lynn Trimble","-","11-14-0",0.44
-"27",1997,"Lynn Trimble","-","7-16-0",0.304
-"28",1996,"Lynn Trimble","-","3-16-0",0.158
-"29",1995,"Lynn Trimble","-","16-8-1",0.667
-"30",1994,"Lynn Trimble","-","8-14-0",0.364
-"31",1993,"Lynn Trimble","-","3-11-0",0.214
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Kelly Kirkpatrick","PAC","13-23-0",0.361
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Thiel","707","2025","Paul Gray","D-III","PAC",0,0,0,0
+"2","Thiel","707","2024","Kelly Kirkpatrick","D-III","PAC",13,23,0,0.361
+"3","Thiel","707","2023","Kelly Kirkpatrick","D-III","PAC",9,23,0,0.281
+"4","Thiel","707","2022","Kelly Kirkpatrick","D-III","PAC",8,18,0,0.308
+"5","Thiel","707","2021","Kelly Kirkpatrick","D-III","PAC",1,29,0,0.033
+"6","Thiel","707","2020","Stephanie Fort","D-III","PAC",3,9,0,0.25
+"7","Thiel","707","2019","Stephanie Fort","D-III","PAC",19,25,0,0.432
+"8","Thiel","707","2018","Lori Schimmel","D-III","PAC",12,22,NA,0.353
+"9","Thiel","707","2017","Lori Schimmel","D-III","PAC",17,20,0,0.459
+"10","Thiel","707","2016","Lori Schimmel","D-III","PAC",14,20,0,0.412
+"11","Thiel","707","2015","Amy Schafer","D-III","PAC",16,16,0,0.5
+"12","Thiel","707","2014","Amy Schafer","D-III","PAC",12,22,0,0.353
+"13","Thiel","707","2013","Amy Schafer","D-III","PAC",14,20,0,0.412
+"14","Thiel","707","2012","Amy Schafer","D-III","PAC",20,20,0,0.5
+"15","Thiel","707","2011","Amy Schafer","D-III","PAC",11,22,0,0.333
+"16","Thiel","707","2010","Amy Schafer","D-III","PAC",19,20,0,0.487
+"17","Thiel","707","2009","Amy Schafer","D-III","PAC",12,24,0,0.333
+"18","Thiel","707","2008","Amy Schafer","D-III","PAC",11,20,0,0.355
+"19","Thiel","707","2007","Amy Schafer","D-III","PAC",8,22,0,0.267
+"20","Thiel","707","2006","Amy Schafer","D-III","PAC",3,34,0,0.081
+"21","Thiel","707","2005","Sarah Roseto","D-III","PAC",6,21,0,0.222
+"22","Thiel","707","2004","Sarah Roseto","D-III","PAC",12,23,0,0.343
+"23","Thiel","707","2003","JoAnn Gordon","D-III","PAC",14,17,0,0.452
+"24","Thiel","707","2002","JoAnn Gordon","D-III","-",16,17,NA,0.485
+"25","Thiel","707","2001","JoAnn Gordon","D-III","-",17,19,NA,0.472
+"26","Thiel","707","1900","JoAnn Gordon","D-III","-",14,17,NA,0.452
+"27","Thiel","707","1999","Lynn Trimble","D-III","-",19,6,NA,0.76
+"28","Thiel","707","1998","Lynn Trimble","D-III","-",11,14,NA,0.44
+"29","Thiel","707","1997","Lynn Trimble","D-III","-",7,16,NA,0.304
+"30","Thiel","707","1996","Lynn Trimble","D-III","-",3,16,NA,0.158
+"31","Thiel","707","1995","Lynn Trimble","D-III","-",16,8,1,0.66
+"32","Thiel","707","1994","Lynn Trimble","D-III","-",8,14,NA,0.364
+"33","Thiel","707","1993","Lynn Trimble","D-III","-",3,11,NA,0.214
+"34","Thiel","707","1992","","D-III","-",NA,NA,NA,NA
+"35","Thiel","707","1991","","D-III","-",NA,NA,NA,NA
+"36","Thiel","707","1990","","D-III","-",NA,NA,NA,NA
+"37","Thiel","707","1989","","","-",NA,NA,NA,NA
+"38","Thiel","707","1988","","","-",NA,NA,NA,NA
+"39","Thiel","707","1987","","","-",NA,NA,NA,NA
+"40","Thiel","707","1986","","","-",NA,NA,NA,NA
+"41","Thiel","707","1985","","","-",NA,NA,NA,NA
+"42","Thiel","707","1984","","D-III","-",NA,NA,NA,NA
+"43","Thiel","707","1983","","D-III","-",NA,NA,NA,NA
+"44","Thiel","707","","","","",368,608,1,0.377

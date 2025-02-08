@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Joe Kinsella","MWC","26-14-1",0.65
-"2",2022,"Joe Kinsella","MWC","24-15-0",0.615
-"3",2021,"Joe Kinsella","MWC","25-8-0",0.758
-"4",2020,"Joe Kinsella","MWC","9-7-0",0.562
-"5",2019,"Joe Kinsella","MWC","26-17-0",0.605
-"6",2018,"Joe Kinsella","MWC","29-13-0",0.69
-"7",2017,"Joe Kinsella","MWC","22-16-0",0.579
-"8",2016,"Joe Kinsella","MWC","30-14-0",0.682
-"9",2015,"Joe Kinsella","MWC","35-11-0",0.761
-"10",2014,"Joe Kinsella","MWC","28-10-0",0.737
-"11",2013,"Joe Kinsella","MWC","17-18-0",0.486
-"12",2012,"Joe Kinsella","MWC","17-18-0",0.486
-"13",2011,"Joe Kinsella","MWC","14-18-0",0.438
-"14",2010,"Joe Kinsella","MWC","24-14-1",0.632
-"15",2009,"Joe Kinsella","MWC","17-18-0",0.486
-"16",2008,"Joe Kinsella","MWC","21-14-0",0.6
-"17",2007,"Joe Kinsella","MWC","20-16-0",0.556
-"18",2006,"Tina Johnson","MWC","24-15-0",0.615
-"19",2005,"Tina Johnson","MWC","25-15-1",0.625
-"20",2004,"Diane Kanney","MWC","28-13-0",0.683
-"21",2003,"Diane Kanney","MWC","25-13-0",0.658
-"22",2002,"Diane Kanney","MWC","34-12-0",0.739
-"23",2001,"Diane Kanney","-","18-17-1",0.514
-"24",2000,"Diane Kanney","-","15-19-0",0.441
-"25",1999,"Diane Kanney","-","11-17-0",0.393
-"26",1998,"Diane Kanney","-","10-18-1",0.357
-"27",1997,"Diane Kanney","-","12-19-0",0.387
-"28",1996,"Chris Pier","-","17-6-0",0.739
-"29",1995,"Priscilla Posick","-","12-12-1",0.5
-"30",1994,"Priscilla Posick","-","10-17-0",0.37
-"31",1993,"Priscilla Posick","-","10-17-0",0.37
-"32",1992,"Priscilla Posick","-","4-18-0",0.182
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",1981,"","-","0-0-0",NA
-"42",2024,"Joe Kinsella","MWC","31-14-1",0.689
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lake Forest","344","2025","Joe Kinsella","D-III","MWC",0,0,0,0
+"2","Lake Forest","344","2024","Joe Kinsella","D-III","MWC",30,13,1,0.693
+"3","Lake Forest","344","2023","Joe Kinsella","D-III","MWC",26,14,1,0.646
+"4","Lake Forest","344","2022","Joe Kinsella","D-III","MWC",24,15,0,0.615
+"5","Lake Forest","344","2021","Joe Kinsella","D-III","MWC",25,8,0,0.758
+"6","Lake Forest","344","2020","Joe Kinsella","D-III","MWC",9,7,0,0.563
+"7","Lake Forest","344","2019","Joe Kinsella","D-III","MWC",26,17,0,0.605
+"8","Lake Forest","344","2018","Joe Kinsella","D-III","MWC",29,13,NA,0.69
+"9","Lake Forest","344","2017","Joe Kinsella","D-III","MWC",22,16,0,0.579
+"10","Lake Forest","344","2016","Joe Kinsella","D-III","MWC",30,14,0,0.682
+"11","Lake Forest","344","2015","Joe Kinsella","D-III","MWC",35,11,0,0.761
+"12","Lake Forest","344","2014","Joe Kinsella","D-III","MWC",28,10,0,0.737
+"13","Lake Forest","344","2013","Joe Kinsella","D-III","MWC",17,18,0,0.486
+"14","Lake Forest","344","2012","Joe Kinsella","D-III","MWC",17,18,0,0.486
+"15","Lake Forest","344","2011","Joe Kinsella","D-III","MWC",14,18,0,0.438
+"16","Lake Forest","344","2010","Joe Kinsella","D-III","MWC",24,14,1,0.628
+"17","Lake Forest","344","2009","Joe Kinsella","D-III","MWC",17,18,0,0.486
+"18","Lake Forest","344","2008","Joe Kinsella","D-III","MWC",21,14,0,0.6
+"19","Lake Forest","344","2007","Joe Kinsella","D-III","MWC",20,16,0,0.556
+"20","Lake Forest","344","2006","Tina Johnson","D-III","MWC",24,15,0,0.615
+"21","Lake Forest","344","2005","Tina Johnson","D-III","MWC",25,15,1,0.622
+"22","Lake Forest","344","2004","Diane Kanney","D-III","MWC",28,13,0,0.683
+"23","Lake Forest","344","2003","Diane Kanney","D-III","MWC",25,13,0,0.658
+"24","Lake Forest","344","2002","Diane Kanney","D-III","MWC",34,12,0,0.739
+"25","Lake Forest","344","2001","Diane Kanney","D-III","-",18,17,1,0.514
+"26","Lake Forest","344","1900","Diane Kanney","D-III","-",15,19,NA,0.441
+"27","Lake Forest","344","1999","Diane Kanney","D-III","-",11,17,NA,0.393
+"28","Lake Forest","344","1998","Diane Kanney","D-III","-",10,18,1,0.362
+"29","Lake Forest","344","1997","Diane Kanney","D-III","-",12,19,NA,0.387
+"30","Lake Forest","344","1996","Chris Pier","D-III","-",17,6,NA,0.739
+"31","Lake Forest","344","1995","Priscilla Posick","D-III","-",12,12,1,0.5
+"32","Lake Forest","344","1994","Priscilla Posick","D-III","-",10,17,NA,0.37
+"33","Lake Forest","344","1993","Priscilla Posick","D-III","-",10,17,NA,0.37
+"34","Lake Forest","344","1992","Priscilla Posick","D-III","-",4,18,NA,0.182
+"35","Lake Forest","344","1991","","D-III","-",NA,NA,NA,NA
+"36","Lake Forest","344","1990","","D-III","-",NA,NA,NA,NA
+"37","Lake Forest","344","1989","","D-III","-",NA,NA,NA,NA
+"38","Lake Forest","344","1988","","D-III","-",NA,NA,NA,NA
+"39","Lake Forest","344","1987","","D-III","-",NA,NA,NA,NA
+"40","Lake Forest","344","1986","","D-III","-",NA,NA,NA,NA
+"41","Lake Forest","344","1985","","D-III","-",NA,NA,NA,NA
+"42","Lake Forest","344","1982","","D-III","-",NA,NA,NA,NA
+"43","Lake Forest","344","1981","","","-",NA,NA,NA,NA
+"44","Lake Forest","344","","","","",669,482,7,0.581

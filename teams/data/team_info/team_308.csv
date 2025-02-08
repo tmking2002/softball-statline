@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Amber Bowman","Horizon","17-32-0",0.347
-"2",2022,"Amber Bowman","Horizon","7-42-0",0.143
-"3",2021,"Germaine Fairchild","Horizon","12-27-0",0.308
-"4",2020,"Germaine Fairchild","Summit League","3-21-0",0.125
-"5",2019,"Germaine Fairchild","Summit League","10-39-0",0.204
-"6",2018,"Germaine Fairchild","Summit League","19-35-0",0.352
-"7",2017,"Germaine Fairchild","Summit League","12-36-0",0.25
-"8",2016,"Germaine Fairchild","Summit League","11-40-0",0.216
-"9",2015,"Germaine Fairchild","Summit League","3-45-0",0.062
-"10",2014,"John Bassett","Summit League","40-15-0",0.727
-"11",2013,"Amy Tudor","Summit League","34-16-0",0.68
-"12",2012,"Amy Tudor","Summit League","45-14-0",0.763
-"13",2011,"Amy Tudor","Summit League","28-15-1",0.651
-"14",2010,"Amy Tudor","Summit League","29-19-0",0.604
-"15",2009,"Keith Fisher","Summit League","14-24-0",0.368
-"16",2008,"Keith Fisher","Summit League","18-24-0",0.429
-"17",2007,"Keith Fisher","Summit League","6-26-0",0.188
-"18",2006,"Keith Fisher","-","11-33-0",0.25
-"19",2005,"Keith Fisher","-","14-35-0",0.286
-"20",2004,"Keith Fisher","-","10-31-1",0.244
-"21",2003,"Keith Fisher","-","18-25-0",0.419
-"22",2002,"Keith Fisher","-","9-27-0",0.25
-"23",2001,"Keith Fisher","-","7-33-0",0.175
-"24",2000,"Keith Fisher","-","14-36-0",0.28
-"25",1999,"Dean Sullivan","-","13-19-0",0.406
-"26",1998,"Dic Doumanian","-","5-28-0",0.152
-"27",1997,"Dic Doumanian","-","8-29-0",0.216
-"28",1996,"Dean Ehle","-","7-19-0",0.269
-"29",1995,"Dean Ehle","-","10-19-0",0.345
-"30",1994,"Dale Van Houten","-","24-19-1",0.558
-"31",1993,"Dale Van Houten","-","22-7-0",0.759
-"32",1992,"Dale Van Houten","-","14-16-0",0.467
-"33",1991,"Dale Van Houten","-","14-14-0",0.5
-"34",1990,"Dale Van Houten","-","5-23-0",0.179
-"35",1989,"Dale Van Houten","-","3-16-0",0.158
-"36",2024,"Amber Bowman","Horizon","14-33-0",0.298
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Purdue Fort Wayne","308","2025","Amber Bowman","D-I","Horizon",1,1,0,0.5
+"2","Purdue Fort Wayne","308","2024","Amber Bowman","D-I","Horizon",14,33,0,0.298
+"3","Purdue Fort Wayne","308","2023","Amber Bowman","D-I","Horizon",17,32,0,0.347
+"4","Purdue Fort Wayne","308","2022","Amber Bowman","D-I","Horizon",7,42,0,0.143
+"5","Purdue Fort Wayne","308","2021","Germaine Fairchild","D-I","Horizon",12,27,0,0.308
+"6","Purdue Fort Wayne","308","2020","Germaine Fairchild","D-I","Summit League",3,21,0,0.125
+"7","Purdue Fort Wayne","308","2019","Germaine Fairchild","D-I","Summit League",10,39,0,0.204
+"8","Purdue Fort Wayne","308","2018","Germaine Fairchild","D-I","Summit League",19,35,NA,0.352
+"9","Purdue Fort Wayne","308","2017","Germaine Fairchild","D-I","Summit League",12,36,0,0.25
+"10","Purdue Fort Wayne","308","2016","Germaine Fairchild","D-I","Summit League",11,40,0,0.216
+"11","Purdue Fort Wayne","308","2015","Germaine Fairchild","D-I","Summit League",3,45,0,0.063
+"12","Purdue Fort Wayne","308","2014","John Bassett","D-I","Summit League",40,15,0,0.727
+"13","Purdue Fort Wayne","308","2013","Amy Tudor","D-I","Summit League",34,16,0,0.68
+"14","Purdue Fort Wayne","308","2012","Amy Tudor","D-I","Summit League",45,14,0,0.763
+"15","Purdue Fort Wayne","308","2011","Amy Tudor","D-I","Summit League",28,15,1,0.648
+"16","Purdue Fort Wayne","308","2010","Amy Tudor","D-I","Summit League",29,19,0,0.604
+"17","Purdue Fort Wayne","308","2009","Keith Fisher","D-I","Summit League",14,24,0,0.368
+"18","Purdue Fort Wayne","308","2008","Keith Fisher","D-I","Summit League",18,24,0,0.429
+"19","Purdue Fort Wayne","308","2007","Keith Fisher","D-I","Summit League",6,26,0,0.188
+"20","Purdue Fort Wayne","308","2006","Keith Fisher","D-I","-",11,33,0,0.25
+"21","Purdue Fort Wayne","308","2005","Keith Fisher","D-I","-",14,35,0,0.286
+"22","Purdue Fort Wayne","308","2004","Keith Fisher","D-I","-",10,31,1,0.25
+"23","Purdue Fort Wayne","308","2003","Keith Fisher","D-I","-",18,25,0,0.419
+"24","Purdue Fort Wayne","308","2002","Keith Fisher","D-II","-",9,27,0,0.25
+"25","Purdue Fort Wayne","308","2001","Keith Fisher","D-II","-",7,33,0,0.175
+"26","Purdue Fort Wayne","308","1900","Keith Fisher","D-II","-",14,36,0,0.28
+"27","Purdue Fort Wayne","308","1999","Dean Sullivan","D-II","-",13,19,0,0.406
+"28","Purdue Fort Wayne","308","1998","Dic Doumanian","D-II","-",5,28,0,0.152
+"29","Purdue Fort Wayne","308","1997","Dic Doumanian","D-II","-",8,29,0,0.216
+"30","Purdue Fort Wayne","308","1996","Dean Ehle","D-II","-",7,19,0,0.269
+"31","Purdue Fort Wayne","308","1995","Dean Ehle","D-II","-",10,19,0,0.345
+"32","Purdue Fort Wayne","308","1994","Dale Van Houten","D-II","-",24,19,1,0.557
+"33","Purdue Fort Wayne","308","1993","Dale Van Houten","D-II","-",22,7,0,0.759
+"34","Purdue Fort Wayne","308","1992","Dale Van Houten","D-II","-",14,16,0,0.467
+"35","Purdue Fort Wayne","308","1991","Dale Van Houten","D-II","-",14,14,0,0.5
+"36","Purdue Fort Wayne","308","1990","Dale Van Houten","D-II","-",5,23,0,0.179
+"37","Purdue Fort Wayne","308","1989","Dale Van Houten","D-II","-",3,16,0,0.158
+"38","Purdue Fort Wayne","308","","","","",531,933,3,0.363

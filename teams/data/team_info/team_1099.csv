@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Megan Jenkerson","CCC","19-24-0",0.442
-"2",2022,"Megan Jenkerson","CCC","19-18-1",0.514
-"3",2021,"Katie Connell","CCC","11-13-0",0.458
-"4",2020,"Katie Connell","CCC","1-9-0",0.1
-"5",2019,"Katie Connell","CCC","21-20-0",0.512
-"6",2018,"Katie Connell","CCC","12-23-0",0.343
-"7",2017,"Katie Connell","CCC","15-22-0",0.405
-"8",2016,"Katie Connell","CCC","12-24-1",0.333
-"9",2015,"Katie Connell","CCC","7-23-0",0.233
-"10",2014,"Joy Huseland","CCC","11-22-0",0.333
-"11",2013,"Joy Huseland","CCC","13-23-0",0.361
-"12",2012,"Joy Huseland","CCC","9-26-0",0.257
-"13",2011,"Joy Huseland","CCC","12-23-0",0.343
-"14",2010,"Joy Huseland","CCC","14-20-0",0.412
-"15",2009,"Joy Huseland","CCC","10-25-0",0.286
-"16",2008,"Joy Huseland","CCC","14-23-0",0.378
-"17",2007,"Marc Whitehouse","CCC","12-18-0",0.4
-"18",2006,"Jamie Johnson","CCC","13-23-0",0.361
-"19",2005,"Sarah Baker","CCC","14-18-0",0.438
-"20",2004,"Sarah Baker","CCC","13-19-0",0.406
-"21",2003,"Sarah Baker","CCC","7-19-0",0.269
-"22",2002,"Sarah Baker","CCC","9-20-1",0.31
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Jen Bell","-","11-14-0",0.44
-"25",1999,"Jen Bell","-","11-8-0",0.579
-"26",1998,"","-","0-0-0",NA
-"27",1997,"Valerie Gin","-","8-4-0",0.667
-"28",1996,"Valerie Gin","-","7-8-0",0.467
-"29",1995,"Valerie Gin","-","14-3-0",0.824
-"30",1994,"Valerie Gin","-","10-5-0",0.667
-"31",1993,"Valerie Gin","-","5-5-0",0.5
-"32",1992,"Valerie Gin","-","7-4-0",0.636
-"33",1991,"Valerie Gin","-","5-15-0",0.25
-"34",1990,"Valerie Gin","-","6-10-0",0.375
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Megan Jenkerson","CCC","14-26-0",0.35
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Gordon","1099","2025","Lily Rivera","D-III","CNE",0,0,0,0
+"2","Gordon","1099","2024","Megan Jenkerson","D-III","CNE",14,26,0,0.35
+"3","Gordon","1099","2023","Megan Jenkerson","D-III","CNE",19,24,0,0.442
+"4","Gordon","1099","2022","Megan Jenkerson","D-III","CNE",19,18,1,0.513
+"5","Gordon","1099","2021","Katie Connell","D-III","CNE",11,13,0,0.458
+"6","Gordon","1099","2020","Katie Connell","D-III","CNE",1,9,0,0.1
+"7","Gordon","1099","2019","Katie Connell","D-III","CNE",21,20,0,0.512
+"8","Gordon","1099","2018","Katie Connell","D-III","CNE",12,23,NA,0.343
+"9","Gordon","1099","2017","Katie Connell","D-III","CNE",15,22,0,0.405
+"10","Gordon","1099","2016","Katie Connell","D-III","CNE",12,24,1,0.338
+"11","Gordon","1099","2015","Katie Connell","D-III","CNE",7,23,0,0.233
+"12","Gordon","1099","2014","Joy Huseland","D-III","CNE",11,22,0,0.333
+"13","Gordon","1099","2013","Joy Huseland","D-III","CNE",13,23,0,0.361
+"14","Gordon","1099","2012","Joy Huseland","D-III","CNE",9,26,0,0.257
+"15","Gordon","1099","2011","Joy Huseland","D-III","CNE",12,23,0,0.343
+"16","Gordon","1099","2010","Joy Huseland","D-III","CNE",14,20,0,0.412
+"17","Gordon","1099","2009","Joy Huseland","D-III","CNE",10,25,0,0.286
+"18","Gordon","1099","2008","Joy Huseland","D-III","CNE",14,23,0,0.378
+"19","Gordon","1099","2007","Marc Whitehouse","D-III","CNE",12,18,0,0.4
+"20","Gordon","1099","2006","Jamie Johnson","D-III","CNE",13,23,0,0.361
+"21","Gordon","1099","2005","Sarah Baker","D-III","CNE",14,18,0,0.438
+"22","Gordon","1099","2004","Sarah Baker","D-III","CNE",13,19,0,0.406
+"23","Gordon","1099","2003","Sarah Baker","D-III","CNE",7,19,0,0.269
+"24","Gordon","1099","2002","Sarah Baker","D-III","CNE",9,20,1,0.317
+"25","Gordon","1099","2001","","D-III","-",NA,NA,NA,NA
+"26","Gordon","1099","1900","Jen Bell","D-III","-",11,14,NA,0.44
+"27","Gordon","1099","1999","Jen Bell","D-III","-",11,8,NA,0.579
+"28","Gordon","1099","1998","","D-III","-",NA,NA,NA,NA
+"29","Gordon","1099","1997","Valerie Gin","D-III","-",8,4,NA,0.667
+"30","Gordon","1099","1996","Valerie Gin","D-III","-",7,8,NA,0.467
+"31","Gordon","1099","1995","Valerie Gin","D-III","-",14,3,NA,0.824
+"32","Gordon","1099","1994","Valerie Gin","D-III","-",10,5,NA,0.667
+"33","Gordon","1099","1993","Valerie Gin","D-III","-",5,5,NA,0.5
+"34","Gordon","1099","1992","Valerie Gin","D-III","-",7,4,NA,0.636
+"35","Gordon","1099","1991","Valerie Gin","D-III","-",5,15,NA,0.25
+"36","Gordon","1099","1990","Valerie Gin","D-III","-",6,10,NA,0.375
+"37","Gordon","1099","1989","","D-III","-",NA,NA,NA,NA
+"38","Gordon","1099","1988","","D-III","-",NA,NA,NA,NA
+"39","Gordon","1099","1987","","","-",NA,NA,NA,NA
+"40","Gordon","1099","1986","","","-",NA,NA,NA,NA
+"41","Gordon","1099","1985","","","-",NA,NA,NA,NA
+"42","Gordon","1099","","","","",366,557,3,0.397

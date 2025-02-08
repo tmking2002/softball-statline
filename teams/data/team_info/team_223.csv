@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kyrin Walker","CIAA","15-19-0",0.441
-"2",2022,"Kyrin Walker","CIAA","16-18-0",0.471
-"3",2021,"Anthony Pearson","CIAA","5-5-0",0.5
-"4",2020,"Anthony Pearson","CIAA","5-9-0",0.357
-"5",2019,"Anthony Pearson","CIAA","10-25-0",0.286
-"6",2018,"Jackie Stickley","CIAA","15-25-0",0.375
-"7",2017,"Jackie Stickley","CIAA","23-17-0",0.575
-"8",2016,"Jackie Stickley","CIAA","21-19-0",0.525
-"9",2015,"Jackie Stickley","CIAA","16-14-0",0.533
-"10",2014,"Miguel Justiniano","CIAA","12-24-0",0.333
-"11",2013,"Miguel Justiniano","CIAA","13-30-0",0.302
-"12",2012,"Miguel Justiniano","CIAA","10-37-0",0.213
-"13",2011,"Miguel Justiniano","CIAA","19-23-0",0.452
-"14",2010,"Miguel Justiniano","CIAA","18-18-0",0.5
-"15",2009,"Miguel Justiniano","CIAA","26-25-0",0.51
-"16",2008,"Miguel Justiniano","CIAA","20-16-0",0.556
-"17",2007,"Gail Mays","CIAA","8-25-0",0.242
-"18",2006,"Gail Mays","CIAA","7-17-0",0.292
-"19",2005,"Gail Mays","CIAA","19-17-0",0.528
-"20",2004,"Gail Mays","CIAA","16-23-0",0.41
-"21",2003,"Gail Mays","CIAA","22-14-0",0.611
-"22",2002,"Gail Mays","CIAA","16-17-0",0.485
-"23",2001,"Gail Mays","-","29-13-0",0.69
-"24",2000,"Gail Mays","-","11-23-0",0.324
-"25",1999,"Bobby Henderson","-","13-19-0",0.406
-"26",1998,"Bobby Henderson","-","10-16-0",0.385
-"27",1997,"Bobby Henderson","-","15-17-0",0.469
-"28",1996,"Antonius Smith","-","18-15-0",0.545
-"29",1995,"Darryl Pearson","-","27-14-0",0.659
-"30",1994,"Darryl Pearson","-","18-10-0",0.643
-"31",1993,"Darryl Pearson","-","11-10-0",0.524
-"32",1991,"","-","0-0-0",NA
-"33",2024,"Kyrin Walker","CIAA","10-17-0",0.37
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Fayetteville St.","223","2025","Kyrin Walker","D-II","CIAA",0,2,0,0
+"2","Fayetteville St.","223","2024","Kyrin Walker","D-II","CIAA",15,20,0,0.429
+"3","Fayetteville St.","223","2023","Kyrin Walker","D-II","CIAA",15,19,0,0.441
+"4","Fayetteville St.","223","2022","Kyrin Walker","D-II","CIAA",16,18,0,0.471
+"5","Fayetteville St.","223","2021","Anthony Pearson","D-II","CIAA",5,5,0,0.5
+"6","Fayetteville St.","223","2020","Anthony Pearson","D-II","CIAA",5,9,0,0.357
+"7","Fayetteville St.","223","2019","Anthony Pearson","D-II","CIAA",10,25,0,0.286
+"8","Fayetteville St.","223","2018","Jackie Stickley","D-II","CIAA",15,25,NA,0.375
+"9","Fayetteville St.","223","2017","Jackie Stickley","D-II","CIAA",23,17,0,0.575
+"10","Fayetteville St.","223","2016","Jackie Stickley","D-II","CIAA",21,19,0,0.525
+"11","Fayetteville St.","223","2015","Jackie Stickley","D-II","CIAA",16,14,0,0.533
+"12","Fayetteville St.","223","2014","Miguel Justiniano","D-II","CIAA",12,24,0,0.333
+"13","Fayetteville St.","223","2013","Miguel Justiniano","D-II","CIAA",13,30,0,0.302
+"14","Fayetteville St.","223","2012","Miguel Justiniano","D-II","CIAA",10,37,0,0.213
+"15","Fayetteville St.","223","2011","Miguel Justiniano","D-II","CIAA",19,23,0,0.452
+"16","Fayetteville St.","223","2010","Miguel Justiniano","D-II","CIAA",18,18,0,0.5
+"17","Fayetteville St.","223","2009","Miguel Justiniano","D-II","CIAA",26,25,0,0.51
+"18","Fayetteville St.","223","2008","Miguel Justiniano","D-II","CIAA",20,16,0,0.556
+"19","Fayetteville St.","223","2007","Gail Mays","D-II","CIAA",8,25,0,0.242
+"20","Fayetteville St.","223","2006","Gail Mays","D-II","CIAA",7,17,0,0.292
+"21","Fayetteville St.","223","2005","Gail Mays","D-II","CIAA",19,17,0,0.528
+"22","Fayetteville St.","223","2004","Gail Mays","D-II","CIAA",16,23,0,0.41
+"23","Fayetteville St.","223","2003","Gail Mays","D-II","CIAA",22,14,0,0.611
+"24","Fayetteville St.","223","2002","Gail Mays","D-II","CIAA",16,17,0,0.485
+"25","Fayetteville St.","223","2001","Gail Mays","D-II","-",29,13,0,0.69
+"26","Fayetteville St.","223","1900","Gail Mays","D-II","-",11,23,0,0.324
+"27","Fayetteville St.","223","1999","Bobby Henderson","D-II","-",13,19,0,0.406
+"28","Fayetteville St.","223","1998","Bobby Henderson","D-II","-",10,16,0,0.385
+"29","Fayetteville St.","223","1997","Bobby Henderson","D-II","-",15,17,0,0.469
+"30","Fayetteville St.","223","1996","Antonius Smith","D-II","-",18,15,0,0.545
+"31","Fayetteville St.","223","1995","Darryl Pearson","D-II","-",27,14,0,0.659
+"32","Fayetteville St.","223","1994","Darryl Pearson","D-II","-",18,10,0,0.643
+"33","Fayetteville St.","223","1993","Darryl Pearson","D-II","-",11,10,0,0.524
+"34","Fayetteville St.","223","1991","","D-II","-",NA,NA,NA,NA
+"35","Fayetteville St.","223","","","","",499,596,0,0.456

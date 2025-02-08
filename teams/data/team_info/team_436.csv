@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Amanda Scott","GLVC","34-22-0",0.607
-"2",2022,"Amanda Scott","GLVC","28-22-0",0.56
-"3",2021,"Amanda Scott","GLVC","19-23-0",0.452
-"4",2020,"Amanda Scott","GLVC","12-12-0",0.5
-"5",2019,"Amanda Scott","GLVC","35-19-0",0.648
-"6",2018,"Amanda Scott","GLVC","35-24-0",0.593
-"7",2017,"Amanda Scott","GLVC","42-15-0",0.737
-"8",2016,"Brian Levin","GLVC","53-9-0",0.855
-"9",2015,"Brian Levin","GLVC","48-8-0",0.857
-"10",2014,"Brian Levin","GLVC","49-8-0",0.86
-"11",2013,"Brian Levin","GLVC","41-13-0",0.759
-"12",2012,"Brian Levin","GLVC","27-25-0",0.519
-"13",2011,"Brian Levin","GLVC","31-20-0",0.608
-"14",2010,"Chuck Sosnowski","GLVC","26-20-0",0.565
-"15",2009,"Chuck Sosnowski","GLVC","36-19-0",0.655
-"16",2008,"Chuck Sosnowski","GLVC","28-26-0",0.519
-"17",2007,"Chuck Sosnowski","GLVC","20-30-0",0.4
-"18",2006,"Chuck Sosnowski","GLVC","13-33-0",0.283
-"19",2005,"Nicole Durnin","GLVC","18-28-0",0.391
-"20",2004,"Nicole Durnin","GLVC","27-27-0",0.5
-"21",2003,"Nicole Durnin","GLVC","15-29-1",0.341
-"22",2002,"Lesa Bonee'","-","31-25-0",0.554
-"23",2001,"Lesa Bonee'","-","29-24-0",0.547
-"24",2000,"Lesa Bonee'","-","30-18-0",0.625
-"25",1999,"Charlie Kennedy","-","32-21-0",0.604
-"26",1998,"Charlie Kennedy","-","26-26-0",0.5
-"27",1997,"Charlie Kennedy","-","22-17-0",0.564
-"28",1996,"Robert Westling","-","12-18-0",0.4
-"29",1995,"Kristi Toppins","-","43-29-0",0.597
-"30",1994,"Harold Brumbaugh","-","31-27-0",0.534
-"31",1993,"Harold Brumbaugh","-","24-22-0",0.522
-"32",1992,"Harold Brumbaugh","-","13-30-0",0.302
-"33",1991,"Harold Brumbaugh","-","19-28-0",0.404
-"34",1990,"Harold Brumbaugh","-","31-27-0",0.534
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",2024,"Chelsey Mulligan","GLVC","24-27-0",0.471
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mo.-St. Louis","436","2025","Chelsey Mulligan","D-II","GLVC",2,4,0,0.333
+"2","Mo.-St. Louis","436","2024","Chelsey Mulligan","D-II","GLVC",28,27,0,0.509
+"3","Mo.-St. Louis","436","2023","Amanda Scott","D-II","GLVC",34,22,0,0.607
+"4","Mo.-St. Louis","436","2022","Amanda Scott","D-II","GLVC",28,22,0,0.56
+"5","Mo.-St. Louis","436","2021","Amanda Scott","D-II","GLVC",19,23,0,0.452
+"6","Mo.-St. Louis","436","2020","Amanda Scott","D-II","GLVC",12,12,0,0.5
+"7","Mo.-St. Louis","436","2019","Amanda Scott","D-II","GLVC",35,19,0,0.648
+"8","Mo.-St. Louis","436","2018","Amanda Scott","D-II","GLVC",35,24,NA,0.593
+"9","Mo.-St. Louis","436","2017","Amanda Scott","D-II","GLVC",42,15,0,0.737
+"10","Mo.-St. Louis","436","2016","Brian Levin","D-II","GLVC",53,9,0,0.855
+"11","Mo.-St. Louis","436","2015","Brian Levin","D-II","GLVC",48,8,0,0.857
+"12","Mo.-St. Louis","436","2014","Brian Levin","D-II","GLVC",49,8,0,0.86
+"13","Mo.-St. Louis","436","2013","Brian Levin","D-II","GLVC",41,13,0,0.759
+"14","Mo.-St. Louis","436","2012","Brian Levin","D-II","GLVC",27,25,0,0.519
+"15","Mo.-St. Louis","436","2011","Brian Levin","D-II","GLVC",31,20,0,0.608
+"16","Mo.-St. Louis","436","2010","Chuck Sosnowski","D-II","GLVC",26,20,0,0.565
+"17","Mo.-St. Louis","436","2009","Chuck Sosnowski","D-II","GLVC",36,19,0,0.655
+"18","Mo.-St. Louis","436","2008","Chuck Sosnowski","D-II","GLVC",28,26,0,0.519
+"19","Mo.-St. Louis","436","2007","Chuck Sosnowski","D-II","GLVC",20,30,0,0.4
+"20","Mo.-St. Louis","436","2006","Chuck Sosnowski","D-II","GLVC",13,33,0,0.283
+"21","Mo.-St. Louis","436","2005","Nicole Durnin","D-II","GLVC",18,28,0,0.391
+"22","Mo.-St. Louis","436","2004","Nicole Durnin","D-II","GLVC",27,27,0,0.5
+"23","Mo.-St. Louis","436","2003","Nicole Durnin","D-II","GLVC",15,29,1,0.344
+"24","Mo.-St. Louis","436","2002","Lesa Bonee'","D-II","-",31,25,0,0.554
+"25","Mo.-St. Louis","436","2001","Lesa Bonee'","D-II","-",29,24,0,0.547
+"26","Mo.-St. Louis","436","1900","Lesa Bonee'","D-II","-",30,18,0,0.625
+"27","Mo.-St. Louis","436","1999","Charlie Kennedy","D-II","-",32,21,NA,0.604
+"28","Mo.-St. Louis","436","1998","Charlie Kennedy","D-II","-",26,26,NA,0.5
+"29","Mo.-St. Louis","436","1997","Charlie Kennedy","D-II","-",22,17,NA,0.564
+"30","Mo.-St. Louis","436","1996","Robert Westling","D-II","-",12,18,0,0.4
+"31","Mo.-St. Louis","436","1995","Kristi Toppins","D-II","-",43,29,0,0.597
+"32","Mo.-St. Louis","436","1994","Harold Brumbaugh","D-II","-",31,27,NA,0.534
+"33","Mo.-St. Louis","436","1993","Harold Brumbaugh","D-II","-",24,22,NA,0.522
+"34","Mo.-St. Louis","436","1992","Harold Brumbaugh","D-II","-",13,30,NA,0.302
+"35","Mo.-St. Louis","436","1991","Harold Brumbaugh","D-II","-",19,28,NA,0.404
+"36","Mo.-St. Louis","436","1990","Harold Brumbaugh","D-II","-",31,27,NA,0.534
+"37","Mo.-St. Louis","436","1989","","D-II","-",NA,NA,NA,NA
+"38","Mo.-St. Louis","436","1988","","D-II","-",NA,NA,NA,NA
+"39","Mo.-St. Louis","436","1987","","D-II","-",NA,NA,NA,NA
+"40","Mo.-St. Louis","436","1986","","D-II","-",NA,NA,NA,NA
+"41","Mo.-St. Louis","436","1985","","D-II","-",NA,NA,NA,NA
+"42","Mo.-St. Louis","436","1983","","D-II","-",NA,NA,NA,NA
+"43","Mo.-St. Louis","436","","","","",1010,775,1,0.566

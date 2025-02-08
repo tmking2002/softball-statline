@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tiffany Ozbun","NCAC","18-17-0",0.514
-"2",2022,"Tiffany Ozbun","NCAC","19-22-0",0.463
-"3",2021,"Tiffany Ozbun","NCAC","7-20-0",0.259
-"4",2020,"Tiffany Ozbun","NCAC","3-6-0",0.333
-"5",2019,"Tiffany Ozbun","NCAC","22-14-0",0.611
-"6",2018,"Tiffany Ozbun","NCAC","26-10-0",0.722
-"7",2017,"Tiffany Ozbun","NCAC","29-16-0",0.644
-"8",2016,"Tiffany Ozbun","NCAC","22-16-0",0.579
-"9",2015,"Tiffany Ozbun","NCAC","22-19-0",0.537
-"10",2014,"Tiffany Ozbun","NCAC","20-16-0",0.556
-"11",2013,"Tiffany Ozbun","NCAC","23-15-0",0.605
-"12",2012,"Tiffany Ozbun","NCAC","27-17-0",0.614
-"13",2011,"Tiffany Ozbun","NCAC","30-9-0",0.769
-"14",2010,"Tiffany Ozbun","NCAC","30-17-0",0.638
-"15",2009,"Tiffany Ozbun","NCAC","21-18-0",0.538
-"16",2008,"Tiffany Ozbun","NCAC","28-12-0",0.7
-"17",2007,"Holly Bruder","NCAC","30-15-0",0.667
-"18",2006,"Holly Bruder","NCAC","33-13-0",0.717
-"19",2005,"Holly Bruder","NCAC","21-19-0",0.525
-"20",2004,"Holly Bruder","NCAC","10-26-0",0.278
-"21",2003,"Holly Bruder","NCAC","24-18-0",0.571
-"22",2002,"Holly Bruder","NCAC","27-14-0",0.659
-"23",2001,"Wendy Figgins","-","33-7-0",0.825
-"24",2000,"Wendy Figgins","-","22-14-0",0.611
-"25",1999,"Wendy Figgins","-","17-12-1",0.586
-"26",1998,"Wendy Figgins","-","7-17-0",0.292
-"27",1997,"Wendy Figgins","-","8-22-0",0.267
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1981,"","-","0-0-0",NA
-"40",2024,"Tiffany Ozbun","NCAC","25-12-0",0.676
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Denison","182","2025","Tiffany Ozbun","D-III","NCAC",0,0,0,0
+"2","Denison","182","2024","Tiffany Ozbun","D-III","NCAC",25,12,0,0.676
+"3","Denison","182","2023","Tiffany Ozbun","D-III","NCAC",18,17,0,0.514
+"4","Denison","182","2022","Tiffany Ozbun","D-III","NCAC",19,22,0,0.463
+"5","Denison","182","2021","Tiffany Ozbun","D-III","NCAC",7,20,0,0.259
+"6","Denison","182","2020","Tiffany Ozbun","D-III","NCAC",3,6,0,0.333
+"7","Denison","182","2019","Tiffany Ozbun","D-III","NCAC",22,14,0,0.611
+"8","Denison","182","2018","Tiffany Ozbun","D-III","NCAC",26,10,NA,0.722
+"9","Denison","182","2017","Tiffany Ozbun","D-III","NCAC",29,16,0,0.644
+"10","Denison","182","2016","Tiffany Ozbun","D-III","NCAC",22,16,0,0.579
+"11","Denison","182","2015","Tiffany Ozbun","D-III","NCAC",22,19,0,0.537
+"12","Denison","182","2014","Tiffany Ozbun","D-III","NCAC",20,16,0,0.556
+"13","Denison","182","2013","Tiffany Ozbun","D-III","NCAC",23,15,0,0.605
+"14","Denison","182","2012","Tiffany Ozbun","D-III","NCAC",27,17,0,0.614
+"15","Denison","182","2011","Tiffany Ozbun","D-III","NCAC",30,9,0,0.769
+"16","Denison","182","2010","Tiffany Ozbun","D-III","NCAC",30,17,0,0.638
+"17","Denison","182","2009","Tiffany Ozbun","D-III","NCAC",21,18,0,0.538
+"18","Denison","182","2008","Tiffany Ozbun","D-III","NCAC",28,12,0,0.7
+"19","Denison","182","2007","Holly Bruder","D-III","NCAC",30,15,0,0.667
+"20","Denison","182","2006","Holly Bruder","D-III","NCAC",33,13,0,0.717
+"21","Denison","182","2005","Holly Bruder","D-III","NCAC",21,19,0,0.525
+"22","Denison","182","2004","Holly Bruder","D-III","NCAC",10,26,0,0.278
+"23","Denison","182","2003","Holly Bruder","D-III","NCAC",24,18,0,0.571
+"24","Denison","182","2002","Holly Bruder","D-III","NCAC",27,14,0,0.659
+"25","Denison","182","2001","Wendy Figgins","D-III","-",33,7,NA,0.825
+"26","Denison","182","1900","Wendy Figgins","D-III","-",22,14,NA,0.611
+"27","Denison","182","1999","Wendy Figgins","D-III","-",17,12,1,0.583
+"28","Denison","182","1998","Wendy Figgins","D-III","-",7,17,NA,0.292
+"29","Denison","182","1997","Wendy Figgins","D-III","-",8,22,NA,0.267
+"30","Denison","182","1996","","D-III","-",NA,NA,NA,NA
+"31","Denison","182","1995","","D-III","-",NA,NA,NA,NA
+"32","Denison","182","1994","","D-III","-",NA,NA,NA,NA
+"33","Denison","182","1993","","D-III","-",NA,NA,NA,NA
+"34","Denison","182","1992","","D-III","-",NA,NA,NA,NA
+"35","Denison","182","1991","","D-III","-",NA,NA,NA,NA
+"36","Denison","182","1990","","D-III","-",NA,NA,NA,NA
+"37","Denison","182","1989","","D-III","-",NA,NA,NA,NA
+"38","Denison","182","1988","","D-III","-",NA,NA,NA,NA
+"39","Denison","182","1987","","D-III","-",NA,NA,NA,NA
+"40","Denison","182","1986","","D-III","-",NA,NA,NA,NA
+"41","Denison","182","1981","","","-",NA,NA,NA,NA
+"42","Denison","182","","","","",604,433,1,0.582

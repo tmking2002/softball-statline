@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Davon Ortega","MAAC","19-31-0",0.38
-"2",2022,"Davon Ortega","MAAC","28-25-1",0.528
-"3",2021,"Davon Ortega","MAAC","17-20-0",0.459
-"4",2020,"Davon Ortega","MAAC","1-12-0",0.077
-"5",2019,"Davon Ortega","MAAC","10-44-0",0.185
-"6",2018,"Davon Ortega","MAAC","17-33-0",0.34
-"7",2017,"Jaclyn Timko","MAAC","6-44-0",0.12
-"8",2016,"Jaclyn Timko","MAAC","8-42-0",0.16
-"9",2015,"Tricia Carroll","MAAC","12-35-0",0.255
-"10",2014,"Tricia Carroll","MAAC","6-41-0",0.128
-"11",2013,"Tricia Carroll","MAAC","8-41-0",0.163
-"12",2012,"Tricia Carroll","MAAC","20-33-1",0.377
-"13",2011,"Tricia Carroll","MAAC","9-37-0",0.196
-"14",2010,"Tricia Carroll","MAAC","16-31-1",0.34
-"15",2009,"Tricia Carroll","MAAC","16-32-0",0.333
-"16",2008,"Tricia Carroll","MAAC","12-34-0",0.261
-"17",2007,"Tricia Carroll","MAAC","11-36-0",0.234
-"18",2006,"Tricia Carroll","MAAC","24-28-0",0.462
-"19",2005,"Tricia Carroll","MAAC","16-32-0",0.333
-"20",2004,"Tricia Carroll","MAAC","35-22-0",0.614
-"21",2003,"Tricia Carroll","MAAC","24-25-0",0.49
-"22",2002,"Tricia Carroll","MAAC","18-35-0",0.34
-"23",2001,"Tricia Carroll","MAAC","25-31-0",0.446
-"24",2000,"Tricia Carroll","MAAC","26-16-0",0.619
-"25",1999,"Tricia Carroll","MAAC","19-33-0",0.365
-"26",1998,"Tricia Carroll","-","22-24-0",0.478
-"27",1997,"Tricia Carroll","NEC","24-31-0",0.436
-"28",1996,"Tricia Carroll","-","24-22-0",0.522
-"29",1995,"Tricia Carroll","-","34-12-1",0.739
-"30",1994,"Leslie Hagan","-","35-18-0",0.66
-"31",1993,"Leslie Hagan","-","26-17-1",0.605
-"32",1992,"Leslie Hagan","-","34-12-0",0.739
-"33",1991,"Leslie Hagan","-","31-12-0",0.721
-"34",1990,"Leslie Hagan","-","30-16-0",0.652
-"35",1989,"Leslie Hagan","-","33-13-0",0.717
-"36",1988,"Leslie Hagan","-","29-14-0",0.674
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Davon Ortega","MAAC","23-28-0",0.451
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rider","576","2025","Davon Ortega","D-I","MAAC",0,0,0,0
+"2","Rider","576","2024","Davon Ortega","D-I","MAAC",23,28,0,0.451
+"3","Rider","576","2023","Davon Ortega","D-I","MAAC",19,31,0,0.38
+"4","Rider","576","2022","Davon Ortega","D-I","MAAC",28,25,1,0.528
+"5","Rider","576","2021","Davon Ortega","D-I","MAAC",17,20,0,0.459
+"6","Rider","576","2020","Davon Ortega","D-I","MAAC",1,12,0,0.077
+"7","Rider","576","2019","Davon Ortega","D-I","MAAC",10,44,0,0.185
+"8","Rider","576","2018","Davon Ortega","D-I","MAAC",17,33,NA,0.34
+"9","Rider","576","2017","Jaclyn Timko","D-I","MAAC",6,44,0,0.12
+"10","Rider","576","2016","Jaclyn Timko","D-I","MAAC",8,42,0,0.16
+"11","Rider","576","2015","Tricia Carroll","D-I","MAAC",12,35,0,0.255
+"12","Rider","576","2014","Tricia Carroll","D-I","MAAC",6,41,0,0.128
+"13","Rider","576","2013","Tricia Carroll","D-I","MAAC",8,41,0,0.163
+"14","Rider","576","2012","Tricia Carroll","D-I","MAAC",20,33,1,0.38
+"15","Rider","576","2011","Tricia Carroll","D-I","MAAC",9,37,0,0.196
+"16","Rider","576","2010","Tricia Carroll","D-I","MAAC",16,31,1,0.344
+"17","Rider","576","2009","Tricia Carroll","D-I","MAAC",16,32,0,0.333
+"18","Rider","576","2008","Tricia Carroll","D-I","MAAC",12,34,0,0.261
+"19","Rider","576","2007","Tricia Carroll","D-I","MAAC",11,36,0,0.234
+"20","Rider","576","2006","Tricia Carroll","D-I","MAAC",24,28,0,0.462
+"21","Rider","576","2005","Tricia Carroll","D-I","MAAC",16,32,0,0.333
+"22","Rider","576","2004","Tricia Carroll","D-I","MAAC",35,22,0,0.614
+"23","Rider","576","2003","Tricia Carroll","D-I","MAAC",24,25,0,0.49
+"24","Rider","576","2002","Tricia Carroll","D-I","MAAC",18,35,0,0.34
+"25","Rider","576","2001","Tricia Carroll","D-I","MAAC",25,31,0,0.446
+"26","Rider","576","1900","Tricia Carroll","D-I","MAAC",26,16,0,0.619
+"27","Rider","576","1999","Tricia Carroll","D-I","MAAC",19,33,0,0.365
+"28","Rider","576","1998","Tricia Carroll","D-I","-",22,24,NA,0.478
+"29","Rider","576","1997","Tricia Carroll","D-I","NEC",24,31,0,0.436
+"30","Rider","576","1996","Tricia Carroll","D-I","-",24,22,NA,0.522
+"31","Rider","576","1995","Tricia Carroll","D-I","-",34,12,1,0.734
+"32","Rider","576","1994","Leslie Hagan","D-I","-",35,18,NA,0.66
+"33","Rider","576","1993","Leslie Hagan","D-I","-",26,17,1,0.602
+"34","Rider","576","1992","Leslie Hagan","D-I","-",34,12,NA,0.739
+"35","Rider","576","1991","Leslie Hagan","D-I","-",31,12,NA,0.721
+"36","Rider","576","1990","Leslie Hagan","D-I","-",30,16,NA,0.652
+"37","Rider","576","1989","Leslie Hagan","D-I","-",33,13,NA,0.717
+"38","Rider","576","1988","Leslie Hagan","D-I","-",29,14,NA,0.674
+"39","Rider","576","1987","","D-I","-",NA,NA,NA,NA
+"40","Rider","576","1986","","D-I","-",NA,NA,NA,NA
+"41","Rider","576","1985","","D-I","-",NA,NA,NA,NA
+"42","Rider","576","1984","","D-I","-",NA,NA,NA,NA
+"43","Rider","576","1983","","D-I","-",NA,NA,NA,NA
+"44","Rider","576","1982","","D-I","-",NA,NA,NA,NA
+"45","Rider","576","","","","",748,1012,5,0.425

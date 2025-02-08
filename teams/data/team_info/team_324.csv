@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jeff  Arnold","North Atlantic","6-21-0","0.222"
-"2","2022","Jeff  Arnold","North Atlantic","1-30-0","0.032"
-"3","2021","Anya Adams","North Atlantic","0-13-0","0.000"
-"4","2020","Stacey Fox","North Atlantic","0-10-0","0.000"
-"5","2019","Stacey Fox","North Atlantic","3-27-0","0.100"
-"6","2018","Robert Gervais","North Atlantic","6-22-0","0.214"
-"7","2017","Robert Gervais","North Atlantic","4-18-0","0.182"
-"8","2016","Robert Gervais","North Atlantic","7-19-0","0.269"
-"9","2015","Robert Gervais","North Atlantic","9-15-0","0.375"
-"10","2014","Robert Gervais","North Atlantic","6-23-0","0.207"
-"11","2013","Robert Gervais","North Atlantic","8-19-0","0.296"
-"12","2012","Robert Gervais","North Atlantic","9-25-1","0.265"
-"13","2011","Robert Gervais","North Atlantic","5-21-0","0.192"
-"14","2010","Robert Gervais","North Atlantic","11-14-0","0.440"
-"15","2009","Robert Gervais","North Atlantic","8-17-0","0.320"
-"16","2008","Nelson Murray","North Atlantic","1-24-0","0.040"
-"17","2007","Nelson Murray","North Atlantic","0-19-0","0.000"
-"18","2006","Nelson Murray","North Atlantic","7-15-0","0.318"
-"19","2005","Renee Breault","North Atlantic","4-16-0","0.200"
-"20","2004","Renee Breault","North Atlantic","17-16-0","0.515"
-"21","2003","Renee Breault","-","9-11-0","0.450"
-"22","2002","","-","0-0-0","  NaN"
-"23","2001","","-","0-0-0","  NaN"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","Charlie Mason","-","5-7-0","0.417"
-"27","1997","Charlie Mason","-","6-9-0","0.400"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","VTSU-Johnson","324","2025","Jeff Arnold","D-III","North Atlantic",0,0,0,0
+"2","VTSU-Johnson","324","2024","Jeff Arnold","D-III","North Atlantic",6,18,0,0.25
+"3","VTSU-Johnson","324","2023","Jeff Arnold","D-III","North Atlantic",6,21,0,0.222
+"4","VTSU-Johnson","324","2022","Jeff Arnold","D-III","North Atlantic",1,30,0,0.032
+"5","VTSU-Johnson","324","2021","Anya Adams","D-III","North Atlantic",0,13,0,0
+"6","VTSU-Johnson","324","2020","Stacey Fox","D-III","North Atlantic",0,10,0,0
+"7","VTSU-Johnson","324","2019","Stacey Fox","D-III","North Atlantic",3,27,0,0.1
+"8","VTSU-Johnson","324","2018","Robert Gervais","D-III","North Atlantic",6,22,NA,0.214
+"9","VTSU-Johnson","324","2017","Robert Gervais","D-III","North Atlantic",4,18,0,0.182
+"10","VTSU-Johnson","324","2016","Robert Gervais","D-III","North Atlantic",7,19,0,0.269
+"11","VTSU-Johnson","324","2015","Robert Gervais","D-III","North Atlantic",9,15,0,0.375
+"12","VTSU-Johnson","324","2014","Robert Gervais","D-III","North Atlantic",6,23,0,0.207
+"13","VTSU-Johnson","324","2013","Robert Gervais","D-III","North Atlantic",8,19,0,0.296
+"14","VTSU-Johnson","324","2012","Robert Gervais","D-III","North Atlantic",9,25,1,0.271
+"15","VTSU-Johnson","324","2011","Robert Gervais","D-III","North Atlantic",5,21,0,0.192
+"16","VTSU-Johnson","324","2010","Robert Gervais","D-III","North Atlantic",11,14,0,0.44
+"17","VTSU-Johnson","324","2009","Robert Gervais","D-III","North Atlantic",8,17,0,0.32
+"18","VTSU-Johnson","324","2008","Nelson Murray","D-III","North Atlantic",1,24,0,0.04
+"19","VTSU-Johnson","324","2007","Nelson Murray","D-III","North Atlantic",0,19,0,0
+"20","VTSU-Johnson","324","2006","Nelson Murray","D-III","North Atlantic",7,15,0,0.318
+"21","VTSU-Johnson","324","2005","Renee Breault","D-III","North Atlantic",4,16,0,0.2
+"22","VTSU-Johnson","324","2004","Renee Breault","D-III","North Atlantic",17,16,0,0.515
+"23","VTSU-Johnson","324","2003","Renee Breault","D-III","-",9,11,0,0.45
+"24","VTSU-Johnson","324","2002","","D-III","-",NA,NA,NA,NA
+"25","VTSU-Johnson","324","2001","","D-III","-",NA,NA,NA,NA
+"26","VTSU-Johnson","324","1900","","D-III","-",NA,NA,NA,NA
+"27","VTSU-Johnson","324","1999","","D-III","-",NA,NA,NA,NA
+"28","VTSU-Johnson","324","1998","Charlie Mason","D-III","-",5,7,NA,0.417
+"29","VTSU-Johnson","324","1997","Charlie Mason","D-III","-",6,9,NA,0.4
+"30","VTSU-Johnson","324","1996","","D-III","-",NA,NA,NA,NA
+"31","VTSU-Johnson","324","1995","","D-III","-",NA,NA,NA,NA
+"32","VTSU-Johnson","324","1994","","D-III","-",NA,NA,NA,NA
+"33","VTSU-Johnson","324","1993","","D-III","-",NA,NA,NA,NA
+"34","VTSU-Johnson","324","1992","","D-III","-",NA,NA,NA,NA
+"35","VTSU-Johnson","324","1991","","D-III","-",NA,NA,NA,NA
+"36","VTSU-Johnson","324","1990","","D-III","-",NA,NA,NA,NA
+"37","VTSU-Johnson","324","","","","",138,429,1,0.244

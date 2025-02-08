@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Trena Prater","Big South","42-18-0",0.7
-"2",2022,"Sharonda McDonald-Kelley","Big South","37-19-0",0.661
-"3",2021,"Sharonda McDonald-Kelley","Big South","28-19-0",0.596
-"4",2020,"Sharonda McDonald-Kelley","Big South","10-15-0",0.4
-"5",2019,"Sharonda McDonald-Kelley","Big South","26-28-0",0.481
-"6",2018,"Todd Bradley","Big South","29-27-0",0.518
-"7",2017,"Todd Bradley","Big South","29-29-0",0.5
-"8",2016,"Todd Bradley","Big South","28-31-0",0.475
-"9",2015,"Todd Bradley","Big South","28-27-0",0.509
-"10",2014,"Drew Peterson","Big South","31-27-0",0.534
-"11",2013,"Drew Peterson","Big South","39-21-0",0.65
-"12",2012,"Drew Peterson","Big South","30-29-0",0.508
-"13",2011,"Drew Peterson","ASUN","32-28-0",0.533
-"14",2010,"Drew Peterson","ASUN","23-31-1",0.426
-"15",2009,"Drew Peterson","ASUN","38-16-0",0.704
-"16",2008,"Drew Peterson","ASUN","42-25-0",0.627
-"17",2007,"Drew Peterson","ASUN","29-40-1",0.42
-"18",2006,"Drew Peterson","ASUN","31-28-0",0.525
-"19",2005,"Drew Peterson","ASUN","29-27-0",0.518
-"20",2004,"Drew Peterson","ASUN","20-36-0",0.357
-"21",2003,"Drew Peterson","ASUN","23-31-0",0.426
-"22",2002,"Drew Peterson","ASUN","26-35-0",0.426
-"23",2001,"Drew Peterson","ASUN","30-28-0",0.517
-"24",2000,"Cindee Trapp","ASUN","20-36-0",0.357
-"25",1999,"Cindee Trapp","ASUN","17-36-0",0.321
-"26",1998,"Cindee Trapp","-","29-23-1",0.558
-"27",1997,"Julie Brzezinski","ASUN","29-28-0",0.509
-"28",1996,"Julie Brzezinski","-","33-30-1",0.524
-"29",1995,"Julie Brzezinski","-","47-25-0",0.653
-"30",1994,"Julie Brzezinski","-","40-16-0",0.714
-"31",1993,"Julie Brzezinski","-","29-13-0",0.69
-"32",1992,"Julie Brzezinski","-","25-27-0",0.481
-"33",1991,"Julie Brzezinski","-","22-34-0",0.393
-"34",1990,"Julie Brzezinski","-","20-22-0",0.476
-"35",1986,"","-","0-0-0",NA
-"36",2024,"Trena Prater","CAA","37-21-1",0.638
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Campbell","115","2025","Emily Carosone","D-I","CAA",1,1,0,0.5
+"2","Campbell","115","2024","Trena Prater","D-I","CAA",37,21,1,0.636
+"3","Campbell","115","2023","Trena Prater","D-I","Big South",42,18,0,0.7
+"4","Campbell","115","2022","Sharonda McDonald-Kelley","D-I","Big South",37,19,0,0.661
+"5","Campbell","115","2021","Sharonda McDonald-Kelley","D-I","Big South",28,19,0,0.596
+"6","Campbell","115","2020","Sharonda McDonald-Kelley","D-I","Big South",10,15,0,0.4
+"7","Campbell","115","2019","Sharonda McDonald-Kelley","D-I","Big South",26,28,0,0.481
+"8","Campbell","115","2018","Todd Bradley","D-I","Big South",29,27,NA,0.518
+"9","Campbell","115","2017","Todd Bradley","D-I","Big South",29,29,0,0.5
+"10","Campbell","115","2016","Todd Bradley","D-I","Big South",28,31,0,0.475
+"11","Campbell","115","2015","Todd Bradley","D-I","Big South",28,27,0,0.509
+"12","Campbell","115","2014","Drew Peterson","D-I","Big South",35,31,2,0.529
+"13","Campbell","115","2013","Drew Peterson","D-I","Big South",39,21,0,0.65
+"14","Campbell","115","2012","Drew Peterson","D-I","Big South",30,29,0,0.508
+"15","Campbell","115","2011","Drew Peterson","D-I","ASUN",32,28,0,0.533
+"16","Campbell","115","2010","Drew Peterson","D-I","ASUN",23,31,1,0.427
+"17","Campbell","115","2009","Drew Peterson","D-I","ASUN",38,16,0,0.704
+"18","Campbell","115","2008","Drew Peterson","D-I","ASUN",42,25,0,0.627
+"19","Campbell","115","2007","Drew Peterson","D-I","ASUN",29,40,1,0.421
+"20","Campbell","115","2006","Drew Peterson","D-I","ASUN",31,28,0,0.525
+"21","Campbell","115","2005","Drew Peterson","D-I","ASUN",29,27,0,0.518
+"22","Campbell","115","2004","Drew Peterson","D-I","ASUN",20,36,0,0.357
+"23","Campbell","115","2003","Drew Peterson","D-I","ASUN",23,31,0,0.426
+"24","Campbell","115","2002","Drew Peterson","D-I","ASUN",26,35,0,0.426
+"25","Campbell","115","2001","Drew Peterson","D-I","ASUN",30,28,0,0.517
+"26","Campbell","115","1900","Cindee Trapp","D-I","ASUN",20,36,0,0.357
+"27","Campbell","115","1999","Cindee Trapp","D-I","ASUN",17,36,0,0.321
+"28","Campbell","115","1998","Cindee Trapp","D-I","-",29,23,1,0.557
+"29","Campbell","115","1997","Julie Brzezinski","D-I","ASUN",29,28,0,0.509
+"30","Campbell","115","1996","Julie Brzezinski","D-I","-",33,30,1,0.523
+"31","Campbell","115","1995","Julie Brzezinski","D-I","-",47,25,NA,0.653
+"32","Campbell","115","1994","Julie Brzezinski","D-I","-",40,16,NA,0.714
+"33","Campbell","115","1993","Julie Brzezinski","D-I","-",29,13,NA,0.69
+"34","Campbell","115","1992","Julie Brzezinski","D-I","-",25,27,NA,0.481
+"35","Campbell","115","1991","Julie Brzezinski","D-I","-",22,34,NA,0.393
+"36","Campbell","115","1990","Julie Brzezinski","D-I","-",20,22,NA,0.476
+"37","Campbell","115","1986","","D-I","-",NA,NA,NA,NA
+"38","Campbell","115","","","","",1033,931,7,0.526

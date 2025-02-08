@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jeff Staton","ASC","20-20-0",0.5
-"2",2022,"Jeff Staton","ASC","14-23-0",0.378
-"3",2021,"Jeff Staton","ASC","21-16-0",0.568
-"4",2020,"Jeff Staton","ASC","6-11-0",0.353
-"5",2019,"Rachel Reekstin","ASC","15-25-0",0.375
-"6",2018,"Rachel Reekstin","ASC","25-18-0",0.581
-"7",2017,"Rachel Reekstin","ASC","19-23-0",0.452
-"8",2016,"Rachel Reekstin","ASC","8-32-0",0.2
-"9",2015,"Rachel Reekstin","ASC","8-29-0",0.216
-"10",2014,"Rachel Reekstin","ASC","17-25-0",0.405
-"11",2013,"Denise Lira","ASC","25-15-0",0.625
-"12",2012,"Denise Lira","ASC","18-18-0",0.5
-"13",2011,"Denise Lira","ASC","24-18-0",0.571
-"14",2010,"Stan Warren","ASC","24-16-0",0.6
-"15",2009,"Stan Warren","ASC","20-20-0",0.5
-"16",2008,"Stan Warren","ASC","26-12-0",0.684
-"17",2007,"Stan Warren","ASC","11-23-0",0.324
-"18",2006,"Craig Potts","ASC","14-23-0",0.378
-"19",2005,"Craig Potts","ASC","17-21-0",0.447
-"20",2004,"Craig Potts","ASC","5-31-0",0.139
-"21",2003,"Edward Cantu","-","0-0-0",NA
-"22",2002,"Edward Cantu","ASC","8-26-0",0.235
-"23",2001,"Edward Cantu","-","7-19-0",0.269
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Jeff Staton","ASC","24-18-0",0.571
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Concordia (TX)","24400","2025","Jeff Staton","D-III","SCAC",0,2,0,0
+"2","Concordia (TX)","24400","2024","Jeff Staton","D-III","ASC",24,18,0,0.571
+"3","Concordia (TX)","24400","2023","Jeff Staton","D-III","ASC",20,20,0,0.5
+"4","Concordia (TX)","24400","2022","Jeff Staton","D-III","ASC",14,23,0,0.378
+"5","Concordia (TX)","24400","2021","Jeff Staton","D-III","ASC",21,16,0,0.568
+"6","Concordia (TX)","24400","2020","Jeff Staton","D-III","ASC",6,11,0,0.353
+"7","Concordia (TX)","24400","2019","Rachel Reekstin","D-III","ASC",15,25,0,0.375
+"8","Concordia (TX)","24400","2018","Rachel Reekstin","D-III","ASC",25,18,NA,0.581
+"9","Concordia (TX)","24400","2017","Rachel Reekstin","D-III","ASC",19,23,0,0.452
+"10","Concordia (TX)","24400","2016","Rachel Reekstin","D-III","ASC",8,32,0,0.2
+"11","Concordia (TX)","24400","2015","Rachel Reekstin","D-III","ASC",8,29,0,0.216
+"12","Concordia (TX)","24400","2014","Rachel Reekstin","D-III","ASC",17,25,0,0.405
+"13","Concordia (TX)","24400","2013","Denise Lira","D-III","ASC",25,15,0,0.625
+"14","Concordia (TX)","24400","2012","Denise Lira","D-III","ASC",18,18,0,0.5
+"15","Concordia (TX)","24400","2011","Denise Lira","D-III","ASC",24,18,0,0.571
+"16","Concordia (TX)","24400","2010","Stan Warren","D-III","ASC",24,16,0,0.6
+"17","Concordia (TX)","24400","2009","Stan Warren","D-III","ASC",20,20,0,0.5
+"18","Concordia (TX)","24400","2008","Stan Warren","D-III","ASC",26,12,0,0.684
+"19","Concordia (TX)","24400","2007","Stan Warren","D-III","ASC",11,23,0,0.324
+"20","Concordia (TX)","24400","2006","Craig Potts","D-III","ASC",14,23,0,0.378
+"21","Concordia (TX)","24400","2005","Craig Potts","D-III","ASC",17,21,0,0.447
+"22","Concordia (TX)","24400","2004","Craig Potts","D-III","ASC",5,31,0,0.139
+"23","Concordia (TX)","24400","2003","Edward Cantu","","-",NA,NA,NA,NA
+"24","Concordia (TX)","24400","2002","Edward Cantu","D-III","ASC",8,26,0,0.235
+"25","Concordia (TX)","24400","2001","Edward Cantu","D-III","-",7,19,0,0.269
+"26","Concordia (TX)","24400","1900","","","-",NA,NA,NA,NA
+"27","Concordia (TX)","24400","1999","","","-",NA,NA,NA,NA
+"28","Concordia (TX)","24400","1998","","","-",NA,NA,NA,NA
+"29","Concordia (TX)","24400","1997","","","-",NA,NA,NA,NA
+"30","Concordia (TX)","24400","1996","","","-",NA,NA,NA,NA
+"31","Concordia (TX)","24400","1995","","","-",NA,NA,NA,NA
+"32","Concordia (TX)","24400","1994","","","-",NA,NA,NA,NA
+"33","Concordia (TX)","24400","1993","","","-",NA,NA,NA,NA
+"34","Concordia (TX)","24400","1992","","","-",NA,NA,NA,NA
+"35","Concordia (TX)","24400","1991","","","-",NA,NA,NA,NA
+"36","Concordia (TX)","24400","1990","","","-",NA,NA,NA,NA
+"37","Concordia (TX)","24400","","","","",376,484,0,0.437

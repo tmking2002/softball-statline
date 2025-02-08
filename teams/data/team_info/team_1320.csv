@@ -1,28 +1,30 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"David Williams","Big South","25-22-0",0.532
-"2",2022,"David Williams","Big South","36-15-0",0.706
-"3",2021,"David Williams","Big South","15-19-0",0.441
-"4",2020,"David Williams","Big South","16-8-0",0.667
-"5",2019,"David Williams","Big South","11-40-2",0.216
-"6",2018,"Britne Stubbs","Big South","4-42-0",0.087
-"7",2017,"Britne Stubbs","Big South","18-32-0",0.36
-"8",2016,"Britne Stubbs","Big South","25-28-0",0.472
-"9",2015,"Britne Stubbs","Big South","25-25-0",0.5
-"10",2014,"Kama Tucker","Big South","26-26-0",0.5
-"11",2013,"Kama Tucker","Big South","22-31-0",0.415
-"12",2012,"Kama Tucker","Big South","20-33-0",0.377
-"13",2011,"Dave Majeski","Big South","28-20-1",0.583
-"14",2010,"Dave Majeski","Big South","21-28-0",0.429
-"15",2009,"Dave Majeski","Big South","18-27-0",0.4
-"16",2008,"Dave Majeski","Big South","17-30-0",0.362
-"17",2007,"Dave Majeski","SAC","30-16-0",0.652
-"18",2006,"Jeff Nickerson","SAC","25-33-0",0.431
-"19",2005,"Jeff Nickerson","SAC","35-23-0",0.603
-"20",2004,"Jeff Nickerson","SAC","48-13-0",0.787
-"21",2003,"Barbara Dearing","SAC","27-29-1",0.482
-"22",2002,"Barbara Dearing","SAC","25-29-0",0.463
-"23",2001,"Buster Sturkie","-","30-23-0",0.566
-"24",2000,"Lisa Pearce","-","20-32-1",0.385
-"25",1999,"Buster Sturkie","-","23-23-0",0.5
-"26",1998,"Debbie Holcombe","-","31-16-0",0.66
-"27",2024,"David Williams","Big South","15-36-0",0.294
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Presbyterian","1320","2025","David Williams","D-I","Big South",0,1,0,0
+"2","Presbyterian","1320","2024","David Williams","D-I","Big South",15,36,0,0.294
+"3","Presbyterian","1320","2023","David Williams","D-I","Big South",25,22,0,0.532
+"4","Presbyterian","1320","2022","David Williams","D-I","Big South",36,15,0,0.706
+"5","Presbyterian","1320","2021","David Williams","D-I","Big South",15,19,0,0.441
+"6","Presbyterian","1320","2020","David Williams","D-I","Big South",16,8,0,0.667
+"7","Presbyterian","1320","2019","David Williams","D-I","Big South",11,40,2,0.226
+"8","Presbyterian","1320","2018","Britne Stubbs","D-I","Big South",4,42,NA,0.087
+"9","Presbyterian","1320","2017","Britne Stubbs","D-I","Big South",18,32,0,0.36
+"10","Presbyterian","1320","2016","Britne Stubbs","D-I","Big South",25,28,0,0.472
+"11","Presbyterian","1320","2015","Britne Stubbs","D-I","Big South",25,25,0,0.5
+"12","Presbyterian","1320","2014","Kama Tucker","D-I","Big South",26,26,0,0.5
+"13","Presbyterian","1320","2013","Kama Tucker","D-I","Big South",22,31,0,0.415
+"14","Presbyterian","1320","2012","Kama Tucker","D-I","Big South",20,33,0,0.377
+"15","Presbyterian","1320","2011","Dave Majeski","D-I","Big South",28,20,1,0.582
+"16","Presbyterian","1320","2010","Dave Majeski","D-I","Big South",21,28,0,0.429
+"17","Presbyterian","1320","2009","Dave Majeski","","Big South",18,27,0,0.4
+"18","Presbyterian","1320","2008","Dave Majeski","","Big South",17,30,0,0.362
+"19","Presbyterian","1320","2007","Dave Majeski","D-II","SAC",30,16,0,0.652
+"20","Presbyterian","1320","2006","Jeff Nickerson","D-II","SAC",25,33,0,0.431
+"21","Presbyterian","1320","2005","Jeff Nickerson","D-II","SAC",35,23,0,0.603
+"22","Presbyterian","1320","2004","Jeff Nickerson","D-II","SAC",48,13,0,0.787
+"23","Presbyterian","1320","2003","Barbara Dearing","D-II","SAC",27,29,1,0.482
+"24","Presbyterian","1320","2002","Barbara Dearing","D-II","SAC",25,29,0,0.463
+"25","Presbyterian","1320","2001","Buster Sturkie","D-II","-",30,23,0,0.566
+"26","Presbyterian","1320","1900","Lisa Pearce","D-II","-",20,32,1,0.387
+"27","Presbyterian","1320","1999","Buster Sturkie","D-II","-",23,23,0,0.5
+"28","Presbyterian","1320","1998","Debbie Holcombe","D-II","-",31,16,0,0.66
+"29","Presbyterian","1320","","","","",636,700,5,0.476

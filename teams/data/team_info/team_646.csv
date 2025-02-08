@@ -1,19 +1,21 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Becky Clark","Sun Belt","39-14-0",0.736
-"2",2022,"Becky Clark","Sun Belt","25-21-0",0.543
-"3",2021,"Becky Clark","Sun Belt","31-21-0",0.596
-"4",2020,"Becky Clark","Sun Belt","8-17-0",0.32
-"5",2019,"Becky Clark","Sun Belt","18-31-0",0.367
-"6",2018,"Becky Clark","Sun Belt","29-27-0",0.518
-"7",2017,"Becky Clark","Sun Belt","35-20-0",0.636
-"8",2016,"Becky Clark","Sun Belt","33-18-0",0.647
-"9",2015,"Becky Clark","Sun Belt","40-13-0",0.755
-"10",2014,"Becky Clark","Sun Belt","42-14-0",0.75
-"11",2013,"Becky Clark","Sun Belt","50-9-0",0.847
-"12",2012,"Becky Clark","Sun Belt","41-17-0",0.707
-"13",2011,"Becky Clark","Sun Belt","37-17-0",0.685
-"14",2010,"Becky Clark","Sun Belt","21-24-0",0.467
-"15",2009,"Becky Clark","Sun Belt","27-28-1",0.491
-"16",2008,"Becky Clark","Sun Belt","22-31-0",0.415
-"17",2007,"Becky Clark","Sun Belt","36-23-0",0.61
-"18",2024,"Becky Clark","Sun Belt","34-20-1",0.63
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","South Alabama","646","2025","Becky Clark","D-I","Sun Belt",2,1,0,0.667
+"2","South Alabama","646","2024","Becky Clark","D-I","Sun Belt",34,20,1,0.627
+"3","South Alabama","646","2023","Becky Clark","D-I","Sun Belt",39,14,0,0.736
+"4","South Alabama","646","2022","Becky Clark","D-I","Sun Belt",25,21,0,0.543
+"5","South Alabama","646","2021","Becky Clark","D-I","Sun Belt",31,21,0,0.596
+"6","South Alabama","646","2020","Becky Clark","D-I","Sun Belt",8,17,0,0.32
+"7","South Alabama","646","2019","Becky Clark","D-I","Sun Belt",18,31,0,0.367
+"8","South Alabama","646","2018","Becky Clark","D-I","Sun Belt",29,27,NA,0.518
+"9","South Alabama","646","2017","Becky Clark","D-I","Sun Belt",35,20,0,0.636
+"10","South Alabama","646","2016","Becky Clark","D-I","Sun Belt",33,18,0,0.647
+"11","South Alabama","646","2015","Becky Clark","D-I","Sun Belt",40,13,0,0.755
+"12","South Alabama","646","2014","Becky Clark","D-I","Sun Belt",42,14,0,0.75
+"13","South Alabama","646","2013","Becky Clark","D-I","Sun Belt",50,9,0,0.847
+"14","South Alabama","646","2012","Becky Clark","D-I","Sun Belt",41,17,0,0.707
+"15","South Alabama","646","2011","Becky Clark","D-I","Sun Belt",37,17,0,0.685
+"16","South Alabama","646","2010","Becky Clark","D-I","Sun Belt",21,24,0,0.467
+"17","South Alabama","646","2009","Becky Clark","D-I","Sun Belt",27,28,1,0.491
+"18","South Alabama","646","2008","Becky Clark","D-I","Sun Belt",22,31,0,0.415
+"19","South Alabama","646","2007","Becky Clark","D-I","Sun Belt",36,23,0,0.61
+"20","South Alabama","646","","","","",570,366,2,0.609

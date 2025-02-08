@@ -1,5 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2016",NA,"-","0-0-0",NA
-"3","2014",NA,"-","0-0-0",NA
-"4","2013",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Clarke","506382","2024","",NA,"-",NA,NA,NA,0
+"2","Clarke","506382","2023","Kristen Duross",NA,"-",13,32,0,0.289
+"3","Clarke","506382","2016","",NA,"-",NA,NA,NA,NA
+"4","Clarke","506382","2014","",NA,"-",NA,NA,NA,NA
+"5","Clarke","506382","2013","",NA,"-",NA,NA,NA,NA
+"6","Clarke","506382","","",NA,"",13,32,0,0.289

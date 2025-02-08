@@ -1,30 +1,32 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Les Stuedeman","Gulf South","46-11-0",0.807
-"2",2022,"Les Stuedeman","Gulf South","41-17-0",0.707
-"3",2021,"Les Stuedeman","Gulf South","32-14-0",0.696
-"4",2020,"Les Stuedeman","Gulf South","15-8-0",0.652
-"5",2019,"Les Stuedeman","Gulf South","39-17-0",0.696
-"6",2018,"Les Stuedeman","Gulf South","39-18-0",0.684
-"7",2017,"Les Stuedeman","Gulf South","42-17-0",0.712
-"8",2016,"Les Stuedeman","Gulf South","40-17-0",0.702
-"9",2015,"Les Stuedeman","Gulf South","40-16-0",0.714
-"10",2014,"Les Stuedeman","Gulf South","48-12-0",0.8
-"11",2013,"Les Stuedeman","Gulf South","43-17-0",0.717
-"12",2012,"Les Stuedeman","Gulf South","42-16-0",0.724
-"13",2011,"Les Stuedeman","Gulf South","48-6-1",0.889
-"14",2010,"Les Stuedeman","Gulf South","41-12-0",0.774
-"15",2009,"Les Stuedeman","Gulf South","54-6-0",0.9
-"16",2008,"Les Stuedeman","Gulf South","52-9-0",0.852
-"17",2007,"Les Stuedeman","Gulf South","45-18-0",0.714
-"18",2006,"Les Stuedeman","Gulf South","52-17-0",0.754
-"19",2005,"Les Stuedeman","Gulf South","52-16-0",0.765
-"20",2004,"Les Stuedeman","Gulf South","48-11-0",0.814
-"21",2003,"Les Stuedeman","Gulf South","46-18-0",0.719
-"22",2002,"Les Stuedeman","Gulf South","42-19-0",0.689
-"23",2001,"Les Stuedeman","-","52-14-0",0.788
-"24",2000,"Les Stuedeman","-","56-14-0",0.8
-"25",1999,"Les Stuedeman","-","62-12-0",0.838
-"26",1998,"Les Stuedeman","-","45-17-0",0.726
-"27",1997,"Les Stuedeman","-","24-23-0",0.511
-"28",1996,"Les Stuedeman","-","42-21-0",0.667
-"29",2024,"Les Stuedeman","Gulf South","35-14-0",0.714
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Alabama Huntsville","10","2025","Les Stuedeman","D-II","Gulf South",3,5,0,0.375
+"2","Alabama Huntsville","10","2024","Les Stuedeman","D-II","Gulf South",40,18,0,0.69
+"3","Alabama Huntsville","10","2023","Les Stuedeman","D-II","Gulf South",46,11,0,0.807
+"4","Alabama Huntsville","10","2022","Les Stuedeman","D-II","Gulf South",41,17,0,0.707
+"5","Alabama Huntsville","10","2021","Les Stuedeman","D-II","Gulf South",32,14,0,0.696
+"6","Alabama Huntsville","10","2020","Les Stuedeman","D-II","Gulf South",15,8,0,0.652
+"7","Alabama Huntsville","10","2019","Les Stuedeman","D-II","Gulf South",39,17,0,0.696
+"8","Alabama Huntsville","10","2018","Les Stuedeman","D-II","Gulf South",39,18,NA,0.684
+"9","Alabama Huntsville","10","2017","Les Stuedeman","D-II","Gulf South",42,17,0,0.712
+"10","Alabama Huntsville","10","2016","Les Stuedeman","D-II","Gulf South",40,17,0,0.702
+"11","Alabama Huntsville","10","2015","Les Stuedeman","D-II","Gulf South",40,16,0,0.714
+"12","Alabama Huntsville","10","2014","Les Stuedeman","D-II","Gulf South",48,12,0,0.8
+"13","Alabama Huntsville","10","2013","Les Stuedeman","D-II","Gulf South",43,17,0,0.717
+"14","Alabama Huntsville","10","2012","Les Stuedeman","D-II","Gulf South",42,16,0,0.724
+"15","Alabama Huntsville","10","2011","Les Stuedeman","D-II","Gulf South",48,6,1,0.882
+"16","Alabama Huntsville","10","2010","Les Stuedeman","D-II","Gulf South",41,12,0,0.774
+"17","Alabama Huntsville","10","2009","Les Stuedeman","D-II","Gulf South",54,6,0,0.9
+"18","Alabama Huntsville","10","2008","Les Stuedeman","D-II","Gulf South",52,9,0,0.852
+"19","Alabama Huntsville","10","2007","Les Stuedeman","D-II","Gulf South",45,18,0,0.714
+"20","Alabama Huntsville","10","2006","Les Stuedeman","D-II","Gulf South",52,17,0,0.754
+"21","Alabama Huntsville","10","2005","Les Stuedeman","D-II","Gulf South",52,16,0,0.765
+"22","Alabama Huntsville","10","2004","Les Stuedeman","D-II","Gulf South",48,11,0,0.814
+"23","Alabama Huntsville","10","2003","Les Stuedeman","D-II","Gulf South",46,18,0,0.719
+"24","Alabama Huntsville","10","2002","Les Stuedeman","D-II","Gulf South",42,19,0,0.689
+"25","Alabama Huntsville","10","2001","Les Stuedeman","D-II","-",52,14,0,0.788
+"26","Alabama Huntsville","10","1900","Les Stuedeman","D-II","-",56,14,0,0.8
+"27","Alabama Huntsville","10","1999","Les Stuedeman","D-II","-",62,12,0,0.838
+"28","Alabama Huntsville","10","1998","Les Stuedeman","D-II","-",45,17,0,0.726
+"29","Alabama Huntsville","10","1997","Les Stuedeman","D-II","-",24,23,0,0.511
+"30","Alabama Huntsville","10","1996","Les Stuedeman","D-II","-",42,21,0,0.667
+"31","Alabama Huntsville","10","","","","",1271,436,1,0.744

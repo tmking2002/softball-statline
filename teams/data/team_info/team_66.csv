@@ -1,17 +1,19 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Justin Shults","Mountain West","32-17-0",0.653
-"2",2022,"Justin Shults","Mountain West","40-10-0",0.8
-"3",2021,"Maggie Huffaker","Mountain West","20-25-0",0.444
-"4",2020,"Maggie Huffaker","Mountain West","14-11-0",0.56
-"5",2019,"Maggie Huffaker","Mountain West","36-16-0",0.692
-"6",2018,"Cindy Ball-Malone","Mountain West","40-16-0",0.714
-"7",2017,"Cindy Ball-Malone","Mountain West","33-20-0",0.623
-"8",2016,"Cindy Ball-Malone","Mountain West","14-38-0",0.269
-"9",2015,"Cindy Ball-Malone","Mountain West","12-42-0",0.222
-"10",2014,"Erin Thorpe","Mountain West","30-22-0",0.577
-"11",2013,"Erin Thorpe","Mountain West","26-26-1",0.5
-"12",2012,"Erin Thorpe","Mountain West","34-20-0",0.63
-"13",2011,"Erin Thorpe","WAC","33-20-0",0.623
-"14",2010,"Erin Thorpe","WAC","29-32-0",0.475
-"15",2009,"Erin Thorpe","WAC","22-30-0",0.423
-"16",2024,"Justin Shults","Mountain West","36-23-0",0.61
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Boise St.","66","2025","Justin Shults","D-I","Mountain West",1,0,0,1
+"2","Boise St.","66","2024","Justin Shults","D-I","Mountain West",36,23,0,0.61
+"3","Boise St.","66","2023","Justin Shults","D-I","Mountain West",32,17,0,0.653
+"4","Boise St.","66","2022","Justin Shults","D-I","Mountain West",40,10,0,0.8
+"5","Boise St.","66","2021","Maggie Huffaker","D-I","Mountain West",20,25,0,0.444
+"6","Boise St.","66","2020","Maggie Huffaker","D-I","Mountain West",14,11,0,0.56
+"7","Boise St.","66","2019","Maggie Huffaker","D-I","Mountain West",36,16,0,0.692
+"8","Boise St.","66","2018","Cindy Ball-Malone","D-I","Mountain West",40,16,0,0.714
+"9","Boise St.","66","2017","Cindy Ball-Malone","D-I","Mountain West",33,20,0,0.623
+"10","Boise St.","66","2016","Cindy Ball-Malone","D-I","Mountain West",14,38,0,0.269
+"11","Boise St.","66","2015","Cindy Ball-Malone","D-I","Mountain West",12,42,0,0.222
+"12","Boise St.","66","2014","Erin Thorpe","D-I","Mountain West",30,22,0,0.577
+"13","Boise St.","66","2013","Erin Thorpe","D-I","Mountain West",28,28,2,0.5
+"14","Boise St.","66","2012","Erin Thorpe","D-I","Mountain West",34,21,0,0.618
+"15","Boise St.","66","2011","Erin Thorpe","D-I","WAC",33,20,0,0.623
+"16","Boise St.","66","2010","Erin Thorpe","D-I","WAC",29,32,0,0.475
+"17","Boise St.","66","2009","Erin Thorpe","D-I","WAC",22,30,0,0.423
+"18","Boise St.","66","","","","",454,371,2,0.55

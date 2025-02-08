@@ -1,17 +1,19 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2019",NA,"-","0-0-0",0
-"5","2013",NA,"-","0-0-0",NA
-"6","2012",NA,"-","0-0-0",NA
-"7","2011",NA,"-","0-0-0",NA
-"8","2010",NA,"-","0-0-0",NA
-"9","2009",NA,"-","0-0-0",NA
-"10","2008",NA,"-","0-0-0",NA
-"11","2007",NA,"-","0-0-0",NA
-"12","2006",NA,"-","0-0-0",NA
-"13","2005",NA,"-","0-0-0",NA
-"14","2004",NA,"-","0-0-0",NA
-"15","2003",NA,"-","0-0-0",NA
-"16","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Hannibal-La Grange","502043","2025",NA,NA,"-",NA,NA,NA,0
+"2","Hannibal-La Grange","502043","2024",NA,NA,"-",NA,NA,NA,0
+"3","Hannibal-La Grange","502043","2022",NA,NA,"-",NA,NA,NA,0
+"4","Hannibal-La Grange","502043","2021",NA,NA,"-",NA,NA,NA,0
+"5","Hannibal-La Grange","502043","2019",NA,NA,"-",NA,NA,NA,0
+"6","Hannibal-La Grange","502043","2013",NA,NA,"-",NA,NA,NA,NA
+"7","Hannibal-La Grange","502043","2012",NA,NA,"-",NA,NA,NA,NA
+"8","Hannibal-La Grange","502043","2011",NA,NA,"-",NA,NA,NA,NA
+"9","Hannibal-La Grange","502043","2010",NA,NA,"-",NA,NA,NA,NA
+"10","Hannibal-La Grange","502043","2009",NA,NA,"-",NA,NA,NA,NA
+"11","Hannibal-La Grange","502043","2008",NA,NA,"-",NA,NA,NA,NA
+"12","Hannibal-La Grange","502043","2007",NA,NA,"-",NA,NA,NA,NA
+"13","Hannibal-La Grange","502043","2006",NA,NA,"-",NA,NA,NA,NA
+"14","Hannibal-La Grange","502043","2005",NA,NA,"-",NA,NA,NA,NA
+"15","Hannibal-La Grange","502043","2004",NA,NA,"-",NA,NA,NA,NA
+"16","Hannibal-La Grange","502043","2003",NA,NA,"-",NA,NA,NA,NA
+"17","Hannibal-La Grange","502043","2002",NA,NA,"-",NA,NA,NA,NA
+"18","Hannibal-La Grange","502043","",NA,NA,"",0,0,0,0

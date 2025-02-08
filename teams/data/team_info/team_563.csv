@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Alisa Tasler","Big South","16-34-0",0.32
-"2",2022,"Alisa Tasler","Big South","19-29-0",0.396
-"3",2021,"Hope Creasy","Big South","22-32-0",0.407
-"4",2020,"Hope Creasy","Big South","13-3-0",0.812
-"5",2019,"Hope Creasy","Big South","25-34-0",0.424
-"6",2018,"Hope Creasy","Big South","36-19-0",0.655
-"7",2017,"Aileen Morales","Big South","27-28-0",0.491
-"8",2016,"Aileen Morales","Big South","35-26-0",0.574
-"9",2015,"Maggie Johnson","Big South","12-37-0",0.245
-"10",2014,"Maggie Johnson","Big South","22-30-0",0.423
-"11",2013,"Maggie Johnson","Big South","20-36-0",0.357
-"12",2012,"Mickey Dean","Big South","34-21-0",0.618
-"13",2011,"Mickey Dean","Big South","38-21-0",0.644
-"14",2010,"Mickey Dean","Big South","38-17-0",0.691
-"15",2009,"Mickey Dean","Big South","41-15-0",0.732
-"16",2008,"Mickey Dean","Big South","46-15-0",0.754
-"17",2007,"Mickey Dean","Big South","44-27-0",0.62
-"18",2006,"Amy Kvilhaug","Big South","40-22-0",0.645
-"19",2005,"Amy Kvilhaug","Big South","39-25-0",0.609
-"20",2004,"Amy Kvilhaug","Big South","31-32-0",0.492
-"21",2003,"Amy Kvilhaug","Big South","17-36-0",0.321
-"22",2002,"Kami Sutton (7-28)Jeff Woods (11-13)Kari Whitney (11-13)","Big South","18-41-0",0.305
-"23",2001,"Kami Sutton","Big South","24-35-1",0.407
-"24",2000,"Kami Sutton","Big South","9-50-0",0.153
-"25",1999,"Kami Sutton","Big South","25-27-0",0.481
-"26",1998,"Charlie Gunter","-","26-27-0",0.491
-"27",1997,"Charlie Gunter","Big South","25-29-0",0.463
-"28",1996,"Charlie Gunter","-","33-24-0",0.579
-"29",1995,"Jeff Woods","-","20-33-0",0.377
-"30",1994,"Jeff Woods","-","11-32-0",0.256
-"31",1993,"Jeff Woods","-","6-28-0",0.176
-"32",1992,"Jeff Woods","-","6-25-0",0.194
-"33",2024,"Alisa Tasler","Big South","24-23-0",0.511
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Radford","563","2025","Kevin Fagan","D-I","Big South",0,0,0,0
+"2","Radford","563","2024","Alisa Tasler","D-I","Big South",24,23,0,0.511
+"3","Radford","563","2023","Alisa Tasler","D-I","Big South",16,34,0,0.32
+"4","Radford","563","2022","Alisa Tasler","D-I","Big South",19,29,0,0.396
+"5","Radford","563","2021","Hope Creasy","D-I","Big South",22,32,0,0.407
+"6","Radford","563","2020","Hope Creasy","D-I","Big South",13,3,0,0.813
+"7","Radford","563","2019","Hope Creasy","D-I","Big South",25,34,0,0.424
+"8","Radford","563","2018","Hope Creasy","D-I","Big South",36,19,NA,0.655
+"9","Radford","563","2017","Aileen Morales","D-I","Big South",27,28,0,0.491
+"10","Radford","563","2016","Aileen Morales","D-I","Big South",35,26,0,0.574
+"11","Radford","563","2015","Maggie Johnson","D-I","Big South",12,37,0,0.245
+"12","Radford","563","2014","Maggie Johnson","D-I","Big South",22,30,0,0.423
+"13","Radford","563","2013","Maggie Johnson","D-I","Big South",20,36,0,0.357
+"14","Radford","563","2012","Mickey Dean","D-I","Big South",34,21,0,0.618
+"15","Radford","563","2011","Mickey Dean","D-I","Big South",38,21,0,0.644
+"16","Radford","563","2010","Mickey Dean","D-I","Big South",38,17,0,0.691
+"17","Radford","563","2009","Mickey Dean","D-I","Big South",41,15,0,0.732
+"18","Radford","563","2008","Mickey Dean","D-I","Big South",46,15,0,0.754
+"19","Radford","563","2007","Mickey Dean","D-I","Big South",44,27,0,0.62
+"20","Radford","563","2006","Amy Kvilhaug","D-I","Big South",40,22,0,0.645
+"21","Radford","563","2005","Amy Kvilhaug","D-I","Big South",39,25,0,0.609
+"22","Radford","563","2004","Amy Kvilhaug","D-I","Big South",31,32,0,0.492
+"23","Radford","563","2003","Amy Kvilhaug","D-I","Big South",17,36,0,0.321
+"24","Radford","563","2002","Kami Sutton (7-28)Jeff Woods (11-13)Kari Whitney (11-13)","D-I","Big South",18,41,0,0.305
+"25","Radford","563","2001","Kami Sutton","D-I","Big South",24,35,1,0.408
+"26","Radford","563","1900","Kami Sutton","D-I","Big South",9,50,0,0.153
+"27","Radford","563","1999","Kami Sutton","D-I","Big South",25,27,0,0.481
+"28","Radford","563","1998","Charlie Gunter","D-I","-",26,27,NA,0.491
+"29","Radford","563","1997","Charlie Gunter","D-I","Big South",25,29,0,0.463
+"30","Radford","563","1996","Charlie Gunter","D-I","-",33,24,NA,0.579
+"31","Radford","563","1995","Jeff Woods","D-I","-",20,33,NA,0.377
+"32","Radford","563","1994","Jeff Woods","D-I","-",11,32,NA,0.256
+"33","Radford","563","1993","Jeff Woods","D-I","-",6,28,NA,0.176
+"34","Radford","563","1992","Jeff Woods","D-I","-",6,25,NA,0.194
+"35","Radford","563","","","","",842,913,1,0.48

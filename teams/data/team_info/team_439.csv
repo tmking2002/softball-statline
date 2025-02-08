@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Shannon Salsburg","CAA","10-34-0","0.227"
-"2","2022","Shannon Salsburg","MAAC","11-38-0","0.224"
-"3","2021","Shannon Salsburg","MAAC","25-9-0","0.735"
-"4","2020","Shannon Salsburg","MAAC","11-9-0","0.550"
-"5","2019","Shannon Salsburg","MAAC","36-18-0","0.667"
-"6","2018","Shannon Salsburg","MAAC","31-16-0","0.660"
-"7","2017","Shannon Salsburg","MAAC","25-31-0","0.446"
-"8","2016","Shannon Salsburg","MAAC","29-21-0","0.580"
-"9","2015","Louie Berndt","MAAC","19-25-0","0.432"
-"10","2014","Louie Berndt","MAAC","22-21-0","0.512"
-"11","2013","Louie Berndt","NEC","31-16-0","0.660"
-"12","2012","Louie Berndt","NEC","24-20-0","0.545"
-"13","2011","Louie Berndt","NEC","21-21-0","0.500"
-"14","2010","Louie Berndt","NEC","30-18-0","0.625"
-"15","2009","Carol Sullivan","NEC","26-18-1","0.591"
-"16","2008","Carol Sullivan","NEC","19-22-1","0.463"
-"17","2007","Carol Sullivan","NEC","31-18-0","0.633"
-"18","2006","Carol Sullivan","NEC","20-25-0","0.444"
-"19","2005","Carol Sullivan","NEC","29-20-0","0.592"
-"20","2004","Carol Sullivan","NEC","19-23-0","0.452"
-"21","2003","Carol Sullivan","NEC","17-26-0","0.395"
-"22","2002","Carol Sullivan","NEC","18-23-0","0.439"
-"23","2001","Chris Wajda","NEC","28-21-0","0.571"
-"24","2000","Chris Wajda","NEC","32-13-1","0.711"
-"25","1999","Chris Wajda","NEC","35-13-0","0.729"
-"26","1998","Chris Wajda","-","26-15-1","0.634"
-"27","1997","Chris Wajda","NEC","24-27-0","0.471"
-"28","1996","Chris Wajda","-","23-25-0","0.479"
-"29","1995","Chris Wajda","-","37-19-1","0.661"
-"30","1994","Pat Adorna","-","22-22-0","0.500"
-"31","1993","Pat Adorna","-","12-25-0","0.324"
-"32","1992","Pat Adorna","-","11-24-1","0.314"
-"33","1991","Pat Adorna","-","14-29-0","0.326"
-"34","1990","Pat Adorna","-","11-27-1","0.289"
-"35","1989","Pat Adorna","-","16-23-0","0.410"
-"36","1988","","-","0-0-0","  NaN"
-"37","1986","","-","0-0-0","  NaN"
-"38","1985","","-","0-0-0","  NaN"
-"39","1984","","-","0-0-0","  NaN"
-"40","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Monmouth","439","2025","Morgan Royer","D-I","CAA",0,1,0,0
+"2","Monmouth","439","2024","Shannon Salsburg","D-I","CAA",18,33,0,0.353
+"3","Monmouth","439","2023","Shannon Salsburg","D-I","CAA",10,34,0,0.227
+"4","Monmouth","439","2022","Shannon Salsburg","D-I","MAAC",11,38,0,0.224
+"5","Monmouth","439","2021","Shannon Salsburg","D-I","MAAC",25,9,0,0.735
+"6","Monmouth","439","2020","Shannon Salsburg","D-I","MAAC",11,9,0,0.55
+"7","Monmouth","439","2019","Shannon Salsburg","D-I","MAAC",36,18,0,0.667
+"8","Monmouth","439","2018","Shannon Salsburg","D-I","MAAC",31,16,0,0.66
+"9","Monmouth","439","2017","Shannon Salsburg","D-I","MAAC",25,31,0,0.446
+"10","Monmouth","439","2016","Shannon Salsburg","D-I","MAAC",29,21,0,0.58
+"11","Monmouth","439","2015","Louie Berndt","D-I","MAAC",19,25,0,0.432
+"12","Monmouth","439","2014","Louie Berndt","D-I","MAAC",22,21,0,0.512
+"13","Monmouth","439","2013","Louie Berndt","D-I","NEC",31,16,0,0.66
+"14","Monmouth","439","2012","Louie Berndt","D-I","NEC",24,20,0,0.545
+"15","Monmouth","439","2011","Louie Berndt","D-I","NEC",21,21,0,0.5
+"16","Monmouth","439","2010","Louie Berndt","D-I","NEC",30,18,0,0.625
+"17","Monmouth","439","2009","Carol Sullivan","D-I","NEC",26,18,1,0.589
+"18","Monmouth","439","2008","Carol Sullivan","D-I","NEC",19,22,1,0.464
+"19","Monmouth","439","2007","Carol Sullivan","D-I","NEC",31,18,0,0.633
+"20","Monmouth","439","2006","Carol Sullivan","D-I","NEC",20,25,0,0.444
+"21","Monmouth","439","2005","Carol Sullivan","D-I","NEC",29,20,0,0.592
+"22","Monmouth","439","2004","Carol Sullivan","D-I","NEC",19,23,0,0.452
+"23","Monmouth","439","2003","Carol Sullivan","D-I","NEC",17,26,0,0.395
+"24","Monmouth","439","2002","Carol Sullivan","D-I","NEC",18,23,0,0.439
+"25","Monmouth","439","2001","Chris Wajda","D-I","NEC",28,21,0,0.571
+"26","Monmouth","439","1900","Chris Wajda","D-I","NEC",32,13,1,0.707
+"27","Monmouth","439","1999","Chris Wajda","D-I","NEC",35,13,0,0.729
+"28","Monmouth","439","1998","Chris Wajda","D-I","-",26,15,1,0.631
+"29","Monmouth","439","1997","Chris Wajda","D-I","NEC",24,27,0,0.471
+"30","Monmouth","439","1996","Chris Wajda","D-I","-",23,25,NA,0.479
+"31","Monmouth","439","1995","Chris Wajda","D-I","-",37,19,1,0.658
+"32","Monmouth","439","1994","Pat Adorna","D-I","-",22,22,0,0.5
+"33","Monmouth","439","1993","Pat Adorna","D-I","-",12,25,0,0.324
+"34","Monmouth","439","1992","Pat Adorna","D-I","-",11,24,1,0.319
+"35","Monmouth","439","1991","Pat Adorna","D-I","-",14,29,0,0.326
+"36","Monmouth","439","1990","Pat Adorna","D-I","-",11,27,1,0.295
+"37","Monmouth","439","1989","Pat Adorna","D-I","-",16,23,0,0.41
+"38","Monmouth","439","1988","","D-I","-",NA,NA,NA,NA
+"39","Monmouth","439","1986","","D-I","-",NA,NA,NA,NA
+"40","Monmouth","439","1985","","D-I","-",NA,NA,NA,NA
+"41","Monmouth","439","1984","","D-I","-",NA,NA,NA,NA
+"42","Monmouth","439","1983","","D-II","-",NA,NA,NA,NA
+"43","Monmouth","439","","","","",813,789,7,0.507

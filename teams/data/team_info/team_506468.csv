@@ -1,12 +1,13 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2021",NA,"-","0-0-0",0
-"5","2020",NA,"-","0-0-0",0
-"6","2019",NA,"-","0-0-0",0
-"7","2018",NA,"-","0-0-0",0
-"8","2017",NA,"-","0-0-0",NA
-"9","2016",NA,"-","0-0-0",NA
-"10","2015",NA,"-","0-0-0",NA
-"11","2014",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Katherine","506468","2024","Candi Letts",NA,"-",9,30,0,0.231
+"2","St. Katherine","506468","2023","Candi Letts",NA,"-",9,35,0,0.205
+"3","St. Katherine","506468","2022","Candi Letts",NA,"-",19,29,0,0.396
+"4","St. Katherine","506468","2021","",NA,"-",NA,NA,NA,0
+"5","St. Katherine","506468","2020","",NA,"-",NA,NA,NA,0
+"6","St. Katherine","506468","2019","",NA,"-",NA,NA,NA,0
+"7","St. Katherine","506468","2018","",NA,"-",NA,NA,NA,0
+"8","St. Katherine","506468","2017","",NA,"-",NA,NA,NA,NA
+"9","St. Katherine","506468","2016","",NA,"-",NA,NA,NA,NA
+"10","St. Katherine","506468","2015","",NA,"-",NA,NA,NA,NA
+"11","St. Katherine","506468","2014","",NA,"-",NA,NA,NA,NA
+"12","St. Katherine","506468","","",NA,"",37,94,0,0.282

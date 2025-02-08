@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Meaggan Pettipiece","MVC","8-41-0","0.163"
-"2","2022","Amanda Eberhart","MVC","14-33-0","0.298"
-"3","2021","Kate Stake","MVC","5-35-0","0.125"
-"4","2020","Kate Stake","MVC","9-10-0","0.474"
-"5","2019","Kate Stake","MVC","16-31-0","0.340"
-"6","2018","Kate Stake","MVC","27-24-0","0.529"
-"7","2017","Kate Stake","Horizon","28-23-0","0.549"
-"8","2016","Kate Stake","Horizon","18-34-0","0.346"
-"9","2015","Kate Stake","Horizon","16-35-0","0.314"
-"10","2014","Jordan Stevens (20-29)Joylyn Ichiyama (4-5)","Horizon","24-34-0","0.414"
-"11","2013","Jordan Stevens","Horizon","35-27-0","0.565"
-"12","2012","Jordan Stevens","Horizon","42-19-0","0.689"
-"13","2011","Jordan Stevens","Horizon","34-21-1","0.618"
-"14","2010","Randy Schneider","Horizon","35-21-0","0.625"
-"15","2009","Randy Schneider","Horizon","25-24-0","0.510"
-"16","2008","Randy Schneider","Horizon","30-19-0","0.612"
-"17","2007","Randy Schneider","Summit League","27-19-0","0.587"
-"18","2006","Randy Schneider","Summit League","22-30-0","0.423"
-"19","2005","Randy Schneider","Summit League","12-40-1","0.231"
-"20","2004","Randy Schneider","Summit League","21-34-0","0.382"
-"21","2003","Jerry Stieger","Summit League","7-37-0","0.159"
-"22","2002","Jerry Stieger","Summit League","14-31-0","0.311"
-"23","2001","Jerry Stieger","Summit League","7-38-0","0.156"
-"24","2000","Jerry Stieger","Summit League","17-29-0","0.370"
-"25","1999","Jerry Stieger","Summit League","8-30-0","0.211"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","Darrell Wilder","Summit League","17-35-0","0.327"
-"28","1996","Dick Smith","-","12-35-0","0.255"
-"29","1995","Dick Smith","-","12-35-0","0.255"
-"30","1994","Myra Minuskin","-","18-35-0","0.340"
-"31","1993","Scot Sutherland","-","17-37-0","0.315"
-"32","1992","Scot Sutherland","-","13-34-0","0.277"
-"33","1991","Scot Sutherland","-","16-37-0","0.302"
-"34","1990","Pam Salm","-","17-30-0","0.362"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Valparaiso","735","2025","Mike Armitage","D-I","MVC",0,0,0,0
+"2","Valparaiso","735","2024","Meaggan Pettipiece (7-20)Laney Jones (2-20)","D-I","MVC",9,40,0,0.184
+"3","Valparaiso","735","2023","Meaggan Pettipiece","D-I","MVC",8,41,0,0.163
+"4","Valparaiso","735","2022","Amanda Eberhart","D-I","MVC",14,33,0,0.298
+"5","Valparaiso","735","2021","Kate Stake","D-I","MVC",5,35,0,0.125
+"6","Valparaiso","735","2020","Kate Stake","D-I","MVC",9,10,0,0.474
+"7","Valparaiso","735","2019","Kate Stake","D-I","MVC",16,31,0,0.34
+"8","Valparaiso","735","2018","Kate Stake","D-I","MVC",27,24,NA,0.529
+"9","Valparaiso","735","2017","Kate Stake","D-I","Horizon",28,23,0,0.549
+"10","Valparaiso","735","2016","Kate Stake","D-I","Horizon",18,34,0,0.346
+"11","Valparaiso","735","2015","Kate Stake","D-I","Horizon",16,35,0,0.314
+"12","Valparaiso","735","2014","Jordan Stevens (20-29)Joylyn Ichiyama (4-5)","D-I","Horizon",24,34,0,0.414
+"13","Valparaiso","735","2013","Jordan Stevens","D-I","Horizon",35,27,0,0.565
+"14","Valparaiso","735","2012","Jordan Stevens","D-I","Horizon",42,19,0,0.689
+"15","Valparaiso","735","2011","Jordan Stevens","D-I","Horizon",34,21,1,0.616
+"16","Valparaiso","735","2010","Randy Schneider","D-I","Horizon",35,21,0,0.625
+"17","Valparaiso","735","2009","Randy Schneider","D-I","Horizon",25,24,0,0.51
+"18","Valparaiso","735","2008","Randy Schneider","D-I","Horizon",30,19,0,0.612
+"19","Valparaiso","735","2007","Randy Schneider","D-I","Summit League",27,19,0,0.587
+"20","Valparaiso","735","2006","Randy Schneider","D-I","Summit League",22,30,0,0.423
+"21","Valparaiso","735","2005","Randy Schneider","D-I","Summit League",12,40,1,0.236
+"22","Valparaiso","735","2004","Randy Schneider","D-I","Summit League",21,34,0,0.382
+"23","Valparaiso","735","2003","Jerry Stieger","D-I","Summit League",7,37,0,0.159
+"24","Valparaiso","735","2002","Jerry Stieger","D-I","Summit League",14,31,0,0.311
+"25","Valparaiso","735","2001","Jerry Stieger","D-I","Summit League",7,38,0,0.156
+"26","Valparaiso","735","1900","Jerry Stieger","D-I","Summit League",17,29,0,0.37
+"27","Valparaiso","735","1999","Jerry Stieger","D-I","Summit League",8,30,0,0.211
+"28","Valparaiso","735","1998","","D-I","-",NA,NA,NA,NA
+"29","Valparaiso","735","1997","Darrell Wilder","D-I","Summit League",17,35,0,0.327
+"30","Valparaiso","735","1996","Dick Smith","D-I","-",12,35,NA,0.255
+"31","Valparaiso","735","1995","Dick Smith","D-I","-",12,35,NA,0.255
+"32","Valparaiso","735","1994","Myra Minuskin","D-I","-",18,35,NA,0.34
+"33","Valparaiso","735","1993","Scot Sutherland","D-I","-",17,37,NA,0.315
+"34","Valparaiso","735","1992","Scot Sutherland","D-I","-",13,34,NA,0.277
+"35","Valparaiso","735","1991","Scot Sutherland","D-I","-",16,37,NA,0.302
+"36","Valparaiso","735","1990","Pam Salm","D-I","-",17,30,NA,0.362
+"37","Valparaiso","735","1989","","D-I","-",NA,NA,NA,NA
+"38","Valparaiso","735","1988","","D-I","-",NA,NA,NA,NA
+"39","Valparaiso","735","1987","","D-I","-",NA,NA,NA,NA
+"40","Valparaiso","735","1986","","D-I","-",NA,NA,NA,NA
+"41","Valparaiso","735","1985","","D-I","-",NA,NA,NA,NA
+"42","Valparaiso","735","1983","","D-I","-",NA,NA,NA,NA
+"43","Valparaiso","735","","","","",632,1037,2,0.379

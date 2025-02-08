@@ -1,5 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mike Ellison","SIAC","42-7-0",0.857
-"2",2022,"Brian Daley","SIAC","32-11-0",0.744
-"3",2021,"Brian Daley","-","18-22-0",0.45
-"4",2024,"Mike Ellison","SIAC","27-9-0",0.75
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Edward Waters","30244","2025","Mike Ellison","D-II","SIAC",3,3,0,0.5
+"2","Edward Waters","30244","2024","Mike Ellison","D-II","SIAC",38,18,0,0.679
+"3","Edward Waters","30244","2023","Mike Ellison","D-II","SIAC",42,7,0,0.857
+"4","Edward Waters","30244","2022","Brian Daley","D-II","SIAC",32,11,0,0.744
+"5","Edward Waters","30244","2021","Brian Daley","","-",18,22,0,0.45
+"6","Edward Waters","30244","","","","",133,61,0,0.686

@@ -1,20 +1,21 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2017","Angela Dean","-","19-34-0",0.358
-"2","2016","Angela Dean","-","21-31-0",0.404
-"3","2015","Angela Dean","-","20-23-0",0.465
-"4","2014","Angela Dean","-","16-35-0",0.314
-"5","2013","Angela Dean","-","10-36-2",0.229
-"6","2012","Angela Dean","-","10-40-0",0.2
-"7","2011","Angela Dean","-","20-31-0",0.392
-"8","2010","Angela Dean","-","21-24-0",0.467
-"9","2009","Angela Dean","-","16-27-0",0.372
-"10","2008","Angela Dean","-","21-20-0",0.512
-"11","2007","Angela Dean","-","24-31-0",0.436
-"12","2006","Angela Dean","-","25-27-0",0.481
-"13","2005","Angela Dean","-","18-17-0",0.514
-"14","2004","Angela Dean","-","22-19-0",0.537
-"15","2003","Angela Dean","-","0-0-0",0
-"16","2002","Angela Dean","-","24-18-1",0.57
-"17","2001","Angela Dean","-","0-0-0",0
-"18","2000","Angela Dean","-","0-0-0",0
-"19","1999","Angela Dean","-","0-0-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cumberlands (KY)","506101","2017","Angela Dean",NA,"-",19,34,0,0.358
+"2","Cumberlands (KY)","506101","2016","Angela Dean",NA,"-",21,31,0,0.404
+"3","Cumberlands (KY)","506101","2015","Angela Dean",NA,"-",20,23,0,0.465
+"4","Cumberlands (KY)","506101","2014","Angela Dean",NA,"-",16,35,0,0.314
+"5","Cumberlands (KY)","506101","2013","Angela Dean",NA,"-",10,36,2,0.229
+"6","Cumberlands (KY)","506101","2012","Angela Dean",NA,"-",10,40,0,0.2
+"7","Cumberlands (KY)","506101","2011","Angela Dean",NA,"-",20,31,0,0.392
+"8","Cumberlands (KY)","506101","2010","Angela Dean",NA,"-",21,24,0,0.467
+"9","Cumberlands (KY)","506101","2009","Angela Dean",NA,"-",16,27,0,0.372
+"10","Cumberlands (KY)","506101","2008","Angela Dean",NA,"-",21,20,0,0.512
+"11","Cumberlands (KY)","506101","2007","Angela Dean",NA,"-",24,31,0,0.436
+"12","Cumberlands (KY)","506101","2006","Angela Dean",NA,"-",25,27,0,0.481
+"13","Cumberlands (KY)","506101","2005","Angela Dean",NA,"-",18,17,0,0.514
+"14","Cumberlands (KY)","506101","2004","Angela Dean",NA,"-",22,19,0,0.537
+"15","Cumberlands (KY)","506101","2003","Angela Dean",NA,"-",NA,NA,NA,0
+"16","Cumberlands (KY)","506101","2002","Angela Dean",NA,"-",24,18,1,0.57
+"17","Cumberlands (KY)","506101","2001","Angela Dean",NA,"-",NA,NA,NA,0
+"18","Cumberlands (KY)","506101","1900","Angela Dean",NA,"-",NA,NA,NA,0
+"19","Cumberlands (KY)","506101","1999","Angela Dean",NA,"-",NA,NA,NA,0
+"20","Cumberlands (KY)","506101","","",NA,"",287,413,3,0.41

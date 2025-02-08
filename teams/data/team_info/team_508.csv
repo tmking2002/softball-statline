@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Donald Pickett","Southland","25-27-0",0.481
-"2",2022,"Donald Pickett","Southland","29-22-0",0.569
-"3",2021,"Donald Pickett","Southland","24-22-0",0.522
-"4",2020,"Donald Pickett","Southland","15-7-0",0.682
-"5",2019,"Donald Pickett","Southland","30-27-0",0.526
-"6",2018,"Donald Pickett","Southland","28-25-0",0.528
-"7",2017,"Donald Pickett","Southland","23-33-1",0.411
-"8",2016,"Donald Pickett","Southland","27-25-0",0.519
-"9",2015,"Donald Pickett","Southland","36-18-0",0.667
-"10",2014,"Donald Pickett","Southland","30-22-0",0.577
-"11",2013,"Donald Pickett","Southland","40-15-0",0.727
-"12",2012,"Donald Pickett","Southland","19-31-0",0.38
-"13",2011,"Donald Pickett","Southland","32-25-0",0.561
-"14",2010,"Donald Pickett","Southland","27-27-0",0.5
-"15",2009,"Donald Pickett","Southland","5-45-0",0.1
-"16",2008,"Becky McMurtry","Southland","10-45-0",0.182
-"17",2007,"Becky McMurtry","Southland","29-29-0",0.5
-"18",2006,"Becky McMurtry","Southland","28-32-0",0.467
-"19",2005,"Mike Perniciaro","Southland","35-28-0",0.556
-"20",2004,"Eileen Schmidt","Southland","35-28-0",0.556
-"21",2003,"Eileen Schmidt","Southland","27-33-0",0.45
-"22",2002,"Ty Singleton","Southland","45-25-0",0.643
-"23",2001,"Ty Singleton","Southland","30-20-0",0.6
-"24",2000,"Gay McNutt","Southland","41-19-0",0.683
-"25",1999,"Gay McNutt","Southland","31-26-0",0.544
-"26",1998,"Gay McNutt","-","40-18-0",0.69
-"27",1997,"Gay McNutt","Southland","26-29-0",0.473
-"28",1996,"Gay McNutt","-","10-41-0",0.196
-"29",1995,"Gay McNutt","-","13-37-0",0.26
-"30",1994,"Rickey McCalister","-","17-42-0",0.288
-"31",1993,"Rickey McCalister","-","25-28-0",0.472
-"32",1992,"Rickey McCalister","-","37-21-1",0.638
-"33",1991,"Rickey McCalister","-","44-18-1",0.71
-"34",1990,"Rickey McCalister","-","43-17-0",0.717
-"35",1989,"Rickey McCalister","-","32-29-0",0.525
-"36",1988,"Rickey McCalister","-","25-24-0",0.51
-"37",1987,"Rickey McCalister","-","22-20-0",0.524
-"38",1986,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",2024,"Lacy Prejean","Southland","19-31-0",0.38
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Northwestern St.","508","2025","Jenny Fuller","D-I","Southland",0,0,0,0
+"2","Northwestern St.","508","2024","Lacy Prejean","D-I","Southland",19,31,0,0.38
+"3","Northwestern St.","508","2023","Donald Pickett","D-I","Southland",25,27,0,0.481
+"4","Northwestern St.","508","2022","Donald Pickett","D-I","Southland",29,22,0,0.569
+"5","Northwestern St.","508","2021","Donald Pickett","D-I","Southland",24,22,0,0.522
+"6","Northwestern St.","508","2020","Donald Pickett","D-I","Southland",15,7,0,0.682
+"7","Northwestern St.","508","2019","Donald Pickett","D-I","Southland",30,27,0,0.526
+"8","Northwestern St.","508","2018","Donald Pickett","D-I","Southland",28,25,NA,0.528
+"9","Northwestern St.","508","2017","Donald Pickett","D-I","Southland",23,33,1,0.412
+"10","Northwestern St.","508","2016","Donald Pickett","D-I","Southland",27,25,0,0.519
+"11","Northwestern St.","508","2015","Donald Pickett","D-I","Southland",36,18,0,0.667
+"12","Northwestern St.","508","2014","Donald Pickett","D-I","Southland",30,22,0,0.577
+"13","Northwestern St.","508","2013","Donald Pickett","D-I","Southland",40,15,0,0.727
+"14","Northwestern St.","508","2012","Donald Pickett","D-I","Southland",19,31,0,0.38
+"15","Northwestern St.","508","2011","Donald Pickett","D-I","Southland",32,25,0,0.561
+"16","Northwestern St.","508","2010","Donald Pickett","D-I","Southland",27,27,0,0.5
+"17","Northwestern St.","508","2009","Donald Pickett","D-I","Southland",5,45,0,0.1
+"18","Northwestern St.","508","2008","Becky McMurtry","D-I","Southland",10,45,0,0.182
+"19","Northwestern St.","508","2007","Becky McMurtry","D-I","Southland",29,29,0,0.5
+"20","Northwestern St.","508","2006","Becky McMurtry","D-I","Southland",28,32,0,0.467
+"21","Northwestern St.","508","2005","Mike Perniciaro","D-I","Southland",35,28,0,0.556
+"22","Northwestern St.","508","2004","Eileen Schmidt","D-I","Southland",35,28,0,0.556
+"23","Northwestern St.","508","2003","Eileen Schmidt","D-I","Southland",27,33,0,0.45
+"24","Northwestern St.","508","2002","Ty Singleton","D-I","Southland",45,25,0,0.643
+"25","Northwestern St.","508","2001","Ty Singleton","D-I","Southland",30,20,0,0.6
+"26","Northwestern St.","508","1900","Gay McNutt","D-I","Southland",41,19,0,0.683
+"27","Northwestern St.","508","1999","Gay McNutt","D-I","Southland",31,26,0,0.544
+"28","Northwestern St.","508","1998","Gay McNutt","D-I","-",40,18,NA,0.69
+"29","Northwestern St.","508","1997","Gay McNutt","D-I","Southland",26,29,0,0.473
+"30","Northwestern St.","508","1996","Gay McNutt","D-I","-",10,41,NA,0.196
+"31","Northwestern St.","508","1995","Gay McNutt","D-I","-",13,37,NA,0.26
+"32","Northwestern St.","508","1994","Rickey McCalister","D-I","-",17,42,NA,0.288
+"33","Northwestern St.","508","1993","Rickey McCalister","D-I","-",25,28,NA,0.472
+"34","Northwestern St.","508","1992","Rickey McCalister","D-I","-",37,21,1,0.636
+"35","Northwestern St.","508","1991","Rickey McCalister","D-I","-",44,18,1,0.706
+"36","Northwestern St.","508","1990","Rickey McCalister","D-I","-",43,17,NA,0.717
+"37","Northwestern St.","508","1989","Rickey McCalister","D-I","-",32,29,NA,0.525
+"38","Northwestern St.","508","1988","Rickey McCalister","D-I","-",25,24,NA,0.51
+"39","Northwestern St.","508","1987","Rickey McCalister","D-I","-",22,20,NA,0.524
+"40","Northwestern St.","508","1986","","D-I","-",NA,NA,NA,NA
+"41","Northwestern St.","508","1984","","D-I","-",NA,NA,NA,NA
+"42","Northwestern St.","508","1982","","D-I","-",NA,NA,NA,NA
+"43","Northwestern St.","508","","","","",1054,1011,3,0.51

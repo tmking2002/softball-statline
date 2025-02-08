@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Melyssa Lombardi","Pac-12","38-17-0",0.691
-"2",2022,"Melyssa Lombardi","Pac-12","33-19-0",0.635
-"3",2021,"Melyssa Lombardi","Pac-12","40-17-0",0.702
-"4",2020,"Melyssa Lombardi","Pac-12","22-2-0",0.917
-"5",2019,"Melyssa Lombardi","Pac-12","22-30-0",0.423
-"6",2018,"Mike White","Pac-12","53-10-0",0.841
-"7",2017,"Mike White","Pac-12","54-8-0",0.871
-"8",2016,"Mike White","Pac-12","48-10-0",0.828
-"9",2015,"Mike White","Pac-12","51-8-0",0.864
-"10",2014,"Mike White","Pac-12","56-9-1",0.862
-"11",2013,"Mike White","Pac-12","55-11-0",0.833
-"12",2012,"Mike White","Pac-12","48-18-1",0.727
-"13",2011,"Mike White","Pac-12","42-16-0",0.724
-"14",2010,"Mike White","Pac-12","36-21-0",0.632
-"15",2009,"Kathy Arendsen","Pac-12","16-34-0",0.32
-"16",2008,"Kathy Arendsen","Pac-12","35-29-0",0.547
-"17",2007,"Kathy Arendsen","Pac-12","44-19-0",0.698
-"18",2006,"Kathy Arendsen","Pac-12","24-29-0",0.453
-"19",2005,"Kathy Arendsen","Pac-12","36-25-0",0.59
-"20",2004,"Kathy Arendsen","Pac-12","42-21-0",0.667
-"21",2003,"Kathy Arendsen","Pac-12","37-19-0",0.661
-"22",2002,"Brent Rincon","Pac-12","24-30-0",0.444
-"23",2001,"Rick Gamez","Pac-12","28-40-0",0.412
-"24",2000,"Rick Gamez","Pac-12","36-29-0",0.554
-"25",1999,"Rick Gamez","Pac-12","40-29-0",0.58
-"26",1998,"Rick Gamez","-","40-31-0",0.563
-"27",1997,"Rick Gamez","Pac-12","21-35-1",0.375
-"28",1996,"Tami Brown","-","21-30-0",0.412
-"29",1995,"Tami Brown","-","25-26-0",0.49
-"30",1994,"Tami Brown","-","38-22-0",0.633
-"31",1993,"Tami Brown","-","18-16-0",0.529
-"32",1992,"Tami Brown","-","26-28-0",0.481
-"33",1991,"Tami Brown","-","29-29-0",0.5
-"34",1990,"Tami Brown","-","35-23-0",0.603
-"35",1989,"Teresa Wilson","-","52-18-0",0.743
-"36",1988,"Teresa Wilson","-","32-26-0",0.552
-"37",1987,"Teresa Wilson","-","23-30-0",0.434
-"38",1986,"Teresa Wilson","-","17-30-0",0.362
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1982,"","-","0-0-0",NA
-"42",2024,"Melyssa Lombardi","Pac-12","30-21-0",0.588
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Oregon","529","2025","Melyssa Lombardi","D-I","Big Ten",1,0,0,1
+"2","Oregon","529","2024","Melyssa Lombardi","D-I","Pac-12",30,21,0,0.588
+"3","Oregon","529","2023","Melyssa Lombardi","D-I","Pac-12",38,17,0,0.691
+"4","Oregon","529","2022","Melyssa Lombardi","D-I","Pac-12",33,19,0,0.635
+"5","Oregon","529","2021","Melyssa Lombardi","D-I","Pac-12",40,17,0,0.702
+"6","Oregon","529","2020","Melyssa Lombardi","D-I","Pac-12",22,2,0,0.917
+"7","Oregon","529","2019","Melyssa Lombardi","D-I","Pac-12",22,30,0,0.423
+"8","Oregon","529","2018","Mike White","D-I","Pac-12",53,10,0,0.841
+"9","Oregon","529","2017","Mike White","D-I","Pac-12",54,8,0,0.871
+"10","Oregon","529","2016","Mike White","D-I","Pac-12",48,10,0,0.828
+"11","Oregon","529","2015","Mike White","D-I","Pac-12",51,8,0,0.864
+"12","Oregon","529","2014","Mike White","D-I","Pac-12",58,9,1,0.86
+"13","Oregon","529","2013","Mike White","D-I","Pac-12",50,11,0,0.82
+"14","Oregon","529","2012","Mike White","D-I","Pac-12",45,18,0,0.714
+"15","Oregon","529","2011","Mike White","D-I","Pac-12",42,16,0,0.724
+"16","Oregon","529","2010","Mike White","D-I","Pac-12",36,21,0,0.632
+"17","Oregon","529","2009","Kathy Arendsen","D-I","Pac-12",16,34,0,0.32
+"18","Oregon","529","2008","Kathy Arendsen","D-I","Pac-12",35,29,0,0.547
+"19","Oregon","529","2007","Kathy Arendsen","D-I","Pac-12",44,19,0,0.698
+"20","Oregon","529","2006","Kathy Arendsen","D-I","Pac-12",24,29,0,0.453
+"21","Oregon","529","2005","Kathy Arendsen","D-I","Pac-12",36,25,0,0.59
+"22","Oregon","529","2004","Kathy Arendsen","D-I","Pac-12",42,21,0,0.667
+"23","Oregon","529","2003","Kathy Arendsen","D-I","Pac-12",37,19,0,0.661
+"24","Oregon","529","2002","Brent Rincon","D-I","Pac-12",24,30,0,0.444
+"25","Oregon","529","2001","Rick Gamez","D-I","Pac-12",28,40,0,0.412
+"26","Oregon","529","1900","Rick Gamez","D-I","Pac-12",36,29,0,0.554
+"27","Oregon","529","1999","Rick Gamez","D-I","Pac-12",40,29,0,0.58
+"28","Oregon","529","1998","Rick Gamez","D-I","-",40,31,NA,0.563
+"29","Oregon","529","1997","Rick Gamez","D-I","Pac-12",21,35,1,0.377
+"30","Oregon","529","1996","Tami Brown","D-I","-",21,30,NA,0.412
+"31","Oregon","529","1995","Tami Brown","D-I","-",25,26,NA,0.49
+"32","Oregon","529","1994","Tami Brown","D-I","-",38,22,NA,0.633
+"33","Oregon","529","1993","Tami Brown","D-I","-",18,16,NA,0.529
+"34","Oregon","529","1992","Tami Brown","D-I","-",26,28,NA,0.481
+"35","Oregon","529","1991","Tami Brown","D-I","-",29,29,NA,0.5
+"36","Oregon","529","1990","Tami Brown","D-I","-",35,23,NA,0.603
+"37","Oregon","529","1989","Teresa Wilson","D-I","-",52,18,NA,0.743
+"38","Oregon","529","1988","Teresa Wilson","D-I","-",32,26,NA,0.552
+"39","Oregon","529","1987","Teresa Wilson","D-I","-",23,30,NA,0.434
+"40","Oregon","529","1986","Teresa Wilson","D-I","-",17,30,NA,0.362
+"41","Oregon","529","1985","","D-I","-",NA,NA,NA,NA
+"42","Oregon","529","1984","","D-I","-",NA,NA,NA,NA
+"43","Oregon","529","1982","","D-I","-",NA,NA,NA,NA
+"44","Oregon","529","","","","",1362,865,2,0.611

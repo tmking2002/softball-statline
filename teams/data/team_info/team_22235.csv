@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Shawna Cyrus","NWC","19-19-0","0.500"
-"2","2022","Shawna Cyrus","NWC","16-22-0","0.421"
-"3","2021","Shawna Cyrus","NWC","17-15-0","0.531"
-"4","2020","Shawna Cyrus","NWC","3-6-0","0.333"
-"5","2019","Shawna Cyrus","NWC","12-26-0","0.316"
-"6","2018","Shawna Cyrus","NWC","8-24-0","0.250"
-"7","2017","Shawna Cyrus","NWC","10-21-0","0.323"
-"8","2016","Shawna Cyrus","NWC","17-23-0","0.425"
-"9","2015","Shawna Cyrus","NWC","9-30-0","0.231"
-"10","2014","Shawna Cyrus","NWC","12-25-0","0.324"
-"11","2013","Shawna Cyrus","NWC","16-22-0","0.421"
-"12","2012","Shawna Cyrus","NWC","5-33-0","0.132"
-"13","2011","Shawna Cyrus","NWC","8-31-0","0.205"
-"14","2010","Shawna Cyrus","NWC","3-36-0","0.077"
-"15","2009","Juli Fulks","NWC","4-36-0","0.100"
-"16","2008","Juli Fulks","NWC","3-34-0","0.081"
-"17","2007","Jennifer Piper","NWC","4-34-0","0.105"
-"18","2006","Jennifer Piper","NWC","4-31-0","0.114"
-"19","2005","Jennifer Piper","NWC","2-34-0","0.056"
-"20","2004","Jennifer Piper","NWC","8-31-0","0.205"
-"21","2003","Jennifer Piper","-","0-0-0","  NaN"
-"22","2002","Jennifer Piper","NWC","11-25-1","0.306"
-"23","2001","Missy Smith","-","22-18-1","0.550"
-"24","2000","Missy Smith","-","11-19-0","0.367"
-"25","1999","Missy Smith","-","15-20-0","0.429"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","1982","","-","0-0-0","  NaN"
-"43","1981","","-","0-0-0","  NaN"
-"44","2024","Shawna Cyrus","NWC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lewis & Clark","22235","2025","Shawna Cyrus","D-III","NWC",0,0,0,0
+"2","Lewis & Clark","22235","2024","Shawna Cyrus","D-III","NWC",28,16,0,0.636
+"3","Lewis & Clark","22235","2023","Shawna Cyrus","D-III","NWC",19,19,0,0.5
+"4","Lewis & Clark","22235","2022","Shawna Cyrus","D-III","NWC",16,22,0,0.421
+"5","Lewis & Clark","22235","2021","Shawna Cyrus","D-III","NWC",17,15,0,0.531
+"6","Lewis & Clark","22235","2020","Shawna Cyrus","D-III","NWC",3,6,0,0.333
+"7","Lewis & Clark","22235","2019","Shawna Cyrus","D-III","NWC",12,26,0,0.316
+"8","Lewis & Clark","22235","2018","Shawna Cyrus","D-III","NWC",8,24,NA,0.25
+"9","Lewis & Clark","22235","2017","Shawna Cyrus","D-III","NWC",10,21,0,0.323
+"10","Lewis & Clark","22235","2016","Shawna Cyrus","D-III","NWC",17,23,0,0.425
+"11","Lewis & Clark","22235","2015","Shawna Cyrus","D-III","NWC",9,30,0,0.231
+"12","Lewis & Clark","22235","2014","Shawna Cyrus","D-III","NWC",12,25,0,0.324
+"13","Lewis & Clark","22235","2013","Shawna Cyrus","D-III","NWC",16,22,0,0.421
+"14","Lewis & Clark","22235","2012","Shawna Cyrus","D-III","NWC",5,33,0,0.132
+"15","Lewis & Clark","22235","2011","Shawna Cyrus","D-III","NWC",8,31,0,0.205
+"16","Lewis & Clark","22235","2010","Shawna Cyrus","D-III","NWC",3,36,0,0.077
+"17","Lewis & Clark","22235","2009","Juli Fulks","D-III","NWC",4,36,0,0.1
+"18","Lewis & Clark","22235","2008","Juli Fulks","D-III","NWC",3,34,0,0.081
+"19","Lewis & Clark","22235","2007","Jennifer Piper","D-III","NWC",4,34,0,0.105
+"20","Lewis & Clark","22235","2006","Jennifer Piper","D-III","NWC",4,31,0,0.114
+"21","Lewis & Clark","22235","2005","Jennifer Piper","D-III","NWC",2,34,0,0.056
+"22","Lewis & Clark","22235","2004","Jennifer Piper","D-III","NWC",8,31,0,0.205
+"23","Lewis & Clark","22235","2003","Jennifer Piper","","-",NA,NA,NA,NA
+"24","Lewis & Clark","22235","2002","Jennifer Piper","D-III","NWC",11,25,1,0.311
+"25","Lewis & Clark","22235","2001","Missy Smith","D-III","-",22,18,1,0.549
+"26","Lewis & Clark","22235","1900","Missy Smith","D-III","-",11,19,NA,0.367
+"27","Lewis & Clark","22235","1999","Missy Smith","D-III","-",15,20,NA,0.429
+"28","Lewis & Clark","22235","1998","","D-III","-",NA,NA,NA,NA
+"29","Lewis & Clark","22235","1997","","D-III","-",NA,NA,NA,NA
+"30","Lewis & Clark","22235","1996","","D-III","-",NA,NA,NA,NA
+"31","Lewis & Clark","22235","1995","","D-III","-",NA,NA,NA,NA
+"32","Lewis & Clark","22235","1994","","D-III","-",NA,NA,NA,NA
+"33","Lewis & Clark","22235","1993","","D-III","-",NA,NA,NA,NA
+"34","Lewis & Clark","22235","1992","","D-III","-",NA,NA,NA,NA
+"35","Lewis & Clark","22235","1991","","D-III","-",NA,NA,NA,NA
+"36","Lewis & Clark","22235","1990","","D-III","-",NA,NA,NA,NA
+"37","Lewis & Clark","22235","1989","","D-III","-",NA,NA,NA,NA
+"38","Lewis & Clark","22235","1988","","D-III","-",NA,NA,NA,NA
+"39","Lewis & Clark","22235","1987","","","-",NA,NA,NA,NA
+"40","Lewis & Clark","22235","1986","","","-",NA,NA,NA,NA
+"41","Lewis & Clark","22235","1985","","","-",NA,NA,NA,NA
+"42","Lewis & Clark","22235","1984","","","-",NA,NA,NA,NA
+"43","Lewis & Clark","22235","1983","","","-",NA,NA,NA,NA
+"44","Lewis & Clark","22235","1982","","","-",NA,NA,NA,NA
+"45","Lewis & Clark","22235","1981","","","-",NA,NA,NA,NA
+"46","Lewis & Clark","22235","","","","",267,631,2,0.298

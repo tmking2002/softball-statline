@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2023","","-","0-0-0",0
-"3","2022","","-","0-0-0",0
-"4","2020","Breanne Shearin","-","6-12-0",0.333
-"5","2019","Breanne Shearin","-","19-22-0",0.463
-"6","2018","Breanne Shearin","-","18-21-0",0.462
-"7","2017","","-","0-0-0",0
-"8","2016","","-","0-0-0",NA
-"9","2015","","-","0-0-0",NA
-"10","2014","","-","0-0-0",NA
-"11","2013","","-","0-0-0",NA
-"12","2012","","-","0-0-0",NA
-"13","2009","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Columbia (SC)","501098","2025","",NA,"-",NA,NA,NA,0
+"2","Columbia (SC)","501098","2024","",NA,"-",NA,NA,NA,0
+"3","Columbia (SC)","501098","2023","",NA,"-",NA,NA,NA,0
+"4","Columbia (SC)","501098","2022","",NA,"-",NA,NA,NA,0
+"5","Columbia (SC)","501098","2020","Breanne Shearin",NA,"-",6,12,0,0.333
+"6","Columbia (SC)","501098","2019","Breanne Shearin",NA,"-",19,22,0,0.463
+"7","Columbia (SC)","501098","2018","Breanne Shearin",NA,"-",18,21,0,0.462
+"8","Columbia (SC)","501098","2017","",NA,"-",NA,NA,NA,0
+"9","Columbia (SC)","501098","2016","",NA,"-",NA,NA,NA,NA
+"10","Columbia (SC)","501098","2015","",NA,"-",NA,NA,NA,NA
+"11","Columbia (SC)","501098","2014","",NA,"-",NA,NA,NA,NA
+"12","Columbia (SC)","501098","2013","",NA,"-",NA,NA,NA,NA
+"13","Columbia (SC)","501098","2012","",NA,"-",NA,NA,NA,NA
+"14","Columbia (SC)","501098","2009","",NA,"-",NA,NA,NA,NA
+"15","Columbia (SC)","501098","","",NA,"",43,55,0,0.439

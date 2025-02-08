@@ -1,31 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tony Mele","Conference Carolinas","18-25-0",0.419
-"2",2022,"Tony Mele","Conference Carolinas","30-15-0",0.667
-"3",2021,"Tony Mele","Conference Carolinas","20-16-0",0.556
-"4",2020,"Tony Mele","Conference Carolinas","4-12-0",0.25
-"5",2019,"Erin Clary","Conference Carolinas","21-22-0",0.488
-"6",2018,"Brooke McCraw","Conference Carolinas","19-34-0",0.358
-"7",2017,"Brooke McCraw","Conference Carolinas","10-30-2",0.25
-"8",2016,"Brooke McCraw","Conference Carolinas","20-29-0",0.408
-"9",2015,"Brooke McCraw","Conference Carolinas","22-23-0",0.489
-"10",2014,"Brooke McCraw","Conference Carolinas","9-36-0",0.2
-"11",2013,"Brooke McCraw","Conference Carolinas","10-32-0",0.238
-"12",2012,"Ellie Hanover","Conference Carolinas","15-35-0",0.3
-"13",2011,"Ellie Hanover","Conference Carolinas","16-28-0",0.364
-"14",2010,"Ellie Hanover","Conference Carolinas","20-26-0",0.435
-"15",2009,"Kenny Terry","Conference Carolinas","11-35-0",0.239
-"16",2008,"Kenny Terry","Conference Carolinas","10-37-0",0.213
-"17",2007,"Kenny Terry","Conference Carolinas","13-38-0",0.255
-"18",2006,"Lee Swanson","Conference Carolinas","25-31-0",0.446
-"19",2005,"Lee Swanson","Conference Carolinas","25-25-1",0.5
-"20",2004,"Lee Swanson","Conference Carolinas","31-26-0",0.544
-"21",2003,"Debbie Raysin","-","14-26-0",0.35
-"22",2002,"Debbie Raysin","Conference Carolinas","18-28-0",0.391
-"23",2001,"Debbie Raysin","-","24-25-1",0.49
-"24",2000,"Jeff Cleanthes","-","7-27-1",0.206
-"25",1999,"Mike Pettus","-","10-23-0",0.303
-"26",1998,"Mike Pettus","-","2-26-0",0.071
-"27",1997,"Mike Pettus","-","8-34-0",0.19
-"28",1996,"Mike Pettus","-","1-26-0",0.037
-"29",1995,"","-","0-0-0",NA
-"30",2024,"Tony Mele","Conference Carolinas","19-19-0",0.5
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Belmont Abbey","2683","2025","Tony Mele","D-II","Conference Carolinas",4,0,0,1
+"2","Belmont Abbey","2683","2024","Tony Mele","D-II","Conference Carolinas",22,20,0,0.524
+"3","Belmont Abbey","2683","2023","Tony Mele","D-II","Conference Carolinas",18,25,0,0.419
+"4","Belmont Abbey","2683","2022","Tony Mele","D-II","Conference Carolinas",30,15,0,0.667
+"5","Belmont Abbey","2683","2021","Tony Mele","D-II","Conference Carolinas",20,16,0,0.556
+"6","Belmont Abbey","2683","2020","Tony Mele","D-II","Conference Carolinas",4,12,0,0.25
+"7","Belmont Abbey","2683","2019","Erin Clary","D-II","Conference Carolinas",21,22,0,0.488
+"8","Belmont Abbey","2683","2018","Brooke McCraw","D-II","Conference Carolinas",19,34,NA,0.358
+"9","Belmont Abbey","2683","2017","Brooke McCraw","D-II","Conference Carolinas",10,30,2,0.262
+"10","Belmont Abbey","2683","2016","Brooke McCraw","D-II","Conference Carolinas",20,29,0,0.408
+"11","Belmont Abbey","2683","2015","Brooke McCraw","D-II","Conference Carolinas",22,23,0,0.489
+"12","Belmont Abbey","2683","2014","Brooke McCraw","D-II","Conference Carolinas",9,36,0,0.2
+"13","Belmont Abbey","2683","2013","Brooke McCraw","D-II","Conference Carolinas",10,32,0,0.238
+"14","Belmont Abbey","2683","2012","Ellie Hanover","D-II","Conference Carolinas",15,35,0,0.3
+"15","Belmont Abbey","2683","2011","Ellie Hanover","D-II","Conference Carolinas",16,28,0,0.364
+"16","Belmont Abbey","2683","2010","Ellie Hanover","D-II","Conference Carolinas",20,26,0,0.435
+"17","Belmont Abbey","2683","2009","Kenny Terry","D-II","Conference Carolinas",11,35,0,0.239
+"18","Belmont Abbey","2683","2008","Kenny Terry","D-II","Conference Carolinas",10,37,0,0.213
+"19","Belmont Abbey","2683","2007","Kenny Terry","D-II","Conference Carolinas",13,38,0,0.255
+"20","Belmont Abbey","2683","2006","Lee Swanson","D-II","Conference Carolinas",25,31,0,0.446
+"21","Belmont Abbey","2683","2005","Lee Swanson","D-II","Conference Carolinas",25,25,1,0.5
+"22","Belmont Abbey","2683","2004","Lee Swanson","D-II","Conference Carolinas",31,26,0,0.544
+"23","Belmont Abbey","2683","2003","Debbie Raysin","D-II","-",14,26,NA,0.35
+"24","Belmont Abbey","2683","2002","Debbie Raysin","D-II","Conference Carolinas",18,28,0,0.391
+"25","Belmont Abbey","2683","2001","Debbie Raysin","D-II","-",24,25,1,0.49
+"26","Belmont Abbey","2683","1900","Jeff Cleanthes","D-II","-",7,27,1,0.214
+"27","Belmont Abbey","2683","1999","Mike Pettus","D-II","-",10,23,NA,0.303
+"28","Belmont Abbey","2683","1998","Mike Pettus","D-II","-",2,26,NA,0.071
+"29","Belmont Abbey","2683","1997","Mike Pettus","D-II","-",8,34,NA,0.19
+"30","Belmont Abbey","2683","1996","Mike Pettus","D-II","-",1,26,NA,0.037
+"31","Belmont Abbey","2683","1995","","D-II","-",NA,NA,NA,NA
+"32","Belmont Abbey","2683","","","","",459,790,5,0.368

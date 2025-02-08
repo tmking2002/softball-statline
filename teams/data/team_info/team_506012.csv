@@ -1,20 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
-"10","2014",NA,"-","0-0-0",NA
-"11","2013",NA,"-","0-0-0",NA
-"12","2012",NA,"-","0-0-0",NA
-"13","2011",NA,"-","0-0-0",NA
-"14","2010",NA,"-","0-0-0",NA
-"15","2009",NA,"-","0-0-0",NA
-"16","2008",NA,"-","0-0-0",NA
-"17","2007",NA,"-","0-0-0",NA
-"18","2006",NA,"-","0-0-0",NA
-"19","2005",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southwest (NM)","506012","2025",NA,NA,"-",NA,NA,NA,0
+"2","Southwest (NM)","506012","2024",NA,NA,"-",NA,NA,NA,0
+"3","Southwest (NM)","506012","2022",NA,NA,"-",NA,NA,NA,0
+"4","Southwest (NM)","506012","2021",NA,NA,"-",NA,NA,NA,0
+"5","Southwest (NM)","506012","2020",NA,NA,"-",NA,NA,NA,0
+"6","Southwest (NM)","506012","2019",NA,NA,"-",NA,NA,NA,0
+"7","Southwest (NM)","506012","2018",NA,NA,"-",NA,NA,NA,0
+"8","Southwest (NM)","506012","2017",NA,NA,"-",NA,NA,NA,NA
+"9","Southwest (NM)","506012","2016",NA,NA,"-",NA,NA,NA,NA
+"10","Southwest (NM)","506012","2015",NA,NA,"-",NA,NA,NA,NA
+"11","Southwest (NM)","506012","2014",NA,NA,"-",NA,NA,NA,NA
+"12","Southwest (NM)","506012","2013",NA,NA,"-",NA,NA,NA,NA
+"13","Southwest (NM)","506012","2012",NA,NA,"-",NA,NA,NA,NA
+"14","Southwest (NM)","506012","2011",NA,NA,"-",NA,NA,NA,NA
+"15","Southwest (NM)","506012","2010",NA,NA,"-",NA,NA,NA,NA
+"16","Southwest (NM)","506012","2009",NA,NA,"-",NA,NA,NA,NA
+"17","Southwest (NM)","506012","2008",NA,NA,"-",NA,NA,NA,NA
+"18","Southwest (NM)","506012","2007",NA,NA,"-",NA,NA,NA,NA
+"19","Southwest (NM)","506012","2006",NA,NA,"-",NA,NA,NA,NA
+"20","Southwest (NM)","506012","2005",NA,NA,"-",NA,NA,NA,NA
+"21","Southwest (NM)","506012","",NA,NA,"",0,0,0,0

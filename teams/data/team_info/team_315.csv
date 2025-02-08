@@ -1,37 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jana McGinnis","ASUN","31-22-0","0.585"
-"2","2022","Jana McGinnis","ASUN","31-24-0","0.564"
-"3","2021","Jana McGinnis","OVC","24-25-0","0.490"
-"4","2020","Jana McGinnis","OVC","12-9-0","0.571"
-"5","2019","Jana McGinnis","OVC","36-15-0","0.706"
-"6","2018","Jana McGinnis","OVC","35-25-0","0.583"
-"7","2017","Jana McGinnis","OVC","41-12-0","0.774"
-"8","2016","Jana McGinnis","OVC","43-17-0","0.717"
-"9","2015","Jana McGinnis","OVC","38-17-0","0.691"
-"10","2014","Jana McGinnis","OVC","40-15-0","0.727"
-"11","2013","Jana McGinnis","OVC","30-27-0","0.526"
-"12","2012","Jana McGinnis","OVC","28-28-0","0.500"
-"13","2011","Jana McGinnis","OVC","40-21-0","0.656"
-"14","2010","Jana McGinnis","OVC","30-19-0","0.612"
-"15","2009","Jana McGinnis","OVC","43-16-0","0.729"
-"16","2008","Jana McGinnis","OVC","40-16-0","0.714"
-"17","2007","Jana McGinnis","OVC","35-23-0","0.603"
-"18","2006","Jana McGinnis","OVC","43-15-0","0.741"
-"19","2005","Jana McGinnis","OVC","42-16-0","0.724"
-"20","2004","Jana McGinnis","OVC","41-21-0","0.661"
-"21","2003","Jana McGinnis","ASUN","40-15-0","0.727"
-"22","2002","Jana McGinnis","ASUN","33-21-0","0.611"
-"23","2001","Jana McGinnis","ASUN","24-27-0","0.471"
-"24","2000","Jana McGinnis","ASUN","33-21-0","0.611"
-"25","1999","Jana McGinnis","ASUN","32-26-0","0.552"
-"26","1998","Jana McGinnis","-","24-18-0","0.571"
-"27","1997","Jana McGinnis","ASUN","32-17-0","0.653"
-"28","1996","Jana McGinnis","-","46-11-0","0.807"
-"29","1995","Jana McGinnis","-","32-16-0","0.667"
-"30","1994","Jana McGinnis","-","16-22-0","0.421"
-"31","1993","Amy Hardeman","-","15-21-0","0.417"
-"32","1992","Amy Hardeman","-","22-24-0","0.478"
-"33","1991","Amy Hardeman","-","23-19-0","0.548"
-"34","1990","Amy Hardeman","-","25-13-0","0.658"
-"35","1989","Amy Hardeman","-","11-20-0","0.355"
-"36","1988","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Jacksonville St.","315","2025","Julie Boland","D-I","CUSA",1,0,0,1
+"2","Jacksonville St.","315","2024","Jana McGinnis","D-I","CUSA",23,30,0,0.434
+"3","Jacksonville St.","315","2023","Jana McGinnis","D-I","ASUN",31,22,0,0.585
+"4","Jacksonville St.","315","2022","Jana McGinnis","D-I","ASUN",31,24,0,0.564
+"5","Jacksonville St.","315","2021","Jana McGinnis","D-I","OVC",24,25,0,0.49
+"6","Jacksonville St.","315","2020","Jana McGinnis","D-I","OVC",12,9,0,0.571
+"7","Jacksonville St.","315","2019","Jana McGinnis","D-I","OVC",36,15,0,0.706
+"8","Jacksonville St.","315","2018","Jana McGinnis","D-I","OVC",35,25,0,0.583
+"9","Jacksonville St.","315","2017","Jana McGinnis","D-I","OVC",41,12,0,0.774
+"10","Jacksonville St.","315","2016","Jana McGinnis","D-I","OVC",43,17,0,0.717
+"11","Jacksonville St.","315","2015","Jana McGinnis","D-I","OVC",38,17,0,0.691
+"12","Jacksonville St.","315","2014","Jana McGinnis","D-I","OVC",40,15,0,0.727
+"13","Jacksonville St.","315","2013","Jana McGinnis","D-I","OVC",30,27,0,0.526
+"14","Jacksonville St.","315","2012","Jana McGinnis","D-I","OVC",28,28,0,0.5
+"15","Jacksonville St.","315","2011","Jana McGinnis","D-I","OVC",40,21,0,0.656
+"16","Jacksonville St.","315","2010","Jana McGinnis","D-I","OVC",30,19,0,0.612
+"17","Jacksonville St.","315","2009","Jana McGinnis","D-I","OVC",43,16,0,0.729
+"18","Jacksonville St.","315","2008","Jana McGinnis","D-I","OVC",40,16,0,0.714
+"19","Jacksonville St.","315","2007","Jana McGinnis","D-I","OVC",35,23,0,0.603
+"20","Jacksonville St.","315","2006","Jana McGinnis","D-I","OVC",43,15,0,0.741
+"21","Jacksonville St.","315","2005","Jana McGinnis","D-I","OVC",42,16,0,0.724
+"22","Jacksonville St.","315","2004","Jana McGinnis","D-I","OVC",41,21,0,0.661
+"23","Jacksonville St.","315","2003","Jana McGinnis","D-I","ASUN",40,15,0,0.727
+"24","Jacksonville St.","315","2002","Jana McGinnis","D-I","ASUN",33,21,0,0.611
+"25","Jacksonville St.","315","2001","Jana McGinnis","D-I","ASUN",24,27,0,0.471
+"26","Jacksonville St.","315","1900","Jana McGinnis","D-I","ASUN",33,21,0,0.611
+"27","Jacksonville St.","315","1999","Jana McGinnis","D-I","ASUN",32,26,0,0.552
+"28","Jacksonville St.","315","1998","Jana McGinnis","D-I","-",24,18,NA,0.571
+"29","Jacksonville St.","315","1997","Jana McGinnis","D-I","ASUN",32,17,0,0.653
+"30","Jacksonville St.","315","1996","Jana McGinnis","D-I","-",46,11,NA,0.807
+"31","Jacksonville St.","315","1995","Jana McGinnis","D-II","-",32,16,NA,0.667
+"32","Jacksonville St.","315","1994","Jana McGinnis","D-II","-",16,22,NA,0.421
+"33","Jacksonville St.","315","1993","Amy Hardeman","D-II","-",15,21,NA,0.417
+"34","Jacksonville St.","315","1992","Amy Hardeman","D-II","-",22,24,NA,0.478
+"35","Jacksonville St.","315","1991","Amy Hardeman","D-II","-",23,19,NA,0.548
+"36","Jacksonville St.","315","1990","Amy Hardeman","D-II","-",25,13,NA,0.658
+"37","Jacksonville St.","315","1989","Amy Hardeman","D-II","-",11,20,NA,0.355
+"38","Jacksonville St.","315","1988","","D-II","-",NA,NA,NA,NA
+"39","Jacksonville St.","315","","","","",1135,704,0,0.617

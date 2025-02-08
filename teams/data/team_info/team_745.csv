@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brandon Elliott","ODAC","39-13-0",0.75
-"2",2022,"Brandon Elliott","ODAC","36-13-0",0.735
-"3",2021,"Brandon Elliott","ODAC","46-6-1",0.885
-"4",2020,"Brandon Elliott","ODAC","11-1-0",0.917
-"5",2019,"Brandon Elliott","ODAC","42-6-0",0.875
-"6",2018,"Brandon Elliott","ODAC","55-3-0",0.948
-"7",2017,"Brandon Elliott","ODAC","54-3-0",0.947
-"8",2016,"Brandon Elliott","ODAC","38-7-0",0.844
-"9",2015,"Brandon Elliott","ODAC","30-8-0",0.789
-"10",2014,"Brandon Elliott","ODAC","39-7-0",0.848
-"11",2013,"Brandon Elliott","ODAC","41-8-0",0.837
-"12",2012,"Brandon Elliott","ODAC","30-12-0",0.714
-"13",2011,"Brandon Elliott","ODAC","29-11-0",0.725
-"14",2010,"Brandon Elliott","ODAC","34-9-0",0.791
-"15",2009,"Brandon Elliott","ODAC","27-17-0",0.614
-"16",2008,"Brandon Elliott","ODAC","29-12-0",0.707
-"17",2007,"Josh McElheny (9-20)Brandon Elliott (2-6)","ODAC","11-26-0",0.297
-"18",2006,"Conrad Parker","ODAC","27-14-0",0.659
-"19",2005,"Conrad Parker","ODAC","23-15-1",0.605
-"20",2004,"Conrad Parker","ODAC","22-21-0",0.512
-"21",2003,"Conrad Parker","ODAC","16-26-0",0.381
-"22",2002,"Conrad Parker","-","16-26-0",0.381
-"23",2001,"Conrad Parker","-","30-13-0",0.698
-"24",2000,"Conrad Parker","-","30-10-0",0.75
-"25",1999,"Conrad Parker","-","26-15-0",0.634
-"26",1998,"Conrad Parker","-","26-16-0",0.619
-"27",1997,"Valerie Kepner","-","22-13-0",0.629
-"28",1996,"Valerie Kepner","-","20-21-0",0.488
-"29",1995,"Valerie Kepner","-","20-19-0",0.513
-"30",1994,"Tom Palombo","-","24-17-1",0.585
-"31",1993,"Tom Palombo","-","22-14-0",0.611
-"32",1992,"Tom Palombo","-","28-17-0",0.622
-"33",1991,"Tom Palombo","-","29-9-0",0.763
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Brandon Elliott","ODAC","40-8-0",0.833
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Va. Wesleyan","745","2025","Brandon Elliott","D-III","ODAC",0,0,0,0
+"2","Va. Wesleyan","745","2024","Brandon Elliott","D-III","ODAC",40,10,0,0.8
+"3","Va. Wesleyan","745","2023","Brandon Elliott","D-III","ODAC",39,13,0,0.75
+"4","Va. Wesleyan","745","2022","Brandon Elliott","D-III","ODAC",36,13,0,0.735
+"5","Va. Wesleyan","745","2021","Brandon Elliott","D-III","ODAC",46,6,1,0.877
+"6","Va. Wesleyan","745","2020","Brandon Elliott","D-III","ODAC",11,1,0,0.917
+"7","Va. Wesleyan","745","2019","Brandon Elliott","D-III","ODAC",42,6,0,0.875
+"8","Va. Wesleyan","745","2018","Brandon Elliott","D-III","ODAC",55,3,NA,0.948
+"9","Va. Wesleyan","745","2017","Brandon Elliott","D-III","ODAC",54,3,0,0.947
+"10","Va. Wesleyan","745","2016","Brandon Elliott","D-III","ODAC",38,7,0,0.844
+"11","Va. Wesleyan","745","2015","Brandon Elliott","D-III","ODAC",30,8,0,0.789
+"12","Va. Wesleyan","745","2014","Brandon Elliott","D-III","ODAC",39,7,0,0.848
+"13","Va. Wesleyan","745","2013","Brandon Elliott","D-III","ODAC",41,8,0,0.837
+"14","Va. Wesleyan","745","2012","Brandon Elliott","D-III","ODAC",30,12,0,0.714
+"15","Va. Wesleyan","745","2011","Brandon Elliott","D-III","ODAC",29,11,0,0.725
+"16","Va. Wesleyan","745","2010","Brandon Elliott","D-III","ODAC",34,9,0,0.791
+"17","Va. Wesleyan","745","2009","Brandon Elliott","D-III","ODAC",27,17,0,0.614
+"18","Va. Wesleyan","745","2008","Brandon Elliott","D-III","ODAC",29,12,0,0.707
+"19","Va. Wesleyan","745","2007","Josh McElheny (9-20)Brandon Elliott (2-6)","D-III","ODAC",11,26,0,0.297
+"20","Va. Wesleyan","745","2006","Conrad Parker","D-III","ODAC",27,14,0,0.659
+"21","Va. Wesleyan","745","2005","Conrad Parker","D-III","ODAC",23,15,1,0.603
+"22","Va. Wesleyan","745","2004","Conrad Parker","D-III","ODAC",22,21,0,0.512
+"23","Va. Wesleyan","745","2003","Conrad Parker","D-III","ODAC",16,26,0,0.381
+"24","Va. Wesleyan","745","2002","Conrad Parker","D-III","-",16,26,NA,0.381
+"25","Va. Wesleyan","745","2001","Conrad Parker","D-III","-",30,13,NA,0.698
+"26","Va. Wesleyan","745","1900","Conrad Parker","D-III","-",30,10,NA,0.75
+"27","Va. Wesleyan","745","1999","Conrad Parker","D-III","-",26,15,NA,0.634
+"28","Va. Wesleyan","745","1998","Conrad Parker","D-III","-",26,16,NA,0.619
+"29","Va. Wesleyan","745","1997","Valerie Kepner","D-III","-",22,13,NA,0.629
+"30","Va. Wesleyan","745","1996","Valerie Kepner","D-III","-",20,21,NA,0.488
+"31","Va. Wesleyan","745","1995","Valerie Kepner","D-III","-",20,19,NA,0.513
+"32","Va. Wesleyan","745","1994","Tom Palombo","D-III","-",24,17,1,0.583
+"33","Va. Wesleyan","745","1993","Tom Palombo","D-III","-",22,14,NA,0.611
+"34","Va. Wesleyan","745","1992","Tom Palombo","D-III","-",28,17,NA,0.622
+"35","Va. Wesleyan","745","1991","Tom Palombo","D-III","-",29,9,NA,0.763
+"36","Va. Wesleyan","745","1990","","D-III","-",NA,NA,NA,NA
+"37","Va. Wesleyan","745","1989","","D-III","-",NA,NA,NA,NA
+"38","Va. Wesleyan","745","1988","","D-III","-",NA,NA,NA,NA
+"39","Va. Wesleyan","745","1987","","","-",NA,NA,NA,NA
+"40","Va. Wesleyan","745","1986","","D-III","-",NA,NA,NA,NA
+"41","Va. Wesleyan","745","1985","","D-III","-",NA,NA,NA,NA
+"42","Va. Wesleyan","745","","","","",1012,438,3,0.698

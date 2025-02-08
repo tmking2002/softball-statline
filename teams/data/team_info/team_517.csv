@@ -1,57 +1,60 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jackie Mangola","OAC","19-17-0","0.528"
-"2","2022","Jackie Mangola","OAC","24-11-0","0.686"
-"3","2021","Jackie Mangola","OAC","24-18-1","0.571"
-"4","2020","Jackie Mangola","OAC","7-3-0","0.700"
-"5","2019","Jackie Mangola","OAC","23-19-0","0.548"
-"6","2018","Jackie Mangola","OAC","32-11-0","0.744"
-"7","2017","Jackie Mangola","OAC","25-13-0","0.658"
-"8","2016","Ali Hess","OAC","24-19-0","0.558"
-"9","2015","Ali Hess","OAC","24-14-0","0.632"
-"10","2014","Ali Hess","OAC","23-19-0","0.548"
-"11","2013","Kim Burke","OAC","13-15-0","0.464"
-"12","2012","Kim Burke","OAC","31-14-0","0.689"
-"13","2011","Kim Burke","OAC","27-14-0","0.659"
-"14","2010","Annette Hunt-Shepard","OAC","41-7-0","0.854"
-"15","2009","Annette Hunt-Shepard","OAC","39-6-0","0.867"
-"16","2008","Annette Hunt-Shepard","OAC","28-13-0","0.683"
-"17","2007","Annette Hunt-Shepard","OAC","32-10-1","0.762"
-"18","2006","Annette Hunt-Shepard","OAC","14-17-0","0.452"
-"19","2005","Annette Hunt-Shepard","OAC","18-20-0","0.474"
-"20","2004","Annette Hunt-Shepard","OAC","17-21-0","0.447"
-"21","2003","Jeff Nickerson","OAC","26-13-0","0.667"
-"22","2002","Jeff Nickerson","OAC","21-17-0","0.553"
-"23","2001","Jeff Nickerson","-","13-31-0","0.295"
-"24","2000","Gayle Lauth","-","8-24-0","0.250"
-"25","1999","Gayle Lauth","-","14-21-0","0.400"
-"26","1998","Gayle Lauth","-","17-16-0","0.515"
-"27","1997","Gayle Lauth","-","19-18-0","0.514"
-"28","1996","Gayle Lauth","-","20-14-1","0.588"
-"29","1995","Gayle Lauth","-","18-19-0","0.486"
-"30","1994","Gayle Lauth","-","23-11-0","0.676"
-"31","1993","Gayle Lauth","-","19-13-0","0.594"
-"32","1992","Gayle Lauth","-","13-10-0","0.565"
-"33","1991","Gayle Lauth","-","16-16-0","0.500"
-"34","1990","Gayle Lauth","-","13-16-0","0.448"
-"35","1989","Gayle Lauth","-","11-11-0","0.500"
-"36","1988","Gayle Lauth","-","19-11-0","0.633"
-"37","1987","Gayle Lauth","-","24-8-0","0.750"
-"38","1986","Gayle Lauth","-","29-4-0","0.879"
-"39","1985","Gayle Lauth","-","19-7-0","0.731"
-"40","1984","Gayle Lauth","-","15-6-0","0.714"
-"41","1983","Gayle Lauth","-","17-8-0","0.680"
-"42","1982","Gayle Lauth","-","13-15-0","0.464"
-"43","1981","Gayle Lauth","-","9-10-1","0.474"
-"44","1980","Gayle Lauth","-","15-14-0","0.517"
-"45","1979","Gayle Lauth","-","6-11-0","0.353"
-"46","1978","Gayle Lauth","-","6-8-0","0.429"
-"47","1977","Gayle Lauth","-","5-7-0","0.417"
-"48","1976","Gayle Lauth","-","4-6-0","0.400"
-"49","1975","Gayle Lauth","-","5-4-0","0.556"
-"50","1974","Gayle Lauth","-","5-4-0","0.556"
-"51","1973","Gayle Lauth","-","9-1-0","0.900"
-"52","1972","Gayle Lauth","-","6-2-0","0.750"
-"53","1971","Gayle Lauth","-","8-0-0","1.000"
-"54","1970","Gayle Lauth","-","5-2-0","0.714"
-"55","1969","Gayle Lauth","-","11-0-0","1.000"
-"56","1968","Gayle Lauth","-","4-0-0","1.000"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ohio Northern","517","2025","Summer Collins","D-III","OAC",0,0,0,0
+"2","Ohio Northern","517","2024","Jackie Price","D-III","OAC",24,20,0,0.545
+"3","Ohio Northern","517","2023","Jackie Price","D-III","OAC",19,17,0,0.528
+"4","Ohio Northern","517","2022","Jackie Price","D-III","OAC",24,11,0,0.686
+"5","Ohio Northern","517","2021","Jackie Price","D-III","OAC",24,18,1,0.57
+"6","Ohio Northern","517","2020","Jackie Price","D-III","OAC",7,3,0,0.7
+"7","Ohio Northern","517","2019","Jackie Price","D-III","OAC",23,19,0,0.548
+"8","Ohio Northern","517","2018","Jackie Price","D-III","OAC",32,11,NA,0.744
+"9","Ohio Northern","517","2017","Jackie Price","D-III","OAC",25,13,0,0.658
+"10","Ohio Northern","517","2016","Ali Hess","D-III","OAC",24,19,0,0.558
+"11","Ohio Northern","517","2015","Ali Hess","D-III","OAC",24,14,0,0.632
+"12","Ohio Northern","517","2014","Ali Hess","D-III","OAC",23,19,0,0.548
+"13","Ohio Northern","517","2013","Kim Burke","D-III","OAC",13,15,0,0.464
+"14","Ohio Northern","517","2012","Kim Burke","D-III","OAC",31,14,0,0.689
+"15","Ohio Northern","517","2011","Kim Burke","D-III","OAC",27,14,0,0.659
+"16","Ohio Northern","517","2010","Annette Hunt-Shepard","D-III","OAC",41,7,0,0.854
+"17","Ohio Northern","517","2009","Annette Hunt-Shepard","D-III","OAC",39,6,0,0.867
+"18","Ohio Northern","517","2008","Annette Hunt-Shepard","D-III","OAC",28,13,0,0.683
+"19","Ohio Northern","517","2007","Annette Hunt-Shepard","D-III","OAC",32,10,1,0.756
+"20","Ohio Northern","517","2006","Annette Hunt-Shepard","D-III","OAC",14,17,0,0.452
+"21","Ohio Northern","517","2005","Annette Hunt-Shepard","D-III","OAC",18,20,0,0.474
+"22","Ohio Northern","517","2004","Annette Hunt-Shepard","D-III","OAC",17,21,0,0.447
+"23","Ohio Northern","517","2003","Jeff Nickerson","D-III","OAC",26,13,0,0.667
+"24","Ohio Northern","517","2002","Jeff Nickerson","D-III","OAC",21,17,0,0.553
+"25","Ohio Northern","517","2001","Jeff Nickerson","D-III","-",13,31,0,0.295
+"26","Ohio Northern","517","1900","Gayle Lauth","D-III","-",8,24,NA,0.25
+"27","Ohio Northern","517","1999","Gayle Lauth","D-III","-",14,21,NA,0.4
+"28","Ohio Northern","517","1998","Gayle Lauth","D-III","-",17,16,NA,0.515
+"29","Ohio Northern","517","1997","Gayle Lauth","D-III","-",19,18,NA,0.514
+"30","Ohio Northern","517","1996","Gayle Lauth","D-III","-",20,14,1,0.586
+"31","Ohio Northern","517","1995","Gayle Lauth","D-III","-",18,19,NA,0.486
+"32","Ohio Northern","517","1994","Gayle Lauth","D-III","-",23,11,NA,0.676
+"33","Ohio Northern","517","1993","Gayle Lauth","D-III","-",19,13,NA,0.594
+"34","Ohio Northern","517","1992","Gayle Lauth","D-III","-",13,10,NA,0.565
+"35","Ohio Northern","517","1991","Gayle Lauth","D-III","-",16,16,NA,0.5
+"36","Ohio Northern","517","1990","Gayle Lauth","D-III","-",13,16,NA,0.448
+"37","Ohio Northern","517","1989","Gayle Lauth","D-III","-",11,11,NA,0.5
+"38","Ohio Northern","517","1988","Gayle Lauth","D-III","-",19,11,NA,0.633
+"39","Ohio Northern","517","1987","Gayle Lauth","D-III","-",24,8,NA,0.75
+"40","Ohio Northern","517","1986","Gayle Lauth","D-III","-",29,4,NA,0.879
+"41","Ohio Northern","517","1985","Gayle Lauth","D-III","-",19,7,NA,0.731
+"42","Ohio Northern","517","1984","Gayle Lauth","D-III","-",15,6,NA,0.714
+"43","Ohio Northern","517","1983","Gayle Lauth","D-III","-",17,8,NA,0.68
+"44","Ohio Northern","517","1982","Gayle Lauth","D-III","-",13,15,NA,0.464
+"45","Ohio Northern","517","1981","Gayle Lauth","D-III","-",9,10,1,0.475
+"46","Ohio Northern","517","1980","Gayle Lauth","","-",15,14,NA,0.517
+"47","Ohio Northern","517","1979","Gayle Lauth","D-III","-",6,11,NA,0.353
+"48","Ohio Northern","517","1978","Gayle Lauth","D-III","-",6,8,NA,0.429
+"49","Ohio Northern","517","1977","Gayle Lauth","D-III","-",5,7,NA,0.417
+"50","Ohio Northern","517","1976","Gayle Lauth","D-III","-",4,6,NA,0.4
+"51","Ohio Northern","517","1975","Gayle Lauth","D-III","-",5,4,NA,0.556
+"52","Ohio Northern","517","1974","Gayle Lauth","D-III","-",5,4,NA,0.556
+"53","Ohio Northern","517","1973","Gayle Lauth","D-III","-",9,1,NA,0.9
+"54","Ohio Northern","517","1972","Gayle Lauth","D-III","-",6,2,NA,0.75
+"55","Ohio Northern","517","1971","Gayle Lauth","D-III","-",8,0,NA,1
+"56","Ohio Northern","517","1970","Gayle Lauth","D-III","-",5,2,NA,0.714
+"57","Ohio Northern","517","1969","Gayle Lauth","D-III","-",11,0,NA,1
+"58","Ohio Northern","517","1968","Gayle Lauth","D-III","-",4,0,NA,1
+"59","Ohio Northern","517","","","","",994,679,4,0.594

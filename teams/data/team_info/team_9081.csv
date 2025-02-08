@@ -1,28 +1,30 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bob Bartel","NSIC","30-28-0",0.517
-"2",2022,"Bob Bartel","NSIC","35-14-1",0.714
-"3",2021,"Bob Bartel","NSIC","23-21-0",0.523
-"4",2020,"Bob Bartel","NSIC","11-8-0",0.579
-"5",2019,"Bob Bartel","NSIC","33-20-0",0.623
-"6",2018,"Bob Bartel","NSIC","30-24-0",0.556
-"7",2017,"Bob Bartel","NSIC","16-35-0",0.314
-"8",2016,"Bob Bartel","NSIC","12-36-0",0.25
-"9",2015,"Bob Bartel","NSIC","16-37-0",0.302
-"10",2014,"Bob Bartel","NSIC","23-34-0",0.404
-"11",2013,"Bob Bartel","NSIC","29-16-0",0.644
-"12",2012,"Bob Bartel","NSIC","33-23-0",0.589
-"13",2011,"Bob Bartel","NSIC","31-21-0",0.596
-"14",2010,"Bob Bartel","NSIC","35-17-0",0.673
-"15",2009,"Bob Bartel","NSIC","33-23-0",0.589
-"16",2008,"Bob Bartel","NSIC","27-22-0",0.551
-"17",2007,"Bob Bartel","NSIC","27-31-0",0.466
-"18",2006,"Bob Bartel","NSIC","44-17-0",0.721
-"19",2005,"Bob Bartel","NSIC","44-15-0",0.746
-"20",2004,"Tom Rubbelke","NSIC","42-20-0",0.677
-"21",2003,"Tom Rubbelke","-","31-23-0",0.574
-"22",2002,"Tom Rubbelke","-","30-19-0",0.612
-"23",2001,"Tom Rubbelke","-","27-14-0",0.659
-"24",2000,"Tom Rubbelke","-","35-14-0",0.714
-"25",1999,"Tom Rubbelke","-","31-16-0",0.66
-"26",1998,"Tom Rubbelke","-","24-18-0",0.571
-"27",2024,"Bob Bartel","NSIC","31-11-0",0.738
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Concordia-St. Paul","9081","2025","Bob Bartel","D-II","NSIC",0,1,0,0
+"2","Concordia-St. Paul","9081","2024","Bob Bartel","D-II","NSIC",37,14,0,0.725
+"3","Concordia-St. Paul","9081","2023","Bob Bartel","D-II","NSIC",30,28,0,0.517
+"4","Concordia-St. Paul","9081","2022","Bob Bartel","D-II","NSIC",35,14,1,0.71
+"5","Concordia-St. Paul","9081","2021","Bob Bartel","D-II","NSIC",23,21,0,0.523
+"6","Concordia-St. Paul","9081","2020","Bob Bartel","D-II","NSIC",11,8,0,0.579
+"7","Concordia-St. Paul","9081","2019","Bob Bartel","D-II","NSIC",33,20,0,0.623
+"8","Concordia-St. Paul","9081","2018","Bob Bartel","D-II","NSIC",30,24,NA,0.556
+"9","Concordia-St. Paul","9081","2017","Bob Bartel","D-II","NSIC",16,35,0,0.314
+"10","Concordia-St. Paul","9081","2016","Bob Bartel","D-II","NSIC",12,36,0,0.25
+"11","Concordia-St. Paul","9081","2015","Bob Bartel","D-II","NSIC",16,37,0,0.302
+"12","Concordia-St. Paul","9081","2014","Bob Bartel","D-II","NSIC",23,34,0,0.404
+"13","Concordia-St. Paul","9081","2013","Bob Bartel","D-II","NSIC",29,16,0,0.644
+"14","Concordia-St. Paul","9081","2012","Bob Bartel","D-II","NSIC",33,23,0,0.589
+"15","Concordia-St. Paul","9081","2011","Bob Bartel","D-II","NSIC",31,21,0,0.596
+"16","Concordia-St. Paul","9081","2010","Bob Bartel","D-II","NSIC",35,17,0,0.673
+"17","Concordia-St. Paul","9081","2009","Bob Bartel","D-II","NSIC",33,23,0,0.589
+"18","Concordia-St. Paul","9081","2008","Bob Bartel","D-II","NSIC",27,22,0,0.551
+"19","Concordia-St. Paul","9081","2007","Bob Bartel","D-II","NSIC",27,31,0,0.466
+"20","Concordia-St. Paul","9081","2006","Bob Bartel","D-II","NSIC",44,17,0,0.721
+"21","Concordia-St. Paul","9081","2005","Bob Bartel","D-II","NSIC",44,15,0,0.746
+"22","Concordia-St. Paul","9081","2004","Tom Rubbelke","D-II","NSIC",42,20,0,0.677
+"23","Concordia-St. Paul","9081","2003","Tom Rubbelke","","-",31,23,NA,0.574
+"24","Concordia-St. Paul","9081","2002","Tom Rubbelke","D-II","-",30,19,0,0.612
+"25","Concordia-St. Paul","9081","2001","Tom Rubbelke","D-II","-",27,14,NA,0.659
+"26","Concordia-St. Paul","9081","1900","Tom Rubbelke","D-II","-",35,14,NA,0.714
+"27","Concordia-St. Paul","9081","1999","Tom Rubbelke","D-II","-",31,16,NA,0.66
+"28","Concordia-St. Paul","9081","1998","Tom Rubbelke","D-II","-",24,18,NA,0.571
+"29","Concordia-St. Paul","9081","","","","",789,581,1,0.576

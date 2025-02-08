@@ -1,40 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Wes Landrum","MAC Commonwealth","19-13-0","0.594"
-"2","2022","Wes Landrum","MAC Commonwealth","15-17-0","0.469"
-"3","2021","Wes Landrum","MAC Commonwealth","22-8-0","0.733"
-"4","2020","Wes Landrum","MAC Commonwealth","8-4-0","0.667"
-"5","2019","Wes Landrum","MAC Commonwealth","24-18-1","0.571"
-"6","2018","Jenn Castle","MAC Commonwealth","23-14-1","0.622"
-"7","2017","Katie Yohe","MAC Commonwealth","19-16-0","0.543"
-"8","2016","Katie Yohe","MAC Commonwealth","13-23-0","0.361"
-"9","2015","Katie Yohe","MAC Commonwealth","19-19-1","0.500"
-"10","2014","Katie Yohe","MAC Commonwealth","26-15-0","0.634"
-"11","2013","Lindsay Berger","MAC Commonwealth","37-11-0","0.771"
-"12","2012","Lindsay Berger","MAC Commonwealth","38-11-0","0.776"
-"13","2011","Lindsay Berger","MAC Commonwealth","23-13-0","0.639"
-"14","2010","Lindsay Berger","MAC Commonwealth","22-15-0","0.595"
-"15","2009","Lindsay Berger","MAC Freedom","15-20-0","0.429"
-"16","2008","Craig Wojszwillo","CSAC","32-12-0","0.727"
-"17","2007","Craig Wojszwillo","CSAC","21-16-0","0.568"
-"18","2006","Craig Wojszwillo","CSAC","20-21-0","0.488"
-"19","2005","Craig Wojszwillo","CSAC","11-20-0","0.355"
-"20","2004","Craig Wojszwillo","CSAC","8-29-0","0.216"
-"21","2003","Craig Wojszwillo","CSAC","11-19-0","0.367"
-"22","2002","Craig Wojszwillo","CSAC","36-23-0","0.610"
-"23","2001","Craig Wojszwillo","-","17-17-0","0.500"
-"24","2000","Craig Wojszwillo","-","22-13-0","0.629"
-"25","1999","Craig Wojszwillo","-","20-15-1","0.571"
-"26","1998","Craig Wojszwillo","-","15-15-0","0.500"
-"27","1997","John Gilmer","-","24-8-0","0.750"
-"28","1996","John Gilmer","-","22-9-0","0.710"
-"29","1995","Scott Pierce","-","24-15-0","0.615"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Alvernia","938","2025","Wes Landrum","D-III","MAC Commonwealth",0,0,0,0
+"2","Alvernia","938","2024","Wes Landrum","D-III","MAC Commonwealth",23,16,0,0.59
+"3","Alvernia","938","2023","Wes Landrum","D-III","MAC Commonwealth",19,13,0,0.594
+"4","Alvernia","938","2022","Wes Landrum","D-III","MAC Commonwealth",15,17,0,0.469
+"5","Alvernia","938","2021","Wes Landrum","D-III","MAC Commonwealth",22,8,0,0.733
+"6","Alvernia","938","2020","Wes Landrum","D-III","MAC Commonwealth",8,4,0,0.667
+"7","Alvernia","938","2019","Wes Landrum","D-III","MAC Commonwealth",24,18,1,0.57
+"8","Alvernia","938","2018","Jenn Castle","D-III","MAC Commonwealth",23,14,1,0.618
+"9","Alvernia","938","2017","Katie Yohe","D-III","MAC Commonwealth",19,16,0,0.543
+"10","Alvernia","938","2016","Katie Yohe","D-III","MAC Commonwealth",13,23,0,0.361
+"11","Alvernia","938","2015","Katie Yohe","D-III","MAC Commonwealth",19,19,1,0.5
+"12","Alvernia","938","2014","Katie Yohe","D-III","MAC Commonwealth",26,15,0,0.634
+"13","Alvernia","938","2013","Lindsay Berger","D-III","MAC Commonwealth",37,11,0,0.771
+"14","Alvernia","938","2012","Lindsay Berger","D-III","MAC Commonwealth",38,11,0,0.776
+"15","Alvernia","938","2011","Lindsay Berger","D-III","MAC Commonwealth",23,13,0,0.639
+"16","Alvernia","938","2010","Lindsay Berger","D-III","MAC Commonwealth",22,15,0,0.595
+"17","Alvernia","938","2009","Lindsay Berger","D-III","MAC Freedom",15,20,0,0.429
+"18","Alvernia","938","2008","Craig Wojszwillo","D-III","CSAC",32,12,0,0.727
+"19","Alvernia","938","2007","Craig Wojszwillo","D-III","CSAC",21,16,0,0.568
+"20","Alvernia","938","2006","Craig Wojszwillo","D-III","CSAC",20,21,0,0.488
+"21","Alvernia","938","2005","Craig Wojszwillo","D-III","CSAC",11,20,0,0.355
+"22","Alvernia","938","2004","Craig Wojszwillo","D-III","CSAC",8,29,0,0.216
+"23","Alvernia","938","2003","Craig Wojszwillo","D-III","CSAC",11,19,0,0.367
+"24","Alvernia","938","2002","Craig Wojszwillo","D-III","CSAC",36,23,0,0.61
+"25","Alvernia","938","2001","Craig Wojszwillo","D-III","-",17,17,NA,0.5
+"26","Alvernia","938","1900","Craig Wojszwillo","D-III","-",22,13,NA,0.629
+"27","Alvernia","938","1999","Craig Wojszwillo","D-III","-",20,15,1,0.569
+"28","Alvernia","938","1998","Craig Wojszwillo","D-III","-",15,15,NA,0.5
+"29","Alvernia","938","1997","John Gilmer","D-III","-",24,8,NA,0.75
+"30","Alvernia","938","1996","John Gilmer","D-III","-",22,9,NA,0.71
+"31","Alvernia","938","1995","Scott Pierce","D-III","-",24,15,NA,0.615
+"32","Alvernia","938","1994","","D-III","-",NA,NA,NA,NA
+"33","Alvernia","938","1993","","D-III","-",NA,NA,NA,NA
+"34","Alvernia","938","1992","","D-III","-",NA,NA,NA,NA
+"35","Alvernia","938","1991","","D-III","-",NA,NA,NA,NA
+"36","Alvernia","938","1990","","D-III","-",NA,NA,NA,NA
+"37","Alvernia","938","1989","","D-III","-",NA,NA,NA,NA
+"38","Alvernia","938","1988","","D-III","-",NA,NA,NA,NA
+"39","Alvernia","938","1987","","","-",NA,NA,NA,NA
+"40","Alvernia","938","1986","","","-",NA,NA,NA,NA
+"41","Alvernia","938","1985","","","-",NA,NA,NA,NA
+"42","Alvernia","938","","","","",629,465,4,0.575

@@ -1,26 +1,28 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2013,"","-","0-0-0",NA
-"2",2012,"","-","0-0-0",NA
-"3",2011,"","-","0-0-0",NA
-"4",2010,"Danielle Stines","Division III Independents","0-0-0",NA
-"5",2009,"Danielle Stines","-","11-25-0",0.306
-"6",2008,"Danielle Stines","-","0-0-0",NA
-"7",2007,"Kelly Miller","-","0-0-0",NA
-"8",2006,"Kelly Miller","-","7-27-0",0.206
-"9",2005,"Kelly Miller","-","15-22-0",0.405
-"10",2004,"Kelly Miller","-","14-22-0",0.389
-"11",2003,"","-","16-19-0",0.457
-"12",2002,"","-","0-0-0",NA
-"13",2001,"","-","0-0-0",NA
-"14",2000,"","-","0-0-0",NA
-"15",1999,"Kyle Brumbaugh","-","26-16-0",0.619
-"16",1998,"Kyle Brumbaugh","-","8-8-0",0.5
-"17",1997,"Delna Lancaster","-","1-11-0",0.083
-"18",1996,"John Propstra","-","5-17-0",0.227
-"19",1995,"Mark Majeski","-","4-13-0",0.235
-"20",1994,"Mark Majeski","-","1-21-0",0.045
-"21",1993,"","-","0-0-0",NA
-"22",1992,"","-","0-0-0",NA
-"23",1991,"","-","0-0-0",NA
-"24",1990,"","-","0-0-0",NA
-"25",2024,"","DII Independent","0-6-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Menlo","405","2025","Sky Ellazar","D-II","PacWest",0,0,0,0
+"2","Menlo","405","2024","","D-II","DII Independent",2,8,0,0.2
+"3","Menlo","405","2013","","D-III","-",NA,NA,NA,NA
+"4","Menlo","405","2012","","D-III","-",NA,NA,NA,NA
+"5","Menlo","405","2011","","","-",NA,NA,NA,NA
+"6","Menlo","405","2010","Danielle Stines","D-III","Division III Independents",NA,NA,NA,NA
+"7","Menlo","405","2009","Danielle Stines","D-III","-",11,25,0,0.306
+"8","Menlo","405","2008","Danielle Stines","D-III","-",NA,NA,NA,NA
+"9","Menlo","405","2007","Kelly Miller","D-III","-",NA,NA,NA,NA
+"10","Menlo","405","2006","Kelly Miller","D-III","-",7,27,0,0.206
+"11","Menlo","405","2005","Kelly Miller","D-III","-",15,22,0,0.405
+"12","Menlo","405","2004","Kelly Miller","D-III","-",14,22,0,0.389
+"13","Menlo","405","2003","","D-III","-",16,19,0,0.457
+"14","Menlo","405","2002","","D-III","-",NA,NA,NA,NA
+"15","Menlo","405","2001","","D-III","-",NA,NA,NA,NA
+"16","Menlo","405","1900","","D-III","-",NA,NA,NA,NA
+"17","Menlo","405","1999","Kyle Brumbaugh","D-III","-",26,16,NA,0.619
+"18","Menlo","405","1998","Kyle Brumbaugh","D-III","-",8,8,NA,0.5
+"19","Menlo","405","1997","Delna Lancaster","D-III","-",1,11,NA,0.083
+"20","Menlo","405","1996","John Propstra","D-III","-",5,17,NA,0.227
+"21","Menlo","405","1995","Mark Majeski","D-III","-",4,13,NA,0.235
+"22","Menlo","405","1994","Mark Majeski","D-III","-",1,21,NA,0.045
+"23","Menlo","405","1993","","D-III","-",NA,NA,NA,NA
+"24","Menlo","405","1992","","D-III","-",NA,NA,NA,NA
+"25","Menlo","405","1991","","D-III","-",NA,NA,NA,NA
+"26","Menlo","405","1990","","D-III","-",NA,NA,NA,NA
+"27","Menlo","405","","","","",110,209,0,0.345

@@ -1,49 +1,51 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Meadow McWhorter","Big Sky","18-27-0",0.4
-"2",2022,"Meadow McWhorter","Big Sky","28-18-0",0.609
-"3",2021,"Meadow McWhorter","Big Sky","15-26-0",0.366
-"4",2020,"Meadow McWhorter","Big Sky","6-17-0",0.261
-"5",2019,"Meadow McWhorter","Big Sky","20-31-0",0.392
-"6",2018,"Meadow McWhorter","Big Sky","18-34-0",0.346
-"7",2017,"Meadow McWhorter","Big Sky","9-36-0",0.2
-"8",2016,"Barb Sherwood","Big Sky","14-35-0",0.286
-"9",2015,"Barb Sherwood","Big Sky","16-35-0",0.314
-"10",2014,"Barb Sherwood","Big Sky","8-36-0",0.182
-"11",2013,"Tobin Echo-Hawk","Big Sky","25-31-0",0.446
-"12",2012,"Tobin Echo-Hawk","Pacific Coast Softball","28-25-0",0.528
-"13",2011,"Tobin Echo-Hawk","Pacific Coast Softball","34-18-0",0.654
-"14",2010,"Tobin Echo-Hawk","Pacific Coast Softball","30-27-0",0.526
-"15",2009,"Tobin Echo-Hawk","Pacific Coast Softball","29-26-0",0.527
-"16",2008,"Amy Hayes","Pacific Coast Softball","31-27-0",0.534
-"17",2007,"Amy Hayes","Pacific Coast Softball","23-34-0",0.404
-"18",2006,"Amy Hayes","Pacific Coast Softball","38-20-0",0.655
-"19",2005,"Teri Mariani","Pacific Coast Softball","17-28-0",0.378
-"20",2004,"Teri Mariani","Pacific Coast Softball","19-36-0",0.345
-"21",2003,"Teri Mariani","WAC","19-29-0",0.396
-"22",2002,"Teri Mariani","WAC","22-35-0",0.386
-"23",2001,"Teri Mariani","WAC","25-36-0",0.41
-"24",2000,"Teri Mariani","-","22-34-0",0.393
-"25",1999,"Teri Mariani","-","12-37-0",0.245
-"26",1998,"Teri Mariani","-","30-23-0",0.566
-"27",1997,"Teri Mariani","-","37-16-0",0.698
-"28",1996,"Teri Mariani","-","42-20-0",0.677
-"29",1995,"Teri Mariani","-","19-8-0",0.704
-"30",1994,"Teri Mariani","-","26-22-0",0.542
-"31",1993,"Teri Mariani","-","23-11-0",0.676
-"32",1992,"Teri Mariani","-","40-14-0",0.741
-"33",1991,"Teri Mariani","-","43-9-0",0.827
-"34",1990,"Teri Mariani","-","41-14-0",0.745
-"35",1989,"Teri Mariani","-","25-22-0",0.532
-"36",1988,"Teri Mariani","-","17-27-0",0.386
-"37",1987,"Teri Mariani","-","16-22-0",0.421
-"38",1986,"Teri Mariani","-","15-18-0",0.455
-"39",1985,"Teri Mariani","-","20-16-0",0.556
-"40",1984,"Teri Mariani","-","24-21-0",0.533
-"41",1983,"Teri Mariani","-","14-7-0",0.667
-"42",1982,"Teri Mariani","-","24-17-0",0.585
-"43",1981,"Teri Mariani","-","23-12-0",0.657
-"44",1980,"Teri Mariani","-","20-19-0",0.513
-"45",1979,"Teri Mariani","-","12-11-0",0.522
-"46",1978,"Teri Mariani","-","9-9-0",0.5
-"47",1977,"Teri Mariani","-","7-8-0",0.467
-"48",2024,"Meadow McWhorter","Big Sky","27-24-0",0.529
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Portland St.","550","2025","Meadow McWhorter","D-I","Big Sky",0,1,0,0
+"2","Portland St.","550","2024","Meadow McWhorter","D-I","Big Sky",23,24,0,0.489
+"3","Portland St.","550","2023","Meadow McWhorter","D-I","Big Sky",18,27,0,0.4
+"4","Portland St.","550","2022","Meadow McWhorter","D-I","Big Sky",28,18,0,0.609
+"5","Portland St.","550","2021","Meadow McWhorter","D-I","Big Sky",15,26,0,0.366
+"6","Portland St.","550","2020","Meadow McWhorter","D-I","Big Sky",6,17,0,0.261
+"7","Portland St.","550","2019","Meadow McWhorter","D-I","Big Sky",20,31,0,0.392
+"8","Portland St.","550","2018","Meadow McWhorter","D-I","Big Sky",18,34,NA,0.346
+"9","Portland St.","550","2017","Meadow McWhorter","D-I","Big Sky",9,36,0,0.2
+"10","Portland St.","550","2016","Barb Sherwood","D-I","Big Sky",14,35,0,0.286
+"11","Portland St.","550","2015","Barb Sherwood","D-I","Big Sky",16,35,0,0.314
+"12","Portland St.","550","2014","Barb Sherwood","D-I","Big Sky",8,36,0,0.182
+"13","Portland St.","550","2013","Tobin Echo-Hawk","D-I","Big Sky",25,31,0,0.446
+"14","Portland St.","550","2012","Tobin Echo-Hawk","D-I","Pacific Coast Softball",28,25,0,0.528
+"15","Portland St.","550","2011","Tobin Echo-Hawk","D-I","Pacific Coast Softball",34,18,0,0.654
+"16","Portland St.","550","2010","Tobin Echo-Hawk","D-I","Pacific Coast Softball",30,27,0,0.526
+"17","Portland St.","550","2009","Tobin Echo-Hawk","D-I","Pacific Coast Softball",29,26,0,0.527
+"18","Portland St.","550","2008","Amy Hayes","D-I","Pacific Coast Softball",31,27,0,0.534
+"19","Portland St.","550","2007","Amy Hayes","D-I","Pacific Coast Softball",23,34,0,0.404
+"20","Portland St.","550","2006","Amy Hayes","D-I","Pacific Coast Softball",38,20,0,0.655
+"21","Portland St.","550","2005","Teri Mariani","D-I","Pacific Coast Softball",17,28,0,0.378
+"22","Portland St.","550","2004","Teri Mariani","D-I","Pacific Coast Softball",19,36,0,0.345
+"23","Portland St.","550","2003","Teri Mariani","D-I","WAC",19,29,0,0.396
+"24","Portland St.","550","2002","Teri Mariani","D-I","WAC",22,35,0,0.386
+"25","Portland St.","550","2001","Teri Mariani","D-I","WAC",25,36,0,0.41
+"26","Portland St.","550","1900","Teri Mariani","D-I","-",22,34,0,0.393
+"27","Portland St.","550","1999","Teri Mariani","D-I","-",12,37,NA,0.245
+"28","Portland St.","550","1998","Teri Mariani","D-II","-",30,23,NA,0.566
+"29","Portland St.","550","1997","Teri Mariani","D-II","-",37,16,NA,0.698
+"30","Portland St.","550","1996","Teri Mariani","D-II","-",42,20,NA,0.677
+"31","Portland St.","550","1995","Teri Mariani","D-II","-",19,8,NA,0.704
+"32","Portland St.","550","1994","Teri Mariani","D-II","-",26,22,NA,0.542
+"33","Portland St.","550","1993","Teri Mariani","D-II","-",23,11,NA,0.676
+"34","Portland St.","550","1992","Teri Mariani","D-II","-",40,14,NA,0.741
+"35","Portland St.","550","1991","Teri Mariani","D-II","-",43,9,NA,0.827
+"36","Portland St.","550","1990","Teri Mariani","D-II","-",41,14,NA,0.745
+"37","Portland St.","550","1989","Teri Mariani","D-II","-",25,22,NA,0.532
+"38","Portland St.","550","1988","Teri Mariani","D-II","-",17,27,NA,0.386
+"39","Portland St.","550","1987","Teri Mariani","D-II","-",16,22,NA,0.421
+"40","Portland St.","550","1986","Teri Mariani","D-II","-",15,18,NA,0.455
+"41","Portland St.","550","1985","Teri Mariani","D-II","-",20,16,NA,0.556
+"42","Portland St.","550","1984","Teri Mariani","D-II","-",24,21,NA,0.533
+"43","Portland St.","550","1983","Teri Mariani","D-II","-",14,7,NA,0.667
+"44","Portland St.","550","1982","Teri Mariani","D-II","-",24,17,NA,0.585
+"45","Portland St.","550","1981","Teri Mariani","D-II","-",23,12,NA,0.657
+"46","Portland St.","550","1980","Teri Mariani","D-II","-",20,19,NA,0.513
+"47","Portland St.","550","1979","Teri Mariani","D-II","-",12,11,NA,0.522
+"48","Portland St.","550","1978","Teri Mariani","D-II","-",9,9,NA,0.5
+"49","Portland St.","550","1977","Teri Mariani","D-II","-",7,8,NA,0.467
+"50","Portland St.","550","","","","",1076,1109,0,0.492

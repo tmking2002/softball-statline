@@ -1,8 +1,9 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2021",NA,"-","0-0-0",0
-"5","2020",NA,"-","0-0-0",0
-"6","2019",NA,"-","0-0-0",0
-"7","2018",NA,"-","0-0-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Washington Adventist","506471","2024",NA,NA,"-",NA,NA,NA,0
+"2","Washington Adventist","506471","2023",NA,NA,"-",NA,NA,NA,0
+"3","Washington Adventist","506471","2022",NA,NA,"-",NA,NA,NA,0
+"4","Washington Adventist","506471","2021",NA,NA,"-",NA,NA,NA,0
+"5","Washington Adventist","506471","2020",NA,NA,"-",NA,NA,NA,0
+"6","Washington Adventist","506471","2019",NA,NA,"-",NA,NA,NA,0
+"7","Washington Adventist","506471","2018",NA,NA,"-",NA,NA,NA,0
+"8","Washington Adventist","506471","",NA,NA,"",0,0,0,0

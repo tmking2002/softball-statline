@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Debbie Day","SCIAC","14-20-0",0.412
-"2",2022,"Debbie Day","SCIAC","11-26-0",0.297
-"3",2021,"Debbie Day","SCIAC","3-15-0",0.167
-"4",2020,"Debbie Day","SCIAC","5-7-0",0.417
-"5",2019,"Debbie Day","SCIAC","12-28-0",0.3
-"6",2018,"Debbie Day","SCIAC","17-23-0",0.425
-"7",2017,"Debbie Day","SCIAC","17-19-0",0.472
-"8",2016,"Debbie Day","SCIAC","17-22-0",0.436
-"9",2015,"Debbie Day","SCIAC","20-21-0",0.488
-"10",2014,"Debbie Day","SCIAC","19-19-0",0.5
-"11",2013,"Debbie Day","SCIAC","17-21-0",0.447
-"12",2012,"Debbie Day","SCIAC","12-28-0",0.3
-"13",2011,"Debbie Day","SCIAC","13-26-0",0.333
-"14",2010,"Debbie Day","SCIAC","16-24-0",0.4
-"15",2009,"Debbie Day","SCIAC","23-17-0",0.575
-"16",2008,"Debbie Day","SCIAC","19-19-0",0.5
-"17",2007,"Debbie Day","SCIAC","22-13-0",0.629
-"18",2006,"Debbie Day","SCIAC","16-18-0",0.471
-"19",2005,"Debbie Day","SCIAC","21-16-0",0.568
-"20",2004,"Debbie Day","SCIAC","20-19-0",0.513
-"21",2003,"Debbie Day","SCIAC","24-20-0",0.545
-"22",2002,"Jodi Eyraud","-","0-0-0",NA
-"23",2001,"Jodi Eyraud","-","18-14-0",0.562
-"24",2000,"Jodi Eyraud","-","14-27-0",0.341
-"25",1999,"Jodi Eyraud","-","19-15-0",0.559
-"26",1998,"Kecia Davis","-","27-21-0",0.562
-"27",1997,"Kecia Davis","-","26-12-1",0.684
-"28",1996,"Kecia Davis","-","31-6-0",0.838
-"29",1995,"Kecia Davis","-","28-12-0",0.7
-"30",1994,"Kecia Davis","-","29-8-0",0.784
-"31",1993,"Teri Rupe","-","25-11-1",0.694
-"32",1992,"Teri Rupe","-","29-13-0",0.69
-"33",1991,"Teri Rupe","-","31-10-0",0.756
-"34",1990,"Tony Venditto","-","32-12-2",0.727
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1983,"","-","0-0-0",NA
-"38",2024,"Debbie Day","SCIAC","15-19-0",0.441
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cal Lutheran","105","2025","Kecia Davis","D-III","SCIAC",0,0,0,0
+"2","Cal Lutheran","105","2024","Debbie Day","D-III","SCIAC",15,19,0,0.441
+"3","Cal Lutheran","105","2023","Debbie Day","D-III","SCIAC",14,20,0,0.412
+"4","Cal Lutheran","105","2022","Debbie Day","D-III","SCIAC",11,26,0,0.297
+"5","Cal Lutheran","105","2021","Debbie Day","D-III","SCIAC",3,15,0,0.167
+"6","Cal Lutheran","105","2020","Debbie Day","D-III","SCIAC",5,7,0,0.417
+"7","Cal Lutheran","105","2019","Debbie Day","D-III","SCIAC",12,28,0,0.3
+"8","Cal Lutheran","105","2018","Debbie Day","D-III","SCIAC",17,23,NA,0.425
+"9","Cal Lutheran","105","2017","Debbie Day","D-III","SCIAC",17,19,0,0.472
+"10","Cal Lutheran","105","2016","Debbie Day","D-III","SCIAC",17,23,0,0.425
+"11","Cal Lutheran","105","2015","Debbie Day","D-III","SCIAC",20,21,0,0.488
+"12","Cal Lutheran","105","2014","Debbie Day","D-III","SCIAC",19,19,0,0.5
+"13","Cal Lutheran","105","2013","Debbie Day","D-III","SCIAC",17,21,0,0.447
+"14","Cal Lutheran","105","2012","Debbie Day","D-III","SCIAC",12,28,0,0.3
+"15","Cal Lutheran","105","2011","Debbie Day","D-III","SCIAC",13,26,0,0.333
+"16","Cal Lutheran","105","2010","Debbie Day","D-III","SCIAC",16,24,0,0.4
+"17","Cal Lutheran","105","2009","Debbie Day","D-III","SCIAC",23,17,0,0.575
+"18","Cal Lutheran","105","2008","Debbie Day","D-III","SCIAC",19,19,0,0.5
+"19","Cal Lutheran","105","2007","Debbie Day","D-III","SCIAC",22,13,0,0.629
+"20","Cal Lutheran","105","2006","Debbie Day","D-III","SCIAC",16,18,0,0.471
+"21","Cal Lutheran","105","2005","Debbie Day","D-III","SCIAC",21,16,0,0.568
+"22","Cal Lutheran","105","2004","Debbie Day","D-III","SCIAC",20,19,0,0.513
+"23","Cal Lutheran","105","2003","Debbie Day","D-III","SCIAC",24,20,0,0.545
+"24","Cal Lutheran","105","2002","Jodi Eyraud","D-III","-",NA,NA,NA,NA
+"25","Cal Lutheran","105","2001","Jodi Eyraud","D-III","-",18,14,NA,0.563
+"26","Cal Lutheran","105","1900","Jodi Eyraud","D-III","-",14,27,NA,0.341
+"27","Cal Lutheran","105","1999","Jodi Eyraud","D-III","-",19,15,NA,0.559
+"28","Cal Lutheran","105","1998","Kecia Davis","D-III","-",27,21,NA,0.563
+"29","Cal Lutheran","105","1997","Kecia Davis","D-III","-",26,12,1,0.679
+"30","Cal Lutheran","105","1996","Kecia Davis","D-III","-",31,6,NA,0.838
+"31","Cal Lutheran","105","1995","Kecia Davis","D-III","-",28,12,NA,0.7
+"32","Cal Lutheran","105","1994","Kecia Davis","D-III","-",29,8,NA,0.784
+"33","Cal Lutheran","105","1993","Teri Rupe","D-III","-",25,11,1,0.689
+"34","Cal Lutheran","105","1992","Teri Rupe","D-III","-",29,13,NA,0.69
+"35","Cal Lutheran","105","1991","Teri Rupe","D-II","-",31,10,NA,0.756
+"36","Cal Lutheran","105","1990","Tony Venditto","D-II","-",32,12,2,0.717
+"37","Cal Lutheran","105","1989","","","-",NA,NA,NA,NA
+"38","Cal Lutheran","105","1988","","D-II","-",NA,NA,NA,NA
+"39","Cal Lutheran","105","1983","","","-",NA,NA,NA,NA
+"40","Cal Lutheran","105","","","","",662,602,4,0.524

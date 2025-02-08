@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bailey Bouman","NSIC","17-32-0",0.347
-"2",2022,"Bailey Bouman","NSIC","21-31-0",0.404
-"3",2021,"Bailey Bouman","NSIC","27-20-0",0.574
-"4",2020,"Bailey Bouman","NSIC","9-7-0",0.562
-"5",2019,"Bailey Bouman","NSIC","19-26-0",0.422
-"6",2018,"Jamie Dunn","NSIC","18-26-0",0.409
-"7",2017,"Jamie Dunn","NSIC","23-23-0",0.5
-"8",2016,"Jamie Dunn","NSIC","19-33-0",0.365
-"9",2015,"Jamie Dunn","NSIC","27-29-0",0.482
-"10",2014,"Jamie Dunn","NSIC","15-30-1",0.333
-"11",2013,"Missy Bruggeman","NSIC","19-21-0",0.475
-"12",2012,"Missy Bruggeman","NSIC","21-21-0",0.5
-"13",2011,"Shawn Semler","NSIC","29-19-0",0.604
-"14",2010,"Shawn Semler","NSIC","18-25-0",0.419
-"15",2009,"Shawn Semler","NSIC","32-23-0",0.582
-"16",2008,"Shawn Semler","NSIC","39-12-0",0.765
-"17",2007,"Shawn Semler","NSIC","38-13-0",0.745
-"18",2006,"Shawn Semler","NSIC","41-12-0",0.774
-"19",2005,"Shawn Semler","NSIC","22-25-0",0.468
-"20",2004,"Shawn Semler","NSIC","22-31-0",0.415
-"21",2003,"Brenda Carlson","-","0-0-0",NA
-"22",2002,"Brenda Carlson","NSIC","24-26-0",0.48
-"23",2001,"Brenda Carlson","-","14-39-0",0.264
-"24",2000,"Brenda Carlson","-","30-26-0",0.536
-"25",1999,"Brenda Carlson","-","27-29-0",0.482
-"26",1998,"Brenda Carlson","-","18-28-0",0.391
-"27",1997,"Marilyn Strate","-","21-13-0",0.618
-"28",1996,"Marilyn Strate","-","26-25-0",0.51
-"29",1995,"Marilyn Strate","-","21-13-0",0.618
-"30",1994,"Deb Denbeck","-","32-16-0",0.667
-"31",1993,"Marilyn Strate","-","39-12-0",0.765
-"32",1992,"Marilyn Strate","-","30-16-0",0.652
-"33",1991,"Marilyn Strate","-","17-12-0",0.586
-"34",1990,"Marilyn Strate","-","30-17-0",0.638
-"35",1989,"Marilyn Strate","-","27-22-0",0.551
-"36",1983,"","-","0-0-0",NA
-"37",1982,"","-","0-0-0",NA
-"38",2024,"Bailey Bouman","NSIC","17-29-0",0.37
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southwest Minn. St.","8736","2025","Bailey Bouman","D-II","NSIC",0,4,0,0
+"2","Southwest Minn. St.","8736","2024","Bailey Bouman","D-II","NSIC",19,32,0,0.373
+"3","Southwest Minn. St.","8736","2023","Bailey Bouman","D-II","NSIC",17,32,0,0.347
+"4","Southwest Minn. St.","8736","2022","Bailey Bouman","D-II","NSIC",21,31,0,0.404
+"5","Southwest Minn. St.","8736","2021","Bailey Bouman","D-II","NSIC",27,20,0,0.574
+"6","Southwest Minn. St.","8736","2020","Bailey Bouman","D-II","NSIC",9,7,0,0.563
+"7","Southwest Minn. St.","8736","2019","Bailey Bouman","D-II","NSIC",19,26,0,0.422
+"8","Southwest Minn. St.","8736","2018","Jamie Dunn","D-II","NSIC",18,26,NA,0.409
+"9","Southwest Minn. St.","8736","2017","Jamie Dunn","D-II","NSIC",23,23,0,0.5
+"10","Southwest Minn. St.","8736","2016","Jamie Dunn","D-II","NSIC",19,33,0,0.365
+"11","Southwest Minn. St.","8736","2015","Jamie Dunn","D-II","NSIC",27,29,0,0.482
+"12","Southwest Minn. St.","8736","2014","Jamie Dunn","D-II","NSIC",15,31,1,0.33
+"13","Southwest Minn. St.","8736","2013","Missy Bruggeman","D-II","NSIC",21,25,0,0.457
+"14","Southwest Minn. St.","8736","2012","Missy Bruggeman","D-II","NSIC",21,21,0,0.5
+"15","Southwest Minn. St.","8736","2011","Shawn Semler","D-II","NSIC",29,19,0,0.604
+"16","Southwest Minn. St.","8736","2010","Shawn Semler","D-II","NSIC",18,25,0,0.419
+"17","Southwest Minn. St.","8736","2009","Shawn Semler","D-II","NSIC",32,23,0,0.582
+"18","Southwest Minn. St.","8736","2008","Shawn Semler","D-II","NSIC",39,12,0,0.765
+"19","Southwest Minn. St.","8736","2007","Shawn Semler","D-II","NSIC",38,13,0,0.745
+"20","Southwest Minn. St.","8736","2006","Shawn Semler","D-II","NSIC",41,12,0,0.774
+"21","Southwest Minn. St.","8736","2005","Shawn Semler","D-II","NSIC",22,25,0,0.468
+"22","Southwest Minn. St.","8736","2004","Shawn Semler","D-II","NSIC",22,31,0,0.415
+"23","Southwest Minn. St.","8736","2003","Brenda Carlson","","-",NA,NA,NA,NA
+"24","Southwest Minn. St.","8736","2002","Brenda Carlson","D-II","NSIC",24,26,0,0.48
+"25","Southwest Minn. St.","8736","2001","Brenda Carlson","D-II","-",14,39,0,0.264
+"26","Southwest Minn. St.","8736","1900","Brenda Carlson","D-II","-",30,26,0,0.536
+"27","Southwest Minn. St.","8736","1999","Brenda Carlson","D-II","-",27,29,0,0.482
+"28","Southwest Minn. St.","8736","1998","Brenda Carlson","D-II","-",18,28,0,0.391
+"29","Southwest Minn. St.","8736","1997","Marilyn Strate","D-II","-",21,13,0,0.618
+"30","Southwest Minn. St.","8736","1996","Marilyn Strate","D-II","-",26,25,0,0.51
+"31","Southwest Minn. St.","8736","1995","Marilyn Strate","D-II","-",21,13,0,0.618
+"32","Southwest Minn. St.","8736","1994","Deb Denbeck","D-II","-",32,16,0,0.667
+"33","Southwest Minn. St.","8736","1993","Marilyn Strate","","-",39,12,0,0.765
+"34","Southwest Minn. St.","8736","1992","Marilyn Strate","","-",30,16,0,0.652
+"35","Southwest Minn. St.","8736","1991","Marilyn Strate","","-",17,12,0,0.586
+"36","Southwest Minn. St.","8736","1990","Marilyn Strate","","-",30,17,0,0.638
+"37","Southwest Minn. St.","8736","1989","Marilyn Strate","","-",27,22,0,0.551
+"38","Southwest Minn. St.","8736","1983","","D-II","-",NA,NA,NA,NA
+"39","Southwest Minn. St.","8736","1982","","D-II","-",NA,NA,NA,NA
+"40","Southwest Minn. St.","8736","","","","",853,794,1,0.518

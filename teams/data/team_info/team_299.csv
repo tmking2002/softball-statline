@@ -1,46 +1,48 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tina Kramos","MVC","30-22-0",0.577
-"2",2022,"Melinda Fischer","MVC","24-28-0",0.462
-"3",2021,"Melinda Fischer","MVC","31-10-0",0.756
-"4",2020,"Melinda Fischer","MVC","12-11-0",0.522
-"5",2019,"Melinda Fischer","MVC","18-33-0",0.353
-"6",2018,"Melinda Fischer","MVC","21-33-0",0.389
-"7",2017,"Melinda Fischer","MVC","33-24-0",0.579
-"8",2016,"Melinda Fischer","MVC","20-33-0",0.377
-"9",2015,"Melinda Fischer","MVC","31-36-0",0.463
-"10",2014,"Melinda Fischer","MVC","25-28-0",0.472
-"11",2013,"Melinda Fischer","MVC","28-20-0",0.583
-"12",2012,"Melinda Fischer","MVC","37-23-0",0.617
-"13",2011,"Melinda Fischer","MVC","36-19-0",0.655
-"14",2010,"Melinda Fischer","MVC","32-20-0",0.615
-"15",2009,"Melinda Fischer","MVC","24-26-0",0.48
-"16",2008,"Melinda Fischer","MVC","28-20-0",0.583
-"17",2007,"Melinda Fischer","MVC","44-17-1",0.721
-"18",2006,"Melinda Fischer","MVC","38-16-0",0.704
-"19",2005,"Melinda Fischer","MVC","31-21-0",0.596
-"20",2004,"Melinda Fischer","MVC","33-19-1",0.635
-"21",2003,"Melinda Fischer","MVC","29-23-0",0.558
-"22",2002,"Melinda Fischer","MVC","34-17-0",0.667
-"23",2001,"Melinda Fischer","MVC","37-18-0",0.673
-"24",2000,"Melinda Fischer","MVC","27-33-0",0.45
-"25",1999,"Melinda Fischer","MVC","31-21-0",0.596
-"26",1998,"Melinda Fischer","-","20-30-0",0.4
-"27",1997,"Melinda Fischer","MVC","28-21-0",0.571
-"28",1996,"Melinda Fischer","-","35-19-0",0.648
-"29",1995,"Melinda Fischer","-","46-14-0",0.767
-"30",1994,"Melinda Fischer","-","36-21-0",0.632
-"31",1993,"Melinda Fischer","-","26-34-0",0.433
-"32",1992,"Melinda Fischer","-","24-35-2",0.407
-"33",1991,"Melinda Fischer","-","37-21-0",0.638
-"34",1990,"Melinda Fischer","-","29-26-0",0.527
-"35",1989,"Melinda Fischer","-","24-28-0",0.462
-"36",1988,"Melinda Fischer","-","39-12-0",0.765
-"37",1987,"Melinda Fischer","-","41-20-0",0.672
-"38",1986,"Melinda Fischer","-","35-17-0",0.673
-"39",1985,"Margie Wright","-","31-18-0",0.633
-"40",1984,"Margie Wright","-","24-18-0",0.571
-"41",1983,"Margie Wright","-","16-16-0",0.5
-"42",1982,"Margie Wright","-","24-19-1",0.558
-"43",1981,"Margie Wright","-","40-12-0",0.769
-"44",1980,"Margie Wright","-","28-9-1",0.757
-"45",2024,"Tina Kramos","MVC","23-31-0",0.426
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Illinois St.","299","2025","Tina Kramos","D-I","MVC",1,3,0,0.25
+"2","Illinois St.","299","2024","Tina Kramos","D-I","MVC",23,31,0,0.426
+"3","Illinois St.","299","2023","Tina Kramos","D-I","MVC",30,22,0,0.577
+"4","Illinois St.","299","2022","Melinda Fischer","D-I","MVC",24,28,0,0.462
+"5","Illinois St.","299","2021","Melinda Fischer","D-I","MVC",31,10,0,0.756
+"6","Illinois St.","299","2020","Melinda Fischer","D-I","MVC",12,11,0,0.522
+"7","Illinois St.","299","2019","Melinda Fischer","D-I","MVC",18,33,0,0.353
+"8","Illinois St.","299","2018","Melinda Fischer","D-I","MVC",21,33,NA,0.389
+"9","Illinois St.","299","2017","Melinda Fischer","D-I","MVC",33,24,0,0.579
+"10","Illinois St.","299","2016","Melinda Fischer","D-I","MVC",20,33,0,0.377
+"11","Illinois St.","299","2015","Melinda Fischer","D-I","MVC",31,33,0,0.484
+"12","Illinois St.","299","2014","Melinda Fischer","D-I","MVC",25,28,0,0.472
+"13","Illinois St.","299","2013","Melinda Fischer","D-I","MVC",28,20,0,0.583
+"14","Illinois St.","299","2012","Melinda Fischer","D-I","MVC",37,23,0,0.617
+"15","Illinois St.","299","2011","Melinda Fischer","D-I","MVC",36,19,0,0.655
+"16","Illinois St.","299","2010","Melinda Fischer","D-I","MVC",32,20,0,0.615
+"17","Illinois St.","299","2009","Melinda Fischer","D-I","MVC",24,26,0,0.48
+"18","Illinois St.","299","2008","Melinda Fischer","D-I","MVC",28,20,0,0.583
+"19","Illinois St.","299","2007","Melinda Fischer","D-I","MVC",44,17,1,0.718
+"20","Illinois St.","299","2006","Melinda Fischer","D-I","MVC",38,16,0,0.704
+"21","Illinois St.","299","2005","Melinda Fischer","D-I","MVC",31,21,0,0.596
+"22","Illinois St.","299","2004","Melinda Fischer","D-I","MVC",33,19,1,0.632
+"23","Illinois St.","299","2003","Melinda Fischer","D-I","MVC",29,23,0,0.558
+"24","Illinois St.","299","2002","Melinda Fischer","D-I","MVC",34,17,0,0.667
+"25","Illinois St.","299","2001","Melinda Fischer","D-I","MVC",37,18,0,0.673
+"26","Illinois St.","299","1900","Melinda Fischer","D-I","MVC",27,33,0,0.45
+"27","Illinois St.","299","1999","Melinda Fischer","D-I","MVC",31,21,0,0.596
+"28","Illinois St.","299","1998","Melinda Fischer","D-I","-",20,30,NA,0.4
+"29","Illinois St.","299","1997","Melinda Fischer","D-I","MVC",28,21,0,0.571
+"30","Illinois St.","299","1996","Melinda Fischer","D-I","-",35,19,NA,0.648
+"31","Illinois St.","299","1995","Melinda Fischer","D-I","-",46,14,NA,0.767
+"32","Illinois St.","299","1994","Melinda Fischer","D-I","-",36,21,NA,0.632
+"33","Illinois St.","299","1993","Melinda Fischer","D-I","-",26,34,NA,0.433
+"34","Illinois St.","299","1992","Melinda Fischer","D-I","-",24,35,2,0.41
+"35","Illinois St.","299","1991","Melinda Fischer","D-I","-",37,21,NA,0.638
+"36","Illinois St.","299","1990","Melinda Fischer","D-I","-",29,26,NA,0.527
+"37","Illinois St.","299","1989","Melinda Fischer","D-I","-",24,28,NA,0.462
+"38","Illinois St.","299","1988","Melinda Fischer","D-I","-",39,12,NA,0.765
+"39","Illinois St.","299","1987","Melinda Fischer","D-I","-",41,20,NA,0.672
+"40","Illinois St.","299","1986","Melinda Fischer","D-I","-",35,17,NA,0.673
+"41","Illinois St.","299","1985","Margie Wright","D-I","-",31,18,NA,0.633
+"42","Illinois St.","299","1984","Margie Wright","D-I","-",24,18,NA,0.571
+"43","Illinois St.","299","1983","Margie Wright","D-I","-",16,16,NA,0.5
+"44","Illinois St.","299","1982","Margie Wright","D-I","-",24,19,1,0.557
+"45","Illinois St.","299","1981","Margie Wright","","-",40,12,NA,0.769
+"46","Illinois St.","299","1980","Margie Wright","","-",28,9,1,0.75
+"47","Illinois St.","299","","","","",1341,992,6,0.575

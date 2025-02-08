@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brittney Harvey","Michigan Intercol. Ath. Assn.","21-17-1",0.553
-"2",2022,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","26-12-0",0.684
-"3",2021,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","25-11-0",0.694
-"4",2020,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","2-1-0",0.667
-"5",2019,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","24-13-0",0.649
-"6",2018,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","34-12-0",0.739
-"7",2017,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","27-15-0",0.643
-"8",2016,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","23-18-0",0.561
-"9",2015,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","29-11-0",0.725
-"10",2014,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","23-16-0",0.59
-"11",2013,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","17-19-0",0.472
-"12",2012,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","17-20-1",0.459
-"13",2011,"Mary Vande Hoef","Michigan Intercol. Ath. Assn.","25-15-1",0.625
-"14",2010,"Karla Wolters","Michigan Intercol. Ath. Assn.","20-18-0",0.526
-"15",2009,"Karla Wolters","Michigan Intercol. Ath. Assn.","16-24-0",0.4
-"16",2008,"Karla Wolters","Michigan Intercol. Ath. Assn.","25-14-0",0.641
-"17",2007,"Karla Wolters","Michigan Intercol. Ath. Assn.","25-13-0",0.658
-"18",2006,"Karla Wolters","Michigan Intercol. Ath. Assn.","32-14-0",0.696
-"19",2005,"Karla Wolters","Michigan Intercol. Ath. Assn.","28-11-0",0.718
-"20",2004,"Karla Wolters","Michigan Intercol. Ath. Assn.","20-17-0",0.541
-"21",2003,"Karla Wolters","Michigan Intercol. Ath. Assn.","17-14-0",0.548
-"22",2002,"Karla Wolters","Michigan Intercol. Ath. Assn.","22-17-0",0.564
-"23",2001,"Karla Wolters","-","21-12-0",0.636
-"24",2000,"Karla Wolters","-","21-16-0",0.568
-"25",1999,"Karla Wolters","-","21-13-0",0.618
-"26",1998,"Karla Wolters","-","21-13-0",0.618
-"27",1997,"Karla Wolters","-","22-13-0",0.629
-"28",1996,"Karla Wolters","-","29-9-0",0.763
-"29",1995,"Karla Wolters","-","29-11-0",0.725
-"30",1994,"Karla Wolters","-","23-12-0",0.657
-"31",1993,"Karla Wolters","-","16-12-0",0.571
-"32",1992,"Karla Wolters","-","28-7-0",0.8
-"33",1991,"Karla Wolters","-","30-12-0",0.714
-"34",1990,"Karla Wolters","-","10-20-0",0.333
-"35",1989,"Karla Wolters","-","17-17-0",0.5
-"36",1988,"Karla Wolters","-","22-11-0",0.667
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1981,"","-","0-0-0",NA
-"43",2024,"Michelle Brander Metiva","Michigan Intercol. Ath. Assn.","26-16-0",0.619
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Hope","286","2025","Michelle Brander Metiva","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","Hope","286","2024","Michelle Brander Metiva","D-III","Michigan Intercol. Ath. Assn.",26,16,0,0.619
+"3","Hope","286","2023","Brittney Harvey","D-III","Michigan Intercol. Ath. Assn.",21,17,1,0.551
+"4","Hope","286","2022","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",26,12,0,0.684
+"5","Hope","286","2021","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",25,11,0,0.694
+"6","Hope","286","2020","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",2,1,0,0.667
+"7","Hope","286","2019","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",24,13,0,0.649
+"8","Hope","286","2018","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",34,12,NA,0.739
+"9","Hope","286","2017","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",27,15,0,0.643
+"10","Hope","286","2016","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",23,18,0,0.561
+"11","Hope","286","2015","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",29,11,0,0.725
+"12","Hope","286","2014","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",23,16,0,0.59
+"13","Hope","286","2013","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",17,19,0,0.472
+"14","Hope","286","2012","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",17,20,1,0.461
+"15","Hope","286","2011","Mary Vande Hoef","D-III","Michigan Intercol. Ath. Assn.",25,15,1,0.622
+"16","Hope","286","2010","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",20,18,0,0.526
+"17","Hope","286","2009","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",16,24,0,0.4
+"18","Hope","286","2008","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",25,14,0,0.641
+"19","Hope","286","2007","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",25,13,0,0.658
+"20","Hope","286","2006","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",32,14,0,0.696
+"21","Hope","286","2005","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",28,11,0,0.718
+"22","Hope","286","2004","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",20,17,0,0.541
+"23","Hope","286","2003","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",17,14,0,0.548
+"24","Hope","286","2002","Karla Wolters","D-III","Michigan Intercol. Ath. Assn.",22,17,0,0.564
+"25","Hope","286","2001","Karla Wolters","D-III","-",21,12,0,0.636
+"26","Hope","286","1900","Karla Wolters","D-III","-",21,16,NA,0.568
+"27","Hope","286","1999","Karla Wolters","D-III","-",21,13,NA,0.618
+"28","Hope","286","1998","Karla Wolters","D-III","-",21,13,NA,0.618
+"29","Hope","286","1997","Karla Wolters","D-III","-",22,13,NA,0.629
+"30","Hope","286","1996","Karla Wolters","D-III","-",29,9,NA,0.763
+"31","Hope","286","1995","Karla Wolters","D-III","-",29,11,NA,0.725
+"32","Hope","286","1994","Karla Wolters","D-III","-",23,12,NA,0.657
+"33","Hope","286","1993","Karla Wolters","D-III","-",16,12,NA,0.571
+"34","Hope","286","1992","Karla Wolters","D-III","-",28,7,NA,0.8
+"35","Hope","286","1991","Karla Wolters","D-III","-",30,12,NA,0.714
+"36","Hope","286","1990","Karla Wolters","D-III","-",10,20,NA,0.333
+"37","Hope","286","1989","Karla Wolters","D-III","-",17,17,NA,0.5
+"38","Hope","286","1988","Karla Wolters","D-III","-",22,11,NA,0.667
+"39","Hope","286","1987","","D-III","-",NA,NA,NA,NA
+"40","Hope","286","1986","","D-III","-",NA,NA,NA,NA
+"41","Hope","286","1985","","D-III","-",NA,NA,NA,NA
+"42","Hope","286","1984","","D-III","-",NA,NA,NA,NA
+"43","Hope","286","1983","","D-III","-",NA,NA,NA,NA
+"44","Hope","286","1981","","","-",NA,NA,NA,NA
+"45","Hope","286","","","","",834,516,3,0.618

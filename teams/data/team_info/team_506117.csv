@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2023","","-","0-0-0",0
-"3","2022","","-","0-0-0",0
-"4","2021","Jordon Jones","-","34-15-0",0.694
-"5","2020","Jordon Jones","-","15-2-0",0.882
-"6","2019","Jordon Jones","-","35-21-0",0.625
-"7","2018","Jordon Jones","-","42-19-0",0.689
-"8","2017","","-","0-0-0",NA
-"9","2016","","-","0-0-0",NA
-"10","2015","","-","0-0-0",NA
-"11","2014","","-","0-0-0",NA
-"12","2013","","-","0-0-0",NA
-"13","2012","Jason Anderson","-","53-8-0",0.869
-"14","2011","Jason Anderson","-","57-7-0",0.891
-"15","2010","Jason Anderson","-","52-1-0",0.981
-"16","2009","Jason Anderson","-","35-13-0",0.729
-"17","2008","Jason Anderson","-","29-9-0",0.763
-"18","2007","","-","0-0-0",NA
-"19","2006","","-","0-0-0",NA
-"20","2005","","-","0-0-0",NA
-"21","2004","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Central Baptist","506117","2025","",NA,"-",NA,NA,NA,0
+"2","Central Baptist","506117","2024","",NA,"-",NA,NA,NA,0
+"3","Central Baptist","506117","2023","",NA,"-",NA,NA,NA,0
+"4","Central Baptist","506117","2022","",NA,"-",NA,NA,NA,0
+"5","Central Baptist","506117","2021","Jordon Jones",NA,"-",34,15,0,0.694
+"6","Central Baptist","506117","2020","Jordon Jones",NA,"-",15,2,0,0.882
+"7","Central Baptist","506117","2019","Jordon Jones",NA,"-",35,21,0,0.625
+"8","Central Baptist","506117","2018","Jordon Jones",NA,"-",42,19,0,0.689
+"9","Central Baptist","506117","2017","",NA,"-",NA,NA,NA,NA
+"10","Central Baptist","506117","2016","",NA,"-",NA,NA,NA,NA
+"11","Central Baptist","506117","2015","",NA,"-",NA,NA,NA,NA
+"12","Central Baptist","506117","2014","",NA,"-",NA,NA,NA,NA
+"13","Central Baptist","506117","2013","",NA,"-",NA,NA,NA,NA
+"14","Central Baptist","506117","2012","Jason Anderson",NA,"-",53,8,NA,0.869
+"15","Central Baptist","506117","2011","Jason Anderson",NA,"-",57,7,0,0.891
+"16","Central Baptist","506117","2010","Jason Anderson",NA,"-",52,1,0,0.981
+"17","Central Baptist","506117","2009","Jason Anderson",NA,"-",35,13,0,0.729
+"18","Central Baptist","506117","2008","Jason Anderson",NA,"-",29,9,0,0.763
+"19","Central Baptist","506117","2007","",NA,"-",NA,NA,NA,NA
+"20","Central Baptist","506117","2006","",NA,"-",NA,NA,NA,NA
+"21","Central Baptist","506117","2005","",NA,"-",NA,NA,NA,NA
+"22","Central Baptist","506117","2004","",NA,"-",NA,NA,NA,NA
+"23","Central Baptist","506117","","",NA,"",352,95,0,0.787

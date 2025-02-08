@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jordan Clark","CUSA","35-20-0",0.636
-"2",2022,"Chan Walker (12-9)Joan Joyce (17-17)","CUSA","29-26-0",0.527
-"3",2021,"Joan Joyce","CUSA","12-35-0",0.255
-"4",2020,"Joan Joyce","CUSA","8-14-0",0.364
-"5",2019,"Joan Joyce","CUSA","20-30-0",0.4
-"6",2018,"Joan Joyce","CUSA","30-26-0",0.536
-"7",2017,"Joan Joyce","CUSA","35-21-0",0.625
-"8",2016,"Joan Joyce","CUSA","51-9-0",0.85
-"9",2015,"Joan Joyce","CUSA","39-19-1",0.672
-"10",2014,"Joan Joyce","CUSA","33-22-0",0.6
-"11",2013,"Joan Joyce","Sun Belt","28-29-0",0.491
-"12",2012,"Joan Joyce","Sun Belt","15-39-0",0.278
-"13",2011,"Joan Joyce","Sun Belt","34-25-0",0.576
-"14",2010,"Joan Joyce","Sun Belt","28-26-0",0.519
-"15",2009,"Joan Joyce","Sun Belt","30-30-0",0.5
-"16",2008,"Joan Joyce","Sun Belt","35-26-0",0.574
-"17",2007,"Joan Joyce","Sun Belt","42-23-0",0.646
-"18",2006,"Joan Joyce","ASUN","35-25-0",0.583
-"19",2005,"Joan Joyce","ASUN","37-32-0",0.536
-"20",2004,"Joan Joyce","ASUN","56-18-0",0.757
-"21",2003,"Joan Joyce","ASUN","44-28-0",0.611
-"22",2002,"Joan Joyce","ASUN","62-13-0",0.827
-"23",2001,"Joan Joyce","ASUN","46-21-0",0.687
-"24",2000,"Joan Joyce","ASUN","57-17-0",0.77
-"25",1999,"Joan Joyce","ASUN","49-20-0",0.71
-"26",1998,"Joan Joyce","-","47-20-0",0.701
-"27",1997,"Joan Joyce","ASUN","42-29-0",0.592
-"28",1996,"Joan Joyce","-","37-32-0",0.536
-"29",1995,"Joan Joyce","-","33-18-0",0.647
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",2024,"Jordan Clark","AAC","41-15-0",0.732
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Fla. Atlantic","229","2025","Jordan Clark","D-I","The American",2,0,0,1
+"2","Fla. Atlantic","229","2024","Jordan Clark","D-I","The American",41,16,0,0.719
+"3","Fla. Atlantic","229","2023","Jordan Clark","D-I","CUSA",35,20,0,0.636
+"4","Fla. Atlantic","229","2022","Chan Walker (12-9)Joan Joyce (17-17)","D-I","CUSA",29,26,0,0.527
+"5","Fla. Atlantic","229","2021","Joan Joyce","D-I","CUSA",12,35,0,0.255
+"6","Fla. Atlantic","229","2020","Joan Joyce","D-I","CUSA",8,14,0,0.364
+"7","Fla. Atlantic","229","2019","Joan Joyce","D-I","CUSA",20,30,0,0.4
+"8","Fla. Atlantic","229","2018","Joan Joyce","D-I","CUSA",30,26,NA,0.536
+"9","Fla. Atlantic","229","2017","Joan Joyce","D-I","CUSA",35,21,0,0.625
+"10","Fla. Atlantic","229","2016","Joan Joyce","D-I","CUSA",51,9,0,0.85
+"11","Fla. Atlantic","229","2015","Joan Joyce","D-I","CUSA",39,19,1,0.669
+"12","Fla. Atlantic","229","2014","Joan Joyce","D-I","CUSA",33,22,0,0.6
+"13","Fla. Atlantic","229","2013","Joan Joyce","D-I","Sun Belt",30,29,0,0.508
+"14","Fla. Atlantic","229","2012","Joan Joyce","D-I","Sun Belt",15,39,0,0.278
+"15","Fla. Atlantic","229","2011","Joan Joyce","D-I","Sun Belt",34,25,0,0.576
+"16","Fla. Atlantic","229","2010","Joan Joyce","D-I","Sun Belt",28,26,0,0.519
+"17","Fla. Atlantic","229","2009","Joan Joyce","D-I","Sun Belt",30,30,0,0.5
+"18","Fla. Atlantic","229","2008","Joan Joyce","D-I","Sun Belt",35,26,0,0.574
+"19","Fla. Atlantic","229","2007","Joan Joyce","D-I","Sun Belt",42,23,0,0.646
+"20","Fla. Atlantic","229","2006","Joan Joyce","D-I","ASUN",35,25,0,0.583
+"21","Fla. Atlantic","229","2005","Joan Joyce","D-I","ASUN",37,32,0,0.536
+"22","Fla. Atlantic","229","2004","Joan Joyce","D-I","ASUN",56,18,0,0.757
+"23","Fla. Atlantic","229","2003","Joan Joyce","D-I","ASUN",44,28,0,0.611
+"24","Fla. Atlantic","229","2002","Joan Joyce","D-I","ASUN",62,13,0,0.827
+"25","Fla. Atlantic","229","2001","Joan Joyce","D-I","ASUN",46,21,0,0.687
+"26","Fla. Atlantic","229","1900","Joan Joyce","D-I","ASUN",57,17,0,0.77
+"27","Fla. Atlantic","229","1999","Joan Joyce","D-I","ASUN",49,20,0,0.71
+"28","Fla. Atlantic","229","1998","Joan Joyce","D-I","-",47,20,NA,0.701
+"29","Fla. Atlantic","229","1997","Joan Joyce","D-I","ASUN",42,29,0,0.592
+"30","Fla. Atlantic","229","1996","Joan Joyce","D-I","-",37,32,NA,0.536
+"31","Fla. Atlantic","229","1995","Joan Joyce","D-I","-",33,18,NA,0.647
+"32","Fla. Atlantic","229","1994","","D-I","-",NA,NA,NA,NA
+"33","Fla. Atlantic","229","1993","","D-I","-",NA,NA,NA,NA
+"34","Fla. Atlantic","229","1992","","D-I","-",NA,NA,NA,NA
+"35","Fla. Atlantic","229","1991","","","-",NA,NA,NA,NA
+"36","Fla. Atlantic","229","1990","","","-",NA,NA,NA,NA
+"37","Fla. Atlantic","229","1989","","","-",NA,NA,NA,NA
+"38","Fla. Atlantic","229","1988","","","-",NA,NA,NA,NA
+"39","Fla. Atlantic","229","","","","",1094,709,1,0.607

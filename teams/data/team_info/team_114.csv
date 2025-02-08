@@ -1,47 +1,49 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Becky Hilgert","Michigan Intercol. Ath. Assn.","29-11-0",0.725
-"2",2022,"Becky Hilgert","Michigan Intercol. Ath. Assn.","28-11-0",0.718
-"3",2021,"Becky Hilgert","Michigan Intercol. Ath. Assn.","29-10-0",0.744
-"4",2020,"Becky Hilgert","Michigan Intercol. Ath. Assn.","5-1-0",0.833
-"5",2019,"Becky Hilgert","Michigan Intercol. Ath. Assn.","31-10-0",0.756
-"6",2018,"Becky Hilgert","Michigan Intercol. Ath. Assn.","32-10-0",0.762
-"7",2017,"Becky Hilgert","Michigan Intercol. Ath. Assn.","20-20-0",0.5
-"8",2016,"Tim Syrek","Michigan Intercol. Ath. Assn.","23-13-0",0.639
-"9",2015,"Tim Syrek","Michigan Intercol. Ath. Assn.","10-22-0",0.312
-"10",2014,"Tim Syrek","Michigan Intercol. Ath. Assn.","22-15-0",0.595
-"11",2013,"Sharon Boeve De Kleine","Michigan Intercol. Ath. Assn.","17-13-0",0.567
-"12",2012,"Sharon Boeve De Kleine","Michigan Intercol. Ath. Assn.","15-21-0",0.417
-"13",2011,"Sharon Boeve De Kleine","Michigan Intercol. Ath. Assn.","6-28-0",0.176
-"14",2010,"Sharon Boeve De Kleine","Michigan Intercol. Ath. Assn.","11-24-0",0.314
-"15",2009,"Emily Bustrum","Michigan Intercol. Ath. Assn.","4-29-0",0.121
-"16",2008,"Emily Bustrum","Michigan Intercol. Ath. Assn.","12-23-0",0.343
-"17",2007,"Deb Bakker","Michigan Intercol. Ath. Assn.","11-19-0",0.367
-"18",2006,"Deb Bakker","Michigan Intercol. Ath. Assn.","13-21-0",0.382
-"19",2005,"Deb Bakker","Michigan Intercol. Ath. Assn.","25-13-0",0.658
-"20",2004,"Amber Warners","Michigan Intercol. Ath. Assn.","19-15-0",0.559
-"21",2003,"Amber Warners","Michigan Intercol. Ath. Assn.","24-13-0",0.649
-"22",2002,"Amber Warners","Michigan Intercol. Ath. Assn.","20-17-0",0.541
-"23",2001,"Amber Warners","-","14-22-0",0.389
-"24",2000,"Amber Warners","-","0-0-0",NA
-"25",1999,"Amber Warners","-","15-18-0",0.455
-"26",1998,"Amber Warners","-","20-19-0",0.513
-"27",1997,"Amber Warners","-","28-15-0",0.651
-"28",1996,"Deb Bakker","-","22-16-0",0.579
-"29",1995,"Deb Bakker","-","30-14-0",0.682
-"30",1994,"Karla Kunnen","-","16-14-0",0.533
-"31",1993,"","-","0-0-0",NA
-"32",1992,"Kristi Vande Wege","-","14-14-0",0.5
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"Karla Wolters","-","28-4-0",0.875
-"38",1986,"Karla Wolters","-","20-11-0",0.645
-"39",1985,"Karla Wolters","-","21-13-0",0.618
-"40",1984,"Karla Wolters","-","27-5-0",0.844
-"41",1983,"Karla Wolters","-","23-8-0",0.742
-"42",1982,"Karla Wolters","-","21-9-0",0.7
-"43",1981,"Karla Wolters","-","9-7-0",0.562
-"44",1980,"Karla Wolters","-","10-10-0",0.5
-"45",1979,"Karla Wolters","-","10-11-0",0.476
-"46",2024,"Becky Hilgert","Michigan Intercol. Ath. Assn.","34-12-0",0.739
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Calvin","114","2025","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","Calvin","114","2024","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",34,12,0,0.739
+"3","Calvin","114","2023","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",29,11,0,0.725
+"4","Calvin","114","2022","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",28,11,0,0.718
+"5","Calvin","114","2021","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",29,10,0,0.744
+"6","Calvin","114","2020","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",4,1,0,0.8
+"7","Calvin","114","2019","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",31,10,0,0.756
+"8","Calvin","114","2018","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",32,10,NA,0.762
+"9","Calvin","114","2017","Becky Hilgert","D-III","Michigan Intercol. Ath. Assn.",20,20,0,0.5
+"10","Calvin","114","2016","Tim Syrek","D-III","Michigan Intercol. Ath. Assn.",23,13,0,0.639
+"11","Calvin","114","2015","Tim Syrek","D-III","Michigan Intercol. Ath. Assn.",10,22,0,0.313
+"12","Calvin","114","2014","Tim Syrek","D-III","Michigan Intercol. Ath. Assn.",22,15,0,0.595
+"13","Calvin","114","2013","Sharon Boeve De Kleine","D-III","Michigan Intercol. Ath. Assn.",17,13,0,0.567
+"14","Calvin","114","2012","Sharon Boeve De Kleine","D-III","Michigan Intercol. Ath. Assn.",15,21,0,0.417
+"15","Calvin","114","2011","Sharon Boeve De Kleine","D-III","Michigan Intercol. Ath. Assn.",6,28,0,0.176
+"16","Calvin","114","2010","Sharon Boeve De Kleine","D-III","Michigan Intercol. Ath. Assn.",11,24,0,0.314
+"17","Calvin","114","2009","Emily Bustrum","D-III","Michigan Intercol. Ath. Assn.",4,29,0,0.121
+"18","Calvin","114","2008","Emily Bustrum","D-III","Michigan Intercol. Ath. Assn.",12,23,0,0.343
+"19","Calvin","114","2007","Deb Bakker","D-III","Michigan Intercol. Ath. Assn.",11,19,0,0.367
+"20","Calvin","114","2006","Deb Bakker","D-III","Michigan Intercol. Ath. Assn.",13,21,0,0.382
+"21","Calvin","114","2005","Deb Bakker","D-III","Michigan Intercol. Ath. Assn.",25,13,0,0.658
+"22","Calvin","114","2004","Amber Warners","D-III","Michigan Intercol. Ath. Assn.",19,15,0,0.559
+"23","Calvin","114","2003","Amber Warners","D-III","Michigan Intercol. Ath. Assn.",24,13,0,0.649
+"24","Calvin","114","2002","Amber Warners","D-III","Michigan Intercol. Ath. Assn.",20,17,0,0.541
+"25","Calvin","114","2001","Amber Warners","D-III","-",14,22,NA,0.389
+"26","Calvin","114","1900","Amber Warners","D-III","-",NA,NA,NA,NA
+"27","Calvin","114","1999","Amber Warners","D-III","-",15,18,NA,0.455
+"28","Calvin","114","1998","Amber Warners","D-III","-",20,19,NA,0.513
+"29","Calvin","114","1997","Amber Warners","D-III","-",28,15,NA,0.651
+"30","Calvin","114","1996","Deb Bakker","D-III","-",22,16,NA,0.579
+"31","Calvin","114","1995","Deb Bakker","D-III","-",30,14,NA,0.682
+"32","Calvin","114","1994","Karla Kunnen","D-III","-",16,14,NA,0.533
+"33","Calvin","114","1993","","D-III","-",NA,NA,NA,NA
+"34","Calvin","114","1992","Kristi Vande Wege","D-III","-",14,14,NA,0.5
+"35","Calvin","114","1991","","D-III","-",NA,NA,NA,NA
+"36","Calvin","114","1990","","D-III","-",NA,NA,NA,NA
+"37","Calvin","114","1989","","D-III","-",NA,NA,NA,NA
+"38","Calvin","114","1988","","D-III","-",NA,NA,NA,NA
+"39","Calvin","114","1987","Karla Wolters","D-III","-",28,4,NA,0.875
+"40","Calvin","114","1986","Karla Wolters","D-III","-",20,11,NA,0.645
+"41","Calvin","114","1985","Karla Wolters","D-III","-",21,13,NA,0.618
+"42","Calvin","114","1984","Karla Wolters","D-III","-",27,5,NA,0.844
+"43","Calvin","114","1983","Karla Wolters","D-III","-",23,8,NA,0.742
+"44","Calvin","114","1982","Karla Wolters","D-III","-",21,9,NA,0.7
+"45","Calvin","114","1981","Karla Wolters","D-III","-",9,7,NA,0.563
+"46","Calvin","114","1980","Karla Wolters","D-III","-",10,10,NA,0.5
+"47","Calvin","114","1979","Karla Wolters","D-III","-",10,11,NA,0.476
+"48","Calvin","114","","","","",767,581,0,0.569

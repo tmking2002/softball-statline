@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Shelly Hoerner","Sun Belt","23-28-0","0.451"
-"2","2022","Shelly Hoerner","Sun Belt","29-26-0","0.527"
-"3","2021","Shelly Hoerner","Sun Belt","27-19-0","0.587"
-"4","2020","Shelly Hoerner","Sun Belt","13-9-0","0.591"
-"5","2019","Shelly Hoerner","Sun Belt","31-25-0","0.554"
-"6","2018","Shelly Hoerner","Sun Belt","17-35-0","0.327"
-"7","2017","Janice Savage","Sun Belt","14-34-0","0.292"
-"8","2016","Janice Savage","Sun Belt","11-45-0","0.196"
-"9","2015","Janice Savage","Sun Belt","14-35-0","0.286"
-"10","2014","Shae Wesley","SoCon","19-32-0","0.373"
-"11","2013","Shae Wesley","SoCon","31-25-0","0.554"
-"12","2012","Shae Wesley","SoCon","22-25-0","0.468"
-"13","2011","Shae Wesley","SoCon","26-24-0","0.520"
-"14","2010","Amy Herrington","SoCon","27-25-0","0.519"
-"15","2009","Amy Herrington","SoCon","26-29-0","0.473"
-"16","2008","Amy Herrington","SoCon","11-37-0","0.229"
-"17","2007","Willie Rucker","SoCon","20-38-0","0.345"
-"18","2006","Willie Rucker","SoCon","29-30-0","0.492"
-"19","2005","Willie Rucker","SoCon","24-36-0","0.400"
-"20","2004","Willie Rucker","SoCon","22-39-0","0.361"
-"21","2003","Willie Rucker","SoCon","15-36-0","0.294"
-"22","2002","Willie Rucker","SoCon","11-45-0","0.196"
-"23","2001","Willie Rucker","SoCon","13-36-0","0.265"
-"24","2000","Willie Rucker","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","App State","27","2025","Whitney Jones","D-I","Sun Belt",1,1,0,0.5
+"2","App State","27","2024","Shelly Hoerner","D-I","Sun Belt",21,30,0,0.412
+"3","App State","27","2023","Shelly Hoerner","D-I","Sun Belt",23,28,0,0.451
+"4","App State","27","2022","Shelly Hoerner","D-I","Sun Belt",29,26,0,0.527
+"5","App State","27","2021","Shelly Hoerner","D-I","Sun Belt",27,19,0,0.587
+"6","App State","27","2020","Shelly Hoerner","D-I","Sun Belt",13,9,0,0.591
+"7","App State","27","2019","Shelly Hoerner","D-I","Sun Belt",31,25,0,0.554
+"8","App State","27","2018","Shelly Hoerner","D-I","Sun Belt",17,35,NA,0.327
+"9","App State","27","2017","Janice Savage","D-I","Sun Belt",14,34,0,0.292
+"10","App State","27","2016","Janice Savage","D-I","Sun Belt",11,45,0,0.196
+"11","App State","27","2015","Janice Savage","D-I","Sun Belt",14,35,0,0.286
+"12","App State","27","2014","Shae Wesley","D-I","SoCon",19,32,0,0.373
+"13","App State","27","2013","Shae Wesley","D-I","SoCon",31,25,0,0.554
+"14","App State","27","2012","Shae Wesley","D-I","SoCon",24,25,0,0.49
+"15","App State","27","2011","Shae Wesley","D-I","SoCon",26,24,0,0.52
+"16","App State","27","2010","Amy Herrington","D-I","SoCon",27,25,0,0.519
+"17","App State","27","2009","Amy Herrington","D-I","SoCon",26,29,0,0.473
+"18","App State","27","2008","Amy Herrington","D-I","SoCon",11,37,0,0.229
+"19","App State","27","2007","Willie Rucker","D-I","SoCon",20,38,0,0.345
+"20","App State","27","2006","Willie Rucker","D-I","SoCon",29,30,0,0.492
+"21","App State","27","2005","Willie Rucker","D-I","SoCon",24,36,0,0.4
+"22","App State","27","2004","Willie Rucker","D-I","SoCon",22,39,0,0.361
+"23","App State","27","2003","Willie Rucker","D-I","SoCon",15,36,0,0.294
+"24","App State","27","2002","Willie Rucker","D-I","SoCon",11,45,0,0.196
+"25","App State","27","2001","Willie Rucker","D-I","SoCon",13,36,0,0.265
+"26","App State","27","1900","Willie Rucker","D-I","-",NA,NA,NA,NA
+"27","App State","27","1999","","D-I","-",NA,NA,NA,NA
+"28","App State","27","1998","","D-I","-",NA,NA,NA,NA
+"29","App State","27","1997","","D-I","-",NA,NA,NA,NA
+"30","App State","27","1996","","D-I","-",NA,NA,NA,NA
+"31","App State","27","1995","","D-I","-",NA,NA,NA,NA
+"32","App State","27","1994","","D-I","-",NA,NA,NA,NA
+"33","App State","27","1993","","D-I","-",NA,NA,NA,NA
+"34","App State","27","1992","","D-I","-",NA,NA,NA,NA
+"35","App State","27","1991","","D-I","-",NA,NA,NA,NA
+"36","App State","27","1990","","D-I","-",NA,NA,NA,NA
+"37","App State","27","","","","",499,744,0,0.401

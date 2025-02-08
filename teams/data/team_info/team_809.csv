@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Keri Bianchini","MASCAC","25-18-0",0.581
-"2",2022,"Keri Bianchini","MASCAC","19-21-0",0.475
-"3",2021,"Keri Bianchini","MASCAC","9-16-1",0.36
-"4",2020,"Keri Bianchini","MASCAC","0-0-0",NA
-"5",2019,"Keri Bianchini","MASCAC","9-32-0",0.22
-"6",2018,"Michelle Cote","MASCAC","23-11-0",0.676
-"7",2017,"Michelle Cote","MASCAC","18-18-0",0.5
-"8",2016,"Michelle Cote","MASCAC","26-20-1",0.565
-"9",2015,"Michelle Cote","MASCAC","22-15-0",0.595
-"10",2014,"Michelle Cote","MASCAC","13-22-0",0.371
-"11",2013,"Jennifer Kapenas","MASCAC","25-18-0",0.581
-"12",2012,"Jennifer Kapenas","MASCAC","21-20-0",0.512
-"13",2011,"Jennifer Kapenas","MASCAC","29-11-0",0.725
-"14",2010,"Jennifer Kapenas","MASCAC","20-19-0",0.513
-"15",2009,"Jennifer Kapenas","MASCAC","10-21-1",0.323
-"16",2008,"Lynne Olson","MASCAC","9-23-0",0.281
-"17",2007,"Lynne Olson","MASCAC","7-22-0",0.241
-"18",2006,"Lynne Olson","MASCAC","11-19-0",0.367
-"19",2005,"Lynne Olson","MASCAC","12-16-0",0.429
-"20",2004,"Lynne Olson","MASCAC","16-16-0",0.5
-"21",2003,"Lynne Olson","MASCAC","8-16-0",0.333
-"22",2002,"Lynne Olson","MASCAC","20-14-0",0.588
-"23",2001,"Lynne Olson","-","11-18-0",0.379
-"24",2000,"Lynne Olson","-","23-14-0",0.622
-"25",1999,"Lynne Olson","-","22-15-1",0.595
-"26",1998,"Lynne Olson","-","18-19-0",0.486
-"27",1997,"Lynne Olson","-","23-9-0",0.719
-"28",1996,"Lynne Olson","-","13-13-0",0.5
-"29",1995,"Lynne Olson","-","12-16-0",0.429
-"30",1994,"Lynne Olson","-","8-17-0",0.32
-"31",1993,"Lynne Olson","-","13-9-1",0.591
-"32",1992,"Lynne Olson","-","17-7-0",0.708
-"33",1991,"Lynne Olson","-","19-9-0",0.679
-"34",1990,"Lynne Olson","-","25-10-0",0.714
-"35",1989,"Lynne Olson","-","13-13-0",0.5
-"36",1988,"Lynne Olson","-","19-7-0",0.731
-"37",1987,"Lynne Olson","-","22-1-0",0.957
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Keri Bianchini","MASCAC","27-16-0",0.628
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Worcester St.","809","2025","Keri Bianchini","D-III","MASCAC",0,0,0,0
+"2","Worcester St.","809","2024","Keri Bianchini","D-III","MASCAC",27,16,0,0.628
+"3","Worcester St.","809","2023","Keri Bianchini","D-III","MASCAC",25,18,0,0.581
+"4","Worcester St.","809","2022","Keri Bianchini","D-III","MASCAC",19,21,0,0.475
+"5","Worcester St.","809","2021","Keri Bianchini","D-III","MASCAC",9,16,1,0.365
+"6","Worcester St.","809","2020","Keri Bianchini","D-III","MASCAC",NA,NA,NA,0
+"7","Worcester St.","809","2019","Keri Bianchini","D-III","MASCAC",9,32,0,0.22
+"8","Worcester St.","809","2018","Michelle Cote","D-III","MASCAC",23,11,NA,0.676
+"9","Worcester St.","809","2017","Michelle Cote","D-III","MASCAC",18,18,0,0.5
+"10","Worcester St.","809","2016","Michelle Cote","D-III","MASCAC",26,20,1,0.564
+"11","Worcester St.","809","2015","Michelle Cote","D-III","MASCAC",22,15,0,0.595
+"12","Worcester St.","809","2014","Michelle Cote","D-III","MASCAC",13,22,0,0.371
+"13","Worcester St.","809","2013","Jennifer Kapenas","D-III","MASCAC",25,18,0,0.581
+"14","Worcester St.","809","2012","Jennifer Kapenas","D-III","MASCAC",21,20,0,0.512
+"15","Worcester St.","809","2011","Jennifer Kapenas","D-III","MASCAC",29,11,0,0.725
+"16","Worcester St.","809","2010","Jennifer Kapenas","D-III","MASCAC",20,19,0,0.513
+"17","Worcester St.","809","2009","Jennifer Kapenas","D-III","MASCAC",10,21,1,0.328
+"18","Worcester St.","809","2008","Lynne Olson","D-III","MASCAC",9,23,0,0.281
+"19","Worcester St.","809","2007","Lynne Olson","D-III","MASCAC",7,22,0,0.241
+"20","Worcester St.","809","2006","Lynne Olson","D-III","MASCAC",11,19,0,0.367
+"21","Worcester St.","809","2005","Lynne Olson","D-III","MASCAC",12,16,0,0.429
+"22","Worcester St.","809","2004","Lynne Olson","D-III","MASCAC",16,16,0,0.5
+"23","Worcester St.","809","2003","Lynne Olson","D-III","MASCAC",8,16,0,0.333
+"24","Worcester St.","809","2002","Lynne Olson","D-III","MASCAC",20,14,0,0.588
+"25","Worcester St.","809","2001","Lynne Olson","D-III","-",11,18,NA,0.379
+"26","Worcester St.","809","1900","Lynne Olson","D-III","-",23,14,NA,0.622
+"27","Worcester St.","809","1999","Lynne Olson","D-III","-",22,15,1,0.592
+"28","Worcester St.","809","1998","Lynne Olson","D-III","-",18,19,NA,0.486
+"29","Worcester St.","809","1997","Lynne Olson","D-III","-",23,9,NA,0.719
+"30","Worcester St.","809","1996","Lynne Olson","D-III","-",13,13,NA,0.5
+"31","Worcester St.","809","1995","Lynne Olson","D-III","-",12,16,NA,0.429
+"32","Worcester St.","809","1994","Lynne Olson","D-III","-",8,17,NA,0.32
+"33","Worcester St.","809","1993","Lynne Olson","D-III","-",13,9,1,0.587
+"34","Worcester St.","809","1992","Lynne Olson","D-III","-",17,7,NA,0.708
+"35","Worcester St.","809","1991","Lynne Olson","D-III","-",19,9,NA,0.679
+"36","Worcester St.","809","1990","Lynne Olson","D-III","-",25,10,NA,0.714
+"37","Worcester St.","809","1989","Lynne Olson","D-III","-",13,13,NA,0.5
+"38","Worcester St.","809","1988","Lynne Olson","D-III","-",19,7,NA,0.731
+"39","Worcester St.","809","1987","Lynne Olson","D-III","-",22,1,NA,0.957
+"40","Worcester St.","809","1986","","D-III","-",NA,NA,NA,NA
+"41","Worcester St.","809","1985","","D-III","-",NA,NA,NA,NA
+"42","Worcester St.","809","1981","","","-",NA,NA,NA,NA
+"43","Worcester St.","809","","","","",637,581,5,0.523

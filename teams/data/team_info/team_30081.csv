@@ -1,19 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Mandi Baer","United East","26-17-0","0.605"
-"2","2022","Mandi Baer","United East","25-14-0","0.641"
-"3","2021","Mandi Baer","United East","13-13-1","0.500"
-"4","2020","Mandi Baer","United East","2-6-0","0.250"
-"5","2019","Tonya Dengler","C2C","11-20-1","0.355"
-"6","2018","Tonya Dengler","C2C","13-18-0","0.419"
-"7","2017","Tonya Dengler","C2C","14-20-0","0.412"
-"8","2016","Tonya Dengler","C2C","13-18-0","0.419"
-"9","2015","Tonya Dengler","C2C","18-19-0","0.486"
-"10","2014","Tonya Dengler","C2C","7-19-1","0.269"
-"11","2013","Tonya Dengler","United East","15-25-0","0.375"
-"12","2012","Tonya Dengler","United East","19-22-0","0.463"
-"13","2011","Tonya Dengler","United East","21-16-0","0.568"
-"14","2010","Tonya Dengler","United East","8-25-0","0.242"
-"15","2009","Tonya Dengler","United East","10-24-0","0.294"
-"16","2008","Tonya Dengler","United East","8-27-0","0.229"
-"17","2007","Tonya Dengler","-","4-12-0","0.250"
-"18","2006","Tonya Dengler","-","14-3-0","0.824"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St. Harrisburg","30081","2025","Mandi Baer","D-III","United East",0,0,0,0
+"2","Penn St. Harrisburg","30081","2024","Mandi Baer","D-III","United East",28,14,0,0.667
+"3","Penn St. Harrisburg","30081","2023","Mandi Baer","D-III","United East",26,17,0,0.605
+"4","Penn St. Harrisburg","30081","2022","Mandi Baer","D-III","United East",25,14,0,0.641
+"5","Penn St. Harrisburg","30081","2021","Mandi Baer","D-III","United East",13,13,1,0.5
+"6","Penn St. Harrisburg","30081","2020","Mandi Baer","D-III","United East",2,6,0,0.25
+"7","Penn St. Harrisburg","30081","2019","Tonya Dengler","D-III","C2C",11,20,1,0.359
+"8","Penn St. Harrisburg","30081","2018","Tonya Dengler","D-III","C2C",13,18,NA,0.419
+"9","Penn St. Harrisburg","30081","2017","Tonya Dengler","D-III","C2C",14,20,0,0.412
+"10","Penn St. Harrisburg","30081","2016","Tonya Dengler","D-III","C2C",13,18,0,0.419
+"11","Penn St. Harrisburg","30081","2015","Tonya Dengler","D-III","C2C",18,19,0,0.486
+"12","Penn St. Harrisburg","30081","2014","Tonya Dengler","D-III","C2C",7,19,1,0.278
+"13","Penn St. Harrisburg","30081","2013","Tonya Dengler","D-III","United East",15,25,0,0.375
+"14","Penn St. Harrisburg","30081","2012","Tonya Dengler","D-III","United East",19,22,0,0.463
+"15","Penn St. Harrisburg","30081","2011","Tonya Dengler","D-III","United East",21,16,0,0.568
+"16","Penn St. Harrisburg","30081","2010","Tonya Dengler","D-III","United East",8,25,0,0.242
+"17","Penn St. Harrisburg","30081","2009","Tonya Dengler","","United East",10,24,0,0.294
+"18","Penn St. Harrisburg","30081","2008","Tonya Dengler","D-III","United East",8,27,0,0.229
+"19","Penn St. Harrisburg","30081","2007","Tonya Dengler","","-",4,12,0,0.25
+"20","Penn St. Harrisburg","30081","2006","Tonya Dengler","","-",14,3,0,0.824
+"21","Penn St. Harrisburg","30081","","","","",269,332,3,0.448

@@ -1,3 +1,4 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2000",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Xavier","812","2024",NA,NA,"-",NA,NA,NA,0
+"2","Xavier","812","1900",NA,NA,"-",NA,NA,NA,NA
+"3","Xavier","812","",NA,NA,"",0,0,0,0

@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tori Brown","SAA","17-21-0",0.447
-"2",2022,"Tori Brown","SAA","11-30-0",0.268
-"3",2021,"Tori Brown","SAA","3-21-0",0.125
-"4",2020,"Tori Brown","SAA","5-6-0",0.455
-"5",2019,"Tori Brown","SAA","12-22-0",0.353
-"6",2018,"Tori Brown","SAA","18-18-0",0.5
-"7",2017,"Ashley Taylor","SAA","24-19-0",0.558
-"8",2016,"Ashley Taylor","SAA","16-23-0",0.41
-"9",2015,"Ashley Taylor","SAA","14-18-0",0.438
-"10",2014,"Wendie Austin","SAA","12-23-0",0.343
-"11",2013,"Wendie Austin","SAA","19-19-0",0.5
-"12",2012,"Wendie Austin","SCAC","15-22-0",0.405
-"13",2011,"Wendie Austin","SCAC","17-23-0",0.425
-"14",2010,"Wendie Austin","SCAC","16-26-0",0.381
-"15",2009,"Wendie Austin","SCAC","8-25-0",0.242
-"16",2008,"Wendie Austin","SCAC","22-20-0",0.524
-"17",2007,"Wendie Austin","SCAC","23-20-0",0.535
-"18",2006,"Wendie Austin","SCAC","19-18-0",0.514
-"19",2005,"Wendie Austin","SCAC","19-14-0",0.576
-"20",2004,"Wendie Austin","SCAC","16-18-0",0.471
-"21",2003,"Wendie Austin","SCAC","12-16-0",0.429
-"22",2002,"Wendie Austin","SCAC","14-20-0",0.412
-"23",2001,"Wendie Austin","-","4-28-0",0.125
-"24",2000,"Stephanie Dragan","-","9-21-0",0.3
-"25",1999,"Stephanie Dragan","-","1-14-0",0.067
-"26",1998,"Jennifer Ruff","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Laura Villagrana","SAA","16-25-0",0.39
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Centre","132","2025","Laura Villagrana","D-III","SAA",0,0,0,0
+"2","Centre","132","2024","Laura Villagrana","D-III","SAA",16,24,0,0.4
+"3","Centre","132","2023","Tori Brown","D-III","SAA",17,21,0,0.447
+"4","Centre","132","2022","Tori Brown","D-III","SAA",11,30,0,0.268
+"5","Centre","132","2021","Tori Brown","D-III","SAA",3,21,0,0.125
+"6","Centre","132","2020","Tori Brown","D-III","SAA",5,6,0,0.455
+"7","Centre","132","2019","Tori Brown","D-III","SAA",12,22,0,0.353
+"8","Centre","132","2018","Tori Brown","D-III","SAA",18,18,NA,0.5
+"9","Centre","132","2017","Ashley Taylor","D-III","SAA",24,19,0,0.558
+"10","Centre","132","2016","Ashley Taylor","D-III","SAA",16,23,0,0.41
+"11","Centre","132","2015","Ashley Taylor","D-III","SAA",14,18,0,0.438
+"12","Centre","132","2014","Wendie Austin","D-III","SAA",12,23,0,0.343
+"13","Centre","132","2013","Wendie Austin","D-III","SAA",19,19,0,0.5
+"14","Centre","132","2012","Wendie Austin","D-III","SCAC",15,22,0,0.405
+"15","Centre","132","2011","Wendie Austin","D-III","SCAC",17,23,0,0.425
+"16","Centre","132","2010","Wendie Austin","D-III","SCAC",16,26,0,0.381
+"17","Centre","132","2009","Wendie Austin","D-III","SCAC",8,25,0,0.242
+"18","Centre","132","2008","Wendie Austin","D-III","SCAC",22,20,0,0.524
+"19","Centre","132","2007","Wendie Austin","D-III","SCAC",23,20,0,0.535
+"20","Centre","132","2006","Wendie Austin","D-III","SCAC",19,18,0,0.514
+"21","Centre","132","2005","Wendie Austin","D-III","SCAC",19,14,0,0.576
+"22","Centre","132","2004","Wendie Austin","D-III","SCAC",16,18,0,0.471
+"23","Centre","132","2003","Wendie Austin","D-III","SCAC",12,16,0,0.429
+"24","Centre","132","2002","Wendie Austin","D-III","SCAC",14,20,0,0.412
+"25","Centre","132","2001","Wendie Austin","D-III","-",4,28,0,0.125
+"26","Centre","132","1900","Stephanie Dragan","D-III","-",9,21,NA,0.3
+"27","Centre","132","1999","Stephanie Dragan","D-III","-",1,14,NA,0.067
+"28","Centre","132","1998","Jennifer Ruff","D-III","-",NA,NA,NA,NA
+"29","Centre","132","1997","","D-III","-",NA,NA,NA,NA
+"30","Centre","132","1996","","D-III","-",NA,NA,NA,NA
+"31","Centre","132","1995","","D-III","-",NA,NA,NA,NA
+"32","Centre","132","1994","","D-III","-",NA,NA,NA,NA
+"33","Centre","132","1993","","D-III","-",NA,NA,NA,NA
+"34","Centre","132","1992","","D-III","-",NA,NA,NA,NA
+"35","Centre","132","1991","","D-III","-",NA,NA,NA,NA
+"36","Centre","132","1990","","","-",NA,NA,NA,NA
+"37","Centre","132","","","","",362,529,0,0.406

@@ -1,9 +1,10 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2021",NA,"-","0-0-0",0
-"2","2019",NA,"-","0-0-0",0
-"3","2018",NA,"-","0-0-0",0
-"4","2017",NA,"-","0-0-0",NA
-"5","2016",NA,"-","0-0-0",NA
-"6","2015",NA,"-","0-0-0",NA
-"7","2014",NA,"-","0-0-0",NA
-"8","2013",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","S'western Assemblies","506149","2021",NA,NA,"-",NA,NA,NA,0
+"2","S'western Assemblies","506149","2019",NA,NA,"-",NA,NA,NA,0
+"3","S'western Assemblies","506149","2018",NA,NA,"-",NA,NA,NA,0
+"4","S'western Assemblies","506149","2017",NA,NA,"-",NA,NA,NA,NA
+"5","S'western Assemblies","506149","2016",NA,NA,"-",NA,NA,NA,NA
+"6","S'western Assemblies","506149","2015",NA,NA,"-",NA,NA,NA,NA
+"7","S'western Assemblies","506149","2014",NA,NA,"-",NA,NA,NA,NA
+"8","S'western Assemblies","506149","2013",NA,NA,"-",NA,NA,NA,NA
+"9","S'western Assemblies","506149","",NA,NA,"",0,0,0,0

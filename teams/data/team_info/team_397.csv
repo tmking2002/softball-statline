@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"John Butash","Atlantic East","27-18-0",0.6
-"2",2022,"John Butash","Atlantic East","28-9-0",0.757
-"3",2021,"John Butash","Atlantic East","9-8-0",0.529
-"4",2020,"John Butash","Atlantic East","4-4-0",0.5
-"5",2019,"John Butash","Atlantic East","19-22-0",0.463
-"6",2018,"Bob Fitzsimmons","CSAC","20-17-0",0.541
-"7",2017,"Bob Fitzsimmons","CSAC","19-17-0",0.528
-"8",2016,"Bob Fitzsimmons","CSAC","22-14-0",0.611
-"9",2015,"Bob Fitzsimmons","CSAC","16-18-0",0.471
-"10",2014,"Bob Fitzsimmons","CSAC","24-13-0",0.649
-"11",2013,"Bob Fitzsimmons","CSAC","18-16-0",0.529
-"12",2012,"Bob Fitzsimmons","CSAC","23-19-0",0.548
-"13",2011,"Bob Fitzsimmons","CSAC","22-17-0",0.564
-"14",2010,"Bob Fitzsimmons","CSAC","19-18-0",0.514
-"15",2009,"Bob Fitzsimmons","CSAC","27-11-0",0.711
-"16",2008,"Bob Fitzsimmons","CSAC","19-17-0",0.528
-"17",2007,"Bob Fitzsimmons","CSAC","13-21-0",0.382
-"18",2006,"Bob Fitzsimmons","CSAC","20-18-0",0.526
-"19",2005,"Bob Fitzsimmons","CSAC","8-30-0",0.211
-"20",2004,"Bob Fitzsimmons","CSAC","6-20-0",0.231
-"21",2003,"Bob Fitzsimmons","-","13-27-0",0.325
-"22",2002,"","-","0-0-0",NA
-"23",2001,"Nicole Malloy","-","7-25-0",0.219
-"24",2000,"Nicole Malloy","-","10-24-1",0.294
-"25",1999,"Nicole Malloy","-","10-20-0",0.333
-"26",1998,"Jack Dabney","-","8-26-0",0.235
-"27",1997,"Jack Dabney","-","10-18-0",0.357
-"28",1996,"Jack Dabney","-","10-17-0",0.37
-"29",1995,"Jack Dabney","-","18-15-0",0.545
-"30",1994,"Doug Walsh","-","2-12-0",0.143
-"31",1993,"Doug Walsh","-","5-8-0",0.385
-"32",1992,"Bill Recipko","-","2-20-0",0.091
-"33",1991,"Bill Recipko","-","7-14-0",0.333
-"34",1990,"Bill Recipko","-","5-18-0",0.217
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1985,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"John Butash","Atlantic East","24-16-0",0.6
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Marywood","397","2025","John Butash","D-III","Atlantic East",0,0,0,0
+"2","Marywood","397","2024","John Butash","D-III","Atlantic East",24,16,0,0.6
+"3","Marywood","397","2023","John Butash","D-III","Atlantic East",27,18,0,0.6
+"4","Marywood","397","2022","John Butash","D-III","Atlantic East",28,9,0,0.757
+"5","Marywood","397","2021","John Butash","D-III","Atlantic East",9,8,0,0.529
+"6","Marywood","397","2020","John Butash","D-III","Atlantic East",4,4,0,0.5
+"7","Marywood","397","2019","John Butash","D-III","Atlantic East",19,22,0,0.463
+"8","Marywood","397","2018","Bob Fitzsimmons","D-III","CSAC",20,17,NA,0.541
+"9","Marywood","397","2017","Bob Fitzsimmons","D-III","CSAC",19,17,0,0.528
+"10","Marywood","397","2016","Bob Fitzsimmons","D-III","CSAC",22,14,0,0.611
+"11","Marywood","397","2015","Bob Fitzsimmons","D-III","CSAC",16,18,0,0.471
+"12","Marywood","397","2014","Bob Fitzsimmons","D-III","CSAC",24,13,0,0.649
+"13","Marywood","397","2013","Bob Fitzsimmons","D-III","CSAC",18,16,0,0.529
+"14","Marywood","397","2012","Bob Fitzsimmons","D-III","CSAC",23,19,0,0.548
+"15","Marywood","397","2011","Bob Fitzsimmons","D-III","CSAC",22,17,0,0.564
+"16","Marywood","397","2010","Bob Fitzsimmons","D-III","CSAC",19,18,0,0.514
+"17","Marywood","397","2009","Bob Fitzsimmons","D-III","CSAC",27,11,0,0.711
+"18","Marywood","397","2008","Bob Fitzsimmons","D-III","CSAC",19,17,0,0.528
+"19","Marywood","397","2007","Bob Fitzsimmons","D-III","CSAC",13,21,0,0.382
+"20","Marywood","397","2006","Bob Fitzsimmons","D-III","CSAC",20,18,0,0.526
+"21","Marywood","397","2005","Bob Fitzsimmons","D-III","CSAC",8,30,0,0.211
+"22","Marywood","397","2004","Bob Fitzsimmons","D-III","CSAC",6,20,0,0.231
+"23","Marywood","397","2003","Bob Fitzsimmons","","-",13,27,NA,0.325
+"24","Marywood","397","2002","","D-III","-",NA,NA,NA,NA
+"25","Marywood","397","2001","Nicole Malloy","D-III","-",7,25,NA,0.219
+"26","Marywood","397","1900","Nicole Malloy","D-III","-",10,24,1,0.3
+"27","Marywood","397","1999","Nicole Malloy","D-III","-",10,20,NA,0.333
+"28","Marywood","397","1998","Jack Dabney","D-III","-",8,26,NA,0.235
+"29","Marywood","397","1997","Jack Dabney","D-III","-",10,18,NA,0.357
+"30","Marywood","397","1996","Jack Dabney","D-III","-",10,17,NA,0.37
+"31","Marywood","397","1995","Jack Dabney","D-III","-",18,15,NA,0.545
+"32","Marywood","397","1994","Doug Walsh","D-III","-",2,12,NA,0.143
+"33","Marywood","397","1993","Doug Walsh","D-III","-",5,8,NA,0.385
+"34","Marywood","397","1992","Bill Recipko","D-III","-",2,20,NA,0.091
+"35","Marywood","397","1991","Bill Recipko","D-III","-",7,14,NA,0.333
+"36","Marywood","397","1990","Bill Recipko","D-III","-",5,18,NA,0.217
+"37","Marywood","397","1989","","D-III","-",NA,NA,NA,NA
+"38","Marywood","397","1988","","D-III","-",NA,NA,NA,NA
+"39","Marywood","397","1987","","D-III","-",NA,NA,NA,NA
+"40","Marywood","397","1985","","D-III","-",NA,NA,NA,NA
+"41","Marywood","397","1984","","D-III","-",NA,NA,NA,NA
+"42","Marywood","397","1981","","","-",NA,NA,NA,NA
+"43","Marywood","397","","","","",494,587,1,0.457

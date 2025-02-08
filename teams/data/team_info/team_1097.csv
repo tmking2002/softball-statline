@@ -1,23 +1,25 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Nicki Levering","Peach Belt","39-17-0",0.696
-"2",2022,"Nicki Levering","Peach Belt","33-21-0",0.611
-"3",2021,"Nicki Levering","Peach Belt","17-19-0",0.472
-"4",2020,"Nicki Levering","Peach Belt","17-5-0",0.773
-"5",2019,"Nicki Levering","Peach Belt","29-26-0",0.527
-"6",2018,"Nicki Levering","Peach Belt","18-34-0",0.346
-"7",2017,"Eddie Ward","Peach Belt","22-32-0",0.407
-"8",2016,"Eddie Ward","Peach Belt","24-32-0",0.429
-"9",2015,"Eddie Ward","Peach Belt","15-33-0",0.312
-"10",2014,"Eddie Ward","Peach Belt","26-26-0",0.5
-"11",2013,"Eddie Ward","Peach Belt","29-26-0",0.527
-"12",2012,"Eddie Ward","Peach Belt","22-30-0",0.423
-"13",2011,"Eddie Ward","Peach Belt","22-28-0",0.44
-"14",2010,"Eddie Ward","Peach Belt","20-31-0",0.392
-"15",2009,"Eddie Ward","Peach Belt","13-37-0",0.26
-"16",2008,"Eddie Ward","-","19-29-0",0.396
-"17",2007,"Eddie Ward","-","11-35-0",0.239
-"18",2006,"Eddie Ward","-","21-34-0",0.382
-"19",2005,"Eddie Ward","-","31-22-0",0.585
-"20",2004,"Eddie Ward","-","34-24-0",0.586
-"21",2003,"Eddie Ward","-","28-27-0",0.509
-"22",2024,"Nicki Levering","Peach Belt","22-23-0",0.489
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ga. Southwestern","1097","2025","Emma Johansen","D-II","Peach Belt",2,3,0,0.4
+"2","Ga. Southwestern","1097","2024","Nicki Levering","D-II","Peach Belt",25,29,0,0.463
+"3","Ga. Southwestern","1097","2023","Nicki Levering","D-II","Peach Belt",39,17,0,0.696
+"4","Ga. Southwestern","1097","2022","Nicki Levering","D-II","Peach Belt",33,21,0,0.611
+"5","Ga. Southwestern","1097","2021","Nicki Levering","D-II","Peach Belt",17,19,0,0.472
+"6","Ga. Southwestern","1097","2020","Nicki Levering","D-II","Peach Belt",17,5,0,0.773
+"7","Ga. Southwestern","1097","2019","Nicki Levering","D-II","Peach Belt",29,26,0,0.527
+"8","Ga. Southwestern","1097","2018","Nicki Levering","D-II","Peach Belt",18,34,NA,0.346
+"9","Ga. Southwestern","1097","2017","Eddie Ward","D-II","Peach Belt",22,32,0,0.407
+"10","Ga. Southwestern","1097","2016","Eddie Ward","D-II","Peach Belt",24,32,0,0.429
+"11","Ga. Southwestern","1097","2015","Eddie Ward","D-II","Peach Belt",15,33,0,0.313
+"12","Ga. Southwestern","1097","2014","Eddie Ward","D-II","Peach Belt",26,26,0,0.5
+"13","Ga. Southwestern","1097","2013","Eddie Ward","D-II","Peach Belt",29,26,0,0.527
+"14","Ga. Southwestern","1097","2012","Eddie Ward","D-II","Peach Belt",22,30,0,0.423
+"15","Ga. Southwestern","1097","2011","Eddie Ward","D-II","Peach Belt",22,28,0,0.44
+"16","Ga. Southwestern","1097","2010","Eddie Ward","D-II","Peach Belt",20,31,0,0.392
+"17","Ga. Southwestern","1097","2009","Eddie Ward","D-II","Peach Belt",13,37,0,0.26
+"18","Ga. Southwestern","1097","2008","Eddie Ward","D-II","-",19,29,0,0.396
+"19","Ga. Southwestern","1097","2007","Eddie Ward","D-II","-",11,35,0,0.239
+"20","Ga. Southwestern","1097","2006","Eddie Ward","","-",21,34,0,0.382
+"21","Ga. Southwestern","1097","2005","Eddie Ward","","-",31,22,0,0.585
+"22","Ga. Southwestern","1097","2004","Eddie Ward","","-",34,24,0,0.586
+"23","Ga. Southwestern","1097","2003","Eddie Ward","","-",28,27,0,0.509
+"24","Ga. Southwestern","1097","","","","",517,600,0,0.463

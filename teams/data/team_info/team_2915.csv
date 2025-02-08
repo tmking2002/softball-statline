@@ -1,2 +1,4 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2024,"Chelsea Butler","SoCon","23-24-0",0.489
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wofford","2915","2025","Chelsea Butler","D-I","SoCon",1,1,0,0.5
+"2","Wofford","2915","2024","Chelsea Butler","D-I","SoCon",23,24,0,0.489
+"3","Wofford","2915","","","","",24,25,0,0.49

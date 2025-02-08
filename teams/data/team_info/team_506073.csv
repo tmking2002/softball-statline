@@ -1,14 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2017",NA,"-","0-0-0",NA
-"6","2015",NA,"-","0-0-0",NA
-"7","2014",NA,"-","0-0-0",NA
-"8","2012",NA,"-","0-0-0",NA
-"9","2009",NA,"-","0-0-0",NA
-"10","2008",NA,"-","0-0-0",NA
-"11","2007",NA,"-","0-0-0",NA
-"12","2005",NA,"-","0-0-0",NA
-"13","2004",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sterling (KS)","506073","2024",NA,NA,"-",NA,NA,NA,0
+"2","Sterling (KS)","506073","2022",NA,NA,"-",NA,NA,NA,0
+"3","Sterling (KS)","506073","2021",NA,NA,"-",NA,NA,NA,0
+"4","Sterling (KS)","506073","2020",NA,NA,"-",NA,NA,NA,0
+"5","Sterling (KS)","506073","2017",NA,NA,"-",NA,NA,NA,NA
+"6","Sterling (KS)","506073","2015",NA,NA,"-",NA,NA,NA,NA
+"7","Sterling (KS)","506073","2014",NA,NA,"-",NA,NA,NA,NA
+"8","Sterling (KS)","506073","2012",NA,NA,"-",NA,NA,NA,NA
+"9","Sterling (KS)","506073","2009",NA,NA,"-",NA,NA,NA,NA
+"10","Sterling (KS)","506073","2008",NA,NA,"-",NA,NA,NA,NA
+"11","Sterling (KS)","506073","2007",NA,NA,"-",NA,NA,NA,NA
+"12","Sterling (KS)","506073","2005",NA,NA,"-",NA,NA,NA,NA
+"13","Sterling (KS)","506073","2004",NA,NA,"-",NA,NA,NA,NA
+"14","Sterling (KS)","506073","",NA,NA,"",0,0,0,0

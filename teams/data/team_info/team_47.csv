@@ -1,43 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Lacy Schurr","MAC","27-26-0","0.509"
-"2","2022","Lacy Schurr","MAC","22-31-0","0.415"
-"3","2021","Lacy Schurr","MAC","37-18-0","0.673"
-"4","2020","Megan Bartlett","MAC","18-9-0","0.667"
-"5","2019","Megan Bartlett","MAC","34-20-0","0.630"
-"6","2018","Megan Bartlett","MAC","37-19-0","0.661"
-"7","2017","Megan Bartlett","MAC","30-28-0","0.517"
-"8","2016","Megan Bartlett","MAC","22-32-0","0.407"
-"9","2015","Tyra Perry","MAC","34-25-0","0.576"
-"10","2014","Tyra Perry","MAC","33-19-0","0.635"
-"11","2013","Craig Nicholson","MAC","37-17-0","0.685"
-"12","2012","Craig Nicholson","MAC","40-15-0","0.727"
-"13","2011","Craig Nicholson","MAC","34-24-0","0.586"
-"14","2010","Craig Nicholson","MAC","43-16-0","0.729"
-"15","2009","Craig Nicholson","MAC","29-24-0","0.547"
-"16","2008","Craig Nicholson","MAC","36-32-0","0.529"
-"17","2007","Craig Nicholson","MAC","22-34-0","0.393"
-"18","2006","Terri Laux","MAC","13-30-0","0.302"
-"19","2005","Terri Laux","MAC","19-37-0","0.339"
-"20","2004","Terri Laux","MAC","15-39-0","0.278"
-"21","2003","Terri Laux","MAC","14-24-1","0.368"
-"22","2002","Terri Laux","MAC","23-22-0","0.511"
-"23","2001","Terri Laux","MAC","32-20-0","0.615"
-"24","2000","Terri Laux","MAC","20-30-0","0.400"
-"25","1999","Terri Laux","MAC","22-38-0","0.367"
-"26","1998","Terri Laux","-","39-17-0","0.696"
-"27","1997","Terri Laux","MAC","25-26-0","0.490"
-"28","1996","Ruth Crowe","-","24-26-0","0.480"
-"29","1995","Ruth Crowe","-","22-33-0","0.400"
-"30","1994","Ruth Crowe","-","26-25-0","0.510"
-"31","1993","Ruth Crowe","-","30-19-0","0.612"
-"32","1992","Jeri Findlay","-","15-31-1","0.326"
-"33","1991","Jeri Findlay","-","15-40-0","0.273"
-"34","1990","Jeri Findlay","-","13-33-0","0.283"
-"35","1989","Jeri Findlay","-","34-16-0","0.680"
-"36","1988","Jeri Findlay","-","32-24-0","0.571"
-"37","1987","Jeri Findlay","-","28-21-0","0.571"
-"38","1986","Jeri Findlay","-","16-34-0","0.320"
-"39","1985","Jeri Findlay","-","8-38-1","0.174"
-"40","1984","Jeri Findlay","-","20-23-1","0.465"
-"41","1983","Jeri Findlay","-","6-23-0","0.207"
-"42","1982","Jeri Findlay","-","14-19-0","0.424"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ball St.","47","2025","Helen Peña","D-I","MAC",2,0,0,1
+"2","Ball St.","47","2024","Helen Peña","D-I","MAC",29,29,0,0.5
+"3","Ball St.","47","2023","Lacy Schurr","D-I","MAC",27,26,0,0.509
+"4","Ball St.","47","2022","Lacy Schurr","D-I","MAC",22,31,0,0.415
+"5","Ball St.","47","2021","Lacy Schurr","D-I","MAC",37,18,0,0.673
+"6","Ball St.","47","2020","Megan Bartlett","D-I","MAC",18,9,0,0.667
+"7","Ball St.","47","2019","Megan Bartlett","D-I","MAC",34,20,0,0.63
+"8","Ball St.","47","2018","Megan Bartlett","D-I","MAC",37,19,NA,0.661
+"9","Ball St.","47","2017","Megan Bartlett","D-I","MAC",30,28,0,0.517
+"10","Ball St.","47","2016","Megan Bartlett","D-I","MAC",22,32,0,0.407
+"11","Ball St.","47","2015","Tyra Perry","D-I","MAC",34,25,0,0.576
+"12","Ball St.","47","2014","Tyra Perry","D-I","MAC",33,19,0,0.635
+"13","Ball St.","47","2013","Craig Nicholson","D-I","MAC",37,17,0,0.685
+"14","Ball St.","47","2012","Craig Nicholson","D-I","MAC",40,15,0,0.727
+"15","Ball St.","47","2011","Craig Nicholson","D-I","MAC",34,24,0,0.586
+"16","Ball St.","47","2010","Craig Nicholson","D-I","MAC",43,16,0,0.729
+"17","Ball St.","47","2009","Craig Nicholson","D-I","MAC",29,24,0,0.547
+"18","Ball St.","47","2008","Craig Nicholson","D-I","MAC",36,32,0,0.529
+"19","Ball St.","47","2007","Craig Nicholson","D-I","MAC",22,34,0,0.393
+"20","Ball St.","47","2006","Terri Laux","D-I","MAC",13,30,0,0.302
+"21","Ball St.","47","2005","Terri Laux","D-I","MAC",19,37,0,0.339
+"22","Ball St.","47","2004","Terri Laux","D-I","MAC",15,39,0,0.278
+"23","Ball St.","47","2003","Terri Laux","D-I","MAC",14,24,1,0.372
+"24","Ball St.","47","2002","Terri Laux","D-I","MAC",23,22,0,0.511
+"25","Ball St.","47","2001","Terri Laux","D-I","MAC",32,20,0,0.615
+"26","Ball St.","47","1900","Terri Laux","D-I","MAC",20,30,0,0.4
+"27","Ball St.","47","1999","Terri Laux","D-I","MAC",22,38,0,0.367
+"28","Ball St.","47","1998","Terri Laux","D-I","-",39,17,0,0.696
+"29","Ball St.","47","1997","Terri Laux","D-I","MAC",25,26,0,0.49
+"30","Ball St.","47","1996","Ruth Crowe","D-I","-",24,26,NA,0.48
+"31","Ball St.","47","1995","Ruth Crowe","D-I","-",22,33,NA,0.4
+"32","Ball St.","47","1994","Ruth Crowe","D-I","-",26,25,NA,0.51
+"33","Ball St.","47","1993","Ruth Crowe","D-I","-",30,19,NA,0.612
+"34","Ball St.","47","1992","Jeri Findlay","D-I","-",15,31,1,0.33
+"35","Ball St.","47","1991","Jeri Findlay","D-I","-",15,40,NA,0.273
+"36","Ball St.","47","1990","Jeri Findlay","D-I","-",13,33,NA,0.283
+"37","Ball St.","47","1989","Jeri Findlay","D-I","-",34,16,NA,0.68
+"38","Ball St.","47","1988","Jeri Findlay","D-I","-",32,24,NA,0.571
+"39","Ball St.","47","1987","Jeri Findlay","D-I","-",28,21,NA,0.571
+"40","Ball St.","47","1986","Jeri Findlay","D-I","-",16,34,NA,0.32
+"41","Ball St.","47","1985","Jeri Findlay","D-I","-",8,38,1,0.181
+"42","Ball St.","47","1984","Jeri Findlay","D-I","-",20,23,1,0.466
+"43","Ball St.","47","1983","Jeri Findlay","D-I","-",6,23,NA,0.207
+"44","Ball St.","47","1982","Jeri Findlay","D-I","-",14,19,NA,0.424
+"45","Ball St.","47","","","","",1091,1106,4,0.497

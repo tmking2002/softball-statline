@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Venus Taylor","CCIW","9-24-0",0.273
-"2",2022,"Venus Taylor","CCIW","27-13-0",0.675
-"3",2021,"Venus Taylor","CCIW","23-20-0",0.535
-"4",2020,"Jim Kulawiak","CCIW","7-1-0",0.875
-"5",2019,"Jim Kulawiak","CCIW","26-14-0",0.65
-"6",2018,"Jim Kulawiak","CCIW","31-10-0",0.756
-"7",2017,"Jim Kulawiak","CCIW","21-20-0",0.512
-"8",2016,"Jim Kulawiak","CCIW","20-18-0",0.526
-"9",2015,"Jim Kulawiak","CCIW","32-9-0",0.78
-"10",2014,"Jim Kulawiak","CCIW","33-13-0",0.717
-"11",2013,"Jim Kulawiak","CCIW","35-12-0",0.745
-"12",2012,"Jim Kulawiak","CCIW","21-18-0",0.538
-"13",2011,"Jim Kulawiak","CCIW","26-14-0",0.65
-"14",2010,"Jim Kulawiak","CCIW","32-14-0",0.696
-"15",2009,"Jim Kulawiak","CCIW","27-12-0",0.692
-"16",2008,"Jim Kulawiak","CCIW","29-12-0",0.707
-"17",2007,"Jim Kulawiak","CCIW","27-15-0",0.643
-"18",2006,"Jim Kulawiak","CCIW","26-16-0",0.619
-"19",2005,"Jim Kulawiak","CCIW","36-12-0",0.75
-"20",2004,"Jim Kulawiak","CCIW","28-15-0",0.651
-"21",2003,"Jim Kulawiak","-","25-12-1",0.676
-"22",2002,"Jim Kulawiak","CCIW","24-13-1",0.649
-"23",2001,"Jim Kulawiak","-","45-11-0",0.804
-"24",2000,"Jim Kulawiak","-","29-10-0",0.744
-"25",1999,"Jim Kulawiak","-","31-8-0",0.795
-"26",1998,"Jim Kulawiak","-","31-7-1",0.816
-"27",1997,"Jim Kulawiak","-","22-12-0",0.647
-"28",1996,"Jim Kulawiak","-","26-13-0",0.667
-"29",1995,"Jim Kulawiak","-","29-8-0",0.784
-"30",1994,"Jim Kulawiak","-","25-11-0",0.694
-"31",1993,"Jim Kulawiak","-","26-6-0",0.812
-"32",1992,"Jim Kulawiak","-","16-15-0",0.516
-"33",1991,"Jim Kulawiak","-","20-16-0",0.556
-"34",1990,"Jim Kulawiak","-","27-12-0",0.692
-"35",1989,"Jim Kulawiak","-","27-7-0",0.794
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Venus Taylor","CCIW","29-12-0",0.707
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","North Central (IL)","492","2025","Venus Taylor","D-III","CCIW",0,0,0,0
+"2","North Central (IL)","492","2024","Venus Taylor","D-III","CCIW",29,12,0,0.707
+"3","North Central (IL)","492","2023","Venus Taylor","D-III","CCIW",9,24,0,0.273
+"4","North Central (IL)","492","2022","Venus Taylor","D-III","CCIW",27,13,0,0.675
+"5","North Central (IL)","492","2021","Venus Taylor","D-III","CCIW",23,20,0,0.535
+"6","North Central (IL)","492","2020","Jim Kulawiak","D-III","CCIW",7,1,0,0.875
+"7","North Central (IL)","492","2019","Jim Kulawiak","D-III","CCIW",26,14,0,0.65
+"8","North Central (IL)","492","2018","Jim Kulawiak","D-III","CCIW",31,10,NA,0.756
+"9","North Central (IL)","492","2017","Jim Kulawiak","D-III","CCIW",21,20,0,0.512
+"10","North Central (IL)","492","2016","Jim Kulawiak","D-III","CCIW",20,18,0,0.526
+"11","North Central (IL)","492","2015","Jim Kulawiak","D-III","CCIW",32,9,0,0.78
+"12","North Central (IL)","492","2014","Jim Kulawiak","D-III","CCIW",33,13,0,0.717
+"13","North Central (IL)","492","2013","Jim Kulawiak","D-III","CCIW",35,12,0,0.745
+"14","North Central (IL)","492","2012","Jim Kulawiak","D-III","CCIW",21,18,0,0.538
+"15","North Central (IL)","492","2011","Jim Kulawiak","D-III","CCIW",26,14,0,0.65
+"16","North Central (IL)","492","2010","Jim Kulawiak","D-III","CCIW",32,14,0,0.696
+"17","North Central (IL)","492","2009","Jim Kulawiak","D-III","CCIW",27,12,0,0.692
+"18","North Central (IL)","492","2008","Jim Kulawiak","D-III","CCIW",29,12,0,0.707
+"19","North Central (IL)","492","2007","Jim Kulawiak","D-III","CCIW",27,15,0,0.643
+"20","North Central (IL)","492","2006","Jim Kulawiak","D-III","CCIW",26,16,0,0.619
+"21","North Central (IL)","492","2005","Jim Kulawiak","D-III","CCIW",36,12,0,0.75
+"22","North Central (IL)","492","2004","Jim Kulawiak","D-III","CCIW",28,15,0,0.651
+"23","North Central (IL)","492","2003","Jim Kulawiak","D-III","-",25,12,1,0.671
+"24","North Central (IL)","492","2002","Jim Kulawiak","D-III","CCIW",24,13,1,0.645
+"25","North Central (IL)","492","2001","Jim Kulawiak","D-III","-",45,11,NA,0.804
+"26","North Central (IL)","492","1900","Jim Kulawiak","D-III","-",29,10,NA,0.744
+"27","North Central (IL)","492","1999","Jim Kulawiak","D-III","-",31,8,NA,0.795
+"28","North Central (IL)","492","1998","Jim Kulawiak","D-III","-",31,7,1,0.808
+"29","North Central (IL)","492","1997","Jim Kulawiak","D-III","-",22,12,NA,0.647
+"30","North Central (IL)","492","1996","Jim Kulawiak","D-III","-",26,13,NA,0.667
+"31","North Central (IL)","492","1995","Jim Kulawiak","D-III","-",29,8,NA,0.784
+"32","North Central (IL)","492","1994","Jim Kulawiak","D-III","-",25,11,NA,0.694
+"33","North Central (IL)","492","1993","Jim Kulawiak","D-III","-",26,6,NA,0.813
+"34","North Central (IL)","492","1992","Jim Kulawiak","D-III","-",16,15,NA,0.516
+"35","North Central (IL)","492","1991","Jim Kulawiak","D-III","-",20,16,NA,0.556
+"36","North Central (IL)","492","1990","Jim Kulawiak","D-III","-",27,12,NA,0.692
+"37","North Central (IL)","492","1989","Jim Kulawiak","D-III","-",27,7,NA,0.794
+"38","North Central (IL)","492","1988","","","-",NA,NA,NA,NA
+"39","North Central (IL)","492","1987","","","-",NA,NA,NA,NA
+"40","North Central (IL)","492","1986","","","-",NA,NA,NA,NA
+"41","North Central (IL)","492","1985","","","-",NA,NA,NA,NA
+"42","North Central (IL)","492","1984","","D-III","-",NA,NA,NA,NA
+"43","North Central (IL)","492","1983","","D-III","-",NA,NA,NA,NA
+"44","North Central (IL)","492","1982","","D-III","-",NA,NA,NA,NA
+"45","North Central (IL)","492","","","","",948,455,3,0.675

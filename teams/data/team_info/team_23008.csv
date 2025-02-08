@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Denise Godwin","ASC","6-34-0",0.15
-"2",2022,"Denise Godwin","ASC","6-31-0",0.162
-"3",2021,"Denise Godwin","ASC","4-24-0",0.143
-"4",2020,"Denise Godwin","ASC","1-13-0",0.071
-"5",2019,"Denise Godwin","ASC","12-28-0",0.3
-"6",2018,"Roland Rodriguez","ASC","10-22-0",0.312
-"7",2017,"Roland Rodriguez","ASC","6-31-0",0.162
-"8",2016,"Roland Rodriguez","ASC","13-25-0",0.342
-"9",2015,"Laurie Adkins","ASC","13-26-0",0.333
-"10",2014,"Laurie Adkins","ASC","3-37-0",0.075
-"11",2013,"Laurie Adkins","ASC","14-26-0",0.35
-"12",2012,"Laurie Adkins","ASC","11-29-0",0.275
-"13",2011,"Laurie Adkins","ASC","7-33-0",0.175
-"14",2010,"Elizabeth Caroscio","ASC","9-31-0",0.225
-"15",2009,"Elizabeth Caroscio","ASC","5-35-0",0.125
-"16",2008,"Elizabeth Caroscio","ASC","14-26-0",0.35
-"17",2007,"Elizabeth Caroscio","ASC","17-23-0",0.425
-"18",2006,"Elizabeth Caroscio","ASC","14-23-0",0.378
-"19",2005,"Jon Janssen","ASC","11-28-1",0.282
-"20",2004,"Jon Janssen","ASC","19-18-0",0.514
-"21",2003,"Jon Janssen","-","0-0-0",NA
-"22",2002,"Jon Janssen","ASC","20-18-0",0.526
-"23",2001,"Jon Janssen","-","4-20-0",0.167
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Denise Godwin","ASC","7-33-0",0.175
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ozarks (AR)","23008","2025","Denise Godwin","D-III","SCAC",0,0,0,0
+"2","Ozarks (AR)","23008","2024","Denise Godwin","D-III","ASC",7,33,0,0.175
+"3","Ozarks (AR)","23008","2023","Denise Godwin","D-III","ASC",6,34,0,0.15
+"4","Ozarks (AR)","23008","2022","Denise Godwin","D-III","ASC",6,31,0,0.162
+"5","Ozarks (AR)","23008","2021","Denise Godwin","D-III","ASC",4,24,0,0.143
+"6","Ozarks (AR)","23008","2020","Denise Godwin","D-III","ASC",1,13,0,0.071
+"7","Ozarks (AR)","23008","2019","Denise Godwin","D-III","ASC",12,28,0,0.3
+"8","Ozarks (AR)","23008","2018","Roland Rodriguez","D-III","ASC",10,22,NA,0.313
+"9","Ozarks (AR)","23008","2017","Roland Rodriguez","D-III","ASC",6,31,0,0.162
+"10","Ozarks (AR)","23008","2016","Roland Rodriguez","D-III","ASC",13,25,0,0.342
+"11","Ozarks (AR)","23008","2015","Laurie Adkins","D-III","ASC",13,26,0,0.333
+"12","Ozarks (AR)","23008","2014","Laurie Adkins","D-III","ASC",3,37,0,0.075
+"13","Ozarks (AR)","23008","2013","Laurie Adkins","D-III","ASC",14,26,0,0.35
+"14","Ozarks (AR)","23008","2012","Laurie Adkins","D-III","ASC",11,29,0,0.275
+"15","Ozarks (AR)","23008","2011","Laurie Adkins","D-III","ASC",7,33,0,0.175
+"16","Ozarks (AR)","23008","2010","Elizabeth Caroscio","D-III","ASC",9,31,0,0.225
+"17","Ozarks (AR)","23008","2009","Elizabeth Caroscio","D-III","ASC",5,35,0,0.125
+"18","Ozarks (AR)","23008","2008","Elizabeth Caroscio","D-III","ASC",14,26,0,0.35
+"19","Ozarks (AR)","23008","2007","Elizabeth Caroscio","D-III","ASC",17,23,0,0.425
+"20","Ozarks (AR)","23008","2006","Elizabeth Caroscio","D-III","ASC",14,23,0,0.378
+"21","Ozarks (AR)","23008","2005","Jon Janssen","D-III","ASC",11,28,1,0.288
+"22","Ozarks (AR)","23008","2004","Jon Janssen","D-III","ASC",19,18,0,0.514
+"23","Ozarks (AR)","23008","2003","Jon Janssen","","-",NA,NA,NA,NA
+"24","Ozarks (AR)","23008","2002","Jon Janssen","D-III","ASC",20,18,0,0.526
+"25","Ozarks (AR)","23008","2001","Jon Janssen","D-III","-",4,20,NA,0.167
+"26","Ozarks (AR)","23008","1900","","","-",NA,NA,NA,NA
+"27","Ozarks (AR)","23008","1999","","","-",NA,NA,NA,NA
+"28","Ozarks (AR)","23008","1998","","","-",NA,NA,NA,NA
+"29","Ozarks (AR)","23008","1997","","","-",NA,NA,NA,NA
+"30","Ozarks (AR)","23008","1996","","","-",NA,NA,NA,NA
+"31","Ozarks (AR)","23008","1995","","","-",NA,NA,NA,NA
+"32","Ozarks (AR)","23008","1994","","","-",NA,NA,NA,NA
+"33","Ozarks (AR)","23008","1993","","","-",NA,NA,NA,NA
+"34","Ozarks (AR)","23008","1992","","","-",NA,NA,NA,NA
+"35","Ozarks (AR)","23008","1991","","","-",NA,NA,NA,NA
+"36","Ozarks (AR)","23008","1990","","","-",NA,NA,NA,NA
+"37","Ozarks (AR)","23008","","","","",226,614,1,0.269

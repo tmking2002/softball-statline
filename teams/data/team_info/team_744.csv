@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Fred Burroughs","CIAA","6-22-0",0.214
-"2",2022,"Fred Burroughs","CIAA","15-11-0",0.577
-"3",2021,"Fred Burroughs","CIAA","0-0-0",NA
-"4",2020,"Sharika Joynes","CIAA","3-9-0",0.25
-"5",2019,"Sharika Joynes","CIAA","8-21-0",0.276
-"6",2018,"Sharika Joynes","CIAA","15-11-0",0.577
-"7",2017,"Sharika Joynes","CIAA","10-17-0",0.37
-"8",2016,"Sharika Joynes","CIAA","15-16-0",0.484
-"9",2015,"Sharika Joynes","CIAA","16-11-0",0.593
-"10",2014,"Sharika Joynes","CIAA","12-15-0",0.444
-"11",2013,"Sharika Joynes","CIAA","15-10-0",0.6
-"12",2012,"LeKeisha Henry","CIAA","12-29-0",0.293
-"13",2011,"LeKeisha Henry","CIAA","9-21-0",0.3
-"14",2010,"LeKeisha Henry","CIAA","2-23-1",0.08
-"15",2009,"Reva Green","CIAA","4-24-0",0.143
-"16",2008,"Reva Green","CIAA","4-20-0",0.167
-"17",2007,"Reva Green","CIAA","1-23-0",0.042
-"18",2006,"Reva Green","CIAA","3-21-0",0.125
-"19",2005,"Reva Green","CIAA","3-27-0",0.1
-"20",2004,"","CIAA","5-21-0",0.192
-"21",2003,"","CIAA","9-21-0",0.3
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Kenny Jones","-","11-17-0",0.393
-"25",1999,"Kenny Jones","-","12-12-0",0.5
-"26",1998,"Kenny Jones","-","11-13-0",0.458
-"27",1997,"Kenny Jones","-","6-20-0",0.231
-"28",1996,"Kenny Jones","-","1-21-0",0.045
-"29",1995,"Mark Springs","-","4-18-0",0.182
-"30",1994,"Mark Springs","-","0-24-0",0
-"31",1993,"Mark Springs","-","9-16-0",0.36
-"32",1992,"Mark Springs","-","13-17-0",0.433
-"33",1991,"Mark Springs","-","7-17-0",0.292
-"34",1990,"Mark Springs","-","7-19-0",0.269
-"35",1989,"Mark Springs","-","0-0-0",NA
-"36",1988,"Mark Springs","-","19-7-0",0.731
-"37",2024,"Fred Burroughs","CIAA","8-19-0",0.296
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Virginia Union","744","2025","Fred Burroughs","D-II","CIAA",0,2,0,0
+"2","Virginia Union","744","2024","Fred Burroughs","D-II","CIAA",8,22,0,0.267
+"3","Virginia Union","744","2023","Fred Burroughs","D-II","CIAA",6,22,0,0.214
+"4","Virginia Union","744","2022","Fred Burroughs","D-II","CIAA",15,11,0,0.577
+"5","Virginia Union","744","2021","Fred Burroughs","D-II","CIAA",0,0,0,0
+"6","Virginia Union","744","2020","Sharika Joynes","D-II","CIAA",3,9,0,0.25
+"7","Virginia Union","744","2019","Sharika Joynes","D-II","CIAA",8,21,0,0.276
+"8","Virginia Union","744","2018","Sharika Joynes","D-II","CIAA",15,11,NA,0.577
+"9","Virginia Union","744","2017","Sharika Joynes","D-II","CIAA",10,17,0,0.37
+"10","Virginia Union","744","2016","Sharika Joynes","D-II","CIAA",15,16,0,0.484
+"11","Virginia Union","744","2015","Sharika Joynes","D-II","CIAA",16,11,0,0.593
+"12","Virginia Union","744","2014","Sharika Joynes","D-II","CIAA",12,15,0,0.444
+"13","Virginia Union","744","2013","Sharika Joynes","D-II","CIAA",15,10,0,0.6
+"14","Virginia Union","744","2012","LeKeisha Henry","D-II","CIAA",12,29,0,0.293
+"15","Virginia Union","744","2011","LeKeisha Henry","D-II","CIAA",9,21,0,0.3
+"16","Virginia Union","744","2010","LeKeisha Henry","D-II","CIAA",2,23,1,0.096
+"17","Virginia Union","744","2009","Reva Green","D-II","CIAA",4,24,0,0.143
+"18","Virginia Union","744","2008","Reva Green","D-II","CIAA",4,20,0,0.167
+"19","Virginia Union","744","2007","Reva Green","D-II","CIAA",1,23,0,0.042
+"20","Virginia Union","744","2006","Reva Green","D-II","CIAA",3,21,0,0.125
+"21","Virginia Union","744","2005","Reva Green","D-II","CIAA",3,27,0,0.1
+"22","Virginia Union","744","2004","","D-II","CIAA",5,21,0,0.192
+"23","Virginia Union","744","2003","","D-II","CIAA",9,21,0,0.3
+"24","Virginia Union","744","2002","","D-II","-",NA,NA,NA,NA
+"25","Virginia Union","744","2001","","D-II","-",NA,NA,NA,NA
+"26","Virginia Union","744","1900","Kenny Jones","D-II","-",11,17,0,0.393
+"27","Virginia Union","744","1999","Kenny Jones","D-II","-",12,12,0,0.5
+"28","Virginia Union","744","1998","Kenny Jones","D-II","-",11,13,0,0.458
+"29","Virginia Union","744","1997","Kenny Jones","D-II","-",6,20,0,0.231
+"30","Virginia Union","744","1996","Kenny Jones","D-II","-",1,21,0,0.045
+"31","Virginia Union","744","1995","Mark Springs","D-II","-",4,18,0,0.182
+"32","Virginia Union","744","1994","Mark Springs","D-II","-",0,24,0,0
+"33","Virginia Union","744","1993","Mark Springs","D-II","-",9,16,0,0.36
+"34","Virginia Union","744","1992","Mark Springs","D-II","-",13,17,0,0.433
+"35","Virginia Union","744","1991","Mark Springs","D-II","-",7,17,0,0.292
+"36","Virginia Union","744","1990","Mark Springs","D-II","-",7,19,0,0.269
+"37","Virginia Union","744","1989","Mark Springs","D-II","-",NA,NA,NA,NA
+"38","Virginia Union","744","1988","Mark Springs","D-II","-",19,7,0,0.731
+"39","Virginia Union","744","","","","",275,598,1,0.315

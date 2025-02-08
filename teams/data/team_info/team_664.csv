@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Natalie Poole","Sun Belt","22-24-0",0.478
-"2",2022,"Brian Levin","CUSA","29-23-0",0.558
-"3",2021,"Brian Levin","CUSA","22-31-0",0.415
-"4",2020,"Brian Levin","CUSA","14-8-0",0.636
-"5",2019,"Wendy Hogue","CUSA","30-22-0",0.577
-"6",2018,"Wendy Hogue","CUSA","19-36-0",0.345
-"7",2017,"Wendy Hogue","CUSA","27-26-0",0.509
-"8",2016,"Wendy Hogue","CUSA","30-28-0",0.517
-"9",2015,"Wendy Hogue","CUSA","18-34-0",0.346
-"10",2014,"Jon Malgradi (22-31)Kristen Voak (22-31)","CUSA","22-31-0",0.415
-"11",2013,"Kristen Voak (14-41)Jon Malgradi (14-41)","CUSA","14-41-0",0.255
-"12",2012,"Kristen Voak (13-34)Jon Malgradi (13-34)","CUSA","13-34-0",0.277
-"13",2011,"Howard Dobson","CUSA","17-38-0",0.309
-"14",2010,"Howard Dobson","CUSA","25-28-0",0.472
-"15",2009,"Howard Dobson","CUSA","26-28-2",0.481
-"16",2008,"Howard Dobson","CUSA","25-30-0",0.455
-"17",2007,"Gay McNutt","CUSA","18-38-0",0.321
-"18",2006,"Gay McNutt","CUSA","29-38-0",0.433
-"19",2005,"Gay McNutt","CUSA","29-32-0",0.475
-"20",2004,"Gay McNutt","CUSA","33-26-0",0.559
-"21",2003,"Gay McNutt","CUSA","28-30-0",0.483
-"22",2002,"Gay McNutt","CUSA","28-35-0",0.444
-"23",2001,"Gay McNutt","CUSA","46-21-0",0.687
-"24",2000,"Lu Harris-Champer","-","63-13-0",0.829
-"25",1999,"Lu Harris-Champer","-","52-9-0",0.852
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"Helen Grant","-","18-20-0",0.474
-"33",1991,"Helen Grant","-","29-30-0",0.492
-"34",1990,"Helen Grant","-","20-43-0",0.317
-"35",1989,"Helen Grant","-","11-45-0",0.196
-"36",1988,"Helen Grant","-","8-34-0",0.19
-"37",1987,"Helen Grant","-","8-35-0",0.186
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",2024,"Natalie Poole","Sun Belt","22-29-0",0.431
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southern Miss.","664","2025","Natalie Poole","D-I","Sun Belt",1,1,0,0.5
+"2","Southern Miss.","664","2024","Natalie Poole","D-I","Sun Belt",22,29,0,0.431
+"3","Southern Miss.","664","2023","Natalie Poole","D-I","Sun Belt",22,24,0,0.478
+"4","Southern Miss.","664","2022","Brian Levin","D-I","CUSA",29,23,0,0.558
+"5","Southern Miss.","664","2021","Brian Levin","D-I","CUSA",22,31,0,0.415
+"6","Southern Miss.","664","2020","Brian Levin","D-I","CUSA",14,8,0,0.636
+"7","Southern Miss.","664","2019","Wendy Hogue","D-I","CUSA",30,22,0,0.577
+"8","Southern Miss.","664","2018","Wendy Hogue","D-I","CUSA",19,36,NA,0.345
+"9","Southern Miss.","664","2017","Wendy Hogue","D-I","CUSA",27,26,0,0.509
+"10","Southern Miss.","664","2016","Wendy Hogue","D-I","CUSA",30,28,0,0.517
+"11","Southern Miss.","664","2015","Wendy Hogue","D-I","CUSA",18,34,0,0.346
+"12","Southern Miss.","664","2014","Jon Malgradi (22-31)Kristen Voak (22-31)","D-I","CUSA",22,31,0,0.415
+"13","Southern Miss.","664","2013","Kristen Voak (14-41)Jon Malgradi (14-41)","D-I","CUSA",14,41,0,0.255
+"14","Southern Miss.","664","2012","Kristen Voak (13-34)Jon Malgradi (13-34)","D-I","CUSA",13,34,0,0.277
+"15","Southern Miss.","664","2011","Howard Dobson","D-I","CUSA",17,38,0,0.309
+"16","Southern Miss.","664","2010","Howard Dobson","D-I","CUSA",25,28,0,0.472
+"17","Southern Miss.","664","2009","Howard Dobson","D-I","CUSA",26,28,2,0.482
+"18","Southern Miss.","664","2008","Howard Dobson","D-I","CUSA",25,30,0,0.455
+"19","Southern Miss.","664","2007","Gay McNutt","D-I","CUSA",18,38,0,0.321
+"20","Southern Miss.","664","2006","Gay McNutt","D-I","CUSA",29,38,0,0.433
+"21","Southern Miss.","664","2005","Gay McNutt","D-I","CUSA",29,32,0,0.475
+"22","Southern Miss.","664","2004","Gay McNutt","D-I","CUSA",33,26,0,0.559
+"23","Southern Miss.","664","2003","Gay McNutt","D-I","CUSA",28,30,0,0.483
+"24","Southern Miss.","664","2002","Gay McNutt","D-I","CUSA",28,35,0,0.444
+"25","Southern Miss.","664","2001","Gay McNutt","D-I","CUSA",46,21,0,0.687
+"26","Southern Miss.","664","1900","Lu Harris-Champer","D-I","-",63,13,0,0.829
+"27","Southern Miss.","664","1999","Lu Harris-Champer","D-I","-",52,9,0,0.852
+"28","Southern Miss.","664","1998","","D-I","-",NA,NA,NA,NA
+"29","Southern Miss.","664","1997","","D-I","-",NA,NA,NA,NA
+"30","Southern Miss.","664","1996","","D-I","-",NA,NA,NA,NA
+"31","Southern Miss.","664","1995","","D-I","-",NA,NA,NA,NA
+"32","Southern Miss.","664","1994","","D-I","-",NA,NA,NA,NA
+"33","Southern Miss.","664","1993","","D-I","-",NA,NA,NA,NA
+"34","Southern Miss.","664","1992","Helen Grant","D-I","-",18,20,NA,0.474
+"35","Southern Miss.","664","1991","Helen Grant","D-I","-",29,30,NA,0.492
+"36","Southern Miss.","664","1990","Helen Grant","D-I","-",20,43,NA,0.317
+"37","Southern Miss.","664","1989","Helen Grant","D-I","-",11,45,NA,0.196
+"38","Southern Miss.","664","1988","Helen Grant","D-I","-",8,34,NA,0.19
+"39","Southern Miss.","664","1987","Helen Grant","D-I","-",8,35,NA,0.186
+"40","Southern Miss.","664","1986","","","-",NA,NA,NA,NA
+"41","Southern Miss.","664","1985","","","-",NA,NA,NA,NA
+"42","Southern Miss.","664","1984","","","-",NA,NA,NA,NA
+"43","Southern Miss.","664","","","","",796,941,2,0.458

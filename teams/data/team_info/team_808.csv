@@ -1,46 +1,48 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Heather Ross","NEWMAC","20-20-0",0.5
-"2",2022,"Heather Ross","NEWMAC","35-17-0",0.673
-"3",2021,"Whitney Goldstein","NEWMAC","10-6-0",0.625
-"4",2020,"Whitney Goldstein","NEWMAC","3-1-0",0.75
-"5",2019,"Whitney Goldstein","NEWMAC","33-11-0",0.75
-"6",2018,"Whitney Goldstein","NEWMAC","29-13-0",0.69
-"7",2017,"Whitney Goldstein","NEWMAC","29-13-0",0.69
-"8",2016,"Whitney Goldstein","NEWMAC","38-9-0",0.809
-"9",2015,"Whitney Goldstein","NEWMAC","34-11-0",0.756
-"10",2014,"Whitney Goldstein","NEWMAC","30-14-0",0.682
-"11",2013,"George Legacy","NEWMAC","11-23-0",0.324
-"12",2012,"George Legacy","NEWMAC","24-16-0",0.6
-"13",2011,"George Legacy","NEWMAC","21-18-0",0.538
-"14",2010,"George Legacy","NEWMAC","15-20-0",0.429
-"15",2009,"George Legacy","NEWMAC","16-23-0",0.41
-"16",2008,"George Legacy","NEWMAC","14-20-0",0.412
-"17",2007,"Johanna DiCarlo","NEWMAC","16-14-0",0.533
-"18",2006,"Johanna DiCarlo","NEWMAC","23-14-0",0.622
-"19",2005,"Johanna DiCarlo","NEWMAC","20-15-1",0.571
-"20",2004,"Johanna DiCarlo","NEWMAC","11-20-0",0.355
-"21",2003,"Barbara A. Quinn","NEWMAC","0-26-0",0
-"22",2002,"Barbara A. Quinn","NEWMAC","0-17-0",0
-"23",2001,"Barbara A. Quinn","-","0-0-0",NA
-"24",2000,"Barbara A. Quinn","-","3-19-0",0.136
-"25",1999,"Barbara A. Quinn","-","7-20-0",0.259
-"26",1998,"Barbara A. Quinn","-","1-18-0",0.053
-"27",1997,"Barbara A. Quinn","-","5-21-0",0.192
-"28",1996,"Barbara A. Quinn","-","7-13-0",0.35
-"29",1995,"Barbara A. Quinn","-","11-18-0",0.379
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"Karen Frey","-","12-7-0",0.632
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"Lynne Olson","-","8-10-0",0.444
-"40",1984,"Lynne Olson","-","6-7-0",0.462
-"41",1983,"Lynne Olson","-","27-15-0",0.643
-"42",1982,"Lynne Olson","-","10-7-0",0.588
-"43",1981,"Lynne Olson","-","1-1-0",0.5
-"44",1980,"Lynne Olson","-","1-1-0",0.5
-"45",2024,"Heather Ross","NEWMAC","23-19-1",0.548
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","WPI","808","2025","Heather Ross","D-III","NEWMAC",0,0,0,0
+"2","WPI","808","2024","Heather Ross","D-III","NEWMAC",23,19,1,0.547
+"3","WPI","808","2023","Heather Ross","D-III","NEWMAC",20,20,0,0.5
+"4","WPI","808","2022","Heather Ross","D-III","NEWMAC",35,17,0,0.673
+"5","WPI","808","2021","Whitney Goldstein","D-III","NEWMAC",10,6,0,0.625
+"6","WPI","808","2020","Whitney Goldstein","D-III","NEWMAC",3,1,0,0.75
+"7","WPI","808","2019","Whitney Goldstein","D-III","NEWMAC",33,11,0,0.75
+"8","WPI","808","2018","Whitney Goldstein","D-III","NEWMAC",29,13,NA,0.69
+"9","WPI","808","2017","Whitney Goldstein","D-III","NEWMAC",29,13,0,0.69
+"10","WPI","808","2016","Whitney Goldstein","D-III","NEWMAC",38,9,0,0.809
+"11","WPI","808","2015","Whitney Goldstein","D-III","NEWMAC",34,11,0,0.756
+"12","WPI","808","2014","Whitney Goldstein","D-III","NEWMAC",30,14,0,0.682
+"13","WPI","808","2013","George Legacy","D-III","NEWMAC",11,23,0,0.324
+"14","WPI","808","2012","George Legacy","D-III","NEWMAC",24,16,0,0.6
+"15","WPI","808","2011","George Legacy","D-III","NEWMAC",21,18,0,0.538
+"16","WPI","808","2010","George Legacy","D-III","NEWMAC",15,20,0,0.429
+"17","WPI","808","2009","George Legacy","D-III","NEWMAC",16,23,0,0.41
+"18","WPI","808","2008","George Legacy","D-III","NEWMAC",14,20,0,0.412
+"19","WPI","808","2007","Johanna DiCarlo","D-III","NEWMAC",16,14,0,0.533
+"20","WPI","808","2006","Johanna DiCarlo","D-III","NEWMAC",23,14,0,0.622
+"21","WPI","808","2005","Johanna DiCarlo","D-III","NEWMAC",20,15,1,0.569
+"22","WPI","808","2004","Johanna DiCarlo","D-III","NEWMAC",11,20,0,0.355
+"23","WPI","808","2003","Barbara A. Quinn","D-III","NEWMAC",0,26,0,0
+"24","WPI","808","2002","Barbara A. Quinn","D-III","NEWMAC",0,17,0,0
+"25","WPI","808","2001","Barbara A. Quinn","D-III","-",NA,NA,NA,NA
+"26","WPI","808","1900","Barbara A. Quinn","D-III","-",3,19,NA,0.136
+"27","WPI","808","1999","Barbara A. Quinn","D-III","-",7,20,NA,0.259
+"28","WPI","808","1998","Barbara A. Quinn","D-III","-",1,18,NA,0.053
+"29","WPI","808","1997","Barbara A. Quinn","D-III","-",5,21,NA,0.192
+"30","WPI","808","1996","Barbara A. Quinn","D-III","-",7,13,NA,0.35
+"31","WPI","808","1995","Barbara A. Quinn","D-III","-",11,18,NA,0.379
+"32","WPI","808","1994","","D-III","-",NA,NA,NA,NA
+"33","WPI","808","1993","","D-III","-",NA,NA,NA,NA
+"34","WPI","808","1992","Karen Frey","D-III","-",12,7,NA,0.632
+"35","WPI","808","1991","","D-III","-",NA,NA,NA,NA
+"36","WPI","808","1990","","D-III","-",NA,NA,NA,NA
+"37","WPI","808","1989","","D-III","-",NA,NA,NA,NA
+"38","WPI","808","1988","","D-III","-",NA,NA,NA,NA
+"39","WPI","808","1987","","D-III","-",NA,NA,NA,NA
+"40","WPI","808","1986","","D-III","-",NA,NA,NA,NA
+"41","WPI","808","1985","Lynne Olson","D-III","-",8,10,NA,0.444
+"42","WPI","808","1984","Lynne Olson","D-III","-",6,7,NA,0.462
+"43","WPI","808","1983","Lynne Olson","D-III","-",27,15,NA,0.643
+"44","WPI","808","1982","Lynne Olson","D-III","-",10,7,NA,0.588
+"45","WPI","808","1981","Lynne Olson","D-III","-",1,1,NA,0.5
+"46","WPI","808","1980","Lynne Olson","D-III","-",1,1,NA,0.5
+"47","WPI","808","","","","",554,517,2,0.517

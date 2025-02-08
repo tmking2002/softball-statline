@@ -1,24 +1,27 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Tracey Marshall","CUNYAC","1-23-0","0.042"
-"2","2022","Tracey Marshall","CUNYAC","0-18-0","0.000"
-"3","2021","Tracey Marshall","CUNYAC","0-0-0","  NaN"
-"4","2020","Tracey Marshall","CUNYAC","0-0-0","  NaN"
-"5","2019","Tracey Marshall","CUNYAC","1-23-0","0.042"
-"6","2018","Tracey Marshall","CUNYAC","1-24-0","0.040"
-"7","2017","Patrick Malia","CUNYAC","1-23-0","0.042"
-"8","2016","Patrick Malia","CUNYAC","3-24-0","0.111"
-"9","2015","Tracey Marshall","CUNYAC","3-22-0","0.120"
-"10","2014","Tracey Marshall","CUNYAC","7-21-0","0.250"
-"11","2013","Tracey Marshall","CUNYAC","7-22-0","0.241"
-"12","2012","Tracey Marshall","CUNYAC","6-22-0","0.214"
-"13","2011","Tracey Marshall","CUNYAC","7-21-0","0.250"
-"14","2010","Tracey Marshall","CUNYAC","8-21-0","0.276"
-"15","2009","Tracey Marshall","CUNYAC","2-22-0","0.083"
-"16","2008","Tracey Marshall","CUNYAC","5-12-0","0.294"
-"17","2007","Tracey Marshall","CUNYAC","4-6-0","0.400"
-"18","2006","","CUNYAC","4-11-0","0.267"
-"19","2005","","CUNYAC","0-0-0","  NaN"
-"20","2004","","CUNYAC","4-12-0","0.250"
-"21","2003","","-","0-0-0","  NaN"
-"22","2002","","-","0-0-0","  NaN"
-"23","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","York (NY)","2730","2025","Tracey Marshall","D-III","CUNYAC",0,0,0,0
+"2","York (NY)","2730","2024","Tracey Marshall","D-III","CUNYAC",4,20,0,0.167
+"3","York (NY)","2730","2023","Tracey Marshall","D-III","CUNYAC",1,23,0,0.042
+"4","York (NY)","2730","2022","Tracey Marshall","D-III","CUNYAC",0,18,0,0
+"5","York (NY)","2730","2021","Tracey Marshall","D-III","CUNYAC",0,0,0,0
+"6","York (NY)","2730","2020","Tracey Marshall","D-III","CUNYAC",NA,NA,NA,0
+"7","York (NY)","2730","2019","Tracey Marshall","D-III","CUNYAC",1,23,0,0.042
+"8","York (NY)","2730","2018","Tracey Marshall","D-III","CUNYAC",1,24,NA,0.04
+"9","York (NY)","2730","2017","Patrick Malia","D-III","CUNYAC",1,23,0,0.042
+"10","York (NY)","2730","2016","Patrick Malia","D-III","CUNYAC",3,24,0,0.111
+"11","York (NY)","2730","2015","Tracey Marshall","D-III","CUNYAC",3,22,0,0.12
+"12","York (NY)","2730","2014","Tracey Marshall","D-III","CUNYAC",7,21,0,0.25
+"13","York (NY)","2730","2013","Tracey Marshall","D-III","CUNYAC",7,22,0,0.241
+"14","York (NY)","2730","2012","Tracey Marshall","D-III","CUNYAC",6,22,0,0.214
+"15","York (NY)","2730","2011","Tracey Marshall","D-III","CUNYAC",7,21,0,0.25
+"16","York (NY)","2730","2010","Tracey Marshall","D-III","CUNYAC",8,21,0,0.276
+"17","York (NY)","2730","2009","Tracey Marshall","D-III","CUNYAC",2,22,0,0.083
+"18","York (NY)","2730","2008","Tracey Marshall","D-III","CUNYAC",5,12,0,0.294
+"19","York (NY)","2730","2007","Tracey Marshall","D-III","CUNYAC",4,6,0,0.4
+"20","York (NY)","2730","2006","","D-III","CUNYAC",4,11,0,0.267
+"21","York (NY)","2730","2005","","D-III","CUNYAC",NA,NA,NA,NA
+"22","York (NY)","2730","2004","","D-III","CUNYAC",4,12,0,0.25
+"23","York (NY)","2730","2003","","","-",NA,NA,NA,NA
+"24","York (NY)","2730","2002","","","-",NA,NA,NA,NA
+"25","York (NY)","2730","1983","","","-",NA,NA,NA,NA
+"26","York (NY)","2730","","","","",68,347,0,0.164

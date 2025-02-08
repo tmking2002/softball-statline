@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Mark Montgomery","Big Ten","38-19-0","0.667"
-"2","2022","Mark Montgomery","Big Ten","29-23-0","0.558"
-"3","2021","Mark Montgomery","Big Ten","19-25-0","0.432"
-"4","2020","Mark Montgomery","Big Ten","12-11-0","0.522"
-"5","2019","Julie Wright","Big Ten","20-31-0","0.392"
-"6","2018","Julie Wright","Big Ten","18-37-0","0.327"
-"7","2017","Julie Wright","Big Ten","11-39-1","0.220"
-"8","2016","Julie Wright","Big Ten","12-40-0","0.231"
-"9","2015","Courtney Deifel","Big Ten","27-27-0","0.500"
-"10","2014","Laura Watten","ACC","11-35-0","0.239"
-"11","2013","Laura Watten","ACC","39-27-0","0.591"
-"12","2012","Laura Watten","ACC","34-22-0","0.607"
-"13","2011","Laura Watten","ACC","40-19-0","0.678"
-"14","2010","Laura Watten","ACC","34-24-0","0.586"
-"15","2009","Laura Watten","ACC","29-26-0","0.527"
-"16","2008","Laura Watten","ACC","36-23-0","0.610"
-"17","2007","Laura Watten","ACC","33-26-0","0.559"
-"18","2006","Laura Watten","ACC","32-27-0","0.542"
-"19","2005","Gina LaMandre","ACC","28-21-0","0.571"
-"20","2004","Gina LaMandre","ACC","33-27-0","0.550"
-"21","2003","Gina LaMandre","ACC","27-18-0","0.600"
-"22","2002","Gina LaMandre","ACC","31-21-0","0.596"
-"23","2001","Gina LaMandre","ACC","40-23-0","0.635"
-"24","2000","Gina LaMandre","ACC","27-28-0","0.491"
-"25","1999","Gina LaMandre","ACC","51-23-0","0.689"
-"26","1998","Gina LaMandre","-","28-22-0","0.560"
-"27","1997","Gina LaMandre","ACC","26-23-0","0.531"
-"28","1996","Gina LaMandre","-","33-24-1","0.579"
-"29","1995","Gina LaMandre","-","14-29-0","0.326"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Maryland","392","2025","Lauren Karn","D-I","Big Ten",3,1,0,0.75
+"2","Maryland","392","2024","Lauren Karn","D-I","Big Ten",24,30,0,0.444
+"3","Maryland","392","2023","Mark Montgomery","D-I","Big Ten",38,19,0,0.667
+"4","Maryland","392","2022","Mark Montgomery","D-I","Big Ten",29,23,0,0.558
+"5","Maryland","392","2021","Mark Montgomery","D-I","Big Ten",19,25,0,0.432
+"6","Maryland","392","2020","Mark Montgomery","D-I","Big Ten",12,11,0,0.522
+"7","Maryland","392","2019","Julie Wright","D-I","Big Ten",20,31,0,0.392
+"8","Maryland","392","2018","Julie Wright","D-I","Big Ten",18,37,NA,0.327
+"9","Maryland","392","2017","Julie Wright","D-I","Big Ten",11,39,1,0.225
+"10","Maryland","392","2016","Julie Wright","D-I","Big Ten",12,40,0,0.231
+"11","Maryland","392","2015","Courtney Deifel","D-I","Big Ten",27,27,0,0.5
+"12","Maryland","392","2014","Laura Watten","D-I","ACC",11,35,0,0.239
+"13","Maryland","392","2013","Laura Watten","D-I","ACC",39,27,0,0.591
+"14","Maryland","392","2012","Laura Watten","D-I","ACC",34,22,0,0.607
+"15","Maryland","392","2011","Laura Watten","D-I","ACC",40,19,0,0.678
+"16","Maryland","392","2010","Laura Watten","D-I","ACC",34,24,0,0.586
+"17","Maryland","392","2009","Laura Watten","D-I","ACC",29,26,0,0.527
+"18","Maryland","392","2008","Laura Watten","D-I","ACC",36,23,0,0.61
+"19","Maryland","392","2007","Laura Watten","D-I","ACC",33,26,0,0.559
+"20","Maryland","392","2006","Laura Watten","D-I","ACC",32,27,0,0.542
+"21","Maryland","392","2005","Gina LaMandre","D-I","ACC",28,21,0,0.571
+"22","Maryland","392","2004","Gina LaMandre","D-I","ACC",33,27,0,0.55
+"23","Maryland","392","2003","Gina LaMandre","D-I","ACC",27,18,0,0.6
+"24","Maryland","392","2002","Gina LaMandre","D-I","ACC",31,21,0,0.596
+"25","Maryland","392","2001","Gina LaMandre","D-I","ACC",40,23,0,0.635
+"26","Maryland","392","1900","Gina LaMandre","D-I","ACC",27,28,0,0.491
+"27","Maryland","392","1999","Gina LaMandre","D-I","ACC",51,23,0,0.689
+"28","Maryland","392","1998","Gina LaMandre","D-I","-",28,22,NA,0.56
+"29","Maryland","392","1997","Gina LaMandre","D-I","ACC",26,23,0,0.531
+"30","Maryland","392","1996","Gina LaMandre","D-I","-",33,24,1,0.578
+"31","Maryland","392","1995","Gina LaMandre","D-I","-",14,29,NA,0.326
+"32","Maryland","392","1994","","D-I","-",NA,NA,NA,NA
+"33","Maryland","392","1993","","D-I","-",NA,NA,NA,NA
+"34","Maryland","392","1992","","D-I","-",NA,NA,NA,NA
+"35","Maryland","392","1991","","D-I","-",NA,NA,NA,NA
+"36","Maryland","392","1990","","D-I","-",NA,NA,NA,NA
+"37","Maryland","392","","","","",839,771,2,0.521

@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jake Schumann","GLIAC","23-33-0",0.411
-"2",2022,"Kristin Janes","GLIAC","19-32-0",0.373
-"3",2021,"Kristin Janes","GLIAC","15-27-0",0.357
-"4",2020,"Kristin Janes","GLIAC","8-10-0",0.444
-"5",2019,"Kristin Janes","GLIAC","20-35-0",0.364
-"6",2018,"Kristin Janes","GLIAC","17-31-0",0.354
-"7",2017,"Adam Kirkpatrick","GLIAC","18-23-0",0.439
-"8",2016,"Wally King","GLIAC","36-18-0",0.667
-"9",2015,"Dawn Thompson","GLIAC","16-36-0",0.308
-"10",2014,"Dawn Thompson","GLIAC","13-21-0",0.382
-"11",2013,"Dawn Thompson","GLIAC","29-16-0",0.644
-"12",2012,"Dawn Thompson","GLIAC","31-24-0",0.564
-"13",2011,"Keri Becker","GLIAC","24-23-0",0.511
-"14",2010,"Keri Becker","GLIAC","26-16-0",0.619
-"15",2009,"Keri Becker","GLIAC","35-10-0",0.778
-"16",2008,"Keri Becker","GLIAC","35-18-0",0.66
-"17",2007,"Keri Becker","GLIAC","31-17-0",0.646
-"18",2006,"Keri Becker","GLIAC","26-26-0",0.5
-"19",2005,"Keri Becker","GLIAC","31-20-0",0.608
-"20",2004,"Keri Becker","GLIAC","24-21-1",0.533
-"21",2003,"Lesa Bickley (18-29-1)Chad Haberland (18-29-1)","GLIAC","18-29-1",0.383
-"22",2002,"Keri Becker","-","16-29-0",0.356
-"23",2001,"Keri Becker","-","22-23-0",0.489
-"24",2000,"Keri Becker","-","33-18-0",0.647
-"25",1999,"Keri Becker","-","46-18-0",0.719
-"26",1998,"Keri Becker","-","44-17-0",0.721
-"27",1997,"Keri Becker","-","40-20-0",0.667
-"28",1996,"Bo Kuntz","-","25-34-0",0.424
-"29",1995,"Sue Dilsworth","-","30-17-0",0.638
-"30",1994,"Sue Dilsworth","-","29-26-0",0.527
-"31",1993,"Sue Dilsworth","-","11-28-0",0.282
-"32",1992,"Sue Dilsworth","-","8-20-1",0.286
-"33",1991,"Sue Dilsworth","-","10-27-0",0.27
-"34",1990,"Sue Dilsworth","-","14-21-0",0.4
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"Carol Hutchins","-","23-11-0",0.676
-"43",2024,"Jake Schumann","GLIAC","22-20-0",0.524
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ferris St.","224","2025","Jake Schumann","D-II","GLIAC",2,3,0,0.4
+"2","Ferris St.","224","2024","Jake Schumann","D-II","GLIAC",25,27,0,0.481
+"3","Ferris St.","224","2023","Jake Schumann","D-II","GLIAC",23,33,0,0.411
+"4","Ferris St.","224","2022","Kristin Janes","D-II","GLIAC",19,32,0,0.373
+"5","Ferris St.","224","2021","Kristin Janes","D-II","GLIAC",15,27,0,0.357
+"6","Ferris St.","224","2020","Kristin Janes","D-II","GLIAC",8,10,0,0.444
+"7","Ferris St.","224","2019","Kristin Janes","D-II","GLIAC",20,35,0,0.364
+"8","Ferris St.","224","2018","Kristin Janes","D-II","GLIAC",17,31,NA,0.354
+"9","Ferris St.","224","2017","Adam Kirkpatrick","D-II","GLIAC",18,23,0,0.439
+"10","Ferris St.","224","2016","Wally King","D-II","GLIAC",36,18,0,0.667
+"11","Ferris St.","224","2015","Dawn Thompson","D-II","GLIAC",16,36,0,0.308
+"12","Ferris St.","224","2014","Dawn Thompson","D-II","GLIAC",13,21,0,0.382
+"13","Ferris St.","224","2013","Dawn Thompson","D-II","GLIAC",29,16,0,0.644
+"14","Ferris St.","224","2012","Dawn Thompson","D-II","GLIAC",31,24,0,0.564
+"15","Ferris St.","224","2011","Keri Becker","D-II","GLIAC",24,23,0,0.511
+"16","Ferris St.","224","2010","Keri Becker","D-II","GLIAC",26,16,0,0.619
+"17","Ferris St.","224","2009","Keri Becker","D-II","GLIAC",35,10,0,0.778
+"18","Ferris St.","224","2008","Keri Becker","D-II","GLIAC",35,18,0,0.66
+"19","Ferris St.","224","2007","Keri Becker","D-II","GLIAC",31,17,0,0.646
+"20","Ferris St.","224","2006","Keri Becker","D-II","GLIAC",26,26,0,0.5
+"21","Ferris St.","224","2005","Keri Becker","D-II","GLIAC",31,20,0,0.608
+"22","Ferris St.","224","2004","Keri Becker","D-II","GLIAC",24,21,1,0.533
+"23","Ferris St.","224","2003","Lesa Bickley (18-29-1)Chad Haberland (18-29-1)","D-II","GLIAC",18,29,1,0.385
+"24","Ferris St.","224","2002","Keri Becker","D-II","-",16,29,0,0.356
+"25","Ferris St.","224","2001","Keri Becker","D-II","-",22,23,0,0.489
+"26","Ferris St.","224","1900","Keri Becker","D-II","-",33,18,0,0.647
+"27","Ferris St.","224","1999","Keri Becker","D-II","-",46,18,0,0.719
+"28","Ferris St.","224","1998","Keri Becker","D-II","-",44,17,0,0.721
+"29","Ferris St.","224","1997","Keri Becker","D-II","-",40,20,0,0.667
+"30","Ferris St.","224","1996","Bo Kuntz","D-II","-",25,34,0,0.424
+"31","Ferris St.","224","1995","Sue Dilsworth","D-II","-",30,17,0,0.638
+"32","Ferris St.","224","1994","Sue Dilsworth","D-II","-",29,26,0,0.527
+"33","Ferris St.","224","1993","Sue Dilsworth","D-II","-",11,28,0,0.282
+"34","Ferris St.","224","1992","Sue Dilsworth","D-II","-",8,20,1,0.293
+"35","Ferris St.","224","1991","Sue Dilsworth","D-II","-",10,27,0,0.27
+"36","Ferris St.","224","1990","Sue Dilsworth","D-II","-",14,21,0,0.4
+"37","Ferris St.","224","1989","","D-II","-",NA,NA,NA,NA
+"38","Ferris St.","224","1988","","D-II","-",NA,NA,NA,NA
+"39","Ferris St.","224","1987","","D-II","-",NA,NA,NA,NA
+"40","Ferris St.","224","1986","","D-II","-",NA,NA,NA,NA
+"41","Ferris St.","224","1985","","D-II","-",NA,NA,NA,NA
+"42","Ferris St.","224","1984","","D-II","-",NA,NA,NA,NA
+"43","Ferris St.","224","1983","","D-II","-",NA,NA,NA,NA
+"44","Ferris St.","224","1982","Carol Hutchins","D-II","-",23,11,NA,0.676
+"45","Ferris St.","224","","","","",873,825,3,0.514

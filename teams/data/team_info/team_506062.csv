@@ -1,9 +1,10 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2021",NA,"-","0-0-0",0
-"3","2012",NA,"-","0-0-0",NA
-"4","2010",NA,"-","0-0-0",NA
-"5","2007",NA,"-","0-0-0",NA
-"6","2005",NA,"-","0-0-0",NA
-"7","2003",NA,"-","0-0-0",NA
-"8","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Graceland (IA)","506062","2023",NA,NA,"-",NA,NA,NA,0
+"2","Graceland (IA)","506062","2021",NA,NA,"-",NA,NA,NA,0
+"3","Graceland (IA)","506062","2012",NA,NA,"-",NA,NA,NA,NA
+"4","Graceland (IA)","506062","2010",NA,NA,"-",NA,NA,NA,NA
+"5","Graceland (IA)","506062","2007",NA,NA,"-",NA,NA,NA,NA
+"6","Graceland (IA)","506062","2005",NA,NA,"-",NA,NA,NA,NA
+"7","Graceland (IA)","506062","2003",NA,NA,"-",NA,NA,NA,NA
+"8","Graceland (IA)","506062","2002",NA,NA,"-",NA,NA,NA,NA
+"9","Graceland (IA)","506062","",NA,NA,"",0,0,0,0

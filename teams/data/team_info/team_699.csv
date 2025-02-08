@@ -1,31 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Raven Rodriguez","SWAC","16-25-0",0.39
-"2",2022,"Raven Rodriguez","SWAC","26-20-0",0.565
-"3",2021,"Worley Barker","SWAC","17-20-0",0.459
-"4",2020,"Worley Barker","SWAC","8-14-0",0.364
-"5",2019,"Worley Barker","SWAC","25-27-0",0.481
-"6",2018,"Worley Barker","SWAC","24-18-1",0.571
-"7",2017,"Worley Barker","SWAC","25-21-0",0.543
-"8",2016,"Worley Barker","SWAC","26-18-0",0.591
-"9",2015,"Worley Barker","SWAC","25-18-0",0.581
-"10",2014,"Worley Barker","SWAC","31-20-0",0.608
-"11",2013,"Worley Barker","SWAC","33-16-0",0.673
-"12",2012,"Worley Barker","SWAC","28-16-0",0.636
-"13",2011,"Worley Barker","SWAC","26-29-0",0.473
-"14",2010,"Worley Barker","SWAC","21-20-0",0.512
-"15",2009,"Worley Barker","SWAC","7-31-0",0.184
-"16",2008,"Worley Barker","SWAC","7-24-0",0.226
-"17",2007,"Worley Barker","SWAC","11-23-0",0.324
-"18",2006,"Worley Barker","SWAC","13-36-0",0.265
-"19",2005,"Worley Barker","SWAC","16-31-0",0.34
-"20",2004,"Yolanda Sinegal","SWAC","11-37-0",0.229
-"21",2003,"Yolanda Sinegal","SWAC","8-31-0",0.205
-"22",2002,"Yolanda Sinegal","SWAC","19-17-0",0.528
-"23",2001,"Yolanda Sinegal","SWAC","24-34-0",0.414
-"24",2000,"Yolanda Sinegal","SWAC","24-29-0",0.453
-"25",1999,"","SWAC","9-23-0",0.281
-"26",1998,"Rick Holden","-","6-22-0",0.214
-"27",1997,"Rick Holden","SWAC","10-19-0",0.345
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",2024,"Raven Rodriguez","SWAC","21-19-0",0.525
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Texas Southern","699","2025","Raven Rodriguez","D-I","SWAC",0,0,0,0
+"2","Texas Southern","699","2024","Raven Rodriguez","D-I","SWAC",21,19,0,0.525
+"3","Texas Southern","699","2023","Raven Rodriguez","D-I","SWAC",16,25,0,0.39
+"4","Texas Southern","699","2022","Raven Rodriguez","D-I","SWAC",26,20,0,0.565
+"5","Texas Southern","699","2021","Worley Barker","D-I","SWAC",17,20,0,0.459
+"6","Texas Southern","699","2020","Worley Barker","D-I","SWAC",8,14,0,0.364
+"7","Texas Southern","699","2019","Worley Barker","D-I","SWAC",25,27,0,0.481
+"8","Texas Southern","699","2018","Worley Barker","D-I","SWAC",24,18,1,0.57
+"9","Texas Southern","699","2017","Worley Barker","D-I","SWAC",25,21,0,0.543
+"10","Texas Southern","699","2016","Worley Barker","D-I","SWAC",26,18,0,0.591
+"11","Texas Southern","699","2015","Worley Barker","D-I","SWAC",25,18,0,0.581
+"12","Texas Southern","699","2014","Worley Barker","D-I","SWAC",31,20,0,0.608
+"13","Texas Southern","699","2013","Worley Barker","D-I","SWAC",33,16,0,0.673
+"14","Texas Southern","699","2012","Worley Barker","D-I","SWAC",28,16,0,0.636
+"15","Texas Southern","699","2011","Worley Barker","D-I","SWAC",26,29,0,0.473
+"16","Texas Southern","699","2010","Worley Barker","D-I","SWAC",21,20,0,0.512
+"17","Texas Southern","699","2009","Worley Barker","D-I","SWAC",7,31,0,0.184
+"18","Texas Southern","699","2008","Worley Barker","D-I","SWAC",7,24,0,0.226
+"19","Texas Southern","699","2007","Worley Barker","D-I","SWAC",11,23,0,0.324
+"20","Texas Southern","699","2006","Worley Barker","D-I","SWAC",13,36,0,0.265
+"21","Texas Southern","699","2005","Worley Barker","D-I","SWAC",16,31,0,0.34
+"22","Texas Southern","699","2004","Yolanda Sinegal","D-I","SWAC",11,37,0,0.229
+"23","Texas Southern","699","2003","Yolanda Sinegal","D-I","SWAC",8,31,0,0.205
+"24","Texas Southern","699","2002","Yolanda Sinegal","D-I","SWAC",19,17,0,0.528
+"25","Texas Southern","699","2001","Yolanda Sinegal","D-I","SWAC",24,34,0,0.414
+"26","Texas Southern","699","1900","Yolanda Sinegal","D-I","SWAC",24,29,0,0.453
+"27","Texas Southern","699","1999","","D-I","SWAC",9,23,0,0.281
+"28","Texas Southern","699","1998","Rick Holden","D-I","-",6,22,NA,0.214
+"29","Texas Southern","699","1997","Rick Holden","D-I","SWAC",10,19,0,0.345
+"30","Texas Southern","699","1996","","D-I","-",NA,NA,NA,NA
+"31","Texas Southern","699","1995","","D-I","-",NA,NA,NA,NA
+"32","Texas Southern","699","","","","",517,658,1,0.44

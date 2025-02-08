@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kiki Stokes O'Connor","Summit League","9-43-0",0.173
-"2",2022,"Kerry Shaw","Summit League","13-34-0",0.277
-"3",2021,"Kerry Shaw","Summit League","29-26-0",0.527
-"4",2020,"Kerry Shaw","WAC","6-13-0",0.316
-"5",2019,"Meredith Smith","WAC","27-29-0",0.482
-"6",2018,"Meredith Smith","WAC","15-41-0",0.268
-"7",2017,"Meredith Smith","WAC","17-38-0",0.309
-"8",2016,"Meredith Smith","WAC","24-26-0",0.48
-"9",2015,"Meredith Smith","WAC","27-28-0",0.491
-"10",2014,"Meredith Smith","WAC","20-36-0",0.357
-"11",2013,"Meredith Smith","Summit League","18-27-0",0.4
-"12",2012,"Meredith Smith","Summit League","27-30-0",0.474
-"13",2011,"Meredith Smith","Summit League","38-16-0",0.704
-"14",2010,"Meredith Smith","Summit League","22-26-0",0.458
-"15",2009,"Meredith Smith","Summit League","20-34-0",0.37
-"16",2008,"Meredith Smith","Summit League","8-31-0",0.205
-"17",2007,"Meredith Smith","Summit League","4-46-0",0.08
-"18",2006,"Carla Marchetti","Summit League","11-44-0",0.2
-"19",2005,"Carla Marchetti","Summit League","12-47-0",0.203
-"20",2004,"Carla Marchetti","Summit League","9-41-0",0.18
-"21",2003,"Carla Marchetti","Summit League","17-40-0",0.298
-"22",2002,"Carla Marchetti","Summit League","33-26-0",0.559
-"23",2001,"Carla Marchetti","Summit League","18-35-0",0.34
-"24",2000,"Galen Struve","Summit League","26-30-0",0.464
-"25",1999,"Galen Struve","Summit League","22-29-0",0.431
-"26",1998,"Galen Struve","-","5-32-0",0.135
-"27",1997,"Galen Struve","Summit League","9-29-0",0.237
-"28",1996,"Roger Hunt","-","5-31-0",0.139
-"29",1995,"Roger Hunt","-","10-24-0",0.294
-"30",1994,"Roger Hunt","-","6-24-0",0.2
-"31",1993,"Roger Hunt","-","8-24-0",0.25
-"32",1992,"Roger Hunt","-","9-35-0",0.205
-"33",1991,"Roger Hunt","-","9-18-0",0.333
-"34",1990,"Gary Bates","-","5-22-0",0.185
-"35",1989,"Gary Bates (6-18)George Caley (-)","-","6-18-0",0.25
-"36",2024,"Kiki Stokes O'Connor","Summit League","23-30-0",0.434
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kansas City","2707","2025","Kiki Stokes O'Connor","D-I","Summit League",0,2,0,0
+"2","Kansas City","2707","2024","Kiki Stokes O'Connor","D-I","Summit League",23,31,0,0.426
+"3","Kansas City","2707","2023","Kiki Stokes O'Connor","D-I","Summit League",9,43,0,0.173
+"4","Kansas City","2707","2022","Kerry Shaw","D-I","Summit League",13,34,0,0.277
+"5","Kansas City","2707","2021","Kerry Shaw","D-I","Summit League",29,26,0,0.527
+"6","Kansas City","2707","2020","Kerry Shaw","D-I","WAC",6,13,0,0.316
+"7","Kansas City","2707","2019","Meredith Smith","D-I","WAC",27,29,0,0.482
+"8","Kansas City","2707","2018","Meredith Smith","D-I","WAC",15,41,NA,0.268
+"9","Kansas City","2707","2017","Meredith Smith","D-I","WAC",17,38,0,0.309
+"10","Kansas City","2707","2016","Meredith Smith","D-I","WAC",24,26,0,0.48
+"11","Kansas City","2707","2015","Meredith Smith","D-I","WAC",27,28,0,0.491
+"12","Kansas City","2707","2014","Meredith Smith","D-I","WAC",20,36,0,0.357
+"13","Kansas City","2707","2013","Meredith Smith","D-I","Summit League",18,27,0,0.4
+"14","Kansas City","2707","2012","Meredith Smith","D-I","Summit League",27,30,0,0.474
+"15","Kansas City","2707","2011","Meredith Smith","D-I","Summit League",38,16,0,0.704
+"16","Kansas City","2707","2010","Meredith Smith","D-I","Summit League",22,26,0,0.458
+"17","Kansas City","2707","2009","Meredith Smith","D-I","Summit League",20,34,0,0.37
+"18","Kansas City","2707","2008","Meredith Smith","D-I","Summit League",8,31,0,0.205
+"19","Kansas City","2707","2007","Meredith Smith","D-I","Summit League",4,46,0,0.08
+"20","Kansas City","2707","2006","Carla Marchetti","D-I","Summit League",11,44,0,0.2
+"21","Kansas City","2707","2005","Carla Marchetti","D-I","Summit League",12,47,0,0.203
+"22","Kansas City","2707","2004","Carla Marchetti","D-I","Summit League",9,41,0,0.18
+"23","Kansas City","2707","2003","Carla Marchetti","D-I","Summit League",17,40,NA,0.298
+"24","Kansas City","2707","2002","Carla Marchetti","D-I","Summit League",33,26,0,0.559
+"25","Kansas City","2707","2001","Carla Marchetti","D-I","Summit League",18,35,0,0.34
+"26","Kansas City","2707","1900","Galen Struve","D-I","Summit League",26,30,0,0.464
+"27","Kansas City","2707","1999","Galen Struve","D-I","Summit League",22,29,0,0.431
+"28","Kansas City","2707","1998","Galen Struve","D-I","-",5,32,0,0.135
+"29","Kansas City","2707","1997","Galen Struve","D-I","Summit League",9,29,0,0.237
+"30","Kansas City","2707","1996","Roger Hunt","D-I","-",5,31,NA,0.139
+"31","Kansas City","2707","1995","Roger Hunt","D-I","-",10,24,NA,0.294
+"32","Kansas City","2707","1994","Roger Hunt","D-I","-",6,24,NA,0.2
+"33","Kansas City","2707","1993","Roger Hunt","D-I","-",8,24,NA,0.25
+"34","Kansas City","2707","1992","Roger Hunt","D-I","-",9,35,NA,0.205
+"35","Kansas City","2707","1991","Roger Hunt","D-I","-",9,18,NA,0.333
+"36","Kansas City","2707","1990","Gary Bates","D-I","-",5,22,NA,0.185
+"37","Kansas City","2707","1989","Gary Bates (6-18)George Caley (-)","","-",6,18,NA,0.25
+"38","Kansas City","2707","","","","",567,1106,0,0.339

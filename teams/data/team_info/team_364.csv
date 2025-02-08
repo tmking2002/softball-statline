@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ashley Winter","American Rivers","21-15-0",0.583
-"2",2022,"Ashley Winter","American Rivers","22-10-0",0.688
-"3",2021,"Ashley Winter","American Rivers","2-27-0",0.069
-"4",2020,"Ashley Winter","American Rivers","6-6-0",0.5
-"5",2019,"Ashley Winter","American Rivers","10-27-1",0.27
-"6",2018,"Ashley Winter","American Rivers","19-20-0",0.487
-"7",2017,"Ashley Winter","American Rivers","23-13-0",0.639
-"8",2016,"Ashley Winter","American Rivers","17-21-0",0.447
-"9",2015,"Ashley Winter","American Rivers","19-19-0",0.5
-"10",2014,"Ashley Winter","American Rivers","13-21-0",0.382
-"11",2013,"Ashley Winter","American Rivers","12-19-0",0.387
-"12",2012,"Ashley Winter","American Rivers","20-18-0",0.526
-"13",2011,"Ashley Winter","American Rivers","17-23-0",0.425
-"14",2010,"Ashley Winter","American Rivers","16-21-0",0.432
-"15",2009,"Katie Koopmann","American Rivers","14-17-0",0.452
-"16",2008,"Katie Koopmann","American Rivers","11-15-0",0.423
-"17",2007,"Katie Koopmann","American Rivers","19-21-0",0.475
-"18",2006,"Sarah Anderson","American Rivers","15-23-0",0.395
-"19",2005,"Sarah Anderson","American Rivers","22-16-0",0.579
-"20",2004,"Sarah Anderson","American Rivers","13-26-0",0.333
-"21",2003,"Mary Jo Vrba","American Rivers","13-25-0",0.342
-"22",2002,"Mary Jo Vrba","American Rivers","14-22-0",0.389
-"23",2001,"Denise Udelhofen","-","12-20-1",0.375
-"24",2000,"Denise Udelhofen","-","22-20-0",0.524
-"25",1999,"Denise Udelhofen","-","18-19-0",0.486
-"26",1998,"Denise Udelhofen","-","25-11-0",0.694
-"27",1997,"Denise Udelhofen","-","19-12-0",0.613
-"28",1996,"Denise Udelhofen","-","18-23-0",0.439
-"29",1995,"Denise Udelhofen","-","19-20-0",0.487
-"30",1994,"Denise Udelhofen","-","22-18-0",0.55
-"31",1993,"Denise Udelhofen","-","15-10-0",0.6
-"32",1992,"Denise Udelhofen","-","13-20-0",0.394
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1981,"","-","0-0-0",NA
-"39",2024,"Ashley Winter","American Rivers","20-16-0",0.556
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Loras","364","2025","Ashley Winter","D-III","American Rivers",0,0,0,0
+"2","Loras","364","2024","Ashley Winter","D-III","American Rivers",20,16,0,0.556
+"3","Loras","364","2023","Ashley Winter","D-III","American Rivers",21,15,0,0.583
+"4","Loras","364","2022","Ashley Winter","D-III","American Rivers",22,10,0,0.688
+"5","Loras","364","2021","Ashley Winter","D-III","American Rivers",2,27,0,0.069
+"6","Loras","364","2020","Ashley Winter","D-III","American Rivers",6,6,0,0.5
+"7","Loras","364","2019","Ashley Winter","D-III","American Rivers",10,27,1,0.276
+"8","Loras","364","2018","Ashley Winter","D-III","American Rivers",19,20,NA,0.487
+"9","Loras","364","2017","Ashley Winter","D-III","American Rivers",23,13,0,0.639
+"10","Loras","364","2016","Ashley Winter","D-III","American Rivers",17,21,0,0.447
+"11","Loras","364","2015","Ashley Winter","D-III","American Rivers",19,19,0,0.5
+"12","Loras","364","2014","Ashley Winter","D-III","American Rivers",13,21,0,0.382
+"13","Loras","364","2013","Ashley Winter","D-III","American Rivers",12,19,0,0.387
+"14","Loras","364","2012","Ashley Winter","D-III","American Rivers",20,18,0,0.526
+"15","Loras","364","2011","Ashley Winter","D-III","American Rivers",17,23,0,0.425
+"16","Loras","364","2010","Ashley Winter","D-III","American Rivers",16,21,0,0.432
+"17","Loras","364","2009","Katie Koopmann","D-III","American Rivers",14,17,0,0.452
+"18","Loras","364","2008","Katie Koopmann","D-III","American Rivers",11,15,0,0.423
+"19","Loras","364","2007","Katie Koopmann","D-III","American Rivers",19,21,0,0.475
+"20","Loras","364","2006","Sarah Anderson","D-III","American Rivers",15,23,0,0.395
+"21","Loras","364","2005","Sarah Anderson","D-III","American Rivers",22,16,0,0.579
+"22","Loras","364","2004","Sarah Anderson","D-III","American Rivers",13,26,0,0.333
+"23","Loras","364","2003","Mary Jo Vrba","D-III","American Rivers",13,25,0,0.342
+"24","Loras","364","2002","Mary Jo Vrba","D-III","American Rivers",14,22,0,0.389
+"25","Loras","364","2001","Denise Udelhofen","D-III","-",12,20,1,0.379
+"26","Loras","364","1900","Denise Udelhofen","D-III","-",22,20,NA,0.524
+"27","Loras","364","1999","Denise Udelhofen","D-III","-",18,19,NA,0.486
+"28","Loras","364","1998","Denise Udelhofen","D-III","-",25,11,NA,0.694
+"29","Loras","364","1997","Denise Udelhofen","D-III","-",19,12,NA,0.613
+"30","Loras","364","1996","Denise Udelhofen","D-III","-",18,23,NA,0.439
+"31","Loras","364","1995","Denise Udelhofen","D-III","-",19,20,NA,0.487
+"32","Loras","364","1994","Denise Udelhofen","D-III","-",22,18,NA,0.55
+"33","Loras","364","1993","Denise Udelhofen","D-III","-",15,10,NA,0.6
+"34","Loras","364","1992","Denise Udelhofen","D-III","-",13,20,NA,0.394
+"35","Loras","364","1991","","D-III","-",NA,NA,NA,NA
+"36","Loras","364","1990","","D-III","-",NA,NA,NA,NA
+"37","Loras","364","1989","","D-III","-",NA,NA,NA,NA
+"38","Loras","364","1988","","D-III","-",NA,NA,NA,NA
+"39","Loras","364","1987","","D-III","-",NA,NA,NA,NA
+"40","Loras","364","1981","","","-",NA,NA,NA,NA
+"41","Loras","364","","","","",541,614,2,0.468

@@ -1,21 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2023","","-","0-0-0",0
-"3","2022","","-","0-0-0",0
-"4","2020","","-","0-0-0",0
-"5","2019","","-","0-0-0",0
-"6","2018","Kevin Jannusch","-","6-10-0",0.375
-"7","2016","","-","0-0-0",NA
-"8","2014","","-","0-0-0",NA
-"9","2013","","-","0-0-0",NA
-"10","2010","","-","0-0-0",NA
-"11","2008","","-","0-0-0",NA
-"12","2007","","-","0-0-0",NA
-"13","2006","","-","0-0-0",NA
-"14","2005","","-","0-0-0",NA
-"15","2004","","-","0-0-0",NA
-"16","2003","","-","0-0-0",NA
-"17","2002","","-","0-0-0",NA
-"18","1994","Kevin Blaskowski","-","33-16-0",0.673
-"19","1993","Kevin Blaskowski","-","28-16-0",0.636
-"20","1992","Kevin Blaskowski","-","34-19-0",0.642
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kan. Wesleyan","506103","2025","",NA,"-",NA,NA,NA,0
+"2","Kan. Wesleyan","506103","2024","",NA,"-",NA,NA,NA,0
+"3","Kan. Wesleyan","506103","2023","",NA,"-",NA,NA,NA,0
+"4","Kan. Wesleyan","506103","2022","",NA,"-",NA,NA,NA,0
+"5","Kan. Wesleyan","506103","2020","",NA,"-",NA,NA,NA,0
+"6","Kan. Wesleyan","506103","2019","",NA,"-",NA,NA,NA,0
+"7","Kan. Wesleyan","506103","2018","Kevin Jannusch",NA,"-",6,10,0,0.375
+"8","Kan. Wesleyan","506103","2017","Hailey Post",NA,"-",35,16,2,0.679
+"9","Kan. Wesleyan","506103","2016","",NA,"-",NA,NA,NA,NA
+"10","Kan. Wesleyan","506103","2014","",NA,"-",NA,NA,NA,NA
+"11","Kan. Wesleyan","506103","2013","",NA,"-",NA,NA,NA,NA
+"12","Kan. Wesleyan","506103","2010","",NA,"-",NA,NA,NA,NA
+"13","Kan. Wesleyan","506103","2008","",NA,"-",NA,NA,NA,NA
+"14","Kan. Wesleyan","506103","2007","",NA,"-",NA,NA,NA,NA
+"15","Kan. Wesleyan","506103","2006","",NA,"-",NA,NA,NA,NA
+"16","Kan. Wesleyan","506103","2005","",NA,"-",NA,NA,NA,NA
+"17","Kan. Wesleyan","506103","2004","",NA,"-",NA,NA,NA,NA
+"18","Kan. Wesleyan","506103","2003","",NA,"-",NA,NA,NA,NA
+"19","Kan. Wesleyan","506103","2002","",NA,"-",NA,NA,NA,NA
+"20","Kan. Wesleyan","506103","1994","Kevin Blaskowski",NA,"-",33,16,NA,0.673
+"21","Kan. Wesleyan","506103","1993","Kevin Blaskowski",NA,"-",28,16,NA,0.636
+"22","Kan. Wesleyan","506103","1992","Kevin Blaskowski",NA,"-",34,19,NA,0.642
+"23","Kan. Wesleyan","506103","","",NA,"",136,77,2,0.637

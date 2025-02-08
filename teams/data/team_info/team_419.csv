@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jeff Breeden","CUSA","42-20-0",0.677
-"2",2022,"Jeff Breeden","CUSA","19-34-0",0.358
-"3",2021,"Jeff Breeden","CUSA","26-22-0",0.542
-"4",2020,"Jeff Breeden","CUSA","15-13-0",0.536
-"5",2019,"Jeff Breeden","CUSA","29-30-0",0.492
-"6",2018,"Jeff Breeden","CUSA","39-22-0",0.639
-"7",2017,"Jeff Breeden","CUSA","19-30-0",0.388
-"8",2016,"Jeff Breeden","CUSA","23-31-0",0.426
-"9",2015,"Jeff Breeden","CUSA","22-29-0",0.431
-"10",2014,"Jeff Breeden","CUSA","10-45-0",0.182
-"11",2013,"Jeff Breeden","Sun Belt","7-47-0",0.13
-"12",2012,"Sue Nevar","Sun Belt","16-33-0",0.327
-"13",2011,"Sue Nevar","Sun Belt","18-33-0",0.353
-"14",2010,"Sue Nevar","Sun Belt","22-32-0",0.407
-"15",2009,"Sue Nevar","Sun Belt","14-34-0",0.292
-"16",2008,"Sue Nevar","Sun Belt","22-31-0",0.415
-"17",2007,"Leigh Podlesny","Sun Belt","30-30-0",0.5
-"18",2006,"Leigh Podlesny","Sun Belt","19-42-1",0.311
-"19",2005,"Leigh Podlesny","Sun Belt","8-43-0",0.157
-"20",2004,"Cindy Connelley","Sun Belt","0-0-0",NA
-"21",2003,"Cindy Connelley","Sun Belt","33-21-0",0.611
-"22",2002,"Cindy Connelley","Sun Belt","27-30-0",0.474
-"23",2001,"Karen Green","Sun Belt","41-23-0",0.641
-"24",2000,"Karen Green","OVC","39-21-0",0.65
-"25",1999,"Karen Green","OVC","38-22-0",0.633
-"26",1998,"Karen Green","-","26-28-0",0.481
-"27",1997,"Karen Green","OVC","28-29-0",0.491
-"28",1996,"Karen Green","-","28-32-0",0.467
-"29",1995,"Karen Green","-","28-22-0",0.56
-"30",1994,"Karen Green","-","35-21-0",0.625
-"31",1993,"Karen Green","-","13-19-0",0.406
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",2024,"Jeff Breeden","CUSA","21-31-0",0.404
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Middle Tenn.","419","2025","Jeff Breeden","D-I","CUSA",1,1,0,0.5
+"2","Middle Tenn.","419","2024","Jeff Breeden","D-I","CUSA",21,31,0,0.404
+"3","Middle Tenn.","419","2023","Jeff Breeden","D-I","CUSA",42,20,0,0.677
+"4","Middle Tenn.","419","2022","Jeff Breeden","D-I","CUSA",19,34,0,0.358
+"5","Middle Tenn.","419","2021","Jeff Breeden","D-I","CUSA",26,22,0,0.542
+"6","Middle Tenn.","419","2020","Jeff Breeden","D-I","CUSA",15,13,0,0.536
+"7","Middle Tenn.","419","2019","Jeff Breeden","D-I","CUSA",29,30,0,0.492
+"8","Middle Tenn.","419","2018","Jeff Breeden","D-I","CUSA",39,22,0,0.639
+"9","Middle Tenn.","419","2017","Jeff Breeden","D-I","CUSA",19,30,0,0.388
+"10","Middle Tenn.","419","2016","Jeff Breeden","D-I","CUSA",23,31,0,0.426
+"11","Middle Tenn.","419","2015","Jeff Breeden","D-I","CUSA",22,29,0,0.431
+"12","Middle Tenn.","419","2014","Jeff Breeden","D-I","CUSA",10,45,0,0.182
+"13","Middle Tenn.","419","2013","Jeff Breeden","D-I","Sun Belt",7,47,0,0.13
+"14","Middle Tenn.","419","2012","Sue Nevar","D-I","Sun Belt",16,33,0,0.327
+"15","Middle Tenn.","419","2011","Sue Nevar","D-I","Sun Belt",18,33,0,0.353
+"16","Middle Tenn.","419","2010","Sue Nevar","D-I","Sun Belt",22,32,0,0.407
+"17","Middle Tenn.","419","2009","Sue Nevar","D-I","Sun Belt",14,34,0,0.292
+"18","Middle Tenn.","419","2008","Sue Nevar","D-I","Sun Belt",22,31,0,0.415
+"19","Middle Tenn.","419","2007","Leigh Podlesny","D-I","Sun Belt",30,30,0,0.5
+"20","Middle Tenn.","419","2006","Leigh Podlesny","D-I","Sun Belt",19,42,1,0.315
+"21","Middle Tenn.","419","2005","Leigh Podlesny","D-I","Sun Belt",8,43,0,0.157
+"22","Middle Tenn.","419","2004","Cindy Connelley","D-I","Sun Belt",NA,NA,NA,NA
+"23","Middle Tenn.","419","2003","Cindy Connelley","D-I","Sun Belt",33,21,0,0.611
+"24","Middle Tenn.","419","2002","Cindy Connelley","D-I","Sun Belt",27,30,0,0.474
+"25","Middle Tenn.","419","2001","Karen Green","D-I","Sun Belt",41,23,0,0.641
+"26","Middle Tenn.","419","1900","Karen Green","D-I","OVC",39,21,0,0.65
+"27","Middle Tenn.","419","1999","Karen Green","D-I","OVC",38,22,0,0.633
+"28","Middle Tenn.","419","1998","Karen Green","D-I","-",26,28,NA,0.481
+"29","Middle Tenn.","419","1997","Karen Green","D-I","OVC",28,29,0,0.491
+"30","Middle Tenn.","419","1996","Karen Green","D-I","-",28,32,NA,0.467
+"31","Middle Tenn.","419","1995","Karen Green","D-I","-",28,22,NA,0.56
+"32","Middle Tenn.","419","1994","Karen Green","D-I","-",35,21,NA,0.625
+"33","Middle Tenn.","419","1993","Karen Green","D-I","-",13,19,NA,0.406
+"34","Middle Tenn.","419","1992","","","-",NA,NA,NA,NA
+"35","Middle Tenn.","419","1991","","","-",NA,NA,NA,NA
+"36","Middle Tenn.","419","1990","","","-",NA,NA,NA,NA
+"37","Middle Tenn.","419","1989","","","-",NA,NA,NA,NA
+"38","Middle Tenn.","419","1988","","","-",NA,NA,NA,NA
+"39","Middle Tenn.","419","1987","","","-",NA,NA,NA,NA
+"40","Middle Tenn.","419","1986","","","-",NA,NA,NA,NA
+"41","Middle Tenn.","419","1985","","","-",NA,NA,NA,NA
+"42","Middle Tenn.","419","1984","","","-",NA,NA,NA,NA
+"43","Middle Tenn.","419","","","","",758,901,1,0.457

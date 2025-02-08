@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Margie Acker","NJAC","27-16-0",0.628
-"2",2022,"Margie Acker","NJAC","32-10-0",0.762
-"3",2021,"Margie Acker","NJAC","25-9-0",0.735
-"4",2020,"Margie Acker","NJAC","9-1-0",0.9
-"5",2019,"Margie Acker","NJAC","39-8-0",0.83
-"6",2018,"Margie Acker","NJAC","26-12-0",0.684
-"7",2017,"Margie Acker","NJAC","36-10-0",0.783
-"8",2016,"Margie Acker","NJAC","20-22-0",0.476
-"9",2015,"Margie Acker","NJAC","31-15-1",0.674
-"10",2014,"Margie Acker","NJAC","35-13-0",0.729
-"11",2013,"Margie Acker","NJAC","28-19-1",0.596
-"12",2012,"Margie Acker","NJAC","24-19-0",0.558
-"13",2011,"Margie Acker","NJAC","17-27-0",0.386
-"14",2010,"Margie Acker","NJAC","32-17-0",0.653
-"15",2009,"Margie Acker","NJAC","19-21-0",0.475
-"16",2008,"Margie Acker","NJAC","30-16-0",0.652
-"17",2007,"Margie Acker","NJAC","24-15-0",0.615
-"18",2006,"Margie Acker","NJAC","22-22-0",0.5
-"19",2005,"Margie Acker","NJAC","18-21-0",0.462
-"20",2004,"Margie Acker","NJAC","14-22-0",0.389
-"21",2003,"Margie Acker","NJAC","14-21-0",0.4
-"22",2002,"Margie Acker","NJAC","16-23-1",0.41
-"23",2001,"Margie Acker","-","17-17-0",0.5
-"24",2000,"Margie Acker","-","12-20-0",0.375
-"25",1999,"Renee Clarke","-","13-30-0",0.302
-"26",1998,"Renee Clarke","-","14-21-0",0.4
-"27",1997,"Renee Clarke","-","12-27-0",0.308
-"28",1996,"Renee Clarke","-","20-16-0",0.556
-"29",1995,"Renee Clarke","-","24-20-0",0.545
-"30",1994,"Renee Clarke","-","21-22-0",0.488
-"31",1993,"Renee Clarke","-","11-20-0",0.355
-"32",1992,"Renee Clarke","-","30-12-0",0.714
-"33",1991,"Renee Clarke","-","22-18-0",0.55
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"Cyndi Gramlich-Covello","-","29-12-0",0.707
-"38",1986,"Cyndi Gramlich-Covello","-","36-9-0",0.8
-"39",1985,"Cyndi Gramlich-Covello","-","16-20-0",0.444
-"40",1983,"","-","0-0-0",NA
-"41",2024,"Margie Acker","NJAC","29-14-0",0.674
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kean","329","2025","Margie Acker","D-III","NJAC",0,0,0,0
+"2","Kean","329","2024","Margie Acker","D-III","NJAC",29,14,0,0.674
+"3","Kean","329","2023","Margie Acker","D-III","NJAC",27,16,0,0.628
+"4","Kean","329","2022","Margie Acker","D-III","NJAC",32,10,0,0.762
+"5","Kean","329","2021","Margie Acker","D-III","NJAC",25,9,0,0.735
+"6","Kean","329","2020","Margie Acker","D-III","NJAC",9,1,0,0.9
+"7","Kean","329","2019","Margie Acker","D-III","NJAC",39,8,0,0.83
+"8","Kean","329","2018","Margie Acker","D-III","NJAC",26,12,NA,0.684
+"9","Kean","329","2017","Margie Acker","D-III","NJAC",36,10,0,0.783
+"10","Kean","329","2016","Margie Acker","D-III","NJAC",20,22,0,0.476
+"11","Kean","329","2015","Margie Acker","D-III","NJAC",31,15,1,0.67
+"12","Kean","329","2014","Margie Acker","D-III","NJAC",35,13,0,0.729
+"13","Kean","329","2013","Margie Acker","D-III","NJAC",28,19,1,0.594
+"14","Kean","329","2012","Margie Acker","D-III","NJAC",24,19,0,0.558
+"15","Kean","329","2011","Margie Acker","D-III","NJAC",17,27,0,0.386
+"16","Kean","329","2010","Margie Acker","D-III","NJAC",32,17,0,0.653
+"17","Kean","329","2009","Margie Acker","D-III","NJAC",19,21,0,0.475
+"18","Kean","329","2008","Margie Acker","D-III","NJAC",30,16,0,0.652
+"19","Kean","329","2007","Margie Acker","D-III","NJAC",24,15,0,0.615
+"20","Kean","329","2006","Margie Acker","D-III","NJAC",22,22,0,0.5
+"21","Kean","329","2005","Margie Acker","D-III","NJAC",18,21,0,0.462
+"22","Kean","329","2004","Margie Acker","D-III","NJAC",14,22,0,0.389
+"23","Kean","329","2003","Margie Acker","D-III","NJAC",14,21,0,0.4
+"24","Kean","329","2002","Margie Acker","D-III","NJAC",16,23,1,0.413
+"25","Kean","329","2001","Margie Acker","D-III","-",17,17,0,0.5
+"26","Kean","329","1900","Margie Acker","D-III","-",12,20,NA,0.375
+"27","Kean","329","1999","Renee Clarke","D-III","-",13,30,NA,0.302
+"28","Kean","329","1998","Renee Clarke","D-III","-",14,21,NA,0.4
+"29","Kean","329","1997","Renee Clarke","D-III","-",12,27,NA,0.308
+"30","Kean","329","1996","Renee Clarke","D-III","-",20,16,NA,0.556
+"31","Kean","329","1995","Renee Clarke","D-III","-",24,20,NA,0.545
+"32","Kean","329","1994","Renee Clarke","D-III","-",21,22,NA,0.488
+"33","Kean","329","1993","Renee Clarke","D-III","-",11,20,NA,0.355
+"34","Kean","329","1992","Renee Clarke","D-III","-",30,12,NA,0.714
+"35","Kean","329","1991","Renee Clarke","D-III","-",22,18,NA,0.55
+"36","Kean","329","1990","","D-III","-",NA,NA,NA,NA
+"37","Kean","329","1989","","D-III","-",NA,NA,NA,NA
+"38","Kean","329","1988","","D-III","-",NA,NA,NA,NA
+"39","Kean","329","1987","Cyndi Gramlich-Covello","D-III","-",29,12,NA,0.707
+"40","Kean","329","1986","Cyndi Gramlich-Covello","D-III","-",36,9,NA,0.8
+"41","Kean","329","1985","Cyndi Gramlich-Covello","D-III","-",16,20,NA,0.444
+"42","Kean","329","1983","","D-III","-",NA,NA,NA,NA
+"43","Kean","329","","","","",844,637,3,0.57

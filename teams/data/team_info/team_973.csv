@@ -1,16 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jessica Strong","SAA","43-7-0",0.86
-"2",2022,"Emily Stanley","SAA","36-13-0",0.735
-"3",2021,"Emily Stanley","SAA","25-10-0",0.714
-"4",2020,"Emily Stanley","SAA","12-2-0",0.857
-"5",2019,"Cori Thiermann","SAA","27-13-0",0.675
-"6",2018,"Cori Thiermann","SAA","39-6-0",0.867
-"7",2017,"Cori Thiermann","SAA","40-4-0",0.909
-"8",2016,"Cori Thiermann","SAA","39-8-0",0.83
-"9",2015,"Cori Thiermann","SAA","34-8-0",0.81
-"10",2014,"Cori Thiermann","SAA","31-11-0",0.738
-"11",2013,"Cori Thiermann","SAA","29-11-0",0.725
-"12",2012,"Cori Thiermann","Berry","25-11-0",0.694
-"13",2011,"Cori Thiermann","-","20-16-0",0.556
-"14",2010,"Cori Thiermann","-","18-20-0",0.474
-"15",2024,"Jessica Strong","SAA","46-7-0",0.868
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Berry","973","2025","Meredith Mills","D-III","SAA",0,0,0,0
+"2","Berry","973","2024","Jessica Strong","D-III","SAA",46,7,0,0.868
+"3","Berry","973","2023","Jessica Strong","D-III","SAA",43,7,0,0.86
+"4","Berry","973","2022","Emily Stanley","D-III","SAA",36,13,0,0.735
+"5","Berry","973","2021","Emily Stanley","D-III","SAA",25,10,0,0.714
+"6","Berry","973","2020","Emily Stanley","D-III","SAA",12,2,0,0.857
+"7","Berry","973","2019","Cori Thiermann","D-III","SAA",27,13,0,0.675
+"8","Berry","973","2018","Cori Thiermann","D-III","SAA",39,6,NA,0.867
+"9","Berry","973","2017","Cori Thiermann","D-III","SAA",40,4,0,0.909
+"10","Berry","973","2016","Cori Thiermann","D-III","SAA",39,8,0,0.83
+"11","Berry","973","2015","Cori Thiermann","D-III","SAA",34,8,0,0.81
+"12","Berry","973","2014","Cori Thiermann","D-III","SAA",31,11,0,0.738
+"13","Berry","973","2013","Cori Thiermann","D-III","SAA",29,11,0,0.725
+"14","Berry","973","2012","Cori Thiermann","D-III","Berry",25,11,0,0.694
+"15","Berry","973","2011","Cori Thiermann","","-",20,16,0,0.556
+"16","Berry","973","2010","Cori Thiermann","","-",18,20,0,0.474
+"17","Berry","973","","","","",464,147,0,0.759

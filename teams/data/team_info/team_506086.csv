@@ -1,5 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2004",NA,"-","0-0-0",NA
-"4","2003",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Oakwood","506086","2025",NA,NA,"-",NA,NA,NA,0
+"2","Oakwood","506086","2024",NA,NA,"-",NA,NA,NA,0
+"3","Oakwood","506086","2023",NA,NA,"-",NA,NA,NA,0
+"4","Oakwood","506086","2004",NA,NA,"-",NA,NA,NA,NA
+"5","Oakwood","506086","2003",NA,NA,"-",NA,NA,NA,NA
+"6","Oakwood","506086","",NA,NA,"",0,0,0,0

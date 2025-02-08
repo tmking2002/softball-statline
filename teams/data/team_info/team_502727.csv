@@ -1,11 +1,12 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2015",NA,"-","0-0-0",NA
-"3","2012",NA,"-","0-0-0",NA
-"4","2009",NA,"-","0-0-0",NA
-"5","2007",NA,"-","0-0-0",NA
-"6","2006",NA,"-","0-0-0",NA
-"7","2005",NA,"-","0-0-0",NA
-"8","2004",NA,"-","0-0-0",NA
-"9","2003",NA,"-","0-0-0",NA
-"10","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lindsey Wilson","502727","2023",NA,NA,"-",NA,NA,NA,0
+"2","Lindsey Wilson","502727","2015",NA,NA,"-",NA,NA,NA,NA
+"3","Lindsey Wilson","502727","2012",NA,NA,"-",NA,NA,NA,NA
+"4","Lindsey Wilson","502727","2009",NA,NA,"-",NA,NA,NA,NA
+"5","Lindsey Wilson","502727","2007",NA,NA,"-",NA,NA,NA,NA
+"6","Lindsey Wilson","502727","2006",NA,NA,"-",NA,NA,NA,NA
+"7","Lindsey Wilson","502727","2005",NA,NA,"-",NA,NA,NA,NA
+"8","Lindsey Wilson","502727","2004",NA,NA,"-",NA,NA,NA,NA
+"9","Lindsey Wilson","502727","2003",NA,NA,"-",NA,NA,NA,NA
+"10","Lindsey Wilson","502727","2002",NA,NA,"-",NA,NA,NA,NA
+"11","Lindsey Wilson","502727","",NA,NA,"",0,0,0,0

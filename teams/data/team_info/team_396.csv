@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jill Moore","CCS","27-15-0",0.643
-"2",2022,"Leah Kelley","USA South","21-18-0",0.538
-"3",2021,"Leah Kelley","USA South","6-18-0",0.25
-"4",2020,"Leah Kelley","USA South","9-1-0",0.9
-"5",2019,"Leah Kelley","USA South","29-11-0",0.725
-"6",2018,"Leah Kelley","USA South","31-14-0",0.689
-"7",2017,"Leah Kelley","USA South","22-19-0",0.537
-"8",2016,"Leah Kelley","USA South","25-17-0",0.595
-"9",2015,"Leah Kelley","USA South","14-25-0",0.359
-"10",2014,"Leah Hampton","USA South","8-32-0",0.2
-"11",2013,"Kim Woodard","USA South","3-33-0",0.083
-"12",2012,"Kim Woodard","Great South","16-23-0",0.41
-"13",2011,"Kim Woodard","Great South","14-20-0",0.412
-"14",2010,"Kim Woodard","Great South","18-24-0",0.429
-"15",2009,"Danny Fish","Great South","21-15-0",0.583
-"16",2008,"Danny Fish","Great South","19-17-0",0.528
-"17",2007,"Danny Fish","Great South","23-13-1",0.639
-"18",2006,"Danny Fish","Great South","0-0-0",NA
-"19",2005,"Danny Fish","Great South","19-18-0",0.514
-"20",2004,"Danny Fish","-","21-14-0",0.6
-"21",2003,"Danny Fish","-","0-0-0",NA
-"22",2002,"Danny Fish","-","0-0-0",NA
-"23",2001,"","-","22-8-0",0.733
-"24",2000,"Bill Rude","-","22-8-0",0.733
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"Kandis Schram","-","8-14-0",0.364
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1985,"","-","0-0-0",NA
-"36",2024,"Jill Moore","CCS","36-13-0",0.735
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Maryville (TN)","396","2025","Jill Moore","D-III","CCS",0,0,0,0
+"2","Maryville (TN)","396","2024","Jill Moore","D-III","CCS",35,13,0,0.729
+"3","Maryville (TN)","396","2023","Jill Moore","D-III","CCS",27,15,0,0.643
+"4","Maryville (TN)","396","2022","Leah Kelley","D-III","USA South",21,18,0,0.538
+"5","Maryville (TN)","396","2021","Leah Kelley","D-III","USA South",6,18,0,0.25
+"6","Maryville (TN)","396","2020","Leah Kelley","D-III","USA South",9,1,0,0.9
+"7","Maryville (TN)","396","2019","Leah Kelley","D-III","USA South",29,11,0,0.725
+"8","Maryville (TN)","396","2018","Leah Kelley","D-III","USA South",31,14,NA,0.689
+"9","Maryville (TN)","396","2017","Leah Kelley","D-III","USA South",22,19,0,0.537
+"10","Maryville (TN)","396","2016","Leah Kelley","D-III","USA South",25,17,0,0.595
+"11","Maryville (TN)","396","2015","Leah Kelley","D-III","USA South",14,25,0,0.359
+"12","Maryville (TN)","396","2014","Leah Hampton","D-III","USA South",8,32,0,0.2
+"13","Maryville (TN)","396","2013","Kim Woodard","D-III","USA South",3,33,0,0.083
+"14","Maryville (TN)","396","2012","Kim Woodard","D-III","Great South",16,23,0,0.41
+"15","Maryville (TN)","396","2011","Kim Woodard","D-III","Great South",14,20,0,0.412
+"16","Maryville (TN)","396","2010","Kim Woodard","D-III","Great South",18,24,0,0.429
+"17","Maryville (TN)","396","2009","Danny Fish","D-III","Great South",21,15,0,0.583
+"18","Maryville (TN)","396","2008","Danny Fish","D-III","Great South",19,17,0,0.528
+"19","Maryville (TN)","396","2007","Danny Fish","D-III","Great South",23,13,1,0.635
+"20","Maryville (TN)","396","2006","Danny Fish","D-III","Great South",NA,NA,NA,NA
+"21","Maryville (TN)","396","2005","Danny Fish","D-III","Great South",19,18,0,0.514
+"22","Maryville (TN)","396","2004","Danny Fish","D-III","-",21,14,0,0.6
+"23","Maryville (TN)","396","2003","Danny Fish","","-",NA,NA,NA,NA
+"24","Maryville (TN)","396","2002","Danny Fish","D-III","-",NA,NA,NA,NA
+"25","Maryville (TN)","396","2001","","D-III","-",22,8,NA,0.733
+"26","Maryville (TN)","396","1900","Bill Rude","D-III","-",22,8,NA,0.733
+"27","Maryville (TN)","396","1999","","D-III","-",NA,NA,NA,NA
+"28","Maryville (TN)","396","1998","","D-III","-",NA,NA,NA,NA
+"29","Maryville (TN)","396","1997","","D-III","-",NA,NA,NA,NA
+"30","Maryville (TN)","396","1996","Kandis Schram","D-III","-",8,14,NA,0.364
+"31","Maryville (TN)","396","1995","","D-III","-",NA,NA,NA,NA
+"32","Maryville (TN)","396","1994","","D-III","-",NA,NA,NA,NA
+"33","Maryville (TN)","396","1993","","D-III","-",NA,NA,NA,NA
+"34","Maryville (TN)","396","1992","","D-III","-",NA,NA,NA,NA
+"35","Maryville (TN)","396","1991","","D-III","-",NA,NA,NA,NA
+"36","Maryville (TN)","396","1990","","D-III","-",NA,NA,NA,NA
+"37","Maryville (TN)","396","1985","","D-III","-",NA,NA,NA,NA
+"38","Maryville (TN)","396","","","","",433,390,1,0.526

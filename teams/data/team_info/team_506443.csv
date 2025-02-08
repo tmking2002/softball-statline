@@ -1,7 +1,9 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2020",NA,"-","0-0-0",0
-"3","2018",NA,"-","0-0-0",0
-"4","2016",NA,"-","0-0-0",NA
-"5","2014",NA,"-","0-0-0",NA
-"6","2012",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Western Univ. (CAN)","506443","2025",NA,NA,"-",NA,NA,NA,0
+"2","Western Univ. (CAN)","506443","2023",NA,NA,"-",NA,NA,NA,0
+"3","Western Univ. (CAN)","506443","2020",NA,NA,"-",NA,NA,NA,0
+"4","Western Univ. (CAN)","506443","2018",NA,NA,"-",NA,NA,NA,0
+"5","Western Univ. (CAN)","506443","2016",NA,NA,"-",NA,NA,NA,NA
+"6","Western Univ. (CAN)","506443","2014",NA,NA,"-",NA,NA,NA,NA
+"7","Western Univ. (CAN)","506443","2012",NA,NA,"-",NA,NA,NA,NA
+"8","Western Univ. (CAN)","506443","",NA,NA,"",0,0,0,0

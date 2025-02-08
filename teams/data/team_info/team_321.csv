@@ -1,36 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Erin Layton","CUNYAC","26-17-0","0.605"
-"2","2022","Erin Layton","CUNYAC","17-21-0","0.447"
-"3","2021","Erin Layton","CUNYAC","0-0-0","  NaN"
-"4","2020","Erin Layton","CUNYAC","1-9-0","0.100"
-"5","2019","Erin Layton","CUNYAC","14-21-0","0.400"
-"6","2018","Erin Layton","CUNYAC","8-22-0","0.267"
-"7","2017","Brian Keill","CUNYAC","6-22-1","0.214"
-"8","2016","Brian Keill","CUNYAC","9-17-0","0.346"
-"9","2015","Cat Alves","CUNYAC","14-21-0","0.400"
-"10","2014","Marlenne Nunez","CUNYAC","9-27-0","0.250"
-"11","2013","Marlenne Nunez","CUNYAC","9-19-1","0.321"
-"12","2012","Marlenne Nunez","CUNYAC","11-26-0","0.297"
-"13","2011","Marlenne Nunez","CUNYAC","11-22-0","0.333"
-"14","2010","Laura Drazdowski","CUNYAC","13-21-0","0.382"
-"15","2009","Laura Drazdowski","CUNYAC","13-21-0","0.382"
-"16","2008","Laura Drazdowski","CUNYAC","12-23-0","0.343"
-"17","2007","Patrick Malia","CUNYAC","7-19-0","0.269"
-"18","2006","Patrick Malia","CUNYAC","3-33-0","0.083"
-"19","2005","Patrick Malia","CUNYAC","10-28-0","0.263"
-"20","2004","Patrick Malia","CUNYAC","14-15-0","0.483"
-"21","2003","Patrick Malia","CUNYAC","17-10-1","0.630"
-"22","2002","Patrick Malia","-","20-12-0","0.625"
-"23","2001","Patrick Malia","-","16-15-0","0.516"
-"24","2000","Patrick Malia","-","23-15-0","0.605"
-"25","1999","Patrick Malia","-","17-18-0","0.486"
-"26","1998","Patrick Malia","-","16-14-0","0.533"
-"27","1997","Patrick Malia","-","16-13-0","0.552"
-"28","1996","Patrick Malia","-","9-17-0","0.346"
-"29","1995","Patrick Malia","-","9-17-0","0.346"
-"30","1994","Patrick Malia","-","10-16-0","0.385"
-"31","1993","Patrick Malia","-","7-13-0","0.350"
-"32","1992","Patrick Malia","-","9-14-0","0.391"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","John Jay","321","2025","Angie Nieves","D-III","CUNYAC",0,0,0,0
+"2","John Jay","321","2024","Joe Burbridge","D-III","CUNYAC",32,14,0,0.696
+"3","John Jay","321","2023","Erin Layton","D-III","CUNYAC",26,17,0,0.605
+"4","John Jay","321","2022","Erin Layton","D-III","CUNYAC",17,21,0,0.447
+"5","John Jay","321","2021","Erin Layton","D-III","CUNYAC",0,0,0,0
+"6","John Jay","321","2020","Erin Layton","D-III","CUNYAC",1,9,0,0.1
+"7","John Jay","321","2019","Erin Layton","D-III","CUNYAC",14,21,0,0.4
+"8","John Jay","321","2018","Erin Layton","D-III","CUNYAC",8,22,NA,0.267
+"9","John Jay","321","2017","Brian Keill","D-III","CUNYAC",6,22,1,0.224
+"10","John Jay","321","2016","Brian Keill","D-III","CUNYAC",9,17,0,0.346
+"11","John Jay","321","2015","Cat Alves","D-III","CUNYAC",14,21,0,0.4
+"12","John Jay","321","2014","Marlenne Nunez","D-III","CUNYAC",9,27,0,0.25
+"13","John Jay","321","2013","Marlenne Nunez","D-III","CUNYAC",9,19,1,0.328
+"14","John Jay","321","2012","Marlenne Nunez","D-III","CUNYAC",11,26,0,0.297
+"15","John Jay","321","2011","Marlenne Nunez","D-III","CUNYAC",11,22,0,0.333
+"16","John Jay","321","2010","Laura Drazdowski","D-III","CUNYAC",13,21,0,0.382
+"17","John Jay","321","2009","Laura Drazdowski","D-III","CUNYAC",13,21,0,0.382
+"18","John Jay","321","2008","Laura Drazdowski","D-III","CUNYAC",12,23,0,0.343
+"19","John Jay","321","2007","Patrick Malia","D-III","CUNYAC",7,19,0,0.269
+"20","John Jay","321","2006","Patrick Malia","D-III","CUNYAC",3,33,0,0.083
+"21","John Jay","321","2005","Patrick Malia","D-III","CUNYAC",10,28,0,0.263
+"22","John Jay","321","2004","Patrick Malia","D-III","CUNYAC",14,15,0,0.483
+"23","John Jay","321","2003","Patrick Malia","D-III","CUNYAC",17,10,1,0.625
+"24","John Jay","321","2002","Patrick Malia","D-III","-",20,12,0,0.625
+"25","John Jay","321","2001","Patrick Malia","D-III","-",16,15,NA,0.516
+"26","John Jay","321","1900","Patrick Malia","D-III","-",23,15,NA,0.605
+"27","John Jay","321","1999","Patrick Malia","D-III","-",17,18,NA,0.486
+"28","John Jay","321","1998","Patrick Malia","D-III","-",16,14,NA,0.533
+"29","John Jay","321","1997","Patrick Malia","D-III","-",16,13,NA,0.552
+"30","John Jay","321","1996","Patrick Malia","D-III","-",9,17,NA,0.346
+"31","John Jay","321","1995","Patrick Malia","D-III","-",9,17,NA,0.346
+"32","John Jay","321","1994","Patrick Malia","D-III","-",10,16,NA,0.385
+"33","John Jay","321","1993","Patrick Malia","D-III","-",7,13,NA,0.35
+"34","John Jay","321","1992","Patrick Malia","D-III","-",9,14,NA,0.391
+"35","John Jay","321","1991","","D-III","-",NA,NA,NA,NA
+"36","John Jay","321","1990","","D-III","-",NA,NA,NA,NA
+"37","John Jay","321","1983","","","-",NA,NA,NA,NA
+"38","John Jay","321","","","","",408,592,3,0.408

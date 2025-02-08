@@ -1,10 +1,12 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jackie Huff","Conference Carolinas","15-33-0",0.312
-"2",2022,"Jackie Huff","Conference Carolinas","1-47-0",0.021
-"3",2021,"Jen George","Conference Carolinas","5-35-0",0.125
-"4",2020,"Jen George","Conference Carolinas","3-17-0",0.15
-"5",2019,"Jen George","Conference Carolinas","6-44-0",0.12
-"6",2018,"Jen George","Conference Carolinas","3-49-0",0.058
-"7",2017,"Christy Johnson","Conference Carolinas","5-33-0",0.132
-"8",2016,"Christy Johnson","Conference Carolinas","7-33-0",0.175
-"9",2024,"Jackie Huff","Conference Carolinas","13-33-0",0.283
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Converse","8935","2025","Jackie Huff","D-II","Conference Carolinas",2,6,0,0.25
+"2","Converse","8935","2024","Jackie Huff","D-II","Conference Carolinas",17,37,0,0.315
+"3","Converse","8935","2023","Jackie Huff","D-II","Conference Carolinas",15,33,0,0.313
+"4","Converse","8935","2022","Jackie Huff","D-II","Conference Carolinas",1,47,0,0.021
+"5","Converse","8935","2021","Jen George","D-II","Conference Carolinas",5,35,0,0.125
+"6","Converse","8935","2020","Jen George","D-II","Conference Carolinas",3,17,0,0.15
+"7","Converse","8935","2019","Jen George","D-II","Conference Carolinas",6,44,0,0.12
+"8","Converse","8935","2018","Jen George","D-II","Conference Carolinas",3,49,NA,0.058
+"9","Converse","8935","2017","Christy Johnson","D-II","Conference Carolinas",5,33,0,0.132
+"10","Converse","8935","2016","Christy Johnson","D-II","Conference Carolinas",7,33,0,0.175
+"11","Converse","8935","","","","",64,334,0,0.161

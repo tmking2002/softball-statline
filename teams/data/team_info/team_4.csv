@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kaylee Fox","Michigan Intercol. Ath. Assn.","28-14-0",0.667
-"2",2022,"Ashley Skelly","Michigan Intercol. Ath. Assn.","10-26-0",0.278
-"3",2021,"Ashley Skelly","Michigan Intercol. Ath. Assn.","17-16-0",0.515
-"4",2020,"Ashley Skelly","Michigan Intercol. Ath. Assn.","8-2-0",0.8
-"5",2019,"Ashley Skelly","Michigan Intercol. Ath. Assn.","19-19-0",0.5
-"6",2018,"Ashley Skelly","Michigan Intercol. Ath. Assn.","16-20-0",0.444
-"7",2017,"Ashley Skelly","Michigan Intercol. Ath. Assn.","12-26-0",0.316
-"8",2016,"Ashley Skelly","Michigan Intercol. Ath. Assn.","13-20-0",0.394
-"9",2015,"Anna Ball","Michigan Intercol. Ath. Assn.","20-16-0",0.556
-"10",2014,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","17-15-0",0.531
-"11",2013,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","19-17-0",0.528
-"12",2012,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","23-17-0",0.575
-"13",2011,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","35-7-0",0.833
-"14",2010,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","29-11-0",0.725
-"15",2009,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","34-8-0",0.81
-"16",2008,"Kristina Schweikert","Michigan Intercol. Ath. Assn.","21-17-0",0.553
-"17",2007,"Molly Moore","Michigan Intercol. Ath. Assn.","16-14-0",0.533
-"18",2006,"Molly Moore","Michigan Intercol. Ath. Assn.","12-24-0",0.333
-"19",2005,"Molly Moore","Michigan Intercol. Ath. Assn.","13-21-0",0.382
-"20",2004,"Molly Moore","Michigan Intercol. Ath. Assn.","9-21-0",0.3
-"21",2003,"Molly Moore","Michigan Intercol. Ath. Assn.","12-24-0",0.333
-"22",2002,"Molly Moore","Michigan Intercol. Ath. Assn.","14-22-1",0.389
-"23",2001,"Molly Moore","-","12-25-0",0.324
-"24",2000,"Molly Moore","-","18-19-0",0.486
-"25",1999,"Molly Moore","-","10-25-1",0.286
-"26",1998,"Doug McDaniel","-","12-22-0",0.353
-"27",1997,"Doug McDaniel","-","13-26-0",0.333
-"28",1996,"Doug McDaniel","-","11-23-0",0.324
-"29",1995,"Doug McDaniel","-","23-17-0",0.575
-"30",1994,"Doug McDaniel","-","23-19-0",0.548
-"31",1993,"Doug McDaniel","-","26-10-0",0.722
-"32",1992,"Doug McDaniel","-","8-17-0",0.32
-"33",1991,"Doug McDaniel","-","17-9-0",0.654
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",1982,"","-","0-0-0",NA
-"42",1981,"","-","0-0-0",NA
-"43",2024,"Kaylee Fox","Michigan Intercol. Ath. Assn.","28-12-0",0.7
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Adrian","4","2025","Kaylee Fox","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","Adrian","4","2024","Kaylee Fox","D-III","Michigan Intercol. Ath. Assn.",28,12,0,0.7
+"3","Adrian","4","2023","Kaylee Fox","D-III","Michigan Intercol. Ath. Assn.",28,14,0,0.667
+"4","Adrian","4","2022","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",10,26,0,0.278
+"5","Adrian","4","2021","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",17,16,0,0.515
+"6","Adrian","4","2020","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",8,2,0,0.8
+"7","Adrian","4","2019","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",19,19,0,0.5
+"8","Adrian","4","2018","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",16,20,NA,0.444
+"9","Adrian","4","2017","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",12,26,0,0.316
+"10","Adrian","4","2016","Ashley Skelly","D-III","Michigan Intercol. Ath. Assn.",13,20,0,0.394
+"11","Adrian","4","2015","Anna Ball","D-III","Michigan Intercol. Ath. Assn.",20,16,0,0.556
+"12","Adrian","4","2014","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",17,15,0,0.531
+"13","Adrian","4","2013","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",19,17,0,0.528
+"14","Adrian","4","2012","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",23,17,0,0.575
+"15","Adrian","4","2011","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",35,7,0,0.833
+"16","Adrian","4","2010","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",29,11,0,0.725
+"17","Adrian","4","2009","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",34,8,0,0.81
+"18","Adrian","4","2008","Kristina Schweikert","D-III","Michigan Intercol. Ath. Assn.",21,17,0,0.553
+"19","Adrian","4","2007","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",16,14,0,0.533
+"20","Adrian","4","2006","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",12,24,0,0.333
+"21","Adrian","4","2005","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",13,21,0,0.382
+"22","Adrian","4","2004","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",9,21,0,0.3
+"23","Adrian","4","2003","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",12,24,0,0.333
+"24","Adrian","4","2002","Molly Moore","D-III","Michigan Intercol. Ath. Assn.",14,22,1,0.392
+"25","Adrian","4","2001","Molly Moore","D-III","-",12,25,NA,0.324
+"26","Adrian","4","1900","Molly Moore","D-III","-",18,19,NA,0.486
+"27","Adrian","4","1999","Molly Moore","D-III","-",10,25,1,0.292
+"28","Adrian","4","1998","Doug McDaniel","D-III","-",12,22,NA,0.353
+"29","Adrian","4","1997","Doug McDaniel","D-III","-",13,26,NA,0.333
+"30","Adrian","4","1996","Doug McDaniel","D-III","-",11,23,NA,0.324
+"31","Adrian","4","1995","Doug McDaniel","D-III","-",23,17,NA,0.575
+"32","Adrian","4","1994","Doug McDaniel","D-III","-",23,19,NA,0.548
+"33","Adrian","4","1993","Doug McDaniel","D-III","-",26,10,NA,0.722
+"34","Adrian","4","1992","Doug McDaniel","D-III","-",8,17,NA,0.32
+"35","Adrian","4","1991","Doug McDaniel","D-III","-",17,9,NA,0.654
+"36","Adrian","4","1990","","","-",NA,NA,NA,NA
+"37","Adrian","4","1989","","","-",NA,NA,NA,NA
+"38","Adrian","4","1988","","","-",NA,NA,NA,NA
+"39","Adrian","4","1987","","","-",NA,NA,NA,NA
+"40","Adrian","4","1986","","","-",NA,NA,NA,NA
+"41","Adrian","4","1985","","","-",NA,NA,NA,NA
+"42","Adrian","4","1983","","D-III","-",NA,NA,NA,NA
+"43","Adrian","4","1982","","D-III","-",NA,NA,NA,NA
+"44","Adrian","4","1981","","","-",NA,NA,NA,NA
+"45","Adrian","4","","","","",598,601,2,0.499

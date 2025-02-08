@@ -1,36 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Tony Draves","NACC","17-21-0","0.447"
-"2","2022","Tony Draves","NACC","15-18-0","0.455"
-"3","2021","Tony Draves","NACC","23-20-0","0.535"
-"4","2020","Tony Draves","NACC","8-6-0","0.571"
-"5","2019","Tony Draves","NACC","27-15-0","0.643"
-"6","2018","Tony Draves","NACC","26-13-0","0.667"
-"7","2017","Tony Draves","NACC","27-16-0","0.628"
-"8","2016","Tony Draves","NACC","22-18-0","0.550"
-"9","2015","Tony Draves","NACC","14-24-0","0.368"
-"10","2014","Ashley Steltenpohl","NACC","14-24-0","0.368"
-"11","2013","Ashley Steltenpohl","NACC","11-25-0","0.306"
-"12","2012","Ashley Steltenpohl","NACC","21-20-0","0.512"
-"13","2011","Ashley Steltenpohl","NACC","13-24-0","0.351"
-"14","2010","Brett Prosek","NACC","21-21-0","0.500"
-"15","2009","Brett Prosek","NACC","20-18-0","0.526"
-"16","2008","Brett Prosek","NACC","28-15-0","0.651"
-"17","2007","Brett Prosek","NACC","24-14-0","0.632"
-"18","2006","Ann Felker","NACC","19-25-0","0.432"
-"19","2005","Ann Felker","Lake Michigan","28-16-0","0.636"
-"20","2004","Ann Felker","Lake Michigan","20-21-0","0.488"
-"21","2003","Becky Iaccino","Lake Michigan","18-18-0","0.500"
-"22","2002","Amy Smith","Lake Michigan","17-12-0","0.586"
-"23","2001","Ann Felker","-","22-15-0","0.595"
-"24","2000","Ann Felker","-","22-14-0","0.611"
-"25","1999","Michelle Grimm","-","15-26-0","0.366"
-"26","1998","Michelle Grimm","-","13-22-0","0.371"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Marian (WI)","1196","2025","Tony Draves","D-III","NACC",0,0,0,0
+"2","Marian (WI)","1196","2024","Tony Draves","D-III","NACC",26,20,0,0.565
+"3","Marian (WI)","1196","2023","Tony Draves","D-III","NACC",17,21,0,0.447
+"4","Marian (WI)","1196","2022","Tony Draves","D-III","NACC",15,18,0,0.455
+"5","Marian (WI)","1196","2021","Tony Draves","D-III","NACC",23,20,0,0.535
+"6","Marian (WI)","1196","2020","Tony Draves","D-III","NACC",8,6,0,0.571
+"7","Marian (WI)","1196","2019","Tony Draves","D-III","NACC",27,15,0,0.643
+"8","Marian (WI)","1196","2018","Tony Draves","D-III","NACC",26,13,NA,0.667
+"9","Marian (WI)","1196","2017","Tony Draves","D-III","NACC",27,16,0,0.628
+"10","Marian (WI)","1196","2016","Tony Draves","D-III","NACC",22,18,0,0.55
+"11","Marian (WI)","1196","2015","Tony Draves","D-III","NACC",14,24,0,0.368
+"12","Marian (WI)","1196","2014","Ashley Steltenpohl","D-III","NACC",14,24,0,0.368
+"13","Marian (WI)","1196","2013","Ashley Steltenpohl","D-III","NACC",11,25,0,0.306
+"14","Marian (WI)","1196","2012","Ashley Steltenpohl","D-III","NACC",21,20,0,0.512
+"15","Marian (WI)","1196","2011","Ashley Steltenpohl","D-III","NACC",13,24,0,0.351
+"16","Marian (WI)","1196","2010","Brett Prosek","D-III","NACC",21,21,0,0.5
+"17","Marian (WI)","1196","2009","Brett Prosek","D-III","NACC",20,18,0,0.526
+"18","Marian (WI)","1196","2008","Brett Prosek","D-III","NACC",28,15,0,0.651
+"19","Marian (WI)","1196","2007","Brett Prosek","D-III","NACC",24,14,0,0.632
+"20","Marian (WI)","1196","2006","Ann Felker","D-III","NACC",19,25,0,0.432
+"21","Marian (WI)","1196","2005","Ann Felker","D-III","Lake Michigan",28,16,0,0.636
+"22","Marian (WI)","1196","2004","Ann Felker","D-III","Lake Michigan",20,21,0,0.488
+"23","Marian (WI)","1196","2003","Becky Iaccino","D-III","Lake Michigan",18,18,0,0.5
+"24","Marian (WI)","1196","2002","Amy Smith","D-III","Lake Michigan",17,12,0,0.586
+"25","Marian (WI)","1196","2001","Ann Felker","D-III","-",22,15,0,0.595
+"26","Marian (WI)","1196","1900","Ann Felker","D-III","-",22,14,NA,0.611
+"27","Marian (WI)","1196","1999","Michelle Grimm","D-III","-",15,26,NA,0.366
+"28","Marian (WI)","1196","1998","Michelle Grimm","D-III","-",13,22,NA,0.371
+"29","Marian (WI)","1196","1997","","D-III","-",NA,NA,NA,NA
+"30","Marian (WI)","1196","1996","","D-III","-",NA,NA,NA,NA
+"31","Marian (WI)","1196","1995","","D-III","-",NA,NA,NA,NA
+"32","Marian (WI)","1196","1994","","D-III","-",NA,NA,NA,NA
+"33","Marian (WI)","1196","1993","","D-III","-",NA,NA,NA,NA
+"34","Marian (WI)","1196","1992","","D-III","-",NA,NA,NA,NA
+"35","Marian (WI)","1196","1991","","D-III","-",NA,NA,NA,NA
+"36","Marian (WI)","1196","1990","","D-III","-",NA,NA,NA,NA
+"37","Marian (WI)","1196","1981","","","-",NA,NA,NA,NA
+"38","Marian (WI)","1196","","","","",531,501,0,0.515

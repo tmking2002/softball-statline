@@ -1,52 +1,54 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"George Wares","American Rivers","33-11-0",0.75
-"2",2022,"George Wares","American Rivers","21-17-0",0.553
-"3",2021,"George Wares","American Rivers","20-14-0",0.588
-"4",2020,"George Wares","American Rivers","6-1-0",0.857
-"5",2019,"George Wares","American Rivers","27-10-0",0.73
-"6",2018,"George Wares","American Rivers","29-12-0",0.707
-"7",2017,"George Wares","American Rivers","32-10-0",0.762
-"8",2016,"George Wares","American Rivers","23-15-0",0.605
-"9",2015,"George Wares","American Rivers","34-12-0",0.739
-"10",2014,"George Wares","American Rivers","30-12-0",0.714
-"11",2013,"George Wares","American Rivers","32-10-0",0.762
-"12",2012,"George Wares","American Rivers","36-10-0",0.783
-"13",2011,"George Wares","American Rivers","39-9-0",0.812
-"14",2010,"George Wares","American Rivers","30-14-0",0.682
-"15",2009,"George Wares","American Rivers","36-8-0",0.818
-"16",2008,"George Wares","American Rivers","24-16-0",0.6
-"17",2007,"George Wares","American Rivers","27-13-0",0.675
-"18",2006,"George Wares","American Rivers","33-13-0",0.717
-"19",2005,"George Wares","American Rivers","28-12-0",0.7
-"20",2004,"George Wares","American Rivers","35-9-0",0.795
-"21",2003,"George Wares","American Rivers","41-5-1",0.891
-"22",2002,"George Wares","American Rivers","36-5-0",0.878
-"23",2001,"George Wares","-","41-10-0",0.804
-"24",2000,"George Wares","-","40-10-0",0.8
-"25",1999,"George Wares","-","34-11-1",0.756
-"26",1998,"George Wares","-","30-15-0",0.667
-"27",1997,"George Wares","-","35-12-0",0.745
-"28",1996,"George Wares","-","29-15-0",0.659
-"29",1995,"George Wares","-","35-13-0",0.729
-"30",1994,"George Wares","-","35-14-0",0.714
-"31",1993,"George Wares","-","38-2-0",0.95
-"32",1992,"George Wares","-","31-11-0",0.738
-"33",1991,"George Wares","-","42-6-0",0.875
-"34",1990,"George Wares","-","32-15-0",0.681
-"35",1989,"George Wares","-","36-11-0",0.766
-"36",1988,"George Wares","-","35-10-0",0.778
-"37",1987,"George Wares","-","33-10-0",0.767
-"38",1986,"George Wares","-","35-20-1",0.636
-"39",1985,"George Wares","-","19-14-0",0.576
-"40",1984,"Gary Boeyink","-","10-15-0",0.4
-"41",1983,"Gary Boeyink","-","10-9-0",0.526
-"42",1982,"Gary Boeyink","-","6-14-0",0.3
-"43",1981,"Gary Boeyink","-","3-23-0",0.115
-"44",1980,"Gary Boeyink","-","3-19-0",0.136
-"45",1979,"Gary Boeyink","-","5-6-0",0.455
-"46",1978,"Gary Boeyink","-","7-15-0",0.318
-"47",1977,"Gary Boeyink","-","11-12-0",0.478
-"48",1976,"Jim Van Hoeven","-","4-16-0",0.2
-"49",1975,"Gary Boeyink","-","3-11-0",0.214
-"50",1974,"Gary Boeyink","-","4-9-0",0.308
-"51",2024,"George Wares","American Rivers","34-13-0",0.723
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Central (IA)","126","2025","George Wares","D-III","American Rivers",0,0,0,0
+"2","Central (IA)","126","2024","George Wares","D-III","American Rivers",33,13,0,0.717
+"3","Central (IA)","126","2023","George Wares","D-III","American Rivers",33,11,0,0.75
+"4","Central (IA)","126","2022","George Wares","D-III","American Rivers",21,17,0,0.553
+"5","Central (IA)","126","2021","George Wares","D-III","American Rivers",20,14,0,0.588
+"6","Central (IA)","126","2020","George Wares","D-III","American Rivers",6,1,0,0.857
+"7","Central (IA)","126","2019","George Wares","D-III","American Rivers",27,10,0,0.73
+"8","Central (IA)","126","2018","George Wares","D-III","American Rivers",29,12,NA,0.707
+"9","Central (IA)","126","2017","George Wares","D-III","American Rivers",32,10,0,0.762
+"10","Central (IA)","126","2016","George Wares","D-III","American Rivers",23,15,0,0.605
+"11","Central (IA)","126","2015","George Wares","D-III","American Rivers",34,12,0,0.739
+"12","Central (IA)","126","2014","George Wares","D-III","American Rivers",30,12,0,0.714
+"13","Central (IA)","126","2013","George Wares","D-III","American Rivers",32,10,0,0.762
+"14","Central (IA)","126","2012","George Wares","D-III","American Rivers",36,10,0,0.783
+"15","Central (IA)","126","2011","George Wares","D-III","American Rivers",39,9,0,0.813
+"16","Central (IA)","126","2010","George Wares","D-III","American Rivers",30,14,0,0.682
+"17","Central (IA)","126","2009","George Wares","D-III","American Rivers",36,8,0,0.818
+"18","Central (IA)","126","2008","George Wares","D-III","American Rivers",24,16,0,0.6
+"19","Central (IA)","126","2007","George Wares","D-III","American Rivers",27,13,0,0.675
+"20","Central (IA)","126","2006","George Wares","D-III","American Rivers",33,13,0,0.717
+"21","Central (IA)","126","2005","George Wares","D-III","American Rivers",28,12,0,0.7
+"22","Central (IA)","126","2004","George Wares","D-III","American Rivers",35,9,0,0.795
+"23","Central (IA)","126","2003","George Wares","D-III","American Rivers",41,5,1,0.883
+"24","Central (IA)","126","2002","George Wares","D-III","American Rivers",36,5,0,0.878
+"25","Central (IA)","126","2001","George Wares","D-III","-",41,10,NA,0.804
+"26","Central (IA)","126","1900","George Wares","D-III","-",40,10,NA,0.8
+"27","Central (IA)","126","1999","George Wares","D-III","-",34,11,1,0.75
+"28","Central (IA)","126","1998","George Wares","D-III","-",30,15,NA,0.667
+"29","Central (IA)","126","1997","George Wares","D-III","-",35,12,NA,0.745
+"30","Central (IA)","126","1996","George Wares","D-III","-",29,15,NA,0.659
+"31","Central (IA)","126","1995","George Wares","D-III","-",35,13,NA,0.729
+"32","Central (IA)","126","1994","George Wares","D-III","-",35,14,NA,0.714
+"33","Central (IA)","126","1993","George Wares","D-III","-",38,2,NA,0.95
+"34","Central (IA)","126","1992","George Wares","D-III","-",31,11,NA,0.738
+"35","Central (IA)","126","1991","George Wares","D-III","-",42,6,NA,0.875
+"36","Central (IA)","126","1990","George Wares","D-III","-",32,15,NA,0.681
+"37","Central (IA)","126","1989","George Wares","D-III","-",36,11,NA,0.766
+"38","Central (IA)","126","1988","George Wares","D-III","-",35,10,NA,0.778
+"39","Central (IA)","126","1987","George Wares","D-III","-",33,10,NA,0.767
+"40","Central (IA)","126","1986","George Wares","D-III","-",35,20,1,0.634
+"41","Central (IA)","126","1985","George Wares","D-III","-",19,14,0,0.576
+"42","Central (IA)","126","1984","Gary Boeyink","D-III","-",10,15,NA,0.4
+"43","Central (IA)","126","1983","Gary Boeyink","D-III","-",10,9,NA,0.526
+"44","Central (IA)","126","1982","Gary Boeyink","D-III","-",6,14,NA,0.3
+"45","Central (IA)","126","1981","Gary Boeyink","","-",3,23,NA,0.115
+"46","Central (IA)","126","1980","Gary Boeyink","","-",3,19,NA,0.136
+"47","Central (IA)","126","1979","Gary Boeyink","","-",5,6,NA,0.455
+"48","Central (IA)","126","1978","Gary Boeyink","","-",7,15,NA,0.318
+"49","Central (IA)","126","1977","Gary Boeyink","","-",11,12,NA,0.478
+"50","Central (IA)","126","1976","Jim Van Hoeven","","-",4,16,NA,0.2
+"51","Central (IA)","126","1975","Gary Boeyink","","-",3,11,NA,0.214
+"52","Central (IA)","126","1974","Gary Boeyink","","-",4,9,NA,0.308
+"53","Central (IA)","126","","","","",1331,599,3,0.689

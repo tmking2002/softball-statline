@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Leanne Baker","PSAC","34-21-0",0.618
-"2",2022,"Leanne Baker","PSAC","32-16-0",0.667
-"3",2021,"Leanne Baker","PSAC","18-21-0",0.462
-"4",2020,"Leanne Baker","PSAC","6-10-0",0.375
-"5",2019,"Leanne Baker","PSAC","9-34-0",0.209
-"6",2018,"Leanne Baker","PSAC","8-30-0",0.211
-"7",2017,"Leanne Baker","PSAC","16-30-1",0.348
-"8",2016,"Leanne Baker","PSAC","13-23-0",0.361
-"9",2015,"Leanne Baker","PSAC","16-29-0",0.356
-"10",2014,"Leanne Baker","PSAC","15-26-1",0.366
-"11",2013,"Sara Headley","PSAC","20-30-0",0.4
-"12",2012,"Sara Headley","PSAC","26-25-0",0.51
-"13",2011,"Sara Headley","PSAC","24-20-0",0.545
-"14",2010,"Sara Headley","PSAC","23-23-0",0.5
-"15",2009,"Sara Headley","PSAC","20-23-0",0.465
-"16",2008,"Sara Headley","GLIAC","25-30-0",0.455
-"17",2007,"Sara Headley","GLIAC","23-23-0",0.5
-"18",2006,"Sara Headley","GLIAC","17-30-0",0.362
-"19",2005,"Sara Headley","GLIAC","20-21-0",0.488
-"20",2004,"Sara Headley","GLIAC","16-23-1",0.41
-"21",2003,"Carl Triola","GLIAC","9-34-1",0.209
-"22",2002,"Carl Triola","-","20-20-2",0.5
-"23",2001,"Carl Triola","-","5-35-0",0.125
-"24",2000,"Carl Triola","-","7-21-0",0.25
-"25",1999,"Carrie Roberts","-","11-33-1",0.25
-"26",1998,"Amy Weaver","-","18-28-0",0.391
-"27",1997,"Amy Weaver","-","11-33-0",0.25
-"28",1996,"Amy Weaver","-","6-29-0",0.171
-"29",1995,"Amy Weaver","-","13-13-0",0.5
-"30",1994,"Amy Weaver","-","13-17-0",0.433
-"31",1993,"Amy Weaver","-","9-15-0",0.375
-"32",1992,"Toby Eichas","-","6-18-0",0.25
-"33",1991,"Toby Eichas","-","15-12-0",0.556
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"","-","0-0-0",NA
-"44",2024,"Leanne Baker","PSAC","16-25-0",0.39
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mercyhurst","408","2025","Leanne Baker","D-I","NEC",0,0,0,0
+"2","Mercyhurst","408","2024","Leanne Baker","D-II","PSAC",18,27,0,0.4
+"3","Mercyhurst","408","2023","Leanne Baker","D-II","PSAC",34,21,0,0.618
+"4","Mercyhurst","408","2022","Leanne Baker","D-II","PSAC",32,16,0,0.667
+"5","Mercyhurst","408","2021","Leanne Baker","D-II","PSAC",18,21,0,0.462
+"6","Mercyhurst","408","2020","Leanne Baker","D-II","PSAC",6,10,0,0.375
+"7","Mercyhurst","408","2019","Leanne Baker","D-II","PSAC",9,34,0,0.209
+"8","Mercyhurst","408","2018","Leanne Baker","D-II","PSAC",8,30,NA,0.211
+"9","Mercyhurst","408","2017","Leanne Baker","D-II","PSAC",16,30,1,0.351
+"10","Mercyhurst","408","2016","Leanne Baker","D-II","PSAC",13,23,0,0.361
+"11","Mercyhurst","408","2015","Leanne Baker","D-II","PSAC",16,29,0,0.356
+"12","Mercyhurst","408","2014","Leanne Baker","D-II","PSAC",15,26,1,0.369
+"13","Mercyhurst","408","2013","Sara Headley","D-II","PSAC",20,30,0,0.4
+"14","Mercyhurst","408","2012","Sara Headley","D-II","PSAC",26,25,0,0.51
+"15","Mercyhurst","408","2011","Sara Headley","D-II","PSAC",24,20,0,0.545
+"16","Mercyhurst","408","2010","Sara Headley","D-II","PSAC",23,23,0,0.5
+"17","Mercyhurst","408","2009","Sara Headley","D-II","PSAC",20,23,0,0.465
+"18","Mercyhurst","408","2008","Sara Headley","D-II","GLIAC",25,30,0,0.455
+"19","Mercyhurst","408","2007","Sara Headley","D-II","GLIAC",23,23,0,0.5
+"20","Mercyhurst","408","2006","Sara Headley","D-II","GLIAC",17,30,0,0.362
+"21","Mercyhurst","408","2005","Sara Headley","D-II","GLIAC",20,21,0,0.488
+"22","Mercyhurst","408","2004","Sara Headley","D-II","GLIAC",16,23,1,0.413
+"23","Mercyhurst","408","2003","Carl Triola","D-II","GLIAC",9,34,1,0.216
+"24","Mercyhurst","408","2002","Carl Triola","D-II","-",20,20,2,0.5
+"25","Mercyhurst","408","2001","Carl Triola","D-II","-",5,35,0,0.125
+"26","Mercyhurst","408","1900","Carl Triola","D-II","-",7,21,0,0.25
+"27","Mercyhurst","408","1999","Carrie Roberts","D-II","-",11,33,1,0.256
+"28","Mercyhurst","408","1998","Amy Weaver","D-II","-",18,28,0,0.391
+"29","Mercyhurst","408","1997","Amy Weaver","D-II","-",11,33,0,0.25
+"30","Mercyhurst","408","1996","Amy Weaver","D-II","-",6,29,NA,0.171
+"31","Mercyhurst","408","1995","Amy Weaver","D-II","-",13,13,NA,0.5
+"32","Mercyhurst","408","1994","Amy Weaver","D-II","-",13,17,NA,0.433
+"33","Mercyhurst","408","1993","Amy Weaver","D-II","-",9,15,NA,0.375
+"34","Mercyhurst","408","1992","Toby Eichas","D-II","-",6,18,NA,0.25
+"35","Mercyhurst","408","1991","Toby Eichas","D-II","-",15,12,NA,0.556
+"36","Mercyhurst","408","1990","","D-II","-",NA,NA,NA,NA
+"37","Mercyhurst","408","1989","","D-II","-",NA,NA,NA,NA
+"38","Mercyhurst","408","1988","","D-II","-",NA,NA,NA,NA
+"39","Mercyhurst","408","1987","","D-II","-",NA,NA,NA,NA
+"40","Mercyhurst","408","1986","","D-II","-",NA,NA,NA,NA
+"41","Mercyhurst","408","1985","","D-II","-",NA,NA,NA,NA
+"42","Mercyhurst","408","1984","","D-II","-",NA,NA,NA,NA
+"43","Mercyhurst","408","1983","","D-II","-",NA,NA,NA,NA
+"44","Mercyhurst","408","1982","","D-II","-",NA,NA,NA,NA
+"45","Mercyhurst","408","1981","","D-II","-",NA,NA,NA,NA
+"46","Mercyhurst","408","","","","",542,823,7,0.398

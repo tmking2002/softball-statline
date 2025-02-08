@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Judy Lawes","PSAC","30-26-0",0.536
-"2",2022,"Judy Lawes","PSAC","40-15-0",0.727
-"3",2021,"Judy Lawes","PSAC","33-15-0",0.688
-"4",2020,"Judy Lawes","PSAC","15-7-0",0.682
-"5",2019,"Judy Lawes","PSAC","36-20-0",0.643
-"6",2018,"Judy Lawes","PSAC","16-21-0",0.432
-"7",2017,"Judy Lawes","PSAC","31-17-0",0.646
-"8",2016,"Judy Lawes","PSAC","33-17-0",0.66
-"9",2015,"Judy Lawes","PSAC","30-18-0",0.625
-"10",2014,"Judy Lawes","PSAC","20-29-0",0.408
-"11",2013,"Judy Lawes","PSAC","37-22-0",0.627
-"12",2012,"Judy Lawes","PSAC","52-7-0",0.881
-"13",2011,"Judy Lawes","PSAC","41-16-0",0.719
-"14",2010,"Judy Lawes","PSAC","43-18-0",0.705
-"15",2009,"Judy Lawes","PSAC","46-12-1",0.793
-"16",2008,"Judy Lawes","PSAC","48-14-0",0.774
-"17",2007,"Judy Lawes","PSAC","43-18-0",0.705
-"18",2006,"Judy Lawes","PSAC","32-19-0",0.627
-"19",2005,"Judy Lawes","PSAC","27-24-0",0.529
-"20",2004,"Judy Lawes","PSAC","28-17-0",0.622
-"21",2003,"Judy Lawes","PSAC","23-18-0",0.561
-"22",2002,"Judy Lawes","PSAC","28-18-0",0.609
-"23",2001,"Judy Lawes","-","28-21-0",0.571
-"24",2000,"Judy Lawes","-","34-15-1",0.694
-"25",1999,"Judy Lawes","-","24-23-0",0.511
-"26",1998,"Judy Lawes","-","25-22-0",0.532
-"27",1997,"Judy Lawes","-","22-18-0",0.55
-"28",1996,"Judy Lawes","-","35-18-0",0.66
-"29",1995,"Judy Lawes","-","39-18-0",0.684
-"30",1994,"Judy Lawes","-","24-11-0",0.686
-"31",1993,"Judy Lawes","-","18-17-0",0.514
-"32",1992,"Judy Lawes","-","23-12-0",0.657
-"33",1991,"Judy Lawes","-","22-18-0",0.55
-"34",1990,"Judy Lawes","-","25-12-0",0.676
-"35",1989,"Judy Lawes","-","24-16-0",0.6
-"36",1988,"Judy Lawes","-","20-11-0",0.645
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",2024,"Judy Lawes","PSAC","32-24-0",0.571
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kutztown","339","2025","Judy Lawes","D-II","PSAC",5,0,0,1
+"2","Kutztown","339","2024","Judy Lawes","D-II","PSAC",37,25,0,0.597
+"3","Kutztown","339","2023","Judy Lawes","D-II","PSAC",30,26,0,0.536
+"4","Kutztown","339","2022","Judy Lawes","D-II","PSAC",40,15,0,0.727
+"5","Kutztown","339","2021","Judy Lawes","D-II","PSAC",33,15,0,0.688
+"6","Kutztown","339","2020","Judy Lawes","D-II","PSAC",15,7,0,0.682
+"7","Kutztown","339","2019","Judy Lawes","D-II","PSAC",36,20,0,0.643
+"8","Kutztown","339","2018","Judy Lawes","D-II","PSAC",16,21,NA,0.432
+"9","Kutztown","339","2017","Judy Lawes","D-II","PSAC",31,17,0,0.646
+"10","Kutztown","339","2016","Judy Lawes","D-II","PSAC",33,17,0,0.66
+"11","Kutztown","339","2015","Judy Lawes","D-II","PSAC",30,18,0,0.625
+"12","Kutztown","339","2014","Judy Lawes","D-II","PSAC",20,29,0,0.408
+"13","Kutztown","339","2013","Judy Lawes","D-II","PSAC",37,22,0,0.627
+"14","Kutztown","339","2012","Judy Lawes","D-II","PSAC",52,7,0,0.881
+"15","Kutztown","339","2011","Judy Lawes","D-II","PSAC",41,16,0,0.719
+"16","Kutztown","339","2010","Judy Lawes","D-II","PSAC",43,18,0,0.705
+"17","Kutztown","339","2009","Judy Lawes","D-II","PSAC",46,12,1,0.788
+"18","Kutztown","339","2008","Judy Lawes","D-II","PSAC",48,14,0,0.774
+"19","Kutztown","339","2007","Judy Lawes","D-II","PSAC",43,18,0,0.705
+"20","Kutztown","339","2006","Judy Lawes","D-II","PSAC",32,19,0,0.627
+"21","Kutztown","339","2005","Judy Lawes","D-II","PSAC",27,24,0,0.529
+"22","Kutztown","339","2004","Judy Lawes","D-II","PSAC",28,17,0,0.622
+"23","Kutztown","339","2003","Judy Lawes","D-II","PSAC",23,18,0,0.561
+"24","Kutztown","339","2002","Judy Lawes","D-II","PSAC",28,18,0,0.609
+"25","Kutztown","339","2001","Judy Lawes","D-II","-",28,21,NA,0.571
+"26","Kutztown","339","1900","Judy Lawes","D-II","-",34,15,1,0.69
+"27","Kutztown","339","1999","Judy Lawes","D-II","-",24,23,NA,0.511
+"28","Kutztown","339","1998","Judy Lawes","D-II","-",25,22,NA,0.532
+"29","Kutztown","339","1997","Judy Lawes","D-II","-",22,18,NA,0.55
+"30","Kutztown","339","1996","Judy Lawes","D-II","-",35,18,NA,0.66
+"31","Kutztown","339","1995","Judy Lawes","D-II","-",39,18,NA,0.684
+"32","Kutztown","339","1994","Judy Lawes","D-II","-",24,11,NA,0.686
+"33","Kutztown","339","1993","Judy Lawes","D-II","-",18,17,NA,0.514
+"34","Kutztown","339","1992","Judy Lawes","D-II","-",23,12,NA,0.657
+"35","Kutztown","339","1991","Judy Lawes","D-II","-",22,18,NA,0.55
+"36","Kutztown","339","1990","Judy Lawes","D-II","-",25,12,NA,0.676
+"37","Kutztown","339","1989","Judy Lawes","D-II","-",24,16,NA,0.6
+"38","Kutztown","339","1988","Judy Lawes","D-II","-",20,11,NA,0.645
+"39","Kutztown","339","1987","","D-II","-",NA,NA,NA,NA
+"40","Kutztown","339","1986","","D-II","-",NA,NA,NA,NA
+"41","Kutztown","339","","","","",1137,645,2,0.638

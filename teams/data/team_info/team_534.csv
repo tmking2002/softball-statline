@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brian Kolze","WCC","10-30-0",0.25
-"2",2022,"Brian Kolze","WCC","12-37-0",0.245
-"3",2021,"Brian Kolze","WCC","14-14-1",0.5
-"4",2020,"Brian Kolze","WCC","15-10-0",0.6
-"5",2019,"Brian Kolze","WCC","17-32-0",0.347
-"6",2018,"Brian Kolze","WCC","20-27-0",0.426
-"7",2017,"Brian Kolze","WCC","28-26-0",0.519
-"8",2016,"Brian Kolze","WCC","20-28-0",0.417
-"9",2015,"Brian Kolze","WCC","19-36-0",0.345
-"10",2014,"Brian Kolze","WCC","20-28-0",0.417
-"11",2013,"Brian Kolze","Big West","28-28-0",0.5
-"12",2012,"Brian Kolze","Big West","38-21-0",0.644
-"13",2011,"Brian Kolze","Big West","37-19-0",0.661
-"14",2010,"Brian Kolze","Big West","24-30-0",0.444
-"15",2009,"Brian Kolze","Big West","18-34-0",0.346
-"16",2008,"Brian Kolze","Big West","25-34-0",0.424
-"17",2007,"Brian Kolze","Big West","36-24-0",0.6
-"18",2006,"Brian Kolze","Big West","26-25-0",0.51
-"19",2005,"Brian Kolze","Big West","30-25-0",0.545
-"20",2004,"Brian Kolze","Big West","36-23-0",0.61
-"21",2003,"Brian Kolze","Big West","34-24-0",0.586
-"22",2002,"Brian Kolze","Big West","43-17-0",0.717
-"23",2001,"Brian Kolze","Big West","50-13-0",0.794
-"24",2000,"Brian Kolze","Big West","31-25-0",0.554
-"25",1999,"Brian Kolze","Big West","38-22-0",0.633
-"26",1998,"Brian Kolze","-","29-22-0",0.569
-"27",1997,"Brian Kolze","Big West","31-24-0",0.564
-"28",1996,"Brian Kolze","-","26-25-0",0.51
-"29",1995,"Brian Kolze","-","17-35-0",0.327
-"30",1994,"Brian Kolze","-","30-30-0",0.5
-"31",1993,"Brian Kolze","-","19-34-1",0.358
-"32",1992,"Theresa Lowry","-","23-38-0",0.377
-"33",1991,"Theresa Lowry","-","26-37-1",0.413
-"34",1990,"Theresa Lowry","-","30-28-0",0.517
-"35",1989,"Theresa Lowry","-","22-33-0",0.4
-"36",1988,"Theresa Lowry","-","35-27-0",0.565
-"37",1987,"Theresa Lowry","-","16-43-0",0.271
-"38",1986,"Theresa Lowry","-","34-18-1",0.654
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Brian Kolze","WCC","17-36-0",0.321
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Pacific","534","2025","Sam Duran-Kukuk","D-I","WCC",0,2,0,0
+"2","Pacific","534","2024","Brian Kolze","D-I","WCC",17,36,0,0.321
+"3","Pacific","534","2023","Brian Kolze","D-I","WCC",10,30,0,0.25
+"4","Pacific","534","2022","Brian Kolze","D-I","WCC",12,37,0,0.245
+"5","Pacific","534","2021","Brian Kolze","D-I","WCC",14,14,1,0.5
+"6","Pacific","534","2020","Brian Kolze","D-I","WCC",15,10,0,0.6
+"7","Pacific","534","2019","Brian Kolze","D-I","WCC",17,32,0,0.347
+"8","Pacific","534","2018","Brian Kolze","D-I","WCC",20,27,NA,0.426
+"9","Pacific","534","2017","Brian Kolze","D-I","WCC",28,26,0,0.519
+"10","Pacific","534","2016","Brian Kolze","D-I","WCC",20,28,0,0.417
+"11","Pacific","534","2015","Brian Kolze","D-I","WCC",19,36,0,0.345
+"12","Pacific","534","2014","Brian Kolze","D-I","WCC",20,28,0,0.417
+"13","Pacific","534","2013","Brian Kolze","D-I","Big West",28,28,0,0.5
+"14","Pacific","534","2012","Brian Kolze","D-I","Big West",38,21,0,0.644
+"15","Pacific","534","2011","Brian Kolze","D-I","Big West",37,19,0,0.661
+"16","Pacific","534","2010","Brian Kolze","D-I","Big West",24,30,0,0.444
+"17","Pacific","534","2009","Brian Kolze","D-I","Big West",18,34,0,0.346
+"18","Pacific","534","2008","Brian Kolze","D-I","Big West",25,34,0,0.424
+"19","Pacific","534","2007","Brian Kolze","D-I","Big West",36,24,0,0.6
+"20","Pacific","534","2006","Brian Kolze","D-I","Big West",26,25,0,0.51
+"21","Pacific","534","2005","Brian Kolze","D-I","Big West",30,25,0,0.545
+"22","Pacific","534","2004","Brian Kolze","D-I","Big West",36,23,0,0.61
+"23","Pacific","534","2003","Brian Kolze","D-I","Big West",34,24,0,0.586
+"24","Pacific","534","2002","Brian Kolze","D-I","Big West",43,17,0,0.717
+"25","Pacific","534","2001","Brian Kolze","D-I","Big West",50,13,0,0.794
+"26","Pacific","534","1900","Brian Kolze","D-I","Big West",31,25,0,0.554
+"27","Pacific","534","1999","Brian Kolze","D-I","Big West",38,22,0,0.633
+"28","Pacific","534","1998","Brian Kolze","D-I","-",29,22,NA,0.569
+"29","Pacific","534","1997","Brian Kolze","D-I","Big West",31,24,0,0.564
+"30","Pacific","534","1996","Brian Kolze","D-I","-",26,25,NA,0.51
+"31","Pacific","534","1995","Brian Kolze","D-I","-",17,35,NA,0.327
+"32","Pacific","534","1994","Brian Kolze","D-I","-",30,30,NA,0.5
+"33","Pacific","534","1993","Brian Kolze","D-I","-",19,34,1,0.361
+"34","Pacific","534","1992","Theresa Lowry","D-I","-",23,38,NA,0.377
+"35","Pacific","534","1991","Theresa Lowry","D-I","-",26,37,1,0.414
+"36","Pacific","534","1990","Theresa Lowry","D-I","-",30,28,NA,0.517
+"37","Pacific","534","1989","Theresa Lowry","D-I","-",22,33,NA,0.4
+"38","Pacific","534","1988","Theresa Lowry","D-I","-",35,27,NA,0.565
+"39","Pacific","534","1987","Theresa Lowry","D-I","-",16,43,NA,0.271
+"40","Pacific","534","1986","Theresa Lowry","D-I","-",34,18,1,0.651
+"41","Pacific","534","1985","","D-I","-",NA,NA,NA,NA
+"42","Pacific","534","1984","","D-I","-",NA,NA,NA,NA
+"43","Pacific","534","1983","","D-I","-",NA,NA,NA,NA
+"44","Pacific","534","1982","","D-I","-",NA,NA,NA,NA
+"45","Pacific","534","","","","",1024,1064,4,0.49

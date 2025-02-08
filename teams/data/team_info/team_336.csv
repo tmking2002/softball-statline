@@ -1,38 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Lisa Gigliello","MAC Freedom","24-15-0","0.615"
-"2","2022","Lisa Gigliello","MAC Freedom","20-12-0","0.625"
-"3","2021","Lisa Gigliello","MAC Freedom","20-12-0","0.625"
-"4","2020","Lisa Gigliello","MAC Freedom","5-3-0","0.625"
-"5","2019","Lisa Gigliello","MAC Freedom","19-18-0","0.514"
-"6","2018","Lisa Gigliello","MAC Freedom","23-20-0","0.535"
-"7","2017","Lisa Gigliello","MAC Freedom","19-19-0","0.500"
-"8","2016","Lisa Gigliello","MAC Freedom","23-18-0","0.561"
-"9","2015","Lisa Gigliello","MAC Freedom","17-14-0","0.548"
-"10","2014","Lisa Gigliello","MAC Freedom","28-10-0","0.737"
-"11","2013","Lisa Gigliello","MAC Freedom","23-9-0","0.719"
-"12","2012","Lisa Gigliello","MAC Freedom","29-13-0","0.690"
-"13","2011","Lisa Gigliello","MAC Freedom","19-13-0","0.594"
-"14","2010","Lisa Gigliello","MAC Freedom","23-18-0","0.561"
-"15","2009","Lisa Gigliello","MAC Freedom","24-14-0","0.632"
-"16","2008","Lisa Gigliello","MAC Freedom","20-13-0","0.606"
-"17","2007","Lisa Gigliello","MAC Freedom","34-8-0","0.810"
-"18","2006","Lisa Gigliello","MAC Freedom","39-9-0","0.812"
-"19","2005","Lisa Gigliello","MAC Freedom","34-12-0","0.739"
-"20","2004","Lisa Gigliello","MAC Freedom","39-10-0","0.796"
-"21","2003","Lisa Gigliello","MAC Freedom","24-11-0","0.686"
-"22","2002","Lisa Gigliello","MAC Freedom","36-10-1","0.783"
-"23","2001","Lisa Gigliello","-","28-12-0","0.700"
-"24","2000","Lisa Gigliello","-","38-6-0","0.864"
-"25","1999","Lisa Gigliello","-","23-10-0","0.697"
-"26","1998","Lisa Gigliello","-","22-10-0","0.688"
-"27","1997","Lisa Gigliello","-","20-12-1","0.625"
-"28","1996","Lisa Gigliello","-","15-16-0","0.484"
-"29","1995","Lisa Gigliello","-","14-17-0","0.452"
-"30","1994","Lisa Gigliello","-","7-18-0","0.280"
-"31","1993","Robin Cummins","-","4-8-0","0.333"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","King's (PA)","336","2025","Lisa Gigliello","D-III","MAC Freedom",0,0,0,0
+"2","King's (PA)","336","2024","Lisa Gigliello","D-III","MAC Freedom",12,22,0,0.353
+"3","King's (PA)","336","2023","Lisa Gigliello","D-III","MAC Freedom",24,15,0,0.615
+"4","King's (PA)","336","2022","Lisa Gigliello","D-III","MAC Freedom",20,12,0,0.625
+"5","King's (PA)","336","2021","Lisa Gigliello","D-III","MAC Freedom",20,12,0,0.625
+"6","King's (PA)","336","2020","Lisa Gigliello","D-III","MAC Freedom",5,3,0,0.625
+"7","King's (PA)","336","2019","Lisa Gigliello","D-III","MAC Freedom",19,18,0,0.514
+"8","King's (PA)","336","2018","Lisa Gigliello","D-III","MAC Freedom",23,20,NA,0.535
+"9","King's (PA)","336","2017","Lisa Gigliello","D-III","MAC Freedom",19,19,0,0.5
+"10","King's (PA)","336","2016","Lisa Gigliello","D-III","MAC Freedom",23,18,0,0.561
+"11","King's (PA)","336","2015","Lisa Gigliello","D-III","MAC Freedom",17,14,0,0.548
+"12","King's (PA)","336","2014","Lisa Gigliello","D-III","MAC Freedom",28,10,0,0.737
+"13","King's (PA)","336","2013","Lisa Gigliello","D-III","MAC Freedom",23,9,0,0.719
+"14","King's (PA)","336","2012","Lisa Gigliello","D-III","MAC Freedom",29,13,0,0.69
+"15","King's (PA)","336","2011","Lisa Gigliello","D-III","MAC Freedom",19,13,0,0.594
+"16","King's (PA)","336","2010","Lisa Gigliello","D-III","MAC Freedom",23,18,0,0.561
+"17","King's (PA)","336","2009","Lisa Gigliello","D-III","MAC Freedom",24,14,0,0.632
+"18","King's (PA)","336","2008","Lisa Gigliello","D-III","MAC Freedom",20,13,0,0.606
+"19","King's (PA)","336","2007","Lisa Gigliello","D-III","MAC Freedom",34,8,0,0.81
+"20","King's (PA)","336","2006","Lisa Gigliello","D-III","MAC Freedom",39,9,0,0.813
+"21","King's (PA)","336","2005","Lisa Gigliello","D-III","MAC Freedom",34,12,0,0.739
+"22","King's (PA)","336","2004","Lisa Gigliello","D-III","MAC Freedom",39,10,0,0.796
+"23","King's (PA)","336","2003","Lisa Gigliello","D-III","MAC Freedom",24,11,0,0.686
+"24","King's (PA)","336","2002","Lisa Gigliello","D-III","MAC Freedom",36,10,1,0.777
+"25","King's (PA)","336","2001","Lisa Gigliello","D-III","-",28,12,NA,0.7
+"26","King's (PA)","336","1900","Lisa Gigliello","D-III","-",38,6,NA,0.864
+"27","King's (PA)","336","1999","Lisa Gigliello","D-III","-",23,10,NA,0.697
+"28","King's (PA)","336","1998","Lisa Gigliello","D-III","-",22,10,NA,0.688
+"29","King's (PA)","336","1997","Lisa Gigliello","D-III","-",20,12,1,0.621
+"30","King's (PA)","336","1996","Lisa Gigliello","D-III","-",15,16,NA,0.484
+"31","King's (PA)","336","1995","Lisa Gigliello","D-III","-",14,17,NA,0.452
+"32","King's (PA)","336","1994","Lisa Gigliello","D-III","-",7,18,NA,0.28
+"33","King's (PA)","336","1993","Robin Cummins","D-III","-",4,8,NA,0.333
+"34","King's (PA)","336","1992","","D-III","-",NA,NA,NA,NA
+"35","King's (PA)","336","1991","","D-III","-",NA,NA,NA,NA
+"36","King's (PA)","336","1990","","D-III","-",NA,NA,NA,NA
+"37","King's (PA)","336","1989","","D-III","-",NA,NA,NA,NA
+"38","King's (PA)","336","1988","","D-III","-",NA,NA,NA,NA
+"39","King's (PA)","336","1981","","","-",NA,NA,NA,NA
+"40","King's (PA)","336","","","","",725,412,2,0.637

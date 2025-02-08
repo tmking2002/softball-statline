@@ -1,16 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2023","","-","0-0-0",0
-"3","2022","","-","0-0-0",0
-"4","2021","","-","0-0-0",0
-"5","2020","","-","0-0-0",0
-"6","2019","","-","0-0-0",0
-"7","2018","James Kling","-","24-11-0",0.686
-"8","2017","James Kling","-","25-22-0",0.532
-"9","2016","James Kling","-","28-20-0",0.583
-"10","2015","James Kling","-","39-14-0",0.736
-"11","2014","James Kling","-","39-12-1",0.76
-"12","2013","James Kling","-","15-32-0",0.319
-"13","2012","James Kling","-","28-18-0",0.609
-"14","2011","James Kling","-","26-20-0",0.565
-"15","2010","","-","2-2-0",0.5
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Our Lady of the Lake","503987","2025","",NA,"-",NA,NA,NA,0
+"2","Our Lady of the Lake","503987","2024","",NA,"-",NA,NA,NA,0
+"3","Our Lady of the Lake","503987","2023","",NA,"-",NA,NA,NA,0
+"4","Our Lady of the Lake","503987","2022","",NA,"-",NA,NA,NA,0
+"5","Our Lady of the Lake","503987","2021","",NA,"-",NA,NA,NA,0
+"6","Our Lady of the Lake","503987","2020","",NA,"-",NA,NA,NA,0
+"7","Our Lady of the Lake","503987","2019","",NA,"-",NA,NA,NA,0
+"8","Our Lady of the Lake","503987","2018","James Kling",NA,"-",24,11,0,0.686
+"9","Our Lady of the Lake","503987","2017","James Kling",NA,"-",25,22,0,0.532
+"10","Our Lady of the Lake","503987","2016","James Kling",NA,"-",28,20,0,0.583
+"11","Our Lady of the Lake","503987","2015","James Kling",NA,"-",39,14,0,0.736
+"12","Our Lady of the Lake","503987","2014","James Kling",NA,"-",39,12,1,0.76
+"13","Our Lady of the Lake","503987","2013","James Kling",NA,"-",15,32,0,0.319
+"14","Our Lady of the Lake","503987","2012","James Kling",NA,"-",28,18,0,0.609
+"15","Our Lady of the Lake","503987","2011","James Kling",NA,"-",26,20,0,0.565
+"16","Our Lady of the Lake","503987","2010","",NA,"-",2,2,0,0.5
+"17","Our Lady of the Lake","503987","","",NA,"",226,151,1,0.599

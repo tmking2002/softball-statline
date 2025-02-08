@@ -1,29 +1,31 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mike White","Big 12","45-15-1",0.75
-"2",2022,"Mike White","Big 12","47-22-1",0.681
-"3",2021,"Mike White","Big 12","43-14-0",0.754
-"4",2020,"Mike White","Big 12","24-3-0",0.889
-"5",2019,"Mike White","Big 12","46-17-0",0.73
-"6",2018,"Connie Clark","Big 12","33-26-0",0.559
-"7",2017,"Connie Clark","Big 12","33-26-0",0.559
-"8",2016,"Connie Clark","Big 12","38-16-0",0.704
-"9",2015,"Connie Clark","Big 12","38-17-0",0.691
-"10",2014,"Connie Clark","Big 12","35-23-0",0.603
-"11",2013,"Connie Clark","Big 12","51-10-0",0.836
-"12",2012,"Connie Clark","Big 12","47-13-0",0.783
-"13",2011,"Connie Clark","Big 12","46-10-0",0.821
-"14",2010,"Connie Clark","Big 12","43-15-0",0.741
-"15",2009,"Connie Clark","Big 12","40-20-0",0.667
-"16",2008,"Connie Clark","Big 12","29-23-2",0.558
-"17",2007,"Connie Clark","Big 12","35-20-0",0.636
-"18",2006,"Connie Clark","Big 12","55-9-0",0.859
-"19",2005,"Connie Clark","Big 12","49-13-0",0.79
-"20",2004,"Connie Clark","Big 12","24-25-0",0.49
-"21",2003,"Connie Clark","Big 12","49-9-0",0.845
-"22",2002,"Connie Clark","Big 12","50-13-0",0.794
-"23",2001,"Connie Clark","Big 12","24-29-0",0.453
-"24",2000,"Connie Clark","Big 12","30-27-1",0.526
-"25",1999,"Connie Clark","Big 12","45-17-0",0.726
-"26",1998,"Connie Clark","-","49-16-0",0.754
-"27",1997,"Connie Clark","Big 12","30-24-0",0.556
-"28",2024,"Mike White","Big 12","53-8-0",0.869
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Texas","703","2025","Mike White","D-I","SEC",2,0,0,1
+"2","Texas","703","2024","Mike White","D-I","Big 12",55,10,0,0.846
+"3","Texas","703","2023","Mike White","D-I","Big 12",45,15,1,0.746
+"4","Texas","703","2022","Mike White","D-I","Big 12",47,22,1,0.679
+"5","Texas","703","2021","Mike White","D-I","Big 12",43,14,0,0.754
+"6","Texas","703","2020","Mike White","D-I","Big 12",24,3,0,0.889
+"7","Texas","703","2019","Mike White","D-I","Big 12",46,17,0,0.73
+"8","Texas","703","2018","Connie Clark","D-I","Big 12",33,26,0,0.559
+"9","Texas","703","2017","Connie Clark","D-I","Big 12",33,26,0,0.559
+"10","Texas","703","2016","Connie Clark","D-I","Big 12",38,16,0,0.704
+"11","Texas","703","2015","Connie Clark","D-I","Big 12",38,17,0,0.691
+"12","Texas","703","2014","Connie Clark","D-I","Big 12",35,23,0,0.603
+"13","Texas","703","2013","Connie Clark","D-I","Big 12",51,10,0,0.836
+"14","Texas","703","2012","Connie Clark","D-I","Big 12",47,13,0,0.783
+"15","Texas","703","2011","Connie Clark","D-I","Big 12",46,10,0,0.821
+"16","Texas","703","2010","Connie Clark","D-I","Big 12",43,15,0,0.741
+"17","Texas","703","2009","Connie Clark","D-I","Big 12",40,20,0,0.667
+"18","Texas","703","2008","Connie Clark","D-I","Big 12",29,23,2,0.556
+"19","Texas","703","2007","Connie Clark","D-I","Big 12",35,20,0,0.636
+"20","Texas","703","2006","Connie Clark","D-I","Big 12",55,9,0,0.859
+"21","Texas","703","2005","Connie Clark","D-I","Big 12",49,13,0,0.79
+"22","Texas","703","2004","Connie Clark","D-I","Big 12",24,25,0,0.49
+"23","Texas","703","2003","Connie Clark","D-I","Big 12",49,9,0,0.845
+"24","Texas","703","2002","Connie Clark","D-I","Big 12",50,13,0,0.794
+"25","Texas","703","2001","Connie Clark","D-I","Big 12",24,29,0,0.453
+"26","Texas","703","1900","Connie Clark","D-I","Big 12",30,27,1,0.526
+"27","Texas","703","1999","Connie Clark","D-I","Big 12",45,17,0,0.726
+"28","Texas","703","1998","Connie Clark","D-I","-",49,16,NA,0.754
+"29","Texas","703","1997","Connie Clark","D-I","Big 12",30,24,0,0.556
+"30","Texas","703","","","","",1135,482,5,0.701

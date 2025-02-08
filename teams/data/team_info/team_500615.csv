@@ -1,26 +1,28 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","Erin Bly","-","NA-NA-NA",0
-"2","2023","Erin Bly","-","33-16-0",0.673
-"3","2022","Erin Bly","-","19-22-0",0.463
-"4","2021","Erin Bly","-","23-25-0",0.479
-"5","2020","Erin Bly","-","10-5-0",0.667
-"6","2019","Erin Bly","-","11-27-0",0.289
-"7","2018","","-","0-0-0",0
-"8","2016","","-","0-0-0",NA
-"9","2015","","-","0-0-0",NA
-"10","2014","","-","0-0-0",NA
-"11","2013","","-","0-0-0",NA
-"12","2012","","-","0-0-0",NA
-"13","2011","","-","0-0-0",NA
-"14","2010","Heather Hupke","-","0-0-0",NA
-"15","2009","Heather Hupke","-","0-1-0",0
-"16","2008","Heather Hupke","-","19-21-0",0.475
-"17","2007","Heather Hupke","-","21-21-0",0.5
-"18","2006","Heather Hupke","-","11-30-0",0.268
-"19","2005","Heather Hupke","-","26-28-0",0.481
-"20","2004","Heather Hupke","-","21-28-0",0.429
-"21","2003","Heather Hupke","-","20-28-0",0.417
-"22","2002","Heather Hupke","-","20-28-0",0.417
-"23","2001","Heather Hupke","-","20-27-0",0.426
-"24","2000","Heather Hupke","-","20-27-0",0.426
-"25","1999","Heather Hupke","-","20-27-0",0.426
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Briar Cliff (IA)","500615","2025","Erin Bly",NA,"-",NA,NA,NA,0
+"2","Briar Cliff (IA)","500615","2024","Erin Bly",NA,"-",NA,NA,NA,0
+"3","Briar Cliff (IA)","500615","2023","Erin Bly",NA,"-",33,16,0,0.673
+"4","Briar Cliff (IA)","500615","2022","Erin Bly",NA,"-",19,22,0,0.463
+"5","Briar Cliff (IA)","500615","2021","Erin Bly",NA,"-",23,25,0,0.479
+"6","Briar Cliff (IA)","500615","2020","Erin Bly",NA,"-",10,5,0,0.667
+"7","Briar Cliff (IA)","500615","2019","Erin Bly",NA,"-",11,27,0,0.289
+"8","Briar Cliff (IA)","500615","2018","",NA,"-",NA,NA,NA,0
+"9","Briar Cliff (IA)","500615","2016","",NA,"-",NA,NA,NA,NA
+"10","Briar Cliff (IA)","500615","2015","",NA,"-",NA,NA,NA,NA
+"11","Briar Cliff (IA)","500615","2014","",NA,"-",NA,NA,NA,NA
+"12","Briar Cliff (IA)","500615","2013","",NA,"-",NA,NA,NA,NA
+"13","Briar Cliff (IA)","500615","2012","",NA,"-",NA,NA,NA,NA
+"14","Briar Cliff (IA)","500615","2011","",NA,"-",NA,NA,NA,NA
+"15","Briar Cliff (IA)","500615","2010","Heather Hupke",NA,"-",NA,NA,NA,NA
+"16","Briar Cliff (IA)","500615","2009","Heather Hupke",NA,"-",0,1,0,0
+"17","Briar Cliff (IA)","500615","2008","Heather Hupke",NA,"-",19,21,0,0.475
+"18","Briar Cliff (IA)","500615","2007","Heather Hupke",NA,"-",21,21,0,0.5
+"19","Briar Cliff (IA)","500615","2006","Heather Hupke",NA,"-",11,30,0,0.268
+"20","Briar Cliff (IA)","500615","2005","Heather Hupke",NA,"-",26,28,0,0.481
+"21","Briar Cliff (IA)","500615","2004","Heather Hupke",NA,"-",21,28,0,0.429
+"22","Briar Cliff (IA)","500615","2003","Heather Hupke",NA,"-",20,28,0,0.417
+"23","Briar Cliff (IA)","500615","2002","Heather Hupke",NA,"-",20,28,0,0.417
+"24","Briar Cliff (IA)","500615","2001","Heather Hupke",NA,"-",20,27,0,0.426
+"25","Briar Cliff (IA)","500615","1900","Heather Hupke",NA,"-",20,27,0,0.426
+"26","Briar Cliff (IA)","500615","1999","Heather Hupke",NA,"-",20,27,0,0.426
+"27","Briar Cliff (IA)","500615","","",NA,"",294,361,0,0.449

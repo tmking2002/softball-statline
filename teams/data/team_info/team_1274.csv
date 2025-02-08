@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Rich Wagner","Great Northwest","39-17-0",0.696
-"2",2022,"Rich Wagner","Great Northwest","35-21-0",0.625
-"3",2021,"Rich Wagner","Great Northwest","31-14-0",0.689
-"4",2020,"Rich Wagner","Great Northwest","8-8-0",0.5
-"5",2019,"Rich Wagner","Great Northwest","28-24-0",0.538
-"6",2018,"Rich Wagner","Great Northwest","31-23-0",0.574
-"7",2017,"Rich Wagner","Great Northwest","23-27-0",0.46
-"8",2016,"Rich Wagner","Great Northwest","17-29-0",0.37
-"9",2015,"Rich Wagner","Great Northwest","9-37-0",0.196
-"10",2014,"Rich Wagner","Great Northwest","13-34-0",0.277
-"11",2013,"Rich Wagner","Great Northwest","5-39-0",0.114
-"12",2012,"Julie Coert","Great Northwest","8-37-0",0.178
-"13",2011,"Julie Coert","Great Northwest","17-30-0",0.362
-"14",2010,"Julie Coert","Great Northwest","9-38-0",0.191
-"15",2009,"Julie Coert","Great Northwest","9-44-0",0.17
-"16",2008,"Julie Coert","Great Northwest","9-43-0",0.173
-"17",2007,"Julie Coert","Great Northwest","6-33-0",0.154
-"18",2006,"Julie Coert","Great Northwest","23-28-0",0.451
-"19",2005,"Julie Coert","Great Northwest","12-42-0",0.222
-"20",2004,"Julie Coert","Great Northwest","10-39-0",0.204
-"21",2003,"","Great Northwest","3-38-0",0.073
-"22",2002,"","-","4-32-0",0.111
-"23",2024,"Rich Wagner","Great Northwest","32-11-0",0.744
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Northwest Nazarene","1274","2025","Rich Wagner","D-II","Great Northwest",5,4,0,0.556
+"2","Northwest Nazarene","1274","2024","Rich Wagner","D-II","Great Northwest",41,12,0,0.774
+"3","Northwest Nazarene","1274","2023","Rich Wagner","D-II","Great Northwest",39,17,0,0.696
+"4","Northwest Nazarene","1274","2022","Rich Wagner","D-II","Great Northwest",35,21,0,0.625
+"5","Northwest Nazarene","1274","2021","Rich Wagner","D-II","Great Northwest",31,14,0,0.689
+"6","Northwest Nazarene","1274","2020","Rich Wagner","D-II","Great Northwest",8,8,0,0.5
+"7","Northwest Nazarene","1274","2019","Rich Wagner","D-II","Great Northwest",28,24,0,0.538
+"8","Northwest Nazarene","1274","2018","Rich Wagner","D-II","Great Northwest",31,23,NA,0.574
+"9","Northwest Nazarene","1274","2017","Rich Wagner","D-II","Great Northwest",23,27,0,0.46
+"10","Northwest Nazarene","1274","2016","Rich Wagner","D-II","Great Northwest",17,29,0,0.37
+"11","Northwest Nazarene","1274","2015","Rich Wagner","D-II","Great Northwest",9,37,0,0.196
+"12","Northwest Nazarene","1274","2014","Rich Wagner","D-II","Great Northwest",13,34,0,0.277
+"13","Northwest Nazarene","1274","2013","Rich Wagner","D-II","Great Northwest",5,39,0,0.114
+"14","Northwest Nazarene","1274","2012","Julie Coert","D-II","Great Northwest",8,37,0,0.178
+"15","Northwest Nazarene","1274","2011","Julie Coert","D-II","Great Northwest",17,30,0,0.362
+"16","Northwest Nazarene","1274","2010","Julie Coert","D-II","Great Northwest",9,38,0,0.191
+"17","Northwest Nazarene","1274","2009","Julie Coert","D-II","Great Northwest",9,44,0,0.17
+"18","Northwest Nazarene","1274","2008","Julie Coert","D-II","Great Northwest",9,43,0,0.173
+"19","Northwest Nazarene","1274","2007","Julie Coert","D-II","Great Northwest",6,33,0,0.154
+"20","Northwest Nazarene","1274","2006","Julie Coert","D-II","Great Northwest",23,28,0,0.451
+"21","Northwest Nazarene","1274","2005","Julie Coert","D-II","Great Northwest",12,42,0,0.222
+"22","Northwest Nazarene","1274","2004","Julie Coert","D-II","Great Northwest",10,39,0,0.204
+"23","Northwest Nazarene","1274","2003","","D-II","Great Northwest",3,38,0,0.073
+"24","Northwest Nazarene","1274","2002","","","-",4,32,0,0.111
+"25","Northwest Nazarene","1274","","","","",395,693,0,0.363

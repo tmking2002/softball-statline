@@ -1,10 +1,11 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2017",NA,"-","0-0-0",NA
-"7","2016",NA,"-","0-0-0",NA
-"8","2015",NA,"-","0-0-0",NA
-"9","2014",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","San Diego Christian","502122","2023",NA,NA,"-",NA,NA,NA,0
+"2","San Diego Christian","502122","2022",NA,NA,"-",NA,NA,NA,0
+"3","San Diego Christian","502122","2021",NA,NA,"-",NA,NA,NA,0
+"4","San Diego Christian","502122","2020",NA,NA,"-",NA,NA,NA,0
+"5","San Diego Christian","502122","2019",NA,NA,"-",NA,NA,NA,0
+"6","San Diego Christian","502122","2017",NA,NA,"-",NA,NA,NA,NA
+"7","San Diego Christian","502122","2016",NA,NA,"-",NA,NA,NA,NA
+"8","San Diego Christian","502122","2015",NA,NA,"-",NA,NA,NA,NA
+"9","San Diego Christian","502122","2014",NA,NA,"-",NA,NA,NA,NA
+"10","San Diego Christian","502122","",NA,NA,"",0,0,0,0

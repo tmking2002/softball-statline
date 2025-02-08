@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tatjana Matthews","MEAC","7-29-0",0.194
-"2",2022,"Tatjana Matthews","MEAC","3-37-0",0.075
-"3",2021,"Tatjana Matthews","MEAC","4-27-0",0.129
-"4",2020,"Tatjana Matthews","MEAC","0-10-0",0
-"5",2019,"Cheretta Stevenson","MEAC","0-35-0",0
-"6",2018,"Cheretta Stevenson","MEAC","2-31-0",0.061
-"7",2017,"Cheretta Stevenson","MEAC","2-39-0",0.049
-"8",2016,"Cheretta Stevenson","MEAC","5-26-0",0.161
-"9",2015,"Tonja Braxton","MEAC","8-28-0",0.222
-"10",2014,"Tonja Braxton","MEAC","10-28-0",0.263
-"11",2013,"Tonja Braxton","MEAC","16-27-0",0.372
-"12",2012,"Tonja Braxton","MEAC","14-29-0",0.326
-"13",2011,"Donisha Johnson","MEAC","10-44-0",0.185
-"14",2010,"Donisha Johnson","MEAC","9-43-0",0.173
-"15",2009,"Donisha Johnson","MEAC","7-30-0",0.189
-"16",2008,"Antonio Smalls","MEAC","9-24-0",0.273
-"17",2007,"Antonio Smalls","MEAC","6-41-0",0.128
-"18",2006,"Antonio Smalls","MEAC","8-35-0",0.186
-"19",2005,"Antonio Smalls","MEAC","12-31-0",0.279
-"20",2004,"Antonio Smalls","MEAC","14-29-0",0.326
-"21",2003,"Mary Hill","MEAC","18-25-0",0.419
-"22",2002,"Mary Hill","MEAC","19-23-0",0.452
-"23",2001,"Mary Hill","MEAC","15-30-0",0.333
-"24",2000,"Mary Hill","MEAC","14-33-0",0.298
-"25",1999,"Mary Hill","MEAC","14-28-0",0.333
-"26",1998,"Mary Hill","-","24-26-0",0.48
-"27",1997,"Mary Hill","SWAC","16-20-0",0.444
-"28",1996,"Mary Hill","-","3-39-0",0.071
-"29",1995,"Mary Hill","-","2-34-0",0.056
-"30",1994,"Willie Simon","-","1-35-0",0.028
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Tatjana Matthews","MEAC","12-30-0",0.286
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","South Carolina St.","647","2025","Tatjana Matthews","D-I","MEAC",2,1,0,0.667
+"2","South Carolina St.","647","2024","Tatjana Matthews","D-I","MEAC",12,30,0,0.286
+"3","South Carolina St.","647","2023","Tatjana Matthews","D-I","MEAC",7,29,0,0.194
+"4","South Carolina St.","647","2022","Tatjana Matthews","D-I","MEAC",3,37,0,0.075
+"5","South Carolina St.","647","2021","Tatjana Matthews","D-I","MEAC",4,27,0,0.129
+"6","South Carolina St.","647","2020","Tatjana Matthews","D-I","MEAC",0,10,0,0
+"7","South Carolina St.","647","2019","Cheretta Stevenson","D-I","MEAC",0,35,0,0
+"8","South Carolina St.","647","2018","Cheretta Stevenson","D-I","MEAC",2,31,NA,0.061
+"9","South Carolina St.","647","2017","Cheretta Stevenson","D-I","MEAC",2,39,0,0.049
+"10","South Carolina St.","647","2016","Cheretta Stevenson","D-I","MEAC",5,26,0,0.161
+"11","South Carolina St.","647","2015","Tonja Braxton","D-I","MEAC",8,28,0,0.222
+"12","South Carolina St.","647","2014","Tonja Braxton","D-I","MEAC",10,28,0,0.263
+"13","South Carolina St.","647","2013","Tonja Braxton","D-I","MEAC",16,27,0,0.372
+"14","South Carolina St.","647","2012","Tonja Braxton","D-I","MEAC",14,29,0,0.326
+"15","South Carolina St.","647","2011","Donisha Johnson","D-I","MEAC",10,44,0,0.185
+"16","South Carolina St.","647","2010","Donisha Johnson","D-I","MEAC",9,43,0,0.173
+"17","South Carolina St.","647","2009","Donisha Johnson","D-I","MEAC",7,30,0,0.189
+"18","South Carolina St.","647","2008","Antonio Smalls","D-I","MEAC",9,24,0,0.273
+"19","South Carolina St.","647","2007","Antonio Smalls","D-I","MEAC",6,41,0,0.128
+"20","South Carolina St.","647","2006","Antonio Smalls","D-I","MEAC",8,35,0,0.186
+"21","South Carolina St.","647","2005","Antonio Smalls","D-I","MEAC",12,31,0,0.279
+"22","South Carolina St.","647","2004","Antonio Smalls","D-I","MEAC",14,29,0,0.326
+"23","South Carolina St.","647","2003","Mary Hill","D-I","MEAC",18,25,0,0.419
+"24","South Carolina St.","647","2002","Mary Hill","D-I","MEAC",19,23,0,0.452
+"25","South Carolina St.","647","2001","Mary Hill","D-I","MEAC",15,30,0,0.333
+"26","South Carolina St.","647","1900","Mary Hill","D-I","MEAC",14,33,0,0.298
+"27","South Carolina St.","647","1999","Mary Hill","D-I","MEAC",14,28,0,0.333
+"28","South Carolina St.","647","1998","Mary Hill","D-I","-",24,26,NA,0.48
+"29","South Carolina St.","647","1997","Mary Hill","D-I","SWAC",16,20,0,0.444
+"30","South Carolina St.","647","1996","Mary Hill","D-I","-",3,39,NA,0.071
+"31","South Carolina St.","647","1995","Mary Hill","D-I","-",2,34,NA,0.056
+"32","South Carolina St.","647","1994","Willie Simon","D-I","-",1,35,NA,0.028
+"33","South Carolina St.","647","1993","","D-I","-",NA,NA,NA,NA
+"34","South Carolina St.","647","1992","","D-I","-",NA,NA,NA,NA
+"35","South Carolina St.","647","1991","","D-I","-",NA,NA,NA,NA
+"36","South Carolina St.","647","1990","","D-I","-",NA,NA,NA,NA
+"37","South Carolina St.","647","","","","",286,947,0,0.232

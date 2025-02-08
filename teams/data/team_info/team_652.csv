@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Merritt Yackey","SAA","12-27-0",0.308
-"2",2022,"Merritt Yackey","SAA","7-26-0",0.212
-"3",2021,"Merritt Yackey","SAA","4-6-0",0.4
-"4",2020,"Merritt Yackey","SAA","2-14-0",0.125
-"5",2019,"Merritt Yackey","SAA","3-27-0",0.1
-"6",2018,"Merritt Yackey","SAA","4-32-0",0.111
-"7",2017,"Merritt Yackey","SAA","1-34-0",0.029
-"8",2016,"Merritt Yackey","SAA","8-23-0",0.258
-"9",2015,"Amber George","SAA","0-30-0",0
-"10",2014,"Amber George","SAA","3-28-0",0.097
-"11",2013,"Amber George","SAA","5-29-0",0.147
-"12",2012,"Amber George","SCAC","5-22-0",0.185
-"13",2011,"Amber George","SCAC","4-16-0",0.2
-"14",2010,"Amber George","SCAC","2-17-0",0.105
-"15",2009,"Amber George","SCAC","2-20-0",0.091
-"16",2008,"Amber George","SCAC","1-9-0",0.1
-"17",2007,"Emily Cline","SCAC","6-20-0",0.231
-"18",2006,"","SCAC","2-18-0",0.1
-"19",2005,"","SCAC","15-17-0",0.469
-"20",2004,"","SCAC","20-21-0",0.488
-"21",2003,"","SCAC","16-13-0",0.552
-"22",2002,"","SCAC","14-15-0",0.483
-"23",2001,"","-","0-0-0",NA
-"24",2000,"","-","0-0-0",NA
-"25",1999,"Tim Camp","-","12-11-0",0.522
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Merritt Yackey","SAA","12-31-0",0.279
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sewanee","652","2025","Merritt Yackey","D-III","SAA",0,0,0,0
+"2","Sewanee","652","2024","Merritt Yackey","D-III","SAA",12,32,0,0.273
+"3","Sewanee","652","2023","Merritt Yackey","D-III","SAA",12,27,0,0.308
+"4","Sewanee","652","2022","Merritt Yackey","D-III","SAA",7,26,0,0.212
+"5","Sewanee","652","2021","Merritt Yackey","D-III","SAA",4,6,0,0.4
+"6","Sewanee","652","2020","Merritt Yackey","D-III","SAA",2,14,0,0.125
+"7","Sewanee","652","2019","Merritt Yackey","D-III","SAA",3,27,0,0.1
+"8","Sewanee","652","2018","Merritt Yackey","D-III","SAA",4,32,NA,0.111
+"9","Sewanee","652","2017","Merritt Yackey","D-III","SAA",1,34,0,0.029
+"10","Sewanee","652","2016","Merritt Yackey","D-III","SAA",8,23,0,0.258
+"11","Sewanee","652","2015","Amber George","D-III","SAA",0,30,0,0
+"12","Sewanee","652","2014","Amber George","D-III","SAA",3,28,0,0.097
+"13","Sewanee","652","2013","Amber George","D-III","SAA",5,29,0,0.147
+"14","Sewanee","652","2012","Amber George","D-III","SCAC",5,22,0,0.185
+"15","Sewanee","652","2011","Amber George","D-III","SCAC",4,16,0,0.2
+"16","Sewanee","652","2010","Amber George","D-III","SCAC",2,17,0,0.105
+"17","Sewanee","652","2009","Amber George","D-III","SCAC",2,20,0,0.091
+"18","Sewanee","652","2008","Amber George","D-III","SCAC",1,9,0,0.1
+"19","Sewanee","652","2007","Emily Cline","D-III","SCAC",6,20,0,0.231
+"20","Sewanee","652","2006","","D-III","SCAC",2,18,0,0.1
+"21","Sewanee","652","2005","","D-III","SCAC",15,17,0,0.469
+"22","Sewanee","652","2004","","D-III","SCAC",20,21,0,0.488
+"23","Sewanee","652","2003","","D-III","SCAC",16,13,0,0.552
+"24","Sewanee","652","2002","","D-III","SCAC",14,15,0,0.483
+"25","Sewanee","652","2001","","D-III","-",NA,NA,NA,NA
+"26","Sewanee","652","1900","","D-III","-",NA,NA,NA,NA
+"27","Sewanee","652","1999","Tim Camp","D-III","-",12,11,0,0.522
+"28","Sewanee","652","1998","","D-III","-",NA,NA,NA,NA
+"29","Sewanee","652","1997","","D-III","-",NA,NA,NA,NA
+"30","Sewanee","652","1996","","D-III","-",NA,NA,NA,NA
+"31","Sewanee","652","1995","","D-III","-",NA,NA,NA,NA
+"32","Sewanee","652","1994","","D-III","-",NA,NA,NA,NA
+"33","Sewanee","652","1993","","D-III","-",NA,NA,NA,NA
+"34","Sewanee","652","1992","","D-III","-",NA,NA,NA,NA
+"35","Sewanee","652","1991","","D-III","-",NA,NA,NA,NA
+"36","Sewanee","652","1990","","","-",NA,NA,NA,NA
+"37","Sewanee","652","","","","",160,507,0,0.24

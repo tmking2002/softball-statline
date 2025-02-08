@@ -1,20 +1,21 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","","-","0-0-0",0
-"2","2022","","-","0-0-0",0
-"3","2021","","-","0-0-0",0
-"4","2018","","-","0-0-0",0
-"5","2017","Jenny Fuller","-","29-23-0",0.558
-"6","2016","Jenny Fuller","-","30-13-0",0.698
-"7","2015","","-","0-0-0",NA
-"8","2014","","-","0-0-0",NA
-"9","2013","","-","0-0-0",NA
-"10","2012","","-","0-0-0",NA
-"11","2011","","-","0-0-0",NA
-"12","2010","","-","0-0-0",NA
-"13","2008","","-","0-0-0",NA
-"14","2007","","-","0-0-0",NA
-"15","2006","","-","0-0-0",NA
-"16","2005","","-","0-0-0",NA
-"17","2004","","-","0-0-0",NA
-"18","2003","","-","0-0-0",NA
-"19","2002","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cardinal Stritch","506030","2023","",NA,"-",NA,NA,NA,0
+"2","Cardinal Stritch","506030","2022","",NA,"-",NA,NA,NA,0
+"3","Cardinal Stritch","506030","2021","",NA,"-",NA,NA,NA,0
+"4","Cardinal Stritch","506030","2018","",NA,"-",NA,NA,NA,0
+"5","Cardinal Stritch","506030","2017","Jenny Fuller",NA,"-",29,23,0,0.558
+"6","Cardinal Stritch","506030","2016","Jenny Fuller",NA,"-",30,13,0,0.698
+"7","Cardinal Stritch","506030","2015","",NA,"-",NA,NA,NA,NA
+"8","Cardinal Stritch","506030","2014","",NA,"-",NA,NA,NA,NA
+"9","Cardinal Stritch","506030","2013","",NA,"-",NA,NA,NA,NA
+"10","Cardinal Stritch","506030","2012","",NA,"-",NA,NA,NA,NA
+"11","Cardinal Stritch","506030","2011","",NA,"-",NA,NA,NA,NA
+"12","Cardinal Stritch","506030","2010","",NA,"-",NA,NA,NA,NA
+"13","Cardinal Stritch","506030","2008","",NA,"-",NA,NA,NA,NA
+"14","Cardinal Stritch","506030","2007","",NA,"-",NA,NA,NA,NA
+"15","Cardinal Stritch","506030","2006","",NA,"-",NA,NA,NA,NA
+"16","Cardinal Stritch","506030","2005","",NA,"-",NA,NA,NA,NA
+"17","Cardinal Stritch","506030","2004","",NA,"-",NA,NA,NA,NA
+"18","Cardinal Stritch","506030","2003","",NA,"-",NA,NA,NA,NA
+"19","Cardinal Stritch","506030","2002","",NA,"-",NA,NA,NA,NA
+"20","Cardinal Stritch","506030","","",NA,"",59,36,0,0.621

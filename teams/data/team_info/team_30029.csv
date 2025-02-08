@@ -1,20 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mark Sergio","Skyline","6-23-0",0.207
-"2",2022,"Mark Sergio","Skyline","8-23-0",0.258
-"3",2021,"Mark Sergio","Skyline","1-26-0",0.037
-"4",2020,"Mark Sergio","Skyline","0-0-0",NA
-"5",2019,"Mark Sergio","Skyline","11-21-0",0.344
-"6",2018,"Mark Sergio","Skyline","6-18-0",0.25
-"7",2017,"Ryan Doty","Skyline","10-17-0",0.37
-"8",2016,"Ryan Doty","Skyline","19-12-0",0.613
-"9",2015,"Albana Krasniqi","Skyline","10-14-0",0.417
-"10",2014,"Albana Krasniqi","Skyline","10-18-0",0.357
-"11",2013,"Albana Krasniqi","Skyline","5-19-0",0.208
-"12",2012,"Albana Krasniqi","Skyline","9-19-0",0.321
-"13",2011,"Albana Krasniqi","Skyline","11-13-0",0.458
-"14",2010,"Steven Loscher","Skyline","9-22-0",0.29
-"15",2009,"Steven Loscher","Skyline","17-14-0",0.548
-"16",2008,"Steven Loscher","Skyline","11-18-0",0.379
-"17",2007,"Rodney Ryan","United East","6-24-0",0.2
-"18",2006,"","United East","8-13-0",0.381
-"19",2024,"Mark Sergio","Skyline","9-21-0",0.3
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Purchase","30029","2025","Mark Sergio","D-III","Skyline",0,0,0,0
+"2","Purchase","30029","2024","Mark Sergio","D-III","Skyline",9,21,0,0.3
+"3","Purchase","30029","2023","Mark Sergio","D-III","Skyline",6,23,0,0.207
+"4","Purchase","30029","2022","Mark Sergio","D-III","Skyline",8,23,0,0.258
+"5","Purchase","30029","2021","Mark Sergio","D-III","Skyline",1,26,0,0.037
+"6","Purchase","30029","2020","Mark Sergio","D-III","Skyline",NA,NA,NA,0
+"7","Purchase","30029","2019","Mark Sergio","D-III","Skyline",11,21,0,0.344
+"8","Purchase","30029","2018","Mark Sergio","D-III","Skyline",6,18,NA,0.25
+"9","Purchase","30029","2017","Ryan Doty","D-III","Skyline",10,17,0,0.37
+"10","Purchase","30029","2016","Ryan Doty","D-III","Skyline",19,12,0,0.613
+"11","Purchase","30029","2015","Albana Krasniqi","D-III","Skyline",10,14,0,0.417
+"12","Purchase","30029","2014","Albana Krasniqi","D-III","Skyline",10,18,0,0.357
+"13","Purchase","30029","2013","Albana Krasniqi","D-III","Skyline",5,19,0,0.208
+"14","Purchase","30029","2012","Albana Krasniqi","D-III","Skyline",9,19,0,0.321
+"15","Purchase","30029","2011","Albana Krasniqi","D-III","Skyline",11,13,0,0.458
+"16","Purchase","30029","2010","Steven Loscher","D-III","Skyline",9,22,0,0.29
+"17","Purchase","30029","2009","Steven Loscher","D-III","Skyline",17,14,0,0.548
+"18","Purchase","30029","2008","Steven Loscher","D-III","Skyline",11,18,0,0.379
+"19","Purchase","30029","2007","Rodney Ryan","D-III","United East",6,24,0,0.2
+"20","Purchase","30029","2006","","D-III","United East",8,13,0,0.381
+"21","Purchase","30029","","","","",166,335,0,0.331

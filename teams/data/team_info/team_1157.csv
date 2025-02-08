@@ -1,35 +1,37 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tripp MacKay","ASUN","20-32-0",0.385
-"2",2022,"Tripp MacKay","ASUN","23-28-0",0.451
-"3",2021,"Tripp MacKay","ASUN","27-27-0",0.5
-"4",2020,"Tripp MacKay","ASUN","21-4-0",0.84
-"5",2019,"Tripp MacKay","ASUN","26-29-0",0.473
-"6",2018,"Pete D'Amour","ASUN","39-17-0",0.696
-"7",2017,"Pete D'Amour","ASUN","40-20-0",0.667
-"8",2016,"Tory Acheson","ASUN","30-28-0",0.517
-"9",2015,"Tory Acheson","ASUN","32-19-0",0.627
-"10",2014,"Wes Holly Jr.","ASUN","24-29-0",0.453
-"11",2013,"Scott Whitlock","ASUN","34-20-0",0.63
-"12",2012,"Scott Whitlock","ASUN","33-24-0",0.579
-"13",2011,"Scott Whitlock","ASUN","28-27-0",0.509
-"14",2010,"Scott Whitlock","ASUN","27-26-0",0.509
-"15",2009,"Scott Whitlock","ASUN","21-30-0",0.412
-"16",2008,"Scott Whitlock","ASUN","36-17-0",0.679
-"17",2007,"Scott Whitlock","ASUN","44-20-0",0.688
-"18",2006,"Scott Whitlock","-","38-17-0",0.691
-"19",2005,"Scott Whitlock","Peach Belt","57-13-0",0.814
-"20",2004,"Scott Whitlock","Peach Belt","64-6-0",0.914
-"21",2003,"Scott Whitlock","Peach Belt","35-11-0",0.761
-"22",2002,"Scott Whitlock","Peach Belt","49-12-0",0.803
-"23",2001,"Scott Whitlock","-","48-11-0",0.814
-"24",2000,"Scott Whitlock","-","56-8-0",0.875
-"25",1999,"Scott Whitlock","-","52-7-0",0.881
-"26",1998,"Scott Whitlock","-","47-3-0",0.94
-"27",1997,"Scott Whitlock","-","49-6-0",0.891
-"28",1996,"Scott Whitlock","-","49-8-0",0.86
-"29",1995,"Scott Whitlock","-","53-5-0",0.914
-"30",1994,"Scott Whitlock","-","48-4-0",0.923
-"31",1993,"Scott Whitlock","-","41-6-0",0.872
-"32",1992,"Scott Whitlock","-","46-8-0",0.852
-"33",1991,"Scott Whitlock","-","41-11-0",0.788
-"34",2024,"Tripp MacKay","ASUN","16-37-0",0.302
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kennesaw St.","1157","2025","Tripp MacKay","D-I","CUSA",0,2,0,0
+"2","Kennesaw St.","1157","2024","Tripp MacKay","D-I","ASUN",16,37,0,0.302
+"3","Kennesaw St.","1157","2023","Tripp MacKay","D-I","ASUN",20,32,0,0.385
+"4","Kennesaw St.","1157","2022","Tripp MacKay","D-I","ASUN",23,28,0,0.451
+"5","Kennesaw St.","1157","2021","Tripp MacKay","D-I","ASUN",27,27,0,0.5
+"6","Kennesaw St.","1157","2020","Tripp MacKay","D-I","ASUN",21,4,0,0.84
+"7","Kennesaw St.","1157","2019","Tripp MacKay","D-I","ASUN",26,29,0,0.473
+"8","Kennesaw St.","1157","2018","Pete D'Amour","D-I","ASUN",39,17,0,0.696
+"9","Kennesaw St.","1157","2017","Pete D'Amour","D-I","ASUN",40,20,0,0.667
+"10","Kennesaw St.","1157","2016","Tory Acheson","D-I","ASUN",30,28,0,0.517
+"11","Kennesaw St.","1157","2015","Tory Acheson","D-I","ASUN",32,19,0,0.627
+"12","Kennesaw St.","1157","2014","Wes Holly Jr.","D-I","ASUN",24,29,0,0.453
+"13","Kennesaw St.","1157","2013","Scott Whitlock","D-I","ASUN",34,20,0,0.63
+"14","Kennesaw St.","1157","2012","Scott Whitlock","D-I","ASUN",34,26,1,0.566
+"15","Kennesaw St.","1157","2011","Scott Whitlock","D-I","ASUN",28,27,0,0.509
+"16","Kennesaw St.","1157","2010","Scott Whitlock","D-I","ASUN",27,26,0,0.509
+"17","Kennesaw St.","1157","2009","Scott Whitlock","","ASUN",21,30,0,0.412
+"18","Kennesaw St.","1157","2008","Scott Whitlock","","ASUN",36,17,0,0.679
+"19","Kennesaw St.","1157","2007","Scott Whitlock","","ASUN",44,20,0,0.688
+"20","Kennesaw St.","1157","2006","Scott Whitlock","","-",38,17,0,0.691
+"21","Kennesaw St.","1157","2005","Scott Whitlock","D-II","Peach Belt",57,13,0,0.814
+"22","Kennesaw St.","1157","2004","Scott Whitlock","D-II","Peach Belt",64,6,0,0.914
+"23","Kennesaw St.","1157","2003","Scott Whitlock","D-II","Peach Belt",35,11,0,0.761
+"24","Kennesaw St.","1157","2002","Scott Whitlock","D-II","Peach Belt",49,12,0,0.803
+"25","Kennesaw St.","1157","2001","Scott Whitlock","D-II","-",48,11,0,0.814
+"26","Kennesaw St.","1157","1900","Scott Whitlock","D-II","-",56,8,0,0.875
+"27","Kennesaw St.","1157","1999","Scott Whitlock","D-II","-",52,7,0,0.881
+"28","Kennesaw St.","1157","1998","Scott Whitlock","D-II","-",47,3,0,0.94
+"29","Kennesaw St.","1157","1997","Scott Whitlock","D-II","-",49,6,0,0.891
+"30","Kennesaw St.","1157","1996","Scott Whitlock","D-II","-",49,8,0,0.86
+"31","Kennesaw St.","1157","1995","Scott Whitlock","D-II","-",53,5,0,0.914
+"32","Kennesaw St.","1157","1994","Scott Whitlock","","-",48,4,0,0.923
+"33","Kennesaw St.","1157","1993","Scott Whitlock","","-",41,6,0,0.872
+"34","Kennesaw St.","1157","1992","Scott Whitlock","","-",46,8,0,0.852
+"35","Kennesaw St.","1157","1991","Scott Whitlock","","-",41,11,0,0.788
+"36","Kennesaw St.","1157","","","","",1295,574,1,0.693

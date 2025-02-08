@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ali Maloof","NEC","4-42-0",0.087
-"2",2022,"Ali Maloof","NE10","15-23-0",0.395
-"3",2021,"Ken LeGrice","NE10","5-24-0",0.172
-"4",2020,"Ken LeGrice","NE10","7-5-0",0.583
-"5",2019,"Ken LeGrice","NE10","15-24-0",0.385
-"6",2018,"Ken LeGrice","NE10","8-31-0",0.205
-"7",2017,"Ken LeGrice","NE10","11-30-0",0.268
-"8",2016,"Ken LeGrice","NE10","23-17-0",0.575
-"9",2015,"Ken LeGrice","NE10","21-15-0",0.583
-"10",2014,"Ken LeGrice","NE10","20-25-0",0.444
-"11",2013,"Ken LeGrice","NE10","25-25-1",0.5
-"12",2012,"Ken LeGrice","NE10","24-15-0",0.615
-"13",2011,"Ken LeGrice","NE10","18-28-0",0.391
-"14",2010,"Ken LeGrice","NE10","20-19-1",0.513
-"15",2009,"Danielle Delude","NE10","13-27-0",0.325
-"16",2008,"Danielle Delude","NE10","23-20-0",0.535
-"17",2007,"Danielle Delude","NE10","13-24-1",0.351
-"18",2006,"Danielle Delude","NE10","21-18-1",0.538
-"19",2005,"Danielle Delude","NE10","13-25-1",0.342
-"20",2004,"Danielle Delude","NE10","6-28-0",0.176
-"21",2003,"Pam Arpe","-","0-0-0",NA
-"22",2002,"Julie Szala","-","9-30-0",0.231
-"23",2001,"Julie Szala","-","23-14-1",0.622
-"24",2000,"Julie Szala","-","19-14-0",0.576
-"25",1999,"Julie Szala","-","17-19-0",0.472
-"26",1998,"John Campbell","-","16-18-0",0.471
-"27",1997,"John Campbell","-","14-18-0",0.438
-"28",1996,"Kathleen Tracy","-","8-21-0",0.276
-"29",1995,"Kathleen Tracy","-","15-19-0",0.441
-"30",1994,"Jennifer Clifford","-","10-25-0",0.286
-"31",1993,"Jennifer Clifford","-","3-22-0",0.12
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1985,"","-","0-0-0",NA
-"37",1982,"","-","0-0-0",NA
-"38",2024,"Ali Maloof","NEC","14-37-0",0.275
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Stonehill","682","2025","Ali Maloof","D-I","NEC",1,1,0,0.5
+"2","Stonehill","682","2024","Ali Maloof","D-I","NEC",14,37,0,0.275
+"3","Stonehill","682","2023","Ali Maloof","D-I","NEC",4,42,0,0.087
+"4","Stonehill","682","2022","Ali Maloof","D-II","NE10",15,23,0,0.395
+"5","Stonehill","682","2021","Ken LeGrice","D-II","NE10",5,24,0,0.172
+"6","Stonehill","682","2020","Ken LeGrice","D-II","NE10",7,5,0,0.583
+"7","Stonehill","682","2019","Ken LeGrice","D-II","NE10",15,24,0,0.385
+"8","Stonehill","682","2018","Ken LeGrice","D-II","NE10",8,31,NA,0.205
+"9","Stonehill","682","2017","Ken LeGrice","D-II","NE10",11,30,0,0.268
+"10","Stonehill","682","2016","Ken LeGrice","D-II","NE10",23,17,0,0.575
+"11","Stonehill","682","2015","Ken LeGrice","D-II","NE10",21,15,0,0.583
+"12","Stonehill","682","2014","Ken LeGrice","D-II","NE10",20,25,0,0.444
+"13","Stonehill","682","2013","Ken LeGrice","D-II","NE10",27,25,1,0.519
+"14","Stonehill","682","2012","Ken LeGrice","D-II","NE10",24,15,0,0.615
+"15","Stonehill","682","2011","Ken LeGrice","D-II","NE10",18,28,0,0.391
+"16","Stonehill","682","2010","Ken LeGrice","D-II","NE10",20,19,1,0.513
+"17","Stonehill","682","2009","Danielle Delude","D-II","NE10",13,27,0,0.325
+"18","Stonehill","682","2008","Danielle Delude","D-II","NE10",23,20,0,0.535
+"19","Stonehill","682","2007","Danielle Delude","D-II","NE10",13,24,1,0.355
+"20","Stonehill","682","2006","Danielle Delude","D-II","NE10",21,18,1,0.538
+"21","Stonehill","682","2005","Danielle Delude","D-II","NE10",13,25,1,0.346
+"22","Stonehill","682","2004","Danielle Delude","D-II","NE10",6,28,0,0.176
+"23","Stonehill","682","2003","Pam Arpe","D-II","-",NA,NA,NA,NA
+"24","Stonehill","682","2002","Julie Szala","D-II","-",9,30,0,0.231
+"25","Stonehill","682","2001","Julie Szala","D-II","-",23,14,1,0.618
+"26","Stonehill","682","1900","Julie Szala","D-II","-",19,14,0,0.576
+"27","Stonehill","682","1999","Julie Szala","D-II","-",17,19,0,0.472
+"28","Stonehill","682","1998","John Campbell","D-II","-",16,18,0,0.471
+"29","Stonehill","682","1997","John Campbell","D-II","-",14,18,0,0.438
+"30","Stonehill","682","1996","Kathleen Tracy","D-II","-",8,21,0,0.276
+"31","Stonehill","682","1995","Kathleen Tracy","D-II","-",15,19,0,0.441
+"32","Stonehill","682","1994","Jennifer Clifford","D-II","-",10,25,0,0.286
+"33","Stonehill","682","1993","Jennifer Clifford","D-II","-",3,22,0,0.12
+"34","Stonehill","682","1992","","D-II","-",NA,NA,NA,NA
+"35","Stonehill","682","1991","","D-II","-",NA,NA,NA,NA
+"36","Stonehill","682","1990","","D-II","-",NA,NA,NA,NA
+"37","Stonehill","682","1989","","D-II","-",NA,NA,NA,NA
+"38","Stonehill","682","1985","","D-II","-",NA,NA,NA,NA
+"39","Stonehill","682","1982","","D-II","-",NA,NA,NA,NA
+"40","Stonehill","682","","","","",456,703,6,0.394

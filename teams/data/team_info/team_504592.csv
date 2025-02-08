@@ -1,21 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2021",NA,"-","0-0-0",0
-"3","2019",NA,"-","0-0-0",0
-"4","2018",NA,"-","0-0-0",0
-"5","2017",NA,"-","0-0-0",NA
-"6","2016",NA,"-","0-0-0",NA
-"7","2015",NA,"-","0-0-0",NA
-"8","2014",NA,"-","0-0-0",NA
-"9","2013",NA,"-","0-0-0",NA
-"10","2012",NA,"-","0-0-0",NA
-"11","2011",NA,"-","0-0-0",NA
-"12","2010",NA,"-","0-0-0",NA
-"13","2009",NA,"-","0-0-0",NA
-"14","2008",NA,"-","0-0-0",NA
-"15","2007",NA,"-","0-0-0",NA
-"16","2006",NA,"-","0-0-0",NA
-"17","2005",NA,"-","0-0-0",NA
-"18","2004",NA,"-","0-2-0",0
-"19","2003",NA,"-","0-0-0",NA
-"20","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Mary-Woods","504592","2024",NA,NA,"-",NA,NA,NA,0
+"2","St. Mary-Woods","504592","2021",NA,NA,"-",NA,NA,NA,0
+"3","St. Mary-Woods","504592","2019",NA,NA,"-",NA,NA,NA,0
+"4","St. Mary-Woods","504592","2018",NA,NA,"-",NA,NA,NA,0
+"5","St. Mary-Woods","504592","2017",NA,NA,"-",NA,NA,NA,NA
+"6","St. Mary-Woods","504592","2016",NA,NA,"-",NA,NA,NA,NA
+"7","St. Mary-Woods","504592","2015",NA,NA,"-",NA,NA,NA,NA
+"8","St. Mary-Woods","504592","2014",NA,NA,"-",NA,NA,NA,NA
+"9","St. Mary-Woods","504592","2013",NA,NA,"-",NA,NA,NA,NA
+"10","St. Mary-Woods","504592","2012",NA,NA,"-",NA,NA,NA,NA
+"11","St. Mary-Woods","504592","2011",NA,NA,"-",NA,NA,NA,NA
+"12","St. Mary-Woods","504592","2010",NA,NA,"-",NA,NA,NA,NA
+"13","St. Mary-Woods","504592","2009",NA,NA,"-",NA,NA,NA,NA
+"14","St. Mary-Woods","504592","2008",NA,NA,"-",NA,NA,NA,NA
+"15","St. Mary-Woods","504592","2007",NA,NA,"-",NA,NA,NA,NA
+"16","St. Mary-Woods","504592","2006",NA,NA,"-",NA,NA,NA,NA
+"17","St. Mary-Woods","504592","2005",NA,NA,"-",NA,NA,NA,NA
+"18","St. Mary-Woods","504592","2004",NA,NA,"-",0,2,0,0
+"19","St. Mary-Woods","504592","2003",NA,NA,"-",NA,NA,NA,NA
+"20","St. Mary-Woods","504592","2002",NA,NA,"-",NA,NA,NA,NA
+"21","St. Mary-Woods","504592","",NA,NA,"",0,2,0,0

@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lynn Curylo","MVC","9-43-0",0.173
-"2",2022,"Lynn Curylo","Horizon","13-32-0",0.289
-"3",2021,"Lynn Curylo","Horizon","29-23-0",0.558
-"4",2020,"Lynn Curylo","Horizon","9-11-0",0.45
-"5",2019,"Lynn Curylo","Horizon","32-24-0",0.571
-"6",2018,"Lynn Curylo","Horizon","33-21-0",0.611
-"7",2017,"Lynn Curylo","Horizon","39-22-0",0.639
-"8",2016,"Michelle Venturella","Horizon","33-18-0",0.647
-"9",2015,"Michelle Venturella","Horizon","24-22-0",0.522
-"10",2014,"Michelle Venturella","Horizon","16-28-0",0.364
-"11",2013,"Michelle Venturella","Horizon","21-24-0",0.467
-"12",2012,"Michelle Venturella","Horizon","25-27-0",0.481
-"13",2011,"Michelle Venturella","Horizon","25-24-0",0.51
-"14",2010,"Michelle Venturella","Horizon","22-35-0",0.386
-"15",2009,"Michelle Venturella","Horizon","27-26-0",0.509
-"16",2008,"Tom Gray (24-33)Sara O'Malley (24-33)","Horizon","24-33-0",0.421
-"17",2007,"Tom Gray (20-33)Sara O'Malley (20-33)","Horizon","20-33-0",0.377
-"18",2006,"Tom Gray (27-33)Sara O'Malley (27-33)","Horizon","27-33-0",0.45
-"19",2005,"Tom Gray (40-27)Sara O'Malley (40-27)","Horizon","40-27-0",0.597
-"20",2004,"Tom Gray (42-23)Sara O'Malley (42-23)","Horizon","42-23-0",0.646
-"21",2003,"Tom Gray (20-37)Sara O'Malley (20-37)","Horizon","20-37-0",0.351
-"22",2002,"Tom Gray (43-22)Sara O'Malley (43-22)","Horizon","43-22-0",0.662
-"23",2001,"Mike McGovern","Horizon","46-25-0",0.648
-"24",2000,"Mike McGovern","Horizon","52-25-0",0.675
-"25",1999,"Mike McGovern","Horizon","67-17-0",0.798
-"26",1998,"Mike McGovern","-","56-21-0",0.727
-"27",1997,"Mike McGovern","Horizon","52-28-0",0.65
-"28",1996,"Mike McGovern","-","42-13-0",0.764
-"29",1995,"Mike McGovern","-","51-16-0",0.761
-"30",1994,"Mike McGovern","-","56-19-1",0.747
-"31",1993,"Mike McGovern","-","56-14-0",0.8
-"32",1992,"Mike McGovern","-","35-13-0",0.729
-"33",1991,"Mike McGovern","-","33-21-0",0.611
-"34",1990,"Mike McGovern","-","36-15-0",0.706
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1982,"","-","0-0-0",NA
-"39",2024,"Lynn Curylo","MVC","19-35-0",0.352
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UIC","302","2025","Jamie Buksa","D-I","MVC",1,1,0,0.5
+"2","UIC","302","2024","Lynn Curylo","D-I","MVC",19,35,0,0.352
+"3","UIC","302","2023","Lynn Curylo","D-I","MVC",9,43,0,0.173
+"4","UIC","302","2022","Lynn Curylo","D-I","Horizon",13,32,0,0.289
+"5","UIC","302","2021","Lynn Curylo","D-I","Horizon",29,23,0,0.558
+"6","UIC","302","2020","Lynn Curylo","D-I","Horizon",9,11,0,0.45
+"7","UIC","302","2019","Lynn Curylo","D-I","Horizon",32,24,0,0.571
+"8","UIC","302","2018","Lynn Curylo","D-I","Horizon",33,21,0,0.611
+"9","UIC","302","2017","Lynn Curylo","D-I","Horizon",39,22,0,0.639
+"10","UIC","302","2016","Michelle Venturella","D-I","Horizon",33,18,0,0.647
+"11","UIC","302","2015","Michelle Venturella","D-I","Horizon",24,22,0,0.522
+"12","UIC","302","2014","Michelle Venturella","D-I","Horizon",16,28,0,0.364
+"13","UIC","302","2013","Michelle Venturella","D-I","Horizon",21,24,0,0.467
+"14","UIC","302","2012","Michelle Venturella","D-I","Horizon",25,27,0,0.481
+"15","UIC","302","2011","Michelle Venturella","D-I","Horizon",25,24,0,0.51
+"16","UIC","302","2010","Michelle Venturella","D-I","Horizon",22,35,0,0.386
+"17","UIC","302","2009","Michelle Venturella","D-I","Horizon",27,26,0,0.509
+"18","UIC","302","2008","Tom Gray (24-33)Sara O'Malley (24-33)","D-I","Horizon",24,33,0,0.421
+"19","UIC","302","2007","Tom Gray (20-33)Sara O'Malley (20-33)","D-I","Horizon",20,33,0,0.377
+"20","UIC","302","2006","Tom Gray (27-33)Sara O'Malley (27-33)","D-I","Horizon",27,33,0,0.45
+"21","UIC","302","2005","Tom Gray (40-27)Sara O'Malley (40-27)","D-I","Horizon",40,27,0,0.597
+"22","UIC","302","2004","Tom Gray (42-23)Sara O'Malley (42-23)","D-I","Horizon",42,23,0,0.646
+"23","UIC","302","2003","Tom Gray (20-37)Sara O'Malley (20-37)","D-I","Horizon",20,37,0,0.351
+"24","UIC","302","2002","Tom Gray (43-22)Sara O'Malley (43-22)","D-I","Horizon",43,22,0,0.662
+"25","UIC","302","2001","Mike McGovern","D-I","Horizon",46,25,0,0.648
+"26","UIC","302","1900","Mike McGovern","D-I","Horizon",52,25,0,0.675
+"27","UIC","302","1999","Mike McGovern","D-I","Horizon",67,17,0,0.798
+"28","UIC","302","1998","Mike McGovern","D-I","-",56,21,NA,0.727
+"29","UIC","302","1997","Mike McGovern","D-I","Horizon",52,28,0,0.65
+"30","UIC","302","1996","Mike McGovern","D-I","-",42,13,NA,0.764
+"31","UIC","302","1995","Mike McGovern","D-I","-",51,16,NA,0.761
+"32","UIC","302","1994","Mike McGovern","D-I","-",56,19,1,0.743
+"33","UIC","302","1993","Mike McGovern","D-I","-",56,14,NA,0.8
+"34","UIC","302","1992","Mike McGovern","D-I","-",35,13,NA,0.729
+"35","UIC","302","1991","Mike McGovern","D-I","-",33,21,NA,0.611
+"36","UIC","302","1990","Mike McGovern","D-I","-",36,15,NA,0.706
+"37","UIC","302","1989","","D-I","-",NA,NA,NA,NA
+"38","UIC","302","1988","","D-I","-",NA,NA,NA,NA
+"39","UIC","302","1987","","D-I","-",NA,NA,NA,NA
+"40","UIC","302","1982","","D-I","-",NA,NA,NA,NA
+"41","UIC","302","","","","",1175,851,1,0.58

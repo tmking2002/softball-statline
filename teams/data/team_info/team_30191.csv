@@ -1,21 +1,23 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Hanna Lythberg","SIAC","23-23-0",0.5
-"2",2022,"Steve Kittrell","SIAC","27-17-0",0.614
-"3",2021,"Steve Kittrell","SIAC","14-12-0",0.538
-"4",2020,"Steve Kittrell","SIAC","8-7-0",0.533
-"5",2019,"Steve Kittrell","SIAC","30-21-0",0.588
-"6",2018,"Steve Kittrell","SIAC","23-14-0",0.622
-"7",2017,"Alison Sellers-Cook","-","33-16-0",0.673
-"8",2016,"Alison Sellers-Cook","-","37-14-0",0.725
-"9",2015,"Alison Sellers-Cook","-","36-7-0",0.837
-"10",2014,"Alison Sellers-Cook","-","42-14-0",0.75
-"11",2013,"Alison Sellers-Cook","-","49-17-0",0.742
-"12",2012,"Alison Sellers-Cook","-","18-28-0",0.391
-"13",2011,"Alison Sellers-Cook","-","12-33-0",0.267
-"14",2010,"Alison Sellers-Cook","-","21-29-0",0.42
-"15",2009,"Alison Sellers-Cook","-","15-32-0",0.319
-"16",2008,"Alison Sellers-Cook","-","19-27-0",0.413
-"17",2007,"Alison Sellers-Cook","-","25-27-0",0.481
-"18",2006,"Alison Sellers-Cook","-","22-21-0",0.512
-"19",2005,"","-","38-19-0",0.667
-"20",2024,"Hanna Lythberg","SIAC","24-12-0",0.667
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Spring Hill","30191","2025","Hannah Fillmore","D-II","SIAC",1,4,0,0.2
+"2","Spring Hill","30191","2024","Hanna Lythberg","D-II","SIAC",29,21,0,0.58
+"3","Spring Hill","30191","2023","Hanna Lythberg","D-II","SIAC",23,23,0,0.5
+"4","Spring Hill","30191","2022","Steve Kittrell","D-II","SIAC",27,17,0,0.614
+"5","Spring Hill","30191","2021","Steve Kittrell","D-II","SIAC",14,12,0,0.538
+"6","Spring Hill","30191","2020","Steve Kittrell","D-II","SIAC",8,7,0,0.533
+"7","Spring Hill","30191","2019","Steve Kittrell","D-II","SIAC",30,21,0,0.588
+"8","Spring Hill","30191","2018","Steve Kittrell","D-II","SIAC",23,14,NA,0.622
+"9","Spring Hill","30191","2017","Alison Sellers-Cook","","-",33,16,0,0.673
+"10","Spring Hill","30191","2016","Alison Sellers-Cook","","-",37,14,0,0.725
+"11","Spring Hill","30191","2015","Alison Sellers-Cook","","-",36,7,0,0.837
+"12","Spring Hill","30191","2014","Alison Sellers-Cook","","-",42,14,0,0.75
+"13","Spring Hill","30191","2013","Alison Sellers-Cook","","-",49,17,0,0.742
+"14","Spring Hill","30191","2012","Alison Sellers-Cook","","-",18,28,0,0.391
+"15","Spring Hill","30191","2011","Alison Sellers-Cook","","-",12,33,0,0.267
+"16","Spring Hill","30191","2010","Alison Sellers-Cook","","-",21,29,0,0.42
+"17","Spring Hill","30191","2009","Alison Sellers-Cook","","-",15,32,0,0.319
+"18","Spring Hill","30191","2008","Alison Sellers-Cook","","-",19,27,0,0.413
+"19","Spring Hill","30191","2007","Alison Sellers-Cook","","-",25,27,0,0.481
+"20","Spring Hill","30191","2006","Alison Sellers-Cook","","-",22,21,0,0.512
+"21","Spring Hill","30191","2005","","","-",38,19,0,0.667
+"22","Spring Hill","30191","","","","",522,403,0,0.564

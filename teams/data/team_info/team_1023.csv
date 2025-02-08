@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Brittany  Bennett","SAC","23-23-0",0.5
-"2",2022,"Marty Kinard","SAC","17-29-0",0.37
-"3",2021,"Mackenzie Drain","SAC","15-19-0",0.441
-"4",2020,"Travis McCall","SAC","18-7-0",0.72
-"5",2019,"Travis McCall","SAC","31-19-0",0.62
-"6",2018,"Travis McCall","SAC","36-18-0",0.667
-"7",2017,"Travis McCall","SAC","41-17-0",0.707
-"8",2016,"Travis McCall","SAC","15-32-1",0.319
-"9",2015,"Travis McCall","SAC","24-27-0",0.471
-"10",2014,"David Hanna","SAC","16-27-0",0.372
-"11",2013,"David Hanna","Conference Carolinas","26-18-0",0.591
-"12",2012,"David Hanna","Conference Carolinas","19-24-0",0.442
-"13",2011,"David Hanna","Conference Carolinas","23-22-0",0.511
-"14",2010,"David Hanna","Conference Carolinas","15-25-0",0.375
-"15",2009,"David Hanna","Conference Carolinas","22-19-0",0.537
-"16",2008,"David Hanna","Conference Carolinas","35-12-0",0.745
-"17",2007,"David Hanna","Conference Carolinas","38-12-0",0.76
-"18",2006,"David Hanna","Conference Carolinas","29-18-0",0.617
-"19",2005,"David Hanna","Conference Carolinas","31-17-0",0.646
-"20",2004,"David Hanna","Conference Carolinas","36-16-0",0.692
-"21",2003,"David Hanna","Conference Carolinas","24-12-0",0.667
-"22",2002,"David Hanna","Conference Carolinas","40-11-0",0.784
-"23",2001,"David Hanna","-","44-6-0",0.88
-"24",2000,"David Hanna","-","29-16-0",0.644
-"25",1999,"David Hanna","-","43-5-0",0.896
-"26",1998,"David Hanna","-","54-3-0",0.947
-"27",1997,"David Hanna","-","47-13-1",0.783
-"28",1996,"David Hanna","-","48-3-0",0.941
-"29",1995,"David Hanna","-","37-11-0",0.771
-"30",1994,"David Hanna","-","41-8-0",0.837
-"31",1993,"David Hanna","-","62-11-0",0.849
-"32",1992,"David Hanna","-","1-1-0",0.5
-"33",2024,"","SAC","9-30-0",0.231
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Coker","1023","2025","Brittany Bennett","D-II","SAC",1,3,0,0.25
+"2","Coker","1023","2024","Brittany Bennett","D-II","SAC",12,33,0,0.267
+"3","Coker","1023","2023","Brittany Bennett","D-II","SAC",23,23,0,0.5
+"4","Coker","1023","2022","Marty Kinard","D-II","SAC",17,29,0,0.37
+"5","Coker","1023","2021","Mackenzie Drain","D-II","SAC",15,19,0,0.441
+"6","Coker","1023","2020","Travis McCall","D-II","SAC",18,7,0,0.72
+"7","Coker","1023","2019","Travis McCall","D-II","SAC",31,19,0,0.62
+"8","Coker","1023","2018","Travis McCall","D-II","SAC",36,18,NA,0.667
+"9","Coker","1023","2017","Travis McCall","D-II","SAC",41,17,0,0.707
+"10","Coker","1023","2016","Travis McCall","D-II","SAC",15,32,1,0.323
+"11","Coker","1023","2015","Travis McCall","D-II","SAC",24,27,0,0.471
+"12","Coker","1023","2014","David Hanna","D-II","SAC",16,27,0,0.372
+"13","Coker","1023","2013","David Hanna","D-II","Conference Carolinas",26,18,0,0.591
+"14","Coker","1023","2012","David Hanna","D-II","Conference Carolinas",19,24,0,0.442
+"15","Coker","1023","2011","David Hanna","D-II","Conference Carolinas",23,22,0,0.511
+"16","Coker","1023","2010","David Hanna","D-II","Conference Carolinas",15,25,0,0.375
+"17","Coker","1023","2009","David Hanna","D-II","Conference Carolinas",22,19,0,0.537
+"18","Coker","1023","2008","David Hanna","D-II","Conference Carolinas",35,12,0,0.745
+"19","Coker","1023","2007","David Hanna","D-II","Conference Carolinas",38,12,0,0.76
+"20","Coker","1023","2006","David Hanna","D-II","Conference Carolinas",29,18,0,0.617
+"21","Coker","1023","2005","David Hanna","D-II","Conference Carolinas",31,17,0,0.646
+"22","Coker","1023","2004","David Hanna","D-II","Conference Carolinas",36,16,0,0.692
+"23","Coker","1023","2003","David Hanna","D-II","Conference Carolinas",24,12,0,0.667
+"24","Coker","1023","2002","David Hanna","D-II","Conference Carolinas",40,11,0,0.784
+"25","Coker","1023","2001","David Hanna","D-II","-",44,6,NA,0.88
+"26","Coker","1023","1900","David Hanna","D-II","-",29,16,NA,0.644
+"27","Coker","1023","1999","David Hanna","D-II","-",43,5,NA,0.896
+"28","Coker","1023","1998","David Hanna","D-II","-",54,3,NA,0.947
+"29","Coker","1023","1997","David Hanna","D-II","-",47,13,1,0.779
+"30","Coker","1023","1996","David Hanna","D-II","-",48,3,NA,0.941
+"31","Coker","1023","1995","David Hanna","D-II","-",37,11,NA,0.771
+"32","Coker","1023","1994","David Hanna","D-II","-",41,8,NA,0.837
+"33","Coker","1023","1993","David Hanna","","-",62,11,NA,0.849
+"34","Coker","1023","1992","David Hanna","","-",1,1,NA,0.5
+"35","Coker","1023","","","","",993,537,2,0.649

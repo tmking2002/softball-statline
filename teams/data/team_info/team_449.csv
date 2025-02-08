@@ -1,34 +1,35 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2015","","-","0-0-0","  NaN"
-"2","2014","","-","0-0-0","  NaN"
-"3","2013","","-","0-0-0","  NaN"
-"4","2012","","-","0-0-0","  NaN"
-"5","2011","","-","0-0-0","  NaN"
-"6","2010","","-","0-0-0","  NaN"
-"7","2004","Andy Whitcomb","NEWMAC","9-22-1","0.290"
-"8","2003","Andy Whitcomb","NEWMAC","11-21-0","0.344"
-"9","2002","Andy Whitcomb","NEWMAC","13-17-0","0.433"
-"10","2001","Andy Whitcomb","-","0-0-0","  NaN"
-"11","2000","Andy Whitcomb","-","17-12-0","0.586"
-"12","1999","Andy Whitcomb","-","0-0-0","  NaN"
-"13","1998","Pat Fabozzi","-","2-16-0","0.111"
-"14","1997","Pat Fabozzi","-","1-18-0","0.053"
-"15","1996","Pat Fabozzi","-","1-17-1","0.056"
-"16","1995","","-","0-0-0","  NaN"
-"17","1994","","-","0-0-0","  NaN"
-"18","1993","","-","0-0-0","  NaN"
-"19","1992","","-","0-0-0","  NaN"
-"20","1991","","-","0-0-0","  NaN"
-"21","1990","","-","0-0-0","  NaN"
-"22","1989","","-","0-0-0","  NaN"
-"23","1988","","-","0-0-0","  NaN"
-"24","1987","","-","0-0-0","  NaN"
-"25","1986","","-","0-0-0","  NaN"
-"26","1985","","-","0-0-0","  NaN"
-"27","1984","Karen Tropp Veronesi","-","31-20-0","0.608"
-"28","1983","Karen Tropp Veronesi","-","1-1-0","0.500"
-"29","1982","Karen Tropp Veronesi","-","6-3-0","0.667"
-"30","1981","Karen Tropp Veronesi","-","1-1-0","0.500"
-"31","1980","Karen Tropp Veronesi","-","1-1-0","0.500"
-"32","1979","Karen Tropp Veronesi","-","1-1-0","0.500"
-"33","2024","","NEWMAC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mount Holyoke","449","2024","","","-",0,0,0,0
+"2","Mount Holyoke","449","2015","","D-III","-",NA,NA,NA,NA
+"3","Mount Holyoke","449","2014","","D-III","-",NA,NA,NA,NA
+"4","Mount Holyoke","449","2013","","D-III","-",NA,NA,NA,NA
+"5","Mount Holyoke","449","2012","","D-III","-",NA,NA,NA,NA
+"6","Mount Holyoke","449","2011","","D-III","-",NA,NA,NA,NA
+"7","Mount Holyoke","449","2010","","D-III","-",NA,NA,NA,NA
+"8","Mount Holyoke","449","2004","Andy Whitcomb","D-III","NEWMAC",9,22,1,0.297
+"9","Mount Holyoke","449","2003","Andy Whitcomb","D-III","NEWMAC",11,21,0,0.344
+"10","Mount Holyoke","449","2002","Andy Whitcomb","D-III","NEWMAC",13,17,0,0.433
+"11","Mount Holyoke","449","2001","Andy Whitcomb","D-III","-",NA,NA,NA,NA
+"12","Mount Holyoke","449","1900","Andy Whitcomb","D-III","-",17,12,NA,0.586
+"13","Mount Holyoke","449","1999","Andy Whitcomb","D-III","-",NA,NA,NA,NA
+"14","Mount Holyoke","449","1998","Pat Fabozzi","D-III","-",2,16,NA,0.111
+"15","Mount Holyoke","449","1997","Pat Fabozzi","D-III","-",1,18,NA,0.053
+"16","Mount Holyoke","449","1996","Pat Fabozzi","D-III","-",1,17,1,0.079
+"17","Mount Holyoke","449","1995","","D-III","-",NA,NA,NA,NA
+"18","Mount Holyoke","449","1994","","D-III","-",NA,NA,NA,NA
+"19","Mount Holyoke","449","1993","","D-III","-",NA,NA,NA,NA
+"20","Mount Holyoke","449","1992","","D-III","-",NA,NA,NA,NA
+"21","Mount Holyoke","449","1991","","D-III","-",NA,NA,NA,NA
+"22","Mount Holyoke","449","1990","","D-III","-",NA,NA,NA,NA
+"23","Mount Holyoke","449","1989","","D-III","-",NA,NA,NA,NA
+"24","Mount Holyoke","449","1988","","D-III","-",NA,NA,NA,NA
+"25","Mount Holyoke","449","1987","","D-III","-",NA,NA,NA,NA
+"26","Mount Holyoke","449","1986","","D-III","-",NA,NA,NA,NA
+"27","Mount Holyoke","449","1985","","D-III","-",NA,NA,NA,NA
+"28","Mount Holyoke","449","1984","Karen Tropp Veronesi","D-III","-",31,20,NA,0.608
+"29","Mount Holyoke","449","1983","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
+"30","Mount Holyoke","449","1982","Karen Tropp Veronesi","D-III","-",6,3,NA,0.667
+"31","Mount Holyoke","449","1981","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
+"32","Mount Holyoke","449","1980","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
+"33","Mount Holyoke","449","1979","Karen Tropp Veronesi","D-III","-",1,1,NA,0.5
+"34","Mount Holyoke","449","","","","",95,150,2,0.389

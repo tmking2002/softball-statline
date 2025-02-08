@@ -1,6 +1,8 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2002",NA,"-","0-0-0",NA
-"2","2000",NA,"-","0-0-0",NA
-"3","1999",NA,"-","0-0-0",NA
-"4","1998",NA,"-","0-0-0",NA
-"5","1997",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wiley","500077","2025",NA,NA,"-",NA,NA,NA,0
+"2","Wiley","500077","2002",NA,NA,"-",NA,NA,NA,NA
+"3","Wiley","500077","1900",NA,NA,"-",NA,NA,NA,NA
+"4","Wiley","500077","1999",NA,NA,"-",NA,NA,NA,NA
+"5","Wiley","500077","1998",NA,NA,"-",NA,NA,NA,NA
+"6","Wiley","500077","1997",NA,NA,"-",NA,NA,NA,NA
+"7","Wiley","500077","",NA,NA,"",0,0,0,0

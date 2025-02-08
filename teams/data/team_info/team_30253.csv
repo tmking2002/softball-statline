@@ -1,2 +1,9 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2024,NA,"-","12-24-0",0.333
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Carlow","30253","2025","Glenn Zinsmeister","D-III","AMCC",0,0,0,0
+"2","Carlow","30253","2024","Glenn Zinsmeister","D-III","AMCC",15,24,0,0.385
+"3","Carlow","30253","2023","Glenn Zinsmeister","","-",15,35,0,0.3
+"4","Carlow","30253","2022","Glenn Zinsmeister","","-",11,37,1,0.235
+"5","Carlow","30253","2021","Glenn Zinsmeister","","-",17,27,1,0.389
+"6","Carlow","30253","2020","Glenn Zinsmeister","","-",5,6,0,0.455
+"7","Carlow","30253","2019","Glenn Zinsmeister","","-",20,22,0,0.476
+"8","Carlow","30253","","","","",83,151,2,0.356

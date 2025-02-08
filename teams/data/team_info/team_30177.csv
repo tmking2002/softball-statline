@@ -1,18 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Daren Hays","Lone Star","40-17-0",0.702
-"2",2022,"Daren Hays","Lone Star","39-12-0",0.765
-"3",2021,"Daren Hays","Lone Star","29-17-0",0.63
-"4",2020,"Daren Hays","Lone Star","20-6-0",0.769
-"5",2019,"Daren Hays","Heartland","32-19-0",0.627
-"6",2018,"Daren Hays","Heartland","31-17-0",0.646
-"7",2017,"Daren Hays","Heartland","40-19-0",0.678
-"8",2016,"Daren Hays","Heartland","45-15-0",0.75
-"9",2015,"Daren Hays","-","36-12-0",0.75
-"10",2014,"Daren Hays","-","42-10-0",0.808
-"11",2013,"Daren Hays","-","61-10-0",0.859
-"12",2012,"Daren Hays","-","56-8-0",0.875
-"13",2011,"Daren Hays","-","52-12-0",0.812
-"14",2010,"Larry Hays","-","54-6-4",0.9
-"15",2009,"Shanon Hays","-","53-7-3",0.883
-"16",2008,"Shanon Hays","-","58-9-2",0.866
-"17",2024,"Daren Hays","Lone Star","25-18-0",0.581
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lubbock Christian","30177","2025","Daren Hays","D-II","Lone Star",7,1,0,0.875
+"2","Lubbock Christian","30177","2024","Daren Hays","D-II","Lone Star",26,22,0,0.542
+"3","Lubbock Christian","30177","2023","Daren Hays","D-II","Lone Star",40,17,0,0.702
+"4","Lubbock Christian","30177","2022","Daren Hays","D-II","Lone Star",39,12,0,0.765
+"5","Lubbock Christian","30177","2021","Daren Hays","D-II","Lone Star",29,17,0,0.63
+"6","Lubbock Christian","30177","2020","Daren Hays","D-II","Lone Star",20,6,0,0.769
+"7","Lubbock Christian","30177","2019","Daren Hays","D-II","Heartland",32,19,0,0.627
+"8","Lubbock Christian","30177","2018","Daren Hays","D-II","Heartland",31,17,NA,0.646
+"9","Lubbock Christian","30177","2017","Daren Hays","D-II","Heartland",40,19,0,0.678
+"10","Lubbock Christian","30177","2016","Daren Hays","D-II","Heartland",45,15,0,0.75
+"11","Lubbock Christian","30177","2015","Daren Hays","","-",36,12,0,0.75
+"12","Lubbock Christian","30177","2014","Daren Hays","","-",42,10,0,0.808
+"13","Lubbock Christian","30177","2013","Daren Hays","","-",61,10,0,0.859
+"14","Lubbock Christian","30177","2012","Daren Hays","","-",56,8,0,0.875
+"15","Lubbock Christian","30177","2011","Daren Hays","","-",52,12,0,0.813
+"16","Lubbock Christian","30177","2010","Larry Hays","","-",54,6,4,0.875
+"17","Lubbock Christian","30177","2009","Shanon Hays","","-",53,7,3,0.865
+"18","Lubbock Christian","30177","2008","Shanon Hays","","-",58,9,2,0.855
+"19","Lubbock Christian","30177","","","","",721,219,9,0.764

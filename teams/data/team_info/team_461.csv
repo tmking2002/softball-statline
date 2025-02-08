@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jack Carpenter","Empire 8","14-17-0",0.452
-"2",2022,"Jack Carpenter","Empire 8","18-19-0",0.486
-"3",2021,"Jack Carpenter","Empire 8","5-19-0",0.208
-"4",2020,"Jack Carpenter","Empire 8","1-9-0",0.1
-"5",2019,"Jack Carpenter","Empire 8","14-22-0",0.389
-"6",2018,"Jack Carpenter","Empire 8","11-19-0",0.367
-"7",2017,"Jack Carpenter","Empire 8","19-15-0",0.559
-"8",2016,"Jack Carpenter","Empire 8","20-20-0",0.5
-"9",2015,"Jack Carpenter","Empire 8","15-19-0",0.441
-"10",2014,"Jack Carpenter","Empire 8","9-21-0",0.3
-"11",2013,"Jack Carpenter","Empire 8","7-24-0",0.226
-"12",2012,"Jack Carpenter","Empire 8","12-26-0",0.316
-"13",2011,"Jack Carpenter","Empire 8","5-29-0",0.147
-"14",2010,"Jack Carpenter","Empire 8","17-21-0",0.447
-"15",2009,"Jack Carpenter","Empire 8","17-17-0",0.5
-"16",2008,"Jack Carpenter","Empire 8","18-20-0",0.474
-"17",2007,"Jack Carpenter","Empire 8","9-27-0",0.25
-"18",2006,"Jack Carpenter","-","0-0-0",NA
-"19",2005,"","-","0-0-0",NA
-"20",2004,"","-","0-0-0",NA
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"Sue Dilsworth","-","18-33-0",0.353
-"38",1986,"Sue Dilsworth","-","1-1-0",0.5
-"39",1981,"","-","0-0-0",NA
-"40",2024,"Margaret Yerdon-Grange","Empire 8","4-30-0",0.118
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Nazareth","461","2025","Margaret Yerdon-Grange","D-III","Empire 8",0,0,0,0
+"2","Nazareth","461","2024","Margaret Yerdon-Grange","D-III","Empire 8",4,30,0,0.118
+"3","Nazareth","461","2023","Jack Carpenter","D-III","Empire 8",14,17,0,0.452
+"4","Nazareth","461","2022","Jack Carpenter","D-III","Empire 8",18,19,0,0.486
+"5","Nazareth","461","2021","Jack Carpenter","D-III","Empire 8",5,19,0,0.208
+"6","Nazareth","461","2020","Jack Carpenter","D-III","Empire 8",1,9,0,0.1
+"7","Nazareth","461","2019","Jack Carpenter","D-III","Empire 8",14,22,0,0.389
+"8","Nazareth","461","2018","Jack Carpenter","D-III","Empire 8",11,19,NA,0.367
+"9","Nazareth","461","2017","Jack Carpenter","D-III","Empire 8",19,15,0,0.559
+"10","Nazareth","461","2016","Jack Carpenter","D-III","Empire 8",20,20,0,0.5
+"11","Nazareth","461","2015","Jack Carpenter","D-III","Empire 8",15,19,0,0.441
+"12","Nazareth","461","2014","Jack Carpenter","D-III","Empire 8",9,21,0,0.3
+"13","Nazareth","461","2013","Jack Carpenter","D-III","Empire 8",7,24,0,0.226
+"14","Nazareth","461","2012","Jack Carpenter","D-III","Empire 8",12,26,0,0.316
+"15","Nazareth","461","2011","Jack Carpenter","D-III","Empire 8",5,29,0,0.147
+"16","Nazareth","461","2010","Jack Carpenter","D-III","Empire 8",17,21,0,0.447
+"17","Nazareth","461","2009","Jack Carpenter","D-III","Empire 8",17,17,0,0.5
+"18","Nazareth","461","2008","Jack Carpenter","D-III","Empire 8",18,20,0,0.474
+"19","Nazareth","461","2007","Jack Carpenter","D-III","Empire 8",9,27,0,0.25
+"20","Nazareth","461","2006","Jack Carpenter","","-",NA,NA,NA,NA
+"21","Nazareth","461","2005","","","-",NA,NA,NA,NA
+"22","Nazareth","461","2004","","","-",NA,NA,NA,NA
+"23","Nazareth","461","2003","","","-",NA,NA,NA,NA
+"24","Nazareth","461","2002","","","-",NA,NA,NA,NA
+"25","Nazareth","461","2001","","","-",NA,NA,NA,NA
+"26","Nazareth","461","1900","","","-",NA,NA,NA,NA
+"27","Nazareth","461","1999","","","-",NA,NA,NA,NA
+"28","Nazareth","461","1998","","","-",NA,NA,NA,NA
+"29","Nazareth","461","1997","","","-",NA,NA,NA,NA
+"30","Nazareth","461","1996","","","-",NA,NA,NA,NA
+"31","Nazareth","461","1995","","","-",NA,NA,NA,NA
+"32","Nazareth","461","1994","","","-",NA,NA,NA,NA
+"33","Nazareth","461","1993","","","-",NA,NA,NA,NA
+"34","Nazareth","461","1992","","","-",NA,NA,NA,NA
+"35","Nazareth","461","1991","","","-",NA,NA,NA,NA
+"36","Nazareth","461","1990","","","-",NA,NA,NA,NA
+"37","Nazareth","461","1989","","","-",NA,NA,NA,NA
+"38","Nazareth","461","1988","","","-",NA,NA,NA,NA
+"39","Nazareth","461","1987","Sue Dilsworth","","-",18,33,NA,0.353
+"40","Nazareth","461","1986","Sue Dilsworth","","-",1,1,NA,0.5
+"41","Nazareth","461","1981","","","-",NA,NA,NA,NA
+"42","Nazareth","461","","","","",234,408,0,0.364

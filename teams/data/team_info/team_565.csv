@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kevin Proffitt","ODAC","43-11-0",0.796
-"2",2022,"Kevin Proffitt","ODAC","35-11-0",0.761
-"3",2021,"Kevin Proffitt","ODAC","14-7-1",0.667
-"4",2020,"Kevin Proffitt","ODAC","8-3-1",0.727
-"5",2019,"Kevin Proffitt","ODAC","30-17-0",0.638
-"6",2018,"Kevin Proffitt","ODAC","40-7-0",0.851
-"7",2017,"Kevin Proffitt","ODAC","35-11-0",0.761
-"8",2016,"Kevin Proffitt","ODAC","31-13-0",0.705
-"9",2015,"Kevin Proffitt","ODAC","26-12-0",0.684
-"10",2014,"Kevin Proffitt","ODAC","26-12-0",0.684
-"11",2013,"Kevin Proffitt","ODAC","34-9-0",0.791
-"12",2012,"Kevin Proffitt","ODAC","29-14-0",0.674
-"13",2011,"Kevin Proffitt","ODAC","21-13-0",0.618
-"14",2010,"Kevin Proffitt","ODAC","17-13-0",0.567
-"15",2009,"Kevin Proffitt","ODAC","15-17-0",0.469
-"16",2008,"Kevin Proffitt","ODAC","24-14-0",0.632
-"17",2007,"Kevin Proffitt","ODAC","21-14-0",0.6
-"18",2006,"Kevin Proffitt","ODAC","17-17-0",0.5
-"19",2005,"Kevin Proffitt","ODAC","11-18-0",0.379
-"20",2004,"Kevin Proffitt","ODAC","16-18-0",0.471
-"21",2003,"Kevin Proffitt","ODAC","7-25-0",0.219
-"22",2002,"Dr. Kathy Tovey (Ziegler)","ODAC","4-30-0",0.118
-"23",2001,"Dr. Kathy Tovey (Ziegler)","-","12-25-0",0.324
-"24",2000,"Jill Livezey","-","7-244-0",0.028
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1981,"","-","0-0-0",NA
-"36",2024,"Kevin Proffitt","ODAC","33-7-2",0.825
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Randolph-Macon","565","2025","Krysti Maronski-Neufeldt","D-III","ODAC",0,0,0,0
+"2","Randolph-Macon","565","2024","Kevin Proffitt","D-III","ODAC",33,7,2,0.81
+"3","Randolph-Macon","565","2023","Kevin Proffitt","D-III","ODAC",43,11,0,0.796
+"4","Randolph-Macon","565","2022","Kevin Proffitt","D-III","ODAC",35,11,0,0.761
+"5","Randolph-Macon","565","2021","Kevin Proffitt","D-III","ODAC",14,7,1,0.659
+"6","Randolph-Macon","565","2020","Kevin Proffitt","D-III","ODAC",8,3,1,0.708
+"7","Randolph-Macon","565","2019","Kevin Proffitt","D-III","ODAC",30,17,0,0.638
+"8","Randolph-Macon","565","2018","Kevin Proffitt","D-III","ODAC",40,7,NA,0.851
+"9","Randolph-Macon","565","2017","Kevin Proffitt","D-III","ODAC",35,11,0,0.761
+"10","Randolph-Macon","565","2016","Kevin Proffitt","D-III","ODAC",31,13,0,0.705
+"11","Randolph-Macon","565","2015","Kevin Proffitt","D-III","ODAC",26,12,0,0.684
+"12","Randolph-Macon","565","2014","Kevin Proffitt","D-III","ODAC",26,12,0,0.684
+"13","Randolph-Macon","565","2013","Kevin Proffitt","D-III","ODAC",34,9,0,0.791
+"14","Randolph-Macon","565","2012","Kevin Proffitt","D-III","ODAC",29,14,0,0.674
+"15","Randolph-Macon","565","2011","Kevin Proffitt","D-III","ODAC",21,13,0,0.618
+"16","Randolph-Macon","565","2010","Kevin Proffitt","D-III","ODAC",17,13,0,0.567
+"17","Randolph-Macon","565","2009","Kevin Proffitt","D-III","ODAC",15,17,0,0.469
+"18","Randolph-Macon","565","2008","Kevin Proffitt","D-III","ODAC",24,14,0,0.632
+"19","Randolph-Macon","565","2007","Kevin Proffitt","D-III","ODAC",21,14,0,0.6
+"20","Randolph-Macon","565","2006","Kevin Proffitt","D-III","ODAC",17,17,0,0.5
+"21","Randolph-Macon","565","2005","Kevin Proffitt","D-III","ODAC",11,18,0,0.379
+"22","Randolph-Macon","565","2004","Kevin Proffitt","D-III","ODAC",16,18,0,0.471
+"23","Randolph-Macon","565","2003","Kevin Proffitt","D-III","ODAC",7,25,0,0.219
+"24","Randolph-Macon","565","2002","Dr. Kathy Tovey (Ziegler)","D-III","ODAC",4,30,0,0.118
+"25","Randolph-Macon","565","2001","Dr. Kathy Tovey (Ziegler)","D-III","-",12,25,0,0.324
+"26","Randolph-Macon","565","1900","Jill Livezey","D-III","-",7,244,NA,0.028
+"27","Randolph-Macon","565","1999","","D-III","-",NA,NA,NA,NA
+"28","Randolph-Macon","565","1998","","","-",NA,NA,NA,NA
+"29","Randolph-Macon","565","1997","","D-III","-",NA,NA,NA,NA
+"30","Randolph-Macon","565","1996","","D-III","-",NA,NA,NA,NA
+"31","Randolph-Macon","565","1995","","D-III","-",NA,NA,NA,NA
+"32","Randolph-Macon","565","1994","","","-",NA,NA,NA,NA
+"33","Randolph-Macon","565","1993","","","-",NA,NA,NA,NA
+"34","Randolph-Macon","565","1992","","","-",NA,NA,NA,NA
+"35","Randolph-Macon","565","1991","","","-",NA,NA,NA,NA
+"36","Randolph-Macon","565","1990","","","-",NA,NA,NA,NA
+"37","Randolph-Macon","565","1981","","","-",NA,NA,NA,NA
+"38","Randolph-Macon","565","","","","",556,582,4,0.489

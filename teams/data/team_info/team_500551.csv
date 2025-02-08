@@ -1,10 +1,12 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2019",NA,"-","0-0-0",0
-"3","2018",NA,"-","0-0-0",0
-"4","2016",NA,"-","0-0-0",NA
-"5","2015",NA,"-","0-0-0",NA
-"6","2014",NA,"-","0-0-0",NA
-"7","2012",NA,"-","0-0-0",NA
-"8","2011",NA,"-","0-0-0",NA
-"9","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Blue Mountain (MS)","500551","2025",NA,NA,"-",NA,NA,NA,0
+"2","Blue Mountain (MS)","500551","2024",NA,NA,"-",NA,NA,NA,0
+"3","Blue Mountain (MS)","500551","2019",NA,NA,"-",NA,NA,NA,0
+"4","Blue Mountain (MS)","500551","2018",NA,NA,"-",NA,NA,NA,0
+"5","Blue Mountain (MS)","500551","2016",NA,NA,"-",NA,NA,NA,NA
+"6","Blue Mountain (MS)","500551","2015",NA,NA,"-",NA,NA,NA,NA
+"7","Blue Mountain (MS)","500551","2014",NA,NA,"-",NA,NA,NA,NA
+"8","Blue Mountain (MS)","500551","2012",NA,NA,"-",NA,NA,NA,NA
+"9","Blue Mountain (MS)","500551","2011",NA,NA,"-",NA,NA,NA,NA
+"10","Blue Mountain (MS)","500551","2002",NA,NA,"-",NA,NA,NA,NA
+"11","Blue Mountain (MS)","500551","",NA,NA,"",0,0,0,0

@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Rachael Powers","NEWMAC","22-18-0",0.55
-"2",2022,"Rachael Powers","NEWMAC","22-17-0",0.564
-"3",2021,"Rachael Powers","NEWMAC","4-8-0",0.333
-"4",2020,"Rachael Powers","NEWMAC","3-7-0",0.3
-"5",2019,"Rachael Powers","NEWMAC","21-17-0",0.553
-"6",2018,"Rachael Powers","NEWMAC","13-23-0",0.361
-"7",2017,"Rachael Powers","NEWMAC","18-19-0",0.486
-"8",2016,"Rachael Powers","NEWMAC","23-14-0",0.622
-"9",2015,"Rachael Powers","NEWMAC","34-10-0",0.773
-"10",2014,"Rachael Powers","NEWMAC","30-12-0",0.714
-"11",2013,"Rachael Powers","NEWMAC","28-16-0",0.636
-"12",2012,"Rachael Powers","NEWMAC","19-22-0",0.463
-"13",2011,"Rachael Powers","NEWMAC","20-19-0",0.513
-"14",2010,"Rachael Powers","NEWMAC","20-18-0",0.526
-"15",2009,"Rachael Powers","NEWMAC","15-23-0",0.395
-"16",2008,"Gina Loudenburg","NEWMAC","29-14-0",0.674
-"17",2007,"Gina Loudenburg","NEWMAC","25-16-0",0.61
-"18",2006,"Gina Loudenburg","NEWMAC","24-15-0",0.615
-"19",2005,"Gina Loudenburg","NEWMAC","28-15-0",0.651
-"20",2004,"Gina Loudenburg","NEWMAC","33-12-1",0.733
-"21",2003,"Gina Loudenburg","NEWMAC","35-9-0",0.795
-"22",2002,"Gina Loudenburg","NEWMAC","31-9-0",0.775
-"23",2001,"Gina Loudenburg","-","42-9-0",0.824
-"24",2000,"Gina Loudenburg","-","35-11-1",0.761
-"25",1999,"Gina Loudenburg","-","38-10-0",0.792
-"26",1998,"Gina Loudenburg","-","38-12-0",0.76
-"27",1997,"Gina Loudenburg","-","45-7-0",0.865
-"28",1996,"Gina Loudenburg","-","25-12-1",0.676
-"29",1995,"Gina Loudenburg","-","30-8-0",0.789
-"30",1994,"Gina Loudenburg","-","22-11-0",0.667
-"31",1993,"Gina Loudenburg","-","19-15-0",0.559
-"32",1992,"Gina Loudenburg","-","16-14-0",0.533
-"33",1991,"Gina Loudenburg","-","14-7-0",0.667
-"34",1990,"Gina Loudenburg","-","10-9-0",0.526
-"35",1989,"Del Malloy","-","12-6-0",0.667
-"36",1988,"Del Malloy","-","14-6-0",0.7
-"37",1987,"Del Malloy","-","9-5-0",0.643
-"38",1986,"Del Malloy","-","5-11-0",0.312
-"39",1985,"Del Malloy","-","11-4-0",0.733
-"40",1984,"Del Malloy","-","8-8-0",0.5
-"41",1983,"Del Malloy","-","2-13-1",0.133
-"42",1981,"","-","0-0-0",NA
-"43",2024,"Erin Miller","NEWMAC","22-17-0",0.564
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wheaton (MA)","779","2025","Erin Miller","D-III","NEWMAC",0,0,0,0
+"2","Wheaton (MA)","779","2024","Erin Miller","D-III","NEWMAC",22,17,0,0.564
+"3","Wheaton (MA)","779","2023","Rachael Powers","D-III","NEWMAC",22,18,0,0.55
+"4","Wheaton (MA)","779","2022","Rachael Powers","D-III","NEWMAC",22,17,0,0.564
+"5","Wheaton (MA)","779","2021","Rachael Powers","D-III","NEWMAC",4,8,0,0.333
+"6","Wheaton (MA)","779","2020","Rachael Powers","D-III","NEWMAC",3,7,0,0.3
+"7","Wheaton (MA)","779","2019","Rachael Powers","D-III","NEWMAC",21,17,0,0.553
+"8","Wheaton (MA)","779","2018","Rachael Powers","D-III","NEWMAC",13,23,NA,0.361
+"9","Wheaton (MA)","779","2017","Rachael Powers","D-III","NEWMAC",18,19,0,0.486
+"10","Wheaton (MA)","779","2016","Rachael Powers","D-III","NEWMAC",23,14,0,0.622
+"11","Wheaton (MA)","779","2015","Rachael Powers","D-III","NEWMAC",34,10,0,0.773
+"12","Wheaton (MA)","779","2014","Rachael Powers","D-III","NEWMAC",30,12,0,0.714
+"13","Wheaton (MA)","779","2013","Rachael Powers","D-III","NEWMAC",28,16,0,0.636
+"14","Wheaton (MA)","779","2012","Rachael Powers","D-III","NEWMAC",19,22,0,0.463
+"15","Wheaton (MA)","779","2011","Rachael Powers","D-III","NEWMAC",20,19,0,0.513
+"16","Wheaton (MA)","779","2010","Rachael Powers","D-III","NEWMAC",20,18,0,0.526
+"17","Wheaton (MA)","779","2009","Rachael Powers","D-III","NEWMAC",15,23,0,0.395
+"18","Wheaton (MA)","779","2008","Gina Loudenburg","D-III","NEWMAC",29,14,0,0.674
+"19","Wheaton (MA)","779","2007","Gina Loudenburg","D-III","NEWMAC",25,16,0,0.61
+"20","Wheaton (MA)","779","2006","Gina Loudenburg","D-III","NEWMAC",24,15,0,0.615
+"21","Wheaton (MA)","779","2005","Gina Loudenburg","D-III","NEWMAC",28,15,0,0.651
+"22","Wheaton (MA)","779","2004","Gina Loudenburg","D-III","NEWMAC",33,12,1,0.728
+"23","Wheaton (MA)","779","2003","Gina Loudenburg","D-III","NEWMAC",35,9,0,0.795
+"24","Wheaton (MA)","779","2002","Gina Loudenburg","D-III","NEWMAC",31,9,0,0.775
+"25","Wheaton (MA)","779","2001","Gina Loudenburg","D-III","-",42,9,NA,0.824
+"26","Wheaton (MA)","779","1900","Gina Loudenburg","D-III","-",35,11,1,0.755
+"27","Wheaton (MA)","779","1999","Gina Loudenburg","D-III","-",38,10,NA,0.792
+"28","Wheaton (MA)","779","1998","Gina Loudenburg","D-III","-",38,12,NA,0.76
+"29","Wheaton (MA)","779","1997","Gina Loudenburg","D-III","-",45,7,NA,0.865
+"30","Wheaton (MA)","779","1996","Gina Loudenburg","D-III","-",25,12,1,0.671
+"31","Wheaton (MA)","779","1995","Gina Loudenburg","D-III","-",30,8,NA,0.789
+"32","Wheaton (MA)","779","1994","Gina Loudenburg","D-III","-",22,11,NA,0.667
+"33","Wheaton (MA)","779","1993","Gina Loudenburg","D-III","-",19,15,NA,0.559
+"34","Wheaton (MA)","779","1992","Gina Loudenburg","D-III","-",16,14,NA,0.533
+"35","Wheaton (MA)","779","1991","Gina Loudenburg","D-III","-",14,7,NA,0.667
+"36","Wheaton (MA)","779","1990","Gina Loudenburg","D-III","-",10,9,NA,0.526
+"37","Wheaton (MA)","779","1989","Del Malloy","D-III","-",12,6,NA,0.667
+"38","Wheaton (MA)","779","1988","Del Malloy","D-III","-",14,6,NA,0.7
+"39","Wheaton (MA)","779","1987","Del Malloy","D-III","-",9,5,NA,0.643
+"40","Wheaton (MA)","779","1986","Del Malloy","D-III","-",5,11,NA,0.313
+"41","Wheaton (MA)","779","1985","Del Malloy","D-III","-",11,4,NA,0.733
+"42","Wheaton (MA)","779","1984","Del Malloy","D-III","-",8,8,NA,0.5
+"43","Wheaton (MA)","779","1983","Del Malloy","D-III","-",2,13,1,0.156
+"44","Wheaton (MA)","779","1981","","","-",NA,NA,NA,NA
+"45","Wheaton (MA)","779","","","","",914,528,4,0.633

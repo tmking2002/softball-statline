@@ -1,37 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Casey Cromwell","UAA","20-18-0","0.526"
-"2","2022","Michelle Venturella","UAA","32-12-0","0.727"
-"3","2021","Michelle Venturella","UAA","12-10-0","0.545"
-"4","2020","Michelle Venturella","UAA","6-3-0","0.667"
-"5","2019","Michelle Venturella","UAA","15-18-0","0.455"
-"6","2018","Michelle Venturella","UAA","16-14-0","0.533"
-"7","2017","Michelle Venturella","UAA","27-14-0","0.659"
-"8","2016","Leticia Pineda-Boutte","UAA","35-12-0","0.745"
-"9","2015","Leticia Pineda-Boutte","UAA","33-13-0","0.717"
-"10","2014","Leticia Pineda-Boutte","UAA","31-17-0","0.646"
-"11","2013","Leticia Pineda-Boutte","UAA","31-14-0","0.689"
-"12","2012","Leticia Pineda-Boutte","UAA","28-12-0","0.700"
-"13","2011","Leticia Pineda-Boutte","UAA","32-12-1","0.727"
-"14","2010","Leticia Pineda-Boutte","UAA","37-11-0","0.771"
-"15","2009","Leticia Pineda-Boutte","UAA","27-13-0","0.675"
-"16","2008","Leticia Pineda-Boutte","UAA","25-15-0","0.625"
-"17","2007","Leticia Pineda-Boutte","UAA","35-7-0","0.833"
-"18","2006","Leticia Pineda-Boutte","UAA","37-7-0","0.841"
-"19","2005","Cindy Zelinsky","UAA","47-3-0","0.940"
-"20","2004","Cindy Zelinsky","UAA","33-5-0","0.868"
-"21","2003","Cindy Zelinsky","UAA","30-9-0","0.769"
-"22","2002","Cindy Zelinsky","UAA","24-19-0","0.558"
-"23","2001","Cindy Zelinsky","-","22-22-0","0.500"
-"24","2000","Cindy Zelinsky","-","22-10-0","0.688"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","WashU","755","2025","Casey Cromwell","D-III","UAA",0,0,0,0
+"2","WashU","755","2024","Casey Cromwell","D-III","UAA",28,12,0,0.7
+"3","WashU","755","2023","Casey Cromwell","D-III","UAA",20,18,0,0.526
+"4","WashU","755","2022","Michelle Venturella","D-III","UAA",32,12,0,0.727
+"5","WashU","755","2021","Michelle Venturella","D-III","UAA",12,10,0,0.545
+"6","WashU","755","2020","Michelle Venturella","D-III","UAA",6,3,0,0.667
+"7","WashU","755","2019","Michelle Venturella","D-III","UAA",15,18,0,0.455
+"8","WashU","755","2018","Michelle Venturella","D-III","UAA",16,14,NA,0.533
+"9","WashU","755","2017","Michelle Venturella","D-III","UAA",27,14,0,0.659
+"10","WashU","755","2016","Leticia Pineda-Boutte","D-III","UAA",35,12,0,0.745
+"11","WashU","755","2015","Leticia Pineda-Boutte","D-III","UAA",33,13,0,0.717
+"12","WashU","755","2014","Leticia Pineda-Boutte","D-III","UAA",31,17,0,0.646
+"13","WashU","755","2013","Leticia Pineda-Boutte","D-III","UAA",31,14,0,0.689
+"14","WashU","755","2012","Leticia Pineda-Boutte","D-III","UAA",28,12,0,0.7
+"15","WashU","755","2011","Leticia Pineda-Boutte","D-III","UAA",32,12,1,0.722
+"16","WashU","755","2010","Leticia Pineda-Boutte","D-III","UAA",37,11,0,0.771
+"17","WashU","755","2009","Leticia Pineda-Boutte","D-III","UAA",27,13,0,0.675
+"18","WashU","755","2008","Leticia Pineda-Boutte","D-III","UAA",25,15,0,0.625
+"19","WashU","755","2007","Leticia Pineda-Boutte","D-III","UAA",35,7,0,0.833
+"20","WashU","755","2006","Leticia Pineda-Boutte","D-III","UAA",37,7,0,0.841
+"21","WashU","755","2005","Cindy Zelinsky","D-III","UAA",47,3,0,0.94
+"22","WashU","755","2004","Cindy Zelinsky","D-III","UAA",33,5,0,0.868
+"23","WashU","755","2003","Cindy Zelinsky","D-III","UAA",30,9,0,0.769
+"24","WashU","755","2002","Cindy Zelinsky","D-III","UAA",24,19,0,0.558
+"25","WashU","755","2001","Cindy Zelinsky","D-III","-",22,22,NA,0.5
+"26","WashU","755","1900","Cindy Zelinsky","D-III","-",22,10,NA,0.688
+"27","WashU","755","1999","","D-III","-",NA,NA,NA,NA
+"28","WashU","755","1998","","D-III","-",NA,NA,NA,NA
+"29","WashU","755","1997","","D-III","-",NA,NA,NA,NA
+"30","WashU","755","1996","","D-III","-",NA,NA,NA,NA
+"31","WashU","755","1995","","D-III","-",NA,NA,NA,NA
+"32","WashU","755","1994","","D-III","-",NA,NA,NA,NA
+"33","WashU","755","1993","","D-III","-",NA,NA,NA,NA
+"34","WashU","755","1992","","D-III","-",NA,NA,NA,NA
+"35","WashU","755","1991","","D-III","-",NA,NA,NA,NA
+"36","WashU","755","1990","","D-III","-",NA,NA,NA,NA
+"37","WashU","755","1989","","","-",NA,NA,NA,NA
+"38","WashU","755","1988","","","-",NA,NA,NA,NA
+"39","WashU","755","","","","",685,302,1,0.694

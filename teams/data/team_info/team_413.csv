@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Annie Van Wetzinga","RMAC","34-22-0",0.607
-"2",2022,"Annie Van Wetzinga","RMAC","38-22-0",0.633
-"3",2021,"Annie Van Wetzinga","RMAC","29-11-0",0.725
-"4",2020,"Annie Van Wetzinga","RMAC","18-6-0",0.75
-"5",2019,"Annie Van Wetzinga","RMAC","31-27-0",0.534
-"6",2018,"Annie Van Wetzinga","RMAC","34-23-0",0.596
-"7",2017,"Annie Van Wetzinga","RMAC","34-21-0",0.618
-"8",2016,"Annie Van Wetzinga","RMAC","35-19-0",0.648
-"9",2015,"Annie Van Wetzinga","RMAC","44-16-0",0.733
-"10",2014,"Annie Van Wetzinga","RMAC","33-17-0",0.66
-"11",2013,"Kristi Lansford","RMAC","17-28-0",0.378
-"12",2012,"Kristi Lansford","RMAC","26-27-0",0.491
-"13",2011,"Vanessa Becerra","RMAC","34-18-0",0.654
-"14",2010,"Jen Fisher","RMAC","53-6-0",0.898
-"15",2009,"Jen Fisher","RMAC","40-12-0",0.769
-"16",2008,"Jen Fisher","RMAC","32-18-0",0.64
-"17",1990,"","-","0-0-0",NA
-"18",1989,"","-","0-0-0",NA
-"19",1988,"","-","0-0-0",NA
-"20",1987,"","-","0-0-0",NA
-"21",1986,"","-","0-0-0",NA
-"22",1984,"","-","0-0-0",NA
-"23",2024,"Annie Van Wetzinga","RMAC","38-14-0",0.731
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","MSU Denver","413","2025","Annie Van Wetzinga","D-II","RMAC",5,3,0,0.625
+"2","MSU Denver","413","2024","Annie Van Wetzinga","D-II","RMAC",43,18,0,0.705
+"3","MSU Denver","413","2023","Annie Van Wetzinga","D-II","RMAC",34,22,0,0.607
+"4","MSU Denver","413","2022","Annie Van Wetzinga","D-II","RMAC",38,22,0,0.633
+"5","MSU Denver","413","2021","Annie Van Wetzinga","D-II","RMAC",29,11,0,0.725
+"6","MSU Denver","413","2020","Annie Van Wetzinga","D-II","RMAC",18,6,0,0.75
+"7","MSU Denver","413","2019","Annie Van Wetzinga","D-II","RMAC",31,27,0,0.534
+"8","MSU Denver","413","2018","Annie Van Wetzinga","D-II","RMAC",34,23,NA,0.596
+"9","MSU Denver","413","2017","Annie Van Wetzinga","D-II","RMAC",34,21,0,0.618
+"10","MSU Denver","413","2016","Annie Van Wetzinga","D-II","RMAC",35,19,0,0.648
+"11","MSU Denver","413","2015","Annie Van Wetzinga","D-II","RMAC",44,16,0,0.733
+"12","MSU Denver","413","2014","Annie Van Wetzinga","D-II","RMAC",33,17,0,0.66
+"13","MSU Denver","413","2013","Kristi Lansford","D-II","RMAC",17,28,0,0.378
+"14","MSU Denver","413","2012","Kristi Lansford","D-II","RMAC",26,27,0,0.491
+"15","MSU Denver","413","2011","Vanessa Becerra","D-II","RMAC",34,18,0,0.654
+"16","MSU Denver","413","2010","Jen Fisher","D-II","RMAC",53,6,0,0.898
+"17","MSU Denver","413","2009","Jen Fisher","D-II","RMAC",40,12,0,0.769
+"18","MSU Denver","413","2008","Jen Fisher","D-II","RMAC",32,18,0,0.64
+"19","MSU Denver","413","1990","","D-II","-",NA,NA,NA,NA
+"20","MSU Denver","413","1989","","D-II","-",NA,NA,NA,NA
+"21","MSU Denver","413","1988","","D-II","-",NA,NA,NA,NA
+"22","MSU Denver","413","1987","","D-II","-",NA,NA,NA,NA
+"23","MSU Denver","413","1986","","D-II","-",NA,NA,NA,NA
+"24","MSU Denver","413","1984","","D-II","-",NA,NA,NA,NA
+"25","MSU Denver","413","","","","",580,314,0,0.649

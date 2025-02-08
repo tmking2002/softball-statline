@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lynn Anderson","NSIC","40-13-0",0.755
-"2",2022,"Lynn Anderson","NSIC","39-16-0",0.709
-"3",2021,"Jennifer Walter","NSIC","32-15-0",0.681
-"4",2020,"Jennifer Walter","NSIC","9-12-0",0.429
-"5",2019,"Jennifer Walter","NSIC","33-22-0",0.6
-"6",2018,"Jennifer Walter","NSIC","44-16-0",0.733
-"7",2017,"Jennifer Walter","NSIC","35-20-0",0.636
-"8",2016,"Jennifer Walter","NSIC","35-17-0",0.673
-"9",2015,"Jen Banford","NSIC","33-22-0",0.6
-"10",2014,"Jen Banford","NSIC","25-21-0",0.543
-"11",2013,"Jen Banford","NSIC","41-13-0",0.759
-"12",2012,"Jen Banford","NSIC","38-22-0",0.633
-"13",2011,"Jen Banford","NSIC","33-17-0",0.66
-"14",2010,"Jen Banford","NSIC","32-17-0",0.653
-"15",2009,"Jen Banford","NSIC","26-23-0",0.531
-"16",2008,"Jen Banford","NCC","21-18-0",0.538
-"17",2007,"Jen Banford","NCC","31-23-0",0.574
-"18",2006,"Jen Banford","NCC","25-20-0",0.556
-"19",2005,"Bill Haller","NCC","23-32-0",0.418
-"20",2004,"Bill Haller","NSIC","25-23-0",0.521
-"21",2003,"Bill Haller","NSIC","27-10-0",0.73
-"22",2002,"Bill Haller","-","35-10-0",0.778
-"23",2001,"Bill Haller","-","30-16-0",0.652
-"24",2000,"Bill Haller","-","26-12-0",0.684
-"25",1999,"Bill Haller","-","22-24-0",0.478
-"26",1998,"Bill Haller","-","26-19-0",0.578
-"27",1997,"Bill Haller","-","22-12-0",0.647
-"28",1996,"Bill Haller","-","29-9-0",0.763
-"29",1995,"Bill Haller","-","27-7-0",0.794
-"30",1994,"Bill Haller","-","23-15-0",0.605
-"31",1993,"Bill Haller","-","31-9-0",0.775
-"32",1992,"Bill Haller","-","27-5-0",0.844
-"33",1991,"Bill Haller","-","32-13-1",0.711
-"34",1990,"Bill Haller","-","33-14-0",0.702
-"35",1989,"Bill Haller","-","33-8-0",0.805
-"36",1988,"Bill Haller","-","48-11-0",0.814
-"37",1987,"Bill Haller","-","35-10-0",0.778
-"38",1986,"Bill Haller","-","22-14-0",0.611
-"39",1985,"Bill Haller","-","17-13-0",0.567
-"40",1984,"Bill Haller","-","18-2-0",0.9
-"41",1983,"Bill Haller","-","21-9-0",0.7
-"42",1982,"Bill Haller","-","22-9-0",0.71
-"43",2024,"Lynn Anderson","NSIC","33-14-0",0.702
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Minn. Duluth","427","2025","Nat Wagner","D-II","NSIC",3,2,0,0.6
+"2","Minn. Duluth","427","2024","Lynn Anderson","D-II","NSIC",41,15,0,0.732
+"3","Minn. Duluth","427","2023","Lynn Anderson","D-II","NSIC",40,13,0,0.755
+"4","Minn. Duluth","427","2022","Lynn Anderson","D-II","NSIC",39,16,0,0.709
+"5","Minn. Duluth","427","2021","Jennifer Walter","D-II","NSIC",32,15,0,0.681
+"6","Minn. Duluth","427","2020","Jennifer Walter","D-II","NSIC",9,12,0,0.429
+"7","Minn. Duluth","427","2019","Jennifer Walter","D-II","NSIC",33,22,0,0.6
+"8","Minn. Duluth","427","2018","Jennifer Walter","D-II","NSIC",44,16,NA,0.733
+"9","Minn. Duluth","427","2017","Jennifer Walter","D-II","NSIC",35,20,0,0.636
+"10","Minn. Duluth","427","2016","Jennifer Walter","D-II","NSIC",35,17,0,0.673
+"11","Minn. Duluth","427","2015","Jen Banford","D-II","NSIC",33,22,0,0.6
+"12","Minn. Duluth","427","2014","Jen Banford","D-II","NSIC",25,21,0,0.543
+"13","Minn. Duluth","427","2013","Jen Banford","D-II","NSIC",41,13,0,0.759
+"14","Minn. Duluth","427","2012","Jen Banford","D-II","NSIC",38,22,0,0.633
+"15","Minn. Duluth","427","2011","Jen Banford","D-II","NSIC",33,17,0,0.66
+"16","Minn. Duluth","427","2010","Jen Banford","D-II","NSIC",32,17,0,0.653
+"17","Minn. Duluth","427","2009","Jen Banford","D-II","NSIC",26,23,0,0.531
+"18","Minn. Duluth","427","2008","Jen Banford","D-II","NCC",21,18,0,0.538
+"19","Minn. Duluth","427","2007","Jen Banford","D-II","NCC",31,23,0,0.574
+"20","Minn. Duluth","427","2006","Jen Banford","D-II","NCC",25,20,0,0.556
+"21","Minn. Duluth","427","2005","Bill Haller","D-II","NCC",23,32,0,0.418
+"22","Minn. Duluth","427","2004","Bill Haller","D-II","NSIC",25,23,0,0.521
+"23","Minn. Duluth","427","2003","Bill Haller","D-II","NSIC",27,10,0,0.73
+"24","Minn. Duluth","427","2002","Bill Haller","D-II","-",35,10,NA,0.778
+"25","Minn. Duluth","427","2001","Bill Haller","D-II","-",30,16,NA,0.652
+"26","Minn. Duluth","427","1900","Bill Haller","D-II","-",26,12,NA,0.684
+"27","Minn. Duluth","427","1999","Bill Haller","D-II","-",22,24,NA,0.478
+"28","Minn. Duluth","427","1998","Bill Haller","D-II","-",26,19,NA,0.578
+"29","Minn. Duluth","427","1997","Bill Haller","D-II","-",22,12,NA,0.647
+"30","Minn. Duluth","427","1996","Bill Haller","D-II","-",29,9,NA,0.763
+"31","Minn. Duluth","427","1995","Bill Haller","D-II","-",27,7,NA,0.794
+"32","Minn. Duluth","427","1994","Bill Haller","D-II","-",23,15,NA,0.605
+"33","Minn. Duluth","427","1993","Bill Haller","D-II","-",31,9,NA,0.775
+"34","Minn. Duluth","427","1992","Bill Haller","D-II","-",27,5,NA,0.844
+"35","Minn. Duluth","427","1991","Bill Haller","D-II","-",32,13,1,0.707
+"36","Minn. Duluth","427","1990","Bill Haller","D-II","-",33,14,NA,0.702
+"37","Minn. Duluth","427","1989","Bill Haller","D-II","-",33,8,NA,0.805
+"38","Minn. Duluth","427","1988","Bill Haller","D-II","-",48,11,NA,0.814
+"39","Minn. Duluth","427","1987","Bill Haller","D-II","-",35,10,NA,0.778
+"40","Minn. Duluth","427","1986","Bill Haller","D-II","-",22,14,NA,0.611
+"41","Minn. Duluth","427","1985","Bill Haller","D-II","-",17,13,NA,0.567
+"42","Minn. Duluth","427","1984","Bill Haller","D-II","-",18,2,NA,0.9
+"43","Minn. Duluth","427","1983","Bill Haller","D-II","-",21,9,NA,0.7
+"44","Minn. Duluth","427","1982","Bill Haller","D-II","-",22,9,NA,0.71
+"45","Minn. Duluth","427","","","","",1270,650,1,0.661

@@ -1,27 +1,28 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2015","","North Atlantic","0-0-0","  NaN"
-"2","2014","Tricia Carver","North Atlantic","6-17-1","0.261"
-"3","2013","Casey Pursell","North Atlantic","14-15-0","0.483"
-"4","2012","Katrina Dagan","North Atlantic","14-15-0","0.483"
-"5","2011","Katrina Dagan","North Atlantic","18-8-0","0.692"
-"6","2010","Katrina Dagan","North Atlantic","20-7-0","0.741"
-"7","2009","Katrina Dagan","North Atlantic","4-20-0","0.167"
-"8","2008","Katrina Dagan","North Atlantic","8-18-0","0.308"
-"9","2007","Katrina Dagan","North Atlantic","4-15-0","0.211"
-"10","2006","Katrina Dagan","North Atlantic","3-15-0","0.167"
-"11","2005","Katrina Dagan","North Atlantic","5-8-0","0.385"
-"12","2004","Michael Keller","North Atlantic","3-29-2","0.094"
-"13","2003","Michael Keller","ECAC-III","6-15-0","0.286"
-"14","2002","Michael Keller","ECAC","10-12-0","0.455"
-"15","2001","","-","0-0-0","  NaN"
-"16","2000","Deidra Davis","-","7-13-0","0.350"
-"17","1999","","-","0-0-0","  NaN"
-"18","1998","","-","0-0-0","  NaN"
-"19","1997","","-","0-0-0","  NaN"
-"20","1996","","-","0-0-0","  NaN"
-"21","1995","","-","0-0-0","  NaN"
-"22","1994","","-","0-0-0","  NaN"
-"23","1993","","-","0-0-0","  NaN"
-"24","1992","","-","0-0-0","  NaN"
-"25","1991","","-","0-0-0","  NaN"
-"26","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Maine Maritime","378","2015","","D-III","North Atlantic",NA,NA,NA,NA
+"2","Maine Maritime","378","2014","Tricia Carver","D-III","North Atlantic",6,17,1,0.271
+"3","Maine Maritime","378","2013","Casey Pursell","D-III","North Atlantic",14,15,0,0.483
+"4","Maine Maritime","378","2012","Katrina Dagan","D-III","North Atlantic",14,15,0,0.483
+"5","Maine Maritime","378","2011","Katrina Dagan","D-III","North Atlantic",18,8,0,0.692
+"6","Maine Maritime","378","2010","Katrina Dagan","D-III","North Atlantic",20,7,0,0.741
+"7","Maine Maritime","378","2009","Katrina Dagan","D-III","North Atlantic",4,20,0,0.167
+"8","Maine Maritime","378","2008","Katrina Dagan","D-III","North Atlantic",8,18,0,0.308
+"9","Maine Maritime","378","2007","Katrina Dagan","D-III","North Atlantic",4,15,0,0.211
+"10","Maine Maritime","378","2006","Katrina Dagan","D-III","North Atlantic",3,15,0,0.167
+"11","Maine Maritime","378","2005","Katrina Dagan","D-III","North Atlantic",5,8,0,0.385
+"12","Maine Maritime","378","2004","Michael Keller","D-III","North Atlantic",3,29,2,0.118
+"13","Maine Maritime","378","2003","Michael Keller","D-III","ECAC-III",6,15,0,0.286
+"14","Maine Maritime","378","2002","Michael Keller","D-III","ECAC",10,12,0,0.455
+"15","Maine Maritime","378","2001","","","-",NA,NA,NA,NA
+"16","Maine Maritime","378","1900","Deidra Davis","D-III","-",7,13,NA,0.35
+"17","Maine Maritime","378","1999","","","-",NA,NA,NA,NA
+"18","Maine Maritime","378","1998","","","-",NA,NA,NA,NA
+"19","Maine Maritime","378","1997","","","-",NA,NA,NA,NA
+"20","Maine Maritime","378","1996","","","-",NA,NA,NA,NA
+"21","Maine Maritime","378","1995","","","-",NA,NA,NA,NA
+"22","Maine Maritime","378","1994","","","-",NA,NA,NA,NA
+"23","Maine Maritime","378","1993","","","-",NA,NA,NA,NA
+"24","Maine Maritime","378","1992","","","-",NA,NA,NA,NA
+"25","Maine Maritime","378","1991","","","-",NA,NA,NA,NA
+"26","Maine Maritime","378","1990","","","-",NA,NA,NA,NA
+"27","Maine Maritime","378","","","","",122,207,3,0.372

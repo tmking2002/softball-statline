@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Dawn Stearns","CACC","30-23-0",0.566
-"2",2022,"Dawn Stearns","ECC","36-16-0",0.692
-"3",2021,"Dawn Stearns","ECC","23-9-0",0.719
-"4",2020,"Dawn Stearns","ECC","8-5-0",0.615
-"5",2019,"Dawn Stearns","ECC","33-16-0",0.673
-"6",2018,"Dawn Stearns","ECC","25-25-0",0.5
-"7",2017,"Dawn Stearns","ECC","20-25-0",0.444
-"8",2016,"Dawn Stearns","ECC","19-30-0",0.388
-"9",2015,"Dawn Stearns","ECC","15-33-0",0.312
-"10",2014,"Dawn Stearns","ECC","19-29-0",0.396
-"11",2013,"Dawn Stearns","ECC","18-32-0",0.36
-"12",2012,"Dawn Stearns","ECC","15-28-0",0.349
-"13",2011,"Dawn Stearns","ECC","8-32-1",0.2
-"14",2010,"Dawn Stearns","ECC","4-42-0",0.087
-"15",2009,"Valerie Steen","ECC","12-27-0",0.308
-"16",2008,"Valerie Steen","ECC","24-24-0",0.5
-"17",2007,"Valerie Steen","ECC","12-30-1",0.286
-"18",2006,"Valerie Steen","ECC","25-22-0",0.532
-"19",2005,"Valerie Steen","ECC","26-18-0",0.591
-"20",2004,"Valerie Steen","ECC","24-20-0",0.545
-"21",2003,"","ECC","11-15-0",0.423
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Andrea Costa","-","0-0-0",NA
-"25",1999,"Debra Larson (6-27)Donna McLean (6-27)","-","6-27-0",0.182
-"26",1998,"Debra Larson","-","5-26-1",0.161
-"27",1997,"Debra Larson","-","5-17-0",0.227
-"28",1996,"Phil Liebrock","-","8-19-0",0.296
-"29",1995,"Phil Liebrock","-","2-25-0",0.074
-"30",1994,"Phil Liebrock","-","0-24-0",0
-"31",1993,"Phil Liebrock","-","29-17-1",0.63
-"32",1992,"Phil Liebrock","-","38-10-0",0.792
-"33",1991,"Phil Liebrock","-","21-17-0",0.553
-"34",1990,"Phil Liebrock","-","35-9-1",0.795
-"35",1989,"Phil Liebrock","-","30-13-0",0.698
-"36",1988,"Phil Liebrock","-","25-9-0",0.735
-"37",1987,"Phil Liebrock","-","21-14-0",0.6
-"38",1986,"Phil Liebrock","-","20-16-0",0.556
-"39",1985,"Phil Liebrock","-","21-19-0",0.525
-"40",1984,"Phil Liebrock","-","16-15-0",0.516
-"41",2024,"Dawn Stearns","CACC","25-21-0",0.543
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Bridgeport","74","2025","Dawn Stearns","D-II","CACC",0,0,0,0
+"2","Bridgeport","74","2024","Dawn Stearns","D-II","CACC",25,23,0,0.521
+"3","Bridgeport","74","2023","Dawn Stearns","D-II","CACC",30,23,0,0.566
+"4","Bridgeport","74","2022","Dawn Stearns","D-II","ECC",36,16,0,0.692
+"5","Bridgeport","74","2021","Dawn Stearns","D-II","ECC",23,9,0,0.719
+"6","Bridgeport","74","2020","Dawn Stearns","D-II","ECC",8,5,0,0.615
+"7","Bridgeport","74","2019","Dawn Stearns","D-II","ECC",33,16,0,0.673
+"8","Bridgeport","74","2018","Dawn Stearns","D-II","ECC",25,25,NA,0.5
+"9","Bridgeport","74","2017","Dawn Stearns","D-II","ECC",20,25,0,0.444
+"10","Bridgeport","74","2016","Dawn Stearns","D-II","ECC",19,30,0,0.388
+"11","Bridgeport","74","2015","Dawn Stearns","D-II","ECC",15,33,0,0.313
+"12","Bridgeport","74","2014","Dawn Stearns","D-II","ECC",19,29,0,0.396
+"13","Bridgeport","74","2013","Dawn Stearns","D-II","ECC",18,32,0,0.36
+"14","Bridgeport","74","2012","Dawn Stearns","D-II","ECC",15,28,0,0.349
+"15","Bridgeport","74","2011","Dawn Stearns","D-II","ECC",8,32,1,0.207
+"16","Bridgeport","74","2010","Dawn Stearns","D-II","ECC",4,42,0,0.087
+"17","Bridgeport","74","2009","Valerie Steen","D-II","ECC",12,27,0,0.308
+"18","Bridgeport","74","2008","Valerie Steen","D-II","ECC",24,24,0,0.5
+"19","Bridgeport","74","2007","Valerie Steen","D-II","ECC",12,30,1,0.291
+"20","Bridgeport","74","2006","Valerie Steen","D-II","ECC",25,22,0,0.532
+"21","Bridgeport","74","2005","Valerie Steen","D-II","ECC",26,18,0,0.591
+"22","Bridgeport","74","2004","Valerie Steen","D-II","ECC",24,20,0,0.545
+"23","Bridgeport","74","2003","","D-II","ECC",11,15,0,0.423
+"24","Bridgeport","74","2002","","D-II","-",NA,NA,NA,NA
+"25","Bridgeport","74","2001","","D-II","-",NA,NA,NA,NA
+"26","Bridgeport","74","1900","Andrea Costa","D-II","-",NA,NA,NA,NA
+"27","Bridgeport","74","1999","Debra Larson (6-27)Donna McLean (6-27)","D-II","-",6,27,NA,0.182
+"28","Bridgeport","74","1998","Debra Larson","D-II","-",5,26,1,0.172
+"29","Bridgeport","74","1997","Debra Larson","D-II","-",5,17,NA,0.227
+"30","Bridgeport","74","1996","Phil Liebrock","D-II","-",8,19,NA,0.296
+"31","Bridgeport","74","1995","Phil Liebrock","D-II","-",2,25,NA,0.074
+"32","Bridgeport","74","1994","Phil Liebrock","D-II","-",0,24,NA,0
+"33","Bridgeport","74","1993","Phil Liebrock","D-II","-",29,17,1,0.628
+"34","Bridgeport","74","1992","Phil Liebrock","D-II","-",38,10,NA,0.792
+"35","Bridgeport","74","1991","Phil Liebrock","D-II","-",21,17,NA,0.553
+"36","Bridgeport","74","1990","Phil Liebrock","D-II","-",35,9,1,0.789
+"37","Bridgeport","74","1989","Phil Liebrock","D-II","-",30,13,NA,0.698
+"38","Bridgeport","74","1988","Phil Liebrock","D-II","-",25,9,NA,0.735
+"39","Bridgeport","74","1987","Phil Liebrock","D-II","-",21,14,NA,0.6
+"40","Bridgeport","74","1986","Phil Liebrock","D-II","-",20,16,NA,0.556
+"41","Bridgeport","74","1985","Phil Liebrock","D-II","-",21,19,NA,0.525
+"42","Bridgeport","74","1984","Phil Liebrock","D-II","-",16,15,NA,0.516
+"43","Bridgeport","74","","","","",714,801,5,0.471

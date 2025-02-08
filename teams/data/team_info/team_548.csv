@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mike Bernier","Little East","13-21-0",0.382
-"2",2022,"Mike Bernier","Little East","13-23-0",0.361
-"3",2021,"Bruce Addison","Little East","16-13-0",0.552
-"4",2020,"Bruce Addison","Little East","5-7-0",0.417
-"5",2019,"Bruce Addison","Little East","22-18-0",0.55
-"6",2018,"Bruce Addison","Little East","26-15-0",0.634
-"7",2017,"Bruce Addison","Little East","23-17-1",0.575
-"8",2016,"Bruce Addison","Little East","17-23-0",0.425
-"9",2015,"Bruce Addison","Little East","13-21-0",0.382
-"10",2014,"Bruce Addison","Little East","22-13-0",0.629
-"11",2013,"Bruce Addison","Little East","25-17-0",0.595
-"12",2012,"Bruce Addison","Little East","21-21-0",0.5
-"13",2011,"Bruce Addison","Little East","17-22-0",0.436
-"14",2010,"Bruce Addison","Little East","13-22-0",0.371
-"15",2009,"Bruce Addison","Little East","24-18-0",0.571
-"16",2008,"Bruce Addison","Little East","25-15-0",0.625
-"17",2007,"Bruce Addison","Little East","13-20-0",0.394
-"18",2006,"Bruce Addison","Little East","8-25-0",0.242
-"19",2005,"Bruce Addison","Little East","15-18-0",0.455
-"20",2004,"Bruce Addison","Little East","15-16-0",0.484
-"21",2003,"Harry Blood","Little East","30-9-0",0.769
-"22",2002,"Harry Blood","Little East","24-13-2",0.649
-"23",2001,"Harry Blood","-","10-20-0",0.333
-"24",2000,"Moira Long","-","15-20-0",0.429
-"25",1999,"Moira Long","-","11-26-0",0.297
-"26",1998,"Robin Payne","-","14-21-1",0.4
-"27",1997,"Robin Payne","-","10-22-0",0.312
-"28",1996,"Robin Payne","-","13-22-0",0.371
-"29",1995,"Robin Payne","-","7-26-0",0.212
-"30",1994,"Robin Payne","-","20-16-0",0.556
-"31",1993,"Robin Payne","-","12-19-0",0.387
-"32",1992,"Kris LeMay","-","16-10-0",0.615
-"33",1991,"Kris LeMay","-","16-19-0",0.457
-"34",1990,"Karen Peterson","-","15-12-0",0.556
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"Christine Rizzieri","-","10-8-0",0.556
-"42",1982,"Christine Rizzieri","-","13-5-0",0.722
-"43",1981,"Christine Rizzieri","-","8-10-0",0.444
-"44",2024,"Mike Bernier","Little East","16-22-0",0.421
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Plymouth St.","548","2025","Mike Bernier","D-III","Little East",0,0,0,0
+"2","Plymouth St.","548","2024","Mike Bernier","D-III","Little East",16,22,0,0.421
+"3","Plymouth St.","548","2023","Mike Bernier","D-III","Little East",13,21,0,0.382
+"4","Plymouth St.","548","2022","Mike Bernier","D-III","Little East",13,23,0,0.361
+"5","Plymouth St.","548","2021","Bruce Addison","D-III","Little East",16,13,0,0.552
+"6","Plymouth St.","548","2020","Bruce Addison","D-III","Little East",5,7,0,0.417
+"7","Plymouth St.","548","2019","Bruce Addison","D-III","Little East",22,18,0,0.55
+"8","Plymouth St.","548","2018","Bruce Addison","D-III","Little East",26,15,NA,0.634
+"9","Plymouth St.","548","2017","Bruce Addison","D-III","Little East",23,17,1,0.573
+"10","Plymouth St.","548","2016","Bruce Addison","D-III","Little East",17,23,0,0.425
+"11","Plymouth St.","548","2015","Bruce Addison","D-III","Little East",13,21,0,0.382
+"12","Plymouth St.","548","2014","Bruce Addison","D-III","Little East",22,13,0,0.629
+"13","Plymouth St.","548","2013","Bruce Addison","D-III","Little East",25,17,0,0.595
+"14","Plymouth St.","548","2012","Bruce Addison","D-III","Little East",21,21,0,0.5
+"15","Plymouth St.","548","2011","Bruce Addison","D-III","Little East",17,22,0,0.436
+"16","Plymouth St.","548","2010","Bruce Addison","D-III","Little East",13,22,0,0.371
+"17","Plymouth St.","548","2009","Bruce Addison","D-III","Little East",24,18,0,0.571
+"18","Plymouth St.","548","2008","Bruce Addison","D-III","Little East",25,15,0,0.625
+"19","Plymouth St.","548","2007","Bruce Addison","D-III","Little East",13,20,0,0.394
+"20","Plymouth St.","548","2006","Bruce Addison","D-III","Little East",8,25,0,0.242
+"21","Plymouth St.","548","2005","Bruce Addison","D-III","Little East",15,18,0,0.455
+"22","Plymouth St.","548","2004","Bruce Addison","D-III","Little East",15,16,0,0.484
+"23","Plymouth St.","548","2003","Harry Blood","D-III","Little East",30,9,0,0.769
+"24","Plymouth St.","548","2002","Harry Blood","D-III","Little East",24,13,2,0.641
+"25","Plymouth St.","548","2001","Harry Blood","D-III","-",10,20,0,0.333
+"26","Plymouth St.","548","1900","Moira Long","D-III","-",15,20,NA,0.429
+"27","Plymouth St.","548","1999","Moira Long","D-III","-",11,26,NA,0.297
+"28","Plymouth St.","548","1998","Robin Payne","D-III","-",14,21,1,0.403
+"29","Plymouth St.","548","1997","Robin Payne","D-III","-",10,22,NA,0.313
+"30","Plymouth St.","548","1996","Robin Payne","D-III","-",13,22,NA,0.371
+"31","Plymouth St.","548","1995","Robin Payne","D-III","-",7,26,NA,0.212
+"32","Plymouth St.","548","1994","Robin Payne","D-III","-",20,16,NA,0.556
+"33","Plymouth St.","548","1993","Robin Payne","D-III","-",12,19,NA,0.387
+"34","Plymouth St.","548","1992","Kris LeMay","D-III","-",16,10,NA,0.615
+"35","Plymouth St.","548","1991","Kris LeMay","D-III","-",16,19,NA,0.457
+"36","Plymouth St.","548","1990","Karen Peterson","D-III","-",15,12,NA,0.556
+"37","Plymouth St.","548","1989","","D-III","-",NA,NA,NA,NA
+"38","Plymouth St.","548","1988","","D-III","-",NA,NA,NA,NA
+"39","Plymouth St.","548","1987","","D-III","-",NA,NA,NA,NA
+"40","Plymouth St.","548","1986","","D-III","-",NA,NA,NA,NA
+"41","Plymouth St.","548","1985","","D-III","-",NA,NA,NA,NA
+"42","Plymouth St.","548","1984","","D-III","-",NA,NA,NA,NA
+"43","Plymouth St.","548","1983","Christine Rizzieri","D-III","-",10,8,NA,0.556
+"44","Plymouth St.","548","1982","Christine Rizzieri","D-III","-",13,5,NA,0.722
+"45","Plymouth St.","548","1981","Christine Rizzieri","D-III","-",8,10,NA,0.444
+"46","Plymouth St.","548","","","","",606,665,4,0.477

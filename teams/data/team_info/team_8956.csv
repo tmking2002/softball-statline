@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Sami McDonald","CACC","11-35-0","0.239"
-"2","2022","Joe Burbridge","CACC","20-24-0","0.455"
-"3","2021","Joe Burbridge","CACC","21-14-0","0.600"
-"4","2020","Joe Burbridge","CACC","6-4-0","0.600"
-"5","2019","Joe Burbridge","CACC","22-21-0","0.512"
-"6","2018","Joe Burbridge","CACC","26-20-0","0.565"
-"7","2017","Joe Burbridge","CACC","29-22-0","0.569"
-"8","2016","Joe Burbridge","CACC","30-16-1","0.652"
-"9","2015","Joe Burbridge","CACC","34-19-0","0.642"
-"10","2014","Joe Burbridge","CACC","20-27-0","0.426"
-"11","2013","Joe Burbridge","CACC","32-22-0","0.593"
-"12","2012","Joe Burbridge","CACC","39-17-0","0.696"
-"13","2011","Joe Burbridge","CACC","35-18-0","0.660"
-"14","2010","Joe Burbridge","CACC","37-16-0","0.698"
-"15","2009","Joe Burbridge","CACC","39-16-0","0.709"
-"16","2008","Joe Burbridge","CACC","30-24-0","0.556"
-"17","2007","Rick Krasny","CACC","19-19-0","0.500"
-"18","2006","Rick Krasny","CACC","37-19-0","0.661"
-"19","2005","Rick Krasny","CACC","19-26-0","0.422"
-"20","2004","Rick Krasny","CACC","16-27-0","0.372"
-"21","2003","Rick Krasny","-","20-21-0","0.488"
-"22","2002","Rick Krasny","-","13-19-2","0.406"
-"23","2001","","-","9-27-0","0.250"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Dominican (NY)","8956","2025","Sami McDonald","D-II","CACC",0,0,0,0
+"2","Dominican (NY)","8956","2024","Sami McDonald","D-II","CACC",11,27,0,0.289
+"3","Dominican (NY)","8956","2023","Sami McDonald","D-II","CACC",11,35,0,0.239
+"4","Dominican (NY)","8956","2022","Joe Burbridge","D-II","CACC",20,24,0,0.455
+"5","Dominican (NY)","8956","2021","Joe Burbridge","D-II","CACC",21,14,0,0.6
+"6","Dominican (NY)","8956","2020","Joe Burbridge","D-II","CACC",6,4,0,0.6
+"7","Dominican (NY)","8956","2019","Joe Burbridge","D-II","CACC",22,21,0,0.512
+"8","Dominican (NY)","8956","2018","Joe Burbridge","D-II","CACC",26,20,0,0.565
+"9","Dominican (NY)","8956","2017","Joe Burbridge","D-II","CACC",29,22,0,0.569
+"10","Dominican (NY)","8956","2016","Joe Burbridge","D-II","CACC",30,16,1,0.649
+"11","Dominican (NY)","8956","2015","Joe Burbridge","D-II","CACC",34,19,0,0.642
+"12","Dominican (NY)","8956","2014","Joe Burbridge","D-II","CACC",20,27,0,0.426
+"13","Dominican (NY)","8956","2013","Joe Burbridge","D-II","CACC",34,22,0,0.607
+"14","Dominican (NY)","8956","2012","Joe Burbridge","D-II","CACC",39,17,0,0.696
+"15","Dominican (NY)","8956","2011","Joe Burbridge","D-II","CACC",35,18,0,0.66
+"16","Dominican (NY)","8956","2010","Joe Burbridge","D-II","CACC",37,16,0,0.698
+"17","Dominican (NY)","8956","2009","Joe Burbridge","D-II","CACC",39,16,0,0.709
+"18","Dominican (NY)","8956","2008","Joe Burbridge","D-II","CACC",30,24,0,0.556
+"19","Dominican (NY)","8956","2007","Rick Krasny","D-II","CACC",19,19,0,0.5
+"20","Dominican (NY)","8956","2006","Rick Krasny","D-II","CACC",37,19,0,0.661
+"21","Dominican (NY)","8956","2005","Rick Krasny","D-II","CACC",19,26,0,0.422
+"22","Dominican (NY)","8956","2004","Rick Krasny","D-II","CACC",16,27,0,0.372
+"23","Dominican (NY)","8956","2003","Rick Krasny","","-",20,21,0,0.488
+"24","Dominican (NY)","8956","2002","Rick Krasny","","-",13,19,2,0.412
+"25","Dominican (NY)","8956","2001","","","-",9,27,NA,0.25
+"26","Dominican (NY)","8956","1900","","","-",NA,NA,NA,NA
+"27","Dominican (NY)","8956","1999","","","-",NA,NA,NA,NA
+"28","Dominican (NY)","8956","1998","","","-",NA,NA,NA,NA
+"29","Dominican (NY)","8956","1997","","","-",NA,NA,NA,NA
+"30","Dominican (NY)","8956","1996","","","-",NA,NA,NA,NA
+"31","Dominican (NY)","8956","1995","","","-",NA,NA,NA,NA
+"32","Dominican (NY)","8956","1994","","","-",NA,NA,NA,NA
+"33","Dominican (NY)","8956","1993","","","-",NA,NA,NA,NA
+"34","Dominican (NY)","8956","1992","","","-",NA,NA,NA,NA
+"35","Dominican (NY)","8956","1991","","","-",NA,NA,NA,NA
+"36","Dominican (NY)","8956","1990","","","-",NA,NA,NA,NA
+"37","Dominican (NY)","8956","","","","",577,500,3,0.536

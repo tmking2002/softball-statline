@@ -1,53 +1,56 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Carla Campagna","NE10","47-8-0","0.855"
-"2","2022","Carla Campagna","NE10","47-15-0","0.758"
-"3","2021","Carla Campagna","NE10","30-10-0","0.750"
-"4","2020","Carla Campagna","NE10","3-7-0","0.300"
-"5","2019","Carla Campagna","NE10","32-20-0","0.615"
-"6","2018","Bree Nasti","NE10","32-21-1","0.604"
-"7","2017","Bree Nasti","NE10","38-15-1","0.717"
-"8","2016","Bree Nasti","NE10","35-22-0","0.614"
-"9","2015","Bree Nasti","NE10","31-22-0","0.585"
-"10","2014","Bree Nasti","NE10","27-20-0","0.574"
-"11","2013","Bree Nasti","NE10","41-19-0","0.683"
-"12","2012","Paige Smith","NE10","35-20-1","0.636"
-"13","2011","Paige Smith","NE10","27-25-0","0.519"
-"14","2010","Paige Smith","ECC","32-24-0","0.571"
-"15","2009","Paige Smith","ECC","32-14-0","0.696"
-"16","2008","Paige Smith","ECC","41-21-0","0.661"
-"17","2007","Joe Burbridge","ECC","39-13-0","0.750"
-"18","2006","Kate Whalen","ECC","33-17-0","0.660"
-"19","2005","Kate Whalen","ECC","25-16-0","0.610"
-"20","2004","Kate Whalen","ECC","27-21-0","0.562"
-"21","2003","Kate Whalen","ECC","35-17-0","0.673"
-"22","2002","Kate Whalen","ECC","32-18-1","0.640"
-"23","2001","Kate Whalen","-","34-21-0","0.618"
-"24","2000","Kate Whalen","-","27-20-0","0.574"
-"25","1999","Kate Whalen","-","33-18-0","0.647"
-"26","1998","Kate Whalen","-","22-21-0","0.512"
-"27","1997","Kate Whalen","-","30-18-0","0.625"
-"28","1996","Kate Whalen","-","26-21-0","0.553"
-"29","1995","Kate Whalen","-","13-27-0","0.325"
-"30","1994","Kate Whalen","-","0-0-0","  NaN"
-"31","1993","Maddie Cunningham","-","13-33-0","0.283"
-"32","1992","Maddie Cunningham","-","17-24-0","0.415"
-"33","1991","Nancy Oestrike","-","17-21-1","0.447"
-"34","1990","Nancy Oestrike","-","30-17-1","0.638"
-"35","1989","Janet Ficke (25-20)Kathryn Raub (25-20)","-","25-20-0","0.556"
-"36","1988","Janet Ficke (38-14)Kathryn Raub (38-14)","-","38-14-0","0.731"
-"37","1987","Janet Ficke (31-11-1)Kathryn Raub (31-11-1)","-","31-11-1","0.738"
-"38","1986","Janet Ficke (27-18-1)Kathryn Raub (27-18-1)","-","27-18-1","0.600"
-"39","1985","Janet Ficke (37-15)Kathryn Raub (37-15)","-","37-15-0","0.712"
-"40","1984","Janet Ficke (42-7)Kathryn Raub (42-7)","-","42-7-0","0.857"
-"41","1983","Janet Ficke (22-12-1)Kathryn Raub (22-12-1)","-","22-12-1","0.647"
-"42","1982","Janet Ficke (25-13)Kathryn Raub (25-13)","-","25-13-0","0.658"
-"43","1981","Janet Ficke (18-13)Kathryn Raub (18-13)","-","18-13-0","0.581"
-"44","1980","Janet Ficke (13-9)Kathryn Raub (13-9)","-","13-9-0","0.591"
-"45","1979","Janet Ficke","-","16-7-0","0.696"
-"46","1978","Janet Ficke","-","16-7-0","0.696"
-"47","1977","Janet Ficke","-","11-4-0","0.733"
-"48","1976","Janet Ficke","-","5-3-1","0.625"
-"49","1975","Janet Ficke","-","11-3-0","0.786"
-"50","1974","Janet Ficke","-","12-1-0","0.923"
-"51","1973","Janet Ficke","-","6-1-0","0.857"
-"52","1972","Janet Ficke","-","7-2-0","0.778"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Adelphi","3","2025","Katie Apostolopoulos","D-II","NE10",0,0,0,0
+"2","Adelphi","3","2024","Carla Campagna","D-II","NE10",34,21,0,0.618
+"3","Adelphi","3","2023","Carla Campagna","D-II","NE10",47,8,0,0.855
+"4","Adelphi","3","2022","Carla Campagna","D-II","NE10",47,15,0,0.758
+"5","Adelphi","3","2021","Carla Campagna","D-II","NE10",30,10,0,0.75
+"6","Adelphi","3","2020","Carla Campagna","D-II","NE10",3,7,0,0.3
+"7","Adelphi","3","2019","Carla Campagna","D-II","NE10",32,20,0,0.615
+"8","Adelphi","3","2018","Bree Nasti","D-II","NE10",32,21,1,0.602
+"9","Adelphi","3","2017","Bree Nasti","D-II","NE10",38,15,1,0.713
+"10","Adelphi","3","2016","Bree Nasti","D-II","NE10",35,22,0,0.614
+"11","Adelphi","3","2015","Bree Nasti","D-II","NE10",31,22,0,0.585
+"12","Adelphi","3","2014","Bree Nasti","D-II","NE10",27,20,0,0.574
+"13","Adelphi","3","2013","Bree Nasti","D-II","NE10",41,19,0,0.683
+"14","Adelphi","3","2012","Paige Smith","D-II","NE10",35,20,1,0.634
+"15","Adelphi","3","2011","Paige Smith","D-II","NE10",27,25,0,0.519
+"16","Adelphi","3","2010","Paige Smith","D-II","ECC",32,24,0,0.571
+"17","Adelphi","3","2009","Paige Smith","D-II","ECC",32,14,0,0.696
+"18","Adelphi","3","2008","Paige Smith","D-II","ECC",41,21,0,0.661
+"19","Adelphi","3","2007","Joe Burbridge","D-II","ECC",39,13,0,0.75
+"20","Adelphi","3","2006","Kate Whalen","D-II","ECC",33,17,0,0.66
+"21","Adelphi","3","2005","Kate Whalen","D-II","ECC",25,16,0,0.61
+"22","Adelphi","3","2004","Kate Whalen","D-II","ECC",27,21,0,0.563
+"23","Adelphi","3","2003","Kate Whalen","D-II","ECC",35,17,0,0.673
+"24","Adelphi","3","2002","Kate Whalen","D-II","ECC",32,18,1,0.637
+"25","Adelphi","3","2001","Kate Whalen","D-II","-",34,21,0,0.618
+"26","Adelphi","3","1900","Kate Whalen","D-II","-",27,20,0,0.574
+"27","Adelphi","3","1999","Kate Whalen","D-II","-",33,18,0,0.647
+"28","Adelphi","3","1998","Kate Whalen","D-II","-",22,21,0,0.512
+"29","Adelphi","3","1997","Kate Whalen","D-II","-",30,18,0,0.625
+"30","Adelphi","3","1996","Kate Whalen","D-II","-",26,21,0,0.553
+"31","Adelphi","3","1995","Kate Whalen","D-II","-",13,27,0,0.325
+"32","Adelphi","3","1994","Kate Whalen","","-",NA,NA,NA,NA
+"33","Adelphi","3","1993","Maddie Cunningham","D-I","-",13,33,NA,0.283
+"34","Adelphi","3","1992","Maddie Cunningham","D-I","-",17,24,NA,0.415
+"35","Adelphi","3","1991","Nancy Oestrike","D-I","-",17,21,1,0.449
+"36","Adelphi","3","1990","Nancy Oestrike","D-I","-",30,17,1,0.635
+"37","Adelphi","3","1989","Janet Ficke (25-20)Kathryn Raub (25-20)","D-I","-",25,20,NA,0.556
+"38","Adelphi","3","1988","Janet Ficke (38-14)Kathryn Raub (38-14)","D-I","-",38,14,NA,0.731
+"39","Adelphi","3","1987","Janet Ficke (31-11-1)Kathryn Raub (31-11-1)","D-I","-",31,11,1,0.733
+"40","Adelphi","3","1986","Janet Ficke (27-18-1)Kathryn Raub (27-18-1)","D-I","-",27,18,1,0.598
+"41","Adelphi","3","1985","Janet Ficke (37-15)Kathryn Raub (37-15)","D-I","-",37,15,NA,0.712
+"42","Adelphi","3","1984","Janet Ficke (42-7)Kathryn Raub (42-7)","D-I","-",42,7,NA,0.857
+"43","Adelphi","3","1983","Janet Ficke (22-12-1)Kathryn Raub (22-12-1)","D-I","-",22,12,1,0.643
+"44","Adelphi","3","1982","Janet Ficke (25-13)Kathryn Raub (25-13)","D-I","-",25,13,NA,0.658
+"45","Adelphi","3","1981","Janet Ficke (18-13)Kathryn Raub (18-13)","","-",18,13,NA,0.581
+"46","Adelphi","3","1980","Janet Ficke (13-9)Kathryn Raub (13-9)","","-",13,9,NA,0.591
+"47","Adelphi","3","1979","Janet Ficke","","-",16,7,NA,0.696
+"48","Adelphi","3","1978","Janet Ficke","","-",16,7,NA,0.696
+"49","Adelphi","3","1977","Janet Ficke","","-",11,4,NA,0.733
+"50","Adelphi","3","1976","Janet Ficke","","-",5,3,1,0.611
+"51","Adelphi","3","1975","Janet Ficke","","-",11,3,NA,0.786
+"52","Adelphi","3","1974","Janet Ficke","","-",12,1,NA,0.923
+"53","Adelphi","3","1973","Janet Ficke","","-",6,1,NA,0.857
+"54","Adelphi","3","1972","Janet Ficke","","-",7,2,NA,0.778
+"55","Adelphi","3","","","","",1379,807,10,0.63

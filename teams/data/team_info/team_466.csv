@@ -1,28 +1,30 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Linda Garza","Mountain West","31-19-0",0.62
-"2",2022,"Linda Garza","Mountain West","17-35-0",0.327
-"3",2021,"Josh Taylor","Mountain West","24-16-0",0.6
-"4",2020,"Josh Taylor","Mountain West","10-14-0",0.417
-"5",2019,"Josh Taylor","Mountain West","29-27-0",0.518
-"6",2018,"Josh Taylor","Mountain West","27-27-0",0.5
-"7",2017,"Josh Taylor","Mountain West","30-25-0",0.545
-"8",2016,"Matt Meuchel","Mountain West","32-15-0",0.681
-"9",2015,"Matt Meuchel","Mountain West","17-38-0",0.309
-"10",2014,"Matt Meuchel","Mountain West","27-25-0",0.519
-"11",2013,"Matt Meuchel","Mountain West","30-23-0",0.566
-"12",2012,"Matt Meuchel","WAC","21-36-0",0.368
-"13",2011,"Matt Meuchel","WAC","13-34-0",0.277
-"14",2010,"Matt Meuchel","WAC","17-28-0",0.378
-"15",2009,"Matt Meuchel","WAC","40-19-0",0.678
-"16",2008,"Michelle Gardner","WAC","44-18-0",0.71
-"17",2007,"Michelle Gardner","WAC","28-31-0",0.475
-"18",2006,"Michelle Gardner","WAC","33-33-0",0.5
-"19",2005,"Michelle Gardner","WAC","22-31-0",0.415
-"20",2004,"Michelle Gardner","WAC","38-28-0",0.576
-"21",2003,"Michelle Gardner","-","22-35-0",0.386
-"22",1989,"","-","0-0-0",NA
-"23",1988,"","-","0-0-0",NA
-"24",1987,"","-","0-0-0",NA
-"25",1986,"","-","0-0-0",NA
-"26",1985,"","-","0-0-0",NA
-"27",2024,"Marina Demore","Mountain West","40-17-0",0.702
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Nevada","466","2025","Victoria Hayward","D-I","Mountain West",4,0,0,1
+"2","Nevada","466","2024","Marina Demore","D-I","Mountain West",40,17,0,0.702
+"3","Nevada","466","2023","Linda Garza","D-I","Mountain West",31,19,0,0.62
+"4","Nevada","466","2022","Linda Garza","D-I","Mountain West",17,35,0,0.327
+"5","Nevada","466","2021","Josh Taylor","D-I","Mountain West",24,16,0,0.6
+"6","Nevada","466","2020","Josh Taylor","D-I","Mountain West",10,14,0,0.417
+"7","Nevada","466","2019","Josh Taylor","D-I","Mountain West",29,27,0,0.518
+"8","Nevada","466","2018","Josh Taylor","D-I","Mountain West",27,27,NA,0.5
+"9","Nevada","466","2017","Josh Taylor","D-I","Mountain West",30,25,0,0.545
+"10","Nevada","466","2016","Matt Meuchel","D-I","Mountain West",32,15,0,0.681
+"11","Nevada","466","2015","Matt Meuchel","D-I","Mountain West",17,38,0,0.309
+"12","Nevada","466","2014","Matt Meuchel","D-I","Mountain West",27,25,0,0.519
+"13","Nevada","466","2013","Matt Meuchel","D-I","Mountain West",30,23,0,0.566
+"14","Nevada","466","2012","Matt Meuchel","D-I","WAC",21,36,0,0.368
+"15","Nevada","466","2011","Matt Meuchel","D-I","WAC",13,34,0,0.277
+"16","Nevada","466","2010","Matt Meuchel","D-I","WAC",17,28,0,0.378
+"17","Nevada","466","2009","Matt Meuchel","D-I","WAC",40,19,0,0.678
+"18","Nevada","466","2008","Michelle Gardner","D-I","WAC",44,18,0,0.71
+"19","Nevada","466","2007","Michelle Gardner","D-I","WAC",28,31,0,0.475
+"20","Nevada","466","2006","Michelle Gardner","D-I","WAC",33,33,0,0.5
+"21","Nevada","466","2005","Michelle Gardner","D-I","WAC",22,31,0,0.415
+"22","Nevada","466","2004","Michelle Gardner","D-I","WAC",38,28,0,0.576
+"23","Nevada","466","2003","Michelle Gardner","D-I","-",22,35,0,0.386
+"24","Nevada","466","1989","","D-I","-",NA,NA,NA,NA
+"25","Nevada","466","1988","","D-I","-",NA,NA,NA,NA
+"26","Nevada","466","1987","","D-I","-",NA,NA,NA,NA
+"27","Nevada","466","1986","","D-I","-",NA,NA,NA,NA
+"28","Nevada","466","1985","","D-I","-",NA,NA,NA,NA
+"29","Nevada","466","","","","",596,574,0,0.509

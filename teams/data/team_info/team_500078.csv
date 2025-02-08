@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2020",NA,"-","0-0-0",0
-"4","2019",NA,"-","0-0-0",0
-"5","2018",NA,"-","0-0-0",0
-"6","2016",NA,"-","0-0-0",NA
-"7","2015",NA,"-","0-0-0",NA
-"8","2014",NA,"-","0-0-0",NA
-"9","2013",NA,"-","0-0-0",NA
-"10","2012",NA,"-","0-0-0",NA
-"11","2011",NA,"-","0-0-0",NA
-"12","2010",NA,"-","0-0-0",NA
-"13","2009",NA,"-","0-0-0",NA
-"14","2008",NA,"-","0-0-0",NA
-"15","2007",NA,"-","0-0-0",NA
-"16","2006",NA,"-","0-0-0",NA
-"17","2005",NA,"-","0-0-0",NA
-"18","2004",NA,"-","0-0-0",NA
-"19","2003",NA,"-","0-0-0",NA
-"20","2002",NA,"-","0-0-0",NA
-"21","2000",NA,"-","0-0-0",NA
-"22","1999",NA,"-","0-0-0",NA
-"23","1997",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Oregon Tech","500078","2025",NA,NA,"-",NA,NA,NA,0
+"2","Oregon Tech","500078","2024",NA,NA,"-",NA,NA,NA,0
+"3","Oregon Tech","500078","2022",NA,NA,"-",NA,NA,NA,0
+"4","Oregon Tech","500078","2020",NA,NA,"-",NA,NA,NA,0
+"5","Oregon Tech","500078","2019",NA,NA,"-",NA,NA,NA,0
+"6","Oregon Tech","500078","2018",NA,NA,"-",NA,NA,NA,0
+"7","Oregon Tech","500078","2016",NA,NA,"-",NA,NA,NA,NA
+"8","Oregon Tech","500078","2015",NA,NA,"-",NA,NA,NA,NA
+"9","Oregon Tech","500078","2014",NA,NA,"-",NA,NA,NA,NA
+"10","Oregon Tech","500078","2013",NA,NA,"-",NA,NA,NA,NA
+"11","Oregon Tech","500078","2012",NA,NA,"-",NA,NA,NA,NA
+"12","Oregon Tech","500078","2011",NA,NA,"-",NA,NA,NA,NA
+"13","Oregon Tech","500078","2010",NA,NA,"-",NA,NA,NA,NA
+"14","Oregon Tech","500078","2009",NA,NA,"-",NA,NA,NA,NA
+"15","Oregon Tech","500078","2008",NA,NA,"-",NA,NA,NA,NA
+"16","Oregon Tech","500078","2007",NA,NA,"-",NA,NA,NA,NA
+"17","Oregon Tech","500078","2006",NA,NA,"-",NA,NA,NA,NA
+"18","Oregon Tech","500078","2005",NA,NA,"-",NA,NA,NA,NA
+"19","Oregon Tech","500078","2004",NA,NA,"-",NA,NA,NA,NA
+"20","Oregon Tech","500078","2003",NA,NA,"-",NA,NA,NA,NA
+"21","Oregon Tech","500078","2002",NA,NA,"-",NA,NA,NA,NA
+"22","Oregon Tech","500078","1900",NA,NA,"-",NA,NA,NA,NA
+"23","Oregon Tech","500078","1999",NA,NA,"-",NA,NA,NA,NA
+"24","Oregon Tech","500078","1997",NA,NA,"-",NA,NA,NA,NA
+"25","Oregon Tech","500078","",NA,NA,"",0,0,0,0

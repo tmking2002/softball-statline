@@ -1,24 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Megan Asham","ECC","18-28-0","0.391"
-"2","2022","Megan Asham","ECC","26-12-0","0.684"
-"3","2021","Megan Asham","ECC","16-19-0","0.457"
-"4","2020","Ona Halladay","AMCC","7-2-0","0.778"
-"5","2019","Ona Halladay","AMCC","13-23-0","0.361"
-"6","2018","Ona Halladay","AMCC","15-19-0","0.441"
-"7","2017","Ona Halladay","AMCC","9-21-0","0.300"
-"8","2016","Ona Halladay","AMCC","23-13-0","0.639"
-"9","2015","Ona Halladay","AMCC","25-9-0","0.735"
-"10","2014","Ona Halladay","AMCC","14-16-0","0.467"
-"11","2013","Angie Churchill","AMCC","18-17-0","0.514"
-"12","2012","Angie Churchill","AMCC","17-14-0","0.548"
-"13","2011","Angie Churchill","AMCC","21-10-0","0.677"
-"14","2010","Anna Nagro","AMCC","8-24-0","0.250"
-"15","2009","Anna Nagro","United East","17-17-0","0.500"
-"16","2008","Anna Nagro","United East","15-22-0","0.405"
-"17","2007","Jessica Labella","United East","5-21-0","0.192"
-"18","2006","Jessica Labella","United East","23-15-0","0.605"
-"19","2005","Ellie O'Shea","-","11-19-0","0.367"
-"20","2004","Ellie O'Shea","-","18-8-0","0.692"
-"21","2003","Ellie O'Shea","-","0-0-0","  NaN"
-"22","2002","","-","0-0-0","  NaN"
-"23","2024","Connor Moriarty","ECC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","D'Youville","1059","2025","Shelly Hoerner","D-II","ECC",0,0,0,0
+"2","D'Youville","1059","2024","Connor Moriarty (6-20)Bill Morris (3-13)","D-II","ECC",9,33,0,0.214
+"3","D'Youville","1059","2023","Megan Asham","D-II","ECC",18,28,0,0.391
+"4","D'Youville","1059","2022","Megan Asham","D-II","ECC",26,12,0,0.684
+"5","D'Youville","1059","2021","Megan Asham","D-II","ECC",16,19,0,0.457
+"6","D'Youville","1059","2020","Ona Halladay","D-III","AMCC",7,2,0,0.778
+"7","D'Youville","1059","2019","Ona Halladay","D-III","AMCC",13,23,0,0.361
+"8","D'Youville","1059","2018","Ona Halladay","D-III","AMCC",15,19,NA,0.441
+"9","D'Youville","1059","2017","Ona Halladay","D-III","AMCC",9,21,0,0.3
+"10","D'Youville","1059","2016","Ona Halladay","D-III","AMCC",23,13,0,0.639
+"11","D'Youville","1059","2015","Ona Halladay","D-III","AMCC",25,9,0,0.735
+"12","D'Youville","1059","2014","Ona Halladay","D-III","AMCC",14,16,0,0.467
+"13","D'Youville","1059","2013","Angie Churchill","D-III","AMCC",18,17,0,0.514
+"14","D'Youville","1059","2012","Angie Churchill","D-III","AMCC",17,14,0,0.548
+"15","D'Youville","1059","2011","Angie Churchill","D-III","AMCC",21,10,0,0.677
+"16","D'Youville","1059","2010","Anna Nagro","D-III","AMCC",8,24,0,0.25
+"17","D'Youville","1059","2009","Anna Nagro","D-III","United East",17,17,0,0.5
+"18","D'Youville","1059","2008","Anna Nagro","D-III","United East",15,22,0,0.405
+"19","D'Youville","1059","2007","Jessica Labella","D-III","United East",5,21,0,0.192
+"20","D'Youville","1059","2006","Jessica Labella","D-III","United East",23,15,0,0.605
+"21","D'Youville","1059","2005","Ellie O'Shea","D-III","-",11,19,0,0.367
+"22","D'Youville","1059","2004","Ellie O'Shea","D-III","-",18,8,0,0.692
+"23","D'Youville","1059","2003","Ellie O'Shea","","-",NA,NA,NA,NA
+"24","D'Youville","1059","2002","","","-",NA,NA,NA,NA
+"25","D'Youville","1059","","","","",328,362,0,0.475

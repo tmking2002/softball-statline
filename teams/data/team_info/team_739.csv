@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bridget Orchard","Big East","37-22-0",0.627
-"2",2022,"Bridget Orchard","Big East","32-24-0",0.571
-"3",2021,"Bridget Orchard","Big East","37-15-0",0.712
-"4",2020,"Bridget Orchard","Big East","14-13-0",0.519
-"5",2019,"Bridget Orchard","Big East","29-24-0",0.547
-"6",2018,"Maria DiBernardi","Big East","27-24-2",0.529
-"7",2017,"Maria DiBernardi","Big East","35-20-0",0.636
-"8",2016,"Maria DiBernardi","Big East","32-18-0",0.64
-"9",2015,"Maria DiBernardi","Big East","24-30-0",0.444
-"10",2014,"Maria DiBernardi","Big East","18-34-0",0.346
-"11",2013,"Maria DiBernardi","AAC","21-31-0",0.404
-"12",2012,"Maria DiBernardi","AAC","32-24-0",0.571
-"13",2011,"Maria DiBernardi","AAC","16-32-1",0.333
-"14",2010,"Maria DiBernardi","AAC","27-28-0",0.491
-"15",2009,"Maria DiBernardi","AAC","23-26-0",0.469
-"16",2008,"Maria DiBernardi","AAC","21-29-1",0.42
-"17",2007,"Maria DiBernardi","AAC","25-31-1",0.446
-"18",2006,"Maria DiBernardi","AAC","13-40-0",0.245
-"19",2005,"Maria DiBernardi","AAC","38-25-0",0.603
-"20",2004,"Maria DiBernardi","AAC","32-26-0",0.552
-"21",2003,"Maria DiBernardi","AAC","34-15-1",0.694
-"22",2002,"Maria DiBernardi","AAC","45-15-0",0.75
-"23",2001,"Maria DiBernardi","AAC","43-10-0",0.811
-"24",2000,"Maria DiBernardi","AAC","36-17-1",0.679
-"25",1999,"Maria DiBernardi","AAC","42-14-2",0.75
-"26",1998,"Maria DiBernardi","-","36-17-0",0.679
-"27",1997,"Maria DiBernardi","AAC","24-28-0",0.462
-"28",1996,"Maria DiBernardi","-","33-19-0",0.635
-"29",1995,"Maria DiBernardi","-","35-23-0",0.603
-"30",1994,"Maria DiBernardi","-","29-21-0",0.58
-"31",1993,"Maria DiBernardi","-","20-20-0",0.5
-"32",1992,"Maria DiBernardi","-","17-16-1",0.515
-"33",1991,"Maria DiBernardi","-","21-22-1",0.488
-"34",1990,"Maria DiBernardi","-","22-17-1",0.564
-"35",1989,"Maria DiBernardi","-","19-18-0",0.514
-"36",1988,"Maria DiBernardi","-","9-22-0",0.29
-"37",1987,"Maria DiBernardi","-","13-13-0",0.5
-"38",1986,"Maria DiBernardi","-","10-22-0",0.312
-"39",1985,"Maria DiBernardi","-","8-11-0",0.421
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Bridget Orchard","Big East","33-24-0",0.579
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Villanova","739","2025","Bridget Orchard","D-I","Big East",2,1,0,0.667
+"2","Villanova","739","2024","Bridget Orchard","D-I","Big East",33,24,0,0.579
+"3","Villanova","739","2023","Bridget Orchard","D-I","Big East",37,22,0,0.627
+"4","Villanova","739","2022","Bridget Orchard","D-I","Big East",32,24,0,0.571
+"5","Villanova","739","2021","Bridget Orchard","D-I","Big East",37,15,0,0.712
+"6","Villanova","739","2020","Bridget Orchard","D-I","Big East",14,13,0,0.519
+"7","Villanova","739","2019","Bridget Orchard","D-I","Big East",29,24,0,0.547
+"8","Villanova","739","2018","Maria DiBernardi","D-I","Big East",27,24,2,0.528
+"9","Villanova","739","2017","Maria DiBernardi","D-I","Big East",35,20,0,0.636
+"10","Villanova","739","2016","Maria DiBernardi","D-I","Big East",32,18,0,0.64
+"11","Villanova","739","2015","Maria DiBernardi","D-I","Big East",24,30,0,0.444
+"12","Villanova","739","2014","Maria DiBernardi","D-I","Big East",18,34,0,0.346
+"13","Villanova","739","2013","Maria DiBernardi","D-I","The American",21,31,0,0.404
+"14","Villanova","739","2012","Maria DiBernardi","D-I","The American",32,24,0,0.571
+"15","Villanova","739","2011","Maria DiBernardi","D-I","The American",16,32,1,0.337
+"16","Villanova","739","2010","Maria DiBernardi","D-I","The American",27,28,0,0.491
+"17","Villanova","739","2009","Maria DiBernardi","D-I","The American",23,26,0,0.469
+"18","Villanova","739","2008","Maria DiBernardi","D-I","The American",21,29,1,0.422
+"19","Villanova","739","2007","Maria DiBernardi","D-I","The American",25,31,1,0.447
+"20","Villanova","739","2006","Maria DiBernardi","D-I","The American",13,40,0,0.245
+"21","Villanova","739","2005","Maria DiBernardi","D-I","The American",38,25,0,0.603
+"22","Villanova","739","2004","Maria DiBernardi","D-I","The American",32,26,0,0.552
+"23","Villanova","739","2003","Maria DiBernardi","D-I","The American",34,15,1,0.69
+"24","Villanova","739","2002","Maria DiBernardi","D-I","The American",45,15,0,0.75
+"25","Villanova","739","2001","Maria DiBernardi","D-I","The American",43,10,0,0.811
+"26","Villanova","739","1900","Maria DiBernardi","D-I","The American",36,17,1,0.676
+"27","Villanova","739","1999","Maria DiBernardi","D-I","The American",42,14,2,0.741
+"28","Villanova","739","1998","Maria DiBernardi","D-I","-",36,17,NA,0.679
+"29","Villanova","739","1997","Maria DiBernardi","D-I","The American",24,28,0,0.462
+"30","Villanova","739","1996","Maria DiBernardi","D-I","-",33,19,NA,0.635
+"31","Villanova","739","1995","Maria DiBernardi","D-I","-",35,23,NA,0.603
+"32","Villanova","739","1994","Maria DiBernardi","D-I","-",29,21,NA,0.58
+"33","Villanova","739","1993","Maria DiBernardi","D-I","-",20,20,NA,0.5
+"34","Villanova","739","1992","Maria DiBernardi","D-I","-",17,16,1,0.515
+"35","Villanova","739","1991","Maria DiBernardi","D-I","-",21,22,1,0.489
+"36","Villanova","739","1990","Maria DiBernardi","D-I","-",22,17,1,0.563
+"37","Villanova","739","1989","Maria DiBernardi","D-I","-",19,18,NA,0.514
+"38","Villanova","739","1988","Maria DiBernardi","D-I","-",9,22,NA,0.29
+"39","Villanova","739","1987","Maria DiBernardi","D-I","-",13,13,NA,0.5
+"40","Villanova","739","1986","Maria DiBernardi","D-I","-",10,22,NA,0.313
+"41","Villanova","739","1985","Maria DiBernardi","D-I","-",8,11,NA,0.421
+"42","Villanova","739","1984","","D-I","-",NA,NA,NA,NA
+"43","Villanova","739","1983","","D-I","-",NA,NA,NA,NA
+"44","Villanova","739","1982","","D-I","-",NA,NA,NA,NA
+"45","Villanova","739","","","","",1064,881,12,0.547

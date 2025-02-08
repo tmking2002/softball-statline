@@ -1,4 +1,5 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2019",NA,"-","0-0-0",0
-"2","2003",NA,"-","0-0-0",NA
-"3","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Navy","726","2019",NA,NA,"-",NA,NA,NA,0
+"2","Navy","726","2003",NA,NA,"-",NA,NA,NA,NA
+"3","Navy","726","2002",NA,NA,"-",NA,NA,NA,NA
+"4","Navy","726","",NA,NA,"",0,0,0,0

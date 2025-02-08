@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Deb Robitaille","NE10","20-22-0",0.476
-"2",2022,"Deb Robitaille","NE10","23-20-1",0.535
-"3",2021,"Deb Robitaille","NE10","13-13-0",0.5
-"4",2020,"Deb Robitaille","NE10","5-5-0",0.5
-"5",2019,"Deb Robitaille","NE10","38-15-0",0.717
-"6",2018,"Deb Robitaille","NE10","38-14-0",0.731
-"7",2017,"Deb Robitaille","NE10","27-20-0",0.574
-"8",2016,"Deb Robitaille","NE10","29-15-0",0.659
-"9",2015,"Deb Robitaille","NE10","35-9-0",0.795
-"10",2014,"Deb Robitaille","NE10","31-15-0",0.674
-"11",2013,"Deb Robitaille","NE10","29-15-0",0.659
-"12",2012,"Deb Robitaille","NE10","28-19-0",0.596
-"13",2011,"Deb Robitaille","NE10","19-26-0",0.422
-"14",2010,"Deb Robitaille","NE10","18-22-0",0.45
-"15",2009,"Deb Robitaille","NE10","21-24-0",0.467
-"16",2008,"Deb Robitaille","NE10","17-22-0",0.436
-"17",2007,"Deb Robitaille","NE10","24-12-0",0.667
-"18",2006,"Deb Robitaille","NE10","23-22-0",0.511
-"19",2005,"Terry A. McDonough","NE10","12-26-0",0.316
-"20",2004,"Terry A. McDonough","NE10","19-17-0",0.528
-"21",2003,"Terry A. McDonough","NE10","17-18-0",0.486
-"22",2002,"Terry A. McDonough","NE10","13-26-0",0.333
-"23",2001,"Terry A. McDonough","-","9-31-0",0.225
-"24",2000,"Terry A. McDonough","-","6-22-0",0.214
-"25",1999,"Colleen Kelley","-","3-31-0",0.088
-"26",1998,"Colleen Kelley","-","6-25-0",0.194
-"27",1997,"Colleen Kelley","-","1-23-0",0.042
-"28",1996,"","-","0-0-0",NA
-"29",1995,"Terry Bailey","-","0-24-0",0
-"30",1994,"Terry Bailey","-","10-18-0",0.357
-"31",1993,"Mike DeBlasi","-","4-20-0",0.167
-"32",1992,"Mike DeBlasi","-","10-17-0",0.37
-"33",1991,"Mike DeBlasi","-","13-16-0",0.448
-"34",1990,"Mike DeBlasi","-","6-24-0",0.2
-"35",1989,"","-","0-0-0",NA
-"36",2024,"Deb Robitaille","NE10","20-17-0",0.541
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southern N.H.","468","2025","Deb Robitaille","D-II","NE10",0,0,0,0
+"2","Southern N.H.","468","2024","Deb Robitaille","D-II","NE10",25,18,0,0.581
+"3","Southern N.H.","468","2023","Deb Robitaille","D-II","NE10",20,22,0,0.476
+"4","Southern N.H.","468","2022","Deb Robitaille","D-II","NE10",23,20,1,0.534
+"5","Southern N.H.","468","2021","Deb Robitaille","D-II","NE10",13,13,0,0.5
+"6","Southern N.H.","468","2020","Deb Robitaille","D-II","NE10",5,5,0,0.5
+"7","Southern N.H.","468","2019","Deb Robitaille","D-II","NE10",38,15,0,0.717
+"8","Southern N.H.","468","2018","Deb Robitaille","D-II","NE10",38,14,NA,0.731
+"9","Southern N.H.","468","2017","Deb Robitaille","D-II","NE10",27,20,0,0.574
+"10","Southern N.H.","468","2016","Deb Robitaille","D-II","NE10",29,15,0,0.659
+"11","Southern N.H.","468","2015","Deb Robitaille","D-II","NE10",35,9,0,0.795
+"12","Southern N.H.","468","2014","Deb Robitaille","D-II","NE10",31,15,0,0.674
+"13","Southern N.H.","468","2013","Deb Robitaille","D-II","NE10",29,15,0,0.659
+"14","Southern N.H.","468","2012","Deb Robitaille","D-II","NE10",28,19,0,0.596
+"15","Southern N.H.","468","2011","Deb Robitaille","D-II","NE10",19,26,0,0.422
+"16","Southern N.H.","468","2010","Deb Robitaille","D-II","NE10",18,22,0,0.45
+"17","Southern N.H.","468","2009","Deb Robitaille","D-II","NE10",21,24,0,0.467
+"18","Southern N.H.","468","2008","Deb Robitaille","D-II","NE10",17,22,0,0.436
+"19","Southern N.H.","468","2007","Deb Robitaille","D-II","NE10",24,12,0,0.667
+"20","Southern N.H.","468","2006","Deb Robitaille","D-II","NE10",23,22,0,0.511
+"21","Southern N.H.","468","2005","Terry A. McDonough","D-II","NE10",12,26,0,0.316
+"22","Southern N.H.","468","2004","Terry A. McDonough","D-II","NE10",19,17,0,0.528
+"23","Southern N.H.","468","2003","Terry A. McDonough","D-II","NE10",17,18,0,0.486
+"24","Southern N.H.","468","2002","Terry A. McDonough","D-II","NE10",13,26,0,0.333
+"25","Southern N.H.","468","2001","Terry A. McDonough","D-II","-",9,31,NA,0.225
+"26","Southern N.H.","468","1900","Terry A. McDonough","D-II","-",6,22,NA,0.214
+"27","Southern N.H.","468","1999","Colleen Kelley","D-II","-",3,31,NA,0.088
+"28","Southern N.H.","468","1998","Colleen Kelley","D-II","-",6,25,NA,0.194
+"29","Southern N.H.","468","1997","Colleen Kelley","D-II","-",1,23,NA,0.042
+"30","Southern N.H.","468","1996","","D-II","-",NA,NA,NA,NA
+"31","Southern N.H.","468","1995","Terry Bailey","D-II","-",0,24,0,0
+"32","Southern N.H.","468","1994","Terry Bailey","D-II","-",10,18,0,0.357
+"33","Southern N.H.","468","1993","Mike DeBlasi","D-II","-",4,20,NA,0.167
+"34","Southern N.H.","468","1992","Mike DeBlasi","D-II","-",10,17,NA,0.37
+"35","Southern N.H.","468","1991","Mike DeBlasi","D-II","-",13,16,NA,0.448
+"36","Southern N.H.","468","1990","Mike DeBlasi","D-II","-",6,24,NA,0.2
+"37","Southern N.H.","468","1989","","D-II","-",NA,NA,NA,NA
+"38","Southern N.H.","468","","","","",592,666,1,0.471

@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ashley Martinez","NJAC","15-23-0",0.395
-"2",2022,"Ashley Martinez","NJAC","10-27-0",0.27
-"3",2021,"Ashley Martinez","NJAC","0-19-0",0
-"4",2020,"Ashley Martinez","NJAC","3-5-0",0.375
-"5",2019,"Ashley Martinez","NJAC","5-33-0",0.132
-"6",2018,"Marc Della Volpe","NJAC","4-30-0",0.118
-"7",2017,"Veronica Grant","NJAC","11-25-0",0.306
-"8",2016,"Veronica Grant","NJAC","11-29-0",0.275
-"9",2015,"Jaclyn Timko","NJAC","5-33-0",0.132
-"10",2014,"Kelli Rehm","NJAC","5-33-0",0.132
-"11",2013,"Bridgette Quimpo","NJAC","14-25-0",0.359
-"12",2012,"Bridgette Quimpo","NJAC","12-27-0",0.308
-"13",2011,"Bridgette Quimpo","NJAC","12-26-0",0.316
-"14",2010,"Bridgette Quimpo","NJAC","14-26-0",0.35
-"15",2009,"Bridgette Quimpo","NJAC","16-22-0",0.421
-"16",2008,"Bridgette Quimpo","NJAC","18-22-0",0.45
-"17",2007,"Bridgette Quimpo","NJAC","13-26-0",0.333
-"18",2006,"Bridgette Quimpo","NJAC","9-28-0",0.243
-"19",2005,"Bridgette Quimpo","-","16-21-0",0.432
-"20",2004,"Bridgette Quimpo","NJAC","11-24-0",0.314
-"21",2003,"Tara Laposa","NJAC","4-31-1",0.114
-"22",2002,"Tara Laposa","NJAC","8-11-0",0.421
-"23",2001,"David Salvatore","-","21-15-0",0.583
-"24",2000,"David Salvatore","-","20-17-0",0.541
-"25",1999,"David Salvatore","-","26-9-0",0.743
-"26",1998,"David Salvatore","-","25-9-1",0.735
-"27",1997,"Amy Gavran","-","18-17-1",0.514
-"28",1996,"Dana DeSimone (14-23)Mike Alvarez (14-23)","-","14-23-0",0.378
-"29",1995,"Pat Belmonte","-","10-25-0",0.286
-"30",1994,"Pat Belmonte","-","13-22-0",0.371
-"31",1993,"Pat Belmonte","-","9-18-0",0.333
-"32",1992,"Pat Belmonte","-","9-20-0",0.31
-"33",1991,"Pat Belmonte","-","0-26-0",0
-"34",1990,"Kim Culligan","-","11-22-0",0.333
-"35",1989,"Kim Culligan","-","12-13-0",0.48
-"36",1988,"Pam Pistone","-","10-12-0",0.455
-"37",1987,"Pam Pistone","-","5-18-0",0.217
-"38",1986,"Pam Pistone","-","0-22-0",0
-"39",1985,"Pam Pistone","-","2-21-0",0.087
-"40",1984,"Wayne Cunningham","-","6-11-0",0.353
-"41",1983,"Wayne Cunningham","-","10-9-0",0.526
-"42",1982,"Wayne Cunningham","-","8-8-0",0.5
-"43",1981,"Wayne Cunningham","-","2-11-0",0.154
-"44",2024,"Ashley Martinez","NJAC","13-22-0",0.371
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","New Jersey City","319","2025","Ashley Martinez","D-III","NJAC",0,0,0,0
+"2","New Jersey City","319","2024","Ashley Martinez","D-III","NJAC",13,22,0,0.371
+"3","New Jersey City","319","2023","Ashley Martinez","D-III","NJAC",15,23,0,0.395
+"4","New Jersey City","319","2022","Ashley Martinez","D-III","NJAC",10,27,0,0.27
+"5","New Jersey City","319","2021","Ashley Martinez","D-III","NJAC",0,19,0,0
+"6","New Jersey City","319","2020","Ashley Martinez","D-III","NJAC",3,5,0,0.375
+"7","New Jersey City","319","2019","Ashley Martinez","D-III","NJAC",5,33,0,0.132
+"8","New Jersey City","319","2018","Marc Della Volpe","D-III","NJAC",4,30,NA,0.118
+"9","New Jersey City","319","2017","Veronica Grant","D-III","NJAC",11,25,0,0.306
+"10","New Jersey City","319","2016","Veronica Grant","D-III","NJAC",11,29,0,0.275
+"11","New Jersey City","319","2015","Jaclyn Timko","D-III","NJAC",5,33,0,0.132
+"12","New Jersey City","319","2014","Kelli Rehm","D-III","NJAC",5,33,0,0.132
+"13","New Jersey City","319","2013","Bridgette Quimpo","D-III","NJAC",14,25,0,0.359
+"14","New Jersey City","319","2012","Bridgette Quimpo","D-III","NJAC",12,27,0,0.308
+"15","New Jersey City","319","2011","Bridgette Quimpo","D-III","NJAC",12,26,0,0.316
+"16","New Jersey City","319","2010","Bridgette Quimpo","D-III","NJAC",14,26,0,0.35
+"17","New Jersey City","319","2009","Bridgette Quimpo","D-III","NJAC",16,22,0,0.421
+"18","New Jersey City","319","2008","Bridgette Quimpo","D-III","NJAC",18,22,0,0.45
+"19","New Jersey City","319","2007","Bridgette Quimpo","D-III","NJAC",13,26,0,0.333
+"20","New Jersey City","319","2006","Bridgette Quimpo","D-III","NJAC",9,28,0,0.243
+"21","New Jersey City","319","2005","Bridgette Quimpo","D-III","-",16,21,0,0.432
+"22","New Jersey City","319","2004","Bridgette Quimpo","D-III","NJAC",11,24,0,0.314
+"23","New Jersey City","319","2003","Tara Laposa","D-III","NJAC",4,31,1,0.125
+"24","New Jersey City","319","2002","Tara Laposa","D-III","NJAC",8,11,0,0.421
+"25","New Jersey City","319","2001","David Salvatore","D-III","-",21,15,NA,0.583
+"26","New Jersey City","319","1900","David Salvatore","D-III","-",20,17,NA,0.541
+"27","New Jersey City","319","1999","David Salvatore","D-III","-",26,9,NA,0.743
+"28","New Jersey City","319","1998","David Salvatore","D-III","-",25,9,1,0.729
+"29","New Jersey City","319","1997","Amy Gavran","D-III","-",18,17,1,0.514
+"30","New Jersey City","319","1996","Dana DeSimone (14-23)Mike Alvarez (14-23)","D-III","-",14,23,NA,0.378
+"31","New Jersey City","319","1995","Pat Belmonte","D-III","-",10,25,NA,0.286
+"32","New Jersey City","319","1994","Pat Belmonte","D-III","-",13,22,NA,0.371
+"33","New Jersey City","319","1993","Pat Belmonte","D-III","-",9,18,NA,0.333
+"34","New Jersey City","319","1992","Pat Belmonte","D-III","-",9,20,NA,0.31
+"35","New Jersey City","319","1991","Pat Belmonte","D-III","-",0,26,NA,0
+"36","New Jersey City","319","1990","Kim Culligan","D-III","-",11,22,NA,0.333
+"37","New Jersey City","319","1989","Kim Culligan","D-III","-",12,13,NA,0.48
+"38","New Jersey City","319","1988","Pam Pistone","D-III","-",10,12,NA,0.455
+"39","New Jersey City","319","1987","Pam Pistone","D-III","-",5,18,NA,0.217
+"40","New Jersey City","319","1986","Pam Pistone","D-III","-",0,22,NA,0
+"41","New Jersey City","319","1985","Pam Pistone","D-III","-",2,21,NA,0.087
+"42","New Jersey City","319","1984","Wayne Cunningham","D-III","-",6,11,NA,0.353
+"43","New Jersey City","319","1983","Wayne Cunningham","D-III","-",10,9,NA,0.526
+"44","New Jersey City","319","1982","Wayne Cunningham","D-III","-",8,8,NA,0.5
+"45","New Jersey City","319","1981","Wayne Cunningham","D-III","-",2,11,NA,0.154
+"46","New Jersey City","319","","","","",460,916,3,0.335

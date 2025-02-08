@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kevin Carbon","Skyline","21-15-0","0.583"
-"2","2022","Miguel Justiniano","Skyline","7-21-0","0.250"
-"3","2021","Miguel Justiniano","Skyline","6-15-0","0.286"
-"4","2020","Richard Vaccaro","Skyline","0-0-0","  NaN"
-"5","2019","Richard Vaccaro","Skyline","16-22-0","0.421"
-"6","2018","Mark Roldan","Skyline","18-18-0","0.500"
-"7","2017","Mark Roldan","Skyline","21-16-0","0.568"
-"8","2016","Mark Roldan","Skyline","21-16-0","0.568"
-"9","2015","Mark Roldan","Skyline","14-20-0","0.412"
-"10","2014","Mark Roldan","Skyline","28-7-0","0.800"
-"11","2013","Michael Scala","Skyline","9-25-0","0.265"
-"12","2012","Michael Scala","Skyline","13-27-0","0.325"
-"13","2011","Michael Scala","Skyline","4-27-0","0.129"
-"14","2010","Mary Marra","Skyline","11-21-0","0.344"
-"15","2009","Mary Marra","Skyline","16-9-0","0.640"
-"16","2008","Mary Marra","Skyline","19-19-0","0.500"
-"17","2007","Mary Marra","Skyline","15-14-0","0.517"
-"18","2006","Mary Marra","Skyline","15-24-0","0.385"
-"19","2005","Mary Marra","Skyline","12-17-0","0.414"
-"20","2004","Mary Marra","Skyline","12-24-0","0.333"
-"21","2003","Mary Marra","-","0-0-0","  NaN"
-"22","2002","Mary Marra","-","0-0-0","  NaN"
-"23","2001","Bob D'Avanzo","-","7-17-0","0.292"
-"24","2000","Bob D'Avanzo","-","7-15-0","0.318"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","CMSV","451","2025","Kevin Carbon","D-III","Skyline",0,0,0,0
+"2","CMSV","451","2024","Kevin Carbon","D-III","Skyline",11,25,0,0.306
+"3","CMSV","451","2023","Kevin Carbon","D-III","Skyline",21,15,0,0.583
+"4","CMSV","451","2022","Miguel Justiniano","D-III","Skyline",7,21,0,0.25
+"5","CMSV","451","2021","Miguel Justiniano","D-III","Skyline",6,15,0,0.286
+"6","CMSV","451","2020","Richard Vaccaro","D-III","Skyline",NA,NA,NA,0
+"7","CMSV","451","2019","Richard Vaccaro","D-III","Skyline",16,22,0,0.421
+"8","CMSV","451","2018","Mark Roldan","D-III","Skyline",18,18,NA,0.5
+"9","CMSV","451","2017","Mark Roldan","D-III","Skyline",21,16,0,0.568
+"10","CMSV","451","2016","Mark Roldan","D-III","Skyline",21,16,0,0.568
+"11","CMSV","451","2015","Mark Roldan","D-III","Skyline",14,20,0,0.412
+"12","CMSV","451","2014","Mark Roldan","D-III","Skyline",28,7,0,0.8
+"13","CMSV","451","2013","Michael Scala","D-III","Skyline",9,25,0,0.265
+"14","CMSV","451","2012","Michael Scala","D-III","Skyline",13,27,0,0.325
+"15","CMSV","451","2011","Michael Scala","D-III","Skyline",4,27,0,0.129
+"16","CMSV","451","2010","Mary Marra","D-III","Skyline",11,21,0,0.344
+"17","CMSV","451","2009","Mary Marra","D-III","Skyline",16,9,0,0.64
+"18","CMSV","451","2008","Mary Marra","D-III","Skyline",19,19,0,0.5
+"19","CMSV","451","2007","Mary Marra","D-III","Skyline",15,14,0,0.517
+"20","CMSV","451","2006","Mary Marra","D-III","Skyline",15,24,0,0.385
+"21","CMSV","451","2005","Mary Marra","D-III","Skyline",12,17,0,0.414
+"22","CMSV","451","2004","Mary Marra","D-III","Skyline",12,24,0,0.333
+"23","CMSV","451","2003","Mary Marra","","-",NA,NA,NA,NA
+"24","CMSV","451","2002","Mary Marra","D-III","-",NA,NA,NA,NA
+"25","CMSV","451","2001","Bob D'Avanzo","D-III","-",7,17,0,0.292
+"26","CMSV","451","1900","Bob D'Avanzo","D-III","-",7,15,NA,0.318
+"27","CMSV","451","1999","","D-III","-",NA,NA,NA,NA
+"28","CMSV","451","1998","","D-III","-",NA,NA,NA,NA
+"29","CMSV","451","1997","","D-III","-",NA,NA,NA,NA
+"30","CMSV","451","1996","","D-III","-",NA,NA,NA,NA
+"31","CMSV","451","1995","","D-III","-",NA,NA,NA,NA
+"32","CMSV","451","1994","","D-III","-",NA,NA,NA,NA
+"33","CMSV","451","1993","","D-III","-",NA,NA,NA,NA
+"34","CMSV","451","1992","","D-III","-",NA,NA,NA,NA
+"35","CMSV","451","1991","","D-III","-",NA,NA,NA,NA
+"36","CMSV","451","1990","","D-III","-",NA,NA,NA,NA
+"37","CMSV","451","","","","",303,414,0,0.423

@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Sean Cotter","Sunshine State","24-30-0",0.444
-"2",2022,"Sean Cotter","Sunshine State","29-22-0",0.569
-"3",2021,"Sean Cotter","Sunshine State","11-14-0",0.44
-"4",2020,"Sean Cotter","Sunshine State","15-19-0",0.441
-"5",2019,"Sean Cotter","Sunshine State","13-40-0",0.245
-"6",2018,"Kelley Montalvo (5-4)Sean Cotter (19-26)","Sunshine State","19-26-0",0.422
-"7",2017,"Danielle Penner","Sunshine State","23-28-0",0.451
-"8",2016,"Danielle Penner","Sunshine State","23-19-0",0.548
-"9",2015,"Danielle Penner","Sunshine State","32-15-0",0.681
-"10",2014,"Danielle Penner","Sunshine State","27-20-0",0.574
-"11",2013,"Danielle Penner","Sunshine State","34-20-0",0.63
-"12",2012,"Danielle Penner","Sunshine State","40-11-0",0.784
-"13",2011,"Danielle Penner","Sunshine State","34-14-0",0.708
-"14",2010,"Danielle Penner","Sunshine State","32-24-0",0.571
-"15",2009,"Danielle Penner","Sunshine State","32-19-0",0.627
-"16",2008,"Danielle Penner","Sunshine State","44-8-0",0.846
-"17",2007,"Danielle Penner","Sunshine State","44-19-0",0.698
-"18",2006,"Danielle Penner","Sunshine State","39-13-0",0.75
-"19",2005,"Shelly Hoerner","Sunshine State","35-19-0",0.648
-"20",2004,"Shelly Hoerner","Sunshine State","31-18-0",0.633
-"21",2003,"Shelly Hoerner","Sunshine State","52-10-0",0.839
-"22",2002,"Shelly Hoerner","Sunshine State","44-15-0",0.746
-"23",2001,"Shelly Hoerner","-","29-20-0",0.592
-"24",2000,"Lisa Navas","-","37-18-0",0.673
-"25",1999,"Lisa Navas","-","44-13-0",0.772
-"26",1998,"Lisa Navas","-","44-17-0",0.721
-"27",1997,"Lisa Navas","-","37-15-0",0.712
-"28",1996,"Lisa Navas","-","40-11-0",0.784
-"29",1995,"Lisa Navas","-","30-16-1",0.652
-"30",1994,"Lisa Navas","-","42-13-0",0.764
-"31",1993,"Lisa Navas","-","38-13-0",0.745
-"32",1992,"Lisa Navas","-","23-18-0",0.561
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",2024,"Sean Cotter","Sunshine State","24-14-0",0.632
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Barry","49","2025","Sean Cotter","D-II","Sunshine State",3,2,0,0.6
+"2","Barry","49","2024","Sean Cotter","D-II","Sunshine State",34,18,0,0.654
+"3","Barry","49","2023","Sean Cotter","D-II","Sunshine State",24,30,0,0.444
+"4","Barry","49","2022","Sean Cotter","D-II","Sunshine State",29,22,0,0.569
+"5","Barry","49","2021","Sean Cotter","D-II","Sunshine State",11,14,0,0.44
+"6","Barry","49","2020","Sean Cotter","D-II","Sunshine State",15,19,0,0.441
+"7","Barry","49","2019","Sean Cotter","D-II","Sunshine State",13,40,0,0.245
+"8","Barry","49","2018","Kelley Montalvo (5-4)Sean Cotter (19-26)","D-II","Sunshine State",19,26,0,0.422
+"9","Barry","49","2017","Danielle Penner","D-II","Sunshine State",23,28,0,0.451
+"10","Barry","49","2016","Danielle Penner","D-II","Sunshine State",23,19,0,0.548
+"11","Barry","49","2015","Danielle Penner","D-II","Sunshine State",32,15,0,0.681
+"12","Barry","49","2014","Danielle Penner","D-II","Sunshine State",27,20,0,0.574
+"13","Barry","49","2013","Danielle Penner","D-II","Sunshine State",34,20,0,0.63
+"14","Barry","49","2012","Danielle Penner","D-II","Sunshine State",40,11,0,0.784
+"15","Barry","49","2011","Danielle Penner","D-II","Sunshine State",34,14,0,0.708
+"16","Barry","49","2010","Danielle Penner","D-II","Sunshine State",32,24,0,0.571
+"17","Barry","49","2009","Danielle Penner","D-II","Sunshine State",32,19,0,0.627
+"18","Barry","49","2008","Danielle Penner","D-II","Sunshine State",44,8,0,0.846
+"19","Barry","49","2007","Danielle Penner","D-II","Sunshine State",44,19,0,0.698
+"20","Barry","49","2006","Danielle Penner","D-II","Sunshine State",39,13,0,0.75
+"21","Barry","49","2005","Shelly Hoerner","D-II","Sunshine State",35,19,0,0.648
+"22","Barry","49","2004","Shelly Hoerner","D-II","Sunshine State",31,18,0,0.633
+"23","Barry","49","2003","Shelly Hoerner","D-II","Sunshine State",52,10,0,0.839
+"24","Barry","49","2002","Shelly Hoerner","D-II","Sunshine State",44,15,0,0.746
+"25","Barry","49","2001","Shelly Hoerner","D-II","-",29,20,0,0.592
+"26","Barry","49","1900","Lisa Navas","D-II","-",37,18,0,0.673
+"27","Barry","49","1999","Lisa Navas","D-II","-",44,13,0,0.772
+"28","Barry","49","1998","Lisa Navas","D-II","-",44,17,0,0.721
+"29","Barry","49","1997","Lisa Navas","D-II","-",37,15,0,0.712
+"30","Barry","49","1996","Lisa Navas","D-II","-",40,11,0,0.784
+"31","Barry","49","1995","Lisa Navas","D-II","-",30,16,1,0.649
+"32","Barry","49","1994","Lisa Navas","D-II","-",42,13,0,0.764
+"33","Barry","49","1993","Lisa Navas","D-II","-",38,13,0,0.745
+"34","Barry","49","1992","Lisa Navas","D-II","-",23,18,0,0.561
+"35","Barry","49","1991","","D-II","-",NA,NA,NA,NA
+"36","Barry","49","1990","","D-II","-",NA,NA,NA,NA
+"37","Barry","49","1989","","D-II","-",NA,NA,NA,NA
+"38","Barry","49","1988","","D-II","-",NA,NA,NA,NA
+"39","Barry","49","1987","","D-II","-",NA,NA,NA,NA
+"40","Barry","49","","","","",1078,597,1,0.643

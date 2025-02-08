@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jamie Burke","Empire 8","11-27-0",0.289
-"2",2022,"Jamie Burke","Empire 8","4-24-0",0.143
-"3",2021,"Jamie Burke","Empire 8","8-13-0",0.381
-"4",2020,"Jamie Burke","United East","1-3-0",0.25
-"5",2019,"Jamie Burke","United East","14-21-0",0.4
-"6",2018,"Jamie Burke","United East","20-9-0",0.69
-"7",2017,"Jamie Burke","United East","27-11-0",0.711
-"8",2016,"Jamie Burke","United East","19-14-0",0.576
-"9",2015,"Jamie Burke","United East","18-9-0",0.667
-"10",2014,"Jamie Burke","United East","16-10-0",0.615
-"11",2013,"Jamie Burke","United East","17-15-0",0.531
-"12",2012,"Jamie Burke","United East","23-13-0",0.639
-"13",2011,"Jamie Burke","United East","23-5-1",0.821
-"14",2010,"Jamie Burke","United East","23-10-0",0.697
-"15",2009,"Jamie Burke","United East","24-8-0",0.75
-"16",2008,"Jamie Burke","United East","23-9-0",0.719
-"17",2007,"Jamie Burke","United East","25-6-0",0.806
-"18",2006,"Jamie Burke","United East","19-9-0",0.679
-"19",2005,"Ken Owen","United East","5-10-0",0.333
-"20",2004,"Paul Bonus","-","2-13-0",0.133
-"21",2003,"Paul Bonus","ECAC-III","14-12-0",0.538
-"22",2002,"Paul Bonus","NYSWCAA","11-21-1",0.344
-"23",2001,"Paul Bonus","-","8-8-0",0.5
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"Alan Loucks","-","0-0-0",NA
-"32",1992,"Alan Loucks","-","1-9-0",0.1
-"33",1991,"Mike Gilbert","-","0-12-0",0
-"34",1990,"Linda Corlew","-","12-6-0",0.667
-"35",2024,"Jamie Burke","Empire 8","13-21-0",0.382
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Keuka","1159","2025","Jamie Burke","D-III","Empire 8",0,0,0,0
+"2","Keuka","1159","2024","Jamie Burke","D-III","Empire 8",13,21,0,0.382
+"3","Keuka","1159","2023","Jamie Burke","D-III","Empire 8",11,27,0,0.289
+"4","Keuka","1159","2022","Jamie Burke","D-III","Empire 8",4,24,0,0.143
+"5","Keuka","1159","2021","Jamie Burke","D-III","Empire 8",8,13,0,0.381
+"6","Keuka","1159","2020","Jamie Burke","D-III","United East",1,3,0,0.25
+"7","Keuka","1159","2019","Jamie Burke","D-III","United East",14,21,0,0.4
+"8","Keuka","1159","2018","Jamie Burke","D-III","United East",20,9,NA,0.69
+"9","Keuka","1159","2017","Jamie Burke","D-III","United East",27,11,0,0.711
+"10","Keuka","1159","2016","Jamie Burke","D-III","United East",19,14,0,0.576
+"11","Keuka","1159","2015","Jamie Burke","D-III","United East",18,9,0,0.667
+"12","Keuka","1159","2014","Jamie Burke","D-III","United East",16,10,0,0.615
+"13","Keuka","1159","2013","Jamie Burke","D-III","United East",17,15,0,0.531
+"14","Keuka","1159","2012","Jamie Burke","D-III","United East",23,13,0,0.639
+"15","Keuka","1159","2011","Jamie Burke","D-III","United East",23,5,1,0.81
+"16","Keuka","1159","2010","Jamie Burke","D-III","United East",23,10,0,0.697
+"17","Keuka","1159","2009","Jamie Burke","D-III","United East",24,8,0,0.75
+"18","Keuka","1159","2008","Jamie Burke","D-III","United East",23,9,0,0.719
+"19","Keuka","1159","2007","Jamie Burke","D-III","United East",25,6,0,0.806
+"20","Keuka","1159","2006","Jamie Burke","D-III","United East",19,9,0,0.679
+"21","Keuka","1159","2005","Ken Owen","D-III","United East",5,10,0,0.333
+"22","Keuka","1159","2004","Paul Bonus","D-III","-",2,13,0,0.133
+"23","Keuka","1159","2003","Paul Bonus","D-III","ECAC-III",14,12,0,0.538
+"24","Keuka","1159","2002","Paul Bonus","D-III","NYSWCAA",11,21,1,0.348
+"25","Keuka","1159","2001","Paul Bonus","D-III","-",8,8,0,0.5
+"26","Keuka","1159","1900","","D-III","-",NA,NA,NA,NA
+"27","Keuka","1159","1999","","D-III","-",NA,NA,NA,NA
+"28","Keuka","1159","1998","","D-III","-",NA,NA,NA,NA
+"29","Keuka","1159","1997","","D-III","-",NA,NA,NA,NA
+"30","Keuka","1159","1996","","D-III","-",NA,NA,NA,NA
+"31","Keuka","1159","1995","","D-III","-",NA,NA,NA,NA
+"32","Keuka","1159","1994","","D-III","-",NA,NA,NA,NA
+"33","Keuka","1159","1993","Alan Loucks","D-III","-",NA,NA,NA,NA
+"34","Keuka","1159","1992","Alan Loucks","D-III","-",1,9,NA,0.1
+"35","Keuka","1159","1991","Mike Gilbert","D-III","-",0,12,NA,0
+"36","Keuka","1159","1990","Linda Corlew","D-III","-",12,6,0,0.667
+"37","Keuka","1159","","","","",381,328,2,0.537

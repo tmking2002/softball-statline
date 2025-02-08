@@ -1,42 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Dale Martin","Skyline","39-7-0","0.848"
-"2","2022","Dale Martin","Skyline","26-16-0","0.619"
-"3","2021","Dale Martin","Skyline","20-5-0","0.800"
-"4","2020","Dale Martin","Skyline","7-3-0","0.700"
-"5","2019","Dale Martin","MAC Freedom","41-4-0","0.911"
-"6","2018","Dale Martin","MAC Freedom","27-16-0","0.628"
-"7","2017","Dale Martin","MAC Freedom","32-15-0","0.681"
-"8","2016","Dale Martin","MAC Freedom","41-5-0","0.891"
-"9","2015","Dale Martin","MAC Freedom","13-20-0","0.394"
-"10","2014","Dale Martin","MAC Freedom","29-10-0","0.744"
-"11","2013","Dale Martin","MAC Freedom","22-19-0","0.537"
-"12","2012","Amber Radomski","MAC Freedom","20-17-0","0.541"
-"13","2011","Amber Radomski","MAC Freedom","16-18-0","0.471"
-"14","2010","Amber Radomski","MAC Freedom","18-19-1","0.486"
-"15","2009","Amber Radomski","MAC Freedom","19-19-0","0.500"
-"16","2008","Rodney Ryan","MAC Freedom","14-22-0","0.389"
-"17","2007","Dale Martin","Skyline","27-10-0","0.730"
-"18","2006","Dale Martin","Skyline","29-15-0","0.659"
-"19","2005","Dale Martin","Skyline","30-11-0","0.732"
-"20","2004","Dale Martin","Skyline","18-16-0","0.529"
-"21","2003","Dale Martin","-","0-0-0","  NaN"
-"22","2002","Dale Martin","Skyline","24-9-0","0.727"
-"23","2001","Gail Lozado","-","16-16-0","0.500"
-"24","2000","Lori Pierro","-","11-18-0","0.379"
-"25","1999","Lori Pierro","-","10-24-0","0.294"
-"26","1998","Karen Peterson (13-9)Lori Pierro (13-9)","-","13-9-0","0.591"
-"27","1997","Lori Pierro (15-12-1)Karen Peterson (15-12-1)","-","15-12-1","0.556"
-"28","1996","Karen Peterson","-","14-5-0","0.737"
-"29","1995","Karen Peterson","-","13-10-0","0.565"
-"30","1994","Karen Peterson","-","7-12-0","0.368"
-"31","1993","Karen Peterson","-","6-8-0","0.429"
-"32","1992","Karen Peterson","-","7-12-0","0.368"
-"33","1991","Karen Peterson","-","10-9-0","0.526"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Manhattanville","382","2025","Dale Martin","D-III","Skyline",0,0,0,0
+"2","Manhattanville","382","2024","Dale Martin","D-III","Skyline",32,12,0,0.727
+"3","Manhattanville","382","2023","Dale Martin","D-III","Skyline",39,7,0,0.848
+"4","Manhattanville","382","2022","Dale Martin","D-III","Skyline",26,16,0,0.619
+"5","Manhattanville","382","2021","Dale Martin","D-III","Skyline",20,5,0,0.8
+"6","Manhattanville","382","2020","Dale Martin","D-III","Skyline",7,3,0,0.7
+"7","Manhattanville","382","2019","Dale Martin","D-III","MAC Freedom",41,4,0,0.911
+"8","Manhattanville","382","2018","Dale Martin","D-III","MAC Freedom",27,16,NA,0.628
+"9","Manhattanville","382","2017","Dale Martin","D-III","MAC Freedom",32,15,0,0.681
+"10","Manhattanville","382","2016","Dale Martin","D-III","MAC Freedom",41,5,0,0.891
+"11","Manhattanville","382","2015","Dale Martin","D-III","MAC Freedom",13,20,0,0.394
+"12","Manhattanville","382","2014","Dale Martin","D-III","MAC Freedom",29,10,0,0.744
+"13","Manhattanville","382","2013","Dale Martin","D-III","MAC Freedom",22,19,0,0.537
+"14","Manhattanville","382","2012","Amber Radomski","D-III","MAC Freedom",20,17,0,0.541
+"15","Manhattanville","382","2011","Amber Radomski","D-III","MAC Freedom",16,18,0,0.471
+"16","Manhattanville","382","2010","Amber Radomski","D-III","MAC Freedom",18,19,1,0.487
+"17","Manhattanville","382","2009","Amber Radomski","D-III","MAC Freedom",19,19,0,0.5
+"18","Manhattanville","382","2008","Rodney Ryan","D-III","MAC Freedom",14,22,0,0.389
+"19","Manhattanville","382","2007","Dale Martin","D-III","Skyline",27,10,0,0.73
+"20","Manhattanville","382","2006","Dale Martin","D-III","Skyline",29,15,0,0.659
+"21","Manhattanville","382","2005","Dale Martin","D-III","Skyline",30,11,0,0.732
+"22","Manhattanville","382","2004","Dale Martin","D-III","Skyline",18,16,0,0.529
+"23","Manhattanville","382","2003","Dale Martin","","-",NA,NA,NA,NA
+"24","Manhattanville","382","2002","Dale Martin","D-III","Skyline",24,9,0,0.727
+"25","Manhattanville","382","2001","Gail Lozado","D-III","-",16,16,0,0.5
+"26","Manhattanville","382","1900","Lori Pierro","D-III","-",11,18,NA,0.379
+"27","Manhattanville","382","1999","Lori Pierro","D-III","-",10,24,NA,0.294
+"28","Manhattanville","382","1998","Karen Peterson (13-9)Lori Pierro (13-9)","D-III","-",13,9,NA,0.591
+"29","Manhattanville","382","1997","Lori Pierro (15-12-1)Karen Peterson (15-12-1)","D-III","-",15,12,1,0.554
+"30","Manhattanville","382","1996","Karen Peterson","D-III","-",14,5,NA,0.737
+"31","Manhattanville","382","1995","Karen Peterson","D-III","-",13,10,NA,0.565
+"32","Manhattanville","382","1994","Karen Peterson","D-III","-",7,12,NA,0.368
+"33","Manhattanville","382","1993","Karen Peterson","D-III","-",6,8,NA,0.429
+"34","Manhattanville","382","1992","Karen Peterson","D-III","-",7,12,NA,0.368
+"35","Manhattanville","382","1991","Karen Peterson","D-III","-",10,9,NA,0.526
+"36","Manhattanville","382","1990","","D-III","-",NA,NA,NA,NA
+"37","Manhattanville","382","1989","","D-III","-",NA,NA,NA,NA
+"38","Manhattanville","382","1988","","D-III","-",NA,NA,NA,NA
+"39","Manhattanville","382","1987","","D-III","-",NA,NA,NA,NA
+"40","Manhattanville","382","1986","","D-III","-",NA,NA,NA,NA
+"41","Manhattanville","382","1985","","D-III","-",NA,NA,NA,NA
+"42","Manhattanville","382","1984","","D-III","-",NA,NA,NA,NA
+"43","Manhattanville","382","1983","","D-III","-",NA,NA,NA,NA
+"44","Manhattanville","382","","","","",666,423,2,0.611

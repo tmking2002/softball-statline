@@ -1,25 +1,27 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
-"10","2014",NA,"-","0-0-0",NA
-"11","2013",NA,"-","0-0-0",NA
-"12","2012",NA,"-","0-0-0",NA
-"13","2009",NA,"-","0-0-0",NA
-"14","2008",NA,"-","0-0-0",NA
-"15","2007",NA,"-","0-0-0",NA
-"16","2006",NA,"-","0-0-0",NA
-"17","2005",NA,"-","0-0-0",NA
-"18","2004",NA,"-","0-0-0",NA
-"19","2003",NA,"-","0-0-0",NA
-"20","2002",NA,"-","0-0-0",NA
-"21","2000",NA,"-","0-0-0",NA
-"22","1999",NA,"-","0-0-0",NA
-"23","1998",NA,"-","0-0-0",NA
-"24","1997",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grand View","501982","2025",NA,NA,"-",NA,NA,NA,0
+"2","Grand View","501982","2024",NA,NA,"-",NA,NA,NA,0
+"3","Grand View","501982","2023",NA,NA,"-",NA,NA,NA,0
+"4","Grand View","501982","2022",NA,NA,"-",NA,NA,NA,0
+"5","Grand View","501982","2020",NA,NA,"-",NA,NA,NA,0
+"6","Grand View","501982","2019",NA,NA,"-",NA,NA,NA,0
+"7","Grand View","501982","2018",NA,NA,"-",NA,NA,NA,0
+"8","Grand View","501982","2017",NA,NA,"-",NA,NA,NA,NA
+"9","Grand View","501982","2016",NA,NA,"-",NA,NA,NA,NA
+"10","Grand View","501982","2015",NA,NA,"-",NA,NA,NA,NA
+"11","Grand View","501982","2014",NA,NA,"-",NA,NA,NA,NA
+"12","Grand View","501982","2013",NA,NA,"-",NA,NA,NA,NA
+"13","Grand View","501982","2012",NA,NA,"-",NA,NA,NA,NA
+"14","Grand View","501982","2009",NA,NA,"-",NA,NA,NA,NA
+"15","Grand View","501982","2008",NA,NA,"-",NA,NA,NA,NA
+"16","Grand View","501982","2007",NA,NA,"-",NA,NA,NA,NA
+"17","Grand View","501982","2006",NA,NA,"-",NA,NA,NA,NA
+"18","Grand View","501982","2005",NA,NA,"-",NA,NA,NA,NA
+"19","Grand View","501982","2004",NA,NA,"-",NA,NA,NA,NA
+"20","Grand View","501982","2003",NA,NA,"-",NA,NA,NA,NA
+"21","Grand View","501982","2002",NA,NA,"-",NA,NA,NA,NA
+"22","Grand View","501982","1900",NA,NA,"-",NA,NA,NA,NA
+"23","Grand View","501982","1999",NA,NA,"-",NA,NA,NA,NA
+"24","Grand View","501982","1998",NA,NA,"-",NA,NA,NA,NA
+"25","Grand View","501982","1997",NA,NA,"-",NA,NA,NA,NA
+"26","Grand View","501982","",NA,NA,"",0,0,0,0

@@ -1,13 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kaleigh Roop","Skyline","2-20-0","0.091"
-"2","2022","Lauren Farina","Skyline","2-19-0","0.095"
-"3","2021","","Skyline","0-0-0","  NaN"
-"4","2020","Kevin Carbon","Skyline","0-0-0","  NaN"
-"5","2019","Kevin Carbon","Skyline","17-17-0","0.500"
-"6","2018","Chelsea Sheehan","Skyline","16-16-0","0.500"
-"7","2017","Chelsea Sheehan","Skyline","10-21-1","0.323"
-"8","2016","Chelsea Sheehan","Skyline","9-22-0","0.290"
-"9","2015","Chelsea Sheehan","-","6-26-0","0.188"
-"10","2014","Chelsea Sheehan","-","2-16-0","0.111"
-"11","2013","Adriana Durso","-","2-26-0","0.071"
-"12","2012","Adriana Durso","-","1-18-0","0.053"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sarah Lawrence","30163","2025","Ryan Heslin-Cunningham","D-III","Skyline",0,0,0,0
+"2","Sarah Lawrence","30163","2024","Kaleigh Roop","D-III","Skyline",2,24,0,0.077
+"3","Sarah Lawrence","30163","2023","Kaleigh Roop","D-III","Skyline",2,20,0,0.091
+"4","Sarah Lawrence","30163","2022","Lauren Farina","D-III","Skyline",2,19,0,0.095
+"5","Sarah Lawrence","30163","2021","","D-III","Skyline",0,0,0,0
+"6","Sarah Lawrence","30163","2020","Kevin Carbon","D-III","Skyline",NA,NA,NA,0
+"7","Sarah Lawrence","30163","2019","Kevin Carbon","D-III","Skyline",17,17,0,0.5
+"8","Sarah Lawrence","30163","2018","Chelsea Sheehan","D-III","Skyline",16,16,NA,0.5
+"9","Sarah Lawrence","30163","2017","Chelsea Sheehan","D-III","Skyline",10,21,1,0.328
+"10","Sarah Lawrence","30163","2016","Chelsea Sheehan","D-III","Skyline",9,22,0,0.29
+"11","Sarah Lawrence","30163","2015","Chelsea Sheehan","","-",6,26,0,0.188
+"12","Sarah Lawrence","30163","2014","Chelsea Sheehan","","-",2,16,0,0.111
+"13","Sarah Lawrence","30163","2013","Adriana Durso","","-",2,26,0,0.071
+"14","Sarah Lawrence","30163","2012","Adriana Durso","","-",1,18,0,0.053
+"15","Sarah Lawrence","30163","","","","",69,225,1,0.236

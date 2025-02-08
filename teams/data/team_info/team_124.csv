@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bruce McConkey","Landmark","23-17-0",0.575
-"2",2022,"Bruce McConkey","Landmark","13-17-0",0.433
-"3",2021,"Bruce McConkey","Landmark","13-9-0",0.591
-"4",2020,"Bruce McConkey","Landmark","7-5-0",0.583
-"5",2019,"Bruce McConkey","Landmark","20-20-0",0.5
-"6",2018,"Bruce McConkey","Landmark","18-16-0",0.529
-"7",2017,"Bruce McConkey","Landmark","27-14-0",0.659
-"8",2016,"Bruce McConkey","Landmark","25-12-0",0.676
-"9",2015,"Bruce McConkey","Landmark","17-17-0",0.5
-"10",2014,"Bruce McConkey","Landmark","24-15-0",0.615
-"11",2013,"Bruce McConkey","Landmark","20-21-0",0.488
-"12",2012,"Bruce McConkey","Landmark","26-17-0",0.605
-"13",2011,"Bruce McConkey","Landmark","23-17-0",0.575
-"14",2010,"Bruce McConkey","Landmark","26-15-0",0.634
-"15",2009,"Bruce McConkey","Landmark","16-18-0",0.471
-"16",2008,"Bruce McConkey","Landmark","16-18-0",0.471
-"17",2007,"Bruce McConkey","C2C","19-17-0",0.528
-"18",2006,"Bruce McConkey","C2C","17-12-0",0.586
-"19",2005,"Bruce McConkey","C2C","16-14-0",0.533
-"20",2004,"Bruce McConkey","C2C","15-16-2",0.484
-"21",2003,"Bruce McConkey","C2C","6-13-0",0.316
-"22",2002,"Dean Ferrington","C2C","12-14-0",0.462
-"23",2001,"Dean Ferrington","-","13-13-0",0.5
-"24",2000,"Dean Ferrington","-","16-19-0",0.457
-"25",1999,"Dean Ferrington","-","7-15-0",0.318
-"26",1998,"Steve Bonavita","-","0-15-0",0
-"27",1997,"Charlie Dunn","-","12-10-0",0.545
-"28",1996,"Andy DeBenedictis","-","17-15-1",0.531
-"29",1995,"Andy DeBenedictis","-","12-16-0",0.429
-"30",1994,"Andy DeBenedictis","-","26-16-0",0.619
-"31",1993,"Andy DeBenedictis","-","6-12-0",0.333
-"32",1992,"Andy DeBenedictis","-","11-24-0",0.314
-"33",1991,"Andy DeBenedictis","-","9-11-0",0.45
-"34",1990,"Tricia Carroll","-","7-11-0",0.389
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Sophie Maccarone","Landmark","28-15-0",0.651
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Catholic","124","2025","Sophie Maccarone","D-III","Landmark",0,0,0,0
+"2","Catholic","124","2024","Sophie Maccarone","D-III","Landmark",28,15,0,0.651
+"3","Catholic","124","2023","Bruce McConkey","D-III","Landmark",23,17,0,0.575
+"4","Catholic","124","2022","Bruce McConkey","D-III","Landmark",13,17,0,0.433
+"5","Catholic","124","2021","Bruce McConkey","D-III","Landmark",13,9,0,0.591
+"6","Catholic","124","2020","Bruce McConkey","D-III","Landmark",7,5,0,0.583
+"7","Catholic","124","2019","Bruce McConkey","D-III","Landmark",20,20,0,0.5
+"8","Catholic","124","2018","Bruce McConkey","D-III","Landmark",18,16,NA,0.529
+"9","Catholic","124","2017","Bruce McConkey","D-III","Landmark",27,14,0,0.659
+"10","Catholic","124","2016","Bruce McConkey","D-III","Landmark",25,12,0,0.676
+"11","Catholic","124","2015","Bruce McConkey","D-III","Landmark",17,17,0,0.5
+"12","Catholic","124","2014","Bruce McConkey","D-III","Landmark",24,15,0,0.615
+"13","Catholic","124","2013","Bruce McConkey","D-III","Landmark",20,21,0,0.488
+"14","Catholic","124","2012","Bruce McConkey","D-III","Landmark",26,17,0,0.605
+"15","Catholic","124","2011","Bruce McConkey","D-III","Landmark",23,17,0,0.575
+"16","Catholic","124","2010","Bruce McConkey","D-III","Landmark",26,15,0,0.634
+"17","Catholic","124","2009","Bruce McConkey","D-III","Landmark",16,18,0,0.471
+"18","Catholic","124","2008","Bruce McConkey","D-III","Landmark",16,18,0,0.471
+"19","Catholic","124","2007","Bruce McConkey","D-III","C2C",19,17,0,0.528
+"20","Catholic","124","2006","Bruce McConkey","D-III","C2C",17,12,0,0.586
+"21","Catholic","124","2005","Bruce McConkey","D-III","C2C",16,14,0,0.533
+"22","Catholic","124","2004","Bruce McConkey","D-III","C2C",15,16,2,0.485
+"23","Catholic","124","2003","Bruce McConkey","D-III","C2C",6,13,0,0.316
+"24","Catholic","124","2002","Dean Ferrington","D-III","C2C",12,14,0,0.462
+"25","Catholic","124","2001","Dean Ferrington","D-III","-",13,13,NA,0.5
+"26","Catholic","124","1900","Dean Ferrington","D-III","-",16,19,NA,0.457
+"27","Catholic","124","1999","Dean Ferrington","D-III","-",7,15,NA,0.318
+"28","Catholic","124","1998","Steve Bonavita","D-III","-",0,15,0,0
+"29","Catholic","124","1997","Charlie Dunn","D-III","-",12,10,NA,0.545
+"30","Catholic","124","1996","Andy DeBenedictis","D-III","-",17,15,1,0.53
+"31","Catholic","124","1995","Andy DeBenedictis","D-III","-",12,16,0,0.429
+"32","Catholic","124","1994","Andy DeBenedictis","D-III","-",26,16,0,0.619
+"33","Catholic","124","1993","Andy DeBenedictis","D-III","-",6,12,0,0.333
+"34","Catholic","124","1992","Andy DeBenedictis","D-III","-",11,24,0,0.314
+"35","Catholic","124","1991","Andy DeBenedictis","","-",9,11,0,0.45
+"36","Catholic","124","1990","Tricia Carroll","D-III","-",7,11,0,0.389
+"37","Catholic","124","1989","","","-",NA,NA,NA,NA
+"38","Catholic","124","1988","","","-",NA,NA,NA,NA
+"39","Catholic","124","1987","","","-",NA,NA,NA,NA
+"40","Catholic","124","1986","","","-",NA,NA,NA,NA
+"41","Catholic","124","1985","","","-",NA,NA,NA,NA
+"42","Catholic","124","1981","","","-",NA,NA,NA,NA
+"43","Catholic","124","","","","",563,526,3,0.517

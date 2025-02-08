@@ -1,17 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Brian Hensley","DIII Independent","13-23-0","0.361"
-"2","2017","Danielle Delude","ODAC","0-26-0","0.000"
-"3","2016","Danielle Delude","ODAC","3-11-0","0.214"
-"4","2015","Danielle Delude","ODAC","5-23-0","0.179"
-"5","2014","Danielle Delude","ODAC","3-23-0","0.115"
-"6","2013","Danielle Delude","ODAC","0-22-0","0.000"
-"7","2012","Danielle Delude","ODAC","0-22-0","0.000"
-"8","2011","Danielle Delude","ODAC","0-20-0","0.000"
-"9","2010","Danielle Delude","ODAC","5-30-0","0.143"
-"10","2009","Tony Campbell","ODAC","4-29-0","0.121"
-"11","2008","Tony Campbell","ODAC","11-26-0","0.297"
-"12","2007","Tony Campbell","ODAC","14-24-0","0.368"
-"13","2006","Tony Campbell","ODAC","7-23-0","0.233"
-"14","2005","","-","0-0-0","  NaN"
-"15","2004","","-","0-0-0","  NaN"
-"16","2002","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sweet Briar","687","2025","Brian Hensley","D-III","ODAC",0,0,0,0
+"2","Sweet Briar","687","2024","Brian Hensley","D-III","ODAC",14,25,0,0.359
+"3","Sweet Briar","687","2023","Brian Hensley","D-III","DIII Independent",13,23,0,0.361
+"4","Sweet Briar","687","2017","Danielle Delude","D-III","ODAC",0,26,0,0
+"5","Sweet Briar","687","2016","Danielle Delude","D-III","ODAC",3,11,0,0.214
+"6","Sweet Briar","687","2015","Danielle Delude","D-III","ODAC",5,23,0,0.179
+"7","Sweet Briar","687","2014","Danielle Delude","D-III","ODAC",3,23,0,0.115
+"8","Sweet Briar","687","2013","Danielle Delude","D-III","ODAC",0,22,0,0
+"9","Sweet Briar","687","2012","Danielle Delude","D-III","ODAC",0,22,0,0
+"10","Sweet Briar","687","2011","Danielle Delude","D-III","ODAC",0,20,0,0
+"11","Sweet Briar","687","2010","Danielle Delude","D-III","ODAC",5,30,0,0.143
+"12","Sweet Briar","687","2009","Tony Campbell","D-III","ODAC",4,29,0,0.121
+"13","Sweet Briar","687","2008","Tony Campbell","D-III","ODAC",11,26,0,0.297
+"14","Sweet Briar","687","2007","Tony Campbell","D-III","ODAC",14,24,0,0.368
+"15","Sweet Briar","687","2006","Tony Campbell","D-III","ODAC",7,23,0,0.233
+"16","Sweet Briar","687","2005","","","-",NA,NA,NA,NA
+"17","Sweet Briar","687","2004","","","-",NA,NA,NA,NA
+"18","Sweet Briar","687","2002","","","-",NA,NA,NA,NA
+"19","Sweet Briar","687","","","","",79,327,0,0.195

@@ -1,25 +1,27 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Sara Scoone","MEC","23-28-0",0.451
-"2",2022,"Sara Scoone","MEC","17-27-0",0.386
-"3",2021,"Sara Scoone","MEC","11-30-0",0.268
-"4",2020,"Kristen Tunno","MEC","9-11-0",0.45
-"5",2019,"Kristen Tunno","MEC","14-36-0",0.28
-"6",2018,"Kristen Tunno","MEC","20-32-0",0.385
-"7",2017,"Kristen Tunno","MEC","13-36-0",0.265
-"8",2016,"Kristen Tunno","MEC","17-38-0",0.309
-"9",2015,"Kristen Tunno","MEC","11-33-0",0.25
-"10",2014,"Mandy Sansbury","MEC","20-27-0",0.426
-"11",2013,"Mandy Sansbury","WVIAC","27-17-0",0.614
-"12",2012,"Mandy Sansbury","WVIAC","13-32-0",0.289
-"13",2011,"Rick Moore","WVIAC","18-23-0",0.439
-"14",2010,"Rick Moore","WVIAC","29-30-0",0.492
-"15",2009,"Rick Moore","WVIAC","25-24-0",0.51
-"16",2008,"Rick Moore","WVIAC","17-32-0",0.347
-"17",2007,"Rick Moore","WVIAC","21-35-0",0.375
-"18",2006,"Rick Moore","WVIAC","10-18-0",0.357
-"19",2005,"Gerry Szabo","WVIAC","9-34-0",0.209
-"20",2004,"Gerry Szabo","WVIAC","0-2-0",0
-"21",2003,"Gerry Szabo","-","1-32-0",0.03
-"22",2002,"Gerry Szabo","-","0-0-0",NA
-"23",2001,"Gerry Szabo","-","0-0-0",NA
-"24",2024,"Sara Scoone","MEC","25-16-0",0.61
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Glenville St.","1098","2025","Sara Scoone","D-II","MEC",3,2,0,0.6
+"2","Glenville St.","1098","2024","Sara Scoone","D-II","MEC",26,20,0,0.565
+"3","Glenville St.","1098","2023","Sara Scoone","D-II","MEC",23,28,0,0.451
+"4","Glenville St.","1098","2022","Sara Scoone","D-II","MEC",17,27,0,0.386
+"5","Glenville St.","1098","2021","Sara Scoone","D-II","MEC",11,30,0,0.268
+"6","Glenville St.","1098","2020","Kristen Tunno","D-II","MEC",9,11,0,0.45
+"7","Glenville St.","1098","2019","Kristen Tunno","D-II","MEC",14,36,0,0.28
+"8","Glenville St.","1098","2018","Kristen Tunno","D-II","MEC",20,32,NA,0.385
+"9","Glenville St.","1098","2017","Kristen Tunno","D-II","MEC",13,36,0,0.265
+"10","Glenville St.","1098","2016","Kristen Tunno","D-II","MEC",17,38,0,0.309
+"11","Glenville St.","1098","2015","Kristen Tunno","D-II","MEC",11,33,0,0.25
+"12","Glenville St.","1098","2014","Mandy Sansbury","D-II","MEC",20,27,0,0.426
+"13","Glenville St.","1098","2013","Mandy Sansbury","D-II","WVIAC",27,17,0,0.614
+"14","Glenville St.","1098","2012","Mandy Sansbury","D-II","WVIAC",13,32,0,0.289
+"15","Glenville St.","1098","2011","Rick Moore","D-II","WVIAC",18,23,0,0.439
+"16","Glenville St.","1098","2010","Rick Moore","D-II","WVIAC",29,30,0,0.492
+"17","Glenville St.","1098","2009","Rick Moore","D-II","WVIAC",25,24,0,0.51
+"18","Glenville St.","1098","2008","Rick Moore","D-II","WVIAC",17,32,0,0.347
+"19","Glenville St.","1098","2007","Rick Moore","D-II","WVIAC",21,35,0,0.375
+"20","Glenville St.","1098","2006","Rick Moore","D-II","WVIAC",10,18,0,0.357
+"21","Glenville St.","1098","2005","Gerry Szabo","D-II","WVIAC",9,34,0,0.209
+"22","Glenville St.","1098","2004","Gerry Szabo","D-II","WVIAC",0,2,0,0
+"23","Glenville St.","1098","2003","Gerry Szabo","D-II","-",1,32,NA,0.03
+"24","Glenville St.","1098","2002","Gerry Szabo","","-",NA,NA,NA,NA
+"25","Glenville St.","1098","2001","Gerry Szabo","","-",NA,NA,NA,NA
+"26","Glenville St.","1098","","","","",354,599,0,0.371

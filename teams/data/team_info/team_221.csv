@@ -1,45 +1,48 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Bridget Rafter","MAC Freedom","15-16-0","0.484"
-"2","2022","Bridget Rafter","MAC Freedom","12-15-0","0.444"
-"3","2021","Bridget Rafter","MAC Freedom","5-18-0","0.217"
-"4","2020","Dante Fedeli","MAC Freedom","0-12-0","0.000"
-"5","2019","Dante Fedeli","MAC Freedom","15-19-1","0.441"
-"6","2018","Dante Fedeli","MAC Freedom","19-18-0","0.514"
-"7","2017","Dante Fedeli","MAC Freedom","13-22-0","0.371"
-"8","2016","Dante Fedeli","MAC Freedom","21-17-0","0.553"
-"9","2015","Dante Fedeli","MAC Freedom","11-23-0","0.324"
-"10","2014","Dante Fedeli","MAC Freedom","18-18-0","0.500"
-"11","2013","Dante Fedeli","MAC Freedom","22-21-0","0.512"
-"12","2012","Dante Fedeli","MAC Freedom","14-19-0","0.424"
-"13","2011","Dante Fedeli","MAC Freedom","14-19-0","0.424"
-"14","2010","Dante Fedeli","MAC Freedom","13-23-0","0.361"
-"15","2009","Dante Fedeli","MAC Freedom","18-16-0","0.529"
-"16","2008","Dante Fedeli","MAC Freedom","29-18-0","0.617"
-"17","2007","Dante Fedeli","MAC Freedom","21-19-0","0.525"
-"18","2006","Dante Fedeli","MAC Freedom","21-17-0","0.553"
-"19","2005","Dante Fedeli","MAC Freedom","22-19-0","0.537"
-"20","2004","Dante Fedeli","MAC Freedom","13-19-0","0.406"
-"21","2003","Dante Fedeli","MAC Freedom","11-22-0","0.333"
-"22","2002","Dante Fedeli","MAC Freedom","14-24-0","0.368"
-"23","2001","Dante Fedeli","-","16-22-0","0.421"
-"24","2000","Dante Fedeli","-","16-21-0","0.432"
-"25","1999","Dawn Politz","-","22-14-0","0.611"
-"26","1998","Dawn Politz","-","27-11-0","0.711"
-"27","1997","Kathy Perri","-","20-16-0","0.556"
-"28","1996","Kathy Perri","-","11-15-0","0.423"
-"29","1995","Sharon Feeney","-","11-18-0","0.379"
-"30","1994","Hallie Cohen","-","14-17-0","0.452"
-"31","1993","Hallie Cohen","-","7-11-1","0.389"
-"32","1992","Hallie Cohen","-","15-14-0","0.517"
-"33","1991","Hallie Cohen","-","14-15-0","0.483"
-"34","1990","Hallie Cohen","-","21-15-0","0.583"
-"35","1989","Hallie Cohen","-","14-8-0","0.636"
-"36","1988","Hallie Cohen","-","20-16-0","0.556"
-"37","1987","Hallie Cohen","-","20-12-0","0.625"
-"38","1986","Hallie Cohen","-","16-10-0","0.615"
-"39","1985","Hallie Cohen","-","17-8-0","0.680"
-"40","1984","Hallie Cohen","-","9-7-0","0.562"
-"41","1983","Hallie Cohen","-","9-5-0","0.643"
-"42","1982","Hallie Cohen","-","10-3-0","0.769"
-"43","1981","Hallie Cohen","-","4-8-0","0.333"
-"44","1980","Hallie Cohen","-","5-6-0","0.455"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","FDU-Florham","221","2025","Bridget Rafter","D-III","MAC Freedom",0,0,0,0
+"2","FDU-Florham","221","2024","Bridget Rafter","D-III","MAC Freedom",18,18,0,0.5
+"3","FDU-Florham","221","2023","Bridget Rafter","D-III","MAC Freedom",15,16,0,0.484
+"4","FDU-Florham","221","2022","Bridget Rafter","D-III","MAC Freedom",12,15,0,0.444
+"5","FDU-Florham","221","2021","Bridget Rafter","D-III","MAC Freedom",5,18,0,0.217
+"6","FDU-Florham","221","2020","Dante Fedeli","D-III","MAC Freedom",0,12,0,0
+"7","FDU-Florham","221","2019","Dante Fedeli","D-III","MAC Freedom",15,19,1,0.443
+"8","FDU-Florham","221","2018","Dante Fedeli","D-III","MAC Freedom",19,18,NA,0.514
+"9","FDU-Florham","221","2017","Dante Fedeli","D-III","MAC Freedom",13,22,0,0.371
+"10","FDU-Florham","221","2016","Dante Fedeli","D-III","MAC Freedom",21,17,0,0.553
+"11","FDU-Florham","221","2015","Dante Fedeli","D-III","MAC Freedom",11,23,0,0.324
+"12","FDU-Florham","221","2014","Dante Fedeli","D-III","MAC Freedom",18,18,0,0.5
+"13","FDU-Florham","221","2013","Dante Fedeli","D-III","MAC Freedom",22,21,0,0.512
+"14","FDU-Florham","221","2012","Dante Fedeli","D-III","MAC Freedom",14,19,0,0.424
+"15","FDU-Florham","221","2011","Dante Fedeli","D-III","MAC Freedom",14,19,0,0.424
+"16","FDU-Florham","221","2010","Dante Fedeli","D-III","MAC Freedom",13,23,0,0.361
+"17","FDU-Florham","221","2009","Dante Fedeli","D-III","MAC Freedom",18,16,0,0.529
+"18","FDU-Florham","221","2008","Dante Fedeli","D-III","MAC Freedom",29,18,0,0.617
+"19","FDU-Florham","221","2007","Dante Fedeli","D-III","MAC Freedom",21,19,0,0.525
+"20","FDU-Florham","221","2006","Dante Fedeli","D-III","MAC Freedom",21,17,0,0.553
+"21","FDU-Florham","221","2005","Dante Fedeli","D-III","MAC Freedom",22,19,0,0.537
+"22","FDU-Florham","221","2004","Dante Fedeli","D-III","MAC Freedom",13,19,0,0.406
+"23","FDU-Florham","221","2003","Dante Fedeli","D-III","MAC Freedom",11,22,0,0.333
+"24","FDU-Florham","221","2002","Dante Fedeli","D-III","MAC Freedom",14,24,0,0.368
+"25","FDU-Florham","221","2001","Dante Fedeli","D-III","-",16,22,0,0.421
+"26","FDU-Florham","221","1900","Dante Fedeli","D-III","-",16,21,0,0.432
+"27","FDU-Florham","221","1999","Dawn Politz","D-III","-",22,14,NA,0.611
+"28","FDU-Florham","221","1998","Dawn Politz","D-III","-",27,11,NA,0.711
+"29","FDU-Florham","221","1997","Kathy Perri","D-III","-",20,16,NA,0.556
+"30","FDU-Florham","221","1996","Kathy Perri","D-III","-",11,15,NA,0.423
+"31","FDU-Florham","221","1995","Sharon Feeney","D-III","-",11,18,NA,0.379
+"32","FDU-Florham","221","1994","Hallie Cohen","D-III","-",14,17,NA,0.452
+"33","FDU-Florham","221","1993","Hallie Cohen","D-III","-",7,11,1,0.395
+"34","FDU-Florham","221","1992","Hallie Cohen","D-III","-",15,14,NA,0.517
+"35","FDU-Florham","221","1991","Hallie Cohen","D-III","-",14,15,NA,0.483
+"36","FDU-Florham","221","1990","Hallie Cohen","D-III","-",21,15,NA,0.583
+"37","FDU-Florham","221","1989","Hallie Cohen","D-III","-",14,8,NA,0.636
+"38","FDU-Florham","221","1988","Hallie Cohen","D-III","-",20,16,NA,0.556
+"39","FDU-Florham","221","1987","Hallie Cohen","D-III","-",20,12,NA,0.625
+"40","FDU-Florham","221","1986","Hallie Cohen","D-III","-",16,10,NA,0.615
+"41","FDU-Florham","221","1985","Hallie Cohen","D-III","-",17,8,NA,0.68
+"42","FDU-Florham","221","1984","Hallie Cohen","D-III","-",9,7,NA,0.563
+"43","FDU-Florham","221","1983","Hallie Cohen","D-III","-",9,5,NA,0.643
+"44","FDU-Florham","221","1982","Hallie Cohen","D-III","-",10,3,NA,0.769
+"45","FDU-Florham","221","1981","Hallie Cohen","D-III","-",4,8,NA,0.333
+"46","FDU-Florham","221","1980","Hallie Cohen","D-III","-",5,6,NA,0.455
+"47","FDU-Florham","221","","","","",677,704,2,0.49

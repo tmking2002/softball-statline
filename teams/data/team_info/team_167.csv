@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Julie Farlow","Ivy League","16-26-0",0.381
-"2",2022,"Julie Farlow","Ivy League","17-23-0",0.425
-"3",2021,"Julie Farlow","Ivy League","0-0-0",NA
-"4",2020,"Julie Farlow","Ivy League","4-5-0",0.444
-"5",2019,"Julie Farlow","Ivy League","10-36-0",0.217
-"6",2018,"Julie Farlow","Ivy League","15-25-0",0.375
-"7",2017,"Julie Farlow","Ivy League","13-28-1",0.317
-"8",2016,"Julie Farlow","Ivy League","9-32-0",0.22
-"9",2015,"Dick Blood","Ivy League","17-24-0",0.415
-"10",2014,"Dick Blood","Ivy League","18-26-0",0.409
-"11",2013,"Dick Blood","Ivy League","21-29-0",0.42
-"12",2012,"Dick Blood","Ivy League","25-23-0",0.521
-"13",2011,"Dick Blood","Ivy League","27-22-1",0.551
-"14",2010,"Dick Blood","Ivy League","37-15-0",0.712
-"15",2009,"Dick Blood","Ivy League","42-13-0",0.764
-"16",2008,"Dick Blood","Ivy League","40-10-0",0.8
-"17",2007,"Dick Blood","Ivy League","35-14-0",0.714
-"18",2006,"Dick Blood","Ivy League","32-23-0",0.582
-"19",2005,"Dick Blood","Ivy League","29-17-1",0.63
-"20",2004,"Dick Blood","Ivy League","42-13-0",0.764
-"21",2003,"Dick Blood","Ivy League","31-7-0",0.816
-"22",2002,"Dick Blood","Ivy League","31-22-0",0.585
-"23",2001,"Dick Blood","Ivy League","36-18-0",0.667
-"24",2000,"Dick Blood","Ivy League","30-16-0",0.652
-"25",1999,"Dick Blood","Ivy League","41-11-0",0.788
-"26",1998,"Dick Blood","-","37-9-0",0.804
-"27",1997,"Dick Blood","Ivy League","35-15-0",0.7
-"28",1996,"Dick Blood","-","17-20-0",0.459
-"29",1995,"Jim Johnston","-","6-35-1",0.146
-"30",1994,"Jim Johnston","-","10-31-0",0.244
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Julie Farlow","Ivy League","9-29-0",0.237
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cornell","167","2025","Julie Farlow","D-I","Ivy League",0,0,0,0
+"2","Cornell","167","2024","Julie Farlow","D-I","Ivy League",8,29,0,0.216
+"3","Cornell","167","2023","Julie Farlow","D-I","Ivy League",16,26,0,0.381
+"4","Cornell","167","2022","Julie Farlow","D-I","Ivy League",17,23,0,0.425
+"5","Cornell","167","2021","Julie Farlow","D-I","Ivy League",0,0,0,0
+"6","Cornell","167","2020","Julie Farlow","D-I","Ivy League",4,5,0,0.444
+"7","Cornell","167","2019","Julie Farlow","D-I","Ivy League",10,36,0,0.217
+"8","Cornell","167","2018","Julie Farlow","D-I","Ivy League",15,25,NA,0.375
+"9","Cornell","167","2017","Julie Farlow","D-I","Ivy League",13,28,1,0.321
+"10","Cornell","167","2016","Julie Farlow","D-I","Ivy League",9,32,0,0.22
+"11","Cornell","167","2015","Dick Blood","D-I","Ivy League",17,24,0,0.415
+"12","Cornell","167","2014","Dick Blood","D-I","Ivy League",18,26,0,0.409
+"13","Cornell","167","2013","Dick Blood","D-I","Ivy League",21,29,0,0.42
+"14","Cornell","167","2012","Dick Blood","D-I","Ivy League",25,23,0,0.521
+"15","Cornell","167","2011","Dick Blood","D-I","Ivy League",27,22,1,0.55
+"16","Cornell","167","2010","Dick Blood","D-I","Ivy League",37,15,0,0.712
+"17","Cornell","167","2009","Dick Blood","D-I","Ivy League",42,13,0,0.764
+"18","Cornell","167","2008","Dick Blood","D-I","Ivy League",40,10,0,0.8
+"19","Cornell","167","2007","Dick Blood","D-I","Ivy League",35,14,0,0.714
+"20","Cornell","167","2006","Dick Blood","D-I","Ivy League",32,23,0,0.582
+"21","Cornell","167","2005","Dick Blood","D-I","Ivy League",29,17,1,0.628
+"22","Cornell","167","2004","Dick Blood","D-I","Ivy League",42,13,0,0.764
+"23","Cornell","167","2003","Dick Blood","D-I","Ivy League",31,7,0,0.816
+"24","Cornell","167","2002","Dick Blood","D-I","Ivy League",31,22,0,0.585
+"25","Cornell","167","2001","Dick Blood","D-I","Ivy League",36,18,0,0.667
+"26","Cornell","167","1900","Dick Blood","D-I","Ivy League",30,16,0,0.652
+"27","Cornell","167","1999","Dick Blood","D-I","Ivy League",41,11,0,0.788
+"28","Cornell","167","1998","Dick Blood","D-I","-",37,9,0,0.804
+"29","Cornell","167","1997","Dick Blood","D-I","Ivy League",35,15,0,0.7
+"30","Cornell","167","1996","Dick Blood","D-I","-",17,20,0,0.459
+"31","Cornell","167","1995","Jim Johnston","D-I","-",6,35,1,0.155
+"32","Cornell","167","1994","Jim Johnston","D-I","-",10,31,NA,0.244
+"33","Cornell","167","1993","","","-",NA,NA,NA,NA
+"34","Cornell","167","1992","","","-",NA,NA,NA,NA
+"35","Cornell","167","1991","","","-",NA,NA,NA,NA
+"36","Cornell","167","1990","","","-",NA,NA,NA,NA
+"37","Cornell","167","1989","","","-",NA,NA,NA,NA
+"38","Cornell","167","1988","","","-",NA,NA,NA,NA
+"39","Cornell","167","1987","","","-",NA,NA,NA,NA
+"40","Cornell","167","1986","","","-",NA,NA,NA,NA
+"41","Cornell","167","1985","","","-",NA,NA,NA,NA
+"42","Cornell","167","1981","","","-",NA,NA,NA,NA
+"43","Cornell","167","","","","",731,617,4,0.542

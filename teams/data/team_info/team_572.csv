@@ -1,44 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Whitney Goldstein","Atlantic 10","23-31-1","0.426"
-"2","2022","Whitney Goldstein","Atlantic 10","11-35-0","0.239"
-"3","2021","Bridget Hurlman","Atlantic 10","5-22-0","0.185"
-"4","2020","Bridget Hurlman","Atlantic 10","4-16-0","0.200"
-"5","2019","Bridget Hurlman","Atlantic 10","17-29-0","0.370"
-"6","2018","Bridget Hurlman","Atlantic 10","12-35-0","0.255"
-"7","2017","Bridget Hurlman","Atlantic 10","11-33-0","0.250"
-"8","2016","Bridget Hurlman","Atlantic 10","12-32-0","0.273"
-"9","2015","Erin Layton","Atlantic 10","3-41-0","0.068"
-"10","2014","Erin Layton","Atlantic 10","13-32-1","0.289"
-"11","2013","Erin Layton","Atlantic 10","10-37-0","0.213"
-"12","2012","Erin Layton","Atlantic 10","21-32-1","0.396"
-"13","2011","Erin Layton","Atlantic 10","7-46-0","0.132"
-"14","2010","Erin Layton","Atlantic 10","19-35-0","0.352"
-"15","2009","Erin Layton","Atlantic 10","14-37-0","0.275"
-"16","2008","Deb Smith","Atlantic 10","14-38-0","0.269"
-"17","2007","Deb Smith","Atlantic 10","10-35-0","0.222"
-"18","2006","Deb Smith","Atlantic 10","20-27-0","0.426"
-"19","2005","Jill Cimminello (1-6)Christina Sutcliffe (7-29)","Atlantic 10","8-35-0","0.186"
-"20","2004","Christina Sutcliffe","Atlantic 10","15-31-0","0.326"
-"21","2003","Christina Sutcliffe","Atlantic 10","21-22-0","0.488"
-"22","2002","Kim Staehle","Atlantic 10","28-29-0","0.491"
-"23","2001","Kim Staehle","Atlantic 10","31-29-0","0.517"
-"24","2000","Kim Staehle","Atlantic 10","20-30-1","0.400"
-"25","1999","Melissa Jarrell","Atlantic 10","20-35-1","0.364"
-"26","1998","Melissa Jarrell","-","21-29-0","0.420"
-"27","1997","Melissa Jarrell","Atlantic 10","25-20-1","0.556"
-"28","1996","Melissa Jarrell","-","25-22-0","0.532"
-"29","1995","Melissa Jarrell","-","23-26-0","0.469"
-"30","1994","Melissa Jarrell","-","27-28-0","0.491"
-"31","1993","Melissa Jarrell","-","15-29-0","0.341"
-"32","1992","Sue Tougas","-","11-24-0","0.314"
-"33","1991","Sue Tougas","-","12-28-1","0.300"
-"34","1990","Sue Tougas","-","16-21-0","0.432"
-"35","1989","Sue Tougas","-","16-28-0","0.364"
-"36","1988","Sue Tougas","-","16-31-0","0.340"
-"37","1987","Sue Tougas","-","11-25-0","0.306"
-"38","1986","Sue Tougas","-","27-23-1","0.540"
-"39","1985","Sue Tougas","-","20-19-1","0.513"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","1982","","-","0-0-0","  NaN"
-"43","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rhode Island","572","2025","Mike Coutts","D-I","Atlantic 10",0,0,0,0
+"2","Rhode Island","572","2024","Whitney Goldstein","D-I","Atlantic 10",15,37,0,0.288
+"3","Rhode Island","572","2023","Whitney Goldstein","D-I","Atlantic 10",23,31,1,0.427
+"4","Rhode Island","572","2022","Whitney Goldstein","D-I","Atlantic 10",11,35,0,0.239
+"5","Rhode Island","572","2021","Bridget Hurlman","D-I","Atlantic 10",5,22,0,0.185
+"6","Rhode Island","572","2020","Bridget Hurlman","D-I","Atlantic 10",4,16,0,0.2
+"7","Rhode Island","572","2019","Bridget Hurlman","D-I","Atlantic 10",17,29,0,0.37
+"8","Rhode Island","572","2018","Bridget Hurlman","D-I","Atlantic 10",12,35,NA,0.255
+"9","Rhode Island","572","2017","Bridget Hurlman","D-I","Atlantic 10",11,33,0,0.25
+"10","Rhode Island","572","2016","Bridget Hurlman","D-I","Atlantic 10",12,32,0,0.273
+"11","Rhode Island","572","2015","Erin Layton","D-I","Atlantic 10",3,41,0,0.068
+"12","Rhode Island","572","2014","Erin Layton","D-I","Atlantic 10",13,32,1,0.293
+"13","Rhode Island","572","2013","Erin Layton","D-I","Atlantic 10",10,37,0,0.213
+"14","Rhode Island","572","2012","Erin Layton","D-I","Atlantic 10",23,32,1,0.42
+"15","Rhode Island","572","2011","Erin Layton","D-I","Atlantic 10",7,46,0,0.132
+"16","Rhode Island","572","2010","Erin Layton","D-I","Atlantic 10",19,35,0,0.352
+"17","Rhode Island","572","2009","Erin Layton","D-I","Atlantic 10",14,37,0,0.275
+"18","Rhode Island","572","2008","Deb Smith","D-I","Atlantic 10",14,38,0,0.269
+"19","Rhode Island","572","2007","Deb Smith","D-I","Atlantic 10",10,35,0,0.222
+"20","Rhode Island","572","2006","Deb Smith","D-I","Atlantic 10",20,27,0,0.426
+"21","Rhode Island","572","2005","Jill Cimminello (1-6)Christina Sutcliffe (7-29)","D-I","Atlantic 10",8,35,0,0.186
+"22","Rhode Island","572","2004","Christina Sutcliffe","D-I","Atlantic 10",15,31,0,0.326
+"23","Rhode Island","572","2003","Christina Sutcliffe","D-I","Atlantic 10",21,22,0,0.488
+"24","Rhode Island","572","2002","Kim Staehle","D-I","Atlantic 10",28,29,0,0.491
+"25","Rhode Island","572","2001","Kim Staehle","D-I","Atlantic 10",31,29,0,0.517
+"26","Rhode Island","572","1900","Kim Staehle","D-I","Atlantic 10",20,30,1,0.402
+"27","Rhode Island","572","1999","Melissa Jarrell","D-I","Atlantic 10",20,35,1,0.366
+"28","Rhode Island","572","1998","Melissa Jarrell","D-I","-",21,29,NA,0.42
+"29","Rhode Island","572","1997","Melissa Jarrell","D-I","Atlantic 10",25,20,1,0.554
+"30","Rhode Island","572","1996","Melissa Jarrell","D-I","-",25,22,NA,0.532
+"31","Rhode Island","572","1995","Melissa Jarrell","D-I","-",23,26,NA,0.469
+"32","Rhode Island","572","1994","Melissa Jarrell","D-I","-",27,28,NA,0.491
+"33","Rhode Island","572","1993","Melissa Jarrell","D-I","-",15,29,NA,0.341
+"34","Rhode Island","572","1992","Sue Tougas","D-I","-",11,24,NA,0.314
+"35","Rhode Island","572","1991","Sue Tougas","D-I","-",12,28,1,0.305
+"36","Rhode Island","572","1990","Sue Tougas","D-I","-",16,21,NA,0.432
+"37","Rhode Island","572","1989","Sue Tougas","D-I","-",16,28,NA,0.364
+"38","Rhode Island","572","1988","Sue Tougas","D-I","-",16,31,NA,0.34
+"39","Rhode Island","572","1987","Sue Tougas","D-I","-",11,25,NA,0.306
+"40","Rhode Island","572","1986","Sue Tougas","D-I","-",27,23,1,0.539
+"41","Rhode Island","572","1985","Sue Tougas","D-I","-",20,19,1,0.513
+"42","Rhode Island","572","1984","","D-I","-",NA,NA,NA,NA
+"43","Rhode Island","572","1983","","D-I","-",NA,NA,NA,NA
+"44","Rhode Island","572","1982","","D-I","-",NA,NA,NA,NA
+"45","Rhode Island","572","1981","","","-",NA,NA,NA,NA
+"46","Rhode Island","572","","","","",651,1194,9,0.354

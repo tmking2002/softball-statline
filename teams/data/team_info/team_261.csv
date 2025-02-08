@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Nakeya Hall","SWAC","33-22-1",0.6
-"2",2022,"Nakeya Hall","SWAC","23-24-0",0.489
-"3",2021,"Nakeya Hall","SWAC","13-18-0",0.419
-"4",2020,"Nakeya Hall","SWAC","3-15-0",0.167
-"5",2019,"Nakeya Hall","SWAC","16-23-0",0.41
-"6",2018,"Wilbert Early","SWAC","11-28-0",0.282
-"7",2017,"Wilbert Early","SWAC","13-32-0",0.289
-"8",2016,"Wilbert Early","SWAC","5-32-0",0.135
-"9",2015,"Wilbert Early","SWAC","9-29-0",0.237
-"10",2014,"Wilbert Early","SWAC","11-24-0",0.314
-"11",2013,"Wilbert Early","SWAC","11-35-0",0.239
-"12",2012,"Wilbert Early","SWAC","11-27-0",0.289
-"13",2011,"Wilbert Early","SWAC","11-26-0",0.297
-"14",2010,"Wilbert Early","SWAC","12-27-0",0.308
-"15",2009,"Wilbert Early","SWAC","20-27-0",0.426
-"16",2008,"Wilbert Early","SWAC","14-29-0",0.326
-"17",2007,"Wilbert Early","SWAC","3-34-0",0.081
-"18",2006,"Connie Garsee","SWAC","3-57-0",0.05
-"19",2005,"Connie Garsee","SWAC","3-66-0",0.043
-"20",2004,"Vanessa Johnson","SWAC","3-44-0",0.064
-"21",2003,"Vanessa Johnson","SWAC","8-39-0",0.17
-"22",2002,"Vanessa Johnson","SWAC","18-20-0",0.474
-"23",2001,"Vanessa Johnson","SWAC","31-18-0",0.633
-"24",2000,"Vanessa Johnson","SWAC","23-18-0",0.561
-"25",1999,"Vanessa Johnson","SWAC","19-24-0",0.442
-"26",1998,"Vanessa Johnson","-","18-23-0",0.439
-"27",1997,"Vanessa Johnson","SWAC","30-13-0",0.698
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Nakeya Hall","SWAC","12-33-0",0.267
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grambling","261","2025","Nakeya Hall","D-I","SWAC",0,0,0,0
+"2","Grambling","261","2024","Nakeya Hall","D-I","SWAC",14,31,0,0.311
+"3","Grambling","261","2023","Nakeya Hall","D-I","SWAC",33,22,1,0.598
+"4","Grambling","261","2022","Nakeya Hall","D-I","SWAC",23,24,0,0.489
+"5","Grambling","261","2021","Nakeya Hall","D-I","SWAC",13,18,0,0.419
+"6","Grambling","261","2020","Nakeya Hall","D-I","SWAC",3,15,0,0.167
+"7","Grambling","261","2019","Nakeya Hall","D-I","SWAC",16,23,0,0.41
+"8","Grambling","261","2018","Wilbert Early","D-I","SWAC",11,28,NA,0.282
+"9","Grambling","261","2017","Wilbert Early","D-I","SWAC",13,32,0,0.289
+"10","Grambling","261","2016","Wilbert Early","D-I","SWAC",5,32,0,0.135
+"11","Grambling","261","2015","Wilbert Early","D-I","SWAC",9,29,0,0.237
+"12","Grambling","261","2014","Wilbert Early","D-I","SWAC",11,24,0,0.314
+"13","Grambling","261","2013","Wilbert Early","D-I","SWAC",11,35,0,0.239
+"14","Grambling","261","2012","Wilbert Early","D-I","SWAC",11,27,0,0.289
+"15","Grambling","261","2011","Wilbert Early","D-I","SWAC",11,26,0,0.297
+"16","Grambling","261","2010","Wilbert Early","D-I","SWAC",12,27,0,0.308
+"17","Grambling","261","2009","Wilbert Early","D-I","SWAC",20,27,0,0.426
+"18","Grambling","261","2008","Wilbert Early","D-I","SWAC",14,29,0,0.326
+"19","Grambling","261","2007","Wilbert Early","D-I","SWAC",3,34,0,0.081
+"20","Grambling","261","2006","Connie Garsee","D-I","SWAC",3,57,0,0.05
+"21","Grambling","261","2005","Connie Garsee","D-I","SWAC",3,66,0,0.043
+"22","Grambling","261","2004","Vanessa Johnson","D-I","SWAC",3,44,0,0.064
+"23","Grambling","261","2003","Vanessa Johnson","D-I","SWAC",8,39,0,0.17
+"24","Grambling","261","2002","Vanessa Johnson","D-I","SWAC",18,20,0,0.474
+"25","Grambling","261","2001","Vanessa Johnson","D-I","SWAC",31,18,0,0.633
+"26","Grambling","261","1900","Vanessa Johnson","D-I","SWAC",23,18,0,0.561
+"27","Grambling","261","1999","Vanessa Johnson","D-I","SWAC",19,24,0,0.442
+"28","Grambling","261","1998","Vanessa Johnson","D-I","-",18,23,NA,0.439
+"29","Grambling","261","1997","Vanessa Johnson","D-I","SWAC",30,13,0,0.698
+"30","Grambling","261","1996","","D-I","-",NA,NA,NA,NA
+"31","Grambling","261","1995","","D-I","-",NA,NA,NA,NA
+"32","Grambling","261","1994","","D-I","-",NA,NA,NA,NA
+"33","Grambling","261","1993","","D-I","-",NA,NA,NA,NA
+"34","Grambling","261","1992","","D-I","-",NA,NA,NA,NA
+"35","Grambling","261","1991","","D-I","-",NA,NA,NA,NA
+"36","Grambling","261","1990","","D-I","-",NA,NA,NA,NA
+"37","Grambling","261","1989","","D-I","-",NA,NA,NA,NA
+"38","Grambling","261","1988","","D-I","-",NA,NA,NA,NA
+"39","Grambling","261","1987","","D-I","-",NA,NA,NA,NA
+"40","Grambling","261","1986","","D-I","-",NA,NA,NA,NA
+"41","Grambling","261","1985","","D-I","-",NA,NA,NA,NA
+"42","Grambling","261","","","","",389,805,1,0.326

@@ -1,21 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Shanon Hays","WAC","47-13-0","0.783"
-"2","2022","Shanon Hays","WAC","39-16-0","0.709"
-"3","2021","Ann Pierson","WAC","19-30-0","0.388"
-"4","2020","Ann Pierson","WAC","7-20-0","0.259"
-"5","2019","Ann Pierson","WAC","33-24-0","0.579"
-"6","2018","Ann Pierson","WAC","31-28-0","0.525"
-"7","2017","Ann Pierson","WAC","36-18-0","0.667"
-"8","2016","Ann Pierson","WAC","35-15-0","0.700"
-"9","2015","Ann Pierson","WAC","28-22-0","0.560"
-"10","2014","Ann Pierson","WAC","27-21-0","0.562"
-"11","2013","Ann Pierson","PacWest","40-19-0","0.678"
-"12","2012","Ann Pierson","PacWest","36-21-0","0.632"
-"13","2011","Ann Pierson","PacWest","22-25-0","0.468"
-"14","2010","Ann Pierson","PacWest","42-13-0","0.764"
-"15","2009","Ann Pierson","PacWest","37-27-0","0.578"
-"16","2008","Ann Pierson","PacWest","26-25-1","0.510"
-"17","2007","Ann Pierson","PacWest","22-26-0","0.458"
-"18","2006","Ann Pierson","-","26-29-0","0.473"
-"19","2005","Ann Pierson","-","16-29-2","0.356"
-"20","2004","Ann Pierson","CCAA","28-24-0","0.538"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grand Canyon","1104","2025","Shanon Hays","D-I","WAC",3,0,0,1
+"2","Grand Canyon","1104","2024","Shanon Hays","D-I","WAC",50,13,0,0.794
+"3","Grand Canyon","1104","2023","Shanon Hays","D-I","WAC",47,13,0,0.783
+"4","Grand Canyon","1104","2022","Shanon Hays","D-I","WAC",39,16,0,0.709
+"5","Grand Canyon","1104","2021","Ann Pierson","D-I","WAC",19,30,0,0.388
+"6","Grand Canyon","1104","2020","Ann Pierson","D-I","WAC",7,20,0,0.259
+"7","Grand Canyon","1104","2019","Ann Pierson","D-I","WAC",33,24,0,0.579
+"8","Grand Canyon","1104","2018","Ann Pierson","D-I","WAC",31,28,NA,0.525
+"9","Grand Canyon","1104","2017","Ann Pierson","D-I","WAC",36,18,0,0.667
+"10","Grand Canyon","1104","2016","Ann Pierson","D-I","WAC",35,15,0,0.7
+"11","Grand Canyon","1104","2015","Ann Pierson","D-I","WAC",28,22,0,0.56
+"12","Grand Canyon","1104","2014","Ann Pierson","D-I","WAC",27,21,0,0.563
+"13","Grand Canyon","1104","2013","Ann Pierson","D-II","PacWest",40,19,0,0.678
+"14","Grand Canyon","1104","2012","Ann Pierson","D-II","PacWest",36,21,0,0.632
+"15","Grand Canyon","1104","2011","Ann Pierson","D-II","PacWest",22,25,0,0.468
+"16","Grand Canyon","1104","2010","Ann Pierson","D-II","PacWest",42,13,0,0.764
+"17","Grand Canyon","1104","2009","Ann Pierson","D-II","PacWest",37,27,0,0.578
+"18","Grand Canyon","1104","2008","Ann Pierson","D-II","PacWest",26,25,1,0.51
+"19","Grand Canyon","1104","2007","Ann Pierson","D-II","PacWest",22,26,0,0.458
+"20","Grand Canyon","1104","2006","Ann Pierson","D-II","-",26,29,0,0.473
+"21","Grand Canyon","1104","2005","Ann Pierson","D-II","-",16,29,2,0.362
+"22","Grand Canyon","1104","2004","Ann Pierson","D-II","CCAA",28,24,0,0.538
+"23","Grand Canyon","1104","","","","",650,458,3,0.586

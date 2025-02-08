@@ -1,17 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2018",NA,"-","0-0-0",0
-"2","2017",NA,"-","0-0-0",NA
-"3","2016",NA,"-","0-0-0",NA
-"4","2015",NA,"-","0-0-0",NA
-"5","2013",NA,"-","0-0-0",NA
-"6","2012",NA,"-","0-0-0",NA
-"7","2011",NA,"-","0-0-0",NA
-"8","2010",NA,"-","0-0-0",NA
-"9","2009",NA,"-","0-0-0",NA
-"10","2008",NA,"-","0-0-0",NA
-"11","2007",NA,"-","0-0-0",NA
-"12","2006",NA,"-","0-0-0",NA
-"13","2005",NA,"-","0-0-0",NA
-"14","2004",NA,"-","0-0-0",NA
-"15","2003",NA,"-","0-0-0",NA
-"16","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mt. Vernon Naz.","503405","2018",NA,NA,"-",NA,NA,NA,0
+"2","Mt. Vernon Naz.","503405","2017",NA,NA,"-",NA,NA,NA,NA
+"3","Mt. Vernon Naz.","503405","2016",NA,NA,"-",NA,NA,NA,NA
+"4","Mt. Vernon Naz.","503405","2015",NA,NA,"-",NA,NA,NA,NA
+"5","Mt. Vernon Naz.","503405","2013",NA,NA,"-",NA,NA,NA,NA
+"6","Mt. Vernon Naz.","503405","2012",NA,NA,"-",NA,NA,NA,NA
+"7","Mt. Vernon Naz.","503405","2011",NA,NA,"-",NA,NA,NA,NA
+"8","Mt. Vernon Naz.","503405","2010",NA,NA,"-",NA,NA,NA,NA
+"9","Mt. Vernon Naz.","503405","2009",NA,NA,"-",NA,NA,NA,NA
+"10","Mt. Vernon Naz.","503405","2008",NA,NA,"-",NA,NA,NA,NA
+"11","Mt. Vernon Naz.","503405","2007",NA,NA,"-",NA,NA,NA,NA
+"12","Mt. Vernon Naz.","503405","2006",NA,NA,"-",NA,NA,NA,NA
+"13","Mt. Vernon Naz.","503405","2005",NA,NA,"-",NA,NA,NA,NA
+"14","Mt. Vernon Naz.","503405","2004",NA,NA,"-",NA,NA,NA,NA
+"15","Mt. Vernon Naz.","503405","2003",NA,NA,"-",NA,NA,NA,NA
+"16","Mt. Vernon Naz.","503405","2002",NA,NA,"-",NA,NA,NA,NA
+"17","Mt. Vernon Naz.","503405","",NA,NA,"",0,0,0,0

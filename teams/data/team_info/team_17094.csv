@@ -1,26 +1,28 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Charlie Dobbins","USA South","24-18-0",0.571
-"2",2022,"Charlie Dobbins","USA South","24-15-0",0.615
-"3",2021,"Charlie Dobbins","USA South","12-24-0",0.333
-"4",2020,"Charlie Dobbins","USA South","5-8-0",0.385
-"5",2019,"Charlie Dobbins","USA South","15-19-0",0.441
-"6",2018,"Charlie Dobbins","USA South","16-22-0",0.421
-"7",2017,"Charlie Dobbins","USA South","21-22-0",0.488
-"8",2016,"Charlie Dobbins","USA South","23-19-0",0.548
-"9",2015,"Charlie Dobbins","USA South","23-15-1",0.605
-"10",2014,"Charlie Dobbins","USA South","16-24-0",0.4
-"11",2013,"Charlie Dobbins","USA South","7-30-1",0.189
-"12",2012,"Charlie Dobbins","USA South","16-22-0",0.421
-"13",2011,"Charlie Dobbins","USA South","16-27-0",0.372
-"14",2010,"Charlie Dobbins","USA South","20-22-0",0.476
-"15",2009,"Charlie Dobbins","USA South","19-19-0",0.5
-"16",2008,"Charlie Dobbins","USA South","27-17-0",0.614
-"17",2007,"Charlie Dobbins","USA South","25-15-0",0.625
-"18",2006,"Charlie Dobbins","USA South","23-17-0",0.575
-"19",2005,"Charlie Dobbins","USA South","23-17-0",0.575
-"20",2004,"Charlie Dobbins","USA South","19-14-1",0.576
-"21",2003,"Charlie Dobbins","-","0-0-0",NA
-"22",2002,"Charlie Dobbins","-","0-0-0",NA
-"23",2001,"Charlie Dobbins","-","0-0-0",NA
-"24",2000,"Charlie Dobbins","-","0-0-0",NA
-"25",2024,"Charlie Dobbins","USA South","24-23-0",0.511
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","William Peace","17094","2025","Lauren Conway","D-III","USA South",0,0,0,0
+"2","William Peace","17094","2024","Charlie Dobbins","D-III","USA South",22,22,0,0.5
+"3","William Peace","17094","2023","Charlie Dobbins","D-III","USA South",24,18,0,0.571
+"4","William Peace","17094","2022","Charlie Dobbins","D-III","USA South",24,15,0,0.615
+"5","William Peace","17094","2021","Charlie Dobbins","D-III","USA South",12,24,0,0.333
+"6","William Peace","17094","2020","Charlie Dobbins","D-III","USA South",5,8,0,0.385
+"7","William Peace","17094","2019","Charlie Dobbins","D-III","USA South",15,19,0,0.441
+"8","William Peace","17094","2018","Charlie Dobbins","D-III","USA South",16,22,NA,0.421
+"9","William Peace","17094","2017","Charlie Dobbins","D-III","USA South",21,22,0,0.488
+"10","William Peace","17094","2016","Charlie Dobbins","D-III","USA South",23,19,0,0.548
+"11","William Peace","17094","2015","Charlie Dobbins","D-III","USA South",23,15,1,0.603
+"12","William Peace","17094","2014","Charlie Dobbins","D-III","USA South",16,24,0,0.4
+"13","William Peace","17094","2013","Charlie Dobbins","D-III","USA South",7,30,1,0.197
+"14","William Peace","17094","2012","Charlie Dobbins","D-III","USA South",16,22,0,0.421
+"15","William Peace","17094","2011","Charlie Dobbins","D-III","USA South",16,27,0,0.372
+"16","William Peace","17094","2010","Charlie Dobbins","D-III","USA South",20,22,0,0.476
+"17","William Peace","17094","2009","Charlie Dobbins","D-III","USA South",19,19,0,0.5
+"18","William Peace","17094","2008","Charlie Dobbins","D-III","USA South",27,17,0,0.614
+"19","William Peace","17094","2007","Charlie Dobbins","D-III","USA South",25,15,0,0.625
+"20","William Peace","17094","2006","Charlie Dobbins","D-III","USA South",23,17,0,0.575
+"21","William Peace","17094","2005","Charlie Dobbins","D-III","USA South",23,17,0,0.575
+"22","William Peace","17094","2004","Charlie Dobbins","D-III","USA South",19,14,1,0.574
+"23","William Peace","17094","2003","Charlie Dobbins","D-III","-",NA,NA,NA,NA
+"24","William Peace","17094","2002","Charlie Dobbins","D-III","-",NA,NA,NA,NA
+"25","William Peace","17094","2001","Charlie Dobbins","D-III","-",NA,NA,NA,NA
+"26","William Peace","17094","1900","Charlie Dobbins","","-",NA,NA,NA,NA
+"27","William Peace","17094","","","","",396,408,3,0.493

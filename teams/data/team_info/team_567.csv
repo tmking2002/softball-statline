@@ -1,40 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jose Ortega","SCIAC","27-17-0","0.614"
-"2","2022","Jose Ortega","SCIAC","24-14-0","0.632"
-"3","2021","Jose Ortega","SCIAC","14-7-0","0.667"
-"4","2020","Jose Ortega","SCIAC","11-4-0","0.733"
-"5","2019","Jose Ortega","SCIAC","16-24-0","0.400"
-"6","2018","Liz Neubinski","SCIAC","17-23-0","0.425"
-"7","2017","Liz Neubinski","SCIAC","14-26-0","0.350"
-"8","2016","Dani Spaulding","SCIAC","26-16-0","0.619"
-"9","2015","Dani Spaulding","SCIAC","19-21-0","0.475"
-"10","2014","Dani Spaulding","SCIAC","31-15-0","0.674"
-"11","2013","Laurie Nevarez","SCIAC","36-12-0","0.750"
-"12","2012","Laurie Nevarez","SCIAC","32-13-0","0.711"
-"13","2011","Laurie Nevarez","SCIAC","36-11-0","0.766"
-"14","2010","Laurie Nevarez","SCIAC","32-14-0","0.696"
-"15","2009","Laurie Nevarez","SCIAC","30-12-0","0.714"
-"16","2008","Laurie Nevarez","SCIAC","34-12-0","0.739"
-"17","2007","Laurie Nevarez","SCIAC","30-12-0","0.714"
-"18","2006","Laurie Nevarez","SCIAC","31-13-0","0.705"
-"19","2005","Laurie Nevarez","SCIAC","30-8-0","0.789"
-"20","2004","Laurie Nevarez","SCIAC","28-9-1","0.757"
-"21","2003","Amanda Peterson","SCIAC","20-18-0","0.526"
-"22","2002","Amanda Peterson","SCIAC","12-27-0","0.308"
-"23","2001","Steve Thornburgh","-","21-17-1","0.553"
-"24","2000","Steve Thornburgh","-","18-17-0","0.514"
-"25","1999","Steve Thornburgh","-","15-24-0","0.385"
-"26","1998","Steve Thornburgh","-","11-27-0","0.289"
-"27","1997","Steve Thornburgh","-","12-28-0","0.300"
-"28","1996","Steve Thornburgh","-","17-23-0","0.425"
-"29","1995","Cheryl Aschenbach","-","18-16-0","0.529"
-"30","1994","Teri Rupe","-","23-15-0","0.605"
-"31","1993","Debbie Harless","-","21-13-0","0.618"
-"32","1992","Debbie Harless","-","24-10-0","0.706"
-"33","1991","Debbie Harless","-","18-22-0","0.450"
-"34","1990","","-","0-0-0","  NaN"
-"35","1988","","-","0-0-0","  NaN"
-"36","1987","","-","0-0-0","  NaN"
-"37","1986","","-","0-0-0","  NaN"
-"38","1985","","-","0-0-0","  NaN"
-"39","1983","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Redlands","567","2025","Jose Ortega","D-III","SCIAC",0,0,0,0
+"2","Redlands","567","2024","Jose Ortega","D-III","SCIAC",33,14,0,0.702
+"3","Redlands","567","2023","Jose Ortega","D-III","SCIAC",27,17,0,0.614
+"4","Redlands","567","2022","Jose Ortega","D-III","SCIAC",24,14,0,0.632
+"5","Redlands","567","2021","Jose Ortega","D-III","SCIAC",14,7,0,0.667
+"6","Redlands","567","2020","Jose Ortega","D-III","SCIAC",11,4,0,0.733
+"7","Redlands","567","2019","Jose Ortega","D-III","SCIAC",16,24,0,0.4
+"8","Redlands","567","2018","Liz Neubinski","D-III","SCIAC",17,23,NA,0.425
+"9","Redlands","567","2017","Liz Neubinski","D-III","SCIAC",14,26,0,0.35
+"10","Redlands","567","2016","Dani Spaulding","D-III","SCIAC",26,16,0,0.619
+"11","Redlands","567","2015","Dani Spaulding","D-III","SCIAC",19,21,0,0.475
+"12","Redlands","567","2014","Dani Spaulding","D-III","SCIAC",31,15,0,0.674
+"13","Redlands","567","2013","Laurie Nevarez","D-III","SCIAC",36,12,0,0.75
+"14","Redlands","567","2012","Laurie Nevarez","D-III","SCIAC",32,13,0,0.711
+"15","Redlands","567","2011","Laurie Nevarez","D-III","SCIAC",36,11,0,0.766
+"16","Redlands","567","2010","Laurie Nevarez","D-III","SCIAC",32,14,0,0.696
+"17","Redlands","567","2009","Laurie Nevarez","D-III","SCIAC",30,12,0,0.714
+"18","Redlands","567","2008","Laurie Nevarez","D-III","SCIAC",34,12,0,0.739
+"19","Redlands","567","2007","Laurie Nevarez","D-III","SCIAC",30,12,0,0.714
+"20","Redlands","567","2006","Laurie Nevarez","D-III","SCIAC",31,13,0,0.705
+"21","Redlands","567","2005","Laurie Nevarez","D-III","SCIAC",30,8,0,0.789
+"22","Redlands","567","2004","Laurie Nevarez","D-III","SCIAC",28,9,1,0.75
+"23","Redlands","567","2003","Amanda Peterson","D-III","SCIAC",20,18,0,0.526
+"24","Redlands","567","2002","Amanda Peterson","D-III","SCIAC",12,27,0,0.308
+"25","Redlands","567","2001","Steve Thornburgh","D-III","-",21,17,1,0.551
+"26","Redlands","567","1900","Steve Thornburgh","D-III","-",18,17,NA,0.514
+"27","Redlands","567","1999","Steve Thornburgh","D-III","-",15,24,NA,0.385
+"28","Redlands","567","1998","Steve Thornburgh","D-III","-",11,27,NA,0.289
+"29","Redlands","567","1997","Steve Thornburgh","D-III","-",12,28,NA,0.3
+"30","Redlands","567","1996","Steve Thornburgh","D-III","-",17,23,NA,0.425
+"31","Redlands","567","1995","Cheryl Aschenbach","D-III","-",18,16,0,0.529
+"32","Redlands","567","1994","Teri Rupe","D-III","-",23,15,0,0.605
+"33","Redlands","567","1993","Debbie Harless","D-III","-",21,13,NA,0.618
+"34","Redlands","567","1992","Debbie Harless","","-",24,10,NA,0.706
+"35","Redlands","567","1991","Debbie Harless","D-III","-",18,22,NA,0.45
+"36","Redlands","567","1990","","D-III","-",NA,NA,NA,NA
+"37","Redlands","567","1988","","D-III","-",NA,NA,NA,NA
+"38","Redlands","567","1987","","D-III","-",NA,NA,NA,NA
+"39","Redlands","567","1986","","D-III","-",NA,NA,NA,NA
+"40","Redlands","567","1985","","D-III","-",NA,NA,NA,NA
+"41","Redlands","567","1983","","D-III","-",NA,NA,NA,NA
+"42","Redlands","567","","","","",781,554,2,0.585

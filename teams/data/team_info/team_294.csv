@@ -1,27 +1,29 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Andrew Rich","Big Sky","20-28-0",0.417
-"2",2022,"Andrew Rich","Big Sky","25-27-0",0.481
-"3",2021,"Cristal Brown","Big Sky","12-27-0",0.308
-"4",2020,"Cristal Brown","Big Sky","7-14-0",0.333
-"5",2019,"Candi Letts","Big Sky","20-27-0",0.426
-"6",2018,"Candi Letts","Big Sky","13-34-0",0.277
-"7",2017,"Candi Letts","Big Sky","18-27-0",0.4
-"8",2016,"Candi Letts","Big Sky","28-23-0",0.549
-"9",2015,"Julie Wright","Big Sky","34-18-0",0.654
-"10",2014,"Julie Wright","Big Sky","35-20-0",0.636
-"11",2013,"Julie Wright","Big Sky","29-23-0",0.558
-"12",2012,"Julie Wright","Pacific Coast Softball","12-36-0",0.25
-"13",2011,"Julie Wright","Pacific Coast Softball","16-32-0",0.333
-"14",2010,"Andrea Wilson","Pacific Coast Softball","14-39-0",0.264
-"15",2009,"Andrea Wilson","-","20-21-0",0.488
-"16",2008,"Larry Stocking","-","7-27-0",0.206
-"17",2007,"Larry Stocking","-","10-32-0",0.238
-"18",1983,"Mary Ann Kluge","-","18-8-0",0.692
-"19",1982,"Mary Ann Kluge","-","21-15-0",0.583
-"20",1981,"JoAnn Garavaglia","-","9-16-0",0.36
-"21",1980,"Ellen Margolis","-","8-20-0",0.286
-"22",1979,"Ellen Margolis","-","24-9-0",0.727
-"23",1978,"Ellen Margolis","-","19-10-0",0.655
-"24",1977,"Ellen Margolis","-","12-7-0",0.632
-"25",1976,"Ellen Margolis","-","2-11-0",0.154
-"26",2024,"Andrew Rich","Big Sky","25-27-0",0.481
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Idaho St.","294","2025","Andrew Rich","D-I","Big Sky",2,0,0,1
+"2","Idaho St.","294","2024","Andrew Rich","D-I","Big Sky",25,27,0,0.481
+"3","Idaho St.","294","2023","Andrew Rich","D-I","Big Sky",20,28,0,0.417
+"4","Idaho St.","294","2022","Andrew Rich","D-I","Big Sky",25,27,0,0.481
+"5","Idaho St.","294","2021","Cristal Brown","D-I","Big Sky",12,27,0,0.308
+"6","Idaho St.","294","2020","Cristal Brown","D-I","Big Sky",7,14,0,0.333
+"7","Idaho St.","294","2019","Candi Letts","D-I","Big Sky",20,27,0,0.426
+"8","Idaho St.","294","2018","Candi Letts","D-I","Big Sky",13,34,NA,0.277
+"9","Idaho St.","294","2017","Candi Letts","D-I","Big Sky",18,27,0,0.4
+"10","Idaho St.","294","2016","Candi Letts","D-I","Big Sky",28,23,0,0.549
+"11","Idaho St.","294","2015","Julie Wright","D-I","Big Sky",34,18,0,0.654
+"12","Idaho St.","294","2014","Julie Wright","D-I","Big Sky",35,20,0,0.636
+"13","Idaho St.","294","2013","Julie Wright","D-I","Big Sky",29,23,0,0.558
+"14","Idaho St.","294","2012","Julie Wright","D-I","Pacific Coast Softball",12,36,0,0.25
+"15","Idaho St.","294","2011","Julie Wright","D-I","Pacific Coast Softball",16,32,0,0.333
+"16","Idaho St.","294","2010","Andrea Wilson","D-I","Pacific Coast Softball",14,39,0,0.264
+"17","Idaho St.","294","2009","Andrea Wilson","D-I","-",20,21,0,0.488
+"18","Idaho St.","294","2008","Larry Stocking","D-I","-",7,27,0,0.206
+"19","Idaho St.","294","2007","Larry Stocking","D-I","-",10,32,0,0.238
+"20","Idaho St.","294","1983","Mary Ann Kluge","D-I","-",18,8,0,0.692
+"21","Idaho St.","294","1982","Mary Ann Kluge","D-I","-",21,15,0,0.583
+"22","Idaho St.","294","1981","JoAnn Garavaglia","","-",9,16,0,0.36
+"23","Idaho St.","294","1980","Ellen Margolis","","-",8,20,0,0.286
+"24","Idaho St.","294","1979","Ellen Margolis","","-",24,9,0,0.727
+"25","Idaho St.","294","1978","Ellen Margolis","","-",19,10,0,0.655
+"26","Idaho St.","294","1977","Ellen Margolis","","-",12,7,0,0.632
+"27","Idaho St.","294","1976","Ellen Margolis","","-",2,11,0,0.154
+"28","Idaho St.","294","","","","",460,578,0,0.443

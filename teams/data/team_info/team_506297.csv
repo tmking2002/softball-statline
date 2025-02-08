@@ -1,18 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
-"10","2014",NA,"-","0-0-0",NA
-"11","2013",NA,"-","0-0-0",NA
-"12","2012",NA,"-","0-0-0",NA
-"13","2011",NA,"-","0-0-0",NA
-"14","2010",NA,"-","0-0-0",NA
-"15","2009",NA,"-","0-0-0",NA
-"16","2008",NA,"-","0-0-0",NA
-"17","2007",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-Hazleton","506297","2025",NA,NA,"-",NA,NA,NA,0
+"2","Penn St.-Hazleton","506297","2024",NA,NA,"-",NA,NA,NA,0
+"3","Penn St.-Hazleton","506297","2023",NA,NA,"-",NA,NA,NA,0
+"4","Penn St.-Hazleton","506297","2022",NA,NA,"-",NA,NA,NA,0
+"5","Penn St.-Hazleton","506297","2020",NA,NA,"-",NA,NA,NA,0
+"6","Penn St.-Hazleton","506297","2019",NA,NA,"-",NA,NA,NA,0
+"7","Penn St.-Hazleton","506297","2018",NA,NA,"-",NA,NA,NA,0
+"8","Penn St.-Hazleton","506297","2017",NA,NA,"-",NA,NA,NA,NA
+"9","Penn St.-Hazleton","506297","2016",NA,NA,"-",NA,NA,NA,NA
+"10","Penn St.-Hazleton","506297","2015",NA,NA,"-",NA,NA,NA,NA
+"11","Penn St.-Hazleton","506297","2014",NA,NA,"-",NA,NA,NA,NA
+"12","Penn St.-Hazleton","506297","2013",NA,NA,"-",NA,NA,NA,NA
+"13","Penn St.-Hazleton","506297","2012",NA,NA,"-",NA,NA,NA,NA
+"14","Penn St.-Hazleton","506297","2011",NA,NA,"-",NA,NA,NA,NA
+"15","Penn St.-Hazleton","506297","2010",NA,NA,"-",NA,NA,NA,NA
+"16","Penn St.-Hazleton","506297","2009",NA,NA,"-",NA,NA,NA,NA
+"17","Penn St.-Hazleton","506297","2008",NA,NA,"-",NA,NA,NA,NA
+"18","Penn St.-Hazleton","506297","2007",NA,NA,"-",NA,NA,NA,NA
+"19","Penn St.-Hazleton","506297","",NA,NA,"",0,0,0,0

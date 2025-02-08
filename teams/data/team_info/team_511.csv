@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Matthew Cetin","Great Northeast","3-25-0",0.107
-"2",2022,"Matthew Cetin","Great Northeast","8-22-0",0.267
-"3",2021,"Matthew Cetin","Great Northeast","3-10-0",0.231
-"4",2020,"Craig Billings","Great Northeast","6-2-0",0.75
-"5",2019,"Mike Kemp","Great Northeast","14-15-0",0.483
-"6",2018,"Mike Kemp","Great Northeast","12-16-0",0.429
-"7",2017,"Julie Craig (0-10)Mike Kemp (15-11-1)","Great Northeast","15-21-1",0.417
-"8",2016,"Julie Craig","Great Northeast","17-19-0",0.472
-"9",2015,"Julie Craig","Great Northeast","10-19-0",0.345
-"10",2014,"Julie Craig","Great Northeast","15-18-0",0.455
-"11",2013,"Greg McGrath","Great Northeast","25-10-0",0.714
-"12",2012,"Greg McGrath","Great Northeast","21-16-0",0.568
-"13",2011,"Greg McGrath","Great Northeast","10-22-0",0.312
-"14",2010,"Greg McGrath","Great Northeast","12-23-0",0.343
-"15",2009,"Jackie Patts","Great Northeast","18-17-0",0.514
-"16",2008,"Jackie Patts","Great Northeast","17-17-0",0.5
-"17",2007,"Jackie Patts","Great Northeast","15-16-0",0.484
-"18",2006,"Dennis Tyner","Great Northeast","17-20-0",0.459
-"19",2005,"","Great Northeast","19-15-0",0.559
-"20",2004,"","Great Northeast","24-11-0",0.686
-"21",2003,"","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",2001,"","-","0-0-0",NA
-"24",2000,"","-","0-0-0",NA
-"25",1999,"Laura Merritt","-","19-17-0",0.528
-"26",1998,"Laura Merritt","-","12-11-0",0.522
-"27",1997,"Laura Merritt","-","16-8-1",0.667
-"28",1996,"Laura Merritt","-","13-6-0",0.684
-"29",1995,"Laura Merritt","-","16-5-0",0.762
-"30",1994,"Laura Merritt","-","4-13-0",0.235
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",2024,"Matthew Cetin","Great Northeast","5-22-0",0.185
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Norwich","511","2025","Jackie Patts","D-III","Great Northeast",0,0,0,0
+"2","Norwich","511","2024","Matthew Cetin","D-III","Great Northeast",6,22,0,0.214
+"3","Norwich","511","2023","Matthew Cetin","D-III","Great Northeast",3,25,0,0.107
+"4","Norwich","511","2022","Matthew Cetin","D-III","Great Northeast",8,22,0,0.267
+"5","Norwich","511","2021","Matthew Cetin","D-III","Great Northeast",3,10,0,0.231
+"6","Norwich","511","2020","Craig Billings","D-III","Great Northeast",6,2,0,0.75
+"7","Norwich","511","2019","Mike Kemp","D-III","Great Northeast",14,15,0,0.483
+"8","Norwich","511","2018","Mike Kemp","D-III","Great Northeast",12,16,NA,0.429
+"9","Norwich","511","2017","Julie Craig (0-10)Mike Kemp (15-11-1)","D-III","Great Northeast",15,21,1,0.419
+"10","Norwich","511","2016","Julie Craig","D-III","Great Northeast",17,19,0,0.472
+"11","Norwich","511","2015","Julie Craig","D-III","Great Northeast",10,19,0,0.345
+"12","Norwich","511","2014","Julie Craig","D-III","Great Northeast",15,18,0,0.455
+"13","Norwich","511","2013","Greg McGrath","D-III","Great Northeast",25,10,0,0.714
+"14","Norwich","511","2012","Greg McGrath","D-III","Great Northeast",21,16,0,0.568
+"15","Norwich","511","2011","Greg McGrath","D-III","Great Northeast",10,22,0,0.313
+"16","Norwich","511","2010","Greg McGrath","D-III","Great Northeast",12,23,0,0.343
+"17","Norwich","511","2009","Jackie Patts","D-III","Great Northeast",18,17,0,0.514
+"18","Norwich","511","2008","Jackie Patts","D-III","Great Northeast",17,17,0,0.5
+"19","Norwich","511","2007","Jackie Patts","D-III","Great Northeast",15,16,0,0.484
+"20","Norwich","511","2006","Dennis Tyner","D-III","Great Northeast",17,20,0,0.459
+"21","Norwich","511","2005","","D-III","Great Northeast",19,15,0,0.559
+"22","Norwich","511","2004","","D-III","Great Northeast",24,11,0,0.686
+"23","Norwich","511","2003","","","-",NA,NA,NA,NA
+"24","Norwich","511","2002","","D-III","-",NA,NA,NA,NA
+"25","Norwich","511","2001","","D-III","-",NA,NA,NA,NA
+"26","Norwich","511","1900","","D-III","-",NA,NA,NA,NA
+"27","Norwich","511","1999","Laura Merritt","D-III","-",19,17,NA,0.528
+"28","Norwich","511","1998","Laura Merritt","D-III","-",12,11,NA,0.522
+"29","Norwich","511","1997","Laura Merritt","D-III","-",16,8,1,0.66
+"30","Norwich","511","1996","Laura Merritt","D-III","-",13,6,NA,0.684
+"31","Norwich","511","1995","Laura Merritt","D-III","-",16,5,NA,0.762
+"32","Norwich","511","1994","Laura Merritt","D-III","-",4,13,NA,0.235
+"33","Norwich","511","1993","","D-III","-",NA,NA,NA,NA
+"34","Norwich","511","1992","","D-III","-",NA,NA,NA,NA
+"35","Norwich","511","1991","","D-III","-",NA,NA,NA,NA
+"36","Norwich","511","1990","","D-III","-",NA,NA,NA,NA
+"37","Norwich","511","1989","","D-III","-",NA,NA,NA,NA
+"38","Norwich","511","1988","","D-III","-",NA,NA,NA,NA
+"39","Norwich","511","","","","",367,416,2,0.469

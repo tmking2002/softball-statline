@@ -1,16 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024","","-","NA-NA-NA",0
-"2","2021","Jessica Pistole","-","0-0-0",0
-"3","2020","Jessica Pistole","-","0-0-0",0
-"4","2019","Jessica Pistole","-","52-8-0",0.867
-"5","2018","Jessica Pistole","-","51-15-0",0.773
-"6","2017","Jessica Pistole","-","46-15-0",0.754
-"7","2016","Jessica Pistole","-","37-18-0",0.673
-"8","2015","Jessica Pistole","-","33-26-0",0.559
-"9","2012","","-","0-0-0",NA
-"10","2009","","-","0-0-0",NA
-"11","2007","","-","0-0-0",NA
-"12","2006","","-","0-0-0",NA
-"13","2005","","-","0-0-0",NA
-"14","2004","","-","0-0-0",NA
-"15","2003","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Southern Ore.","506027","2025","",NA,"-",NA,NA,NA,0
+"2","Southern Ore.","506027","2024","",NA,"-",NA,NA,NA,0
+"3","Southern Ore.","506027","2021","Jessica Pistole",NA,"-",NA,NA,NA,0
+"4","Southern Ore.","506027","2020","Jessica Pistole",NA,"-",NA,NA,NA,0
+"5","Southern Ore.","506027","2019","Jessica Pistole",NA,"-",52,8,0,0.867
+"6","Southern Ore.","506027","2018","Jessica Pistole",NA,"-",51,15,0,0.773
+"7","Southern Ore.","506027","2017","Jessica Pistole",NA,"-",46,15,0,0.754
+"8","Southern Ore.","506027","2016","Jessica Pistole",NA,"-",37,18,0,0.673
+"9","Southern Ore.","506027","2015","Jessica Pistole",NA,"-",33,26,0,0.559
+"10","Southern Ore.","506027","2012","",NA,"-",NA,NA,NA,NA
+"11","Southern Ore.","506027","2009","",NA,"-",NA,NA,NA,NA
+"12","Southern Ore.","506027","2007","",NA,"-",NA,NA,NA,NA
+"13","Southern Ore.","506027","2006","",NA,"-",NA,NA,NA,NA
+"14","Southern Ore.","506027","2005","",NA,"-",NA,NA,NA,NA
+"15","Southern Ore.","506027","2004","",NA,"-",NA,NA,NA,NA
+"16","Southern Ore.","506027","2003","",NA,"-",NA,NA,NA,NA
+"17","Southern Ore.","506027","","",NA,"",219,82,0,0.728

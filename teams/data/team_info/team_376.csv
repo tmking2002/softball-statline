@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jody Gabriel","MIAC","15-22-0",0.405
-"2",2022,"Jody Gabriel","MIAC","15-23-0",0.395
-"3",2021,"Jody Gabriel","MIAC","6-14-0",0.3
-"4",2020,"Jody Gabriel","MIAC","4-2-0",0.667
-"5",2019,"Jody Gabriel","MIAC","16-24-0",0.4
-"6",2018,"Jody Gabriel","MIAC","11-29-0",0.275
-"7",2017,"Jody Gabriel","MIAC","19-21-0",0.475
-"8",2016,"Jody Gabriel","MIAC","13-27-0",0.325
-"9",2015,"Jody Gabriel","MIAC","19-20-0",0.487
-"10",2014,"Jody Gabriel","MIAC","20-20-0",0.5
-"11",2013,"Jody Gabriel","MIAC","13-27-0",0.325
-"12",2012,"Jody Gabriel","MIAC","20-18-0",0.526
-"13",2011,"Tom Cross","MIAC","8-30-0",0.211
-"14",2010,"Tom Cross","MIAC","8-32-0",0.2
-"15",2009,"Tom Cross","MIAC","10-28-0",0.263
-"16",2008,"Tom Cross","MIAC","10-24-0",0.294
-"17",2007,"Tom Cross","MIAC","10-28-0",0.263
-"18",2006,"Tom Cross","MIAC","3-33-0",0.083
-"19",2005,"Tom Cross","MIAC","3-35-0",0.079
-"20",2004,"Tom Cross","MIAC","7-27-1",0.206
-"21",2003,"Maribeth Clifford","MIAC","12-25-0",0.324
-"22",2002,"Tina Johnson","MIAC","2-32-0",0.059
-"23",2001,"Tina Johnson","-","3-31-1",0.088
-"24",2000,"","-","0-0-0",NA
-"25",1999,"Tina Johnson","-","18-25-1",0.419
-"26",1998,"Jen Scanlon","-","10-27-0",0.27
-"27",1997,"Joel Kaden","-","22-17-0",0.564
-"28",1996,"Joel Kaden","-","26-11-0",0.703
-"29",1995,"Joel Kaden","-","21-15-0",0.583
-"30",1994,"Joel Kaden","-","16-16-0",0.5
-"31",1993,"Joel Kaden","-","8-25-0",0.242
-"32",1992,"Joel Kaden","-","8-16-0",0.333
-"33",1991,"Terri Savoye","-","4-18-0",0.182
-"34",1990,"John Hershey","-","7-16-0",0.304
-"35",1989,"John Hershey","-","9-17-0",0.346
-"36",1988,"John Hershey","-","10-14-0",0.417
-"37",1987,"John Hershey","-","12-16-0",0.429
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",2024,"Jody Gabriel","MIAC","25-17-0",0.595
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Macalester","376","2025","Jody Gabriel","D-III","MIAC",0,0,0,0
+"2","Macalester","376","2024","Jody Gabriel","D-III","MIAC",25,16,0,0.61
+"3","Macalester","376","2023","Jody Gabriel","D-III","MIAC",15,22,0,0.405
+"4","Macalester","376","2022","Jody Gabriel","D-III","MIAC",15,23,0,0.395
+"5","Macalester","376","2021","Jody Gabriel","D-III","MIAC",6,14,0,0.3
+"6","Macalester","376","2020","Jody Gabriel","D-III","MIAC",4,2,0,0.667
+"7","Macalester","376","2019","Jody Gabriel","D-III","MIAC",16,24,0,0.4
+"8","Macalester","376","2018","Jody Gabriel","D-III","MIAC",11,29,NA,0.275
+"9","Macalester","376","2017","Jody Gabriel","D-III","MIAC",19,21,0,0.475
+"10","Macalester","376","2016","Jody Gabriel","D-III","MIAC",13,27,0,0.325
+"11","Macalester","376","2015","Jody Gabriel","D-III","MIAC",19,20,0,0.487
+"12","Macalester","376","2014","Jody Gabriel","D-III","MIAC",20,20,0,0.5
+"13","Macalester","376","2013","Jody Gabriel","D-III","MIAC",13,27,0,0.325
+"14","Macalester","376","2012","Jody Gabriel","D-III","MIAC",20,18,0,0.526
+"15","Macalester","376","2011","Tom Cross","D-III","MIAC",8,30,0,0.211
+"16","Macalester","376","2010","Tom Cross","D-III","MIAC",8,32,0,0.2
+"17","Macalester","376","2009","Tom Cross","D-III","MIAC",10,28,0,0.263
+"18","Macalester","376","2008","Tom Cross","D-III","MIAC",10,24,0,0.294
+"19","Macalester","376","2007","Tom Cross","D-III","MIAC",10,28,0,0.263
+"20","Macalester","376","2006","Tom Cross","D-III","MIAC",3,33,0,0.083
+"21","Macalester","376","2005","Tom Cross","D-III","MIAC",3,35,0,0.079
+"22","Macalester","376","2004","Tom Cross","D-III","MIAC",7,27,1,0.214
+"23","Macalester","376","2003","Maribeth Clifford","D-III","MIAC",12,25,0,0.324
+"24","Macalester","376","2002","Tina Johnson","D-III","MIAC",2,32,0,0.059
+"25","Macalester","376","2001","Tina Johnson","D-III","-",3,31,1,0.1
+"26","Macalester","376","1900","","D-III","-",NA,NA,NA,NA
+"27","Macalester","376","1999","Tina Johnson","D-III","-",18,25,1,0.42
+"28","Macalester","376","1998","Jen Scanlon","D-III","-",10,27,NA,0.27
+"29","Macalester","376","1997","Joel Kaden","D-III","-",22,17,NA,0.564
+"30","Macalester","376","1996","Joel Kaden","D-III","-",26,11,NA,0.703
+"31","Macalester","376","1995","Joel Kaden","D-III","-",21,15,NA,0.583
+"32","Macalester","376","1994","Joel Kaden","D-III","-",16,16,NA,0.5
+"33","Macalester","376","1993","Joel Kaden","D-III","-",8,25,NA,0.242
+"34","Macalester","376","1992","Joel Kaden","D-III","-",8,16,NA,0.333
+"35","Macalester","376","1991","Terri Savoye","D-III","-",4,18,NA,0.182
+"36","Macalester","376","1990","John Hershey","D-III","-",7,16,NA,0.304
+"37","Macalester","376","1989","John Hershey","D-III","-",9,17,NA,0.346
+"38","Macalester","376","1988","John Hershey","D-III","-",10,14,NA,0.417
+"39","Macalester","376","1987","John Hershey","D-III","-",12,16,NA,0.429
+"40","Macalester","376","1986","","D-III","-",NA,NA,NA,NA
+"41","Macalester","376","1985","","D-III","-",NA,NA,NA,NA
+"42","Macalester","376","","","","",443,821,3,0.351

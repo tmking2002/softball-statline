@@ -1,18 +1,21 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2002","","-","0-0-0","  NaN"
-"2","2001","","-","0-0-0","  NaN"
-"3","2000","","-","0-0-0","  NaN"
-"4","1999","","-","0-0-0","  NaN"
-"5","1998","","-","0-0-0","  NaN"
-"6","1997","","-","0-0-0","  NaN"
-"7","1996","","-","0-0-0","  NaN"
-"8","1995","","-","0-0-0","  NaN"
-"9","1994","","-","0-0-0","  NaN"
-"10","1993","Jill Butcher","-","10-17-0","0.370"
-"11","1992","Jill Butcher","-","1-7-0","0.125"
-"12","1991","Jill Butcher","-","6-14-0","0.300"
-"13","1990","Jill Butcher","-","4-21-0","0.160"
-"14","1989","","-","0-0-0","  NaN"
-"15","1988","","-","0-0-0","  NaN"
-"16","1987","","-","0-0-0","  NaN"
-"17","1986","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Earlham","195","2025","Stacey Goyette","D-III","HCAC",0,0,0,0
+"2","Earlham","195","2024","Stacey Goyette","D-III","HCAC",15,26,0,0.366
+"3","Earlham","195","2002","","D-III","-",NA,NA,NA,NA
+"4","Earlham","195","2001","","D-III","-",NA,NA,NA,NA
+"5","Earlham","195","1900","","D-III","-",NA,NA,NA,NA
+"6","Earlham","195","1999","","D-III","-",NA,NA,NA,NA
+"7","Earlham","195","1998","","D-III","-",NA,NA,NA,NA
+"8","Earlham","195","1997","","D-III","-",NA,NA,NA,NA
+"9","Earlham","195","1996","","D-III","-",NA,NA,NA,NA
+"10","Earlham","195","1995","","D-III","-",NA,NA,NA,NA
+"11","Earlham","195","1994","","D-III","-",NA,NA,NA,NA
+"12","Earlham","195","1993","Jill Butcher","D-III","-",10,17,NA,0.37
+"13","Earlham","195","1992","Jill Butcher","D-III","-",1,7,NA,0.125
+"14","Earlham","195","1991","Jill Butcher","D-III","-",6,14,NA,0.3
+"15","Earlham","195","1990","Jill Butcher","D-III","-",4,21,NA,0.16
+"16","Earlham","195","1989","","D-III","-",NA,NA,NA,NA
+"17","Earlham","195","1988","","D-III","-",NA,NA,NA,NA
+"18","Earlham","195","1987","","D-III","-",NA,NA,NA,NA
+"19","Earlham","195","1986","","D-III","-",NA,NA,NA,NA
+"20","Earlham","195","","","","",36,85,0,0.298

@@ -1,33 +1,35 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jane Worthington","ASUN","28-24-0",0.538
-"2",2022,"Jane Worthington","ASUN","13-36-0",0.265
-"3",2021,"Jane Worthington","OVC","35-17-0",0.673
-"4",2020,"Jane Worthington","OVC","22-2-0",0.917
-"5",2019,"Jane Worthington","OVC","35-22-0",0.614
-"6",2018,"Jane Worthington","OVC","45-21-0",0.682
-"7",2017,"Jane Worthington","OVC","27-31-0",0.466
-"8",2016,"Jane Worthington","OVC","37-17-0",0.685
-"9",2015,"Jane Worthington","OVC","24-28-0",0.462
-"10",2014,"Jane Worthington","OVC","29-22-0",0.569
-"11",2013,"Jane Worthington","OVC","36-20-0",0.643
-"12",2012,"Jane Worthington","OVC","27-30-0",0.474
-"13",2011,"Jane Worthington","OVC","24-27-0",0.471
-"14",2010,"Jane Worthington","OVC","15-34-0",0.306
-"15",2009,"Jane Worthington","OVC","17-27-0",0.386
-"16",2008,"Jane Worthington","OVC","28-22-0",0.56
-"17",2007,"Jane Worthington","OVC","24-31-0",0.436
-"18",2006,"Jane Worthington","OVC","33-29-0",0.532
-"19",2005,"Jane Worthington","OVC","22-30-0",0.423
-"20",2004,"Jane Worthington","OVC","42-17-0",0.712
-"21",2003,"Jane Worthington","OVC","29-18-0",0.617
-"22",2002,"Jane Worthington","OVC","37-14-0",0.725
-"23",2001,"Jane Worthington","OVC","41-17-0",0.707
-"24",2000,"Jane Worthington","OVC","26-34-0",0.433
-"25",1999,"Jane Worthington","OVC","23-31-0",0.426
-"26",1998,"Jane Worthington","-","38-19-0",0.667
-"27",1997,"Jane Worthington","OVC","23-29-0",0.442
-"28",1996,"Jane Worthington","-","18-35-0",0.34
-"29",1995,"Jane Worthington","-","31-29-0",0.517
-"30",1994,"Jane Worthington","-","26-28-0",0.481
-"31",1993,"Jane Worthington","-","11-26-0",0.297
-"32",2024,"Jane Worthington","ASUN","42-10-0",0.808
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Eastern Ky.","202","2025","Jane Worthington","D-I","ASUN",2,0,0,1
+"2","Eastern Ky.","202","2024","Jane Worthington","D-I","ASUN",42,10,0,0.808
+"3","Eastern Ky.","202","2023","Jane Worthington","D-I","ASUN",28,24,0,0.538
+"4","Eastern Ky.","202","2022","Jane Worthington","D-I","ASUN",13,36,0,0.265
+"5","Eastern Ky.","202","2021","Jane Worthington","D-I","OVC",35,17,0,0.673
+"6","Eastern Ky.","202","2020","Jane Worthington","D-I","OVC",22,2,0,0.917
+"7","Eastern Ky.","202","2019","Jane Worthington","D-I","OVC",35,22,0,0.614
+"8","Eastern Ky.","202","2018","Jane Worthington","D-I","OVC",45,21,NA,0.682
+"9","Eastern Ky.","202","2017","Jane Worthington","D-I","OVC",27,31,0,0.466
+"10","Eastern Ky.","202","2016","Jane Worthington","D-I","OVC",37,17,0,0.685
+"11","Eastern Ky.","202","2015","Jane Worthington","D-I","OVC",24,28,0,0.462
+"12","Eastern Ky.","202","2014","Jane Worthington","D-I","OVC",29,22,0,0.569
+"13","Eastern Ky.","202","2013","Jane Worthington","D-I","OVC",36,20,0,0.643
+"14","Eastern Ky.","202","2012","Jane Worthington","D-I","OVC",27,30,0,0.474
+"15","Eastern Ky.","202","2011","Jane Worthington","D-I","OVC",24,27,0,0.471
+"16","Eastern Ky.","202","2010","Jane Worthington","D-I","OVC",15,34,0,0.306
+"17","Eastern Ky.","202","2009","Jane Worthington","D-I","OVC",17,27,0,0.386
+"18","Eastern Ky.","202","2008","Jane Worthington","D-I","OVC",28,22,0,0.56
+"19","Eastern Ky.","202","2007","Jane Worthington","D-I","OVC",24,31,0,0.436
+"20","Eastern Ky.","202","2006","Jane Worthington","D-I","OVC",33,29,0,0.532
+"21","Eastern Ky.","202","2005","Jane Worthington","D-I","OVC",22,30,0,0.423
+"22","Eastern Ky.","202","2004","Jane Worthington","D-I","OVC",42,17,0,0.712
+"23","Eastern Ky.","202","2003","Jane Worthington","D-I","OVC",29,18,0,0.617
+"24","Eastern Ky.","202","2002","Jane Worthington","D-I","OVC",37,14,0,0.725
+"25","Eastern Ky.","202","2001","Jane Worthington","D-I","OVC",41,17,0,0.707
+"26","Eastern Ky.","202","1900","Jane Worthington","D-I","OVC",26,34,0,0.433
+"27","Eastern Ky.","202","1999","Jane Worthington","D-I","OVC",23,31,0,0.426
+"28","Eastern Ky.","202","1998","Jane Worthington","D-I","-",38,19,NA,0.667
+"29","Eastern Ky.","202","1997","Jane Worthington","D-I","OVC",23,29,0,0.442
+"30","Eastern Ky.","202","1996","Jane Worthington","D-I","-",18,35,NA,0.34
+"31","Eastern Ky.","202","1995","Jane Worthington","D-I","-",31,29,NA,0.517
+"32","Eastern Ky.","202","1994","Jane Worthington","D-I","-",26,28,NA,0.481
+"33","Eastern Ky.","202","1993","Jane Worthington","D-I","-",11,26,NA,0.297
+"34","Eastern Ky.","202","","","","",910,777,0,0.539

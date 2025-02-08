@@ -1,9 +1,11 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tammy Silveira","Great Northeast","5-28-1",0.152
-"2",2022,"Tammy Silveira","Great Northeast","6-24-0",0.2
-"3",2021,"Tammy Silveira","Great Northeast","2-8-0",0.2
-"4",2020,"Alyssa Krause","NECC","4-4-0",0.5
-"5",2019,"Alyssa Krause","-","10-27-0",0.27
-"6",2018,"Alyssa Krause","-","8-26-0",0.235
-"7",2017,"Alyssa Krause","-","11-13-0",0.458
-"8",2024,"Tammy Silveira","Great Northeast","1-29-0",0.033
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Dean","30219","2025","Tammy Silveira","D-III","Great Northeast",0,0,0,0
+"2","Dean","30219","2024","Tammy Silveira","D-III","Great Northeast",3,29,0,0.094
+"3","Dean","30219","2023","Tammy Silveira","D-III","Great Northeast",5,28,1,0.162
+"4","Dean","30219","2022","Tammy Silveira","D-III","Great Northeast",6,24,0,0.2
+"5","Dean","30219","2021","Tammy Silveira","D-III","Great Northeast",2,8,0,0.2
+"6","Dean","30219","2020","Alyssa Krause","D-III","NECC",4,4,0,0.5
+"7","Dean","30219","2019","Alyssa Krause","","-",10,27,NA,0.27
+"8","Dean","30219","2018","Alyssa Krause","","-",8,26,NA,0.235
+"9","Dean","30219","2017","Alyssa Krause","","-",11,13,0,0.458
+"10","Dean","30219","","","","",49,159,1,0.237

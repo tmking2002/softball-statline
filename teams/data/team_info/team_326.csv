@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","19-19-0",0.5
-"2",2022,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","21-13-0",0.618
-"3",2021,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","10-23-0",0.303
-"4",2020,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","1-1-0",0.5
-"5",2019,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","13-22-0",0.371
-"6",2018,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","11-27-0",0.289
-"7",2017,"Mel Rushing","Michigan Intercol. Ath. Assn.","13-21-0",0.382
-"8",2016,"Mel Rushing","Michigan Intercol. Ath. Assn.","11-24-0",0.314
-"9",2015,"Mel Rushing","Michigan Intercol. Ath. Assn.","9-23-0",0.281
-"10",2014,"Sue Mattice","Michigan Intercol. Ath. Assn.","9-21-0",0.3
-"11",2013,"Sue Mattice","Michigan Intercol. Ath. Assn.","6-20-0",0.231
-"12",2012,"Ritch Harrison","Michigan Intercol. Ath. Assn.","2-28-0",0.067
-"13",2011,"Brian De Witt","Michigan Intercol. Ath. Assn.","3-27-0",0.1
-"14",2010,"Brian De Witt","Michigan Intercol. Ath. Assn.","0-22-0",0
-"15",2009,"","Michigan Intercol. Ath. Assn.","0-0-0",NA
-"16",2008,"Mike Garoutte","Michigan Intercol. Ath. Assn.","3-27-0",0.1
-"17",2007,"Heather Wheaton","Michigan Intercol. Ath. Assn.","4-23-0",0.148
-"18",2006,"Heather Wheaton","Michigan Intercol. Ath. Assn.","6-26-0",0.188
-"19",2005,"Jason Porter","Michigan Intercol. Ath. Assn.","3-29-0",0.094
-"20",2004,"Tracy Ciucci","Michigan Intercol. Ath. Assn.","5-26-0",0.161
-"21",2003,"Tracy Ciucci","Michigan Intercol. Ath. Assn.","6-25-0",0.194
-"22",2002,"Tracy Ciucci","Michigan Intercol. Ath. Assn.","10-20-0",0.333
-"23",2001,"Kim Worden","-","12-24-1",0.333
-"24",2000,"Brittney Cannavino","-","7-19-0",0.269
-"25",1999,"Brittney Cannavino","-","6-22-0",0.214
-"26",1998,"Kristen Smith","-","12-18-0",0.4
-"27",1997,"Kristen Smith","-","11-23-0",0.324
-"28",1996,"Laura Kuhlman","-","14-18-0",0.438
-"29",1995,"Laura Kuhlman","-","12-23-0",0.343
-"30",1994,"Laura Kuhlman","-","6-29-0",0.171
-"31",1993,"Laura Kuhlman","-","5-14-0",0.263
-"32",1992,"Laura Kuhlman","-","10-14-0",0.417
-"33",1991,"Laura Kuhlman","-","9-13-0",0.409
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",2024,"Kelli Duimstra","Michigan Intercol. Ath. Assn.","12-18-0",0.4
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Kalamazoo","326","2025","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","Kalamazoo","326","2024","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",13,21,0,0.382
+"3","Kalamazoo","326","2023","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",19,19,0,0.5
+"4","Kalamazoo","326","2022","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",21,13,0,0.618
+"5","Kalamazoo","326","2021","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",10,23,0,0.303
+"6","Kalamazoo","326","2020","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",1,1,0,0.5
+"7","Kalamazoo","326","2019","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",13,22,0,0.371
+"8","Kalamazoo","326","2018","Kelli Duimstra","D-III","Michigan Intercol. Ath. Assn.",11,27,NA,0.289
+"9","Kalamazoo","326","2017","Mel Rushing","D-III","Michigan Intercol. Ath. Assn.",13,21,0,0.382
+"10","Kalamazoo","326","2016","Mel Rushing","D-III","Michigan Intercol. Ath. Assn.",11,24,0,0.314
+"11","Kalamazoo","326","2015","Mel Rushing","D-III","Michigan Intercol. Ath. Assn.",9,23,0,0.281
+"12","Kalamazoo","326","2014","Sue Mattice","D-III","Michigan Intercol. Ath. Assn.",9,21,0,0.3
+"13","Kalamazoo","326","2013","Sue Mattice","D-III","Michigan Intercol. Ath. Assn.",6,20,0,0.231
+"14","Kalamazoo","326","2012","Ritch Harrison","D-III","Michigan Intercol. Ath. Assn.",2,28,0,0.067
+"15","Kalamazoo","326","2011","Brian De Witt","D-III","Michigan Intercol. Ath. Assn.",3,27,0,0.1
+"16","Kalamazoo","326","2010","Brian De Witt","D-III","Michigan Intercol. Ath. Assn.",0,22,0,0
+"17","Kalamazoo","326","2009","","","Michigan Intercol. Ath. Assn.",NA,NA,NA,NA
+"18","Kalamazoo","326","2008","Mike Garoutte","D-III","Michigan Intercol. Ath. Assn.",3,27,0,0.1
+"19","Kalamazoo","326","2007","Heather Wheaton","D-III","Michigan Intercol. Ath. Assn.",4,23,0,0.148
+"20","Kalamazoo","326","2006","Heather Wheaton","D-III","Michigan Intercol. Ath. Assn.",6,26,0,0.188
+"21","Kalamazoo","326","2005","Jason Porter","D-III","Michigan Intercol. Ath. Assn.",3,29,0,0.094
+"22","Kalamazoo","326","2004","Tracy Ciucci","D-III","Michigan Intercol. Ath. Assn.",5,26,0,0.161
+"23","Kalamazoo","326","2003","Tracy Ciucci","D-III","Michigan Intercol. Ath. Assn.",6,25,0,0.194
+"24","Kalamazoo","326","2002","Tracy Ciucci","D-III","Michigan Intercol. Ath. Assn.",10,20,0,0.333
+"25","Kalamazoo","326","2001","Kim Worden","D-III","-",12,24,1,0.338
+"26","Kalamazoo","326","1900","Brittney Cannavino","D-III","-",7,19,NA,0.269
+"27","Kalamazoo","326","1999","Brittney Cannavino","D-III","-",6,22,NA,0.214
+"28","Kalamazoo","326","1998","Kristen Smith","D-III","-",12,18,NA,0.4
+"29","Kalamazoo","326","1997","Kristen Smith","D-III","-",11,23,NA,0.324
+"30","Kalamazoo","326","1996","Laura Kuhlman","D-III","-",14,18,NA,0.438
+"31","Kalamazoo","326","1995","Laura Kuhlman","D-III","-",12,23,NA,0.343
+"32","Kalamazoo","326","1994","Laura Kuhlman","D-III","-",6,29,NA,0.171
+"33","Kalamazoo","326","1993","Laura Kuhlman","D-III","-",5,14,NA,0.263
+"34","Kalamazoo","326","1992","Laura Kuhlman","D-III","-",10,14,NA,0.417
+"35","Kalamazoo","326","1991","Laura Kuhlman","D-III","-",9,13,NA,0.409
+"36","Kalamazoo","326","1990","","D-III","-",NA,NA,NA,NA
+"37","Kalamazoo","326","1989","","D-III","-",NA,NA,NA,NA
+"38","Kalamazoo","326","","","","",282,705,1,0.286

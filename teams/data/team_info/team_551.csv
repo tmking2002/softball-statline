@@ -1,4 +1,5 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2022",NA,"-","0-0-0",0
-"2","1999",NA,"-","0-0-0",NA
-"3","1998",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Portland","551","2022",NA,NA,"-",NA,NA,NA,0
+"2","Portland","551","1999",NA,NA,"-",NA,NA,NA,NA
+"3","Portland","551","1998",NA,NA,"-",NA,NA,NA,NA
+"4","Portland","551","",NA,NA,"",0,0,0,0

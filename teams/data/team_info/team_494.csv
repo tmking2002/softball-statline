@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jordan Stevens","Summit League","12-38-0",0.24
-"2",2022,"Jordan Stevens","Summit League","14-39-0",0.264
-"3",2021,"Jordan Stevens","Summit League","17-33-0",0.34
-"4",2020,"Jordan Stevens","Summit League","7-17-0",0.292
-"5",2019,"Jordan Stevens","Summit League","22-34-0",0.393
-"6",2018,"Jordan Stevens","Big Sky","26-27-0",0.491
-"7",2017,"Jordan Stevens","Big Sky","23-32-0",0.418
-"8",2016,"Jordan Stevens","Big Sky","17-37-0",0.315
-"9",2015,"Jordan Stevens","Big Sky","12-45-0",0.211
-"10",2014,"Eric Oakley","Big Sky","6-39-0",0.133
-"11",2013,"Eric Oakley","Big Sky","10-30-0",0.25
-"12",2012,"Eric Oakley","GWC","18-29-0",0.383
-"13",2011,"Sami Strinz-Ward","GWC","20-35-0",0.364
-"14",2010,"Sami Strinz-Ward","GWC","16-35-0",0.314
-"15",2009,"Sami Strinz-Ward","-","9-33-0",0.214
-"16",2008,"Sami Strinz-Ward","NCC","19-34-0",0.358
-"17",2007,"Tracy Marback","NCC","23-28-0",0.451
-"18",2006,"Tracy Marback","NCC","17-25-0",0.405
-"19",2005,"Tracy Marback","NCC","20-29-0",0.408
-"20",2004,"Tracy Marback","NCC","16-33-0",0.327
-"21",2003,"Tracy Marback","NCC","15-30-0",0.333
-"22",2002,"Tracy Marback","NCC","23-33-0",0.411
-"23",2001,"Paula Sondreal","-","21-28-0",0.429
-"24",2000,"Paula Sondreal","-","24-25-0",0.49
-"25",1999,"Paula Sondreal","-","13-33-1",0.283
-"26",1998,"Paula Sondreal","-","10-36-0",0.217
-"27",1997,"Paula Sondreal","-","12-10-0",0.545
-"28",1996,"Denise Robinson","-","10-33-0",0.233
-"29",1995,"Denise Robinson","-","21-18-0",0.538
-"30",1994,"Denise Robinson","-","20-21-0",0.488
-"31",1993,"Scott Steen","-","13-28-0",0.317
-"32",1992,"Scott Steen","-","8-17-0",0.32
-"33",1991,"Chickie Mason","-","17-19-0",0.472
-"34",1990,"Doreen Zierer","-","12-22-0",0.353
-"35",1989,"Doreen Zierer","-","5-19-0",0.208
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Jordan Stevens","Summit League","16-42-0",0.276
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","North Dakota","494","2025","Jordan Stevens","D-I","Summit League",0,2,0,0
+"2","North Dakota","494","2024","Jordan Stevens","D-I","Summit League",14,42,0,0.25
+"3","North Dakota","494","2023","Jordan Stevens","D-I","Summit League",12,38,0,0.24
+"4","North Dakota","494","2022","Jordan Stevens","D-I","Summit League",14,39,0,0.264
+"5","North Dakota","494","2021","Jordan Stevens","D-I","Summit League",17,33,0,0.34
+"6","North Dakota","494","2020","Jordan Stevens","D-I","Summit League",7,17,0,0.292
+"7","North Dakota","494","2019","Jordan Stevens","D-I","Summit League",22,34,0,0.393
+"8","North Dakota","494","2018","Jordan Stevens","D-I","Big Sky",26,27,NA,0.491
+"9","North Dakota","494","2017","Jordan Stevens","D-I","Big Sky",23,32,0,0.418
+"10","North Dakota","494","2016","Jordan Stevens","D-I","Big Sky",17,37,0,0.315
+"11","North Dakota","494","2015","Jordan Stevens","D-I","Big Sky",12,45,0,0.211
+"12","North Dakota","494","2014","Eric Oakley","D-I","Big Sky",6,39,0,0.133
+"13","North Dakota","494","2013","Eric Oakley","D-I","Big Sky",10,30,0,0.25
+"14","North Dakota","494","2012","Eric Oakley","D-I","GWC",18,29,0,0.383
+"15","North Dakota","494","2011","Sami Strinz-Ward","D-I","GWC",20,35,0,0.364
+"16","North Dakota","494","2010","Sami Strinz-Ward","D-I","GWC",16,35,0,0.314
+"17","North Dakota","494","2009","Sami Strinz-Ward","D-II","-",9,33,0,0.214
+"18","North Dakota","494","2008","Sami Strinz-Ward","D-II","NCC",19,34,0,0.358
+"19","North Dakota","494","2007","Tracy Marback","D-II","NCC",23,28,0,0.451
+"20","North Dakota","494","2006","Tracy Marback","D-II","NCC",17,25,0,0.405
+"21","North Dakota","494","2005","Tracy Marback","D-II","NCC",20,29,0,0.408
+"22","North Dakota","494","2004","Tracy Marback","D-II","NCC",16,33,0,0.327
+"23","North Dakota","494","2003","Tracy Marback","D-II","NCC",15,30,0,0.333
+"24","North Dakota","494","2002","Tracy Marback","D-II","NCC",23,33,0,0.411
+"25","North Dakota","494","2001","Paula Sondreal","D-II","-",21,28,0,0.429
+"26","North Dakota","494","1900","Paula Sondreal","D-II","-",24,25,0,0.49
+"27","North Dakota","494","1999","Paula Sondreal","D-II","-",13,33,1,0.287
+"28","North Dakota","494","1998","Paula Sondreal","D-II","-",10,36,0,0.217
+"29","North Dakota","494","1997","Paula Sondreal","D-II","-",12,10,0,0.545
+"30","North Dakota","494","1996","Denise Robinson","D-II","-",10,33,0,0.233
+"31","North Dakota","494","1995","Denise Robinson","D-II","-",21,18,0,0.538
+"32","North Dakota","494","1994","Denise Robinson","D-II","-",20,21,0,0.488
+"33","North Dakota","494","1993","Scott Steen","D-II","-",13,28,0,0.317
+"34","North Dakota","494","1992","Scott Steen","D-II","-",8,17,0,0.32
+"35","North Dakota","494","1991","Chickie Mason","D-II","-",17,19,NA,0.472
+"36","North Dakota","494","1990","Doreen Zierer","D-II","-",12,22,NA,0.353
+"37","North Dakota","494","1989","Doreen Zierer","D-II","-",5,19,NA,0.208
+"38","North Dakota","494","1988","","D-II","-",NA,NA,NA,NA
+"39","North Dakota","494","1987","","D-II","-",NA,NA,NA,NA
+"40","North Dakota","494","1986","","D-II","-",NA,NA,NA,NA
+"41","North Dakota","494","1985","","D-II","-",NA,NA,NA,NA
+"42","North Dakota","494","1984","","D-II","-",NA,NA,NA,NA
+"43","North Dakota","494","1983","","D-II","-",NA,NA,NA,NA
+"44","North Dakota","494","","","","",562,1068,1,0.345

@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Sara Stafford","SLIAC","4-36-0",0.1
-"2",2022,"Sara Stafford","SLIAC","10-25-0",0.286
-"3",2021,"Sara Stafford","SLIAC","15-18-0",0.455
-"4",2020,"Sara Stafford","SLIAC","2-2-0",0.5
-"5",2019,"Sara Stafford","SLIAC","13-17-0",0.433
-"6",2018,"Joe Henderson","SLIAC","22-22-0",0.5
-"7",2017,"Joe Henderson","SLIAC","24-13-0",0.649
-"8",2016,"Joe Henderson","SLIAC","22-17-0",0.564
-"9",2015,"Joe Henderson","SLIAC","13-20-0",0.394
-"10",2014,"Shelli Manson","SLIAC","14-22-0",0.389
-"11",2013,"Shelli Manson","SLIAC","15-11-0",0.577
-"12",2012,"Shelli Manson","SLIAC","14-18-0",0.438
-"13",2011,"Shelli Manson","SLIAC","9-18-0",0.333
-"14",2010,"Shelli Manson","SLIAC","7-24-0",0.226
-"15",2009,"Nicole Stacey","SLIAC","12-22-0",0.353
-"16",2008,"Nicole Stacey","SLIAC","5-27-0",0.156
-"17",2007,"Nicole Stacey","SLIAC","9-29-0",0.237
-"18",2006,"Erin Brown","SLIAC","11-19-0",0.367
-"19",2005,"Erin Brown","SLIAC","6-14-0",0.3
-"20",2004,"Chris Viers","SLIAC","1-25-0",0.038
-"21",2003,"Chris Viers","-","0-0-0",NA
-"22",2002,"Chris Viers","SLIAC","12-13-0",0.48
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Ed Deugan","-","4-16-1",0.2
-"25",1999,"Lynette Overstreet","-","6-20-0",0.231
-"26",1998,"Jane Jackson","-","9-21-0",0.3
-"27",1997,"Jane Jackson","-","15-16-0",0.484
-"28",1996,"Allison Jones","-","7-27-0",0.206
-"29",1995,"Allison Jones","-","12-22-0",0.353
-"30",1994,"Allison Jones","-","8-20-0",0.286
-"31",1993,"Allison Jones","-","16-11-0",0.593
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Sara Stafford","SLIAC","5-30-0",0.143
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Westminster (MO)","1450","2025","Sara Stafford","D-III","SLIAC",0,0,0,0
+"2","Westminster (MO)","1450","2024","Sara Stafford","D-III","SLIAC",6,32,0,0.158
+"3","Westminster (MO)","1450","2023","Sara Stafford","D-III","SLIAC",4,36,0,0.1
+"4","Westminster (MO)","1450","2022","Sara Stafford","D-III","SLIAC",10,25,0,0.286
+"5","Westminster (MO)","1450","2021","Sara Stafford","D-III","SLIAC",15,18,0,0.455
+"6","Westminster (MO)","1450","2020","Sara Stafford","D-III","SLIAC",2,2,0,0.5
+"7","Westminster (MO)","1450","2019","Sara Stafford","D-III","SLIAC",13,17,0,0.433
+"8","Westminster (MO)","1450","2018","Joe Henderson","D-III","SLIAC",22,22,NA,0.5
+"9","Westminster (MO)","1450","2017","Joe Henderson","D-III","SLIAC",24,13,0,0.649
+"10","Westminster (MO)","1450","2016","Joe Henderson","D-III","SLIAC",22,17,0,0.564
+"11","Westminster (MO)","1450","2015","Joe Henderson","D-III","SLIAC",13,20,0,0.394
+"12","Westminster (MO)","1450","2014","Shelli Manson","D-III","SLIAC",14,22,0,0.389
+"13","Westminster (MO)","1450","2013","Shelli Manson","D-III","SLIAC",15,11,0,0.577
+"14","Westminster (MO)","1450","2012","Shelli Manson","D-III","SLIAC",14,18,0,0.438
+"15","Westminster (MO)","1450","2011","Shelli Manson","D-III","SLIAC",9,18,0,0.333
+"16","Westminster (MO)","1450","2010","Shelli Manson","D-III","SLIAC",7,24,0,0.226
+"17","Westminster (MO)","1450","2009","Nicole Stacey","D-III","SLIAC",12,22,0,0.353
+"18","Westminster (MO)","1450","2008","Nicole Stacey","D-III","SLIAC",5,27,0,0.156
+"19","Westminster (MO)","1450","2007","Nicole Stacey","D-III","SLIAC",9,29,0,0.237
+"20","Westminster (MO)","1450","2006","Erin Brown","D-III","SLIAC",11,19,0,0.367
+"21","Westminster (MO)","1450","2005","Erin Brown","D-III","SLIAC",6,14,0,0.3
+"22","Westminster (MO)","1450","2004","Chris Viers","D-III","SLIAC",1,25,0,0.038
+"23","Westminster (MO)","1450","2003","Chris Viers","","-",NA,NA,NA,NA
+"24","Westminster (MO)","1450","2002","Chris Viers","D-III","SLIAC",12,13,0,0.48
+"25","Westminster (MO)","1450","2001","","D-III","-",NA,NA,NA,NA
+"26","Westminster (MO)","1450","1900","Ed Deugan","D-III","-",4,16,1,0.214
+"27","Westminster (MO)","1450","1999","Lynette Overstreet","D-III","-",6,20,NA,0.231
+"28","Westminster (MO)","1450","1998","Jane Jackson","D-III","-",9,21,NA,0.3
+"29","Westminster (MO)","1450","1997","Jane Jackson","D-III","-",15,16,NA,0.484
+"30","Westminster (MO)","1450","1996","Allison Jones","D-III","-",7,27,NA,0.206
+"31","Westminster (MO)","1450","1995","Allison Jones","D-III","-",12,22,NA,0.353
+"32","Westminster (MO)","1450","1994","Allison Jones","D-III","-",8,20,NA,0.286
+"33","Westminster (MO)","1450","1993","Allison Jones","D-III","-",16,11,NA,0.593
+"34","Westminster (MO)","1450","1992","","D-III","-",NA,NA,NA,NA
+"35","Westminster (MO)","1450","1991","","D-III","-",NA,NA,NA,NA
+"36","Westminster (MO)","1450","1990","","D-III","-",NA,NA,NA,NA
+"37","Westminster (MO)","1450","","","","",323,597,1,0.351

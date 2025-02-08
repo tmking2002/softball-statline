@@ -1,30 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Reginald Morris","SIAC","2-22-0","0.083"
-"2","2022","Reginald Morris","SIAC","1-26-0","0.037"
-"3","2021","Reginald Morris","SIAC","0-0-0","  NaN"
-"4","2020","Reginald Morris","SIAC","0-3-0","0.000"
-"5","2019","Reginald Morris","SIAC","1-22-0","0.043"
-"6","2018","Reginald Morris","SIAC","2-28-0","0.067"
-"7","2017","Reginald Morris","SIAC","5-23-0","0.179"
-"8","2016","Reginald Morris","SIAC","2-21-0","0.087"
-"9","2015","Reginald Morris","SIAC","0-20-0","0.000"
-"10","2014","Reginald Morris","SIAC","0-30-0","0.000"
-"11","2013","Reginald Morris","SIAC","8-22-0","0.267"
-"12","2012","Reginald Morris","SIAC","2-30-0","0.062"
-"13","2011","Myquita Mackey","SIAC","5-26-2","0.161"
-"14","2010","Eneka Burks","SIAC","9-18-0","0.333"
-"15","2009","Eneka Burks","SIAC","0-0-0","  NaN"
-"16","2008","Nedra Brown","SIAC","7-17-0","0.292"
-"17","2007","Nedra Brown","SIAC","3-23-0","0.115"
-"18","2006","Nedra Brown","SIAC","5-21-0","0.192"
-"19","2005","Nedra Brown","SIAC","1-8-0","0.111"
-"20","2004","","-","0-0-0","  NaN"
-"21","2003","Nedra Brown","-","0-0-0","  NaN"
-"22","2002","Nedra Brown","-","0-0-0","  NaN"
-"23","2001","Nedra Brown","-","0-0-0","  NaN"
-"24","2000","Nedra Brown","-","2-24-0","0.077"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","LeMoyne-Owen","350","2025","Tiara Hall","D-II","SIAC",0,0,0,0
+"2","LeMoyne-Owen","350","2024","Tiara Hall","D-II","SIAC",3,30,0,0.091
+"3","LeMoyne-Owen","350","2023","Reginald Morris","D-II","SIAC",2,21,0,0.087
+"4","LeMoyne-Owen","350","2022","Reginald Morris","D-II","SIAC",1,26,0,0.037
+"5","LeMoyne-Owen","350","2021","Reginald Morris","D-II","SIAC",0,0,0,0
+"6","LeMoyne-Owen","350","2020","Reginald Morris","D-II","SIAC",0,3,0,0
+"7","LeMoyne-Owen","350","2019","Reginald Morris","D-II","SIAC",1,22,0,0.043
+"8","LeMoyne-Owen","350","2018","Reginald Morris","D-II","SIAC",2,28,NA,0.067
+"9","LeMoyne-Owen","350","2017","Reginald Morris","D-II","SIAC",5,23,0,0.179
+"10","LeMoyne-Owen","350","2016","Reginald Morris","D-II","SIAC",2,21,0,0.087
+"11","LeMoyne-Owen","350","2015","Reginald Morris","D-II","SIAC",0,20,0,0
+"12","LeMoyne-Owen","350","2014","Reginald Morris","D-II","SIAC",0,30,0,0
+"13","LeMoyne-Owen","350","2013","Reginald Morris","D-II","SIAC",8,22,0,0.267
+"14","LeMoyne-Owen","350","2012","Reginald Morris","D-II","SIAC",2,30,0,0.063
+"15","LeMoyne-Owen","350","2011","Myquita Mackey","D-II","SIAC",5,26,2,0.182
+"16","LeMoyne-Owen","350","2010","Eneka Burks","D-II","SIAC",9,18,0,0.333
+"17","LeMoyne-Owen","350","2009","Eneka Burks","D-II","SIAC",NA,NA,NA,NA
+"18","LeMoyne-Owen","350","2008","Nedra Brown","D-II","SIAC",7,17,0,0.292
+"19","LeMoyne-Owen","350","2007","Nedra Brown","D-II","SIAC",3,23,0,0.115
+"20","LeMoyne-Owen","350","2006","Nedra Brown","D-II","SIAC",5,21,0,0.192
+"21","LeMoyne-Owen","350","2005","Nedra Brown","D-II","SIAC",1,8,0,0.111
+"22","LeMoyne-Owen","350","2004","","","-",NA,NA,NA,NA
+"23","LeMoyne-Owen","350","2003","Nedra Brown","","-",NA,NA,NA,NA
+"24","LeMoyne-Owen","350","2002","Nedra Brown","D-II","-",NA,NA,NA,NA
+"25","LeMoyne-Owen","350","2001","Nedra Brown","D-II","-",NA,NA,NA,NA
+"26","LeMoyne-Owen","350","1900","Nedra Brown","D-II","-",2,24,0,0.077
+"27","LeMoyne-Owen","350","1999","","D-II","-",NA,NA,NA,NA
+"28","LeMoyne-Owen","350","1998","","D-II","-",NA,NA,NA,NA
+"29","LeMoyne-Owen","350","1997","","D-II","-",NA,NA,NA,NA
+"30","LeMoyne-Owen","350","1996","","D-II","-",NA,NA,NA,NA
+"31","LeMoyne-Owen","350","1995","","D-II","-",NA,NA,NA,NA
+"32","LeMoyne-Owen","350","","","","",58,413,2,0.125

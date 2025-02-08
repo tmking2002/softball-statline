@@ -1,39 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Beth Goderwis","HCAC","31-13-0","0.705"
-"2","2022","Beth Goderwis","HCAC","34-12-0","0.739"
-"3","2021","Beth Goderwis","HCAC","33-10-0","0.767"
-"4","2020","Beth Goderwis","HCAC","10-6-0","0.625"
-"5","2019","Beth Goderwis","HCAC","35-7-0","0.833"
-"6","2018","Beth Goderwis","HCAC","23-13-0","0.639"
-"7","2017","Beth Goderwis","HCAC","20-15-0","0.571"
-"8","2016","Beth Goderwis","HCAC","15-22-1","0.405"
-"9","2015","Beth Goderwis","HCAC","19-13-0","0.594"
-"10","2014","Beth Goderwis","HCAC","6-26-0","0.188"
-"11","2013","Beth Goderwis","HCAC","6-26-0","0.188"
-"12","2012","Beth Goderwis","HCAC","6-33-0","0.154"
-"13","2011","Beth Goderwis","HCAC","6-26-0","0.188"
-"14","2010","Beth Goderwis","HCAC","12-22-0","0.353"
-"15","2009","Beth Goderwis","HCAC","13-23-0","0.361"
-"16","2008","Beth Goderwis","HCAC","17-23-0","0.425"
-"17","2007","Beth Goderwis","HCAC","13-23-0","0.361"
-"18","2006","Beth Goderwis","HCAC","17-24-0","0.415"
-"19","2005","Beth Goderwis","HCAC","18-14-0","0.562"
-"20","2004","Beth Goderwis","HCAC","19-17-0","0.528"
-"21","2003","Beth Goderwis (3-2)John Zoellner (20-16-1)","-","23-18-1","0.561"
-"22","2002","John Zoellner","HCAC","28-19-0","0.596"
-"23","2001","John Zoellner","-","25-20-0","0.556"
-"24","2000","Sharon Graham","-","19-16-0","0.543"
-"25","1999","Sharon Graham","-","21-21-0","0.500"
-"26","1998","Sharon Graham","-","7-3-1","0.700"
-"27","1997","Sharon Graham","-","24-14-0","0.632"
-"28","1996","Sharon Graham","-","18-8-0","0.692"
-"29","1995","Sharon Graham","-","25-11-0","0.694"
-"30","1994","Sharon Graham","-","24-10-0","0.706"
-"31","1993","Sharon Graham","-","20-6-0","0.769"
-"32","1992","Sharon Graham","-","22-7-0","0.759"
-"33","1991","Sharon Graham","-","17-12-0","0.586"
-"34","1990","Sharon Graham","-","13-4-0","0.765"
-"35","1989","Sharon Graham","-","9-4-0","0.692"
-"36","1988","Sharon Graham","-","6-12-0","0.333"
-"37","1987","Sharon Graham","-","4-12-0","0.250"
-"38","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mt. St. Joseph","8567","2025","Beth Goderwis","D-III","HCAC",0,0,0,0
+"2","Mt. St. Joseph","8567","2024","Beth Goderwis","D-III","HCAC",26,16,0,0.619
+"3","Mt. St. Joseph","8567","2023","Beth Goderwis","D-III","HCAC",31,13,0,0.705
+"4","Mt. St. Joseph","8567","2022","Beth Goderwis","D-III","HCAC",34,12,0,0.739
+"5","Mt. St. Joseph","8567","2021","Beth Goderwis","D-III","HCAC",33,10,0,0.767
+"6","Mt. St. Joseph","8567","2020","Beth Goderwis","D-III","HCAC",10,6,0,0.625
+"7","Mt. St. Joseph","8567","2019","Beth Goderwis","D-III","HCAC",35,7,0,0.833
+"8","Mt. St. Joseph","8567","2018","Beth Goderwis","D-III","HCAC",23,13,NA,0.639
+"9","Mt. St. Joseph","8567","2017","Beth Goderwis","D-III","HCAC",20,15,0,0.571
+"10","Mt. St. Joseph","8567","2016","Beth Goderwis","D-III","HCAC",15,22,1,0.408
+"11","Mt. St. Joseph","8567","2015","Beth Goderwis","D-III","HCAC",19,13,0,0.594
+"12","Mt. St. Joseph","8567","2014","Beth Goderwis","D-III","HCAC",6,26,0,0.188
+"13","Mt. St. Joseph","8567","2013","Beth Goderwis","D-III","HCAC",6,26,0,0.188
+"14","Mt. St. Joseph","8567","2012","Beth Goderwis","D-III","HCAC",6,33,0,0.154
+"15","Mt. St. Joseph","8567","2011","Beth Goderwis","D-III","HCAC",6,26,0,0.188
+"16","Mt. St. Joseph","8567","2010","Beth Goderwis","D-III","HCAC",12,22,0,0.353
+"17","Mt. St. Joseph","8567","2009","Beth Goderwis","D-III","HCAC",13,23,0,0.361
+"18","Mt. St. Joseph","8567","2008","Beth Goderwis","D-III","HCAC",17,23,0,0.425
+"19","Mt. St. Joseph","8567","2007","Beth Goderwis","D-III","HCAC",13,23,0,0.361
+"20","Mt. St. Joseph","8567","2006","Beth Goderwis","D-III","HCAC",17,24,0,0.415
+"21","Mt. St. Joseph","8567","2005","Beth Goderwis","D-III","HCAC",18,14,0,0.563
+"22","Mt. St. Joseph","8567","2004","Beth Goderwis","D-III","HCAC",19,17,0,0.528
+"23","Mt. St. Joseph","8567","2003","Beth Goderwis","D-III","HCAC",23,18,1,0.56
+"24","Mt. St. Joseph","8567","2002","John Zoellner (24-16)Beth Goderwis (4-3)","D-III","HCAC",28,19,0,0.596
+"25","Mt. St. Joseph","8567","2001","John Zoellner","D-III","-",25,20,NA,0.556
+"26","Mt. St. Joseph","8567","1900","Sharon Graham","D-III","-",19,16,NA,0.543
+"27","Mt. St. Joseph","8567","1999","Sharon Graham","D-III","-",21,21,NA,0.5
+"28","Mt. St. Joseph","8567","1998","Sharon Graham","","-",7,3,1,0.682
+"29","Mt. St. Joseph","8567","1997","Sharon Graham","","-",24,14,0,0.632
+"30","Mt. St. Joseph","8567","1996","Sharon Graham","","-",18,8,0,0.692
+"31","Mt. St. Joseph","8567","1995","Sharon Graham","","-",25,11,0,0.694
+"32","Mt. St. Joseph","8567","1994","Sharon Graham","","-",24,10,0,0.706
+"33","Mt. St. Joseph","8567","1993","Sharon Graham","","-",20,6,0,0.769
+"34","Mt. St. Joseph","8567","1992","Sharon Graham","","-",22,7,0,0.759
+"35","Mt. St. Joseph","8567","1991","Sharon Graham","","-",17,12,0,0.586
+"36","Mt. St. Joseph","8567","1990","Sharon Graham","","-",13,4,0,0.765
+"37","Mt. St. Joseph","8567","1989","Sharon Graham","","-",9,4,0,0.692
+"38","Mt. St. Joseph","8567","1988","Sharon Graham","","-",6,12,0,0.333
+"39","Mt. St. Joseph","8567","1987","Sharon Graham","","-",4,12,0,0.25
+"40","Mt. St. Joseph","8567","1981","","","-",NA,NA,NA,NA
+"41","Mt. St. Joseph","8567","","","","",684,581,3,0.541

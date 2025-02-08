@@ -1,43 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Marc Gillis","Horizon","4-34-0","0.105"
-"2","2022","Marc Gillis","Horizon","6-36-0","0.143"
-"3","2021","Marc Gillis","Horizon","2-2-0","0.500"
-"4","2020","Marc Gillis","Horizon","2-21-0","0.087"
-"5","2019","John Conway","Horizon","31-28-0","0.525"
-"6","2018","John Conway","Horizon","14-29-1","0.326"
-"7","2017","John Conway","Horizon","18-34-0","0.346"
-"8","2016","John Conway","Horizon","17-39-0","0.304"
-"9","2015","John Conway","Horizon","10-40-0","0.200"
-"10","2014","Liz Young","Horizon","7-42-0","0.143"
-"11","2013","Liz Young","Horizon","5-45-0","0.100"
-"12","2012","Sunny Jones","Horizon","10-41-0","0.196"
-"13","2011","Sunny Jones","Horizon","7-37-0","0.159"
-"14","2010","Sunny Jones","Horizon","3-39-0","0.071"
-"15","2009","Bob Wilkerson","Horizon","7-42-0","0.143"
-"16","2008","Bob Wilkerson","Horizon","11-28-0","0.282"
-"17","2007","Bob Wilkerson","Horizon","12-31-0","0.279"
-"18","2006","Bob Wilkerson","Horizon","17-28-0","0.378"
-"19","2005","Bob Wilkerson","Horizon","18-28-0","0.391"
-"20","2004","Bob Wilkerson","Horizon","18-32-0","0.360"
-"21","2003","Bob Wilkerson","Horizon","18-22-1","0.450"
-"22","2002","Bob Wilkerson","Horizon","21-23-0","0.477"
-"23","2001","Bob Wilkerson","Horizon","15-33-0","0.312"
-"24","2000","Bob Wilkerson","Horizon","16-29-0","0.356"
-"25","1999","Bob Wilkerson","Horizon","10-35-0","0.222"
-"26","1998","Bob Wilkerson","-","14-33-0","0.298"
-"27","1997","Bob Wilkerson","Horizon","9-40-0","0.184"
-"28","1996","Linda Mueller","-","16-27-0","0.372"
-"29","1995","Linda Mueller","-","18-32-0","0.360"
-"30","1994","Linda Mueller","-","22-25-0","0.468"
-"31","1993","Linda Mueller","-","22-29-0","0.431"
-"32","1992","Linda Mueller","-","26-8-0","0.765"
-"33","1991","Nick Stann","-","39-26-0","0.600"
-"34","1990","Nick Stann","-","33-18-0","0.647"
-"35","1989","Nick Stann","-","37-20-1","0.649"
-"36","1988","Nick Stann","-","29-16-0","0.644"
-"37","1987","Nick Stann","-","32-21-0","0.604"
-"38","1986","Nick Stann","-","27-21-0","0.562"
-"39","1985","Nick Stann","-","15-31-0","0.326"
-"40","1984","Nick Stann","-","26-18-0","0.591"
-"41","1983","","-","0-0-0","  NaN"
-"42","1982","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Detroit Mercy","184","2025","Dan Vitale","D-I","Horizon",0,0,0,0
+"2","Detroit Mercy","184","2024","Dan Vitale","D-I","Horizon",6,38,0,0.136
+"3","Detroit Mercy","184","2023","Marc Gillis","D-I","Horizon",4,34,0,0.105
+"4","Detroit Mercy","184","2022","Marc Gillis","D-I","Horizon",6,36,0,0.143
+"5","Detroit Mercy","184","2021","Marc Gillis","D-I","Horizon",2,2,0,0.5
+"6","Detroit Mercy","184","2020","Marc Gillis","D-I","Horizon",2,21,0,0.087
+"7","Detroit Mercy","184","2019","John Conway","D-I","Horizon",31,28,0,0.525
+"8","Detroit Mercy","184","2018","John Conway","D-I","Horizon",14,29,1,0.33
+"9","Detroit Mercy","184","2017","John Conway","D-I","Horizon",18,34,0,0.346
+"10","Detroit Mercy","184","2016","John Conway","D-I","Horizon",17,39,0,0.304
+"11","Detroit Mercy","184","2015","John Conway","D-I","Horizon",10,40,0,0.2
+"12","Detroit Mercy","184","2014","Liz Young","D-I","Horizon",7,42,0,0.143
+"13","Detroit Mercy","184","2013","Liz Young","D-I","Horizon",5,45,0,0.1
+"14","Detroit Mercy","184","2012","Sunny Jones","D-I","Horizon",10,41,0,0.196
+"15","Detroit Mercy","184","2011","Sunny Jones","D-I","Horizon",7,37,0,0.159
+"16","Detroit Mercy","184","2010","Sunny Jones","D-I","Horizon",3,39,0,0.071
+"17","Detroit Mercy","184","2009","Bob Wilkerson","D-I","Horizon",7,42,0,0.143
+"18","Detroit Mercy","184","2008","Bob Wilkerson","D-I","Horizon",11,28,0,0.282
+"19","Detroit Mercy","184","2007","Bob Wilkerson","D-I","Horizon",12,31,0,0.279
+"20","Detroit Mercy","184","2006","Bob Wilkerson","D-I","Horizon",17,28,0,0.378
+"21","Detroit Mercy","184","2005","Bob Wilkerson","D-I","Horizon",18,28,0,0.391
+"22","Detroit Mercy","184","2004","Bob Wilkerson","D-I","Horizon",18,32,0,0.36
+"23","Detroit Mercy","184","2003","Bob Wilkerson","D-I","Horizon",18,22,1,0.451
+"24","Detroit Mercy","184","2002","Bob Wilkerson","D-I","Horizon",21,23,0,0.477
+"25","Detroit Mercy","184","2001","Bob Wilkerson","D-I","Horizon",15,33,0,0.313
+"26","Detroit Mercy","184","1900","Bob Wilkerson","D-I","Horizon",16,29,0,0.356
+"27","Detroit Mercy","184","1999","Bob Wilkerson","D-I","Horizon",10,35,0,0.222
+"28","Detroit Mercy","184","1998","Bob Wilkerson","D-I","-",14,33,NA,0.298
+"29","Detroit Mercy","184","1997","Bob Wilkerson","D-I","Horizon",9,40,0,0.184
+"30","Detroit Mercy","184","1996","Linda Mueller","D-I","-",16,27,NA,0.372
+"31","Detroit Mercy","184","1995","Linda Mueller","D-I","-",18,32,NA,0.36
+"32","Detroit Mercy","184","1994","Linda Mueller","D-I","-",22,25,NA,0.468
+"33","Detroit Mercy","184","1993","Linda Mueller","D-I","-",22,29,NA,0.431
+"34","Detroit Mercy","184","1992","Linda Mueller","D-I","-",26,8,NA,0.765
+"35","Detroit Mercy","184","1991","Nick Stann","D-I","-",39,26,NA,0.6
+"36","Detroit Mercy","184","1990","Nick Stann","D-I","-",33,18,NA,0.647
+"37","Detroit Mercy","184","1989","Nick Stann","D-I","-",37,20,1,0.647
+"38","Detroit Mercy","184","1988","Nick Stann","D-I","-",29,16,NA,0.644
+"39","Detroit Mercy","184","1987","Nick Stann","D-I","-",32,21,NA,0.604
+"40","Detroit Mercy","184","1986","Nick Stann","D-I","-",27,21,NA,0.563
+"41","Detroit Mercy","184","1985","Nick Stann","D-I","-",15,31,NA,0.326
+"42","Detroit Mercy","184","1984","Nick Stann","D-I","-",26,18,NA,0.591
+"43","Detroit Mercy","184","1983","","D-I","-",NA,NA,NA,NA
+"44","Detroit Mercy","184","1982","","D-I","-",NA,NA,NA,NA
+"45","Detroit Mercy","184","","","","",670,1201,3,0.358

@@ -1,16 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Caytlin Friis","United East","20-16-0",0.556
-"2",2022,"Caytlin Friis","United East","22-15-0",0.595
-"3",2021,"Caytlin Friis","United East","7-11-0",0.389
-"4",2020,"Caytlin Friis","United East","3-5-0",0.375
-"5",2019,"Caytlin Friis","United East","16-22-0",0.421
-"6",2018,"Caytlin Friis","United East","8-21-0",0.276
-"7",2017,"David Hoch","United East","18-20-0",0.474
-"8",2016,"David Hoch","United East","21-18-0",0.538
-"9",2015,"David Hoch","United East","22-15-1",0.595
-"10",2014,"David Hoch","United East","20-11-0",0.645
-"11",2013,"David Hoch","United East","20-19-0",0.513
-"12",2012,"David Hoch","United East","12-22-0",0.353
-"13",2011,"David Hoch","United East","7-25-0",0.219
-"14",2010,"","United East","3-31-0",0.088
-"15",2024,"Caytlin Friis","United East","20-20-0",0.5
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-Abington","30114","2025","Caytlin Friis","D-III","United East",0,0,0,0
+"2","Penn St.-Abington","30114","2024","Caytlin Friis","D-III","United East",20,20,0,0.5
+"3","Penn St.-Abington","30114","2023","Caytlin Friis","D-III","United East",20,16,0,0.556
+"4","Penn St.-Abington","30114","2022","Caytlin Friis","D-III","United East",22,15,0,0.595
+"5","Penn St.-Abington","30114","2021","Caytlin Friis","D-III","United East",7,11,0,0.389
+"6","Penn St.-Abington","30114","2020","Caytlin Friis","D-III","United East",3,5,0,0.375
+"7","Penn St.-Abington","30114","2019","Caytlin Friis","D-III","United East",16,22,0,0.421
+"8","Penn St.-Abington","30114","2018","Caytlin Friis","D-III","United East",8,21,NA,0.276
+"9","Penn St.-Abington","30114","2017","David Hoch","D-III","United East",18,20,0,0.474
+"10","Penn St.-Abington","30114","2016","David Hoch","D-III","United East",21,18,0,0.538
+"11","Penn St.-Abington","30114","2015","David Hoch","D-III","United East",22,15,1,0.592
+"12","Penn St.-Abington","30114","2014","David Hoch","D-III","United East",20,11,0,0.645
+"13","Penn St.-Abington","30114","2013","David Hoch","D-III","United East",20,19,0,0.513
+"14","Penn St.-Abington","30114","2012","David Hoch","D-III","United East",12,22,0,0.353
+"15","Penn St.-Abington","30114","2011","David Hoch","D-III","United East",7,25,0,0.219
+"16","Penn St.-Abington","30114","2010","","D-III","United East",3,31,0,0.088
+"17","Penn St.-Abington","30114","","","","",219,271,1,0.447

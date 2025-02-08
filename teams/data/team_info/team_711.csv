@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lisa Costello","CAA","30-25-0",0.545
-"2",2022,"Lisa Costello","CAA","14-33-0",0.298
-"3",2021,"Lisa Costello","CAA","14-17-0",0.452
-"4",2020,"Lisa Costello","CAA","8-7-0",0.533
-"5",2019,"Lisa Costello","CAA","27-27-0",0.5
-"6",2018,"Lisa Costello","CAA","42-19-0",0.689
-"7",2017,"Lisa Costello","CAA","23-27-0",0.46
-"8",2016,"Lisa Costello","CAA","37-17-0",0.685
-"9",2015,"Lisa Costello","CAA","35-22-0",0.614
-"10",2014,"Lisa Costello","CAA","29-25-0",0.537
-"11",2013,"Lisa Costello","CAA","30-28-1",0.517
-"12",2012,"Lisa Costello","CAA","24-30-0",0.444
-"13",2011,"Lisa Costello","CAA","28-26-0",0.519
-"14",2010,"Lisa Costello","CAA","33-23-0",0.589
-"15",2009,"Lisa Costello","CAA","34-22-0",0.607
-"16",2008,"Lisa Costello","CAA","37-26-0",0.587
-"17",2007,"Lisa Costello","CAA","25-31-0",0.446
-"18",2006,"Lisa Costello","CAA","33-28-0",0.541
-"19",2005,"Lisa Costello","CAA","38-19-0",0.667
-"20",2004,"Lisa Costello","CAA","35-28-0",0.556
-"21",2003,"Lisa Costello","CAA","31-22-1",0.585
-"22",2002,"Lisa Costello","CAA","36-24-0",0.6
-"23",2001,"Lisa Costello","America East","35-26-1",0.574
-"24",2000,"Lisa Costello","America East","31-30-0",0.508
-"25",1999,"Lisa Costello","America East","33-21-0",0.611
-"26",1998,"Lisa Costello","-","22-25-0",0.468
-"27",1997,"Lisa Costello","America East","12-36-0",0.25
-"28",1996,"Lisa Costello","-","10-22-0",0.312
-"29",1995,"Elayne Lucas","-","24-10-0",0.706
-"30",1994,"Elayne Lucas","-","19-11-0",0.633
-"31",1993,"Elayne Lucas","-","15-15-0",0.5
-"32",1992,"Elayne Lucas","-","6-26-0",0.188
-"33",1991,"Elayne Lucas","-","22-11-0",0.667
-"34",1990,"Elayne Lucas","-","21-9-0",0.7
-"35",1989,"Elayne Lucas","-","28-16-0",0.636
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Lisa Costello","CAA","22-32-0",0.407
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Towson","711","2025","Lisa Costello","D-I","CAA",1,1,0,0.5
+"2","Towson","711","2024","Lisa Costello","D-I","CAA",22,32,0,0.407
+"3","Towson","711","2023","Lisa Costello","D-I","CAA",30,25,0,0.545
+"4","Towson","711","2022","Lisa Costello","D-I","CAA",14,33,0,0.298
+"5","Towson","711","2021","Lisa Costello","D-I","CAA",14,17,0,0.452
+"6","Towson","711","2020","Lisa Costello","D-I","CAA",8,7,0,0.533
+"7","Towson","711","2019","Lisa Costello","D-I","CAA",27,27,0,0.5
+"8","Towson","711","2018","Lisa Costello","D-I","CAA",42,19,NA,0.689
+"9","Towson","711","2017","Lisa Costello","D-I","CAA",23,27,0,0.46
+"10","Towson","711","2016","Lisa Costello","D-I","CAA",37,17,0,0.685
+"11","Towson","711","2015","Lisa Costello","D-I","CAA",35,22,0,0.614
+"12","Towson","711","2014","Lisa Costello","D-I","CAA",29,25,0,0.537
+"13","Towson","711","2013","Lisa Costello","D-I","CAA",32,28,1,0.533
+"14","Towson","711","2012","Lisa Costello","D-I","CAA",24,30,0,0.444
+"15","Towson","711","2011","Lisa Costello","D-I","CAA",28,26,0,0.519
+"16","Towson","711","2010","Lisa Costello","D-I","CAA",33,23,0,0.589
+"17","Towson","711","2009","Lisa Costello","D-I","CAA",34,22,0,0.607
+"18","Towson","711","2008","Lisa Costello","D-I","CAA",37,26,0,0.587
+"19","Towson","711","2007","Lisa Costello","D-I","CAA",25,31,0,0.446
+"20","Towson","711","2006","Lisa Costello","D-I","CAA",33,28,0,0.541
+"21","Towson","711","2005","Lisa Costello","D-I","CAA",38,19,0,0.667
+"22","Towson","711","2004","Lisa Costello","D-I","CAA",35,28,0,0.556
+"23","Towson","711","2003","Lisa Costello","D-I","CAA",31,22,1,0.583
+"24","Towson","711","2002","Lisa Costello","D-I","CAA",36,24,0,0.6
+"25","Towson","711","2001","Lisa Costello","D-I","America East",35,26,1,0.573
+"26","Towson","711","1900","Lisa Costello","D-I","America East",31,30,0,0.508
+"27","Towson","711","1999","Lisa Costello","D-I","America East",33,21,0,0.611
+"28","Towson","711","1998","Lisa Costello","D-I","-",22,25,NA,0.468
+"29","Towson","711","1997","Lisa Costello","D-I","America East",12,36,0,0.25
+"30","Towson","711","1996","Lisa Costello","D-I","-",10,22,NA,0.313
+"31","Towson","711","1995","Elayne Lucas","D-I","-",24,10,NA,0.706
+"32","Towson","711","1994","Elayne Lucas","D-I","-",19,11,NA,0.633
+"33","Towson","711","1993","Elayne Lucas","D-I","-",15,15,NA,0.5
+"34","Towson","711","1992","Elayne Lucas","D-I","-",6,26,NA,0.188
+"35","Towson","711","1991","Elayne Lucas","D-I","-",22,11,NA,0.667
+"36","Towson","711","1990","Elayne Lucas","D-I","-",21,9,NA,0.7
+"37","Towson","711","1989","Elayne Lucas","D-I","-",28,16,NA,0.636
+"38","Towson","711","1988","","D-I","-",NA,NA,NA,NA
+"39","Towson","711","1987","","D-I","-",NA,NA,NA,NA
+"40","Towson","711","1986","","D-I","-",NA,NA,NA,NA
+"41","Towson","711","1985","","","-",NA,NA,NA,NA
+"42","Towson","711","1984","","D-I","-",NA,NA,NA,NA
+"43","Towson","711","1983","","D-I","-",NA,NA,NA,NA
+"44","Towson","711","1982","","D-I","-",NA,NA,NA,NA
+"45","Towson","711","","","","",946,817,3,0.537

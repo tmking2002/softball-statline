@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Christine Roser-LeFevers","Sunshine State","32-17-0",0.653
-"2",2022,"Christine Roser-LeFevers","Sunshine State","32-12-0",0.727
-"3",2021,"Michelle Frew","Sunshine State","21-4-0",0.84
-"4",2020,"Michelle Frew","Sunshine State","21-3-0",0.875
-"5",2019,"Michelle Frew","Sunshine State","38-11-0",0.776
-"6",2018,"Michelle Frew","Sunshine State","27-24-0",0.529
-"7",2017,"Michelle Frew","Sunshine State","29-24-0",0.547
-"8",2016,"Michelle Frew","Sunshine State","40-16-1",0.714
-"9",2015,"Michelle Frew","Sunshine State","38-13-0",0.745
-"10",2014,"Michelle Frew","Sunshine State","39-13-0",0.75
-"11",2013,"Michelle Frew","Sunshine State","44-8-0",0.846
-"12",2012,"Michelle Frew","Sunshine State","43-11-0",0.796
-"13",2011,"Michelle Frew","Sunshine State","45-4-0",0.918
-"14",2010,"Michelle Frew","Sunshine State","45-6-0",0.882
-"15",2009,"Michelle Frew","Sunshine State","47-10-0",0.825
-"16",2008,"Michelle Frew","Sunshine State","39-16-0",0.709
-"17",2007,"Michelle Frew","Sunshine State","41-17-0",0.707
-"18",2006,"Michelle Frew","Sunshine State","45-16-0",0.738
-"19",2005,"Michelle Frew","Sunshine State","33-18-0",0.647
-"20",2004,"Michelle Frew","Sunshine State","42-16-0",0.724
-"21",2003,"Michelle Frew","Sunshine State","34-18-0",0.654
-"22",2002,"Michelle Frew","Sunshine State","36-14-0",0.72
-"23",2001,"Michelle Frew","-","32-18-0",0.64
-"24",2000,"Michelle Frew","-","15-31-0",0.326
-"25",1999,"Jennifer Mitchell","-","21-28-0",0.429
-"26",1998,"Michelle Frew","-","34-13-0",0.723
-"27",1997,"Michelle Frew","-","28-16-0",0.636
-"28",1996,"Michelle Frew","-","22-27-0",0.449
-"29",1995,"Sandra Carter","-","5-32-0",0.135
-"30",1994,"Mark Headrick","-","1-21-0",0.045
-"31",1993,"Mark Headrick","-","2-25-0",0.074
-"32",1992,"Suzanne Patterson","-","5-29-0",0.147
-"33",1991,"Suzanne Patterson","-","7-25-0",0.219
-"34",1990,"Suzanne Patterson","-","17-22-0",0.436
-"35",1989,"Suzanne Patterson","-","4-26-0",0.133
-"36",1988,"","-","0-0-0",NA
-"37",2024,"Christine Roser-LeFevers","Sunshine State","32-8-0",0.8
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rollins","584","2025","Christine Roser-LeFevers","D-II","Sunshine State",1,1,0,0.5
+"2","Rollins","584","2024","Christine Roser-LeFevers","D-II","Sunshine State",37,12,0,0.755
+"3","Rollins","584","2023","Christine Roser-LeFevers","D-II","Sunshine State",32,17,0,0.653
+"4","Rollins","584","2022","Christine Roser-LeFevers","D-II","Sunshine State",32,12,0,0.727
+"5","Rollins","584","2021","Michelle Frew","D-II","Sunshine State",21,4,0,0.84
+"6","Rollins","584","2020","Michelle Frew","D-II","Sunshine State",21,3,0,0.875
+"7","Rollins","584","2019","Michelle Frew","D-II","Sunshine State",38,11,0,0.776
+"8","Rollins","584","2018","Michelle Frew","D-II","Sunshine State",27,24,NA,0.529
+"9","Rollins","584","2017","Michelle Frew","D-II","Sunshine State",29,24,0,0.547
+"10","Rollins","584","2016","Michelle Frew","D-II","Sunshine State",40,16,1,0.711
+"11","Rollins","584","2015","Michelle Frew","D-II","Sunshine State",38,13,0,0.745
+"12","Rollins","584","2014","Michelle Frew","D-II","Sunshine State",39,13,0,0.75
+"13","Rollins","584","2013","Michelle Frew","D-II","Sunshine State",44,8,0,0.846
+"14","Rollins","584","2012","Michelle Frew","D-II","Sunshine State",43,11,0,0.796
+"15","Rollins","584","2011","Michelle Frew","D-II","Sunshine State",45,4,0,0.918
+"16","Rollins","584","2010","Michelle Frew","D-II","Sunshine State",45,6,0,0.882
+"17","Rollins","584","2009","Michelle Frew","D-II","Sunshine State",47,10,0,0.825
+"18","Rollins","584","2008","Michelle Frew","D-II","Sunshine State",39,16,0,0.709
+"19","Rollins","584","2007","Michelle Frew","D-II","Sunshine State",41,17,0,0.707
+"20","Rollins","584","2006","Michelle Frew","D-II","Sunshine State",45,16,0,0.738
+"21","Rollins","584","2005","Michelle Frew","D-II","Sunshine State",33,18,0,0.647
+"22","Rollins","584","2004","Michelle Frew","D-II","Sunshine State",42,16,0,0.724
+"23","Rollins","584","2003","Michelle Frew","D-II","Sunshine State",34,18,0,0.654
+"24","Rollins","584","2002","Michelle Frew","D-II","Sunshine State",36,14,0,0.72
+"25","Rollins","584","2001","Michelle Frew","D-II","-",32,18,0,0.64
+"26","Rollins","584","1900","Michelle Frew","D-II","-",15,31,0,0.326
+"27","Rollins","584","1999","Jennifer Mitchell","D-II","-",21,28,0,0.429
+"28","Rollins","584","1998","Michelle Frew","D-II","-",34,13,0,0.723
+"29","Rollins","584","1997","Michelle Frew","D-II","-",28,16,0,0.636
+"30","Rollins","584","1996","Michelle Frew","D-II","-",22,27,0,0.449
+"31","Rollins","584","1995","Sandra Carter","D-II","-",5,32,0,0.135
+"32","Rollins","584","1994","Mark Headrick","D-II","-",1,21,0,0.045
+"33","Rollins","584","1993","Mark Headrick","D-II","-",2,25,0,0.074
+"34","Rollins","584","1992","Suzanne Patterson","D-II","-",5,29,NA,0.147
+"35","Rollins","584","1991","Suzanne Patterson","D-II","-",7,25,NA,0.219
+"36","Rollins","584","1990","Suzanne Patterson","D-II","-",17,22,NA,0.436
+"37","Rollins","584","1989","Suzanne Patterson","D-II","-",4,26,NA,0.133
+"38","Rollins","584","1988","","D-II","-",NA,NA,NA,NA
+"39","Rollins","584","","","","",1042,617,1,0.628

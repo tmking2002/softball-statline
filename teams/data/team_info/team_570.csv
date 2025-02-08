@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Amber Maisonet","Liberty League","31-11-0","0.738"
-"2","2022","Amber Maisonet","Liberty League","25-17-0","0.595"
-"3","2021","Amber Maisonet","Liberty League","10-5-0","0.667"
-"4","2020","Amber Maisonet","Liberty League","12-0-0","1.000"
-"5","2019","Amber Maisonet","Liberty League","28-11-0","0.718"
-"6","2018","Amber Maisonet","Liberty League","26-11-0","0.703"
-"7","2017","Amber Maisonet","Liberty League","27-14-0","0.659"
-"8","2016","Amber Maisonet","Liberty League","28-11-0","0.718"
-"9","2015","Amber Maisonet","Liberty League","20-15-0","0.571"
-"10","2014","Amber Maisonet","Liberty League","24-18-0","0.571"
-"11","2013","Amber Maisonet","Liberty League","26-15-0","0.634"
-"12","2012","Amber Maisonet","Liberty League","27-14-0","0.659"
-"13","2011","Amber Maisonet","Liberty League","26-11-0","0.703"
-"14","2010","Erika Lewis","Liberty League","19-18-1","0.514"
-"15","2009","Erika Lewis","Liberty League","26-14-0","0.650"
-"16","2008","Erika Lewis","Liberty League","27-13-0","0.675"
-"17","2007","Erika Lewis","Liberty League","25-10-0","0.714"
-"18","2006","Erika Lewis","Liberty League","35-6-0","0.854"
-"19","2005","Erika Lewis","Liberty League","20-8-2","0.714"
-"20","2004","Erika Lewis","Liberty League","22-12-0","0.647"
-"21","2003","Erika Lewis","Liberty League","15-14-0","0.517"
-"22","2002","Erika Lewis","Liberty League","21-16-0","0.568"
-"23","2001","Richard Suker","-","13-21-0","0.382"
-"24","2000","","-","0-0-0","  NaN"
-"25","1999","John Pastore","-","21-14-1","0.600"
-"26","1998","John Pastore","-","29-9-0","0.763"
-"27","1997","John Pastore","-","24-8-1","0.750"
-"28","1996","John Pastore","-","10-14-0","0.417"
-"29","1995","John Pastore","-","20-6-0","0.769"
-"30","1994","John Pastore","-","15-10-0","0.600"
-"31","1993","John Pastore","-","9-12-0","0.429"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","Deb Pallozzi","-","4-22-0","0.154"
-"37","1987","Deb Pallozzi","-","1-1-0","0.500"
-"38","1985","","-","0-0-0","  NaN"
-"39","1983","","-","0-0-0","  NaN"
-"40","1982","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Rensselaer","570","2025","Amber Maisonet","D-III","Liberty League",0,0,0,0
+"2","Rensselaer","570","2024","Amber Maisonet","D-III","Liberty League",34,7,1,0.821
+"3","Rensselaer","570","2023","Amber Maisonet","D-III","Liberty League",31,11,0,0.738
+"4","Rensselaer","570","2022","Amber Maisonet","D-III","Liberty League",25,17,0,0.595
+"5","Rensselaer","570","2021","Amber Maisonet","D-III","Liberty League",10,5,0,0.667
+"6","Rensselaer","570","2020","Amber Maisonet","D-III","Liberty League",12,0,0,1
+"7","Rensselaer","570","2019","Amber Maisonet","D-III","Liberty League",28,11,0,0.718
+"8","Rensselaer","570","2018","Amber Maisonet","D-III","Liberty League",26,11,NA,0.703
+"9","Rensselaer","570","2017","Amber Maisonet","D-III","Liberty League",27,14,0,0.659
+"10","Rensselaer","570","2016","Amber Maisonet","D-III","Liberty League",28,11,0,0.718
+"11","Rensselaer","570","2015","Amber Maisonet","D-III","Liberty League",20,15,0,0.571
+"12","Rensselaer","570","2014","Amber Maisonet","D-III","Liberty League",24,18,0,0.571
+"13","Rensselaer","570","2013","Amber Maisonet","D-III","Liberty League",26,15,0,0.634
+"14","Rensselaer","570","2012","Amber Maisonet","D-III","Liberty League",27,14,0,0.659
+"15","Rensselaer","570","2011","Amber Maisonet","D-III","Liberty League",26,11,0,0.703
+"16","Rensselaer","570","2010","Erika Lewis","D-III","Liberty League",19,18,1,0.513
+"17","Rensselaer","570","2009","Erika Lewis","D-III","Liberty League",26,14,0,0.65
+"18","Rensselaer","570","2008","Erika Lewis","D-III","Liberty League",27,13,0,0.675
+"19","Rensselaer","570","2007","Erika Lewis","D-III","Liberty League",25,10,0,0.714
+"20","Rensselaer","570","2006","Erika Lewis","D-III","Liberty League",35,6,0,0.854
+"21","Rensselaer","570","2005","Erika Lewis","D-III","Liberty League",20,8,2,0.7
+"22","Rensselaer","570","2004","Erika Lewis","D-III","Liberty League",22,12,0,0.647
+"23","Rensselaer","570","2003","Erika Lewis","D-III","Liberty League",15,14,0,0.517
+"24","Rensselaer","570","2002","Erika Lewis","D-III","Liberty League",21,16,0,0.568
+"25","Rensselaer","570","2001","Richard Suker","D-III","-",13,21,0,0.382
+"26","Rensselaer","570","1900","","D-III","-",NA,NA,NA,NA
+"27","Rensselaer","570","1999","John Pastore","D-III","-",21,14,1,0.597
+"28","Rensselaer","570","1998","John Pastore","D-III","-",29,9,NA,0.763
+"29","Rensselaer","570","1997","John Pastore","D-III","-",24,8,1,0.742
+"30","Rensselaer","570","1996","John Pastore","D-III","-",10,14,NA,0.417
+"31","Rensselaer","570","1995","John Pastore","D-III","-",20,6,NA,0.769
+"32","Rensselaer","570","1994","John Pastore","D-III","-",15,10,NA,0.6
+"33","Rensselaer","570","1993","John Pastore","D-III","-",9,12,NA,0.429
+"34","Rensselaer","570","1992","","D-III","-",NA,NA,NA,NA
+"35","Rensselaer","570","1991","","D-III","-",NA,NA,NA,NA
+"36","Rensselaer","570","1990","","D-III","-",NA,NA,NA,NA
+"37","Rensselaer","570","1989","","D-III","-",NA,NA,NA,NA
+"38","Rensselaer","570","1988","Deb Pallozzi","D-III","-",4,22,NA,0.154
+"39","Rensselaer","570","1987","Deb Pallozzi","D-III","-",1,1,NA,0.5
+"40","Rensselaer","570","1985","","D-III","-",NA,NA,NA,NA
+"41","Rensselaer","570","1983","","D-III","-",NA,NA,NA,NA
+"42","Rensselaer","570","1982","","D-III","-",NA,NA,NA,NA
+"43","Rensselaer","570","","","","",700,388,6,0.643

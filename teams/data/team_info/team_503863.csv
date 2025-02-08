@@ -1,5 +1,6 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2020",NA,"-","0-0-0",0
-"2","2012",NA,"-","0-0-0",NA
-"3","2007",NA,"-","0-0-0",NA
-"4","2006",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ohio-Chillicothe","503863","2020",NA,NA,"-",NA,NA,NA,0
+"2","Ohio-Chillicothe","503863","2012",NA,NA,"-",NA,NA,NA,NA
+"3","Ohio-Chillicothe","503863","2007",NA,NA,"-",NA,NA,NA,NA
+"4","Ohio-Chillicothe","503863","2006",NA,NA,"-",NA,NA,NA,NA
+"5","Ohio-Chillicothe","503863","",NA,NA,"",0,0,0,0

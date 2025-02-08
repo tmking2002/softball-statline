@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bry Castro","CCAA","35-15-0",0.7
-"2",2022,"Jennifer Bridges","CCAA","42-18-0",0.7
-"3",2021,"Jennifer Bridges","CCAA","0-0-0",NA
-"4",2020,"Jennifer Bridges","CCAA","17-8-0",0.68
-"5",2019,"Jennifer Bridges","CCAA","36-20-0",0.643
-"6",2018,"Jennifer Bridges","CCAA","27-22-0",0.551
-"7",2017,"Jennifer Bridges","CCAA","38-20-0",0.655
-"8",2016,"Jennifer Bridges","CCAA","33-24-1",0.579
-"9",2015,"Jennifer Bridges","CCAA","42-21-0",0.667
-"10",2014,"Jennifer Bridges","CCAA","38-23-0",0.623
-"11",2013,"Jennifer Bridges","CCAA","37-21-0",0.638
-"12",2012,"Jennifer Bridges","CCAA","36-19-0",0.655
-"13",2011,"Jennifer Bridges","CCAA","38-22-0",0.633
-"14",2010,"Jennifer Bridges","CCAA","43-18-0",0.705
-"15",2009,"Jaime Wallin","CCAA","36-25-0",0.59
-"16",2008,"Jaime Wallin","CCAA","16-36-0",0.308
-"17",2007,"Jaime Wallin","CCAA","32-32-0",0.5
-"18",2006,"Jaime Wallin","CCAA","21-36-0",0.368
-"19",2005,"Chris Elze","CCAA","16-36-1",0.308
-"20",2004,"Chris Elze","CCAA","24-37-0",0.393
-"21",2003,"Chris Elze","CCAA","16-38-0",0.296
-"22",2002,"Chris Elze","CCAA","21-31-0",0.404
-"23",2001,"Chris Elze","-","22-32-0",0.407
-"24",2000,"Paul King","-","32-27-0",0.542
-"25",1999,"Paul King","-","24-31-0",0.436
-"26",1998,"Paul King","-","22-31-0",0.415
-"27",1997,"Paul King","-","36-22-0",0.621
-"28",1996,"Paul King","-","40-16-0",0.714
-"29",1995,"Paul King","-","36-15-0",0.706
-"30",1994,"Paul King","-","36-20-0",0.643
-"31",1993,"Paul King","-","32-24-0",0.571
-"32",1992,"Paul King","-","22-24-0",0.478
-"33",1991,"Paul King","-","26-31-0",0.456
-"34",1990,"Paul King","-","29-22-0",0.569
-"35",1989,"Paul King","-","30-29-0",0.508
-"36",1988,"Paul King","-","7-43-0",0.14
-"37",1987,"Paul King","-","31-26-0",0.544
-"38",1986,"Paul King","-","31-19-0",0.62
-"39",1985,"Paul King","-","24-35-0",0.407
-"40",1984,"Paul King","-","24-21-0",0.533
-"41",1982,"","-","0-0-0",NA
-"42",2024,"Jennifer Bridges","CCAA","23-16-0",0.59
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Sonoma St.","645","2025","Jennifer Bridges","D-II","CCAA",5,2,0,0.714
+"2","Sonoma St.","645","2024","Jennifer Bridges","D-II","CCAA",30,18,0,0.625
+"3","Sonoma St.","645","2023","Jennifer Bridges","D-II","CCAA",35,15,0,0.7
+"4","Sonoma St.","645","2022","Jennifer Bridges","D-II","CCAA",42,18,0,0.7
+"5","Sonoma St.","645","2021","Jennifer Bridges","D-II","CCAA",0,0,0,0
+"6","Sonoma St.","645","2020","Jennifer Bridges","D-II","CCAA",17,8,0,0.68
+"7","Sonoma St.","645","2019","Jennifer Bridges","D-II","CCAA",36,20,0,0.643
+"8","Sonoma St.","645","2018","Jennifer Bridges","D-II","CCAA",27,22,NA,0.551
+"9","Sonoma St.","645","2017","Jennifer Bridges","D-II","CCAA",38,20,0,0.655
+"10","Sonoma St.","645","2016","Jennifer Bridges","D-II","CCAA",33,24,1,0.578
+"11","Sonoma St.","645","2015","Jennifer Bridges","D-II","CCAA",42,21,0,0.667
+"12","Sonoma St.","645","2014","Jennifer Bridges","D-II","CCAA",38,23,0,0.623
+"13","Sonoma St.","645","2013","Jennifer Bridges","D-II","CCAA",37,21,0,0.638
+"14","Sonoma St.","645","2012","Jennifer Bridges","D-II","CCAA",36,19,0,0.655
+"15","Sonoma St.","645","2011","Jennifer Bridges","D-II","CCAA",38,22,0,0.633
+"16","Sonoma St.","645","2010","Jennifer Bridges","D-II","CCAA",43,18,0,0.705
+"17","Sonoma St.","645","2009","Jaime Wallin","D-II","CCAA",36,25,0,0.59
+"18","Sonoma St.","645","2008","Jaime Wallin","D-II","CCAA",16,36,0,0.308
+"19","Sonoma St.","645","2007","Jaime Wallin","D-II","CCAA",32,32,0,0.5
+"20","Sonoma St.","645","2006","Jaime Wallin","D-II","CCAA",21,36,0,0.368
+"21","Sonoma St.","645","2005","Chris Elze","D-II","CCAA",16,36,1,0.311
+"22","Sonoma St.","645","2004","Chris Elze","D-II","CCAA",24,37,0,0.393
+"23","Sonoma St.","645","2003","Chris Elze","D-II","CCAA",16,38,0,0.296
+"24","Sonoma St.","645","2002","Chris Elze","D-II","CCAA",21,31,0,0.404
+"25","Sonoma St.","645","2001","Chris Elze","D-II","-",22,32,NA,0.407
+"26","Sonoma St.","645","1900","Paul King","D-II","-",32,27,NA,0.542
+"27","Sonoma St.","645","1999","Paul King","D-II","-",24,31,NA,0.436
+"28","Sonoma St.","645","1998","Paul King","D-II","-",22,31,NA,0.415
+"29","Sonoma St.","645","1997","Paul King","D-II","-",36,22,NA,0.621
+"30","Sonoma St.","645","1996","Paul King","D-II","-",40,16,NA,0.714
+"31","Sonoma St.","645","1995","Paul King","D-II","-",36,15,NA,0.706
+"32","Sonoma St.","645","1994","Paul King","D-II","-",36,20,NA,0.643
+"33","Sonoma St.","645","1993","Paul King","D-II","-",32,24,NA,0.571
+"34","Sonoma St.","645","1992","Paul King","D-II","-",22,24,NA,0.478
+"35","Sonoma St.","645","1991","Paul King","D-II","-",26,31,NA,0.456
+"36","Sonoma St.","645","1990","Paul King","D-II","-",29,22,NA,0.569
+"37","Sonoma St.","645","1989","Paul King","D-II","-",30,29,NA,0.508
+"38","Sonoma St.","645","1988","Paul King","D-II","-",7,43,NA,0.14
+"39","Sonoma St.","645","1987","Paul King","D-II","-",31,26,NA,0.544
+"40","Sonoma St.","645","1986","Paul King","D-II","-",31,19,NA,0.62
+"41","Sonoma St.","645","1985","Paul King","D-II","-",24,35,NA,0.407
+"42","Sonoma St.","645","1984","Paul King","D-II","-",24,21,NA,0.533
+"43","Sonoma St.","645","1982","","D-III","-",NA,NA,NA,NA
+"44","Sonoma St.","645","","","","",1183,1010,2,0.539

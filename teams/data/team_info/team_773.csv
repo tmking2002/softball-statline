@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Phil Smith","Centennial","12-25-0",0.324
-"2",2022,"Phil Smith","Centennial","18-23-0",0.439
-"3",2021,"Phil Smith","Centennial","7-9-0",0.438
-"4",2020,"Phil Smith","Centennial","0-4-0",0
-"5",2019,"Phil Smith","Centennial","19-16-0",0.543
-"6",2018,"Phil Smith","Centennial","21-20-1",0.512
-"7",2017,"Phil Smith","Centennial","24-17-1",0.585
-"8",2016,"Phil Smith","Centennial","24-18-0",0.571
-"9",2015,"Phil Smith","Centennial","29-12-0",0.707
-"10",2014,"Phil Smith","Centennial","29-17-0",0.63
-"11",2013,"Phil Smith","Centennial","23-18-0",0.561
-"12",2012,"Phil Smith","Centennial","30-14-0",0.682
-"13",2011,"Phil Smith","Centennial","14-26-0",0.35
-"14",2010,"Phil Smith","Centennial","16-24-0",0.4
-"15",2009,"Phil Smith","Centennial","13-22-0",0.371
-"16",2008,"Phil Smith","Centennial","13-23-0",0.361
-"17",2007,"Phil Smith","Centennial","15-19-0",0.441
-"18",2006,"Phil Smith","Centennial","21-21-0",0.5
-"19",2005,"Phil Smith","Centennial","21-17-0",0.553
-"20",2004,"George Dix","Centennial","27-11-0",0.711
-"21",2003,"George Dix","Centennial","24-9-0",0.727
-"22",2002,"George Dix","Centennial","30-8-0",0.789
-"23",2001,"George Dix","-","28-6-0",0.824
-"24",2000,"George Dix","-","23-6-0",0.793
-"25",1999,"George Dix","-","20-12-0",0.625
-"26",1998,"George Dix","-","27-9-0",0.75
-"27",1997,"George Dix","-","20-11-0",0.645
-"28",1996,"George Dix","-","22-7-1",0.759
-"29",1995,"George Dix","-","19-6-0",0.76
-"30",1994,"George Dix","-","21-5-0",0.808
-"31",1993,"George Dix","-","15-6-0",0.714
-"32",1992,"George Dix","-","21-6-0",0.778
-"33",1991,"George Dix","-","14-8-0",0.636
-"34",1990,"George Dix","-","11-9-0",0.55
-"35",1989,"George Dix","-","3-14-0",0.176
-"36",1988,"Carole Templon","-","8-13-0",0.381
-"37",1986,"","-","0-0-0",NA
-"38",1985,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",1982,"","-","0-0-0",NA
-"42",1981,"","-","0-0-0",NA
-"43",2024,"Phil Smith","Centennial","17-23-0",0.425
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","McDaniel","773","2025","Jessica Zavolta","D-III","Centennial",0,0,0,0
+"2","McDaniel","773","2024","Phil Smith","D-III","Centennial",17,23,0,0.425
+"3","McDaniel","773","2023","Phil Smith","D-III","Centennial",12,25,0,0.324
+"4","McDaniel","773","2022","Phil Smith","D-III","Centennial",18,23,0,0.439
+"5","McDaniel","773","2021","Phil Smith","D-III","Centennial",7,9,0,0.438
+"6","McDaniel","773","2020","Phil Smith","D-III","Centennial",0,4,0,0
+"7","McDaniel","773","2019","Phil Smith","D-III","Centennial",19,16,0,0.543
+"8","McDaniel","773","2018","Phil Smith","D-III","Centennial",21,20,1,0.512
+"9","McDaniel","773","2017","Phil Smith","D-III","Centennial",24,17,1,0.583
+"10","McDaniel","773","2016","Phil Smith","D-III","Centennial",24,18,0,0.571
+"11","McDaniel","773","2015","Phil Smith","D-III","Centennial",29,12,0,0.707
+"12","McDaniel","773","2014","Phil Smith","D-III","Centennial",29,17,0,0.63
+"13","McDaniel","773","2013","Phil Smith","D-III","Centennial",23,18,0,0.561
+"14","McDaniel","773","2012","Phil Smith","D-III","Centennial",30,14,0,0.682
+"15","McDaniel","773","2011","Phil Smith","D-III","Centennial",14,26,0,0.35
+"16","McDaniel","773","2010","Phil Smith","D-III","Centennial",16,24,0,0.4
+"17","McDaniel","773","2009","Phil Smith","D-III","Centennial",13,22,0,0.371
+"18","McDaniel","773","2008","Phil Smith","D-III","Centennial",13,23,0,0.361
+"19","McDaniel","773","2007","Phil Smith","D-III","Centennial",15,19,0,0.441
+"20","McDaniel","773","2006","Phil Smith","D-III","Centennial",21,21,0,0.5
+"21","McDaniel","773","2005","Phil Smith","D-III","Centennial",21,17,0,0.553
+"22","McDaniel","773","2004","George Dix","D-III","Centennial",27,11,0,0.711
+"23","McDaniel","773","2003","George Dix","D-III","Centennial",24,9,0,0.727
+"24","McDaniel","773","2002","George Dix","D-III","Centennial",30,8,0,0.789
+"25","McDaniel","773","2001","George Dix","D-III","-",28,6,NA,0.824
+"26","McDaniel","773","1900","George Dix","D-III","-",23,6,NA,0.793
+"27","McDaniel","773","1999","George Dix","D-III","-",20,12,NA,0.625
+"28","McDaniel","773","1998","George Dix","D-III","-",27,9,NA,0.75
+"29","McDaniel","773","1997","George Dix","D-III","-",20,11,NA,0.645
+"30","McDaniel","773","1996","George Dix","D-III","-",22,7,1,0.75
+"31","McDaniel","773","1995","George Dix","D-III","-",19,6,NA,0.76
+"32","McDaniel","773","1994","George Dix","D-III","-",21,5,NA,0.808
+"33","McDaniel","773","1993","George Dix","D-III","-",15,6,NA,0.714
+"34","McDaniel","773","1992","George Dix","D-III","-",21,6,NA,0.778
+"35","McDaniel","773","1991","George Dix","D-III","-",14,8,NA,0.636
+"36","McDaniel","773","1990","George Dix","D-III","-",11,9,NA,0.55
+"37","McDaniel","773","1989","George Dix","D-III","-",3,14,NA,0.176
+"38","McDaniel","773","1988","Carole Templon","D-III","-",8,13,NA,0.381
+"39","McDaniel","773","1986","","D-III","-",NA,NA,NA,NA
+"40","McDaniel","773","1985","","D-III","-",NA,NA,NA,NA
+"41","McDaniel","773","1984","","D-III","-",NA,NA,NA,NA
+"42","McDaniel","773","1983","","D-III","-",NA,NA,NA,NA
+"43","McDaniel","773","1982","","D-III","-",NA,NA,NA,NA
+"44","McDaniel","773","1981","","","-",NA,NA,NA,NA
+"45","McDaniel","773","","","","",699,514,3,0.576

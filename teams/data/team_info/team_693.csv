@@ -1,32 +1,34 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Frank Reed","SoCon","25-27-0",0.481
-"2",2022,"Frank Reed","SoCon","30-27-0",0.526
-"3",2021,"Frank Reed","SoCon","13-25-0",0.342
-"4",2020,"Frank Reed","SoCon","7-14-0",0.333
-"5",2019,"Frank Reed","SoCon","37-17-0",0.685
-"6",2018,"Frank Reed","SoCon","26-30-0",0.464
-"7",2017,"Frank Reed","SoCon","15-38-0",0.283
-"8",2016,"Frank Reed","SoCon","30-29-0",0.508
-"9",2015,"Frank Reed","SoCon","35-15-0",0.7
-"10",2014,"Frank Reed","SoCon","34-21-0",0.618
-"11",2013,"Frank Reed","SoCon","26-28-0",0.481
-"12",2012,"Frank Reed","SoCon","39-16-0",0.709
-"13",2011,"Frank Reed","SoCon","44-14-0",0.759
-"14",2010,"Frank Reed","SoCon","39-17-0",0.696
-"15",2009,"Frank Reed","SoCon","30-24-0",0.556
-"16",2008,"Frank Reed","SoCon","41-22-0",0.651
-"17",2007,"Frank Reed","SoCon","35-31-0",0.53
-"18",2006,"Frank Reed","SoCon","38-35-0",0.521
-"19",2005,"Frank Reed","SoCon","46-21-0",0.687
-"20",2004,"Frank Reed","SoCon","45-25-0",0.643
-"21",2003,"Frank Reed","SoCon","37-30-0",0.552
-"22",2002,"Frank Reed","SoCon","44-15-0",0.746
-"23",2001,"Ralph Weekly (49-18)Karen Weekly (49-18)","SoCon","49-18-0",0.731
-"24",2000,"Karen Weekly","SoCon","47-27-0",0.635
-"25",1999,"Karen Weekly","SoCon","48-18-0",0.727
-"26",1998,"Karen Weekly (47-15)Ralph Weekly (47-15)","-","47-15-0",0.758
-"27",1997,"Karen Weekly (32-19)Ralph Weekly (32-19)","SoCon","32-19-0",0.627
-"28",1996,"Ralph Weekly","-","34-15-0",0.694
-"29",1995,"Ralph Weekly","-","29-21-0",0.58
-"30",1994,"Robert Westling","-","13-26-0",0.333
-"31",2024,"Frank Reed","SoCon","42-16-0",0.724
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Chattanooga","693","2025","Frank Reed","D-I","SoCon",2,0,0,1
+"2","Chattanooga","693","2024","Frank Reed","D-I","SoCon",42,16,0,0.724
+"3","Chattanooga","693","2023","Frank Reed","D-I","SoCon",25,27,0,0.481
+"4","Chattanooga","693","2022","Frank Reed","D-I","SoCon",30,27,0,0.526
+"5","Chattanooga","693","2021","Frank Reed","D-I","SoCon",13,25,0,0.342
+"6","Chattanooga","693","2020","Frank Reed","D-I","SoCon",7,14,0,0.333
+"7","Chattanooga","693","2019","Frank Reed","D-I","SoCon",37,17,0,0.685
+"8","Chattanooga","693","2018","Frank Reed","D-I","SoCon",26,30,NA,0.464
+"9","Chattanooga","693","2017","Frank Reed","D-I","SoCon",15,38,0,0.283
+"10","Chattanooga","693","2016","Frank Reed","D-I","SoCon",30,29,0,0.508
+"11","Chattanooga","693","2015","Frank Reed","D-I","SoCon",35,15,0,0.7
+"12","Chattanooga","693","2014","Frank Reed","D-I","SoCon",34,21,0,0.618
+"13","Chattanooga","693","2013","Frank Reed","D-I","SoCon",26,28,0,0.481
+"14","Chattanooga","693","2012","Frank Reed","D-I","SoCon",39,16,0,0.709
+"15","Chattanooga","693","2011","Frank Reed","D-I","SoCon",44,14,0,0.759
+"16","Chattanooga","693","2010","Frank Reed","D-I","SoCon",39,17,0,0.696
+"17","Chattanooga","693","2009","Frank Reed","D-I","SoCon",30,24,0,0.556
+"18","Chattanooga","693","2008","Frank Reed","D-I","SoCon",41,22,0,0.651
+"19","Chattanooga","693","2007","Frank Reed","D-I","SoCon",35,31,0,0.53
+"20","Chattanooga","693","2006","Frank Reed","D-I","SoCon",38,35,0,0.521
+"21","Chattanooga","693","2005","Frank Reed","D-I","SoCon",46,21,0,0.687
+"22","Chattanooga","693","2004","Frank Reed","D-I","SoCon",45,25,0,0.643
+"23","Chattanooga","693","2003","Frank Reed","D-I","SoCon",37,30,0,0.552
+"24","Chattanooga","693","2002","Frank Reed","D-I","SoCon",44,15,0,0.746
+"25","Chattanooga","693","2001","Ralph Weekly (49-18)Karen Weekly (49-18)","D-I","SoCon",49,18,0,0.731
+"26","Chattanooga","693","1900","Karen Weekly","D-I","SoCon",47,27,0,0.635
+"27","Chattanooga","693","1999","Karen Weekly","D-I","SoCon",48,18,0,0.727
+"28","Chattanooga","693","1998","Karen Weekly (47-15)Ralph Weekly (47-15)","D-I","-",47,15,NA,0.758
+"29","Chattanooga","693","1997","Karen Weekly (32-19)Ralph Weekly (32-19)","D-I","SoCon",32,19,0,0.627
+"30","Chattanooga","693","1996","Ralph Weekly","D-I","-",34,15,NA,0.694
+"31","Chattanooga","693","1995","Ralph Weekly","D-I","-",29,21,NA,0.58
+"32","Chattanooga","693","1994","Robert Westling","D-I","-",13,26,0,0.333
+"33","Chattanooga","693","","","","",1059,696,0,0.603

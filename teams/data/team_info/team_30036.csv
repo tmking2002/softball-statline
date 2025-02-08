@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jeff Bicko","AMCC","19-12-0",0.613
-"2",2022,"Jeff Bicko","AMCC","18-12-0",0.6
-"3",2021,"Jeff Bicko","AMCC","15-10-1",0.6
-"4",2020,"Jeff Bicko","AMCC","0-0-0",NA
-"5",2019,"Jeff Bicko","AMCC","34-10-0",0.773
-"6",2018,"Andie Gutmann","AMCC","21-15-0",0.583
-"7",2017,"Carl Teeter","AMCC","17-17-0",0.5
-"8",2016,"Carl Teeter","AMCC","20-22-0",0.476
-"9",2015,"Carl Teeter","AMCC","18-19-0",0.486
-"10",2014,"Carl Teeter","AMCC","27-12-0",0.692
-"11",2013,"Carl Teeter","AMCC","26-13-0",0.667
-"12",2012,"Carl Teeter","AMCC","23-18-0",0.561
-"13",2011,"Carl Teeter","AMCC","27-10-0",0.73
-"14",2010,"Carl Teeter","AMCC","26-13-0",0.667
-"15",2009,"Carl Teeter","AMCC","27-12-0",0.692
-"16",2008,"Carl Teeter","AMCC","17-19-0",0.472
-"17",2007,"","AMCC","3-21-0",0.125
-"18",2006,"","AMCC","4-18-0",0.182
-"19",2005,"","-","0-24-0",0
-"20",1981,"","-","0-0-0",NA
-"21",2024,"Jeff Bicko","AMCC","19-15-0",0.559
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mount Aloysius","30036","2025","Kaleigh Roop","D-III","AMCC",0,0,0,0
+"2","Mount Aloysius","30036","2024","Michelle Ross","D-III","AMCC",20,15,0,0.571
+"3","Mount Aloysius","30036","2023","Jeff Bicko","D-III","AMCC",19,12,0,0.613
+"4","Mount Aloysius","30036","2022","Jeff Bicko","D-III","AMCC",18,12,0,0.6
+"5","Mount Aloysius","30036","2021","Jeff Bicko","D-III","AMCC",15,10,1,0.596
+"6","Mount Aloysius","30036","2020","Jeff Bicko","D-III","AMCC",NA,NA,NA,0
+"7","Mount Aloysius","30036","2019","Jeff Bicko","D-III","AMCC",34,10,0,0.773
+"8","Mount Aloysius","30036","2018","Andie Gutmann","D-III","AMCC",21,15,NA,0.583
+"9","Mount Aloysius","30036","2017","Carl Teeter","D-III","AMCC",17,17,0,0.5
+"10","Mount Aloysius","30036","2016","Carl Teeter","D-III","AMCC",20,22,0,0.476
+"11","Mount Aloysius","30036","2015","Carl Teeter","D-III","AMCC",18,19,0,0.486
+"12","Mount Aloysius","30036","2014","Carl Teeter","D-III","AMCC",27,12,0,0.692
+"13","Mount Aloysius","30036","2013","Carl Teeter","D-III","AMCC",26,13,0,0.667
+"14","Mount Aloysius","30036","2012","Carl Teeter","D-III","AMCC",23,18,0,0.561
+"15","Mount Aloysius","30036","2011","Carl Teeter","D-III","AMCC",27,10,0,0.73
+"16","Mount Aloysius","30036","2010","Carl Teeter","D-III","AMCC",26,13,0,0.667
+"17","Mount Aloysius","30036","2009","Carl Teeter","D-III","AMCC",27,12,0,0.692
+"18","Mount Aloysius","30036","2008","Carl Teeter","D-III","AMCC",17,19,0,0.472
+"19","Mount Aloysius","30036","2007","","","AMCC",3,21,0,0.125
+"20","Mount Aloysius","30036","2006","","","AMCC",4,18,0,0.182
+"21","Mount Aloysius","30036","2005","","","-",0,24,0,0
+"22","Mount Aloysius","30036","1981","","","-",NA,NA,NA,NA
+"23","Mount Aloysius","30036","","","","",362,292,1,0.553

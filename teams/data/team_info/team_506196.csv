@@ -1,15 +1,17 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
-"10","2014",NA,"-","0-0-0",NA
-"11","2013",NA,"-","0-0-0",NA
-"12","2012",NA,"-","0-0-0",NA
-"13","2011",NA,"-","5-2-0",0.714
-"14","2010",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","British Colum. (CAN)","506196","2025",NA,NA,"-",NA,NA,NA,0
+"2","British Colum. (CAN)","506196","2024",NA,NA,"-",NA,NA,NA,0
+"3","British Colum. (CAN)","506196","2023",NA,NA,"-",NA,NA,NA,0
+"4","British Colum. (CAN)","506196","2022",NA,NA,"-",NA,NA,NA,0
+"5","British Colum. (CAN)","506196","2020",NA,NA,"-",NA,NA,NA,0
+"6","British Colum. (CAN)","506196","2019",NA,NA,"-",NA,NA,NA,0
+"7","British Colum. (CAN)","506196","2018",NA,NA,"-",NA,NA,NA,0
+"8","British Colum. (CAN)","506196","2017",NA,NA,"-",NA,NA,NA,NA
+"9","British Colum. (CAN)","506196","2016",NA,NA,"-",NA,NA,NA,NA
+"10","British Colum. (CAN)","506196","2015",NA,NA,"-",NA,NA,NA,NA
+"11","British Colum. (CAN)","506196","2014",NA,NA,"-",NA,NA,NA,NA
+"12","British Colum. (CAN)","506196","2013",NA,NA,"-",NA,NA,NA,NA
+"13","British Colum. (CAN)","506196","2012",NA,NA,"-",NA,NA,NA,NA
+"14","British Colum. (CAN)","506196","2011",NA,NA,"-",5,2,0,0.714
+"15","British Colum. (CAN)","506196","2010",NA,NA,"-",NA,NA,NA,NA
+"16","British Colum. (CAN)","506196","",NA,NA,"",5,2,0,0.714

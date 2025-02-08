@@ -1,6 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2008",NA,"-","0-0-0",NA
-"2","2007",NA,"-","0-0-0",NA
-"3","2005",NA,"-","0-0-0",NA
-"4","2004",NA,"-","0-0-0",NA
-"5","1981",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Mary's (MD)","611","2008",NA,NA,"-",NA,NA,NA,NA
+"2","St. Mary's (MD)","611","2007",NA,NA,"-",NA,NA,NA,NA
+"3","St. Mary's (MD)","611","2005",NA,NA,"-",NA,NA,NA,NA
+"4","St. Mary's (MD)","611","2004",NA,NA,"-",NA,NA,NA,NA
+"5","St. Mary's (MD)","611","1981",NA,NA,"-",NA,NA,NA,NA
+"6","St. Mary's (MD)","611","",NA,NA,"",0,0,0,0

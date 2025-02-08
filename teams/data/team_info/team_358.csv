@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Stephanie DeFeo","Gulf South","41-14-0",0.745
-"2",2022,"Stephanie DeFeo","Gulf South","28-25-0",0.528
-"3",2021,"Carie Dever-Boaz","Gulf South","18-23-0",0.439
-"4",2020,"Carie Dever-Boaz","Gulf South","8-14-0",0.364
-"5",2019,"Carie Dever-Boaz","Gulf South","30-23-0",0.566
-"6",2018,"Carie Dever-Boaz","Gulf South","20-30-0",0.4
-"7",2017,"Carie Dever-Boaz","Gulf South","21-31-0",0.404
-"8",2016,"Will Atkinson","Gulf South","17-32-0",0.347
-"9",2015,"Will Atkinson","Gulf South","19-26-0",0.422
-"10",2014,"Will Atkinson","Gulf South","24-25-0",0.49
-"11",2013,"Will Atkinson","Gulf South","30-20-0",0.6
-"12",2012,"Will Atkinson","Gulf South","35-25-0",0.583
-"13",2011,"Will Atkinson","Gulf South","38-19-0",0.667
-"14",2010,"Will Atkinson","Gulf South","38-23-0",0.623
-"15",2009,"Will Atkinson","Gulf South","42-17-0",0.712
-"16",2008,"Will Atkinson","Gulf South","30-29-0",0.508
-"17",2007,"Janet Montgomery","Gulf South","26-33-0",0.441
-"18",2006,"Janet Montgomery","Gulf South","14-39-0",0.264
-"19",2005,"Janet Montgomery","Gulf South","17-35-0",0.327
-"20",2004,"Janet Montgomery","Gulf South","11-35-0",0.239
-"21",2003,"Janet Montgomery","Gulf South","19-21-0",0.475
-"22",2002,"Janet Montgomery","-","15-33-0",0.312
-"23",2001,"Janet Montgomery","-","20-24-0",0.455
-"24",2000,"Janet Montgomery","-","22-33-1",0.4
-"25",1999,"Janet Montgomery","-","27-29-0",0.482
-"26",1998,"Janet Montgomery","-","16-32-0",0.333
-"27",1997,"Janet Montgomery","-","32-18-0",0.64
-"28",1996,"Janet Montgomery","-","25-25-0",0.5
-"29",1995,"Janet Montgomery","-","22-20-0",0.524
-"30",1994,"Janet Montgomery","-","22-26-0",0.458
-"31",1993,"Janet Montgomery","-","14-32-0",0.304
-"32",1992,"Janet Montgomery","-","21-23-0",0.477
-"33",1991,"Janet Montgomery","-","34-9-0",0.791
-"34",1990,"Janet Montgomery","-","37-22-0",0.627
-"35",1989,"Janet Montgomery","-","32-18-0",0.64
-"36",1988,"Liz Kelly","-","41-13-0",0.759
-"37",1987,"Liz Kelly","-","17-25-0",0.405
-"38",2024,"Stephanie DeFeo","Gulf South","28-18-0",0.609
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","West Ala.","358","2025","Stephanie DeFeo","D-II","Gulf South",4,3,0,0.571
+"2","West Ala.","358","2024","Stephanie DeFeo","D-II","Gulf South",34,20,0,0.63
+"3","West Ala.","358","2023","Stephanie DeFeo","D-II","Gulf South",41,14,0,0.745
+"4","West Ala.","358","2022","Stephanie DeFeo","D-II","Gulf South",28,25,0,0.528
+"5","West Ala.","358","2021","Carie Dever-Boaz","D-II","Gulf South",18,23,0,0.439
+"6","West Ala.","358","2020","Carie Dever-Boaz","D-II","Gulf South",8,14,0,0.364
+"7","West Ala.","358","2019","Carie Dever-Boaz","D-II","Gulf South",30,23,0,0.566
+"8","West Ala.","358","2018","Carie Dever-Boaz","D-II","Gulf South",20,30,NA,0.4
+"9","West Ala.","358","2017","Carie Dever-Boaz","D-II","Gulf South",21,31,0,0.404
+"10","West Ala.","358","2016","Will Atkinson","D-II","Gulf South",17,32,0,0.347
+"11","West Ala.","358","2015","Will Atkinson","D-II","Gulf South",19,26,0,0.422
+"12","West Ala.","358","2014","Will Atkinson","D-II","Gulf South",24,25,0,0.49
+"13","West Ala.","358","2013","Will Atkinson","D-II","Gulf South",30,20,0,0.6
+"14","West Ala.","358","2012","Will Atkinson","D-II","Gulf South",35,25,0,0.583
+"15","West Ala.","358","2011","Will Atkinson","D-II","Gulf South",38,19,0,0.667
+"16","West Ala.","358","2010","Will Atkinson","D-II","Gulf South",38,23,0,0.623
+"17","West Ala.","358","2009","Will Atkinson","D-II","Gulf South",42,17,0,0.712
+"18","West Ala.","358","2008","Will Atkinson","D-II","Gulf South",30,29,0,0.508
+"19","West Ala.","358","2007","Janet Montgomery","D-II","Gulf South",26,33,0,0.441
+"20","West Ala.","358","2006","Janet Montgomery","D-II","Gulf South",14,39,0,0.264
+"21","West Ala.","358","2005","Janet Montgomery","D-II","Gulf South",17,35,0,0.327
+"22","West Ala.","358","2004","Janet Montgomery","D-II","Gulf South",11,35,0,0.239
+"23","West Ala.","358","2003","Janet Montgomery","D-II","Gulf South",19,21,0,0.475
+"24","West Ala.","358","2002","Janet Montgomery","D-II","-",15,33,0,0.313
+"25","West Ala.","358","2001","Janet Montgomery","D-II","-",20,24,NA,0.455
+"26","West Ala.","358","1900","Janet Montgomery","D-II","-",22,33,1,0.402
+"27","West Ala.","358","1999","Janet Montgomery","D-II","-",27,29,NA,0.482
+"28","West Ala.","358","1998","Janet Montgomery","D-II","-",16,32,NA,0.333
+"29","West Ala.","358","1997","Janet Montgomery","D-II","-",32,18,NA,0.64
+"30","West Ala.","358","1996","Janet Montgomery","D-II","-",25,25,NA,0.5
+"31","West Ala.","358","1995","Janet Montgomery","D-II","-",22,20,NA,0.524
+"32","West Ala.","358","1994","Janet Montgomery","D-II","-",22,26,NA,0.458
+"33","West Ala.","358","1993","Janet Montgomery","D-II","-",14,32,NA,0.304
+"34","West Ala.","358","1992","Janet Montgomery","D-II","-",21,23,NA,0.477
+"35","West Ala.","358","1991","Janet Montgomery","D-II","-",34,9,NA,0.791
+"36","West Ala.","358","1990","Janet Montgomery","D-II","-",37,22,NA,0.627
+"37","West Ala.","358","1989","Janet Montgomery","D-II","-",32,18,NA,0.64
+"38","West Ala.","358","1988","Liz Kelly","D-II","-",41,13,NA,0.759
+"39","West Ala.","358","1987","Liz Kelly","D-II","-",17,25,NA,0.405
+"40","West Ala.","358","","","","",961,944,1,0.504

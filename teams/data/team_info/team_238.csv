@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lawrence Miller","MASCAC","33-13-0",0.717
-"2",2022,"Lawrence Miller","MASCAC","23-19-0",0.548
-"3",2021,"Lawrence Miller","MASCAC","29-8-0",0.784
-"4",2020,"Lawrence Miller","MASCAC","0-0-0",NA
-"5",2019,"Lawrence Miller","MASCAC","24-21-0",0.533
-"6",2018,"Lawrence Miller","MASCAC","25-17-0",0.595
-"7",2017,"Lawrence Miller","MASCAC","31-13-0",0.705
-"8",2016,"Lawrence Miller","MASCAC","13-27-0",0.325
-"9",2015,"Lawrence Miller","MASCAC","13-20-0",0.394
-"10",2014,"Rich Paulhus","MASCAC","21-20-0",0.512
-"11",2013,"Rich Paulhus","MASCAC","9-30-0",0.231
-"12",2012,"Rich Paulhus","MASCAC","17-23-0",0.425
-"13",2011,"Rich Paulhus","MASCAC","14-22-0",0.389
-"14",2010,"Rich Paulhus","MASCAC","17-22-0",0.436
-"15",2009,"Rich Paulhus","MASCAC","14-27-0",0.341
-"16",2008,"Rich Paulhus","MASCAC","16-23-0",0.41
-"17",2007,"Rich Paulhus","MASCAC","21-21-0",0.5
-"18",2006,"Rich Paulhus","MASCAC","21-22-0",0.488
-"19",2005,"Rich Paulhus","MASCAC","17-15-0",0.531
-"20",2004,"Rich Paulhus","MASCAC","15-21-0",0.417
-"21",2003,"Rich Paulhus","MASCAC","12-19-0",0.387
-"22",2002,"","-","0-0-0",NA
-"23",2001,"Robert Richardson","-","24-13-0",0.649
-"24",2000,"Robert Richardson","-","12-24-0",0.333
-"25",1999,"Sarah Keough","-","3-28-0",0.097
-"26",1998,"Sarah Keough","-","4-18-0",0.182
-"27",1997,"Janet Casey","-","0-0-0",NA
-"28",1996,"Janet Casey","-","2-16-0",0.111
-"29",1995,"Janet Casey","-","9-15-0",0.375
-"30",1994,"Ellen Thompson","-","9-14-0",0.391
-"31",1993,"","-","18-9-0",0.667
-"32",1992,"","-","17-9-0",0.654
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1984,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",1982,"","-","0-0-0",NA
-"42",2024,"Lawrence Miller","MASCAC","25-20-0",0.556
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Framingham St.","238","2025","Lawrence Miller","D-III","MASCAC",0,0,0,0
+"2","Framingham St.","238","2024","Lawrence Miller","D-III","MASCAC",25,20,0,0.556
+"3","Framingham St.","238","2023","Lawrence Miller","D-III","MASCAC",33,13,0,0.717
+"4","Framingham St.","238","2022","Lawrence Miller","D-III","MASCAC",23,19,0,0.548
+"5","Framingham St.","238","2021","Lawrence Miller","D-III","MASCAC",29,8,0,0.784
+"6","Framingham St.","238","2020","Lawrence Miller","D-III","MASCAC",NA,NA,NA,0
+"7","Framingham St.","238","2019","Lawrence Miller","D-III","MASCAC",24,21,0,0.533
+"8","Framingham St.","238","2018","Lawrence Miller","D-III","MASCAC",25,17,NA,0.595
+"9","Framingham St.","238","2017","Lawrence Miller","D-III","MASCAC",31,13,0,0.705
+"10","Framingham St.","238","2016","Lawrence Miller","D-III","MASCAC",13,27,0,0.325
+"11","Framingham St.","238","2015","Lawrence Miller","D-III","MASCAC",13,20,0,0.394
+"12","Framingham St.","238","2014","Rich Paulhus","D-III","MASCAC",21,20,0,0.512
+"13","Framingham St.","238","2013","Rich Paulhus","D-III","MASCAC",9,30,0,0.231
+"14","Framingham St.","238","2012","Rich Paulhus","D-III","MASCAC",17,23,0,0.425
+"15","Framingham St.","238","2011","Rich Paulhus","D-III","MASCAC",14,22,0,0.389
+"16","Framingham St.","238","2010","Rich Paulhus","D-III","MASCAC",17,22,0,0.436
+"17","Framingham St.","238","2009","Rich Paulhus","D-III","MASCAC",14,27,0,0.341
+"18","Framingham St.","238","2008","Rich Paulhus","D-III","MASCAC",16,23,0,0.41
+"19","Framingham St.","238","2007","Rich Paulhus","D-III","MASCAC",21,21,0,0.5
+"20","Framingham St.","238","2006","Rich Paulhus","D-III","MASCAC",21,22,0,0.488
+"21","Framingham St.","238","2005","Rich Paulhus","D-III","MASCAC",17,15,0,0.531
+"22","Framingham St.","238","2004","Rich Paulhus","D-III","MASCAC",15,21,0,0.417
+"23","Framingham St.","238","2003","Rich Paulhus","D-III","MASCAC",12,19,0,0.387
+"24","Framingham St.","238","2002","","D-III","-",NA,NA,NA,NA
+"25","Framingham St.","238","2001","Robert Richardson","D-III","-",24,13,NA,0.649
+"26","Framingham St.","238","1900","Robert Richardson","D-III","-",12,24,NA,0.333
+"27","Framingham St.","238","1999","Sarah Keough","D-III","-",3,28,NA,0.097
+"28","Framingham St.","238","1998","Sarah Keough","D-III","-",4,18,NA,0.182
+"29","Framingham St.","238","1997","Janet Casey","D-III","-",NA,NA,NA,NA
+"30","Framingham St.","238","1996","Janet Casey","D-III","-",2,16,NA,0.111
+"31","Framingham St.","238","1995","Janet Casey","D-III","-",9,15,NA,0.375
+"32","Framingham St.","238","1994","Ellen Thompson","D-III","-",9,14,NA,0.391
+"33","Framingham St.","238","1993","","D-III","-",18,9,NA,0.667
+"34","Framingham St.","238","1992","","D-III","-",17,9,NA,0.654
+"35","Framingham St.","238","1991","","D-III","-",NA,NA,NA,NA
+"36","Framingham St.","238","1990","","D-III","-",NA,NA,NA,NA
+"37","Framingham St.","238","1989","","","-",NA,NA,NA,NA
+"38","Framingham St.","238","1988","","","-",NA,NA,NA,NA
+"39","Framingham St.","238","1987","","","-",NA,NA,NA,NA
+"40","Framingham St.","238","1986","","","-",NA,NA,NA,NA
+"41","Framingham St.","238","1984","","D-III","-",NA,NA,NA,NA
+"42","Framingham St.","238","1983","","D-III","-",NA,NA,NA,NA
+"43","Framingham St.","238","1982","","D-III","-",NA,NA,NA,NA
+"44","Framingham St.","238","","","","",508,569,0,0.472

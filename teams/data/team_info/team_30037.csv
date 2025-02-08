@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","46-6-0",0.885
-"2",2022,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","35-13-0",0.729
-"3",2021,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","30-8-0",0.789
-"4",2020,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","7-3-0",0.7
-"5",2019,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","37-8-0",0.822
-"6",2018,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","26-13-0",0.667
-"7",2017,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","37-10-0",0.787
-"8",2016,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","33-14-0",0.702
-"9",2015,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","39-5-0",0.886
-"10",2014,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","43-6-0",0.878
-"11",2013,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","38-5-0",0.884
-"12",2012,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","40-10-0",0.8
-"13",2011,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","30-13-0",0.698
-"14",2010,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","28-15-0",0.651
-"15",2009,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","29-12-0",0.707
-"16",2008,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","31-8-0",0.795
-"17",2007,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","31-8-0",0.795
-"18",2006,"Donnie Danklefsen","-","19-21-0",0.475
-"19",2005,"Donnie Danklefsen","-","16-18-0",0.471
-"20",2004,"","-","13-21-2",0.382
-"21",2003,"","-","28-17-0",0.622
-"22",2002,"","-","25-25-0",0.5
-"23",2001,"","-","21-30-0",0.412
-"24",2000,"","-","17-31-0",0.354
-"25",1999,"","-","7-38-0",0.156
-"26",1998,"","-","20-25-0",0.444
-"27",1997,"","-","14-30-0",0.318
-"28",1996,"","-","9-31-0",0.225
-"29",1995,"","-","19-28-0",0.404
-"30",1994,"","-","20-38-0",0.345
-"31",1993,"","-","6-21-0",0.222
-"32",1992,"","-","22-11-0",0.667
-"33",1991,"","-","12-16-0",0.429
-"34",1990,"","-","15-17-0",0.469
-"35",1989,"","-","23-9-0",0.719
-"36",1988,"","-","30-11-0",0.732
-"37",1987,"","-","16-25-0",0.39
-"38",1986,"","-","20-18-0",0.526
-"39",1981,"","-","0-0-0",NA
-"40",2024,"Donnie Danklefsen","Michigan Intercol. Ath. Assn.","43-5-0",0.896
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Trine","30037","2025","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",0,0,0,0
+"2","Trine","30037","2024","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",43,5,0,0.896
+"3","Trine","30037","2023","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",46,6,0,0.885
+"4","Trine","30037","2022","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",35,13,0,0.729
+"5","Trine","30037","2021","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",30,8,0,0.789
+"6","Trine","30037","2020","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",7,3,0,0.7
+"7","Trine","30037","2019","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",37,8,0,0.822
+"8","Trine","30037","2018","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",26,13,NA,0.667
+"9","Trine","30037","2017","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",37,10,0,0.787
+"10","Trine","30037","2016","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",33,14,0,0.702
+"11","Trine","30037","2015","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",39,5,0,0.886
+"12","Trine","30037","2014","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",43,6,0,0.878
+"13","Trine","30037","2013","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",38,5,0,0.884
+"14","Trine","30037","2012","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",40,10,0,0.8
+"15","Trine","30037","2011","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",30,13,0,0.698
+"16","Trine","30037","2010","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",28,15,0,0.651
+"17","Trine","30037","2009","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",29,12,0,0.707
+"18","Trine","30037","2008","Donnie Danklefsen","D-III","Michigan Intercol. Ath. Assn.",31,8,0,0.795
+"19","Trine","30037","2007","Donnie Danklefsen","","Michigan Intercol. Ath. Assn.",31,8,0,0.795
+"20","Trine","30037","2006","Donnie Danklefsen","","-",19,21,0,0.475
+"21","Trine","30037","2005","Donnie Danklefsen","","-",16,18,0,0.471
+"22","Trine","30037","2004","","","-",13,21,2,0.389
+"23","Trine","30037","2003","","","-",28,17,0,0.622
+"24","Trine","30037","2002","","","-",25,25,0,0.5
+"25","Trine","30037","2001","","","-",21,30,0,0.412
+"26","Trine","30037","1900","","","-",17,31,0,0.354
+"27","Trine","30037","1999","","","-",7,38,0,0.156
+"28","Trine","30037","1998","","","-",20,25,0,0.444
+"29","Trine","30037","1997","","","-",14,30,0,0.318
+"30","Trine","30037","1996","","","-",9,31,0,0.225
+"31","Trine","30037","1995","","","-",19,28,0,0.404
+"32","Trine","30037","1994","","","-",20,38,0,0.345
+"33","Trine","30037","1993","","","-",6,21,0,0.222
+"34","Trine","30037","1992","","","-",22,11,0,0.667
+"35","Trine","30037","1991","","","-",12,16,0,0.429
+"36","Trine","30037","1990","","","-",15,17,0,0.469
+"37","Trine","30037","1989","","","-",23,9,0,0.719
+"38","Trine","30037","1988","","","-",30,11,0,0.732
+"39","Trine","30037","1987","","","-",16,25,0,0.39
+"40","Trine","30037","1986","","","-",20,18,0,0.526
+"41","Trine","30037","1981","","","-",NA,NA,NA,NA
+"42","Trine","30037","","","","",975,643,2,0.602

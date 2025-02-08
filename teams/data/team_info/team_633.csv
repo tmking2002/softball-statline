@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Caitlyn Seamster","Landmark","15-21-0",0.417
-"2",2022,"Caitlyn Seamster","Landmark","24-12-0",0.667
-"3",2021,"Mia Collarini","Landmark","24-7-0",0.774
-"4",2020,"Mia Collarini","Landmark","2-0-0",1
-"5",2019,"Mia Collarini","Landmark","32-16-0",0.667
-"6",2018,"Mia Collarini","Landmark","33-11-0",0.75
-"7",2017,"Mia Collarini","Landmark","20-15-0",0.571
-"8",2016,"Mia Collarini","Landmark","20-16-0",0.556
-"9",2015,"Mia Collarini","Landmark","19-15-0",0.559
-"10",2014,"Mia Collarini","Landmark","9-20-0",0.31
-"11",2013,"Mia Collarini","Landmark","13-18-0",0.419
-"12",2012,"Mia Collarini","Landmark","26-10-0",0.722
-"13",2011,"Colleen Moyer","Landmark","18-14-0",0.562
-"14",2010,"Colleen Moyer","Landmark","15-17-0",0.469
-"15",2009,"Colleen Moyer","Landmark","12-18-0",0.4
-"16",2008,"Colleen Moyer","Landmark","27-14-0",0.659
-"17",2007,"Colleen Moyer","MAC Freedom","7-19-0",0.269
-"18",2006,"Jerry Alunni","MAC Freedom","12-22-0",0.353
-"19",2005,"Jerry Alunni","MAC Freedom","12-24-0",0.333
-"20",2004,"Jerry Alunni","MAC Freedom","17-16-0",0.515
-"21",2003,"John Foy","MAC Freedom","9-11-0",0.45
-"22",2002,"John Foy","MAC Freedom","14-20-0",0.412
-"23",2001,"","-","15-11-0",0.577
-"24",2000,"John Foy (4-19)Tom Moore (4-19)","-","4-19-0",0.174
-"25",1999,"Tom Moore","-","7-17-0",0.292
-"26",1998,"Tom Moore","-","4-18-0",0.182
-"27",1997,"Tom Moore","-","8-15-0",0.348
-"28",1996,"Joe Saporito","-","7-17-0",0.292
-"29",1995,"Joe Saporito","-","11-26-0",0.297
-"30",1994,"Joe Saporito","-","17-15-0",0.531
-"31",1993,"Joe Saporito","-","16-11-0",0.593
-"32",1992,"Joe Saporito","-","17-17-0",0.5
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1986,"","-","0-0-0",NA
-"37",1985,"","-","0-0-0",NA
-"38",1984,"","-","0-0-0",NA
-"39",1983,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",2024,"Caitlyn Seamster","Landmark","20-19-0",0.513
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Scranton","633","2025","Caitlyn Seamster","D-III","Landmark",0,0,0,0
+"2","Scranton","633","2024","Caitlyn Seamster","D-III","Landmark",21,19,0,0.525
+"3","Scranton","633","2023","Caitlyn Seamster","D-III","Landmark",15,21,0,0.417
+"4","Scranton","633","2022","Caitlyn Seamster","D-III","Landmark",24,12,0,0.667
+"5","Scranton","633","2021","Mia Collarini","D-III","Landmark",24,7,0,0.774
+"6","Scranton","633","2020","Mia Collarini","D-III","Landmark",2,0,0,1
+"7","Scranton","633","2019","Mia Collarini","D-III","Landmark",32,16,0,0.667
+"8","Scranton","633","2018","Mia Collarini","D-III","Landmark",33,11,NA,0.75
+"9","Scranton","633","2017","Mia Collarini","D-III","Landmark",20,15,0,0.571
+"10","Scranton","633","2016","Mia Collarini","D-III","Landmark",20,16,0,0.556
+"11","Scranton","633","2015","Mia Collarini","D-III","Landmark",19,15,0,0.559
+"12","Scranton","633","2014","Mia Collarini","D-III","Landmark",9,20,0,0.31
+"13","Scranton","633","2013","Mia Collarini","D-III","Landmark",13,18,0,0.419
+"14","Scranton","633","2012","Mia Collarini","D-III","Landmark",26,10,0,0.722
+"15","Scranton","633","2011","Colleen Moyer","D-III","Landmark",18,14,0,0.563
+"16","Scranton","633","2010","Colleen Moyer","D-III","Landmark",15,17,0,0.469
+"17","Scranton","633","2009","Colleen Moyer","D-III","Landmark",12,18,0,0.4
+"18","Scranton","633","2008","Colleen Moyer","D-III","Landmark",27,14,0,0.659
+"19","Scranton","633","2007","Colleen Moyer","D-III","MAC Freedom",7,19,0,0.269
+"20","Scranton","633","2006","Jerry Alunni","D-III","MAC Freedom",12,22,0,0.353
+"21","Scranton","633","2005","Jerry Alunni","D-III","MAC Freedom",12,24,0,0.333
+"22","Scranton","633","2004","Jerry Alunni","D-III","MAC Freedom",17,16,0,0.515
+"23","Scranton","633","2003","John Foy","D-III","MAC Freedom",9,11,0,0.45
+"24","Scranton","633","2002","John Foy","D-III","MAC Freedom",14,20,0,0.412
+"25","Scranton","633","2001","","D-III","-",15,11,NA,0.577
+"26","Scranton","633","1900","John Foy (4-19)Tom Moore (4-19)","D-III","-",4,19,NA,0.174
+"27","Scranton","633","1999","Tom Moore","D-III","-",7,17,NA,0.292
+"28","Scranton","633","1998","Tom Moore","D-III","-",4,18,NA,0.182
+"29","Scranton","633","1997","Tom Moore","D-III","-",8,15,NA,0.348
+"30","Scranton","633","1996","Joe Saporito","D-III","-",7,17,NA,0.292
+"31","Scranton","633","1995","Joe Saporito","D-III","-",11,26,NA,0.297
+"32","Scranton","633","1994","Joe Saporito","D-III","-",17,15,NA,0.531
+"33","Scranton","633","1993","Joe Saporito","D-III","-",16,11,NA,0.593
+"34","Scranton","633","1992","Joe Saporito","D-III","-",17,17,NA,0.5
+"35","Scranton","633","1991","","D-III","-",NA,NA,NA,NA
+"36","Scranton","633","1990","","D-III","-",NA,NA,NA,NA
+"37","Scranton","633","1989","","D-III","-",NA,NA,NA,NA
+"38","Scranton","633","1986","","D-III","-",NA,NA,NA,NA
+"39","Scranton","633","1985","","D-III","-",NA,NA,NA,NA
+"40","Scranton","633","1984","","D-III","-",NA,NA,NA,NA
+"41","Scranton","633","1983","","D-III","-",NA,NA,NA,NA
+"42","Scranton","633","1982","","D-III","-",NA,NA,NA,NA
+"43","Scranton","633","","","","",507,521,0,0.493

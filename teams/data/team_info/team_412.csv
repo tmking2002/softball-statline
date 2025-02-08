@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Alex Allaman","USA South","20-20-0","0.500"
-"2","2022","Ron Simpson","USA South","23-21-0","0.523"
-"3","2021","Ron Simpson","USA South","10-26-0","0.278"
-"4","2020","Ron Simpson","USA South","9-9-0","0.500"
-"5","2019","Ron Simpson","USA South","11-28-0","0.282"
-"6","2018","Ron Simpson","USA South","8-32-0","0.200"
-"7","2017","Ron Simpson","USA South","8-30-0","0.211"
-"8","2016","Ron Simpson","USA South","9-31-0","0.225"
-"9","2015","Ron Simpson","USA South","19-19-0","0.500"
-"10","2014","Ron Simpson","USA South","11-26-0","0.297"
-"11","2013","Ron Simpson","USA South","23-21-0","0.523"
-"12","2012","Ron Simpson","USA South","27-15-0","0.643"
-"13","2011","Ron Simpson","USA South","21-19-0","0.525"
-"14","2010","Ron Simpson","USA South","18-23-0","0.439"
-"15","2009","Ron Simpson","USA South","17-26-0","0.395"
-"16","2008","Ron Simpson","USA South","35-12-0","0.745"
-"17","2007","Ron Simpson","USA South","33-10-0","0.767"
-"18","2006","Ron Simpson","USA South","39-8-0","0.830"
-"19","2005","Ron Simpson","USA South","33-12-0","0.733"
-"20","2004","Ron Simpson","USA South","30-14-0","0.682"
-"21","2003","Ron Simpson","USA South","38-10-0","0.792"
-"22","2002","Ron Simpson","-","27-14-0","0.659"
-"23","2001","Ron Simpson","-","29-17-0","0.630"
-"24","2000","Ron Simpson","-","28-15-1","0.651"
-"25","1999","Ron Simpson","-","32-12-0","0.727"
-"26","1998","Brenda Hillman","-","10-17-0","0.370"
-"27","1997","Brenda Hillman","-","19-17-0","0.528"
-"28","1996","Brenda Hillman","-","11-21-0","0.344"
-"29","1995","Karen Smith","-","21-23-0","0.477"
-"30","1994","Karen Smith","-","21-16-0","0.568"
-"31","1993","Karen Smith","-","7-22-0","0.241"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Methodist","412","2025","Alex Allaman","D-III","USA South",0,0,0,0
+"2","Methodist","412","2024","Alex Allaman","D-III","USA South",19,21,0,0.475
+"3","Methodist","412","2023","Alex Allaman","D-III","USA South",20,20,0,0.5
+"4","Methodist","412","2022","Ron Simpson","D-III","USA South",23,21,0,0.523
+"5","Methodist","412","2021","Ron Simpson","D-III","USA South",10,26,0,0.278
+"6","Methodist","412","2020","Ron Simpson","D-III","USA South",9,9,0,0.5
+"7","Methodist","412","2019","Ron Simpson","D-III","USA South",11,28,0,0.282
+"8","Methodist","412","2018","Ron Simpson","D-III","USA South",8,32,NA,0.2
+"9","Methodist","412","2017","Ron Simpson","D-III","USA South",8,30,0,0.211
+"10","Methodist","412","2016","Ron Simpson","D-III","USA South",9,31,0,0.225
+"11","Methodist","412","2015","Ron Simpson","D-III","USA South",19,19,0,0.5
+"12","Methodist","412","2014","Ron Simpson","D-III","USA South",11,26,0,0.297
+"13","Methodist","412","2013","Ron Simpson","D-III","USA South",23,21,0,0.523
+"14","Methodist","412","2012","Ron Simpson","D-III","USA South",27,15,0,0.643
+"15","Methodist","412","2011","Ron Simpson","D-III","USA South",21,19,0,0.525
+"16","Methodist","412","2010","Ron Simpson","D-III","USA South",18,23,0,0.439
+"17","Methodist","412","2009","Ron Simpson","D-III","USA South",17,26,0,0.395
+"18","Methodist","412","2008","Ron Simpson","D-III","USA South",35,12,0,0.745
+"19","Methodist","412","2007","Ron Simpson","D-III","USA South",33,10,0,0.767
+"20","Methodist","412","2006","Ron Simpson","D-III","USA South",39,8,0,0.83
+"21","Methodist","412","2005","Ron Simpson","D-III","USA South",33,12,0,0.733
+"22","Methodist","412","2004","Ron Simpson","D-III","USA South",30,14,0,0.682
+"23","Methodist","412","2003","Ron Simpson","D-III","USA South",38,10,0,0.792
+"24","Methodist","412","2002","Ron Simpson","D-III","-",27,14,0,0.659
+"25","Methodist","412","2001","Ron Simpson","D-III","-",29,17,NA,0.63
+"26","Methodist","412","1900","Ron Simpson","D-III","-",28,15,1,0.648
+"27","Methodist","412","1999","Ron Simpson","D-III","-",32,12,NA,0.727
+"28","Methodist","412","1998","Brenda Hillman","D-III","-",10,17,NA,0.37
+"29","Methodist","412","1997","Brenda Hillman","D-III","-",19,17,NA,0.528
+"30","Methodist","412","1996","Brenda Hillman","D-III","-",11,21,NA,0.344
+"31","Methodist","412","1995","Karen Smith","D-III","-",21,23,NA,0.477
+"32","Methodist","412","1994","Karen Smith","D-III","-",21,16,NA,0.568
+"33","Methodist","412","1993","Karen Smith","D-III","-",7,22,NA,0.241
+"34","Methodist","412","1992","","D-III","-",NA,NA,NA,NA
+"35","Methodist","412","1991","","D-III","-",NA,NA,NA,NA
+"36","Methodist","412","1990","","D-III","-",NA,NA,NA,NA
+"37","Methodist","412","1989","","D-III","-",NA,NA,NA,NA
+"38","Methodist","412","1988","","","-",NA,NA,NA,NA
+"39","Methodist","412","1987","","","-",NA,NA,NA,NA
+"40","Methodist","412","1986","","D-III","-",NA,NA,NA,NA
+"41","Methodist","412","1985","","D-III","-",NA,NA,NA,NA
+"42","Methodist","412","1981","","","-",NA,NA,NA,NA
+"43","Methodist","412","","","","",666,607,1,0.523

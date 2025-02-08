@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Rhonda Revelle","Big Ten","36-22-0",0.621
-"2",2022,"Rhonda Revelle","Big Ten","41-16-0",0.719
-"3",2021,"Rhonda Revelle","Big Ten","22-22-0",0.5
-"4",2020,"Rhonda Revelle","Big Ten","9-14-0",0.391
-"5",2019,"Rhonda Revelle","Big Ten","21-31-0",0.404
-"6",2018,"Rhonda Revelle","Big Ten","31-23-0",0.574
-"7",2017,"Rhonda Revelle","Big Ten","24-29-0",0.453
-"8",2016,"Rhonda Revelle","Big Ten","35-21-0",0.625
-"9",2015,"Rhonda Revelle","Big Ten","35-23-0",0.603
-"10",2014,"Rhonda Revelle","Big Ten","44-18-0",0.71
-"11",2013,"Rhonda Revelle","Big Ten","45-16-0",0.738
-"12",2012,"Rhonda Revelle","Big Ten","33-22-0",0.6
-"13",2011,"Rhonda Revelle","Big 12","41-14-0",0.745
-"14",2010,"Rhonda Revelle","Big 12","30-29-0",0.508
-"15",2009,"Rhonda Revelle","Big 12","35-19-0",0.648
-"16",2008,"Rhonda Revelle","Big 12","25-28-0",0.472
-"17",2007,"Rhonda Revelle","Big 12","37-20-0",0.649
-"18",2006,"Rhonda Revelle","Big 12","44-12-0",0.786
-"19",2005,"Rhonda Revelle","Big 12","36-23-0",0.61
-"20",2004,"Rhonda Revelle","Big 12","45-17-0",0.726
-"21",2003,"Rhonda Revelle","Big 12","39-17-0",0.696
-"22",2002,"Rhonda Revelle","Big 12","50-14-0",0.781
-"23",2001,"Rhonda Revelle","Big 12","51-15-0",0.773
-"24",2000,"Rhonda Revelle","Big 12","52-21-0",0.712
-"25",1999,"Rhonda Revelle","Big 12","35-21-0",0.625
-"26",1998,"Rhonda Revelle","-","48-12-0",0.8
-"27",1997,"Rhonda Revelle","Big 12","29-24-0",0.547
-"28",1996,"Rhonda Revelle","-","42-23-0",0.646
-"29",1995,"Rhonda Revelle","-","43-20-0",0.683
-"30",1994,"Rhonda Revelle","-","21-33-0",0.389
-"31",1993,"Rhonda Revelle","-","18-23-0",0.439
-"32",1992,"Ron Wolforth","-","23-30-0",0.434
-"33",1991,"Ron Wolforth","-","22-18-0",0.55
-"34",1990,"Ron Wolforth","-","31-19-0",0.62
-"35",1989,"Ron Wolforth","-","32-28-0",0.533
-"36",1988,"Ron Wolforth","-","39-20-0",0.661
-"37",1987,"Ron Wolforth","-","41-11-0",0.788
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Rhonda Revelle","Big Ten","30-23-0",0.566
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Nebraska","463","2025","Rhonda Revelle","D-I","Big Ten",2,0,0,1
+"2","Nebraska","463","2024","Rhonda Revelle","D-I","Big Ten",30,23,0,0.566
+"3","Nebraska","463","2023","Rhonda Revelle","D-I","Big Ten",36,22,0,0.621
+"4","Nebraska","463","2022","Rhonda Revelle","D-I","Big Ten",41,16,0,0.719
+"5","Nebraska","463","2021","Rhonda Revelle","D-I","Big Ten",22,22,0,0.5
+"6","Nebraska","463","2020","Rhonda Revelle","D-I","Big Ten",9,14,0,0.391
+"7","Nebraska","463","2019","Rhonda Revelle","D-I","Big Ten",21,31,0,0.404
+"8","Nebraska","463","2018","Rhonda Revelle","D-I","Big Ten",31,23,NA,0.574
+"9","Nebraska","463","2017","Rhonda Revelle","D-I","Big Ten",24,29,0,0.453
+"10","Nebraska","463","2016","Rhonda Revelle","D-I","Big Ten",35,21,0,0.625
+"11","Nebraska","463","2015","Rhonda Revelle","D-I","Big Ten",35,23,0,0.603
+"12","Nebraska","463","2014","Rhonda Revelle","D-I","Big Ten",44,18,0,0.71
+"13","Nebraska","463","2013","Rhonda Revelle","D-I","Big Ten",45,16,0,0.738
+"14","Nebraska","463","2012","Rhonda Revelle","D-I","Big Ten",33,22,0,0.6
+"15","Nebraska","463","2011","Rhonda Revelle","D-I","Big 12",41,14,0,0.745
+"16","Nebraska","463","2010","Rhonda Revelle","D-I","Big 12",30,29,0,0.508
+"17","Nebraska","463","2009","Rhonda Revelle","D-I","Big 12",35,19,0,0.648
+"18","Nebraska","463","2008","Rhonda Revelle","D-I","Big 12",25,28,0,0.472
+"19","Nebraska","463","2007","Rhonda Revelle","D-I","Big 12",37,20,0,0.649
+"20","Nebraska","463","2006","Rhonda Revelle","D-I","Big 12",44,12,0,0.786
+"21","Nebraska","463","2005","Rhonda Revelle","D-I","Big 12",36,23,0,0.61
+"22","Nebraska","463","2004","Rhonda Revelle","D-I","Big 12",45,17,0,0.726
+"23","Nebraska","463","2003","Rhonda Revelle","D-I","Big 12",39,17,0,0.696
+"24","Nebraska","463","2002","Rhonda Revelle","D-I","Big 12",50,14,0,0.781
+"25","Nebraska","463","2001","Rhonda Revelle","D-I","Big 12",51,15,0,0.773
+"26","Nebraska","463","1900","Rhonda Revelle","D-I","Big 12",52,21,0,0.712
+"27","Nebraska","463","1999","Rhonda Revelle","D-I","Big 12",35,21,0,0.625
+"28","Nebraska","463","1998","Rhonda Revelle","D-I","-",48,12,NA,0.8
+"29","Nebraska","463","1997","Rhonda Revelle","D-I","Big 12",29,24,0,0.547
+"30","Nebraska","463","1996","Rhonda Revelle","D-I","-",42,23,NA,0.646
+"31","Nebraska","463","1995","Rhonda Revelle","D-I","-",43,20,NA,0.683
+"32","Nebraska","463","1994","Rhonda Revelle","D-I","-",21,33,NA,0.389
+"33","Nebraska","463","1993","Rhonda Revelle","D-I","-",18,23,NA,0.439
+"34","Nebraska","463","1992","Ron Wolforth","","-",23,30,NA,0.434
+"35","Nebraska","463","1991","Ron Wolforth","","-",22,18,NA,0.55
+"36","Nebraska","463","1990","Ron Wolforth","","-",31,19,NA,0.62
+"37","Nebraska","463","1989","Ron Wolforth","","-",32,28,NA,0.533
+"38","Nebraska","463","1988","Ron Wolforth","","-",39,20,NA,0.661
+"39","Nebraska","463","1987","Ron Wolforth","","-",41,11,NA,0.788
+"40","Nebraska","463","1986","","","-",NA,NA,NA,NA
+"41","Nebraska","463","1985","","","-",NA,NA,NA,NA
+"42","Nebraska","463","1984","","","-",NA,NA,NA,NA
+"43","Nebraska","463","1983","","","-",NA,NA,NA,NA
+"44","Nebraska","463","1982","","","-",NA,NA,NA,NA
+"45","Nebraska","463","","","","",1317,791,0,0.625

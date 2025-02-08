@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"JoAnne Ferguson","SCIAC","23-18-0",0.561
-"2",2022,"JoAnne Ferguson","SCIAC","21-22-0",0.488
-"3",2021,"JoAnne Ferguson","SCIAC","0-0-0",NA
-"4",2020,"JoAnne Ferguson","SCIAC","4-7-0",0.364
-"5",2019,"JoAnne Ferguson","SCIAC","31-12-1",0.721
-"6",2018,"JoAnne Ferguson","SCIAC","27-16-0",0.628
-"7",2017,"JoAnne Ferguson","SCIAC","13-27-0",0.325
-"8",2016,"JoAnne Ferguson","SCIAC","14-26-0",0.35
-"9",2015,"JoAnne Ferguson","SCIAC","17-23-0",0.425
-"10",2014,"JoAnne Ferguson","SCIAC","9-30-0",0.231
-"11",2013,"JoAnne Ferguson","SCIAC","11-26-0",0.297
-"12",2012,"JoAnne Ferguson","SCIAC","22-19-0",0.537
-"13",2011,"JoAnne Ferguson","SCIAC","16-23-0",0.41
-"14",2010,"JoAnne Ferguson","SCIAC","12-21-0",0.364
-"15",2009,"JoAnne Ferguson","SCIAC","11-27-0",0.289
-"16",2008,"JoAnne Ferguson","SCIAC","21-19-0",0.525
-"17",2007,"JoAnne Ferguson","SCIAC","15-24-1",0.385
-"18",2006,"Eli Koenn-Bollinger","SCIAC","11-23-0",0.324
-"19",2005,"Eli Koenn-Bollinger","SCIAC","2-23-0",0.08
-"20",2004,"Eli Koenn-Bollinger","SCIAC","0-27-0",0
-"21",2003,"Eli Koenn-Bollinger","SCIAC","0-33-0",0
-"22",2002,"Eli Koenn-Bollinger","SCIAC","4-33-0",0.108
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Kristen Martini","-","4-32-0",0.111
-"25",1999,"Kristen Martini","-","7-26-0",0.212
-"26",1998,"Kristen Martini","-","10-24-0",0.294
-"27",1997,"Tim Marshall","-","16-18-0",0.471
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"James Laudermilk","-","11-23-0",0.324
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",2024,"JoAnne Ferguson","SCIAC","17-20-0",0.459
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Pomona-Pitzer","549","2025","JoAnne Ferguson","D-III","SCIAC",0,0,0,0
+"2","Pomona-Pitzer","549","2024","JoAnne Ferguson","D-III","SCIAC",18,20,0,0.474
+"3","Pomona-Pitzer","549","2023","JoAnne Ferguson","D-III","SCIAC",23,18,0,0.561
+"4","Pomona-Pitzer","549","2022","JoAnne Ferguson","D-III","SCIAC",21,22,0,0.488
+"5","Pomona-Pitzer","549","2021","JoAnne Ferguson","D-III","SCIAC",0,0,0,0
+"6","Pomona-Pitzer","549","2020","JoAnne Ferguson","D-III","SCIAC",4,7,0,0.364
+"7","Pomona-Pitzer","549","2019","JoAnne Ferguson","D-III","SCIAC",31,12,1,0.716
+"8","Pomona-Pitzer","549","2018","JoAnne Ferguson","D-III","SCIAC",27,16,NA,0.628
+"9","Pomona-Pitzer","549","2017","JoAnne Ferguson","D-III","SCIAC",13,27,0,0.325
+"10","Pomona-Pitzer","549","2016","JoAnne Ferguson","D-III","SCIAC",14,26,0,0.35
+"11","Pomona-Pitzer","549","2015","JoAnne Ferguson","D-III","SCIAC",17,23,0,0.425
+"12","Pomona-Pitzer","549","2014","JoAnne Ferguson","D-III","SCIAC",9,30,0,0.231
+"13","Pomona-Pitzer","549","2013","JoAnne Ferguson","D-III","SCIAC",11,26,0,0.297
+"14","Pomona-Pitzer","549","2012","JoAnne Ferguson","D-III","SCIAC",22,19,0,0.537
+"15","Pomona-Pitzer","549","2011","JoAnne Ferguson","D-III","SCIAC",16,23,0,0.41
+"16","Pomona-Pitzer","549","2010","JoAnne Ferguson","D-III","SCIAC",12,21,0,0.364
+"17","Pomona-Pitzer","549","2009","JoAnne Ferguson","D-III","SCIAC",11,27,0,0.289
+"18","Pomona-Pitzer","549","2008","JoAnne Ferguson","D-III","SCIAC",21,19,0,0.525
+"19","Pomona-Pitzer","549","2007","JoAnne Ferguson","D-III","SCIAC",15,24,1,0.388
+"20","Pomona-Pitzer","549","2006","Eli Koenn-Bollinger","D-III","SCIAC",11,23,0,0.324
+"21","Pomona-Pitzer","549","2005","Eli Koenn-Bollinger","D-III","SCIAC",2,23,0,0.08
+"22","Pomona-Pitzer","549","2004","Eli Koenn-Bollinger","D-III","SCIAC",0,27,0,0
+"23","Pomona-Pitzer","549","2003","Eli Koenn-Bollinger","D-III","SCIAC",0,33,0,0
+"24","Pomona-Pitzer","549","2002","Eli Koenn-Bollinger","D-III","SCIAC",4,33,0,0.108
+"25","Pomona-Pitzer","549","2001","","D-III","-",NA,NA,NA,NA
+"26","Pomona-Pitzer","549","1900","Kristen Martini","D-III","-",4,32,NA,0.111
+"27","Pomona-Pitzer","549","1999","Kristen Martini","D-III","-",7,26,NA,0.212
+"28","Pomona-Pitzer","549","1998","Kristen Martini","D-III","-",10,24,NA,0.294
+"29","Pomona-Pitzer","549","1997","Tim Marshall","D-III","-",16,18,NA,0.471
+"30","Pomona-Pitzer","549","1996","","D-III","-",NA,NA,NA,NA
+"31","Pomona-Pitzer","549","1995","","D-III","-",NA,NA,NA,NA
+"32","Pomona-Pitzer","549","1994","James Laudermilk","D-III","-",11,23,NA,0.324
+"33","Pomona-Pitzer","549","1993","","D-III","-",NA,NA,NA,NA
+"34","Pomona-Pitzer","549","1992","","D-III","-",NA,NA,NA,NA
+"35","Pomona-Pitzer","549","1991","","D-III","-",NA,NA,NA,NA
+"36","Pomona-Pitzer","549","1990","","","-",NA,NA,NA,NA
+"37","Pomona-Pitzer","549","1989","","","-",NA,NA,NA,NA
+"38","Pomona-Pitzer","549","1988","","","-",NA,NA,NA,NA
+"39","Pomona-Pitzer","549","1987","","","-",NA,NA,NA,NA
+"40","Pomona-Pitzer","549","1986","","","-",NA,NA,NA,NA
+"41","Pomona-Pitzer","549","1985","","","-",NA,NA,NA,NA
+"42","Pomona-Pitzer","549","1983","","","-",NA,NA,NA,NA
+"43","Pomona-Pitzer","549","","","","",350,622,2,0.36

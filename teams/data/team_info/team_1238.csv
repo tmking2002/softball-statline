@@ -1,11 +1,13 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Beth Wade","Gulf South","20-24-0",0.455
-"2",2022,"Beth Wade","Gulf South","26-23-0",0.531
-"3",2021,"Whitney Hawkins (7-10)Lindsay Vanover (11-16)","Gulf South","18-26-0",0.409
-"4",2020,"Lindsay Vanover","Gulf South","14-9-0",0.609
-"5",2019,"Lindsay Vanover","Gulf South","24-27-0",0.471
-"6",2018,"Lindsay Vanover","Gulf South","32-16-0",0.667
-"7",2017,"Lindsay Vanover","Peach Belt","23-23-0",0.5
-"8",2016,"Lindsay Vanover","Peach Belt","19-38-0",0.333
-"9",2015,"Lindsay Vanover","Peach Belt","21-31-0",0.404
-"10",2024,"Beth Wade","Gulf South","19-24-0",0.442
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Montevallo","1238","2025","Beth Wade","D-II","Gulf South",2,1,0,0.667
+"2","Montevallo","1238","2024","Beth Wade","D-II","Gulf South",23,27,0,0.46
+"3","Montevallo","1238","2023","Beth Wade","D-II","Gulf South",20,24,0,0.455
+"4","Montevallo","1238","2022","Beth Wade","D-II","Gulf South",26,23,0,0.531
+"5","Montevallo","1238","2021","Whitney Hawkins (7-10)Lindsay Vanover (11-16)","D-II","Gulf South",18,26,0,0.409
+"6","Montevallo","1238","2020","Lindsay Vanover","D-II","Gulf South",14,9,0,0.609
+"7","Montevallo","1238","2019","Lindsay Vanover","D-II","Gulf South",24,27,0,0.471
+"8","Montevallo","1238","2018","Lindsay Vanover","D-II","Gulf South",32,16,NA,0.667
+"9","Montevallo","1238","2017","Lindsay Vanover","D-II","Peach Belt",23,23,0,0.5
+"10","Montevallo","1238","2016","Lindsay Vanover","D-II","Peach Belt",19,38,0,0.333
+"11","Montevallo","1238","2015","Lindsay Vanover","D-II","Peach Belt",21,31,0,0.404
+"12","Montevallo","1238","","","","",222,245,0,0.475

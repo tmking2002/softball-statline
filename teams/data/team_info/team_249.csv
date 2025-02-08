@@ -1,23 +1,25 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Chrissy Schoonmaker","Atlantic 10","17-28-0",0.378
-"2",2022,"Chrissy Schoonmaker","Atlantic 10","36-17-0",0.679
-"3",2021,"Shane Winkler","Atlantic 10","37-11-0",0.771
-"4",2020,"Shane Winkler","Atlantic 10","10-14-0",0.417
-"5",2019,"Shane Winkler","Atlantic 10","44-18-0",0.71
-"6",2018,"James DeFeo","Atlantic 10","33-21-0",0.611
-"7",2017,"James DeFeo","Atlantic 10","28-24-0",0.538
-"8",2016,"Stacey Schramm","Atlantic 10","23-29-0",0.442
-"9",2015,"Stacey Schramm","Atlantic 10","25-23-0",0.521
-"10",2014,"Stacey Schramm","Atlantic 10","18-31-1",0.367
-"11",2013,"Stacey Schramm","Atlantic 10","27-23-0",0.54
-"12",2012,"Stacey Schramm","Atlantic 10","25-30-0",0.455
-"13",2011,"Stacey Schramm","Atlantic 10","16-27-1",0.372
-"14",2010,"Kim Staehle","Atlantic 10","6-39-0",0.133
-"15",2009,"Kim Staehle","Atlantic 10","16-33-0",0.327
-"16",2008,"Kim Staehle","Atlantic 10","12-27-0",0.308
-"17",2007,"Kim Staehle","Atlantic 10","23-27-0",0.46
-"18",2006,"JoAnne Ferguson","Atlantic 10","24-28-0",0.462
-"19",2005,"JoAnne Ferguson","Atlantic 10","10-34-0",0.227
-"20",2004,"Shaunte Fremin","Atlantic 10","1-5-1",0.167
-"21",2003,"Leslie King","Atlantic 10","3-36-0",0.077
-"22",2024,"Chrissy Schoonmaker","Atlantic 10","27-26-0",0.509
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","George Washington","249","2025","Chrissy Schoonmaker","D-I","Atlantic 10",0,1,0,0
+"2","George Washington","249","2024","Chrissy Schoonmaker","D-I","Atlantic 10",27,26,0,0.509
+"3","George Washington","249","2023","Chrissy Schoonmaker","D-I","Atlantic 10",17,28,0,0.378
+"4","George Washington","249","2022","Chrissy Schoonmaker","D-I","Atlantic 10",36,17,0,0.679
+"5","George Washington","249","2021","Shane Winkler","D-I","Atlantic 10",37,11,0,0.771
+"6","George Washington","249","2020","Shane Winkler","D-I","Atlantic 10",10,14,0,0.417
+"7","George Washington","249","2019","Shane Winkler","D-I","Atlantic 10",44,18,0,0.71
+"8","George Washington","249","2018","James DeFeo","D-I","Atlantic 10",33,21,NA,0.611
+"9","George Washington","249","2017","James DeFeo","D-I","Atlantic 10",28,24,0,0.538
+"10","George Washington","249","2016","Stacey Schramm","D-I","Atlantic 10",23,29,0,0.442
+"11","George Washington","249","2015","Stacey Schramm","D-I","Atlantic 10",25,23,0,0.521
+"12","George Washington","249","2014","Stacey Schramm","D-I","Atlantic 10",18,31,1,0.37
+"13","George Washington","249","2013","Stacey Schramm","D-I","Atlantic 10",27,23,0,0.54
+"14","George Washington","249","2012","Stacey Schramm","D-I","Atlantic 10",25,30,0,0.455
+"15","George Washington","249","2011","Stacey Schramm","D-I","Atlantic 10",16,27,1,0.375
+"16","George Washington","249","2010","Kim Staehle","D-I","Atlantic 10",6,39,0,0.133
+"17","George Washington","249","2009","Kim Staehle","D-I","Atlantic 10",16,33,0,0.327
+"18","George Washington","249","2008","Kim Staehle","D-I","Atlantic 10",12,27,0,0.308
+"19","George Washington","249","2007","Kim Staehle","D-I","Atlantic 10",23,27,0,0.46
+"20","George Washington","249","2006","JoAnne Ferguson","D-I","Atlantic 10",24,28,0,0.462
+"21","George Washington","249","2005","JoAnne Ferguson","D-I","Atlantic 10",10,34,0,0.227
+"22","George Washington","249","2004","Shaunte Fremin","D-I","Atlantic 10",1,5,1,0.214
+"23","George Washington","249","2003","Leslie King","D-I","Atlantic 10",3,36,0,0.077
+"24","George Washington","249","","","","",461,552,3,0.455

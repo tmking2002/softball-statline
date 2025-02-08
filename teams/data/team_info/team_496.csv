@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Katie Anderson","CCIW","18-22-1",0.45
-"2",2022,"Katie Anderson","CCIW","13-19-0",0.406
-"3",2021,"Katie Anderson","CCIW","18-19-0",0.486
-"4",2020,"Katie Anderson","CCIW","5-5-0",0.5
-"5",2019,"Katie Anderson","CCIW","15-23-0",0.395
-"6",2018,"Katie Anderson","CCIW","12-26-0",0.316
-"7",2017,"Katie Anderson","CCIW","6-34-0",0.15
-"8",2016,"Katie Anderson","CCIW","9-26-0",0.257
-"9",2015,"Katie Anderson","CCIW","6-32-0",0.158
-"10",2014,"Dan Gooris","CCIW","18-18-0",0.5
-"11",2013,"Dan Gooris","CCIW","24-12-0",0.667
-"12",2012,"Dan Gooris","CCIW","22-18-0",0.55
-"13",2011,"Dan Gooris","CCIW","17-19-0",0.472
-"14",2010,"Dan Gooris","CCIW","19-18-0",0.514
-"15",2009,"Dan Gooris","CCIW","12-18-0",0.4
-"16",2008,"Dan Gooris","CCIW","13-17-0",0.433
-"17",2007,"Dan Gooris","CCIW","13-20-0",0.394
-"18",2006,"Dan Gooris","CCIW","16-24-0",0.4
-"19",2005,"Dan Gooris","CCIW","5-32-0",0.135
-"20",2004,"Dan Gooris","CCIW","11-27-0",0.289
-"21",2003,"Dan Gooris","CCIW","8-26-1",0.235
-"22",2002,"Dan Gooris","CCIW","19-22-0",0.463
-"23",2001,"Dan Gooris","-","19-14-2",0.576
-"24",2000,"Dan Gooris","-","12-21-0",0.364
-"25",1999,"Dan Gooris","-","13-21-0",0.382
-"26",1998,"Dan Gooris","-","12-24-0",0.333
-"27",1997,"Dan Gooris","-","9-24-0",0.273
-"28",1996,"","-","0-0-0",NA
-"29",1995,"Peter Roman","-","0-20-0",0
-"30",1994,"John Agurkis","-","4-20-0",0.167
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1985,"","-","0-0-0",NA
-"36",1984,"","-","0-0-0",NA
-"37",1983,"","-","0-0-0",NA
-"38",1982,"","-","0-0-0",NA
-"39",2024,"Katie Anderson","CCIW","11-24-0",0.314
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","North Park","496","2025","Katie Anderson","D-III","CCIW",0,0,0,0
+"2","North Park","496","2024","Katie Anderson","D-III","CCIW",11,26,0,0.297
+"3","North Park","496","2023","Katie Anderson","D-III","CCIW",18,22,1,0.451
+"4","North Park","496","2022","Katie Anderson","D-III","CCIW",13,19,0,0.406
+"5","North Park","496","2021","Katie Anderson","D-III","CCIW",18,19,0,0.486
+"6","North Park","496","2020","Katie Anderson","D-III","CCIW",5,5,0,0.5
+"7","North Park","496","2019","Katie Anderson","D-III","CCIW",15,23,0,0.395
+"8","North Park","496","2018","Katie Anderson","D-III","CCIW",12,26,NA,0.316
+"9","North Park","496","2017","Katie Anderson","D-III","CCIW",6,34,0,0.15
+"10","North Park","496","2016","Katie Anderson","D-III","CCIW",9,26,0,0.257
+"11","North Park","496","2015","Katie Anderson","D-III","CCIW",6,32,0,0.158
+"12","North Park","496","2014","Dan Gooris","D-III","CCIW",18,18,0,0.5
+"13","North Park","496","2013","Dan Gooris","D-III","CCIW",24,12,0,0.667
+"14","North Park","496","2012","Dan Gooris","D-III","CCIW",22,18,0,0.55
+"15","North Park","496","2011","Dan Gooris","D-III","CCIW",17,19,0,0.472
+"16","North Park","496","2010","Dan Gooris","D-III","CCIW",19,18,0,0.514
+"17","North Park","496","2009","Dan Gooris","D-III","CCIW",12,18,0,0.4
+"18","North Park","496","2008","Dan Gooris","D-III","CCIW",13,17,0,0.433
+"19","North Park","496","2007","Dan Gooris","D-III","CCIW",13,20,0,0.394
+"20","North Park","496","2006","Dan Gooris","D-III","CCIW",16,24,0,0.4
+"21","North Park","496","2005","Dan Gooris","D-III","CCIW",5,32,0,0.135
+"22","North Park","496","2004","Dan Gooris","D-III","CCIW",11,27,0,0.289
+"23","North Park","496","2003","Dan Gooris","D-III","CCIW",8,26,1,0.243
+"24","North Park","496","2002","Dan Gooris","D-III","CCIW",19,22,0,0.463
+"25","North Park","496","2001","Dan Gooris","D-III","-",19,14,2,0.571
+"26","North Park","496","1900","Dan Gooris","D-III","-",12,21,NA,0.364
+"27","North Park","496","1999","Dan Gooris","D-III","-",13,21,NA,0.382
+"28","North Park","496","1998","Dan Gooris","D-III","-",12,24,NA,0.333
+"29","North Park","496","1997","Dan Gooris","D-III","-",9,24,NA,0.273
+"30","North Park","496","1996","","D-III","-",NA,NA,NA,NA
+"31","North Park","496","1995","Peter Roman","D-III","-",0,20,NA,0
+"32","North Park","496","1994","John Agurkis","D-III","-",4,20,0,0.167
+"33","North Park","496","1993","","D-III","-",NA,NA,NA,NA
+"34","North Park","496","1992","","D-III","-",NA,NA,NA,NA
+"35","North Park","496","1991","","D-III","-",NA,NA,NA,NA
+"36","North Park","496","1990","","D-III","-",NA,NA,NA,NA
+"37","North Park","496","1985","","D-III","-",NA,NA,NA,NA
+"38","North Park","496","1984","","D-III","-",NA,NA,NA,NA
+"39","North Park","496","1983","","D-III","-",NA,NA,NA,NA
+"40","North Park","496","1982","","D-III","-",NA,NA,NA,NA
+"41","North Park","496","","","","",379,647,4,0.37

@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kim Sowder","Big West","31-23-0",0.574
-"2",2022,"Kim Sowder","Big West","29-22-0",0.569
-"3",2021,"Kim Sowder","Big West","30-11-0",0.732
-"4",2020,"Kim Sowder","Big West","13-12-0",0.52
-"5",2019,"Kim Sowder","Big West","25-25-0",0.5
-"6",2018,"Kim Sowder","Big West","43-14-0",0.754
-"7",2017,"Kim Sowder","Big West","23-28-1",0.451
-"8",2016,"Kim Sowder","Big West","33-22-0",0.6
-"9",2015,"Kim Sowder","Big West","28-24-0",0.538
-"10",2014,"Kim Sowder","Big West","39-19-0",0.672
-"11",2013,"Kim Sowder","Big West","37-20-0",0.649
-"12",2012,"Kim Sowder","Big West","29-26-0",0.527
-"13",2011,"Kim Sowder","Big West","38-18-0",0.679
-"14",2010,"Kim Sowder","Big West","26-26-0",0.5
-"15",2009,"Kim Sowder","Big West","35-21-0",0.625
-"16",2008,"Kim Sowder","Big West","40-17-0",0.702
-"17",2007,"Kim Sowder","Big West","28-25-0",0.528
-"18",2006,"Pete Manarino","Big West","31-22-0",0.585
-"19",2005,"Pete Manarino","Big West","39-16-0",0.709
-"20",2004,"Pete Manarino","Big West","51-13-0",0.797
-"21",2003,"Pete Manarino","Big West","30-19-0",0.612
-"22",2002,"Pete Manarino","Big West","35-23-0",0.603
-"23",2001,"Pete Manarino","Big West","24-29-0",0.453
-"24",2000,"Pete Manarino","Big West","38-23-0",0.623
-"25",1999,"Pete Manarino","Big West","34-21-0",0.618
-"26",1998,"Pete Manarino","-","39-20-0",0.661
-"27",1997,"Pete Manarino","Big West","44-20-1",0.688
-"28",1996,"Pete Manarino","-","36-22-0",0.621
-"29",1995,"Pete Manarino","-","32-31-0",0.508
-"30",1994,"Pete Manarino","-","30-28-0",0.517
-"31",1993,"Pete Manarino","-","45-21-0",0.682
-"32",1992,"Pete Manarino","-","40-32-0",0.556
-"33",1991,"Pete Manarino","-","40-29-0",0.58
-"34",1990,"Pete Manarino","-","48-19-0",0.716
-"35",1989,"Pete Manarino","-","36-23-0",0.61
-"36",1988,"Pete Manarino","-","46-17-0",0.73
-"37",1987,"Pete Manarino","-","34-20-0",0.63
-"38",1986,"Pete Manarino","-","39-18-0",0.684
-"39",1985,"Pete Manarino","-","25-19-0",0.568
-"40",1984,"Pete Manarino","-","27-23-1",0.54
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"Chris Miner","-","8-24-0",0.25
-"44",2024,"Kim Sowder","Big West","25-29-0",0.463
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Long Beach St.","99","2025","Kim Sowder","D-I","Big West",2,0,0,1
+"2","Long Beach St.","99","2024","Kim Sowder","D-I","Big West",25,29,0,0.463
+"3","Long Beach St.","99","2023","Kim Sowder","D-I","Big West",31,23,0,0.574
+"4","Long Beach St.","99","2022","Kim Sowder","D-I","Big West",29,22,0,0.569
+"5","Long Beach St.","99","2021","Kim Sowder","D-I","Big West",30,11,0,0.732
+"6","Long Beach St.","99","2020","Kim Sowder","D-I","Big West",13,12,0,0.52
+"7","Long Beach St.","99","2019","Kim Sowder","D-I","Big West",25,25,0,0.5
+"8","Long Beach St.","99","2018","Kim Sowder","D-I","Big West",43,14,0,0.754
+"9","Long Beach St.","99","2017","Kim Sowder","D-I","Big West",23,28,1,0.452
+"10","Long Beach St.","99","2016","Kim Sowder","D-I","Big West",33,22,0,0.6
+"11","Long Beach St.","99","2015","Kim Sowder","D-I","Big West",28,24,0,0.538
+"12","Long Beach St.","99","2014","Kim Sowder","D-I","Big West",39,19,0,0.672
+"13","Long Beach St.","99","2013","Kim Sowder","D-I","Big West",37,20,0,0.649
+"14","Long Beach St.","99","2012","Kim Sowder","D-I","Big West",29,26,0,0.527
+"15","Long Beach St.","99","2011","Kim Sowder","D-I","Big West",38,18,0,0.679
+"16","Long Beach St.","99","2010","Kim Sowder","D-I","Big West",26,26,0,0.5
+"17","Long Beach St.","99","2009","Kim Sowder","D-I","Big West",35,21,0,0.625
+"18","Long Beach St.","99","2008","Kim Sowder","D-I","Big West",40,17,0,0.702
+"19","Long Beach St.","99","2007","Kim Sowder","D-I","Big West",28,25,0,0.528
+"20","Long Beach St.","99","2006","Pete Manarino","D-I","Big West",31,22,0,0.585
+"21","Long Beach St.","99","2005","Pete Manarino","D-I","Big West",39,16,0,0.709
+"22","Long Beach St.","99","2004","Pete Manarino","D-I","Big West",51,13,0,0.797
+"23","Long Beach St.","99","2003","Pete Manarino","D-I","Big West",30,19,0,0.612
+"24","Long Beach St.","99","2002","Pete Manarino","D-I","Big West",35,23,0,0.603
+"25","Long Beach St.","99","2001","Pete Manarino","D-I","Big West",24,29,0,0.453
+"26","Long Beach St.","99","1900","Pete Manarino","D-I","Big West",38,23,0,0.623
+"27","Long Beach St.","99","1999","Pete Manarino","D-I","Big West",34,21,0,0.618
+"28","Long Beach St.","99","1998","Pete Manarino","D-I","-",39,20,NA,0.661
+"29","Long Beach St.","99","1997","Pete Manarino","D-I","Big West",44,20,1,0.685
+"30","Long Beach St.","99","1996","Pete Manarino","D-I","-",36,22,NA,0.621
+"31","Long Beach St.","99","1995","Pete Manarino","D-I","-",32,31,NA,0.508
+"32","Long Beach St.","99","1994","Pete Manarino","D-I","-",30,28,NA,0.517
+"33","Long Beach St.","99","1993","Pete Manarino","D-I","-",45,21,NA,0.682
+"34","Long Beach St.","99","1992","Pete Manarino","D-I","-",40,32,NA,0.556
+"35","Long Beach St.","99","1991","Pete Manarino","D-I","-",40,29,NA,0.58
+"36","Long Beach St.","99","1990","Pete Manarino","D-I","-",48,19,NA,0.716
+"37","Long Beach St.","99","1989","Pete Manarino","D-I","-",36,23,NA,0.61
+"38","Long Beach St.","99","1988","Pete Manarino","D-I","-",46,17,NA,0.73
+"39","Long Beach St.","99","1987","Pete Manarino","D-I","-",34,20,NA,0.63
+"40","Long Beach St.","99","1986","Pete Manarino","D-I","-",39,18,NA,0.684
+"41","Long Beach St.","99","1985","Pete Manarino","D-I","-",25,19,NA,0.568
+"42","Long Beach St.","99","1984","Pete Manarino","D-I","-",27,23,1,0.539
+"43","Long Beach St.","99","1983","","D-I","-",NA,NA,NA,NA
+"44","Long Beach St.","99","1982","","D-I","-",NA,NA,NA,NA
+"45","Long Beach St.","99","1981","Chris Miner","","-",8,24,NA,0.25
+"46","Long Beach St.","99","","","","",1405,914,3,0.606

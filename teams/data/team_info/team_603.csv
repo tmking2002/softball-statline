@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Bob Guerriero","Big East","23-29-0","0.442"
-"2","2022","Bob Guerriero","Big East","12-35-0","0.255"
-"3","2021","Bob Guerriero","Big East","10-21-0","0.323"
-"4","2020","Bob Guerriero","Big East","8-15-0","0.348"
-"5","2019","Bob Guerriero","Big East","26-22-0","0.542"
-"6","2018","Amy Kvilhaug","Big East","24-26-0","0.480"
-"7","2017","Amy Kvilhaug","Big East","32-16-0","0.667"
-"8","2016","Amy Kvilhaug","Big East","29-20-0","0.592"
-"9","2015","Amy Kvilhaug","Big East","28-19-0","0.596"
-"10","2014","Amy Kvilhaug","Big East","28-23-0","0.549"
-"11","2013","Amy Kvilhaug","AAC","17-35-1","0.327"
-"12","2012","Amy Kvilhaug","AAC","23-34-0","0.404"
-"13","2011","Amy Kvilhaug","AAC","20-30-0","0.400"
-"14","2010","Amy Kvilhaug","AAC","18-33-0","0.353"
-"15","2009","Amy Kvilhaug","AAC","24-26-0","0.480"
-"16","2008","Amy Kvilhaug","AAC","20-35-0","0.364"
-"17","2007","Amy Kvilhaug","AAC","18-36-0","0.333"
-"18","2006","Debbie DeJong","AAC","27-30-0","0.474"
-"19","2005","Debbie DeJong","AAC","20-30-1","0.400"
-"20","2004","Melody Cope","AAC","28-26-0","0.519"
-"21","2003","Melody Cope","AAC","30-28-0","0.517"
-"22","2002","Melody Cope","AAC","23-30-1","0.434"
-"23","2001","Melody Cope","AAC","30-31-0","0.492"
-"24","2000","Melody Cope","AAC","26-24-0","0.520"
-"25","1999","Kim Staehle","AAC","21-30-0","0.412"
-"26","1998","Kim Staehle","-","16-30-1","0.348"
-"27","1997","Kim Staehle","AAC","16-29-0","0.356"
-"28","1996","Pat Burnside","-","4-34-0","0.105"
-"29","1995","Pat Burnside","-","24-30-0","0.444"
-"30","1994","Pat Burnside","-","18-23-0","0.439"
-"31","1993","Pat Burnside","-","11-25-0","0.306"
-"32","1992","Bob Pinto","-","25-21-1","0.543"
-"33","1991","Tammy ZaZuri","-","21-18-1","0.538"
-"34","1990","Tammy ZaZuri","-","32-17-0","0.653"
-"35","1989","Tammy ZaZuri","-","24-18-0","0.571"
-"36","1988","Tammy ZaZuri","-","28-19-1","0.596"
-"37","1987","Tammy ZaZuri","-","18-27-0","0.400"
-"38","1986","Tammy ZaZuri","-","18-22-0","0.450"
-"39","1985","Tammy ZaZuri","-","17-18-0","0.486"
-"40","1983","","-","0-0-0","  NaN"
-"41","1982","","-","0-0-0","  NaN"
-"42","2024","Michelle DePolo","Big East","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. John's (NY)","603","2025","Michelle DePolo","D-I","Big East",1,1,0,0.5
+"2","St. John's (NY)","603","2024","Michelle DePolo","D-I","Big East",31,27,0,0.534
+"3","St. John's (NY)","603","2023","Bob Guerriero","D-I","Big East",23,29,0,0.442
+"4","St. John's (NY)","603","2022","Bob Guerriero","D-I","Big East",12,35,0,0.255
+"5","St. John's (NY)","603","2021","Bob Guerriero","D-I","Big East",10,21,0,0.323
+"6","St. John's (NY)","603","2020","Bob Guerriero","D-I","Big East",8,15,0,0.348
+"7","St. John's (NY)","603","2019","Bob Guerriero","D-I","Big East",26,22,0,0.542
+"8","St. John's (NY)","603","2018","Amy Kvilhaug","D-I","Big East",24,26,NA,0.48
+"9","St. John's (NY)","603","2017","Amy Kvilhaug","D-I","Big East",32,16,0,0.667
+"10","St. John's (NY)","603","2016","Amy Kvilhaug","D-I","Big East",29,20,0,0.592
+"11","St. John's (NY)","603","2015","Amy Kvilhaug","D-I","Big East",28,19,0,0.596
+"12","St. John's (NY)","603","2014","Amy Kvilhaug","D-I","Big East",28,23,0,0.549
+"13","St. John's (NY)","603","2013","Amy Kvilhaug","D-I","The American",18,38,1,0.325
+"14","St. John's (NY)","603","2012","Amy Kvilhaug","D-I","The American",23,34,0,0.404
+"15","St. John's (NY)","603","2011","Amy Kvilhaug","D-I","The American",20,30,0,0.4
+"16","St. John's (NY)","603","2010","Amy Kvilhaug","D-I","The American",18,33,0,0.353
+"17","St. John's (NY)","603","2009","Amy Kvilhaug","D-I","The American",24,26,0,0.48
+"18","St. John's (NY)","603","2008","Amy Kvilhaug","D-I","The American",20,35,0,0.364
+"19","St. John's (NY)","603","2007","Amy Kvilhaug","D-I","The American",18,36,0,0.333
+"20","St. John's (NY)","603","2006","Debbie DeJong","D-I","The American",27,30,0,0.474
+"21","St. John's (NY)","603","2005","Debbie DeJong","D-I","The American",20,30,1,0.402
+"22","St. John's (NY)","603","2004","Melody Cope","D-I","The American",28,26,0,0.519
+"23","St. John's (NY)","603","2003","Melody Cope","D-I","The American",30,28,0,0.517
+"24","St. John's (NY)","603","2002","Melody Cope","D-I","The American",23,30,1,0.435
+"25","St. John's (NY)","603","2001","Melody Cope","D-I","The American",30,31,0,0.492
+"26","St. John's (NY)","603","1900","Melody Cope","D-I","The American",26,24,0,0.52
+"27","St. John's (NY)","603","1999","Kim Staehle","D-I","The American",21,30,0,0.412
+"28","St. John's (NY)","603","1998","Kim Staehle","D-I","-",16,30,1,0.351
+"29","St. John's (NY)","603","1997","Kim Staehle","D-I","The American",16,29,0,0.356
+"30","St. John's (NY)","603","1996","Pat Burnside","D-I","-",4,34,NA,0.105
+"31","St. John's (NY)","603","1995","Pat Burnside","D-I","-",24,30,NA,0.444
+"32","St. John's (NY)","603","1994","Pat Burnside","D-I","-",18,23,NA,0.439
+"33","St. John's (NY)","603","1993","Pat Burnside","D-I","-",11,25,NA,0.306
+"34","St. John's (NY)","603","1992","Bob Pinto","D-I","-",25,21,1,0.543
+"35","St. John's (NY)","603","1991","Tammy ZaZuri","D-I","-",21,18,1,0.538
+"36","St. John's (NY)","603","1990","Tammy ZaZuri","D-I","-",32,17,NA,0.653
+"37","St. John's (NY)","603","1989","Tammy ZaZuri","D-I","-",24,18,NA,0.571
+"38","St. John's (NY)","603","1988","Tammy ZaZuri","D-I","-",28,19,1,0.594
+"39","St. John's (NY)","603","1987","Tammy ZaZuri","D-I","-",18,27,NA,0.4
+"40","St. John's (NY)","603","1986","Tammy ZaZuri","D-I","-",18,22,NA,0.45
+"41","St. John's (NY)","603","1985","Tammy ZaZuri","D-I","-",17,18,NA,0.486
+"42","St. John's (NY)","603","1983","","D-I","-",NA,NA,NA,NA
+"43","St. John's (NY)","603","1982","","D-I","-",NA,NA,NA,NA
+"44","St. John's (NY)","603","","","","",870,1046,7,0.454

@@ -1,6 +1,8 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2014",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-Scranton","506324","2025",NA,NA,"-",NA,NA,NA,0
+"2","Penn St.-Scranton","506324","2024",NA,NA,"-",NA,NA,NA,0
+"3","Penn St.-Scranton","506324","2023",NA,NA,"-",NA,NA,NA,0
+"4","Penn St.-Scranton","506324","2022",NA,NA,"-",NA,NA,NA,0
+"5","Penn St.-Scranton","506324","2020",NA,NA,"-",NA,NA,NA,0
+"6","Penn St.-Scranton","506324","2014",NA,NA,"-",NA,NA,NA,NA
+"7","Penn St.-Scranton","506324","",NA,NA,"",0,0,0,0

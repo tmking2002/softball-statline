@@ -1,19 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2021",NA,"-","0-0-0",0
-"3","2020",NA,"-","0-0-0",0
-"4","2019",NA,"-","0-0-0",0
-"5","2018",NA,"-","0-0-0",0
-"6","2017",NA,"-","0-0-0",NA
-"7","2016",NA,"-","0-0-0",NA
-"8","2015",NA,"-","0-0-0",NA
-"9","2012",NA,"-","0-0-0",NA
-"10","2011",NA,"-","0-0-0",NA
-"11","2010",NA,"-","0-0-0",NA
-"12","2009",NA,"-","0-0-0",NA
-"13","2007",NA,"-","0-0-0",NA
-"14","2006",NA,"-","0-0-0",NA
-"15","2005",NA,"-","0-0-0",NA
-"16","2004",NA,"-","0-0-0",NA
-"17","2003",NA,"-","0-0-0",NA
-"18","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Trinity Int'l","506107","2023",NA,NA,"-",NA,NA,NA,0
+"2","Trinity Int'l","506107","2021",NA,NA,"-",NA,NA,NA,0
+"3","Trinity Int'l","506107","2020",NA,NA,"-",NA,NA,NA,0
+"4","Trinity Int'l","506107","2019",NA,NA,"-",NA,NA,NA,0
+"5","Trinity Int'l","506107","2018",NA,NA,"-",NA,NA,NA,0
+"6","Trinity Int'l","506107","2017",NA,NA,"-",NA,NA,NA,NA
+"7","Trinity Int'l","506107","2016",NA,NA,"-",NA,NA,NA,NA
+"8","Trinity Int'l","506107","2015",NA,NA,"-",NA,NA,NA,NA
+"9","Trinity Int'l","506107","2012",NA,NA,"-",NA,NA,NA,NA
+"10","Trinity Int'l","506107","2011",NA,NA,"-",NA,NA,NA,NA
+"11","Trinity Int'l","506107","2010",NA,NA,"-",NA,NA,NA,NA
+"12","Trinity Int'l","506107","2009",NA,NA,"-",NA,NA,NA,NA
+"13","Trinity Int'l","506107","2007",NA,NA,"-",NA,NA,NA,NA
+"14","Trinity Int'l","506107","2006",NA,NA,"-",NA,NA,NA,NA
+"15","Trinity Int'l","506107","2005",NA,NA,"-",NA,NA,NA,NA
+"16","Trinity Int'l","506107","2004",NA,NA,"-",NA,NA,NA,NA
+"17","Trinity Int'l","506107","2003",NA,NA,"-",NA,NA,NA,NA
+"18","Trinity Int'l","506107","2002",NA,NA,"-",NA,NA,NA,NA
+"19","Trinity Int'l","506107","",NA,NA,"",0,0,0,0

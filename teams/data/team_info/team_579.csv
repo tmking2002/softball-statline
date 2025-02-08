@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jexx Varner","Horizon","24-23-0",0.511
-"2",2022,"Jexx Varner","Horizon","31-21-0",0.596
-"3",2021,"Jexx Varner","Horizon","25-19-0",0.568
-"4",2020,"Jexx Varner","NEC","8-11-0",0.421
-"5",2019,"Dr. Craig Coleman","NEC","14-37-0",0.275
-"6",2018,"Dr. Craig Coleman","NEC","10-36-0",0.217
-"7",2017,"Dr. Craig Coleman","NEC","19-33-0",0.365
-"8",2016,"Dr. Craig Coleman","NEC","23-33-0",0.411
-"9",2015,"Dr. Craig Coleman","NEC","26-23-0",0.531
-"10",2014,"Dr. Craig Coleman","NEC","24-25-0",0.49
-"11",2013,"Dr. Craig Coleman","NEC","30-17-1",0.638
-"12",2012,"Dr. Craig Coleman","NEC","35-22-0",0.614
-"13",2011,"Dr. Craig Coleman","NEC","26-26-0",0.5
-"14",2010,"Dr. Craig Coleman","NEC","28-20-0",0.583
-"15",2009,"Dr. Craig Coleman","NEC","25-21-0",0.543
-"16",2008,"Dr. Craig Coleman","NEC","30-20-0",0.6
-"17",2007,"Dr. Craig Coleman","NEC","18-22-0",0.45
-"18",2006,"Dr. Craig Coleman","NEC","26-19-0",0.578
-"19",2005,"Dr. Craig Coleman","NEC","29-22-1",0.569
-"20",2004,"Dr. Craig Coleman","NEC","12-33-1",0.267
-"21",2003,"Dr. Craig Coleman","NEC","9-38-0",0.191
-"22",2002,"Dr. Craig Coleman","NEC","26-20-0",0.565
-"23",2001,"Dr. Craig Coleman","NEC","27-18-0",0.6
-"24",2000,"Dr. Craig Coleman","NEC","22-22-0",0.5
-"25",1999,"Dr. Craig Coleman","NEC","22-23-1",0.489
-"26",1998,"Dr. Craig Coleman","-","26-20-0",0.565
-"27",1997,"Dr. Craig Coleman","NEC","34-19-0",0.642
-"28",1996,"Dr. Craig Coleman","-","15-23-0",0.395
-"29",1995,"Dr. Craig Coleman","-","23-30-0",0.434
-"30",1994,"Dr. Craig Coleman","-","32-18-0",0.64
-"31",1993,"Dr. Craig Coleman","-","27-14-0",0.659
-"32",1992,"Dr. Craig Coleman","-","30-16-0",0.652
-"33",1991,"Dr. Craig Coleman","-","30-14-0",0.682
-"34",1990,"Susan Hofacre","-","7-14-0",0.333
-"35",1989,"Susan Hofacre","-","2-14-0",0.125
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Jexx Varner","Horizon","20-24-0",0.455
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Robert Morris","579","2025","Jexx Varner","D-I","Horizon",0,0,0,0
+"2","Robert Morris","579","2024","Jexx Varner","D-I","Horizon",20,24,0,0.455
+"3","Robert Morris","579","2023","Jexx Varner","D-I","Horizon",24,23,0,0.511
+"4","Robert Morris","579","2022","Jexx Varner","D-I","Horizon",31,21,0,0.596
+"5","Robert Morris","579","2021","Jexx Varner","D-I","Horizon",25,19,0,0.568
+"6","Robert Morris","579","2020","Jexx Varner","D-I","NEC",8,11,0,0.421
+"7","Robert Morris","579","2019","Dr. Craig Coleman","D-I","NEC",14,37,0,0.275
+"8","Robert Morris","579","2018","Dr. Craig Coleman","D-I","NEC",10,36,NA,0.217
+"9","Robert Morris","579","2017","Dr. Craig Coleman","D-I","NEC",19,33,0,0.365
+"10","Robert Morris","579","2016","Dr. Craig Coleman","D-I","NEC",23,33,0,0.411
+"11","Robert Morris","579","2015","Dr. Craig Coleman","D-I","NEC",26,23,0,0.531
+"12","Robert Morris","579","2014","Dr. Craig Coleman","D-I","NEC",24,25,0,0.49
+"13","Robert Morris","579","2013","Dr. Craig Coleman","D-I","NEC",30,19,1,0.61
+"14","Robert Morris","579","2012","Dr. Craig Coleman","D-I","NEC",35,22,0,0.614
+"15","Robert Morris","579","2011","Dr. Craig Coleman","D-I","NEC",26,26,0,0.5
+"16","Robert Morris","579","2010","Dr. Craig Coleman","D-I","NEC",28,20,0,0.583
+"17","Robert Morris","579","2009","Dr. Craig Coleman","D-I","NEC",25,21,0,0.543
+"18","Robert Morris","579","2008","Dr. Craig Coleman","D-I","NEC",30,20,0,0.6
+"19","Robert Morris","579","2007","Dr. Craig Coleman","D-I","NEC",18,22,0,0.45
+"20","Robert Morris","579","2006","Dr. Craig Coleman","D-I","NEC",26,19,0,0.578
+"21","Robert Morris","579","2005","Dr. Craig Coleman","D-I","NEC",29,22,1,0.567
+"22","Robert Morris","579","2004","Dr. Craig Coleman","D-I","NEC",12,33,1,0.272
+"23","Robert Morris","579","2003","Dr. Craig Coleman","D-I","NEC",9,38,0,0.191
+"24","Robert Morris","579","2002","Dr. Craig Coleman","D-I","NEC",26,20,0,0.565
+"25","Robert Morris","579","2001","Dr. Craig Coleman","D-I","NEC",27,18,0,0.6
+"26","Robert Morris","579","1900","Dr. Craig Coleman","D-I","NEC",22,22,0,0.5
+"27","Robert Morris","579","1999","Dr. Craig Coleman","D-I","NEC",22,23,1,0.489
+"28","Robert Morris","579","1998","Dr. Craig Coleman","D-I","-",26,20,NA,0.565
+"29","Robert Morris","579","1997","Dr. Craig Coleman","D-I","NEC",34,19,0,0.642
+"30","Robert Morris","579","1996","Dr. Craig Coleman","D-I","-",15,23,NA,0.395
+"31","Robert Morris","579","1995","Dr. Craig Coleman","D-I","-",23,30,NA,0.434
+"32","Robert Morris","579","1994","Dr. Craig Coleman","D-I","-",32,18,NA,0.64
+"33","Robert Morris","579","1993","Dr. Craig Coleman","D-I","-",27,14,NA,0.659
+"34","Robert Morris","579","1992","Dr. Craig Coleman","D-I","-",30,16,NA,0.652
+"35","Robert Morris","579","1991","Dr. Craig Coleman","D-I","-",30,14,NA,0.682
+"36","Robert Morris","579","1990","Susan Hofacre","D-I","-",7,14,NA,0.333
+"37","Robert Morris","579","1989","Susan Hofacre","D-I","-",2,14,NA,0.125
+"38","Robert Morris","579","1988","","D-I","-",NA,NA,NA,NA
+"39","Robert Morris","579","1987","","","-",NA,NA,NA,NA
+"40","Robert Morris","579","1986","","","-",NA,NA,NA,NA
+"41","Robert Morris","579","1985","","","-",NA,NA,NA,NA
+"42","Robert Morris","579","1984","","","-",NA,NA,NA,NA
+"43","Robert Morris","579","1983","","","-",NA,NA,NA,NA
+"44","Robert Morris","579","","","","",815,812,4,0.501

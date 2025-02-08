@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Glenn Moore","CUNYAC","12-17-0",0.414
-"2",2022,"Glenn Moore","CUNYAC","6-21-0",0.222
-"3",2021,"Glenn Moore","CUNYAC","0-0-0",NA
-"4",2020,"Glenn Moore","CUNYAC","0-0-0",NA
-"5",2019,"Glenn Moore","CUNYAC","3-23-0",0.115
-"6",2018,"Antoinette Brown","CUNYAC","5-19-0",0.208
-"7",2017,"Antoinette Brown","CUNYAC","4-25-0",0.138
-"8",2016,"Antoinette Brown","CUNYAC","5-23-0",0.179
-"9",2015,"Michael Ponsiglione","CUNYAC","21-20-0",0.512
-"10",2014,"Michael Ponsiglione","CUNYAC","25-15-0",0.625
-"11",2013,"Bill Dumont","CUNYAC","23-17-0",0.575
-"12",2012,"Bill Dumont","CUNYAC","19-20-0",0.487
-"13",2011,"Bill Dumont","CUNYAC","14-18-1",0.438
-"14",2010,"Bill Dumont","CUNYAC","16-17-1",0.485
-"15",2009,"Peter Grillo","CUNYAC","4-21-0",0.16
-"16",2008,"Peter Grillo","CUNYAC","11-14-0",0.44
-"17",2007,"Joanne Riggs","CUNYAC","7-11-0",0.389
-"18",2006,"Joanne Riggs","CUNYAC","15-12-0",0.556
-"19",2005,"Jaclyn Apicello","CUNYAC","3-13-0",0.188
-"20",2004,"Jaclyn Apicello","CUNYAC","6-17-0",0.261
-"21",2003,"Paul Watson","CUNYAC","10-16-0",0.385
-"22",2002,"Paul Watson","CUNYAC","6-14-0",0.3
-"23",2001,"Maureen Tracy","-","11-9-0",0.55
-"24",2000,"Maureen Tracy","-","5-12-0",0.294
-"25",1999,"John Caccamo","-","2-14-0",0.125
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"Bruce Filosa","-","5-26-0",0.161
-"33",1991,"Bruce Filosa","-","5-20-0",0.2
-"34",1990,"Artie LaGreca","-","13-15-0",0.464
-"35",1983,"","-","0-0-0",NA
-"36",2024,"Frank Marinello","CUNYAC","11-17-0",0.393
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Brooklyn","79","2025","Frank Marinello","D-III","CUNYAC",0,0,0,0
+"2","Brooklyn","79","2024","Frank Marinello","D-III","CUNYAC",11,17,0,0.393
+"3","Brooklyn","79","2023","Glenn Moore","D-III","CUNYAC",12,17,0,0.414
+"4","Brooklyn","79","2022","Glenn Moore","D-III","CUNYAC",6,21,0,0.222
+"5","Brooklyn","79","2021","Glenn Moore","D-III","CUNYAC",0,0,0,0
+"6","Brooklyn","79","2020","Glenn Moore","D-III","CUNYAC",NA,NA,NA,0
+"7","Brooklyn","79","2019","Glenn Moore","D-III","CUNYAC",3,23,0,0.115
+"8","Brooklyn","79","2018","Antoinette Brown","D-III","CUNYAC",5,19,NA,0.208
+"9","Brooklyn","79","2017","Antoinette Brown","D-III","CUNYAC",4,25,0,0.138
+"10","Brooklyn","79","2016","Antoinette Brown","D-III","CUNYAC",5,23,0,0.179
+"11","Brooklyn","79","2015","Michael Ponsiglione","D-III","CUNYAC",21,20,0,0.512
+"12","Brooklyn","79","2014","Michael Ponsiglione","D-III","CUNYAC",25,15,0,0.625
+"13","Brooklyn","79","2013","Bill Dumont","D-III","CUNYAC",23,19,0,0.548
+"14","Brooklyn","79","2012","Bill Dumont","D-III","CUNYAC",19,20,0,0.487
+"15","Brooklyn","79","2011","Bill Dumont","D-III","CUNYAC",14,18,1,0.439
+"16","Brooklyn","79","2010","Bill Dumont","D-III","CUNYAC",16,17,1,0.485
+"17","Brooklyn","79","2009","Peter Grillo","D-III","CUNYAC",4,21,0,0.16
+"18","Brooklyn","79","2008","Peter Grillo","D-III","CUNYAC",11,14,0,0.44
+"19","Brooklyn","79","2007","Joanne Riggs","D-III","CUNYAC",7,11,0,0.389
+"20","Brooklyn","79","2006","Joanne Riggs","D-III","CUNYAC",15,12,0,0.556
+"21","Brooklyn","79","2005","Jaclyn Apicello","D-III","CUNYAC",3,13,0,0.188
+"22","Brooklyn","79","2004","Jaclyn Apicello","D-III","CUNYAC",6,17,0,0.261
+"23","Brooklyn","79","2003","Paul Watson","D-III","CUNYAC",10,16,0,0.385
+"24","Brooklyn","79","2002","Paul Watson","D-III","CUNYAC",6,14,0,0.3
+"25","Brooklyn","79","2001","Maureen Tracy","D-III","-",11,9,NA,0.55
+"26","Brooklyn","79","1900","Maureen Tracy","D-III","-",5,12,NA,0.294
+"27","Brooklyn","79","1999","John Caccamo","D-III","-",2,14,0,0.125
+"28","Brooklyn","79","1998","","D-III","-",NA,NA,NA,NA
+"29","Brooklyn","79","1997","","D-III","-",NA,NA,NA,NA
+"30","Brooklyn","79","1996","","D-III","-",NA,NA,NA,NA
+"31","Brooklyn","79","1995","","D-III","-",NA,NA,NA,NA
+"32","Brooklyn","79","1994","","D-III","-",NA,NA,NA,NA
+"33","Brooklyn","79","1993","","","-",NA,NA,NA,NA
+"34","Brooklyn","79","1992","Bruce Filosa","D-I","-",5,26,NA,0.161
+"35","Brooklyn","79","1991","Bruce Filosa","D-I","-",5,20,NA,0.2
+"36","Brooklyn","79","1990","Artie LaGreca","D-I","-",13,15,NA,0.464
+"37","Brooklyn","79","1983","","D-I","-",NA,NA,NA,NA
+"38","Brooklyn","79","","","","",267,468,2,0.364

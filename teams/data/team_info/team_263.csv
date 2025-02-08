@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Meredith Mills","USA South","33-10-0",0.767
-"2",2022,"Meredith Mills","USA South","26-13-0",0.667
-"3",2021,"Teresa Fister","USA South","24-9-0",0.727
-"4",2020,"Teresa Fister","USA South","9-5-0",0.643
-"5",2019,"Teresa Fister","USA South","26-16-0",0.619
-"6",2018,"Teresa Fister","USA South","16-22-0",0.421
-"7",2017,"Teresa Fister","USA South","21-17-0",0.553
-"8",2016,"Becky Bishop (6-4)Denzel Wallace (20-12)","USA South","26-16-0",0.619
-"9",2015,"Becky Bishop","USA South","22-22-0",0.5
-"10",2014,"Whitney Gelin","USA South","20-19-0",0.513
-"11",2013,"Whitney Gelin","USA South","16-19-0",0.457
-"12",2012,"Whitney Gelin","USA South","21-19-0",0.525
-"13",2011,"Whitney Gelin","USA South","22-17-0",0.564
-"14",2010,"Whitney Gelin","USA South","28-15-1",0.651
-"15",2009,"Kama Tucker","USA South","20-18-0",0.526
-"16",2008,"Kama Tucker","USA South","25-17-2",0.595
-"17",2007,"Kama Tucker","USA South","32-10-0",0.762
-"18",2006,"Kama Tucker","USA South","29-15-0",0.659
-"19",2005,"Kama Tucker","USA South","24-14-0",0.632
-"20",2004,"Kama Tucker","USA South","14-18-2",0.438
-"21",2003,"Ben Guiliano","USA South","18-13-0",0.581
-"22",2002,"Ben Guiliano","-","14-20-0",0.412
-"23",2001,"Ben Guiliano","-","20-15-0",0.571
-"24",2000,"","-","0-0-0",NA
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1988,"","-","0-0-0",NA
-"36",2024,"Meredith Mills","USA South","28-15-0",0.651
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Greensboro","263","2025","Brianna Strickland","D-III","USA South",0,0,0,0
+"2","Greensboro","263","2024","Meredith Mills","D-III","USA South",28,15,0,0.651
+"3","Greensboro","263","2023","Meredith Mills","D-III","USA South",33,10,0,0.767
+"4","Greensboro","263","2022","Meredith Mills","D-III","USA South",26,13,0,0.667
+"5","Greensboro","263","2021","Teresa Fister","D-III","USA South",24,9,0,0.727
+"6","Greensboro","263","2020","Teresa Fister","D-III","USA South",9,5,0,0.643
+"7","Greensboro","263","2019","Teresa Fister","D-III","USA South",26,16,0,0.619
+"8","Greensboro","263","2018","Teresa Fister","D-III","USA South",16,22,NA,0.421
+"9","Greensboro","263","2017","Teresa Fister","D-III","USA South",21,17,0,0.553
+"10","Greensboro","263","2016","Becky Bishop (6-4)Denzel Wallace (20-12)","D-III","USA South",26,16,0,0.619
+"11","Greensboro","263","2015","Becky Bishop","D-III","USA South",22,22,0,0.5
+"12","Greensboro","263","2014","Whitney Gelin","D-III","USA South",20,19,0,0.513
+"13","Greensboro","263","2013","Whitney Gelin","D-III","USA South",16,19,0,0.457
+"14","Greensboro","263","2012","Whitney Gelin","D-III","USA South",21,19,0,0.525
+"15","Greensboro","263","2011","Whitney Gelin","D-III","USA South",22,17,0,0.564
+"16","Greensboro","263","2010","Whitney Gelin","D-III","USA South",28,15,1,0.648
+"17","Greensboro","263","2009","Kama Tucker","D-III","USA South",20,18,0,0.526
+"18","Greensboro","263","2008","Kama Tucker","D-III","USA South",25,17,2,0.591
+"19","Greensboro","263","2007","Kama Tucker","D-III","USA South",32,10,0,0.762
+"20","Greensboro","263","2006","Kama Tucker","D-III","USA South",29,15,0,0.659
+"21","Greensboro","263","2005","Kama Tucker","D-III","USA South",24,14,0,0.632
+"22","Greensboro","263","2004","Kama Tucker","D-III","USA South",14,18,2,0.441
+"23","Greensboro","263","2003","Ben Guiliano","D-III","USA South",18,13,0,0.581
+"24","Greensboro","263","2002","Ben Guiliano","D-III","-",14,20,0,0.412
+"25","Greensboro","263","2001","Ben Guiliano","D-III","-",20,15,0,0.571
+"26","Greensboro","263","1900","","","-",NA,NA,NA,NA
+"27","Greensboro","263","1999","","","-",NA,NA,NA,NA
+"28","Greensboro","263","1998","","","-",NA,NA,NA,NA
+"29","Greensboro","263","1997","","","-",NA,NA,NA,NA
+"30","Greensboro","263","1996","","","-",NA,NA,NA,NA
+"31","Greensboro","263","1995","","","-",NA,NA,NA,NA
+"32","Greensboro","263","1994","","","-",NA,NA,NA,NA
+"33","Greensboro","263","1993","","","-",NA,NA,NA,NA
+"34","Greensboro","263","1992","","","-",NA,NA,NA,NA
+"35","Greensboro","263","1991","","","-",NA,NA,NA,NA
+"36","Greensboro","263","1990","","","-",NA,NA,NA,NA
+"37","Greensboro","263","1988","","D-III","-",NA,NA,NA,NA
+"38","Greensboro","263","","","","",534,374,5,0.588

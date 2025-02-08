@@ -1,38 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Rachel Turoscy","MAC Freedom","23-13-0","0.639"
-"2","2022","Rachel Turoscy","MAC Freedom","13-22-0","0.371"
-"3","2021","Rachel Turoscy","MAC Freedom","10-16-0","0.385"
-"4","2020","Rachel Turoscy","MAC Freedom","6-10-0","0.375"
-"5","2019","Rachel Turoscy","MAC Freedom","16-24-0","0.400"
-"6","2018","Rachel Turoscy","MAC Freedom","14-16-0","0.467"
-"7","2017","Rachel Turoscy","MAC Freedom","13-25-0","0.342"
-"8","2016","Rachel Turoscy","MAC Freedom","6-29-0","0.171"
-"9","2015","Rachel Turoscy","MAC Freedom","19-15-0","0.559"
-"10","2014","Rachel Turoscy","MAC Freedom","15-16-0","0.484"
-"11","2013","Rachel Turoscy","MAC Freedom","30-12-1","0.714"
-"12","2012","Rachel Turoscy","MAC Freedom","15-25-0","0.375"
-"13","2011","Rachel Turoscy","MAC Freedom","26-13-0","0.667"
-"14","2010","Rachel Turoscy","MAC Freedom","29-20-0","0.592"
-"15","2009","Rachel Turoscy","MAC Freedom","25-15-0","0.625"
-"16","2008","Rachel Turoscy","MAC Freedom","28-15-0","0.651"
-"17","2007","Rachel Turoscy","MAC Freedom","16-17-0","0.485"
-"18","2006","Rachel Turoscy","MAC Freedom","12-23-0","0.343"
-"19","2005","Rachel Turoscy","MAC Freedom","17-18-0","0.486"
-"20","2004","Rachel Turoscy","MAC Freedom","19-14-0","0.576"
-"21","2003","Rachel Turoscy","MAC Freedom","16-10-0","0.615"
-"22","2002","Rachel Turoscy","MAC Freedom","15-17-0","0.469"
-"23","2001","Suzanne Feigley","-","19-19-0","0.500"
-"24","2000","Suzanne Feigley","-","23-11-0","0.676"
-"25","1999","Suzanne Feigley","-","12-10-1","0.545"
-"26","1998","Suzanne Feigley","-","7-21-1","0.250"
-"27","1997","Suzanne Feigley","-","16-18-0","0.471"
-"28","1996","Suzanne Feigley","-","18-11-0","0.621"
-"29","1995","Suzanne Feigley","-","25-9-0","0.735"
-"30","1994","Marge Grube","-","8-17-0","0.320"
-"31","1993","Bob Boucher","-","3-16-0","0.158"
-"32","1992","Wendy Perlstein","-","13-16-0","0.448"
-"33","1991","Wendy Perlstein","-","11-12-0","0.478"
-"34","1990","","-","0-0-0","  NaN"
-"35","1988","","-","0-0-0","  NaN"
-"36","1987","","-","0-0-0","  NaN"
-"37","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","DeSales","20","2025","Rachel Turoscy","D-III","MAC Freedom",0,0,0,0
+"2","DeSales","20","2024","Rachel Turoscy","D-III","MAC Freedom",28,14,0,0.667
+"3","DeSales","20","2023","Rachel Turoscy","D-III","MAC Freedom",23,13,0,0.639
+"4","DeSales","20","2022","Rachel Turoscy","D-III","MAC Freedom",13,22,0,0.371
+"5","DeSales","20","2021","Rachel Turoscy","D-III","MAC Freedom",10,16,0,0.385
+"6","DeSales","20","2020","Rachel Turoscy","D-III","MAC Freedom",6,10,0,0.375
+"7","DeSales","20","2019","Rachel Turoscy","D-III","MAC Freedom",16,24,0,0.4
+"8","DeSales","20","2018","Rachel Turoscy","D-III","MAC Freedom",14,16,NA,0.467
+"9","DeSales","20","2017","Rachel Turoscy","D-III","MAC Freedom",13,25,0,0.342
+"10","DeSales","20","2016","Rachel Turoscy","D-III","MAC Freedom",6,29,0,0.171
+"11","DeSales","20","2015","Rachel Turoscy","D-III","MAC Freedom",19,15,0,0.559
+"12","DeSales","20","2014","Rachel Turoscy","D-III","MAC Freedom",15,16,0,0.484
+"13","DeSales","20","2013","Rachel Turoscy","D-III","MAC Freedom",32,12,1,0.722
+"14","DeSales","20","2012","Rachel Turoscy","D-III","MAC Freedom",15,25,0,0.375
+"15","DeSales","20","2011","Rachel Turoscy","D-III","MAC Freedom",26,13,0,0.667
+"16","DeSales","20","2010","Rachel Turoscy","D-III","MAC Freedom",29,20,0,0.592
+"17","DeSales","20","2009","Rachel Turoscy","D-III","MAC Freedom",25,15,0,0.625
+"18","DeSales","20","2008","Rachel Turoscy","D-III","MAC Freedom",28,15,0,0.651
+"19","DeSales","20","2007","Rachel Turoscy","D-III","MAC Freedom",16,17,0,0.485
+"20","DeSales","20","2006","Rachel Turoscy","D-III","MAC Freedom",12,23,0,0.343
+"21","DeSales","20","2005","Rachel Turoscy","D-III","MAC Freedom",17,18,0,0.486
+"22","DeSales","20","2004","Rachel Turoscy","D-III","MAC Freedom",19,14,0,0.576
+"23","DeSales","20","2003","Rachel Turoscy","D-III","MAC Freedom",16,10,0,0.615
+"24","DeSales","20","2002","Rachel Turoscy","D-III","MAC Freedom",15,17,0,0.469
+"25","DeSales","20","2001","Suzanne Feigley","D-III","-",19,19,NA,0.5
+"26","DeSales","20","1900","Suzanne Feigley","D-III","-",23,11,NA,0.676
+"27","DeSales","20","1999","Suzanne Feigley","D-III","-",12,10,1,0.543
+"28","DeSales","20","1998","Suzanne Feigley","D-III","-",7,21,1,0.259
+"29","DeSales","20","1997","Suzanne Feigley","D-III","-",16,18,NA,0.471
+"30","DeSales","20","1996","Suzanne Feigley","D-III","-",18,11,NA,0.621
+"31","DeSales","20","1995","Suzanne Feigley","D-III","-",25,9,NA,0.735
+"32","DeSales","20","1994","Marge Grube","D-III","-",8,17,0,0.32
+"33","DeSales","20","1993","Bob Boucher","D-III","-",3,16,0,0.158
+"34","DeSales","20","1992","Wendy Perlstein","D-III","-",13,16,NA,0.448
+"35","DeSales","20","1991","Wendy Perlstein","D-III","-",11,12,NA,0.478
+"36","DeSales","20","1990","","D-III","-",NA,NA,NA,NA
+"37","DeSales","20","1988","","D-III","-",NA,NA,NA,NA
+"38","DeSales","20","1987","","D-III","-",NA,NA,NA,NA
+"39","DeSales","20","1981","","","-",NA,NA,NA,NA
+"40","DeSales","20","","","","",568,559,3,0.504

@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Julia Culotta","MAC Commonwealth","18-17-0","0.514"
-"2","2022","Julia Culotta","MAC Commonwealth","20-15-0","0.571"
-"3","2021","Julia Culotta","MAC Commonwealth","18-10-0","0.643"
-"4","2020","Julia Culotta","MAC Commonwealth","2-2-0","0.500"
-"5","2019","Julia Culotta","MAC Commonwealth","16-19-0","0.457"
-"6","2018","Julia Culotta","MAC Commonwealth","17-17-0","0.500"
-"7","2017","Julia Culotta","MAC Commonwealth","9-25-0","0.265"
-"8","2016","Joey Lye","MAC Commonwealth","17-26-0","0.395"
-"9","2015","Joey Lye","MAC Commonwealth","19-22-0","0.463"
-"10","2014","Joey Lye","MAC Commonwealth","15-23-0","0.395"
-"11","2013","Joey Lye","MAC Commonwealth","24-23-0","0.511"
-"12","2012","Joey Lye","C2C","19-22-0","0.463"
-"13","2011","Stefanie Meyerson","C2C","22-18-1","0.550"
-"14","2010","Stefanie Meyerson","C2C","23-16-0","0.590"
-"15","2009","Stefanie Meyerson","C2C","13-21-0","0.382"
-"16","2008","Stefanie Meyerson","C2C","14-16-0","0.467"
-"17","2007","Stefanie Meyerson","United East","18-21-0","0.462"
-"18","2006","Stefanie Meyerson","United East","14-8-0","0.636"
-"19","2005","Stefanie Meyerson","United East","9-17-0","0.346"
-"20","2004","Stefanie Meyerson","-","9-20-0","0.310"
-"21","2003","Stefanie Meyerson","-","6-22-0","0.214"
-"22","2002","Ken Ballance","-","6-26-0","0.188"
-"23","2001","Ken Ballance","-","11-17-0","0.393"
-"24","2000","Ken Ballance","-","5-17-0","0.227"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Stevenson","21852","2025","Julia Culotta","D-III","MAC Commonwealth",0,0,0,0
+"2","Stevenson","21852","2024","Julia Culotta","D-III","MAC Commonwealth",7,23,0,0.233
+"3","Stevenson","21852","2023","Julia Culotta","D-III","MAC Commonwealth",18,17,0,0.514
+"4","Stevenson","21852","2022","Julia Culotta","D-III","MAC Commonwealth",20,15,0,0.571
+"5","Stevenson","21852","2021","Julia Culotta","D-III","MAC Commonwealth",18,10,0,0.643
+"6","Stevenson","21852","2020","Julia Culotta","D-III","MAC Commonwealth",2,2,0,0.5
+"7","Stevenson","21852","2019","Julia Culotta","D-III","MAC Commonwealth",16,19,0,0.457
+"8","Stevenson","21852","2018","Julia Culotta","D-III","MAC Commonwealth",17,17,NA,0.5
+"9","Stevenson","21852","2017","Julia Culotta","D-III","MAC Commonwealth",9,25,0,0.265
+"10","Stevenson","21852","2016","Joey Lye","D-III","MAC Commonwealth",17,26,0,0.395
+"11","Stevenson","21852","2015","Joey Lye","D-III","MAC Commonwealth",19,22,0,0.463
+"12","Stevenson","21852","2014","Joey Lye","D-III","MAC Commonwealth",15,23,0,0.395
+"13","Stevenson","21852","2013","Joey Lye","D-III","MAC Commonwealth",24,23,0,0.511
+"14","Stevenson","21852","2012","Joey Lye","D-III","C2C",19,22,0,0.463
+"15","Stevenson","21852","2011","Stefanie Meyerson","D-III","C2C",22,18,1,0.549
+"16","Stevenson","21852","2010","Stefanie Meyerson","D-III","C2C",23,16,0,0.59
+"17","Stevenson","21852","2009","Stefanie Meyerson","D-III","C2C",13,21,0,0.382
+"18","Stevenson","21852","2008","Stefanie Meyerson","D-III","C2C",14,16,0,0.467
+"19","Stevenson","21852","2007","Stefanie Meyerson","D-III","United East",18,21,0,0.462
+"20","Stevenson","21852","2006","Stefanie Meyerson","D-III","United East",14,8,0,0.636
+"21","Stevenson","21852","2005","Stefanie Meyerson","D-III","United East",9,17,0,0.346
+"22","Stevenson","21852","2004","Stefanie Meyerson","D-III","-",9,20,0,0.31
+"23","Stevenson","21852","2003","Stefanie Meyerson","D-III","-",6,22,0,0.214
+"24","Stevenson","21852","2002","Ken Ballance","D-III","-",6,26,0,0.188
+"25","Stevenson","21852","2001","Ken Ballance","D-III","-",11,17,0,0.393
+"26","Stevenson","21852","1900","Ken Ballance","D-III","-",5,17,0,0.227
+"27","Stevenson","21852","1999","","D-III","-",NA,NA,NA,NA
+"28","Stevenson","21852","1998","","D-III","-",NA,NA,NA,NA
+"29","Stevenson","21852","1997","","D-III","-",NA,NA,NA,NA
+"30","Stevenson","21852","1996","","D-III","-",NA,NA,NA,NA
+"31","Stevenson","21852","1995","","D-III","-",NA,NA,NA,NA
+"32","Stevenson","21852","1994","","","-",NA,NA,NA,NA
+"33","Stevenson","21852","1993","","","-",NA,NA,NA,NA
+"34","Stevenson","21852","1992","","","-",NA,NA,NA,NA
+"35","Stevenson","21852","1991","","","-",NA,NA,NA,NA
+"36","Stevenson","21852","1990","","","-",NA,NA,NA,NA
+"37","Stevenson","21852","1989","","","-",NA,NA,NA,NA
+"38","Stevenson","21852","1988","","","-",NA,NA,NA,NA
+"39","Stevenson","21852","1987","","","-",NA,NA,NA,NA
+"40","Stevenson","21852","1986","","","-",NA,NA,NA,NA
+"41","Stevenson","21852","1985","","","-",NA,NA,NA,NA
+"42","Stevenson","21852","1981","","","-",NA,NA,NA,NA
+"43","Stevenson","21852","","","","",351,463,1,0.431

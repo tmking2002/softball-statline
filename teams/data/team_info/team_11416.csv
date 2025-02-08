@@ -1,34 +1,36 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mercedes Bohte","RMAC","32-23-0",0.582
-"2",2022,"Mercedes Bohte","RMAC","45-9-0",0.833
-"3",2021,"Mercedes Bohte","RMAC","39-5-0",0.886
-"4",2020,"Erik Kozel","RMAC","16-6-0",0.727
-"5",2019,"Erik Kozel","RMAC","45-11-0",0.804
-"6",2018,"Ben Garcia","RMAC","48-5-0",0.906
-"7",2017,"Ben Garcia","RMAC","48-8-0",0.857
-"8",2016,"Ben Garcia","RMAC","40-13-0",0.755
-"9",2015,"Ben Garcia","RMAC","33-23-0",0.589
-"10",2014,"Candace Abrams","RMAC","27-21-0",0.562
-"11",2013,"Candace Abrams","RMAC","28-17-1",0.622
-"12",2012,"Kris Mort","RMAC","26-24-0",0.52
-"13",2011,"Kris Mort","RMAC","23-23-0",0.5
-"14",2010,"Kris Mort","RMAC","23-22-0",0.511
-"15",2009,"Kris Mort","RMAC","30-21-0",0.588
-"16",2008,"Kris Mort","RMAC","26-21-0",0.553
-"17",2007,"Kris Mort","RMAC","27-16-0",0.628
-"18",2006,"Kris Mort","RMAC","21-22-0",0.488
-"19",2005,"Kris Mort","RMAC","18-22-0",0.45
-"20",2004,"Kris Mort","RMAC","30-22-0",0.577
-"21",2003,"Kris Mort","-","31-17-0",0.646
-"22",2002,"Kris Mort","RMAC","49-13-0",0.79
-"23",2001,"Kris Mort","-","42-12-0",0.778
-"24",2000,"Kris Mort","-","44-12-0",0.786
-"25",1999,"Kris Mort","-","16-20-0",0.444
-"26",1998,"Kris Mort","-","35-16-0",0.686
-"27",1997,"Kris Mort","-","36-16-0",0.692
-"28",1996,"Kris Mort","-","25-13-0",0.658
-"29",1995,"Kris Mort","-","20-19-0",0.513
-"30",1994,"Kris Mort","-","15-23-0",0.395
-"31",1993,"Virgil Frey","-","24-14-0",0.632
-"32",1992,"Virgil Frey","-","22-12-0",0.647
-"33",2024,"Mercedes Bohte","RMAC","42-7-0",0.857
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Colorado Mesa","11416","2025","Mercedes Bohte","D-II","RMAC",2,4,0,0.333
+"2","Colorado Mesa","11416","2024","Mercedes Bohte","D-II","RMAC",46,11,0,0.807
+"3","Colorado Mesa","11416","2023","Mercedes Bohte","D-II","RMAC",32,23,0,0.582
+"4","Colorado Mesa","11416","2022","Mercedes Bohte","D-II","RMAC",45,9,0,0.833
+"5","Colorado Mesa","11416","2021","Mercedes Bohte","D-II","RMAC",39,5,0,0.886
+"6","Colorado Mesa","11416","2020","Erik Kozel","D-II","RMAC",16,6,0,0.727
+"7","Colorado Mesa","11416","2019","Erik Kozel","D-II","RMAC",45,11,0,0.804
+"8","Colorado Mesa","11416","2018","Ben Garcia","D-II","RMAC",48,5,NA,0.906
+"9","Colorado Mesa","11416","2017","Ben Garcia","D-II","RMAC",48,8,0,0.857
+"10","Colorado Mesa","11416","2016","Ben Garcia","D-II","RMAC",40,13,0,0.755
+"11","Colorado Mesa","11416","2015","Ben Garcia","D-II","RMAC",33,23,0,0.589
+"12","Colorado Mesa","11416","2014","Candace Abrams","D-II","RMAC",27,21,0,0.563
+"13","Colorado Mesa","11416","2013","Candace Abrams","D-II","RMAC",47,20,1,0.699
+"14","Colorado Mesa","11416","2012","Kris Mort","D-II","RMAC",26,24,0,0.52
+"15","Colorado Mesa","11416","2011","Kris Mort","D-II","RMAC",23,23,0,0.5
+"16","Colorado Mesa","11416","2010","Kris Mort","D-II","RMAC",23,22,0,0.511
+"17","Colorado Mesa","11416","2009","Kris Mort","D-II","RMAC",30,21,0,0.588
+"18","Colorado Mesa","11416","2008","Kris Mort","D-II","RMAC",26,21,0,0.553
+"19","Colorado Mesa","11416","2007","Kris Mort","D-II","RMAC",27,16,0,0.628
+"20","Colorado Mesa","11416","2006","Kris Mort","D-II","RMAC",21,22,0,0.488
+"21","Colorado Mesa","11416","2005","Kris Mort","D-II","RMAC",18,22,0,0.45
+"22","Colorado Mesa","11416","2004","Kris Mort","D-II","RMAC",30,22,0,0.577
+"23","Colorado Mesa","11416","2003","Kris Mort","D-II","-",31,17,0,0.646
+"24","Colorado Mesa","11416","2002","Kris Mort","D-II","RMAC",49,13,0,0.79
+"25","Colorado Mesa","11416","2001","Kris Mort","D-II","-",42,12,0,0.778
+"26","Colorado Mesa","11416","1900","Kris Mort","D-II","-",44,12,0,0.786
+"27","Colorado Mesa","11416","1999","Kris Mort","D-II","-",16,20,0,0.444
+"28","Colorado Mesa","11416","1998","Kris Mort","D-II","-",35,16,0,0.686
+"29","Colorado Mesa","11416","1997","Kris Mort","D-II","-",36,16,0,0.692
+"30","Colorado Mesa","11416","1996","Kris Mort","D-II","-",25,13,0,0.658
+"31","Colorado Mesa","11416","1995","Kris Mort","D-II","-",20,19,0,0.513
+"32","Colorado Mesa","11416","1994","Kris Mort","D-II","-",15,23,0,0.395
+"33","Colorado Mesa","11416","1993","Virgil Frey","D-II","-",24,14,0,0.632
+"34","Colorado Mesa","11416","1992","Virgil Frey","D-II","-",22,12,0,0.647
+"35","Colorado Mesa","11416","","","","",1051,539,1,0.661

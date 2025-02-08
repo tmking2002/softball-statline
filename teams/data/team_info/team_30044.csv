@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Donna Ference","United East","28-11-0",0.718
-"2",2022,"Donna Ference","United East","27-13-0",0.675
-"3",2021,"Donna Ference","United East","17-4-0",0.81
-"4",2020,"Donna Ference","United East","1-7-0",0.125
-"5",2019,"Donna Ference","United East","32-10-0",0.762
-"6",2018,"Donna Ference","United East","25-10-1",0.714
-"7",2017,"Donna Ference","United East","29-9-0",0.763
-"8",2016,"Donna Ference","United East","32-5-0",0.865
-"9",2015,"Donna Ference","United East","19-14-0",0.576
-"10",2014,"Donna Ference","United East","29-10-0",0.744
-"11",2013,"Frank Keating, Jr.","United East","36-5-0",0.878
-"12",2012,"Amanda Davis","United East","12-26-0",0.316
-"13",2011,"Amanda Davis","United East","18-19-0",0.486
-"14",2010,"Amanda Davis","United East","15-21-0",0.417
-"15",2009,"Amanda Davis","United East","17-21-0",0.447
-"16",2008,"Amanda Davis","United East","16-19-0",0.457
-"17",2007,"Amanda Davis","United East","18-14-0",0.562
-"18",2006,"","United East","12-7-0",0.632
-"19",2005,"","-","0-0-0",NA
-"20",1981,"","-","0-0-0",NA
-"21",2024,"Donna Ference","United East","20-15-0",0.571
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-Berks","30044","2025","Donna Ference","D-III","United East",0,0,0,0
+"2","Penn St.-Berks","30044","2024","Donna Ference","D-III","United East",20,15,0,0.571
+"3","Penn St.-Berks","30044","2023","Donna Ference","D-III","United East",28,11,0,0.718
+"4","Penn St.-Berks","30044","2022","Donna Ference","D-III","United East",27,13,0,0.675
+"5","Penn St.-Berks","30044","2021","Donna Ference","D-III","United East",17,4,0,0.81
+"6","Penn St.-Berks","30044","2020","Donna Ference","D-III","United East",1,7,0,0.125
+"7","Penn St.-Berks","30044","2019","Donna Ference","D-III","United East",32,10,0,0.762
+"8","Penn St.-Berks","30044","2018","Donna Ference","D-III","United East",25,10,1,0.708
+"9","Penn St.-Berks","30044","2017","Donna Ference","D-III","United East",29,9,0,0.763
+"10","Penn St.-Berks","30044","2016","Donna Ference","D-III","United East",32,5,0,0.865
+"11","Penn St.-Berks","30044","2015","Donna Ference","D-III","United East",19,14,0,0.576
+"12","Penn St.-Berks","30044","2014","Donna Ference","D-III","United East",29,10,0,0.744
+"13","Penn St.-Berks","30044","2013","Frank Keating, Jr.","D-III","United East",36,5,0,0.878
+"14","Penn St.-Berks","30044","2012","Amanda Davis","D-III","United East",12,26,0,0.316
+"15","Penn St.-Berks","30044","2011","Amanda Davis","D-III","United East",18,19,0,0.486
+"16","Penn St.-Berks","30044","2010","Amanda Davis","D-III","United East",15,21,0,0.417
+"17","Penn St.-Berks","30044","2009","Amanda Davis","D-III","United East",17,21,0,0.447
+"18","Penn St.-Berks","30044","2008","Amanda Davis","D-III","United East",16,19,0,0.457
+"19","Penn St.-Berks","30044","2007","Amanda Davis","D-III","United East",18,14,0,0.563
+"20","Penn St.-Berks","30044","2006","","D-III","United East",12,7,0,0.632
+"21","Penn St.-Berks","30044","2005","","","-",NA,NA,NA,NA
+"22","Penn St.-Berks","30044","1981","","","-",NA,NA,NA,NA
+"23","Penn St.-Berks","30044","","","","",403,240,1,0.627

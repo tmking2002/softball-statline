@@ -1,6 +1,8 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ally Moore","DIII Independent","14-26-0",0.35
-"2",2022,"Megan Curry","DIII Independent","7-13-0",0.35
-"3",2021,"Megan Curry","-","20-31-0",0.392
-"4",2018,"Angela Dean","-","14-20-8",0.412
-"5",2024,"Ally Moore","DIII Independent","14-14-0",0.5
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Asbury","30243","2025","Ally Moore","D-III","CCS",0,0,0,0
+"2","Asbury","30243","2024","Ally Moore","D-III","DIII Independent",11,20,0,0.355
+"3","Asbury","30243","2023","Ally Moore","D-III","DIII Independent",14,26,0,0.35
+"4","Asbury","30243","2022","Megan Curry","D-III","DIII Independent",7,13,0,0.35
+"5","Asbury","30243","2021","Megan Curry","","-",20,31,0,0.392
+"6","Asbury","30243","2018","Angela Dean","","-",14,20,8,0.429
+"7","Asbury","30243","","","","",66,110,8,0.38

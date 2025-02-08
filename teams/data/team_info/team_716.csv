@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Eric Newell","Sun Belt","33-19-1",0.635
-"2",2022,"Taylor Smartt (31-21)Holly Ward (31-21)","Sun Belt","31-21-0",0.596
-"3",2021,"Beth Mullins","Sun Belt","37-17-0",0.685
-"4",2020,"Beth Mullins","Sun Belt","17-6-0",0.739
-"5",2019,"Beth Mullins","Sun Belt","37-20-0",0.649
-"6",2018,"Beth Mullins","Sun Belt","34-26-0",0.567
-"7",2017,"Beth Mullins","Sun Belt","20-34-0",0.37
-"8",2016,"Beth Mullins","Sun Belt","31-25-0",0.554
-"9",2015,"Beth Mullins","Sun Belt","32-23-0",0.582
-"10",2014,"Melanie Davis","Sun Belt","22-30-2",0.423
-"11",2013,"Melanie Davis","Sun Belt","21-32-0",0.396
-"12",2012,"Melanie Davis","Sun Belt","31-24-0",0.564
-"13",2011,"Melanie Davis","Sun Belt","32-27-0",0.542
-"14",2010,"Melanie Davis","Sun Belt","27-29-0",0.482
-"15",2009,"Melanie Davis","Sun Belt","38-19-0",0.667
-"16",2008,"Melanie Davis","Sun Belt","33-23-0",0.589
-"17",2007,"Melanie Davis","Sun Belt","42-20-0",0.677
-"18",2006,"Melanie Davis","Sun Belt","31-40-0",0.437
-"19",2005,"Melanie Davis","ASUN","47-21-0",0.691
-"20",2004,"Melanie Davis","ASUN","35-30-0",0.538
-"21",2003,"Melanie Davis","ASUN","39-23-0",0.629
-"22",2002,"Melanie Davis","ASUN","46-20-0",0.697
-"23",2001,"Melanie Davis","ASUN","38-23-0",0.623
-"24",2000,"Melanie Davis","ASUN","34-30-0",0.531
-"25",1999,"Melanie Davis","ASUN","48-23-0",0.676
-"26",1998,"Melanie Davis","-","46-17-0",0.73
-"27",1997,"Melanie Davis","Summit League","31-25-1",0.554
-"28",1996,"Melanie Davis","-","47-22-1",0.681
-"29",1995,"Melanie Davis","-","52-18-0",0.743
-"30",1994,"Melanie Davis","-","40-13-0",0.755
-"31",1993,"Deanne Hughes","-","17-23-0",0.425
-"32",1992,"Dee Dee Taylor","-","22-19-0",0.537
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",2024,"Eric Newell","Sun Belt","34-22-0",0.607
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Troy","716","2025","Eric Newell","D-I","Sun Belt",2,0,0,1
+"2","Troy","716","2024","Eric Newell","D-I","Sun Belt",34,22,0,0.607
+"3","Troy","716","2023","Eric Newell","D-I","Sun Belt",33,19,1,0.632
+"4","Troy","716","2022","Taylor Smartt (31-21)Holly Ward (31-21)","D-I","Sun Belt",31,21,0,0.596
+"5","Troy","716","2021","Beth Mullins","D-I","Sun Belt",37,17,0,0.685
+"6","Troy","716","2020","Beth Mullins","D-I","Sun Belt",17,6,0,0.739
+"7","Troy","716","2019","Beth Mullins","D-I","Sun Belt",37,20,0,0.649
+"8","Troy","716","2018","Beth Mullins","D-I","Sun Belt",34,26,NA,0.567
+"9","Troy","716","2017","Beth Mullins","D-I","Sun Belt",20,34,0,0.37
+"10","Troy","716","2016","Beth Mullins","D-I","Sun Belt",31,25,0,0.554
+"11","Troy","716","2015","Beth Mullins","D-I","Sun Belt",32,23,0,0.582
+"12","Troy","716","2014","Melanie Davis","D-I","Sun Belt",23,31,2,0.429
+"13","Troy","716","2013","Melanie Davis","D-I","Sun Belt",24,31,0,0.436
+"14","Troy","716","2012","Melanie Davis","D-I","Sun Belt",31,24,0,0.564
+"15","Troy","716","2011","Melanie Davis","D-I","Sun Belt",32,27,0,0.542
+"16","Troy","716","2010","Melanie Davis","D-I","Sun Belt",27,29,0,0.482
+"17","Troy","716","2009","Melanie Davis","D-I","Sun Belt",38,19,0,0.667
+"18","Troy","716","2008","Melanie Davis","D-I","Sun Belt",33,23,0,0.589
+"19","Troy","716","2007","Melanie Davis","D-I","Sun Belt",42,20,0,0.677
+"20","Troy","716","2006","Melanie Davis","D-I","Sun Belt",31,40,0,0.437
+"21","Troy","716","2005","Melanie Davis","D-I","ASUN",47,21,0,0.691
+"22","Troy","716","2004","Melanie Davis","D-I","ASUN",35,30,0,0.538
+"23","Troy","716","2003","Melanie Davis","D-I","ASUN",39,23,0,0.629
+"24","Troy","716","2002","Melanie Davis","D-I","ASUN",46,20,0,0.697
+"25","Troy","716","2001","Melanie Davis","D-I","ASUN",38,23,0,0.623
+"26","Troy","716","1900","Melanie Davis","D-I","ASUN",34,30,0,0.531
+"27","Troy","716","1999","Melanie Davis","D-I","ASUN",48,23,0,0.676
+"28","Troy","716","1998","Melanie Davis","D-I","-",46,17,NA,0.73
+"29","Troy","716","1997","Melanie Davis","D-I","Summit League",31,25,1,0.553
+"30","Troy","716","1996","Melanie Davis","D-I","-",47,22,1,0.679
+"31","Troy","716","1995","Melanie Davis","D-I","-",52,18,NA,0.743
+"32","Troy","716","1994","Melanie Davis","D-I","-",40,13,NA,0.755
+"33","Troy","716","1993","Deanne Hughes","D-II","-",17,23,0,0.425
+"34","Troy","716","1992","Dee Dee Taylor","D-II","-",22,19,0,0.537
+"35","Troy","716","1991","","D-II","-",NA,NA,NA,NA
+"36","Troy","716","1990","","D-II","-",NA,NA,NA,NA
+"37","Troy","716","1989","","D-II","-",NA,NA,NA,NA
+"38","Troy","716","","","","",1131,764,5,0.597

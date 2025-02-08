@@ -1,23 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Liz Pennino","Skyline","25-12-0","0.676"
-"2","2022","Liz Pennino","Skyline","29-5-0","0.853"
-"3","2021","Liz Pennino","Skyline","19-7-0","0.731"
-"4","2020","Liz Pennino","Skyline","0-0-0","  NaN"
-"5","2019","Chris Mooney","Skyline","20-18-0","0.526"
-"6","2018","Chris Mooney","Skyline","16-19-0","0.457"
-"7","2017","Chris Mooney","Skyline","22-19-0","0.537"
-"8","2016","Chris Mooney","Skyline","15-18-0","0.455"
-"9","2015","Chris Mooney","Skyline","22-15-0","0.595"
-"10","2014","Chris Mooney","Skyline","24-14-0","0.632"
-"11","2013","Chris Mooney","Skyline","24-17-0","0.585"
-"12","2012","Chris Mooney","Skyline","26-15-0","0.634"
-"13","2011","Chris Mooney","Skyline","32-7-0","0.821"
-"14","2010","Chris Mooney","Skyline","34-11-0","0.756"
-"15","2009","Chris Mooney","Skyline","34-6-0","0.850"
-"16","2008","Chris Mooney","Skyline","32-12-0","0.727"
-"17","2007","Chris Mooney","Skyline","11-14-0","0.440"
-"18","2006","Chris Mooney","Skyline","7-15-0","0.318"
-"19","2005","Chris Mooney","Skyline","11-11-0","0.500"
-"20","2004","Chris Mooney","Skyline","11-16-0","0.407"
-"21","2003","Chris Mooney","-","1-20-0","0.048"
-"22","2002","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Farmingdale St.","27892","2025","Liz Pennino","D-III","Skyline",0,0,0,0
+"2","Farmingdale St.","27892","2024","Liz Pennino","D-III","Skyline",31,10,0,0.756
+"3","Farmingdale St.","27892","2023","Liz Pennino","D-III","Skyline",25,12,0,0.676
+"4","Farmingdale St.","27892","2022","Liz Pennino","D-III","Skyline",29,5,0,0.853
+"5","Farmingdale St.","27892","2021","Liz Pennino","D-III","Skyline",19,7,0,0.731
+"6","Farmingdale St.","27892","2020","Liz Pennino","D-III","Skyline",NA,NA,NA,0
+"7","Farmingdale St.","27892","2019","Chris Mooney","D-III","Skyline",20,18,0,0.526
+"8","Farmingdale St.","27892","2018","Chris Mooney","D-III","Skyline",16,19,NA,0.457
+"9","Farmingdale St.","27892","2017","Chris Mooney","D-III","Skyline",22,19,0,0.537
+"10","Farmingdale St.","27892","2016","Chris Mooney","D-III","Skyline",15,18,0,0.455
+"11","Farmingdale St.","27892","2015","Chris Mooney","D-III","Skyline",22,15,0,0.595
+"12","Farmingdale St.","27892","2014","Chris Mooney","D-III","Skyline",24,14,0,0.632
+"13","Farmingdale St.","27892","2013","Chris Mooney","D-III","Skyline",27,17,0,0.614
+"14","Farmingdale St.","27892","2012","Chris Mooney","D-III","Skyline",26,15,0,0.634
+"15","Farmingdale St.","27892","2011","Chris Mooney","D-III","Skyline",32,7,0,0.821
+"16","Farmingdale St.","27892","2010","Chris Mooney","D-III","Skyline",34,11,0,0.756
+"17","Farmingdale St.","27892","2009","Chris Mooney","D-III","Skyline",34,6,0,0.85
+"18","Farmingdale St.","27892","2008","Chris Mooney","D-III","Skyline",32,12,0,0.727
+"19","Farmingdale St.","27892","2007","Chris Mooney","D-III","Skyline",11,14,0,0.44
+"20","Farmingdale St.","27892","2006","Chris Mooney","D-III","Skyline",7,15,0,0.318
+"21","Farmingdale St.","27892","2005","Chris Mooney","D-III","Skyline",11,11,0,0.5
+"22","Farmingdale St.","27892","2004","Chris Mooney","D-III","Skyline",11,16,0,0.407
+"23","Farmingdale St.","27892","2003","Chris Mooney","","-",1,20,NA,0.048
+"24","Farmingdale St.","27892","2002","","","-",NA,NA,NA,NA
+"25","Farmingdale St.","27892","","","","",449,281,0,0.615

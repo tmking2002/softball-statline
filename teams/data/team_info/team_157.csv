@@ -1,6 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2007",NA,"-","0-0-0",NA
-"2","2006",NA,"-","0-0-0",NA
-"3","2005",NA,"-","0-0-0",NA
-"4","2003",NA,"-","0-0-0",NA
-"5","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Colorado","157","2007",NA,NA,"-",NA,NA,NA,NA
+"2","Colorado","157","2006",NA,NA,"-",NA,NA,NA,NA
+"3","Colorado","157","2005",NA,NA,"-",NA,NA,NA,NA
+"4","Colorado","157","2003",NA,NA,"-",NA,NA,NA,NA
+"5","Colorado","157","2002",NA,NA,"-",NA,NA,NA,NA
+"6","Colorado","157","",NA,NA,"",0,0,0,0

@@ -1,17 +1,19 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Scottie Wilkes","Gulf South","37-19-0",0.661
-"2",2022,"Eric Newell","Gulf South","49-13-0",0.79
-"3",2021,"Eric Newell","Gulf South","40-7-0",0.851
-"4",2020,"Eric Newell","Gulf South","17-5-0",0.773
-"5",2019,"Eric Newell","Gulf South","43-12-0",0.782
-"6",2018,"Eric Newell","Gulf South","29-16-0",0.644
-"7",2017,"Eric Newell","-","25-18-0",0.581
-"8",2016,"Eric Newell","-","53-8-0",0.869
-"9",2015,"Eric Newell","-","46-9-0",0.836
-"10",2014,"","-","0-0-0",NA
-"11",2013,"","-","0-0-0",NA
-"12",2012,"","-","0-0-0",NA
-"13",2011,"","-","0-0-0",NA
-"14",2010,"","-","0-0-0",NA
-"15",2009,"","-","0-0-0",NA
-"16",2024,"Scottie Wilkes","Gulf South","42-12-0",0.778
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","AUM","30093","2025","Scottie Wilkes","D-II","Gulf South",3,2,0,0.6
+"2","AUM","30093","2024","Scottie Wilkes","D-II","Gulf South",47,14,0,0.77
+"3","AUM","30093","2023","Scottie Wilkes","D-II","Gulf South",37,19,0,0.661
+"4","AUM","30093","2022","Eric Newell","D-II","Gulf South",49,13,0,0.79
+"5","AUM","30093","2021","Eric Newell","D-II","Gulf South",40,7,0,0.851
+"6","AUM","30093","2020","Eric Newell","D-II","Gulf South",17,5,0,0.773
+"7","AUM","30093","2019","Eric Newell","D-II","Gulf South",43,12,0,0.782
+"8","AUM","30093","2018","Eric Newell","D-II","Gulf South",29,16,NA,0.644
+"9","AUM","30093","2017","Eric Newell","","-",25,18,0,0.581
+"10","AUM","30093","2016","Eric Newell","","-",53,8,0,0.869
+"11","AUM","30093","2015","Eric Newell","","-",46,9,0,0.836
+"12","AUM","30093","2014","","","-",NA,NA,NA,NA
+"13","AUM","30093","2013","","","-",NA,NA,NA,NA
+"14","AUM","30093","2012","","","-",NA,NA,NA,NA
+"15","AUM","30093","2011","","","-",NA,NA,NA,NA
+"16","AUM","30093","2010","","","-",NA,NA,NA,NA
+"17","AUM","30093","2009","","","-",NA,NA,NA,NA
+"18","AUM","30093","","","","",389,123,0,0.76

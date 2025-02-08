@@ -1,10 +1,12 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0","NaN"
-"2","2021",NA,"-","0-0-0","NaN"
-"3","2006",NA,"-","0-0-0","NaN"
-"4","1989",NA,"-","0-0-0","NaN"
-"5","1988",NA,"-","0-0-0","NaN"
-"6","1987",NA,"-","0-0-0","NaN"
-"7","1986",NA,"-","0-0-0","NaN"
-"8","1984",NA,"-","0-0-0","NaN"
-"9","1983",NA,"-","0-0-0","NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","San Francisco","629","2025",NA,"","-",NA,NA,NA,0
+"2","San Francisco","629","2023",NA,"","-",NA,NA,NA,0
+"3","San Francisco","629","2021",NA,"","-",NA,NA,NA,0
+"4","San Francisco","629","2006",NA,"","-",NA,NA,NA,NA
+"5","San Francisco","629","1989",NA,"D-I","-",NA,NA,NA,NA
+"6","San Francisco","629","1988",NA,"D-I","-",NA,NA,NA,NA
+"7","San Francisco","629","1987",NA,"D-I","-",NA,NA,NA,NA
+"8","San Francisco","629","1986",NA,"D-I","-",NA,NA,NA,NA
+"9","San Francisco","629","1984",NA,"D-I","-",NA,NA,NA,NA
+"10","San Francisco","629","1983",NA,"D-I","-",NA,NA,NA,NA
+"11","San Francisco","629","",NA,"","",0,0,0,0

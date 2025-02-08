@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Joe DiPietro","Great Northwest","21-27-0",0.438
-"2",2022,"Joe DiPietro","Great Northwest","20-27-0",0.426
-"3",2021,"Alison Mitchell","Great Northwest","18-16-0",0.529
-"4",2020,"Alison Mitchell","Great Northwest","11-9-0",0.55
-"5",2019,"Mike Larabee","Great Northwest","33-20-0",0.623
-"6",2018,"Mike Larabee","Great Northwest","31-16-0",0.66
-"7",2017,"Mike Larabee","Great Northwest","34-15-0",0.694
-"8",2016,"Mike Larabee","Great Northwest","42-17-0",0.712
-"9",2015,"Mallory Holtman-Fletcher","Great Northwest","20-23-0",0.465
-"10",2014,"Mallory Holtman-Fletcher","Great Northwest","30-19-0",0.612
-"11",2013,"Mallory Holtman-Fletcher","Great Northwest","20-20-0",0.5
-"12",2012,"Mallory Holtman-Fletcher","Great Northwest","19-29-0",0.396
-"13",2011,"Mallory Holtman-Fletcher","Great Northwest","34-16-0",0.68
-"14",2010,"Gary Frederick","Great Northwest","40-15-0",0.727
-"15",2009,"Gary Frederick","Great Northwest","33-20-0",0.623
-"16",2008,"Gary Frederick","Great Northwest","17-27-0",0.386
-"17",2007,"Gary Frederick","Great Northwest","24-20-0",0.545
-"18",2006,"Gary Frederick","Great Northwest","20-25-0",0.444
-"19",2005,"Gary Frederick","Great Northwest","22-25-0",0.468
-"20",2004,"Gary Frederick","Great Northwest","22-21-0",0.512
-"21",2003,"Gary Frederick","Great Northwest","17-20-0",0.459
-"22",2002,"Gary Frederick","Great Northwest","18-25-0",0.419
-"23",2001,"Gary Frederick","-","20-25-0",0.444
-"24",2000,"Gary Frederick","-","20-24-0",0.455
-"25",1999,"Gary Frederick","-","12-27-0",0.308
-"26",1998,"Gary Frederick","-","15-26-0",0.366
-"27",1997,"Gary Frederick","-","13-23-0",0.361
-"28",1996,"Gary Frederick","-","16-19-0",0.457
-"29",1995,"Gary Frederick","-","11-18-0",0.379
-"30",1994,"Nancy Katzer","-","11-14-0",0.44
-"31",1993,"Nancy Katzer","-","9-11-0",0.45
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",2024,"Joe DiPietro","Great Northwest","17-21-0",0.447
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Central Wash.","1010","2025","Joe DiPietro","D-II","Great Northwest",0,5,0,0
+"2","Central Wash.","1010","2024","Joe DiPietro","D-II","Great Northwest",17,30,0,0.362
+"3","Central Wash.","1010","2023","Joe DiPietro","D-II","Great Northwest",21,27,0,0.438
+"4","Central Wash.","1010","2022","Joe DiPietro","D-II","Great Northwest",20,27,0,0.426
+"5","Central Wash.","1010","2021","Alison Mitchell","D-II","Great Northwest",18,16,0,0.529
+"6","Central Wash.","1010","2020","Alison Mitchell","D-II","Great Northwest",11,9,0,0.55
+"7","Central Wash.","1010","2019","Mike Larabee","D-II","Great Northwest",33,20,0,0.623
+"8","Central Wash.","1010","2018","Mike Larabee","D-II","Great Northwest",31,16,NA,0.66
+"9","Central Wash.","1010","2017","Mike Larabee","D-II","Great Northwest",34,15,0,0.694
+"10","Central Wash.","1010","2016","Mike Larabee","D-II","Great Northwest",42,17,0,0.712
+"11","Central Wash.","1010","2015","Mallory Holtman-Fletcher","D-II","Great Northwest",20,23,0,0.465
+"12","Central Wash.","1010","2014","Mallory Holtman-Fletcher","D-II","Great Northwest",30,19,0,0.612
+"13","Central Wash.","1010","2013","Mallory Holtman-Fletcher","D-II","Great Northwest",20,20,0,0.5
+"14","Central Wash.","1010","2012","Mallory Holtman-Fletcher","D-II","Great Northwest",19,29,0,0.396
+"15","Central Wash.","1010","2011","Mallory Holtman-Fletcher","D-II","Great Northwest",34,16,0,0.68
+"16","Central Wash.","1010","2010","Gary Frederick","D-II","Great Northwest",40,15,0,0.727
+"17","Central Wash.","1010","2009","Gary Frederick","D-II","Great Northwest",33,20,0,0.623
+"18","Central Wash.","1010","2008","Gary Frederick","D-II","Great Northwest",17,27,0,0.386
+"19","Central Wash.","1010","2007","Gary Frederick","D-II","Great Northwest",24,20,0,0.545
+"20","Central Wash.","1010","2006","Gary Frederick","D-II","Great Northwest",20,25,0,0.444
+"21","Central Wash.","1010","2005","Gary Frederick","D-II","Great Northwest",22,25,0,0.468
+"22","Central Wash.","1010","2004","Gary Frederick","D-II","Great Northwest",22,21,0,0.512
+"23","Central Wash.","1010","2003","Gary Frederick","D-II","Great Northwest",17,20,0,0.459
+"24","Central Wash.","1010","2002","Gary Frederick","D-II","Great Northwest",18,25,0,0.419
+"25","Central Wash.","1010","2001","Gary Frederick","D-II","-",20,25,NA,0.444
+"26","Central Wash.","1010","1900","Gary Frederick","D-II","-",20,24,NA,0.455
+"27","Central Wash.","1010","1999","Gary Frederick","D-II","-",12,27,NA,0.308
+"28","Central Wash.","1010","1998","Gary Frederick","D-II","-",15,26,NA,0.366
+"29","Central Wash.","1010","1997","Gary Frederick","D-II","-",13,23,NA,0.361
+"30","Central Wash.","1010","1996","Gary Frederick","D-II","-",16,19,NA,0.457
+"31","Central Wash.","1010","1995","Gary Frederick","D-II","-",11,18,NA,0.379
+"32","Central Wash.","1010","1994","Nancy Katzer","D-II","-",11,14,NA,0.44
+"33","Central Wash.","1010","1993","Nancy Katzer","D-II","-",9,11,NA,0.45
+"34","Central Wash.","1010","1992","","","-",NA,NA,NA,NA
+"35","Central Wash.","1010","1991","","","-",NA,NA,NA,NA
+"36","Central Wash.","1010","1990","","","-",NA,NA,NA,NA
+"37","Central Wash.","1010","1989","","","-",NA,NA,NA,NA
+"38","Central Wash.","1010","","","","",690,674,0,0.506

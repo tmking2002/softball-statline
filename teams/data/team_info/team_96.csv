@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Stacy May-Johnson","Mountain West","23-31-0",0.426
-"2",2022,"Stacy May-Johnson","Mountain West","19-36-0",0.345
-"3",2021,"Linda Garza","Mountain West","37-12-0",0.755
-"4",2020,"Linda Garza","Mountain West","21-4-0",0.84
-"5",2019,"Linda Garza","Mountain West","37-20-0",0.649
-"6",2018,"Linda Garza","Mountain West","31-23-0",0.574
-"7",2017,"Linda Garza","Mountain West","35-23-0",0.603
-"8",2016,"Trisha Ford","Mountain West","42-12-1",0.778
-"9",2015,"Trisha Ford","Mountain West","40-16-0",0.714
-"10",2014,"Trisha Ford","Mountain West","31-21-0",0.596
-"11",2013,"Trisha Ford","Mountain West","30-24-0",0.556
-"12",2012,"Margie Wright","WAC","36-23-0",0.61
-"13",2011,"Margie Wright","WAC","35-19-0",0.648
-"14",2010,"Margie Wright","WAC","41-21-0",0.661
-"15",2009,"Margie Wright","WAC","38-20-0",0.655
-"16",2008,"Margie Wright","WAC","54-13-0",0.806
-"17",2007,"Margie Wright","WAC","47-18-0",0.723
-"18",2006,"Margie Wright","WAC","37-19-0",0.661
-"19",2005,"Margie Wright","WAC","43-12-0",0.782
-"20",2004,"Margie Wright","WAC","48-20-0",0.706
-"21",2003,"Margie Wright","WAC","36-22-0",0.621
-"22",2002,"Margie Wright","WAC","50-20-0",0.714
-"23",2001,"Margie Wright","WAC","39-19-0",0.672
-"24",2000,"Margie Wright","WAC","54-14-0",0.794
-"25",1999,"Margie Wright","WAC","65-10-0",0.867
-"26",1998,"Margie Wright","-","52-11-0",0.825
-"27",1997,"Margie Wright","WAC","55-14-0",0.797
-"28",1996,"Margie Wright","-","51-11-0",0.823
-"29",1995,"Margie Wright","-","50-19-0",0.725
-"30",1994,"Margie Wright","-","49-16-0",0.754
-"31",1993,"Margie Wright","-","38-24-0",0.613
-"32",1992,"Margie Wright","-","52-16-0",0.765
-"33",1991,"Margie Wright","-","57-11-0",0.838
-"34",1990,"Margie Wright","-","62-15-0",0.805
-"35",1989,"Margie Wright","-","58-14-0",0.806
-"36",1988,"Margie Wright","-","55-17-0",0.764
-"37",1987,"Margie Wright","-","54-16-0",0.771
-"38",1986,"Margie Wright","-","38-16-1",0.704
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Stacy May-Johnson","Mountain West","33-19-0",0.635
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Fresno St.","96","2025","Stacy May-Johnson","D-I","Mountain West",1,0,0,1
+"2","Fresno St.","96","2024","Stacy May-Johnson","D-I","Mountain West",33,19,0,0.635
+"3","Fresno St.","96","2023","Stacy May-Johnson","D-I","Mountain West",23,31,0,0.426
+"4","Fresno St.","96","2022","Stacy May-Johnson","D-I","Mountain West",19,36,0,0.345
+"5","Fresno St.","96","2021","Linda Garza","D-I","Mountain West",37,12,0,0.755
+"6","Fresno St.","96","2020","Linda Garza","D-I","Mountain West",21,4,0,0.84
+"7","Fresno St.","96","2019","Linda Garza","D-I","Mountain West",37,20,0,0.649
+"8","Fresno St.","96","2018","Linda Garza","D-I","Mountain West",31,23,NA,0.574
+"9","Fresno St.","96","2017","Linda Garza","D-I","Mountain West",35,23,0,0.603
+"10","Fresno St.","96","2016","Trisha Ford","D-I","Mountain West",42,12,1,0.773
+"11","Fresno St.","96","2015","Trisha Ford","D-I","Mountain West",40,16,0,0.714
+"12","Fresno St.","96","2014","Trisha Ford","D-I","Mountain West",31,21,0,0.596
+"13","Fresno St.","96","2013","Trisha Ford","D-I","Mountain West",30,24,0,0.556
+"14","Fresno St.","96","2012","Margie Wright","D-I","WAC",36,23,0,0.61
+"15","Fresno St.","96","2011","Margie Wright","D-I","WAC",35,19,0,0.648
+"16","Fresno St.","96","2010","Margie Wright","D-I","WAC",41,21,0,0.661
+"17","Fresno St.","96","2009","Margie Wright","D-I","WAC",38,20,0,0.655
+"18","Fresno St.","96","2008","Margie Wright","D-I","WAC",54,13,0,0.806
+"19","Fresno St.","96","2007","Margie Wright","D-I","WAC",47,18,0,0.723
+"20","Fresno St.","96","2006","Margie Wright","D-I","WAC",37,19,0,0.661
+"21","Fresno St.","96","2005","Margie Wright","D-I","WAC",43,12,0,0.782
+"22","Fresno St.","96","2004","Margie Wright","D-I","WAC",48,20,0,0.706
+"23","Fresno St.","96","2003","Margie Wright","D-I","WAC",36,22,0,0.621
+"24","Fresno St.","96","2002","Margie Wright","D-I","WAC",50,20,0,0.714
+"25","Fresno St.","96","2001","Margie Wright","D-I","WAC",39,19,0,0.672
+"26","Fresno St.","96","1900","Margie Wright","D-I","WAC",54,14,0,0.794
+"27","Fresno St.","96","1999","Margie Wright","D-I","WAC",65,10,0,0.867
+"28","Fresno St.","96","1998","Margie Wright","D-I","-",52,11,NA,0.825
+"29","Fresno St.","96","1997","Margie Wright","D-I","WAC",55,14,0,0.797
+"30","Fresno St.","96","1996","Margie Wright","D-I","-",51,11,NA,0.823
+"31","Fresno St.","96","1995","Margie Wright","D-I","-",50,19,NA,0.725
+"32","Fresno St.","96","1994","Margie Wright","D-I","-",49,16,NA,0.754
+"33","Fresno St.","96","1993","Margie Wright","D-I","-",38,24,NA,0.613
+"34","Fresno St.","96","1992","Margie Wright","D-I","-",52,16,NA,0.765
+"35","Fresno St.","96","1991","Margie Wright","D-I","-",57,11,NA,0.838
+"36","Fresno St.","96","1990","Margie Wright","D-I","-",62,15,NA,0.805
+"37","Fresno St.","96","1989","Margie Wright","D-I","-",58,14,NA,0.806
+"38","Fresno St.","96","1988","Margie Wright","D-I","-",55,17,NA,0.764
+"39","Fresno St.","96","1987","Margie Wright","D-I","-",54,16,NA,0.771
+"40","Fresno St.","96","1986","Margie Wright","D-I","-",38,16,1,0.7
+"41","Fresno St.","96","1985","","D-I","-",NA,NA,NA,NA
+"42","Fresno St.","96","1984","","D-I","-",NA,NA,NA,NA
+"43","Fresno St.","96","1983","","D-I","-",NA,NA,NA,NA
+"44","Fresno St.","96","1982","","D-I","-",NA,NA,NA,NA
+"45","Fresno St.","96","","","","",1674,691,2,0.708

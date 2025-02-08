@@ -1,9 +1,11 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2017",NA,"-","0-0-0",NA
-"3","2013",NA,"-","0-0-0",NA
-"4","2012",NA,"-","0-0-0",NA
-"5","2011",NA,"-","0-0-0",NA
-"6","2010",NA,"-","0-0-0",NA
-"7","2007",NA,"-","0-0-0",NA
-"8","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Francis (IL)","506180","2025",NA,NA,"-",NA,NA,NA,0
+"2","St. Francis (IL)","506180","2024",NA,NA,"-",NA,NA,NA,0
+"3","St. Francis (IL)","506180","2017",NA,NA,"-",NA,NA,NA,NA
+"4","St. Francis (IL)","506180","2013",NA,NA,"-",NA,NA,NA,NA
+"5","St. Francis (IL)","506180","2012",NA,NA,"-",NA,NA,NA,NA
+"6","St. Francis (IL)","506180","2011",NA,NA,"-",NA,NA,NA,NA
+"7","St. Francis (IL)","506180","2010",NA,NA,"-",NA,NA,NA,NA
+"8","St. Francis (IL)","506180","2007",NA,NA,"-",NA,NA,NA,NA
+"9","St. Francis (IL)","506180","2002",NA,NA,"-",NA,NA,NA,NA
+"10","St. Francis (IL)","506180","",NA,NA,"",0,0,0,0

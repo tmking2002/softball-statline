@@ -1,30 +1,32 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mattie Best","MEC","16-29-0",0.356
-"2",2022,"Mattie Best","MEC","22-25-0",0.468
-"3",2021,"Nip Anderson","MEC","29-14-0",0.674
-"4",2020,"Mattie Best","MEC","9-13-0",0.409
-"5",2019,"Mattie Best","MEC","35-16-0",0.686
-"6",2018,"Mattie Best","MEC","35-22-0",0.614
-"7",2017,"Kerri Blackwell","MEC","25-29-0",0.463
-"8",2016,"Kerri Blackwell","MEC","26-28-0",0.481
-"9",2015,"Kerri Blackwell","MEC","27-18-0",0.6
-"10",2014,"Kerri Blackwell","MEC","26-27-0",0.491
-"11",2013,"Bob Allen","WVIAC","42-14-0",0.75
-"12",2012,"Bob Allen","WVIAC","47-15-0",0.758
-"13",2011,"Bob Allen","WVIAC","33-14-0",0.702
-"14",2010,"Bob Allen","WVIAC","34-23-0",0.596
-"15",2009,"Bob Allen","WVIAC","30-19-0",0.612
-"16",2008,"Bob Allen","WVIAC","41-16-0",0.719
-"17",2007,"Bob Allen","WVIAC","28-31-0",0.475
-"18",2006,"Bob Allen","WVIAC","41-20-1",0.672
-"19",2005,"Bob Allen","WVIAC","22-24-0",0.478
-"20",2004,"Denise Dietrich","WVIAC","23-17-0",0.575
-"21",2003,"Denise Dietrich","-","32-14-0",0.696
-"22",2002,"Denise Dietrich","WVIAC","23-15-0",0.605
-"23",2001,"Denise Dietrich","-","15-21-0",0.417
-"24",2000,"Denise Dietrich","-","21-20-0",0.512
-"25",1999,"Denise Dietrich","-","25-16-0",0.61
-"26",1998,"Denise Dietrich","-","20-18-0",0.526
-"27",1997,"Denise Dietrich","-","23-14-0",0.622
-"28",1996,"Denise Dietrich","-","2-29-0",0.065
-"29",2024,"Mattie Best","MEC","13-24-0",0.351
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","West Virginia St.","1439","2025","Mattie Best","D-II","MEC",0,0,0,0
+"2","West Virginia St.","1439","2024","Mattie Best","D-II","MEC",20,31,0,0.392
+"3","West Virginia St.","1439","2023","Mattie Best","D-II","MEC",16,29,0,0.356
+"4","West Virginia St.","1439","2022","Mattie Best","D-II","MEC",22,25,0,0.468
+"5","West Virginia St.","1439","2021","Nip Anderson","D-II","MEC",29,14,0,0.674
+"6","West Virginia St.","1439","2020","Mattie Best","D-II","MEC",9,13,0,0.409
+"7","West Virginia St.","1439","2019","Mattie Best","D-II","MEC",35,16,0,0.686
+"8","West Virginia St.","1439","2018","Mattie Best","D-II","MEC",35,22,NA,0.614
+"9","West Virginia St.","1439","2017","Kerri Blackwell","D-II","MEC",25,29,0,0.463
+"10","West Virginia St.","1439","2016","Kerri Blackwell","D-II","MEC",26,28,0,0.481
+"11","West Virginia St.","1439","2015","Kerri Blackwell","D-II","MEC",27,18,0,0.6
+"12","West Virginia St.","1439","2014","Kerri Blackwell","D-II","MEC",26,27,0,0.491
+"13","West Virginia St.","1439","2013","Bob Allen","D-II","WVIAC",42,14,0,0.75
+"14","West Virginia St.","1439","2012","Bob Allen","D-II","WVIAC",47,15,0,0.758
+"15","West Virginia St.","1439","2011","Bob Allen","D-II","WVIAC",33,14,0,0.702
+"16","West Virginia St.","1439","2010","Bob Allen","D-II","WVIAC",34,23,0,0.596
+"17","West Virginia St.","1439","2009","Bob Allen","D-II","WVIAC",30,19,0,0.612
+"18","West Virginia St.","1439","2008","Bob Allen","D-II","WVIAC",41,16,0,0.719
+"19","West Virginia St.","1439","2007","Bob Allen","D-II","WVIAC",28,31,0,0.475
+"20","West Virginia St.","1439","2006","Bob Allen","D-II","WVIAC",41,20,1,0.669
+"21","West Virginia St.","1439","2005","Bob Allen","D-II","WVIAC",22,24,0,0.478
+"22","West Virginia St.","1439","2004","Denise Dietrich","D-II","WVIAC",23,17,0,0.575
+"23","West Virginia St.","1439","2003","Denise Dietrich","D-II","-",32,14,NA,0.696
+"24","West Virginia St.","1439","2002","Denise Dietrich","D-II","WVIAC",23,15,0,0.605
+"25","West Virginia St.","1439","2001","Denise Dietrich","D-II","-",15,21,NA,0.417
+"26","West Virginia St.","1439","1900","Denise Dietrich","D-II","-",21,20,NA,0.512
+"27","West Virginia St.","1439","1999","Denise Dietrich","D-II","-",25,16,NA,0.61
+"28","West Virginia St.","1439","1998","Denise Dietrich","D-II","-",20,18,NA,0.526
+"29","West Virginia St.","1439","1997","Denise Dietrich","D-II","-",23,14,NA,0.622
+"30","West Virginia St.","1439","1996","Denise Dietrich","D-II","-",2,29,NA,0.065
+"31","West Virginia St.","1439","","","","",772,592,1,0.566

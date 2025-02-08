@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Scott Wachholz","CCIW","15-21-0",0.417
-"2",2022,"Scott Wachholz","CCIW","10-22-0",0.312
-"3",2021,"Scott Wachholz","CCIW","10-22-0",0.312
-"4",2020,"Scott Wachholz","CCIW","0-0-0",NA
-"5",2019,"Mike Paulo","CCIW","9-24-0",0.273
-"6",2018,"Mike Paulo","CCIW","16-19-0",0.457
-"7",2017,"Mike Paulo","CCIW","19-19-0",0.5
-"8",2016,"Mike Paulo","CCIW","18-20-0",0.474
-"9",2015,"Mike Paulo","CCIW","20-18-0",0.526
-"10",2014,"Mike Paulo","CCIW","15-15-0",0.5
-"11",2013,"Mike Paulo","CCIW","17-15-0",0.531
-"12",2012,"Lori Brown","CCIW","25-16-0",0.61
-"13",2011,"Lori Brown","CCIW","15-23-0",0.395
-"14",2010,"Lori Brown","CCIW","22-16-0",0.579
-"15",2009,"Lori Brown","CCIW","14-22-0",0.389
-"16",2008,"Lori Brown","CCIW","12-25-0",0.324
-"17",2007,"Lori Brown","CCIW","12-28-0",0.3
-"18",2006,"Lori Brown","CCIW","19-19-0",0.5
-"19",2005,"Lori Brown","CCIW","20-19-0",0.513
-"20",2004,"Lori Brown","CCIW","15-22-1",0.405
-"21",2003,"Lori Brown","CCIW","15-21-0",0.417
-"22",2002,"Lori Brown","CCIW","9-26-0",0.257
-"23",2001,"Lori Brown","-","18-20-0",0.474
-"24",2000,"Tom Cole","-","24-15-0",0.615
-"25",1999,"Tom Cole","-","14-21-0",0.4
-"26",1998,"Tom Cole","-","17-19-0",0.472
-"27",1997,"Tom Cole","-","24-17-0",0.585
-"28",1996,"Tom Cole","-","8-27-0",0.229
-"29",1995,"Tom Cole","-","7-30-0",0.189
-"30",1994,"Jeri Findlay","-","7-28-0",0.2
-"31",1993,"Jeri Findlay","-","11-15-0",0.423
-"32",1992,"Jeff Norris","-","25-8-0",0.758
-"33",1991,"Jeff Norris","-","16-3-1",0.842
-"34",1990,"Jeff Norris","-","8-25-0",0.242
-"35",1984,"","-","0-0-0",NA
-"36",1983,"","-","0-0-0",NA
-"37",2024,"Scott Wachholz","CCIW","13-23-0",0.361
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Elmhurst","212","2025","Tracie Adix-Zins","D-III","CCIW",0,0,0,0
+"2","Elmhurst","212","2024","Scott Wachholz","D-III","CCIW",13,23,0,0.361
+"3","Elmhurst","212","2023","Scott Wachholz","D-III","CCIW",15,21,0,0.417
+"4","Elmhurst","212","2022","Scott Wachholz","D-III","CCIW",10,22,0,0.313
+"5","Elmhurst","212","2021","Scott Wachholz","D-III","CCIW",10,22,0,0.313
+"6","Elmhurst","212","2020","Scott Wachholz","D-III","CCIW",NA,NA,NA,0
+"7","Elmhurst","212","2019","Mike Paulo","D-III","CCIW",9,24,0,0.273
+"8","Elmhurst","212","2018","Mike Paulo","D-III","CCIW",16,19,NA,0.457
+"9","Elmhurst","212","2017","Mike Paulo","D-III","CCIW",19,19,0,0.5
+"10","Elmhurst","212","2016","Mike Paulo","D-III","CCIW",18,20,0,0.474
+"11","Elmhurst","212","2015","Mike Paulo","D-III","CCIW",20,18,0,0.526
+"12","Elmhurst","212","2014","Mike Paulo","D-III","CCIW",15,15,0,0.5
+"13","Elmhurst","212","2013","Mike Paulo","D-III","CCIW",17,15,0,0.531
+"14","Elmhurst","212","2012","Lori Brown","D-III","CCIW",25,16,0,0.61
+"15","Elmhurst","212","2011","Lori Brown","D-III","CCIW",15,23,0,0.395
+"16","Elmhurst","212","2010","Lori Brown","D-III","CCIW",22,16,0,0.579
+"17","Elmhurst","212","2009","Lori Brown","D-III","CCIW",14,22,0,0.389
+"18","Elmhurst","212","2008","Lori Brown","D-III","CCIW",12,25,0,0.324
+"19","Elmhurst","212","2007","Lori Brown","D-III","CCIW",12,28,0,0.3
+"20","Elmhurst","212","2006","Lori Brown","D-III","CCIW",19,19,0,0.5
+"21","Elmhurst","212","2005","Lori Brown","D-III","CCIW",20,19,0,0.513
+"22","Elmhurst","212","2004","Lori Brown","D-III","CCIW",15,22,1,0.408
+"23","Elmhurst","212","2003","Lori Brown","D-III","CCIW",15,21,0,0.417
+"24","Elmhurst","212","2002","Lori Brown","D-III","CCIW",9,26,0,0.257
+"25","Elmhurst","212","2001","Lori Brown","D-III","-",18,20,0,0.474
+"26","Elmhurst","212","1900","Tom Cole","D-III","-",24,15,NA,0.615
+"27","Elmhurst","212","1999","Tom Cole","D-III","-",14,21,NA,0.4
+"28","Elmhurst","212","1998","Tom Cole","D-III","-",17,19,NA,0.472
+"29","Elmhurst","212","1997","Tom Cole","D-III","-",24,17,NA,0.585
+"30","Elmhurst","212","1996","Tom Cole","D-III","-",8,27,NA,0.229
+"31","Elmhurst","212","1995","Tom Cole","D-III","-",7,30,NA,0.189
+"32","Elmhurst","212","1994","Jeri Findlay","D-III","-",7,28,NA,0.2
+"33","Elmhurst","212","1993","Jeri Findlay","D-III","-",11,15,NA,0.423
+"34","Elmhurst","212","1992","Jeff Norris","D-III","-",25,8,NA,0.758
+"35","Elmhurst","212","1991","Jeff Norris","D-III","-",16,3,1,0.825
+"36","Elmhurst","212","1990","Jeff Norris","D-III","-",8,25,NA,0.242
+"37","Elmhurst","212","1984","","D-III","-",NA,NA,NA,NA
+"38","Elmhurst","212","1983","","D-III","-",NA,NA,NA,NA
+"39","Elmhurst","212","","","","",519,683,2,0.432

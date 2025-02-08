@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Greg Sauve","G-MAC","34-24-0",0.586
-"2",2022,"Greg Sauve","GLIAC","29-15-0",0.659
-"3",2021,"Greg Sauve","GLIAC","29-16-0",0.644
-"4",2020,"Greg Sauve","GLIAC","10-7-0",0.588
-"5",2019,"Greg Sauve","GLIAC","31-26-2",0.544
-"6",2018,"Greg Sauve","GLIAC","25-23-0",0.521
-"7",2017,"Greg Sauve","GLIAC","19-25-0",0.432
-"8",2016,"Meaggan Pettipiece","GLIAC","16-26-0",0.381
-"9",2015,"Meaggan Pettipiece","GLIAC","16-25-0",0.39
-"10",2014,"Meaggan Pettipiece","GLIAC","27-16-0",0.628
-"11",2013,"Meaggan Pettipiece","GLIAC","28-19-0",0.596
-"12",2012,"Meaggan Pettipiece","GLIAC","20-28-0",0.417
-"13",2011,"Meaggan Pettipiece","GLIAC","26-20-1",0.565
-"14",2010,"Meaggan Pettipiece","GLIAC","25-18-0",0.581
-"15",2009,"Meaggan Pettipiece","GLIAC","17-24-0",0.415
-"16",2008,"Meaggan Pettipiece","GLIAC","23-26-0",0.469
-"17",2007,"Meaggan Pettipiece","GLIAC","20-23-0",0.465
-"18",2006,"Heather Bruder","GLIAC","37-15-0",0.712
-"19",2005,"Heather Bruder","GLIAC","34-14-0",0.708
-"20",2004,"Heather Bruder","GLIAC","14-33-0",0.298
-"21",2003,"Heather Bruder","GLIAC","17-27-0",0.386
-"22",2002,"Heather Bruder","-","15-29-0",0.341
-"23",2001,"Heather Bruder","-","14-40-0",0.259
-"24",2000,"Suzanne Brown","-","19-32-0",0.373
-"25",1999,"Suzanne Brown","-","30-29-0",0.508
-"26",1998,"Suzanne Brown","-","29-25-1",0.537
-"27",1997,"Suzanne Brown","-","35-23-0",0.603
-"28",1996,"Suzanne Brown","-","36-22-0",0.621
-"29",1995,"Suzanne Brown","-","34-13-0",0.723
-"30",1994,"Suzanne Brown","-","21-36-0",0.368
-"31",1993,"Suzanne Brown","-","27-17-0",0.614
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1987,"","-","0-0-0",NA
-"36",1985,"","-","0-0-0",NA
-"37",1983,"","-","0-0-0",NA
-"38",2024,"Greg Sauve","G-MAC","31-17-0",0.646
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Northwood","510","2025","Gregg Sauve","D-II","G-MAC",0,0,0,0
+"2","Northwood","510","2024","Gregg Sauve","D-II","G-MAC",35,20,0,0.636
+"3","Northwood","510","2023","Gregg Sauve","D-II","G-MAC",34,24,0,0.586
+"4","Northwood","510","2022","Gregg Sauve","D-II","GLIAC",29,15,0,0.659
+"5","Northwood","510","2021","Gregg Sauve","D-II","GLIAC",29,16,0,0.644
+"6","Northwood","510","2020","Gregg Sauve","D-II","GLIAC",10,7,0,0.588
+"7","Northwood","510","2019","Gregg Sauve","D-II","GLIAC",31,26,2,0.542
+"8","Northwood","510","2018","Gregg Sauve","D-II","GLIAC",25,23,NA,0.521
+"9","Northwood","510","2017","Gregg Sauve","D-II","GLIAC",19,25,0,0.432
+"10","Northwood","510","2016","Meaggan Pettipiece","D-II","GLIAC",16,26,0,0.381
+"11","Northwood","510","2015","Meaggan Pettipiece","D-II","GLIAC",16,25,0,0.39
+"12","Northwood","510","2014","Meaggan Pettipiece","D-II","GLIAC",27,16,0,0.628
+"13","Northwood","510","2013","Meaggan Pettipiece","D-II","GLIAC",28,19,0,0.596
+"14","Northwood","510","2012","Meaggan Pettipiece","D-II","GLIAC",20,28,0,0.417
+"15","Northwood","510","2011","Meaggan Pettipiece","D-II","GLIAC",26,20,1,0.564
+"16","Northwood","510","2010","Meaggan Pettipiece","D-II","GLIAC",25,18,0,0.581
+"17","Northwood","510","2009","Meaggan Pettipiece","D-II","GLIAC",17,24,0,0.415
+"18","Northwood","510","2008","Meaggan Pettipiece","D-II","GLIAC",23,26,0,0.469
+"19","Northwood","510","2007","Meaggan Pettipiece","D-II","GLIAC",20,23,0,0.465
+"20","Northwood","510","2006","Heather Bruder","D-II","GLIAC",37,15,0,0.712
+"21","Northwood","510","2005","Heather Bruder","D-II","GLIAC",34,14,0,0.708
+"22","Northwood","510","2004","Heather Bruder","D-II","GLIAC",14,33,0,0.298
+"23","Northwood","510","2003","Heather Bruder","D-II","GLIAC",17,27,0,0.386
+"24","Northwood","510","2002","Heather Bruder","D-II","-",15,29,NA,0.341
+"25","Northwood","510","2001","Heather Bruder","D-II","-",14,40,NA,0.259
+"26","Northwood","510","1900","Suzanne Brown","D-II","-",19,32,NA,0.373
+"27","Northwood","510","1999","Suzanne Brown","D-II","-",30,29,NA,0.508
+"28","Northwood","510","1998","Suzanne Brown","D-II","-",29,25,1,0.536
+"29","Northwood","510","1997","Suzanne Brown","D-II","-",35,23,NA,0.603
+"30","Northwood","510","1996","Suzanne Brown","D-II","-",36,22,NA,0.621
+"31","Northwood","510","1995","Suzanne Brown","D-II","-",34,13,NA,0.723
+"32","Northwood","510","1994","Suzanne Brown","D-II","-",21,36,NA,0.368
+"33","Northwood","510","1993","Suzanne Brown","D-II","-",27,17,NA,0.614
+"34","Northwood","510","1992","","D-II","-",NA,NA,NA,NA
+"35","Northwood","510","1991","","D-II","-",NA,NA,NA,NA
+"36","Northwood","510","1990","","D-II","-",NA,NA,NA,NA
+"37","Northwood","510","1987","","D-II","-",NA,NA,NA,NA
+"38","Northwood","510","1985","","D-II","-",NA,NA,NA,NA
+"39","Northwood","510","1983","","D-II","-",NA,NA,NA,NA
+"40","Northwood","510","","","","",792,736,4,0.518

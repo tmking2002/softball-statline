@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Alexa McClaughry","MWC","13-27-0",0.325
-"2",2022,"Alexa McClaughry","MWC","13-24-1",0.351
-"3",2021,"Alexa McClaughry","MWC","5-19-0",0.208
-"4",2020,"John Goddard","MWC","1-9-0",0.1
-"5",2019,"John Goddard","MWC","13-23-0",0.361
-"6",2018,"John Goddard","MWC","20-16-0",0.556
-"7",2017,"John Goddard","MWC","18-17-0",0.514
-"8",2016,"John Goddard","MWC","28-12-0",0.7
-"9",2015,"John Goddard","MWC","12-22-0",0.353
-"10",2014,"John Goddard","MWC","21-18-0",0.538
-"11",2013,"John Goddard","MWC","15-19-0",0.441
-"12",2012,"John Goddard","MWC","18-18-0",0.5
-"13",2011,"John Goddard","MWC","22-14-0",0.611
-"14",2010,"John Goddard","MWC","14-22-0",0.389
-"15",2009,"John Goddard","MWC","17-19-0",0.472
-"16",2008,"John Goddard","MWC","13-15-0",0.464
-"17",2007,"Kari Shimmin","MWC","10-19-0",0.345
-"18",2006,"Kari Shimmin","MWC","13-20-0",0.394
-"19",2005,"Kari Shimmin","MWC","7-24-0",0.226
-"20",2004,"LeAnn Hagen","MWC","14-20-0",0.412
-"21",2003,"LeAnn Hagen","MWC","22-14-1",0.611
-"22",2002,"LeAnn Hagen","MWC","19-15-0",0.559
-"23",2001,"Mike Olsen","-","21-16-0",0.568
-"24",2000,"Vanessa MacCallum","-","19-15-0",0.559
-"25",1999,"Vanessa MacCallum","-","15-19-0",0.441
-"26",1998,"Mia Smith","-","10-17-0",0.37
-"27",1997,"Mia Smith","-","12-17-0",0.414
-"28",1996,"Mia Smith","-","19-11-0",0.633
-"29",1995,"Mia Smith","-","19-10-0",0.655
-"30",1994,"","-","0-0-0",NA
-"31",1993,"Rozena McCabe","-","5-17-0",0.227
-"32",1992,"Rozena McCabe","-","6-18-1",0.25
-"33",1991,"Rozena McCabe","-","1-21-0",0.045
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"","-","0-0-0",NA
-"44",2024,"Alexa McClaughry","MWC","8-31-0",0.205
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Monmouth (IL)","438","2025","Tyler Inselmann","D-III","MWC",0,0,0,0
+"2","Monmouth (IL)","438","2024","Alexa McClaughry","D-III","MWC",8,31,0,0.205
+"3","Monmouth (IL)","438","2023","Alexa McClaughry","D-III","MWC",13,27,0,0.325
+"4","Monmouth (IL)","438","2022","Alexa McClaughry","D-III","MWC",13,24,1,0.355
+"5","Monmouth (IL)","438","2021","Alexa McClaughry","D-III","MWC",5,19,0,0.208
+"6","Monmouth (IL)","438","2020","John Goddard","D-III","MWC",1,9,0,0.1
+"7","Monmouth (IL)","438","2019","John Goddard","D-III","MWC",13,23,0,0.361
+"8","Monmouth (IL)","438","2018","John Goddard","D-III","MWC",20,16,NA,0.556
+"9","Monmouth (IL)","438","2017","John Goddard","D-III","MWC",18,17,0,0.514
+"10","Monmouth (IL)","438","2016","John Goddard","D-III","MWC",28,12,0,0.7
+"11","Monmouth (IL)","438","2015","John Goddard","D-III","MWC",12,22,0,0.353
+"12","Monmouth (IL)","438","2014","John Goddard","D-III","MWC",21,18,0,0.538
+"13","Monmouth (IL)","438","2013","John Goddard","D-III","MWC",15,19,0,0.441
+"14","Monmouth (IL)","438","2012","John Goddard","D-III","MWC",18,18,0,0.5
+"15","Monmouth (IL)","438","2011","John Goddard","D-III","MWC",22,14,0,0.611
+"16","Monmouth (IL)","438","2010","John Goddard","D-III","MWC",14,22,0,0.389
+"17","Monmouth (IL)","438","2009","John Goddard","D-III","MWC",17,19,0,0.472
+"18","Monmouth (IL)","438","2008","John Goddard","D-III","MWC",13,15,0,0.464
+"19","Monmouth (IL)","438","2007","Kari Shimmin","D-III","MWC",10,19,0,0.345
+"20","Monmouth (IL)","438","2006","Kari Shimmin","D-III","MWC",13,20,0,0.394
+"21","Monmouth (IL)","438","2005","Kari Shimmin","D-III","MWC",7,24,0,0.226
+"22","Monmouth (IL)","438","2004","LeAnn Hagen","D-III","MWC",14,20,0,0.412
+"23","Monmouth (IL)","438","2003","LeAnn Hagen","D-III","MWC",22,14,1,0.608
+"24","Monmouth (IL)","438","2002","LeAnn Hagen","D-III","MWC",19,15,0,0.559
+"25","Monmouth (IL)","438","2001","Mike Olsen","D-III","-",21,16,NA,0.568
+"26","Monmouth (IL)","438","1900","Vanessa MacCallum","D-III","-",19,15,NA,0.559
+"27","Monmouth (IL)","438","1999","Vanessa MacCallum","D-III","-",15,19,NA,0.441
+"28","Monmouth (IL)","438","1998","Mia Smith","D-III","-",10,17,NA,0.37
+"29","Monmouth (IL)","438","1997","Mia Smith","D-III","-",12,17,NA,0.414
+"30","Monmouth (IL)","438","1996","Mia Smith","D-III","-",19,11,NA,0.633
+"31","Monmouth (IL)","438","1995","Mia Smith","D-III","-",19,10,NA,0.655
+"32","Monmouth (IL)","438","1994","","D-III","-",NA,NA,NA,NA
+"33","Monmouth (IL)","438","1993","Rozena McCabe","D-III","-",5,17,NA,0.227
+"34","Monmouth (IL)","438","1992","Rozena McCabe","D-III","-",6,18,1,0.26
+"35","Monmouth (IL)","438","1991","Rozena McCabe","","-",1,21,NA,0.045
+"36","Monmouth (IL)","438","1990","","D-III","-",NA,NA,NA,NA
+"37","Monmouth (IL)","438","1989","","","-",NA,NA,NA,NA
+"38","Monmouth (IL)","438","1988","","","-",NA,NA,NA,NA
+"39","Monmouth (IL)","438","1987","","","-",NA,NA,NA,NA
+"40","Monmouth (IL)","438","1986","","","-",NA,NA,NA,NA
+"41","Monmouth (IL)","438","1985","","","-",NA,NA,NA,NA
+"42","Monmouth (IL)","438","1984","","","-",NA,NA,NA,NA
+"43","Monmouth (IL)","438","1983","","","-",NA,NA,NA,NA
+"44","Monmouth (IL)","438","1982","","","-",NA,NA,NA,NA
+"45","Monmouth (IL)","438","1981","","","-",NA,NA,NA,NA
+"46","Monmouth (IL)","438","","","","",463,598,3,0.437

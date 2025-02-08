@@ -1,9 +1,10 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2020","","-","0-0-0",0
-"2","2019","","-","0-0-0",0
-"3","2015","Rocky Stinson","-","29-14-0",0.674
-"4","2014","Rocky Stinson","-","31-23-0",0.574
-"5","2013","Rocky Stinson","-","22-24-0",0.478
-"6","2012","Rocky Stinson","-","16-40-0",0.286
-"7","2011","Rocky Stinson","-","6-40-0",0.13
-"8","2010","Rocky Stinson","-","0-0-0",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Bryan","500660","2020","",NA,"-",NA,NA,NA,0
+"2","Bryan","500660","2019","",NA,"-",NA,NA,NA,0
+"3","Bryan","500660","2015","Rocky Stinson",NA,"-",29,14,0,0.674
+"4","Bryan","500660","2014","Rocky Stinson",NA,"-",31,23,0,0.574
+"5","Bryan","500660","2013","Rocky Stinson",NA,"-",22,24,0,0.478
+"6","Bryan","500660","2012","Rocky Stinson",NA,"-",16,40,0,0.286
+"7","Bryan","500660","2011","Rocky Stinson",NA,"-",6,40,0,0.13
+"8","Bryan","500660","2010","Rocky Stinson",NA,"-",NA,NA,NA,0
+"9","Bryan","500660","","",NA,"",104,141,0,0.424

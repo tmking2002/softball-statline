@@ -1,32 +1,34 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Steve Potts","DII Independent","21-30-0",0.412
-"2",2022,"Steve Potts","DII Independent","10-26-0",0.278
-"3",2021,"Steve Potts","DII Independent","6-8-0",0.429
-"4",2020,"Steve Potts","DII Independent","4-10-0",0.286
-"5",2019,"Steve Potts","DII Independent","12-30-0",0.286
-"6",2018,"Steve Potts","DII Independent","13-23-0",0.361
-"7",2017,"Steve Potts","DII Independent","16-30-0",0.348
-"8",2016,"Steve Potts","G-MAC","23-27-0",0.46
-"9",2015,"Steve Potts","G-MAC","12-33-0",0.267
-"10",2014,"Steve Potts","G-MAC","17-28-0",0.378
-"11",2013,"Steve Potts","-","13-31-0",0.295
-"12",2012,"Steve Potts","Salem (WV)","21-25-0",0.457
-"13",2011,"Steve Potts","Salem (WV)","8-25-0",0.242
-"14",2010,"Steve Potts","WVIAC","2-30-0",0.062
-"15",2009,"Steve Potts","WVIAC","1-43-0",0.023
-"16",2008,"Gerry Szabo","WVIAC","15-34-0",0.306
-"17",2007,"Gerry Szabo","WVIAC","7-38-0",0.156
-"18",2006,"Gerry Szabo","WVIAC","0-0-0",NA
-"19",2005,"","WVIAC","14-26-0",0.35
-"20",2004,"","WVIAC","17-16-0",0.515
-"21",2003,"","-","18-25-0",0.419
-"22",2002,"","-","0-0-0",NA
-"23",2001,"Vickie Bostic","-","14-23-0",0.378
-"24",2000,"Vickie Bostic","-","14-25-0",0.359
-"25",1999,"Vickie Bostic","-","19-31-0",0.38
-"26",1998,"Vickie Bostic","-","14-21-0",0.4
-"27",1997,"Vickie Bostic","-","12-22-0",0.353
-"28",1996,"Vickie Bostic","-","14-8-0",0.636
-"29",1995,"Vickie Bostic","-","21-22-0",0.488
-"30",1994,"Vickie Bostic","-","13-18-1",0.419
-"31",2024,"Steve Potts","DII Independent","14-33-0",0.298
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Salem (WV)","19117","2025","Steve Potts","D-II","DII Independent",0,0,0,0
+"2","Salem (WV)","19117","2024","Steve Potts","D-II","DII Independent",18,36,0,0.333
+"3","Salem (WV)","19117","2023","Steve Potts","D-II","DII Independent",21,30,0,0.412
+"4","Salem (WV)","19117","2022","Steve Potts","D-II","DII Independent",10,26,0,0.278
+"5","Salem (WV)","19117","2021","Steve Potts","D-II","DII Independent",6,8,0,0.429
+"6","Salem (WV)","19117","2020","Steve Potts","D-II","DII Independent",4,10,0,0.286
+"7","Salem (WV)","19117","2019","Steve Potts","D-II","DII Independent",12,30,0,0.286
+"8","Salem (WV)","19117","2018","Steve Potts","D-II","DII Independent",13,23,NA,0.361
+"9","Salem (WV)","19117","2017","Steve Potts","D-II","DII Independent",16,30,0,0.348
+"10","Salem (WV)","19117","2016","Steve Potts","D-II","G-MAC",23,27,0,0.46
+"11","Salem (WV)","19117","2015","Steve Potts","D-II","G-MAC",12,33,0,0.267
+"12","Salem (WV)","19117","2014","Steve Potts","D-II","G-MAC",17,28,0,0.378
+"13","Salem (WV)","19117","2013","Steve Potts","D-II","-",13,31,0,0.295
+"14","Salem (WV)","19117","2012","Steve Potts","D-II","Salem (WV)",21,25,0,0.457
+"15","Salem (WV)","19117","2011","Steve Potts","D-II","Salem (WV)",8,25,0,0.242
+"16","Salem (WV)","19117","2010","Steve Potts","D-II","WVIAC",2,30,0,0.063
+"17","Salem (WV)","19117","2009","Steve Potts","D-II","WVIAC",1,43,0,0.023
+"18","Salem (WV)","19117","2008","Gerry Szabo","D-II","WVIAC",15,34,0,0.306
+"19","Salem (WV)","19117","2007","Gerry Szabo","D-II","WVIAC",7,38,0,0.156
+"20","Salem (WV)","19117","2006","Gerry Szabo","D-II","WVIAC",NA,NA,NA,NA
+"21","Salem (WV)","19117","2005","","D-II","WVIAC",14,26,0,0.35
+"22","Salem (WV)","19117","2004","","D-II","WVIAC",17,16,0,0.515
+"23","Salem (WV)","19117","2003","","D-II","-",18,25,NA,0.419
+"24","Salem (WV)","19117","2002","","D-II","-",NA,NA,NA,NA
+"25","Salem (WV)","19117","2001","Vickie Bostic","D-II","-",14,23,0,0.378
+"26","Salem (WV)","19117","1900","Vickie Bostic","D-II","-",14,25,0,0.359
+"27","Salem (WV)","19117","1999","Vickie Bostic","D-II","-",19,31,0,0.38
+"28","Salem (WV)","19117","1998","Vickie Bostic","D-II","-",14,21,0,0.4
+"29","Salem (WV)","19117","1997","Vickie Bostic","D-II","-",12,22,0,0.353
+"30","Salem (WV)","19117","1996","Vickie Bostic","D-II","-",14,8,0,0.636
+"31","Salem (WV)","19117","1995","Vickie Bostic","D-II","-",21,22,0,0.488
+"32","Salem (WV)","19117","1994","Vickie Bostic","D-II","-",13,18,1,0.422
+"33","Salem (WV)","19117","","","","",389,744,1,0.343

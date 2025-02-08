@@ -1,45 +1,47 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Sarah Richardson","American Rivers","6-28-0",0.176
-"2",2022,"Mandie Nocita","American Rivers","27-15-0",0.643
-"3",2021,"Mandie Nocita","American Rivers","19-22-0",0.463
-"4",2020,"Mandie Nocita","American Rivers","4-8-0",0.333
-"5",2019,"Mandie Nocita","American Rivers","19-17-0",0.528
-"6",2018,"Mandie Nocita","American Rivers","21-15-0",0.583
-"7",2017,"Mandie Nocita","American Rivers","20-17-0",0.541
-"8",2016,"Mandie Nocita","American Rivers","20-16-0",0.556
-"9",2015,"Mandie Nocita","American Rivers","18-20-1",0.474
-"10",2014,"Heather Hupke","American Rivers","15-21-0",0.417
-"11",2013,"Heather Hupke","American Rivers","14-21-0",0.4
-"12",2012,"Heather Hupke","American Rivers","17-17-0",0.5
-"13",2011,"Heather Hupke","American Rivers","12-24-0",0.333
-"14",2010,"Heather Hupke","American Rivers","15-19-0",0.441
-"15",2009,"Heather Hupke","American Rivers","8-24-0",0.25
-"16",2008,"Marge Willadsen","American Rivers","8-26-0",0.235
-"17",2007,"Marge Willadsen","American Rivers","7-23-0",0.233
-"18",2006,"Marge Willadsen","American Rivers","14-20-0",0.412
-"19",2005,"Marge Willadsen","American Rivers","16-20-0",0.444
-"20",2004,"Marge Willadsen","American Rivers","13-23-0",0.361
-"21",2003,"Marge Willadsen","American Rivers","7-22-0",0.241
-"22",2002,"Marge Willadsen","American Rivers","17-20-0",0.459
-"23",2001,"Marge Willadsen","-","22-13-0",0.629
-"24",2000,"Marge Willadsen","-","19-23-0",0.452
-"25",1999,"Marge Willadsen","-","20-19-0",0.513
-"26",1998,"Marge Willadsen","-","27-11-0",0.711
-"27",1997,"Marge Willadsen","-","12-15-0",0.444
-"28",1996,"Marge Willadsen","-","27-13-0",0.675
-"29",1995,"Marge Willadsen","-","25-11-0",0.694
-"30",1994,"Marge Willadsen","-","33-5-0",0.868
-"31",1993,"Marge Willadsen","-","30-8-0",0.789
-"32",1992,"Marge Willadsen","-","29-10-0",0.744
-"33",1991,"Marge Willadsen","-","13-18-1",0.419
-"34",1990,"Marge Willadsen","-","11-18-0",0.379
-"35",1989,"Marge Willadsen","-","26-14-0",0.65
-"36",1988,"Marge Willadsen","-","20-14-0",0.588
-"37",1987,"Marge Willadsen","-","21-16-0",0.568
-"38",1986,"Marge Willadsen","-","20-15-0",0.571
-"39",1985,"Marge Willadsen","-","30-19-0",0.612
-"40",1984,"Marge Willadsen","-","29-8-1",0.784
-"41",1983,"Marge Willadsen","-","30-9-0",0.769
-"42",1982,"Marge Willadsen","-","30-14-0",0.682
-"43",1981,"Marge Willadsen","-","13-20-0",0.394
-"44",2024,"Sarah Richardson","American Rivers","6-27-0",0.182
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Buena Vista","84","2025","Tammy Utley","D-III","American Rivers",0,0,0,0
+"2","Buena Vista","84","2024","Sarah Richardson","D-III","American Rivers",7,31,0,0.184
+"3","Buena Vista","84","2023","Sarah Richardson","D-III","American Rivers",6,28,0,0.176
+"4","Buena Vista","84","2022","Mandie Nocita","D-III","American Rivers",27,15,0,0.643
+"5","Buena Vista","84","2021","Mandie Nocita","D-III","American Rivers",19,22,0,0.463
+"6","Buena Vista","84","2020","Mandie Nocita","D-III","American Rivers",4,8,0,0.333
+"7","Buena Vista","84","2019","Mandie Nocita","D-III","American Rivers",19,17,0,0.528
+"8","Buena Vista","84","2018","Mandie Nocita","D-III","American Rivers",21,15,NA,0.583
+"9","Buena Vista","84","2017","Mandie Nocita","D-III","American Rivers",20,17,0,0.541
+"10","Buena Vista","84","2016","Mandie Nocita","D-III","American Rivers",20,16,0,0.556
+"11","Buena Vista","84","2015","Mandie Nocita","D-III","American Rivers",17,21,1,0.449
+"12","Buena Vista","84","2014","Heather Hupke","D-III","American Rivers",15,21,0,0.417
+"13","Buena Vista","84","2013","Heather Hupke","D-III","American Rivers",14,21,0,0.4
+"14","Buena Vista","84","2012","Heather Hupke","D-III","American Rivers",17,17,0,0.5
+"15","Buena Vista","84","2011","Heather Hupke","D-III","American Rivers",12,24,0,0.333
+"16","Buena Vista","84","2010","Heather Hupke","D-III","American Rivers",15,19,0,0.441
+"17","Buena Vista","84","2009","Heather Hupke","D-III","American Rivers",8,24,0,0.25
+"18","Buena Vista","84","2008","Marge Willadsen","D-III","American Rivers",8,26,0,0.235
+"19","Buena Vista","84","2007","Marge Willadsen","D-III","American Rivers",7,23,0,0.233
+"20","Buena Vista","84","2006","Marge Willadsen","D-III","American Rivers",14,20,0,0.412
+"21","Buena Vista","84","2005","Marge Willadsen","D-III","American Rivers",16,20,0,0.444
+"22","Buena Vista","84","2004","Marge Willadsen","D-III","American Rivers",13,23,0,0.361
+"23","Buena Vista","84","2003","Marge Willadsen","D-III","American Rivers",7,22,0,0.241
+"24","Buena Vista","84","2002","Marge Willadsen","D-III","American Rivers",17,20,0,0.459
+"25","Buena Vista","84","2001","Marge Willadsen","D-III","-",22,13,NA,0.629
+"26","Buena Vista","84","1900","Marge Willadsen","D-III","-",19,23,NA,0.452
+"27","Buena Vista","84","1999","Marge Willadsen","D-III","-",20,19,NA,0.513
+"28","Buena Vista","84","1998","Marge Willadsen","D-III","-",27,11,NA,0.711
+"29","Buena Vista","84","1997","Marge Willadsen","D-III","-",12,15,NA,0.444
+"30","Buena Vista","84","1996","Marge Willadsen","D-III","-",27,13,NA,0.675
+"31","Buena Vista","84","1995","Marge Willadsen","D-III","-",25,11,NA,0.694
+"32","Buena Vista","84","1994","Marge Willadsen","D-III","-",33,5,NA,0.868
+"33","Buena Vista","84","1993","Marge Willadsen","D-III","-",30,8,NA,0.789
+"34","Buena Vista","84","1992","Marge Willadsen","D-III","-",29,10,NA,0.744
+"35","Buena Vista","84","1991","Marge Willadsen","D-III","-",13,18,1,0.422
+"36","Buena Vista","84","1990","Marge Willadsen","D-III","-",11,18,NA,0.379
+"37","Buena Vista","84","1989","Marge Willadsen","D-III","-",26,14,NA,0.65
+"38","Buena Vista","84","1988","Marge Willadsen","D-III","-",20,14,NA,0.588
+"39","Buena Vista","84","1987","Marge Willadsen","D-III","-",21,16,NA,0.568
+"40","Buena Vista","84","1986","Marge Willadsen","D-III","-",20,15,NA,0.571
+"41","Buena Vista","84","1985","Marge Willadsen","D-III","-",30,19,NA,0.612
+"42","Buena Vista","84","1984","Marge Willadsen","D-III","-",29,8,1,0.776
+"43","Buena Vista","84","1983","Marge Willadsen","D-III","-",30,9,NA,0.769
+"44","Buena Vista","84","1982","Marge Willadsen","D-III","-",30,14,NA,0.682
+"45","Buena Vista","84","1981","Marge Willadsen","D-III","-",13,20,NA,0.394
+"46","Buena Vista","84","","","","",810,763,3,0.515

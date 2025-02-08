@@ -1,40 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kim Lorenc","CCC","12-27-0","0.308"
-"2","2022","Kim Lorenc","CCC","19-23-0","0.452"
-"3","2021","Kim Lorenc","CCC","6-7-0","0.462"
-"4","2020","Dan Letellier","CCC","0-0-0","  NaN"
-"5","2019","Dan Letellier","CCC","26-16-0","0.619"
-"6","2018","Dan Letellier","CCC","17-20-0","0.459"
-"7","2017","Dan Letellier","CCC","15-14-0","0.517"
-"8","2016","Dan Letellier","CCC","25-15-0","0.625"
-"9","2015","Dan Letellier","CCC","20-20-0","0.500"
-"10","2014","Dan Letellier","CCC","23-17-0","0.575"
-"11","2013","Dan Letellier","CCC","22-18-1","0.550"
-"12","2012","Dan Letellier","CCC","27-14-0","0.659"
-"13","2011","Dan Letellier","CCC","29-18-1","0.617"
-"14","2010","Dan Letellier","CCC","25-14-0","0.641"
-"15","2009","Charity Camire","CCC","22-13-1","0.629"
-"16","2008","Charity Camire","CCC","24-14-0","0.632"
-"17","2007","Joan Howard","CCC","24-14-0","0.632"
-"18","2006","Joan Howard","CCC","18-13-0","0.581"
-"19","2005","Joan Howard","CCC","15-10-0","0.600"
-"20","2004","Joan Howard","CCC","8-15-0","0.348"
-"21","2003","Dave Labbe","CCC","9-9-0","0.500"
-"22","2002","Dave Labbe","CCC","16-18-1","0.471"
-"23","2001","Dave Labbe","-","15-5-0","0.750"
-"24","2000","Dave Labbe","-","26-10-0","0.722"
-"25","1999","Curt Smyth","-","11-13-0","0.458"
-"26","1998","Karen Bailey","-","15-20-0","0.429"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","U New England","1255","2025","Kim Lorenc","D-III","CNE",0,0,0,0
+"2","U New England","1255","2024","Kim Lorenc","D-III","CNE",12,29,0,0.293
+"3","U New England","1255","2023","Kim Lorenc","D-III","CNE",12,27,0,0.308
+"4","U New England","1255","2022","Kim Lorenc","D-III","CNE",19,23,0,0.452
+"5","U New England","1255","2021","Kim Lorenc","D-III","CNE",6,7,0,0.462
+"6","U New England","1255","2020","Dan Letellier","D-III","CNE",NA,NA,NA,0
+"7","U New England","1255","2019","Dan Letellier","D-III","CNE",26,16,0,0.619
+"8","U New England","1255","2018","Dan Letellier","D-III","CNE",17,20,NA,0.459
+"9","U New England","1255","2017","Dan Letellier","D-III","CNE",15,14,0,0.517
+"10","U New England","1255","2016","Dan Letellier","D-III","CNE",25,15,0,0.625
+"11","U New England","1255","2015","Dan Letellier","D-III","CNE",20,20,0,0.5
+"12","U New England","1255","2014","Dan Letellier","D-III","CNE",23,17,0,0.575
+"13","U New England","1255","2013","Dan Letellier","D-III","CNE",22,18,1,0.549
+"14","U New England","1255","2012","Dan Letellier","D-III","CNE",27,14,0,0.659
+"15","U New England","1255","2011","Dan Letellier","D-III","CNE",29,18,1,0.615
+"16","U New England","1255","2010","Dan Letellier","D-III","CNE",25,14,0,0.641
+"17","U New England","1255","2009","Charity Camire","D-III","CNE",22,13,1,0.625
+"18","U New England","1255","2008","Charity Camire","D-III","CNE",24,14,0,0.632
+"19","U New England","1255","2007","Joan Howard","D-III","CNE",24,14,0,0.632
+"20","U New England","1255","2006","Joan Howard","D-III","CNE",18,13,0,0.581
+"21","U New England","1255","2005","Joan Howard","D-III","CNE",15,10,0,0.6
+"22","U New England","1255","2004","Joan Howard","D-III","CNE",8,15,0,0.348
+"23","U New England","1255","2003","Dave Labbe","D-III","CNE",9,9,0,0.5
+"24","U New England","1255","2002","Dave Labbe","D-III","CNE",16,18,1,0.471
+"25","U New England","1255","2001","Dave Labbe","D-III","-",15,5,NA,0.75
+"26","U New England","1255","1900","Dave Labbe","D-III","-",26,10,NA,0.722
+"27","U New England","1255","1999","Curt Smyth","D-III","-",11,13,NA,0.458
+"28","U New England","1255","1998","Karen Bailey","D-III","-",15,20,0,0.429
+"29","U New England","1255","1997","","D-III","-",NA,NA,NA,NA
+"30","U New England","1255","1996","","D-III","-",NA,NA,NA,NA
+"31","U New England","1255","1995","","D-III","-",NA,NA,NA,NA
+"32","U New England","1255","1994","","D-III","-",NA,NA,NA,NA
+"33","U New England","1255","1993","","D-III","-",NA,NA,NA,NA
+"34","U New England","1255","1992","","D-III","-",NA,NA,NA,NA
+"35","U New England","1255","1991","","D-III","-",NA,NA,NA,NA
+"36","U New England","1255","1990","","D-III","-",NA,NA,NA,NA
+"37","U New England","1255","1989","","D-III","-",NA,NA,NA,NA
+"38","U New England","1255","1988","","D-III","-",NA,NA,NA,NA
+"39","U New England","1255","1987","","D-III","-",NA,NA,NA,NA
+"40","U New England","1255","1986","","","-",NA,NA,NA,NA
+"41","U New England","1255","1985","","","-",NA,NA,NA,NA
+"42","U New England","1255","","","","",481,406,4,0.542

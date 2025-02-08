@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2021","","-","0-0-0",0
-"2","2019","","-","0-0-0",0
-"3","2018","","-","0-0-0",0
-"4","2017","Jerry Breaux","-","52-10-0",0.839
-"5","2016","Jerry Breaux","-","47-12-0",0.797
-"6","2015","","-","51-5-0",0.911
-"7","2014","Charlie Zeilman","-","35-3-0",0.921
-"8","2013","Charlie Zeilman","-","23-30-0",0.434
-"9","2012","Charlie Zeilman","-","24-18-0",0.571
-"10","2011","","-","0-0-0",NA
-"11","2010","","-","0-0-0",NA
-"12","2009","","-","0-0-0",NA
-"13","2008","","-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","LSU-Alexandria","506339","2025","",NA,"-",NA,NA,NA,0
+"2","LSU-Alexandria","506339","2021","",NA,"-",NA,NA,NA,0
+"3","LSU-Alexandria","506339","2019","",NA,"-",NA,NA,NA,0
+"4","LSU-Alexandria","506339","2018","",NA,"-",NA,NA,NA,0
+"5","LSU-Alexandria","506339","2017","Jerry Breaux",NA,"-",52,10,0,0.839
+"6","LSU-Alexandria","506339","2016","Jerry Breaux",NA,"-",47,12,0,0.797
+"7","LSU-Alexandria","506339","2015","",NA,"-",51,5,0,0.911
+"8","LSU-Alexandria","506339","2014","Charlie Zeilman",NA,"-",35,3,0,0.921
+"9","LSU-Alexandria","506339","2013","Charlie Zeilman",NA,"-",23,30,0,0.434
+"10","LSU-Alexandria","506339","2012","Charlie Zeilman",NA,"-",24,18,0,0.571
+"11","LSU-Alexandria","506339","2011","",NA,"-",NA,NA,NA,NA
+"12","LSU-Alexandria","506339","2010","",NA,"-",NA,NA,NA,NA
+"13","LSU-Alexandria","506339","2009","",NA,"-",NA,NA,NA,NA
+"14","LSU-Alexandria","506339","2008","",NA,"-",NA,NA,NA,NA
+"15","LSU-Alexandria","506339","","",NA,"",232,78,0,0.748

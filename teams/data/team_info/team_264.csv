@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lexy Determan","MWC","30-14-0",0.682
-"2",2022,"Lexy Determan","MWC","21-19-0",0.525
-"3",2021,"Lynn Anderson","MWC","9-7-0",0.562
-"4",2020,"Lynn Anderson","MWC","0-0-0",NA
-"5",2019,"Lynn Anderson","MWC","19-22-0",0.463
-"6",2018,"Amanda Reckamp","MWC","24-14-0",0.632
-"7",2017,"Amanda Reckamp","MWC","11-23-0",0.324
-"8",2016,"Amanda Reckamp","MWC","16-19-0",0.457
-"9",2015,"Amanda Reckamp","MWC","6-29-0",0.171
-"10",2014,"Amanda Reckamp","MWC","0-22-0",0
-"11",2013,"Amanda Reckamp","MWC","1-28-0",0.034
-"12",2012,"Amanda Reckamp","MWC","2-26-0",0.071
-"13",2011,"Amanda Reckamp","MWC","0-33-0",0
-"14",2010,"Craig Arendt","MWC","6-28-0",0.176
-"15",2009,"Sandra Faulkner","MWC","9-22-0",0.29
-"16",2008,"Tom Sonnichsen","MWC","8-20-0",0.286
-"17",2007,"Tom Sonnichsen","MWC","8-16-0",0.333
-"18",2006,"Tom Sonnichsen","MWC","23-15-0",0.605
-"19",2005,"Tom Sonnichsen","MWC","13-21-0",0.382
-"20",2004,"Tom Sonnichsen","MWC","8-20-0",0.286
-"21",2003,"Tom Sonnichsen","MWC","21-11-0",0.656
-"22",2002,"Tom Sonnichsen","MWC","14-16-1",0.467
-"23",2001,"Tom Sonnichsen","-","5-22-1",0.185
-"24",2000,"Tom Sonnichsen","-","19-14-0",0.576
-"25",1999,"Tom Sonnichsen","-","10-17-0",0.37
-"26",1998,"Tom Sonnichsen","-","13-18-0",0.419
-"27",1997,"Janelle Tieken","-","8-15-0",0.348
-"28",1996,"Lori Sadewater","-","7-21-0",0.25
-"29",1995,"Lori Sadewater","-","3-19-0",0.136
-"30",1994,"Lori Sadewater","-","3-21-0",0.125
-"31",1993,"Lori Sadewater","-","5-19-0",0.208
-"32",1992,"Lori Sadewater","-","1-27-0",0.036
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1985,"","-","0-0-0",NA
-"37",2024,"Lexy Determan","MWC","27-16-0",0.628
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grinnell","264","2025","Lexy Determan","D-III","MWC",0,0,0,0
+"2","Grinnell","264","2024","Lexy Determan","D-III","MWC",27,16,0,0.628
+"3","Grinnell","264","2023","Lexy Determan","D-III","MWC",30,14,0,0.682
+"4","Grinnell","264","2022","Lexy Determan","D-III","MWC",21,19,0,0.525
+"5","Grinnell","264","2021","Lynn Anderson","D-III","MWC",9,7,0,0.563
+"6","Grinnell","264","2020","Lynn Anderson","D-III","MWC",NA,NA,NA,0
+"7","Grinnell","264","2019","Lynn Anderson","D-III","MWC",19,22,0,0.463
+"8","Grinnell","264","2018","Amanda Reckamp","D-III","MWC",24,14,NA,0.632
+"9","Grinnell","264","2017","Amanda Reckamp","D-III","MWC",11,23,0,0.324
+"10","Grinnell","264","2016","Amanda Reckamp","D-III","MWC",16,19,0,0.457
+"11","Grinnell","264","2015","Amanda Reckamp","D-III","MWC",6,29,0,0.171
+"12","Grinnell","264","2014","Amanda Reckamp","D-III","MWC",0,22,0,0
+"13","Grinnell","264","2013","Amanda Reckamp","D-III","MWC",1,28,0,0.034
+"14","Grinnell","264","2012","Amanda Reckamp","D-III","MWC",2,26,0,0.071
+"15","Grinnell","264","2011","Amanda Reckamp","D-III","MWC",0,33,0,0
+"16","Grinnell","264","2010","Craig Arendt","D-III","MWC",6,28,0,0.176
+"17","Grinnell","264","2009","Sandra Faulkner","D-III","MWC",9,22,0,0.29
+"18","Grinnell","264","2008","Tom Sonnichsen","D-III","MWC",8,20,0,0.286
+"19","Grinnell","264","2007","Tom Sonnichsen","D-III","MWC",8,16,0,0.333
+"20","Grinnell","264","2006","Tom Sonnichsen","D-III","MWC",23,15,0,0.605
+"21","Grinnell","264","2005","Tom Sonnichsen","D-III","MWC",13,21,0,0.382
+"22","Grinnell","264","2004","Tom Sonnichsen","D-III","MWC",8,20,0,0.286
+"23","Grinnell","264","2003","Tom Sonnichsen","D-III","MWC",21,11,0,0.656
+"24","Grinnell","264","2002","Tom Sonnichsen","D-III","MWC",14,16,1,0.468
+"25","Grinnell","264","2001","Tom Sonnichsen","D-III","-",5,22,1,0.196
+"26","Grinnell","264","1900","Tom Sonnichsen","D-III","-",19,14,NA,0.576
+"27","Grinnell","264","1999","Tom Sonnichsen","D-III","-",10,17,NA,0.37
+"28","Grinnell","264","1998","Tom Sonnichsen","D-III","-",13,18,NA,0.419
+"29","Grinnell","264","1997","Janelle Tieken","D-III","-",8,15,NA,0.348
+"30","Grinnell","264","1996","Lori Sadewater","D-III","-",7,21,NA,0.25
+"31","Grinnell","264","1995","Lori Sadewater","D-III","-",3,19,NA,0.136
+"32","Grinnell","264","1994","Lori Sadewater","D-III","-",3,21,NA,0.125
+"33","Grinnell","264","1993","Lori Sadewater","D-III","-",5,19,NA,0.208
+"34","Grinnell","264","1992","Lori Sadewater","D-III","-",1,27,NA,0.036
+"35","Grinnell","264","1991","","D-III","-",NA,NA,NA,NA
+"36","Grinnell","264","1990","","D-III","-",NA,NA,NA,NA
+"37","Grinnell","264","1989","","D-III","-",NA,NA,NA,NA
+"38","Grinnell","264","1985","","D-III","-",NA,NA,NA,NA
+"39","Grinnell","264","","","","",350,634,2,0.356

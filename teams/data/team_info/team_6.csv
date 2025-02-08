@@ -1,38 +1,40 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Cassandra Brown","SWAC","22-19-0","0.537"
-"2","2022","Cassandra Brown","SWAC","16-24-0","0.400"
-"3","2021","Cassandra Brown","SWAC","11-19-0","0.367"
-"4","2020","Cassandra Brown","SWAC","2-11-0","0.154"
-"5","2019","Cassandra Brown","SWAC","23-19-0","0.548"
-"6","2018","Nakeya Hall","SWAC","22-21-1","0.512"
-"7","2017","Nakeya Hall","SWAC","17-31-0","0.354"
-"8","2016","Nedra Brown","SWAC","12-35-0","0.255"
-"9","2015","Nedra Brown","SWAC","18-25-0","0.419"
-"10","2014","Nedra Brown","-","0-33-0","0.000"
-"11","2013","Nedra Brown","SWAC","0-27-0","0.000"
-"12","2012","Nedra Brown","SWAC","0-27-0","0.000"
-"13","2011","Nedra Brown","SWAC","4-26-0","0.133"
-"14","2010","Nedra Brown","SWAC","8-25-0","0.242"
-"15","2009","Nedra Brown","SWAC","12-23-1","0.343"
-"16","2008","Nedra Brown","SWAC","11-22-0","0.333"
-"17","2007","Diana Kendrick","SWAC","13-33-0","0.283"
-"18","2006","Diana Kendrick","SWAC","13-33-0","0.283"
-"19","2005","Diana Kendrick","SWAC","26-26-0","0.500"
-"20","2004","Audrianna Johnson","SWAC","24-39-0","0.381"
-"21","2003","Audrianna Johnson","SWAC","29-31-0","0.483"
-"22","2002","Audrianna Johnson","SWAC","35-20-0","0.636"
-"23","2001","","SWAC","28-22-0","0.560"
-"24","2000","Audrianna Johnson","SWAC","31-16-0","0.660"
-"25","1999","Carolyn Palmer","-","22-28-0","0.440"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","2024","Ray Foreman","SWAC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Alabama A&M","6","2025","Brian Daley","D-I","SWAC",0,0,0,0
+"2","Alabama A&M","6","2024","Ray Foreman","D-I","SWAC",9,27,0,0.25
+"3","Alabama A&M","6","2023","Cassandra Brown","D-I","SWAC",22,19,0,0.537
+"4","Alabama A&M","6","2022","Cassandra Brown","D-I","SWAC",16,24,0,0.4
+"5","Alabama A&M","6","2021","Cassandra Brown","D-I","SWAC",11,19,0,0.367
+"6","Alabama A&M","6","2020","Cassandra Brown","D-I","SWAC",2,11,0,0.154
+"7","Alabama A&M","6","2019","Cassandra Brown","D-I","SWAC",23,19,0,0.548
+"8","Alabama A&M","6","2018","Nakeya Hall","D-I","SWAC",22,21,1,0.511
+"9","Alabama A&M","6","2017","Nakeya Hall","D-I","SWAC",17,31,0,0.354
+"10","Alabama A&M","6","2016","Nedra Brown","D-I","SWAC",12,35,0,0.255
+"11","Alabama A&M","6","2015","Nedra Brown","D-I","SWAC",18,24,1,0.43
+"12","Alabama A&M","6","2014","Nedra Brown","D-I","-",0,33,0,0
+"13","Alabama A&M","6","2013","Nedra Brown","D-I","SWAC",0,27,0,0
+"14","Alabama A&M","6","2012","Nedra Brown","D-I","SWAC",0,27,0,0
+"15","Alabama A&M","6","2011","Nedra Brown","D-I","SWAC",4,26,0,0.133
+"16","Alabama A&M","6","2010","Nedra Brown","D-I","SWAC",8,25,0,0.242
+"17","Alabama A&M","6","2009","Nedra Brown","D-I","SWAC",12,23,1,0.347
+"18","Alabama A&M","6","2008","Nedra Brown","D-I","SWAC",11,22,0,0.333
+"19","Alabama A&M","6","2007","Diana Kendrick","D-I","SWAC",13,33,0,0.283
+"20","Alabama A&M","6","2006","Diana Kendrick","D-I","SWAC",13,33,0,0.283
+"21","Alabama A&M","6","2005","Diana Kendrick","D-I","SWAC",26,26,0,0.5
+"22","Alabama A&M","6","2004","Audrianna Johnson","D-I","SWAC",24,39,0,0.381
+"23","Alabama A&M","6","2003","Audrianna Johnson","D-I","SWAC",29,31,0,0.483
+"24","Alabama A&M","6","2002","Audrianna Johnson","D-I","SWAC",35,20,0,0.636
+"25","Alabama A&M","6","2001","","D-I","SWAC",28,22,0,0.56
+"26","Alabama A&M","6","1900","Audrianna Johnson","D-I","SWAC",31,16,0,0.66
+"27","Alabama A&M","6","1999","Carolyn Palmer","D-II","-",22,28,NA,0.44
+"28","Alabama A&M","6","1998","","D-II","-",NA,NA,NA,NA
+"29","Alabama A&M","6","1997","","","-",NA,NA,NA,NA
+"30","Alabama A&M","6","1996","","","-",NA,NA,NA,NA
+"31","Alabama A&M","6","1995","","","-",NA,NA,NA,NA
+"32","Alabama A&M","6","1994","","","-",NA,NA,NA,NA
+"33","Alabama A&M","6","1993","","","-",NA,NA,NA,NA
+"34","Alabama A&M","6","1992","","","-",NA,NA,NA,NA
+"35","Alabama A&M","6","1991","","","-",NA,NA,NA,NA
+"36","Alabama A&M","6","1990","","","-",NA,NA,NA,NA
+"37","Alabama A&M","6","1989","","","-",NA,NA,NA,NA
+"38","Alabama A&M","6","1988","","","-",NA,NA,NA,NA
+"39","Alabama A&M","6","","","","",408,661,3,0.382

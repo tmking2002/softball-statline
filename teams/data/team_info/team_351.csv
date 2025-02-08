@@ -1,41 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Scot Adams","MAC Commonwealth","36-12-0","0.750"
-"2","2022","Scot Adams","MAC Commonwealth","26-13-0","0.667"
-"3","2021","Scot Adams","MAC Commonwealth","17-16-0","0.515"
-"4","2020","Scot Adams","MAC Commonwealth","6-6-0","0.500"
-"5","2019","Scot Adams","MAC Commonwealth","19-22-0","0.463"
-"6","2018","","MAC Commonwealth","20-16-0","0.556"
-"7","2017","Joey Lye","MAC Commonwealth","25-15-0","0.625"
-"8","2016","Stacey Hollinger","MAC Commonwealth","18-17-0","0.514"
-"9","2015","Stacey Hollinger","MAC Commonwealth","18-24-0","0.429"
-"10","2014","Stacey Hollinger","MAC Commonwealth","34-6-0","0.850"
-"11","2013","Stacey Hollinger","MAC Commonwealth","36-7-1","0.837"
-"12","2012","Stacey Hollinger","MAC Commonwealth","25-15-0","0.625"
-"13","2011","Stacey Hollinger","MAC Commonwealth","29-9-0","0.763"
-"14","2010","Stacey Hollinger","MAC Commonwealth","34-13-0","0.723"
-"15","2009","Stacey Hollinger","MAC Commonwealth","27-14-0","0.659"
-"16","2008","Stacey Hollinger","MAC Commonwealth","27-11-0","0.711"
-"17","2007","Stacey Hollinger","MAC Commonwealth","16-12-0","0.571"
-"18","2006","Stacey Hollinger","MAC Commonwealth","29-12-0","0.707"
-"19","2005","Stacey Hollinger","MAC Commonwealth","27-12-0","0.692"
-"20","2004","Stacey Hollinger","MAC Commonwealth","16-20-0","0.444"
-"21","2003","Stacey Hollinger","MAC Commonwealth","8-21-0","0.276"
-"22","2002","Stacey Hollinger","-","17-19-0","0.472"
-"23","2001","Stacey Hollinger","-","19-16-0","0.543"
-"24","2000","Stacey Hollinger","-","16-19-0","0.457"
-"25","1999","Blair Moyer","-","11-21-0","0.344"
-"26","1998","Blair Moyer","-","18-20-0","0.474"
-"27","1997","Blair Moyer","-","13-14-1","0.481"
-"28","1996","Blair Moyer","-","7-17-0","0.292"
-"29","1995","Blair Moyer","-","8-28-0","0.222"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","Kathy Nelson","-","2-11-0","0.154"
-"32","1992","Kathy Nelson","-","5-16-0","0.238"
-"33","1991","Kathy Nelson","-","7-13-0","0.350"
-"34","1990","Kathy Nelson","-","7-9-0","0.438"
-"35","1989","Kathy Nelson","-","1-12-0","0.077"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1981","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lebanon Valley","351","2025","Scot Adams","D-III","MAC Freedom",0,0,0,0
+"2","Lebanon Valley","351","2024","Scot Adams","D-III","MAC Freedom",35,10,0,0.778
+"3","Lebanon Valley","351","2023","Scot Adams","D-III","MAC Commonwealth",36,12,0,0.75
+"4","Lebanon Valley","351","2022","Scot Adams","D-III","MAC Commonwealth",26,13,0,0.667
+"5","Lebanon Valley","351","2021","Scot Adams","D-III","MAC Commonwealth",17,16,0,0.515
+"6","Lebanon Valley","351","2020","Scot Adams","D-III","MAC Commonwealth",6,6,0,0.5
+"7","Lebanon Valley","351","2019","Scot Adams","D-III","MAC Commonwealth",19,22,0,0.463
+"8","Lebanon Valley","351","2018","","D-III","MAC Commonwealth",20,16,NA,0.556
+"9","Lebanon Valley","351","2017","Joey Lye","D-III","MAC Commonwealth",25,15,0,0.625
+"10","Lebanon Valley","351","2016","Stacey Hollinger","D-III","MAC Commonwealth",18,17,0,0.514
+"11","Lebanon Valley","351","2015","Stacey Hollinger","D-III","MAC Commonwealth",18,24,0,0.429
+"12","Lebanon Valley","351","2014","Stacey Hollinger","D-III","MAC Commonwealth",34,6,0,0.85
+"13","Lebanon Valley","351","2013","Stacey Hollinger","D-III","MAC Commonwealth",36,7,1,0.83
+"14","Lebanon Valley","351","2012","Stacey Hollinger","D-III","MAC Commonwealth",25,15,0,0.625
+"15","Lebanon Valley","351","2011","Stacey Hollinger","D-III","MAC Commonwealth",29,9,0,0.763
+"16","Lebanon Valley","351","2010","Stacey Hollinger","D-III","MAC Commonwealth",34,13,0,0.723
+"17","Lebanon Valley","351","2009","Stacey Hollinger","D-III","MAC Commonwealth",27,14,0,0.659
+"18","Lebanon Valley","351","2008","Stacey Hollinger","D-III","MAC Commonwealth",27,11,0,0.711
+"19","Lebanon Valley","351","2007","Stacey Hollinger","D-III","MAC Commonwealth",16,12,0,0.571
+"20","Lebanon Valley","351","2006","Stacey Hollinger","D-III","MAC Commonwealth",29,12,0,0.707
+"21","Lebanon Valley","351","2005","Stacey Hollinger","D-III","MAC Commonwealth",27,12,0,0.692
+"22","Lebanon Valley","351","2004","Stacey Hollinger","D-III","MAC Commonwealth",16,20,0,0.444
+"23","Lebanon Valley","351","2003","Stacey Hollinger","D-III","MAC Commonwealth",8,21,0,0.276
+"24","Lebanon Valley","351","2002","Stacey Hollinger","D-III","-",17,19,NA,0.472
+"25","Lebanon Valley","351","2001","Stacey Hollinger","D-III","-",19,16,NA,0.543
+"26","Lebanon Valley","351","1900","Stacey Hollinger","D-III","-",16,19,NA,0.457
+"27","Lebanon Valley","351","1999","Blair Moyer","D-III","-",11,21,NA,0.344
+"28","Lebanon Valley","351","1998","Blair Moyer","D-III","-",18,20,NA,0.474
+"29","Lebanon Valley","351","1997","Blair Moyer","D-III","-",13,14,1,0.482
+"30","Lebanon Valley","351","1996","Blair Moyer","D-III","-",7,17,NA,0.292
+"31","Lebanon Valley","351","1995","Blair Moyer","D-III","-",8,28,NA,0.222
+"32","Lebanon Valley","351","1994","","D-III","-",NA,NA,NA,NA
+"33","Lebanon Valley","351","1993","Kathy Nelson","D-III","-",2,11,NA,0.154
+"34","Lebanon Valley","351","1992","Kathy Nelson","D-III","-",5,16,NA,0.238
+"35","Lebanon Valley","351","1991","Kathy Nelson","D-III","-",7,13,NA,0.35
+"36","Lebanon Valley","351","1990","Kathy Nelson","D-III","-",7,9,NA,0.438
+"37","Lebanon Valley","351","1989","Kathy Nelson","D-III","-",1,12,NA,0.077
+"38","Lebanon Valley","351","1988","","D-III","-",NA,NA,NA,NA
+"39","Lebanon Valley","351","1987","","D-III","-",NA,NA,NA,NA
+"40","Lebanon Valley","351","1986","","D-III","-",NA,NA,NA,NA
+"41","Lebanon Valley","351","1985","","D-III","-",NA,NA,NA,NA
+"42","Lebanon Valley","351","1981","","","-",NA,NA,NA,NA
+"43","Lebanon Valley","351","","","","",659,518,2,0.56

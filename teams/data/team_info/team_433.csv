@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jamie Trachsel","SEC","32-28-0",0.533
-"2",2022,"Jamie Trachsel","SEC","41-19-0",0.683
-"3",2021,"Jamie Trachsel","SEC","36-22-0",0.621
-"4",2020,"Ruben Felix","SEC","12-13-0",0.48
-"5",2019,"Mike Smith","SEC","41-20-0",0.672
-"6",2018,"Mike Smith","SEC","32-24-0",0.571
-"7",2017,"Mike Smith","SEC","43-20-0",0.683
-"8",2016,"Mike Smith","SEC","41-22-0",0.651
-"9",2015,"Mike Smith","SEC","30-25-0",0.545
-"10",2014,"Windy Thees","SEC","22-31-0",0.415
-"11",2013,"Windy Thees","SEC","25-31-0",0.446
-"12",2012,"Windy Thees","SEC","22-32-0",0.407
-"13",2011,"Missy Dickerson","SEC","14-39-0",0.264
-"14",2010,"Missy Dickerson","SEC","29-27-0",0.518
-"15",2009,"Missy Dickerson","SEC","23-29-0",0.442
-"16",2008,"Missy Dickerson","SEC","26-28-0",0.481
-"17",2007,"Missy Dickerson","SEC","24-34-0",0.414
-"18",2006,"Missy Dickerson","SEC","24-36-0",0.4
-"19",2005,"Candi Letts","SEC","30-28-0",0.517
-"20",2004,"Candi Letts","SEC","15-37-0",0.288
-"21",2003,"Candi Letts","SEC","19-34-0",0.358
-"22",2002,"Candi Letts","SEC","25-29-0",0.463
-"23",2001,"Candi Letts","SEC","18-40-0",0.31
-"24",2000,"Candi Letts","SEC","21-42-0",0.333
-"25",1999,"Candi Letts","SEC","25-36-0",0.41
-"26",1998,"Joyce Maudie","-","26-40-0",0.394
-"27",1997,"Joyce Maudie","SEC","22-41-0",0.349
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",2024,"Jamie Trachsel","SEC","31-27-0",0.534
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ole Miss","433","2025","Jamie Trachsel","D-I","SEC",3,1,0,0.75
+"2","Ole Miss","433","2024","Jamie Trachsel","D-I","SEC",31,27,0,0.534
+"3","Ole Miss","433","2023","Jamie Trachsel","D-I","SEC",32,28,0,0.533
+"4","Ole Miss","433","2022","Jamie Trachsel","D-I","SEC",41,19,0,0.683
+"5","Ole Miss","433","2021","Jamie Trachsel","D-I","SEC",36,22,0,0.621
+"6","Ole Miss","433","2020","Ruben Felix","D-I","SEC",12,13,0,0.48
+"7","Ole Miss","433","2019","Mike Smith","D-I","SEC",41,20,0,0.672
+"8","Ole Miss","433","2018","Mike Smith","D-I","SEC",32,24,0,0.571
+"9","Ole Miss","433","2017","Mike Smith","D-I","SEC",43,20,0,0.683
+"10","Ole Miss","433","2016","Mike Smith","D-I","SEC",41,22,0,0.651
+"11","Ole Miss","433","2015","Mike Smith","D-I","SEC",30,25,0,0.545
+"12","Ole Miss","433","2014","Windy Thees","D-I","SEC",22,31,0,0.415
+"13","Ole Miss","433","2013","Windy Thees","D-I","SEC",25,31,0,0.446
+"14","Ole Miss","433","2012","Windy Thees","D-I","SEC",22,32,0,0.407
+"15","Ole Miss","433","2011","Missy Dickerson","D-I","SEC",14,39,0,0.264
+"16","Ole Miss","433","2010","Missy Dickerson","D-I","SEC",29,27,0,0.518
+"17","Ole Miss","433","2009","Missy Dickerson","D-I","SEC",23,29,0,0.442
+"18","Ole Miss","433","2008","Missy Dickerson","D-I","SEC",26,28,0,0.481
+"19","Ole Miss","433","2007","Missy Dickerson","D-I","SEC",24,34,0,0.414
+"20","Ole Miss","433","2006","Missy Dickerson","D-I","SEC",24,36,0,0.4
+"21","Ole Miss","433","2005","Candi Letts","D-I","SEC",30,28,0,0.517
+"22","Ole Miss","433","2004","Candi Letts","D-I","SEC",15,37,0,0.288
+"23","Ole Miss","433","2003","Candi Letts","D-I","SEC",19,34,0,0.358
+"24","Ole Miss","433","2002","Candi Letts","D-I","SEC",25,29,0,0.463
+"25","Ole Miss","433","2001","Candi Letts","D-I","SEC",18,40,0,0.31
+"26","Ole Miss","433","1900","Candi Letts","D-I","SEC",21,42,0,0.333
+"27","Ole Miss","433","1999","Candi Letts","D-I","SEC",25,36,0,0.41
+"28","Ole Miss","433","1998","Joyce Maudie","D-I","-",26,40,NA,0.394
+"29","Ole Miss","433","1997","Joyce Maudie","D-I","SEC",22,41,0,0.349
+"30","Ole Miss","433","1996","","D-I","-",NA,NA,NA,NA
+"31","Ole Miss","433","1995","","D-I","-",NA,NA,NA,NA
+"32","Ole Miss","433","1994","","D-I","-",NA,NA,NA,NA
+"33","Ole Miss","433","1993","","D-I","-",NA,NA,NA,NA
+"34","Ole Miss","433","1992","","D-I","-",NA,NA,NA,NA
+"35","Ole Miss","433","1991","","D-I","-",NA,NA,NA,NA
+"36","Ole Miss","433","1990","","D-I","-",NA,NA,NA,NA
+"37","Ole Miss","433","1989","","D-I","-",NA,NA,NA,NA
+"38","Ole Miss","433","1988","","D-I","-",NA,NA,NA,NA
+"39","Ole Miss","433","1987","","D-I","-",NA,NA,NA,NA
+"40","Ole Miss","433","","","","",752,835,0,0.474

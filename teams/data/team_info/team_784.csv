@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jackie Klahold","MAC Freedom","18-18-0",0.5
-"2",2022,"Jackie Klahold","MAC Freedom","14-16-0",0.467
-"3",2021,"Jackie Klahold","MAC Freedom","5-17-0",0.227
-"4",2020,"Jackie Klahold","MAC Freedom","8-5-0",0.615
-"5",2019,"Sarah Maulorico","MAC Freedom","26-16-0",0.619
-"6",2018,"Sarah Maulorico","MAC Freedom","23-15-0",0.605
-"7",2017,"Sarah Maulorico","MAC Freedom","24-16-0",0.6
-"8",2016,"Sarah Maulorico","MAC Freedom","13-23-0",0.361
-"9",2015,"Frank Matthews","MAC Freedom","13-20-0",0.394
-"10",2014,"Frank Matthews","MAC Freedom","14-24-0",0.368
-"11",2013,"Frank Matthews","MAC Freedom","17-23-0",0.425
-"12",2012,"Frank Matthews","MAC Freedom","11-25-0",0.306
-"13",2011,"Frank Matthews","MAC Freedom","7-25-0",0.219
-"14",2010,"Frank Matthews","MAC Freedom","12-22-0",0.353
-"15",2009,"Frank Matthews","MAC Freedom","18-21-0",0.462
-"16",2008,"Frank Matthews","MAC Freedom","26-14-0",0.65
-"17",2007,"Frank Matthews","MAC Freedom","24-13-0",0.649
-"18",2006,"Frank Matthews","MAC Freedom","26-15-0",0.634
-"19",2005,"Frank Matthews","MAC Freedom","27-13-0",0.675
-"20",2004,"Frank Matthews","MAC Freedom","17-20-0",0.459
-"21",2003,"Frank Matthews","MAC Freedom","11-14-0",0.44
-"22",2002,"Frank Matthews","MAC Freedom","21-19-0",0.525
-"23",2001,"","-","0-0-0",NA
-"24",2000,"Tom Dunsmuir","-","28-11-0",0.718
-"25",1999,"Kevin Vrabel","-","29-8-0",0.784
-"26",1998,"Kevin Vrabel","-","21-14-0",0.6
-"27",1997,"Kevin Vrabel","-","25-14-0",0.641
-"28",1996,"Kevin Vrabel","-","12-12-0",0.5
-"29",1995,"Kevin Vrabel","-","15-9-0",0.625
-"30",1994,"Addy Malatesta","-","17-6-0",0.739
-"31",1993,"Addy Malatesta","-","3-12-0",0.2
-"32",1992,"Addy Malatesta","-","14-12-0",0.538
-"33",1991,"Addy Malatesta","-","13-11-0",0.542
-"34",1990,"Addy Malatesta","-","13-11-1",0.542
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Jackie Klahold","Landmark","22-15-0",0.595
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wilkes","784","2025","Jackie Klahold","D-III","Landmark",0,0,0,0
+"2","Wilkes","784","2024","Jackie Klahold","D-III","Landmark",21,15,0,0.583
+"3","Wilkes","784","2023","Jackie Klahold","D-III","MAC Freedom",18,18,0,0.5
+"4","Wilkes","784","2022","Jackie Klahold","D-III","MAC Freedom",14,16,0,0.467
+"5","Wilkes","784","2021","Jackie Klahold","D-III","MAC Freedom",5,17,0,0.227
+"6","Wilkes","784","2020","Jackie Klahold","D-III","MAC Freedom",8,5,0,0.615
+"7","Wilkes","784","2019","Sarah Maulorico","D-III","MAC Freedom",26,16,0,0.619
+"8","Wilkes","784","2018","Sarah Maulorico","D-III","MAC Freedom",23,15,NA,0.605
+"9","Wilkes","784","2017","Sarah Maulorico","D-III","MAC Freedom",24,16,0,0.6
+"10","Wilkes","784","2016","Sarah Maulorico","D-III","MAC Freedom",13,23,0,0.361
+"11","Wilkes","784","2015","Frank Matthews","D-III","MAC Freedom",13,20,0,0.394
+"12","Wilkes","784","2014","Frank Matthews","D-III","MAC Freedom",14,24,0,0.368
+"13","Wilkes","784","2013","Frank Matthews","D-III","MAC Freedom",17,23,0,0.425
+"14","Wilkes","784","2012","Frank Matthews","D-III","MAC Freedom",11,25,0,0.306
+"15","Wilkes","784","2011","Frank Matthews","D-III","MAC Freedom",7,25,0,0.219
+"16","Wilkes","784","2010","Frank Matthews","D-III","MAC Freedom",12,22,0,0.353
+"17","Wilkes","784","2009","Frank Matthews","D-III","MAC Freedom",18,21,0,0.462
+"18","Wilkes","784","2008","Frank Matthews","D-III","MAC Freedom",26,14,0,0.65
+"19","Wilkes","784","2007","Frank Matthews","D-III","MAC Freedom",24,13,0,0.649
+"20","Wilkes","784","2006","Frank Matthews","D-III","MAC Freedom",26,15,0,0.634
+"21","Wilkes","784","2005","Frank Matthews","D-III","MAC Freedom",27,13,0,0.675
+"22","Wilkes","784","2004","Frank Matthews","D-III","MAC Freedom",17,20,0,0.459
+"23","Wilkes","784","2003","Frank Matthews","D-III","MAC Freedom",11,14,0,0.44
+"24","Wilkes","784","2002","Frank Matthews","D-III","MAC Freedom",21,19,0,0.525
+"25","Wilkes","784","2001","","D-III","-",NA,NA,NA,NA
+"26","Wilkes","784","1900","Tom Dunsmuir","D-III","-",28,11,0,0.718
+"27","Wilkes","784","1999","Kevin Vrabel","D-III","-",29,8,NA,0.784
+"28","Wilkes","784","1998","Kevin Vrabel","D-III","-",21,14,NA,0.6
+"29","Wilkes","784","1997","Kevin Vrabel","D-III","-",25,14,NA,0.641
+"30","Wilkes","784","1996","Kevin Vrabel","D-III","-",12,12,NA,0.5
+"31","Wilkes","784","1995","Kevin Vrabel","D-III","-",15,9,NA,0.625
+"32","Wilkes","784","1994","Addy Malatesta","D-III","-",17,6,NA,0.739
+"33","Wilkes","784","1993","Addy Malatesta","D-III","-",3,12,NA,0.2
+"34","Wilkes","784","1992","Addy Malatesta","D-III","-",14,12,NA,0.538
+"35","Wilkes","784","1991","Addy Malatesta","D-III","-",13,11,NA,0.542
+"36","Wilkes","784","1990","Addy Malatesta","D-III","-",13,11,1,0.54
+"37","Wilkes","784","1989","","D-III","-",NA,NA,NA,NA
+"38","Wilkes","784","1988","","","-",NA,NA,NA,NA
+"39","Wilkes","784","1987","","","-",NA,NA,NA,NA
+"40","Wilkes","784","1986","","","-",NA,NA,NA,NA
+"41","Wilkes","784","1985","","","-",NA,NA,NA,NA
+"42","Wilkes","784","1984","","","-",NA,NA,NA,NA
+"43","Wilkes","784","1983","","","-",NA,NA,NA,NA
+"44","Wilkes","784","1982","","","-",NA,NA,NA,NA
+"45","Wilkes","784","","","","",586,529,1,0.526

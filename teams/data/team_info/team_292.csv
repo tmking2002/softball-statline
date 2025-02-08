@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ralph Moroni","CUNYAC","13-28-0",0.317
-"2",2022,"Ralph Moroni","CUNYAC","22-15-0",0.595
-"3",2021,"Ralph Moroni","CUNYAC","0-0-0",NA
-"4",2020,"Ralph Moroni","CUNYAC","0-2-0",0
-"5",2019,"Ralph Moroni","CUNYAC","20-12-0",0.625
-"6",2018,"Ralph Moroni","CUNYAC","20-17-0",0.541
-"7",2017,"Ralph Moroni","CUNYAC","15-16-0",0.484
-"8",2016,"Ralph Moroni","CUNYAC","16-18-0",0.471
-"9",2015,"Ralph Moroni","CUNYAC","24-10-0",0.706
-"10",2014,"Ralph Moroni","CUNYAC","15-23-0",0.395
-"11",2013,"Ralph Moroni","CUNYAC","15-28-0",0.349
-"12",2012,"Ralph Moroni","CUNYAC","14-28-0",0.333
-"13",2011,"Ralph Moroni","CUNYAC","22-16-2",0.579
-"14",2010,"Cagla Boz","CUNYAC","17-17-0",0.5
-"15",2009,"Cagla Boz","CUNYAC","19-23-0",0.452
-"16",2008,"Cagla Boz","CUNYAC","23-21-0",0.523
-"17",2007,"Cagla Boz","CUNYAC","17-13-0",0.567
-"18",2006,"Paula Petrocelli","CUNYAC","21-18-0",0.538
-"19",2005,"Betsy Hipple","CUNYAC","24-20-0",0.545
-"20",2004,"Betsy Hipple","CUNYAC","18-16-0",0.529
-"21",2003,"Betsy Hipple","CUNYAC","22-13-1",0.629
-"22",2002,"Betsy Hipple","CUNYAC","25-13-0",0.658
-"23",2001,"Betsy Hipple","-","19-16-0",0.543
-"24",2000,"Jackee Meadow (13-19)Arthur Smith (13-19)","-","13-19-0",0.406
-"25",1999,"Arthur Smith","-","15-14-0",0.517
-"26",1998,"Arthur Smith","-","10-19-0",0.345
-"27",1997,"Arthur Smith","-","20-13-0",0.606
-"28",1996,"Arthur Smith","-","15-12-0",0.556
-"29",1995,"Ralph Moroni","-","14-11-0",0.56
-"30",1994,"Ralph Moroni","-","17-11-0",0.607
-"31",1993,"Ralph Moroni","-","11-9-0",0.55
-"32",1992,"Ralph Moroni","-","12-7-0",0.632
-"33",1991,"Ralph Moroni","-","9-14-0",0.391
-"34",1990,"Brenda Meyers","-","22-3-0",0.88
-"35",1989,"Brenda Meyers","-","18-9-0",0.667
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1983,"","-","0-0-0",NA
-"41",2024,"Ralph Moroni","CUNYAC","15-21-0",0.417
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Hunter","292","2025","Mike Fisher","D-III","CUNYAC",0,0,0,0
+"2","Hunter","292","2024","Ralph Moroni","D-III","CUNYAC",15,21,0,0.417
+"3","Hunter","292","2023","Ralph Moroni","D-III","CUNYAC",13,28,0,0.317
+"4","Hunter","292","2022","Ralph Moroni","D-III","CUNYAC",22,15,0,0.595
+"5","Hunter","292","2021","Ralph Moroni","D-III","CUNYAC",0,0,0,0
+"6","Hunter","292","2020","Ralph Moroni","D-III","CUNYAC",0,2,0,0
+"7","Hunter","292","2019","Ralph Moroni","D-III","CUNYAC",20,12,0,0.625
+"8","Hunter","292","2018","Ralph Moroni","D-III","CUNYAC",20,17,NA,0.541
+"9","Hunter","292","2017","Ralph Moroni","D-III","CUNYAC",15,16,0,0.484
+"10","Hunter","292","2016","Ralph Moroni","D-III","CUNYAC",16,18,0,0.471
+"11","Hunter","292","2015","Ralph Moroni","D-III","CUNYAC",24,10,0,0.706
+"12","Hunter","292","2014","Ralph Moroni","D-III","CUNYAC",15,23,0,0.395
+"13","Hunter","292","2013","Ralph Moroni","D-III","CUNYAC",15,28,0,0.349
+"14","Hunter","292","2012","Ralph Moroni","D-III","CUNYAC",14,28,0,0.333
+"15","Hunter","292","2011","Ralph Moroni","D-III","CUNYAC",22,16,2,0.575
+"16","Hunter","292","2010","Cagla Boz","D-III","CUNYAC",17,17,0,0.5
+"17","Hunter","292","2009","Cagla Boz","D-III","CUNYAC",19,23,0,0.452
+"18","Hunter","292","2008","Cagla Boz","D-III","CUNYAC",23,21,0,0.523
+"19","Hunter","292","2007","Cagla Boz","D-III","CUNYAC",17,13,0,0.567
+"20","Hunter","292","2006","Paula Petrocelli","D-III","CUNYAC",21,18,0,0.538
+"21","Hunter","292","2005","Betsy Hipple","D-III","CUNYAC",24,20,0,0.545
+"22","Hunter","292","2004","Betsy Hipple","D-III","CUNYAC",18,16,0,0.529
+"23","Hunter","292","2003","Betsy Hipple","D-III","CUNYAC",22,13,1,0.625
+"24","Hunter","292","2002","Betsy Hipple","D-III","CUNYAC",25,13,0,0.658
+"25","Hunter","292","2001","Betsy Hipple","D-III","-",19,16,NA,0.543
+"26","Hunter","292","1900","Jackee Meadow (13-19)Arthur Smith (13-19)","D-III","-",13,19,NA,0.406
+"27","Hunter","292","1999","Arthur Smith","D-III","-",15,14,NA,0.517
+"28","Hunter","292","1998","Arthur Smith","D-III","-",10,19,NA,0.345
+"29","Hunter","292","1997","Arthur Smith","D-III","-",20,13,NA,0.606
+"30","Hunter","292","1996","Arthur Smith","D-III","-",15,12,NA,0.556
+"31","Hunter","292","1995","Ralph Moroni","D-III","-",14,11,NA,0.56
+"32","Hunter","292","1994","Ralph Moroni","D-III","-",17,11,NA,0.607
+"33","Hunter","292","1993","Ralph Moroni","D-III","-",11,9,NA,0.55
+"34","Hunter","292","1992","Ralph Moroni","D-III","-",12,7,NA,0.632
+"35","Hunter","292","1991","Ralph Moroni","D-III","-",9,14,NA,0.391
+"36","Hunter","292","1990","Brenda Meyers","D-III","-",22,3,NA,0.88
+"37","Hunter","292","1989","Brenda Meyers","D-III","-",18,9,NA,0.667
+"38","Hunter","292","1988","","D-III","-",NA,NA,NA,NA
+"39","Hunter","292","1987","","","-",NA,NA,NA,NA
+"40","Hunter","292","1986","","D-III","-",NA,NA,NA,NA
+"41","Hunter","292","1985","","D-III","-",NA,NA,NA,NA
+"42","Hunter","292","1983","","D-III","-",NA,NA,NA,NA
+"43","Hunter","292","","","","",592,545,3,0.521

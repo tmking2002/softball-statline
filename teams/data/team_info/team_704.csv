@@ -1,21 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","T.J. Hubbard","CUSA","11-34-0","0.244"
-"2","2022","T.J. Hubbard","CUSA","15-34-0","0.306"
-"3","2021","T.J. Hubbard","CUSA","11-26-0","0.297"
-"4","2020","T.J. Hubbard","CUSA","5-17-0","0.227"
-"5","2019","Tobin Echo-Hawk","CUSA","17-33-0","0.340"
-"6","2018","Tobin Echo-Hawk","CUSA","21-33-0","0.389"
-"7","2017","Tobin Echo-Hawk","CUSA","12-36-0","0.250"
-"8","2016","Tobin Echo-Hawk","CUSA","23-32-0","0.418"
-"9","2015","Tobin Echo-Hawk","CUSA","14-39-0","0.264"
-"10","2014","Tobin Echo-Hawk","CUSA","17-34-0","0.333"
-"11","2013","James Rodriguez","CUSA","13-35-0","0.271"
-"12","2012","James Rodriguez","CUSA","16-37-0","0.302"
-"13","2011","Kathleen Rodriguez","CUSA","16-37-1","0.302"
-"14","2010","Kathleen Rodriguez","CUSA","31-24-0","0.564"
-"15","2009","Kathleen Rodriguez","CUSA","27-29-1","0.482"
-"16","2008","Kathleen Rodriguez","CUSA","30-24-0","0.556"
-"17","2007","James Rodriguez (28-23)Kathleen Rodriguez (28-23)","CUSA","28-23-0","0.549"
-"18","2006","James Rodriguez (23-32)Kathleen Rodriguez (23-32)","CUSA","23-32-0","0.418"
-"19","2005","James Rodriguez (16-38)Kathleen Rodriguez (16-38)","WAC","16-38-0","0.296"
-"20","2004","Kathleen Rodriguez (8-46)James Rodriguez (8-46)","WAC","8-46-0","0.148"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UTEP","704","2025","T.J. Hubbard","D-I","CUSA",2,0,0,1
+"2","UTEP","704","2024","T.J. Hubbard","D-I","CUSA",26,21,0,0.553
+"3","UTEP","704","2023","T.J. Hubbard","D-I","CUSA",11,34,0,0.244
+"4","UTEP","704","2022","T.J. Hubbard","D-I","CUSA",15,34,0,0.306
+"5","UTEP","704","2021","T.J. Hubbard","D-I","CUSA",11,26,0,0.297
+"6","UTEP","704","2020","T.J. Hubbard","D-I","CUSA",5,17,0,0.227
+"7","UTEP","704","2019","Tobin Echo-Hawk","D-I","CUSA",17,33,0,0.34
+"8","UTEP","704","2018","Tobin Echo-Hawk","D-I","CUSA",21,33,NA,0.389
+"9","UTEP","704","2017","Tobin Echo-Hawk","D-I","CUSA",12,36,0,0.25
+"10","UTEP","704","2016","Tobin Echo-Hawk","D-I","CUSA",23,32,0,0.418
+"11","UTEP","704","2015","Tobin Echo-Hawk","D-I","CUSA",14,39,0,0.264
+"12","UTEP","704","2014","Tobin Echo-Hawk","D-I","CUSA",17,34,0,0.333
+"13","UTEP","704","2013","James Rodriguez","D-I","CUSA",13,35,0,0.271
+"14","UTEP","704","2012","James Rodriguez","D-I","CUSA",16,37,0,0.302
+"15","UTEP","704","2011","Kathleen Rodriguez","D-I","CUSA",16,37,1,0.306
+"16","UTEP","704","2010","Kathleen Rodriguez","D-I","CUSA",31,24,0,0.564
+"17","UTEP","704","2009","Kathleen Rodriguez","D-I","CUSA",27,29,1,0.482
+"18","UTEP","704","2008","Kathleen Rodriguez","D-I","CUSA",30,24,0,0.556
+"19","UTEP","704","2007","James Rodriguez (28-23)Kathleen Rodriguez (28-23)","D-I","CUSA",28,23,0,0.549
+"20","UTEP","704","2006","James Rodriguez (23-32)Kathleen Rodriguez (23-32)","D-I","CUSA",23,32,0,0.418
+"21","UTEP","704","2005","James Rodriguez (16-38)Kathleen Rodriguez (16-38)","D-I","WAC",16,38,0,0.296
+"22","UTEP","704","2004","Kathleen Rodriguez (8-46)James Rodriguez (8-46)","D-I","WAC",8,46,0,0.148
+"23","UTEP","704","","","","",382,664,2,0.365

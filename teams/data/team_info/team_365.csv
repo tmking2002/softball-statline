@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Beth Torina","SEC","42-17-0",0.712
-"2",2022,"Beth Torina","SEC","34-23-0",0.596
-"3",2021,"Beth Torina","SEC","35-22-0",0.614
-"4",2020,"Beth Torina","SEC","21-3-0",0.875
-"5",2019,"Beth Torina","SEC","43-19-0",0.694
-"6",2018,"Beth Torina","SEC","45-17-0",0.726
-"7",2017,"Beth Torina","SEC","48-22-0",0.686
-"8",2016,"Beth Torina","SEC","52-18-0",0.743
-"9",2015,"Beth Torina","SEC","52-14-0",0.788
-"10",2014,"Beth Torina","SEC","38-24-0",0.613
-"11",2013,"Beth Torina","SEC","42-16-0",0.724
-"12",2012,"Beth Torina","SEC","40-25-0",0.615
-"13",2011,"Yvette Girouard","SEC","40-18-0",0.69
-"14",2010,"Yvette Girouard","SEC","45-16-0",0.738
-"15",2009,"Yvette Girouard","SEC","34-18-1",0.654
-"16",2008,"Yvette Girouard","SEC","44-18-0",0.71
-"17",2007,"Yvette Girouard","SEC","55-12-0",0.821
-"18",2006,"Yvette Girouard","SEC","55-14-0",0.797
-"19",2005,"Yvette Girouard","SEC","31-23-0",0.574
-"20",2004,"Yvette Girouard","SEC","57-12-0",0.826
-"21",2003,"Yvette Girouard","SEC","50-18-0",0.735
-"22",2002,"Yvette Girouard","SEC","56-11-0",0.836
-"23",2001,"Yvette Girouard","SEC","59-11-0",0.843
-"24",2000,"Glenn Moore","SEC","59-13-0",0.819
-"25",1999,"Glenn Moore","SEC","56-10-0",0.848
-"26",1998,"Cathy Compton (56-12)Glenn Moore (2-2)","-","0-0-0",NA
-"27",1997,"Cathy Compton","SEC","44-14-0",0.759
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",2024,"Beth Torina","SEC","43-17-0",0.717
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","LSU","365","2025","Beth Torina","D-I","SEC",0,0,0,0
+"2","LSU","365","2024","Beth Torina","D-I","SEC",44,17,0,0.721
+"3","LSU","365","2023","Beth Torina","D-I","SEC",42,17,0,0.712
+"4","LSU","365","2022","Beth Torina","D-I","SEC",34,23,0,0.596
+"5","LSU","365","2021","Beth Torina","D-I","SEC",35,22,0,0.614
+"6","LSU","365","2020","Beth Torina","D-I","SEC",21,3,0,0.875
+"7","LSU","365","2019","Beth Torina","D-I","SEC",43,19,0,0.694
+"8","LSU","365","2018","Beth Torina","D-I","SEC",45,17,0,0.726
+"9","LSU","365","2017","Beth Torina","D-I","SEC",48,22,0,0.686
+"10","LSU","365","2016","Beth Torina","D-I","SEC",52,18,0,0.743
+"11","LSU","365","2015","Beth Torina","D-I","SEC",52,14,0,0.788
+"12","LSU","365","2014","Beth Torina","D-I","SEC",38,24,0,0.613
+"13","LSU","365","2013","Beth Torina","D-I","SEC",42,16,0,0.724
+"14","LSU","365","2012","Beth Torina","D-I","SEC",40,25,0,0.615
+"15","LSU","365","2011","Yvette Girouard","D-I","SEC",40,18,0,0.69
+"16","LSU","365","2010","Yvette Girouard","D-I","SEC",45,16,0,0.738
+"17","LSU","365","2009","Yvette Girouard","D-I","SEC",34,18,1,0.651
+"18","LSU","365","2008","Yvette Girouard","D-I","SEC",44,18,0,0.71
+"19","LSU","365","2007","Yvette Girouard","D-I","SEC",55,12,0,0.821
+"20","LSU","365","2006","Yvette Girouard","D-I","SEC",55,14,0,0.797
+"21","LSU","365","2005","Yvette Girouard","D-I","SEC",31,23,0,0.574
+"22","LSU","365","2004","Yvette Girouard","D-I","SEC",57,12,0,0.826
+"23","LSU","365","2003","Yvette Girouard","D-I","SEC",50,18,0,0.735
+"24","LSU","365","2002","Yvette Girouard","D-I","SEC",56,11,0,0.836
+"25","LSU","365","2001","Yvette Girouard","D-I","SEC",59,11,0,0.843
+"26","LSU","365","1900","Glenn Moore","D-I","SEC",59,13,0,0.819
+"27","LSU","365","1999","Glenn Moore","D-I","SEC",56,10,0,0.848
+"28","LSU","365","1998","Cathy Compton (56-12)Glenn Moore (2-2)","D-I","-",NA,NA,NA,NA
+"29","LSU","365","1997","Cathy Compton","D-I","SEC",44,14,0,0.759
+"30","LSU","365","1996","","D-I","-",NA,NA,NA,NA
+"31","LSU","365","1995","","D-I","-",NA,NA,NA,NA
+"32","LSU","365","1994","","D-I","-",NA,NA,NA,NA
+"33","LSU","365","1993","","D-I","-",NA,NA,NA,NA
+"34","LSU","365","1992","","D-I","-",NA,NA,NA,NA
+"35","LSU","365","1991","","D-I","-",NA,NA,NA,NA
+"36","LSU","365","1990","","D-I","-",NA,NA,NA,NA
+"37","LSU","365","1989","","D-I","-",NA,NA,NA,NA
+"38","LSU","365","1988","","D-I","-",NA,NA,NA,NA
+"39","LSU","365","1987","","D-I","-",NA,NA,NA,NA
+"40","LSU","365","","","","",1221,445,1,0.733

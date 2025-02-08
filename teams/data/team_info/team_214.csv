@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Phil McElroy","NEWMAC","18-18-0",0.5
-"2",2022,"Phil McElroy","NEWMAC","17-19-0",0.472
-"3",2021,"Phil McElroy","NEWMAC","0-8-0",0
-"4",2020,"Phil McElroy","NEWMAC","0-9-0",0
-"5",2019,"Phil McElroy","NEWMAC","20-20-0",0.5
-"6",2018,"Phil McElroy","NEWMAC","20-14-0",0.588
-"7",2017,"Phil McElroy","NEWMAC","7-26-0",0.212
-"8",2016,"Phil McElroy","NEWMAC","12-24-0",0.333
-"9",2015,"Phil McElroy","NEWMAC","14-18-0",0.438
-"10",2014,"Phil McElroy","NEWMAC","13-23-0",0.361
-"11",2013,"Phil McElroy","Great Northeast","22-15-0",0.595
-"12",2012,"Phil McElroy","Great Northeast","32-9-0",0.78
-"13",2011,"Phil McElroy","Great Northeast","26-12-0",0.684
-"14",2010,"Phil McElroy","Great Northeast","28-13-0",0.683
-"15",2009,"Phil McElroy","Great Northeast","33-11-0",0.75
-"16",2008,"Phil McElroy","Great Northeast","23-17-0",0.575
-"17",2007,"Phil McElroy","Great Northeast","24-18-0",0.571
-"18",2006,"Phil McElroy","Great Northeast","34-8-0",0.81
-"19",2005,"Phil McElroy","Great Northeast","27-13-0",0.675
-"20",2004,"Phil McElroy","Great Northeast","13-15-0",0.464
-"21",2003,"Phil McElroy","-","25-16-0",0.61
-"22",2002,"Phil McElroy","Great Northeast","21-10-0",0.677
-"23",2001,"Phil McElroy","-","22-13-0",0.629
-"24",2000,"Phil McElroy","-","23-17-0",0.575
-"25",1999,"John Hoffman","-","30-10-0",0.75
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1981,"","-","0-0-0",NA
-"36",2024,"Phil McElroy","NEWMAC","14-20-0",0.412
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Emerson","214","2025","Phil McElroy","D-III","NEWMAC",0,0,0,0
+"2","Emerson","214","2024","Phil McElroy","D-III","NEWMAC",14,20,0,0.412
+"3","Emerson","214","2023","Phil McElroy","D-III","NEWMAC",18,18,0,0.5
+"4","Emerson","214","2022","Phil McElroy","D-III","NEWMAC",17,19,0,0.472
+"5","Emerson","214","2021","Phil McElroy","D-III","NEWMAC",0,8,0,0
+"6","Emerson","214","2020","Phil McElroy","D-III","NEWMAC",0,9,0,0
+"7","Emerson","214","2019","Phil McElroy","D-III","NEWMAC",20,20,0,0.5
+"8","Emerson","214","2018","Phil McElroy","D-III","NEWMAC",20,14,NA,0.588
+"9","Emerson","214","2017","Phil McElroy","D-III","NEWMAC",7,26,0,0.212
+"10","Emerson","214","2016","Phil McElroy","D-III","NEWMAC",12,24,0,0.333
+"11","Emerson","214","2015","Phil McElroy","D-III","NEWMAC",14,18,0,0.438
+"12","Emerson","214","2014","Phil McElroy","D-III","NEWMAC",13,23,0,0.361
+"13","Emerson","214","2013","Phil McElroy","D-III","Great Northeast",22,15,0,0.595
+"14","Emerson","214","2012","Phil McElroy","D-III","Great Northeast",32,9,0,0.78
+"15","Emerson","214","2011","Phil McElroy","D-III","Great Northeast",26,12,0,0.684
+"16","Emerson","214","2010","Phil McElroy","D-III","Great Northeast",28,13,0,0.683
+"17","Emerson","214","2009","Phil McElroy","D-III","Great Northeast",33,11,0,0.75
+"18","Emerson","214","2008","Phil McElroy","D-III","Great Northeast",23,17,0,0.575
+"19","Emerson","214","2007","Phil McElroy","D-III","Great Northeast",24,18,0,0.571
+"20","Emerson","214","2006","Phil McElroy","D-III","Great Northeast",34,8,0,0.81
+"21","Emerson","214","2005","Phil McElroy","D-III","Great Northeast",27,13,0,0.675
+"22","Emerson","214","2004","Phil McElroy","D-III","Great Northeast",13,15,0,0.464
+"23","Emerson","214","2003","Phil McElroy","D-III","-",25,16,NA,0.61
+"24","Emerson","214","2002","Phil McElroy","D-III","Great Northeast",21,10,0,0.677
+"25","Emerson","214","2001","Phil McElroy","D-III","-",22,13,NA,0.629
+"26","Emerson","214","1900","Phil McElroy","D-III","-",23,17,0,0.575
+"27","Emerson","214","1999","John Hoffman","D-III","-",30,10,NA,0.75
+"28","Emerson","214","1998","","D-III","-",NA,NA,NA,NA
+"29","Emerson","214","1997","","D-III","-",NA,NA,NA,NA
+"30","Emerson","214","1996","","D-III","-",NA,NA,NA,NA
+"31","Emerson","214","1995","","D-III","-",NA,NA,NA,NA
+"32","Emerson","214","1994","","D-III","-",NA,NA,NA,NA
+"33","Emerson","214","1993","","D-III","-",NA,NA,NA,NA
+"34","Emerson","214","1992","","D-III","-",NA,NA,NA,NA
+"35","Emerson","214","1991","","D-III","-",NA,NA,NA,NA
+"36","Emerson","214","1990","","D-III","-",NA,NA,NA,NA
+"37","Emerson","214","1981","","","-",NA,NA,NA,NA
+"38","Emerson","214","","","","",518,396,0,0.567

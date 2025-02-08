@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Joanna Hardin","ACC","30-22-0",0.577
-"2",2022,"Joanna Hardin","ACC","28-26-0",0.519
-"3",2021,"Joanna Hardin","ACC","15-33-0",0.312
-"4",2020,"Joanna Hardin","ACC","10-12-0",0.455
-"5",2019,"Joanna Hardin","ACC","22-31-0",0.415
-"6",2018,"Joanna Hardin","ACC","12-41-0",0.226
-"7",2017,"Joanna Hardin","ACC","22-32-0",0.407
-"8",2016,"Blake Miller","ACC","18-33-0",0.353
-"9",2015,"Blake Miller","ACC","16-40-0",0.286
-"10",2014,"Blake Miller","ACC","8-43-0",0.157
-"11",2013,"Eileen Schmidt","ACC","21-28-0",0.429
-"12",2012,"Eileen Schmidt","ACC","26-25-0",0.51
-"13",2011,"Eileen Schmidt","ACC","24-31-0",0.436
-"14",2010,"Eileen Schmidt","ACC","34-23-0",0.596
-"15",2009,"Eileen Schmidt","ACC","25-22-0",0.532
-"16",2008,"Eileen Schmidt","ACC","15-39-0",0.278
-"17",2007,"Karen Johns","ACC","17-39-0",0.304
-"18",2006,"Karen Johns","ACC","29-26-0",0.527
-"19",2005,"Cheryl Sprangel","ACC","31-32-0",0.492
-"20",2004,"Cheryl Sprangel","ACC","38-26-0",0.594
-"21",2003,"Cheryl Sprangel","ACC","37-26-0",0.587
-"22",2002,"Cheryl Sprangel","ACC","45-22-0",0.672
-"23",2001,"Cheryl Sprangel","ACC","52-17-0",0.754
-"24",2000,"Cheryl Sprangel","ACC","27-38-0",0.415
-"25",1999,"Cheryl Sprangel","ACC","35-26-0",0.574
-"26",1998,"Cheryl Sprangel","-","38-28-0",0.576
-"27",1997,"Peggy Kellers","ACC","17-16-0",0.515
-"28",1996,"Peggy Kellers","-","13-28-0",0.317
-"29",1995,"Peggy Kellers","-","28-23-0",0.549
-"30",1994,"Peggy Kellers","-","33-18-0",0.647
-"31",1993,"Peggy Kellers","-","32-12-0",0.727
-"32",1992,"Terry DeTuro","-","29-14-0",0.674
-"33",1991,"Terry DeTuro","-","28-19-0",0.596
-"34",1990,"Terry DeTuro","-","28-18-0",0.609
-"35",1989,"Terry DeTuro","-","42-12-0",0.778
-"36",1988,"Terry DeTuro","-","37-19-0",0.661
-"37",1987,"Terry DeTuro","-","18-20-1",0.474
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",2024,"Joanna Hardin","ACC","34-20-0",0.63
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Virginia","746","2025","Joanna Hardin","D-I","ACC",1,2,0,0.333
+"2","Virginia","746","2024","Joanna Hardin","D-I","ACC",34,20,0,0.63
+"3","Virginia","746","2023","Joanna Hardin","D-I","ACC",30,22,0,0.577
+"4","Virginia","746","2022","Joanna Hardin","D-I","ACC",28,26,0,0.519
+"5","Virginia","746","2021","Joanna Hardin","D-I","ACC",15,33,0,0.313
+"6","Virginia","746","2020","Joanna Hardin","D-I","ACC",10,12,0,0.455
+"7","Virginia","746","2019","Joanna Hardin","D-I","ACC",22,31,0,0.415
+"8","Virginia","746","2018","Joanna Hardin","D-I","ACC",12,41,NA,0.226
+"9","Virginia","746","2017","Joanna Hardin","D-I","ACC",22,32,0,0.407
+"10","Virginia","746","2016","Blake Miller","D-I","ACC",18,33,0,0.353
+"11","Virginia","746","2015","Blake Miller","D-I","ACC",16,40,0,0.286
+"12","Virginia","746","2014","Blake Miller","D-I","ACC",8,43,0,0.157
+"13","Virginia","746","2013","Eileen Schmidt","D-I","ACC",21,28,0,0.429
+"14","Virginia","746","2012","Eileen Schmidt","D-I","ACC",26,25,0,0.51
+"15","Virginia","746","2011","Eileen Schmidt","D-I","ACC",24,31,0,0.436
+"16","Virginia","746","2010","Eileen Schmidt","D-I","ACC",34,23,0,0.596
+"17","Virginia","746","2009","Eileen Schmidt","D-I","ACC",25,22,0,0.532
+"18","Virginia","746","2008","Eileen Schmidt","D-I","ACC",15,39,0,0.278
+"19","Virginia","746","2007","Karen Johns","D-I","ACC",17,39,0,0.304
+"20","Virginia","746","2006","Karen Johns","D-I","ACC",29,26,0,0.527
+"21","Virginia","746","2005","Cheryl Sprangel","D-I","ACC",31,32,0,0.492
+"22","Virginia","746","2004","Cheryl Sprangel","D-I","ACC",38,26,0,0.594
+"23","Virginia","746","2003","Cheryl Sprangel","D-I","ACC",37,26,0,0.587
+"24","Virginia","746","2002","Cheryl Sprangel","D-I","ACC",45,22,0,0.672
+"25","Virginia","746","2001","Cheryl Sprangel","D-I","ACC",52,17,0,0.754
+"26","Virginia","746","1900","Cheryl Sprangel","D-I","ACC",27,38,0,0.415
+"27","Virginia","746","1999","Cheryl Sprangel","D-I","ACC",35,26,0,0.574
+"28","Virginia","746","1998","Cheryl Sprangel","D-I","-",38,28,NA,0.576
+"29","Virginia","746","1997","Peggy Kellers","D-I","ACC",17,16,0,0.515
+"30","Virginia","746","1996","Peggy Kellers","D-I","-",13,28,NA,0.317
+"31","Virginia","746","1995","Peggy Kellers","D-I","-",28,23,NA,0.549
+"32","Virginia","746","1994","Peggy Kellers","D-I","-",33,18,NA,0.647
+"33","Virginia","746","1993","Peggy Kellers","D-I","-",32,12,NA,0.727
+"34","Virginia","746","1992","Terry DeTuro","D-I","-",29,14,NA,0.674
+"35","Virginia","746","1991","Terry DeTuro","D-I","-",28,19,NA,0.596
+"36","Virginia","746","1990","Terry DeTuro","D-I","-",28,18,NA,0.609
+"37","Virginia","746","1989","Terry DeTuro","D-I","-",42,12,NA,0.778
+"38","Virginia","746","1988","Terry DeTuro","D-I","-",37,19,NA,0.661
+"39","Virginia","746","1987","Terry DeTuro","D-I","-",18,20,1,0.474
+"40","Virginia","746","1986","","D-I","-",NA,NA,NA,NA
+"41","Virginia","746","1985","","D-I","-",NA,NA,NA,NA
+"42","Virginia","746","1984","","D-I","-",NA,NA,NA,NA
+"43","Virginia","746","1983","","D-I","-",NA,NA,NA,NA
+"44","Virginia","746","","","","",1015,982,1,0.508

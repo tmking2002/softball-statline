@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jenny Allard","Ivy League","29-17-1",0.63
-"2",2022,"Jenny Allard","Ivy League","22-20-0",0.524
-"3",2021,"Jenny Allard","Ivy League","0-0-0",NA
-"4",2020,"Jenny Allard","Ivy League","2-8-0",0.2
-"5",2019,"Jenny Allard","Ivy League","25-19-0",0.568
-"6",2018,"Jenny Allard","Ivy League","23-18-0",0.561
-"7",2017,"Jenny Allard","Ivy League","22-19-0",0.537
-"8",2016,"Jenny Allard","Ivy League","29-17-0",0.63
-"9",2015,"Jenny Allard","Ivy League","23-21-0",0.523
-"10",2014,"Jenny Allard","Ivy League","28-15-1",0.651
-"11",2013,"Jenny Allard","Ivy League","22-22-0",0.5
-"12",2012,"Jenny Allard","Ivy League","35-15-0",0.7
-"13",2011,"Jenny Allard","Ivy League","36-16-0",0.692
-"14",2010,"Jenny Allard","Ivy League","27-23-0",0.54
-"15",2009,"Jenny Allard","Ivy League","27-17-0",0.614
-"16",2008,"Jenny Allard","Ivy League","25-22-0",0.532
-"17",2007,"Jenny Allard","Ivy League","31-15-0",0.674
-"18",2006,"Jenny Allard","Ivy League","20-24-0",0.455
-"19",2005,"Jenny Allard","Ivy League","18-20-0",0.474
-"20",2004,"Jenny Allard","Ivy League","22-20-1",0.524
-"21",2003,"Jenny Allard","Ivy League","15-26-0",0.366
-"22",2002,"Jenny Allard","Ivy League","31-10-0",0.756
-"23",2001,"Jenny Allard","Ivy League","22-23-0",0.489
-"24",2000,"Jenny Allard","Ivy League","19-21-0",0.475
-"25",1999,"Jenny Allard","Ivy League","20-18-0",0.526
-"26",1998,"Jenny Allard","-","34-22-0",0.607
-"27",1997,"Jenny Allard","Ivy League","32-19-1",0.627
-"28",1996,"Jenny Allard","-","21-17-0",0.553
-"29",1995,"Jenny Allard","-","28-14-0",0.667
-"30",1994,"Barry Haskell","-","18-25-0",0.419
-"31",1993,"Barry Haskell","-","21-16-0",0.568
-"32",1992,"Barry Haskell","-","23-14-0",0.622
-"33",1991,"Barry Haskell","-","21-17-1",0.553
-"34",1990,"Barry Haskell","-","6-31-0",0.162
-"35",1989,"Barry Haskell","-","16-15-0",0.516
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",2024,"Jenny Rohn","Ivy League","27-17-0",0.614
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Harvard","275","2025","Jenny Rohn","D-I","Ivy League",0,0,0,0
+"2","Harvard","275","2024","Jenny Rohn","D-I","Ivy League",27,17,0,0.614
+"3","Harvard","275","2023","Jenny Allard","D-I","Ivy League",29,17,1,0.628
+"4","Harvard","275","2022","Jenny Allard","D-I","Ivy League",22,20,0,0.524
+"5","Harvard","275","2021","Jenny Allard","D-I","Ivy League",0,0,0,0
+"6","Harvard","275","2020","Jenny Allard","D-I","Ivy League",2,8,0,0.2
+"7","Harvard","275","2019","Jenny Allard","D-I","Ivy League",25,19,0,0.568
+"8","Harvard","275","2018","Jenny Allard","D-I","Ivy League",23,18,0,0.561
+"9","Harvard","275","2017","Jenny Allard","D-I","Ivy League",22,19,0,0.537
+"10","Harvard","275","2016","Jenny Allard","D-I","Ivy League",29,17,0,0.63
+"11","Harvard","275","2015","Jenny Allard","D-I","Ivy League",23,21,0,0.523
+"12","Harvard","275","2014","Jenny Allard","D-I","Ivy League",28,17,1,0.62
+"13","Harvard","275","2013","Jenny Allard","D-I","Ivy League",22,22,0,0.5
+"14","Harvard","275","2012","Jenny Allard","D-I","Ivy League",35,15,0,0.7
+"15","Harvard","275","2011","Jenny Allard","D-I","Ivy League",36,16,0,0.692
+"16","Harvard","275","2010","Jenny Allard","D-I","Ivy League",27,23,0,0.54
+"17","Harvard","275","2009","Jenny Allard","D-I","Ivy League",27,17,0,0.614
+"18","Harvard","275","2008","Jenny Allard","D-I","Ivy League",25,22,0,0.532
+"19","Harvard","275","2007","Jenny Allard","D-I","Ivy League",31,15,0,0.674
+"20","Harvard","275","2006","Jenny Allard","D-I","Ivy League",20,24,0,0.455
+"21","Harvard","275","2005","Jenny Allard","D-I","Ivy League",18,20,0,0.474
+"22","Harvard","275","2004","Jenny Allard","D-I","Ivy League",22,20,1,0.523
+"23","Harvard","275","2003","Jenny Allard","D-I","Ivy League",15,26,0,0.366
+"24","Harvard","275","2002","Jenny Allard","D-I","Ivy League",31,10,0,0.756
+"25","Harvard","275","2001","Jenny Allard","D-I","Ivy League",22,23,0,0.489
+"26","Harvard","275","1900","Jenny Allard","D-I","Ivy League",19,21,0,0.475
+"27","Harvard","275","1999","Jenny Allard","D-I","Ivy League",20,18,0,0.526
+"28","Harvard","275","1998","Jenny Allard","D-I","-",34,22,0,0.607
+"29","Harvard","275","1997","Jenny Allard","D-I","Ivy League",32,19,1,0.625
+"30","Harvard","275","1996","Jenny Allard","D-I","-",21,17,0,0.553
+"31","Harvard","275","1995","Jenny Allard","D-I","-",28,14,0,0.667
+"32","Harvard","275","1994","Barry Haskell","D-I","-",18,25,NA,0.419
+"33","Harvard","275","1993","Barry Haskell","D-I","-",21,16,NA,0.568
+"34","Harvard","275","1992","Barry Haskell","D-I","-",23,14,NA,0.622
+"35","Harvard","275","1991","Barry Haskell","D-I","-",21,17,1,0.551
+"36","Harvard","275","1990","Barry Haskell","D-I","-",6,31,NA,0.162
+"37","Harvard","275","1989","Barry Haskell","D-I","-",16,15,NA,0.516
+"38","Harvard","275","1988","","D-I","-",NA,NA,NA,NA
+"39","Harvard","275","1987","","D-I","-",NA,NA,NA,NA
+"40","Harvard","275","1986","","D-I","-",NA,NA,NA,NA
+"41","Harvard","275","1985","","D-I","-",NA,NA,NA,NA
+"42","Harvard","275","1984","","D-I","-",NA,NA,NA,NA
+"43","Harvard","275","","","","",820,655,5,0.556

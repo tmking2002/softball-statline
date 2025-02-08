@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jill Gagnon","NE10","26-15-1",0.634
-"2",2022,"Jill Gagnon","NE10","28-17-0",0.622
-"3",2021,"Jill Gagnon","NE10","33-7-0",0.825
-"4",2020,"Jill Gagnon","NE10","16-4-0",0.8
-"5",2019,"Jill Gagnon","NE10","41-10-0",0.804
-"6",2018,"Jill Gagnon","NE10","44-13-1",0.772
-"7",2017,"Jill Gagnon","NE10","18-16-0",0.529
-"8",2016,"Jill Gagnon","NE10","12-26-0",0.316
-"9",2015,"Jill Gagnon","NE10","23-14-0",0.622
-"10",2014,"Jill Gagnon","NE10","27-14-0",0.659
-"11",2013,"Shawna Bellaud","NE10","22-21-0",0.512
-"12",2012,"Greg Joseph","NE10","19-27-0",0.413
-"13",2011,"Greg Joseph","NE10","20-23-0",0.465
-"14",2010,"Greg Joseph","NE10","18-26-0",0.409
-"15",2009,"Greg Joseph","NE10","18-25-1",0.419
-"16",2008,"Greg Joseph","NE10","21-18-0",0.538
-"17",2007,"Greg Joseph","NE10","13-26-0",0.333
-"18",2006,"Greg Joseph","NE10","14-28-0",0.333
-"19",2005,"Greg Joseph","NE10","16-21-0",0.432
-"20",2004,"Don Huot","NE10","16-25-0",0.39
-"21",2003,"Don Huot","NE10","23-21-0",0.523
-"22",2002,"Guy Petell","NE10","27-15-0",0.643
-"23",2001,"Guy Petell","-","27-16-0",0.628
-"24",2000,"Melissa Pfefferle","-","28-17-0",0.622
-"25",1999,"Melissa Pfefferle","-","32-13-0",0.711
-"26",1998,"Melissa Pfefferle","-","12-19-2",0.387
-"27",1997,"Bill Vermette","-","33-9-0",0.786
-"28",1996,"Bill Vermette","-","29-14-0",0.674
-"29",1995,"Bill Vermette","-","19-23-0",0.452
-"30",1994,"Bill Vermette","-","21-12-0",0.636
-"31",1993,"Bill Vermette","-","15-7-0",0.682
-"32",1992,"Bill Vermette","-","14-14-0",0.5
-"33",1991,"Bill Vermette","-","13-13-0",0.5
-"34",1990,"Bill Vermette","-","7-21-0",0.25
-"35",1989,"Bill Vermette","-","4-20-0",0.167
-"36",1988,"Bill Vermette","-","6-18-0",0.25
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Jill Gagnon","NE10","18-21-0",0.462
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","St. Anselm","593","2025","Jill Gagnon","D-II","NE10",0,0,0,0
+"2","St. Anselm","593","2024","Jill Gagnon","D-II","NE10",25,24,0,0.51
+"3","St. Anselm","593","2023","Jill Gagnon","D-II","NE10",26,15,1,0.631
+"4","St. Anselm","593","2022","Jill Gagnon","D-II","NE10",28,17,0,0.622
+"5","St. Anselm","593","2021","Jill Gagnon","D-II","NE10",33,7,0,0.825
+"6","St. Anselm","593","2020","Jill Gagnon","D-II","NE10",16,4,0,0.8
+"7","St. Anselm","593","2019","Jill Gagnon","D-II","NE10",41,10,0,0.804
+"8","St. Anselm","593","2018","Jill Gagnon","D-II","NE10",44,13,1,0.767
+"9","St. Anselm","593","2017","Jill Gagnon","D-II","NE10",18,16,0,0.529
+"10","St. Anselm","593","2016","Jill Gagnon","D-II","NE10",12,26,0,0.316
+"11","St. Anselm","593","2015","Jill Gagnon","D-II","NE10",23,14,0,0.622
+"12","St. Anselm","593","2014","Jill Gagnon","D-II","NE10",27,14,0,0.659
+"13","St. Anselm","593","2013","Shawna Bellaud","D-II","NE10",22,21,0,0.512
+"14","St. Anselm","593","2012","Greg Joseph","D-II","NE10",19,27,0,0.413
+"15","St. Anselm","593","2011","Greg Joseph","D-II","NE10",20,23,0,0.465
+"16","St. Anselm","593","2010","Greg Joseph","D-II","NE10",18,26,0,0.409
+"17","St. Anselm","593","2009","Greg Joseph","D-II","NE10",18,25,1,0.42
+"18","St. Anselm","593","2008","Greg Joseph","D-II","NE10",21,18,0,0.538
+"19","St. Anselm","593","2007","Greg Joseph","D-II","NE10",13,26,0,0.333
+"20","St. Anselm","593","2006","Greg Joseph","D-II","NE10",14,28,0,0.333
+"21","St. Anselm","593","2005","Greg Joseph","D-II","NE10",16,21,0,0.432
+"22","St. Anselm","593","2004","Don Huot","D-II","NE10",16,25,0,0.39
+"23","St. Anselm","593","2003","Don Huot","D-II","NE10",23,21,0,0.523
+"24","St. Anselm","593","2002","Guy Petell","D-II","NE10",27,15,0,0.643
+"25","St. Anselm","593","2001","Guy Petell","D-II","-",27,16,0,0.628
+"26","St. Anselm","593","1900","Melissa Pfefferle","D-II","-",28,17,0,0.622
+"27","St. Anselm","593","1999","Melissa Pfefferle","D-II","-",32,13,0,0.711
+"28","St. Anselm","593","1998","Melissa Pfefferle","D-II","-",12,19,2,0.394
+"29","St. Anselm","593","1997","Bill Vermette","D-II","-",33,9,0,0.786
+"30","St. Anselm","593","1996","Bill Vermette","D-II","-",29,14,0,0.674
+"31","St. Anselm","593","1995","Bill Vermette","D-II","-",19,23,0,0.452
+"32","St. Anselm","593","1994","Bill Vermette","D-II","-",21,12,0,0.636
+"33","St. Anselm","593","1993","Bill Vermette","D-II","-",15,7,0,0.682
+"34","St. Anselm","593","1992","Bill Vermette","D-II","-",14,14,0,0.5
+"35","St. Anselm","593","1991","Bill Vermette","D-II","-",13,13,0,0.5
+"36","St. Anselm","593","1990","Bill Vermette","D-II","-",7,21,0,0.25
+"37","St. Anselm","593","1989","Bill Vermette","D-II","-",4,20,0,0.167
+"38","St. Anselm","593","1988","Bill Vermette","D-II","-",6,18,0,0.25
+"39","St. Anselm","593","1987","","D-II","-",NA,NA,NA,NA
+"40","St. Anselm","593","1986","","D-II","-",NA,NA,NA,NA
+"41","St. Anselm","593","1985","","D-II","-",NA,NA,NA,NA
+"42","St. Anselm","593","1984","","D-II","-",NA,NA,NA,NA
+"43","St. Anselm","593","1983","","D-II","-",NA,NA,NA,NA
+"44","St. Anselm","593","1982","","D-II","-",NA,NA,NA,NA
+"45","St. Anselm","593","","","","",780,652,5,0.545

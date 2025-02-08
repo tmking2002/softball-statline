@@ -1,30 +1,33 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Cheryl Milligan","SoCon","17-37-0","0.315"
-"2","2022","Belinda Hendrix","SoCon","8-48-0","0.143"
-"3","2021","Brad Irwin","SoCon","15-22-0","0.405"
-"4","2020","Brad Irwin","SoCon","9-13-0","0.409"
-"5","2019","Brad Irwin","SoCon","22-27-2","0.449"
-"6","2018","Brad Irwin","SoCon","19-27-0","0.413"
-"7","2017","Brad Irwin","SoCon","29-26-0","0.527"
-"8","2016","Brad Irwin","SoCon","20-22-0","0.476"
-"9","2015","Brad Irwin","SoCon","15-33-0","0.312"
-"10","2014","Brad Irwin","ASUN","20-32-0","0.385"
-"11","2013","Brad Irwin","ASUN","13-34-0","0.277"
-"12","2012","Brad Irwin","ASUN","11-38-0","0.224"
-"13","2011","Brad Irwin","ASUN","15-33-0","0.312"
-"14","2010","Andrea Mangrum","ASUN","21-35-0","0.375"
-"15","2009","Andrea Mangrum","ASUN","27-28-0","0.491"
-"16","2008","Andrea Mangrum","ASUN","30-33-0","0.476"
-"17","2007","Andrea Mangrum","ASUN","26-29-0","0.473"
-"18","2006","Andrea Mangrum","ASUN","22-36-0","0.379"
-"19","2005","Amy Fuller","SoCon","25-33-0","0.431"
-"20","2004","Amy Fuller","SoCon","29-34-0","0.460"
-"21","2003","Amy Fuller","SoCon","28-26-0","0.519"
-"22","2002","Stephanie DeFeo","SoCon","25-32-0","0.439"
-"23","2001","Stephanie DeFeo","SoCon","14-35-0","0.286"
-"24","2000","Stephanie DeFeo","-","0-0-0","  NaN"
-"25","1999","","-","0-0-0","  NaN"
-"26","1998","","-","0-0-0","  NaN"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","ETSU","198","2025","Cheryl Milligan","D-I","SoCon",0,0,0,0
+"2","ETSU","198","2024","Cheryl Milligan","D-I","SoCon",11,39,0,0.22
+"3","ETSU","198","2023","Cheryl Milligan","D-I","SoCon",17,37,0,0.315
+"4","ETSU","198","2022","Belinda Hendrix","D-I","SoCon",8,48,0,0.143
+"5","ETSU","198","2021","Brad Irwin","D-I","SoCon",15,22,0,0.405
+"6","ETSU","198","2020","Brad Irwin","D-I","SoCon",9,13,0,0.409
+"7","ETSU","198","2019","Brad Irwin","D-I","SoCon",22,27,2,0.451
+"8","ETSU","198","2018","Brad Irwin","D-I","SoCon",19,27,NA,0.413
+"9","ETSU","198","2017","Brad Irwin","D-I","SoCon",29,26,0,0.527
+"10","ETSU","198","2016","Brad Irwin","D-I","SoCon",20,22,0,0.476
+"11","ETSU","198","2015","Brad Irwin","D-I","SoCon",15,33,0,0.313
+"12","ETSU","198","2014","Brad Irwin","D-I","ASUN",26,48,2,0.355
+"13","ETSU","198","2013","Brad Irwin","D-I","ASUN",13,34,0,0.277
+"14","ETSU","198","2012","Brad Irwin","D-I","ASUN",11,38,0,0.224
+"15","ETSU","198","2011","Brad Irwin","D-I","ASUN",15,33,0,0.313
+"16","ETSU","198","2010","Andrea Mangrum","D-I","ASUN",21,35,0,0.375
+"17","ETSU","198","2009","Andrea Mangrum","D-I","ASUN",27,28,0,0.491
+"18","ETSU","198","2008","Andrea Mangrum","D-I","ASUN",30,33,0,0.476
+"19","ETSU","198","2007","Andrea Mangrum","D-I","ASUN",26,29,0,0.473
+"20","ETSU","198","2006","Andrea Mangrum","D-I","ASUN",22,36,0,0.379
+"21","ETSU","198","2005","Amy Fuller","D-I","SoCon",25,33,0,0.431
+"22","ETSU","198","2004","Amy Fuller","D-I","SoCon",29,34,0,0.46
+"23","ETSU","198","2003","Amy Fuller","D-I","SoCon",28,26,0,0.519
+"24","ETSU","198","2002","Stephanie DeFeo","D-I","SoCon",25,32,0,0.439
+"25","ETSU","198","2001","Stephanie DeFeo","D-I","SoCon",14,35,0,0.286
+"26","ETSU","198","1900","Stephanie DeFeo","D-I","-",NA,NA,NA,NA
+"27","ETSU","198","1999","","D-I","-",NA,NA,NA,NA
+"28","ETSU","198","1998","","D-I","-",NA,NA,NA,NA
+"29","ETSU","198","1997","","D-I","-",NA,NA,NA,NA
+"30","ETSU","198","1996","","D-I","-",NA,NA,NA,NA
+"31","ETSU","198","1995","","D-I","-",NA,NA,NA,NA
+"32","ETSU","198","","","","",477,768,4,0.384

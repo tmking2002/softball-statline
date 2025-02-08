@@ -1,17 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2019",NA,"-","0-0-0",0
-"4","2018",NA,"-","0-0-0",0
-"5","2017",NA,"-","0-0-0",NA
-"6","2016",NA,"-","0-0-0",NA
-"7","2013",NA,"-","0-0-0",NA
-"8","2012",NA,"-","0-0-0",NA
-"9","2010",NA,"-","0-0-0",NA
-"10","2009",NA,"-","0-0-0",NA
-"11","2006",NA,"-","0-0-0",NA
-"12","2005",NA,"-","0-0-0",NA
-"13","2004",NA,"-","0-0-0",NA
-"14","2003",NA,"-","0-0-0",NA
-"15","2002",NA,"-","0-0-0",NA
-"16","1997",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Tenn. Southern","502981","2024",NA,NA,"-",NA,NA,NA,0
+"2","Tenn. Southern","502981","2023",NA,NA,"-",NA,NA,NA,0
+"3","Tenn. Southern","502981","2019",NA,NA,"-",NA,NA,NA,0
+"4","Tenn. Southern","502981","2018",NA,NA,"-",NA,NA,NA,0
+"5","Tenn. Southern","502981","2017",NA,NA,"-",NA,NA,NA,NA
+"6","Tenn. Southern","502981","2016",NA,NA,"-",NA,NA,NA,NA
+"7","Tenn. Southern","502981","2013",NA,NA,"-",NA,NA,NA,NA
+"8","Tenn. Southern","502981","2012",NA,NA,"-",NA,NA,NA,NA
+"9","Tenn. Southern","502981","2010",NA,NA,"-",NA,NA,NA,NA
+"10","Tenn. Southern","502981","2009",NA,NA,"-",NA,NA,NA,NA
+"11","Tenn. Southern","502981","2006",NA,NA,"-",NA,NA,NA,NA
+"12","Tenn. Southern","502981","2005",NA,NA,"-",NA,NA,NA,NA
+"13","Tenn. Southern","502981","2004",NA,NA,"-",NA,NA,NA,NA
+"14","Tenn. Southern","502981","2003",NA,NA,"-",NA,NA,NA,NA
+"15","Tenn. Southern","502981","2002",NA,NA,"-",NA,NA,NA,NA
+"16","Tenn. Southern","502981","1997",NA,NA,"-",NA,NA,NA,NA
+"17","Tenn. Southern","502981","",NA,NA,"",0,0,0,0

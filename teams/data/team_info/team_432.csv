@@ -1,28 +1,31 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Jimmy Buckner","SWAC","2-40-0","0.048"
-"2","2022","Jimmy Buckner","SWAC","11-26-0","0.297"
-"3","2021","Lee Smith","SWAC","4-21-0","0.160"
-"4","2020","Lee Smith","SWAC","5-16-0","0.238"
-"5","2019","Lee Smith","SWAC","9-30-0","0.231"
-"6","2018","Lee Smith","SWAC","14-31-0","0.311"
-"7","2017","Lee Smith","SWAC","13-33-0","0.283"
-"8","2016","Lee Smith","SWAC","15-29-0","0.341"
-"9","2015","Lee Smith","SWAC","15-34-0","0.306"
-"10","2014","Lee Smith","SWAC","14-35-0","0.286"
-"11","2013","Lee Smith","SWAC","25-30-0","0.455"
-"12","2012","Lee Smith","SWAC","34-19-0","0.642"
-"13","2011","Lee Smith","SWAC","26-25-0","0.510"
-"14","2010","Lee Smith","SWAC","27-23-0","0.540"
-"15","2009","Lee Smith","SWAC","38-16-0","0.704"
-"16","2008","Lee Smith","SWAC","28-29-0","0.491"
-"17","2007","Lee Smith","SWAC","29-28-0","0.509"
-"18","2006","Lee Smith","SWAC","23-30-0","0.434"
-"19","2005","Lee Smith","SWAC","34-31-0","0.523"
-"20","2004","Lee Smith","SWAC","34-17-0","0.667"
-"21","2003","Lee Smith","SWAC","25-23-0","0.521"
-"22","2002","Lee Smith","SWAC","2-33-0","0.057"
-"23","2001","Bernita Alexander","SWAC","11-23-0","0.324"
-"24","2000","Bernita Alexander","SWAC","1-33-0","0.029"
-"25","1999","Bernita Alexander","SWAC","10-25-0","0.286"
-"26","1998","Bernita Alexander","-","18-23-0","0.439"
-"27","1997","Bernita Alexander","SWAC","6-27-0","0.182"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mississippi Val.","432","2025","Taliyah Riddick-Waters","D-I","SWAC",0,0,0,0
+"2","Mississippi Val.","432","2024","Jimmy Buckner","D-I","SWAC",3,34,0,0.081
+"3","Mississippi Val.","432","2023","Jimmy Buckner","D-I","SWAC",2,40,0,0.048
+"4","Mississippi Val.","432","2022","Jimmy Buckner","D-I","SWAC",11,26,0,0.297
+"5","Mississippi Val.","432","2021","Lee Smith","D-I","SWAC",4,21,0,0.16
+"6","Mississippi Val.","432","2020","Lee Smith","D-I","SWAC",5,16,0,0.238
+"7","Mississippi Val.","432","2019","Lee Smith","D-I","SWAC",9,30,0,0.231
+"8","Mississippi Val.","432","2018","Lee Smith","D-I","SWAC",14,31,NA,0.311
+"9","Mississippi Val.","432","2017","Lee Smith","D-I","SWAC",13,33,0,0.283
+"10","Mississippi Val.","432","2016","Lee Smith","D-I","SWAC",15,29,0,0.341
+"11","Mississippi Val.","432","2015","Lee Smith","D-I","SWAC",15,34,0,0.306
+"12","Mississippi Val.","432","2014","Lee Smith","D-I","SWAC",14,35,0,0.286
+"13","Mississippi Val.","432","2013","Lee Smith","D-I","SWAC",25,30,0,0.455
+"14","Mississippi Val.","432","2012","Lee Smith","D-I","SWAC",34,19,0,0.642
+"15","Mississippi Val.","432","2011","Lee Smith","D-I","SWAC",26,25,0,0.51
+"16","Mississippi Val.","432","2010","Lee Smith","D-I","SWAC",27,23,0,0.54
+"17","Mississippi Val.","432","2009","Lee Smith","D-I","SWAC",38,16,0,0.704
+"18","Mississippi Val.","432","2008","Lee Smith","D-I","SWAC",28,29,0,0.491
+"19","Mississippi Val.","432","2007","Lee Smith","D-I","SWAC",29,28,0,0.509
+"20","Mississippi Val.","432","2006","Lee Smith","D-I","SWAC",23,30,0,0.434
+"21","Mississippi Val.","432","2005","Lee Smith","D-I","SWAC",34,31,0,0.523
+"22","Mississippi Val.","432","2004","Lee Smith","D-I","SWAC",34,17,0,0.667
+"23","Mississippi Val.","432","2003","Lee Smith","D-I","SWAC",25,23,0,0.521
+"24","Mississippi Val.","432","2002","Lee Smith","D-I","SWAC",2,33,0,0.057
+"25","Mississippi Val.","432","2001","Bernita Alexander","D-I","SWAC",11,23,0,0.324
+"26","Mississippi Val.","432","1900","Bernita Alexander","D-I","SWAC",1,33,0,0.029
+"27","Mississippi Val.","432","1999","Bernita Alexander","D-I","SWAC",10,25,0,0.286
+"28","Mississippi Val.","432","1998","Bernita Alexander","D-I","-",18,23,0,0.439
+"29","Mississippi Val.","432","1997","Bernita Alexander","D-I","SWAC",6,27,0,0.182
+"30","Mississippi Val.","432","","","","",476,764,0,0.384

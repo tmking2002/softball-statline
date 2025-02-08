@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Alex Lagesse","OAC","17-17-0",0.5
-"2",2022,"Nicole Loudin","OAC","14-15-2",0.483
-"3",2021,"Nicole Loudin","OAC","10-26-0",0.278
-"4",2020,"Nicole Loudin","OAC","5-5-0",0.5
-"5",2019,"Nicole Loudin","OAC","14-24-0",0.368
-"6",2018,"Nicole Loudin","OAC","15-18-0",0.455
-"7",2017,"Nicole Loudin","OAC","18-20-0",0.474
-"8",2016,"Nicole Loudin","OAC","17-17-0",0.5
-"9",2015,"Nicole Loudin","OAC","22-17-0",0.564
-"10",2014,"Nicole Loudin","OAC","19-18-0",0.514
-"11",2013,"Erin Brooks","OAC","26-13-0",0.667
-"12",2012,"Erin Brooks","OAC","31-15-0",0.674
-"13",2011,"Erin Brooks","OAC","26-14-0",0.65
-"14",2010,"Erin Brooks","OAC","26-15-0",0.634
-"15",2009,"Erin Brooks","OAC","28-11-0",0.718
-"16",2008,"Erin Brooks","OAC","17-21-0",0.447
-"17",2007,"Gretchen Weitbrecht","OAC","18-21-0",0.462
-"18",2006,"Gretchen Weitbrecht","OAC","19-21-0",0.475
-"19",2005,"Gretchen Weitbrecht","OAC","17-15-0",0.531
-"20",2004,"Gretchen Weitbrecht","OAC","21-15-0",0.583
-"21",2003,"Gretchen Weitbrecht","OAC","24-15-0",0.615
-"22",2002,"Gretchen Weitbrecht","-","0-0-0",NA
-"23",2001,"Gretchen Weitbrecht","-","17-21-0",0.447
-"24",2000,"Gretchen Weitbrecht","-","24-16-0",0.6
-"25",1999,"Gretchen Weitbrecht","-","11-28-0",0.282
-"26",1998,"Gretchen Weitbrecht","-","18-16-0",0.529
-"27",1997,"Gretchen Weitbrecht","-","17-18-0",0.486
-"28",1996,"Gretchen Weitbrecht","-","11-17-0",0.393
-"29",1995,"Gretchen Weitbrecht","-","14-19-1",0.424
-"30",1994,"Gretchen Weitbrecht","-","14-18-0",0.438
-"31",1993,"Gretchen Weitbrecht","-","8-24-0",0.25
-"32",1992,"Gretchen Weitbrecht","-","18-13-0",0.581
-"33",1991,"Gretchen Weitbrecht","-","14-14-0",0.5
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1981,"","-","0-0-0",NA
-"41",2024,"Alex Lagesse","OAC","6-29-0",0.171
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","John Carroll","320","2025","Tony Scibelli","D-III","OAC",0,0,0,0
+"2","John Carroll","320","2024","Alex Lagesse","D-III","OAC",6,29,0,0.171
+"3","John Carroll","320","2023","Alex Lagesse","D-III","OAC",17,17,0,0.5
+"4","John Carroll","320","2022","Nicole Loudin","D-III","OAC",14,15,2,0.484
+"5","John Carroll","320","2021","Nicole Loudin","D-III","OAC",10,26,0,0.278
+"6","John Carroll","320","2020","Nicole Loudin","D-III","OAC",5,5,0,0.5
+"7","John Carroll","320","2019","Nicole Loudin","D-III","OAC",14,24,0,0.368
+"8","John Carroll","320","2018","Nicole Loudin","D-III","OAC",15,18,NA,0.455
+"9","John Carroll","320","2017","Nicole Loudin","D-III","OAC",18,20,0,0.474
+"10","John Carroll","320","2016","Nicole Loudin","D-III","OAC",17,17,0,0.5
+"11","John Carroll","320","2015","Nicole Loudin","D-III","OAC",22,17,0,0.564
+"12","John Carroll","320","2014","Nicole Loudin","D-III","OAC",19,18,0,0.514
+"13","John Carroll","320","2013","Erin Brooks","D-III","OAC",26,13,0,0.667
+"14","John Carroll","320","2012","Erin Brooks","D-III","OAC",31,15,0,0.674
+"15","John Carroll","320","2011","Erin Brooks","D-III","OAC",26,14,0,0.65
+"16","John Carroll","320","2010","Erin Brooks","D-III","OAC",26,15,0,0.634
+"17","John Carroll","320","2009","Erin Brooks","D-III","OAC",28,11,0,0.718
+"18","John Carroll","320","2008","Erin Brooks","D-III","OAC",17,21,0,0.447
+"19","John Carroll","320","2007","Gretchen Weitbrecht","D-III","OAC",18,21,0,0.462
+"20","John Carroll","320","2006","Gretchen Weitbrecht","D-III","OAC",19,21,0,0.475
+"21","John Carroll","320","2005","Gretchen Weitbrecht","D-III","OAC",17,15,0,0.531
+"22","John Carroll","320","2004","Gretchen Weitbrecht","D-III","OAC",21,15,0,0.583
+"23","John Carroll","320","2003","Gretchen Weitbrecht","D-III","OAC",24,15,0,0.615
+"24","John Carroll","320","2002","Gretchen Weitbrecht","","-",NA,NA,NA,NA
+"25","John Carroll","320","2001","Gretchen Weitbrecht","D-III","-",17,21,NA,0.447
+"26","John Carroll","320","1900","Gretchen Weitbrecht","D-III","-",24,16,NA,0.6
+"27","John Carroll","320","1999","Gretchen Weitbrecht","D-III","-",11,28,NA,0.282
+"28","John Carroll","320","1998","Gretchen Weitbrecht","D-III","-",18,16,NA,0.529
+"29","John Carroll","320","1997","Gretchen Weitbrecht","D-III","-",17,18,NA,0.486
+"30","John Carroll","320","1996","Gretchen Weitbrecht","D-III","-",11,17,NA,0.393
+"31","John Carroll","320","1995","Gretchen Weitbrecht","D-III","-",14,19,1,0.426
+"32","John Carroll","320","1994","Gretchen Weitbrecht","D-III","-",14,18,NA,0.438
+"33","John Carroll","320","1993","Gretchen Weitbrecht","D-III","-",8,24,NA,0.25
+"34","John Carroll","320","1992","Gretchen Weitbrecht","D-III","-",18,13,NA,0.581
+"35","John Carroll","320","1991","Gretchen Weitbrecht","D-III","-",14,14,NA,0.5
+"36","John Carroll","320","1990","","D-III","-",NA,NA,NA,NA
+"37","John Carroll","320","1989","","D-III","-",NA,NA,NA,NA
+"38","John Carroll","320","1988","","D-III","-",NA,NA,NA,NA
+"39","John Carroll","320","1987","","D-III","-",NA,NA,NA,NA
+"40","John Carroll","320","1986","","D-III","-",NA,NA,NA,NA
+"41","John Carroll","320","1985","","D-III","-",NA,NA,NA,NA
+"42","John Carroll","320","1981","","","-",NA,NA,NA,NA
+"43","John Carroll","320","","","","",576,586,3,0.496

@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kelly Robichaud","Liberty League","27-12-1",0.692
-"2",2022,"Hannah Quintana","Liberty League","21-17-0",0.553
-"3",2021,"Hannah Quintana","Liberty League","25-8-0",0.758
-"4",2020,"Hannah Quintana","Liberty League","2-6-0",0.25
-"5",2019,"Deb Pallozzi","Liberty League","28-9-1",0.757
-"6",2018,"Deb Pallozzi","Liberty League","35-13-0",0.729
-"7",2017,"Deb Pallozzi","Empire 8","33-12-0",0.733
-"8",2016,"Deb Pallozzi","Empire 8","35-10-0",0.778
-"9",2015,"Deb Pallozzi","Empire 8","21-14-0",0.6
-"10",2014,"Deb Pallozzi","Empire 8","26-14-0",0.65
-"11",2013,"Deb Pallozzi","Empire 8","25-15-0",0.625
-"12",2012,"Deb Pallozzi","Empire 8","32-14-0",0.696
-"13",2011,"Deb Pallozzi","Empire 8","30-14-0",0.682
-"14",2010,"Deb Pallozzi","Empire 8","34-15-0",0.694
-"15",2009,"Deb Pallozzi","Empire 8","27-16-0",0.628
-"16",2008,"Deb Pallozzi","Empire 8","36-12-0",0.75
-"17",2007,"Deb Pallozzi","Empire 8","35-9-0",0.795
-"18",2006,"Deb Pallozzi","Empire 8","40-7-0",0.851
-"19",2005,"Deb Pallozzi","Empire 8","31-14-0",0.689
-"20",2004,"Deb Pallozzi","Empire 8","28-15-0",0.651
-"21",2003,"Deb Pallozzi","Empire 8","30-11-0",0.732
-"22",2002,"Deb Pallozzi","Empire 8","37-13-0",0.74
-"23",2001,"Deb Pallozzi","-","31-15-0",0.674
-"24",2000,"Deb Pallozzi","-","33-12-1",0.733
-"25",1999,"Deb Pallozzi","-","29-13-0",0.69
-"26",1998,"Deb Pallozzi","-","31-14-0",0.689
-"27",1997,"Deb Pallozzi","-","30-16-0",0.652
-"28",1996,"Deb Pallozzi","-","25-11-0",0.694
-"29",1995,"Deb Pallozzi","-","26-16-0",0.619
-"30",1994,"Deb Pallozzi","-","29-13-0",0.69
-"31",1993,"Deb Pallozzi","-","17-16-0",0.515
-"32",1992,"Deb Pallozzi","-","20-11-0",0.645
-"33",1991,"Deb Pallozzi","-","26-14-0",0.65
-"34",1990,"Deb Pallozzi","-","17-15-0",0.531
-"35",1989,"Deb Pallozzi","-","10-19-0",0.345
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",2024,"Kelly Robichaud","Liberty League","26-15-0",0.634
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ithaca","313","2025","Kelly Robichaud","D-III","Liberty League",0,0,0,0
+"2","Ithaca","313","2024","Kelly Robichaud","D-III","Liberty League",26,14,0,0.65
+"3","Ithaca","313","2023","Kelly Robichaud","D-III","Liberty League",27,12,1,0.688
+"4","Ithaca","313","2022","Hannah Quintana","D-III","Liberty League",21,17,0,0.553
+"5","Ithaca","313","2021","Hannah Quintana","D-III","Liberty League",25,8,0,0.758
+"6","Ithaca","313","2020","Hannah Quintana","D-III","Liberty League",2,6,0,0.25
+"7","Ithaca","313","2019","Deb Pallozzi","D-III","Liberty League",28,9,1,0.75
+"8","Ithaca","313","2018","Deb Pallozzi","D-III","Liberty League",35,13,NA,0.729
+"9","Ithaca","313","2017","Deb Pallozzi","D-III","Empire 8",33,12,0,0.733
+"10","Ithaca","313","2016","Deb Pallozzi","D-III","Empire 8",35,10,0,0.778
+"11","Ithaca","313","2015","Deb Pallozzi","D-III","Empire 8",21,14,0,0.6
+"12","Ithaca","313","2014","Deb Pallozzi","D-III","Empire 8",26,14,0,0.65
+"13","Ithaca","313","2013","Deb Pallozzi","D-III","Empire 8",25,15,0,0.625
+"14","Ithaca","313","2012","Deb Pallozzi","D-III","Empire 8",32,14,0,0.696
+"15","Ithaca","313","2011","Deb Pallozzi","D-III","Empire 8",30,14,0,0.682
+"16","Ithaca","313","2010","Deb Pallozzi","D-III","Empire 8",34,15,0,0.694
+"17","Ithaca","313","2009","Deb Pallozzi","D-III","Empire 8",27,16,0,0.628
+"18","Ithaca","313","2008","Deb Pallozzi","D-III","Empire 8",36,12,0,0.75
+"19","Ithaca","313","2007","Deb Pallozzi","D-III","Empire 8",35,9,0,0.795
+"20","Ithaca","313","2006","Deb Pallozzi","D-III","Empire 8",40,7,0,0.851
+"21","Ithaca","313","2005","Deb Pallozzi","D-III","Empire 8",31,14,0,0.689
+"22","Ithaca","313","2004","Deb Pallozzi","D-III","Empire 8",28,15,0,0.651
+"23","Ithaca","313","2003","Deb Pallozzi","D-III","Empire 8",30,11,0,0.732
+"24","Ithaca","313","2002","Deb Pallozzi","D-III","Empire 8",37,13,0,0.74
+"25","Ithaca","313","2001","Deb Pallozzi","","-",31,15,NA,0.674
+"26","Ithaca","313","1900","Deb Pallozzi","D-III","-",33,12,1,0.728
+"27","Ithaca","313","1999","Deb Pallozzi","D-III","-",29,13,NA,0.69
+"28","Ithaca","313","1998","Deb Pallozzi","D-III","-",31,14,NA,0.689
+"29","Ithaca","313","1997","Deb Pallozzi","D-III","-",30,16,NA,0.652
+"30","Ithaca","313","1996","Deb Pallozzi","D-III","-",25,11,NA,0.694
+"31","Ithaca","313","1995","Deb Pallozzi","D-III","-",26,16,NA,0.619
+"32","Ithaca","313","1994","Deb Pallozzi","D-III","-",29,13,NA,0.69
+"33","Ithaca","313","1993","Deb Pallozzi","D-III","-",17,16,NA,0.515
+"34","Ithaca","313","1992","Deb Pallozzi","D-III","-",20,11,NA,0.645
+"35","Ithaca","313","1991","Deb Pallozzi","D-III","-",26,14,NA,0.65
+"36","Ithaca","313","1990","Deb Pallozzi","D-III","-",17,15,NA,0.531
+"37","Ithaca","313","1989","Deb Pallozzi","D-III","-",10,19,NA,0.345
+"38","Ithaca","313","1988","","D-III","-",NA,NA,NA,NA
+"39","Ithaca","313","1987","","D-III","-",NA,NA,NA,NA
+"40","Ithaca","313","1986","","D-III","-",NA,NA,NA,NA
+"41","Ithaca","313","1985","","D-III","-",NA,NA,NA,NA
+"42","Ithaca","313","1984","","D-III","-",NA,NA,NA,NA
+"43","Ithaca","313","1983","","D-III","-",NA,NA,NA,NA
+"44","Ithaca","313","1982","","D-III","-",NA,NA,NA,NA
+"45","Ithaca","313","","","","",988,469,3,0.678

@@ -1,40 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Amy Kyler","Horizon","15-32-0","0.319"
-"2","2022","Amy Kyler","Horizon","22-24-0","0.478"
-"3","2021","Amy Kyler","Horizon","12-36-0","0.250"
-"4","2020","Amy Kyler","Horizon","8-11-0","0.421"
-"5","2019","Amy Kyler","Horizon","15-34-0","0.306"
-"6","2018","Becky Norris","Horizon","15-34-0","0.306"
-"7","2017","Becky Norris","Horizon","8-44-0","0.154"
-"8","2016","Becky Norris","Horizon","21-32-0","0.396"
-"9","2015","Becky Norris","Horizon","23-29-0","0.442"
-"10","2014","Becky Norris","Horizon","24-20-0","0.545"
-"11","2013","Angie Nicholson","Horizon","22-27-0","0.449"
-"12","2012","Angie Nicholson","Horizon","17-39-0","0.304"
-"13","2011","Angie Nicholson","Horizon","29-21-0","0.580"
-"14","2010","Angie Nicholson","Horizon","44-15-0","0.746"
-"15","2009","Angie Nicholson","Horizon","35-18-0","0.660"
-"16","2008","Angie Nicholson","Horizon","31-18-0","0.633"
-"17","2007","Angie Nicholson","Horizon","33-14-0","0.702"
-"18","2006","Julie Jones","Horizon","38-15-0","0.717"
-"19","2005","Julie Jones","Horizon","24-26-0","0.480"
-"20","2004","Julie Jones","Horizon","26-27-0","0.491"
-"21","2003","Julie Jones","Horizon","23-30-1","0.434"
-"22","2002","Julie Jones","Horizon","20-24-1","0.455"
-"23","2001","Julie Jones","Horizon","19-33-0","0.365"
-"24","2000","Julie Jones","Horizon","19-37-0","0.339"
-"25","1999","Julie Jones","Horizon","23-24-0","0.489"
-"26","1998","Julie Jones","-","16-33-0","0.327"
-"27","1997","Julie Jones","Horizon","36-11-0","0.766"
-"28","1996","Tom McLaughlin","-","24-21-0","0.533"
-"29","1995","Tom McLaughlin","-","37-13-0","0.740"
-"30","1994","Tom McLaughlin","-","16-41-0","0.281"
-"31","1993","Tom McLaughlin","-","12-33-0","0.267"
-"32","1992","Tom McLaughlin","-","3-21-0","0.125"
-"33","1991","Chico Chernosky","-","13-17-0","0.433"
-"34","1990","Chico Chernosky","-","15-11-0","0.577"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cleveland St.","148","2025","Amy Kyler","D-I","Horizon",0,1,0,0
+"2","Cleveland St.","148","2024","Amy Kyler","D-I","Horizon",22,26,0,0.458
+"3","Cleveland St.","148","2023","Amy Kyler","D-I","Horizon",15,32,0,0.319
+"4","Cleveland St.","148","2022","Amy Kyler","D-I","Horizon",22,24,0,0.478
+"5","Cleveland St.","148","2021","Amy Kyler","D-I","Horizon",12,36,0,0.25
+"6","Cleveland St.","148","2020","Amy Kyler","D-I","Horizon",8,11,0,0.421
+"7","Cleveland St.","148","2019","Amy Kyler","D-I","Horizon",15,34,0,0.306
+"8","Cleveland St.","148","2018","Becky Norris","D-I","Horizon",15,34,NA,0.306
+"9","Cleveland St.","148","2017","Becky Norris","D-I","Horizon",8,44,0,0.154
+"10","Cleveland St.","148","2016","Becky Norris","D-I","Horizon",21,32,0,0.396
+"11","Cleveland St.","148","2015","Becky Norris","D-I","Horizon",23,29,0,0.442
+"12","Cleveland St.","148","2014","Becky Norris","D-I","Horizon",24,20,0,0.545
+"13","Cleveland St.","148","2013","Angie Nicholson","D-I","Horizon",28,33,0,0.459
+"14","Cleveland St.","148","2012","Angie Nicholson","D-I","Horizon",17,39,0,0.304
+"15","Cleveland St.","148","2011","Angie Nicholson","D-I","Horizon",29,21,0,0.58
+"16","Cleveland St.","148","2010","Angie Nicholson","D-I","Horizon",44,15,0,0.746
+"17","Cleveland St.","148","2009","Angie Nicholson","D-I","Horizon",35,18,0,0.66
+"18","Cleveland St.","148","2008","Angie Nicholson","D-I","Horizon",31,18,0,0.633
+"19","Cleveland St.","148","2007","Angie Nicholson","D-I","Horizon",33,14,0,0.702
+"20","Cleveland St.","148","2006","Julie Jones","D-I","Horizon",38,15,0,0.717
+"21","Cleveland St.","148","2005","Julie Jones","D-I","Horizon",24,26,0,0.48
+"22","Cleveland St.","148","2004","Julie Jones","D-I","Horizon",26,27,0,0.491
+"23","Cleveland St.","148","2003","Julie Jones","D-I","Horizon",23,30,1,0.435
+"24","Cleveland St.","148","2002","Julie Jones","D-I","Horizon",20,24,1,0.456
+"25","Cleveland St.","148","2001","Julie Jones","D-I","Horizon",19,33,0,0.365
+"26","Cleveland St.","148","1900","Julie Jones","D-I","Horizon",19,37,0,0.339
+"27","Cleveland St.","148","1999","Julie Jones","D-I","Horizon",23,24,0,0.489
+"28","Cleveland St.","148","1998","Julie Jones","D-I","-",16,33,NA,0.327
+"29","Cleveland St.","148","1997","Julie Jones","D-I","Horizon",36,11,0,0.766
+"30","Cleveland St.","148","1996","Tom McLaughlin","D-I","-",24,21,NA,0.533
+"31","Cleveland St.","148","1995","Tom McLaughlin","D-I","-",37,13,NA,0.74
+"32","Cleveland St.","148","1994","Tom McLaughlin","D-I","-",16,41,NA,0.281
+"33","Cleveland St.","148","1993","Tom McLaughlin","D-I","-",12,33,NA,0.267
+"34","Cleveland St.","148","1992","Tom McLaughlin","D-I","-",3,21,NA,0.125
+"35","Cleveland St.","148","1991","Chico Chernosky","D-I","-",13,17,NA,0.433
+"36","Cleveland St.","148","1990","Chico Chernosky","D-I","-",15,11,NA,0.577
+"37","Cleveland St.","148","1989","","D-I","-",NA,NA,NA,NA
+"38","Cleveland St.","148","1988","","D-I","-",NA,NA,NA,NA
+"39","Cleveland St.","148","1987","","D-I","-",NA,NA,NA,NA
+"40","Cleveland St.","148","1986","","D-I","-",NA,NA,NA,NA
+"41","Cleveland St.","148","1985","","D-I","-",NA,NA,NA,NA
+"42","Cleveland St.","148","","","","",766,898,2,0.46

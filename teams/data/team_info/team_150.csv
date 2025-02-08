@@ -1,56 +1,58 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jake Koolbeck","American Rivers","39-11-0",0.78
-"2",2022,"Diane Meyer","American Rivers","22-13-0",0.629
-"3",2021,"Diane Meyer","American Rivers","25-15-0",0.625
-"4",2020,"Diane Meyer","American Rivers","1-1-0",0.5
-"5",2019,"Diane Meyer","American Rivers","33-11-0",0.75
-"6",2018,"Diane Meyer","American Rivers","28-14-0",0.667
-"7",2017,"Diane Meyer","American Rivers","31-11-0",0.738
-"8",2016,"Diane Meyer","American Rivers","25-10-0",0.714
-"9",2015,"Diane Meyer","American Rivers","24-16-0",0.6
-"10",2014,"Bob Timmons","American Rivers","36-10-0",0.783
-"11",2013,"Bob Timmons","American Rivers","34-8-0",0.81
-"12",2012,"Bob Timmons","American Rivers","36-13-0",0.735
-"13",2011,"Bob Timmons","American Rivers","38-11-0",0.776
-"14",2010,"Bob Timmons","American Rivers","25-16-0",0.61
-"15",2009,"Bob Timmons","American Rivers","41-13-0",0.759
-"16",2008,"Bob Timmons","American Rivers","33-16-0",0.673
-"17",2007,"Bob Timmons","American Rivers","31-14-0",0.689
-"18",2006,"Bob Timmons","American Rivers","41-13-0",0.759
-"19",2005,"Bob Timmons","American Rivers","37-6-0",0.86
-"20",2004,"Bob Timmons","American Rivers","25-14-0",0.641
-"21",2003,"Bob Timmons","American Rivers","27-9-0",0.75
-"22",2002,"Bob Timmons","American Rivers","37-9-0",0.804
-"23",2001,"Bob Timmons","-","31-10-0",0.756
-"24",2000,"Bob Timmons","-","44-8-0",0.846
-"25",1999,"Bob Timmons","-","29-10-0",0.744
-"26",1998,"Bob Timmons","-","7-24-0",0.226
-"27",1997,"Mary Rausch","-","16-16-0",0.5
-"28",1996,"Mary Rausch","-","17-19-0",0.472
-"29",1995,"Mary Rausch","-","29-10-0",0.744
-"30",1994,"Mary Rausch","-","28-7-0",0.8
-"31",1993,"Jan Travis","-","18-11-0",0.621
-"32",1992,"Jan Travis","-","27-7-0",0.794
-"33",1991,"Jan Travis","-","17-13-0",0.567
-"34",1990,"Jan Travis","-","31-6-0",0.838
-"35",1989,"Jan Travis","-","25-5-1",0.833
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1982,"","-","0-0-0",NA
-"43",1981,"","-","0-0-0",NA
-"44",1980,"","-","0-0-0",NA
-"45",1979,"","-","0-0-0",NA
-"46",1978,"","-","0-0-0",NA
-"47",1977,"","-","0-0-0",NA
-"48",1976,"","-","0-0-0",NA
-"49",1975,"","-","0-0-0",NA
-"50",1974,"","-","0-0-0",NA
-"51",1973,"","-","0-0-0",NA
-"52",1972,"","-","0-0-0",NA
-"53",1971,"","-","0-0-0",NA
-"54",1970,"","-","0-0-0",NA
-"55",2024,"Jake Koolbeck","American Rivers","34-11-0",0.756
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Coe","150","2025","Jake Koolbeck","D-III","American Rivers",0,0,0,0
+"2","Coe","150","2024","Jake Koolbeck","D-III","American Rivers",34,11,0,0.756
+"3","Coe","150","2023","Jake Koolbeck","D-III","American Rivers",39,11,0,0.78
+"4","Coe","150","2022","Diane Meyer","D-III","American Rivers",22,13,0,0.629
+"5","Coe","150","2021","Diane Meyer","D-III","American Rivers",25,15,0,0.625
+"6","Coe","150","2020","Diane Meyer","D-III","American Rivers",1,1,0,0.5
+"7","Coe","150","2019","Diane Meyer","D-III","American Rivers",33,11,0,0.75
+"8","Coe","150","2018","Diane Meyer","D-III","American Rivers",28,14,NA,0.667
+"9","Coe","150","2017","Diane Meyer","D-III","American Rivers",31,11,0,0.738
+"10","Coe","150","2016","Diane Meyer","D-III","American Rivers",25,10,0,0.714
+"11","Coe","150","2015","Diane Meyer","D-III","American Rivers",24,16,0,0.6
+"12","Coe","150","2014","Bob Timmons","D-III","American Rivers",36,10,0,0.783
+"13","Coe","150","2013","Bob Timmons","D-III","American Rivers",34,8,0,0.81
+"14","Coe","150","2012","Bob Timmons","D-III","American Rivers",36,13,0,0.735
+"15","Coe","150","2011","Bob Timmons","D-III","American Rivers",38,11,0,0.776
+"16","Coe","150","2010","Bob Timmons","D-III","American Rivers",25,16,0,0.61
+"17","Coe","150","2009","Bob Timmons","D-III","American Rivers",41,13,0,0.759
+"18","Coe","150","2008","Bob Timmons","D-III","American Rivers",33,16,0,0.673
+"19","Coe","150","2007","Bob Timmons","D-III","American Rivers",31,14,0,0.689
+"20","Coe","150","2006","Bob Timmons","D-III","American Rivers",41,13,0,0.759
+"21","Coe","150","2005","Bob Timmons","D-III","American Rivers",37,6,0,0.86
+"22","Coe","150","2004","Bob Timmons","D-III","American Rivers",25,14,0,0.641
+"23","Coe","150","2003","Bob Timmons","D-III","American Rivers",27,9,0,0.75
+"24","Coe","150","2002","Bob Timmons","D-III","American Rivers",37,9,0,0.804
+"25","Coe","150","2001","Bob Timmons","D-III","-",31,10,NA,0.756
+"26","Coe","150","1900","Bob Timmons","D-III","-",44,8,NA,0.846
+"27","Coe","150","1999","Bob Timmons","D-III","-",29,10,NA,0.744
+"28","Coe","150","1998","Bob Timmons","D-III","-",7,24,NA,0.226
+"29","Coe","150","1997","Mary Rausch","D-III","-",16,16,NA,0.5
+"30","Coe","150","1996","Mary Rausch","D-III","-",17,19,NA,0.472
+"31","Coe","150","1995","Mary Rausch","D-III","-",29,10,NA,0.744
+"32","Coe","150","1994","Mary Rausch","D-III","-",28,7,NA,0.8
+"33","Coe","150","1993","Jan Travis","D-III","-",18,11,NA,0.621
+"34","Coe","150","1992","Jan Travis","D-III","-",27,7,NA,0.794
+"35","Coe","150","1991","Jan Travis","D-III","-",17,13,NA,0.567
+"36","Coe","150","1990","Jan Travis","D-III","-",31,6,NA,0.838
+"37","Coe","150","1989","Jan Travis","D-III","-",25,5,1,0.823
+"38","Coe","150","1988","","D-III","-",NA,NA,NA,NA
+"39","Coe","150","1987","","D-III","-",NA,NA,NA,NA
+"40","Coe","150","1986","","D-III","-",NA,NA,NA,NA
+"41","Coe","150","1985","","D-III","-",NA,NA,NA,NA
+"42","Coe","150","1984","","D-III","-",NA,NA,NA,NA
+"43","Coe","150","1983","","D-III","-",NA,NA,NA,NA
+"44","Coe","150","1982","","D-III","-",NA,NA,NA,NA
+"45","Coe","150","1981","","D-III","-",NA,NA,NA,NA
+"46","Coe","150","1980","","D-III","-",NA,NA,NA,NA
+"47","Coe","150","1979","","D-III","-",NA,NA,NA,NA
+"48","Coe","150","1978","","D-III","-",NA,NA,NA,NA
+"49","Coe","150","1977","","D-III","-",NA,NA,NA,NA
+"50","Coe","150","1976","","D-III","-",NA,NA,NA,NA
+"51","Coe","150","1975","","D-III","-",NA,NA,NA,NA
+"52","Coe","150","1974","","D-III","-",NA,NA,NA,NA
+"53","Coe","150","1973","","D-II","-",NA,NA,NA,NA
+"54","Coe","150","1972","","D-II","-",NA,NA,NA,NA
+"55","Coe","150","1971","","D-II","-",NA,NA,NA,NA
+"56","Coe","150","1970","","D-II","-",NA,NA,NA,NA
+"57","Coe","150","","","","",1022,411,1,0.713

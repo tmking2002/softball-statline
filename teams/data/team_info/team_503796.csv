@@ -1,11 +1,12 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2022",NA,"-","0-0-0",0
-"2","2021",NA,"-","0-0-0",0
-"3","2019",NA,"-","0-0-0",0
-"4","2018",NA,"-","0-0-0",0
-"5","2016",NA,"-","0-0-0",NA
-"6","2015",NA,"-","0-0-0",NA
-"7","2014",NA,"-","0-0-0",NA
-"8","2013",NA,"-","0-0-0",NA
-"9","2010",NA,"-","0-0-0",NA
-"10","2008",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Northwest (WA)","503796","2022",NA,NA,"-",NA,NA,NA,0
+"2","Northwest (WA)","503796","2021",NA,NA,"-",NA,NA,NA,0
+"3","Northwest (WA)","503796","2019",NA,NA,"-",NA,NA,NA,0
+"4","Northwest (WA)","503796","2018",NA,NA,"-",NA,NA,NA,0
+"5","Northwest (WA)","503796","2016",NA,NA,"-",NA,NA,NA,NA
+"6","Northwest (WA)","503796","2015",NA,NA,"-",NA,NA,NA,NA
+"7","Northwest (WA)","503796","2014",NA,NA,"-",NA,NA,NA,NA
+"8","Northwest (WA)","503796","2013",NA,NA,"-",NA,NA,NA,NA
+"9","Northwest (WA)","503796","2010",NA,NA,"-",NA,NA,NA,NA
+"10","Northwest (WA)","503796","2008",NA,NA,"-",NA,NA,NA,NA
+"11","Northwest (WA)","503796","",NA,NA,"",0,0,0,0

@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lindsay Mayer","MAC Freedom","20-21-0",0.488
-"2",2022,"Sarah Colletti","MAC Freedom","32-11-0",0.744
-"3",2021,"Sarah Colletti","MAC Freedom","21-12-0",0.636
-"4",2020,"Sarah Colletti","MAC Commonwealth","2-4-0",0.333
-"5",2019,"Sarah Colletti","MAC Commonwealth","33-13-0",0.717
-"6",2018,"Sarah Colletti","MAC Commonwealth","26-14-0",0.65
-"7",2017,"Sarah Colletti","MAC Commonwealth","30-13-0",0.698
-"8",2016,"Sarah Colletti","MAC Commonwealth","25-19-0",0.568
-"9",2015,"Sarah Colletti","MAC Commonwealth","16-22-0",0.421
-"10",2014,"Linda Detra","MAC Commonwealth","21-23-0",0.477
-"11",2013,"Linda Detra","MAC Commonwealth","16-22-0",0.421
-"12",2012,"Linda Detra","MAC Commonwealth","19-21-0",0.475
-"13",2011,"Linda Detra","MAC Commonwealth","24-12-0",0.667
-"14",2010,"Linda Detra","MAC Commonwealth","14-25-0",0.359
-"15",2009,"Linda Detra","MAC Commonwealth","27-15-0",0.643
-"16",2008,"Linda Detra","MAC Freedom","16-21-1",0.432
-"17",2007,"Linda Detra","CSAC","31-10-0",0.756
-"18",2006,"Linda Detra","CSAC","31-9-0",0.775
-"19",2005,"Linda Detra","CSAC","33-11-0",0.75
-"20",2004,"Linda Detra","CSAC","29-10-0",0.744
-"21",2003,"Linda Detra","CSAC","27-10-0",0.73
-"22",2002,"Linda Detra","CSAC","23-18-0",0.561
-"23",2001,"Linda Detra","-","23-14-0",0.622
-"24",2000,"Linda Detra","-","18-15-0",0.545
-"25",1999,"Linda Detra","-","17-13-0",0.567
-"26",1998,"Linda Detra","-","20-13-0",0.606
-"27",1997,"Linda Detra","-","16-10-0",0.615
-"28",1996,"Linda Detra","-","14-15-0",0.483
-"29",1995,"Linda Detra","-","14-11-0",0.56
-"30",1994,"Linda Detra","-","13-14-0",0.481
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Sarah Birchmeier","MAC Freedom","11-28-0",0.282
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Arcadia","966","2025","Sarah Birchmeier","D-III","MAC Freedom",0,0,0,0
+"2","Arcadia","966","2024","Sarah Birchmeier","D-III","MAC Freedom",10,28,0,0.263
+"3","Arcadia","966","2023","Lindsay Mayer","D-III","MAC Freedom",20,21,0,0.488
+"4","Arcadia","966","2022","Sarah Colletti","D-III","MAC Freedom",32,11,0,0.744
+"5","Arcadia","966","2021","Sarah Colletti","D-III","MAC Freedom",21,12,0,0.636
+"6","Arcadia","966","2020","Sarah Colletti","D-III","MAC Commonwealth",2,4,0,0.333
+"7","Arcadia","966","2019","Sarah Colletti","D-III","MAC Commonwealth",33,13,0,0.717
+"8","Arcadia","966","2018","Sarah Colletti","D-III","MAC Commonwealth",26,14,NA,0.65
+"9","Arcadia","966","2017","Sarah Colletti","D-III","MAC Commonwealth",30,13,0,0.698
+"10","Arcadia","966","2016","Sarah Colletti","D-III","MAC Commonwealth",25,19,0,0.568
+"11","Arcadia","966","2015","Sarah Colletti","D-III","MAC Commonwealth",16,22,0,0.421
+"12","Arcadia","966","2014","Linda Detra","D-III","MAC Commonwealth",21,23,0,0.477
+"13","Arcadia","966","2013","Linda Detra","D-III","MAC Commonwealth",16,22,0,0.421
+"14","Arcadia","966","2012","Linda Detra","D-III","MAC Commonwealth",19,21,0,0.475
+"15","Arcadia","966","2011","Linda Detra","D-III","MAC Commonwealth",24,12,0,0.667
+"16","Arcadia","966","2010","Linda Detra","D-III","MAC Commonwealth",14,25,0,0.359
+"17","Arcadia","966","2009","Linda Detra","D-III","MAC Commonwealth",27,15,0,0.643
+"18","Arcadia","966","2008","Linda Detra","D-III","MAC Freedom",16,21,1,0.434
+"19","Arcadia","966","2007","Linda Detra","D-III","CSAC",31,10,0,0.756
+"20","Arcadia","966","2006","Linda Detra","D-III","CSAC",31,9,0,0.775
+"21","Arcadia","966","2005","Linda Detra","D-III","CSAC",33,11,0,0.75
+"22","Arcadia","966","2004","Linda Detra","D-III","CSAC",29,10,0,0.744
+"23","Arcadia","966","2003","Linda Detra","D-III","CSAC",27,10,0,0.73
+"24","Arcadia","966","2002","Linda Detra","D-III","CSAC",23,18,0,0.561
+"25","Arcadia","966","2001","Linda Detra","D-III","-",23,14,NA,0.622
+"26","Arcadia","966","1900","Linda Detra","D-III","-",18,15,NA,0.545
+"27","Arcadia","966","1999","Linda Detra","D-III","-",17,13,NA,0.567
+"28","Arcadia","966","1998","Linda Detra","D-III","-",20,13,NA,0.606
+"29","Arcadia","966","1997","Linda Detra","D-III","-",16,10,NA,0.615
+"30","Arcadia","966","1996","Linda Detra","D-III","-",14,15,NA,0.483
+"31","Arcadia","966","1995","Linda Detra","D-III","-",14,11,NA,0.56
+"32","Arcadia","966","1994","Linda Detra","D-III","-",13,14,0,0.481
+"33","Arcadia","966","1993","","D-III","-",NA,NA,NA,NA
+"34","Arcadia","966","1992","","D-III","-",NA,NA,NA,NA
+"35","Arcadia","966","1991","","D-III","-",NA,NA,NA,NA
+"36","Arcadia","966","1990","","D-III","-",NA,NA,NA,NA
+"37","Arcadia","966","","","","",661,469,1,0.585

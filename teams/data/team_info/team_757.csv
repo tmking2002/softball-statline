@@ -1,51 +1,53 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Nicole Tines","GLIAC","16-30-0",0.348
-"2",2022,"Nicole Tines","GLIAC","13-34-0",0.277
-"3",2021,"Gary Bryce","GLIAC","23-21-0",0.523
-"4",2020,"Gary Bryce","GLIAC","10-5-0",0.667
-"5",2019,"Gary Bryce","GLIAC","34-25-0",0.576
-"6",2018,"Gary Bryce","GLIAC","24-25-0",0.49
-"7",2017,"Gary Bryce","GLIAC","40-16-0",0.714
-"8",2016,"Gary Bryce","GLIAC","50-10-0",0.833
-"9",2015,"Gary Bryce","GLIAC","42-20-1",0.677
-"10",2014,"Gary Bryce","GLIAC","46-12-0",0.793
-"11",2013,"Gary Bryce","GLIAC","30-22-0",0.577
-"12",2012,"Gary Bryce","GLIAC","34-22-0",0.607
-"13",2011,"Gary Bryce","GLIAC","30-25-1",0.545
-"14",2010,"Gary Bryce","GLIAC","52-13-0",0.8
-"15",2009,"Gary Bryce","GLIAC","40-16-0",0.714
-"16",2008,"Gary Bryce","GLIAC","35-18-0",0.66
-"17",2007,"Gary Bryce","GLIAC","41-17-0",0.707
-"18",2006,"Gary Bryce","GLIAC","32-26-0",0.552
-"19",2005,"Gary Bryce","GLIAC","21-22-0",0.488
-"20",2004,"Gary Bryce","GLIAC","36-22-0",0.621
-"21",2003,"Gary Bryce","GLIAC","39-15-1",0.722
-"22",2002,"Gary Bryce","-","31-19-0",0.62
-"23",2001,"Gary Bryce","-","37-20-0",0.649
-"24",2000,"Gary Bryce","-","27-37-0",0.422
-"25",1999,"Gary Bryce","-","24-36-1",0.4
-"26",1998,"Gary Bryce","-","32-24-0",0.571
-"27",1997,"Gary Bryce","-","30-22-0",0.577
-"28",1996,"Gary Bryce","-","38-24-0",0.613
-"29",1995,"Gary Bryce","-","35-15-0",0.7
-"30",1994,"Gary Bryce","-","38-17-0",0.691
-"31",1993,"Gary Bryce","-","43-15-0",0.741
-"32",1992,"Gary Bryce","-","37-20-0",0.649
-"33",1991,"Gary Bryce","-","31-21-0",0.596
-"34",1990,"Gary Bryce","-","38-18-0",0.679
-"35",1989,"Gary Bryce","-","28-23-1",0.549
-"36",1988,"Gary Bryce","-","35-17-0",0.673
-"37",1987,"Gary Bryce","-","25-29-0",0.463
-"38",1986,"Gary Bryce","-","35-19-0",0.648
-"39",1985,"Gary Bryce","-","30-18-1",0.625
-"40",1984,"Gary Bryce","-","32-24-1",0.571
-"41",1983,"Gary Bryce","-","33-10-1",0.767
-"42",1982,"Gary Bryce","-","22-13-0",0.629
-"43",1981,"Diane Laffey","-","0-0-0",NA
-"44",1980,"Diane Laffey","-","0-0-0",NA
-"45",1979,"Diane Laffey","-","0-0-0",NA
-"46",1978,"Diane Laffey","-","0-0-0",NA
-"47",1977,"JoAnne Shirkey","-","12-11-0",0.522
-"48",1976,"Millie Lindsey","-","0-0-0",NA
-"49",1975,"Millie Lindsey","-","0-0-0",NA
-"50",2024,"Nicole Tines","GLIAC","16-28-0",0.364
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wayne St. (MI)","757","2025","Nicole Tines","D-II","GLIAC",0,0,0,0
+"2","Wayne St. (MI)","757","2024","Nicole Tines","D-II","GLIAC",17,30,0,0.362
+"3","Wayne St. (MI)","757","2023","Nicole Tines","D-II","GLIAC",16,30,0,0.348
+"4","Wayne St. (MI)","757","2022","Nicole Tines","D-II","GLIAC",13,34,0,0.277
+"5","Wayne St. (MI)","757","2021","Gary Bryce","D-II","GLIAC",23,21,0,0.523
+"6","Wayne St. (MI)","757","2020","Gary Bryce","D-II","GLIAC",10,5,0,0.667
+"7","Wayne St. (MI)","757","2019","Gary Bryce","D-II","GLIAC",34,25,0,0.576
+"8","Wayne St. (MI)","757","2018","Gary Bryce","D-II","GLIAC",24,25,NA,0.49
+"9","Wayne St. (MI)","757","2017","Gary Bryce","D-II","GLIAC",40,16,0,0.714
+"10","Wayne St. (MI)","757","2016","Gary Bryce","D-II","GLIAC",50,10,0,0.833
+"11","Wayne St. (MI)","757","2015","Gary Bryce","D-II","GLIAC",42,20,1,0.675
+"12","Wayne St. (MI)","757","2014","Gary Bryce","D-II","GLIAC",46,12,0,0.793
+"13","Wayne St. (MI)","757","2013","Gary Bryce","D-II","GLIAC",30,22,0,0.577
+"14","Wayne St. (MI)","757","2012","Gary Bryce","D-II","GLIAC",34,22,0,0.607
+"15","Wayne St. (MI)","757","2011","Gary Bryce","D-II","GLIAC",30,25,1,0.545
+"16","Wayne St. (MI)","757","2010","Gary Bryce","D-II","GLIAC",52,13,0,0.8
+"17","Wayne St. (MI)","757","2009","Gary Bryce","D-II","GLIAC",40,16,0,0.714
+"18","Wayne St. (MI)","757","2008","Gary Bryce","D-II","GLIAC",35,18,0,0.66
+"19","Wayne St. (MI)","757","2007","Gary Bryce","D-II","GLIAC",41,17,0,0.707
+"20","Wayne St. (MI)","757","2006","Gary Bryce","D-II","GLIAC",32,26,0,0.552
+"21","Wayne St. (MI)","757","2005","Gary Bryce","D-II","GLIAC",21,22,0,0.488
+"22","Wayne St. (MI)","757","2004","Gary Bryce","D-II","GLIAC",36,22,0,0.621
+"23","Wayne St. (MI)","757","2003","Gary Bryce","D-II","GLIAC",39,15,1,0.718
+"24","Wayne St. (MI)","757","2002","Gary Bryce","D-II","-",31,19,0,0.62
+"25","Wayne St. (MI)","757","2001","Gary Bryce","D-II","-",37,20,0,0.649
+"26","Wayne St. (MI)","757","1900","Gary Bryce","D-II","-",27,37,0,0.422
+"27","Wayne St. (MI)","757","1999","Gary Bryce","D-II","-",24,36,1,0.402
+"28","Wayne St. (MI)","757","1998","Gary Bryce","D-II","-",32,24,0,0.571
+"29","Wayne St. (MI)","757","1997","Gary Bryce","D-II","-",30,22,0,0.577
+"30","Wayne St. (MI)","757","1996","Gary Bryce","D-II","-",38,24,0,0.613
+"31","Wayne St. (MI)","757","1995","Gary Bryce","D-II","-",35,15,0,0.7
+"32","Wayne St. (MI)","757","1994","Gary Bryce","D-II","-",38,17,0,0.691
+"33","Wayne St. (MI)","757","1993","Gary Bryce","D-II","-",43,15,0,0.741
+"34","Wayne St. (MI)","757","1992","Gary Bryce","D-II","-",37,20,0,0.649
+"35","Wayne St. (MI)","757","1991","Gary Bryce","D-II","-",31,21,0,0.596
+"36","Wayne St. (MI)","757","1990","Gary Bryce","D-II","-",38,18,0,0.679
+"37","Wayne St. (MI)","757","1989","Gary Bryce","D-II","-",28,23,1,0.548
+"38","Wayne St. (MI)","757","1988","Gary Bryce","D-II","-",35,17,0,0.673
+"39","Wayne St. (MI)","757","1987","Gary Bryce","D-II","-",25,29,0,0.463
+"40","Wayne St. (MI)","757","1986","Gary Bryce","D-II","-",35,19,0,0.648
+"41","Wayne St. (MI)","757","1985","Gary Bryce","D-II","-",30,18,1,0.622
+"42","Wayne St. (MI)","757","1984","Gary Bryce","D-II","-",32,24,1,0.57
+"43","Wayne St. (MI)","757","1983","Gary Bryce","D-II","-",33,10,1,0.761
+"44","Wayne St. (MI)","757","1982","Gary Bryce","D-II","-",22,13,0,0.629
+"45","Wayne St. (MI)","757","1981","Diane Laffey","D-II","-",NA,NA,NA,NA
+"46","Wayne St. (MI)","757","1980","Diane Laffey","D-II","-",NA,NA,NA,NA
+"47","Wayne St. (MI)","757","1979","Diane Laffey","D-II","-",NA,NA,NA,NA
+"48","Wayne St. (MI)","757","1978","Diane Laffey","D-II","-",NA,NA,NA,NA
+"49","Wayne St. (MI)","757","1977","JoAnne Shirkey","D-II","-",12,11,0,0.522
+"50","Wayne St. (MI)","757","1976","Millie Lindsey","D-II","-",NA,NA,NA,NA
+"51","Wayne St. (MI)","757","1975","Millie Lindsey","D-II","-",NA,NA,NA,NA
+"52","Wayne St. (MI)","757","","","","",1398,898,8,0.609

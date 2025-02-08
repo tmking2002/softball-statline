@@ -1,9 +1,10 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2016",NA,"-","0-0-0",NA
-"2","2015",NA,"-","0-0-0",NA
-"3","2013",NA,"-","0-0-0",NA
-"4","2011",NA,"-","0-0-0",NA
-"5","2006",NA,"-","0-0-0",NA
-"6","2005",NA,"-","0-0-0",NA
-"7","2004",NA,"-","0-0-0",NA
-"8","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Walla Walla","506100","2016",NA,NA,"-",NA,NA,NA,NA
+"2","Walla Walla","506100","2015",NA,NA,"-",NA,NA,NA,NA
+"3","Walla Walla","506100","2013",NA,NA,"-",NA,NA,NA,NA
+"4","Walla Walla","506100","2011",NA,NA,"-",NA,NA,NA,NA
+"5","Walla Walla","506100","2006",NA,NA,"-",NA,NA,NA,NA
+"6","Walla Walla","506100","2005",NA,NA,"-",NA,NA,NA,NA
+"7","Walla Walla","506100","2004",NA,NA,"-",NA,NA,NA,NA
+"8","Walla Walla","506100","2002",NA,NA,"-",NA,NA,NA,NA
+"9","Walla Walla","506100","",NA,NA,"",0,0,0,0

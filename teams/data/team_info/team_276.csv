@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kate Gatti","Centennial","17-20-1",0.459
-"2",2022,"Kate Gatti","Centennial","13-21-0",0.382
-"3",2021,"Kate Gatti","Centennial","0-2-0",0
-"4",2020,"Kate Gatti","Centennial","7-3-0",0.7
-"5",2019,"Kate Gatti","Centennial","28-12-0",0.7
-"6",2018,"Kate Gatti","Centennial","21-12-0",0.636
-"7",2017,"Erin Brooks","Centennial","7-21-0",0.25
-"8",2016,"Erin Brooks","Centennial","28-22-0",0.56
-"9",2015,"Erin Brooks","Centennial","25-10-1",0.714
-"10",2014,"Jennifer Ward","Centennial","29-11-0",0.725
-"11",2013,"Jennifer Ward","Centennial","26-13-0",0.667
-"12",2012,"Jennifer Ward","Centennial","17-18-1",0.486
-"13",2011,"Jennifer Ward","Centennial","9-25-0",0.265
-"14",2010,"Jennifer Ward","Centennial","17-17-0",0.5
-"15",2009,"Jennifer Ward","Centennial","22-12-0",0.647
-"16",2008,"Jennifer Ward","Centennial","23-16-0",0.59
-"17",2007,"Jennifer Ward","Centennial","22-14-0",0.611
-"18",2006,"Jennifer Ward","Centennial","26-17-0",0.605
-"19",2005,"Jennifer Ward","Centennial","11-26-0",0.297
-"20",2004,"John Kelly","Centennial","10-23-0",0.303
-"21",2003,"John Kelly","Centennial","11-23-1",0.324
-"22",2002,"John Kelly","-","8-29-0",0.216
-"23",2001,"John Kelly","-","1-30-0",0.032
-"24",2000,"John Kelly","-","6-28-0",0.176
-"25",1999,"John Kelly","-","7-29-0",0.194
-"26",1998,"John Kelly","-","9-21-0",0.3
-"27",1997,"Jeannine Ruh","-","7-23-0",0.233
-"28",1996,"Jeannine Ruh","-","4-13-1",0.235
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1981,"","-","0-0-0",NA
-"39",2024,"Kate Gatti","Centennial","11-24-0",0.314
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Haverford","276","2025","Kate Gatti","D-III","Centennial",0,0,0,0
+"2","Haverford","276","2024","Kate Gatti","D-III","Centennial",10,24,0,0.294
+"3","Haverford","276","2023","Kate Gatti","D-III","Centennial",17,20,1,0.461
+"4","Haverford","276","2022","Kate Gatti","D-III","Centennial",13,21,0,0.382
+"5","Haverford","276","2021","Kate Gatti","D-III","Centennial",0,2,0,0
+"6","Haverford","276","2020","Kate Gatti","D-III","Centennial",7,3,0,0.7
+"7","Haverford","276","2019","Kate Gatti","D-III","Centennial",28,12,0,0.7
+"8","Haverford","276","2018","Kate Gatti","D-III","Centennial",21,12,NA,0.636
+"9","Haverford","276","2017","Erin Brooks","D-III","Centennial",7,21,0,0.25
+"10","Haverford","276","2016","Erin Brooks","D-III","Centennial",28,22,0,0.56
+"11","Haverford","276","2015","Erin Brooks","D-III","Centennial",25,10,1,0.708
+"12","Haverford","276","2014","Jennifer Ward","D-III","Centennial",29,11,0,0.725
+"13","Haverford","276","2013","Jennifer Ward","D-III","Centennial",26,13,0,0.667
+"14","Haverford","276","2012","Jennifer Ward","D-III","Centennial",17,18,1,0.486
+"15","Haverford","276","2011","Jennifer Ward","D-III","Centennial",9,25,0,0.265
+"16","Haverford","276","2010","Jennifer Ward","D-III","Centennial",17,17,0,0.5
+"17","Haverford","276","2009","Jennifer Ward","D-III","Centennial",22,12,0,0.647
+"18","Haverford","276","2008","Jennifer Ward","D-III","Centennial",23,16,0,0.59
+"19","Haverford","276","2007","Jennifer Ward","D-III","Centennial",22,14,0,0.611
+"20","Haverford","276","2006","Jennifer Ward","D-III","Centennial",26,17,0,0.605
+"21","Haverford","276","2005","Jennifer Ward","D-III","Centennial",11,26,0,0.297
+"22","Haverford","276","2004","John Kelly","D-III","Centennial",10,23,0,0.303
+"23","Haverford","276","2003","John Kelly","D-III","Centennial",11,23,1,0.329
+"24","Haverford","276","2002","John Kelly","D-III","-",8,29,NA,0.216
+"25","Haverford","276","2001","John Kelly","D-III","-",1,30,NA,0.032
+"26","Haverford","276","1900","John Kelly","D-III","-",6,28,NA,0.176
+"27","Haverford","276","1999","John Kelly","D-III","-",7,29,NA,0.194
+"28","Haverford","276","1998","John Kelly","D-III","-",9,21,NA,0.3
+"29","Haverford","276","1997","Jeannine Ruh","D-III","-",7,23,NA,0.233
+"30","Haverford","276","1996","Jeannine Ruh","D-III","-",4,13,1,0.25
+"31","Haverford","276","1995","","D-III","-",NA,NA,NA,NA
+"32","Haverford","276","1994","","D-III","-",NA,NA,NA,NA
+"33","Haverford","276","1993","","D-III","-",NA,NA,NA,NA
+"34","Haverford","276","1992","","D-III","-",NA,NA,NA,NA
+"35","Haverford","276","1991","","D-III","-",NA,NA,NA,NA
+"36","Haverford","276","1990","","D-III","-",NA,NA,NA,NA
+"37","Haverford","276","1989","","D-III","-",NA,NA,NA,NA
+"38","Haverford","276","1988","","D-III","-",NA,NA,NA,NA
+"39","Haverford","276","1987","","","-",NA,NA,NA,NA
+"40","Haverford","276","1981","","","-",NA,NA,NA,NA
+"41","Haverford","276","","","","",421,535,5,0.441

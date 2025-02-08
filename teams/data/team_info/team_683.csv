@@ -1,46 +1,49 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Megan Bryant","CAA","29-27-0","0.518"
-"2","2022","Megan Bryant","America East","31-16-0","0.660"
-"3","2021","Megan Bryant","America East","27-16-0","0.628"
-"4","2020","Megan Bryant","America East","10-4-0","0.714"
-"5","2019","Megan Bryant","America East","32-19-0","0.627"
-"6","2018","Megan Bryant","America East","25-22-0","0.532"
-"7","2017","Megan Bryant","America East","18-29-0","0.383"
-"8","2016","Megan Bryant","America East","26-24-2","0.520"
-"9","2015","Megan Bryant","America East","30-17-0","0.638"
-"10","2014","Megan Bryant","America East","34-18-0","0.654"
-"11","2013","Megan Bryant","America East","35-25-0","0.583"
-"12","2012","Megan Bryant","America East","36-17-1","0.679"
-"13","2011","Megan Bryant","America East","20-29-0","0.408"
-"14","2010","Megan Bryant","America East","32-21-1","0.604"
-"15","2009","Megan Bryant","America East","36-14-0","0.720"
-"16","2008","Megan Bryant","America East","33-23-1","0.589"
-"17","2007","Megan Bryant","America East","28-20-0","0.583"
-"18","2006","Megan Bryant","America East","25-25-0","0.500"
-"19","2005","Megan Bryant","America East","22-36-0","0.379"
-"20","2004","Megan Bryant","America East","30-33-0","0.476"
-"21","2003","Megan Bryant","America East","25-33-0","0.431"
-"22","2002","Megan Bryant","America East","25-27-0","0.481"
-"23","2001","Megan Bryant","ECAC","21-23-0","0.477"
-"24","2000","Diane Hobin","ECAC","6-29-0","0.171"
-"25","1999","Diane Hobin","-","12-24-0","0.333"
-"26","1998","Diane Hobin","-","13-24-1","0.351"
-"27","1997","Diane Hobin","-","6-28-0","0.176"
-"28","1996","Jim Murphy","-","1-20-1","0.048"
-"29","1995","Terri McNulty","-","11-12-0","0.478"
-"30","1994","Donna Lauria","-","4-18-0","0.182"
-"31","1993","Donna Lauria","-","2-12-0","0.143"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1985","","-","0-0-0","  NaN"
-"40","1984","","-","0-0-0","  NaN"
-"41","1983","","-","0-0-0","  NaN"
-"42","1982","","-","0-0-0","  NaN"
-"43","1981","","-","0-0-0","  NaN"
-"44","1980","","-","0-0-0","  NaN"
-"45","1979","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Stony Brook","683","2025","Megan Bryant","D-I","CAA",1,1,0,0.5
+"2","Stony Brook","683","2024","Megan Bryant","D-I","CAA",35,17,0,0.673
+"3","Stony Brook","683","2023","Megan Bryant","D-I","CAA",29,27,0,0.518
+"4","Stony Brook","683","2022","Megan Bryant","D-I","America East",31,16,0,0.66
+"5","Stony Brook","683","2021","Megan Bryant","D-I","America East",27,16,0,0.628
+"6","Stony Brook","683","2020","Megan Bryant","D-I","America East",10,4,0,0.714
+"7","Stony Brook","683","2019","Megan Bryant","D-I","America East",32,19,0,0.627
+"8","Stony Brook","683","2018","Megan Bryant","D-I","America East",25,22,NA,0.532
+"9","Stony Brook","683","2017","Megan Bryant","D-I","America East",18,29,0,0.383
+"10","Stony Brook","683","2016","Megan Bryant","D-I","America East",26,24,2,0.519
+"11","Stony Brook","683","2015","Megan Bryant","D-I","America East",30,17,0,0.638
+"12","Stony Brook","683","2014","Megan Bryant","D-I","America East",34,18,0,0.654
+"13","Stony Brook","683","2013","Megan Bryant","D-I","America East",35,25,0,0.583
+"14","Stony Brook","683","2012","Megan Bryant","D-I","America East",37,18,1,0.67
+"15","Stony Brook","683","2011","Megan Bryant","D-I","America East",20,29,0,0.408
+"16","Stony Brook","683","2010","Megan Bryant","D-I","America East",32,21,1,0.602
+"17","Stony Brook","683","2009","Megan Bryant","D-I","America East",36,14,0,0.72
+"18","Stony Brook","683","2008","Megan Bryant","D-I","America East",33,23,1,0.588
+"19","Stony Brook","683","2007","Megan Bryant","D-I","America East",28,20,0,0.583
+"20","Stony Brook","683","2006","Megan Bryant","D-I","America East",25,25,0,0.5
+"21","Stony Brook","683","2005","Megan Bryant","D-I","America East",22,36,0,0.379
+"22","Stony Brook","683","2004","Megan Bryant","D-I","America East",30,33,0,0.476
+"23","Stony Brook","683","2003","Megan Bryant","D-I","America East",25,33,0,0.431
+"24","Stony Brook","683","2002","Megan Bryant","D-I","America East",25,27,0,0.481
+"25","Stony Brook","683","2001","Megan Bryant","D-I","ECAC",21,23,0,0.477
+"26","Stony Brook","683","1900","Diane Hobin","D-I","ECAC",6,29,0,0.171
+"27","Stony Brook","683","1999","Diane Hobin","D-II","-",12,24,NA,0.333
+"28","Stony Brook","683","1998","Diane Hobin","D-II","-",13,24,1,0.355
+"29","Stony Brook","683","1997","Diane Hobin","D-II","-",6,28,NA,0.176
+"30","Stony Brook","683","1996","Jim Murphy","D-II","-",1,20,1,0.068
+"31","Stony Brook","683","1995","Terri McNulty","D-III","-",11,12,NA,0.478
+"32","Stony Brook","683","1994","Donna Lauria","D-III","-",4,18,NA,0.182
+"33","Stony Brook","683","1993","Donna Lauria","D-III","-",2,12,NA,0.143
+"34","Stony Brook","683","1992","","","-",NA,NA,NA,NA
+"35","Stony Brook","683","1991","","","-",NA,NA,NA,NA
+"36","Stony Brook","683","1990","","","-",NA,NA,NA,NA
+"37","Stony Brook","683","1989","","","-",NA,NA,NA,NA
+"38","Stony Brook","683","1988","","","-",NA,NA,NA,NA
+"39","Stony Brook","683","1987","","","-",NA,NA,NA,NA
+"40","Stony Brook","683","1986","","","-",NA,NA,NA,NA
+"41","Stony Brook","683","1985","","","-",NA,NA,NA,NA
+"42","Stony Brook","683","1984","","","-",NA,NA,NA,NA
+"43","Stony Brook","683","1983","","","-",NA,NA,NA,NA
+"44","Stony Brook","683","1982","","","-",NA,NA,NA,NA
+"45","Stony Brook","683","1981","","","-",NA,NA,NA,NA
+"46","Stony Brook","683","1980","","","-",NA,NA,NA,NA
+"47","Stony Brook","683","1979","","","-",NA,NA,NA,NA
+"48","Stony Brook","683","","","","",722,704,7,0.506

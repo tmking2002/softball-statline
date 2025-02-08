@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Caroline DeLoach","SAA","15-23-0",0.395
-"2",2022,"Caroline DeLoach","SAA","19-22-0",0.463
-"3",2021,"Caroline DeLoach","SAA","12-14-0",0.462
-"4",2020,"Caroline DeLoach","SAA","13-9-0",0.591
-"5",2019,"Caroline DeLoach","SAA","14-29-0",0.326
-"6",2018,"Erin Clary","SAA","19-19-0",0.5
-"7",2017,"Erin Clary","SAA","26-15-0",0.634
-"8",2016,"Erin Clary","SAA","22-21-0",0.512
-"9",2015,"Roland Rodriguez","SAA","18-13-0",0.581
-"10",2014,"Roland Rodriguez","SAA","25-13-0",0.658
-"11",2013,"Roland Rodriguez","SAA","24-20-0",0.545
-"12",2012,"Roland Rodriguez","SCAC","19-20-0",0.487
-"13",2011,"Roland Rodriguez","SCAC","16-24-0",0.4
-"14",2010,"Roland Rodriguez","SCAC","24-18-0",0.571
-"15",2009,"Roland Rodriguez","SCAC","15-22-0",0.405
-"16",2008,"Roland Rodriguez","SCAC","20-14-0",0.588
-"17",2007,"Roland Rodriguez","SCAC","12-26-0",0.316
-"18",2006,"Joe Kinsella","SCAC","12-28-0",0.3
-"19",2005,"Joe Kinsella","SCAC","22-17-0",0.564
-"20",2004,"Joe Kinsella","SCAC","24-20-0",0.545
-"21",2003,"Joe Kinsella","SCAC","28-11-0",0.718
-"22",2002,"Joe Kinsella","SCAC","17-16-0",0.515
-"23",2001,"Joe Kinsella","-","6-20-0",0.231
-"24",2000,"Billy Stack","-","1-26-0",0.037
-"25",1999,"","-","0-0-0",NA
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Mark Mulvany","SAA","11-26-0",0.297
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Millsaps","426","2025","Jeff Gillespie","D-III","SAA",0,2,0,0
+"2","Millsaps","426","2024","Mark Mulvany","D-III","SAA",11,26,0,0.297
+"3","Millsaps","426","2023","Caroline DeLoach","D-III","SAA",15,23,0,0.395
+"4","Millsaps","426","2022","Caroline DeLoach","D-III","SAA",19,22,0,0.463
+"5","Millsaps","426","2021","Caroline DeLoach","D-III","SAA",12,14,0,0.462
+"6","Millsaps","426","2020","Caroline DeLoach","D-III","SAA",13,9,0,0.591
+"7","Millsaps","426","2019","Caroline DeLoach","D-III","SAA",14,29,0,0.326
+"8","Millsaps","426","2018","Erin Clary","D-III","SAA",20,18,0,0.526
+"9","Millsaps","426","2017","Erin Clary","D-III","SAA",26,15,0,0.634
+"10","Millsaps","426","2016","Erin Clary","D-III","SAA",22,21,0,0.512
+"11","Millsaps","426","2015","Roland Rodriguez","D-III","SAA",18,13,0,0.581
+"12","Millsaps","426","2014","Roland Rodriguez","D-III","SAA",25,13,0,0.658
+"13","Millsaps","426","2013","Roland Rodriguez","D-III","SAA",24,20,0,0.545
+"14","Millsaps","426","2012","Roland Rodriguez","D-III","SCAC",19,20,0,0.487
+"15","Millsaps","426","2011","Roland Rodriguez","D-III","SCAC",16,24,0,0.4
+"16","Millsaps","426","2010","Roland Rodriguez","D-III","SCAC",24,18,0,0.571
+"17","Millsaps","426","2009","Roland Rodriguez","D-III","SCAC",15,22,0,0.405
+"18","Millsaps","426","2008","Roland Rodriguez","D-III","SCAC",20,14,0,0.588
+"19","Millsaps","426","2007","Roland Rodriguez","D-III","SCAC",12,26,0,0.316
+"20","Millsaps","426","2006","Joe Kinsella","D-III","SCAC",12,28,0,0.3
+"21","Millsaps","426","2005","Joe Kinsella","D-III","SCAC",22,17,0,0.564
+"22","Millsaps","426","2004","Joe Kinsella","D-III","SCAC",24,20,0,0.545
+"23","Millsaps","426","2003","Joe Kinsella","D-III","SCAC",28,11,0,0.718
+"24","Millsaps","426","2002","Joe Kinsella","D-III","SCAC",17,16,0,0.515
+"25","Millsaps","426","2001","Joe Kinsella","D-III","-",6,20,0,0.231
+"26","Millsaps","426","1900","Billy Stack","D-III","-",1,26,NA,0.037
+"27","Millsaps","426","1999","","D-III","-",NA,NA,NA,NA
+"28","Millsaps","426","1998","","D-III","-",NA,NA,NA,NA
+"29","Millsaps","426","1997","","D-III","-",NA,NA,NA,NA
+"30","Millsaps","426","1996","","D-III","-",NA,NA,NA,NA
+"31","Millsaps","426","1995","","D-III","-",NA,NA,NA,NA
+"32","Millsaps","426","1994","","D-III","-",NA,NA,NA,NA
+"33","Millsaps","426","1993","","D-III","-",NA,NA,NA,NA
+"34","Millsaps","426","1992","","D-III","-",NA,NA,NA,NA
+"35","Millsaps","426","1991","","D-III","-",NA,NA,NA,NA
+"36","Millsaps","426","1990","","D-III","-",NA,NA,NA,NA
+"37","Millsaps","426","","","","",435,487,0,0.472

@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jose Gonzalez","CIAA","32-12-0",0.727
-"2",2022,"Jose Gonzalez","CIAA","23-15-0",0.605
-"3",2021,"Marty Kinard","CIAA","8-3-0",0.727
-"4",2020,"Marty Kinard","CIAA","9-10-0",0.474
-"5",2019,"Marty Kinard","CIAA","37-19-0",0.661
-"6",2018,"Marty Kinard","SIAC","27-29-0",0.482
-"7",2017,"Marty Kinard","SIAC","33-20-0",0.623
-"8",2016,"Matisse Lee","SIAC","34-22-0",0.607
-"9",2015,"Matisse Lee","SIAC","21-16-0",0.568
-"10",2014,"Matisse Lee","SIAC","42-8-0",0.84
-"11",2013,"Matisse Lee","SIAC","30-15-0",0.667
-"12",2012,"Matisse Lee","SIAC","28-23-0",0.549
-"13",2011,"Matisse Lee","SIAC","20-13-0",0.606
-"14",2010,"Matisse Lee","SIAC","21-26-0",0.447
-"15",2009,"","SIAC","19-12-0",0.613
-"16",2008,"","SIAC","1-1-0",0.5
-"17",2007,"","-","0-0-0",NA
-"18",2006,"","-","0-0-0",NA
-"19",2005,"","-","0-0-0",NA
-"20",2004,"","-","0-3-0",0
-"21",2024,"Ricky  Holden","CIAA","16-20-0",0.444
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Claflin","30058","2025","Ricky  Holden","D-II","CIAA",1,0,0,1
+"2","Claflin","30058","2024","Ricky  Holden","D-II","CIAA",19,23,0,0.452
+"3","Claflin","30058","2023","Jose Gonzalez","D-II","CIAA",32,12,0,0.727
+"4","Claflin","30058","2022","Jose Gonzalez","D-II","CIAA",23,15,0,0.605
+"5","Claflin","30058","2021","Marty Kinard","D-II","CIAA",8,3,0,0.727
+"6","Claflin","30058","2020","Marty Kinard","D-II","CIAA",9,10,0,0.474
+"7","Claflin","30058","2019","Marty Kinard","D-II","CIAA",37,19,0,0.661
+"8","Claflin","30058","2018","Marty Kinard","D-II","SIAC",27,29,NA,0.482
+"9","Claflin","30058","2017","Marty Kinard","D-II","SIAC",33,20,0,0.623
+"10","Claflin","30058","2016","Matisse Lee","D-II","SIAC",34,22,0,0.607
+"11","Claflin","30058","2015","Matisse Lee","D-II","SIAC",21,16,0,0.568
+"12","Claflin","30058","2014","Matisse Lee","D-II","SIAC",42,8,0,0.84
+"13","Claflin","30058","2013","Matisse Lee","D-II","SIAC",30,15,0,0.667
+"14","Claflin","30058","2012","Matisse Lee","D-II","SIAC",28,23,0,0.549
+"15","Claflin","30058","2011","Matisse Lee","D-II","SIAC",20,13,0,0.606
+"16","Claflin","30058","2010","Matisse Lee","D-II","SIAC",21,26,0,0.447
+"17","Claflin","30058","2009","","D-II","SIAC",19,12,0,0.613
+"18","Claflin","30058","2008","","D-II","SIAC",1,1,0,0.5
+"19","Claflin","30058","2007","","","-",NA,NA,NA,NA
+"20","Claflin","30058","2006","","","-",NA,NA,NA,NA
+"21","Claflin","30058","2005","","","-",NA,NA,NA,NA
+"22","Claflin","30058","2004","","","-",0,3,0,0
+"23","Claflin","30058","","","","",405,270,0,0.6

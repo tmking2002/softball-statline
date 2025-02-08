@@ -1,37 +1,39 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Deanna Gumpf","ACC","30-19-1",0.612
-"2",2022,"Deanna Gumpf","ACC","40-12-0",0.769
-"3",2021,"Deanna Gumpf","ACC","33-15-0",0.688
-"4",2020,"Deanna Gumpf","ACC","13-9-0",0.591
-"5",2019,"Deanna Gumpf","ACC","37-18-0",0.673
-"6",2018,"Deanna Gumpf","ACC","34-23-0",0.596
-"7",2017,"Deanna Gumpf","ACC","34-23-0",0.596
-"8",2016,"Deanna Gumpf","ACC","43-13-0",0.768
-"9",2015,"Deanna Gumpf","ACC","42-15-0",0.737
-"10",2014,"Deanna Gumpf","ACC","41-13-0",0.759
-"11",2013,"Deanna Gumpf","AAC","43-15-0",0.741
-"12",2012,"Deanna Gumpf","AAC","40-16-0",0.714
-"13",2011,"Deanna Gumpf","AAC","46-11-0",0.807
-"14",2010,"Deanna Gumpf","AAC","47-12-0",0.797
-"15",2009,"Deanna Gumpf","AAC","43-17-0",0.717
-"16",2008,"Deanna Gumpf","AAC","38-22-1",0.633
-"17",2007,"Deanna Gumpf","AAC","32-24-0",0.571
-"18",2006,"Deanna Gumpf","AAC","42-21-0",0.667
-"19",2005,"Deanna Gumpf","AAC","46-15-0",0.754
-"20",2004,"Deanna Gumpf","AAC","49-20-0",0.71
-"21",2003,"Deanna Gumpf","AAC","38-17-0",0.691
-"22",2002,"Deanna Gumpf","AAC","44-17-0",0.721
-"23",2001,"Liz Miller","AAC","54-7-0",0.885
-"24",2000,"Liz Miller","AAC","47-14-0",0.77
-"25",1999,"Liz Miller","AAC","42-20-0",0.677
-"26",1998,"Liz Miller","-","34-22-0",0.607
-"27",1997,"Liz Miller","AAC","35-25-0",0.583
-"28",1996,"Liz Miller","-","48-16-0",0.75
-"29",1995,"Liz Miller","-","40-19-0",0.678
-"30",1994,"Liz Miller","-","41-20-0",0.672
-"31",1993,"Liz Miller","-","36-13-0",0.735
-"32",1992,"","-","0-0-0",NA
-"33",1991,"Brian Boulac","-","38-22-0",0.633
-"34",1990,"Brian Boulac","-","30-15-1",0.667
-"35",1989,"Brian Boulac","-","31-23-0",0.574
-"36",2024,"Deanna Gumpf","ACC","27-23-0",0.54
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Notre Dame","513","2025","Kris Ganeff","D-I","ACC",0,1,0,0
+"2","Notre Dame","513","2024","Deanna Gumpf","D-I","ACC",27,23,0,0.54
+"3","Notre Dame","513","2023","Deanna Gumpf","D-I","ACC",30,19,1,0.61
+"4","Notre Dame","513","2022","Deanna Gumpf","D-I","ACC",40,12,0,0.769
+"5","Notre Dame","513","2021","Deanna Gumpf","D-I","ACC",33,15,0,0.688
+"6","Notre Dame","513","2020","Deanna Gumpf","D-I","ACC",13,9,0,0.591
+"7","Notre Dame","513","2019","Deanna Gumpf","D-I","ACC",37,18,0,0.673
+"8","Notre Dame","513","2018","Deanna Gumpf","D-I","ACC",34,23,0,0.596
+"9","Notre Dame","513","2017","Deanna Gumpf","D-I","ACC",34,23,0,0.596
+"10","Notre Dame","513","2016","Deanna Gumpf","D-I","ACC",43,13,0,0.768
+"11","Notre Dame","513","2015","Deanna Gumpf","D-I","ACC",42,15,0,0.737
+"12","Notre Dame","513","2014","Deanna Gumpf","D-I","ACC",41,13,0,0.759
+"13","Notre Dame","513","2013","Deanna Gumpf","D-I","The American",43,15,0,0.741
+"14","Notre Dame","513","2012","Deanna Gumpf","D-I","The American",40,16,0,0.714
+"15","Notre Dame","513","2011","Deanna Gumpf","D-I","The American",46,11,0,0.807
+"16","Notre Dame","513","2010","Deanna Gumpf","D-I","The American",47,12,0,0.797
+"17","Notre Dame","513","2009","Deanna Gumpf","D-I","The American",43,17,0,0.717
+"18","Notre Dame","513","2008","Deanna Gumpf","D-I","The American",38,22,1,0.631
+"19","Notre Dame","513","2007","Deanna Gumpf","D-I","The American",32,24,0,0.571
+"20","Notre Dame","513","2006","Deanna Gumpf","D-I","The American",42,21,0,0.667
+"21","Notre Dame","513","2005","Deanna Gumpf","D-I","The American",46,15,0,0.754
+"22","Notre Dame","513","2004","Deanna Gumpf","D-I","The American",49,20,0,0.71
+"23","Notre Dame","513","2003","Deanna Gumpf","D-I","The American",38,17,0,0.691
+"24","Notre Dame","513","2002","Deanna Gumpf","D-I","The American",44,17,0,0.721
+"25","Notre Dame","513","2001","Liz Miller","D-I","The American",54,7,0,0.885
+"26","Notre Dame","513","1900","Liz Miller","D-I","The American",47,14,0,0.77
+"27","Notre Dame","513","1999","Liz Miller","D-I","The American",42,20,0,0.677
+"28","Notre Dame","513","1998","Liz Miller","D-I","-",34,22,NA,0.607
+"29","Notre Dame","513","1997","Liz Miller","D-I","The American",35,25,0,0.583
+"30","Notre Dame","513","1996","Liz Miller","D-I","-",48,16,NA,0.75
+"31","Notre Dame","513","1995","Liz Miller","D-I","-",40,19,NA,0.678
+"32","Notre Dame","513","1994","Liz Miller","D-I","-",41,20,NA,0.672
+"33","Notre Dame","513","1993","Liz Miller","D-I","-",36,13,NA,0.735
+"34","Notre Dame","513","1992","","D-I","-",NA,NA,NA,NA
+"35","Notre Dame","513","1991","Brian Boulac","D-I","-",38,22,NA,0.633
+"36","Notre Dame","513","1990","Brian Boulac","D-I","-",30,15,1,0.663
+"37","Notre Dame","513","1989","Brian Boulac","D-I","-",31,23,NA,0.574
+"38","Notre Dame","513","","","","",1358,607,3,0.691

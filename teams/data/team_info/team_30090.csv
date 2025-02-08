@@ -1,18 +1,20 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Scott Libby","Lone Star","19-34-0","0.358"
-"2","2022","Scott Libby","Lone Star","16-35-0","0.314"
-"3","2021","Scott Libby","Lone Star","26-19-0","0.578"
-"4","2020","Scott Libby","Lone Star","5-16-0","0.238"
-"5","2019","Scott Libby","Heartland","26-32-0","0.448"
-"6","2018","Scott Libby","Heartland","25-34-0","0.424"
-"7","2017","Scott Libby","Heartland","19-35-0","0.352"
-"8","2016","Scott Libby","Heartland","24-35-0","0.407"
-"9","2015","Scott Libby","Heartland","25-25-0","0.500"
-"10","2014","Scott Libby","Heartland","20-36-0","0.357"
-"11","2013","Scott Libby","Heartland","22-36-0","0.379"
-"12","2012","Scott Libby","Heartland","18-37-0","0.327"
-"13","2011","Scott Libby","Heartland","32-29-0","0.525"
-"14","2010","Scott Libby","Heartland","22-27-0","0.449"
-"15","2009","Scott Libby","Heartland","25-31-0","0.446"
-"16","2008","","-","0-0-0","  NaN"
-"17","2024","Scott Libby","Lone Star","3-3-0","0.500"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Tex. A&M Int'l","30090","2025","Scott Libby","D-II","Lone Star",6,2,0,0.75
+"2","Tex. A&M Int'l","30090","2024","Scott Libby","D-II","Lone Star",15,37,0,0.288
+"3","Tex. A&M Int'l","30090","2023","Scott Libby","D-II","Lone Star",19,34,0,0.358
+"4","Tex. A&M Int'l","30090","2022","Scott Libby","D-II","Lone Star",16,35,0,0.314
+"5","Tex. A&M Int'l","30090","2021","Scott Libby","D-II","Lone Star",26,19,0,0.578
+"6","Tex. A&M Int'l","30090","2020","Scott Libby","D-II","Lone Star",5,16,0,0.238
+"7","Tex. A&M Int'l","30090","2019","Scott Libby","D-II","Heartland",26,32,0,0.448
+"8","Tex. A&M Int'l","30090","2018","Scott Libby","D-II","Heartland",25,34,NA,0.424
+"9","Tex. A&M Int'l","30090","2017","Scott Libby","D-II","Heartland",19,35,0,0.352
+"10","Tex. A&M Int'l","30090","2016","Scott Libby","D-II","Heartland",24,35,0,0.407
+"11","Tex. A&M Int'l","30090","2015","Scott Libby","D-II","Heartland",25,25,0,0.5
+"12","Tex. A&M Int'l","30090","2014","Scott Libby","D-II","Heartland",20,36,0,0.357
+"13","Tex. A&M Int'l","30090","2013","Scott Libby","D-II","Heartland",22,36,0,0.379
+"14","Tex. A&M Int'l","30090","2012","Scott Libby","D-II","Heartland",18,37,0,0.327
+"15","Tex. A&M Int'l","30090","2011","Scott Libby","D-II","Heartland",32,29,0,0.525
+"16","Tex. A&M Int'l","30090","2010","Scott Libby","D-II","Heartland",22,27,0,0.449
+"17","Tex. A&M Int'l","30090","2009","Scott Libby","D-II","Heartland",25,31,0,0.446
+"18","Tex. A&M Int'l","30090","2008","","","-",NA,NA,NA,NA
+"19","Tex. A&M Int'l","30090","","","","",345,500,0,0.408

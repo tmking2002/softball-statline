@@ -1,25 +1,27 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Bill Graham","AMCC","25-14-0",0.641
-"2",2022,"Bill Graham","AMCC","19-13-0",0.594
-"3",2021,"Joe Merilli","AMCC","11-13-1",0.458
-"4",2020,"Joe Merilli","AMCC","2-8-0",0.2
-"5",2019,"Joe Merilli","AMCC","18-20-0",0.474
-"6",2018,"Joe Merilli","AMCC","22-17-1",0.564
-"7",2017,"Joe Merilli","AMCC","18-18-0",0.5
-"8",2016,"Joe Merilli","AMCC","27-11-0",0.711
-"9",2015,"Jessica Bilko","AMCC","29-13-0",0.69
-"10",2014,"Fred Caldwell","AMCC","29-11-0",0.725
-"11",2013,"Fred Caldwell","AMCC","27-12-0",0.692
-"12",2012,"Fred Caldwell","AMCC","33-12-0",0.733
-"13",2011,"Fred Caldwell","AMCC","25-14-0",0.641
-"14",2010,"Fred Caldwell","AMCC","21-18-1",0.538
-"15",2009,"Nikki Runzo","AMCC","7-27-0",0.206
-"16",2008,"Nikki Runzo","AMCC","5-30-0",0.143
-"17",2007,"Brenda Palmer","AMCC","6-24-0",0.2
-"18",2006,"Brenda Palmer","AMCC","7-15-0",0.318
-"19",2005,"Brenda Palmer","AMCC","11-21-0",0.344
-"20",2004,"Brenda Palmer","AMCC","18-19-0",0.486
-"21",2003,"Brenda Palmer","-","0-0-0",NA
-"22",2002,"","-","0-0-0",NA
-"23",1981,"","-","0-0-0",NA
-"24",2024,"Bill Graham","AMCC","18-17-0",0.514
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.-Altoona","25719","2025","Bill Graham","D-III","AMCC",0,0,0,0
+"2","Penn St.-Altoona","25719","2024","Bill Graham","D-III","AMCC",18,17,0,0.514
+"3","Penn St.-Altoona","25719","2023","Bill Graham","D-III","AMCC",25,14,0,0.641
+"4","Penn St.-Altoona","25719","2022","Bill Graham","D-III","AMCC",19,13,0,0.594
+"5","Penn St.-Altoona","25719","2021","Joe Merilli","D-III","AMCC",11,13,1,0.46
+"6","Penn St.-Altoona","25719","2020","Joe Merilli","D-III","AMCC",2,8,0,0.2
+"7","Penn St.-Altoona","25719","2019","Joe Merilli","D-III","AMCC",18,20,0,0.474
+"8","Penn St.-Altoona","25719","2018","Joe Merilli","D-III","AMCC",22,17,1,0.563
+"9","Penn St.-Altoona","25719","2017","Joe Merilli","D-III","AMCC",18,18,0,0.5
+"10","Penn St.-Altoona","25719","2016","Joe Merilli","D-III","AMCC",27,11,0,0.711
+"11","Penn St.-Altoona","25719","2015","Jessica Bilko","D-III","AMCC",29,13,0,0.69
+"12","Penn St.-Altoona","25719","2014","Fred Caldwell","D-III","AMCC",29,11,0,0.725
+"13","Penn St.-Altoona","25719","2013","Fred Caldwell","D-III","AMCC",27,12,0,0.692
+"14","Penn St.-Altoona","25719","2012","Fred Caldwell","D-III","AMCC",33,12,0,0.733
+"15","Penn St.-Altoona","25719","2011","Fred Caldwell","D-III","AMCC",25,14,0,0.641
+"16","Penn St.-Altoona","25719","2010","Fred Caldwell","D-III","AMCC",21,18,1,0.538
+"17","Penn St.-Altoona","25719","2009","Nikki Runzo","D-III","AMCC",7,27,0,0.206
+"18","Penn St.-Altoona","25719","2008","Nikki Runzo","D-III","AMCC",5,30,0,0.143
+"19","Penn St.-Altoona","25719","2007","Brenda Palmer","D-III","AMCC",6,24,0,0.2
+"20","Penn St.-Altoona","25719","2006","Brenda Palmer","D-III","AMCC",7,15,0,0.318
+"21","Penn St.-Altoona","25719","2005","Brenda Palmer","D-III","AMCC",11,21,0,0.344
+"22","Penn St.-Altoona","25719","2004","Brenda Palmer","D-III","AMCC",18,19,0,0.486
+"23","Penn St.-Altoona","25719","2003","Brenda Palmer","","-",NA,NA,NA,NA
+"24","Penn St.-Altoona","25719","2002","","","-",NA,NA,NA,NA
+"25","Penn St.-Altoona","25719","1981","","","-",NA,NA,NA,NA
+"26","Penn St.-Altoona","25719","","","","",378,347,3,0.521

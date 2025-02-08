@@ -1,3 +1,5 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2018",NA,"-","0-0-0",0
-"2","2017",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ind.-South Bend","502302","2024",NA,NA,"-",NA,NA,NA,0
+"2","Ind.-South Bend","502302","2018",NA,NA,"-",NA,NA,NA,0
+"3","Ind.-South Bend","502302","2017",NA,NA,"-",NA,NA,NA,NA
+"4","Ind.-South Bend","502302","",NA,NA,"",0,0,0,0

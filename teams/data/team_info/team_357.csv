@@ -1,21 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Zadaisha Waddell","CIAA","13-24-0","0.351"
-"2","2022","Renee Clarke","CIAA","6-30-0","0.167"
-"3","2021","Renee Clarke","CIAA","0-0-0","  NaN"
-"4","2020","Trey Downs","CIAA","0-5-0","0.000"
-"5","2019","Jill Freese","CIAA","4-28-0","0.125"
-"6","2018","Jill Freese","CIAA","5-17-1","0.227"
-"7","2017","Jill Freese","CIAA","6-22-0","0.214"
-"8","2016","Tim Lewis","CIAA","0-6-0","0.000"
-"9","2015","Tim Lewis","CIAA","0-26-0","0.000"
-"10","2014","Amber Sneed","CIAA","0-21-0","0.000"
-"11","2013","Amber Sneed","CIAA","8-19-0","0.296"
-"12","2012","Amber Sneed","CIAA","2-22-0","0.083"
-"13","2011","Lynsey Grace","CIAA","5-19-0","0.208"
-"14","2010","Lynsey Grace","Lincoln (PA)","7-19-0","0.269"
-"15","2009","Chris Cummings","-","5-19-0","0.208"
-"16","2008","Chris Cummings","-","0-20-0","0.000"
-"17","2000","","-","0-0-0","  NaN"
-"18","1999","","-","0-0-0","  NaN"
-"19","1996","","-","0-0-0","  NaN"
-"20","1994","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lincoln (PA)","357","2025","Zadaisha Waddell","D-II","CIAA",0,0,0,0
+"2","Lincoln (PA)","357","2024","Zadaisha Waddell","D-II","CIAA",14,26,0,0.35
+"3","Lincoln (PA)","357","2023","Zadaisha Waddell","D-II","CIAA",13,24,0,0.351
+"4","Lincoln (PA)","357","2022","Renee Clarke","D-II","CIAA",6,30,0,0.167
+"5","Lincoln (PA)","357","2021","Renee Clarke","D-II","CIAA",0,0,0,0
+"6","Lincoln (PA)","357","2020","Trey Downs","D-II","CIAA",0,5,0,0
+"7","Lincoln (PA)","357","2019","Jill Freese","D-II","CIAA",4,28,0,0.125
+"8","Lincoln (PA)","357","2018","Jill Freese","D-II","CIAA",5,17,1,0.239
+"9","Lincoln (PA)","357","2017","Jill Freese","D-II","CIAA",6,22,0,0.214
+"10","Lincoln (PA)","357","2016","Tim Lewis","D-II","CIAA",0,6,0,0
+"11","Lincoln (PA)","357","2015","Tim Lewis","D-II","CIAA",0,26,0,0
+"12","Lincoln (PA)","357","2014","Amber Sneed","D-II","CIAA",0,21,0,0
+"13","Lincoln (PA)","357","2013","Amber Sneed","D-II","CIAA",8,19,0,0.296
+"14","Lincoln (PA)","357","2012","Amber Sneed","D-II","CIAA",2,22,0,0.083
+"15","Lincoln (PA)","357","2011","Lynsey Grace","D-II","CIAA",5,19,0,0.208
+"16","Lincoln (PA)","357","2010","Lynsey Grace","D-II","Lincoln (PA)",7,19,0,0.269
+"17","Lincoln (PA)","357","2009","Chris Cummings","D-III","-",5,19,0,0.208
+"18","Lincoln (PA)","357","2008","Chris Cummings","","-",0,20,0,0
+"19","Lincoln (PA)","357","1900","","D-II","-",NA,NA,NA,0
+"20","Lincoln (PA)","357","1999","","D-II","-",NA,NA,NA,0
+"21","Lincoln (PA)","357","1996","","D-II","-",NA,NA,NA,0
+"22","Lincoln (PA)","357","1994","","D-II","-",NA,NA,NA,0
+"23","Lincoln (PA)","357","","","","",75,323,1,0.189

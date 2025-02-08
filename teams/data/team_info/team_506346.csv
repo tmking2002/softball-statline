@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2020",NA,"-","0-0-0",0
-"4","2019",NA,"-","0-0-0",0
-"5","2018",NA,"-","0-0-0",0
-"6","2017",NA,"-","0-0-0",NA
-"7","2016",NA,"-","0-0-0",NA
-"8","2015",NA,"-","0-0-0",NA
-"9","2014",NA,"-","0-0-0",NA
-"10","2013",NA,"-","0-0-0",NA
-"11","2012",NA,"-","0-0-0",NA
-"12","2011",NA,"-","0-0-0",NA
-"13","2010",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ave Maria","506346","2025",NA,NA,"-",NA,NA,NA,0
+"2","Ave Maria","506346","2024",NA,NA,"-",NA,NA,NA,0
+"3","Ave Maria","506346","2022",NA,NA,"-",NA,NA,NA,0
+"4","Ave Maria","506346","2020",NA,NA,"-",NA,NA,NA,0
+"5","Ave Maria","506346","2019",NA,NA,"-",NA,NA,NA,0
+"6","Ave Maria","506346","2018",NA,NA,"-",NA,NA,NA,0
+"7","Ave Maria","506346","2017",NA,NA,"-",NA,NA,NA,NA
+"8","Ave Maria","506346","2016",NA,NA,"-",NA,NA,NA,NA
+"9","Ave Maria","506346","2015",NA,NA,"-",NA,NA,NA,NA
+"10","Ave Maria","506346","2014",NA,NA,"-",NA,NA,NA,NA
+"11","Ave Maria","506346","2013",NA,NA,"-",NA,NA,NA,NA
+"12","Ave Maria","506346","2012",NA,NA,"-",NA,NA,NA,NA
+"13","Ave Maria","506346","2011",NA,NA,"-",NA,NA,NA,NA
+"14","Ave Maria","506346","2010",NA,NA,"-",NA,NA,NA,NA
+"15","Ave Maria","506346","",NA,NA,"",0,0,0,0

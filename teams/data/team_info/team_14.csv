@@ -1,39 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Chris Cannata","America East","24-20-0","0.545"
-"2","2022","Chris Cannata","America East","25-17-0","0.595"
-"3","2021","Chris Cannata","America East","23-19-0","0.548"
-"4","2020","Chris Cannata","America East","6-5-0","0.545"
-"5","2019","Chris Cannata","America East","26-17-0","0.605"
-"6","2018","Chris Cannata","America East","31-16-0","0.660"
-"7","2017","Chris Cannata","America East","27-18-0","0.600"
-"8","2016","Chris Cannata","America East","34-18-0","0.654"
-"9","2015","Chris Cannata","America East","30-18-0","0.625"
-"10","2014","Chris Cannata","America East","34-13-0","0.723"
-"11","2013","Chris Cannata","America East","37-15-0","0.712"
-"12","2012","Chris Cannata","America East","36-14-0","0.720"
-"13","2011","Chris Cannata","America East","28-23-0","0.549"
-"14","2010","Chris Cannata","America East","20-23-0","0.465"
-"15","2009","Chris Cannata","America East","38-16-0","0.704"
-"16","2008","Chris Cannata","America East","34-17-0","0.667"
-"17","2007","Chris Cannata","America East","35-17-0","0.673"
-"18","2006","Chris Cannata","America East","36-13-1","0.735"
-"19","2005","Chris Cannata","America East","35-14-0","0.714"
-"20","2004","Chris Cannata","America East","34-18-0","0.654"
-"21","2003","Chris Cannata","America East","34-10-0","0.773"
-"22","2002","Chris Cannata","America East","30-20-0","0.600"
-"23","2001","Chris Cannata","ECAC","22-25-0","0.468"
-"24","2000","Chris Cannata","ECAC","27-9-0","0.750"
-"25","1999","Chris Cannata","-","33-14-0","0.702"
-"26","1998","Chris Cannata","-","32-9-0","0.780"
-"27","1997","Chris Cannata","-","23-15-0","0.605"
-"28","1996","Chris Cannata","-","13-17-0","0.433"
-"29","1995","Chris Cannata","-","23-7-0","0.767"
-"30","1994","Carole Selner","-","8-15-0","0.348"
-"31","1993","Carole Selner","-","14-8-0","0.636"
-"32","1992","Ann Depperman","-","13-11-0","0.542"
-"33","1991","Ann Depperman","-","8-12-0","0.400"
-"34","1990","Ann Depperman","-","20-5-0","0.800"
-"35","1989","","-","0-0-0","  NaN"
-"36","1988","","-","0-0-0","  NaN"
-"37","1986","","-","0-0-0","  NaN"
-"38","1985","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UAlbany","14","2025","Chris Cannata","D-I","America East",0,0,0,0
+"2","UAlbany","14","2024","Chris Cannata","D-I","America East",33,14,0,0.702
+"3","UAlbany","14","2023","Chris Cannata","D-I","America East",24,20,0,0.545
+"4","UAlbany","14","2022","Chris Cannata","D-I","America East",25,17,0,0.595
+"5","UAlbany","14","2021","Chris Cannata","D-I","America East",23,19,0,0.548
+"6","UAlbany","14","2020","Chris Cannata","D-I","America East",6,5,0,0.545
+"7","UAlbany","14","2019","Chris Cannata","D-I","America East",26,17,0,0.605
+"8","UAlbany","14","2018","Chris Cannata","D-I","America East",31,16,0,0.66
+"9","UAlbany","14","2017","Chris Cannata","D-I","America East",27,18,0,0.6
+"10","UAlbany","14","2016","Chris Cannata","D-I","America East",34,18,0,0.654
+"11","UAlbany","14","2015","Chris Cannata","D-I","America East",30,18,0,0.625
+"12","UAlbany","14","2014","Chris Cannata","D-I","America East",34,13,0,0.723
+"13","UAlbany","14","2013","Chris Cannata","D-I","America East",37,15,0,0.712
+"14","UAlbany","14","2012","Chris Cannata","D-I","America East",38,14,0,0.731
+"15","UAlbany","14","2011","Chris Cannata","D-I","America East",28,23,0,0.549
+"16","UAlbany","14","2010","Chris Cannata","D-I","America East",20,23,0,0.465
+"17","UAlbany","14","2009","Chris Cannata","D-I","America East",38,16,0,0.704
+"18","UAlbany","14","2008","Chris Cannata","D-I","America East",34,17,0,0.667
+"19","UAlbany","14","2007","Chris Cannata","D-I","America East",35,17,0,0.673
+"20","UAlbany","14","2006","Chris Cannata","D-I","America East",36,13,1,0.73
+"21","UAlbany","14","2005","Chris Cannata","D-I","America East",35,14,0,0.714
+"22","UAlbany","14","2004","Chris Cannata","D-I","America East",34,18,0,0.654
+"23","UAlbany","14","2003","Chris Cannata","D-I","America East",34,10,0,0.773
+"24","UAlbany","14","2002","Chris Cannata","D-I","America East",30,20,0,0.6
+"25","UAlbany","14","2001","Chris Cannata","D-I","ECAC",22,25,0,0.468
+"26","UAlbany","14","1900","Chris Cannata","D-I","ECAC",27,9,0,0.75
+"27","UAlbany","14","1999","Chris Cannata","D-II","-",33,14,0,0.702
+"28","UAlbany","14","1998","Chris Cannata","D-II","-",32,9,0,0.78
+"29","UAlbany","14","1997","Chris Cannata","D-II","-",23,15,0,0.605
+"30","UAlbany","14","1996","Chris Cannata","D-II","-",13,17,0,0.433
+"31","UAlbany","14","1995","Chris Cannata","D-II","-",23,7,0,0.767
+"32","UAlbany","14","1994","Carole Selner","","-",8,15,NA,0.348
+"33","UAlbany","14","1993","Carole Selner","","-",14,8,NA,0.636
+"34","UAlbany","14","1992","Ann Depperman","D-III","-",13,11,NA,0.542
+"35","UAlbany","14","1991","Ann Depperman","D-III","-",8,12,NA,0.4
+"36","UAlbany","14","1990","Ann Depperman","D-III","-",20,5,NA,0.8
+"37","UAlbany","14","1989","","D-III","-",NA,NA,NA,NA
+"38","UAlbany","14","1988","","D-III","-",NA,NA,NA,NA
+"39","UAlbany","14","1986","","D-III","-",NA,NA,NA,NA
+"40","UAlbany","14","1985","","D-III","-",NA,NA,NA,NA
+"41","UAlbany","14","","","","",928,522,1,0.64

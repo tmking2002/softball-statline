@@ -1,13 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0","NaN"
-"2","2000",NA,"-","0-0-0","NaN"
-"3","1998",NA,"-","0-0-0","NaN"
-"4","1997",NA,"-","0-0-0","NaN"
-"5","1996",NA,"-","0-0-0","NaN"
-"6","1994",NA,"-","0-0-0","NaN"
-"7","1988",NA,"-","0-0-0","NaN"
-"8","1987",NA,"-","0-0-0","NaN"
-"9","1986",NA,"-","0-0-0","NaN"
-"10","1985",NA,"-","0-0-0","NaN"
-"11","1984",NA,"-","0-0-0","NaN"
-"12","1982",NA,"-","0-0-0","NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","New Hampshire","469","2024",NA,"","-",NA,NA,NA,0
+"2","New Hampshire","469","2023",NA,"","-",NA,NA,NA,0
+"3","New Hampshire","469","1900",NA,"D-II","-",NA,NA,NA,NA
+"4","New Hampshire","469","1998",NA,"D-II","-",NA,NA,NA,NA
+"5","New Hampshire","469","1997",NA,"D-II","-",NA,NA,NA,NA
+"6","New Hampshire","469","1996",NA,"D-II","-",NA,NA,NA,NA
+"7","New Hampshire","469","1994",NA,"D-II","-",NA,NA,NA,NA
+"8","New Hampshire","469","1988",NA,"D-II","-",NA,NA,NA,NA
+"9","New Hampshire","469","1987",NA,"D-II","-",NA,NA,NA,NA
+"10","New Hampshire","469","1986",NA,"D-II","-",NA,NA,NA,NA
+"11","New Hampshire","469","1985",NA,"D-I","-",NA,NA,NA,NA
+"12","New Hampshire","469","1984",NA,"D-II","-",NA,NA,NA,NA
+"13","New Hampshire","469","1982",NA,"D-I","-",NA,NA,NA,NA
+"14","New Hampshire","469","",NA,"","",0,0,0,0

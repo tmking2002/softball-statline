@@ -1,43 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"James Rubbelke","MIAC","16-19-1",0.457
-"2",2022,"James Rubbelke","MIAC","17-15-1",0.531
-"3",2021,"James Rubbelke","MIAC","6-22-0",0.214
-"4",2020,"James Rubbelke","MIAC","4-1-0",0.8
-"5",2019,"James Rubbelke","MIAC","25-17-0",0.595
-"6",2018,"James Rubbelke","MIAC","17-19-0",0.472
-"7",2017,"James Rubbelke","MIAC","23-15-0",0.605
-"8",2016,"James Rubbelke","MIAC","26-17-0",0.605
-"9",2015,"James Rubbelke","MIAC","27-13-0",0.675
-"10",2014,"James Rubbelke","MIAC","18-17-1",0.514
-"11",2013,"James Rubbelke","MIAC","18-16-0",0.529
-"12",2012,"James Rubbelke","MIAC","10-28-0",0.263
-"13",2011,"James Rubbelke","MIAC","21-19-0",0.525
-"14",2010,"James Rubbelke","MIAC","19-19-0",0.5
-"15",2009,"James Rubbelke","MIAC","28-11-0",0.718
-"16",2008,"James Rubbelke","MIAC","26-14-0",0.65
-"17",2007,"Janelle Tieken","MIAC","21-15-1",0.583
-"18",2006,"Janelle Tieken","MIAC","19-21-0",0.475
-"19",2005,"Janelle Tieken","MIAC","21-20-0",0.512
-"20",2004,"Janelle Tieken","MIAC","26-16-0",0.619
-"21",2003,"Janelle Tieken","MIAC","28-10-0",0.737
-"22",2002,"Janelle Tieken","MIAC","26-12-0",0.684
-"23",2001,"Janelle Tieken","-","11-23-1",0.324
-"24",2000,"","-","0-0-0",NA
-"25",1999,"Janelle Tieken","-","15-19-0",0.441
-"26",1998,"Katharine Romme","-","14-18-0",0.438
-"27",1997,"Katharine Romme","-","17-17-0",0.5
-"28",1996,"Katharine Romme","-","12-18-0",0.4
-"29",1995,"Katharine Romme","-","12-23-0",0.343
-"30",1994,"Katharine Romme","-","12-18-0",0.4
-"31",1993,"Katharine Romme","-","7-21-0",0.25
-"32",1992,"Katharine Romme","-","9-11-0",0.45
-"33",1991,"Katharine Romme","-","3-17-0",0.15
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1981,"","-","0-0-0",NA
-"42",2024,"James Rubbelke","MIAC","17-19-0",0.472
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Hamline","268","2025","James Rubbelke","D-III","MIAC",0,0,0,0
+"2","Hamline","268","2024","James Rubbelke","D-III","MIAC",16,20,0,0.444
+"3","Hamline","268","2023","James Rubbelke","D-III","MIAC",16,19,1,0.458
+"4","Hamline","268","2022","James Rubbelke","D-III","MIAC",17,15,1,0.53
+"5","Hamline","268","2021","James Rubbelke","D-III","MIAC",6,22,0,0.214
+"6","Hamline","268","2020","James Rubbelke","D-III","MIAC",4,1,0,0.8
+"7","Hamline","268","2019","James Rubbelke","D-III","MIAC",25,17,0,0.595
+"8","Hamline","268","2018","James Rubbelke","D-III","MIAC",17,19,NA,0.472
+"9","Hamline","268","2017","James Rubbelke","D-III","MIAC",23,15,0,0.605
+"10","Hamline","268","2016","James Rubbelke","D-III","MIAC",26,17,0,0.605
+"11","Hamline","268","2015","James Rubbelke","D-III","MIAC",27,13,0,0.675
+"12","Hamline","268","2014","James Rubbelke","D-III","MIAC",18,17,1,0.514
+"13","Hamline","268","2013","James Rubbelke","D-III","MIAC",18,16,0,0.529
+"14","Hamline","268","2012","James Rubbelke","D-III","MIAC",10,28,0,0.263
+"15","Hamline","268","2011","James Rubbelke","D-III","MIAC",21,19,0,0.525
+"16","Hamline","268","2010","James Rubbelke","D-III","MIAC",19,19,0,0.5
+"17","Hamline","268","2009","James Rubbelke","D-III","MIAC",28,11,0,0.718
+"18","Hamline","268","2008","James Rubbelke","D-III","MIAC",26,14,0,0.65
+"19","Hamline","268","2007","Janelle Tieken","D-III","MIAC",21,15,1,0.581
+"20","Hamline","268","2006","Janelle Tieken","D-III","MIAC",19,21,0,0.475
+"21","Hamline","268","2005","Janelle Tieken","D-III","MIAC",21,20,0,0.512
+"22","Hamline","268","2004","Janelle Tieken","D-III","MIAC",26,16,0,0.619
+"23","Hamline","268","2003","Janelle Tieken","D-III","MIAC",28,10,0,0.737
+"24","Hamline","268","2002","Janelle Tieken","D-III","MIAC",26,12,0,0.684
+"25","Hamline","268","2001","Janelle Tieken","D-III","-",11,23,1,0.329
+"26","Hamline","268","1900","","D-III","-",NA,NA,NA,NA
+"27","Hamline","268","1999","Janelle Tieken","D-III","-",15,19,NA,0.441
+"28","Hamline","268","1998","Katharine Romme","D-III","-",14,18,NA,0.438
+"29","Hamline","268","1997","Katharine Romme","D-III","-",17,17,NA,0.5
+"30","Hamline","268","1996","Katharine Romme","D-III","-",12,18,NA,0.4
+"31","Hamline","268","1995","Katharine Romme","D-III","-",12,23,NA,0.343
+"32","Hamline","268","1994","Katharine Romme","D-III","-",12,18,NA,0.4
+"33","Hamline","268","1993","Katharine Romme","D-III","-",7,21,NA,0.25
+"34","Hamline","268","1992","Katharine Romme","D-III","-",9,11,NA,0.45
+"35","Hamline","268","1991","Katharine Romme","D-III","-",3,17,NA,0.15
+"36","Hamline","268","1990","","D-III","-",NA,NA,NA,NA
+"37","Hamline","268","1989","","D-III","-",NA,NA,NA,NA
+"38","Hamline","268","1988","","D-III","-",NA,NA,NA,NA
+"39","Hamline","268","1987","","D-III","-",NA,NA,NA,NA
+"40","Hamline","268","1986","","D-III","-",NA,NA,NA,NA
+"41","Hamline","268","1985","","D-III","-",NA,NA,NA,NA
+"42","Hamline","268","1984","","","-",NA,NA,NA,NA
+"43","Hamline","268","1981","","","-",NA,NA,NA,NA
+"44","Hamline","268","","","","",570,561,5,0.504

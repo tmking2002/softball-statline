@@ -1,39 +1,41 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Dee Conway","C2C","19-19-0",0.5
-"2",2022,"Dee Conway","C2C","18-23-0",0.439
-"3",2021,"Dee Conway","C2C","13-18-0",0.419
-"4",2020,"Dee Conway","C2C","8-7-1",0.533
-"5",2019,"Dee Conway","C2C","22-20-0",0.524
-"6",2018,"Dee Conway","C2C","16-20-1",0.444
-"7",2017,"Dee Conway","C2C","25-20-0",0.556
-"8",2016,"Dee Conway","C2C","13-30-0",0.302
-"9",2015,"Dee Conway","C2C","21-14-0",0.6
-"10",2014,"Dee Conway","C2C","13-14-0",0.481
-"11",2013,"Dee Conway","C2C","15-23-0",0.395
-"12",2012,"Dee Conway","C2C","24-20-0",0.545
-"13",2011,"Dee Conway","C2C","20-22-0",0.476
-"14",2010,"Dee Conway","C2C","9-26-1",0.257
-"15",2009,"Dee Conway","C2C","25-16-1",0.61
-"16",2008,"Dee Conway","C2C","25-17-0",0.595
-"17",2007,"Dee Conway","C2C","24-19-0",0.558
-"18",2006,"Dee Conway","C2C","27-15-0",0.643
-"19",2005,"Dee Conway","C2C","17-13-1",0.567
-"20",2004,"Dee Conway","C2C","16-17-0",0.485
-"21",2003,"Dee Conway","C2C","19-14-0",0.576
-"22",2002,"Dee Conway","C2C","20-19-0",0.513
-"23",2001,"Dee Conway","-","18-12-0",0.6
-"24",2000,"Dee Conway","-","6-24-0",0.2
-"25",1999,"Dee Conway","-","11-17-0",0.393
-"26",1998,"Dee Conway","-","10-30-0",0.25
-"27",1997,"Dee Conway","-","12-25-0",0.324
-"28",1996,"Dee Conway","-","12-26-0",0.316
-"29",1995,"Dee Conway","-","20-17-0",0.541
-"30",1994,"Dee Conway","-","10-18-0",0.357
-"31",1993,"Dee Conway","-","18-11-0",0.621
-"32",1992,"Dee Conway","-","28-10-0",0.737
-"33",1991,"Dee Conway","-","20-12-0",0.625
-"34",1990,"Dee Conway","-","18-13-0",0.581
-"35",1989,"Dee Conway","-","7-19-0",0.269
-"36",1988,"Dee Conway","-","11-21-0",0.344
-"37",1981,"","-","0-0-0",NA
-"38",2024,"Hannah Qualls","C2C","16-23-0",0.41
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Mary Washington","390","2025","Hannah Qualls","D-III","C2C",0,0,0,0
+"2","Mary Washington","390","2024","Hannah Qualls","D-III","C2C",15,23,0,0.395
+"3","Mary Washington","390","2023","Dee Conway","D-III","C2C",19,19,0,0.5
+"4","Mary Washington","390","2022","Dee Conway","D-III","C2C",18,23,0,0.439
+"5","Mary Washington","390","2021","Dee Conway","D-III","C2C",13,18,0,0.419
+"6","Mary Washington","390","2020","Dee Conway","D-III","C2C",8,8,1,0.5
+"7","Mary Washington","390","2019","Dee Conway","D-III","C2C",22,20,0,0.524
+"8","Mary Washington","390","2018","Dee Conway","D-III","C2C",16,20,1,0.446
+"9","Mary Washington","390","2017","Dee Conway","D-III","C2C",25,20,0,0.556
+"10","Mary Washington","390","2016","Dee Conway","D-III","C2C",13,30,0,0.302
+"11","Mary Washington","390","2015","Dee Conway","D-III","C2C",21,14,0,0.6
+"12","Mary Washington","390","2014","Dee Conway","D-III","C2C",13,14,0,0.481
+"13","Mary Washington","390","2013","Dee Conway","D-III","C2C",15,23,0,0.395
+"14","Mary Washington","390","2012","Dee Conway","D-III","C2C",24,20,0,0.545
+"15","Mary Washington","390","2011","Dee Conway","D-III","C2C",20,22,0,0.476
+"16","Mary Washington","390","2010","Dee Conway","D-III","C2C",9,26,1,0.264
+"17","Mary Washington","390","2009","Dee Conway","D-III","C2C",25,16,1,0.607
+"18","Mary Washington","390","2008","Dee Conway","D-III","C2C",25,17,0,0.595
+"19","Mary Washington","390","2007","Dee Conway","D-III","C2C",24,19,0,0.558
+"20","Mary Washington","390","2006","Dee Conway","D-III","C2C",27,15,0,0.643
+"21","Mary Washington","390","2005","Dee Conway","D-III","C2C",17,13,1,0.565
+"22","Mary Washington","390","2004","Dee Conway","D-III","C2C",16,17,0,0.485
+"23","Mary Washington","390","2003","Dee Conway","D-III","C2C",19,14,0,0.576
+"24","Mary Washington","390","2002","Dee Conway","D-III","C2C",20,19,0,0.513
+"25","Mary Washington","390","2001","Dee Conway","D-III","-",18,12,NA,0.6
+"26","Mary Washington","390","1900","Dee Conway","D-III","-",6,24,NA,0.2
+"27","Mary Washington","390","1999","Dee Conway","D-III","-",11,17,NA,0.393
+"28","Mary Washington","390","1998","Dee Conway","D-III","-",10,30,NA,0.25
+"29","Mary Washington","390","1997","Dee Conway","D-III","-",12,25,NA,0.324
+"30","Mary Washington","390","1996","Dee Conway","D-III","-",12,26,NA,0.316
+"31","Mary Washington","390","1995","Dee Conway","D-III","-",20,17,NA,0.541
+"32","Mary Washington","390","1994","Dee Conway","D-III","-",10,18,NA,0.357
+"33","Mary Washington","390","1993","Dee Conway","D-III","-",18,11,NA,0.621
+"34","Mary Washington","390","1992","Dee Conway","D-III","-",28,10,NA,0.737
+"35","Mary Washington","390","1991","Dee Conway","D-III","-",20,12,NA,0.625
+"36","Mary Washington","390","1990","Dee Conway","D-III","-",18,13,NA,0.581
+"37","Mary Washington","390","1989","Dee Conway","D-III","-",7,19,NA,0.269
+"38","Mary Washington","390","1988","Dee Conway","D-III","-",11,21,NA,0.344
+"39","Mary Washington","390","1981","","","-",NA,NA,NA,NA
+"40","Mary Washington","390","","","","",625,685,5,0.477

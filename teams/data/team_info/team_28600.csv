@@ -1,23 +1,26 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kristin Ryman","ASUN","21-29-0","0.420"
-"2","2022","Kristin Ryman","ASUN","20-32-0","0.385"
-"3","2021","Kristin Ryman","ASUN","18-18-0","0.500"
-"4","2020","Kristin Ryman","ASUN","12-10-0","0.545"
-"5","2019","Kristin Ryman","ASUN","42-15-1","0.737"
-"6","2018","Kristin Ryman","ASUN","33-17-0","0.660"
-"7","2017","Kristin Ryman","ASUN","36-20-0","0.643"
-"8","2016","Kristin Ryman","ASUN","26-29-0","0.473"
-"9","2015","Kristin Ryman","ASUN","31-25-0","0.554"
-"10","2014","Kristin Ryman","ASUN","41-15-0","0.732"
-"11","2013","Kristin Ryman","ASUN","35-24-0","0.593"
-"12","2012","Kristin Ryman","ASUN","35-20-0","0.636"
-"13","2011","Kristin Ryman","ASUN","30-20-0","0.600"
-"14","2010","Kristin Ryman","ASUN","50-13-0","0.794"
-"15","2009","Kristin Ryman","ASUN","39-14-0","0.736"
-"16","2008","Kristin Ryman","ASUN","29-26-0","0.527"
-"17","2007","Kristin Ryman","ASUN","25-28-1","0.472"
-"18","2006","Kristin Ryman","ASUN","14-34-0","0.292"
-"19","2005","Andy Lane","ASUN","27-24-0","0.529"
-"20","2004","","ASUN","18-34-0","0.346"
-"21","2003","","-","0-0-0","  NaN"
-"22","2002","","-","25-26-0","0.490"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lipscomb","28600","2025","Kristin Ryman","D-I","ASUN",0,1,0,0
+"2","Lipscomb","28600","2024","Kristin Ryman","D-I","ASUN",16,36,0,0.308
+"3","Lipscomb","28600","2023","Kristin Ryman","D-I","ASUN",21,29,0,0.42
+"4","Lipscomb","28600","2022","Kristin Ryman","D-I","ASUN",20,32,0,0.385
+"5","Lipscomb","28600","2021","Kristin Ryman","D-I","ASUN",18,18,0,0.5
+"6","Lipscomb","28600","2020","Kristin Ryman","D-I","ASUN",12,10,0,0.545
+"7","Lipscomb","28600","2019","Kristin Ryman","D-I","ASUN",42,15,1,0.733
+"8","Lipscomb","28600","2018","Kristin Ryman","D-I","ASUN",33,17,NA,0.66
+"9","Lipscomb","28600","2017","Kristin Ryman","D-I","ASUN",36,20,0,0.643
+"10","Lipscomb","28600","2016","Kristin Ryman","D-I","ASUN",26,29,0,0.473
+"11","Lipscomb","28600","2015","Kristin Ryman","D-I","ASUN",31,25,0,0.554
+"12","Lipscomb","28600","2014","Kristin Ryman","D-I","ASUN",41,15,0,0.732
+"13","Lipscomb","28600","2013","Kristin Ryman","D-I","ASUN",35,24,0,0.593
+"14","Lipscomb","28600","2012","Kristin Ryman","D-I","ASUN",35,20,0,0.636
+"15","Lipscomb","28600","2011","Kristin Ryman","D-I","ASUN",30,20,0,0.6
+"16","Lipscomb","28600","2010","Kristin Ryman","D-I","ASUN",50,13,0,0.794
+"17","Lipscomb","28600","2009","Kristin Ryman","D-I","ASUN",39,14,0,0.736
+"18","Lipscomb","28600","2008","Kristin Ryman","D-I","ASUN",29,26,0,0.527
+"19","Lipscomb","28600","2007","Kristin Ryman","D-I","ASUN",25,28,1,0.472
+"20","Lipscomb","28600","2006","Kristin Ryman","D-I","ASUN",14,34,0,0.292
+"21","Lipscomb","28600","2005","Andy Lane","D-I","ASUN",27,24,0,0.529
+"22","Lipscomb","28600","2004","","D-I","ASUN",18,34,0,0.346
+"23","Lipscomb","28600","2003","","","-",NA,NA,NA,NA
+"24","Lipscomb","28600","2002","","D-I","-",25,26,0,0.49
+"25","Lipscomb","28600","","","","",623,510,2,0.55

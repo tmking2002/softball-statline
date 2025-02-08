@@ -1,36 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kim Broking","Atlantic East","15-23-0",0.395
-"2",2022,"Kim Broking","Atlantic East","8-24-0",0.25
-"3",2021,"Kim Broking","Atlantic East","9-11-0",0.45
-"4",2020,"Kim Broking","CSAC","5-3-0",0.625
-"5",2019,"Kim Broking","CSAC","16-21-0",0.432
-"6",2018,"Kim Broking","CSAC","10-24-0",0.294
-"7",2017,"Kim Broking","CSAC","14-22-0",0.389
-"8",2016,"Kim Broking","CSAC","9-22-0",0.29
-"9",2015,"Kim Broking","CSAC","19-20-0",0.487
-"10",2014,"Kim Broking","CSAC","15-25-0",0.375
-"11",2013,"Kim Broking","CSAC","20-14-0",0.588
-"12",2012,"Kim Broking","CSAC","27-16-0",0.628
-"13",2011,"Kim Broking","CSAC","29-13-0",0.69
-"14",2010,"Kim Broking","CSAC","30-14-0",0.682
-"15",2009,"Kim Broking","CSAC","27-14-0",0.659
-"16",2008,"Billie Jo Blackwell","CSAC","10-22-0",0.312
-"17",2007,"Billie Jo Blackwell","Skyline","9-14-0",0.391
-"18",2006,"Billie Jo Blackwell","Skyline","13-22-0",0.371
-"19",2005,"Billie Jo Blackwell","Skyline","14-14-0",0.5
-"20",2004,"Billie Jo Blackwell","Skyline","21-17-0",0.553
-"21",2003,"Billie Jo Blackwell","-","0-0-0",NA
-"22",2002,"Billie Jo Blackwell","ECAC","11-18-0",0.379
-"23",2001,"Billie Jo Blackwell","-","17-15-0",0.531
-"24",2000,"Billie Jo Blackwell","-","0-22-0",0
-"25",1999,"Billie Jo Blackwell","-","0-22-0",0
-"26",1998,"","-","0-0-0",NA
-"27",1997,"","-","0-0-0",NA
-"28",1996,"","-","0-0-0",NA
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1993,"","-","0-0-0",NA
-"32",1992,"","-","0-0-0",NA
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",2024,"Kim Broking","Atlantic East","29-16-0",0.644
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Centenary (NJ)","12884","2025","Kim Broking","D-III","Atlantic East",0,0,0,0
+"2","Centenary (NJ)","12884","2024","Kim Broking","D-III","Atlantic East",29,16,0,0.644
+"3","Centenary (NJ)","12884","2023","Kim Broking","D-III","Atlantic East",15,23,0,0.395
+"4","Centenary (NJ)","12884","2022","Kim Broking","D-III","Atlantic East",8,24,0,0.25
+"5","Centenary (NJ)","12884","2021","Kim Broking","D-III","Atlantic East",9,11,0,0.45
+"6","Centenary (NJ)","12884","2020","Kim Broking","D-III","CSAC",5,3,0,0.625
+"7","Centenary (NJ)","12884","2019","Kim Broking","D-III","CSAC",16,21,0,0.432
+"8","Centenary (NJ)","12884","2018","Kim Broking","D-III","CSAC",10,24,NA,0.294
+"9","Centenary (NJ)","12884","2017","Kim Broking","D-III","CSAC",14,22,0,0.389
+"10","Centenary (NJ)","12884","2016","Kim Broking","D-III","CSAC",9,22,0,0.29
+"11","Centenary (NJ)","12884","2015","Kim Broking","D-III","CSAC",19,20,0,0.487
+"12","Centenary (NJ)","12884","2014","Kim Broking","D-III","CSAC",15,25,0,0.375
+"13","Centenary (NJ)","12884","2013","Kim Broking","D-III","CSAC",20,14,0,0.588
+"14","Centenary (NJ)","12884","2012","Kim Broking","D-III","CSAC",27,16,0,0.628
+"15","Centenary (NJ)","12884","2011","Kim Broking","D-III","CSAC",29,13,0,0.69
+"16","Centenary (NJ)","12884","2010","Kim Broking","D-III","CSAC",30,14,0,0.682
+"17","Centenary (NJ)","12884","2009","Kim Broking","D-III","CSAC",27,14,0,0.659
+"18","Centenary (NJ)","12884","2008","Billie Jo Blackwell","D-III","CSAC",10,22,0,0.313
+"19","Centenary (NJ)","12884","2007","Billie Jo Blackwell","D-III","Skyline",9,14,0,0.391
+"20","Centenary (NJ)","12884","2006","Billie Jo Blackwell","D-III","Skyline",13,22,0,0.371
+"21","Centenary (NJ)","12884","2005","Billie Jo Blackwell","D-III","Skyline",14,14,0,0.5
+"22","Centenary (NJ)","12884","2004","Billie Jo Blackwell","D-III","Skyline",21,17,0,0.553
+"23","Centenary (NJ)","12884","2003","Billie Jo Blackwell","","-",NA,NA,NA,NA
+"24","Centenary (NJ)","12884","2002","Billie Jo Blackwell","D-III","ECAC",11,18,0,0.379
+"25","Centenary (NJ)","12884","2001","Billie Jo Blackwell","D-III","-",17,15,0,0.531
+"26","Centenary (NJ)","12884","1900","Billie Jo Blackwell","D-III","-",0,22,0,0
+"27","Centenary (NJ)","12884","1999","Billie Jo Blackwell","D-III","-",0,22,0,0
+"28","Centenary (NJ)","12884","1998","","D-III","-",NA,NA,NA,NA
+"29","Centenary (NJ)","12884","1997","","D-III","-",NA,NA,NA,NA
+"30","Centenary (NJ)","12884","1996","","D-III","-",NA,NA,NA,NA
+"31","Centenary (NJ)","12884","1995","","D-III","-",NA,NA,NA,NA
+"32","Centenary (NJ)","12884","1994","","D-III","-",NA,NA,NA,NA
+"33","Centenary (NJ)","12884","1993","","D-III","-",NA,NA,NA,NA
+"34","Centenary (NJ)","12884","1992","","D-III","-",NA,NA,NA,NA
+"35","Centenary (NJ)","12884","1991","","D-III","-",NA,NA,NA,NA
+"36","Centenary (NJ)","12884","1990","","D-III","-",NA,NA,NA,NA
+"37","Centenary (NJ)","12884","","","","",377,448,0,0.457

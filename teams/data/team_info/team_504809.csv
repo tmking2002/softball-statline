@@ -1,11 +1,13 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2022",NA,"-","0-0-0",0
-"3","2021",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2015",NA,"-","0-0-0",NA
-"8","2013",NA,"-","0-0-0",NA
-"9","2012",NA,"-","0-0-0",NA
-"10","2011",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Simpson (CA)","504809","2025",NA,NA,"-",NA,NA,NA,0
+"2","Simpson (CA)","504809","2024",NA,NA,"-",NA,NA,NA,0
+"3","Simpson (CA)","504809","2022",NA,NA,"-",NA,NA,NA,0
+"4","Simpson (CA)","504809","2021",NA,NA,"-",NA,NA,NA,0
+"5","Simpson (CA)","504809","2020",NA,NA,"-",NA,NA,NA,0
+"6","Simpson (CA)","504809","2019",NA,NA,"-",NA,NA,NA,0
+"7","Simpson (CA)","504809","2018",NA,NA,"-",NA,NA,NA,0
+"8","Simpson (CA)","504809","2015",NA,NA,"-",NA,NA,NA,NA
+"9","Simpson (CA)","504809","2013",NA,NA,"-",NA,NA,NA,NA
+"10","Simpson (CA)","504809","2012",NA,NA,"-",NA,NA,NA,NA
+"11","Simpson (CA)","504809","2011",NA,NA,"-",NA,NA,NA,NA
+"12","Simpson (CA)","504809","",NA,NA,"",0,0,0,0

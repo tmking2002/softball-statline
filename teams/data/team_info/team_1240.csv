@@ -1,33 +1,35 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Mike Armitage","NSIC","30-16-0",0.652
-"2",2022,"Mike Armitage","NSIC","6-32-0",0.158
-"3",2021,"Amanda Reckamp","NSIC","9-30-0",0.231
-"4",2020,"Amanda Reckamp","NSIC","4-9-0",0.308
-"5",2019,"Amanda Reckamp","NSIC","13-33-0",0.283
-"6",2018,"Kelsey Fehl","NSIC","14-30-0",0.318
-"7",2017,"Kelsey Fehl","NSIC","12-37-0",0.245
-"8",2016,"Kelsey Fehl","NSIC","16-30-0",0.348
-"9",2015,"Kelsey Fehl","NSIC","16-27-0",0.372
-"10",2014,"Kelsey Fehl","NSIC","12-24-0",0.333
-"11",2013,"Kelsey Fehl","NSIC","7-36-0",0.163
-"12",2012,"Kelsey Fehl","NSIC","9-34-0",0.209
-"13",2011,"Kelsey Fehl","NSIC","14-24-0",0.368
-"14",2010,"Kristin Boyes","NSIC","7-39-0",0.152
-"15",2009,"Kristin Boyes","NSIC","9-28-0",0.243
-"16",2008,"Kristin Boyes","NSIC","18-22-0",0.45
-"17",2007,"Rhonda Denbow","NSIC","33-20-0",0.623
-"18",2006,"Rhonda Denbow","NSIC","29-24-0",0.547
-"19",2005,"Rhonda Denbow","NSIC","29-21-0",0.58
-"20",2004,"Jason Sobolick","NSIC","36-16-1",0.692
-"21",2003,"Dina Kangas","NSIC","14-30-0",0.318
-"22",2002,"Dina Kangas","-","13-30-0",0.302
-"23",2001,"Dina Kangas","-","11-20-0",0.355
-"24",2000,"Karla Nelson","-","21-21-0",0.5
-"25",1999,"Karla Nelson","-","21-19-0",0.525
-"26",1998,"Karla Nelson","-","15-32-0",0.319
-"27",1997,"Karla Nelson","-","8-29-0",0.216
-"28",1996,"Karla Nelson (20-20)Mike Sofio (20-20)","-","20-20-0",0.5
-"29",1995,"","-","0-0-0",NA
-"30",1994,"","-","0-0-0",NA
-"31",1982,"","-","0-0-0",NA
-"32",2024,"Mike Armitage","NSIC","26-19-0",0.578
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","MSU Moorhead","1240","2025","Vanessa Kellems","D-II","NSIC",4,2,0,0.667
+"2","MSU Moorhead","1240","2024","Mike Armitage","D-II","NSIC",33,19,0,0.635
+"3","MSU Moorhead","1240","2023","Mike Armitage","D-II","NSIC",30,16,0,0.652
+"4","MSU Moorhead","1240","2022","Mike Armitage","D-II","NSIC",6,32,0,0.158
+"5","MSU Moorhead","1240","2021","Amanda Reckamp","D-II","NSIC",9,30,0,0.231
+"6","MSU Moorhead","1240","2020","Amanda Reckamp","D-II","NSIC",4,9,0,0.308
+"7","MSU Moorhead","1240","2019","Amanda Reckamp","D-II","NSIC",13,33,0,0.283
+"8","MSU Moorhead","1240","2018","Kelsey Fehl","D-II","NSIC",14,30,NA,0.318
+"9","MSU Moorhead","1240","2017","Kelsey Fehl","D-II","NSIC",12,37,0,0.245
+"10","MSU Moorhead","1240","2016","Kelsey Fehl","D-II","NSIC",16,30,0,0.348
+"11","MSU Moorhead","1240","2015","Kelsey Fehl","D-II","NSIC",16,27,0,0.372
+"12","MSU Moorhead","1240","2014","Kelsey Fehl","D-II","NSIC",12,24,0,0.333
+"13","MSU Moorhead","1240","2013","Kelsey Fehl","D-II","NSIC",7,36,0,0.163
+"14","MSU Moorhead","1240","2012","Kelsey Fehl","D-II","NSIC",9,34,0,0.209
+"15","MSU Moorhead","1240","2011","Kelsey Fehl","D-II","NSIC",14,24,0,0.368
+"16","MSU Moorhead","1240","2010","Kristin Boyes","D-II","NSIC",7,39,0,0.152
+"17","MSU Moorhead","1240","2009","Kristin Boyes","D-II","NSIC",9,28,0,0.243
+"18","MSU Moorhead","1240","2008","Kristin Boyes","D-II","NSIC",18,22,0,0.45
+"19","MSU Moorhead","1240","2007","Rhonda Denbow","D-II","NSIC",33,20,0,0.623
+"20","MSU Moorhead","1240","2006","Rhonda Denbow","D-II","NSIC",29,24,0,0.547
+"21","MSU Moorhead","1240","2005","Rhonda Denbow","D-II","NSIC",29,21,0,0.58
+"22","MSU Moorhead","1240","2004","Jason Sobolick","D-II","NSIC",36,16,1,0.689
+"23","MSU Moorhead","1240","2003","Dina Kangas","D-II","NSIC",14,30,0,0.318
+"24","MSU Moorhead","1240","2002","Dina Kangas","D-II","-",13,30,0,0.302
+"25","MSU Moorhead","1240","2001","Dina Kangas","D-II","-",11,20,0,0.355
+"26","MSU Moorhead","1240","1900","Karla Nelson","D-II","-",21,21,0,0.5
+"27","MSU Moorhead","1240","1999","Karla Nelson","D-II","-",21,19,0,0.525
+"28","MSU Moorhead","1240","1998","Karla Nelson","D-II","-",15,32,0,0.319
+"29","MSU Moorhead","1240","1997","Karla Nelson","D-II","-",8,29,0,0.216
+"30","MSU Moorhead","1240","1996","Karla Nelson (20-20)Mike Sofio (20-20)","D-II","-",20,20,0,0.5
+"31","MSU Moorhead","1240","1995","","D-II","-",NA,NA,NA,NA
+"32","MSU Moorhead","1240","1994","","D-II","-",NA,NA,NA,NA
+"33","MSU Moorhead","1240","1982","","D-II","-",NA,NA,NA,NA
+"34","MSU Moorhead","1240","","","","",483,754,1,0.391

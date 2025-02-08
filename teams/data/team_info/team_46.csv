@@ -1,54 +1,57 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Tom Spencer","OAC","28-16-0",0.636
-"2",2022,"Tom Spencer","OAC","13-23-0",0.361
-"3",2021,"Tom Spencer","OAC","22-16-0",0.579
-"4",2020,"Tom Spencer","OAC","2-6-0",0.25
-"5",2019,"Tom Spencer","OAC","33-10-0",0.767
-"6",2018,"Tom Spencer","OAC","16-16-0",0.5
-"7",2017,"Tom Spencer","OAC","16-21-1",0.432
-"8",2016,"Tom Spencer","OAC","10-26-0",0.278
-"9",2015,"Tom Spencer","OAC","14-23-0",0.378
-"10",2014,"Tom Spencer","OAC","18-19-0",0.486
-"11",2013,"Tom Spencer","OAC","20-18-0",0.526
-"12",2012,"Tom Spencer","OAC","18-20-0",0.474
-"13",2011,"Tom Spencer","OAC","26-9-0",0.743
-"14",2010,"Tom Spencer","OAC","23-17-0",0.575
-"15",2009,"Tom Spencer","OAC","24-16-0",0.6
-"16",2008,"Tom Spencer","OAC","17-23-0",0.425
-"17",2007,"Joe Yocabet","OAC","10-23-0",0.303
-"18",2006,"Joe Yocabet","OAC","19-18-0",0.514
-"19",2005,"Tom Spencer","OAC","17-19-0",0.472
-"20",2004,"Tom Spencer","OAC","21-15-0",0.583
-"21",2003,"Tom Spencer","OAC","25-16-0",0.61
-"22",2002,"Tom Spencer","OAC","22-15-0",0.595
-"23",2001,"Tom Spencer","-","28-16-0",0.636
-"24",2000,"Tom Spencer","-","20-21-0",0.488
-"25",1999,"Joe Yocabet","-","17-15-0",0.531
-"26",1998,"Joe Yocabet","-","19-17-0",0.528
-"27",1997,"Joe Yocabet","-","14-21-0",0.4
-"28",1996,"Joe Yocabet","-","22-19-0",0.537
-"29",1995,"Joe Yocabet","-","25-17-0",0.595
-"30",1994,"Cheryl Kerr-Kobus (20-14)Joe Yocabet (20-14)","-","20-14-0",0.588
-"31",1993,"Joe Yocabet","-","17-15-0",0.531
-"32",1992,"Marcia French","-","28-11-0",0.718
-"33",1991,"Marcia French","-","14-13-0",0.519
-"34",1990,"Marcia French","-","20-16-0",0.556
-"35",1989,"Marcia French","-","14-14-0",0.5
-"36",1988,"Marcia French","-","20-14-0",0.588
-"37",1987,"Marcia French","-","17-10-0",0.63
-"38",1985,"Marcia French","-","1-1-0",0.5
-"39",1984,"Marcia French","-","1-1-0",0.5
-"40",1983,"Marcia French","-","1-1-0",0.5
-"41",1982,"Marcia French","-","1-1-0",0.5
-"42",1981,"Marcia French","-","1-1-0",0.5
-"43",1980,"Marcia French","-","1-1-0",0.5
-"44",1979,"Marcia French","-","1-1-0",0.5
-"45",1978,"Marcia French","-","1-1-0",0.5
-"46",1977,"Marcia French","-","1-1-0",0.5
-"47",1976,"Marcia French","-","1-1-0",0.5
-"48",1975,"Marcia French","-","1-1-0",0.5
-"49",1974,"Marcia French","-","1-1-0",0.5
-"50",1973,"Marcia French","-","1-1-0",0.5
-"51",1972,"Marcia French","-","1-1-0",0.5
-"52",1971,"Marcia French","-","1-1-0",0.5
-"53",2024,"Tom Spencer","OAC","26-16-0",0.619
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Baldwin Wallace","46","2025","Tom Spencer","D-III","OAC",0,0,0,0
+"2","Baldwin Wallace","46","2024","Tom Spencer","D-III","OAC",25,16,0,0.61
+"3","Baldwin Wallace","46","2023","Tom Spencer","D-III","OAC",28,16,0,0.636
+"4","Baldwin Wallace","46","2022","Tom Spencer","D-III","OAC",13,23,0,0.361
+"5","Baldwin Wallace","46","2021","Tom Spencer","D-III","OAC",22,16,0,0.579
+"6","Baldwin Wallace","46","2020","Tom Spencer","D-III","OAC",2,6,0,0.25
+"7","Baldwin Wallace","46","2019","Tom Spencer","D-III","OAC",33,10,0,0.767
+"8","Baldwin Wallace","46","2018","Tom Spencer","D-III","OAC",16,16,NA,0.5
+"9","Baldwin Wallace","46","2017","Tom Spencer","D-III","OAC",16,21,1,0.434
+"10","Baldwin Wallace","46","2016","Tom Spencer","D-III","OAC",10,26,0,0.278
+"11","Baldwin Wallace","46","2015","Tom Spencer","D-III","OAC",14,23,0,0.378
+"12","Baldwin Wallace","46","2014","Tom Spencer","D-III","OAC",18,19,0,0.486
+"13","Baldwin Wallace","46","2013","Tom Spencer","D-III","OAC",20,18,0,0.526
+"14","Baldwin Wallace","46","2012","Tom Spencer","D-III","OAC",18,20,0,0.474
+"15","Baldwin Wallace","46","2011","Tom Spencer","D-III","OAC",26,9,0,0.743
+"16","Baldwin Wallace","46","2010","Tom Spencer","D-III","OAC",23,17,0,0.575
+"17","Baldwin Wallace","46","2009","Tom Spencer","D-III","OAC",24,16,0,0.6
+"18","Baldwin Wallace","46","2008","Tom Spencer","D-III","OAC",17,23,0,0.425
+"19","Baldwin Wallace","46","2007","Joe Yocabet","D-III","OAC",10,23,0,0.303
+"20","Baldwin Wallace","46","2006","Joe Yocabet","D-III","OAC",19,18,0,0.514
+"21","Baldwin Wallace","46","2005","Tom Spencer","D-III","OAC",17,19,0,0.472
+"22","Baldwin Wallace","46","2004","Tom Spencer","D-III","OAC",21,15,0,0.583
+"23","Baldwin Wallace","46","2003","Tom Spencer","D-III","OAC",25,16,0,0.61
+"24","Baldwin Wallace","46","2002","Tom Spencer","D-III","OAC",22,15,0,0.595
+"25","Baldwin Wallace","46","2001","Tom Spencer","D-III","-",28,16,NA,0.636
+"26","Baldwin Wallace","46","1900","Tom Spencer","D-III","-",20,21,NA,0.488
+"27","Baldwin Wallace","46","1999","Joe Yocabet","D-III","-",17,15,NA,0.531
+"28","Baldwin Wallace","46","1998","Joe Yocabet","D-III","-",19,17,NA,0.528
+"29","Baldwin Wallace","46","1997","Joe Yocabet","D-III","-",14,21,NA,0.4
+"30","Baldwin Wallace","46","1996","Joe Yocabet","D-III","-",22,19,NA,0.537
+"31","Baldwin Wallace","46","1995","Joe Yocabet","D-III","-",25,17,NA,0.595
+"32","Baldwin Wallace","46","1994","Cheryl Kerr-Kobus (20-14)Joe Yocabet (20-14)","D-III","-",20,14,NA,0.588
+"33","Baldwin Wallace","46","1993","Joe Yocabet","D-III","-",17,15,NA,0.531
+"34","Baldwin Wallace","46","1992","Marcia French","D-III","-",28,11,NA,0.718
+"35","Baldwin Wallace","46","1991","Marcia French","D-III","-",14,13,NA,0.519
+"36","Baldwin Wallace","46","1990","Marcia French","D-III","-",20,16,NA,0.556
+"37","Baldwin Wallace","46","1989","Marcia French","D-III","-",14,14,NA,0.5
+"38","Baldwin Wallace","46","1988","Marcia French","D-III","-",20,14,NA,0.588
+"39","Baldwin Wallace","46","1987","Marcia French","D-III","-",17,10,NA,0.63
+"40","Baldwin Wallace","46","1986","Marcia French","D-III","-",108,111,NA,0.493
+"41","Baldwin Wallace","46","1985","Marcia French","D-III","-",1,1,NA,0.5
+"42","Baldwin Wallace","46","1984","Marcia French","D-III","-",1,1,NA,0.5
+"43","Baldwin Wallace","46","1983","Marcia French","D-III","-",1,1,NA,0.5
+"44","Baldwin Wallace","46","1982","Marcia French","D-III","-",1,1,NA,0.5
+"45","Baldwin Wallace","46","1981","Marcia French","D-III","-",1,1,NA,0.5
+"46","Baldwin Wallace","46","1980","Marcia French","D-III","-",1,1,NA,0.5
+"47","Baldwin Wallace","46","1979","Marcia French","D-III","-",1,1,NA,0.5
+"48","Baldwin Wallace","46","1978","Marcia French","D-III","-",1,1,NA,0.5
+"49","Baldwin Wallace","46","1977","Marcia French","D-III","-",1,1,NA,0.5
+"50","Baldwin Wallace","46","1976","Marcia French","D-III","-",1,1,NA,0.5
+"51","Baldwin Wallace","46","1975","Marcia French","D-III","-",1,1,NA,0.5
+"52","Baldwin Wallace","46","1974","Marcia French","D-III","-",1,1,NA,0.5
+"53","Baldwin Wallace","46","1973","Marcia French","D-III","-",1,1,NA,0.5
+"54","Baldwin Wallace","46","1972","Marcia French","D-III","-",1,1,NA,0.5
+"55","Baldwin Wallace","46","1971","Marcia French","D-III","-",1,1,NA,0.5
+"56","Baldwin Wallace","46","","","","",857,760,1,0.53

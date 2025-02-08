@@ -1,48 +1,49 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2021","Sarah Prezioso","Atlantic 10","0-30-0","0.000"
-"2","2020","Brooke Darreff","Atlantic 10","0-10-0","0.000"
-"3","2019","Brooke Darreff","Atlantic 10","12-33-0","0.267"
-"4","2018","Brooke Darreff","Atlantic 10","12-34-0","0.261"
-"5","2017","Ron Shoemaker","Atlantic 10","20-27-0","0.426"
-"6","2016","Ron Shoemaker","Atlantic 10","17-28-0","0.378"
-"7","2015","Ron Shoemaker","Atlantic 10","15-22-0","0.405"
-"8","2014","Ron Shoemaker","Atlantic 10","18-24-0","0.429"
-"9","2013","Brianne Brown","Atlantic 10","16-31-0","0.340"
-"10","2012","Brianne Brown","Atlantic 10","9-40-0","0.184"
-"11","2011","Brianne Brown","Atlantic 10","5-38-0","0.116"
-"12","2010","Brianne Brown","Atlantic 10","13-30-1","0.302"
-"13","2009","Brianne Brown","Atlantic 10","9-29-0","0.237"
-"14","2008","Joe DiPietro","Atlantic 10","22-24-0","0.478"
-"15","2007","Joe DiPietro","Atlantic 10","16-23-0","0.410"
-"16","2006","Joe DiPietro","Atlantic 10","12-33-0","0.267"
-"17","2005","Joe DiPietro","Atlantic 10","12-32-1","0.273"
-"18","2004","Joe DiPietro","Atlantic 10","10-31-0","0.244"
-"19","2003","Joe DiPietro","Atlantic 10","15-28-0","0.349"
-"20","2002","Carla Camino","Atlantic 10","12-36-0","0.250"
-"21","2001","Carla Camino","Atlantic 10","9-38-0","0.191"
-"22","2000","Carla Camino","Atlantic 10","9-47-0","0.161"
-"23","1999","Carla Camino","Atlantic 10","14-31-0","0.311"
-"24","1998","Ray Perri","-","19-28-0","0.404"
-"25","1997","Ray Perri","Atlantic 10","31-18-0","0.633"
-"26","1996","Ray Perri","-","23-26-0","0.469"
-"27","1995","Ray Perri","-","26-35-0","0.426"
-"28","1994","Ray Perri","-","25-25-0","0.500"
-"29","1993","Ray Perri","-","25-25-0","0.500"
-"30","1992","Ray Perri","-","33-16-0","0.673"
-"31","1991","Rick Pohlig","-","29-18-0","0.617"
-"32","1990","Rick Pohlig","-","29-15-1","0.659"
-"33","1989","Rick Pohlig","-","23-24-0","0.489"
-"34","1988","Rick Pohlig","-","14-27-0","0.341"
-"35","1987","Rick Pohlig","-","22-20-0","0.524"
-"36","1986","Rick Pohlig","-","15-22-1","0.405"
-"37","1985","Rick Pohlig","-","29-22-0","0.569"
-"38","1984","Rick Pohlig","-","23-19-0","0.548"
-"39","1983","Rick Pohlig","-","18-11-0","0.621"
-"40","1982","Rick Pohlig","-","19-11-0","0.633"
-"41","1981","Rick Pohlig","-","23-13-0","0.639"
-"42","1980","Rick Pohlig","-","9-2-0","0.818"
-"43","1979","Rick Pohlig","-","13-1-0","0.929"
-"44","1978","Rick Pohlig","-","7-5-0","0.583"
-"45","1977","Rick Pohlig","-","5-3-0","0.625"
-"46","1976","Rick Pohlig","-","5-1-0","0.833"
-"47","1975","","-","1-1-0","0.500"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","La Salle","340","2021","Sarah Prezioso","D-I","Atlantic 10",0,30,0,0
+"2","La Salle","340","2020","Brooke Darreff","D-I","Atlantic 10",0,10,0,0
+"3","La Salle","340","2019","Brooke Darreff","D-I","Atlantic 10",12,33,0,0.267
+"4","La Salle","340","2018","Brooke Darreff","D-I","Atlantic 10",12,34,NA,0.261
+"5","La Salle","340","2017","Ron Shoemaker","D-I","Atlantic 10",20,27,0,0.426
+"6","La Salle","340","2016","Ron Shoemaker","D-I","Atlantic 10",17,28,0,0.378
+"7","La Salle","340","2015","Ron Shoemaker","D-I","Atlantic 10",15,22,0,0.405
+"8","La Salle","340","2014","Ron Shoemaker","D-I","Atlantic 10",18,24,0,0.429
+"9","La Salle","340","2013","Brianne Brown","D-I","Atlantic 10",16,31,0,0.34
+"10","La Salle","340","2012","Brianne Brown","D-I","Atlantic 10",9,40,0,0.184
+"11","La Salle","340","2011","Brianne Brown","D-I","Atlantic 10",5,38,0,0.116
+"12","La Salle","340","2010","Brianne Brown","D-I","Atlantic 10",13,30,1,0.307
+"13","La Salle","340","2009","Brianne Brown","D-I","Atlantic 10",9,29,0,0.237
+"14","La Salle","340","2008","Joe DiPietro","D-I","Atlantic 10",22,24,0,0.478
+"15","La Salle","340","2007","Joe DiPietro","D-I","Atlantic 10",16,23,0,0.41
+"16","La Salle","340","2006","Joe DiPietro","D-I","Atlantic 10",12,33,0,0.267
+"17","La Salle","340","2005","Joe DiPietro","D-I","Atlantic 10",12,32,1,0.278
+"18","La Salle","340","2004","Joe DiPietro","D-I","Atlantic 10",10,31,0,0.244
+"19","La Salle","340","2003","Joe DiPietro","D-I","Atlantic 10",15,28,0,0.349
+"20","La Salle","340","2002","Carla Camino","D-I","Atlantic 10",12,36,0,0.25
+"21","La Salle","340","2001","Carla Camino","D-I","Atlantic 10",9,38,0,0.191
+"22","La Salle","340","1900","Carla Camino","D-I","Atlantic 10",9,47,0,0.161
+"23","La Salle","340","1999","Carla Camino","D-I","Atlantic 10",14,31,0,0.311
+"24","La Salle","340","1998","Ray Perri","D-I","-",19,28,NA,0.404
+"25","La Salle","340","1997","Ray Perri","D-I","Atlantic 10",31,18,0,0.633
+"26","La Salle","340","1996","Ray Perri","D-I","-",23,26,NA,0.469
+"27","La Salle","340","1995","Ray Perri","D-I","-",26,35,NA,0.426
+"28","La Salle","340","1994","Ray Perri","D-I","-",25,25,NA,0.5
+"29","La Salle","340","1993","Ray Perri","D-I","-",25,25,NA,0.5
+"30","La Salle","340","1992","Ray Perri","D-I","-",33,16,NA,0.673
+"31","La Salle","340","1991","Rick Pohlig","D-I","-",29,18,NA,0.617
+"32","La Salle","340","1990","Rick Pohlig","D-I","-",29,15,1,0.656
+"33","La Salle","340","1989","Rick Pohlig","D-I","-",23,24,NA,0.489
+"34","La Salle","340","1988","Rick Pohlig","D-I","-",14,27,NA,0.341
+"35","La Salle","340","1987","Rick Pohlig","D-I","-",22,20,NA,0.524
+"36","La Salle","340","1986","Rick Pohlig","D-I","-",15,22,1,0.408
+"37","La Salle","340","1985","Rick Pohlig","D-I","-",29,22,NA,0.569
+"38","La Salle","340","1984","Rick Pohlig","D-I","-",23,19,NA,0.548
+"39","La Salle","340","1983","Rick Pohlig","D-I","-",18,11,NA,0.621
+"40","La Salle","340","1982","Rick Pohlig","D-I","-",19,11,NA,0.633
+"41","La Salle","340","1981","Rick Pohlig","D-I","-",23,13,NA,0.639
+"42","La Salle","340","1980","Rick Pohlig","D-I","-",9,2,NA,0.818
+"43","La Salle","340","1979","Rick Pohlig","D-I","-",13,1,NA,0.929
+"44","La Salle","340","1978","Rick Pohlig","D-I","-",7,5,NA,0.583
+"45","La Salle","340","1977","Rick Pohlig","D-I","-",5,3,NA,0.625
+"46","La Salle","340","1976","Rick Pohlig","D-I","-",5,1,NA,0.833
+"47","La Salle","340","1975","","D-I","-",1,1,NA,0.5
+"48","La Salle","340","","","","",743,1087,4,0.406

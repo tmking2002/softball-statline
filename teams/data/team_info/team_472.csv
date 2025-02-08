@@ -1,42 +1,45 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Kathy Rodolph","WAC","21-25-0","0.457"
-"2","2022","Kathy Rodolph","WAC","13-38-0","0.255"
-"3","2021","Kathy Rodolph","WAC","31-21-0","0.596"
-"4","2020","Kathy Rodolph","WAC","15-8-0","0.652"
-"5","2019","Kathy Rodolph","WAC","33-23-0","0.589"
-"6","2018","Kathy Rodolph","WAC","29-24-0","0.547"
-"7","2017","Kathy Rodolph","WAC","29-25-0","0.537"
-"8","2016","Kathy Rodolph","WAC","38-21-0","0.644"
-"9","2015","Kathy Rodolph","WAC","47-16-0","0.746"
-"10","2014","Kathy Rodolph","WAC","31-23-0","0.574"
-"11","2013","Kathy Rodolph","WAC","37-20-0","0.649"
-"12","2012","Kathy Rodolph","WAC","24-29-0","0.453"
-"13","2011","Kathy Rodolph","WAC","44-17-0","0.721"
-"14","2010","Kathy Rodolph","WAC","27-28-0","0.491"
-"15","2009","Kathy Rodolph","WAC","33-21-0","0.611"
-"16","2008","Kathy Rodolph","WAC","26-36-0","0.419"
-"17","2007","Kathy Rodolph","WAC","31-27-0","0.534"
-"18","2006","Kathy Rodolph","WAC","26-23-0","0.531"
-"19","2005","Kathy Rodolph","Sun Belt","29-31-0","0.483"
-"20","2004","Kathy Rodolph","Sun Belt","14-49-0","0.222"
-"21","2003","Lea Ann Jarvis","Sun Belt","8-55-0","0.127"
-"22","2002","Lea Ann Jarvis","-","0-0-0","  NaN"
-"23","2001","Lea Ann Jarvis","Sun Belt","23-46-0","0.333"
-"24","2000","Lea Ann Jarvis","Big West","27-31-0","0.466"
-"25","1999","JoAnn Ferrieri","Big West","19-39-0","0.328"
-"26","1998","JoAnn Ferrieri","-","32-27-0","0.542"
-"27","1997","Roy Gamez","Big West","33-22-0","0.600"
-"28","1996","Rick Gamez","-","40-26-0","0.606"
-"29","1995","Rick Gamez","-","20-43-0","0.317"
-"30","1994","Eric Leyba","-","21-43-0","0.328"
-"31","1993","Ron Landschoot","-","16-39-0","0.291"
-"32","1992","Ron Landschoot","-","26-46-0","0.361"
-"33","1991","Ron Landschoot","-","10-53-0","0.159"
-"34","1990","Greg Berry","-","21-28-0","0.429"
-"35","1989","Greg Berry","-","24-26-0","0.480"
-"36","1988","Greg Berry","-","21-24-0","0.467"
-"37","1987","Greg Berry","-","19-23-0","0.452"
-"38","1986","Greg Berry","-","20-26-0","0.435"
-"39","1985","","-","0-0-0","  NaN"
-"40","1983","","-","0-0-0","  NaN"
-"41","1982","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","New Mexico St.","472","2025","Kathy Rodolph","D-I","CUSA",0,0,0,0
+"2","New Mexico St.","472","2024","Kathy Rodolph","D-I","CUSA",30,25,0,0.545
+"3","New Mexico St.","472","2023","Kathy Rodolph","D-I","WAC",21,25,0,0.457
+"4","New Mexico St.","472","2022","Kathy Rodolph","D-I","WAC",13,38,0,0.255
+"5","New Mexico St.","472","2021","Kathy Rodolph","D-I","WAC",31,21,0,0.596
+"6","New Mexico St.","472","2020","Kathy Rodolph","D-I","WAC",15,8,0,0.652
+"7","New Mexico St.","472","2019","Kathy Rodolph","D-I","WAC",33,23,0,0.589
+"8","New Mexico St.","472","2018","Kathy Rodolph","D-I","WAC",29,24,0,0.547
+"9","New Mexico St.","472","2017","Kathy Rodolph","D-I","WAC",29,25,0,0.537
+"10","New Mexico St.","472","2016","Kathy Rodolph","D-I","WAC",38,21,0,0.644
+"11","New Mexico St.","472","2015","Kathy Rodolph","D-I","WAC",47,16,0,0.746
+"12","New Mexico St.","472","2014","Kathy Rodolph","D-I","WAC",31,23,0,0.574
+"13","New Mexico St.","472","2013","Kathy Rodolph","D-I","WAC",37,20,0,0.649
+"14","New Mexico St.","472","2012","Kathy Rodolph","D-I","WAC",24,29,0,0.453
+"15","New Mexico St.","472","2011","Kathy Rodolph","D-I","WAC",44,17,0,0.721
+"16","New Mexico St.","472","2010","Kathy Rodolph","D-I","WAC",27,28,0,0.491
+"17","New Mexico St.","472","2009","Kathy Rodolph","D-I","WAC",33,21,0,0.611
+"18","New Mexico St.","472","2008","Kathy Rodolph","D-I","WAC",26,36,0,0.419
+"19","New Mexico St.","472","2007","Kathy Rodolph","D-I","WAC",31,27,0,0.534
+"20","New Mexico St.","472","2006","Kathy Rodolph","D-I","WAC",26,23,0,0.531
+"21","New Mexico St.","472","2005","Kathy Rodolph","D-I","Sun Belt",29,31,0,0.483
+"22","New Mexico St.","472","2004","Kathy Rodolph","D-I","Sun Belt",14,49,0,0.222
+"23","New Mexico St.","472","2003","Lea Ann Jarvis","D-I","Sun Belt",8,55,0,0.127
+"24","New Mexico St.","472","2002","Lea Ann Jarvis","D-I","-",NA,NA,NA,NA
+"25","New Mexico St.","472","2001","Lea Ann Jarvis","D-I","Sun Belt",23,46,0,0.333
+"26","New Mexico St.","472","1900","Lea Ann Jarvis","D-I","Big West",27,31,0,0.466
+"27","New Mexico St.","472","1999","JoAnn Ferrieri","D-I","Big West",19,39,0,0.328
+"28","New Mexico St.","472","1998","JoAnn Ferrieri","D-I","-",32,27,NA,0.542
+"29","New Mexico St.","472","1997","Roy Gamez","D-I","Big West",33,22,0,0.6
+"30","New Mexico St.","472","1996","Rick Gamez","D-I","-",40,26,NA,0.606
+"31","New Mexico St.","472","1995","Rick Gamez","D-I","-",20,43,NA,0.317
+"32","New Mexico St.","472","1994","Eric Leyba","D-I","-",21,43,NA,0.328
+"33","New Mexico St.","472","1993","Ron Landschoot","D-I","-",16,39,NA,0.291
+"34","New Mexico St.","472","1992","Ron Landschoot","D-I","-",26,46,NA,0.361
+"35","New Mexico St.","472","1991","Ron Landschoot","D-I","-",10,53,NA,0.159
+"36","New Mexico St.","472","1990","Greg Berry","D-I","-",21,28,NA,0.429
+"37","New Mexico St.","472","1989","Greg Berry","D-I","-",24,26,NA,0.48
+"38","New Mexico St.","472","1988","Greg Berry","D-I","-",21,24,NA,0.467
+"39","New Mexico St.","472","1987","Greg Berry","D-I","-",19,23,NA,0.452
+"40","New Mexico St.","472","1986","Greg Berry","D-I","-",20,26,NA,0.435
+"41","New Mexico St.","472","1985","","D-I","-",NA,NA,NA,NA
+"42","New Mexico St.","472","1983","","D-I","-",NA,NA,NA,NA
+"43","New Mexico St.","472","1982","","D-I","-",NA,NA,NA,NA
+"44","New Mexico St.","472","","","","",988,1127,0,0.467

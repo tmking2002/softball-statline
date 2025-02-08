@@ -1,2 +1,4 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Me.-Augusta","502877","2025",NA,NA,"-",NA,NA,NA,0
+"2","Me.-Augusta","502877","2002",NA,NA,"-",NA,NA,NA,NA
+"3","Me.-Augusta","502877","",NA,NA,"",0,0,0,0

@@ -1,22 +1,24 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kelsey Hodgson","Gulf South","8-42-0",0.16
-"2",2022,"Kelsey Hodgson","Gulf South","6-44-0",0.12
-"3",2021,"Kelsey Hodgson","Gulf South","5-34-0",0.128
-"4",2020,"Kelsey Hodgson","Gulf South","2-16-0",0.111
-"5",2019,"Danielle Brewer","Gulf South","15-27-0",0.357
-"6",2018,"Danielle Brewer","Gulf South","17-26-0",0.395
-"7",2017,"Jessie Homesley","Gulf South","28-23-0",0.549
-"8",2016,"Al Thomas","Gulf South","30-22-0",0.577
-"9",2015,"Al Thomas","Gulf South","43-17-0",0.717
-"10",2014,"Al Thomas","-","42-10-0",0.808
-"11",2013,"Al Thomas","-","46-11-0",0.807
-"12",2012,"Al Thomas","-","45-10-0",0.818
-"13",2011,"Al Thomas","-","46-15-0",0.754
-"14",2010,"Melanie Carter","-","51-16-0",0.761
-"15",2009,"Melanie Carter","-","44-16-0",0.733
-"16",2008,"Melanie Carter","-","50-14-0",0.781
-"17",2007,"Melanie Carter","-","50-12-0",0.806
-"18",2006,"Ricci Lattanzi","-","24-20-0",0.545
-"19",2005,"Janene Wofford","-","5-21-0",0.192
-"20",2004,"Janene Wofford","-","10-22-0",0.312
-"21",2024,"Kelsey Hodgson","Gulf South","1-40-0",0.024
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Shorter","30151","2025","Kelsey Hodgson","D-II","Conference Carolinas",0,4,0,0
+"2","Shorter","30151","2024","Kelsey Hodgson","D-II","Gulf South",2,45,0,0.043
+"3","Shorter","30151","2023","Kelsey Hodgson","D-II","Gulf South",8,42,0,0.16
+"4","Shorter","30151","2022","Kelsey Hodgson","D-II","Gulf South",6,44,0,0.12
+"5","Shorter","30151","2021","Kelsey Hodgson","D-II","Gulf South",5,34,0,0.128
+"6","Shorter","30151","2020","Kelsey Hodgson","D-II","Gulf South",2,16,0,0.111
+"7","Shorter","30151","2019","Danielle Brewer","D-II","Gulf South",15,27,0,0.357
+"8","Shorter","30151","2018","Danielle Brewer","D-II","Gulf South",17,26,NA,0.395
+"9","Shorter","30151","2017","Jessie Homesley","D-II","Gulf South",28,23,0,0.549
+"10","Shorter","30151","2016","Al Thomas","D-II","Gulf South",30,22,0,0.577
+"11","Shorter","30151","2015","Al Thomas","D-II","Gulf South",43,17,0,0.717
+"12","Shorter","30151","2014","Al Thomas","","-",42,10,0,0.808
+"13","Shorter","30151","2013","Al Thomas","","-",46,11,0,0.807
+"14","Shorter","30151","2012","Al Thomas","","-",45,10,0,0.818
+"15","Shorter","30151","2011","Al Thomas","","-",46,15,0,0.754
+"16","Shorter","30151","2010","Melanie Carter","","-",51,16,0,0.761
+"17","Shorter","30151","2009","Melanie Carter","","-",44,16,0,0.733
+"18","Shorter","30151","2008","Melanie Carter","","-",50,14,0,0.781
+"19","Shorter","30151","2007","Melanie Carter","","-",50,12,0,0.806
+"20","Shorter","30151","2006","Ricci Lattanzi","","-",24,20,0,0.545
+"21","Shorter","30151","2005","Janene Wofford","","-",5,21,0,0.192
+"22","Shorter","30151","2004","Janene Wofford","","-",10,22,0,0.313
+"23","Shorter","30151","","","","",569,467,0,0.549

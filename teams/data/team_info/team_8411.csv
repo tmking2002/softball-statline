@@ -1,29 +1,31 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Kyle Lem","GAC","24-23-0",0.511
-"2",2022,"Kyle Lem","GAC","17-33-0",0.34
-"3",2021,"Kyle Lem","GAC","15-23-0",0.395
-"4",2020,"Kyle Lem","GAC","11-12-0",0.478
-"5",2019,"Kyle Lem","GAC","25-27-0",0.481
-"6",2018,"Alvy Early","GAC","11-42-0",0.208
-"7",2017,"Alvy Early","GAC","34-23-0",0.596
-"8",2016,"Alvy Early","GAC","30-28-0",0.517
-"9",2015,"Alvy Early","GAC","24-25-0",0.49
-"10",2014,"Alvy Early","GAC","28-30-0",0.483
-"11",2013,"Alvy Early","GAC","29-25-0",0.537
-"12",2012,"Alvy Early","GAC","40-14-0",0.741
-"13",2011,"Alvy Early","Gulf South","46-16-0",0.742
-"14",2010,"Alvy Early","Gulf South","55-13-0",0.809
-"15",2009,"Alvy Early","Gulf South","38-16-0",0.704
-"16",2008,"Alvy Early","Gulf South","23-31-0",0.426
-"17",2007,"Alvy Early","Gulf South","46-20-0",0.697
-"18",2006,"Alvy Early","Gulf South","33-30-0",0.524
-"19",2005,"Alvy Early","Gulf South","34-24-0",0.586
-"20",2004,"Alvy Early","Gulf South","36-13-0",0.735
-"21",2003,"Alvy Early","-","42-12-0",0.778
-"22",2002,"Alvy Early","Gulf South","37-16-0",0.698
-"23",2001,"Alvy Early","-","37-13-0",0.74
-"24",2000,"Alvy Early","-","41-23-1",0.641
-"25",1999,"Alvy Early","-","39-17-0",0.696
-"26",1998,"Alvy Early","-","31-15-0",0.674
-"27",1997,"Alvy Early","-","20-18-1",0.526
-"28",2024,"Kyle Lem","GAC","17-23-0",0.425
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Ark.-Monticello","8411","2025","Kyle Lem","D-II","GAC",3,2,0,0.6
+"2","Ark.-Monticello","8411","2024","Kyle Lem","D-II","GAC",23,29,0,0.442
+"3","Ark.-Monticello","8411","2023","Kyle Lem","D-II","GAC",24,23,0,0.511
+"4","Ark.-Monticello","8411","2022","Kyle Lem","D-II","GAC",17,33,0,0.34
+"5","Ark.-Monticello","8411","2021","Kyle Lem","D-II","GAC",15,23,0,0.395
+"6","Ark.-Monticello","8411","2020","Kyle Lem","D-II","GAC",11,12,0,0.478
+"7","Ark.-Monticello","8411","2019","Kyle Lem","D-II","GAC",25,27,0,0.481
+"8","Ark.-Monticello","8411","2018","Alvy Early","D-II","GAC",11,42,NA,0.208
+"9","Ark.-Monticello","8411","2017","Alvy Early","D-II","GAC",34,23,0,0.596
+"10","Ark.-Monticello","8411","2016","Alvy Early","D-II","GAC",30,28,0,0.517
+"11","Ark.-Monticello","8411","2015","Alvy Early","D-II","GAC",24,25,0,0.49
+"12","Ark.-Monticello","8411","2014","Alvy Early","D-II","GAC",28,30,0,0.483
+"13","Ark.-Monticello","8411","2013","Alvy Early","D-II","GAC",29,25,0,0.537
+"14","Ark.-Monticello","8411","2012","Alvy Early","D-II","GAC",40,14,0,0.741
+"15","Ark.-Monticello","8411","2011","Alvy Early","D-II","Gulf South",46,16,0,0.742
+"16","Ark.-Monticello","8411","2010","Alvy Early","D-II","Gulf South",55,13,0,0.809
+"17","Ark.-Monticello","8411","2009","Alvy Early","D-II","Gulf South",38,16,0,0.704
+"18","Ark.-Monticello","8411","2008","Alvy Early","D-II","Gulf South",23,31,0,0.426
+"19","Ark.-Monticello","8411","2007","Alvy Early","D-II","Gulf South",46,20,0,0.697
+"20","Ark.-Monticello","8411","2006","Alvy Early","D-II","Gulf South",33,30,0,0.524
+"21","Ark.-Monticello","8411","2005","Alvy Early","D-II","Gulf South",34,24,0,0.586
+"22","Ark.-Monticello","8411","2004","Alvy Early","D-II","Gulf South",36,13,0,0.735
+"23","Ark.-Monticello","8411","2003","Alvy Early","D-II","-",42,12,NA,0.778
+"24","Ark.-Monticello","8411","2002","Alvy Early","D-II","Gulf South",37,16,0,0.698
+"25","Ark.-Monticello","8411","2001","Alvy Early","D-II","-",37,13,NA,0.74
+"26","Ark.-Monticello","8411","1900","Alvy Early","D-II","-",41,23,1,0.638
+"27","Ark.-Monticello","8411","1999","Alvy Early","D-II","-",39,17,NA,0.696
+"28","Ark.-Monticello","8411","1998","Alvy Early","D-II","-",31,15,NA,0.674
+"29","Ark.-Monticello","8411","1997","Alvy Early","","-",20,18,1,0.526
+"30","Ark.-Monticello","8411","","","","",872,613,2,0.587

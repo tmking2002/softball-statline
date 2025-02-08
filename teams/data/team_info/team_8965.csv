@@ -1,28 +1,30 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Destini Anderson","GAC","21-27-0",0.438
-"2",2022,"Destini Anderson","GAC","13-31-0",0.295
-"3",2021,"Destini Anderson","GAC","17-22-0",0.436
-"4",2020,"Destini Anderson","GAC","4-15-0",0.211
-"5",2019,"Destini Anderson","GAC","26-25-0",0.51
-"6",2018,"Destini Anderson","GAC","23-30-1",0.434
-"7",2017,"Destini Anderson","GAC","31-26-0",0.544
-"8",2016,"Destini Anderson","GAC","25-31-0",0.446
-"9",2015,"Destini Anderson","GAC","34-16-0",0.68
-"10",2014,"Destini Anderson","GAC","33-25-0",0.569
-"11",2013,"Destini Anderson","GAC","42-13-0",0.764
-"12",2012,"Destini Anderson","GAC","27-18-0",0.6
-"13",2011,"Destini Anderson","Lone Star","38-16-0",0.704
-"14",2010,"Destini Anderson","Lone Star","34-21-0",0.618
-"15",2009,"Destini Anderson","Lone Star","12-23-0",0.343
-"16",2008,"Destini Anderson","Lone Star","21-34-1",0.382
-"17",2007,"Destini Anderson","Lone Star","11-29-0",0.275
-"18",2006,"Ron Miller","Lone Star","5-29-0",0.147
-"19",2005,"Ron Miller","Lone Star","11-26-0",0.297
-"20",2004,"Ron Miller","Lone Star","11-23-0",0.324
-"21",2003,"Ron Miller","-","0-0-0",NA
-"22",2002,"Ron Miller","Lone Star","18-17-0",0.514
-"23",2001,"Ron Miller","-","8-23-0",0.258
-"24",2000,"Ron Miller","-","22-23-1",0.489
-"25",1999,"Ron Miller","-","30-12-0",0.714
-"26",1998,"","-","0-0-0",NA
-"27",2024,"Destini Anderson","GAC","16-23-0",0.41
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","East Central","8965","2025","Destini Anderson","D-II","GAC",3,1,0,0.75
+"2","East Central","8965","2024","Destini Anderson","D-II","GAC",21,27,0,0.438
+"3","East Central","8965","2023","Destini Anderson","D-II","GAC",21,27,0,0.438
+"4","East Central","8965","2022","Destini Anderson","D-II","GAC",13,31,0,0.295
+"5","East Central","8965","2021","Destini Anderson","D-II","GAC",17,22,0,0.436
+"6","East Central","8965","2020","Destini Anderson","D-II","GAC",4,15,0,0.211
+"7","East Central","8965","2019","Destini Anderson","D-II","GAC",26,25,0,0.51
+"8","East Central","8965","2018","Destini Anderson","D-II","GAC",23,30,1,0.435
+"9","East Central","8965","2017","Destini Anderson","D-II","GAC",31,26,0,0.544
+"10","East Central","8965","2016","Destini Anderson","D-II","GAC",25,31,0,0.446
+"11","East Central","8965","2015","Destini Anderson","D-II","GAC",34,16,0,0.68
+"12","East Central","8965","2014","Destini Anderson","D-II","GAC",33,25,0,0.569
+"13","East Central","8965","2013","Destini Anderson","D-II","GAC",42,13,0,0.764
+"14","East Central","8965","2012","Destini Anderson","D-II","GAC",27,18,0,0.6
+"15","East Central","8965","2011","Destini Anderson","D-II","Lone Star",38,16,0,0.704
+"16","East Central","8965","2010","Destini Anderson","D-II","Lone Star",34,21,0,0.618
+"17","East Central","8965","2009","Destini Anderson","D-II","Lone Star",12,23,0,0.343
+"18","East Central","8965","2008","Destini Anderson","D-II","Lone Star",21,34,1,0.384
+"19","East Central","8965","2007","Destini Anderson","D-II","Lone Star",11,29,0,0.275
+"20","East Central","8965","2006","Ron Miller","D-II","Lone Star",5,29,0,0.147
+"21","East Central","8965","2005","Ron Miller","D-II","Lone Star",11,26,0,0.297
+"22","East Central","8965","2004","Ron Miller","D-II","Lone Star",11,23,0,0.324
+"23","East Central","8965","2003","Ron Miller","D-II","-",NA,NA,NA,NA
+"24","East Central","8965","2002","Ron Miller","D-II","Lone Star",18,17,0,0.514
+"25","East Central","8965","2001","Ron Miller","D-II","-",8,23,0,0.258
+"26","East Central","8965","1900","Ron Miller","D-II","-",22,23,1,0.489
+"27","East Central","8965","1999","Ron Miller","D-II","-",30,12,0,0.714
+"28","East Central","8965","1998","","","-",NA,NA,NA,NA
+"29","East Central","8965","","","","",541,583,3,0.481

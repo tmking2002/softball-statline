@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Jason Ollison","Mid-America Intercollegiate","7-41-0",0.146
-"2",2022,"Christine Core","Mid-America Intercollegiate","12-35-0",0.255
-"3",2021,"Christine Core","Mid-America Intercollegiate","6-35-1",0.146
-"4",2020,"Christine Core","Mid-America Intercollegiate","8-12-0",0.4
-"5",2019,"Christine Core","Mid-America Intercollegiate","6-44-0",0.12
-"6",2018,"Chad Kerr","Mid-America Intercollegiate","5-43-0",0.104
-"7",2017,"Chad Kerr","Mid-America Intercollegiate","5-47-0",0.096
-"8",2016,"Chad Kerr","Mid-America Intercollegiate","5-50-0",0.091
-"9",2015,"Nicole Stacey","Mid-America Intercollegiate","3-49-0",0.058
-"10",2014,"Nicole Stacey","Mid-America Intercollegiate","7-38-0",0.156
-"11",2013,"Nicole Stacey","Mid-America Intercollegiate","14-27-1",0.341
-"12",2012,"Nicole Stacey","Mid-America Intercollegiate","15-36-0",0.294
-"13",2011,"Lori Reyes","Mid-America Intercollegiate","16-30-0",0.348
-"14",2010,"Lori Reyes","Heartland","8-31-0",0.205
-"15",2009,"Lori Reyes","Heartland","15-39-0",0.278
-"16",2008,"Lori Reyes","Heartland","14-26-0",0.35
-"17",2007,"Lori Reyes","Heartland","14-29-0",0.326
-"18",2006,"Lori Reyes","Heartland","7-31-0",0.184
-"19",2005,"Betty Kemna","Heartland","9-26-0",0.257
-"20",2004,"Betty Kemna","Heartland","0-0-0",NA
-"21",2003,"Betty Kemna","Heartland","5-26-0",0.161
-"22",2002,"Betty Kemna","Heartland","15-24-0",0.385
-"23",2001,"Betty Kemna","-","17-32-0",0.347
-"24",2000,"Betty Kemna","-","17-31-0",0.354
-"25",1999,"Betty Kemna","-","7-42-0",0.143
-"26",1998,"Betty Kemna","-","8-30-0",0.211
-"27",1997,"","-","0-0-0",NA
-"28",1996,"Mary Beth Ochsner","-","4-32-0",0.111
-"29",1995,"Mary Beth Ochsner","-","6-32-0",0.158
-"30",1994,"Mary Beth Ochsner","-","10-32-0",0.238
-"31",1993,"Mary Beth Ochsner","-","5-18-0",0.217
-"32",1992,"Mary Beth Ochsner","-","3-29-0",0.094
-"33",1991,"Mary Beth Ochsner","-","5-28-0",0.152
-"34",1990,"Mary Beth Ochsner","-","6-21-0",0.222
-"35",1989,"Mary Beth Ochsner","-","10-22-0",0.312
-"36",1988,"Mary Beth Ochsner","-","5-20-0",0.2
-"37",1987,"Mary Beth Ochsner","-","7-22-0",0.241
-"38",1983,"","-","0-0-0",NA
-"39",2024,"Jason Ollison","Mid-America Intercollegiate","10-34-0",0.227
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Lincoln (MO)","356","2025","Jason Ollison","D-II","GLVC",0,2,0,0
+"2","Lincoln (MO)","356","2024","Jason Ollison","D-II","Mid-America Intercollegiate",13,35,0,0.271
+"3","Lincoln (MO)","356","2023","Jason Ollison","D-II","Mid-America Intercollegiate",7,41,0,0.146
+"4","Lincoln (MO)","356","2022","Christine Core","D-II","Mid-America Intercollegiate",12,35,0,0.255
+"5","Lincoln (MO)","356","2021","Christine Core","D-II","Mid-America Intercollegiate",6,35,1,0.155
+"6","Lincoln (MO)","356","2020","Christine Core","D-II","Mid-America Intercollegiate",8,12,0,0.4
+"7","Lincoln (MO)","356","2019","Christine Core","D-II","Mid-America Intercollegiate",6,44,0,0.12
+"8","Lincoln (MO)","356","2018","Chad Kerr","D-II","Mid-America Intercollegiate",5,43,NA,0.104
+"9","Lincoln (MO)","356","2017","Chad Kerr","D-II","Mid-America Intercollegiate",5,47,0,0.096
+"10","Lincoln (MO)","356","2016","Chad Kerr","D-II","Mid-America Intercollegiate",5,50,0,0.091
+"11","Lincoln (MO)","356","2015","Nicole Stacey","D-II","Mid-America Intercollegiate",3,49,0,0.058
+"12","Lincoln (MO)","356","2014","Nicole Stacey","D-II","Mid-America Intercollegiate",7,38,0,0.156
+"13","Lincoln (MO)","356","2013","Nicole Stacey","D-II","Mid-America Intercollegiate",14,27,1,0.345
+"14","Lincoln (MO)","356","2012","Nicole Stacey","D-II","Mid-America Intercollegiate",15,36,0,0.294
+"15","Lincoln (MO)","356","2011","Lori Reyes","D-II","Mid-America Intercollegiate",16,30,0,0.348
+"16","Lincoln (MO)","356","2010","Lori Reyes","D-II","Heartland",8,31,0,0.205
+"17","Lincoln (MO)","356","2009","Lori Reyes","D-II","Heartland",15,39,0,0.278
+"18","Lincoln (MO)","356","2008","Lori Reyes","D-II","Heartland",14,26,0,0.35
+"19","Lincoln (MO)","356","2007","Lori Reyes","D-II","Heartland",14,29,0,0.326
+"20","Lincoln (MO)","356","2006","Lori Reyes","D-II","Heartland",7,31,0,0.184
+"21","Lincoln (MO)","356","2005","Betty Kemna","D-II","Heartland",9,26,0,0.257
+"22","Lincoln (MO)","356","2004","Betty Kemna","D-II","Heartland",NA,NA,NA,NA
+"23","Lincoln (MO)","356","2003","Betty Kemna","D-II","Heartland",5,26,0,0.161
+"24","Lincoln (MO)","356","2002","Betty Kemna","D-II","Heartland",15,24,0,0.385
+"25","Lincoln (MO)","356","2001","Betty Kemna","D-II","-",17,32,NA,0.347
+"26","Lincoln (MO)","356","1900","Betty Kemna","D-II","-",17,31,NA,0.354
+"27","Lincoln (MO)","356","1999","Betty Kemna","D-II","-",7,42,NA,0.143
+"28","Lincoln (MO)","356","1998","Betty Kemna","D-II","-",8,30,NA,0.211
+"29","Lincoln (MO)","356","1997","","D-II","-",NA,NA,NA,NA
+"30","Lincoln (MO)","356","1996","Mary Beth Ochsner","D-II","-",4,32,NA,0.111
+"31","Lincoln (MO)","356","1995","Mary Beth Ochsner","D-II","-",6,32,NA,0.158
+"32","Lincoln (MO)","356","1994","Mary Beth Ochsner","D-II","-",10,32,NA,0.238
+"33","Lincoln (MO)","356","1993","Mary Beth Ochsner","D-II","-",5,18,NA,0.217
+"34","Lincoln (MO)","356","1992","Mary Beth Ochsner","D-II","-",3,29,NA,0.094
+"35","Lincoln (MO)","356","1991","Mary Beth Ochsner","D-II","-",5,28,NA,0.152
+"36","Lincoln (MO)","356","1990","Mary Beth Ochsner","D-II","-",6,21,NA,0.222
+"37","Lincoln (MO)","356","1989","Mary Beth Ochsner","D-II","-",10,22,NA,0.313
+"38","Lincoln (MO)","356","1988","Mary Beth Ochsner","D-II","-",5,20,NA,0.2
+"39","Lincoln (MO)","356","1987","Mary Beth Ochsner","D-II","-",7,22,NA,0.241
+"40","Lincoln (MO)","356","1983","","D-II","-",NA,NA,NA,NA
+"41","Lincoln (MO)","356","","","","",319,1147,2,0.218

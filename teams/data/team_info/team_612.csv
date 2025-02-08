@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","John Tschida","MIAC","21-18-0","0.538"
-"2","2022","John Tschida","MIAC","16-16-1","0.500"
-"3","2021","Sam Borawski","MIAC","10-26-0","0.278"
-"4","2020","Jen Miller","MIAC","8-4-0","0.667"
-"5","2019","Jen Miller","MIAC","10-26-0","0.278"
-"6","2018","Jen Miller","MIAC","14-26-0","0.350"
-"7","2017","Jen Miller","MIAC","12-25-0","0.324"
-"8","2016","Jen Miller","MIAC","22-16-0","0.579"
-"9","2015","Jen Miller","MIAC","18-20-0","0.474"
-"10","2014","Jen Miller","MIAC","14-18-0","0.438"
-"11","2013","Jen Miller","MIAC","18-15-0","0.545"
-"12","2012","Jen Miller","MIAC","18-21-0","0.462"
-"13","2011","Jen Miller","MIAC","23-16-0","0.590"
-"14","2010","Jen Miller","MIAC","16-24-0","0.400"
-"15","2009","Jen Miller","MIAC","18-22-0","0.450"
-"16","2008","Jen Miller","MIAC","15-21-0","0.417"
-"17","2007","Jen Miller","MIAC","24-15-0","0.615"
-"18","2006","Nikki Fennern","MIAC","25-15-1","0.625"
-"19","2005","Nikki Fennern","MIAC","34-10-0","0.773"
-"20","2004","Nikki Fennern","MIAC","23-15-0","0.605"
-"21","2003","Nikki Fennern","MIAC","21-13-0","0.618"
-"22","2002","Nikki Fennern","MIAC","22-11-0","0.667"
-"23","2001","Nikki Fennern","-","36-8-0","0.818"
-"24","2000","John Tschida","-","40-6-0","0.870"
-"25","1999","John Tschida","-","40-8-0","0.833"
-"26","1998","John Tschida","-","38-3-0","0.927"
-"27","1997","John Tschida","-","37-5-0","0.881"
-"28","1996","John Tschida","-","26-13-0","0.667"
-"29","1995","John Tschida","-","26-10-0","0.722"
-"30","1994","Deb Steward","-","20-15-0","0.571"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","Lori Flaherty","-","15-16-0","0.484"
-"33","1991","Lori Flaherty","-","0-0-0","  NaN"
-"34","1990","Lori Flaherty","-","0-0-0","  NaN"
-"35","1989","Lori Flaherty","-","9-24-0","0.273"
-"36","1988","","-","0-0-0","  NaN"
-"37","1987","","-","0-0-0","  NaN"
-"38","1986","","-","0-0-0","  NaN"
-"39","1984","","-","0-0-0","  NaN"
-"40","1981","","-","0-0-0","  NaN"
-"41","2024","John Tschida","MIAC","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Saint Mary's (MN)","612","2025","John Tschida","D-III","MIAC",0,0,0,0
+"2","Saint Mary's (MN)","612","2024","John Tschida","D-III","MIAC",32,11,0,0.744
+"3","Saint Mary's (MN)","612","2023","John Tschida","D-III","MIAC",21,18,0,0.538
+"4","Saint Mary's (MN)","612","2022","John Tschida","D-III","MIAC",16,16,1,0.5
+"5","Saint Mary's (MN)","612","2021","Sam Borawski","D-III","MIAC",10,26,0,0.278
+"6","Saint Mary's (MN)","612","2020","Jen Miller","D-III","MIAC",8,4,0,0.667
+"7","Saint Mary's (MN)","612","2019","Jen Miller","D-III","MIAC",10,26,0,0.278
+"8","Saint Mary's (MN)","612","2018","Jen Miller","D-III","MIAC",14,26,0,0.35
+"9","Saint Mary's (MN)","612","2017","Jen Miller","D-III","MIAC",12,25,0,0.324
+"10","Saint Mary's (MN)","612","2016","Jen Miller","D-III","MIAC",22,16,0,0.579
+"11","Saint Mary's (MN)","612","2015","Jen Miller","D-III","MIAC",18,20,0,0.474
+"12","Saint Mary's (MN)","612","2014","Jen Miller","D-III","MIAC",14,18,0,0.438
+"13","Saint Mary's (MN)","612","2013","Jen Miller","D-III","MIAC",18,15,0,0.545
+"14","Saint Mary's (MN)","612","2012","Jen Miller","D-III","MIAC",18,21,0,0.462
+"15","Saint Mary's (MN)","612","2011","Jen Miller","D-III","MIAC",23,16,0,0.59
+"16","Saint Mary's (MN)","612","2010","Jen Miller","D-III","MIAC",16,24,0,0.4
+"17","Saint Mary's (MN)","612","2009","Jen Miller","D-III","MIAC",18,22,0,0.45
+"18","Saint Mary's (MN)","612","2008","Jen Miller","D-III","MIAC",15,21,0,0.417
+"19","Saint Mary's (MN)","612","2007","Jen Miller","D-III","MIAC",24,15,0,0.615
+"20","Saint Mary's (MN)","612","2006","Nikki Fennern","D-III","MIAC",25,15,1,0.622
+"21","Saint Mary's (MN)","612","2005","Nikki Fennern","D-III","MIAC",34,10,0,0.773
+"22","Saint Mary's (MN)","612","2004","Nikki Fennern","D-III","MIAC",23,15,0,0.605
+"23","Saint Mary's (MN)","612","2003","Nikki Fennern","D-III","MIAC",21,13,0,0.618
+"24","Saint Mary's (MN)","612","2002","Nikki Fennern","D-III","MIAC",22,11,0,0.667
+"25","Saint Mary's (MN)","612","2001","Nikki Fennern","D-III","-",36,8,0,0.818
+"26","Saint Mary's (MN)","612","1900","John Tschida","D-III","-",40,6,NA,0.87
+"27","Saint Mary's (MN)","612","1999","John Tschida","D-III","-",40,8,NA,0.833
+"28","Saint Mary's (MN)","612","1998","John Tschida","D-III","-",38,3,NA,0.927
+"29","Saint Mary's (MN)","612","1997","John Tschida","D-III","-",37,5,NA,0.881
+"30","Saint Mary's (MN)","612","1996","John Tschida","D-III","-",26,13,NA,0.667
+"31","Saint Mary's (MN)","612","1995","John Tschida","D-III","-",26,10,NA,0.722
+"32","Saint Mary's (MN)","612","1994","Deb Steward","D-III","-",20,15,NA,0.571
+"33","Saint Mary's (MN)","612","1993","","D-III","-",NA,NA,NA,NA
+"34","Saint Mary's (MN)","612","1992","Lori Flaherty","D-III","-",15,16,NA,0.484
+"35","Saint Mary's (MN)","612","1991","Lori Flaherty","D-III","-",NA,NA,NA,NA
+"36","Saint Mary's (MN)","612","1990","Lori Flaherty","D-III","-",NA,NA,NA,NA
+"37","Saint Mary's (MN)","612","1989","Lori Flaherty","D-III","-",9,24,NA,0.273
+"38","Saint Mary's (MN)","612","1988","","D-III","-",NA,NA,NA,NA
+"39","Saint Mary's (MN)","612","1987","","D-III","-",NA,NA,NA,NA
+"40","Saint Mary's (MN)","612","1986","","D-III","-",NA,NA,NA,NA
+"41","Saint Mary's (MN)","612","1984","","D-III","-",NA,NA,NA,NA
+"42","Saint Mary's (MN)","612","1981","","","-",NA,NA,NA,NA
+"43","Saint Mary's (MN)","612","","","","",721,512,2,0.585

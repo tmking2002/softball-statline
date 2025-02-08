@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
-"2","2023",NA,"-","0-0-0",0
-"3","2022",NA,"-","0-0-0",0
-"4","2020",NA,"-","0-0-0",0
-"5","2019",NA,"-","0-0-0",0
-"6","2018",NA,"-","0-0-0",0
-"7","2017",NA,"-","0-0-0",NA
-"8","2016",NA,"-","0-0-0",NA
-"9","2015",NA,"-","0-0-0",NA
-"10","2014",NA,"-","0-0-0",NA
-"11","2013",NA,"-","0-0-0",NA
-"12","2012",NA,"-","0-0-0",NA
-"13","2010",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Crowley's Ridge","506350","2025",NA,NA,"-",NA,NA,NA,0
+"2","Crowley's Ridge","506350","2024",NA,NA,"-",NA,NA,NA,0
+"3","Crowley's Ridge","506350","2023",NA,NA,"-",NA,NA,NA,0
+"4","Crowley's Ridge","506350","2022",NA,NA,"-",NA,NA,NA,0
+"5","Crowley's Ridge","506350","2020",NA,NA,"-",NA,NA,NA,0
+"6","Crowley's Ridge","506350","2019",NA,NA,"-",NA,NA,NA,0
+"7","Crowley's Ridge","506350","2018",NA,NA,"-",NA,NA,NA,0
+"8","Crowley's Ridge","506350","2017",NA,NA,"-",NA,NA,NA,NA
+"9","Crowley's Ridge","506350","2016",NA,NA,"-",NA,NA,NA,NA
+"10","Crowley's Ridge","506350","2015",NA,NA,"-",NA,NA,NA,NA
+"11","Crowley's Ridge","506350","2014",NA,NA,"-",NA,NA,NA,NA
+"12","Crowley's Ridge","506350","2013",NA,NA,"-",NA,NA,NA,NA
+"13","Crowley's Ridge","506350","2012",NA,NA,"-",NA,NA,NA,NA
+"14","Crowley's Ridge","506350","2010",NA,NA,"-",NA,NA,NA,NA
+"15","Crowley's Ridge","506350","",NA,NA,"",0,0,0,0

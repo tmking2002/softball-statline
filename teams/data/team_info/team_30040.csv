@@ -1,20 +1,22 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Alissa Edwards","North Atlantic","13-22-0",0.371
-"2",2022,"Alissa Edwards","North Atlantic","5-25-0",0.167
-"3",2021,"Alissa Edwards","North Atlantic","14-11-0",0.56
-"4",2020,"Alissa Edwards","North Atlantic","0-0-0",NA
-"5",2019,"Sara Shaw","North Atlantic","18-15-0",0.545
-"6",2018,"Sara Shaw","ACAA","22-12-0",0.647
-"7",2017,"Sara Shaw","-","22-16-0",0.579
-"8",2016,"Sara Shaw","-","18-15-0",0.545
-"9",2015,"Sara Shaw","Great South","9-15-0",0.375
-"10",2014,"Peter Coffin","Great South","4-20-0",0.167
-"11",2013,"Peter Coffin","-","5-22-0",0.185
-"12",2012,"Peter Coffin","Division III Independents","13-21-0",0.382
-"13",2011,"Terry Cummings","Division III Independents","0-0-0",NA
-"14",2010,"Terry Cummings","Division III Independents","9-24-0",0.273
-"15",2009,"","-","0-0-0",NA
-"16",2008,"","-","3-15-0",0.167
-"17",2007,"","-","0-0-0",NA
-"18",2006,"","-","0-0-0",NA
-"19",2024,"Kaitlin Thibodeau-Corey","North Atlantic","5-22-0",0.185
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Me.-Presque Isle","30040","2025","Billy Manley","D-III","North Atlantic",0,0,0,0
+"2","Me.-Presque Isle","30040","2024","Kaitlin Thibodeau-Corey","D-III","North Atlantic",4,21,0,0.16
+"3","Me.-Presque Isle","30040","2023","Alissa Edwards","D-III","North Atlantic",13,22,0,0.371
+"4","Me.-Presque Isle","30040","2022","Alissa Edwards","D-III","North Atlantic",5,25,0,0.167
+"5","Me.-Presque Isle","30040","2021","Alissa Edwards","D-III","North Atlantic",14,11,0,0.56
+"6","Me.-Presque Isle","30040","2020","Alissa Edwards","D-III","North Atlantic",NA,NA,NA,0
+"7","Me.-Presque Isle","30040","2019","Sara Shaw","D-III","North Atlantic",18,15,0,0.545
+"8","Me.-Presque Isle","30040","2018","Sara Shaw","D-III","ACAA",22,12,NA,0.647
+"9","Me.-Presque Isle","30040","2017","Sara Shaw","D-III","-",22,16,0,0.579
+"10","Me.-Presque Isle","30040","2016","Sara Shaw","D-III","-",18,15,0,0.545
+"11","Me.-Presque Isle","30040","2015","Sara Shaw","D-III","Great South",9,15,0,0.375
+"12","Me.-Presque Isle","30040","2014","Peter Coffin","D-III","Great South",4,20,0,0.167
+"13","Me.-Presque Isle","30040","2013","Peter Coffin","D-III","-",5,22,0,0.185
+"14","Me.-Presque Isle","30040","2012","Peter Coffin","D-III","Division III Independents",13,21,0,0.382
+"15","Me.-Presque Isle","30040","2011","Terry Cummings","D-III","Division III Independents",NA,NA,NA,NA
+"16","Me.-Presque Isle","30040","2010","Terry Cummings","D-III","Division III Independents",9,24,0,0.273
+"17","Me.-Presque Isle","30040","2009","","","-",NA,NA,NA,NA
+"18","Me.-Presque Isle","30040","2008","","","-",3,15,0,0.167
+"19","Me.-Presque Isle","30040","2007","","","-",NA,NA,NA,NA
+"20","Me.-Presque Isle","30040","2006","","","-",NA,NA,NA,NA
+"21","Me.-Presque Isle","30040","","","","",159,254,0,0.385

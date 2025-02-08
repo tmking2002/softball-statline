@@ -1,2 +1,4 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2001",NA,"-","0-0-0","NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Loyola Maryland","369","2024",NA,"","-",NA,NA,NA,0
+"2","Loyola Maryland","369","2001",NA,"D-I","-",NA,NA,NA,NA
+"3","Loyola Maryland","369","",NA,"","",0,0,0,0

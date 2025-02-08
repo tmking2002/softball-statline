@@ -1,42 +1,44 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Diane Lokey","PSAC","37-19-0",0.661
-"2",2022,"Diane Lokey","PSAC","24-22-0",0.522
-"3",2021,"Diane Lokey","PSAC","34-16-0",0.68
-"4",2020,"Diane Lokey","PSAC","12-3-0",0.8
-"5",2019,"Diane Lokey","PSAC","40-22-0",0.645
-"6",2018,"Diane Lokey","PSAC","45-15-0",0.75
-"7",2017,"Diane Lokey","PSAC","48-13-0",0.787
-"8",2016,"Diane Lokey","PSAC","47-9-0",0.839
-"9",2015,"Diane Lokey","PSAC","40-16-0",0.714
-"10",2014,"Diane Lokey","PSAC","39-21-0",0.65
-"11",2013,"Diane Lokey","PSAC","37-21-0",0.638
-"12",2012,"Diane Lokey","PSAC","28-25-0",0.528
-"13",2011,"Diane Lokey","PSAC","34-19-0",0.642
-"14",2010,"Diane Lokey","PSAC","32-18-0",0.64
-"15",2009,"Diane Lokey","PSAC","28-20-0",0.583
-"16",2008,"Diane Lokey","PSAC","32-22-0",0.593
-"17",2007,"Diane Lokey","PSAC","19-28-0",0.404
-"18",2006,"Diane Lokey","PSAC","21-27-0",0.438
-"19",2005,"Diane Lokey","PSAC","18-27-0",0.4
-"20",2004,"Diane Lokey","PSAC","30-27-1",0.526
-"21",2003,"Joy Figueredo","PSAC","23-19-0",0.548
-"22",2002,"Joy Figueredo","-","19-28-1",0.404
-"23",2001,"Joy Figueredo","-","21-31-0",0.404
-"24",2000,"Joy Figueredo","-","15-29-0",0.341
-"25",1999,"Kim Franchi","-","19-32-0",0.373
-"26",1998,"Kim Franchi","-","19-32-0",0.373
-"27",1997,"Kim Franchi","-","21-24-0",0.467
-"28",1996,"Sonya Wilmoth","-","28-24-0",0.538
-"29",1995,"Sonya Wilmoth","-","18-29-0",0.383
-"30",1994,"Sonya Wilmoth","-","6-23-0",0.207
-"31",1993,"Sonya Wilmoth","-","8-21-0",0.276
-"32",1992,"Sonya Wilmoth","-","5-26-0",0.161
-"33",1991,"Sonya Wilmoth","-","7-21-0",0.25
-"34",1990,"Sonya Wilmoth","-","15-17-0",0.469
-"35",1988,"","-","0-0-0",NA
-"36",1987,"","-","0-0-0",NA
-"37",1985,"","-","0-0-0",NA
-"38",1984,"","-","0-0-0",NA
-"39",1983,"","-","0-0-0",NA
-"40",1982,"","-","0-0-0",NA
-"41",2024,"Diane Lokey","PSAC","35-18-0",0.66
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","West Chester","765","2025","Diane Lokey","D-II","PSAC",0,0,0,0
+"2","West Chester","765","2024","Diane Lokey","D-II","PSAC",36,22,0,0.621
+"3","West Chester","765","2023","Diane Lokey","D-II","PSAC",37,19,0,0.661
+"4","West Chester","765","2022","Diane Lokey","D-II","PSAC",24,22,0,0.522
+"5","West Chester","765","2021","Diane Lokey","D-II","PSAC",34,16,0,0.68
+"6","West Chester","765","2020","Diane Lokey","D-II","PSAC",12,3,0,0.8
+"7","West Chester","765","2019","Diane Lokey","D-II","PSAC",40,22,0,0.645
+"8","West Chester","765","2018","Diane Lokey","D-II","PSAC",45,15,NA,0.75
+"9","West Chester","765","2017","Diane Lokey","D-II","PSAC",48,13,0,0.787
+"10","West Chester","765","2016","Diane Lokey","D-II","PSAC",47,9,0,0.839
+"11","West Chester","765","2015","Diane Lokey","D-II","PSAC",40,16,0,0.714
+"12","West Chester","765","2014","Diane Lokey","D-II","PSAC",39,21,0,0.65
+"13","West Chester","765","2013","Diane Lokey","D-II","PSAC",37,21,0,0.638
+"14","West Chester","765","2012","Diane Lokey","D-II","PSAC",28,25,0,0.528
+"15","West Chester","765","2011","Diane Lokey","D-II","PSAC",34,19,0,0.642
+"16","West Chester","765","2010","Diane Lokey","D-II","PSAC",32,18,0,0.64
+"17","West Chester","765","2009","Diane Lokey","D-II","PSAC",28,20,0,0.583
+"18","West Chester","765","2008","Diane Lokey","D-II","PSAC",32,22,0,0.593
+"19","West Chester","765","2007","Diane Lokey","D-II","PSAC",19,28,0,0.404
+"20","West Chester","765","2006","Diane Lokey","D-II","PSAC",21,27,0,0.438
+"21","West Chester","765","2005","Diane Lokey","D-II","PSAC",18,27,0,0.4
+"22","West Chester","765","2004","Diane Lokey","D-II","PSAC",30,27,1,0.526
+"23","West Chester","765","2003","Joy Figueredo","D-II","PSAC",23,19,0,0.548
+"24","West Chester","765","2002","Joy Figueredo","D-II","-",19,28,1,0.406
+"25","West Chester","765","2001","Joy Figueredo","D-II","-",21,31,0,0.404
+"26","West Chester","765","1900","Joy Figueredo","D-II","-",15,29,0,0.341
+"27","West Chester","765","1999","Kim Franchi","D-II","-",19,32,0,0.373
+"28","West Chester","765","1998","Kim Franchi","D-II","-",19,32,0,0.373
+"29","West Chester","765","1997","Kim Franchi","D-II","-",21,24,0,0.467
+"30","West Chester","765","1996","Sonya Wilmoth","D-II","-",28,24,0,0.538
+"31","West Chester","765","1995","Sonya Wilmoth","D-II","-",18,29,0,0.383
+"32","West Chester","765","1994","Sonya Wilmoth","D-II","-",6,23,0,0.207
+"33","West Chester","765","1993","Sonya Wilmoth","D-II","-",8,21,0,0.276
+"34","West Chester","765","1992","Sonya Wilmoth","D-II","-",5,26,0,0.161
+"35","West Chester","765","1991","Sonya Wilmoth","D-II","-",7,21,0,0.25
+"36","West Chester","765","1990","Sonya Wilmoth","D-II","-",15,17,0,0.469
+"37","West Chester","765","1988","","D-II","-",NA,NA,NA,NA
+"38","West Chester","765","1987","","D-II","-",NA,NA,NA,NA
+"39","West Chester","765","1985","","D-II","-",NA,NA,NA,NA
+"40","West Chester","765","1984","","D-II","-",NA,NA,NA,NA
+"41","West Chester","765","1983","","D-II","-",NA,NA,NA,NA
+"42","West Chester","765","1982","","D-I","-",NA,NA,NA,NA
+"43","West Chester","765","","","","",905,768,2,0.541

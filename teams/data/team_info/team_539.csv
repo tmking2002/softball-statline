@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Clarisa Crowell","Big Ten","31-16-0",0.66
-"2",2022,"Clarisa Crowell","Big Ten","32-22-0",0.593
-"3",2021,"Clarisa Crowell","Big Ten","7-34-0",0.171
-"4",2020,"Amanda Lehotak","Big Ten","11-15-0",0.423
-"5",2019,"Amanda Lehotak","Big Ten","24-32-0",0.429
-"6",2018,"Amanda Lehotak","Big Ten","9-41-0",0.18
-"7",2017,"Amanda Lehotak","Big Ten","23-33-0",0.411
-"8",2016,"Amanda Lehotak","Big Ten","30-24-0",0.556
-"9",2015,"Amanda Lehotak","Big Ten","29-28-0",0.509
-"10",2014,"Amanda Lehotak","Big Ten","14-35-0",0.286
-"11",2013,"Robin Petrini","Big Ten","16-34-0",0.32
-"12",2012,"Robin Petrini","Big Ten","18-32-0",0.36
-"13",2011,"Robin Petrini","Big Ten","31-24-1",0.564
-"14",2010,"Robin Petrini","Big Ten","29-22-0",0.569
-"15",2009,"Robin Petrini","Big Ten","19-27-0",0.413
-"16",2008,"Robin Petrini","Big Ten","34-22-0",0.607
-"17",2007,"Robin Petrini","Big Ten","26-25-0",0.51
-"18",2006,"Robin Petrini","Big Ten","39-17-0",0.696
-"19",2005,"Robin Petrini","Big Ten","36-23-0",0.61
-"20",2004,"Robin Petrini","Big Ten","25-33-0",0.431
-"21",2003,"Robin Petrini","Big Ten","31-23-0",0.574
-"22",2002,"Robin Petrini","Big Ten","34-26-0",0.567
-"23",2001,"Robin Petrini","Big Ten","34-28-0",0.548
-"24",2000,"Robin Petrini","Big Ten","38-19-0",0.667
-"25",1999,"Robin Petrini","Big Ten","35-22-0",0.614
-"26",1998,"Robin Petrini","-","21-28-1",0.429
-"27",1997,"Robin Petrini","Big Ten","23-32-0",0.418
-"28",1996,"Laura Fillipp","-","24-26-0",0.48
-"29",1995,"Sue Rankin","-","23-26-0",0.469
-"30",1994,"Sue Rankin","-","10-40-0",0.2
-"31",1993,"Sue Rankin","-","14-34-0",0.292
-"32",1992,"Sue Rankin","-","10-29-0",0.256
-"33",1991,"Sue Rankin","-","22-31-0",0.415
-"34",1990,"Sue Rankin","-","25-22-0",0.532
-"35",1989,"Sue Rankin","-","22-33-0",0.4
-"36",1988,"Sue Rankin","-","34-20-0",0.63
-"37",1987,"Sue Rankin","-","22-23-0",0.489
-"38",1986,"Sue Rankin","-","21-26-0",0.447
-"39",1985,"Sue Rankin","-","34-16-0",0.68
-"40",1984,"Sue Rankin","-","27-11-0",0.711
-"41",1983,"Sue Rankin","-","25-13-0",0.658
-"42",1982,"Sue Rankin","-","17-7-0",0.708
-"43",2024,"Clarisa Crowell","Big Ten","35-20-0",0.636
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Penn St.","539","2025","Clarisa Crowell","D-I","Big Ten",0,2,0,0
+"2","Penn St.","539","2024","Clarisa Crowell","D-I","Big Ten",35,20,0,0.636
+"3","Penn St.","539","2023","Clarisa Crowell","D-I","Big Ten",31,16,0,0.66
+"4","Penn St.","539","2022","Clarisa Crowell","D-I","Big Ten",32,22,0,0.593
+"5","Penn St.","539","2021","Clarisa Crowell","D-I","Big Ten",7,34,0,0.171
+"6","Penn St.","539","2020","Amanda Lehotak","D-I","Big Ten",11,15,0,0.423
+"7","Penn St.","539","2019","Amanda Lehotak","D-I","Big Ten",24,32,0,0.429
+"8","Penn St.","539","2018","Amanda Lehotak","D-I","Big Ten",9,41,NA,0.18
+"9","Penn St.","539","2017","Amanda Lehotak","D-I","Big Ten",23,33,0,0.411
+"10","Penn St.","539","2016","Amanda Lehotak","D-I","Big Ten",30,24,0,0.556
+"11","Penn St.","539","2015","Amanda Lehotak","D-I","Big Ten",29,28,0,0.509
+"12","Penn St.","539","2014","Amanda Lehotak","D-I","Big Ten",14,35,0,0.286
+"13","Penn St.","539","2013","Robin Petrini","D-I","Big Ten",16,34,0,0.32
+"14","Penn St.","539","2012","Robin Petrini","D-I","Big Ten",18,32,0,0.36
+"15","Penn St.","539","2011","Robin Petrini","D-I","Big Ten",31,24,1,0.563
+"16","Penn St.","539","2010","Robin Petrini","D-I","Big Ten",29,22,0,0.569
+"17","Penn St.","539","2009","Robin Petrini","D-I","Big Ten",19,27,0,0.413
+"18","Penn St.","539","2008","Robin Petrini","D-I","Big Ten",34,22,0,0.607
+"19","Penn St.","539","2007","Robin Petrini","D-I","Big Ten",26,25,0,0.51
+"20","Penn St.","539","2006","Robin Petrini","D-I","Big Ten",39,17,0,0.696
+"21","Penn St.","539","2005","Robin Petrini","D-I","Big Ten",36,23,0,0.61
+"22","Penn St.","539","2004","Robin Petrini","D-I","Big Ten",25,33,0,0.431
+"23","Penn St.","539","2003","Robin Petrini","D-I","Big Ten",31,23,0,0.574
+"24","Penn St.","539","2002","Robin Petrini","D-I","Big Ten",34,26,0,0.567
+"25","Penn St.","539","2001","Robin Petrini","D-I","Big Ten",34,28,0,0.548
+"26","Penn St.","539","1900","Robin Petrini","D-I","Big Ten",38,19,0,0.667
+"27","Penn St.","539","1999","Robin Petrini","D-I","Big Ten",35,22,0,0.614
+"28","Penn St.","539","1998","Robin Petrini","D-I","-",21,28,1,0.43
+"29","Penn St.","539","1997","Robin Petrini","D-I","Big Ten",23,32,0,0.418
+"30","Penn St.","539","1996","Laura Fillipp","D-I","-",24,26,NA,0.48
+"31","Penn St.","539","1995","Sue Rankin","D-I","-",23,26,NA,0.469
+"32","Penn St.","539","1994","Sue Rankin","D-I","-",10,40,NA,0.2
+"33","Penn St.","539","1993","Sue Rankin","D-I","-",14,34,NA,0.292
+"34","Penn St.","539","1992","Sue Rankin","D-I","-",10,29,NA,0.256
+"35","Penn St.","539","1991","Sue Rankin","D-I","-",22,31,NA,0.415
+"36","Penn St.","539","1990","Sue Rankin","D-I","-",25,22,NA,0.532
+"37","Penn St.","539","1989","Sue Rankin","D-I","-",22,33,NA,0.4
+"38","Penn St.","539","1988","Sue Rankin","D-I","-",34,20,NA,0.63
+"39","Penn St.","539","1987","Sue Rankin","D-I","-",22,23,NA,0.489
+"40","Penn St.","539","1986","Sue Rankin","D-I","-",21,26,NA,0.447
+"41","Penn St.","539","1985","Sue Rankin","D-I","-",34,16,NA,0.68
+"42","Penn St.","539","1984","Sue Rankin","D-I","-",27,11,NA,0.711
+"43","Penn St.","539","1983","Sue Rankin","D-I","-",25,13,NA,0.658
+"44","Penn St.","539","1982","Sue Rankin","D-I","-",17,7,NA,0.708
+"45","Penn St.","539","","","","",1064,1096,2,0.493

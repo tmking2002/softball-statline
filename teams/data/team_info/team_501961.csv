@@ -1,2 +1,4 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2024",NA,"-","NA-NA-NA",0
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Grace Christian (MI)","501961","2025",NA,NA,"-",NA,NA,NA,0
+"2","Grace Christian (MI)","501961","2024",NA,NA,"-",NA,NA,NA,0
+"3","Grace Christian (MI)","501961","",NA,NA,"",0,0,0,0

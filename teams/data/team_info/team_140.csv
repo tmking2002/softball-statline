@@ -1,6 +1,7 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2014",NA,"-","0-0-0","NaN"
-"2","2013",NA,"-","0-0-0","NaN"
-"3","2012",NA,"-","0-0-0","NaN"
-"4","2011",NA,"-","0-0-0","NaN"
-"5","2010",NA,"-","0-0-0","NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Cincinnati","140","2014",NA,"D-I","-",NA,NA,NA,NA
+"2","Cincinnati","140","2013",NA,"D-I","-",NA,NA,NA,NA
+"3","Cincinnati","140","2012",NA,"D-I","-",NA,NA,NA,NA
+"4","Cincinnati","140","2011",NA,"D-I","-",NA,NA,NA,NA
+"5","Cincinnati","140","2010",NA,"D-I","-",NA,NA,NA,NA
+"6","Cincinnati","140","",NA,"","",0,0,0,0

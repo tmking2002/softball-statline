@@ -1,35 +1,38 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Brett Cline","CSAC","14-24-0","0.368"
-"2","2022","Brett Cline","CSAC","26-13-1","0.667"
-"3","2021","Brett Cline","CSAC","24-5-0","0.828"
-"4","2020","Brett Cline","CSAC","0-0-0","  NaN"
-"5","2019","Brett Cline","CSAC","27-8-2","0.771"
-"6","2018","Brett Cline","United East","17-13-0","0.567"
-"7","2017","Brett Cline","United East","25-14-0","0.641"
-"8","2016","Brett Cline","United East","20-17-0","0.541"
-"9","2015","Brett Cline","United East","20-14-0","0.588"
-"10","2014","Brett Cline","United East","15-14-0","0.517"
-"11","2013","Brett Cline","United East","16-17-0","0.485"
-"12","2012","Brett Cline","United East","26-5-0","0.839"
-"13","2011","Brett Cline","United East","23-13-0","0.639"
-"14","2010","Brett Cline","United East","19-12-0","0.613"
-"15","2009","Brett Cline","United East","12-10-0","0.545"
-"16","2008","Brett Cline","United East","7-20-1","0.259"
-"17","2007","Brett Cline","AWCC","13-9-0","0.591"
-"18","2006","Brett Cline","AWCC","10-13-0","0.435"
-"19","2005","Brett Cline","AWCC","11-9-0","0.550"
-"20","2004","Brett Cline","AWCC","8-16-0","0.333"
-"21","2003","Brett Cline","-","8-16-0","0.333"
-"22","2002","Brett Cline","-","4-25-0","0.138"
-"23","2001","Brett Cline","-","17-17-0","0.500"
-"24","2000","Lori Frey","-","18-10-0","0.643"
-"25","1999","Lori Frey","-","12-12-0","0.500"
-"26","1998","Lori Frey","-","15-7-0","0.682"
-"27","1997","","-","0-0-0","  NaN"
-"28","1996","","-","0-0-0","  NaN"
-"29","1995","","-","0-0-0","  NaN"
-"30","1994","","-","0-0-0","  NaN"
-"31","1993","","-","0-0-0","  NaN"
-"32","1992","","-","0-0-0","  NaN"
-"33","1991","","-","0-0-0","  NaN"
-"34","1990","","-","0-0-0","  NaN"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wilson","12973","2025","Brett Cline","D-III","United East",0,0,0,0
+"2","Wilson","12973","2024","Brett Cline","D-III","United East",29,13,0,0.69
+"3","Wilson","12973","2023","Brett Cline","D-III","CSAC",14,24,0,0.368
+"4","Wilson","12973","2022","Brett Cline","D-III","CSAC",26,13,1,0.663
+"5","Wilson","12973","2021","Brett Cline","D-III","CSAC",24,5,0,0.828
+"6","Wilson","12973","2020","Brett Cline","D-III","CSAC",0,0,0,0
+"7","Wilson","12973","2019","Brett Cline","D-III","CSAC",27,8,2,0.757
+"8","Wilson","12973","2018","Brett Cline","D-III","United East",17,13,NA,0.567
+"9","Wilson","12973","2017","Brett Cline","D-III","United East",25,14,0,0.641
+"10","Wilson","12973","2016","Brett Cline","D-III","United East",20,17,0,0.541
+"11","Wilson","12973","2015","Brett Cline","D-III","United East",20,14,0,0.588
+"12","Wilson","12973","2014","Brett Cline","D-III","United East",15,14,0,0.517
+"13","Wilson","12973","2013","Brett Cline","D-III","United East",16,17,0,0.485
+"14","Wilson","12973","2012","Brett Cline","D-III","United East",26,5,0,0.839
+"15","Wilson","12973","2011","Brett Cline","D-III","United East",23,13,0,0.639
+"16","Wilson","12973","2010","Brett Cline","D-III","United East",19,12,0,0.613
+"17","Wilson","12973","2009","Brett Cline","D-III","United East",12,10,0,0.545
+"18","Wilson","12973","2008","Brett Cline","D-III","United East",7,20,1,0.268
+"19","Wilson","12973","2007","Brett Cline","D-III","AWCC",13,9,0,0.591
+"20","Wilson","12973","2006","Brett Cline","D-III","AWCC",10,13,0,0.435
+"21","Wilson","12973","2005","Brett Cline","D-III","AWCC",11,9,0,0.55
+"22","Wilson","12973","2004","Brett Cline","D-III","AWCC",8,16,0,0.333
+"23","Wilson","12973","2003","Brett Cline","","-",8,16,NA,0.333
+"24","Wilson","12973","2002","Brett Cline","D-III","-",4,25,NA,0.138
+"25","Wilson","12973","2001","Brett Cline","D-III","-",17,17,NA,0.5
+"26","Wilson","12973","1900","Lori Frey","D-III","-",18,10,NA,0.643
+"27","Wilson","12973","1999","Lori Frey","D-III","-",12,12,0,0.5
+"28","Wilson","12973","1998","Lori Frey","D-III","-",15,7,NA,0.682
+"29","Wilson","12973","1997","","D-III","-",NA,NA,NA,NA
+"30","Wilson","12973","1996","","D-III","-",NA,NA,NA,NA
+"31","Wilson","12973","1995","","D-III","-",NA,NA,NA,NA
+"32","Wilson","12973","1994","","D-III","-",NA,NA,NA,NA
+"33","Wilson","12973","1993","","D-III","-",NA,NA,NA,NA
+"34","Wilson","12973","1992","","D-III","-",NA,NA,NA,NA
+"35","Wilson","12973","1991","","D-III","-",NA,NA,NA,NA
+"36","Wilson","12973","1990","","D-III","-",NA,NA,NA,NA
+"37","Wilson","12973","","","","",436,346,4,0.557

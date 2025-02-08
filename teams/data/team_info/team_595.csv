@@ -1,40 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Rachael Click","MIAC","26-8-0",0.765
-"2",2022,"Rachael Click","MIAC","30-10-0",0.75
-"3",2021,"Rachael Click","MIAC","26-7-0",0.788
-"4",2020,"Rachael Click","MIAC","7-7-0",0.5
-"5",2019,"Rachael Click","MIAC","27-15-0",0.643
-"6",2018,"Rachael Click","MIAC","36-10-0",0.783
-"7",2017,"Rachael Click","MIAC","27-13-0",0.675
-"8",2016,"Rachael Click","MIAC","22-18-0",0.55
-"9",2015,"Rachael Click","MIAC","22-18-0",0.55
-"10",2014,"Rachael Click","MIAC","28-11-0",0.718
-"11",2013,"Rachael Click","MIAC","20-18-0",0.526
-"12",2012,"Dennis Johnson","MIAC","18-16-0",0.529
-"13",2011,"Dennis Johnson","MIAC","16-20-0",0.444
-"14",2010,"Dennis Johnson","MIAC","14-22-0",0.389
-"15",2009,"Dennis Johnson","MIAC","13-21-0",0.382
-"16",2008,"Dennis Johnson","MIAC","10-22-0",0.312
-"17",2007,"Dennis Johnson","MIAC","18-16-0",0.529
-"18",2006,"Dennis Johnson","MIAC","15-21-0",0.417
-"19",2005,"Dennis Johnson","MIAC","20-13-0",0.606
-"20",2004,"Dennis Johnson","MIAC","29-7-0",0.806
-"21",2003,"Dennis Johnson","MIAC","17-15-0",0.531
-"22",2002,"Dennis Johnson","MIAC","26-9-1",0.743
-"23",2001,"Dennis Johnson","-","17-9-0",0.654
-"24",2000,"Dennis Johnson","-","22-16-0",0.579
-"25",1999,"Dennis Johnson","-","25-9-0",0.735
-"26",1998,"Dennis Johnson","-","24-8-1",0.75
-"27",1997,"Dennis Johnson","-","24-8-0",0.75
-"28",1996,"Dennis Johnson","-","17-13-0",0.567
-"29",1995,"Dennis Johnson","-","23-10-0",0.697
-"30",1994,"Dennis Johnson","-","27-9-0",0.75
-"31",1993,"Dennis Johnson","-","31-10-0",0.756
-"32",1992,"Dennis Johnson","-","21-3-0",0.875
-"33",1991,"Dennis Johnson","-","23-9-0",0.719
-"34",1990,"Dennis Johnson","-","23-13-0",0.639
-"35",1989,"Dennis Johnson","-","20-4-0",0.833
-"36",1988,"Dennis Johnson","-","15-10-0",0.6
-"37",1987,"Dennis Johnson","-","14-11-1",0.56
-"38",1981,"","-","0-0-0",NA
-"39",2024,"Rachael Click","MIAC","27-19-0",0.587
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Saint Benedict","595","2025","Rachael Click","D-III","MIAC",0,0,0,0
+"2","Saint Benedict","595","2024","Rachael Click","D-III","MIAC",26,19,0,0.578
+"3","Saint Benedict","595","2023","Rachael Click","D-III","MIAC",26,8,0,0.765
+"4","Saint Benedict","595","2022","Rachael Click","D-III","MIAC",30,10,0,0.75
+"5","Saint Benedict","595","2021","Rachael Click","D-III","MIAC",26,7,0,0.788
+"6","Saint Benedict","595","2020","Rachael Click","D-III","MIAC",7,7,0,0.5
+"7","Saint Benedict","595","2019","Rachael Click","D-III","MIAC",27,15,0,0.643
+"8","Saint Benedict","595","2018","Rachael Click","D-III","MIAC",36,10,NA,0.783
+"9","Saint Benedict","595","2017","Rachael Click","D-III","MIAC",27,13,0,0.675
+"10","Saint Benedict","595","2016","Rachael Click","D-III","MIAC",22,18,0,0.55
+"11","Saint Benedict","595","2015","Rachael Click","D-III","MIAC",22,18,0,0.55
+"12","Saint Benedict","595","2014","Rachael Click","D-III","MIAC",28,11,0,0.718
+"13","Saint Benedict","595","2013","Rachael Click","D-III","MIAC",20,18,0,0.526
+"14","Saint Benedict","595","2012","Dennis Johnson","D-III","MIAC",18,16,0,0.529
+"15","Saint Benedict","595","2011","Dennis Johnson","D-III","MIAC",16,20,0,0.444
+"16","Saint Benedict","595","2010","Dennis Johnson","D-III","MIAC",14,22,0,0.389
+"17","Saint Benedict","595","2009","Dennis Johnson","D-III","MIAC",13,21,0,0.382
+"18","Saint Benedict","595","2008","Dennis Johnson","D-III","MIAC",10,22,0,0.313
+"19","Saint Benedict","595","2007","Dennis Johnson","D-III","MIAC",18,16,0,0.529
+"20","Saint Benedict","595","2006","Dennis Johnson","D-III","MIAC",15,21,0,0.417
+"21","Saint Benedict","595","2005","Dennis Johnson","D-III","MIAC",20,13,0,0.606
+"22","Saint Benedict","595","2004","Dennis Johnson","D-III","MIAC",29,7,0,0.806
+"23","Saint Benedict","595","2003","Dennis Johnson","D-III","MIAC",17,15,0,0.531
+"24","Saint Benedict","595","2002","Dennis Johnson","D-III","MIAC",26,9,1,0.736
+"25","Saint Benedict","595","2001","Dennis Johnson","D-III","-",17,9,NA,0.654
+"26","Saint Benedict","595","1900","Dennis Johnson","D-III","-",22,16,NA,0.579
+"27","Saint Benedict","595","1999","Dennis Johnson","D-III","-",25,9,NA,0.735
+"28","Saint Benedict","595","1998","Dennis Johnson","D-III","-",24,8,1,0.742
+"29","Saint Benedict","595","1997","Dennis Johnson","D-III","-",24,8,NA,0.75
+"30","Saint Benedict","595","1996","Dennis Johnson","D-III","-",17,13,NA,0.567
+"31","Saint Benedict","595","1995","Dennis Johnson","D-III","-",23,10,NA,0.697
+"32","Saint Benedict","595","1994","Dennis Johnson","D-III","-",27,9,NA,0.75
+"33","Saint Benedict","595","1993","Dennis Johnson","D-III","-",31,10,NA,0.756
+"34","Saint Benedict","595","1992","Dennis Johnson","D-III","-",21,3,NA,0.875
+"35","Saint Benedict","595","1991","Dennis Johnson","D-III","-",23,9,NA,0.719
+"36","Saint Benedict","595","1990","Dennis Johnson","D-III","-",23,13,NA,0.639
+"37","Saint Benedict","595","1989","Dennis Johnson","D-III","-",20,4,NA,0.833
+"38","Saint Benedict","595","1988","Dennis Johnson","D-III","-",15,10,NA,0.6
+"39","Saint Benedict","595","1987","Dennis Johnson","D-III","-",14,11,1,0.558
+"40","Saint Benedict","595","1981","","","-",NA,NA,NA,NA
+"41","Saint Benedict","595","","","","",819,478,3,0.631

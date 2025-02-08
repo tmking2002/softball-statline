@@ -1,41 +1,43 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Ashley Wade","CAA","23-27-0",0.46
-"2",2022,"Kristy Norton","CAA","32-15-0",0.681
-"3",2021,"Kristy Norton","CAA","15-23-0",0.395
-"4",2020,"Kristy Norton","CAA","7-16-0",0.304
-"5",2019,"Kristy Norton","CAA","26-28-0",0.481
-"6",2018,"Kristy Norton","CAA","20-29-0",0.408
-"7",2017,"Kristy Norton","CAA","35-20-1",0.636
-"8",2016,"Kristy Norton","CAA","29-21-0",0.58
-"9",2015,"Kristy Norton","CAA","19-27-0",0.413
-"10",2014,"Kristy Norton","CAA","18-34-0",0.346
-"11",2013,"Kristy Norton","CAA","16-37-0",0.302
-"12",2012,"Kelly Van Houten","CAA","9-45-0",0.167
-"13",2011,"Kelly Van Houten","CAA","11-45-0",0.196
-"14",2010,"Kelly Van Houten","CAA","10-41-0",0.196
-"15",2009,"Kelly Van Houten","CAA","13-32-0",0.289
-"16",2008,"Melissa Jarrell","CAA","12-33-1",0.267
-"17",2007,"Melissa Jarrell","CAA","19-37-0",0.339
-"18",2006,"Melissa Jarrell","CAA","33-28-0",0.541
-"19",2005,"Melissa Jarrell","CAA","22-44-0",0.333
-"20",2004,"Melissa Jarrell","CAA","19-38-0",0.333
-"21",2003,"Melissa Jarrell","SoCon","22-38-0",0.367
-"22",2002,"Melissa Jarrell","SoCon","22-32-0",0.407
-"23",2001,"Maggie St. Ledger","SoCon","20-34-0",0.37
-"24",2000,"Maggie St. Ledger","Big South","22-42-0",0.344
-"25",1999,"Maggie St. Ledger","Big South","32-28-1",0.533
-"26",1998,"Maggie St. Ledger","-","22-33-0",0.4
-"27",1997,"Maggie St. Ledger","Big South","23-29-0",0.442
-"28",1996,"Maggie St. Ledger","-","25-34-0",0.424
-"29",1995,"Maggie St. Ledger","-","28-31-0",0.475
-"30",1994,"Maggie St. Ledger","-","23-34-0",0.404
-"31",1993,"Maggie St. Ledger","-","19-35-0",0.352
-"32",1992,"Maggie St. Ledger","-","24-34-0",0.414
-"33",1991,"Maggie St. Ledger","-","22-30-0",0.423
-"34",1990,"Maggie St. Ledger","-","17-33-0",0.34
-"35",1989,"Maggie St. Ledger","-","29-14-0",0.674
-"36",1988,"Maggie St. Ledger","-","19-38-0",0.333
-"37",1987,"Maggie St. Ledger","-","23-23-0",0.5
-"38",1986,"Maggie St. Ledger","-","13-38-0",0.255
-"39",1985,"Maggie St. Ledger","-","26-17-0",0.605
-"40",2024,"Ashley Wade","CAA","33-23-0",0.589
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","UNCW","460","2025","Ashley Wade","D-I","CAA",1,1,0,0.5
+"2","UNCW","460","2024","Ashley Wade","D-I","CAA",33,23,0,0.589
+"3","UNCW","460","2023","Ashley Wade","D-I","CAA",23,27,0,0.46
+"4","UNCW","460","2022","Kristy Norton","D-I","CAA",32,15,0,0.681
+"5","UNCW","460","2021","Kristy Norton","D-I","CAA",15,23,0,0.395
+"6","UNCW","460","2020","Kristy Norton","D-I","CAA",7,16,0,0.304
+"7","UNCW","460","2019","Kristy Norton","D-I","CAA",26,28,0,0.481
+"8","UNCW","460","2018","Kristy Norton","D-I","CAA",20,29,NA,0.408
+"9","UNCW","460","2017","Kristy Norton","D-I","CAA",35,20,1,0.634
+"10","UNCW","460","2016","Kristy Norton","D-I","CAA",29,21,0,0.58
+"11","UNCW","460","2015","Kristy Norton","D-I","CAA",19,27,0,0.413
+"12","UNCW","460","2014","Kristy Norton","D-I","CAA",18,34,0,0.346
+"13","UNCW","460","2013","Kristy Norton","D-I","CAA",16,37,0,0.302
+"14","UNCW","460","2012","Kelly Van Houten","D-I","CAA",9,45,0,0.167
+"15","UNCW","460","2011","Kelly Van Houten","D-I","CAA",11,45,0,0.196
+"16","UNCW","460","2010","Kelly Van Houten","D-I","CAA",10,41,0,0.196
+"17","UNCW","460","2009","Kelly Van Houten","D-I","CAA",13,32,0,0.289
+"18","UNCW","460","2008","Melissa Jarrell","D-I","CAA",12,33,1,0.272
+"19","UNCW","460","2007","Melissa Jarrell","D-I","CAA",19,37,0,0.339
+"20","UNCW","460","2006","Melissa Jarrell","D-I","CAA",33,28,0,0.541
+"21","UNCW","460","2005","Melissa Jarrell","D-I","CAA",22,44,0,0.333
+"22","UNCW","460","2004","Melissa Jarrell","D-I","CAA",19,38,0,0.333
+"23","UNCW","460","2003","Melissa Jarrell","D-I","SoCon",22,38,0,0.367
+"24","UNCW","460","2002","Melissa Jarrell","D-I","SoCon",22,32,0,0.407
+"25","UNCW","460","2001","Maggie St. Ledger","D-I","SoCon",20,34,0,0.37
+"26","UNCW","460","1900","Maggie St. Ledger","D-I","Big South",22,42,0,0.344
+"27","UNCW","460","1999","Maggie St. Ledger","D-I","Big South",32,28,1,0.533
+"28","UNCW","460","1998","Maggie St. Ledger","D-I","-",22,33,NA,0.4
+"29","UNCW","460","1997","Maggie St. Ledger","D-I","Big South",23,29,0,0.442
+"30","UNCW","460","1996","Maggie St. Ledger","D-I","-",25,34,NA,0.424
+"31","UNCW","460","1995","Maggie St. Ledger","D-I","-",28,31,NA,0.475
+"32","UNCW","460","1994","Maggie St. Ledger","D-I","-",23,34,NA,0.404
+"33","UNCW","460","1993","Maggie St. Ledger","D-I","-",19,35,NA,0.352
+"34","UNCW","460","1992","Maggie St. Ledger","D-I","-",24,34,NA,0.414
+"35","UNCW","460","1991","Maggie St. Ledger","D-I","-",22,30,NA,0.423
+"36","UNCW","460","1990","Maggie St. Ledger","D-I","-",17,33,NA,0.34
+"37","UNCW","460","1989","Maggie St. Ledger","D-I","-",29,14,NA,0.674
+"38","UNCW","460","1988","Maggie St. Ledger","D-I","-",19,38,NA,0.333
+"39","UNCW","460","1987","Maggie St. Ledger","D-I","-",23,23,NA,0.5
+"40","UNCW","460","1986","Maggie St. Ledger","D-I","-",13,38,NA,0.255
+"41","UNCW","460","1985","Maggie St. Ledger","D-I","-",26,17,NA,0.605
+"42","UNCW","460","","","","",853,1241,3,0.407

@@ -1,17 +1,18 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023",NA,"-","0-0-0",0
-"2","2022",NA,"-","0-0-0",0
-"3","2014",NA,"-","0-0-0",NA
-"4","2013",NA,"-","0-0-0",NA
-"5","2012",NA,"-","0-0-0",NA
-"6","2011",NA,"-","0-0-0",NA
-"7","2010",NA,"-","0-0-0",NA
-"8","2009",NA,"-","0-0-0",NA
-"9","2008",NA,"-","0-0-0",NA
-"10","2007",NA,"-","0-0-0",NA
-"11","2006",NA,"-","0-0-0",NA
-"12","2005",NA,"-","0-0-0",NA
-"13","2004",NA,"-","0-0-0",NA
-"14","2003",NA,"-","0-0-0",NA
-"15","2002",NA,"-","0-0-0",NA
-"16","1981",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Iowa Wesleyan","506037","2023",NA,NA,"-",NA,NA,NA,0
+"2","Iowa Wesleyan","506037","2022",NA,NA,"-",NA,NA,NA,0
+"3","Iowa Wesleyan","506037","2014",NA,NA,"-",NA,NA,NA,NA
+"4","Iowa Wesleyan","506037","2013",NA,NA,"-",NA,NA,NA,NA
+"5","Iowa Wesleyan","506037","2012",NA,NA,"-",NA,NA,NA,NA
+"6","Iowa Wesleyan","506037","2011",NA,NA,"-",NA,NA,NA,NA
+"7","Iowa Wesleyan","506037","2010",NA,NA,"-",NA,NA,NA,NA
+"8","Iowa Wesleyan","506037","2009",NA,NA,"-",NA,NA,NA,NA
+"9","Iowa Wesleyan","506037","2008",NA,NA,"-",NA,NA,NA,NA
+"10","Iowa Wesleyan","506037","2007",NA,NA,"-",NA,NA,NA,NA
+"11","Iowa Wesleyan","506037","2006",NA,NA,"-",NA,NA,NA,NA
+"12","Iowa Wesleyan","506037","2005",NA,NA,"-",NA,NA,NA,NA
+"13","Iowa Wesleyan","506037","2004",NA,NA,"-",NA,NA,NA,NA
+"14","Iowa Wesleyan","506037","2003",NA,NA,"-",NA,NA,NA,NA
+"15","Iowa Wesleyan","506037","2002",NA,NA,"-",NA,NA,NA,NA
+"16","Iowa Wesleyan","506037","1981",NA,NA,"-",NA,NA,NA,NA
+"17","Iowa Wesleyan","506037","",NA,NA,"",0,0,0,0

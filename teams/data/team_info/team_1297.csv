@@ -1,39 +1,42 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2023","Traci Barrett","NWC","27-16-0","0.628"
-"2","2022","Traci Barrett","NWC","30-14-0","0.682"
-"3","2021","Traci Barrett","NWC","15-21-0","0.417"
-"4","2020","Traci Barrett","NWC","5-10-0","0.333"
-"5","2019","Traci Barrett","NWC","24-17-0","0.585"
-"6","2018","Brandi Gordon Bennett","NWC","14-23-0","0.378"
-"7","2017","Brandi Gordon Bennett","NWC","23-16-0","0.590"
-"8","2016","Lance Glasoe","NWC","22-16-0","0.579"
-"9","2015","Lance Glasoe","NWC","23-17-0","0.575"
-"10","2014","Erin Brooks","NWC","16-24-0","0.400"
-"11","2013","Erin Van Nostrand","NWC","27-17-0","0.614"
-"12","2012","Erin Van Nostrand","NWC","45-11-0","0.804"
-"13","2011","Erin Van Nostrand","NWC","31-13-0","0.705"
-"14","2010","Erin Van Nostrand","NWC","23-15-0","0.605"
-"15","2009","Erin Van Nostrand","NWC","18-22-0","0.450"
-"16","2008","Rick Noren","NWC","19-19-0","0.500"
-"17","2007","Rick Noren","NWC","17-18-0","0.486"
-"18","2006","Rick Noren","NWC","24-15-0","0.615"
-"19","2005","Rick Noren","NWC","22-14-0","0.611"
-"20","2004","Rick Noren","NWC","28-10-0","0.737"
-"21","2003","Rick Noren","NWC","32-3-0","0.914"
-"22","2002","Rick Noren","NWC","36-2-0","0.947"
-"23","2001","Rick Noren","-","26-10-0","0.722"
-"24","2000","Rick Noren","-","36-6-1","0.857"
-"25","1999","Rick Noren","-","39-6-0","0.867"
-"26","1998","Rick Noren","-","29-11-0","0.725"
-"27","1997","Rick Noren","-","36-12-0","0.750"
-"28","1996","Rick Noren","-","36-10-0","0.783"
-"29","1995","Rick Noren","-","22-9-0","0.710"
-"30","1994","Ralph Weekly","-","39-19-0","0.672"
-"31","1993","Ralph Weekly","-","35-9-0","0.795"
-"32","1992","Ralph Weekly","-","34-13-0","0.723"
-"33","1991","Ralph Weekly","-","36-8-0","0.818"
-"34","1990","Ralph Weekly","-","40-8-0","0.833"
-"35","1989","Ralph Weekly","-","33-13-0","0.717"
-"36","1988","Ralph Weekly","-","39-6-0","0.867"
-"37","1987","Ralph Weekly","-","29-11-0","0.725"
-"38","1986","Ralph Weekly","-","25-6-0","0.806"
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Pacific Lutheran","1297","2025","Traci Barrett","D-III","NWC",0,0,0,0
+"2","Pacific Lutheran","1297","2024","Traci Barrett","D-III","NWC",24,19,0,0.558
+"3","Pacific Lutheran","1297","2023","Traci Barrett","D-III","NWC",27,16,0,0.628
+"4","Pacific Lutheran","1297","2022","Traci Barrett","D-III","NWC",30,14,0,0.682
+"5","Pacific Lutheran","1297","2021","Traci Barrett","D-III","NWC",15,21,0,0.417
+"6","Pacific Lutheran","1297","2020","Traci Barrett","D-III","NWC",5,10,0,0.333
+"7","Pacific Lutheran","1297","2019","Traci Barrett","D-III","NWC",24,17,0,0.585
+"8","Pacific Lutheran","1297","2018","Brandi Gordon Bennett","D-III","NWC",14,23,NA,0.378
+"9","Pacific Lutheran","1297","2017","Brandi Gordon Bennett","D-III","NWC",23,16,0,0.59
+"10","Pacific Lutheran","1297","2016","Lance Glasoe","D-III","NWC",22,16,0,0.579
+"11","Pacific Lutheran","1297","2015","Lance Glasoe","D-III","NWC",23,17,0,0.575
+"12","Pacific Lutheran","1297","2014","Erin Brooks","D-III","NWC",16,24,0,0.4
+"13","Pacific Lutheran","1297","2013","Erin Van Nostrand","D-III","NWC",27,17,0,0.614
+"14","Pacific Lutheran","1297","2012","Erin Van Nostrand","D-III","NWC",45,11,0,0.804
+"15","Pacific Lutheran","1297","2011","Erin Van Nostrand","D-III","NWC",31,13,0,0.705
+"16","Pacific Lutheran","1297","2010","Erin Van Nostrand","D-III","NWC",23,15,0,0.605
+"17","Pacific Lutheran","1297","2009","Erin Van Nostrand","D-III","NWC",18,22,0,0.45
+"18","Pacific Lutheran","1297","2008","Rick Noren","D-III","NWC",19,19,0,0.5
+"19","Pacific Lutheran","1297","2007","Rick Noren","D-III","NWC",17,18,0,0.486
+"20","Pacific Lutheran","1297","2006","Rick Noren","D-III","NWC",24,15,0,0.615
+"21","Pacific Lutheran","1297","2005","Rick Noren","D-III","NWC",22,14,0,0.611
+"22","Pacific Lutheran","1297","2004","Rick Noren","D-III","NWC",28,10,0,0.737
+"23","Pacific Lutheran","1297","2003","Rick Noren","D-III","NWC",32,3,0,0.914
+"24","Pacific Lutheran","1297","2002","Rick Noren","D-III","NWC",36,2,0,0.947
+"25","Pacific Lutheran","1297","2001","Rick Noren","D-III","-",26,10,NA,0.722
+"26","Pacific Lutheran","1297","1900","Rick Noren","D-III","-",36,6,1,0.849
+"27","Pacific Lutheran","1297","1999","Rick Noren","D-III","-",39,6,NA,0.867
+"28","Pacific Lutheran","1297","1998","Rick Noren","D-III","-",29,11,NA,0.725
+"29","Pacific Lutheran","1297","1997","Rick Noren","","-",36,12,NA,0.75
+"30","Pacific Lutheran","1297","1996","Rick Noren","","-",36,10,NA,0.783
+"31","Pacific Lutheran","1297","1995","Rick Noren","","-",22,9,NA,0.71
+"32","Pacific Lutheran","1297","1994","Ralph Weekly","","-",39,19,NA,0.672
+"33","Pacific Lutheran","1297","1993","Ralph Weekly","","-",35,9,NA,0.795
+"34","Pacific Lutheran","1297","1992","Ralph Weekly","","-",34,13,NA,0.723
+"35","Pacific Lutheran","1297","1991","Ralph Weekly","","-",36,8,NA,0.818
+"36","Pacific Lutheran","1297","1990","Ralph Weekly","","-",40,8,NA,0.833
+"37","Pacific Lutheran","1297","1989","Ralph Weekly","","-",33,13,NA,0.717
+"38","Pacific Lutheran","1297","1988","Ralph Weekly","","-",39,6,NA,0.867
+"39","Pacific Lutheran","1297","1987","Ralph Weekly","","-",29,11,NA,0.725
+"40","Pacific Lutheran","1297","1986","Ralph Weekly","","-",25,6,NA,0.806
+"41","Pacific Lutheran","1297","","","","",1079,509,1,0.679

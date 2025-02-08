@@ -1,44 +1,46 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Chris Helixon","WIAC","28-15-0",0.651
-"2",2022,"Chris Helixon","WIAC","27-10-0",0.73
-"3",2021,"Chris Helixon","WIAC","14-14-0",0.5
-"4",2020,"Chris Helixon","WIAC","1-3-0",0.25
-"5",2019,"Chris Helixon","WIAC","29-22-0",0.569
-"6",2018,"Chris Helixon","WIAC","18-18-0",0.5
-"7",2017,"Chris Helixon","WIAC","30-16-0",0.652
-"8",2016,"Chris Helixon","WIAC","26-14-0",0.65
-"9",2015,"Chris Helixon","WIAC","27-14-0",0.659
-"10",2014,"Chris Helixon","WIAC","25-13-0",0.658
-"11",2013,"Chris Helixon","WIAC","21-14-0",0.6
-"12",2012,"Chris Helixon","WIAC","20-15-0",0.571
-"13",2011,"Chris Helixon","WIAC","28-16-0",0.636
-"14",2010,"Chris Helixon","WIAC","38-9-0",0.809
-"15",2009,"Chris Helixon","WIAC","34-12-0",0.739
-"16",2008,"Chris Helixon","WIAC","22-19-0",0.537
-"17",2007,"Chris Helixon","WIAC","12-26-0",0.316
-"18",2006,"Chris Helixon","WIAC","19-21-0",0.475
-"19",2005,"Vicki Schull","WIAC","16-21-0",0.432
-"20",2004,"Vicki Schull","WIAC","19-25-0",0.432
-"21",2003,"Vicki Schull","WIAC","26-12-0",0.684
-"22",2002,"Vicki Schull","WIAC","23-15-0",0.605
-"23",2001,"Vicki Schull","-","27-18-0",0.6
-"24",2000,"Vicki Schull","-","23-20-0",0.535
-"25",1999,"Vicki Schull","-","26-16-0",0.619
-"26",1998,"Sue Barnd","-","25-22-0",0.532
-"27",1997,"Sue Barnd","-","17-19-0",0.472
-"28",1996,"Sue Barnd","-","14-22-0",0.389
-"29",1995,"Sue Barnd","-","12-30-0",0.286
-"30",1994,"Sue Barnd","-","23-22-0",0.511
-"31",1993,"Sue Barnd","-","24-12-0",0.667
-"32",1992,"Deb Stockham","-","14-15-0",0.483
-"33",1991,"","-","0-0-0",NA
-"34",1990,"","-","0-0-0",NA
-"35",1989,"","-","0-0-0",NA
-"36",1988,"","-","0-0-0",NA
-"37",1987,"","-","0-0-0",NA
-"38",1986,"","-","0-0-0",NA
-"39",1985,"","-","0-0-0",NA
-"40",1984,"","-","0-0-0",NA
-"41",1983,"","-","0-0-0",NA
-"42",1981,"","-","0-0-0",NA
-"43",2024,"Sam Korn","WIAC","24-19-0",0.558
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Wis.-La Crosse","795","2025","Sam Korn","D-III","WIAC",0,0,0,0
+"2","Wis.-La Crosse","795","2024","Sam Korn","D-III","WIAC",24,19,0,0.558
+"3","Wis.-La Crosse","795","2023","Chris Helixon","D-III","WIAC",28,15,0,0.651
+"4","Wis.-La Crosse","795","2022","Chris Helixon","D-III","WIAC",27,10,0,0.73
+"5","Wis.-La Crosse","795","2021","Chris Helixon","D-III","WIAC",14,14,0,0.5
+"6","Wis.-La Crosse","795","2020","Chris Helixon","D-III","WIAC",1,3,0,0.25
+"7","Wis.-La Crosse","795","2019","Chris Helixon","D-III","WIAC",29,22,0,0.569
+"8","Wis.-La Crosse","795","2018","Chris Helixon","D-III","WIAC",18,18,NA,0.5
+"9","Wis.-La Crosse","795","2017","Chris Helixon","D-III","WIAC",30,16,0,0.652
+"10","Wis.-La Crosse","795","2016","Chris Helixon","D-III","WIAC",26,14,0,0.65
+"11","Wis.-La Crosse","795","2015","Chris Helixon","D-III","WIAC",27,14,0,0.659
+"12","Wis.-La Crosse","795","2014","Chris Helixon","D-III","WIAC",25,13,0,0.658
+"13","Wis.-La Crosse","795","2013","Chris Helixon","D-III","WIAC",21,14,0,0.6
+"14","Wis.-La Crosse","795","2012","Chris Helixon","D-III","WIAC",20,15,0,0.571
+"15","Wis.-La Crosse","795","2011","Chris Helixon","D-III","WIAC",28,16,0,0.636
+"16","Wis.-La Crosse","795","2010","Chris Helixon","D-III","WIAC",38,9,0,0.809
+"17","Wis.-La Crosse","795","2009","Chris Helixon","D-III","WIAC",34,12,0,0.739
+"18","Wis.-La Crosse","795","2008","Chris Helixon","D-III","WIAC",22,19,0,0.537
+"19","Wis.-La Crosse","795","2007","Chris Helixon","D-III","WIAC",12,26,0,0.316
+"20","Wis.-La Crosse","795","2006","Chris Helixon","D-III","WIAC",19,21,0,0.475
+"21","Wis.-La Crosse","795","2005","Vicki Schull","D-III","WIAC",16,21,0,0.432
+"22","Wis.-La Crosse","795","2004","Vicki Schull","D-III","WIAC",19,25,0,0.432
+"23","Wis.-La Crosse","795","2003","Vicki Schull","D-III","WIAC",26,12,0,0.684
+"24","Wis.-La Crosse","795","2002","Vicki Schull","D-III","WIAC",23,15,0,0.605
+"25","Wis.-La Crosse","795","2001","Vicki Schull","D-III","-",27,18,NA,0.6
+"26","Wis.-La Crosse","795","1900","Vicki Schull","D-III","-",23,20,NA,0.535
+"27","Wis.-La Crosse","795","1999","Vicki Schull","D-III","-",26,16,NA,0.619
+"28","Wis.-La Crosse","795","1998","Sue Barnd","D-III","-",25,22,0,0.532
+"29","Wis.-La Crosse","795","1997","Sue Barnd","D-III","-",17,19,NA,0.472
+"30","Wis.-La Crosse","795","1996","Sue Barnd","D-III","-",14,22,NA,0.389
+"31","Wis.-La Crosse","795","1995","Sue Barnd","D-III","-",12,30,NA,0.286
+"32","Wis.-La Crosse","795","1994","Sue Barnd","D-III","-",23,22,NA,0.511
+"33","Wis.-La Crosse","795","1993","Sue Barnd","D-III","-",24,12,NA,0.667
+"34","Wis.-La Crosse","795","1992","Deb Stockham","D-III","-",14,15,NA,0.483
+"35","Wis.-La Crosse","795","1991","","D-III","-",NA,NA,NA,NA
+"36","Wis.-La Crosse","795","1990","","D-III","-",NA,NA,NA,NA
+"37","Wis.-La Crosse","795","1989","","D-III","-",NA,NA,NA,NA
+"38","Wis.-La Crosse","795","1988","","D-III","-",NA,NA,NA,NA
+"39","Wis.-La Crosse","795","1987","","D-III","-",NA,NA,NA,NA
+"40","Wis.-La Crosse","795","1986","","","-",NA,NA,NA,NA
+"41","Wis.-La Crosse","795","1985","","","-",NA,NA,NA,NA
+"42","Wis.-La Crosse","795","1984","","D-III","-",NA,NA,NA,NA
+"43","Wis.-La Crosse","795","1983","","D-III","-",NA,NA,NA,NA
+"44","Wis.-La Crosse","795","1981","","","-",NA,NA,NA,NA
+"45","Wis.-La Crosse","795","","","","",732,559,0,0.567

@@ -1,14 +1,16 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2021",NA,"-","0-0-0",0
-"2","2020",NA,"-","0-0-0",0
-"3","2018",NA,"-","0-0-0",0
-"4","2015",NA,"-","0-0-0",NA
-"5","2010",NA,"-","0-0-0",NA
-"6","2009",NA,"-","0-0-0",NA
-"7","2008",NA,"-","0-0-0",NA
-"8","2007",NA,"-","0-0-0",NA
-"9","2006",NA,"-","0-0-0",NA
-"10","2005",NA,"-","0-0-0",NA
-"11","2004",NA,"-","0-0-0",NA
-"12","2003",NA,"-","0-0-0",NA
-"13","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Missouri Valley","506068","2025",NA,NA,"-",NA,NA,NA,0
+"2","Missouri Valley","506068","2021",NA,NA,"-",NA,NA,NA,0
+"3","Missouri Valley","506068","2020",NA,NA,"-",NA,NA,NA,0
+"4","Missouri Valley","506068","2018",NA,NA,"-",NA,NA,NA,0
+"5","Missouri Valley","506068","2015",NA,NA,"-",NA,NA,NA,NA
+"6","Missouri Valley","506068","2010",NA,NA,"-",NA,NA,NA,NA
+"7","Missouri Valley","506068","2009",NA,NA,"-",NA,NA,NA,NA
+"8","Missouri Valley","506068","2008",NA,NA,"-",NA,NA,NA,NA
+"9","Missouri Valley","506068","2007",NA,NA,"-",NA,NA,NA,NA
+"10","Missouri Valley","506068","2006",NA,NA,"-",NA,NA,NA,NA
+"11","Missouri Valley","506068","2005",NA,NA,"-",NA,NA,NA,NA
+"12","Missouri Valley","506068","2004",NA,NA,"-",NA,NA,NA,NA
+"13","Missouri Valley","506068","2003",NA,NA,"-",NA,NA,NA,NA
+"14","Missouri Valley","506068","2002",NA,NA,"-",NA,NA,NA,NA
+"15","Missouri Valley","506068","",NA,NA,"",0,0,0,0

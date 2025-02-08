@@ -1,14 +1,15 @@
-"","season","head_coach","conference","record","win_perc"
-"1","2017",NA,"-","0-0-0",NA
-"2","2013",NA,"-","0-0-0",NA
-"3","2012",NA,"-","0-0-0",NA
-"4","2011",NA,"-","0-0-0",NA
-"5","2010",NA,"-","0-0-0",NA
-"6","2009",NA,"-","0-0-0",NA
-"7","2008",NA,"-","0-0-0",NA
-"8","2007",NA,"-","0-0-0",NA
-"9","2006",NA,"-","0-0-0",NA
-"10","2005",NA,"-","0-0-0",NA
-"11","2004",NA,"-","0-0-0",NA
-"12","2003",NA,"-","0-0-0",NA
-"13","2002",NA,"-","0-0-0",NA
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Taylor (IN)","506071","2017",NA,NA,"-",NA,NA,NA,NA
+"2","Taylor (IN)","506071","2013",NA,NA,"-",NA,NA,NA,NA
+"3","Taylor (IN)","506071","2012",NA,NA,"-",NA,NA,NA,NA
+"4","Taylor (IN)","506071","2011",NA,NA,"-",NA,NA,NA,NA
+"5","Taylor (IN)","506071","2010",NA,NA,"-",NA,NA,NA,NA
+"6","Taylor (IN)","506071","2009",NA,NA,"-",NA,NA,NA,NA
+"7","Taylor (IN)","506071","2008",NA,NA,"-",NA,NA,NA,NA
+"8","Taylor (IN)","506071","2007",NA,NA,"-",NA,NA,NA,NA
+"9","Taylor (IN)","506071","2006",NA,NA,"-",NA,NA,NA,NA
+"10","Taylor (IN)","506071","2005",NA,NA,"-",NA,NA,NA,NA
+"11","Taylor (IN)","506071","2004",NA,NA,"-",NA,NA,NA,NA
+"12","Taylor (IN)","506071","2003",NA,NA,"-",NA,NA,NA,NA
+"13","Taylor (IN)","506071","2002",NA,NA,"-",NA,NA,NA,NA
+"14","Taylor (IN)","506071","",NA,NA,"",0,0,0,0

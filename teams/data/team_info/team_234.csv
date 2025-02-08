@@ -1,48 +1,50 @@
-"","season","head_coach","conference","record","win_perc"
-"1",2023,"Lonni Alameda","ACC","58-11-0",0.841
-"2",2022,"Lonni Alameda","ACC","54-7-0",0.885
-"3",2021,"Lonni Alameda","ACC","49-13-1",0.79
-"4",2020,"Lonni Alameda","ACC","17-7-0",0.708
-"5",2019,"Lonni Alameda","ACC","55-10-0",0.846
-"6",2018,"Lonni Alameda","ACC","58-12-0",0.829
-"7",2017,"Lonni Alameda","ACC","55-8-1",0.873
-"8",2016,"Lonni Alameda","ACC","55-10-0",0.846
-"9",2015,"Lonni Alameda","ACC","49-14-0",0.778
-"10",2014,"Lonni Alameda","ACC","55-9-0",0.859
-"11",2013,"Lonni Alameda","ACC","44-19-0",0.698
-"12",2012,"Lonni Alameda","ACC","47-16-0",0.746
-"13",2011,"Lonni Alameda","ACC","32-28-0",0.533
-"14",2010,"Lonni Alameda","ACC","44-18-0",0.71
-"15",2009,"Lonni Alameda","ACC","44-16-0",0.733
-"16",2008,"JoAnne Graf","ACC","38-28-0",0.576
-"17",2007,"JoAnne Graf","ACC","12-25-0",0.324
-"18",2006,"JoAnne Graf","ACC","44-30-0",0.595
-"19",2005,"JoAnne Graf","ACC","35-28-0",0.556
-"20",2004,"JoAnne Graf","ACC","62-12-0",0.838
-"21",2003,"JoAnne Graf","ACC","46-11-0",0.807
-"22",2002,"JoAnne Graf","ACC","55-20-0",0.733
-"23",2001,"JoAnne Graf","ACC","58-12-0",0.829
-"24",2000,"JoAnne Graf","ACC","51-27-0",0.654
-"25",1999,"JoAnne Graf","ACC","40-25-1",0.615
-"26",1998,"JoAnne Graf","-","51-21-0",0.708
-"27",1997,"JoAnne Graf","ACC","45-19-1",0.703
-"28",1996,"JoAnne Graf","-","51-21-0",0.708
-"29",1995,"JoAnne Graf","-","58-15-0",0.795
-"30",1994,"JoAnne Graf","-","50-19-0",0.725
-"31",1993,"JoAnne Graf","-","52-9-0",0.852
-"32",1992,"JoAnne Graf","-","63-9-0",0.875
-"33",1991,"JoAnne Graf","-","62-12-0",0.838
-"34",1990,"JoAnne Graf","-","47-16-0",0.746
-"35",1989,"JoAnne Graf","-","39-14-0",0.736
-"36",1988,"JoAnne Graf","-","44-14-0",0.759
-"37",1987,"JoAnne Graf","-","50-14-0",0.781
-"38",1986,"JoAnne Graf","-","42-7-0",0.857
-"39",1985,"JoAnne Graf","-","50-12-2",0.806
-"40",1984,"JoAnne Graf","-","41-5-2",0.891
-"41",1983,"JoAnne Graf","-","0-0-0",NA
-"42",1982,"JoAnne Graf","-","0-0-0",NA
-"43",1981,"JoAnne Graf","-","0-0-0",NA
-"44",1980,"JoAnne Graf","-","0-0-0",NA
-"45",1979,"JoAnne Graf","-","0-0-0",NA
-"46",1978,"","-","0-0-0",NA
-"47",2024,"Lonni Alameda","ACC","46-16-0",0.742
+"","team_name","team_id","season","head_coach","division","conference","wins","losses","ties","win_perc"
+"1","Florida St.","234","2025","Lonni Alameda","D-I","ACC",2,1,0,0.667
+"2","Florida St.","234","2024","Lonni Alameda","D-I","ACC",46,16,0,0.742
+"3","Florida St.","234","2023","Lonni Alameda","D-I","ACC",58,11,0,0.841
+"4","Florida St.","234","2022","Lonni Alameda","D-I","ACC",54,7,0,0.885
+"5","Florida St.","234","2021","Lonni Alameda","D-I","ACC",49,13,1,0.786
+"6","Florida St.","234","2020","Lonni Alameda","D-I","ACC",17,7,0,0.708
+"7","Florida St.","234","2019","Lonni Alameda","D-I","ACC",55,10,0,0.846
+"8","Florida St.","234","2018","Lonni Alameda","D-I","ACC",58,12,0,0.829
+"9","Florida St.","234","2017","Lonni Alameda","D-I","ACC",55,8,1,0.867
+"10","Florida St.","234","2016","Lonni Alameda","D-I","ACC",55,10,0,0.846
+"11","Florida St.","234","2015","Lonni Alameda","D-I","ACC",49,14,0,0.778
+"12","Florida St.","234","2014","Lonni Alameda","D-I","ACC",55,9,0,0.859
+"13","Florida St.","234","2013","Lonni Alameda","D-I","ACC",44,19,0,0.698
+"14","Florida St.","234","2012","Lonni Alameda","D-I","ACC",47,16,0,0.746
+"15","Florida St.","234","2011","Lonni Alameda","D-I","ACC",32,28,0,0.533
+"16","Florida St.","234","2010","Lonni Alameda","D-I","ACC",44,18,0,0.71
+"17","Florida St.","234","2009","Lonni Alameda","D-I","ACC",44,16,0,0.733
+"18","Florida St.","234","2008","JoAnne Graf","D-I","ACC",38,28,0,0.576
+"19","Florida St.","234","2007","JoAnne Graf","D-I","ACC",12,25,0,0.324
+"20","Florida St.","234","2006","JoAnne Graf","D-I","ACC",44,30,0,0.595
+"21","Florida St.","234","2005","JoAnne Graf","D-I","ACC",35,28,0,0.556
+"22","Florida St.","234","2004","JoAnne Graf","D-I","ACC",62,12,0,0.838
+"23","Florida St.","234","2003","JoAnne Graf","D-I","ACC",46,11,0,0.807
+"24","Florida St.","234","2002","JoAnne Graf","D-I","ACC",55,20,0,0.733
+"25","Florida St.","234","2001","JoAnne Graf","D-I","ACC",58,12,0,0.829
+"26","Florida St.","234","1900","JoAnne Graf","D-I","ACC",51,27,0,0.654
+"27","Florida St.","234","1999","JoAnne Graf","D-I","ACC",40,25,1,0.614
+"28","Florida St.","234","1998","JoAnne Graf","D-I","-",51,21,NA,0.708
+"29","Florida St.","234","1997","JoAnne Graf","D-I","ACC",45,19,1,0.7
+"30","Florida St.","234","1996","JoAnne Graf","D-I","-",51,21,NA,0.708
+"31","Florida St.","234","1995","JoAnne Graf","D-I","-",58,15,NA,0.795
+"32","Florida St.","234","1994","JoAnne Graf","D-I","-",50,19,NA,0.725
+"33","Florida St.","234","1993","JoAnne Graf","D-I","-",52,9,NA,0.852
+"34","Florida St.","234","1992","JoAnne Graf","D-I","-",63,9,NA,0.875
+"35","Florida St.","234","1991","JoAnne Graf","D-I","-",62,12,NA,0.838
+"36","Florida St.","234","1990","JoAnne Graf","D-I","-",47,16,NA,0.746
+"37","Florida St.","234","1989","JoAnne Graf","D-I","-",39,14,NA,0.736
+"38","Florida St.","234","1988","JoAnne Graf","D-I","-",44,14,NA,0.759
+"39","Florida St.","234","1987","JoAnne Graf","D-I","-",50,14,NA,0.781
+"40","Florida St.","234","1986","JoAnne Graf","D-I","-",42,7,NA,0.857
+"41","Florida St.","234","1985","JoAnne Graf","D-I","-",50,12,2,0.797
+"42","Florida St.","234","1984","JoAnne Graf","D-I","-",41,5,2,0.875
+"43","Florida St.","234","1983","JoAnne Graf","","-",NA,NA,0,NA
+"44","Florida St.","234","1982","JoAnne Graf","","-",NA,NA,0,NA
+"45","Florida St.","234","1981","JoAnne Graf","","-",NA,NA,0,NA
+"46","Florida St.","234","1980","JoAnne Graf","","-",NA,NA,0,NA
+"47","Florida St.","234","1979","JoAnne Graf","","-",NA,NA,0,NA
+"48","Florida St.","234","1978","","","-",0,0,0,0
+"49","Florida St.","234","","","","",1950,640,8,0.752
