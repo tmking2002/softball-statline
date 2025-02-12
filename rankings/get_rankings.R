@@ -78,13 +78,22 @@ get_current_rpi <- function(scoreboard){
 
 get_power_ratings <- function(scoreboard){
   
-  scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")),
-                             scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs"))) %>% 
+  scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = FALSE),
+                             scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = TRUE)) %>% 
     mutate(team = str_replace(team, "&amp;", "&"),
            opponent = str_replace(opponent, "&amp;", "&")) %>% 
     group_by(team) %>% 
-    filter(n() > 5) %>% 
-    ungroup()
+    mutate(games = n()) %>% 
+    ungroup() 
+  
+  if(max(scoreboard_longer$games) < 20){
+    min_games <- 0
+  }else{
+    min_games <- 5
+  }
+  
+  scoreboard_longer <- scoreboard_longer %>%
+    filter(games >= min_games)
   
   rpi <- get_current_rpi(scoreboard) %>%
     select(team_name, rpi_rank)
@@ -160,14 +169,23 @@ get_power_ratings <- function(scoreboard){
 }
 
 get_net_rankings <- function(scoreboard){
-  
+
   scoreboard_longer <- rbind(scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = FALSE),
                              scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date", "team", "runs", "opponent", "opponent_runs")) %>% mutate(home = TRUE)) %>% 
     mutate(team = str_replace(team, "&amp;", "&"),
            opponent = str_replace(opponent, "&amp;", "&")) %>% 
     group_by(team) %>% 
-    filter(n() > 5) %>% 
-    ungroup() %>% 
+    mutate(games = n()) %>% 
+    ungroup() 
+  
+  if(max(scoreboard_longer$games) < 20){
+    min_games <- 0
+  }else{
+    min_games <- 5
+  }
+  
+  scoreboard_longer <- scoreboard_longer %>%
+    filter(games >= min_games) %>% 
     mutate(win = runs > opponent_runs) %>% 
     drop_na(team, win) %>% 
     merge(get_power_ratings(scoreboard) %>% select(team_name, overall_rank), by.x = "opponent", by.y = "team_name")
@@ -258,15 +276,20 @@ d1_power_ratings <- get_power_ratings(d1_scoreboard)
 d1_nfca_rankings <- get_nfca_rankings(1)
 d1_net_rankings <- get_net_rankings(d1_scoreboard)
 
-d1_power_ratings_lastweek <- get_power_ratings(d1_scoreboard %>% filter(anydate(game_date) <= Sys.Date() - 7)) %>% 
-  rename(overall_prev = overall_rank) %>% 
-  select(team_name, overall_prev)
+if(nrow(d1_scoreboard %>% filter(anydate(game_date) <= Sys.Date() - 7)) == 0){
+  d1_power_ratings_lastweek <- data.frame(team_name = "", overall_prev = "")
+}else {
+  d1_power_ratings_lastweek <- get_power_ratings(d1_scoreboard %>% filter(anydate(game_date) <= Sys.Date() - 7)) %>% 
+    rename(overall_prev = overall_rank) %>% 
+    select(team_name, overall_prev)
+}
 
 d1_rankings <- merge(d1_rpi, d1_power_ratings, by = "team_name") %>% 
   merge(d1_nfca_rankings, by = "team_name", all = TRUE) %>% 
   merge(d1_net_rankings, by = "team_name") %>% 
-  merge(d1_power_ratings_lastweek, by = "team_name") %>% 
-  mutate(change = overall_rank - overall_prev) %>% 
+  merge(d1_power_ratings_lastweek, by = "team_name", all=TRUE) %>% 
+  drop_na(record) %>% 
+  mutate(change = ifelse(is.na(overall_prev), NA, overall_rank - overall_prev)) %>% 
   merge(team_ids, by = "team_name") %>% 
   mutate(logo = paste0("http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/", team_id, ".gif")) %>% 
   select("logo", "team_name", "record", "rpi_rank", "nfca_rank", "quad1_record", "quad2_record", "quad3_record", "quad4_record", "offensive_rank", "defensive_rank", "overall_rank", "change", "team_id", 
