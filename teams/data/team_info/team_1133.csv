@@ -1,26 +1,23 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Rick Roberts","North Atlantic","0-0-0",0
-"2","2024","Rick Roberts","North Atlantic","37-6-0",0.86
-"3","2023","Diann Ramsey","North Atlantic","30-14-1",0.678
-"4","2022","Diann Ramsey","North Atlantic","27-11-0",0.711
-"5","2021","Diann Ramsey","North Atlantic","29-3-0",0.906
-"6","2020","Diann Ramsey","North Atlantic","6-6-0",0.5
-"7","2019","Diann Ramsey","North Atlantic","24-11-0",0.686
-"8","2018","Terren Allen","North Atlantic","21-15-0",0.583
-"9","2017","Terren Allen","North Atlantic","28-13-0",0.683
-"10","2016","Terren Allen","North Atlantic","15-25-0",0.375
-"11","2015","Terren Allen","North Atlantic","28-13-0",0.683
-"12","2014","Kristie Hawkins","North Atlantic","31-12-0",0.721
-"13","2013","Amanda Bourgoin","North Atlantic","33-12-1",0.728
-"14","2012","Amanda Bourgoin","North Atlantic","33-13-0",0.717
-"15","2011","Amanda Bourgoin","North Atlantic","25-19-0",0.568
-"16","2010","Amanda Bourgoin","North Atlantic","28-15-0",0.651
-"17","2009","Amanda Bourgoin","North Atlantic","26-16-0",0.619
-"18","2008","Amanda Bourgoin","North Atlantic","30-12-0",0.714
-"19","2007","Amanda Bourgoin","North Atlantic","13-21-0",0.382
-"20","2006","Carlie Hamel","North Atlantic","11-24-0",0.314
-"21","2005","","North Atlantic","17-14-0",0.548
-"22","2004","","North Atlantic","22-14-0",0.611
-"23","2003","","-","NA-NA-0",NA
-"24","2002","","-","NA-NA-0",NA
-"25","1981","","-","NA-NA-0",NA
+"1","2025","Rick Roberts","North Atlantic","0-0-0","  NaN"
+"2","2024","Rick Roberts","North Atlantic","37-6-0","0.860"
+"3","2023","Diann Ramsey","North Atlantic","30-14-1","0.682"
+"4","2022","Diann Ramsey","North Atlantic","27-11-0","0.711"
+"5","2021","Diann Ramsey","North Atlantic","29-3-0","0.906"
+"6","2020","Diann Ramsey","North Atlantic","6-6-0","0.500"
+"7","2019","Diann Ramsey","North Atlantic","24-11-0","0.686"
+"8","2018","Terren Allen","North Atlantic","21-15-0","0.583"
+"9","2017","Terren Allen","North Atlantic","28-13-0","0.683"
+"10","2016","Terren Allen","North Atlantic","15-25-0","0.375"
+"11","2015","Terren Allen","North Atlantic","28-13-0","0.683"
+"12","2014","Kristie Hawkins","North Atlantic","31-12-0","0.721"
+"13","2013","Amanda Bourgoin","North Atlantic","33-12-1","0.733"
+"14","2012","Amanda Bourgoin","North Atlantic","33-13-0","0.717"
+"15","2011","Amanda Bourgoin","North Atlantic","25-19-0","0.568"
+"16","2010","Amanda Bourgoin","North Atlantic","28-15-0","0.651"
+"17","2009","Amanda Bourgoin","North Atlantic","26-16-0","0.619"
+"18","2008","Amanda Bourgoin","North Atlantic","30-12-0","0.714"
+"19","2007","Amanda Bourgoin","North Atlantic","13-21-0","0.382"
+"20","2006","Carlie Hamel","North Atlantic","11-24-0","0.314"
+"21","2005","","North Atlantic","17-14-0","0.548"
+"22","2004","","North Atlantic","22-14-0","0.611"

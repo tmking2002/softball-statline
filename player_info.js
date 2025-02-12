@@ -78,6 +78,7 @@ function getSeasons() {
                     seasons = lines[i].split(",")[4].slice(1, -1).split("+");
                 }
             }
+            console.log(seasons)
             return seasons;
         });
 }

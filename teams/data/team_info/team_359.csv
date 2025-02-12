@@ -1,39 +1,27 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Steve Wallace","CIAA","0-0-0",0
-"2","2024","Steve Wallace","CIAA","7-24-0",0.226
-"3","2023","Steve Wallace","CIAA","6-19-0",0.24
-"4","2022","Tiffany Silver","CIAA","0-22-0",0
-"5","2021","Tiffany Silver","CIAA","0-0-0",0
-"6","2020","Tiffany Silver","CIAA","2-2-0",0.5
-"7","2019","Tiffany Silver","CIAA","0-28-0",0
-"8","2018","Tiffany Silver","CIAA","3-23-1",0.13
-"9","2017","Tiffany Silver","CIAA","0-21-0",0
-"10","2016","Reginald Isley","CIAA","5-20-0",0.2
-"11","2015","Reginald Isley","CIAA","7-19-0",0.269
-"12","2014","Reginald Isley","CIAA","5-19-0",0.208
-"13","2013","Reginald Isley","CIAA","11-17-0",0.393
-"14","2012","Reginald Isley","CIAA","13-15-0",0.464
-"15","2011","Reginald Isley","CIAA","7-16-0",0.304
-"16","2010","Reginald Isley","CIAA","11-15-0",0.423
-"17","2009","Reginald Isley","CIAA","0-24-0",0
-"18","2008","Reginald Isley","CIAA","1-10-0",0.091
-"19","2007","Reginald Isley","CIAA","8-16-0",0.333
-"20","2006","Reginald Isley","CIAA","1-21-0",0.045
-"21","2005","Linda Bell","CIAA","1-23-0",0.042
-"22","2004","Linda Bell","CIAA","3-21-0",0.125
-"23","2003","Linda Bell","CIAA","4-18-0",0.182
-"24","2002","Linda Bell","CIAA","0-22-0",0
-"25","2001","","-","NA-NA-0",NA
-"26","1900","","-","NA-NA-0",NA
-"27","1999","","-","NA-NA-0",NA
-"28","1998","","-","NA-NA-0",NA
-"29","1997","","-","NA-NA-0",NA
-"30","1996","","-","NA-NA-0",NA
-"31","1995","","-","NA-NA-0",NA
-"32","1994","","-","NA-NA-0",NA
-"33","1993","","-","NA-NA-0",NA
-"34","1992","Jo Jo White","-","7-18-0",0.28
-"35","1991","Jo Jo White","-","NA-NA-0",NA
-"36","1990","Jo Jo White","-","NA-NA-0",NA
-"37","1989","Jo Jo White","-","7-6-0",0.538
-"38","1988","","-","NA-NA-0",NA
+"1","2025","Steve Wallace","CIAA","0-0-0","  NaN"
+"2","2024","Steve Wallace","CIAA","7-24-0","0.226"
+"3","2023","Steve Wallace","CIAA","6-19-0","0.240"
+"4","2022","Tiffany Silver","CIAA","0-22-0","0.000"
+"5","2021","Tiffany Silver","CIAA","0-0-0","  NaN"
+"6","2020","Tiffany Silver","CIAA","2-2-0","0.500"
+"7","2019","Tiffany Silver","CIAA","0-28-0","0.000"
+"8","2018","Tiffany Silver","CIAA","3-23-1","0.115"
+"9","2017","Tiffany Silver","CIAA","0-21-0","0.000"
+"10","2016","Reginald Isley","CIAA","5-20-0","0.200"
+"11","2015","Reginald Isley","CIAA","7-19-0","0.269"
+"12","2014","Reginald Isley","CIAA","5-19-0","0.208"
+"13","2013","Reginald Isley","CIAA","11-17-0","0.393"
+"14","2012","Reginald Isley","CIAA","13-15-0","0.464"
+"15","2011","Reginald Isley","CIAA","7-16-0","0.304"
+"16","2010","Reginald Isley","CIAA","11-15-0","0.423"
+"17","2009","Reginald Isley","CIAA","0-24-0","0.000"
+"18","2008","Reginald Isley","CIAA","1-10-0","0.091"
+"19","2007","Reginald Isley","CIAA","8-16-0","0.333"
+"20","2006","Reginald Isley","CIAA","1-21-0","0.045"
+"21","2005","Linda Bell","CIAA","1-23-0","0.042"
+"22","2004","Linda Bell","CIAA","3-21-0","0.125"
+"23","2003","Linda Bell","CIAA","4-18-0","0.182"
+"24","2002","Linda Bell","CIAA","0-22-0","0.000"
+"25","1992","Jo Jo White","-","7-18-0","0.280"
+"26","1989","Jo Jo White","-","7-6-0","0.538"

@@ -1,44 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Scott Hall","Big East","2-0-0",1
-"2","2024","Scott Hall","Big East","23-29-0",0.442
-"3","2023","Scott Hall","Big East","18-35-0",0.34
-"4","2022","Scott Hall","Big East","31-17-0",0.646
-"5","2021","Scott Hall","Big East","17-21-1",0.449
-"6","2020","Scott Hall","Big East","15-8-0",0.652
-"7","2019","Scott Hall","Big East","16-32-0",0.333
-"8","2018","Scott Hall","Big East","20-28-0",0.417
-"9","2017","Scott Hall","Big East","23-29-0",0.442
-"10","2016","Scott Hall","Big East","28-24-0",0.538
-"11","2015","Scott Hall","Big East","24-27-0",0.471
-"12","2014","Scott Hall","Big East","24-28-0",0.462
-"13","2013","Scott Hall","Atlantic 10","22-24-0",0.478
-"14","2012","Scott Hall","Horizon","25-32-0",0.439
-"15","2011","Scott Hall","Horizon","32-24-0",0.571
-"16","2010","Jeanne Rayman","Horizon","36-19-0",0.655
-"17","2009","Jeanne Rayman","Horizon","26-28-0",0.481
-"18","2008","Jeanne Rayman","Horizon","17-29-0",0.37
-"19","2007","Jeanne Rayman","Horizon","26-24-0",0.52
-"20","2006","Angie Nicholson","Horizon","17-30-1",0.365
-"21","2005","Tom Spencer","Horizon","19-33-0",0.365
-"22","2004","Tom Spencer","Horizon","18-39-1",0.319
-"23","2003","Dirk Welch","Horizon","18-31-0",0.367
-"24","2002","Dirk Welch","Horizon","15-24-0",0.385
-"25","2001","Dirk Welch","Horizon","21-25-0",0.457
-"26","1900","Dirk Welch","Horizon","13-36-0",0.265
-"27","1999","Tiffany Strnad","Horizon","13-43-0",0.232
-"28","1998","Tiffany Strnad","-","4-25-1",0.15
-"29","1997","Jeryl Neff","Horizon","18-28-1",0.394
-"30","1996","Jeryl Neff","-","13-29-0",0.31
-"31","1995","Jeryl Neff","-","17-31-0",0.354
-"32","1994","Barbara Greenburg","-","22-28-2",0.442
-"33","1993","Barbara Greenburg","-","19-23-0",0.452
-"34","1992","Barbara Greenburg","-","12-24-0",0.333
-"35","1991","Barbara Greenburg","-","25-21-0",0.543
-"36","1990","Barbara Greenburg","-","21-23-0",0.477
-"37","1989","Barbara Greenburg","-","16-21-0",0.432
-"38","1988","Barbara Greenburg","-","20-16-1",0.554
-"39","1987","Barbara Greenburg","-","23-20-0",0.535
-"40","1986","Barbara Greenburg","-","14-22-0",0.389
-"41","1985","Barbara Greenburg","-","16-14-0",0.533
-"42","1984","Barbara Greenburg","-","6-13-0",0.316
-"43","1983","Barbara Greenburg","-","18-7-0",0.72
+"1","2025","Scott Hall","Big East","2-0-0","1.000"
+"2","2024","Scott Hall","Big East","23-29-0","0.442"
+"3","2023","Scott Hall","Big East","18-35-0","0.340"
+"4","2022","Scott Hall","Big East","31-17-0","0.646"
+"5","2021","Scott Hall","Big East","17-21-1","0.447"
+"6","2020","Scott Hall","Big East","15-8-0","0.652"
+"7","2019","Scott Hall","Big East","16-32-0","0.333"
+"8","2018","Scott Hall","Big East","20-28-0","0.417"
+"9","2017","Scott Hall","Big East","23-29-0","0.442"
+"10","2016","Scott Hall","Big East","28-24-0","0.538"
+"11","2015","Scott Hall","Big East","24-27-0","0.471"
+"12","2014","Scott Hall","Big East","24-28-0","0.462"
+"13","2013","Scott Hall","Atlantic 10","22-24-0","0.478"
+"14","2012","Scott Hall","Horizon","25-32-0","0.439"
+"15","2011","Scott Hall","Horizon","32-24-0","0.571"
+"16","2010","Jeanne Rayman","Horizon","36-19-0","0.655"
+"17","2009","Jeanne Rayman","Horizon","26-28-0","0.481"
+"18","2008","Jeanne Rayman","Horizon","17-29-0","0.370"
+"19","2007","Jeanne Rayman","Horizon","26-24-0","0.520"
+"20","2006","Angie Nicholson","Horizon","17-30-1","0.362"
+"21","2005","Tom Spencer","Horizon","19-33-0","0.365"
+"22","2004","Tom Spencer","Horizon","18-39-1","0.316"
+"23","2003","Dirk Welch","Horizon","18-31-0","0.367"
+"24","2002","Dirk Welch","Horizon","15-24-0","0.385"
+"25","2001","Dirk Welch","Horizon","21-25-0","0.457"
+"26","2000","Dirk Welch","Horizon","13-36-0","0.265"
+"27","1999","Tiffany Strnad","Horizon","13-43-0","0.232"
+"28","1998","Tiffany Strnad","-","4-25-1","0.138"
+"29","1997","Jeryl Neff","Horizon","18-28-1","0.391"
+"30","1996","Jeryl Neff","-","13-29-0","0.310"
+"31","1995","Jeryl Neff","-","17-31-0","0.354"
+"32","1994","Barbara Greenburg","-","22-28-2","0.440"
+"33","1993","Barbara Greenburg","-","19-23-0","0.452"
+"34","1992","Barbara Greenburg","-","12-24-0","0.333"
+"35","1991","Barbara Greenburg","-","25-21-0","0.543"
+"36","1990","Barbara Greenburg","-","21-23-0","0.477"
+"37","1989","Barbara Greenburg","-","16-21-0","0.432"
+"38","1988","Barbara Greenburg","-","20-16-1","0.556"
+"39","1987","Barbara Greenburg","-","23-20-0","0.535"
+"40","1986","Barbara Greenburg","-","14-22-0","0.389"
+"41","1985","Barbara Greenburg","-","16-14-0","0.533"
+"42","1984","Barbara Greenburg","-","6-13-0","0.316"
+"43","1983","Barbara Greenburg","-","18-7-0","0.720"

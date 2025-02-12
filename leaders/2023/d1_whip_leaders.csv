@@ -1,5 +1,5 @@
 "","team_id","player_id","rank","player","whip"
-"1",674,10316,1,"NiJaree Canady",0.753
+"1",674,10316,1,"Nijaree Canady",0.753
 "2",8,23228,2,"Montana Fouts",0.776
 "3",694,60299,3,"Ashley Rogers",0.805
 "4",539,53886,4,"Bailey Parshall",0.838
@@ -13,9 +13,9 @@
 "12",522,2881,12,"Jordyn Bahl",0.916
 "13",504,31435,13,"Samantha Heyer",0.945
 "14",68,58845,14,"Kasey Ricard",0.953
-"15",229,61643,15,"Gabby Sacco",0.963
-"16",1004,4354,16,"Kayla Beaver",0.966
-"17",646,39234,17,"Olivia Lackie",0.976
+"15",1004,4354,15,"Kayla Beaver",0.966
+"16",646,39234,16,"Olivia Lackie",0.976
+"17",229,61643,17,"Gabby Sacco",0.999
 "18",464,47541,18,"Kamryn Meyer",1
 "19",48,36029,19,"Annah Junge",1.002
 "20",521,37288,20,"Lexi Kilfoyl",1.005
@@ -35,7 +35,7 @@
 "34",236,4512,34,"Holly Beeman",1.079
 "35",128,76436,35,"Sarah Willis",1.084
 "36",678,44018,36,"Hannah Marien",1.096
-"37",625,51043,36,"McKenzie Newcomb",1.096
+"37",625,51043,36,"Mckenzie Newcomb",1.096
 "38",257,74117,38,"Shelby Walters",1.098
 "39",128,35076,39,"Grace Jewell",1.104
 "40",370,54739,39,"Jenna Perez",1.104
@@ -46,7 +46,7 @@
 "45",493,72634,45,"Paige Vargas",1.12
 "46",115,66012,46,"Isabella Smith",1.122
 "47",112,11616,47,"Jada Cecil",1.126
-"48",655,39269,48,"KK Ladner",1.134
+"48",655,39269,48,"Kk Ladner",1.134
 "49",514,10257,48,"Sydney Campbell",1.134
 "50",674,72779,50,"Alana Vawter",1.139
 "51",487,20887,50,"Elena Escobar",1.139
@@ -72,7 +72,7 @@
 "71",149,7301,71,"Raelee Brabham",1.182
 "72",460,28985,72,"Kara Hammock",1.184
 "73",180,77575,72,"Taylor Wroten",1.184
-"74",277,10263,74,"Key-annah Campbell-Pua",1.187
+"74",277,10263,74,"Key-annah Campbell-pua",1.187
 "75",418,17553,75,"Lauren Derkowski",1.188
 "76",102,5281,75,"Marissa Bertuccio",1.188
 "77",310,78328,77,"Kara Zazzaro",1.189

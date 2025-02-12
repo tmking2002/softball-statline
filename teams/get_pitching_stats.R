@@ -25,26 +25,25 @@ get_stats <- function(box, season){
       mutate(first =  proper(trimws(str_remove(first, "\\."))),
              last = proper(trimws(str_remove(last, "\\."))),
              player = paste(first, last))
-  } else{
+  } 
   
-    stats <- stats %>% 
-      filter(str_length(player) > 1) %>% 
-      mutate(lower_player = tolower(player)) %>% 
-      merge(players %>% mutate(lower_player = tolower(player)) %>% select(-player), by = "lower_player") %>% 
-      group_by(team_id, season, player, player_id) %>% 
-      summarise(across(c(er, ip, ha, bf, bb, hb, so, hr_a), 
-                       .fns = \(col) sum(as.numeric(col))),
-                era = format(round(er / ip * 7, 3), nsmall = 3),
-                opp_avg = round((ha) / (bf - bb - hb), 3),
-                whip = round((bb + hb + ha) / ip, 3),
-                fip = format(round((13 * hr_a + 3 * (bb + hb) - 2 * so) / ip + 2.4, 3), nsmall = 3),
-                ip = round(floor(ip) + ip %% 1 / 3, 1)) %>% 
-      ungroup() %>% 
-      filter(ip > 0) %>% 
-      drop_na(era, opp_avg, whip, fip) %>% 
-      select(team_id, player_id, season, player, ip, ha, bb, hb, so, hr_a, era, opp_avg, whip, fip) %>% 
-      arrange(desc(ip)) 
-  }
+  stats <- stats %>% 
+    filter(str_length(player) > 1) %>% 
+    mutate(lower_player = tolower(player)) %>% 
+    merge(players %>% mutate(lower_player = tolower(player)) %>% select(-player), by = "lower_player") %>% 
+    group_by(team_id, season, player, player_id) %>% 
+    summarise(across(c(er, ip, ha, bf, bb, hb, so, hr_a), 
+                     .fns = \(col) sum(as.numeric(col))),
+              era = format(round(er / ip * 7, 3), nsmall = 3),
+              opp_avg = round((ha) / (bf - bb - hb), 3),
+              whip = round((bb + hb + ha) / ip, 3),
+              fip = format(round((13 * hr_a + 3 * (bb + hb) - 2 * so) / ip + 2.4, 3), nsmall = 3),
+              ip = round(floor(ip) + ip %% 1 / 3, 1)) %>% 
+    ungroup() %>% 
+    filter(ip > 0) %>% 
+    drop_na(era, opp_avg, whip, fip) %>% 
+    select(team_id, player_id, season, player, ip, ha, bb, hb, so, hr_a, era, opp_avg, whip, fip) %>% 
+    arrange(desc(ip)) 
   
   if(season == 2016){
     stats$hr_a <- 0
@@ -53,11 +52,6 @@ get_stats <- function(box, season){
   return(stats)
   
 }
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_pitching_box_scores_2016.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_pitching_box_scores_2016.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/D3_pitching_box_scores_2016.RDS")))) %>% get_stats(., 2016),
-          "teams/data/pitching_stats/pitching_stats_2016.csv")
 
 write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_pitching_box_scores_2017.RDS")), 
                          readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_pitching_box_scores_2017.RDS")),

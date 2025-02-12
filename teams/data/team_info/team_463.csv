@@ -1,45 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Rhonda Revelle","Big Ten","2-0-0",1
-"2","2024","Rhonda Revelle","Big Ten","30-23-0",0.566
-"3","2023","Rhonda Revelle","Big Ten","36-22-0",0.621
-"4","2022","Rhonda Revelle","Big Ten","41-16-0",0.719
-"5","2021","Rhonda Revelle","Big Ten","22-22-0",0.5
-"6","2020","Rhonda Revelle","Big Ten","9-14-0",0.391
-"7","2019","Rhonda Revelle","Big Ten","21-31-0",0.404
-"8","2018","Rhonda Revelle","Big Ten","31-23-0",0.574
-"9","2017","Rhonda Revelle","Big Ten","24-29-0",0.453
-"10","2016","Rhonda Revelle","Big Ten","35-21-0",0.625
-"11","2015","Rhonda Revelle","Big Ten","35-23-0",0.603
-"12","2014","Rhonda Revelle","Big Ten","44-18-0",0.71
-"13","2013","Rhonda Revelle","Big Ten","45-16-0",0.738
-"14","2012","Rhonda Revelle","Big Ten","33-22-0",0.6
-"15","2011","Rhonda Revelle","Big 12","41-14-0",0.745
-"16","2010","Rhonda Revelle","Big 12","30-29-0",0.508
-"17","2009","Rhonda Revelle","Big 12","35-19-0",0.648
-"18","2008","Rhonda Revelle","Big 12","25-28-0",0.472
-"19","2007","Rhonda Revelle","Big 12","37-20-0",0.649
-"20","2006","Rhonda Revelle","Big 12","44-12-0",0.786
-"21","2005","Rhonda Revelle","Big 12","36-23-0",0.61
-"22","2004","Rhonda Revelle","Big 12","45-17-0",0.726
-"23","2003","Rhonda Revelle","Big 12","39-17-0",0.696
-"24","2002","Rhonda Revelle","Big 12","50-14-0",0.781
-"25","2001","Rhonda Revelle","Big 12","51-15-0",0.773
-"26","1900","Rhonda Revelle","Big 12","52-21-0",0.712
-"27","1999","Rhonda Revelle","Big 12","35-21-0",0.625
-"28","1998","Rhonda Revelle","-","48-12-0",0.8
-"29","1997","Rhonda Revelle","Big 12","29-24-0",0.547
-"30","1996","Rhonda Revelle","-","42-23-0",0.646
-"31","1995","Rhonda Revelle","-","43-20-0",0.683
-"32","1994","Rhonda Revelle","-","21-33-0",0.389
-"33","1993","Rhonda Revelle","-","18-23-0",0.439
-"34","1992","Ron Wolforth","-","23-30-0",0.434
-"35","1991","Ron Wolforth","-","22-18-0",0.55
-"36","1990","Ron Wolforth","-","31-19-0",0.62
-"37","1989","Ron Wolforth","-","32-28-0",0.533
-"38","1988","Ron Wolforth","-","39-20-0",0.661
-"39","1987","Ron Wolforth","-","41-11-0",0.788
-"40","1986","","-","NA-NA-0",NA
-"41","1985","","-","NA-NA-0",NA
-"42","1984","","-","NA-NA-0",NA
-"43","1983","","-","NA-NA-0",NA
-"44","1982","","-","NA-NA-0",NA
+"1","2025","Rhonda Revelle","Big Ten","2-0-0","1.000"
+"2","2024","Rhonda Revelle","Big Ten","30-23-0","0.566"
+"3","2023","Rhonda Revelle","Big Ten","36-22-0","0.621"
+"4","2022","Rhonda Revelle","Big Ten","41-16-0","0.719"
+"5","2021","Rhonda Revelle","Big Ten","22-22-0","0.500"
+"6","2020","Rhonda Revelle","Big Ten","9-14-0","0.391"
+"7","2019","Rhonda Revelle","Big Ten","21-31-0","0.404"
+"8","2018","Rhonda Revelle","Big Ten","31-23-0","0.574"
+"9","2017","Rhonda Revelle","Big Ten","24-29-0","0.453"
+"10","2016","Rhonda Revelle","Big Ten","35-21-0","0.625"
+"11","2015","Rhonda Revelle","Big Ten","35-23-0","0.603"
+"12","2014","Rhonda Revelle","Big Ten","44-18-0","0.710"
+"13","2013","Rhonda Revelle","Big Ten","45-16-0","0.738"
+"14","2012","Rhonda Revelle","Big Ten","33-22-0","0.600"
+"15","2011","Rhonda Revelle","Big 12","41-14-0","0.745"
+"16","2010","Rhonda Revelle","Big 12","30-29-0","0.508"
+"17","2009","Rhonda Revelle","Big 12","35-19-0","0.648"
+"18","2008","Rhonda Revelle","Big 12","25-28-0","0.472"
+"19","2007","Rhonda Revelle","Big 12","37-20-0","0.649"
+"20","2006","Rhonda Revelle","Big 12","44-12-0","0.786"
+"21","2005","Rhonda Revelle","Big 12","36-23-0","0.610"
+"22","2004","Rhonda Revelle","Big 12","45-17-0","0.726"
+"23","2003","Rhonda Revelle","Big 12","39-17-0","0.696"
+"24","2002","Rhonda Revelle","Big 12","50-14-0","0.781"
+"25","2001","Rhonda Revelle","Big 12","51-15-0","0.773"
+"26","2000","Rhonda Revelle","Big 12","52-21-0","0.712"
+"27","1999","Rhonda Revelle","Big 12","35-21-0","0.625"
+"28","1998","Rhonda Revelle","-","48-12-0","0.800"
+"29","1997","Rhonda Revelle","Big 12","29-24-0","0.547"
+"30","1996","Rhonda Revelle","-","42-23-0","0.646"
+"31","1995","Rhonda Revelle","-","43-20-0","0.683"
+"32","1994","Rhonda Revelle","-","21-33-0","0.389"
+"33","1993","Rhonda Revelle","-","18-23-0","0.439"
+"34","1992","Ron Wolforth","-","23-30-0","0.434"
+"35","1991","Ron Wolforth","-","22-18-0","0.550"
+"36","1990","Ron Wolforth","-","31-19-0","0.620"
+"37","1989","Ron Wolforth","-","32-28-0","0.533"
+"38","1988","Ron Wolforth","-","39-20-0","0.661"
+"39","1987","Ron Wolforth","-","41-11-0","0.788"

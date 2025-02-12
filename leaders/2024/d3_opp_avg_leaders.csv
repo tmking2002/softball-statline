@@ -1,7 +1,7 @@
 "","team_id","player_id","rank","player","opp_avg"
 "1",28749,49638,1,"Sophie Moshos",0.125
 "2",114,33655,2,"Brooke Hunderman",0.141
-"3",259,45826,2,"Emily McCutcheon",0.141
+"3",259,45826,2,"Emily Mccutcheon",0.141
 "4",809,3858,4,"Emily Bartlett",0.152
 "5",583,57123,5,"Keira Quadros",0.165
 "6",570,67186,6,"Brooke Sroczinski",0.175
@@ -15,11 +15,11 @@
 "14",264,72989,14,"Kathryn Vermeulen",0.209
 "15",475,60477,14,"Lindsay Roman",0.209
 "16",789,5994,16,"Katie Blanch",0.211
-"17",420,42025,17,"McKenna Lont",0.217
+"17",420,42025,17,"Mckenna Lont",0.217
 "18",372,20661,17,"Olivia Engler",0.217
 "19",644,18790,19,"Emilie Doty",0.219
 "20",549,73559,20,"Devin Waddell",0.221
-"21",800,8521,21,"Carlie Jo Brownlee",0.224
+"21",800,8521,21,"Carlie jo Brownlee",0.224
 "22",8981,14654,22,"Jaylin Couto",0.231
 "23",146,22465,23,"Devin Fitzpatrick",0.232
 "24",238,33477,24,"Caroline Hughes",0.233
@@ -28,23 +28,24 @@
 "27",321,52333,27,"Lindsay Ogden",0.247
 "28",580,43492,28,"Jessica Majot",0.25
 "29",227,66559,28,"Madison Solt",0.25
-"30",24400,56347,30,"Mayson Post",0.253
-"31",8567,36872,31,"Casey Kemp",0.257
-"32",1094,76024,31,"Elise Wilkerson",0.257
-"33",42,9543,33,"Madelyn Buske",0.26
-"34",263,20629,34,"Lauren Engel",0.263
-"35",762,60982,35,"Jess Rowe",0.266
-"36",524,57660,36,"Layla Ramos",0.271
-"37",50,57765,37,"Delaney Rankin",0.273
-"38",212,52072,38,"Chiara O'Leary",0.287
-"39",238,49159,39,"Ally Moran",0.291
-"40",390,9086,40,"Caitlyn Burch",0.301
-"41",722,73814,41,"Dana Walker",0.302
-"42",30044,7912,42,"Paige Brightwell",0.306
-"43",424,74288,43,"Charly Warlow",0.31
-"44",787,28279,44,"Lilah Guthy",0.32
-"45",30164,28687,45,"Arianna Hall",0.333
-"46",607,47032,45,"Izzy Melanson",0.333
-"47",337,40838,45,"Janet Lentini",0.333
-"48",1355,43936,48,"Celina Marchan",0.337
-"49",58,24280,49,"Caroline Gallagher",0.359
+"30",195,14028,28,"Morgan Cooksey",0.25
+"31",24400,56347,31,"Mayson Post",0.253
+"32",8567,36872,32,"Casey Kemp",0.257
+"33",1094,76024,32,"Elise Wilkerson",0.257
+"34",42,9543,34,"Madelyn Buske",0.26
+"35",263,20629,35,"Lauren Engel",0.263
+"36",762,60982,36,"Jess Rowe",0.266
+"37",524,57660,37,"Layla Ramos",0.271
+"38",50,57765,38,"Delaney Rankin",0.273
+"39",212,52072,39,"Chiara O'leary",0.287
+"40",238,49159,40,"Ally Moran",0.291
+"41",390,9086,41,"Caitlyn Burch",0.301
+"42",722,73814,42,"Dana Walker",0.302
+"43",30044,7912,43,"Paige Brightwell",0.306
+"44",424,74288,44,"Charly Warlow",0.31
+"45",787,28279,45,"Lilah Guthy",0.32
+"46",30164,28687,46,"Arianna Hall",0.333
+"47",607,47032,46,"Izzy Melanson",0.333
+"48",337,40838,46,"Janet Lentini",0.333
+"49",1355,43936,49,"Celina Marchan",0.337
+"50",58,24280,50,"Caroline Gallagher",0.359

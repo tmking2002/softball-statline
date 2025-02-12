@@ -1,51 +1,47 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Jen Starek","America East","0-1-0",0
-"2","2024","Jen Starek","America East","17-29-0",0.37
-"3","2023","Jen Starek","America East","21-29-1",0.422
-"4","2022","Jen Starek","America East","28-20-0",0.583
-"5","2021","Danielle Henderson","America East","13-18-0",0.419
-"6","2020","Danielle Henderson","America East","7-9-0",0.438
-"7","2019","Danielle Henderson","America East","28-20-0",0.583
-"8","2018","Danielle Henderson","America East","21-28-0",0.429
-"9","2017","Danielle Henderson","America East","21-19-0",0.525
-"10","2016","Danielle Henderson","America East","11-39-0",0.22
-"11","2015","Danielle Henderson","America East","17-30-0",0.362
-"12","2014","Sean Cotter","America East","13-36-0",0.265
-"13","2013","Sean Cotter","NE10","26-21-1",0.552
-"14","2012","Sean Cotter","NE10","34-18-0",0.654
-"15","2011","Sean Cotter","NE10","34-20-0",0.63
-"16","2010","Sean Cotter","NE10","23-27-0",0.46
-"17","2009","Harry Sauter","NE10","10-31-1",0.25
-"18","2008","Harry Sauter","NE10","24-25-0",0.49
-"19","2007","Harry Sauter","NE10","30-22-0",0.577
-"20","2006","Harry Sauter","NE10","34-22-0",0.607
-"21","2005","Harry Sauter","NE10","27-11-0",0.711
-"22","2004","Harry Sauter","NE10","26-25-0",0.51
-"23","2003","Harry Sauter","NE10","30-18-1",0.622
-"24","2002","Harry Sauter","-","24-21-1",0.533
-"25","2001","Harry Sauter","-","25-25-0",0.5
-"26","1900","Harry Sauter","-","29-18-0",0.617
-"27","1999","Harry Sauter","-","30-17-0",0.638
-"28","1998","Harry Sauter","-","20-23-0",0.465
-"29","1997","Harry Sauter","-","18-20-0",0.474
-"30","1996","Harry Sauter","-","17-28-1",0.38
-"31","1995","Harry Sauter","-","23-24-0",0.489
-"32","1994","Donna Tanner","-","10-27-0",0.27
-"33","1993","Donna Tanner","-","11-17-0",0.393
-"34","1992","Beverly Agrella","-","12-32-0",0.273
-"35","1991","Beverly Agrella","-","9-23-0",0.281
-"36","1990","Beverly Agrella","-","12-15-0",0.444
-"37","1989","","-","NA-NA-0",NA
-"38","1988","","-","NA-NA-0",NA
-"39","1987","","-","NA-NA-0",NA
-"40","1986","","-","NA-NA-0",NA
-"41","1985","Denise Legault","-","17-16-1",0.515
-"42","1984","Denise Legault","-","18-10-0",0.643
-"43","1983","Denise Legault","-","22-7-0",0.759
-"44","1982","Denise Legault","-","16-5-0",0.762
-"45","1981","Denise Legault","-","8-11-0",0.421
-"46","1980","Denise Legault","-","12-6-0",0.667
-"47","1979","Denise Legault","-","8-7-0",0.533
-"48","1978","Denise Legault","-","9-4-0",0.692
-"49","1977","Denise Legault","-","5-8-0",0.385
-"50","1976","Denise Legault","-","10-2-0",0.833
+"1","2025","Jen Starek","America East","0-1-0","0.000"
+"2","2024","Jen Starek","America East","17-29-0","0.370"
+"3","2023","Jen Starek","America East","21-29-1","0.420"
+"4","2022","Jen Starek","America East","28-20-0","0.583"
+"5","2021","Danielle Henderson","America East","13-18-0","0.419"
+"6","2020","Danielle Henderson","America East","7-9-0","0.438"
+"7","2019","Danielle Henderson","America East","28-20-0","0.583"
+"8","2018","Danielle Henderson","America East","21-28-0","0.429"
+"9","2017","Danielle Henderson","America East","21-19-0","0.525"
+"10","2016","Danielle Henderson","America East","11-39-0","0.220"
+"11","2015","Danielle Henderson","America East","17-30-0","0.362"
+"12","2014","Sean Cotter","America East","13-36-0","0.265"
+"13","2013","Sean Cotter","NE10","26-21-1","0.553"
+"14","2012","Sean Cotter","NE10","34-18-0","0.654"
+"15","2011","Sean Cotter","NE10","34-20-0","0.630"
+"16","2010","Sean Cotter","NE10","23-27-0","0.460"
+"17","2009","Harry Sauter","NE10","10-31-1","0.244"
+"18","2008","Harry Sauter","NE10","24-25-0","0.490"
+"19","2007","Harry Sauter","NE10","30-22-0","0.577"
+"20","2006","Harry Sauter","NE10","34-22-0","0.607"
+"21","2005","Harry Sauter","NE10","27-11-0","0.711"
+"22","2004","Harry Sauter","NE10","26-25-0","0.510"
+"23","2003","Harry Sauter","NE10","30-18-1","0.625"
+"24","2002","Harry Sauter","-","24-21-1","0.533"
+"25","2001","Harry Sauter","-","25-25-0","0.500"
+"26","2000","Harry Sauter","-","29-18-0","0.617"
+"27","1999","Harry Sauter","-","30-17-0","0.638"
+"28","1998","Harry Sauter","-","20-23-0","0.465"
+"29","1997","Harry Sauter","-","18-20-0","0.474"
+"30","1996","Harry Sauter","-","17-28-1","0.378"
+"31","1995","Harry Sauter","-","23-24-0","0.489"
+"32","1994","Donna Tanner","-","10-27-0","0.270"
+"33","1993","Donna Tanner","-","11-17-0","0.393"
+"34","1992","Beverly Agrella","-","12-32-0","0.273"
+"35","1991","Beverly Agrella","-","9-23-0","0.281"
+"36","1990","Beverly Agrella","-","12-15-0","0.444"
+"37","1985","Denise Legault","-","17-16-1","0.515"
+"38","1984","Denise Legault","-","18-10-0","0.643"
+"39","1983","Denise Legault","-","22-7-0","0.759"
+"40","1982","Denise Legault","-","16-5-0","0.762"
+"41","1981","Denise Legault","-","8-11-0","0.421"
+"42","1980","Denise Legault","-","12-6-0","0.667"
+"43","1979","Denise Legault","-","8-7-0","0.533"
+"44","1978","Denise Legault","-","9-4-0","0.692"
+"45","1977","Denise Legault","-","5-8-0","0.385"
+"46","1976","Denise Legault","-","10-2-0","0.833"

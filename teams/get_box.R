@@ -68,9 +68,7 @@ all_players <- read_csv("players/data/all_players.csv") %>%
 adjust_hitting_box <- function(raw_box){
   
   final_box <- raw_box %>% 
-    separate(player, c("last", "first"), ", ") %>% 
-    mutate(player = paste(proper(first), proper(last)),
-           bb = bb + hbp) %>% 
+    mutate(bb = bb + hbp) %>% 
     merge(all_players, by = "player") %>% 
     arrange(desc(ab + bb)) %>% 
     select(game_id, team, opponent, player_id, player, pos, ab, r, h, rbi, hr, k, bb) %>% 
@@ -101,8 +99,6 @@ adjust_pitching_box <- function(raw_box){
     separate(ip, c("innings", "frac"), sep = "\\.") %>% 
     mutate(ip = as.numeric(ifelse(is.na(frac), innings, as.numeric(innings) + as.numeric(frac) * 1/3))) %>% 
     select(-c(innings, frac)) %>% 
-    separate(player, c("last", "first"), ", ") %>% 
-    mutate(player = paste(proper(first), proper(last))) %>% 
     merge(all_players, by = "player") %>% 
     arrange(desc(ip)) %>% 
     mutate(ip = case_when((ip * 3) %% 3 == 0 ~ round(ip),

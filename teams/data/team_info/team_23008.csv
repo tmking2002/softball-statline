@@ -1,37 +1,25 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Denise Godwin","SCAC","0-0-0",0
-"2","2024","Denise Godwin","ASC","7-33-0",0.175
-"3","2023","Denise Godwin","ASC","6-34-0",0.15
-"4","2022","Denise Godwin","ASC","6-31-0",0.162
-"5","2021","Denise Godwin","ASC","4-24-0",0.143
-"6","2020","Denise Godwin","ASC","1-13-0",0.071
-"7","2019","Denise Godwin","ASC","12-28-0",0.3
-"8","2018","Roland Rodriguez","ASC","10-22-0",0.313
-"9","2017","Roland Rodriguez","ASC","6-31-0",0.162
-"10","2016","Roland Rodriguez","ASC","13-25-0",0.342
-"11","2015","Laurie Adkins","ASC","13-26-0",0.333
-"12","2014","Laurie Adkins","ASC","3-37-0",0.075
-"13","2013","Laurie Adkins","ASC","14-26-0",0.35
-"14","2012","Laurie Adkins","ASC","11-29-0",0.275
-"15","2011","Laurie Adkins","ASC","7-33-0",0.175
-"16","2010","Elizabeth Caroscio","ASC","9-31-0",0.225
-"17","2009","Elizabeth Caroscio","ASC","5-35-0",0.125
-"18","2008","Elizabeth Caroscio","ASC","14-26-0",0.35
-"19","2007","Elizabeth Caroscio","ASC","17-23-0",0.425
-"20","2006","Elizabeth Caroscio","ASC","14-23-0",0.378
-"21","2005","Jon Janssen","ASC","11-28-1",0.288
-"22","2004","Jon Janssen","ASC","19-18-0",0.514
-"23","2003","Jon Janssen","-","NA-NA-0",NA
-"24","2002","Jon Janssen","ASC","20-18-0",0.526
-"25","2001","Jon Janssen","-","4-20-0",0.167
-"26","1900","","-","NA-NA-0",NA
-"27","1999","","-","NA-NA-0",NA
-"28","1998","","-","NA-NA-0",NA
-"29","1997","","-","NA-NA-0",NA
-"30","1996","","-","NA-NA-0",NA
-"31","1995","","-","NA-NA-0",NA
-"32","1994","","-","NA-NA-0",NA
-"33","1993","","-","NA-NA-0",NA
-"34","1992","","-","NA-NA-0",NA
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
+"1","2025","Denise Godwin","SCAC","0-0-0","  NaN"
+"2","2024","Denise Godwin","ASC","7-33-0","0.175"
+"3","2023","Denise Godwin","ASC","6-34-0","0.150"
+"4","2022","Denise Godwin","ASC","6-31-0","0.162"
+"5","2021","Denise Godwin","ASC","4-24-0","0.143"
+"6","2020","Denise Godwin","ASC","1-13-0","0.071"
+"7","2019","Denise Godwin","ASC","12-28-0","0.300"
+"8","2018","Roland Rodriguez","ASC","10-22-0","0.312"
+"9","2017","Roland Rodriguez","ASC","6-31-0","0.162"
+"10","2016","Roland Rodriguez","ASC","13-25-0","0.342"
+"11","2015","Laurie Adkins","ASC","13-26-0","0.333"
+"12","2014","Laurie Adkins","ASC","3-37-0","0.075"
+"13","2013","Laurie Adkins","ASC","14-26-0","0.350"
+"14","2012","Laurie Adkins","ASC","11-29-0","0.275"
+"15","2011","Laurie Adkins","ASC","7-33-0","0.175"
+"16","2010","Elizabeth Caroscio","ASC","9-31-0","0.225"
+"17","2009","Elizabeth Caroscio","ASC","5-35-0","0.125"
+"18","2008","Elizabeth Caroscio","ASC","14-26-0","0.350"
+"19","2007","Elizabeth Caroscio","ASC","17-23-0","0.425"
+"20","2006","Elizabeth Caroscio","ASC","14-23-0","0.378"
+"21","2005","Jon Janssen","ASC","11-28-1","0.282"
+"22","2004","Jon Janssen","ASC","19-18-0","0.514"
+"23","2002","Jon Janssen","ASC","20-18-0","0.526"
+"24","2001","Jon Janssen","-","4-20-0","0.167"

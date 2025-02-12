@@ -1,44 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Haley Chandler","Little East","0-0-0",0
-"2","2024","Carrah Fisk Hennessey","Little East","8-32-0",0.2
-"3","2023","Carrah Fisk Hennessey","Little East","8-26-0",0.235
-"4","2022","Carrah Fisk Hennessey","Little East","14-24-0",0.368
-"5","2021","Carrah Fisk Hennessey","Little East","8-23-0",0.258
-"6","2020","Carrah Fisk Hennessey","Little East","1-6-0",0.143
-"7","2019","Carrah Fisk Hennessey","Little East","13-21-0",0.382
-"8","2018","Carrah Fisk Hennessey","Little East","9-21-0",0.3
-"9","2017","Carrah Fisk Hennessey","Little East","16-20-0",0.444
-"10","2016","Carrah Fisk Hennessey","Little East","22-16-0",0.579
-"11","2015","Carrah Fisk Hennessey","Little East","16-19-0",0.457
-"12","2014","Charlie Beach","Little East","19-19-0",0.5
-"13","2013","Charlie Beach","Little East","22-17-0",0.564
-"14","2012","Charlie Beach","Little East","28-12-1",0.695
-"15","2011","Charlie Beach","Little East","29-12-1",0.702
-"16","2010","Charlie Beach","Little East","29-14-1",0.67
-"17","2009","Charlie Beach","Little East","30-14-0",0.682
-"18","2008","Charlie Beach","Little East","28-14-0",0.667
-"19","2007","Charlie Beach","Little East","28-9-0",0.757
-"20","2006","Charlie Beach","Little East","26-14-0",0.65
-"21","2005","Charlie Beach","Little East","34-8-0",0.81
-"22","2004","Charlie Beach","Little East","29-12-0",0.707
-"23","2003","Charlie Beach","Little East","27-14-0",0.659
-"24","2002","Charlie Beach","Little East","21-11-2",0.647
-"25","2001","Charlie Beach","-","20-16-0",0.556
-"26","1900","Charlie Beach","-","26-15-0",0.634
-"27","1999","Charlie Beach","-","33-10-0",0.767
-"28","1998","Charlie Beach","-","21-16-1",0.566
-"29","1997","Charlie Beach","-","17-21-0",0.447
-"30","1996","Charlie Beach","-","23-15-0",0.605
-"31","1995","Charlie Beach","-","16-19-1",0.458
-"32","1994","Charlie Beach","-","24-14-0",0.632
-"33","1993","Charlie Beach","-","28-9-0",0.757
-"34","1992","Charlie Beach","-","19-18-0",0.514
-"35","1991","Charlie Beach","-","24-14-1",0.628
-"36","1990","Charlie Beach","-","26-14-0",0.65
-"37","1989","Charlie Beach","-","25-16-0",0.61
-"38","1988","Charlie Beach","-","17-22-0",0.436
-"39","1987","Charlie Beach","-","11-15-0",0.423
-"40","1986","Charlie Beach","-","7-20-0",0.259
-"41","1985","","-","NA-NA-0",NA
-"42","1984","","-","NA-NA-0",NA
-"43","1983","","-","NA-NA-0",NA
+"1","2025","Haley Chandler","Little East","0-0-0","  NaN"
+"2","2024","Carrah Fisk Hennessey","Little East","8-32-0","0.200"
+"3","2023","Carrah Fisk Hennessey","Little East","8-26-0","0.235"
+"4","2022","Carrah Fisk Hennessey","Little East","14-24-0","0.368"
+"5","2021","Carrah Fisk Hennessey","Little East","8-23-0","0.258"
+"6","2020","Carrah Fisk Hennessey","Little East","1-6-0","0.143"
+"7","2019","Carrah Fisk Hennessey","Little East","13-21-0","0.382"
+"8","2018","Carrah Fisk Hennessey","Little East","9-21-0","0.300"
+"9","2017","Carrah Fisk Hennessey","Little East","16-20-0","0.444"
+"10","2016","Carrah Fisk Hennessey","Little East","22-16-0","0.579"
+"11","2015","Carrah Fisk Hennessey","Little East","16-19-0","0.457"
+"12","2014","Charlie Beach","Little East","19-19-0","0.500"
+"13","2013","Charlie Beach","Little East","22-17-0","0.564"
+"14","2012","Charlie Beach","Little East","28-12-1","0.700"
+"15","2011","Charlie Beach","Little East","29-12-1","0.707"
+"16","2010","Charlie Beach","Little East","29-14-1","0.674"
+"17","2009","Charlie Beach","Little East","30-14-0","0.682"
+"18","2008","Charlie Beach","Little East","28-14-0","0.667"
+"19","2007","Charlie Beach","Little East","28-9-0","0.757"
+"20","2006","Charlie Beach","Little East","26-14-0","0.650"
+"21","2005","Charlie Beach","Little East","34-8-0","0.810"
+"22","2004","Charlie Beach","Little East","29-12-0","0.707"
+"23","2003","Charlie Beach","Little East","27-14-0","0.659"
+"24","2002","Charlie Beach","Little East","21-11-2","0.656"
+"25","2001","Charlie Beach","-","20-16-0","0.556"
+"26","2000","Charlie Beach","-","26-15-0","0.634"
+"27","1999","Charlie Beach","-","33-10-0","0.767"
+"28","1998","Charlie Beach","-","21-16-1","0.568"
+"29","1997","Charlie Beach","-","17-21-0","0.447"
+"30","1996","Charlie Beach","-","23-15-0","0.605"
+"31","1995","Charlie Beach","-","16-19-1","0.457"
+"32","1994","Charlie Beach","-","24-14-0","0.632"
+"33","1993","Charlie Beach","-","28-9-0","0.757"
+"34","1992","Charlie Beach","-","19-18-0","0.514"
+"35","1991","Charlie Beach","-","24-14-1","0.632"
+"36","1990","Charlie Beach","-","26-14-0","0.650"
+"37","1989","Charlie Beach","-","25-16-0","0.610"
+"38","1988","Charlie Beach","-","17-22-0","0.436"
+"39","1987","Charlie Beach","-","11-15-0","0.423"
+"40","1986","Charlie Beach","-","7-20-0","0.259"

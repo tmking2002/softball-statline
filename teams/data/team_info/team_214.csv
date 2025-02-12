@@ -1,38 +1,28 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Phil McElroy","NEWMAC","0-0-0",0
-"2","2024","Phil McElroy","NEWMAC","14-20-0",0.412
-"3","2023","Phil McElroy","NEWMAC","18-18-0",0.5
-"4","2022","Phil McElroy","NEWMAC","17-19-0",0.472
-"5","2021","Phil McElroy","NEWMAC","0-8-0",0
-"6","2020","Phil McElroy","NEWMAC","0-9-0",0
-"7","2019","Phil McElroy","NEWMAC","20-20-0",0.5
-"8","2018","Phil McElroy","NEWMAC","20-14-0",0.588
-"9","2017","Phil McElroy","NEWMAC","7-26-0",0.212
-"10","2016","Phil McElroy","NEWMAC","12-24-0",0.333
-"11","2015","Phil McElroy","NEWMAC","14-18-0",0.438
-"12","2014","Phil McElroy","NEWMAC","13-23-0",0.361
-"13","2013","Phil McElroy","Great Northeast","22-15-0",0.595
-"14","2012","Phil McElroy","Great Northeast","32-9-0",0.78
-"15","2011","Phil McElroy","Great Northeast","26-12-0",0.684
-"16","2010","Phil McElroy","Great Northeast","28-13-0",0.683
-"17","2009","Phil McElroy","Great Northeast","33-11-0",0.75
-"18","2008","Phil McElroy","Great Northeast","23-17-0",0.575
-"19","2007","Phil McElroy","Great Northeast","24-18-0",0.571
-"20","2006","Phil McElroy","Great Northeast","34-8-0",0.81
-"21","2005","Phil McElroy","Great Northeast","27-13-0",0.675
-"22","2004","Phil McElroy","Great Northeast","13-15-0",0.464
-"23","2003","Phil McElroy","-","25-16-0",0.61
-"24","2002","Phil McElroy","Great Northeast","21-10-0",0.677
-"25","2001","Phil McElroy","-","22-13-0",0.629
-"26","1900","Phil McElroy","-","23-17-0",0.575
-"27","1999","John Hoffman","-","30-10-0",0.75
-"28","1998","","-","NA-NA-0",NA
-"29","1997","","-","NA-NA-0",NA
-"30","1996","","-","NA-NA-0",NA
-"31","1995","","-","NA-NA-0",NA
-"32","1994","","-","NA-NA-0",NA
-"33","1993","","-","NA-NA-0",NA
-"34","1992","","-","NA-NA-0",NA
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
-"37","1981","","-","NA-NA-0",NA
+"1","2025","Phil McElroy","NEWMAC","0-0-0","  NaN"
+"2","2024","Phil McElroy","NEWMAC","14-20-0","0.412"
+"3","2023","Phil McElroy","NEWMAC","18-18-0","0.500"
+"4","2022","Phil McElroy","NEWMAC","17-19-0","0.472"
+"5","2021","Phil McElroy","NEWMAC","0-8-0","0.000"
+"6","2020","Phil McElroy","NEWMAC","0-9-0","0.000"
+"7","2019","Phil McElroy","NEWMAC","20-20-0","0.500"
+"8","2018","Phil McElroy","NEWMAC","20-14-0","0.588"
+"9","2017","Phil McElroy","NEWMAC","7-26-0","0.212"
+"10","2016","Phil McElroy","NEWMAC","12-24-0","0.333"
+"11","2015","Phil McElroy","NEWMAC","14-18-0","0.438"
+"12","2014","Phil McElroy","NEWMAC","13-23-0","0.361"
+"13","2013","Phil McElroy","Great Northeast","22-15-0","0.595"
+"14","2012","Phil McElroy","Great Northeast","32-9-0","0.780"
+"15","2011","Phil McElroy","Great Northeast","26-12-0","0.684"
+"16","2010","Phil McElroy","Great Northeast","28-13-0","0.683"
+"17","2009","Phil McElroy","Great Northeast","33-11-0","0.750"
+"18","2008","Phil McElroy","Great Northeast","23-17-0","0.575"
+"19","2007","Phil McElroy","Great Northeast","24-18-0","0.571"
+"20","2006","Phil McElroy","Great Northeast","34-8-0","0.810"
+"21","2005","Phil McElroy","Great Northeast","27-13-0","0.675"
+"22","2004","Phil McElroy","Great Northeast","13-15-0","0.464"
+"23","2003","Phil McElroy","-","25-16-0","0.610"
+"24","2002","Phil McElroy","Great Northeast","21-10-0","0.677"
+"25","2001","Phil McElroy","-","22-13-0","0.629"
+"26","2000","Phil McElroy","-","23-17-0","0.575"
+"27","1999","John Hoffman","-","30-10-0","0.750"

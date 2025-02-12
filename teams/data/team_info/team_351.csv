@@ -1,43 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Scot Adams","MAC Freedom","0-0-0",0
-"2","2024","Scot Adams","MAC Freedom","35-10-0",0.778
-"3","2023","Scot Adams","MAC Commonwealth","36-12-0",0.75
-"4","2022","Scot Adams","MAC Commonwealth","26-13-0",0.667
-"5","2021","Scot Adams","MAC Commonwealth","17-16-0",0.515
-"6","2020","Scot Adams","MAC Commonwealth","6-6-0",0.5
-"7","2019","Scot Adams","MAC Commonwealth","19-22-0",0.463
-"8","2018","","MAC Commonwealth","20-16-0",0.556
-"9","2017","Joey Lye","MAC Commonwealth","25-15-0",0.625
-"10","2016","Stacey Hollinger","MAC Commonwealth","18-17-0",0.514
-"11","2015","Stacey Hollinger","MAC Commonwealth","18-24-0",0.429
-"12","2014","Stacey Hollinger","MAC Commonwealth","34-6-0",0.85
-"13","2013","Stacey Hollinger","MAC Commonwealth","36-7-1",0.83
-"14","2012","Stacey Hollinger","MAC Commonwealth","25-15-0",0.625
-"15","2011","Stacey Hollinger","MAC Commonwealth","29-9-0",0.763
-"16","2010","Stacey Hollinger","MAC Commonwealth","34-13-0",0.723
-"17","2009","Stacey Hollinger","MAC Commonwealth","27-14-0",0.659
-"18","2008","Stacey Hollinger","MAC Commonwealth","27-11-0",0.711
-"19","2007","Stacey Hollinger","MAC Commonwealth","16-12-0",0.571
-"20","2006","Stacey Hollinger","MAC Commonwealth","29-12-0",0.707
-"21","2005","Stacey Hollinger","MAC Commonwealth","27-12-0",0.692
-"22","2004","Stacey Hollinger","MAC Commonwealth","16-20-0",0.444
-"23","2003","Stacey Hollinger","MAC Commonwealth","8-21-0",0.276
-"24","2002","Stacey Hollinger","-","17-19-0",0.472
-"25","2001","Stacey Hollinger","-","19-16-0",0.543
-"26","1900","Stacey Hollinger","-","16-19-0",0.457
-"27","1999","Blair Moyer","-","11-21-0",0.344
-"28","1998","Blair Moyer","-","18-20-0",0.474
-"29","1997","Blair Moyer","-","13-14-1",0.482
-"30","1996","Blair Moyer","-","7-17-0",0.292
-"31","1995","Blair Moyer","-","8-28-0",0.222
-"32","1994","","-","NA-NA-0",NA
-"33","1993","Kathy Nelson","-","2-11-0",0.154
-"34","1992","Kathy Nelson","-","5-16-0",0.238
-"35","1991","Kathy Nelson","-","7-13-0",0.35
-"36","1990","Kathy Nelson","-","7-9-0",0.438
-"37","1989","Kathy Nelson","-","1-12-0",0.077
-"38","1988","","-","NA-NA-0",NA
-"39","1987","","-","NA-NA-0",NA
-"40","1986","","-","NA-NA-0",NA
-"41","1985","","-","NA-NA-0",NA
-"42","1981","","-","NA-NA-0",NA
+"1","2025","Scot Adams","MAC Freedom","0-0-0","  NaN"
+"2","2024","Scot Adams","MAC Freedom","35-10-0","0.778"
+"3","2023","Scot Adams","MAC Commonwealth","36-12-0","0.750"
+"4","2022","Scot Adams","MAC Commonwealth","26-13-0","0.667"
+"5","2021","Scot Adams","MAC Commonwealth","17-16-0","0.515"
+"6","2020","Scot Adams","MAC Commonwealth","6-6-0","0.500"
+"7","2019","Scot Adams","MAC Commonwealth","19-22-0","0.463"
+"8","2018","","MAC Commonwealth","20-16-0","0.556"
+"9","2017","Joey Lye","MAC Commonwealth","25-15-0","0.625"
+"10","2016","Stacey Hollinger","MAC Commonwealth","18-17-0","0.514"
+"11","2015","Stacey Hollinger","MAC Commonwealth","18-24-0","0.429"
+"12","2014","Stacey Hollinger","MAC Commonwealth","34-6-0","0.850"
+"13","2013","Stacey Hollinger","MAC Commonwealth","36-7-1","0.837"
+"14","2012","Stacey Hollinger","MAC Commonwealth","25-15-0","0.625"
+"15","2011","Stacey Hollinger","MAC Commonwealth","29-9-0","0.763"
+"16","2010","Stacey Hollinger","MAC Commonwealth","34-13-0","0.723"
+"17","2009","Stacey Hollinger","MAC Commonwealth","27-14-0","0.659"
+"18","2008","Stacey Hollinger","MAC Commonwealth","27-11-0","0.711"
+"19","2007","Stacey Hollinger","MAC Commonwealth","16-12-0","0.571"
+"20","2006","Stacey Hollinger","MAC Commonwealth","29-12-0","0.707"
+"21","2005","Stacey Hollinger","MAC Commonwealth","27-12-0","0.692"
+"22","2004","Stacey Hollinger","MAC Commonwealth","16-20-0","0.444"
+"23","2003","Stacey Hollinger","MAC Commonwealth","8-21-0","0.276"
+"24","2002","Stacey Hollinger","-","17-19-0","0.472"
+"25","2001","Stacey Hollinger","-","19-16-0","0.543"
+"26","2000","Stacey Hollinger","-","16-19-0","0.457"
+"27","1999","Blair Moyer","-","11-21-0","0.344"
+"28","1998","Blair Moyer","-","18-20-0","0.474"
+"29","1997","Blair Moyer","-","13-14-1","0.481"
+"30","1996","Blair Moyer","-","7-17-0","0.292"
+"31","1995","Blair Moyer","-","8-28-0","0.222"
+"32","1993","Kathy Nelson","-","2-11-0","0.154"
+"33","1992","Kathy Nelson","-","5-16-0","0.238"
+"34","1991","Kathy Nelson","-","7-13-0","0.350"
+"35","1990","Kathy Nelson","-","7-9-0","0.438"
+"36","1989","Kathy Nelson","-","1-12-0","0.077"

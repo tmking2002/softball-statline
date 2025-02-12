@@ -1,12 +1,12 @@
 "","team_id","player_id","rank","player","ip"
 "1",383,59153,1,"Coley Ries",293.2
-"2",765,32989,2,"Amanda Houck",255.3
+"2",765,32989,2,"Amanda Houck",256
 "3",1116,33612,3,"Autumn Humes",241.2
 "4",309,32667,4,"Lauren Honkomp",235.1
 "5",757,9605,5,"Lyndsay Butler",234.1
 "6",437,30190,6,"Chelsea Hawks",232
 "7",30052,66103,7,"Kylee Smith",225.1
-"8",30055,21764,8,"Hayley Fein",224.3
+"8",30055,21764,8,"Hayley Fein",225
 "9",1314,59719,9,"Emmie Robertson",224
 "10",1071,68094,10,"Eryn Stockman",223.1
 "11",995,56192,11,"Sydney Ponto",222.2
@@ -15,7 +15,7 @@
 "14",12799,11950,14,"Mallory Chapman",217.2
 "15",947,28186,15,"Jalissa Gum",217.1
 "16",9630,73045,16,"Hannah Vet",214.2
-"17",25,44125,17,"Brandy Marlett",212.3
+"17",25,44125,17,"Brandy Marlett",213
 "18",358,20051,18,"Andrea Edmonds",212
 "19",291,76282,19,"Maddie Williams",210.1
 "20",11740,69607,20,"Becca Taylor",206.2
@@ -31,12 +31,12 @@
 "30",568,42252,30,"Logan Losh",193.3
 "31",9011,11938,31,"Hailey Chapman",193.2
 "32",1000,59289,31,"Lacie Rinus",193.2
-"33",216,36551,33,"Emily Kedrick",192.3
-"34",30154,38546,33,"Nikkie Kovalsky",192.3
+"33",30154,38546,33,"Nikkie Kovalsky",193
+"34",216,36551,34,"Emily Kedrick",192.3
 "35",95,25745,35,"Haley Gilham",192.2
 "36",24639,68260,36,"Lexie Storrer",191
 "37",280,74892,37,"Dana Weidinger",190.2
-"38",1057,37761,38,"Jessica Kjeldgaard",189.3
+"38",1057,37761,38,"Jessica Kjeldgaard",190
 "39",30180,60777,39,"Megan Rosewell",189.1
 "40",1013,9121,40,"Alli Burdette",186.3
 "41",9013,5599,41,"Barbara Billingsley",185.2
@@ -56,16 +56,16 @@
 "55",1462,74898,55,"Rachel Weidner",176.1
 "56",799,19391,56,"Carly Dundee",175.2
 "57",423,55653,57,"Cassidy Pinchorski",175.1
-"58",23157,53154,58,"Ashley Owens",174.3
+"58",23157,53154,58,"Ashley Owens",175
 "59",70,57958,59,"Stefanie Ray",174.1
 "60",628,12763,60,"Megan Clark",174
 "61",701,73780,61,"Abby Walker",173.3
-"62",30123,3199,62,"Hannah Rose Balke",173.2
+"62",30123,3199,62,"Hannah rose Balke",173.2
 "63",206,60330,63,"Kaylee Rogers",173.1
-"64",477,46476,64,"Laura McLaughlin",172.3
+"64",477,46476,64,"Laura Mclaughlin",172.3
 "65",10870,29258,64,"Tara Hanson",172.3
 "66",354,62125,66,"Dara Sanders",172.2
-"67",35,46570,66,"Paige McMenemy",172.2
+"67",35,46570,66,"Paige Mcmenemy",172.2
 "68",10,29734,68,"Tyler Harrison",172
 "69",1013,60983,69,"Jessie Rowe",171.2
 "70",1116,35297,70,"Hannah Johnson",170.3
@@ -81,8 +81,8 @@
 "80",30028,37723,80,"Alaina Kissinger",164
 "81",30119,39523,81,"Abby Lamping",163.1
 "82",1257,49480,82,"Devon Morrison",162.3
-"83",30179,28564,83,"Madison Hagood",160.3
-"84",470,9654,83,"Megan Butts",160.3
+"83",470,9654,83,"Megan Butts",161
+"84",30179,28564,84,"Madison Hagood",160.3
 "85",9680,1715,85,"Ilona Andringa",160
 "86",1012,34749,86,"Jessica Jarecki",159.3
 "87",30118,29307,87,"Katelyn Harden",159.2
@@ -92,7 +92,7 @@
 "91",30124,1977,91,"Morgan Arbogast",157.3
 "92",41,77078,92,"Olivia Wolters",157.1
 "93",65,53777,93,"Taylor Parker",156.3
-"94",8736,51960,94,"Alex O'Connor",156.2
+"94",8736,51960,94,"Alex O'connor",156.2
 "95",30120,5655,95,"Anna Biondo",156.1
 "96",510,21243,95,"Vanessa Ewing",156.1
 "97",1170,53793,97,"Brandi Parks",155.2

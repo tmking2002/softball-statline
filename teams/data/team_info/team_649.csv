@@ -1,56 +1,56 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Kristina McSweeney","Summit League","2-0-0",1
-"2","2024","Kristina McSweeney","Summit League","33-22-0",0.6
-"3","2023","Kristina McSweeney","Summit League","39-19-0",0.672
-"4","2022","Krista Wood","Summit League","41-13-0",0.759
-"5","2021","Krista Wood","Summit League","43-8-0",0.843
-"6","2020","Krista Wood","Summit League","15-8-0",0.652
-"7","2019","Krista Wood","Summit League","37-19-0",0.661
-"8","2018","Krista Wood","Summit League","37-18-0",0.673
-"9","2017","Krista Wood","Summit League","19-35-0",0.352
-"10","2016","Krista Wood","Summit League","23-34-0",0.404
-"11","2015","Krista Wood","Summit League","23-29-0",0.442
-"12","2014","Alex Hupp","Summit League","11-36-0",0.234
-"13","2013","Kim Aggabao","Summit League","16-30-0",0.348
-"14","2012","Kim Aggabao","Summit League","13-27-1",0.329
-"15","2011","Joanna Lane","Summit League","13-41-0",0.241
-"16","2010","Joanna Lane","Summit League","19-32-0",0.373
-"17","2009","Joanna Lane","Summit League","10-41-0",0.196
-"18","2008","Joanna Lane","Summit League","17-27-0",0.386
-"19","2007","Shane Bouman","-","17-32-0",0.347
-"20","2006","Shane Bouman","-","24-36-0",0.4
-"21","2005","Shane Bouman","-","30-29-0",0.508
-"22","2004","Shane Bouman","NCC","23-36-0",0.39
-"23","2003","Shane Bouman","NCC","26-32-0",0.448
-"24","2002","Shane Bouman","NCC","22-29-0",0.431
-"25","2001","Shelly Bayer","-","26-30-0",0.464
-"26","1900","Shelly Bayer","-","16-34-0",0.32
-"27","1999","Shelly Bayer","-","13-39-0",0.25
-"28","1998","Shelly Bayer","-","26-30-0",0.464
-"29","1997","Shelly Bayer","-","31-19-0",0.62
-"30","1996","Tracie Derochie","-","43-22-0",0.662
-"31","1995","Beth Kirchner","-","23-26-0",0.469
-"32","1994","Beth Kirchner","-","16-40-0",0.286
-"33","1993","Beth Kirchner","-","19-21-0",0.475
-"34","1992","Beth Kirchner","-","17-17-1",0.5
-"35","1991","Janet Stumps","-","18-21-0",0.462
-"36","1990","Janet Stumps","-","18-18-0",0.5
-"37","1989","Janet Stumps","-","12-17-0",0.414
-"38","1988","Deb Allyn","-","13-24-0",0.351
-"39","1987","Deb Allyn","-","19-20-0",0.487
-"40","1986","Deb Allyn","-","10-17-0",0.37
-"41","1985","Deb Allyn","-","13-18-0",0.419
-"42","1984","Deb Allyn","-","5-16-0",0.238
-"43","1983","Janice Iverson","-","12-17-0",0.414
-"44","1982","Janice Iverson","-","12-12-0",0.5
-"45","1981","Sue Yeager","-","5-13-0",0.278
-"46","1980","Lynn Crane","-","14-10-0",0.583
-"47","1979","Lynn Crane","-","8-6-0",0.571
-"48","1978","Sue Yeager","-","8-9-0",0.471
-"49","1977","Norma Boetel","-","11-6-0",0.647
-"50","1976","Norma Boetel","-","12-4-0",0.75
-"51","1975","Norma Boetel","-","8-3-0",0.727
-"52","1974","Jenny Johnson-Kappes","-","9-3-0",0.75
-"53","1973","Norma Boetel","-","5-2-0",0.714
-"54","1972","Ruth Marske","-","8-2-0",0.8
-"55","1971","Unknown","-","1-2-0",0.333
+"1","2025","Kristina McSweeney","Summit League","2-0-0","1.000"
+"2","2024","Kristina McSweeney","Summit League","33-22-0","0.600"
+"3","2023","Kristina McSweeney","Summit League","39-19-0","0.672"
+"4","2022","Krista Wood","Summit League","41-13-0","0.759"
+"5","2021","Krista Wood","Summit League","43-8-0","0.843"
+"6","2020","Krista Wood","Summit League","15-8-0","0.652"
+"7","2019","Krista Wood","Summit League","37-19-0","0.661"
+"8","2018","Krista Wood","Summit League","37-18-0","0.673"
+"9","2017","Krista Wood","Summit League","19-35-0","0.352"
+"10","2016","Krista Wood","Summit League","23-34-0","0.404"
+"11","2015","Krista Wood","Summit League","23-29-0","0.442"
+"12","2014","Alex Hupp","Summit League","11-36-0","0.234"
+"13","2013","Kim Aggabao","Summit League","16-30-0","0.348"
+"14","2012","Kim Aggabao","Summit League","13-27-1","0.325"
+"15","2011","Joanna Lane","Summit League","13-41-0","0.241"
+"16","2010","Joanna Lane","Summit League","19-32-0","0.373"
+"17","2009","Joanna Lane","Summit League","10-41-0","0.196"
+"18","2008","Joanna Lane","Summit League","17-27-0","0.386"
+"19","2007","Shane Bouman","-","17-32-0","0.347"
+"20","2006","Shane Bouman","-","24-36-0","0.400"
+"21","2005","Shane Bouman","-","30-29-0","0.508"
+"22","2004","Shane Bouman","NCC","23-36-0","0.390"
+"23","2003","Shane Bouman","NCC","26-32-0","0.448"
+"24","2002","Shane Bouman","NCC","22-29-0","0.431"
+"25","2001","Shelly Bayer","-","26-30-0","0.464"
+"26","2000","Shelly Bayer","-","16-34-0","0.320"
+"27","1999","Shelly Bayer","-","13-39-0","0.250"
+"28","1998","Shelly Bayer","-","26-30-0","0.464"
+"29","1997","Shelly Bayer","-","31-19-0","0.620"
+"30","1996","Tracie Derochie","-","43-22-0","0.662"
+"31","1995","Beth Kirchner","-","23-26-0","0.469"
+"32","1994","Beth Kirchner","-","16-40-0","0.286"
+"33","1993","Beth Kirchner","-","19-21-0","0.475"
+"34","1992","Beth Kirchner","-","17-17-1","0.500"
+"35","1991","Janet Stumps","-","18-21-0","0.462"
+"36","1990","Janet Stumps","-","18-18-0","0.500"
+"37","1989","Janet Stumps","-","12-17-0","0.414"
+"38","1988","Deb Allyn","-","13-24-0","0.351"
+"39","1987","Deb Allyn","-","19-20-0","0.487"
+"40","1986","Deb Allyn","-","10-17-0","0.370"
+"41","1985","Deb Allyn","-","13-18-0","0.419"
+"42","1984","Deb Allyn","-","5-16-0","0.238"
+"43","1983","Janice Iverson","-","12-17-0","0.414"
+"44","1982","Janice Iverson","-","12-12-0","0.500"
+"45","1981","Sue Yeager","-","5-13-0","0.278"
+"46","1980","Lynn Crane","-","14-10-0","0.583"
+"47","1979","Lynn Crane","-","8-6-0","0.571"
+"48","1978","Sue Yeager","-","8-9-0","0.471"
+"49","1977","Norma Boetel","-","11-6-0","0.647"
+"50","1976","Norma Boetel","-","12-4-0","0.750"
+"51","1975","Norma Boetel","-","8-3-0","0.727"
+"52","1974","Jenny Johnson-Kappes","-","9-3-0","0.750"
+"53","1973","Norma Boetel","-","5-2-0","0.714"
+"54","1972","Ruth Marske","-","8-2-0","0.800"
+"55","1971","Unknown","-","1-2-0","0.333"

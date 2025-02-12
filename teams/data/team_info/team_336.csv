@@ -1,40 +1,34 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Lisa Gigliello","MAC Freedom","0-0-0",0
-"2","2024","Lisa Gigliello","MAC Freedom","12-22-0",0.353
-"3","2023","Lisa Gigliello","MAC Freedom","24-15-0",0.615
-"4","2022","Lisa Gigliello","MAC Freedom","20-12-0",0.625
-"5","2021","Lisa Gigliello","MAC Freedom","20-12-0",0.625
-"6","2020","Lisa Gigliello","MAC Freedom","5-3-0",0.625
-"7","2019","Lisa Gigliello","MAC Freedom","19-18-0",0.514
-"8","2018","Lisa Gigliello","MAC Freedom","23-20-0",0.535
-"9","2017","Lisa Gigliello","MAC Freedom","19-19-0",0.5
-"10","2016","Lisa Gigliello","MAC Freedom","23-18-0",0.561
-"11","2015","Lisa Gigliello","MAC Freedom","17-14-0",0.548
-"12","2014","Lisa Gigliello","MAC Freedom","28-10-0",0.737
-"13","2013","Lisa Gigliello","MAC Freedom","23-9-0",0.719
-"14","2012","Lisa Gigliello","MAC Freedom","29-13-0",0.69
-"15","2011","Lisa Gigliello","MAC Freedom","19-13-0",0.594
-"16","2010","Lisa Gigliello","MAC Freedom","23-18-0",0.561
-"17","2009","Lisa Gigliello","MAC Freedom","24-14-0",0.632
-"18","2008","Lisa Gigliello","MAC Freedom","20-13-0",0.606
-"19","2007","Lisa Gigliello","MAC Freedom","34-8-0",0.81
-"20","2006","Lisa Gigliello","MAC Freedom","39-9-0",0.813
-"21","2005","Lisa Gigliello","MAC Freedom","34-12-0",0.739
-"22","2004","Lisa Gigliello","MAC Freedom","39-10-0",0.796
-"23","2003","Lisa Gigliello","MAC Freedom","24-11-0",0.686
-"24","2002","Lisa Gigliello","MAC Freedom","36-10-1",0.777
-"25","2001","Lisa Gigliello","-","28-12-0",0.7
-"26","1900","Lisa Gigliello","-","38-6-0",0.864
-"27","1999","Lisa Gigliello","-","23-10-0",0.697
-"28","1998","Lisa Gigliello","-","22-10-0",0.688
-"29","1997","Lisa Gigliello","-","20-12-1",0.621
-"30","1996","Lisa Gigliello","-","15-16-0",0.484
-"31","1995","Lisa Gigliello","-","14-17-0",0.452
-"32","1994","Lisa Gigliello","-","7-18-0",0.28
-"33","1993","Robin Cummins","-","4-8-0",0.333
-"34","1992","","-","NA-NA-0",NA
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
-"37","1989","","-","NA-NA-0",NA
-"38","1988","","-","NA-NA-0",NA
-"39","1981","","-","NA-NA-0",NA
+"1","2025","Lisa Gigliello","MAC Freedom","0-0-0","  NaN"
+"2","2024","Lisa Gigliello","MAC Freedom","12-22-0","0.353"
+"3","2023","Lisa Gigliello","MAC Freedom","24-15-0","0.615"
+"4","2022","Lisa Gigliello","MAC Freedom","20-12-0","0.625"
+"5","2021","Lisa Gigliello","MAC Freedom","20-12-0","0.625"
+"6","2020","Lisa Gigliello","MAC Freedom","5-3-0","0.625"
+"7","2019","Lisa Gigliello","MAC Freedom","19-18-0","0.514"
+"8","2018","Lisa Gigliello","MAC Freedom","23-20-0","0.535"
+"9","2017","Lisa Gigliello","MAC Freedom","19-19-0","0.500"
+"10","2016","Lisa Gigliello","MAC Freedom","23-18-0","0.561"
+"11","2015","Lisa Gigliello","MAC Freedom","17-14-0","0.548"
+"12","2014","Lisa Gigliello","MAC Freedom","28-10-0","0.737"
+"13","2013","Lisa Gigliello","MAC Freedom","23-9-0","0.719"
+"14","2012","Lisa Gigliello","MAC Freedom","29-13-0","0.690"
+"15","2011","Lisa Gigliello","MAC Freedom","19-13-0","0.594"
+"16","2010","Lisa Gigliello","MAC Freedom","23-18-0","0.561"
+"17","2009","Lisa Gigliello","MAC Freedom","24-14-0","0.632"
+"18","2008","Lisa Gigliello","MAC Freedom","20-13-0","0.606"
+"19","2007","Lisa Gigliello","MAC Freedom","34-8-0","0.810"
+"20","2006","Lisa Gigliello","MAC Freedom","39-9-0","0.812"
+"21","2005","Lisa Gigliello","MAC Freedom","34-12-0","0.739"
+"22","2004","Lisa Gigliello","MAC Freedom","39-10-0","0.796"
+"23","2003","Lisa Gigliello","MAC Freedom","24-11-0","0.686"
+"24","2002","Lisa Gigliello","MAC Freedom","36-10-1","0.783"
+"25","2001","Lisa Gigliello","-","28-12-0","0.700"
+"26","2000","Lisa Gigliello","-","38-6-0","0.864"
+"27","1999","Lisa Gigliello","-","23-10-0","0.697"
+"28","1998","Lisa Gigliello","-","22-10-0","0.688"
+"29","1997","Lisa Gigliello","-","20-12-1","0.625"
+"30","1996","Lisa Gigliello","-","15-16-0","0.484"
+"31","1995","Lisa Gigliello","-","14-17-0","0.452"
+"32","1994","Lisa Gigliello","-","7-18-0","0.280"
+"33","1993","Robin Cummins","-","4-8-0","0.333"

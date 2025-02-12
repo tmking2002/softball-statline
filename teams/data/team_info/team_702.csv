@@ -1,48 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Kara Dill","WAC","2-0-0",1
-"2","2024","Kara Dill","WAC","23-34-0",0.404
-"3","2023","Kara Dill","WAC","22-30-0",0.423
-"4","2022","Peejay Brun","Sun Belt","22-27-0",0.449
-"5","2021","Peejay Brun","Sun Belt","17-34-0",0.333
-"6","2020","Peejay Brun","Sun Belt","12-13-0",0.48
-"7","2019","Peejay Brun","Sun Belt","36-27-0",0.571
-"8","2018","Peejay Brun","Sun Belt","30-28-0",0.517
-"9","2017","Kristie Fox","Sun Belt","32-28-0",0.533
-"10","2016","Kristie Fox","Sun Belt","29-20-0",0.592
-"11","2015","Kristie Fox","Sun Belt","27-28-0",0.491
-"12","2014","Kristie Fox","Sun Belt","21-33-0",0.389
-"13","2013","Kristie Fox","WAC","25-28-0",0.472
-"14","2012","Debbie Hedrick","Southland","15-27-0",0.357
-"15","2011","Debbie Hedrick","Southland","33-25-0",0.569
-"16","2010","Debbie Hedrick","Southland","29-25-0",0.537
-"17","2009","Debbie Hedrick","Southland","23-24-0",0.489
-"18","2008","Debbie Hedrick","Southland","27-22-0",0.551
-"19","2007","Debbie Hedrick","Southland","36-16-0",0.692
-"20","2006","Debbie Hedrick","Southland","32-22-0",0.593
-"21","2005","Debbie Hedrick","Southland","17-26-0",0.395
-"22","2004","Debbie Hedrick","Southland","24-24-1",0.5
-"23","2003","Debbie Hedrick","Southland","41-17-0",0.707
-"24","2002","Debbie Hedrick","Southland","16-30-0",0.348
-"25","2001","Debbie Hedrick","Southland","25-22-1",0.531
-"26","1900","Debbie Hedrick","Southland","22-33-0",0.4
-"27","1999","Debbie Hedrick","Southland","31-25-0",0.554
-"28","1998","Debbie Hedrick","-","16-29-0",0.356
-"29","1997","Debbie Hedrick","Southland","18-30-0",0.375
-"30","1996","Anne Campbell","-","24-30-0",0.444
-"31","1995","Anne Campbell","-","22-34-0",0.393
-"32","1994","Anne Campbell","-","17-37-0",0.315
-"33","1993","Anne Campbell","-","36-23-0",0.61
-"34","1992","Anne Campbell","-","32-30-0",0.516
-"35","1991","Anne Campbell","-","21-38-0",0.356
-"36","1990","Anne Campbell","-","27-24-0",0.529
-"37","1989","Rayla Allison","-","34-19-0",0.642
-"38","1988","Rayla Allison","-","34-27-0",0.557
-"39","1987","Rayla Allison","-","36-27-0",0.571
-"40","1986","Rayla Allison","-","25-25-0",0.5
-"41","1985","Rayla Allison","-","27-22-0",0.551
-"42","1984","Randy Porter","-","NA-NA-0",NA
-"43","1983","Randy Porter","-","NA-NA-0",NA
-"44","1982","Randy Porter","-","NA-NA-0",NA
-"45","1981","Randy Porter","-","NA-NA-0",NA
-"46","1980","Randy Porter","-","NA-NA-0",NA
-"47","1979","Randy Porter","-","NA-NA-0",NA
+"1","2025","Kara Dill","WAC","2-0-0","1.000"
+"2","2024","Kara Dill","WAC","23-34-0","0.404"
+"3","2023","Kara Dill","WAC","22-30-0","0.423"
+"4","2022","Peejay Brun","Sun Belt","22-27-0","0.449"
+"5","2021","Peejay Brun","Sun Belt","17-34-0","0.333"
+"6","2020","Peejay Brun","Sun Belt","12-13-0","0.480"
+"7","2019","Peejay Brun","Sun Belt","36-27-0","0.571"
+"8","2018","Peejay Brun","Sun Belt","30-28-0","0.517"
+"9","2017","Kristie Fox","Sun Belt","32-28-0","0.533"
+"10","2016","Kristie Fox","Sun Belt","29-20-0","0.592"
+"11","2015","Kristie Fox","Sun Belt","27-28-0","0.491"
+"12","2014","Kristie Fox","Sun Belt","21-33-0","0.389"
+"13","2013","Kristie Fox","WAC","25-28-0","0.472"
+"14","2012","Debbie Hedrick","Southland","15-27-0","0.357"
+"15","2011","Debbie Hedrick","Southland","33-25-0","0.569"
+"16","2010","Debbie Hedrick","Southland","29-25-0","0.537"
+"17","2009","Debbie Hedrick","Southland","23-24-0","0.489"
+"18","2008","Debbie Hedrick","Southland","27-22-0","0.551"
+"19","2007","Debbie Hedrick","Southland","36-16-0","0.692"
+"20","2006","Debbie Hedrick","Southland","32-22-0","0.593"
+"21","2005","Debbie Hedrick","Southland","17-26-0","0.395"
+"22","2004","Debbie Hedrick","Southland","24-24-1","0.500"
+"23","2003","Debbie Hedrick","Southland","41-17-0","0.707"
+"24","2002","Debbie Hedrick","Southland","16-30-0","0.348"
+"25","2001","Debbie Hedrick","Southland","25-22-1","0.532"
+"26","2000","Debbie Hedrick","Southland","22-33-0","0.400"
+"27","1999","Debbie Hedrick","Southland","31-25-0","0.554"
+"28","1998","Debbie Hedrick","-","16-29-0","0.356"
+"29","1997","Debbie Hedrick","Southland","18-30-0","0.375"
+"30","1996","Anne Campbell","-","24-30-0","0.444"
+"31","1995","Anne Campbell","-","22-34-0","0.393"
+"32","1994","Anne Campbell","-","17-37-0","0.315"
+"33","1993","Anne Campbell","-","36-23-0","0.610"
+"34","1992","Anne Campbell","-","32-30-0","0.516"
+"35","1991","Anne Campbell","-","21-38-0","0.356"
+"36","1990","Anne Campbell","-","27-24-0","0.529"
+"37","1989","Rayla Allison","-","34-19-0","0.642"
+"38","1988","Rayla Allison","-","34-27-0","0.557"
+"39","1987","Rayla Allison","-","36-27-0","0.571"
+"40","1986","Rayla Allison","-","25-25-0","0.500"
+"41","1985","Rayla Allison","-","27-22-0","0.551"

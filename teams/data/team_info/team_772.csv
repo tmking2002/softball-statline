@@ -1,30 +1,27 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Amy Tudor","CUSA","0-2-0",0
-"2","2024","Amy Tudor","CUSA","33-20-1",0.62
-"3","2023","Amy Tudor","CUSA","30-24-0",0.556
-"4","2022","Amy Tudor","CUSA","38-13-0",0.745
-"5","2021","Amy Tudor","CUSA","32-15-0",0.681
-"6","2020","Amy Tudor","CUSA","20-5-0",0.8
-"7","2019","Amy Tudor","CUSA","37-13-0",0.74
-"8","2018","Amy Tudor","CUSA","28-26-0",0.519
-"9","2017","Amy Tudor","CUSA","31-31-0",0.5
-"10","2016","Amy Tudor","CUSA","17-30-0",0.362
-"11","2015","Amy Tudor","CUSA","36-14-0",0.72
-"12","2014","Amy Tudor","Sun Belt","33-24-1",0.578
-"13","2013","Tyra Perry","Sun Belt","43-18-0",0.705
-"14","2012","Tyra Perry","Sun Belt","33-25-1",0.568
-"15","2011","Tyra Perry","Sun Belt","30-29-0",0.508
-"16","2010","Tyra Perry","Sun Belt","27-25-0",0.519
-"17","2009","Tyra Perry","Sun Belt","35-19-0",0.648
-"18","2008","Tyra Perry","Sun Belt","28-30-0",0.483
-"19","2007","Rachel Lawson","Sun Belt","30-32-0",0.484
-"20","2006","Rachel Lawson","Sun Belt","29-28-0",0.509
-"21","2005","Rachel Lawson","Sun Belt","33-24-0",0.579
-"22","2004","Leslie Phelan","Sun Belt","35-23-0",0.603
-"23","2003","Leslie Phelan","Sun Belt","30-32-0",0.484
-"24","2002","Leslie Phelan","Sun Belt","37-22-0",0.627
-"25","2001","Leslie Phelan","Sun Belt","23-37-0",0.383
-"26","1900","","Sun Belt","32-25-1",0.56
-"27","1999","","-","NA-NA-0",NA
-"28","1998","","-","NA-NA-0",NA
-"29","1997","","-","NA-NA-0",NA
+"1","2025","Amy Tudor","CUSA","0-2-0","0.000"
+"2","2024","Amy Tudor","CUSA","33-20-1","0.623"
+"3","2023","Amy Tudor","CUSA","30-24-0","0.556"
+"4","2022","Amy Tudor","CUSA","38-13-0","0.745"
+"5","2021","Amy Tudor","CUSA","32-15-0","0.681"
+"6","2020","Amy Tudor","CUSA","20-5-0","0.800"
+"7","2019","Amy Tudor","CUSA","37-13-0","0.740"
+"8","2018","Amy Tudor","CUSA","28-26-0","0.519"
+"9","2017","Amy Tudor","CUSA","31-31-0","0.500"
+"10","2016","Amy Tudor","CUSA","17-30-0","0.362"
+"11","2015","Amy Tudor","CUSA","36-14-0","0.720"
+"12","2014","Amy Tudor","Sun Belt","33-24-1","0.579"
+"13","2013","Tyra Perry","Sun Belt","43-18-0","0.705"
+"14","2012","Tyra Perry","Sun Belt","33-25-1","0.569"
+"15","2011","Tyra Perry","Sun Belt","30-29-0","0.508"
+"16","2010","Tyra Perry","Sun Belt","27-25-0","0.519"
+"17","2009","Tyra Perry","Sun Belt","35-19-0","0.648"
+"18","2008","Tyra Perry","Sun Belt","28-30-0","0.483"
+"19","2007","Rachel Lawson","Sun Belt","30-32-0","0.484"
+"20","2006","Rachel Lawson","Sun Belt","29-28-0","0.509"
+"21","2005","Rachel Lawson","Sun Belt","33-24-0","0.579"
+"22","2004","Leslie Phelan","Sun Belt","35-23-0","0.603"
+"23","2003","Leslie Phelan","Sun Belt","30-32-0","0.484"
+"24","2002","Leslie Phelan","Sun Belt","37-22-0","0.627"
+"25","2001","Leslie Phelan","Sun Belt","23-37-0","0.383"
+"26","2000","","Sun Belt","32-25-1","0.561"

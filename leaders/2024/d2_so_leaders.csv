@@ -1,6 +1,6 @@
 "","team_id","player_id","rank","player","so"
 "1",30052,17487,1,"Tybee Denton",41
-"2",8366,52163,2,"Abigail O'Shields",32
+"2",8366,52163,2,"Abigail O'shields",32
 "3",280,61388,3,"Joni Russell",31
 "4",30063,29829,3,"Logan Hartman",31
 "5",720,29029,5,"Kamya Hampton",30
@@ -27,7 +27,7 @@
 "26",13302,403,25,"Lonna Addison",22
 "27",1266,61498,27,"Abby Rux",21
 "28",1348,57801,27,"Eliana Raposo",21
-"29",10,51909,27,"Grace O'Berry",21
+"29",10,51909,27,"Grace O'berry",21
 "30",2814,25902,27,"Jaycee Ginter",21
 "31",13028,45137,27,"Laken Maxwell",21
 "32",15646,32533,27,"Miranda Holmes",21
@@ -36,7 +36,7 @@
 "35",1438,55216,33,"Kadence Pettit",20
 "36",30055,76427,33,"Mackenzie Willis",20
 "37",12810,30603,33,"Madison Heinle",20
-"38",30180,41712,33,"Sara Llamas-Howell",20
+"38",30180,41712,33,"Sara Llamas-howell",20
 "39",30199,38202,39,"Cortney Koelmans",19
 "40",339,27196,39,"Haley Gravish",19
 "41",468,13248,39,"Julianna Colbert",19
@@ -45,9 +45,9 @@
 "44",2755,40735,43,"Paige Leithead",18
 "45",30177,39443,43,"Teoni Lamb",18
 "46",423,62775,46,"Alex Schaefer",17
-"47",1013,45713,46,"Brianna McCown",17
+"47",1013,45713,46,"Brianna Mccown",17
 "48",1376,60302,46,"Brinson Rogers",17
-"49",9081,45802,46,"Erica McCullough",17
+"49",9081,45802,46,"Erica Mccullough",17
 "50",436,62762,46,"Katie Schaake",17
 "51",9630,68119,46,"Kendall Stoffel",17
 "52",11276,55386,46,"Lakyn Phillips",17
@@ -55,7 +55,7 @@
 "54",1170,57480,46,"Lauren Rakes",17
 "55",23157,76320,46,"Riley Williams",17
 "56",70,57026,56,"Akirra Pullen",16
-"57",701,40396,56,"Alyssa LeBlanc",16
+"57",701,40396,56,"Alyssa Leblanc",16
 "58",384,57094,56,"Annabella Putnam",16
 "59",658,41100,56,"Ashley Lewis",16
 "60",8956,4150,56,"Emily Baxter",16
@@ -69,7 +69,7 @@
 "68",8736,47968,66,"Karlie Miller",15
 "69",1057,5374,66,"Kristina Bettis",15
 "70",3,31451,66,"Lindsey Hibbs",15
-"71",628,69338,66,"Mari Takeda Bajan",15
+"71",628,69338,66,"Mari Takeda bajan",15
 "72",608,64269,66,"Morgan Shannon",15
 "73",56,55757,66,"Riley Piromalli",15
 "74",197,16244,66,"Sarah Davenport",15
@@ -104,5 +104,5 @@
 "103",30222,60618,89,"Maddison Roop",13
 "104",30051,14616,89,"Nikole Counts",13
 "105",537,8984,89,"Summer Bullard",13
-"106",13,50221,89,"TRISTA MURPHY",13
-"107",1012,30076,89,"Tori Haug",13
+"106",1012,30076,89,"Tori Haug",13
+"107",13,50221,89,"Trista Murphy",13

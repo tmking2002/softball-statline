@@ -1,37 +1,33 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Sarah Birchmeier","MAC Freedom","0-0-0",0
-"2","2024","Sarah Birchmeier","MAC Freedom","10-28-0",0.263
-"3","2023","Lindsay Mayer","MAC Freedom","20-21-0",0.488
-"4","2022","Sarah Colletti","MAC Freedom","32-11-0",0.744
-"5","2021","Sarah Colletti","MAC Freedom","21-12-0",0.636
-"6","2020","Sarah Colletti","MAC Commonwealth","2-4-0",0.333
-"7","2019","Sarah Colletti","MAC Commonwealth","33-13-0",0.717
-"8","2018","Sarah Colletti","MAC Commonwealth","26-14-0",0.65
-"9","2017","Sarah Colletti","MAC Commonwealth","30-13-0",0.698
-"10","2016","Sarah Colletti","MAC Commonwealth","25-19-0",0.568
-"11","2015","Sarah Colletti","MAC Commonwealth","16-22-0",0.421
-"12","2014","Linda Detra","MAC Commonwealth","21-23-0",0.477
-"13","2013","Linda Detra","MAC Commonwealth","16-22-0",0.421
-"14","2012","Linda Detra","MAC Commonwealth","19-21-0",0.475
-"15","2011","Linda Detra","MAC Commonwealth","24-12-0",0.667
-"16","2010","Linda Detra","MAC Commonwealth","14-25-0",0.359
-"17","2009","Linda Detra","MAC Commonwealth","27-15-0",0.643
-"18","2008","Linda Detra","MAC Freedom","16-21-1",0.434
-"19","2007","Linda Detra","CSAC","31-10-0",0.756
-"20","2006","Linda Detra","CSAC","31-9-0",0.775
-"21","2005","Linda Detra","CSAC","33-11-0",0.75
-"22","2004","Linda Detra","CSAC","29-10-0",0.744
-"23","2003","Linda Detra","CSAC","27-10-0",0.73
-"24","2002","Linda Detra","CSAC","23-18-0",0.561
-"25","2001","Linda Detra","-","23-14-0",0.622
-"26","1900","Linda Detra","-","18-15-0",0.545
-"27","1999","Linda Detra","-","17-13-0",0.567
-"28","1998","Linda Detra","-","20-13-0",0.606
-"29","1997","Linda Detra","-","16-10-0",0.615
-"30","1996","Linda Detra","-","14-15-0",0.483
-"31","1995","Linda Detra","-","14-11-0",0.56
-"32","1994","Linda Detra","-","13-14-0",0.481
-"33","1993","","-","NA-NA-0",NA
-"34","1992","","-","NA-NA-0",NA
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
+"1","2025","Sarah Birchmeier","MAC Freedom","0-0-0","  NaN"
+"2","2024","Sarah Birchmeier","MAC Freedom","10-28-0","0.263"
+"3","2023","Lindsay Mayer","MAC Freedom","20-21-0","0.488"
+"4","2022","Sarah Colletti","MAC Freedom","32-11-0","0.744"
+"5","2021","Sarah Colletti","MAC Freedom","21-12-0","0.636"
+"6","2020","Sarah Colletti","MAC Commonwealth","2-4-0","0.333"
+"7","2019","Sarah Colletti","MAC Commonwealth","33-13-0","0.717"
+"8","2018","Sarah Colletti","MAC Commonwealth","26-14-0","0.650"
+"9","2017","Sarah Colletti","MAC Commonwealth","30-13-0","0.698"
+"10","2016","Sarah Colletti","MAC Commonwealth","25-19-0","0.568"
+"11","2015","Sarah Colletti","MAC Commonwealth","16-22-0","0.421"
+"12","2014","Linda Detra","MAC Commonwealth","21-23-0","0.477"
+"13","2013","Linda Detra","MAC Commonwealth","16-22-0","0.421"
+"14","2012","Linda Detra","MAC Commonwealth","19-21-0","0.475"
+"15","2011","Linda Detra","MAC Commonwealth","24-12-0","0.667"
+"16","2010","Linda Detra","MAC Commonwealth","14-25-0","0.359"
+"17","2009","Linda Detra","MAC Commonwealth","27-15-0","0.643"
+"18","2008","Linda Detra","MAC Freedom","16-21-1","0.432"
+"19","2007","Linda Detra","CSAC","31-10-0","0.756"
+"20","2006","Linda Detra","CSAC","31-9-0","0.775"
+"21","2005","Linda Detra","CSAC","33-11-0","0.750"
+"22","2004","Linda Detra","CSAC","29-10-0","0.744"
+"23","2003","Linda Detra","CSAC","27-10-0","0.730"
+"24","2002","Linda Detra","CSAC","23-18-0","0.561"
+"25","2001","Linda Detra","-","23-14-0","0.622"
+"26","2000","Linda Detra","-","18-15-0","0.545"
+"27","1999","Linda Detra","-","17-13-0","0.567"
+"28","1998","Linda Detra","-","20-13-0","0.606"
+"29","1997","Linda Detra","-","16-10-0","0.615"
+"30","1996","Linda Detra","-","14-15-0","0.483"
+"31","1995","Linda Detra","-","14-11-0","0.560"
+"32","1994","Linda Detra","-","13-14-0","0.481"

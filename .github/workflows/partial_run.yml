@@ -1,4 +1,4 @@
-name: update_softball_statline
+name: partial_update
 
 on:
   workflow_dispatch:

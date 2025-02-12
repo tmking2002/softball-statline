@@ -1,51 +1,27 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Skania Valencia","SCIAC","0-0-1",0.5
-"2","2024","Betsy Hipple","SCIAC","24-14-0",0.632
-"3","2023","Gina Oaks Garcia","SCIAC","26-14-0",0.65
-"4","2022","Gina Oaks Garcia","SCIAC","19-19-0",0.5
-"5","2021","Gina Oaks Garcia","SCIAC","0-0-0",0
-"6","2020","Gina Oaks Garcia","SCIAC","7-10-0",0.412
-"7","2019","Gina Oaks Garcia","SCIAC","31-13-0",0.705
-"8","2018","Gina Oaks Garcia","SCIAC","32-14-0",0.696
-"9","2017","Betsy Hipple","SCIAC","22-20-0",0.524
-"10","2016","Betsy Hipple","SCIAC","37-10-1",0.781
-"11","2015","Betsy Hipple","SCIAC","27-14-0",0.659
-"12","2014","Betsy Hipple","SCIAC","32-15-0",0.681
-"13","2013","Betsy Hipple","SCIAC","33-13-0",0.717
-"14","2012","Betsy Hipple","SCIAC","30-15-0",0.667
-"15","2011","Betsy Hipple","SCIAC","35-12-0",0.745
-"16","2010","Betsy Hipple","SCIAC","34-10-0",0.773
-"17","2009","Betsy Hipple","SCIAC","28-16-0",0.636
-"18","2008","Betsy Hipple","SCIAC","24-12-0",0.667
-"19","2007","Betsy Hipple","SCIAC","14-25-0",0.359
-"20","2006","Betsy Hipple","SCIAC","24-12-0",0.667
-"21","2005","Andrea Kenney","SCIAC","16-19-0",0.457
-"22","2004","Andrea Kenney","SCIAC","25-9-0",0.735
-"23","2003","Andrea Kenney","SCIAC","19-20-0",0.487
-"24","2002","Andrea Kenney","SCIAC","14-25-0",0.359
-"25","2001","Andrea Kenney","-","15-21-1",0.419
-"26","1900","Cheryl Coronado","-","17-16-0",0.515
-"27","1999","","-","NA-NA-0",NA
-"28","1998","","-","NA-NA-0",NA
-"29","1997","","-","NA-NA-0",NA
-"30","1996","","-","NA-NA-0",NA
-"31","1995","","-","NA-NA-0",NA
-"32","1994","","-","NA-NA-0",NA
-"33","1993","","-","NA-NA-0",NA
-"34","1992","","-","NA-NA-0",NA
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
-"37","1989","","-","NA-NA-0",NA
-"38","1988","","-","NA-NA-0",NA
-"39","1987","","-","NA-NA-0",NA
-"40","1986","","-","NA-NA-0",NA
-"41","1985","","-","NA-NA-0",NA
-"42","1984","","-","NA-NA-0",NA
-"43","1983","","-","NA-NA-0",NA
-"44","1982","","-","NA-NA-0",NA
-"45","1981","","-","NA-NA-0",NA
-"46","1980","","-","NA-NA-0",NA
-"47","1979","","-","NA-NA-0",NA
-"48","1978","","-","NA-NA-0",NA
-"49","1977","","-","NA-NA-0",NA
-"50","1976","","-","NA-NA-0",NA
+"1","2025","Skania Valencia","SCIAC","0-0-1","  NaN"
+"2","2024","Betsy Hipple","SCIAC","24-14-0","0.632"
+"3","2023","Gina Oaks Garcia","SCIAC","26-14-0","0.650"
+"4","2022","Gina Oaks Garcia","SCIAC","19-19-0","0.500"
+"5","2021","Gina Oaks Garcia","SCIAC","0-0-0","  NaN"
+"6","2020","Gina Oaks Garcia","SCIAC","7-10-0","0.412"
+"7","2019","Gina Oaks Garcia","SCIAC","31-13-0","0.705"
+"8","2018","Gina Oaks Garcia","SCIAC","32-14-0","0.696"
+"9","2017","Betsy Hipple","SCIAC","22-20-0","0.524"
+"10","2016","Betsy Hipple","SCIAC","37-10-1","0.787"
+"11","2015","Betsy Hipple","SCIAC","27-14-0","0.659"
+"12","2014","Betsy Hipple","SCIAC","32-15-0","0.681"
+"13","2013","Betsy Hipple","SCIAC","33-13-0","0.717"
+"14","2012","Betsy Hipple","SCIAC","30-15-0","0.667"
+"15","2011","Betsy Hipple","SCIAC","35-12-0","0.745"
+"16","2010","Betsy Hipple","SCIAC","34-10-0","0.773"
+"17","2009","Betsy Hipple","SCIAC","28-16-0","0.636"
+"18","2008","Betsy Hipple","SCIAC","24-12-0","0.667"
+"19","2007","Betsy Hipple","SCIAC","14-25-0","0.359"
+"20","2006","Betsy Hipple","SCIAC","24-12-0","0.667"
+"21","2005","Andrea Kenney","SCIAC","16-19-0","0.457"
+"22","2004","Andrea Kenney","SCIAC","25-9-0","0.735"
+"23","2003","Andrea Kenney","SCIAC","19-20-0","0.487"
+"24","2002","Andrea Kenney","SCIAC","14-25-0","0.359"
+"25","2001","Andrea Kenney","-","15-21-1","0.417"
+"26","2000","Cheryl Coronado","-","17-16-0","0.515"

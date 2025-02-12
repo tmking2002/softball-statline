@@ -1,47 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Heather Ross","NEWMAC","0-0-0",0
-"2","2024","Heather Ross","NEWMAC","23-19-1",0.547
-"3","2023","Heather Ross","NEWMAC","20-20-0",0.5
-"4","2022","Heather Ross","NEWMAC","35-17-0",0.673
-"5","2021","Whitney Goldstein","NEWMAC","10-6-0",0.625
-"6","2020","Whitney Goldstein","NEWMAC","3-1-0",0.75
-"7","2019","Whitney Goldstein","NEWMAC","33-11-0",0.75
-"8","2018","Whitney Goldstein","NEWMAC","29-13-0",0.69
-"9","2017","Whitney Goldstein","NEWMAC","29-13-0",0.69
-"10","2016","Whitney Goldstein","NEWMAC","38-9-0",0.809
-"11","2015","Whitney Goldstein","NEWMAC","34-11-0",0.756
-"12","2014","Whitney Goldstein","NEWMAC","30-14-0",0.682
-"13","2013","George Legacy","NEWMAC","11-23-0",0.324
-"14","2012","George Legacy","NEWMAC","24-16-0",0.6
-"15","2011","George Legacy","NEWMAC","21-18-0",0.538
-"16","2010","George Legacy","NEWMAC","15-20-0",0.429
-"17","2009","George Legacy","NEWMAC","16-23-0",0.41
-"18","2008","George Legacy","NEWMAC","14-20-0",0.412
-"19","2007","Johanna DiCarlo","NEWMAC","16-14-0",0.533
-"20","2006","Johanna DiCarlo","NEWMAC","23-14-0",0.622
-"21","2005","Johanna DiCarlo","NEWMAC","20-15-1",0.569
-"22","2004","Johanna DiCarlo","NEWMAC","11-20-0",0.355
-"23","2003","Barbara A. Quinn","NEWMAC","0-26-0",0
-"24","2002","Barbara A. Quinn","NEWMAC","0-17-0",0
-"25","2001","Barbara A. Quinn","-","NA-NA-0",NA
-"26","1900","Barbara A. Quinn","-","3-19-0",0.136
-"27","1999","Barbara A. Quinn","-","7-20-0",0.259
-"28","1998","Barbara A. Quinn","-","1-18-0",0.053
-"29","1997","Barbara A. Quinn","-","5-21-0",0.192
-"30","1996","Barbara A. Quinn","-","7-13-0",0.35
-"31","1995","Barbara A. Quinn","-","11-18-0",0.379
-"32","1994","","-","NA-NA-0",NA
-"33","1993","","-","NA-NA-0",NA
-"34","1992","Karen Frey","-","12-7-0",0.632
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
-"37","1989","","-","NA-NA-0",NA
-"38","1988","","-","NA-NA-0",NA
-"39","1987","","-","NA-NA-0",NA
-"40","1986","","-","NA-NA-0",NA
-"41","1985","Lynne Olson","-","8-10-0",0.444
-"42","1984","Lynne Olson","-","6-7-0",0.462
-"43","1983","Lynne Olson","-","27-15-0",0.643
-"44","1982","Lynne Olson","-","10-7-0",0.588
-"45","1981","Lynne Olson","-","1-1-0",0.5
-"46","1980","Lynne Olson","-","1-1-0",0.5
+"1","2025","Heather Ross","NEWMAC","0-0-0","  NaN"
+"2","2024","Heather Ross","NEWMAC","23-19-1","0.548"
+"3","2023","Heather Ross","NEWMAC","20-20-0","0.500"
+"4","2022","Heather Ross","NEWMAC","35-17-0","0.673"
+"5","2021","Whitney Goldstein","NEWMAC","10-6-0","0.625"
+"6","2020","Whitney Goldstein","NEWMAC","3-1-0","0.750"
+"7","2019","Whitney Goldstein","NEWMAC","33-11-0","0.750"
+"8","2018","Whitney Goldstein","NEWMAC","29-13-0","0.690"
+"9","2017","Whitney Goldstein","NEWMAC","29-13-0","0.690"
+"10","2016","Whitney Goldstein","NEWMAC","38-9-0","0.809"
+"11","2015","Whitney Goldstein","NEWMAC","34-11-0","0.756"
+"12","2014","Whitney Goldstein","NEWMAC","30-14-0","0.682"
+"13","2013","George Legacy","NEWMAC","11-23-0","0.324"
+"14","2012","George Legacy","NEWMAC","24-16-0","0.600"
+"15","2011","George Legacy","NEWMAC","21-18-0","0.538"
+"16","2010","George Legacy","NEWMAC","15-20-0","0.429"
+"17","2009","George Legacy","NEWMAC","16-23-0","0.410"
+"18","2008","George Legacy","NEWMAC","14-20-0","0.412"
+"19","2007","Johanna DiCarlo","NEWMAC","16-14-0","0.533"
+"20","2006","Johanna DiCarlo","NEWMAC","23-14-0","0.622"
+"21","2005","Johanna DiCarlo","NEWMAC","20-15-1","0.571"
+"22","2004","Johanna DiCarlo","NEWMAC","11-20-0","0.355"
+"23","2003","Barbara A. Quinn","NEWMAC","0-26-0","0.000"
+"24","2002","Barbara A. Quinn","NEWMAC","0-17-0","0.000"
+"25","2000","Barbara A. Quinn","-","3-19-0","0.136"
+"26","1999","Barbara A. Quinn","-","7-20-0","0.259"
+"27","1998","Barbara A. Quinn","-","1-18-0","0.053"
+"28","1997","Barbara A. Quinn","-","5-21-0","0.192"
+"29","1996","Barbara A. Quinn","-","7-13-0","0.350"
+"30","1995","Barbara A. Quinn","-","11-18-0","0.379"
+"31","1992","Karen Frey","-","12-7-0","0.632"
+"32","1985","Lynne Olson","-","8-10-0","0.444"
+"33","1984","Lynne Olson","-","6-7-0","0.462"
+"34","1983","Lynne Olson","-","27-15-0","0.643"
+"35","1982","Lynne Olson","-","10-7-0","0.588"
+"36","1981","Lynne Olson","-","1-1-0","0.500"
+"37","1980","Lynne Olson","-","1-1-0","0.500"
