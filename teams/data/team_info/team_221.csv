@@ -1,47 +1,47 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Bridget Rafter","MAC Freedom","0-0-0","  NaN"
-"2","2024","Bridget Rafter","MAC Freedom","18-18-0","0.500"
-"3","2023","Bridget Rafter","MAC Freedom","15-16-0","0.484"
-"4","2022","Bridget Rafter","MAC Freedom","12-15-0","0.444"
-"5","2021","Bridget Rafter","MAC Freedom","5-18-0","0.217"
-"6","2020","Dante Fedeli","MAC Freedom","0-12-0","0.000"
-"7","2019","Dante Fedeli","MAC Freedom","15-19-1","0.441"
-"8","2018","Dante Fedeli","MAC Freedom","19-18-0","0.514"
-"9","2017","Dante Fedeli","MAC Freedom","13-22-0","0.371"
-"10","2016","Dante Fedeli","MAC Freedom","21-17-0","0.553"
-"11","2015","Dante Fedeli","MAC Freedom","11-23-0","0.324"
-"12","2014","Dante Fedeli","MAC Freedom","18-18-0","0.500"
-"13","2013","Dante Fedeli","MAC Freedom","22-21-0","0.512"
-"14","2012","Dante Fedeli","MAC Freedom","14-19-0","0.424"
-"15","2011","Dante Fedeli","MAC Freedom","14-19-0","0.424"
-"16","2010","Dante Fedeli","MAC Freedom","13-23-0","0.361"
-"17","2009","Dante Fedeli","MAC Freedom","18-16-0","0.529"
-"18","2008","Dante Fedeli","MAC Freedom","29-18-0","0.617"
-"19","2007","Dante Fedeli","MAC Freedom","21-19-0","0.525"
-"20","2006","Dante Fedeli","MAC Freedom","21-17-0","0.553"
-"21","2005","Dante Fedeli","MAC Freedom","22-19-0","0.537"
-"22","2004","Dante Fedeli","MAC Freedom","13-19-0","0.406"
-"23","2003","Dante Fedeli","MAC Freedom","11-22-0","0.333"
-"24","2002","Dante Fedeli","MAC Freedom","14-24-0","0.368"
-"25","2001","Dante Fedeli","-","16-22-0","0.421"
-"26","2000","Dante Fedeli","-","16-21-0","0.432"
-"27","1999","Dawn Politz","-","22-14-0","0.611"
-"28","1998","Dawn Politz","-","27-11-0","0.711"
-"29","1997","Kathy Perri","-","20-16-0","0.556"
-"30","1996","Kathy Perri","-","11-15-0","0.423"
-"31","1995","Sharon Feeney","-","11-18-0","0.379"
-"32","1994","Hallie Cohen","-","14-17-0","0.452"
-"33","1993","Hallie Cohen","-","7-11-1","0.389"
-"34","1992","Hallie Cohen","-","15-14-0","0.517"
-"35","1991","Hallie Cohen","-","14-15-0","0.483"
-"36","1990","Hallie Cohen","-","21-15-0","0.583"
-"37","1989","Hallie Cohen","-","14-8-0","0.636"
-"38","1988","Hallie Cohen","-","20-16-0","0.556"
-"39","1987","Hallie Cohen","-","20-12-0","0.625"
-"40","1986","Hallie Cohen","-","16-10-0","0.615"
-"41","1985","Hallie Cohen","-","17-8-0","0.680"
-"42","1984","Hallie Cohen","-","9-7-0","0.562"
-"43","1983","Hallie Cohen","-","9-5-0","0.643"
-"44","1982","Hallie Cohen","-","10-3-0","0.769"
-"45","1981","Hallie Cohen","-","4-8-0","0.333"
-"46","1980","Hallie Cohen","-","5-6-0","0.455"
+"1","2025","Bridget Rafter","MAC Freedom","0-0-0",0
+"2","2024","Bridget Rafter","MAC Freedom","18-18-0",0.5
+"3","2023","Bridget Rafter","MAC Freedom","15-16-0",0.484
+"4","2022","Bridget Rafter","MAC Freedom","12-15-0",0.444
+"5","2021","Bridget Rafter","MAC Freedom","5-18-0",0.217
+"6","2020","Dante Fedeli","MAC Freedom","0-12-0",0
+"7","2019","Dante Fedeli","MAC Freedom","15-19-1",0.443
+"8","2018","Dante Fedeli","MAC Freedom","19-18-0",0.514
+"9","2017","Dante Fedeli","MAC Freedom","13-22-0",0.371
+"10","2016","Dante Fedeli","MAC Freedom","21-17-0",0.553
+"11","2015","Dante Fedeli","MAC Freedom","11-23-0",0.324
+"12","2014","Dante Fedeli","MAC Freedom","18-18-0",0.5
+"13","2013","Dante Fedeli","MAC Freedom","22-21-0",0.512
+"14","2012","Dante Fedeli","MAC Freedom","14-19-0",0.424
+"15","2011","Dante Fedeli","MAC Freedom","14-19-0",0.424
+"16","2010","Dante Fedeli","MAC Freedom","13-23-0",0.361
+"17","2009","Dante Fedeli","MAC Freedom","18-16-0",0.529
+"18","2008","Dante Fedeli","MAC Freedom","29-18-0",0.617
+"19","2007","Dante Fedeli","MAC Freedom","21-19-0",0.525
+"20","2006","Dante Fedeli","MAC Freedom","21-17-0",0.553
+"21","2005","Dante Fedeli","MAC Freedom","22-19-0",0.537
+"22","2004","Dante Fedeli","MAC Freedom","13-19-0",0.406
+"23","2003","Dante Fedeli","MAC Freedom","11-22-0",0.333
+"24","2002","Dante Fedeli","MAC Freedom","14-24-0",0.368
+"25","2001","Dante Fedeli","-","16-22-0",0.421
+"26","1900","Dante Fedeli","-","16-21-0",0.432
+"27","1999","Dawn Politz","-","22-14-0",0.611
+"28","1998","Dawn Politz","-","27-11-0",0.711
+"29","1997","Kathy Perri","-","20-16-0",0.556
+"30","1996","Kathy Perri","-","11-15-0",0.423
+"31","1995","Sharon Feeney","-","11-18-0",0.379
+"32","1994","Hallie Cohen","-","14-17-0",0.452
+"33","1993","Hallie Cohen","-","7-11-1",0.395
+"34","1992","Hallie Cohen","-","15-14-0",0.517
+"35","1991","Hallie Cohen","-","14-15-0",0.483
+"36","1990","Hallie Cohen","-","21-15-0",0.583
+"37","1989","Hallie Cohen","-","14-8-0",0.636
+"38","1988","Hallie Cohen","-","20-16-0",0.556
+"39","1987","Hallie Cohen","-","20-12-0",0.625
+"40","1986","Hallie Cohen","-","16-10-0",0.615
+"41","1985","Hallie Cohen","-","17-8-0",0.68
+"42","1984","Hallie Cohen","-","9-7-0",0.563
+"43","1983","Hallie Cohen","-","9-5-0",0.643
+"44","1982","Hallie Cohen","-","10-3-0",0.769
+"45","1981","Hallie Cohen","-","4-8-0",0.333
+"46","1980","Hallie Cohen","-","5-6-0",0.455

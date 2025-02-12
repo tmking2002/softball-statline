@@ -1,33 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Monte Sherrill","USA South","0-0-0","  NaN"
-"2","2024","Monte Sherrill","USA South","45-4-0","0.918"
-"3","2023","Monte Sherrill","USA South","35-13-0","0.729"
-"4","2022","Monte Sherrill","USA South","34-10-0","0.773"
-"5","2021","Monte Sherrill","USA South","20-12-0","0.625"
-"6","2020","Monte Sherrill","USA South","16-1-0","0.941"
-"7","2019","Monte Sherrill","USA South","36-7-0","0.837"
-"8","2018","Monte Sherrill","USA South","37-5-0","0.881"
-"9","2017","Monte Sherrill","Conference Carolinas","46-8-0","0.852"
-"10","2016","Monte Sherrill","Conference Carolinas","39-17-0","0.696"
-"11","2015","Chris Vullo","Conference Carolinas","27-22-0","0.551"
-"12","2014","Chris Vullo","Conference Carolinas","17-25-1","0.405"
-"13","2013","Chris Vullo","Conference Carolinas","21-34-0","0.382"
-"14","2012","Amy Yates","Conference Carolinas","18-35-0","0.340"
-"15","2011","Amy Yates","Conference Carolinas","20-30-0","0.400"
-"16","2010","Jessica Clack","Conference Carolinas","21-29-0","0.420"
-"17","2009","Todd Bradley","Conference Carolinas","26-17-0","0.605"
-"18","2008","Todd Bradley","Conference Carolinas","30-23-0","0.566"
-"19","2007","Todd Bradley","Conference Carolinas","27-27-0","0.500"
-"20","2006","","Conference Carolinas","17-37-0","0.315"
-"21","2005","","Conference Carolinas","17-35-0","0.327"
-"22","2004","","Conference Carolinas","15-32-3","0.319"
-"23","2003","","Conference Carolinas","15-26-0","0.366"
-"24","1998","Angie Morton","-","19-27-0","0.413"
-"25","1997","Angie Morton","-","12-27-0","0.308"
-"26","1996","Jack Ingram","-","16-13-0","0.552"
-"27","1995","Angie Elwood","-","12-20-0","0.375"
-"28","1994","Angie Elwood","-","14-17-0","0.452"
-"29","1993","Angie Elwood","-","13-16-0","0.448"
-"30","1992","Jack Ingram","-","14-16-0","0.467"
-"31","1991","Jack Ingram","-","14-14-0","0.500"
-"32","1990","Jack Ingram","-","16-14-0","0.533"
+"1","2025","Monte Sherrill","USA South","0-0-0",0
+"2","2024","Monte Sherrill","USA South","45-4-0",0.918
+"3","2023","Monte Sherrill","USA South","35-13-0",0.729
+"4","2022","Monte Sherrill","USA South","34-10-0",0.773
+"5","2021","Monte Sherrill","USA South","20-12-0",0.625
+"6","2020","Monte Sherrill","USA South","16-1-0",0.941
+"7","2019","Monte Sherrill","USA South","36-7-0",0.837
+"8","2018","Monte Sherrill","USA South","37-5-0",0.881
+"9","2017","Monte Sherrill","Conference Carolinas","46-8-0",0.852
+"10","2016","Monte Sherrill","Conference Carolinas","39-17-0",0.696
+"11","2015","Chris Vullo","Conference Carolinas","27-22-0",0.551
+"12","2014","Chris Vullo","Conference Carolinas","17-25-1",0.407
+"13","2013","Chris Vullo","Conference Carolinas","21-34-0",0.382
+"14","2012","Amy Yates","Conference Carolinas","18-35-0",0.34
+"15","2011","Amy Yates","Conference Carolinas","20-30-0",0.4
+"16","2010","Jessica Clack","Conference Carolinas","21-29-0",0.42
+"17","2009","Todd Bradley","Conference Carolinas","26-17-0",0.605
+"18","2008","Todd Bradley","Conference Carolinas","30-23-0",0.566
+"19","2007","Todd Bradley","Conference Carolinas","27-27-0",0.5
+"20","2006","","Conference Carolinas","17-37-0",0.315
+"21","2005","","Conference Carolinas","17-35-0",0.327
+"22","2004","","Conference Carolinas","15-32-3",0.33
+"23","2003","","Conference Carolinas","15-26-0",0.366
+"24","2002","","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","Angie Morton","-","19-27-0",0.413
+"29","1997","Angie Morton","-","12-27-0",0.308
+"30","1996","Jack Ingram","-","16-13-0",0.552
+"31","1995","Angie Elwood","-","12-20-0",0.375
+"32","1994","Angie Elwood","-","14-17-0",0.452
+"33","1993","Angie Elwood","-","13-16-0",0.448
+"34","1992","Jack Ingram","-","14-16-0",0.467
+"35","1991","Jack Ingram","-","14-14-0",0.5
+"36","1990","Jack Ingram","-","16-14-0",0.533

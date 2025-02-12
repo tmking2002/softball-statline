@@ -1,38 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Mairin Dudek","CNE","0-0-0","  NaN"
-"2","2024","Mairin Dudek","DIII Independent","25-9-1","0.735"
-"3","2023","Mairin Dudek","DI Independent","16-16-0","0.500"
-"4","2022","Mairin Dudek","America East","17-32-0","0.347"
-"5","2021","Angie Churchill","America East","6-13-0","0.316"
-"6","2020","Angie Churchill","America East","6-4-0","0.600"
-"7","2019","Angie Churchill","America East","20-31-0","0.392"
-"8","2018","Angie Churchill","America East","10-32-0","0.238"
-"9","2017","Sarah Kalka","America East","4-45-0","0.082"
-"10","2016","Sarah Kalka","America East","6-45-0","0.118"
-"11","2015","Sarah Kalka","America East","3-43-0","0.065"
-"12","2014","Diana Consolmagno","America East","8-30-0","0.211"
-"13","2013","Diana Consolmagno","America East","21-34-0","0.382"
-"14","2012","Diana Consolmagno","America East","10-43-0","0.189"
-"15","2011","Diana Consolmagno","America East","10-34-0","0.227"
-"16","2010","Todd Randall","America East","16-24-0","0.400"
-"17","2009","Todd Randall","America East","19-22-0","0.463"
-"18","2008","Todd Randall","America East","21-20-0","0.512"
-"19","2007","Todd Randall","America East","23-27-0","0.460"
-"20","2006","Todd Randall","America East","17-24-0","0.415"
-"21","2005","Todd Randall","America East","17-18-0","0.486"
-"22","2004","Todd Randall","America East","14-24-0","0.368"
-"23","2003","Todd Randall","America East","7-26-0","0.212"
-"24","2002","Todd Randall","America East","24-15-1","0.615"
-"25","2001","Todd Randall","America East","16-22-0","0.421"
-"26","2000","Todd Randall","America East","12-30-0","0.286"
-"27","1999","Todd Randall","America East","21-24-0","0.467"
-"28","1998","Todd Randall","-","17-22-1","0.436"
-"29","1997","Todd Randall","America East","12-24-0","0.333"
-"30","1996","Trish Wodatch","-","12-23-1","0.343"
-"31","1995","Trish Wodatch","-","28-18-1","0.609"
-"32","1994","Trish Wodatch","-","27-17-0","0.614"
-"33","1993","Trish Wodatch","-","9-24-0","0.273"
-"34","1992","Trish Wodatch","-","21-18-0","0.538"
-"35","1991","Irene Mach","-","5-23-1","0.179"
-"36","1990","Irene Mach","-","10-22-0","0.312"
-"37","1989","Irene Mach","-","9-16-0","0.360"
+"1","2025","Mairin Dudek","CNE","0-0-0",0
+"2","2024","Mairin Dudek","DIII Independent","25-9-1",0.729
+"3","2023","Mairin Dudek","DI Independent","16-16-0",0.5
+"4","2022","Mairin Dudek","America East","17-32-0",0.347
+"5","2021","Angie Churchill","America East","6-13-0",0.316
+"6","2020","Angie Churchill","America East","6-4-0",0.6
+"7","2019","Angie Churchill","America East","20-31-0",0.392
+"8","2018","Angie Churchill","America East","10-32-0",0.238
+"9","2017","Sarah Kalka","America East","4-45-0",0.082
+"10","2016","Sarah Kalka","America East","6-45-0",0.118
+"11","2015","Sarah Kalka","America East","3-43-0",0.065
+"12","2014","Diana Consolmagno","America East","8-30-0",0.211
+"13","2013","Diana Consolmagno","America East","21-34-0",0.382
+"14","2012","Diana Consolmagno","America East","10-43-0",0.189
+"15","2011","Diana Consolmagno","America East","10-34-0",0.227
+"16","2010","Todd Randall","America East","16-24-0",0.4
+"17","2009","Todd Randall","America East","19-22-0",0.463
+"18","2008","Todd Randall","America East","21-20-0",0.512
+"19","2007","Todd Randall","America East","23-27-0",0.46
+"20","2006","Todd Randall","America East","17-24-0",0.415
+"21","2005","Todd Randall","America East","17-18-0",0.486
+"22","2004","Todd Randall","America East","14-24-0",0.368
+"23","2003","Todd Randall","America East","7-26-0",0.212
+"24","2002","Todd Randall","America East","24-15-1",0.613
+"25","2001","Todd Randall","America East","16-22-0",0.421
+"26","1900","Todd Randall","America East","12-30-0",0.286
+"27","1999","Todd Randall","America East","21-24-0",0.467
+"28","1998","Todd Randall","-","17-22-1",0.438
+"29","1997","Todd Randall","America East","12-24-0",0.333
+"30","1996","Trish Wodatch","-","12-23-1",0.347
+"31","1995","Trish Wodatch","-","28-18-1",0.606
+"32","1994","Trish Wodatch","-","27-17-0",0.614
+"33","1993","Trish Wodatch","-","9-24-0",0.273
+"34","1992","Trish Wodatch","-","21-18-0",0.538
+"35","1991","Irene Mach","-","5-23-1",0.19
+"36","1990","Irene Mach","-","10-22-0",0.313
+"37","1989","Irene Mach","-","9-16-0",0.36
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1983","","-","NA-NA-0",NA
+"43","1982","","-","NA-NA-0",NA

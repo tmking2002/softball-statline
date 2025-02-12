@@ -1,16 +1,21 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Billy Manley","North Atlantic","0-0-0","  NaN"
-"2","2024","Kaitlin Thibodeau-Corey","North Atlantic","4-21-0","0.160"
-"3","2023","Alissa Edwards","North Atlantic","13-22-0","0.371"
-"4","2022","Alissa Edwards","North Atlantic","5-25-0","0.167"
-"5","2021","Alissa Edwards","North Atlantic","14-11-0","0.560"
-"6","2019","Sara Shaw","North Atlantic","18-15-0","0.545"
-"7","2018","Sara Shaw","ACAA","22-12-0","0.647"
-"8","2017","Sara Shaw","-","22-16-0","0.579"
-"9","2016","Sara Shaw","-","18-15-0","0.545"
-"10","2015","Sara Shaw","Great South","9-15-0","0.375"
-"11","2014","Peter Coffin","Great South","4-20-0","0.167"
-"12","2013","Peter Coffin","-","5-22-0","0.185"
-"13","2012","Peter Coffin","Division III Independents","13-21-0","0.382"
-"14","2010","Terry Cummings","Division III Independents","9-24-0","0.273"
-"15","2008","","-","3-15-0","0.167"
+"1","2025","Billy Manley","North Atlantic","0-0-0",0
+"2","2024","Kaitlin Thibodeau-Corey","North Atlantic","4-21-0",0.16
+"3","2023","Alissa Edwards","North Atlantic","13-22-0",0.371
+"4","2022","Alissa Edwards","North Atlantic","5-25-0",0.167
+"5","2021","Alissa Edwards","North Atlantic","14-11-0",0.56
+"6","2020","Alissa Edwards","North Atlantic","NA-NA-0",0
+"7","2019","Sara Shaw","North Atlantic","18-15-0",0.545
+"8","2018","Sara Shaw","ACAA","22-12-0",0.647
+"9","2017","Sara Shaw","-","22-16-0",0.579
+"10","2016","Sara Shaw","-","18-15-0",0.545
+"11","2015","Sara Shaw","Great South","9-15-0",0.375
+"12","2014","Peter Coffin","Great South","4-20-0",0.167
+"13","2013","Peter Coffin","-","5-22-0",0.185
+"14","2012","Peter Coffin","Division III Independents","13-21-0",0.382
+"15","2011","Terry Cummings","Division III Independents","NA-NA-0",NA
+"16","2010","Terry Cummings","Division III Independents","9-24-0",0.273
+"17","2009","","-","NA-NA-0",NA
+"18","2008","","-","3-15-0",0.167
+"19","2007","","-","NA-NA-0",NA
+"20","2006","","-","NA-NA-0",NA

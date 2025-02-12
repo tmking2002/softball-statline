@@ -1,28 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Brian Daley","SWAC","0-0-0","  NaN"
-"2","2024","Ray Foreman","SWAC","9-27-0","0.250"
-"3","2023","Cassandra Brown","SWAC","22-19-0","0.537"
-"4","2022","Cassandra Brown","SWAC","16-24-0","0.400"
-"5","2021","Cassandra Brown","SWAC","11-19-0","0.367"
-"6","2020","Cassandra Brown","SWAC","2-11-0","0.154"
-"7","2019","Cassandra Brown","SWAC","23-19-0","0.548"
-"8","2018","Nakeya Hall","SWAC","22-21-1","0.512"
-"9","2017","Nakeya Hall","SWAC","17-31-0","0.354"
-"10","2016","Nedra Brown","SWAC","12-35-0","0.255"
-"11","2015","Nedra Brown","SWAC","18-24-1","0.429"
-"12","2014","Nedra Brown","-","0-33-0","0.000"
-"13","2013","Nedra Brown","SWAC","0-27-0","0.000"
-"14","2012","Nedra Brown","SWAC","0-27-0","0.000"
-"15","2011","Nedra Brown","SWAC","4-26-0","0.133"
-"16","2010","Nedra Brown","SWAC","8-25-0","0.242"
-"17","2009","Nedra Brown","SWAC","12-23-1","0.343"
-"18","2008","Nedra Brown","SWAC","11-22-0","0.333"
-"19","2007","Diana Kendrick","SWAC","13-33-0","0.283"
-"20","2006","Diana Kendrick","SWAC","13-33-0","0.283"
-"21","2005","Diana Kendrick","SWAC","26-26-0","0.500"
-"22","2004","Audrianna Johnson","SWAC","24-39-0","0.381"
-"23","2003","Audrianna Johnson","SWAC","29-31-0","0.483"
-"24","2002","Audrianna Johnson","SWAC","35-20-0","0.636"
-"25","2001","","SWAC","28-22-0","0.560"
-"26","2000","Audrianna Johnson","SWAC","31-16-0","0.660"
-"27","1999","Carolyn Palmer","-","22-28-0","0.440"
+"1","2025","Brian Daley","SWAC","0-0-0",0
+"2","2024","Ray Foreman","SWAC","9-27-0",0.25
+"3","2023","Cassandra Brown","SWAC","22-19-0",0.537
+"4","2022","Cassandra Brown","SWAC","16-24-0",0.4
+"5","2021","Cassandra Brown","SWAC","11-19-0",0.367
+"6","2020","Cassandra Brown","SWAC","2-11-0",0.154
+"7","2019","Cassandra Brown","SWAC","23-19-0",0.548
+"8","2018","Nakeya Hall","SWAC","22-21-1",0.511
+"9","2017","Nakeya Hall","SWAC","17-31-0",0.354
+"10","2016","Nedra Brown","SWAC","12-35-0",0.255
+"11","2015","Nedra Brown","SWAC","18-24-1",0.43
+"12","2014","Nedra Brown","-","0-33-0",0
+"13","2013","Nedra Brown","SWAC","0-27-0",0
+"14","2012","Nedra Brown","SWAC","0-27-0",0
+"15","2011","Nedra Brown","SWAC","4-26-0",0.133
+"16","2010","Nedra Brown","SWAC","8-25-0",0.242
+"17","2009","Nedra Brown","SWAC","12-23-1",0.347
+"18","2008","Nedra Brown","SWAC","11-22-0",0.333
+"19","2007","Diana Kendrick","SWAC","13-33-0",0.283
+"20","2006","Diana Kendrick","SWAC","13-33-0",0.283
+"21","2005","Diana Kendrick","SWAC","26-26-0",0.5
+"22","2004","Audrianna Johnson","SWAC","24-39-0",0.381
+"23","2003","Audrianna Johnson","SWAC","29-31-0",0.483
+"24","2002","Audrianna Johnson","SWAC","35-20-0",0.636
+"25","2001","","SWAC","28-22-0",0.56
+"26","1900","Audrianna Johnson","SWAC","31-16-0",0.66
+"27","1999","Carolyn Palmer","-","22-28-0",0.44
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA

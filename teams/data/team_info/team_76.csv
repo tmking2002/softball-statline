@@ -1,43 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Carrie Consalvi","MASCAC","0-0-0","  NaN"
-"2","2024","Carrie Consalvi","MASCAC","19-20-0","0.487"
-"3","2023","Carrie Consalvi","MASCAC","15-27-1","0.357"
-"4","2022","Lindsey Couturier","MASCAC","23-16-1","0.590"
-"5","2021","Lindsey Couturier","MASCAC","17-11-1","0.607"
-"6","2020","Lindsey Couturier","MASCAC","4-8-0","0.333"
-"7","2019","Lindsey Couturier","MASCAC","20-21-0","0.488"
-"8","2018","Lindsey Couturier","MASCAC","18-19-0","0.486"
-"9","2017","Chrissy Semler","MASCAC","15-20-0","0.429"
-"10","2016","Chrissy Semler","MASCAC","25-15-0","0.625"
-"11","2015","Chrissy Semler","MASCAC","20-16-0","0.556"
-"12","2014","Chrissy Semler","MASCAC","32-14-0","0.696"
-"13","2013","Lori Salvia","MASCAC","26-17-0","0.605"
-"14","2012","Lori Salvia","MASCAC","29-13-0","0.690"
-"15","2011","Lori Salvia","MASCAC","18-23-0","0.439"
-"16","2010","Lori Salvia","MASCAC","21-21-0","0.500"
-"17","2009","Lori Salvia","MASCAC","28-11-0","0.718"
-"18","2008","Lori Salvia","MASCAC","26-17-0","0.605"
-"19","2007","Janet Maguire","MASCAC","22-20-1","0.524"
-"20","2006","Janet Maguire","MASCAC","26-21-0","0.553"
-"21","2005","Janet Maguire","MASCAC","23-17-0","0.575"
-"22","2004","Janet Maguire","MASCAC","24-18-0","0.571"
-"23","2003","Janet Maguire","MASCAC","18-20-0","0.474"
-"24","2002","Janet Maguire","MASCAC","28-14-1","0.667"
-"25","2001","Janet Maguire","-","34-12-0","0.739"
-"26","2000","Dee Dee Enabenter-Omidiji","-","36-10-1","0.783"
-"27","1999","Dee Dee Enabenter-Omidiji","-","38-9-0","0.809"
-"28","1998","Dee Dee Enabenter-Omidiji","-","35-11-0","0.761"
-"29","1997","Dee Dee Enabenter-Omidiji","-","23-17-0","0.575"
-"30","1996","Dee Dee Enabenter-Omidiji","-","33-5-0","0.868"
-"31","1995","Dee Dee Enabenter-Omidiji","-","21-20-0","0.512"
-"32","1994","Dee Dee Enabenter-Omidiji","-","39-8-0","0.830"
-"33","1993","Dee Dee Enabenter-Omidiji","-","27-10-0","0.730"
-"34","1992","Deb Carreiro","-","18-12-0","0.600"
-"35","1991","Dee Dee Enabenter-Omidiji","-","22-7-0","0.759"
-"36","1990","Dee Dee Enabenter-Omidiji","-","23-6-0","0.793"
-"37","1989","Dee Dee Enabenter-Omidiji","-","25-8-0","0.758"
-"38","1988","Dee Dee Enabenter-Omidiji","-","26-8-1","0.765"
-"39","1987","Dee Dee Enabenter-Omidiji","-","18-10-0","0.643"
-"40","1986","Dee Dee Enabenter-Omidiji","-","21-7-0","0.750"
-"41","1985","Dee Dee Enabenter-Omidiji","-","21-11-0","0.656"
-"42","1984","Dee Dee Enabenter-Omidiji","-","21-6-1","0.778"
+"1","2025","Carrie Consalvi","MASCAC","0-0-0",0
+"2","2024","Carrie Consalvi","MASCAC","19-20-0",0.487
+"3","2023","Carrie Consalvi","MASCAC","15-27-1",0.36
+"4","2022","Lindsey Couturier","MASCAC","23-16-1",0.588
+"5","2021","Lindsey Couturier","MASCAC","17-11-1",0.603
+"6","2020","Lindsey Couturier","MASCAC","4-8-0",0.333
+"7","2019","Lindsey Couturier","MASCAC","20-21-0",0.488
+"8","2018","Lindsey Couturier","MASCAC","18-19-0",0.486
+"9","2017","Chrissy Semler","MASCAC","15-20-0",0.429
+"10","2016","Chrissy Semler","MASCAC","25-15-0",0.625
+"11","2015","Chrissy Semler","MASCAC","20-16-0",0.556
+"12","2014","Chrissy Semler","MASCAC","32-14-0",0.696
+"13","2013","Lori Salvia","MASCAC","26-17-0",0.605
+"14","2012","Lori Salvia","MASCAC","29-13-0",0.69
+"15","2011","Lori Salvia","MASCAC","18-23-0",0.439
+"16","2010","Lori Salvia","MASCAC","21-21-0",0.5
+"17","2009","Lori Salvia","MASCAC","28-11-0",0.718
+"18","2008","Lori Salvia","MASCAC","26-17-0",0.605
+"19","2007","Janet Maguire","MASCAC","22-20-1",0.523
+"20","2006","Janet Maguire","MASCAC","26-21-0",0.553
+"21","2005","Janet Maguire","MASCAC","23-17-0",0.575
+"22","2004","Janet Maguire","MASCAC","24-18-0",0.571
+"23","2003","Janet Maguire","MASCAC","18-20-0",0.474
+"24","2002","Janet Maguire","MASCAC","28-14-1",0.663
+"25","2001","Janet Maguire","-","34-12-0",0.739
+"26","1900","Dee Dee Enabenter-Omidiji","-","36-10-1",0.777
+"27","1999","Dee Dee Enabenter-Omidiji","-","38-9-0",0.809
+"28","1998","Dee Dee Enabenter-Omidiji","-","35-11-0",0.761
+"29","1997","Dee Dee Enabenter-Omidiji","-","23-17-0",0.575
+"30","1996","Dee Dee Enabenter-Omidiji","-","33-5-0",0.868
+"31","1995","Dee Dee Enabenter-Omidiji","-","21-20-0",0.512
+"32","1994","Dee Dee Enabenter-Omidiji","-","39-8-0",0.83
+"33","1993","Dee Dee Enabenter-Omidiji","-","27-10-0",0.73
+"34","1992","Deb Carreiro","-","18-12-0",0.6
+"35","1991","Dee Dee Enabenter-Omidiji","-","22-7-0",0.759
+"36","1990","Dee Dee Enabenter-Omidiji","-","23-6-0",0.793
+"37","1989","Dee Dee Enabenter-Omidiji","-","25-8-0",0.758
+"38","1988","Dee Dee Enabenter-Omidiji","-","26-8-1",0.757
+"39","1987","Dee Dee Enabenter-Omidiji","-","18-10-0",0.643
+"40","1986","Dee Dee Enabenter-Omidiji","-","21-7-0",0.75
+"41","1985","Dee Dee Enabenter-Omidiji","-","21-11-0",0.656
+"42","1984","Dee Dee Enabenter-Omidiji","-","21-6-1",0.768

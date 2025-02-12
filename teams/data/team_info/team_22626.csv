@@ -1,24 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Laura Leonetti","Great Northeast","0-0-0","  NaN"
-"2","2024","Jon Ladino","Great Northeast","22-20-0","0.524"
-"3","2023","Jon Ladino","Great Northeast","29-13-0","0.690"
-"4","2022","Jon Ladino","Great Northeast","39-8-0","0.830"
-"5","2021","Kim Camara-Harvey","Great Northeast","18-9-0","0.667"
-"6","2020","Kim Camara-Harvey","Great Northeast","4-6-0","0.400"
-"7","2019","Kim Camara-Harvey","Great Northeast","21-20-0","0.512"
-"8","2018","Kim Camara-Harvey","Great Northeast","32-13-0","0.711"
-"9","2017","Kim Camara-Harvey","Great Northeast","34-10-0","0.773"
-"10","2016","Kim Camara-Harvey","Great Northeast","32-12-0","0.727"
-"11","2015","Kim Camara-Harvey","Great Northeast","22-16-0","0.579"
-"12","2014","Virginia Cardozo","Great Northeast","28-11-0","0.718"
-"13","2013","Virginia Cardozo","Great Northeast","24-17-0","0.585"
-"14","2012","Virginia Cardozo","Great Northeast","28-16-0","0.636"
-"15","2011","Virginia Cardozo","Great Northeast","20-23-0","0.465"
-"16","2010","Laura Hutchison","Great Northeast","8-31-0","0.205"
-"17","2009","Laura Hutchison","Great Northeast","8-31-0","0.205"
-"18","2008","Laura Hutchison","Great Northeast","5-32-0","0.135"
-"19","2007","Laura Hutchison","Great Northeast","10-25-0","0.286"
-"20","2006","Lance Howlett","Great Northeast","10-26-0","0.278"
-"21","2005","Lance Howlett","Great Northeast","15-22-0","0.405"
-"22","2004","Lance Howlett","Great Northeast","13-25-0","0.342"
-"23","1998","Karen Fontes","-","5-20-0","0.200"
+"1","2025","Laura Leonetti","Great Northeast","0-0-0",0
+"2","2024","Jon Ladino","Great Northeast","22-20-0",0.524
+"3","2023","Jon Ladino","Great Northeast","29-13-0",0.69
+"4","2022","Jon Ladino","Great Northeast","39-8-0",0.83
+"5","2021","Kim Camara-Harvey","Great Northeast","18-9-0",0.667
+"6","2020","Kim Camara-Harvey","Great Northeast","4-6-0",0.4
+"7","2019","Kim Camara-Harvey","Great Northeast","21-20-0",0.512
+"8","2018","Kim Camara-Harvey","Great Northeast","32-13-0",0.711
+"9","2017","Kim Camara-Harvey","Great Northeast","34-10-0",0.773
+"10","2016","Kim Camara-Harvey","Great Northeast","32-12-0",0.727
+"11","2015","Kim Camara-Harvey","Great Northeast","22-16-0",0.579
+"12","2014","Virginia Cardozo","Great Northeast","28-11-0",0.718
+"13","2013","Virginia Cardozo","Great Northeast","24-17-0",0.585
+"14","2012","Virginia Cardozo","Great Northeast","28-16-0",0.636
+"15","2011","Virginia Cardozo","Great Northeast","20-23-0",0.465
+"16","2010","Laura Hutchison","Great Northeast","8-31-0",0.205
+"17","2009","Laura Hutchison","Great Northeast","8-31-0",0.205
+"18","2008","Laura Hutchison","Great Northeast","5-32-0",0.135
+"19","2007","Laura Hutchison","Great Northeast","10-25-0",0.286
+"20","2006","Lance Howlett","Great Northeast","10-26-0",0.278
+"21","2005","Lance Howlett","Great Northeast","15-22-0",0.405
+"22","2004","Lance Howlett","Great Northeast","13-25-0",0.342
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","2001","","-","NA-NA-0",NA
+"26","1900","","-","NA-NA-0",NA
+"27","1999","Betsy Gilmore","-","NA-NA-0",NA
+"28","1998","Karen Fontes","-","5-20-0",0.2
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1981","","-","NA-NA-0",NA

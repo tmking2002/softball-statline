@@ -1,36 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Tairia Flowers","WCC","1-1-0","0.500"
-"2","2024","Tairia Flowers","WCC","28-25-0","0.528"
-"3","2023","Tairia Flowers","WCC","28-22-0","0.560"
-"4","2022","Tairia Flowers","WCC","37-17-0","0.685"
-"5","2021","Tairia Flowers","WCC","22-21-0","0.512"
-"6","2020","Sami Strinz-Ward","WCC","12-10-0","0.545"
-"7","2019","Sami Strinz-Ward","WCC","40-21-0","0.656"
-"8","2018","Sami Strinz-Ward","WCC","34-24-1","0.586"
-"9","2017","Sami Strinz-Ward","WCC","20-31-0","0.392"
-"10","2016","Sami Strinz-Ward","WCC","32-21-0","0.604"
-"11","2015","Gary Ferrin","WCC","26-28-0","0.481"
-"12","2014","Gary Ferrin","WCC","20-27-0","0.426"
-"13","2013","Gary Ferrin","Pacific Coast Softball","33-23-0","0.589"
-"14","2012","Gary Ferrin","Pacific Coast Softball","32-21-0","0.604"
-"15","2011","Gary Ferrin","Pacific Coast Softball","32-27-0","0.542"
-"16","2010","Gary Ferrin","Pacific Coast Softball","22-26-0","0.458"
-"17","2009","Gary Ferrin","Pacific Coast Softball","24-30-0","0.444"
-"18","2008","Gary Ferrin","Pacific Coast Softball","38-18-0","0.679"
-"19","2007","Gary Ferrin","Pacific Coast Softball","47-18-0","0.723"
-"20","2006","Gary Ferrin","Pacific Coast Softball","29-24-0","0.547"
-"21","2005","Gary Ferrin","Pacific Coast Softball","34-20-0","0.630"
-"22","2004","Gary Ferrin","Pacific Coast Softball","33-13-0","0.717"
-"23","2003","Gary Ferrin","WAC","33-20-0","0.623"
-"24","2002","Gary Ferrin","WAC","38-34-0","0.528"
-"25","2001","Gary Ferrin","WAC","37-23-0","0.617"
-"26","2000","Gary Ferrin","-","35-27-0","0.565"
-"27","1999","Gary Ferrin","-","43-28-0","0.606"
-"28","1998","Gary Ferrin","-","26-31-0","0.456"
-"29","1997","Gary Ferrin","-","39-36-0","0.520"
-"30","1996","Gary Ferrin","-","44-27-0","0.620"
-"31","1995","Gary Ferrin","-","28-37-1","0.431"
-"32","1994","Steve Combs","-","11-30-0","0.268"
-"33","1993","Ed Aronin","-","8-20-0","0.286"
-"34","1992","Ed Aronin","-","3-17-0","0.150"
-"35","1991","Ed Aronin","-","6-24-0","0.200"
+"1","2025","Tairia Flowers","WCC","1-1-0",0.5
+"2","2024","Tairia Flowers","WCC","28-25-0",0.528
+"3","2023","Tairia Flowers","WCC","28-22-0",0.56
+"4","2022","Tairia Flowers","WCC","37-17-0",0.685
+"5","2021","Tairia Flowers","WCC","22-21-0",0.512
+"6","2020","Sami Strinz-Ward","WCC","12-10-0",0.545
+"7","2019","Sami Strinz-Ward","WCC","40-21-0",0.656
+"8","2018","Sami Strinz-Ward","WCC","34-24-1",0.585
+"9","2017","Sami Strinz-Ward","WCC","20-31-0",0.392
+"10","2016","Sami Strinz-Ward","WCC","32-21-0",0.604
+"11","2015","Gary Ferrin","WCC","26-28-0",0.481
+"12","2014","Gary Ferrin","WCC","20-27-0",0.426
+"13","2013","Gary Ferrin","Pacific Coast Softball","33-23-0",0.589
+"14","2012","Gary Ferrin","Pacific Coast Softball","32-21-0",0.604
+"15","2011","Gary Ferrin","Pacific Coast Softball","32-27-0",0.542
+"16","2010","Gary Ferrin","Pacific Coast Softball","22-26-0",0.458
+"17","2009","Gary Ferrin","Pacific Coast Softball","24-30-0",0.444
+"18","2008","Gary Ferrin","Pacific Coast Softball","38-18-0",0.679
+"19","2007","Gary Ferrin","Pacific Coast Softball","47-18-0",0.723
+"20","2006","Gary Ferrin","Pacific Coast Softball","29-24-0",0.547
+"21","2005","Gary Ferrin","Pacific Coast Softball","34-20-0",0.63
+"22","2004","Gary Ferrin","Pacific Coast Softball","33-13-0",0.717
+"23","2003","Gary Ferrin","WAC","33-20-0",0.623
+"24","2002","Gary Ferrin","WAC","38-34-0",0.528
+"25","2001","Gary Ferrin","WAC","37-23-0",0.617
+"26","1900","Gary Ferrin","-","35-27-0",0.565
+"27","1999","Gary Ferrin","-","43-28-0",0.606
+"28","1998","Gary Ferrin","-","26-31-0",0.456
+"29","1997","Gary Ferrin","-","39-36-0",0.52
+"30","1996","Gary Ferrin","-","44-27-0",0.62
+"31","1995","Gary Ferrin","-","28-37-1",0.432
+"32","1994","Steve Combs","-","11-30-0",0.268
+"33","1993","Ed Aronin","-","8-20-0",0.286
+"34","1992","Ed Aronin","-","3-17-0",0.15
+"35","1991","Ed Aronin","-","6-24-0",0.2
+"36","1986","","-","NA-NA-0",NA
+"37","1983","","-","NA-NA-0",NA

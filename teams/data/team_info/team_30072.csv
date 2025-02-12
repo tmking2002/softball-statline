@@ -1,25 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Dino Mastropierro","Skyline","0-0-0","  NaN"
-"2","2024","Dino Mastropierro","Skyline","23-14-0","0.622"
-"3","2023","Danielle Fazzolare","Skyline","25-14-0","0.641"
-"4","2022","Danielle Fazzolare","Skyline","24-14-0","0.632"
-"5","2021","Danielle Fazzolare","Skyline","17-10-0","0.630"
-"6","2020","Danielle Fazzolare","Skyline","6-6-0","0.500"
-"7","2019","Danielle Fazzolare","Skyline","16-20-0","0.444"
-"8","2018","Danielle Fazzolare","Skyline","12-19-0","0.387"
-"9","2017","Danielle Fazzolare","Skyline","18-12-0","0.600"
-"10","2016","Danielle Fazzolare","Skyline","9-16-0","0.360"
-"11","2015","Frank P. Carbone","-","23-20-0","0.535"
-"12","2014","Frank P. Carbone","-","17-16-0","0.515"
-"13","2013","Frank P. Carbone","-","15-17-1","0.469"
-"14","2012","Frank P. Carbone","Division III Independents","27-12-0","0.692"
-"15","2011","Frank P. Carbone","Division III Independents","26-9-0","0.743"
-"16","2010","Frank P. Carbone","Division III Independents","28-11-1","0.718"
-"17","2009","Frank P. Carbone","-","26-10-0","0.722"
-"18","2008","Frank P. Carbone","-","10-21-0","0.323"
-"19","2007","Frank P. Carbone","-","21-15-0","0.583"
-"20","2006","Frank P. Carbone","-","18-13-0","0.581"
-"21","2005","Frank P. Carbone","-","19-13-0","0.594"
-"22","2004","Frank P. Carbone","-","27-5-0","0.844"
-"23","2003","Frank P. Carbone","-","22-8-0","0.733"
-"24","2002","Frank P. Carbone","-","8-5-1","0.615"
+"1","2025","Dino Mastropierro","Skyline","0-0-0",0
+"2","2024","Dino Mastropierro","Skyline","23-14-0",0.622
+"3","2023","Danielle Fazzolare","Skyline","25-14-0",0.641
+"4","2022","Danielle Fazzolare","Skyline","24-14-0",0.632
+"5","2021","Danielle Fazzolare","Skyline","17-10-0",0.63
+"6","2020","Danielle Fazzolare","Skyline","6-6-0",0.5
+"7","2019","Danielle Fazzolare","Skyline","16-20-0",0.444
+"8","2018","Danielle Fazzolare","Skyline","12-19-0",0.387
+"9","2017","Danielle Fazzolare","Skyline","18-12-0",0.6
+"10","2016","Danielle Fazzolare","Skyline","9-16-0",0.36
+"11","2015","Frank P. Carbone","-","23-20-0",0.535
+"12","2014","Frank P. Carbone","-","17-16-0",0.515
+"13","2013","Frank P. Carbone","-","15-17-1",0.47
+"14","2012","Frank P. Carbone","Division III Independents","27-12-0",0.692
+"15","2011","Frank P. Carbone","Division III Independents","26-9-0",0.743
+"16","2010","Frank P. Carbone","Division III Independents","28-11-1",0.713
+"17","2009","Frank P. Carbone","-","26-10-0",0.722
+"18","2008","Frank P. Carbone","-","10-21-0",0.323
+"19","2007","Frank P. Carbone","-","21-15-0",0.583
+"20","2006","Frank P. Carbone","-","18-13-0",0.581
+"21","2005","Frank P. Carbone","-","19-13-0",0.594
+"22","2004","Frank P. Carbone","-","27-5-0",0.844
+"23","2003","Frank P. Carbone","-","22-8-0",0.733
+"24","2002","Frank P. Carbone","-","8-5-1",0.607
+"25","1997","","-","NA-NA-0",NA
+"26","1996","","-","NA-NA-0",NA
+"27","1995","","-","NA-NA-0",NA
+"28","1994","","-","NA-NA-0",NA
+"29","1993","","-","NA-NA-0",NA
+"30","1992","","-","NA-NA-0",NA
+"31","1991","","-","NA-NA-0",NA
+"32","1990","","-","NA-NA-0",NA
+"33","1989","","-","NA-NA-0",NA
+"34","1988","","-","NA-NA-0",NA
+"35","1987","","-","NA-NA-0",NA
+"36","1986","","-","NA-NA-0",NA
+"37","1985","","-","NA-NA-0",NA
+"38","1984","","-","NA-NA-0",NA
+"39","1983","","-","NA-NA-0",NA
+"40","1982","","-","NA-NA-0",NA
+"41","1981","","-","NA-NA-0",NA

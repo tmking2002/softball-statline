@@ -1,13 +1,13 @@
 "","team_id","player_id","rank","player","ip"
 "1",756,55859,1,"Gabbie Plain",235.2
 "2",676,75926,2,"Kassidy Wilbur",231.3
-"3",651,14405,3,"Georgina Corrick",226
-"4",742,59943,3,"Keely Rochard",226
+"3",742,59943,3,"Keely Rochard",226
+"4",651,14405,4,"Georgina Corrick",225.3
 "5",694,60299,5,"Ashley Rogers",216.1
 "6",147,9856,6,"Valerie Cagle",214
 "7",709,33684,7,"Erin Hunt",209.2
 "8",363,2782,8,"Sydney Backstrom",207
-"9",8,23228,9,"Montana Fouts",204
+"9",8,23228,9,"Montana Fouts",203.3
 "10",257,2550,10,"Mary wilson Avant",200.3
 "11",528,45289,11,"Mariah Mazon",200.2
 "12",71,26907,12,"Payton Gottshall",199
@@ -34,7 +34,7 @@
 "33",529,77741,33,"Brooke Yanez",177.2
 "34",521,19905,33,"Carrie Eberle",177.2
 "35",331,40386,33,"Jessica Lebeau",177.2
-"36",334,33612,36,"Autumn Humes",176
+"36",334,33612,36,"Autumn Humes",175.3
 "37",316,5610,37,"Alyssa Bilodeau",174
 "38",769,20367,38,"Jayme Ellers",173.2
 "39",739,57905,38,"Paige Rauch",173.2
@@ -62,7 +62,7 @@
 "61",503,51624,61,"Claire Norred",157.2
 "62",670,49948,61,"Jessica Mullins",157.2
 "63",37,42405,63,"Shelby Lowe",157.1
-"64",68,19130,64,"Ali Dubois",157
+"64",68,19130,64,"Ali Dubois",156.3
 "65",655,78621,65,"Heather Zumo",156.2
 "66",219,73051,66,"Izzy Vetter",156.1
 "67",1004,4354,66,"Kayla Beaver",156.1
@@ -93,8 +93,8 @@
 "92",199,40396,92,"Alyssa Leblanc",143.2
 "93",104,63426,92,"Emily Schuttish",143.2
 "94",519,38253,94,"Mackensie Kohl",143.1
-"95",128,43678,95,"Gianna Mancha",143
-"96",28600,9222,96,"Breana Burke",142.3
+"95",28600,9222,95,"Breana Burke",142.3
+"96",128,43678,95,"Gianna Mancha",142.3
 "97",2,7383,97,"Samantha Bradley",142.2
 "98",199,53075,98,"Emily Otto",142.1
 "99",400,18223,99,"Jessie Dipasquale",141.2

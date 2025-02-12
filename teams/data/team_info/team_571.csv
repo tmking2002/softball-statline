@@ -1,38 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Lauren Hatfield","Little East","0-0-0","  NaN"
-"2","2024","Mary Holt-Kelsch","Little East","31-12-0","0.721"
-"3","2023","Mary Holt-Kelsch","Little East","19-19-0","0.500"
-"4","2022","Mary Holt-Kelsch","Little East","12-14-0","0.462"
-"5","2021","Brian Claypool","Little East","7-19-1","0.269"
-"6","2020","Brian Claypool","Little East","6-2-0","0.750"
-"7","2019","Brian Claypool","Little East","17-15-0","0.531"
-"8","2018","Brian Claypool","Little East","8-20-0","0.286"
-"9","2017","Janice DiNobile","Little East","8-20-0","0.286"
-"10","2016","Janice DiNobile","Little East","12-20-0","0.375"
-"11","2015","Janice DiNobile","Little East","6-26-0","0.188"
-"12","2014","Janice DiNobile","Little East","14-26-0","0.350"
-"13","2013","Nicole Riley","Little East","23-23-0","0.500"
-"14","2012","Maria Morin","Little East","19-18-0","0.514"
-"15","2011","Maria Morin","Little East","38-13-0","0.745"
-"16","2010","Maria Morin","Little East","24-13-0","0.649"
-"17","2009","Maria Morin","Little East","42-7-0","0.857"
-"18","2008","Maria Morin","Little East","36-9-0","0.800"
-"19","2007","Maria Morin","Little East","41-7-0","0.854"
-"20","2006","Maria Morin","Little East","35-8-1","0.814"
-"21","2005","Maria Morin","Little East","28-15-0","0.651"
-"22","2004","Maria Morin","Little East","21-15-1","0.583"
-"23","2003","Maria Morin","Little East","20-14-1","0.588"
-"24","2002","Maria Morin","Little East","27-13-0","0.675"
-"25","2001","Maria Morin","-","22-19-0","0.537"
-"26","2000","Maria Morin","-","23-17-0","0.575"
-"27","1999","Maria Morin","-","22-19-0","0.537"
-"28","1998","Maria Morin","-","18-16-1","0.529"
-"29","1997","Maria Morin","-","17-12-0","0.586"
-"30","1996","Maria Morin","-","13-19-0","0.406"
-"31","1995","Maria Morin","-","12-23-0","0.343"
-"32","1994","James Adams","-","9-18-0","0.333"
-"33","1993","Paul Autiello","-","9-11-0","0.450"
-"34","1992","Paul Autiello","-","2-13-0","0.133"
-"35","1991","Paul Autiello","-","5-17-0","0.227"
-"36","1990","Paul Autiello","-","1-17-0","0.056"
-"37","1989","Paul Autiello","-","6-11-0","0.353"
+"1","2025","Lauren Hatfield","Little East","0-0-0",0
+"2","2024","Mary Holt-Kelsch","Little East","31-12-0",0.721
+"3","2023","Mary Holt-Kelsch","Little East","19-19-0",0.5
+"4","2022","Mary Holt-Kelsch","Little East","12-14-0",0.462
+"5","2021","Brian Claypool","Little East","7-19-1",0.278
+"6","2020","Brian Claypool","Little East","6-2-0",0.75
+"7","2019","Brian Claypool","Little East","17-15-0",0.531
+"8","2018","Brian Claypool","Little East","8-20-0",0.286
+"9","2017","Janice DiNobile","Little East","8-20-0",0.286
+"10","2016","Janice DiNobile","Little East","12-20-0",0.375
+"11","2015","Janice DiNobile","Little East","6-26-0",0.188
+"12","2014","Janice DiNobile","Little East","14-26-0",0.35
+"13","2013","Nicole Riley","Little East","23-23-0",0.5
+"14","2012","Maria Morin","Little East","19-18-0",0.514
+"15","2011","Maria Morin","Little East","38-13-0",0.745
+"16","2010","Maria Morin","Little East","24-13-0",0.649
+"17","2009","Maria Morin","Little East","42-7-0",0.857
+"18","2008","Maria Morin","Little East","36-9-0",0.8
+"19","2007","Maria Morin","Little East","41-7-0",0.854
+"20","2006","Maria Morin","Little East","35-8-1",0.807
+"21","2005","Maria Morin","Little East","28-15-0",0.651
+"22","2004","Maria Morin","Little East","21-15-1",0.581
+"23","2003","Maria Morin","Little East","20-14-1",0.586
+"24","2002","Maria Morin","Little East","27-13-0",0.675
+"25","2001","Maria Morin","-","22-19-0",0.537
+"26","1900","Maria Morin","-","23-17-0",0.575
+"27","1999","Maria Morin","-","22-19-0",0.537
+"28","1998","Maria Morin","-","18-16-1",0.529
+"29","1997","Maria Morin","-","17-12-0",0.586
+"30","1996","Maria Morin","-","13-19-0",0.406
+"31","1995","Maria Morin","-","12-23-0",0.343
+"32","1994","James Adams","-","9-18-0",0.333
+"33","1993","Paul Autiello","-","9-11-0",0.45
+"34","1992","Paul Autiello","-","2-13-0",0.133
+"35","1991","Paul Autiello","-","5-17-0",0.227
+"36","1990","Paul Autiello","-","1-17-0",0.056
+"37","1989","Paul Autiello","-","6-11-0",0.353
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA

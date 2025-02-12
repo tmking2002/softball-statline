@@ -1,41 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","McKenna Garlock","Landmark","0-0-0","  NaN"
-"2","2024","McKenna Garlock","Landmark","18-19-0","0.486"
-"3","2023","McKenna Garlock","Landmark","18-14-0","0.562"
-"4","2022","Laina Connor","Landmark","11-23-0","0.324"
-"5","2021","Laina Connor","Landmark","8-19-0","0.296"
-"6","2020","Laina Connor","Landmark","1-9-0","0.100"
-"7","2019","Ashley Cook","Landmark","12-22-0","0.353"
-"8","2018","Samantha Kszepka","Landmark","8-25-1","0.242"
-"9","2017","Samantha Kszepka","Landmark","15-25-0","0.375"
-"10","2016","Samantha Kszepka","Landmark","13-25-0","0.342"
-"11","2015","Samantha Kszepka","Landmark","8-28-0","0.222"
-"12","2014","Samantha Kszepka","Landmark","5-28-1","0.152"
-"13","2013","Samantha Kszepka","Landmark","11-18-0","0.379"
-"14","2012","John Houck","Landmark","9-20-0","0.310"
-"15","2011","John Houck","Landmark","3-27-0","0.100"
-"16","2010","John Houck","Landmark","20-18-0","0.526"
-"17","2009","John Houck","Landmark","24-15-0","0.615"
-"18","2008","John Houck","Landmark","21-16-0","0.568"
-"19","2007","John Houck","MAC Commonwealth","13-17-0","0.433"
-"20","2006","John Houck","MAC Commonwealth","10-28-0","0.263"
-"21","2005","John Houck","MAC Commonwealth","15-17-1","0.469"
-"22","2004","John Houck","MAC Commonwealth","17-13-0","0.567"
-"23","2003","John Houck","MAC Commonwealth","19-11-0","0.633"
-"24","2002","John Houck","MAC Commonwealth","14-14-0","0.500"
-"25","2001","Kathy Ziga","-","12-15-1","0.444"
-"26","2000","Kathy Ziga","-","2-20-0","0.091"
-"27","1999","Betty Streightiff","-","1-21-0","0.045"
-"28","1998","Dick Scialabba","-","3-15-0","0.167"
-"29","1997","Cathy Packer","-","8-16-0","0.333"
-"30","1996","Cathy Packer","-","8-12-0","0.400"
-"31","1995","Cathy Packer","-","4-18-0","0.182"
-"32","1994","Cathy Packer","-","6-14-0","0.300"
-"33","1993","Mike Culver","-","5-13-0","0.278"
-"34","1992","Dick Scialabba","-","9-8-0","0.529"
-"35","1991","Dick Scialabba","-","5-15-0","0.250"
-"36","1990","Dick Scialabba","-","8-11-0","0.421"
-"37","1989","Dick Scialabba","-","8-15-0","0.348"
-"38","1988","Dick Scialabba","-","8-16-0","0.333"
-"39","1987","Dick Scialabba","-","13-13-0","0.500"
-"40","1986","Dick Scialabba","-","13-6-0","0.684"
+"1","2025","McKenna Garlock","Landmark","0-0-0",0
+"2","2024","McKenna Garlock","Landmark","18-19-0",0.486
+"3","2023","McKenna Garlock","Landmark","18-14-0",0.563
+"4","2022","Laina Connor","Landmark","11-23-0",0.324
+"5","2021","Laina Connor","Landmark","8-19-0",0.296
+"6","2020","Laina Connor","Landmark","1-9-0",0.1
+"7","2019","Ashley Cook","Landmark","12-22-0",0.353
+"8","2018","Samantha Kszepka","Landmark","8-25-1",0.25
+"9","2017","Samantha Kszepka","Landmark","15-25-0",0.375
+"10","2016","Samantha Kszepka","Landmark","13-25-0",0.342
+"11","2015","Samantha Kszepka","Landmark","8-28-0",0.222
+"12","2014","Samantha Kszepka","Landmark","5-28-1",0.162
+"13","2013","Samantha Kszepka","Landmark","11-18-0",0.379
+"14","2012","John Houck","Landmark","9-20-0",0.31
+"15","2011","John Houck","Landmark","3-27-0",0.1
+"16","2010","John Houck","Landmark","20-18-0",0.526
+"17","2009","John Houck","Landmark","24-15-0",0.615
+"18","2008","John Houck","Landmark","21-16-0",0.568
+"19","2007","John Houck","MAC Commonwealth","13-17-0",0.433
+"20","2006","John Houck","MAC Commonwealth","10-28-0",0.263
+"21","2005","John Houck","MAC Commonwealth","15-17-1",0.47
+"22","2004","John Houck","MAC Commonwealth","17-13-0",0.567
+"23","2003","John Houck","MAC Commonwealth","19-11-0",0.633
+"24","2002","John Houck","MAC Commonwealth","14-14-0",0.5
+"25","2001","Kathy Ziga","-","12-15-1",0.446
+"26","1900","Kathy Ziga","-","2-20-0",0.091
+"27","1999","Betty Streightiff","-","1-21-0",0.045
+"28","1998","Dick Scialabba","-","3-15-0",0.167
+"29","1997","Cathy Packer","-","8-16-0",0.333
+"30","1996","Cathy Packer","-","8-12-0",0.4
+"31","1995","Cathy Packer","-","4-18-0",0.182
+"32","1994","Cathy Packer","-","6-14-0",0.3
+"33","1993","Mike Culver","-","5-13-0",0.278
+"34","1992","Dick Scialabba","-","9-8-0",0.529
+"35","1991","Dick Scialabba","-","5-15-0",0.25
+"36","1990","Dick Scialabba","-","8-11-0",0.421
+"37","1989","Dick Scialabba","-","8-15-0",0.348
+"38","1988","Dick Scialabba","-","8-16-0",0.333
+"39","1987","Dick Scialabba","-","13-13-0",0.5
+"40","1986","Dick Scialabba","-","13-6-0",0.684
+"41","1981","","-","NA-NA-0",NA

@@ -1,54 +1,54 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Alisa Goler","OVC","0-0-0","  NaN"
-"2","2024","Alisa Goler","OVC","16-34-0","0.320"
-"3","2023","Alisa Goler","Summit League","9-36-0","0.200"
-"4","2022","Alisa Goler","Summit League","8-37-0","0.178"
-"5","2021","Alisa Goler","Summit League","16-29-0","0.356"
-"6","2020","Holly Van Vlymen","Summit League","6-13-0","0.316"
-"7","2019","Beth Golitko","Summit League","20-20-0","0.500"
-"8","2018","Beth Golitko","Summit League","17-31-0","0.354"
-"9","2017","Holly Van Vlymen","Summit League","22-32-0","0.407"
-"10","2016","Holly Van Vlymen","Summit League","16-32-0","0.333"
-"11","2015","Holly Van Vlymen","Summit League","18-23-0","0.439"
-"12","2014","Holly Van Vlymen","Summit League","20-29-1","0.408"
-"13","2013","Holly Van Vlymen","Summit League","14-23-0","0.378"
-"14","2012","Holly Van Vlymen","Summit League","23-28-0","0.451"
-"15","2011","Holly Van Vlymen","Summit League","19-27-0","0.413"
-"16","2010","Holly Van Vlymen","Summit League","35-19-0","0.648"
-"17","2009","Holly Van Vlymen","Summit League","34-19-0","0.642"
-"18","2008","Holly Van Vlymen","Summit League","15-33-0","0.312"
-"19","2007","Holly Van Vlymen","Summit League","23-23-0","0.500"
-"20","2006","Holly Van Vlymen","Summit League","22-33-1","0.400"
-"21","2005","Kathy Veroni","Summit League","25-28-0","0.472"
-"22","2004","Kathy Veroni","Summit League","28-29-0","0.491"
-"23","2003","Kathy Veroni","Summit League","28-27-0","0.509"
-"24","2002","Kathy Veroni","Summit League","26-21-0","0.553"
-"25","2001","Kathy Veroni","Summit League","33-21-0","0.611"
-"26","2000","Kathy Veroni","Summit League","46-16-0","0.742"
-"27","1999","Kathy Veroni","Summit League","30-26-0","0.536"
-"28","1998","Kathy Veroni","-","23-24-0","0.489"
-"29","1997","Kathy Veroni","Summit League","31-22-1","0.585"
-"30","1996","Kathy Veroni","-","32-24-0","0.571"
-"31","1995","Kathy Veroni","-","37-24-0","0.607"
-"32","1994","Kathy Veroni","-","35-25-0","0.583"
-"33","1993","Kathy Veroni","-","29-13-0","0.690"
-"34","1992","Kathy Veroni","-","25-18-0","0.581"
-"35","1991","Kathy Veroni","-","30-18-0","0.625"
-"36","1990","Kathy Veroni","-","35-16-0","0.686"
-"37","1989","Kathy Veroni","-","31-18-1","0.633"
-"38","1988","Kathy Veroni","-","28-22-0","0.560"
-"39","1987","Kathy Veroni","-","33-24-0","0.579"
-"40","1986","Kathy Veroni","-","18-25-0","0.419"
-"41","1985","Kathy Veroni","-","21-19-0","0.525"
-"42","1984","Kathy Veroni","-","30-9-0","0.769"
-"43","1983","Kathy Veroni","-","16-16-0","0.500"
-"44","1982","Kathy Veroni","-","29-15-0","0.659"
-"45","1981","Kathy Veroni","-","19-20-0","0.487"
-"46","1980","Kathy Veroni","-","31-9-0","0.775"
-"47","1979","Kathy Veroni","-","31-14-0","0.689"
-"48","1978","Kathy Veroni","-","17-8-0","0.680"
-"49","1977","Kathy Veroni","-","21-11-0","0.656"
-"50","1976","Kathy Veroni","-","7-9-0","0.438"
-"51","1975","Kathy Veroni","-","15-6-0","0.714"
-"52","1974","Kathy Veroni","-","11-14-0","0.440"
-"53","1973","Kathy Veroni","-","18-7-0","0.720"
+"1","2025","Alisa Goler","OVC","0-0-0",0
+"2","2024","Alisa Goler","OVC","16-34-0",0.32
+"3","2023","Alisa Goler","Summit League","9-36-0",0.2
+"4","2022","Alisa Goler","Summit League","8-37-0",0.178
+"5","2021","Alisa Goler","Summit League","16-29-0",0.356
+"6","2020","Holly Van Vlymen","Summit League","6-13-0",0.316
+"7","2019","Beth Golitko","Summit League","20-20-0",0.5
+"8","2018","Beth Golitko","Summit League","17-31-0",0.354
+"9","2017","Holly Van Vlymen","Summit League","22-32-0",0.407
+"10","2016","Holly Van Vlymen","Summit League","16-32-0",0.333
+"11","2015","Holly Van Vlymen","Summit League","18-23-0",0.439
+"12","2014","Holly Van Vlymen","Summit League","20-29-1",0.41
+"13","2013","Holly Van Vlymen","Summit League","14-23-0",0.378
+"14","2012","Holly Van Vlymen","Summit League","23-28-0",0.451
+"15","2011","Holly Van Vlymen","Summit League","19-27-0",0.413
+"16","2010","Holly Van Vlymen","Summit League","35-19-0",0.648
+"17","2009","Holly Van Vlymen","Summit League","34-19-0",0.642
+"18","2008","Holly Van Vlymen","Summit League","15-33-0",0.313
+"19","2007","Holly Van Vlymen","Summit League","23-23-0",0.5
+"20","2006","Holly Van Vlymen","Summit League","22-33-1",0.402
+"21","2005","Kathy Veroni","Summit League","25-28-0",0.472
+"22","2004","Kathy Veroni","Summit League","28-29-0",0.491
+"23","2003","Kathy Veroni","Summit League","28-27-0",0.509
+"24","2002","Kathy Veroni","Summit League","26-21-0",0.553
+"25","2001","Kathy Veroni","Summit League","33-21-0",0.611
+"26","1900","Kathy Veroni","Summit League","46-16-0",0.742
+"27","1999","Kathy Veroni","Summit League","30-26-0",0.536
+"28","1998","Kathy Veroni","-","23-24-0",0.489
+"29","1997","Kathy Veroni","Summit League","31-22-1",0.583
+"30","1996","Kathy Veroni","-","32-24-0",0.571
+"31","1995","Kathy Veroni","-","37-24-0",0.607
+"32","1994","Kathy Veroni","-","35-25-0",0.583
+"33","1993","Kathy Veroni","-","29-13-0",0.69
+"34","1992","Kathy Veroni","-","25-18-0",0.581
+"35","1991","Kathy Veroni","-","30-18-0",0.625
+"36","1990","Kathy Veroni","-","35-16-0",0.686
+"37","1989","Kathy Veroni","-","31-18-1",0.63
+"38","1988","Kathy Veroni","-","28-22-0",0.56
+"39","1987","Kathy Veroni","-","33-24-0",0.579
+"40","1986","Kathy Veroni","-","18-25-0",0.419
+"41","1985","Kathy Veroni","-","21-19-0",0.525
+"42","1984","Kathy Veroni","-","30-9-0",0.769
+"43","1983","Kathy Veroni","-","16-16-0",0.5
+"44","1982","Kathy Veroni","-","29-15-0",0.659
+"45","1981","Kathy Veroni","-","19-20-0",0.487
+"46","1980","Kathy Veroni","-","31-9-0",0.775
+"47","1979","Kathy Veroni","-","31-14-0",0.689
+"48","1978","Kathy Veroni","-","17-8-0",0.68
+"49","1977","Kathy Veroni","-","21-11-0",0.656
+"50","1976","Kathy Veroni","-","7-9-0",0.438
+"51","1975","Kathy Veroni","-","15-6-0",0.714
+"52","1974","Kathy Veroni","-","11-14-0",0.44
+"53","1973","Kathy Veroni","-","18-7-0",0.72

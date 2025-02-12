@@ -1,38 +1,57 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Jake Koolbeck","American Rivers","0-0-0","  NaN"
-"2","2024","Jake Koolbeck","American Rivers","34-11-0","0.756"
-"3","2023","Jake Koolbeck","American Rivers","39-11-0","0.780"
-"4","2022","Diane Meyer","American Rivers","22-13-0","0.629"
-"5","2021","Diane Meyer","American Rivers","25-15-0","0.625"
-"6","2020","Diane Meyer","American Rivers","1-1-0","0.500"
-"7","2019","Diane Meyer","American Rivers","33-11-0","0.750"
-"8","2018","Diane Meyer","American Rivers","28-14-0","0.667"
-"9","2017","Diane Meyer","American Rivers","31-11-0","0.738"
-"10","2016","Diane Meyer","American Rivers","25-10-0","0.714"
-"11","2015","Diane Meyer","American Rivers","24-16-0","0.600"
-"12","2014","Bob Timmons","American Rivers","36-10-0","0.783"
-"13","2013","Bob Timmons","American Rivers","34-8-0","0.810"
-"14","2012","Bob Timmons","American Rivers","36-13-0","0.735"
-"15","2011","Bob Timmons","American Rivers","38-11-0","0.776"
-"16","2010","Bob Timmons","American Rivers","25-16-0","0.610"
-"17","2009","Bob Timmons","American Rivers","41-13-0","0.759"
-"18","2008","Bob Timmons","American Rivers","33-16-0","0.673"
-"19","2007","Bob Timmons","American Rivers","31-14-0","0.689"
-"20","2006","Bob Timmons","American Rivers","41-13-0","0.759"
-"21","2005","Bob Timmons","American Rivers","37-6-0","0.860"
-"22","2004","Bob Timmons","American Rivers","25-14-0","0.641"
-"23","2003","Bob Timmons","American Rivers","27-9-0","0.750"
-"24","2002","Bob Timmons","American Rivers","37-9-0","0.804"
-"25","2001","Bob Timmons","-","31-10-0","0.756"
-"26","2000","Bob Timmons","-","44-8-0","0.846"
-"27","1999","Bob Timmons","-","29-10-0","0.744"
-"28","1998","Bob Timmons","-","7-24-0","0.226"
-"29","1997","Mary Rausch","-","16-16-0","0.500"
-"30","1996","Mary Rausch","-","17-19-0","0.472"
-"31","1995","Mary Rausch","-","29-10-0","0.744"
-"32","1994","Mary Rausch","-","28-7-0","0.800"
-"33","1993","Jan Travis","-","18-11-0","0.621"
-"34","1992","Jan Travis","-","27-7-0","0.794"
-"35","1991","Jan Travis","-","17-13-0","0.567"
-"36","1990","Jan Travis","-","31-6-0","0.838"
-"37","1989","Jan Travis","-","25-5-1","0.833"
+"1","2025","Jake Koolbeck","American Rivers","0-0-0",0
+"2","2024","Jake Koolbeck","American Rivers","34-11-0",0.756
+"3","2023","Jake Koolbeck","American Rivers","39-11-0",0.78
+"4","2022","Diane Meyer","American Rivers","22-13-0",0.629
+"5","2021","Diane Meyer","American Rivers","25-15-0",0.625
+"6","2020","Diane Meyer","American Rivers","1-1-0",0.5
+"7","2019","Diane Meyer","American Rivers","33-11-0",0.75
+"8","2018","Diane Meyer","American Rivers","28-14-0",0.667
+"9","2017","Diane Meyer","American Rivers","31-11-0",0.738
+"10","2016","Diane Meyer","American Rivers","25-10-0",0.714
+"11","2015","Diane Meyer","American Rivers","24-16-0",0.6
+"12","2014","Bob Timmons","American Rivers","36-10-0",0.783
+"13","2013","Bob Timmons","American Rivers","34-8-0",0.81
+"14","2012","Bob Timmons","American Rivers","36-13-0",0.735
+"15","2011","Bob Timmons","American Rivers","38-11-0",0.776
+"16","2010","Bob Timmons","American Rivers","25-16-0",0.61
+"17","2009","Bob Timmons","American Rivers","41-13-0",0.759
+"18","2008","Bob Timmons","American Rivers","33-16-0",0.673
+"19","2007","Bob Timmons","American Rivers","31-14-0",0.689
+"20","2006","Bob Timmons","American Rivers","41-13-0",0.759
+"21","2005","Bob Timmons","American Rivers","37-6-0",0.86
+"22","2004","Bob Timmons","American Rivers","25-14-0",0.641
+"23","2003","Bob Timmons","American Rivers","27-9-0",0.75
+"24","2002","Bob Timmons","American Rivers","37-9-0",0.804
+"25","2001","Bob Timmons","-","31-10-0",0.756
+"26","1900","Bob Timmons","-","44-8-0",0.846
+"27","1999","Bob Timmons","-","29-10-0",0.744
+"28","1998","Bob Timmons","-","7-24-0",0.226
+"29","1997","Mary Rausch","-","16-16-0",0.5
+"30","1996","Mary Rausch","-","17-19-0",0.472
+"31","1995","Mary Rausch","-","29-10-0",0.744
+"32","1994","Mary Rausch","-","28-7-0",0.8
+"33","1993","Jan Travis","-","18-11-0",0.621
+"34","1992","Jan Travis","-","27-7-0",0.794
+"35","1991","Jan Travis","-","17-13-0",0.567
+"36","1990","Jan Travis","-","31-6-0",0.838
+"37","1989","Jan Travis","-","25-5-1",0.823
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA
+"47","1979","","-","NA-NA-0",NA
+"48","1978","","-","NA-NA-0",NA
+"49","1977","","-","NA-NA-0",NA
+"50","1976","","-","NA-NA-0",NA
+"51","1975","","-","NA-NA-0",NA
+"52","1974","","-","NA-NA-0",NA
+"53","1973","","-","NA-NA-0",NA
+"54","1972","","-","NA-NA-0",NA
+"55","1971","","-","NA-NA-0",NA
+"56","1970","","-","NA-NA-0",NA

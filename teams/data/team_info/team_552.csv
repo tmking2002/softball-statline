@@ -1,26 +1,37 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Bree Ferchen","SUNYAC","0-0-0","  NaN"
-"2","2024","Bree Ferchen","SUNYAC","14-22-0","0.389"
-"3","2023","Bree Ferchen","SUNYAC","8-28-0","0.222"
-"4","2022","Bree Ferchen","SUNYAC","0-33-0","0.000"
-"5","2021","Bree Ferchen","SUNYAC","2-6-0","0.250"
-"6","2020","Jordan Ott","SUNYAC","2-6-0","0.250"
-"7","2019","Jordan Ott","SUNYAC","8-28-0","0.222"
-"8","2018","Nicole Yost","SUNYAC","8-22-0","0.267"
-"9","2017","Nicole Yost","SUNYAC","9-24-0","0.273"
-"10","2016","Nicole Yost","SUNYAC","13-26-0","0.333"
-"11","2015","Nicole Yost","SUNYAC","5-26-0","0.161"
-"12","2014","Shannon Dillabough","SUNYAC","5-25-0","0.167"
-"13","2013","Shannon Dillabough","SUNYAC","11-21-0","0.344"
-"14","2012","Shannon Dillabough","SUNYAC","13-23-0","0.361"
-"15","2011","Shannon Dillabough","SUNYAC","10-24-0","0.294"
-"16","2010","Shannon Dillabough","SUNYAC","8-24-0","0.250"
-"17","2009","Shannon Dillabough","SUNYAC","13-21-0","0.382"
-"18","2008","Shannon Dillabough","SUNYAC","7-27-0","0.206"
-"19","2007","Shannon Dillabough","SUNYAC","7-24-0","0.226"
-"20","2006","Shannon Dillabough","SUNYAC","6-25-1","0.194"
-"21","2005","Steve Pike","SUNYAC","8-20-0","0.286"
-"22","2004","Steve Pike","SUNYAC","3-29-0","0.094"
-"23","2003","Carrie Hollis","SUNYAC","4-27-0","0.129"
-"24","2002","Carrie Hollis","SUNYAC","4-18-0","0.182"
-"25","2001","Ellen McEwen","-","1-21-0","0.045"
+"1","2025","Bree Ferchen","SUNYAC","0-0-0",0
+"2","2024","Bree Ferchen","SUNYAC","14-22-0",0.389
+"3","2023","Bree Ferchen","SUNYAC","8-28-0",0.222
+"4","2022","Bree Ferchen","SUNYAC","0-33-0",0
+"5","2021","Bree Ferchen","SUNYAC","2-6-0",0.25
+"6","2020","Jordan Ott","SUNYAC","2-6-0",0.25
+"7","2019","Jordan Ott","SUNYAC","8-28-0",0.222
+"8","2018","Nicole Yost","SUNYAC","8-22-0",0.267
+"9","2017","Nicole Yost","SUNYAC","9-24-0",0.273
+"10","2016","Nicole Yost","SUNYAC","13-26-0",0.333
+"11","2015","Nicole Yost","SUNYAC","5-26-0",0.161
+"12","2014","Shannon Dillabough","SUNYAC","5-25-0",0.167
+"13","2013","Shannon Dillabough","SUNYAC","11-21-0",0.344
+"14","2012","Shannon Dillabough","SUNYAC","13-23-0",0.361
+"15","2011","Shannon Dillabough","SUNYAC","10-24-0",0.294
+"16","2010","Shannon Dillabough","SUNYAC","8-24-0",0.25
+"17","2009","Shannon Dillabough","SUNYAC","13-21-0",0.382
+"18","2008","Shannon Dillabough","SUNYAC","7-27-0",0.206
+"19","2007","Shannon Dillabough","SUNYAC","7-24-0",0.226
+"20","2006","Shannon Dillabough","SUNYAC","6-25-1",0.203
+"21","2005","Steve Pike","SUNYAC","8-20-0",0.286
+"22","2004","Steve Pike","SUNYAC","3-29-0",0.094
+"23","2003","Carrie Hollis","SUNYAC","4-27-0",0.129
+"24","2002","Carrie Hollis","SUNYAC","4-18-0",0.182
+"25","2001","Ellen McEwen","-","1-21-0",0.045
+"26","1900","","-","NA-NA-0",NA
+"27","1999","","-","NA-NA-0",NA
+"28","1998","","-","NA-NA-0",NA
+"29","1997","","-","NA-NA-0",NA
+"30","1996","","-","NA-NA-0",NA
+"31","1995","","-","NA-NA-0",NA
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA

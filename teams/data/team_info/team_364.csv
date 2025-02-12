@@ -1,35 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Ashley Winter","American Rivers","0-0-0","  NaN"
-"2","2024","Ashley Winter","American Rivers","20-16-0","0.556"
-"3","2023","Ashley Winter","American Rivers","21-15-0","0.583"
-"4","2022","Ashley Winter","American Rivers","22-10-0","0.688"
-"5","2021","Ashley Winter","American Rivers","2-27-0","0.069"
-"6","2020","Ashley Winter","American Rivers","6-6-0","0.500"
-"7","2019","Ashley Winter","American Rivers","10-27-1","0.270"
-"8","2018","Ashley Winter","American Rivers","19-20-0","0.487"
-"9","2017","Ashley Winter","American Rivers","23-13-0","0.639"
-"10","2016","Ashley Winter","American Rivers","17-21-0","0.447"
-"11","2015","Ashley Winter","American Rivers","19-19-0","0.500"
-"12","2014","Ashley Winter","American Rivers","13-21-0","0.382"
-"13","2013","Ashley Winter","American Rivers","12-19-0","0.387"
-"14","2012","Ashley Winter","American Rivers","20-18-0","0.526"
-"15","2011","Ashley Winter","American Rivers","17-23-0","0.425"
-"16","2010","Ashley Winter","American Rivers","16-21-0","0.432"
-"17","2009","Katie Koopmann","American Rivers","14-17-0","0.452"
-"18","2008","Katie Koopmann","American Rivers","11-15-0","0.423"
-"19","2007","Katie Koopmann","American Rivers","19-21-0","0.475"
-"20","2006","Sarah Anderson","American Rivers","15-23-0","0.395"
-"21","2005","Sarah Anderson","American Rivers","22-16-0","0.579"
-"22","2004","Sarah Anderson","American Rivers","13-26-0","0.333"
-"23","2003","Mary Jo Vrba","American Rivers","13-25-0","0.342"
-"24","2002","Mary Jo Vrba","American Rivers","14-22-0","0.389"
-"25","2001","Denise Udelhofen","-","12-20-1","0.375"
-"26","2000","Denise Udelhofen","-","22-20-0","0.524"
-"27","1999","Denise Udelhofen","-","18-19-0","0.486"
-"28","1998","Denise Udelhofen","-","25-11-0","0.694"
-"29","1997","Denise Udelhofen","-","19-12-0","0.613"
-"30","1996","Denise Udelhofen","-","18-23-0","0.439"
-"31","1995","Denise Udelhofen","-","19-20-0","0.487"
-"32","1994","Denise Udelhofen","-","22-18-0","0.550"
-"33","1993","Denise Udelhofen","-","15-10-0","0.600"
-"34","1992","Denise Udelhofen","-","13-20-0","0.394"
+"1","2025","Ashley Winter","American Rivers","0-0-0",0
+"2","2024","Ashley Winter","American Rivers","20-16-0",0.556
+"3","2023","Ashley Winter","American Rivers","21-15-0",0.583
+"4","2022","Ashley Winter","American Rivers","22-10-0",0.688
+"5","2021","Ashley Winter","American Rivers","2-27-0",0.069
+"6","2020","Ashley Winter","American Rivers","6-6-0",0.5
+"7","2019","Ashley Winter","American Rivers","10-27-1",0.276
+"8","2018","Ashley Winter","American Rivers","19-20-0",0.487
+"9","2017","Ashley Winter","American Rivers","23-13-0",0.639
+"10","2016","Ashley Winter","American Rivers","17-21-0",0.447
+"11","2015","Ashley Winter","American Rivers","19-19-0",0.5
+"12","2014","Ashley Winter","American Rivers","13-21-0",0.382
+"13","2013","Ashley Winter","American Rivers","12-19-0",0.387
+"14","2012","Ashley Winter","American Rivers","20-18-0",0.526
+"15","2011","Ashley Winter","American Rivers","17-23-0",0.425
+"16","2010","Ashley Winter","American Rivers","16-21-0",0.432
+"17","2009","Katie Koopmann","American Rivers","14-17-0",0.452
+"18","2008","Katie Koopmann","American Rivers","11-15-0",0.423
+"19","2007","Katie Koopmann","American Rivers","19-21-0",0.475
+"20","2006","Sarah Anderson","American Rivers","15-23-0",0.395
+"21","2005","Sarah Anderson","American Rivers","22-16-0",0.579
+"22","2004","Sarah Anderson","American Rivers","13-26-0",0.333
+"23","2003","Mary Jo Vrba","American Rivers","13-25-0",0.342
+"24","2002","Mary Jo Vrba","American Rivers","14-22-0",0.389
+"25","2001","Denise Udelhofen","-","12-20-1",0.379
+"26","1900","Denise Udelhofen","-","22-20-0",0.524
+"27","1999","Denise Udelhofen","-","18-19-0",0.486
+"28","1998","Denise Udelhofen","-","25-11-0",0.694
+"29","1997","Denise Udelhofen","-","19-12-0",0.613
+"30","1996","Denise Udelhofen","-","18-23-0",0.439
+"31","1995","Denise Udelhofen","-","19-20-0",0.487
+"32","1994","Denise Udelhofen","-","22-18-0",0.55
+"33","1993","Denise Udelhofen","-","15-10-0",0.6
+"34","1992","Denise Udelhofen","-","13-20-0",0.394
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1981","","-","NA-NA-0",NA

@@ -1,43 +1,44 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Don Don Williams","WAC","0-0-0","  NaN"
-"2","2024","Don Don Williams","WAC","21-29-0","0.420"
-"3","2023","Don Don Williams","WAC","6-33-0","0.154"
-"4","2022","Don Don Williams","Big Sky","3-40-0","0.070"
-"5","2021","Don Don Williams","Big Sky","20-30-0","0.400"
-"6","2020","Don Don Williams","Big Sky","5-14-0","0.263"
-"7","2019","Kortny Hall","Big Sky","6-34-0","0.150"
-"8","2018","Tom Gray","Big Sky","9-38-0","0.191"
-"9","2017","Tom Gray","Big Sky","15-31-0","0.326"
-"10","2016","Tom Gray","Big Sky","13-39-0","0.250"
-"11","2015","Tom Gray","Big Sky","20-30-0","0.400"
-"12","2014","Kyle Magnusson","Big Sky","23-31-0","0.426"
-"13","2013","Kyle Magnusson","Big Sky","18-34-0","0.346"
-"14","2012","Kyle Magnusson","Summit League","29-25-0","0.537"
-"15","2011","Kyle Magnusson","Summit League","25-34-0","0.424"
-"16","2010","Julie Strand","Summit League","10-41-0","0.196"
-"17","2009","Julie Strand","Summit League","24-31-0","0.436"
-"18","2008","Jodi Hermanek","Summit League","20-34-0","0.370"
-"19","2007","Jodi Hermanek","Summit League","30-31-0","0.492"
-"20","2006","Jodi Hermanek","Summit League","34-32-0","0.515"
-"21","2005","Jodi Hermanek","Summit League","23-25-1","0.479"
-"22","2004","Laurel Simmons","Summit League","38-18-0","0.679"
-"23","2003","Laurel Simmons","Summit League","29-19-0","0.604"
-"24","2002","Laurel Simmons","Summit League","26-27-0","0.491"
-"25","2001","Laurel Simmons","Summit League","28-36-0","0.438"
-"26","2000","Laurel Simmons","Summit League","23-37-0","0.383"
-"27","1999","Laurel Simmons","Summit League","10-48-0","0.172"
-"28","1998","Joy Peterson","-","12-24-0","0.333"
-"29","1997","Joy Peterson","-","24-29-0","0.453"
-"30","1996","Joy Peterson","-","13-48-0","0.213"
-"31","1995","Joy Peterson","-","14-44-1","0.241"
-"32","1994","Joy Peterson","-","6-42-0","0.125"
-"33","1993","Joy Peterson","-","9-36-0","0.200"
-"34","1992","Joy Peterson","-","7-36-0","0.163"
-"35","1991","Joy Peterson","-","5-26-0","0.161"
-"36","1990","Joy Peterson","-","22-16-0","0.579"
-"37","1989","Joy Peterson","-","10-20-0","0.333"
-"38","1988","Joy Peterson","-","17-19-0","0.472"
-"39","1987","Joy Peterson","-","18-10-0","0.643"
-"40","1986","Joy Peterson","-","24-11-1","0.686"
-"41","1985","Joy Peterson","-","6-12-0","0.333"
-"42","1984","Joy Peterson","-","27-8-0","0.771"
+"1","2025","Don Don Williams","WAC","0-0-0",0
+"2","2024","Don Don Williams","WAC","21-29-0",0.42
+"3","2023","Don Don Williams","WAC","6-33-0",0.154
+"4","2022","Don Don Williams","Big Sky","3-40-0",0.07
+"5","2021","Don Don Williams","Big Sky","20-30-0",0.4
+"6","2020","Don Don Williams","Big Sky","5-14-0",0.263
+"7","2019","Kortny Hall","Big Sky","6-34-0",0.15
+"8","2018","Tom Gray","Big Sky","9-38-0",0.191
+"9","2017","Tom Gray","Big Sky","15-31-0",0.326
+"10","2016","Tom Gray","Big Sky","13-39-0",0.25
+"11","2015","Tom Gray","Big Sky","20-30-0",0.4
+"12","2014","Kyle Magnusson","Big Sky","23-31-0",0.426
+"13","2013","Kyle Magnusson","Big Sky","18-34-0",0.346
+"14","2012","Kyle Magnusson","Summit League","29-25-0",0.537
+"15","2011","Kyle Magnusson","Summit League","25-34-0",0.424
+"16","2010","Julie Strand","Summit League","10-41-0",0.196
+"17","2009","Julie Strand","Summit League","24-31-0",0.436
+"18","2008","Jodi Hermanek","Summit League","20-34-0",0.37
+"19","2007","Jodi Hermanek","Summit League","30-31-0",0.492
+"20","2006","Jodi Hermanek","Summit League","34-32-0",0.515
+"21","2005","Jodi Hermanek","Summit League","23-25-1",0.48
+"22","2004","Laurel Simmons","Summit League","38-18-0",0.679
+"23","2003","Laurel Simmons","Summit League","29-19-0",0.604
+"24","2002","Laurel Simmons","Summit League","26-27-0",0.491
+"25","2001","Laurel Simmons","Summit League","28-36-0",0.438
+"26","1900","Laurel Simmons","Summit League","23-37-0",0.383
+"27","1999","Laurel Simmons","Summit League","10-48-0",0.172
+"28","1998","Joy Peterson","-","12-24-0",0.333
+"29","1997","Joy Peterson","-","24-29-0",0.453
+"30","1996","Joy Peterson","-","13-48-0",0.213
+"31","1995","Joy Peterson","-","14-44-1",0.246
+"32","1994","Joy Peterson","-","6-42-0",0.125
+"33","1993","Joy Peterson","-","9-36-0",0.2
+"34","1992","Joy Peterson","-","7-36-0",0.163
+"35","1991","Joy Peterson","-","5-26-0",0.161
+"36","1990","Joy Peterson","-","22-16-0",0.579
+"37","1989","Joy Peterson","-","10-20-0",0.333
+"38","1988","Joy Peterson","-","17-19-0",0.472
+"39","1987","Joy Peterson","-","18-10-0",0.643
+"40","1986","Joy Peterson","-","24-11-1",0.681
+"41","1985","Joy Peterson","-","6-12-0",0.333
+"42","1984","Joy Peterson","-","27-8-0",0.771
+"43","1983","","-","NA-NA-0",NA

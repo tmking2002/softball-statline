@@ -1,49 +1,50 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Diana Pepin","Little East","0-0-0","  NaN"
-"2","2024","Diana Pepin","Little East","24-18-1","0.571"
-"3","2023","Diana Pepin","Little East","29-12-0","0.707"
-"4","2022","Diana Pepin","Little East","44-7-0","0.863"
-"5","2021","Diana Pepin","Little East","32-4-0","0.889"
-"6","2020","Diana Pepin","Little East","1-0-0","1.000"
-"7","2019","Diana Pepin","Little East","36-13-0","0.735"
-"8","2018","Diana Pepin","Little East","17-22-0","0.436"
-"9","2017","Diana Pepin","Little East","15-25-0","0.375"
-"10","2016","Diana Pepin","Little East","15-25-0","0.375"
-"11","2015","Diana Pepin","Little East","29-8-1","0.784"
-"12","2014","Diana Pepin","Little East","25-13-0","0.658"
-"13","2013","Diana Pepin","Little East","28-14-0","0.667"
-"14","2012","Diana Pepin","Little East","44-3-0","0.936"
-"15","2011","Diana Pepin","Little East","35-7-0","0.833"
-"16","2010","Diana Pepin","Little East","39-6-1","0.867"
-"17","2009","Diana Pepin","Little East","26-13-0","0.667"
-"18","2008","Diana Pepin","Little East","28-14-0","0.667"
-"19","2007","Diana Pepin","Little East","21-16-0","0.568"
-"20","2006","Diana Pepin","Little East","21-19-0","0.525"
-"21","2005","Diana Pepin","Little East","15-26-0","0.366"
-"22","2004","Diana Pepin","Little East","21-18-0","0.538"
-"23","2003","Diana Pepin","Little East","17-18-0","0.486"
-"24","2002","Diana Pepin","Little East","19-18-0","0.514"
-"25","2000","Tom York","-","15-20-0","0.429"
-"26","1999","Tom York","-","19-22-0","0.463"
-"27","1998","Tom York","-","23-19-0","0.548"
-"28","1997","Cindy Walz","-","15-23-0","0.395"
-"29","1996","Cindy Walz","-","18-20-0","0.474"
-"30","1995","John Risley","-","32-15-0","0.681"
-"31","1994","John Risley","-","18-14-0","0.562"
-"32","1993","Clyde Washburne","-","24-10-0","0.706"
-"33","1992","Jeff Anderson","-","32-11-0","0.744"
-"34","1991","Jeff Anderson","-","34-12-0","0.739"
-"35","1990","Jeff Anderson","-","34-5-0","0.872"
-"36","1989","Jeff Anderson","-","36-8-0","0.818"
-"37","1988","Jeff Anderson","-","35-7-0","0.833"
-"38","1987","Clyde Washburne","-","31-10-0","0.756"
-"39","1986","Clyde Washburne","-","36-11-0","0.766"
-"40","1985","Clyde Washburne","-","39-9-0","0.812"
-"41","1984","Clyde Washburne","-","28-6-0","0.824"
-"42","1983","Clyde Washburne","-","31-7-0","0.816"
-"43","1982","Clyde Washburne","-","27-10-0","0.730"
-"44","1981","Clyde Washburne","-","24-11-0","0.686"
-"45","1980","Clyde Washburne","-","13-11-0","0.542"
-"46","1979","Clyde Washburne","-","10-12-1","0.455"
-"47","1978","Clyde Washburne","-","11-7-0","0.611"
-"48","1977","Clyde Washburne","-","10-6-0","0.625"
+"1","2025","Diana Pepin","Little East","0-0-0",0
+"2","2024","Diana Pepin","Little East","24-18-1",0.57
+"3","2023","Diana Pepin","Little East","29-12-0",0.707
+"4","2022","Diana Pepin","Little East","44-7-0",0.863
+"5","2021","Diana Pepin","Little East","32-4-0",0.889
+"6","2020","Diana Pepin","Little East","1-0-0",1
+"7","2019","Diana Pepin","Little East","36-13-0",0.735
+"8","2018","Diana Pepin","Little East","17-22-0",0.436
+"9","2017","Diana Pepin","Little East","15-25-0",0.375
+"10","2016","Diana Pepin","Little East","15-25-0",0.375
+"11","2015","Diana Pepin","Little East","29-8-1",0.776
+"12","2014","Diana Pepin","Little East","25-13-0",0.658
+"13","2013","Diana Pepin","Little East","28-14-0",0.667
+"14","2012","Diana Pepin","Little East","44-3-0",0.936
+"15","2011","Diana Pepin","Little East","35-7-0",0.833
+"16","2010","Diana Pepin","Little East","39-6-1",0.859
+"17","2009","Diana Pepin","Little East","26-13-0",0.667
+"18","2008","Diana Pepin","Little East","28-14-0",0.667
+"19","2007","Diana Pepin","Little East","21-16-0",0.568
+"20","2006","Diana Pepin","Little East","21-19-0",0.525
+"21","2005","Diana Pepin","Little East","15-26-0",0.366
+"22","2004","Diana Pepin","Little East","21-18-0",0.538
+"23","2003","Diana Pepin","Little East","17-18-0",0.486
+"24","2002","Diana Pepin","Little East","19-18-0",0.514
+"25","2001","","-","NA-NA-0",NA
+"26","1900","Tom York","-","15-20-0",0.429
+"27","1999","Tom York","-","19-22-0",0.463
+"28","1998","Tom York","-","23-19-0",0.548
+"29","1997","Cindy Walz","-","15-23-0",0.395
+"30","1996","Cindy Walz","-","18-20-0",0.474
+"31","1995","John Risley","-","32-15-0",0.681
+"32","1994","John Risley","-","18-14-0",0.563
+"33","1993","Clyde Washburne","-","24-10-0",0.706
+"34","1992","Jeff Anderson","-","32-11-0",0.744
+"35","1991","Jeff Anderson","-","34-12-0",0.739
+"36","1990","Jeff Anderson","-","34-5-0",0.872
+"37","1989","Jeff Anderson","-","36-8-0",0.818
+"38","1988","Jeff Anderson","-","35-7-0",0.833
+"39","1987","Clyde Washburne","-","31-10-0",0.756
+"40","1986","Clyde Washburne","-","36-11-0",0.766
+"41","1985","Clyde Washburne","-","39-9-0",0.813
+"42","1984","Clyde Washburne","-","28-6-0",0.824
+"43","1983","Clyde Washburne","-","31-7-0",0.816
+"44","1982","Clyde Washburne","-","27-10-0",0.73
+"45","1981","Clyde Washburne","-","24-11-0",0.686
+"46","1980","Clyde Washburne","-","13-11-0",0.542
+"47","1979","Clyde Washburne","-","10-12-1",0.457
+"48","1978","Clyde Washburne","-","11-7-0",0.611
+"49","1977","Clyde Washburne","-","10-6-0",0.625

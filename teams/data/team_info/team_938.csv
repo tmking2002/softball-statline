@@ -1,32 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Wes Landrum","MAC Commonwealth","0-0-0","  NaN"
-"2","2024","Wes Landrum","MAC Commonwealth","23-16-0","0.590"
-"3","2023","Wes Landrum","MAC Commonwealth","19-13-0","0.594"
-"4","2022","Wes Landrum","MAC Commonwealth","15-17-0","0.469"
-"5","2021","Wes Landrum","MAC Commonwealth","22-8-0","0.733"
-"6","2020","Wes Landrum","MAC Commonwealth","8-4-0","0.667"
-"7","2019","Wes Landrum","MAC Commonwealth","24-18-1","0.571"
-"8","2018","Jenn Castle","MAC Commonwealth","23-14-1","0.622"
-"9","2017","Katie Yohe","MAC Commonwealth","19-16-0","0.543"
-"10","2016","Katie Yohe","MAC Commonwealth","13-23-0","0.361"
-"11","2015","Katie Yohe","MAC Commonwealth","19-19-1","0.500"
-"12","2014","Katie Yohe","MAC Commonwealth","26-15-0","0.634"
-"13","2013","Lindsay Berger","MAC Commonwealth","37-11-0","0.771"
-"14","2012","Lindsay Berger","MAC Commonwealth","38-11-0","0.776"
-"15","2011","Lindsay Berger","MAC Commonwealth","23-13-0","0.639"
-"16","2010","Lindsay Berger","MAC Commonwealth","22-15-0","0.595"
-"17","2009","Lindsay Berger","MAC Freedom","15-20-0","0.429"
-"18","2008","Craig Wojszwillo","CSAC","32-12-0","0.727"
-"19","2007","Craig Wojszwillo","CSAC","21-16-0","0.568"
-"20","2006","Craig Wojszwillo","CSAC","20-21-0","0.488"
-"21","2005","Craig Wojszwillo","CSAC","11-20-0","0.355"
-"22","2004","Craig Wojszwillo","CSAC","8-29-0","0.216"
-"23","2003","Craig Wojszwillo","CSAC","11-19-0","0.367"
-"24","2002","Craig Wojszwillo","CSAC","36-23-0","0.610"
-"25","2001","Craig Wojszwillo","-","17-17-0","0.500"
-"26","2000","Craig Wojszwillo","-","22-13-0","0.629"
-"27","1999","Craig Wojszwillo","-","20-15-1","0.571"
-"28","1998","Craig Wojszwillo","-","15-15-0","0.500"
-"29","1997","John Gilmer","-","24-8-0","0.750"
-"30","1996","John Gilmer","-","22-9-0","0.710"
-"31","1995","Scott Pierce","-","24-15-0","0.615"
+"1","2025","Wes Landrum","MAC Commonwealth","0-0-0",0
+"2","2024","Wes Landrum","MAC Commonwealth","23-16-0",0.59
+"3","2023","Wes Landrum","MAC Commonwealth","19-13-0",0.594
+"4","2022","Wes Landrum","MAC Commonwealth","15-17-0",0.469
+"5","2021","Wes Landrum","MAC Commonwealth","22-8-0",0.733
+"6","2020","Wes Landrum","MAC Commonwealth","8-4-0",0.667
+"7","2019","Wes Landrum","MAC Commonwealth","24-18-1",0.57
+"8","2018","Jenn Castle","MAC Commonwealth","23-14-1",0.618
+"9","2017","Katie Yohe","MAC Commonwealth","19-16-0",0.543
+"10","2016","Katie Yohe","MAC Commonwealth","13-23-0",0.361
+"11","2015","Katie Yohe","MAC Commonwealth","19-19-1",0.5
+"12","2014","Katie Yohe","MAC Commonwealth","26-15-0",0.634
+"13","2013","Lindsay Berger","MAC Commonwealth","37-11-0",0.771
+"14","2012","Lindsay Berger","MAC Commonwealth","38-11-0",0.776
+"15","2011","Lindsay Berger","MAC Commonwealth","23-13-0",0.639
+"16","2010","Lindsay Berger","MAC Commonwealth","22-15-0",0.595
+"17","2009","Lindsay Berger","MAC Freedom","15-20-0",0.429
+"18","2008","Craig Wojszwillo","CSAC","32-12-0",0.727
+"19","2007","Craig Wojszwillo","CSAC","21-16-0",0.568
+"20","2006","Craig Wojszwillo","CSAC","20-21-0",0.488
+"21","2005","Craig Wojszwillo","CSAC","11-20-0",0.355
+"22","2004","Craig Wojszwillo","CSAC","8-29-0",0.216
+"23","2003","Craig Wojszwillo","CSAC","11-19-0",0.367
+"24","2002","Craig Wojszwillo","CSAC","36-23-0",0.61
+"25","2001","Craig Wojszwillo","-","17-17-0",0.5
+"26","1900","Craig Wojszwillo","-","22-13-0",0.629
+"27","1999","Craig Wojszwillo","-","20-15-1",0.569
+"28","1998","Craig Wojszwillo","-","15-15-0",0.5
+"29","1997","John Gilmer","-","24-8-0",0.75
+"30","1996","John Gilmer","-","22-9-0",0.71
+"31","1995","Scott Pierce","-","24-15-0",0.615
+"32","1994","","-","NA-NA-0",NA
+"33","1993","","-","NA-NA-0",NA
+"34","1992","","-","NA-NA-0",NA
+"35","1991","","-","NA-NA-0",NA
+"36","1990","","-","NA-NA-0",NA
+"37","1989","","-","NA-NA-0",NA
+"38","1988","","-","NA-NA-0",NA
+"39","1987","","-","NA-NA-0",NA
+"40","1986","","-","NA-NA-0",NA
+"41","1985","","-","NA-NA-0",NA

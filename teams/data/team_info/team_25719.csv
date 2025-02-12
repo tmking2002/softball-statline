@@ -1,23 +1,26 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Bill Graham","AMCC","0-0-0","  NaN"
-"2","2024","Bill Graham","AMCC","18-17-0","0.514"
-"3","2023","Bill Graham","AMCC","25-14-0","0.641"
-"4","2022","Bill Graham","AMCC","19-13-0","0.594"
-"5","2021","Joe Merilli","AMCC","11-13-1","0.458"
-"6","2020","Joe Merilli","AMCC","2-8-0","0.200"
-"7","2019","Joe Merilli","AMCC","18-20-0","0.474"
-"8","2018","Joe Merilli","AMCC","22-17-1","0.564"
-"9","2017","Joe Merilli","AMCC","18-18-0","0.500"
-"10","2016","Joe Merilli","AMCC","27-11-0","0.711"
-"11","2015","Jessica Bilko","AMCC","29-13-0","0.690"
-"12","2014","Fred Caldwell","AMCC","29-11-0","0.725"
-"13","2013","Fred Caldwell","AMCC","27-12-0","0.692"
-"14","2012","Fred Caldwell","AMCC","33-12-0","0.733"
-"15","2011","Fred Caldwell","AMCC","25-14-0","0.641"
-"16","2010","Fred Caldwell","AMCC","21-18-1","0.538"
-"17","2009","Nikki Runzo","AMCC","7-27-0","0.206"
-"18","2008","Nikki Runzo","AMCC","5-30-0","0.143"
-"19","2007","Brenda Palmer","AMCC","6-24-0","0.200"
-"20","2006","Brenda Palmer","AMCC","7-15-0","0.318"
-"21","2005","Brenda Palmer","AMCC","11-21-0","0.344"
-"22","2004","Brenda Palmer","AMCC","18-19-0","0.486"
+"1","2025","Bill Graham","AMCC","0-0-0",0
+"2","2024","Bill Graham","AMCC","18-17-0",0.514
+"3","2023","Bill Graham","AMCC","25-14-0",0.641
+"4","2022","Bill Graham","AMCC","19-13-0",0.594
+"5","2021","Joe Merilli","AMCC","11-13-1",0.46
+"6","2020","Joe Merilli","AMCC","2-8-0",0.2
+"7","2019","Joe Merilli","AMCC","18-20-0",0.474
+"8","2018","Joe Merilli","AMCC","22-17-1",0.563
+"9","2017","Joe Merilli","AMCC","18-18-0",0.5
+"10","2016","Joe Merilli","AMCC","27-11-0",0.711
+"11","2015","Jessica Bilko","AMCC","29-13-0",0.69
+"12","2014","Fred Caldwell","AMCC","29-11-0",0.725
+"13","2013","Fred Caldwell","AMCC","27-12-0",0.692
+"14","2012","Fred Caldwell","AMCC","33-12-0",0.733
+"15","2011","Fred Caldwell","AMCC","25-14-0",0.641
+"16","2010","Fred Caldwell","AMCC","21-18-1",0.538
+"17","2009","Nikki Runzo","AMCC","7-27-0",0.206
+"18","2008","Nikki Runzo","AMCC","5-30-0",0.143
+"19","2007","Brenda Palmer","AMCC","6-24-0",0.2
+"20","2006","Brenda Palmer","AMCC","7-15-0",0.318
+"21","2005","Brenda Palmer","AMCC","11-21-0",0.344
+"22","2004","Brenda Palmer","AMCC","18-19-0",0.486
+"23","2003","Brenda Palmer","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","1981","","-","NA-NA-0",NA

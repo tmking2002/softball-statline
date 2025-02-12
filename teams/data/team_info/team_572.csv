@@ -1,42 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Mike Coutts","Atlantic 10","0-0-0","  NaN"
-"2","2024","Whitney Goldstein","Atlantic 10","15-37-0","0.288"
-"3","2023","Whitney Goldstein","Atlantic 10","23-31-1","0.426"
-"4","2022","Whitney Goldstein","Atlantic 10","11-35-0","0.239"
-"5","2021","Bridget Hurlman","Atlantic 10","5-22-0","0.185"
-"6","2020","Bridget Hurlman","Atlantic 10","4-16-0","0.200"
-"7","2019","Bridget Hurlman","Atlantic 10","17-29-0","0.370"
-"8","2018","Bridget Hurlman","Atlantic 10","12-35-0","0.255"
-"9","2017","Bridget Hurlman","Atlantic 10","11-33-0","0.250"
-"10","2016","Bridget Hurlman","Atlantic 10","12-32-0","0.273"
-"11","2015","Erin Layton","Atlantic 10","3-41-0","0.068"
-"12","2014","Erin Layton","Atlantic 10","13-32-1","0.289"
-"13","2013","Erin Layton","Atlantic 10","10-37-0","0.213"
-"14","2012","Erin Layton","Atlantic 10","23-32-1","0.418"
-"15","2011","Erin Layton","Atlantic 10","7-46-0","0.132"
-"16","2010","Erin Layton","Atlantic 10","19-35-0","0.352"
-"17","2009","Erin Layton","Atlantic 10","14-37-0","0.275"
-"18","2008","Deb Smith","Atlantic 10","14-38-0","0.269"
-"19","2007","Deb Smith","Atlantic 10","10-35-0","0.222"
-"20","2006","Deb Smith","Atlantic 10","20-27-0","0.426"
-"21","2005","Jill Cimminello (1-6)Christina Sutcliffe (7-29)","Atlantic 10","8-35-0","0.186"
-"22","2004","Christina Sutcliffe","Atlantic 10","15-31-0","0.326"
-"23","2003","Christina Sutcliffe","Atlantic 10","21-22-0","0.488"
-"24","2002","Kim Staehle","Atlantic 10","28-29-0","0.491"
-"25","2001","Kim Staehle","Atlantic 10","31-29-0","0.517"
-"26","2000","Kim Staehle","Atlantic 10","20-30-1","0.400"
-"27","1999","Melissa Jarrell","Atlantic 10","20-35-1","0.364"
-"28","1998","Melissa Jarrell","-","21-29-0","0.420"
-"29","1997","Melissa Jarrell","Atlantic 10","25-20-1","0.556"
-"30","1996","Melissa Jarrell","-","25-22-0","0.532"
-"31","1995","Melissa Jarrell","-","23-26-0","0.469"
-"32","1994","Melissa Jarrell","-","27-28-0","0.491"
-"33","1993","Melissa Jarrell","-","15-29-0","0.341"
-"34","1992","Sue Tougas","-","11-24-0","0.314"
-"35","1991","Sue Tougas","-","12-28-1","0.300"
-"36","1990","Sue Tougas","-","16-21-0","0.432"
-"37","1989","Sue Tougas","-","16-28-0","0.364"
-"38","1988","Sue Tougas","-","16-31-0","0.340"
-"39","1987","Sue Tougas","-","11-25-0","0.306"
-"40","1986","Sue Tougas","-","27-23-1","0.540"
-"41","1985","Sue Tougas","-","20-19-1","0.513"
+"1","2025","Mike Coutts","Atlantic 10","0-0-0",0
+"2","2024","Whitney Goldstein","Atlantic 10","15-37-0",0.288
+"3","2023","Whitney Goldstein","Atlantic 10","23-31-1",0.427
+"4","2022","Whitney Goldstein","Atlantic 10","11-35-0",0.239
+"5","2021","Bridget Hurlman","Atlantic 10","5-22-0",0.185
+"6","2020","Bridget Hurlman","Atlantic 10","4-16-0",0.2
+"7","2019","Bridget Hurlman","Atlantic 10","17-29-0",0.37
+"8","2018","Bridget Hurlman","Atlantic 10","12-35-0",0.255
+"9","2017","Bridget Hurlman","Atlantic 10","11-33-0",0.25
+"10","2016","Bridget Hurlman","Atlantic 10","12-32-0",0.273
+"11","2015","Erin Layton","Atlantic 10","3-41-0",0.068
+"12","2014","Erin Layton","Atlantic 10","13-32-1",0.293
+"13","2013","Erin Layton","Atlantic 10","10-37-0",0.213
+"14","2012","Erin Layton","Atlantic 10","23-32-1",0.42
+"15","2011","Erin Layton","Atlantic 10","7-46-0",0.132
+"16","2010","Erin Layton","Atlantic 10","19-35-0",0.352
+"17","2009","Erin Layton","Atlantic 10","14-37-0",0.275
+"18","2008","Deb Smith","Atlantic 10","14-38-0",0.269
+"19","2007","Deb Smith","Atlantic 10","10-35-0",0.222
+"20","2006","Deb Smith","Atlantic 10","20-27-0",0.426
+"21","2005","Jill Cimminello (1-6)Christina Sutcliffe (7-29)","Atlantic 10","8-35-0",0.186
+"22","2004","Christina Sutcliffe","Atlantic 10","15-31-0",0.326
+"23","2003","Christina Sutcliffe","Atlantic 10","21-22-0",0.488
+"24","2002","Kim Staehle","Atlantic 10","28-29-0",0.491
+"25","2001","Kim Staehle","Atlantic 10","31-29-0",0.517
+"26","1900","Kim Staehle","Atlantic 10","20-30-1",0.402
+"27","1999","Melissa Jarrell","Atlantic 10","20-35-1",0.366
+"28","1998","Melissa Jarrell","-","21-29-0",0.42
+"29","1997","Melissa Jarrell","Atlantic 10","25-20-1",0.554
+"30","1996","Melissa Jarrell","-","25-22-0",0.532
+"31","1995","Melissa Jarrell","-","23-26-0",0.469
+"32","1994","Melissa Jarrell","-","27-28-0",0.491
+"33","1993","Melissa Jarrell","-","15-29-0",0.341
+"34","1992","Sue Tougas","-","11-24-0",0.314
+"35","1991","Sue Tougas","-","12-28-1",0.305
+"36","1990","Sue Tougas","-","16-21-0",0.432
+"37","1989","Sue Tougas","-","16-28-0",0.364
+"38","1988","Sue Tougas","-","16-31-0",0.34
+"39","1987","Sue Tougas","-","11-25-0",0.306
+"40","1986","Sue Tougas","-","27-23-1",0.539
+"41","1985","Sue Tougas","-","20-19-1",0.513
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA

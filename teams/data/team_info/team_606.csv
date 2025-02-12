@@ -1,42 +1,47 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Gina McCool","Atlantic 10","1-0-0","1.000"
-"2","2024","Gina McCool","Atlantic 10","22-30-0","0.423"
-"3","2023","Erin Brooks","Atlantic 10","19-29-0","0.396"
-"4","2022","Erin Brooks","Atlantic 10","23-23-0","0.500"
-"5","2021","Erin Brooks","Atlantic 10","26-20-0","0.565"
-"6","2020","Erin Brooks","Atlantic 10","4-11-0","0.267"
-"7","2019","Erin Brooks","Atlantic 10","28-25-0","0.528"
-"8","2018","Erin Brooks","Atlantic 10","24-25-0","0.490"
-"9","2017","Terri Adams (9-20)Brooke Darreff (16-8)","Atlantic 10","25-28-0","0.472"
-"10","2016","Terri Adams","Atlantic 10","25-26-1","0.490"
-"11","2015","Terri Adams","Atlantic 10","23-18-0","0.561"
-"12","2014","Terri Adams","Atlantic 10","22-20-0","0.524"
-"13","2013","Terri Adams","Atlantic 10","40-11-1","0.784"
-"14","2012","Terri Adams","Atlantic 10","22-29-1","0.431"
-"15","2011","Terri Adams","Atlantic 10","31-16-0","0.660"
-"16","2010","Terri Adams","Atlantic 10","29-18-0","0.617"
-"17","2009","Terri Adams","Atlantic 10","27-20-0","0.574"
-"18","2008","Terri Adams","Atlantic 10","19-23-0","0.452"
-"19","2007","Terri Adams","Atlantic 10","13-25-0","0.342"
-"20","2006","Moo Moyer","Atlantic 10","13-38-1","0.255"
-"21","2005","Moo Moyer","Atlantic 10","21-23-0","0.477"
-"22","2004","Moo Moyer","Atlantic 10","21-29-0","0.420"
-"23","2003","Moo Moyer","Atlantic 10","25-15-0","0.625"
-"24","2002","Moo Moyer","Atlantic 10","32-17-0","0.653"
-"25","2001","Larry Dougherty","Atlantic 10","21-23-1","0.477"
-"26","2000","Charlie Wieners","Atlantic 10","34-15-1","0.694"
-"27","1999","Charlie Wieners","Atlantic 10","34-27-1","0.557"
-"28","1998","Charlie Wieners","-","35-17-1","0.673"
-"29","1997","Charlie Wieners","Atlantic 10","39-16-0","0.709"
-"30","1996","Charlie Wieners","-","37-11-0","0.771"
-"31","1995","Charlie Wieners","-","37-16-0","0.698"
-"32","1994","Charlie Wieners","-","23-17-0","0.575"
-"33","1993","Charlie Wieners","-","31-16-0","0.660"
-"34","1992","Charlie Wieners","-","26-15-0","0.634"
-"35","1991","Charlie Wieners","-","21-16-1","0.568"
-"36","1990","Bob Shaw","-","10-28-0","0.263"
-"37","1989","Bob Shaw","-","7-34-0","0.171"
-"38","1988","Bob Shaw","-","13-23-0","0.361"
-"39","1987","Bob Shaw","-","10-15-0","0.400"
-"40","1986","Bob Shaw","-","13-12-0","0.520"
-"41","1985","Bob Shaw","-","5-13-0","0.278"
+"1","2025","Gina McCool","Atlantic 10","1-0-0",1
+"2","2024","Gina McCool","Atlantic 10","22-30-0",0.423
+"3","2023","Erin Brooks","Atlantic 10","19-29-0",0.396
+"4","2022","Erin Brooks","Atlantic 10","23-23-0",0.5
+"5","2021","Erin Brooks","Atlantic 10","26-20-0",0.565
+"6","2020","Erin Brooks","Atlantic 10","4-11-0",0.267
+"7","2019","Erin Brooks","Atlantic 10","28-25-0",0.528
+"8","2018","Erin Brooks","Atlantic 10","24-25-0",0.49
+"9","2017","Terri Adams (9-20)Brooke Darreff (16-8)","Atlantic 10","25-28-0",0.472
+"10","2016","Terri Adams","Atlantic 10","25-26-1",0.49
+"11","2015","Terri Adams","Atlantic 10","23-18-0",0.561
+"12","2014","Terri Adams","Atlantic 10","22-20-0",0.524
+"13","2013","Terri Adams","Atlantic 10","40-11-1",0.779
+"14","2012","Terri Adams","Atlantic 10","22-29-1",0.433
+"15","2011","Terri Adams","Atlantic 10","31-16-0",0.66
+"16","2010","Terri Adams","Atlantic 10","29-18-0",0.617
+"17","2009","Terri Adams","Atlantic 10","27-20-0",0.574
+"18","2008","Terri Adams","Atlantic 10","19-23-0",0.452
+"19","2007","Terri Adams","Atlantic 10","13-25-0",0.342
+"20","2006","Moo Moyer","Atlantic 10","13-38-1",0.26
+"21","2005","Moo Moyer","Atlantic 10","21-23-0",0.477
+"22","2004","Moo Moyer","Atlantic 10","21-29-0",0.42
+"23","2003","Moo Moyer","Atlantic 10","25-15-0",0.625
+"24","2002","Moo Moyer","Atlantic 10","32-17-0",0.653
+"25","2001","Larry Dougherty","Atlantic 10","21-23-1",0.478
+"26","1900","Charlie Wieners","Atlantic 10","34-15-1",0.69
+"27","1999","Charlie Wieners","Atlantic 10","34-27-1",0.556
+"28","1998","Charlie Wieners","-","35-17-1",0.67
+"29","1997","Charlie Wieners","Atlantic 10","39-16-0",0.709
+"30","1996","Charlie Wieners","-","37-11-0",0.771
+"31","1995","Charlie Wieners","-","37-16-0",0.698
+"32","1994","Charlie Wieners","-","23-17-0",0.575
+"33","1993","Charlie Wieners","-","31-16-0",0.66
+"34","1992","Charlie Wieners","-","26-15-0",0.634
+"35","1991","Charlie Wieners","-","21-16-1",0.566
+"36","1990","Bob Shaw","-","10-28-0",0.263
+"37","1989","Bob Shaw","-","7-34-0",0.171
+"38","1988","Bob Shaw","-","13-23-0",0.361
+"39","1987","Bob Shaw","-","10-15-0",0.4
+"40","1986","Bob Shaw","-","13-12-0",0.52
+"41","1985","Bob Shaw","-","5-13-0",0.278
+"42","1984","","-","NA-NA-0",NA
+"43","1983","","-","NA-NA-0",NA
+"44","1982","","-","NA-NA-0",NA
+"45","1981","","-","NA-NA-0",NA
+"46","1980","","-","NA-NA-0",NA

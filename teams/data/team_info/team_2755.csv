@@ -1,41 +1,43 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Tripp Swisher","GLVC","2-4-0","0.333"
-"2","2024","Tripp Swisher","GLVC","19-31-0","0.380"
-"3","2023","Tripp Swisher","GLVC","11-39-0","0.220"
-"4","2022","Carly Adkins","GLVC","8-38-0","0.174"
-"5","2021","Chad Kerr","GLVC","2-40-0","0.048"
-"6","2020","Chad Kerr","GLVC","7-12-0","0.368"
-"7","2019","Dalton Kelley","Mid-America Intercollegiate","8-47-0","0.145"
-"8","2018","Jim Flora","Mid-America Intercollegiate","18-33-0","0.353"
-"9","2017","Jim Flora","Mid-America Intercollegiate","32-21-0","0.604"
-"10","2016","Jim Flora","Mid-America Intercollegiate","24-35-0","0.407"
-"11","2015","Jim Flora","Mid-America Intercollegiate","22-27-0","0.449"
-"12","2014","Jim Flora","Mid-America Intercollegiate","17-31-0","0.354"
-"13","2013","Jamie Halbrook","Mid-America Intercollegiate","4-48-0","0.077"
-"14","2012","Tammy Ikerd","Mid-America Intercollegiate","16-30-0","0.348"
-"15","2011","Christy Wiseman","Mid-America Intercollegiate","7-27-0","0.206"
-"16","2010","Christy Wiseman","Mid-America Intercollegiate","23-32-0","0.418"
-"17","2009","Christy Wiseman","Mid-America Intercollegiate","23-35-0","0.397"
-"18","2008","Christy Wiseman","Mid-America Intercollegiate","14-27-0","0.341"
-"19","2007","Christy Wiseman","Mid-America Intercollegiate","8-35-0","0.186"
-"20","2006","Cindy Snead","Mid-America Intercollegiate","17-32-0","0.347"
-"21","2005","Cindy Snead","Mid-America Intercollegiate","17-39-0","0.304"
-"22","2004","","Mid-America Intercollegiate","8-31-0","0.205"
-"23","2001","Tony Hatmaker","-","14-38-0","0.269"
-"24","2000","Tony Hatmaker","-","16-38-0","0.296"
-"25","1999","Tony Hatmaker","-","9-27-0","0.250"
-"26","1998","Anne Julian","-","8-19-0","0.296"
-"27","1997","Anne Julian","-","20-16-1","0.556"
-"28","1996","Larry Gore","-","8-37-0","0.178"
-"29","1995","Larry Gore","-","10-26-0","0.278"
-"30","1994","Jack Stevens","-","15-30-0","0.333"
-"31","1993","Jack Stevens","-","7-20-0","0.259"
-"32","1992","Jack Stevens","-","8-28-0","0.222"
-"33","1991","Jack Stevens","-","11-23-0","0.324"
-"34","1990","Rosalyn Snellen","-","18-14-0","0.562"
-"35","1989","Rosalyn Snellen","-","22-12-0","0.647"
-"36","1988","Rosalyn Snellen","-","20-11-0","0.645"
-"37","1987","Rosalyn Snellen","-","13-22-0","0.371"
-"38","1986","Rosalyn Snellen","-","6-20-0","0.231"
-"39","1985","Rosalyn Snellen","-","17-15-0","0.531"
-"40","1984","Rosalyn Snellen","-","19-10-0","0.655"
+"1","2025","Tripp Swisher","GLVC","2-4-0",0.333
+"2","2024","Tripp Swisher","GLVC","19-31-0",0.38
+"3","2023","Tripp Swisher","GLVC","11-39-0",0.22
+"4","2022","Carly Adkins","GLVC","8-38-0",0.174
+"5","2021","Chad Kerr","GLVC","2-40-0",0.048
+"6","2020","Chad Kerr","GLVC","7-12-0",0.368
+"7","2019","Dalton Kelley","Mid-America Intercollegiate","8-47-0",0.145
+"8","2018","Jim Flora","Mid-America Intercollegiate","18-33-0",0.353
+"9","2017","Jim Flora","Mid-America Intercollegiate","32-21-0",0.604
+"10","2016","Jim Flora","Mid-America Intercollegiate","24-35-0",0.407
+"11","2015","Jim Flora","Mid-America Intercollegiate","22-27-0",0.449
+"12","2014","Jim Flora","Mid-America Intercollegiate","17-31-0",0.354
+"13","2013","Jamie Halbrook","Mid-America Intercollegiate","4-48-0",0.077
+"14","2012","Tammy Ikerd","Mid-America Intercollegiate","16-30-0",0.348
+"15","2011","Christy Wiseman","Mid-America Intercollegiate","7-27-0",0.206
+"16","2010","Christy Wiseman","Mid-America Intercollegiate","23-32-0",0.418
+"17","2009","Christy Wiseman","Mid-America Intercollegiate","23-35-0",0.397
+"18","2008","Christy Wiseman","Mid-America Intercollegiate","14-27-0",0.341
+"19","2007","Christy Wiseman","Mid-America Intercollegiate","8-35-0",0.186
+"20","2006","Cindy Snead","Mid-America Intercollegiate","17-32-0",0.347
+"21","2005","Cindy Snead","Mid-America Intercollegiate","17-39-0",0.304
+"22","2004","","Mid-America Intercollegiate","8-31-0",0.205
+"23","2003","","-","NA-NA-0",NA
+"24","2002","","-","NA-NA-0",NA
+"25","2001","Tony Hatmaker","-","14-38-0",0.269
+"26","1900","Tony Hatmaker","-","16-38-0",0.296
+"27","1999","Tony Hatmaker","-","9-27-0",0.25
+"28","1998","Anne Julian","-","8-19-0",0.296
+"29","1997","Anne Julian","-","20-16-1",0.554
+"30","1996","Larry Gore","-","8-37-0",0.178
+"31","1995","Larry Gore","-","10-26-0",0.278
+"32","1994","Jack Stevens","-","15-30-0",0.333
+"33","1993","Jack Stevens","-","7-20-0",0.259
+"34","1992","Jack Stevens","-","8-28-0",0.222
+"35","1991","Jack Stevens","-","11-23-0",0.324
+"36","1990","Rosalyn Snellen","-","18-14-0",0.563
+"37","1989","Rosalyn Snellen","-","22-12-0",0.647
+"38","1988","Rosalyn Snellen","-","20-11-0",0.645
+"39","1987","Rosalyn Snellen","-","13-22-0",0.371
+"40","1986","Rosalyn Snellen","-","6-20-0",0.231
+"41","1985","Rosalyn Snellen","-","17-15-0",0.531
+"42","1984","Rosalyn Snellen","-","19-10-0",0.655
