@@ -1,40 +1,34 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Zoe Robertson","MAC Commonwealth","0-0-0",0
-"2","2024","Zoe Robertson","MAC Commonwealth","7-30-0",0.189
-"3","2023","Zoe Robertson","MAC Commonwealth","3-28-0",0.097
-"4","2022","Zoe Robertson","MAC Commonwealth","4-28-0",0.125
-"5","2021","Marguerite DeLucas","MAC Commonwealth","0-12-0",0
-"6","2020","Marguerite DeLucas","MAC Commonwealth","0-2-0",0
-"7","2019","Marguerite DeLucas","MAC Commonwealth","25-18-0",0.581
-"8","2018","Scot Adams","MAC Commonwealth","14-19-0",0.424
-"9","2017","Scot Adams","MAC Commonwealth","17-19-0",0.472
-"10","2016","Frank Keating, Jr.","MAC Commonwealth","24-16-0",0.6
-"11","2015","Frank Keating, Jr.","MAC Commonwealth","19-16-0",0.543
-"12","2014","Frank Keating, Jr.","MAC Commonwealth","10-19-0",0.345
-"13","2013","Kate Wheeler","MAC Commonwealth","10-27-0",0.27
-"14","2012","Izzy Trottier","MAC Commonwealth","7-24-1",0.234
-"15","2011","Amber Nichols","MAC Commonwealth","9-27-0",0.25
-"16","2010","Amber Nichols","MAC Commonwealth","7-27-0",0.206
-"17","2009","Kate Wheeler","MAC Commonwealth","5-29-0",0.147
-"18","2008","Angela Nunan","MAC Commonwealth","10-28-0",0.263
-"19","2007","Angela Nunan","MAC Commonwealth","13-22-0",0.371
-"20","2006","Angela Nunan","MAC Commonwealth","14-23-0",0.378
-"21","2005","Angela Nunan","MAC Commonwealth","23-15-0",0.605
-"22","2004","Angela Nunan","MAC Commonwealth","18-17-0",0.514
-"23","2003","Angela Nunan","MAC Commonwealth","12-14-0",0.462
-"24","2002","Dr. Steve George","-","24-8-0",0.75
-"25","2001","Dr. Steve George","-","25-15-1",0.622
-"26","1900","Dr. Steve George","-","17-12-0",0.586
-"27","1999","Jim Campbell","-","9-24-1",0.279
-"28","1998","Jim Campbell","-","4-30-0",0.118
-"29","1997","Clement Meccia","-","3-31-0",0.088
-"30","1996","Brian Stufflet","-","2-21-0",0.087
-"31","1995","Brian Stufflet","-","5-23-0",0.179
-"32","1994","","-","NA-NA-0",NA
-"33","1993","Larry Youse","-","2-11-1",0.179
-"34","1992","Larry Youse","-","2-16-0",0.111
-"35","1991","","-","NA-NA-0",NA
-"36","1990","","-","NA-NA-0",NA
-"37","1987","","-","NA-NA-0",NA
-"38","1983","","-","NA-NA-0",NA
-"39","1982","","-","NA-NA-0",NA
+"1","2025","Zoe Robertson","MAC Commonwealth","0-0-0","  NaN"
+"2","2024","Zoe Robertson","MAC Commonwealth","7-30-0","0.189"
+"3","2023","Zoe Robertson","MAC Commonwealth","3-28-0","0.097"
+"4","2022","Zoe Robertson","MAC Commonwealth","4-28-0","0.125"
+"5","2021","Marguerite DeLucas","MAC Commonwealth","0-12-0","0.000"
+"6","2020","Marguerite DeLucas","MAC Commonwealth","0-2-0","0.000"
+"7","2019","Marguerite DeLucas","MAC Commonwealth","25-18-0","0.581"
+"8","2018","Scot Adams","MAC Commonwealth","14-19-0","0.424"
+"9","2017","Scot Adams","MAC Commonwealth","17-19-0","0.472"
+"10","2016","Frank Keating, Jr.","MAC Commonwealth","24-16-0","0.600"
+"11","2015","Frank Keating, Jr.","MAC Commonwealth","19-16-0","0.543"
+"12","2014","Frank Keating, Jr.","MAC Commonwealth","10-19-0","0.345"
+"13","2013","Kate Wheeler","MAC Commonwealth","10-27-0","0.270"
+"14","2012","Izzy Trottier","MAC Commonwealth","7-24-1","0.226"
+"15","2011","Amber Nichols","MAC Commonwealth","9-27-0","0.250"
+"16","2010","Amber Nichols","MAC Commonwealth","7-27-0","0.206"
+"17","2009","Kate Wheeler","MAC Commonwealth","5-29-0","0.147"
+"18","2008","Angela Nunan","MAC Commonwealth","10-28-0","0.263"
+"19","2007","Angela Nunan","MAC Commonwealth","13-22-0","0.371"
+"20","2006","Angela Nunan","MAC Commonwealth","14-23-0","0.378"
+"21","2005","Angela Nunan","MAC Commonwealth","23-15-0","0.605"
+"22","2004","Angela Nunan","MAC Commonwealth","18-17-0","0.514"
+"23","2003","Angela Nunan","MAC Commonwealth","12-14-0","0.462"
+"24","2002","Dr. Steve George","-","24-8-0","0.750"
+"25","2001","Dr. Steve George","-","25-15-1","0.625"
+"26","2000","Dr. Steve George","-","17-12-0","0.586"
+"27","1999","Jim Campbell","-","9-24-1","0.273"
+"28","1998","Jim Campbell","-","4-30-0","0.118"
+"29","1997","Clement Meccia","-","3-31-0","0.088"
+"30","1996","Brian Stufflet","-","2-21-0","0.087"
+"31","1995","Brian Stufflet","-","5-23-0","0.179"
+"32","1993","Larry Youse","-","2-11-1","0.154"
+"33","1992","Larry Youse","-","2-16-0","0.111"

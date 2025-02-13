@@ -1,5 +1,5 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Darren Mueller","Summit League","3-2-0",0.6
+"1",2025,"Darren Mueller","Summit League","3-3-0",0.5
 "2",2024,"Darren Mueller","Summit League","17-37-0",0.315
 "3",2023,"Darren Mueller","Summit League","30-21-0",0.588
 "4",2022,"Darren Mueller","Summit League","30-23-0",0.566
@@ -24,7 +24,7 @@
 "23",2003,"Darren Mueller","NCC","43-11-0",0.796
 "24",2002,"Darren Mueller","NCC","44-10-0",0.815
 "25",2001,"Mitch Hanson","-","53-6-0",0.898
-"26",1900,"Mitch Hanson","-","68-10-0",0.872
+"26",2000,"Mitch Hanson","-","68-10-0",0.872
 "27",1999,"Mitch Hanson","-","53-12-0",0.815
 "28",1998,"Mitch Hanson","-","64-17-0",0.79
 "29",1997,"Mitch Hanson","-","45-19-0",0.703
@@ -33,11 +33,3 @@
 "32",1994,"Greg Crowley","-","4-32-0",0.111
 "33",1993,"Greg Crowley","-","5-34-0",0.128
 "34",1992,"Karla Gavin","-","8-21-0",0.276
-"35",1991,"","-","NA-NA-0",NA
-"36",1990,"","-","NA-NA-0",NA
-"37",1989,"","-","NA-NA-0",NA
-"38",1988,"","-","NA-NA-0",NA
-"39",1986,"","-","NA-NA-0",NA
-"40",1984,"","-","NA-NA-0",NA
-"41",1983,"","-","NA-NA-0",NA
-"42",1982,"","-","NA-NA-0",NA

@@ -3,12 +3,12 @@
 "2",2024,"Jennifer Bridges","CCAA","30-18-0",0.625
 "3",2023,"Jennifer Bridges","CCAA","35-15-0",0.7
 "4",2022,"Jennifer Bridges","CCAA","42-18-0",0.7
-"5",2021,"Jennifer Bridges","CCAA","0-0-0",0
+"5",2021,"Jennifer Bridges","CCAA","0-0-0",NA
 "6",2020,"Jennifer Bridges","CCAA","17-8-0",0.68
 "7",2019,"Jennifer Bridges","CCAA","36-20-0",0.643
 "8",2018,"Jennifer Bridges","CCAA","27-22-0",0.551
 "9",2017,"Jennifer Bridges","CCAA","38-20-0",0.655
-"10",2016,"Jennifer Bridges","CCAA","33-24-1",0.578
+"10",2016,"Jennifer Bridges","CCAA","33-24-1",0.579
 "11",2015,"Jennifer Bridges","CCAA","42-21-0",0.667
 "12",2014,"Jennifer Bridges","CCAA","38-23-0",0.623
 "13",2013,"Jennifer Bridges","CCAA","37-21-0",0.638
@@ -19,12 +19,12 @@
 "18",2008,"Jaime Wallin","CCAA","16-36-0",0.308
 "19",2007,"Jaime Wallin","CCAA","32-32-0",0.5
 "20",2006,"Jaime Wallin","CCAA","21-36-0",0.368
-"21",2005,"Chris Elze","CCAA","16-36-1",0.311
+"21",2005,"Chris Elze","CCAA","16-36-1",0.308
 "22",2004,"Chris Elze","CCAA","24-37-0",0.393
 "23",2003,"Chris Elze","CCAA","16-38-0",0.296
 "24",2002,"Chris Elze","CCAA","21-31-0",0.404
 "25",2001,"Chris Elze","-","22-32-0",0.407
-"26",1900,"Paul King","-","32-27-0",0.542
+"26",2000,"Paul King","-","32-27-0",0.542
 "27",1999,"Paul King","-","24-31-0",0.436
 "28",1998,"Paul King","-","22-31-0",0.415
 "29",1997,"Paul King","-","36-22-0",0.621
@@ -41,4 +41,3 @@
 "40",1986,"Paul King","-","31-19-0",0.62
 "41",1985,"Paul King","-","24-35-0",0.407
 "42",1984,"Paul King","-","24-21-0",0.533
-"43",1982,"","-","NA-NA-0",NA

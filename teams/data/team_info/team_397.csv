@@ -1,43 +1,36 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","John Butash","Atlantic East","0-0-0",0
-"2","2024","John Butash","Atlantic East","24-16-0",0.6
-"3","2023","John Butash","Atlantic East","27-18-0",0.6
-"4","2022","John Butash","Atlantic East","28-9-0",0.757
-"5","2021","John Butash","Atlantic East","9-8-0",0.529
-"6","2020","John Butash","Atlantic East","4-4-0",0.5
-"7","2019","John Butash","Atlantic East","19-22-0",0.463
-"8","2018","Bob Fitzsimmons","CSAC","20-17-0",0.541
-"9","2017","Bob Fitzsimmons","CSAC","19-17-0",0.528
-"10","2016","Bob Fitzsimmons","CSAC","22-14-0",0.611
-"11","2015","Bob Fitzsimmons","CSAC","16-18-0",0.471
-"12","2014","Bob Fitzsimmons","CSAC","24-13-0",0.649
-"13","2013","Bob Fitzsimmons","CSAC","18-16-0",0.529
-"14","2012","Bob Fitzsimmons","CSAC","23-19-0",0.548
-"15","2011","Bob Fitzsimmons","CSAC","22-17-0",0.564
-"16","2010","Bob Fitzsimmons","CSAC","19-18-0",0.514
-"17","2009","Bob Fitzsimmons","CSAC","27-11-0",0.711
-"18","2008","Bob Fitzsimmons","CSAC","19-17-0",0.528
-"19","2007","Bob Fitzsimmons","CSAC","13-21-0",0.382
-"20","2006","Bob Fitzsimmons","CSAC","20-18-0",0.526
-"21","2005","Bob Fitzsimmons","CSAC","8-30-0",0.211
-"22","2004","Bob Fitzsimmons","CSAC","6-20-0",0.231
-"23","2003","Bob Fitzsimmons","-","13-27-0",0.325
-"24","2002","","-","NA-NA-0",NA
-"25","2001","Nicole Malloy","-","7-25-0",0.219
-"26","1900","Nicole Malloy","-","10-24-1",0.3
-"27","1999","Nicole Malloy","-","10-20-0",0.333
-"28","1998","Jack Dabney","-","8-26-0",0.235
-"29","1997","Jack Dabney","-","10-18-0",0.357
-"30","1996","Jack Dabney","-","10-17-0",0.37
-"31","1995","Jack Dabney","-","18-15-0",0.545
-"32","1994","Doug Walsh","-","2-12-0",0.143
-"33","1993","Doug Walsh","-","5-8-0",0.385
-"34","1992","Bill Recipko","-","2-20-0",0.091
-"35","1991","Bill Recipko","-","7-14-0",0.333
-"36","1990","Bill Recipko","-","5-18-0",0.217
-"37","1989","","-","NA-NA-0",NA
-"38","1988","","-","NA-NA-0",NA
-"39","1987","","-","NA-NA-0",NA
-"40","1985","","-","NA-NA-0",NA
-"41","1984","","-","NA-NA-0",NA
-"42","1981","","-","NA-NA-0",NA
+"1","2025","John Butash","Atlantic East","0-0-0","  NaN"
+"2","2024","John Butash","Atlantic East","24-16-0","0.600"
+"3","2023","John Butash","Atlantic East","27-18-0","0.600"
+"4","2022","John Butash","Atlantic East","28-9-0","0.757"
+"5","2021","John Butash","Atlantic East","9-8-0","0.529"
+"6","2020","John Butash","Atlantic East","4-4-0","0.500"
+"7","2019","John Butash","Atlantic East","19-22-0","0.463"
+"8","2018","Bob Fitzsimmons","CSAC","20-17-0","0.541"
+"9","2017","Bob Fitzsimmons","CSAC","19-17-0","0.528"
+"10","2016","Bob Fitzsimmons","CSAC","22-14-0","0.611"
+"11","2015","Bob Fitzsimmons","CSAC","16-18-0","0.471"
+"12","2014","Bob Fitzsimmons","CSAC","24-13-0","0.649"
+"13","2013","Bob Fitzsimmons","CSAC","18-16-0","0.529"
+"14","2012","Bob Fitzsimmons","CSAC","23-19-0","0.548"
+"15","2011","Bob Fitzsimmons","CSAC","22-17-0","0.564"
+"16","2010","Bob Fitzsimmons","CSAC","19-18-0","0.514"
+"17","2009","Bob Fitzsimmons","CSAC","27-11-0","0.711"
+"18","2008","Bob Fitzsimmons","CSAC","19-17-0","0.528"
+"19","2007","Bob Fitzsimmons","CSAC","13-21-0","0.382"
+"20","2006","Bob Fitzsimmons","CSAC","20-18-0","0.526"
+"21","2005","Bob Fitzsimmons","CSAC","8-30-0","0.211"
+"22","2004","Bob Fitzsimmons","CSAC","6-20-0","0.231"
+"23","2003","Bob Fitzsimmons","-","13-27-0","0.325"
+"24","2001","Nicole Malloy","-","7-25-0","0.219"
+"25","2000","Nicole Malloy","-","10-24-1","0.294"
+"26","1999","Nicole Malloy","-","10-20-0","0.333"
+"27","1998","Jack Dabney","-","8-26-0","0.235"
+"28","1997","Jack Dabney","-","10-18-0","0.357"
+"29","1996","Jack Dabney","-","10-17-0","0.370"
+"30","1995","Jack Dabney","-","18-15-0","0.545"
+"31","1994","Doug Walsh","-","2-12-0","0.143"
+"32","1993","Doug Walsh","-","5-8-0","0.385"
+"33","1992","Bill Recipko","-","2-20-0","0.091"
+"34","1991","Bill Recipko","-","7-14-0","0.333"
+"35","1990","Bill Recipko","-","5-18-0","0.217"

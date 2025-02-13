@@ -1,9 +1,9 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Laura Watten","SWAC","1-4-0",0.2
+"1",2025,"Laura Watten","SWAC","1-6-0",0.143
 "2",2024,"Laura Watten","SWAC","20-32-0",0.385
 "3",2023,"Laura Watten","SWAC","19-31-0",0.38
 "4",2022,"Laura Watten","SWAC","24-26-0",0.48
-"5",2021,"Laura Watten","MEAC","0-0-0",0
+"5",2021,"Laura Watten","MEAC","0-0-0",NA
 "6",2020,"Laura Watten","MEAC","5-28-0",0.152
 "7",2019,"Laura Watten","MEAC","26-31-0",0.456
 "8",2018,"Laura Watten","MEAC","31-26-0",0.544
@@ -24,7 +24,7 @@
 "23",2003,"Laura Watten","MEAC","45-21-0",0.682
 "24",2002,"Laura Watten","MEAC","40-24-0",0.625
 "25",2001,"Laura Watten","MEAC","46-22-0",0.676
-"26",1900,"Laura Watten","MEAC","38-28-0",0.576
+"26",2000,"Laura Watten","MEAC","38-28-0",0.576
 "27",1999,"Laura Watten","MEAC","29-35-0",0.453
 "28",1998,"Laura Watten","-","28-27-0",0.509
 "29",1997,"Reggie Beverly","MEAC","22-20-0",0.524
