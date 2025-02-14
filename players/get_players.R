@@ -82,9 +82,22 @@ d3_pitching_box <- load_ncaa_softball_playerbox(2016:2025, "Pitching", "D3")
 pitching_box <- rbind(d1_pitching_box, d2_pitching_box, d3_pitching_box) %>% 
   select(player, team, season)
 
+split_name <- function(player, season) {
+  if (season == 2025) {
+    parts <- unlist(strsplit(player, " "))
+    c(last = parts[2], first = parts[1])
+  } else {
+    parts <- unlist(strsplit(player, ", "))
+    c(last = parts[1], first = parts[2])
+  }
+}
+
 box <- rbind(hitting_box, pitching_box) %>% 
   distinct(team, player, season) %>% 
-  separate(player, c("last", "first"), sep = ", ")
+  mutate(name = map2(player, season, split_name)) %>% 
+  unnest_wider(name)
+
+
 
 proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))
 
