@@ -316,10 +316,15 @@
                             if (awayScore > homeScore) {
                                 awayName.classList.add('winning-score');
                                 awayRuns.classList.add('winning-score');
+                                homeName.classList.add('losing-score');
+                                homeRuns.classList.add('losing-score');
                             } else if (homeScore > awayScore) {
                                 homeName.classList.add('winning-score');
                                 homeRuns.classList.add('winning-score');
+                                awayName.classList.add('losing-score');
+                                awayRuns.classList.add('losing-score');
                             }
+
 
                             awayRow.appendChild(awayLogoContainer);
                             awayRow.appendChild(awayNameContainer);
