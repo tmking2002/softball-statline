@@ -1,53 +1,53 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Christie Novatin","Ivy League","0-0-0","  NaN"
-"2","2024","Christie Novatin","Ivy League","11-29-0","0.275"
-"3","2023","Dani Gonzales","Ivy League","8-37-0","0.178"
-"4","2022","Leslie King","Ivy League","12-31-0","0.279"
-"5","2021","Leslie King","Ivy League","5-5-0","0.500"
-"6","2020","Leslie King","Ivy League","7-6-0","0.538"
-"7","2019","Leslie King","Ivy League","22-17-0","0.564"
-"8","2018","Leslie King","Ivy League","17-20-0","0.459"
-"9","2017","Leslie King","Ivy League","22-18-0","0.550"
-"10","2016","Leslie King","Ivy League","23-21-0","0.523"
-"11","2015","Leslie King","Ivy League","22-20-0","0.524"
-"12","2014","Leslie King","Ivy League","18-23-1","0.439"
-"13","2013","Leslie King","Ivy League","30-20-0","0.600"
-"14","2012","Leslie King","Ivy League","33-17-0","0.660"
-"15","2011","Leslie King","Ivy League","18-21-1","0.462"
-"16","2010","Leslie King","Ivy League","19-23-0","0.452"
-"17","2009","Leslie King","Ivy League","15-28-1","0.349"
-"18","2008","Leslie King","Ivy League","26-20-0","0.565"
-"19","2007","Leslie King","Ivy League","23-19-0","0.548"
-"20","2006","Leslie King","Ivy League","18-26-0","0.409"
-"21","2005","Leslie King","Ivy League","14-25-0","0.359"
-"22","2004","Leslie King","Ivy League","10-31-1","0.244"
-"23","2003","Carol Kashow","Ivy League","10-27-1","0.270"
-"24","2002","Carol Kashow","Ivy League","14-33-0","0.298"
-"25","2001","Carol Kashow","Ivy League","15-32-0","0.319"
-"26","2000","Carol Kashow","Ivy League","13-30-1","0.302"
-"27","1999","Carol Kashow","Ivy League","15-22-0","0.405"
-"28","1998","Carol Kashow","-","8-29-0","0.216"
-"29","1997","Linda Carothers","Ivy League","14-21-0","0.400"
-"30","1996","Linda Carothers","-","10-27-0","0.270"
-"31","1995","Linda Carothers","-","11-32-0","0.256"
-"32","1994","Linda Carothers","-","14-21-0","0.400"
-"33","1993","Linda Carothers","-","10-21-0","0.323"
-"34","1992","Linda Carothers","-","10-27-0","0.270"
-"35","1991","Linda Carothers","-","9-21-0","0.300"
-"36","1990","Linda Carothers","-","7-23-1","0.233"
-"37","1989","Linda Carothers","-","5-12-0","0.294"
-"38","1988","Linda Carothers","-","4-15-0","0.211"
-"39","1987","Linda Carothers","-","2-16-0","0.111"
-"40","1986","Linda Carothers","-","7-10-0","0.412"
-"41","1985","Linda Carothers","-","7-10-0","0.412"
-"42","1984","Linda Carothers","-","11-7-0","0.611"
-"43","1983","Linda Carothers","-","10-11-0","0.476"
-"44","1982","Linda Carothers","-","12-6-0","0.667"
-"45","1981","Linda Carothers","-","16-4-0","0.800"
-"46","1980","Linda Carothers","-","9-6-0","0.600"
-"47","1979","Linda Carothers","-","9-6-1","0.600"
-"48","1978","Linda Carothers","-","5-9-0","0.357"
-"49","1977","Linda Carothers","-","3-6-0","0.333"
-"50","1976","Linda Carothers","-","2-5-0","0.286"
-"51","1975","Linda Carothers","-","7-1-0","0.875"
-"52","1974","Linda Carothers","-","4-3-0","0.571"
+"1",2025,"Christie Novatin","Ivy League","0-1-0",0
+"2",2024,"Christie Novatin","Ivy League","11-29-0",0.275
+"3",2023,"Dani Gonzales","Ivy League","8-37-0",0.178
+"4",2022,"Leslie King","Ivy League","12-31-0",0.279
+"5",2021,"Leslie King","Ivy League","5-5-0",0.5
+"6",2020,"Leslie King","Ivy League","7-6-0",0.538
+"7",2019,"Leslie King","Ivy League","22-17-0",0.564
+"8",2018,"Leslie King","Ivy League","17-20-0",0.459
+"9",2017,"Leslie King","Ivy League","22-18-0",0.55
+"10",2016,"Leslie King","Ivy League","23-21-0",0.523
+"11",2015,"Leslie King","Ivy League","22-20-0",0.524
+"12",2014,"Leslie King","Ivy League","18-23-1",0.439
+"13",2013,"Leslie King","Ivy League","30-20-0",0.6
+"14",2012,"Leslie King","Ivy League","33-17-0",0.66
+"15",2011,"Leslie King","Ivy League","18-21-1",0.462
+"16",2010,"Leslie King","Ivy League","19-23-0",0.452
+"17",2009,"Leslie King","Ivy League","15-28-1",0.349
+"18",2008,"Leslie King","Ivy League","26-20-0",0.565
+"19",2007,"Leslie King","Ivy League","23-19-0",0.548
+"20",2006,"Leslie King","Ivy League","18-26-0",0.409
+"21",2005,"Leslie King","Ivy League","14-25-0",0.359
+"22",2004,"Leslie King","Ivy League","10-31-1",0.244
+"23",2003,"Carol Kashow","Ivy League","10-27-1",0.27
+"24",2002,"Carol Kashow","Ivy League","14-33-0",0.298
+"25",2001,"Carol Kashow","Ivy League","15-32-0",0.319
+"26",2000,"Carol Kashow","Ivy League","13-30-1",0.302
+"27",1999,"Carol Kashow","Ivy League","15-22-0",0.405
+"28",1998,"Carol Kashow","-","8-29-0",0.216
+"29",1997,"Linda Carothers","Ivy League","14-21-0",0.4
+"30",1996,"Linda Carothers","-","10-27-0",0.27
+"31",1995,"Linda Carothers","-","11-32-0",0.256
+"32",1994,"Linda Carothers","-","14-21-0",0.4
+"33",1993,"Linda Carothers","-","10-21-0",0.323
+"34",1992,"Linda Carothers","-","10-27-0",0.27
+"35",1991,"Linda Carothers","-","9-21-0",0.3
+"36",1990,"Linda Carothers","-","7-23-1",0.233
+"37",1989,"Linda Carothers","-","5-12-0",0.294
+"38",1988,"Linda Carothers","-","4-15-0",0.211
+"39",1987,"Linda Carothers","-","2-16-0",0.111
+"40",1986,"Linda Carothers","-","7-10-0",0.412
+"41",1985,"Linda Carothers","-","7-10-0",0.412
+"42",1984,"Linda Carothers","-","11-7-0",0.611
+"43",1983,"Linda Carothers","-","10-11-0",0.476
+"44",1982,"Linda Carothers","-","12-6-0",0.667
+"45",1981,"Linda Carothers","-","16-4-0",0.8
+"46",1980,"Linda Carothers","-","9-6-0",0.6
+"47",1979,"Linda Carothers","-","9-6-1",0.6
+"48",1978,"Linda Carothers","-","5-9-0",0.357
+"49",1977,"Linda Carothers","-","3-6-0",0.333
+"50",1976,"Linda Carothers","-","2-5-0",0.286
+"51",1975,"Linda Carothers","-","7-1-0",0.875
+"52",1974,"Linda Carothers","-","4-3-0",0.571
