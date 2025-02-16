@@ -1,24 +1,31 @@
 "","team_id","player_id","rank","player","era"
-"1",1176,56344,1,"Halle Grace Patton",0.933
-"2",197,16919,2,"Sarah Davenport",0.972
-"3",608,73038,3,"Haleigh Thomas",1.026
-"4",1085,58681,4,"Alyssa Poston",1.678
-"5",358,80728,5,"Madison Wright",1.801
-"6",358,17392,6,"Eleanor De Block",1.937
-"7",30088,10843,7,"Jessica Cantrell",2.068
-"8",1085,77051,8,"Jenna Walling",2.121
-"9",2683,31103,9,"Lillian Hartsell",2.129
-"10",10,67618,10,"Megan Shurtz",2.229
-"11",10,7619,11,"Katie Bracken",2.333
-"12",734,46950,12,"Claire Maulding",2.414
-"13",1199,14930,13,"Tea Cornett",2.55
-"14",11276,3214,14,"Payton Baker",2.815
-"15",1096,37299,15,"Shelby Jones",3.068
-"16",1167,700,16,"Kamryn Akins",3.36
-"17",1257,27128,17,"Lex Glemaker",3.571
-"18",9223,28499,18,"Karley Green",4.008
-"19",11276,57669,19,"Lakyn Phillips",4.266
-"20",1156,74973,20,"Kalli Ulven",4.628
-"21",49,46170,21,"Alexis Martin",4.786
-"22",333,45594,22,"Immi Mann",6.735
-"23",144,29378,23,"Hope Gunn",7.292
+"1",1176,56478,1,"Halle Grace Patton",0.933
+"2",197,16954,2,"Sarah Davenport",0.972
+"3",608,73199,3,"Haleigh Thomas",1.547
+"4",1085,58818,4,"Alyssa Poston",1.678
+"5",30093,12033,5,"Reese Cauley",1.69
+"6",358,80904,6,"Madison Wright",1.801
+"7",10,67767,7,"Megan Shurtz",1.918
+"8",358,17427,8,"Eleanor De Block",1.937
+"9",30088,10863,9,"Jessica Cantrell",2.068
+"10",1085,77222,10,"Jenna Walling",2.121
+"11",2683,31168,11,"Lillian Hartsell",2.129
+"12",30138,34751,12,"Sami Huck",2.213
+"13",30123,58930,13,"Kamielle Powell",2.222
+"14",10,7631,14,"Katie Bracken",2.333
+"15",734,47064,15,"Claire Maulding",2.414
+"16",1199,14961,16,"Tea Cornett",2.55
+"17",230,32154,17,"Alex Hendrian",2.789
+"18",11276,3220,18,"Payton Baker",2.815
+"19",1096,37379,19,"Shelby Jones",3.068
+"20",24639,20508,20,"Cassidy Duskin",3.36
+"21",1167,701,20,"Kamryn Akins",3.36
+"22",11276,57805,22,"Lakyn Phillips",3.573
+"23",1257,27184,23,"Lex Glemaker",3.757
+"24",9223,28559,24,"Karley Green",4.008
+"25",49,46280,25,"Alexis Martin",4.088
+"26",1156,75140,26,"Kalli Ulven",4.628
+"27",30123,75910,27,"Kayla Vaughan",5.207
+"28",144,29440,28,"Hope Gunn",6.679
+"29",636,25196,29,"D'Amani Gadson",6.68
+"30",333,45700,30,"Immi Mann",6.735

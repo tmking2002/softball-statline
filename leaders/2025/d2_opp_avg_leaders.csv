@@ -1,24 +1,31 @@
 "","team_id","player_id","rank","player","opp_avg"
-"1",1085,77051,1,"Jenna Walling",0.148
-"2",1085,58681,2,"Alyssa Poston",0.151
-"3",608,73038,3,"Haleigh Thomas",0.159
-"4",30088,10843,4,"Jessica Cantrell",0.194
-"5",358,17392,5,"Eleanor De Block",0.196
-"6",197,16919,5,"Sarah Davenport",0.196
-"7",734,46950,7,"Claire Maulding",0.206
-"8",1096,37299,8,"Shelby Jones",0.214
-"9",2683,31103,9,"Lillian Hartsell",0.219
-"10",10,67618,10,"Megan Shurtz",0.234
-"11",1167,700,11,"Kamryn Akins",0.235
-"12",1176,56344,12,"Halle Grace Patton",0.237
-"13",10,7619,13,"Katie Bracken",0.242
-"14",358,80728,14,"Madison Wright",0.243
-"15",11276,57669,15,"Lakyn Phillips",0.255
-"16",11276,3214,15,"Payton Baker",0.255
-"17",9223,28499,17,"Karley Green",0.259
-"18",49,46170,18,"Alexis Martin",0.26
-"19",1156,74973,19,"Kalli Ulven",0.266
-"20",1199,14930,20,"Tea Cornett",0.273
-"21",333,45594,21,"Immi Mann",0.281
-"22",144,29378,22,"Hope Gunn",0.321
-"23",1257,27128,23,"Lex Glemaker",0.324
+"1",1085,77222,1,"Jenna Walling",0.148
+"2",1085,58818,2,"Alyssa Poston",0.151
+"3",30093,12033,3,"Reese Cauley",0.168
+"4",608,73199,4,"Haleigh Thomas",0.169
+"5",30088,10863,5,"Jessica Cantrell",0.194
+"6",358,17427,6,"Eleanor De Block",0.196
+"7",197,16954,6,"Sarah Davenport",0.196
+"8",734,47064,8,"Claire Maulding",0.206
+"9",1096,37379,9,"Shelby Jones",0.214
+"10",2683,31168,10,"Lillian Hartsell",0.219
+"11",10,67767,11,"Megan Shurtz",0.231
+"12",1167,701,12,"Kamryn Akins",0.235
+"13",1176,56478,13,"Halle Grace Patton",0.237
+"14",11276,57805,13,"Lakyn Phillips",0.237
+"15",10,7631,15,"Katie Bracken",0.242
+"16",30123,58930,16,"Kamielle Powell",0.243
+"17",358,80904,16,"Madison Wright",0.243
+"18",49,46280,18,"Alexis Martin",0.254
+"19",11276,3220,19,"Payton Baker",0.255
+"20",9223,28559,20,"Karley Green",0.259
+"21",636,25196,21,"D'Amani Gadson",0.262
+"22",1156,75140,22,"Kalli Ulven",0.266
+"23",1199,14961,23,"Tea Cornett",0.273
+"24",333,45700,24,"Immi Mann",0.281
+"25",30138,34751,25,"Sami Huck",0.283
+"26",230,32154,26,"Alex Hendrian",0.296
+"27",144,29440,27,"Hope Gunn",0.3
+"28",24639,20508,28,"Cassidy Duskin",0.302
+"29",1257,27184,29,"Lex Glemaker",0.335
+"30",30123,75910,30,"Kayla Vaughan",0.36

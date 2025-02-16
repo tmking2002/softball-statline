@@ -1,254 +1,262 @@
 logo,team_name,record,rpi_rank,nfca_rank,quad1_record,quad2_record,quad3_record,quad4_record,offensive_rank,defensive_rank,overall_rank,change,team_id,quad1_win_perc,quad1_wins,quad2_win_perc,quad2_wins,quad3_win_perc,quad3_wins,quad4_win_perc,quad4_wins,nfca_rank_sort,change_sort
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/463.gif,Nebraska,5-2-0,23,18,1-2,0-0,1-0,3-0,4,1,1,-1,463,0.3333333333333333,1,0,0,1,1,1,3,7,-1
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/235.gif,Florida,11-0-0,4,2,1-0,2-0,8-0,0-0,1,30,2,1,235,1,1,1,2,1,8,0,0,23,1
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/694.gif,Tennessee,7-1-0,7,6,2-1,2-0,2-0,1-0,2,13,3,NA,694,0.6666666666666666,2,1,2,1,2,1,1,19,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/522.gif,Oklahoma,5-0-0,13,3,2-0,0-0,1-0,2-0,7,12,4,NA,522,1,2,0,0,1,1,1,2,22,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/697.gif,Texas A&M,8-0-0,2,5,1-0,2-0,4-0,1-0,10,10,5,0,697,1,1,1,2,1,4,1,1,20,0
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/31.gif,Arkansas,7-0-0,18,13,1-0,3-0,2-0,1-0,6,28,6,NA,31,1,1,1,3,1,2,1,1,12,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/529.gif,Oregon,6-1-0,58,21,0-1,0-0,2-0,4-0,9,32,7,NA,529,0,0,0,0,1,2,1,4,4,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/703.gif,Texas,8-0-0,1,1,2-0,3-0,1-0,2-0,11,20,8,NA,703,1,2,1,3,1,1,1,2,24,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/29.gif,Arizona,8-1-0,8,15,0-0,3-1,2-0,3-0,8,42,9,0,29,0,0,0.75,3,1,2,1,3,10,0
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/742.gif,Virginia Tech,7-0-0,36,17,0-0,1-0,2-0,4-0,14,27,10,NA,742,0,0,1,1,1,2,1,4,8,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/674.gif,Stanford,6-0-0,24,20,0-0,0-0,4-0,2-0,3,69,11,NA,674,0,0,0,0,1,4,1,2,5,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/234.gif,Florida St.,6-1-0,6,8,2-1,2-0,1-0,1-0,19,8,12,1,234,0.6666666666666666,2,1,2,1,1,1,1,17,1
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/37.gif,Auburn,8-0-0,5,NA,1-0,2-0,2-0,3-0,23,4,13,NA,37,1,1,1,2,1,2,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/700.gif,Texas Tech,6-2-0,19,11,1-1,1-1,3-0,1-0,20,9,14,NA,700,0.5,1,0.5,1,1,3,1,1,14,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/257.gif,Georgia,7-0-0,21,10,1-0,1-0,1-0,4-0,15,33,15,12,257,1,1,1,1,1,1,1,4,15,12
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/746.gif,Virginia,4-3-0,11,NA,0-3,2-0,1-0,1-0,24,6,16,NA,746,0,0,1,2,1,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/110.gif,UCLA,7-0-0,17,4,1-0,1-0,0-0,5-0,22,16,17,NA,110,1,1,1,1,0,0,1,5,21,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/365.gif,LSU,7-0-0,22,7,0-0,0-0,3-0,4-0,32,23,18,NA,365,0,0,0,0,1,3,1,4,18,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/104.gif,UC Santa Barbara,6-1-0,9,NA,0-0,2-0,3-1,1-0,26,41,19,NA,104,0,0,1,2,0.75,3,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/639.gif,Siena,5-0-0,26,NA,0-0,0-0,5-0,0-0,61,7,20,NA,639,0,0,0,0,1,5,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/306.gif,Indiana,7-1-0,50,NA,0-0,1-0,5-1,1-0,18,63,21,NA,306,0,0,1,1,0.8333333333333334,5,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/766.gif,West Ga.,3-2-0,57,NA,1-1,0-1,0-0,2-0,25,50,22,NA,766,0.5,1,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/10411.gif,USC Upstate,7-1-0,67,NA,0-0,1-1,0-0,6-0,13,106,23,NA,10411,0,0,0.5,1,0,0,1,6,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1104.gif,Grand Canyon,7-1-0,72,NA,0-0,1-1,3-0,3-0,72,11,24,9,1104,0,0,0.5,1,1,3,1,3,-1,9
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/77.gif,BYU,5-0-0,28,NA,0-0,1-0,1-0,3-0,33,53,25,NA,77,0,0,1,1,1,1,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/367.gif,Louisville,5-2-0,73,NA,0-0,0-1,3-1,2-0,16,100,27,NA,367,0,0,0,0,0.75,3,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/518.gif,Ohio St.,5-1-0,10,NA,0-1,2-0,2-0,1-0,92,3,28,NA,518,0,0,1,2,1,2,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/466.gif,Nevada,5-1-0,71,NA,0-1,0-0,2-0,3-0,58,26,29,NA,466,0,0,0,0,1,2,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/648.gif,South Carolina,8-0-0,62,NA,2-0,0-0,2-0,4-0,46,38,30,NA,648,1,2,0,0,1,2,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/334.gif,Kentucky,6-3-0,77,23,1-1,1-2,2-0,2-0,37,58,31,NA,334,0.5,1,0.3333333333333333,1,1,2,1,2,2,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/504.gif,UNI,3-2-0,12,NA,0-0,1-1,1-1,1-0,103,5,32,NA,504,0,0,0.5,1,0.5,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/505.gif,Northern Ky.,5-2-0,68,NA,0-0,1-0,3-2,1-0,55,36,33,NA,505,0,0,1,1,0.6,3,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/688.gif,Syracuse,7-0-0,35,NA,0-0,2-0,2-0,3-0,99,14,34,NA,688,0,0,1,2,1,2,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/5.gif,Akron,5-2-0,97,NA,1-1,1-0,0-0,3-1,86,17,35,NA,5,0.5,1,1,1,0,0,0.75,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/649.gif,South Dakota St.,4-1-0,104,NA,0-1,0-0,2-0,2-0,50,47,36,NA,649,0,0,0,0,1,2,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/464.gif,Omaha,5-1-0,33,NA,1-1,0-0,1-0,3-0,12,148,37,NA,464,0.5,1,0,0,1,1,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/433.gif,Ole Miss,5-2-0,88,NA,0-2,2-0,1-0,2-0,49,49,38,25,433,0,0,1,2,1,1,1,2,-1,25
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/386.gif,Marist,6-1-0,45,NA,0-1,2-0,2-0,2-0,53,46,39,27,386,0,0,1,2,1,2,1,2,-1,27
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/430.gif,Mississippi St.,7-1-0,15,19,2-1,0-0,2-0,3-0,70,35,41,-1,430,0.6666666666666666,2,0,0,1,2,1,3,6,-1
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/521.gif,Oklahoma St.,3-3-0,16,9,2-2,0-1,0-0,1-0,68,39,42,9,521,0.5,2,0,0,0,0,1,1,16,9
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/782.gif,Wichita St.,5-3-0,80,NA,1-3,0-0,1-0,3-0,94,24,43,37,782,0.25,1,0,0,1,1,1,3,-1,37
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/97.gif,Cal St. Fullerton,5-2-0,27,NA,0-2,1-0,2-0,2-0,105,19,45,24,97,0,0,1,1,1,2,1,2,-1,24
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/87.gif,Butler,6-1-0,84,NA,0-0,4-0,0-0,2-1,38,96,46,NA,87,0,0,1,4,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/651.gif,South Fla.,7-2-0,60,NA,0-1,0-0,3-1,4-0,27,113,47,19,651,0,0,0,0,0.75,3,1,4,-1,19
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/8.gif,Alabama,4-3-0,29,14,1-2,1-1,1-0,1-0,56,59,48,25,8,0.3333333333333333,1,0.5,1,1,1,1,1,11,25
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/756.gif,Washington,3-3-0,42,25,1-2,0-1,0-0,2-0,140,15,49,25,756,0.3333333333333333,1,0,0,0,0,1,2,0,25
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/9.gif,UAB,4-2-0,132,NA,0-1,0-1,2-0,2-0,87,34,50,42,9,0,0,0,0,1,2,1,2,-1,42
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/66.gif,Boise St.,5-3-0,46,NA,1-1,1-0,2-0,1-2,29,114,51,NA,66,0.5,1,1,1,1,2,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/68.gif,Boston U.,6-1-0,111,NA,0-0,0-1,3-0,3-0,85,40,52,48,68,0,0,0,0,1,3,1,3,-1,48
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28.gif,Arizona St.,5-2-0,40,NA,1-0,1-0,1-1,2-1,47,77,53,22,28,1,1,1,1,0.5,1,0.6666666666666666,2,-1,22
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/671.gif,Louisiana,4-2-0,25,NA,0-1,1-0,0-0,3-1,60,64,54,NA,671,0,0,1,1,0,0,0.75,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/128.gif,UCF,6-4-0,14,NA,0-3,1-1,2-0,3-0,137,22,55,45,128,0,0,0.5,1,1,2,1,3,-1,45
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/355.gif,Liberty,8-0-0,3,NA,2-0,1-0,1-0,4-0,51,89,56,NA,355,1,2,1,1,1,1,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/193.gif,Duke,4-3-0,32,12,1-1,1-2,2-0,0-0,64,70,57,NA,193,0.5,1,0.3333333333333333,1,1,2,0,0,13,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/315.gif,Jacksonville St.,3-2-0,79,NA,0-0,3-2,0-0,0-0,130,31,58,32,315,0,0,0.6,3,0,0,0,0,-1,32
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/402.gif,McNeese,4-4-0,38,NA,0-3,1-1,2-0,1-0,52,90,59,NA,402,0,0,0.5,1,1,2,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/102.gif,Sacramento St.,6-1-0,91,NA,0-0,0-1,3-0,3-0,36,121,60,NA,102,0,0,0,0,1,3,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/107.gif,California,4-2-0,66,NA,0-1,1-0,2-0,1-1,65,78,61,45,107,0,0,1,1,1,2,0.5,1,-1,45
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/202.gif,Eastern Ky.,3-2-0,30,NA,0-1,3-1,0-0,0-0,93,48,62,NA,202,0,0,0.75,3,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/14927.gif,Belmont,3-4-0,89,NA,0-2,1-2,1-0,1-0,81,62,63,NA,14927,0,0,0.3333333333333333,1,1,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/175.gif,Dayton,4-1-0,124,NA,0-0,1-1,1-0,2-0,83,61,64,NA,175,0,0,0.5,1,1,1,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/51.gif,Baylor,4-2-0,94,24,0-1,1-1,1-0,2-0,45,110,65,48,51,0,0,0.5,1,1,1,1,2,1,48
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/229.gif,Fla. Atlantic,7-1-0,139,NA,0-0,2-0,1-1,4-0,82,65,66,52,229,0,0,1,2,0.5,1,1,4,-1,52
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/147.gif,Clemson,3-5-0,165,NA,0-4,0-1,1-0,2-0,34,133,67,48,147,0,0,0,0,1,1,1,2,-1,48
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/277.gif,Hawaii,5-1-0,105,NA,0-0,0-0,1-1,4-0,67,93,68,50,277,0,0,0,0,0.5,1,1,4,-1,50
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/670.gif,Texas St.,5-2-0,44,NA,0-1,0-0,2-1,3-0,136,45,69,19,670,0,0,0,0,0.6666666666666666,2,1,3,-1,19
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/625.gif,Samford,3-2-0,55,NA,0-0,2-0,1-1,0-1,35,136,70,NA,625,0,0,1,2,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/314.gif,Jackson St.,5-0-0,144,NA,0-0,0-0,0-0,5-0,168,29,72,NA,314,0,0,0,0,0,0,1,5,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/626.gif,San Diego St.,5-2-0,56,NA,1-2,1-0,1-0,2-0,91,75,73,48,626,0.3333333333333333,1,1,1,1,1,1,2,-1,48
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1092.gif,Gardner-Webb,6-1-0,147,NA,1-1,0-0,0-0,5-0,96,71,74,NA,1092,0.5,1,0,0,0,0,1,5,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/434.gif,Missouri,5-4-0,49,16,1-3,1-0,2-1,1-0,59,108,75,NA,434,0.25,1,1,1,0.6666666666666666,2,1,1,9,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2915.gif,Wofford,5-2-0,93,NA,0-0,2-1,0-1,3-0,124,57,76,NA,2915,0,0,0.6666666666666666,2,0,0,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/460.gif,UNCW,5-2-0,129,NA,0-0,0-2,2-0,3-0,79,98,77,NA,460,0,0,0,0,1,2,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/519.gif,Ohio,4-2-0,37,NA,0-1,1-0,2-1,1-0,17,195,78,NA,519,0,0,1,1,0.6666666666666666,2,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/487.gif,North Ala.,7-0-0,125,NA,0-0,0-0,2-0,5-0,104,73,79,NA,487,0,0,0,0,1,2,1,5,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/251.gif,Georgetown,3-2-0,70,NA,0-2,0-0,2-0,1-0,54,118,80,NA,251,0,0,0,0,1,2,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/249.gif,George Washington,4-1-0,86,NA,1-0,0-1,1-0,2-0,160,44,81,NA,249,1,1,0,0,1,1,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/457.gif,North Carolina,8-2-0,75,NA,0-2,1-0,2-0,5-0,57,119,82,NA,457,0,0,1,1,1,2,1,5,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1356.gif,Seattle U,2-4-0,87,NA,0-3,1-0,0-1,1-0,63,117,83,NA,1356,0,0,1,1,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/692.gif,Tennessee Tech,4-3-0,53,NA,0-1,2-1,2-0,0-1,167,43,84,NA,692,0,0,0.6666666666666666,2,1,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/494.gif,North Dakota,4-2-0,63,NA,2-1,0-0,0-1,2-0,128,66,85,NA,494,0.6666666666666666,2,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/620.gif,St. Thomas (MN),4-3-0,122,NA,0-1,0-2,2-0,2-0,66,120,86,NA,620,0,0,0,0,1,2,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/255.gif,Georgia Tech,5-1-0,31,NA,0-0,2-1,3-0,0-0,76,111,88,NA,255,0,0,0.6666666666666666,2,1,3,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/72.gif,Bradley,2-4-0,41,NA,1-3,1-0,0-0,0-1,150,56,90,47,72,0.25,1,1,1,0,0,0,0,-1,47
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/43.gif,Austin Peay,4-2-0,54,NA,1-0,1-2,1-0,1-0,44,152,91,NA,43,1,1,0.3333333333333333,1,1,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/631.gif,Santa Clara,3-3-0,121,NA,1-1,0-0,1-0,1-2,48,153,92,72,631,0.5,1,0,0,1,1,0.3333333333333333,1,-1,72
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/772.gif,Western Ky.,3-4-0,135,NA,0-1,2-3,0-0,1-0,135,80,93,NA,772,0,0,0.4,2,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/312.gif,Iowa,4-3-0,126,NA,0-3,0-0,2-0,2-0,129,88,94,29,312,0,0,0,0,1,2,1,2,-1,29
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/96.gif,Fresno St.,1-4-0,123,NA,0-3,0-0,0-1,1-0,239,21,95,NA,96,0,0,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2711.gif,North Florida,7-3-0,106,NA,0-1,1-1,2-1,4-0,145,86,96,NA,2711,0,0,0.5,1,0.6666666666666666,2,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/545.gif,Pittsburgh,5-2-0,64,NA,0-2,1-0,0-0,4-0,88,123,97,NA,545,0,0,1,1,0,0,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/219.gif,Evansville,3-4-0,101,NA,0-0,1-2,1-2,1-0,39,196,98,NA,219,0,0,0.3333333333333333,1,0.3333333333333333,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/299.gif,Illinois St.,1-6-0,112,NA,0-4,0-1,1-1,0-0,187,55,99,41,299,0,0,0,0,0.5,1,0,0,-1,41
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/459.gif,UNC Greensboro,6-2-0,109,NA,0-1,1-1,1-0,4-0,41,182,101,NA,459,0,0,0.5,1,1,1,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/196.gif,East Carolina,4-3-0,90,NA,0-2,1-0,1-0,2-1,112,116,102,NA,196,0,0,1,1,1,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/149.gif,Coastal Carolina,4-2-0,108,NA,0-0,0-0,2-1,2-1,28,213,103,NA,149,0,0,0,0,0.6666666666666666,2,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/328.gif,Kansas,1-4-0,229,NA,0-3,0-0,0-0,1-1,139,103,104,70,328,0,0,0,0,0,0,0.5,1,-1,70
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/627.gif,San Diego,3-4-0,130,NA,0-2,0-1,1-1,2-0,188,60,105,68,627,0,0,0,0,0.5,1,1,2,-1,68
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/650.gif,South Dakota,4-1-0,115,NA,0-0,0-0,2-1,2-0,170,81,106,NA,650,0,0,0,0,0.6666666666666666,2,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/406.gif,Mercer,5-3-0,69,NA,1-0,0-2,3-1,1-0,75,155,107,NA,406,1,1,0,0,0.75,3,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/731.gif,Utah St.,5-2-0,47,NA,0-1,2-1,2-0,1-0,125,115,108,64,731,0,0,0.6666666666666666,2,1,2,1,1,-1,64
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/294.gif,Idaho St.,4-2-0,204,NA,0-0,0-1,1-1,3-0,69,167,110,NA,294,0,0,0,0,0.5,1,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/646.gif,South Alabama,5-3-0,51,NA,0-2,2-0,0-0,3-1,73,168,111,71,646,0,0,1,2,0,0,0.75,3,-1,71
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/301.gif,Illinois,4-5-0,169,NA,0-3,0-1,1-1,3-0,152,104,112,77,301,0,0,0,0,0.5,1,1,3,-1,77
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/418.gif,Michigan,4-4-0,98,NA,1-2,1-1,0-1,2-0,178,85,113,56,418,0.3333333333333333,1,0.5,1,0,0,1,2,-1,56
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/655.gif,Southeastern La.,3-3-0,119,NA,0-1,0-0,1-1,2-1,182,83,114,NA,655,0,0,0,0,0.5,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/647.gif,South Carolina St.,3-2-0,85,NA,1-0,0-1,1-1,1-0,174,92,115,NA,647,1,1,0,0,0.5,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/346.gif,Lamar University,5-1-0,76,NA,0-1,0-0,3-0,2-0,162,102,116,NA,346,0,0,0,0,1,3,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/528.gif,Oregon St.,3-4-0,212,NA,0-0,0-2,1-1,2-1,102,137,117,NA,528,0,0,0,0,0.5,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/180.gif,Delaware,2-3-0,99,NA,0-2,1-1,1-0,0-0,77,173,118,73,180,0,0,0.5,1,1,1,0,0,-1,73
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/556.gif,Providence,0-5-0,143,NA,0-2,0-2,0-1,0-0,173,97,119,NA,556,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/702.gif,UT Arlington,4-4-0,154,NA,0-3,0-0,1-1,3-0,118,132,120,NA,702,0,0,0,0,0.5,1,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/164.gif,UConn,3-3-0,43,NA,0-1,1-0,1-2,1-0,31,224,121,NA,164,0,0,1,1,0.3333333333333333,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1395.gif,Tarleton St.,5-2-0,117,NA,0-0,1-1,0-1,4-0,156,107,122,76,1395,0,0,0.5,1,0,0,1,4,-1,76
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/509.gif,Northwestern,3-4-0,52,22,0-4,1-0,2-0,0-0,207,67,123,75,509,0,0,1,1,1,2,0,0,3,75
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/331.gif,Kent St.,2-4-0,153,NA,0-1,0-0,1-2,1-1,43,203,125,NA,331,0,0,0,0,0.3333333333333333,1,0.5,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/709.gif,Toledo,5-1-0,196,NA,0-1,1-0,2-0,2-0,114,144,126,NA,709,0,0,1,1,1,2,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/400.gif,Massachusetts,3-4-0,114,NA,0-1,0-1,1-1,2-1,164,109,127,NA,400,0,0,0,0,0.5,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/253.gif,Ga. Southern,3-4-0,92,NA,0-2,0-2,2-0,1-0,230,54,128,65,253,0,0,0,0,1,2,1,1,-1,65
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/624.gif,Sam Houston,3-5-0,164,NA,0-1,0-1,1-1,2-2,199,82,129,122,624,0,0,0,0,0.5,1,0.5,2,-1,122
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/288.gif,Houston,4-1-0,81,NA,0-0,0-0,4-1,0-0,5,281,130,108,288,0,0,0,0,0.8,4,0,0,-1,108
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/366.gif,Louisiana Tech,3-4-0,83,NA,0-3,1-0,1-0,1-1,200,87,131,79,366,0,0,1,1,1,1,0.5,1,-1,79
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/129.gif,Central Mich.,1-4-0,149,NA,0-1,0-1,1-1,0-1,242,52,133,NA,129,0,0,0,0,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/678.gif,Stetson,6-2-0,141,NA,0-1,0-0,0-1,6-0,113,159,134,NA,678,0,0,0,0,0,0,1,6,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/559.gif,Purdue,3-4-0,110,NA,0-3,0-1,1-0,2-0,98,174,135,96,559,0,0,0,0,1,1,1,2,-1,96
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/739.gif,Villanova,3-4-0,74,NA,1-2,0-2,1-0,1-0,158,124,136,74,739,0.3333333333333333,1,0,0,1,1,1,1,-1,74
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/716.gif,Troy,5-2-0,100,NA,0-0,0-1,2-0,3-1,147,129,137,NA,716,0,0,0,0,1,2,0.75,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/503.gif,NIU,3-3-0,142,NA,0-3,0-0,2-0,1-0,78,185,138,97,503,0,0,0,0,1,2,1,1,-1,97
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/758.gif,Weber St.,3-5-0,157,NA,0-3,0-0,0-2,3-0,153,128,139,NA,758,0,0,0,0,0,0,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/473.gif,New Mexico,4-3-1,187,NA,0-0,0-3,3-0,1-1,205,99,141,111,473,0,0,0,0,1,3,0.5,1,-1,111
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/169.gif,Creighton,3-3-0,161,NA,0-1,0-2,1-0,2-0,216,84,142,NA,169,0,0,0,0,1,1,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/498.gif,ULM,1-6-0,152,NA,0-1,0-5,1-0,0-0,141,145,143,NA,498,0,0,0,0,1,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/695.gif,UT Martin,4-4-0,185,NA,0-0,1-0,1-1,2-3,236,68,144,NA,695,0,0,1,1,0.5,1,0.4,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/67.gif,Boston College,4-4-0,134,NA,0-3,0-0,1-1,3-0,143,139,145,116,67,0,0,0,0,0.5,1,1,3,-1,116
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30095.gif,Utah Tech,3-4-0,222,NA,0-2,0-0,1-1,2-1,42,225,146,110,30095,0,0,0,0,0.5,1,0.6666666666666666,2,-1,110
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/316.gif,Jacksonville,3-4-0,140,NA,0-1,1-2,0-0,2-1,121,171,147,NA,316,0,0,0.3333333333333333,1,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/311.gif,Iowa St.,2-4-0,120,NA,0-2,1-0,1-1,0-1,132.5,162,148,NA,311,0,0,1,1,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/704.gif,UTEP,5-2-0,183,NA,0-2,0-0,0-0,5-0,116,175,150,NA,704,0,0,0,0,0,0,1,5,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/676.gif,SFA,3-5-0,156,NA,0-3,1-1,0-1,2-0,84,189,151,NA,676,0,0,0.5,1,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2743.gif,UIW,3-4-0,190,NA,0-1,0-1,1-1,2-1,138,163,152,NA,2743,0,0,0,0,0.5,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/497.gif,North Texas,5-2-0,61,NA,0-1,3-0,1-0,1-1,90,191,153,NA,497,0,0,1,3,1,1,0.5,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/231.gif,FIU,5-2-0,82,NA,2-0,0-0,1-2,2-0,157,147,154,NA,231,1,2,0,0,0.3333333333333333,1,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/465.gif,UNLV,5-2-0,155,NA,0-1,0-0,1-0,4-1,244,74,156,NA,465,0,0,0,0,1,1,0.8,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/392.gif,Maryland,4-3-0,34,NA,1-2,1-1,2-0,0-0,154,151,157,NA,392,0.3333333333333333,1,0.5,1,1,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/472.gif,New Mexico St.,4-4-0,116,NA,0-3,0-0,0-0,4-1,74,205,158,NA,472,0,0,0,0,0,0,0.8,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/587.gif,Rutgers,3-4-0,103,NA,0-2,0-1,1-0,2-1,142,161,159,NA,587,0,0,0,0,1,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/62.gif,Binghamton,3-3-0,244,NA,0-0,0-2,1-0,2-1,251,72,160,NA,62,0,0,0,0,1,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/156.gif,Colorado St.,4-3-0,96,NA,1-1,1-0,0-2,2-0,221,101,161,NA,156,0.5,1,1,1,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28755.gif,FGCU,4-6-0,138,NA,0-2,0-2,1-1,3-1,117,184,162,124,28755,0,0,0,0,0.5,1,0.75,3,-1,124
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/71.gif,Bowling Green,2-3-0,180,NA,0-3,0-0,0-0,2-0,183,130,163,NA,71,0,0,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/115.gif,Campbell,6-1-0,148,NA,0-0,0-0,3-1,3-0,172,150,164,NA,115,0,0,0,0,0.75,3,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/493.gif,North Dakota St.,4-5-0,59,NA,0-5,0-0,0-0,4-0,227,105,165,NA,493,0,0,0,0,0,0,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30135.gif,California Baptist,3-4-0,188,NA,0-2,0-0,0-1,3-1,163,169,166,117,30135,0,0,0,0,0,0,0.75,3,-1,117
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/563.gif,Radford,4-4-0,136,NA,1-1,1-1,1-0,1-2,194,134,167,NA,563,0.5,1,0.5,1,1,1,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/635.gif,Seton Hall,3-2-0,95,NA,1-1,0-0,1-0,1-1,159,177,168,NA,635,0.5,1,0,0,1,1,0.5,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/706.gif,UTSA,5-2-0,167,NA,0-0,0-2,2-0,3-0,155,179,169,NA,706,0,0,0,0,1,2,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/719.gif,Tulsa,4-3-0,171,NA,0-1,0-1,0-0,4-1,217,127,170,138,719,0,0,0,0,0,0,0.8,4,-1,138
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/261.gif,Grambling,2-4-0,218,NA,0-3,0-0,0-0,2-1,184,165,171,NA,261,0,0,0,0,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/94.gif,CSU Bakersfield,3-5-0,163,NA,0-2,0-2,1-0,2-1,126,204,173,98,94,0,0,0,0,1,1,0.6666666666666666,2,-1,98
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/711.gif,Towson,2-4-0,228,NA,0-0,0-4,0-0,2-0,106,217,175,NA,711,0,0,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/609.gif,Saint Louis,2-3-0,194,NA,0-1,1-1,0-0,1-1,209,138,176,121,609,0,0,0.5,1,0,0,0.5,1,-1,121
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/111.gif,UC Riverside,4-5-0,173,NA,0-2,0-0,2-1,2-2,214,140,177,NA,111,0,0,0,0,0.6666666666666666,2,0.5,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1004.gif,Central Ark.,2-5-0,145,NA,0-2,1-0,1-2,0-1,203,160,178,NA,1004,0,0,1,1,0.3333333333333333,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/61.gif,Bethune-Cookman,2-6-0,133,NA,0-3,0-0,1-3,1-0,228,131,179,107,61,0,0,0,0,0.25,1,1,1,-1,107
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/774.gif,Western Mich.,3-6-0,208,NA,0-2,0-2,3-0,0-2,107,223,180,100,774,0,0,0,0,1,3,0,0,-1,100
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/416.gif,Michigan St.,2-5-0,127,NA,0-4,0-0,1-0,1-1,144,201,181,112,416,0,0,0,0,1,1,0.5,1,-1,112
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/428.gif,Minnesota,1-5-0,217,NA,0-2,0-1,0-2,1-0,185,178,182,NA,428,0,0,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/388.gif,Marshall,3-4-0,231,NA,0-2,0-0,0-1,3-1,134,212,184,97,388,0,0,0,0,0,0,0.75,3,-1,97
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/490.gif,NC State,4-2-0,174,NA,0-2,0-0,1-0,3-0,247.5,122,185,129,490,0,0,0,0,1,1,1,3,-1,129
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/371.gif,Loyola Chicago,2-5-0,118,NA,0-3,0-1,2-1,0-0,212,157,186,NA,371,0,0,0,0,0.6666666666666666,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/419.gif,Middle Tenn.,3-4-0,177,NA,0-1,0-2,2-0,1-1,233,135,187,NA,419,0,0,0,0,1,2,0.5,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/630.gif,San Jose St.,2-5-0,210,NA,0-1,0-1,0-2,2-1,215,156,188,NA,630,0,0,0,0,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/176.gif,DePaul,4-4-0,216,NA,0-0,1-0,1-2,2-2,223,149,189,NA,176,0,0,1,1,0.3333333333333333,1,0.5,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/792.gif,Winthrop,3-2-0,65,NA,1-1,0-0,0-1,2-0,62,258,190,NA,792,0.5,1,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/458.gif,Charlotte,2-5-0,39,NA,0-4,0-1,2-0,0-0,101,234,192,NA,458,0,0,0,0,1,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1157.gif,Kennesaw St.,2-5-0,209,NA,0-1,1-2,0-2,1-0,258,125,193,NA,1157,0,0,0.3333333333333333,1,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/108.gif,UC Davis,4-2-0,78,NA,0-1,0-1,1-0,3-0,256,126,194,NA,108,0,0,0,0,1,1,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/414.gif,Miami (OH),1-5-0,184,NA,1-2,0-0,0-1,0-2,110,231,195,144,414,0.3333333333333333,1,0,0,0,0,0,0,-1,144
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/732.gif,Utah,3-3-0,158,NA,0-2,0-0,1-0,2-1,179,192,196,135,732,0,0,0,0,1,1,0.6666666666666666,2,-1,135
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/513.gif,Notre Dame,3-5-0,160,NA,0-3,1-1,0-0,2-1,210,172,197,150,513,0,0,0.5,1,0,0,0.6666666666666666,2,-1,150
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/659.gif,Southern Ill.,1-7-0,131,NA,0-3,0-1,0-2,1-1,148,210,198,NA,659,0,0,0,0,0,0,0.5,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/539.gif,Penn St.,1-6-0,207,NA,0-2,0-3,0-1,1-0,109,236,199,140,539,0,0,0,0,0,0,1,1,-1,140
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/691.gif,Tennessee St.,3-4-0,102,NA,1-0,0-2,2-2,0-0,95,246,200,NA,691,1,1,0,0,0.5,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/664.gif,Southern Miss.,1-4-0,179,NA,0-1,0-2,1-1,0-0,206,181,201,NA,664,0,0,0,0,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30136.gif,Lindenwood,2-3-0,48,NA,0-0,0-2,1-1,1-0,280,91,203,NA,30136,0,0,0,0,0.5,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1320.gif,Presbyterian,4-3-0,200,NA,0-0,0-2,0-1,4-0,175,206,204,NA,1320,0,0,0,0,0,0,1,4,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/287.gif,Houston Christian,1-5-0,239,NA,1-0,0-1,0-4,0-0,259.5,146,205,138,287,1,1,0,0,0,0,0,0,-1,138
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/27.gif,App State,1-4-0,181,NA,0-1,0-1,1-2,0-0,127,237,206,NA,27,0,0,0,0,0.3333333333333333,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/302.gif,UIC,3-4-0,203,NA,0-1,1-2,0-1,2-0,196,197,207,180,302,0,0,0.3333333333333333,1,0,0,1,2,-1,180
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/454.gif,Murray St.,3-3-0,240,NA,0-0,0-2,1-0,2-1,245,164,208,154,454,0,0,0,0,1,1,0.6666666666666666,2,-1,154
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1068.gif,Elon,3-4-0,193,NA,0-1,0-0,0-3,3-0,225,180,210,NA,1068,0,0,0,0,0,0,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/52.gif,Bellarmine,1-4-0,195,NA,0-1,0-1,1-2,0-0,198,200,211,NA,52,0,0,0,0,0.3333333333333333,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/682.gif,Stonehill,3-2-0,137,NA,0-0,2-0,0-2,1-0,115,252,212,NA,682,0,0,1,2,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/441.gif,Montana,2-5-0,214,NA,0-3,0-1,0-1,2-0,171,222,213,145,441,0,0,0,0,0,0,1,2,-1,145
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/48.gif,Charleston So.,2-5-0,192,NA,0-2,0-0,0-2,2-1,151,235,214,NA,48,0,0,0,0,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/683.gif,Stony Brook,1-6-0,175,NA,0-2,1-1,0-3,0-0,177,221,215,NA,683,0,0,0.5,1,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/693.gif,Chattanooga,2-5-0,206,NA,0-0,0-2,1-1,1-2,89,264,216,NA,693,0,0,0,0,0.5,1,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/550.gif,Portland St.,3-4-0,146,NA,0-1,0-0,1-2,2-1,192,215,219,NA,550,0,0,0,0,0.3333333333333333,1,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/83.gif,Bucknell,1-4-0,191,NA,0-1,0-3,0-0,1-0,149,242,220,160,83,0,0,0,0,0,0,1,1,-1,160
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/725.gif,Army West Point,2-5-0,202,NA,0-1,0-1,2-3,0-0,204,214,221,NA,725,0,0,0,0,0.4,2,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/308.gif,Purdue Fort Wayne,2-6-0,221,NA,0-0,1-4,1-1,0-1,208,216,222,NA,308,0,0,0.2,1,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/370.gif,LMU (CA),1-4-0,245,NA,0-2,0-0,0-0,1-2,219,207,223,149,370,0,0,0,0,0,0,0.3333333333333333,1,-1,149
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/661.gif,Southern Ind.,1-4-0,199,NA,0-2,0-0,1-2,0-0,246,190,225,154,661,0,0,0,0,0.3333333333333333,1,0,0,-1,154
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/796.gif,Wisconsin,4-3-0,198,NA,0-0,1-2,0-1,3-0,277,143,226,162,796,0,0,0.3333333333333333,1,0,0,1,3,-1,162
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/349.gif,Le Moyne,0-5-0,172,NA,0-1,0-4,0-0,0-0,176,238,227,NA,349,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/90.gif,Cal Poly,1-5-0,235,NA,0-0,0-0,1-4,0-1,252,199,229,NA,90,0,0,0,0,0.2,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/184.gif,Detroit Mercy,0-5-0,255,NA,0-1,0-1,0-2,0-1,232,211,230,NA,184,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/317.gif,James Madison,0-5-0,211,NA,0-2,0-0,0-1,0-2,265,186,231,150,317,0,0,0,0,0,0,0,0,-1,150
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/534.gif,Pacific,2-3-0,249,NA,0-0,0-3,0-0,2-0,189,239,232,NA,534,0,0,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/502.gif,Northern Colo.,2-4-0,159,NA,0-2,0-1,2-0,0-1,100,276,233,154,502,0,0,0,0,1,2,0,0,-1,154
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/483.gif,Nicholls,2-4-0,178,NA,0-0,0-2,0-2,2-0,161,263,234,NA,483,0,0,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30024.gif,Utah Valley,2-5-0,168,NA,1-2,0-1,0-2,1-0,123,272,235,NA,30024,0.3333333333333333,1,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/86.gif,Buffalo,1-4-0,150,NA,0-2,0-0,1-1,0-1,226,228,236,NA,86,0,0,0,0,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/270.gif,Hampton,1-4-0,107,NA,0-0,0-3,1-0,0-1,284,154,237,NA,270,0,0,0,0,1,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/198.gif,ETSU,2-4-0,233,NA,0-0,0-2,1-2,1-0,240,229,241,NA,198,0,0,0,0,0.3333333333333333,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28600.gif,Lipscomb,2-5-0,189,NA,0-2,1-2,0-1,1-0,197,255,242,157,28600,0,0,0.3333333333333333,1,0,0,1,1,-1,157
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/667.gif,Southern Utah,1-4-0,150,NA,0-2,0-0,0-2,1-0,122,279,243,NA,667,0,0,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/771.gif,Western Ill.,2-6-0,220,NA,0-1,1-2,0-1,1-2,218,244,245,NA,771,0,0,0.3333333333333333,1,0,0,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/368.gif,UMass Lowell,0-6-0,254,NA,0-0,0-1,0-3,0-2,243,233,246,NA,368,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/769.gif,Western Caro.,1-5-0,213,NA,0-0,1-5,0-0,0-0,231,241,247,174,769,0,0,0.16666666666666666,1,0,0,0,0,-1,174
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/254.gif,Georgia St.,0-7-0,197,NA,0-5,0-0,0-0,0-2,237,240,248,172,254,0,0,0,0,0,0,0,0,-1,172
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/248.gif,George Mason,2-4-0,219,NA,0-1,0-1,1-0,1-2,254,230,249,NA,248,0,0,0,0,1,1,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/26172.gif,A&M-Corpus Christi,3-4-0,201,NA,0-1,1-1,0-0,2-2,146,274,250,184,26172,0,0,0.5,1,0,0,0.5,2,-1,184
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/244.gif,Furman,1-5-0,215,NA,0-1,0-0,1-2,0-2,211,254,251,NA,244,0,0,0,0,0.3333333333333333,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/236.gif,Fordham,2-5-0,227,NA,0-1,0-0,1-2,1-2,279,188,252,NA,236,0,0,0,0,0.3333333333333333,1,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/363.gif,Longwood,2-5-0,182,NA,0-2,0-1,0-1,2-1,263,226,253,NA,363,0,0,0,0,0,0,0.6666666666666666,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/7.gif,Alabama St.,0-6-0,232,NA,0-0,0-0,0-4,0-2,238,249,254,NA,7,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/660.gif,SIUE,3-4-0,253,NA,0-0,0-1,0-3,3-0,220,257,255,NA,660,0,0,0,0,0,0,1,3,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/669.gif,Missouri St.,1-6-0,223,NA,0-2,0-2,0-1,1-1,250,243,256,170,669,0,0,0,0,0,0,0.5,1,-1,170
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/101.gif,CSUN,1-5-0,242,NA,0-2,1-0,0-0,0-3,283,198,258,205,101,0,0,1,1,0,0,0,0,-1,205
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/81.gif,Bryant,2-4-0,246,NA,0-0,0-1,0-1,2-2,247.5,248,260,182,81,0,0,0,0,0,0,0.5,2,-1,182
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/361.gif,LIU,1-5-0,241,NA,0-1,0-2,0-1,1-1,249,251,261,191,361,0,0,0,0,0,0,0.5,1,-1,191
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/553.gif,Prairie View,1-4-0,258,NA,0-0,0-1,1-1,0-2,288,183,262,NA,553,0,0,0,0,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/794.gif,Green Bay,2-3-0,166,NA,0-1,0-0,1-2,1-0,193,269,263,NA,794,0,0,0,0,0.3333333333333333,1,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/112.gif,UC San Diego,1-5-0,226,NA,0-1,0-0,0-2,1-2,278,218,264,NA,112,0,0,0,0,0,0,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/305.gif,Indiana St.,1-4-0,252,NA,0-1,0-1,0-1,1-1,264,245,265,188,305,0,0,0,0,0,0,0.5,1,-1,188
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/817.gif,Youngstown St.,0-5-0,250,NA,0-2,0-1,0-1,0-1,262,253,266,NA,817,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1014.gif,Col. of Charleston,1-6-0,237,NA,0-2,0-0,0-0,1-4,213,268,267,NA,1014,0,0,0,0,0,0,0.2,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/222.gif,FDU,0-5-0,257,NA,0-0,0-2,0-2,0-1,281,219,268,NA,222,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/148.gif,Cleveland St.,1-5-0,176,NA,0-2,0-1,1-0,0-2,235,266,270,NA,148,0,0,0,0,1,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/201.gif,Eastern Ill.,2-5-0,251,NA,0-0,0-3,0-2,2-0,195,275,271,NA,201,0,0,0,0,0,0,1,2,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2678.gif,Ark.-Pine Bluff,1-5-0,236,NA,0-1,0-2,0-0,1-2,261,260,272,NA,2678,0,0,0,0,0,0,0.3333333333333333,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/352.gif,Lehigh,1-4-0,205,NA,0-2,0-0,1-1,0-1,202,277,273,NA,352,0,0,0,0,0.5,1,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/444.gif,Morehead St.,0-6-0,238,NA,0-0,0-2,0-4,0-0,169,283,274,NA,444,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/508.gif,Northwestern St.,0-5-0,256,NA,0-1,0-1,0-2,0-1,275,247,275,193,508,0,0,0,0,0,0,0,0,-1,193
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/439.gif,Monmouth,0-7-0,230,NA,0-2,0-2,0-2,0-1,271,262,276,NA,439,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/153.gif,Colgate,0-5-0,243,NA,0-1,0-3,0-0,0-1,267,267,277,193,153,0,0,0,0,0,0,0,0,-1,193
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/446.gif,Morgan St.,1-5-0,247,NA,0-0,0-1,0-4,1-0,268,270,278,NA,446,0,0,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2.gif,Abilene Christian,0-7-0,234,NA,0-2,0-1,0-3,0-1,270,271,279,196,2,0,0,0,0,0,0,0,0,-1,196
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/191.gif,Drexel,0-9-0,225,NA,0-3,0-2,0-2,0-2,273,273,280,NA,191,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2707.gif,Kansas City,0-5-0,248,NA,0-0,0-2,0-2,0-1,285,278,285,NA,2707,0,0,0,0,0,0,0,0,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/489.gif,N.C. Central,1-4-0,224,NA,0-1,0-2,0-1,1-0,282,282,287,NA,489,0,0,0,0,0,0,1,1,-1,NA
-http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/665.gif,Southern U.,0-6-0,259,NA,0-1,0-2,0-1,0-2,289,290,290,NA,665,0,0,0,0,0,0,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/694.gif,Tennessee,9-1-0,1,6,3-1,3-0,2-0,1-0,1,2,1,-6,694,0.75,3,1,3,1,2,1,1,19,-6
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/463.gif,Nebraska,7-2-0,27,18,1-2,0-0,2-0,4-0,4,3,2,-16,463,0.3333333333333333,1,0,0,1,2,1,4,7,-16
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/235.gif,Florida,13-0-0,5,2,1-0,2-0,7-0,3-0,2,23,3,-2,235,1,1,1,2,1,7,1,3,23,-2
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/522.gif,Oklahoma,7-0-0,19,3,2-0,1-0,2-0,2-0,7,9,4,3,522,1,2,1,1,1,2,1,2,22,3
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/674.gif,Stanford,7-0-0,4,20,0-0,2-0,2-0,3-0,5,27,5,-11,674,0,0,1,2,1,2,1,3,5,-11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/529.gif,Oregon,9-1-0,24,21,1-0,2-1,0-0,6-0,6,20,6,3,529,1,1,0.6666666666666666,2,0,0,1,6,4,3
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/31.gif,Arkansas,8-0-0,34,13,1-0,0-0,4-0,3-0,8,18,7,-2,31,1,1,0,0,1,4,1,3,12,-2
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/29.gif,Arizona,9-1-0,7,15,0-0,3-1,3-0,3-0,3,53,8,-26,29,0,0,0.75,3,1,3,1,3,10,-26
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/697.gif,Texas A&M,9-0-0,2,5,2-0,1-0,4-0,2-0,12,13,9,-3,697,1,2,1,1,1,4,1,2,20,-3
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/234.gif,Florida St.,7-1-0,17,8,1-1,3-0,1-0,2-0,10,25,10,-27,234,0.5,1,1,3,1,1,1,2,17,-27
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/365.gif,LSU,9-0-0,10,7,1-0,0-0,4-0,4-0,24,7,11,-10,365,1,1,0,0,1,4,1,4,18,-10
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/257.gif,Georgia,7-0-0,13,10,1-0,1-0,3-0,2-0,11,24,12,4,257,1,1,1,1,1,3,1,2,15,4
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/700.gif,Texas Tech,8-2-0,15,11,1-2,3-0,2-0,2-0,41,4,14,-57,700,0.3333333333333333,1,1,3,1,2,1,2,14,-57
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/703.gif,Texas,10-0-0,3,1,1-0,3-0,3-0,3-0,14,38,15,9,703,1,1,1,3,1,3,1,3,24,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/742.gif,Virginia Tech,8-1-0,47,17,0-1,2-0,2-0,4-0,17,32,16,12,742,0,0,1,2,1,2,1,4,8,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/110.gif,UCLA,9-0-0,12,4,1-0,3-0,0-0,5-0,31,11,17,7,110,1,1,1,3,0,0,1,5,21,7
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/746.gif,Virginia,4-5-0,21,NA,0-4,2-1,0-0,2-0,35,14,18,-8,746,0,0,0.6666666666666666,2,0,0,1,2,-1,-8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/306.gif,Indiana,8-1-0,31,NA,2-0,0-0,2-1,4-0,20,41,19,-14,306,1,2,0,0,0.6666666666666666,2,1,4,-1,-14
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/639.gif,Siena,5-0-0,16,NA,0-0,2-0,3-0,0-0,61,10,20,-9,639,0,0,1,2,1,3,0,0,-1,-9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/688.gif,Syracuse,8-0-0,38,NA,2-0,1-0,3-0,2-0,54,19,21,-38,688,1,2,1,1,1,3,1,2,-1,-38
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/648.gif,South Carolina,9-0-0,86,NA,2-0,0-0,1-0,6-0,38,30,22,-24,648,1,2,0,0,1,1,1,6,-1,-24
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/37.gif,Auburn,10-0-0,9,NA,2-0,3-0,2-0,3-0,27,55,23,-9,37,1,2,1,3,1,2,1,3,-1,-9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/10411.gif,USC Upstate,6-1-0,56,NA,0-0,1-1,0-0,5-0,15,88,24,-4,10411,0,0,0.5,1,0,0,1,5,-1,-4
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/66.gif,Boise St.,7-3-0,45,NA,1-1,2-0,3-0,1-2,9,121,25,5,66,0.5,1,1,2,1,3,0.3333333333333333,1,-1,5
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1104.gif,Grand Canyon,8-2-0,75,NA,0-1,1-1,1-0,6-0,96,5,26,-21,1104,0,0,0.5,1,1,1,1,6,-1,-21
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/77.gif,BYU,6-2-0,29,NA,0-2,1-0,2-0,3-0,48,33,27,25,77,0,0,1,1,1,2,1,3,-1,25
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/430.gif,Mississippi St.,8-1-0,11,19,2-1,1-0,2-0,3-0,45,40,28,-51,430,0.6666666666666666,2,1,1,1,2,1,3,6,-51
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/202.gif,Eastern Ky.,6-2-0,14,NA,1-2,2-0,1-0,2-0,42,43,29,-69,202,0.3333333333333333,1,1,2,1,1,1,2,-1,-69
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/433.gif,Ole Miss,6-2-0,74,NA,0-1,1-1,3-0,2-0,39,52,30,-1,433,0,0,0.5,1,1,3,1,2,-1,-1
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/651.gif,South Fla.,9-2-0,57,NA,0-1,0-0,4-1,5-0,22,92,31,-73,651,0,0,0,0,0.8,4,1,5,-1,-73
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/334.gif,Kentucky,6-4-0,81,23,0-2,2-2,2-0,2-0,47,46,32,19,334,0,0,0.5,2,1,2,1,2,2,19
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/315.gif,Jacksonville St.,5-2-0,50,NA,0-0,3-2,1-0,1-0,79,21,33,-36,315,0,0,0.6,3,1,1,1,1,-1,-36
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/8.gif,Alabama,5-4-0,20,14,1-3,2-1,1-0,1-0,32,63,34,-41,8,0.25,1,0.6666666666666666,2,1,1,1,1,11,-41
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/464.gif,Omaha,7-1-0,44,NA,1-1,0-0,3-0,3-0,13,126,35,-15,464,0.5,1,0,0,1,3,1,3,-1,-15
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/104.gif,UC Santa Barbara,6-2-0,48,NA,0-1,2-0,3-1,1-0,25,98,36,25,104,0,0,1,2,0.75,3,1,1,-1,25
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/149.gif,Coastal Carolina,6-2-0,40,NA,0-0,1-1,3-0,2-1,18,123,37,-18,149,0,0,0.5,1,1,3,0.6666666666666666,2,-1,-18
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/97.gif,Cal St. Fullerton,5-2-0,18,NA,0-2,1-0,2-0,2-0,92,22,38,11,97,0,0,1,1,1,2,1,2,-1,11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/367.gif,Louisville,6-2-0,112,NA,0-0,0-1,3-1,3-0,28,86,39,16,367,0,0,0,0,0.75,3,1,3,-1,16
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/466.gif,Nevada,6-2-0,35,NA,0-1,1-1,3-0,2-0,84,28,40,-1,466,0,0,0.5,1,1,3,1,2,-1,-1
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/766.gif,West Ga.,3-2-0,114,NA,0-0,1-2,0-0,2-0,46,65,41,26,766,0,0,0.3333333333333333,1,0,0,1,2,-1,26
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/14927.gif,Belmont,5-4-0,30,NA,1-3,1-1,2-0,1-0,68,50,42,-65,14927,0.25,1,0.5,1,1,2,1,1,-1,-65
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/521.gif,Oklahoma St.,3-4-0,32,9,2-3,0-0,0-1,1-0,118,16,43,-63,521,0.4,2,0,0,0,0,1,1,16,-63
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/87.gif,Butler,6-1-0,93,NA,0-0,4-0,0-0,2-1,30,94,45,9,87,0,0,1,4,0,0,0.6666666666666666,2,-1,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/457.gif,North Carolina,9-2-0,63,NA,1-2,2-0,1-0,5-0,62,62,46,-73,457,0.3333333333333333,1,1,2,1,1,1,5,-1,-73
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/518.gif,Ohio St.,5-2-0,23,NA,0-2,2-0,2-0,1-0,86,36,47,7,518,0,0,1,2,1,2,1,1,-1,7
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/626.gif,San Diego St.,7-2-0,26,NA,3-2,1-0,1-0,2-0,77,48,48,-35,626,0.6,3,1,1,1,1,1,2,-1,-35
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/193.gif,Duke,4-3-0,28,12,2-1,1-2,1-0,0-0,58,68,49,14,193,0.6666666666666666,2,0.3333333333333333,1,1,1,0,0,13,14
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/756.gif,Washington,4-4-0,67,25,1-2,0-2,1-0,2-0,152,12,50,-20,756,0.3333333333333333,1,0,0,1,1,1,2,0,-20
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/255.gif,Georgia Tech,7-1-0,8,NA,1-1,1-0,4-0,1-0,55,74,51,-65,255,0.5,1,1,1,1,4,1,1,-1,-65
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/96.gif,Fresno St.,3-4-0,66,NA,0-3,1-0,0-1,2-0,172,8,52,-92,96,0,0,1,1,0,0,1,2,-1,-92
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/386.gif,Marist,7-2-0,60,NA,0-2,2-0,2-0,3-0,51,81,53,29,386,0,0,1,2,1,2,1,3,-1,29
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/277.gif,Hawaii,6-1-0,71,NA,0-0,0-0,2-1,4-0,97,37,55,-6,277,0,0,0,0,0.6666666666666666,2,1,4,-1,-6
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/128.gif,UCF,7-4-0,22,NA,0-3,2-1,4-0,1-0,125,26,56,-11,128,0,0,0.6666666666666666,2,1,4,1,1,-1,-11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/43.gif,Austin Peay,6-3-0,41,NA,1-0,3-2,2-1,0-0,23,136,57,-48,43,1,1,0.6,3,0.6666666666666666,2,0,0,-1,-48
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/625.gif,Samford,5-2-0,62,NA,0-0,1-1,3-0,1-1,19,150,58,-28,625,0,0,0.5,1,1,3,0.5,1,-1,-28
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/99.gif,Long Beach St.,4-2-0,108,NA,0-0,1-0,2-0,1-2,148,17,59,15,99,0,0,1,1,1,2,0.3333333333333333,1,-1,15
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/670.gif,Texas St.,7-2-0,55,NA,0-1,0-0,3-0,4-1,129,29,60,-69,670,0,0,0,0,1,3,0.8,4,-1,-69
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/487.gif,North Ala.,9-0-0,106,NA,0-0,0-0,3-0,6-0,93,45,61,8,487,0,0,0,0,1,3,1,6,-1,8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/402.gif,McNeese,6-4-0,61,NA,0-3,1-1,2-0,3-0,33,108,62,48,402,0,0,0.5,1,1,2,1,3,-1,48
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/5.gif,Akron,6-3-0,82,NA,1-2,1-0,1-0,3-1,121,35,63,12,5,0.3333333333333333,1,1,1,1,1,0.75,3,-1,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/434.gif,Missouri,6-5-0,36,16,1-3,2-2,2-0,1-0,71,77,64,7,434,0.25,1,0.5,2,1,2,1,1,9,7
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/68.gif,Boston U.,6-2-0,121,NA,0-0,0-2,4-0,2-0,90,57,65,46,68,0,0,0,0,1,4,1,2,-1,46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/6.gif,Alabama A&M,5-1-0,154,NA,1-0,0-0,1-1,3-0,37,117,66,NA,6,1,1,0,0,0.5,1,1,3,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/312.gif,Iowa,6-3-0,153,NA,0-3,0-0,1-0,5-0,60,100,67,-67,312,0,0,0,0,1,1,1,5,-1,-67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/107.gif,California,4-2-0,115,NA,0-0,1-1,2-0,1-1,59,101,68,12,107,0,0,0.5,1,1,2,0.5,1,-1,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/229.gif,Fla. Atlantic,9-1-0,110,NA,1-0,0-0,3-0,5-1,123,47,69,26,229,1,1,0,0,1,3,0.8333333333333334,5,-1,26
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/782.gif,Wichita St.,6-4-0,65,NA,2-4,0-0,0-0,4-0,81,76,71,41,782,0.3333333333333333,2,0,0,0,0,1,4,-1,41
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/355.gif,Liberty,8-2-0,25,NA,2-1,1-1,1-0,4-0,74,90,72,24,355,0.6666666666666666,2,0.5,1,1,1,1,4,-1,24
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/504.gif,UNI,3-2-0,37,NA,0-0,1-1,1-1,1-0,138,44,73,9,504,0,0,0.5,1,0.5,1,1,1,-1,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/460.gif,UNCW,6-2-0,143,NA,0-2,0-0,2-0,4-0,88,75,74,-6,460,0,0,0,0,1,2,1,4,-1,-6
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/251.gif,Georgetown,3-2-0,53,NA,0-2,0-0,2-0,1-0,56,113,75,-6,251,0,0,0,0,1,2,1,1,-1,-6
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/772.gif,Western Ky.,5-4-0,54,NA,0-4,2-0,1-0,2-0,149,39,76,-103,772,0,0,1,2,1,1,1,2,-1,-103
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/505.gif,Northern Ky.,6-3-0,73,NA,0-0,1-1,3-2,2-0,43,129,77,60,505,0,0,0.5,1,0.6,3,1,2,-1,60
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/147.gif,Clemson,3-6-0,157,NA,0-4,0-2,1-0,2-0,34,142,78,29,147,0,0,0,0,1,1,1,2,-1,29
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2711.gif,North Florida,9-3-0,78,NA,0-1,3-1,0-1,6-0,124,59,79,-13,2711,0,0,0.75,3,0,0,1,6,-1,-13
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/314.gif,Jackson St.,5-0-0,142,NA,0-0,0-0,1-0,4-0,168,31,80,NA,314,0,0,0,0,1,1,1,4,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/175.gif,Dayton,4-1-0,162,NA,0-0,1-1,0-0,3-0,85,87,81,23,175,0,0,0.5,1,0,0,1,3,-1,23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/249.gif,George Washington,4-1-0,59,NA,0-0,1-0,1-1,2-0,223,15,82,16,249,0,0,1,1,0.5,1,1,2,-1,16
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/519.gif,Ohio,5-3-0,33,NA,0-2,2-0,2-1,1-0,26,174,83,20,519,0,0,1,2,0.6666666666666666,2,1,1,-1,20
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1356.gif,Seattle U,4-4-0,90,NA,1-3,0-0,0-1,3-0,44,139,84,-36,1356,0.25,1,0,0,0,0,1,3,-1,-36
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/169.gif,Creighton,5-3-0,89,NA,0-2,0-1,3-0,2-0,112,71,86,-38,169,0,0,0,0,1,3,1,2,-1,-38
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28.gif,Arizona St.,6-3-0,76,NA,1-0,2-1,0-1,3-1,80,99,87,19,28,1,1,0.6666666666666666,2,0,0,0.75,3,-1,19
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1395.gif,Tarleton St.,6-3-0,95,NA,0-0,1-3,1-0,4-0,128,69,88,-68,1395,0,0,0.25,1,1,1,1,4,-1,-68
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/51.gif,Baylor,5-3-0,92,24,0-2,0-1,2-0,3-0,66,134,90,28,51,0,0,0,0,1,2,1,3,1,28
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1092.gif,Gardner-Webb,6-2-0,163,NA,0-0,2-2,0-0,4-0,105,95,91,52,1092,0,0,0.5,2,0,0,1,4,-1,52
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/655.gif,Southeastern La.,5-3-0,164,NA,0-1,0-0,2-1,3-1,202,34,92,-46,655,0,0,0,0,0.6666666666666666,2,0.75,3,-1,-46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/671.gif,Louisiana,5-3-0,72,NA,1-1,0-0,0-1,4-1,102,96,93,28,671,0.5,1,0,0,0,0,0.8,4,-1,28
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2915.gif,Wofford,6-3-0,122,NA,0-0,0-1,2-2,4-0,177,51,94,49,2915,0,0,0,0,0.5,2,1,4,-1,49
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/294.gif,Idaho St.,5-3-0,194,NA,0-0,0-3,2-0,3-0,50,153,95,-69,294,0,0,0,0,1,2,1,3,-1,-69
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/631.gif,Santa Clara,5-3-0,119,NA,1-1,0-0,1-0,3-2,21,210,96,24,631,0.5,1,0,0,1,1,0.6,3,-1,24
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/624.gif,Sam Houston,5-5-0,111,NA,0-2,1-0,2-1,2-2,179,54,97,59,624,0,0,1,1,0.6666666666666666,2,0.5,2,-1,59
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/196.gif,East Carolina,5-4-0,104,NA,0-2,2-0,0-0,3-2,104,102,98,-28,196,0,0,1,2,0,0,0.6,3,-1,-28
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/253.gif,Ga. Southern,4-5-0,105,NA,0-2,0-1,2-2,2-0,147,73,99,-54,253,0,0,0,0,0.5,2,1,2,-1,-54
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/9.gif,UAB,5-3-0,144,NA,0-2,0-1,1-0,4-0,91,111,100,75,9,0,0,0,0,1,1,1,4,-1,75
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/620.gif,St. Thomas (MN),5-4-0,147,NA,0-1,0-2,3-1,2-0,63,151,101,47,620,0,0,0,0,0.75,3,1,2,-1,47
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/646.gif,South Alabama,5-4-0,68,NA,0-2,1-0,1-1,3-1,132,89,102,-8,646,0,0,1,1,0.5,1,0.75,3,-1,-8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/406.gif,Mercer,5-3-0,51,NA,0-0,2-2,2-1,1-0,76,135,103,-15,406,0,0,0.5,2,0.6666666666666666,2,1,1,-1,-15
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/301.gif,Illinois,4-5-0,140,NA,0-3,0-2,2-0,2-0,145,80,104,-23,301,0,0,0,0,1,2,1,2,-1,-23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/180.gif,Delaware,2-3-0,80,NA,0-2,1-1,1-0,0-0,69,145,105,-49,180,0,0,0.5,1,1,1,0,0,-1,-49
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/459.gif,UNC Greensboro,6-2-0,120,NA,0-0,1-2,1-0,4-0,29,191,106,54,459,0,0,0.3333333333333333,1,1,1,1,4,-1,54
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/102.gif,Sacramento St.,6-3-0,136,NA,0-1,1-0,2-2,3-0,49,163,107,34,102,0,0,1,1,0.5,2,1,3,-1,34
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/418.gif,Michigan,4-4-0,88,NA,1-2,1-1,0-1,2-0,165,72,108,-95,418,0.3333333333333333,1,0.5,1,0,0,1,2,-1,-95
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/288.gif,Houston,6-2-0,42,NA,0-0,1-1,1-0,4-1,16,239,109,25,288,0,0,0.5,1,1,1,0.8,4,-1,25
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/494.gif,North Dakota,4-4-0,97,NA,1-3,1-0,0-0,2-1,162,84,110,-26,494,0.25,1,1,1,0,0,0.6666666666666666,2,-1,-26
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/649.gif,South Dakota St.,5-3-0,155,NA,1-1,0-1,1-1,3-0,52,180,112,NA,649,0.5,1,0,0,0.5,1,1,3,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/328.gif,Kansas,2-4-0,221,NA,0-2,1-1,0-0,1-1,143,103,113,17,328,0,0,0.5,1,0,0,0.5,1,-1,17
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/465.gif,UNLV,6-2-0,87,NA,0-1,0-0,2-0,4-1,210,58,114,-47,465,0,0,0,0,1,2,0.8,4,-1,-47
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/316.gif,Jacksonville,3-4-0,107,NA,0-1,1-2,0-0,2-1,111,127,115,-53,316,0,0,0.3333333333333333,1,0,0,0.6666666666666666,2,-1,-53
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/650.gif,South Dakota,4-2-0,158,NA,0-0,0-1,2-0,2-1,206,64,116,NA,650,0,0,0,0,1,2,0.6666666666666666,2,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/219.gif,Evansville,3-4-0,116,NA,0-0,1-2,1-2,1-0,36,202,117,41,219,0,0,0.3333333333333333,1,0.3333333333333333,1,1,1,-1,41
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/94.gif,CSU Bakersfield,6-5-0,129,NA,0-2,2-1,2-2,2-0,72,165,118,-102,94,0,0,0.6666666666666666,2,0.5,2,1,2,-1,-102
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/731.gif,Utah St.,5-3-0,69,NA,0-1,1-1,3-1,1-0,139,114,119,-9,731,0,0,0.5,1,0.75,3,1,1,-1,-9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/627.gif,San Diego,3-4-0,126,NA,0-2,1-1,0-0,2-1,216,61,120,-19,627,0,0,0.5,1,0,0,0.6666666666666666,2,-1,-19
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/129.gif,Central Mich.,1-4-0,145,NA,0-1,0-2,1-1,0-0,249,49,121,9,129,0,0,0,0,0.5,1,0,0,-1,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/692.gif,Tennessee Tech,4-5-0,84,NA,0-2,2-1,2-1,0-1,182,93,122,32,692,0,0,0.6666666666666666,2,0.6666666666666666,2,0,0,-1,32
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/509.gif,Northwestern,4-5-0,49,22,0-5,1-0,3-0,0-0,201,83,123,-35,509,0,0,1,1,1,3,0,0,3,-35
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30095.gif,Utah Tech,4-6-0,191,NA,0-2,1-1,1-2,2-1,65,186,124,-8,30095,0,0,0.5,1,0.3333333333333333,1,0.6666666666666666,2,-1,-8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/473.gif,New Mexico,4-5-1,177,NA,0-1,0-3,3-1,1-1,208,82,127,10,473,0,0,0,0,0.75,3,0.5,1,-1,10
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/404.gif,Memphis,4-1-0,39,NA,0-1,0-0,0-0,4-0,73,181,128,NA,404,0,0,0,0,0,0,1,4,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/716.gif,Troy,5-3-0,99,NA,0-0,0-1,1-2,4-0,110,149,130,-10,716,0,0,0,0,0.3333333333333333,1,1,4,-1,-10
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/299.gif,Illinois St.,2-7-0,123,NA,0-4,0-1,2-1,0-1,235,67,131,-67,299,0,0,0,0,0.6666666666666666,2,0,0,-1,-67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/695.gif,UT Martin,4-4-0,180,NA,0-0,1-0,1-1,2-3,231,70,132,43,695,0,0,1,1,0.5,1,0.4,2,-1,43
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2743.gif,UIW,4-4-0,203,NA,0-1,0-0,2-2,2-1,67,199,133,73,2743,0,0,0,0,0.5,2,0.6666666666666666,2,-1,73
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/164.gif,UConn,4-3-0,64,NA,0-1,1-0,2-2,1-0,40,223,134,23,164,0,0,1,1,0.5,2,1,1,-1,23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/719.gif,Tulsa,5-4-0,96,NA,0-2,0-1,1-0,4-1,217,85,135,33,719,0,0,0,0,1,1,0.8,4,-1,33
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/400.gif,Massachusetts,3-6-0,109,NA,0-3,0-0,1-2,2-1,189,104,136,114,400,0,0,0,0,0.3333333333333333,1,0.6666666666666666,2,-1,114
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/490.gif,NC State,4-3-0,138,NA,0-3,1-0,1-0,2-0,214,91,137,-18,490,0,0,1,1,1,1,1,2,-1,-18
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/539.gif,Penn St.,3-6-0,184,NA,0-3,0-2,1-1,2-0,75,195,138,-49,539,0,0,0,0,0.5,1,1,2,-1,-49
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/67.gif,Boston College,5-5-0,134,NA,0-4,0-0,2-1,3-0,151,132,139,36,67,0,0,0,0,0.6666666666666666,2,1,3,-1,36
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/61.gif,Bethune-Cookman,4-7-0,113,NA,0-3,0-1,2-3,2-0,167,119,140,-87,61,0,0,0,0,0.4,2,1,2,-1,-87
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/702.gif,UT Arlington,4-6-0,160,NA,0-4,1-2,0-0,3-0,157,131,141,67,702,0,0,0.3333333333333333,1,0,0,1,3,-1,67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30135.gif,California Baptist,4-4-0,137,NA,0-2,0-0,1-1,3-1,142,144,142,9,30135,0,0,0,0,0.5,1,0.75,3,-1,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/228.gif,Florida A&M,1-4-0,131,NA,0-2,0-2,0-0,1-0,194,107,143,-67,228,0,0,0,0,0,0,1,1,-1,-67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/706.gif,UTSA,7-2-0,146,NA,0-0,0-2,1-0,6-0,187,112,144,67,706,0,0,0,0,1,1,1,6,-1,67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/497.gif,North Texas,6-2-0,70,NA,0-1,3-0,1-0,2-1,95,173,145,46,497,0,0,1,3,1,1,0.6666666666666666,2,-1,46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/513.gif,Notre Dame,5-5-0,128,NA,0-4,1-0,2-0,2-1,184,116,146,-16,513,0,0,1,1,1,2,0.6666666666666666,2,-1,-16
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/647.gif,South Carolina St.,3-2-0,100,NA,1-0,0-1,1-1,1-0,195,109,147,-16,647,1,1,0,0,0.5,1,1,1,-1,-16
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/704.gif,UTEP,7-2-0,217,NA,0-0,0-2,0-0,7-0,131,154,148,1,704,0,0,0,0,0,0,1,7,-1,1
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/559.gif,Purdue,4-4-0,141,NA,0-2,0-2,0-0,4-0,82,190,149,4,559,0,0,0,0,0,0,1,4,-1,4
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/528.gif,Oregon St.,3-5-0,243,NA,0-0,0-2,1-0,2-3,193,118,150,55,528,0,0,0,0,1,1,0.4,2,-1,55
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/392.gif,Maryland,4-5-0,52,NA,1-3,1-2,1-0,1-0,141,155,151,20,392,0.25,1,0.3333333333333333,1,1,1,1,1,-1,20
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28755.gif,FGCU,5-7-0,135,NA,0-2,0-3,1-1,4-1,116,168,152,59,28755,0,0,0,0,0.5,1,0.8,4,-1,59
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/709.gif,Toledo,5-2-0,234,NA,0-1,0-0,2-0,3-1,119,167,153,23,709,0,0,0,0,1,2,0.75,3,-1,23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/556.gif,Providence,0-6-0,207,NA,0-2,0-1,0-2,0-1,174,130,154,-39,556,0,0,0,0,0,0,0,0,-1,-39
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/678.gif,Stetson,7-3-0,151,NA,0-1,0-0,1-2,6-0,120,171,155,77,678,0,0,0,0,0.3333333333333333,1,1,6,-1,77
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/563.gif,Radford,5-4-0,152,NA,0-1,2-1,2-0,1-2,169,143,157,34,563,0,0,0.6666666666666666,2,1,2,0.3333333333333333,1,-1,34
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/62.gif,Binghamton,3-4-0,236,NA,0-1,0-1,1-1,2-1,224,106,158,67,62,0,0,0,0,0.5,1,0.6666666666666666,2,-1,67
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/739.gif,Villanova,4-4-0,91,NA,1-2,0-1,1-1,2-0,136,170,159,-36,739,0.3333333333333333,1,0,0,0.5,1,1,2,-1,-36
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/503.gif,NIU,3-5-0,198,NA,0-3,0-2,1-0,2-0,154,158,160,39,503,0,0,0,0,1,1,1,2,-1,39
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/366.gif,Louisiana Tech,3-6-0,167,NA,0-3,1-0,0-0,2-3,190,138,161,12,366,0,0,1,1,0,0,0.4,2,-1,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/346.gif,Lamar University,5-3-0,77,NA,0-2,0-0,0-1,5-0,204,128,162,48,346,0,0,0,0,0,0,1,5,-1,48
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/545.gif,Pittsburgh,5-4-0,103,NA,0-2,1-1,1-1,3-0,87,208,163,75,545,0,0,0.5,1,0.5,1,1,3,-1,75
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/609.gif,Saint Louis,2-3-0,166,NA,0-1,1-1,0-0,1-1,237,105,164,5,609,0,0,0.5,1,0,0,0.5,1,-1,5
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/115.gif,Campbell,7-2-0,165,NA,0-1,0-0,1-1,6-0,180,146,165,65,115,0,0,0,0,0.5,1,1,6,-1,65
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/498.gif,ULM,3-6-0,159,NA,0-1,0-2,3-3,0-0,114,196,166,NA,498,0,0,0,0,0.5,3,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/676.gif,SFA,4-6-0,172,NA,0-2,1-1,1-2,2-1,101,200,167,NA,676,0,0,0.5,1,0.3333333333333333,1,0.6666666666666666,2,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/311.gif,Iowa St.,3-4-0,98,NA,1-2,1-0,1-1,0-1,117,193,168,1,311,0.3333333333333333,1,1,1,0.5,1,0,0,-1,1
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/72.gif,Bradley,2-7-0,46,NA,1-5,1-1,0-0,0-1,155,162,169,60,72,0.16666666666666666,1,0.5,1,0,0,0,0,-1,60
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30136.gif,Lindenwood,3-4-0,83,NA,0-1,0-3,3-0,0-0,220,120,171,NA,30136,0,0,0,0,1,3,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/472.gif,New Mexico St.,4-4-0,176,NA,0-1,0-2,0-0,4-1,78,224,172,71,472,0,0,0,0,0,0,0.8,4,-1,71
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/758.gif,Weber St.,3-7-0,156,NA,0-3,0-4,0-0,3-0,108,209,173,131,758,0,0,0,0,0,0,1,3,-1,131
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/659.gif,Southern Ill.,1-8-0,132,NA,0-4,0-3,0-0,1-1,146,184,174,37,659,0,0,0,0,0,0,0.5,1,-1,37
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/287.gif,Houston Christian,2-6-0,214,NA,1-0,0-2,1-2,0-2,186,157,176,-35,287,1,1,0,0,0.3333333333333333,1,0,0,-1,-35
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/630.gif,San Jose St.,4-5-0,218,NA,0-0,0-2,0-3,4-0,228,133,177,-54,630,0,0,0,0,0,0,1,4,-1,-54
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/71.gif,Bowling Green,2-3-0,187,NA,0-3,0-0,0-0,2-0,218.5,140,178,1,71,0,0,0,0,0,0,1,2,-1,1
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/388.gif,Marshall,3-4-0,231,NA,0-2,0-1,0-0,3-1,127,205,179,-60,388,0,0,0,0,0,0,0.75,3,-1,-60
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/108.gif,UC Davis,4-2-0,58,NA,0-2,0-0,1-0,3-0,254,115,180,6,108,0,0,0,0,1,1,1,3,-1,6
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/231.gif,FIU,6-4-0,79,NA,2-2,1-0,0-1,3-1,158,185,181,35,231,0.5,2,1,1,0,0,0.75,3,-1,35
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/458.gif,Charlotte,2-6-0,43,NA,0-5,0-1,2-0,0-0,64,251,182,-14,458,0,0,0,0,1,2,0,0,-1,-14
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/428.gif,Minnesota,1-7-0,228,NA,0-1,0-3,0-3,1-0,159,182,183,12,428,0,0,0,0,0,0,1,1,-1,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1004.gif,Central Ark.,2-6-0,130,NA,0-3,1-0,1-1,0-2,196,159,184,9,1004,0,0,1,1,0.5,1,0,0,-1,9
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/774.gif,Western Mich.,3-6-0,212,NA,0-2,0-2,2-0,1-2,106,220,185,-59,774,0,0,0,0,1,2,0.3333333333333333,1,-1,-59
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/111.gif,UC Riverside,4-6-0,124,NA,0-3,1-0,1-1,2-2,211,156,186,20,111,0,0,1,1,0.5,1,0.5,2,-1,20
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/416.gif,Michigan St.,2-5-0,125,NA,0-4,0-0,1-0,1-1,153,198,187,-35,416,0,0,0,0,1,1,0.5,1,-1,-35
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/419.gif,Middle Tenn.,3-6-0,179,NA,0-0,0-4,2-1,1-1,243,141,188,45,419,0,0,0,0,0.6666666666666666,2,0.5,1,-1,45
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/587.gif,Rutgers,4-5-0,189,NA,0-2,0-1,0-0,4-2,226,152,189,13,587,0,0,0,0,0,0,0.6666666666666666,4,-1,13
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1157.gif,Kennesaw St.,2-7-0,230,NA,0-2,0-1,1-3,1-1,265,122,190,-46,1157,0,0,0,0,0.25,1,0.5,1,-1,-46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/331.gif,Kent St.,2-6-0,199,NA,0-2,0-1,1-2,1-1,126,222,191,69,331,0,0,0,0,0.3333333333333333,1,0.5,1,-1,69
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/176.gif,DePaul,4-4-0,220,NA,0-0,1-0,1-2,2-2,242,148,192,57,176,0,0,1,1,0.3333333333333333,1,0.5,2,-1,57
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/664.gif,Southern Miss.,1-5-0,168,NA,0-2,0-1,1-2,0-0,176,189,193,-37,664,0,0,0,0,0.3333333333333333,1,0,0,-1,-37
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/156.gif,Colorado St.,4-5-0,201,NA,0-1,2-0,0-2,2-2,273,110,194,81,156,0,0,1,2,0,0,0.5,2,-1,81
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/691.gif,Tennessee St.,3-4-0,102,NA,1-0,1-2,1-2,0-0,89,246,195,11,691,1,1,0.3333333333333333,1,0.3333333333333333,1,0,0,-1,11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/308.gif,Purdue Fort Wayne,2-6-0,171,NA,1-1,0-3,1-1,0-1,203,176,196,11,308,0.5,1,0,0,0.5,1,0,0,-1,11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/52.gif,Bellarmine,1-4-0,181,NA,0-2,0-1,1-1,0-0,192,192,198,-7,52,0,0,0,0,0.5,1,0,0,-1,-7
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/732.gif,Utah,3-3-0,210,NA,0-1,0-1,0-0,3-1,175,201,200,27,732,0,0,0,0,0,0,0.75,3,-1,27
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/302.gif,UIC,4-5-0,186,NA,0-0,1-3,1-2,2-0,163,212,201,93,302,0,0,0.25,1,0.3333333333333333,1,1,2,-1,93
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/796.gif,Wisconsin,5-4-0,173,NA,0-1,1-1,1-2,3-0,284,97,202,3,796,0,0,0.5,1,0.3333333333333333,1,1,3,-1,3
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/48.gif,Charleston So.,3-5-0,205,NA,0-2,0-2,0-0,3-1,135,231,203,-5,48,0,0,0,0,0,0,0.75,3,-1,-5
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1320.gif,Presbyterian,5-3-0,200,NA,0-0,0-0,0-3,5-0,218.5,169,204,13,1320,0,0,0,0,0,0,1,5,-1,13
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/493.gif,North Dakota St.,4-6-0,118,NA,0-5,0-0,0-1,4-0,267,137,205,64,493,0,0,0,0,0,0,1,4,-1,64
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/270.gif,Hampton,2-4-0,149,NA,0-0,0-2,2-1,0-1,233,166,206,NA,270,0,0,0,0,0.6666666666666666,2,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/83.gif,Bucknell,1-4-0,202,NA,0-1,0-3,0-0,1-0,164,217,207,27,83,0,0,0,0,0,0,1,1,-1,27
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/27.gif,App State,1-5-0,183,NA,0-2,0-1,1-2,0-0,140,234,208,-8,27,0,0,0,0,0.3333333333333333,1,0,0,-1,-8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/17.gif,Alcorn,1-4-0,241,NA,0-1,0-1,0-0,1-2,238,172,209,NA,17,0,0,0,0,0,0,0.3333333333333333,1,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/30024.gif,Utah Valley,2-6-0,139,NA,1-2,0-2,0-2,1-0,134,244,210,59,30024,0.3333333333333333,1,0,0,0,0,1,1,-1,59
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/635.gif,Seton Hall,3-4-0,148,NA,0-0,1-2,1-0,1-2,181,215,211,19,635,0,0,0.3333333333333333,1,1,1,0.3333333333333333,1,-1,19
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/792.gif,Winthrop,5-2-0,101,NA,1-1,0-0,0-1,4-0,103,258,212,87,792,0.5,1,0,0,0,0,1,4,-1,87
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/682.gif,Stonehill,3-2-0,150,NA,0-0,2-0,0-2,1-0,109,259,213,53,682,0,0,1,2,0,0,1,1,-1,53
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/550.gif,Portland St.,3-4-0,127,NA,0-1,0-0,1-2,2-1,188,218,214,NA,550,0,0,0,0,0.3333333333333333,1,0.6666666666666666,2,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1068.gif,Elon,3-4-0,213,NA,0-0,0-1,0-3,3-0,234,187,215,32,1068,0,0,0,0,0,0,1,3,-1,32
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/349.gif,Le Moyne,0-5-0,161,NA,0-4,0-1,0-0,0-0,173,226,217,-11,349,0,0,0,0,0,0,0,0,-1,-11
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/317.gif,James Madison,0-5-0,208,NA,0-2,0-1,0-2,0-0,269,160,220,-4,317,0,0,0,0,0,0,0,0,-1,-4
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/725.gif,Army West Point,3-5-0,178,NA,0-0,0-3,2-2,1-0,229,203,221,49,725,0,0,0,0,0.5,2,1,1,-1,49
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/661.gif,Southern Ind.,1-4-0,170,NA,0-2,0-0,1-2,0-0,260,175,222,8,661,0,0,0,0,0.3333333333333333,1,0,0,-1,8
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/693.gif,Chattanooga,2-7-0,215,NA,0-0,0-2,1-2,1-3,144,254,223,108,693,0,0,0,0,0.3333333333333333,1,0.25,1,-1,108
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/261.gif,Grambling,2-5-0,219,NA,0-1,0-2,0-0,2-2,199,227,224,NA,261,0,0,0,0,0,0,0.5,2,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/711.gif,Towson,2-6-0,245,NA,0-0,0-4,0-2,2-0,94,276,226,76,711,0,0,0,0,0,0,1,2,-1,76
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/441.gif,Montana,2-7-0,229,NA,0-4,0-1,0-0,2-2,160,250,227,23,441,0,0,0,0,0,0,0.5,2,-1,23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/454.gif,Murray St.,3-3-0,250,NA,0-0,0-1,1-1,2-1,264,183,228,76,454,0,0,0,0,0.5,1,0.6666666666666666,2,-1,76
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/370.gif,LMU (CA),1-5-0,244,NA,0-2,0-1,0-0,1-2,241,206,229,10,370,0,0,0,0,0,0,0.3333333333333333,1,-1,10
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/414.gif,Miami (OH),1-7-0,232,NA,0-2,1-1,0-1,0-3,122,269,230,73,414,0,0,0.5,1,0,0,0,0,-1,73
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/305.gif,Indiana St.,1-6-0,256,NA,0-2,0-2,0-1,1-1,279,161,231,5,305,0,0,0,0,0,0,0.5,1,-1,5
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/667.gif,Southern Utah,2-4-0,94,NA,0-2,0-2,1-0,1-0,130,267,232,17,667,0,0,0,0,1,1,1,1,-1,17
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/502.gif,Northern Colo.,2-5-0,182,NA,0-3,0-0,1-1,1-1,133,265,233,4,502,0,0,0,0,0.5,1,0.5,1,-1,4
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/254.gif,Georgia St.,1-8-0,196,NA,0-4,0-1,0-2,1-1,240,213,234,44,254,0,0,0,0,0,0,0.5,1,-1,44
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/683.gif,Stony Brook,1-6-0,169,NA,0-2,0-1,1-3,0-0,183,243,235,65,683,0,0,0,0,0.25,1,0,0,-1,65
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/534.gif,Pacific,2-4-0,242,NA,0-1,0-2,0-1,2-0,137,270,237,-12,534,0,0,0,0,0,0,1,2,-1,-12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/660.gif,SIUE,5-4-0,240,NA,0-0,0-1,0-2,5-1,200,236,238,60,660,0,0,0,0,0,0,0.8333333333333334,5,-1,60
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/368.gif,UMass Lowell,0-7-0,239,NA,0-1,0-2,0-2,0-2,197,245,239,21,368,0,0,0,0,0,0,0,0,-1,21
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/184.gif,Detroit Mercy,0-5-0,266,NA,0-1,0-1,0-2,0-1,245,216,241,55,184,0,0,0,0,0,0,0,0,-1,55
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/7.gif,Alabama St.,0-7-0,237,NA,0-0,0-3,0-0,0-4,222,233,242,60,7,0,0,0,0,0,0,0,0,-1,60
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/112.gif,UC San Diego,2-5-0,209,NA,0-1,0-0,0-2,2-2,275,194,244,27,112,0,0,0,0,0,0,0.5,2,-1,27
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/198.gif,ETSU,3-4-0,254,NA,0-0,0-2,0-2,3-0,221,235,245,12,198,0,0,0,0,0,0,1,3,-1,12
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/244.gif,Furman,2-6-0,216,NA,0-0,0-1,2-2,0-3,252,225,246,44,244,0,0,0,0,0.5,2,0,0,-1,44
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/81.gif,Bryant,3-6-0,226,NA,0-1,0-2,0-2,3-1,166,266,247,15,81,0,0,0,0,0,0,0.75,3,-1,15
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/769.gif,Western Caro.,1-5-0,190,NA,0-0,1-5,0-0,0-0,230,240,249,14,769,0,0,0.16666666666666666,1,0,0,0,0,-1,14
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/86.gif,Buffalo,1-4-0,85,NA,0-2,1-1,0-0,0-1,171,268,250,44,86,0,0,0.5,1,0,0,0,0,-1,44
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/26172.gif,A&M-Corpus Christi,4-4-0,185,NA,0-1,1-1,0-1,3-1,185,264,251,42,26172,0,0,0.5,1,0,0,0.75,3,-1,42
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/483.gif,Nicholls,3-5-0,197,NA,0-2,0-2,0-1,3-0,156,277,253,105,483,0,0,0,0,0,0,1,3,-1,105
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/90.gif,Cal Poly,1-8-0,264,NA,0-0,0-1,1-6,0-1,247,247,256,62,90,0,0,0,0,0.14285714285714285,1,0,0,-1,62
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/236.gif,Fordham,3-6-0,223,NA,0-2,0-0,1-2,2-2,281,207,257,23,236,0,0,0,0,0.3333333333333333,1,0.5,2,-1,23
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/771.gif,Western Ill.,2-7-0,224,NA,0-1,1-2,0-3,1-1,257,238,258,89,771,0,0,0.3333333333333333,1,0,0,0.5,1,-1,89
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/444.gif,Morehead St.,1-7-0,225,NA,0-0,0-1,1-6,0-0,83,289,260,19,444,0,0,0,0,0.14285714285714285,1,0,0,-1,19
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/371.gif,Loyola Chicago,2-7-0,174,NA,0-4,0-2,1-0,1-1,236,257,261,49,371,0,0,0,0,1,1,0.5,1,-1,49
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/201.gif,Eastern Ill.,2-6-0,253,NA,0-0,0-5,0-1,2-0,232,261,262,74,201,0,0,0,0,0,0,1,2,-1,74
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/361.gif,LIU,1-5-0,251,NA,0-1,0-2,0-1,1-1,248,255,263,40,361,0,0,0,0,0,0,0.5,1,-1,40
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/381.gif,Manhattan,0-5-0,255,NA,0-0,0-4,0-0,0-1,253,253,264,NA,381,0,0,0,0,0,0,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/363.gif,Longwood,2-5-0,211,NA,0-1,0-2,0-1,2-1,277,230,266,66,363,0,0,0,0,0,0,0.6666666666666666,2,-1,66
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/248.gif,George Mason,3-5-0,248,NA,0-1,0-2,1-0,2-2,215,273,267,46,248,0,0,0,0,1,1,0.5,2,-1,46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/28600.gif,Lipscomb,3-6-0,204,NA,0-2,0-3,1-1,2-0,250,260,268,21,28600,0,0,0,0,0.5,1,1,2,-1,21
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/101.gif,CSUN,1-6-0,247,NA,0-2,1-0,0-1,0-3,290,178,269,68,101,0,0,1,1,0,0,0,0,-1,68
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/148.gif,Cleveland St.,1-6-0,192,NA,0-1,0-3,1-0,0-2,213,275,270,28,148,0,0,0,0,1,1,0,0,-1,28
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/794.gif,Green Bay,2-3-0,175,NA,0-1,0-0,1-2,1-0,205,278,271,46,794,0,0,0,0,0.3333333333333333,1,1,1,-1,46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/553.gif,Prairie View,1-4-0,268,NA,0-0,1-1,0-1,0-2,289,188,272,83,553,0,0,0.5,1,0,0,0,0,-1,83
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/508.gif,Northwestern St.,0-6-0,261,NA,0-0,0-3,0-1,0-2,283,241,273,36,508,0,0,0,0,0,0,0,0,-1,36
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2678.gif,Ark.-Pine Bluff,1-5-0,246,NA,0-1,0-2,0-0,1-2,272,256,274,20,2678,0,0,0,0,0,0,0.3333333333333333,1,-1,20
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/1014.gif,Col. of Charleston,1-6-0,249,NA,0-2,0-0,0-0,1-4,244,281,275,78,1014,0,0,0,0,0,0,0.2,1,-1,78
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/817.gif,Youngstown St.,0-5-0,265,NA,0-0,0-3,0-0,0-2,280,262,276,38,817,0,0,0,0,0,0,0,0,-1,38
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/669.gif,Missouri St.,1-8-0,233,NA,0-3,0-0,1-3,0-2,207,288,277,27,669,0,0,0,0,0.25,1,0,0,-1,27
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/446.gif,Morgan St.,1-5-0,252,NA,0-0,0-2,1-2,0-1,271,274,278,26,446,0,0,0,0,0.3333333333333333,1,0,0,-1,26
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/222.gif,FDU,0-5-0,267,NA,0-0,0-0,0-4,0-1,287,237,279,66,222,0,0,0,0,0,0,0,0,-1,66
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/290.gif,Howard,4-3-0,260,NA,0-1,0-0,1-1,3-1,255,283,281,74,290,0,0,0,0,0.5,1,0.75,3,-1,74
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/352.gif,Lehigh,1-4-0,206,NA,0-1,0-2,0-0,1-1,227,286,282,39,352,0,0,0,0,0,0,0.5,1,-1,39
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2.gif,Abilene Christian,0-9-0,235,NA,0-2,0-3,0-2,0-2,270,279,283,37,2,0,0,0,0,0,0,0,0,-1,37
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/439.gif,Monmouth,0-8-0,238,NA,0-2,0-3,0-2,0-1,268,284,284,39,439,0,0,0,0,0,0,0,0,-1,39
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/153.gif,Colgate,0-5-0,263,NA,0-1,0-2,0-1,0-1,282,282,286,46,153,0,0,0,0,0,0,0,0,-1,46
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/2707.gif,Kansas City,0-5-0,262,NA,0-0,0-2,0-2,0-1,285,285,287,34,2707,0,0,0,0,0,0,0,0,-1,34
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/191.gif,Drexel,0-10-0,257,NA,0-2,0-4,0-0,0-4,292,280,288,NA,191,0,0,0,0,0,0,0,0,-1,NA
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/489.gif,N.C. Central,1-4-0,222,NA,0-0,0-3,0-1,1-0,286,287,289,38,489,0,0,0,0,0,0,1,1,-1,38
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/665.gif,Southern U.,1-6-0,258,NA,0-1,0-2,0-1,1-2,274,293,292,37,665,0,0,0,0,0,0,0.3333333333333333,1,-1,37
+http://web2.ncaa.org/ncaa_style/img/All_Logos/sm/432.gif,Mississippi Val.,0-6-0,259,NA,0-0,0-4,0-1,0-1,263,294,293,NA,432,0,0,0,0,0,0,0,0,-1,NA
