@@ -11,10 +11,10 @@ Rank,Team,Record,Team ID
 10,Wis.-Stout,1-1-0,803
 11,Redlands,2-1-0,567
 12,Berry,3-1-0,973
-12,La Verne,2-0-0,341
-14,Trinity (TX),5-2-0,715
-15,Ozarks (AR),4-1-0,23008
-16,Millsaps,4-3-0,426
+13,Trinity (TX),5-2-0,715
+14,Ozarks (AR),4-1-0,23008
+15,Millsaps,4-3-0,426
+16,La Verne,2-0-0,341
 17,Bethany Lutheran,3-1-0,30038
 17,Macalester,2-0-0,376
 19,LeTourneau,3-3-0,8490
@@ -22,15 +22,15 @@ Rank,Team,Record,Team ID
 21,Huntingdon,4-0-0,1130
 22,Claremont-M-S,4-0-0,142
 23,Pomona-Pitzer,3-2-0,549
-24,Brandeis,1-3-0,73
-25,Texas-Dallas,1-1-0,23121
-26,Bethel (MN),1-1-0,60
+24,Texas-Dallas,1-1-0,23121
+25,Bethel (MN),1-1-0,60
+26,Brandeis,1-5-0,73
 27,Concordia (TX),0-3-0,24400
 27,Ferrum,0-2-0,225
 27,Greensboro,2-2-0,263
 27,Howard Payne,0-2-0,2741
 27,LaGrange,1-3-0,1162
-27,Mary Washington,2-1-0,390
+27,Mary Washington,1-1-0,390
 27,Meredith,0-2-0,409
 27,Methodist,2-2-0,412
 27,Monmouth (IL),0-1-0,438
@@ -38,21 +38,21 @@ Rank,Team,Record,Team ID
 27,Pfeiffer,2-0-0,542
 27,Piedmont,1-1-0,21830
 27,Simpson,1-0-0,641
-27,Sweet Briar,1-2-0,687
+27,Sweet Briar,1-1-0,687
 27,Texas Lutheran,5-0-0,1400
 27,Va. Wesleyan,2-0-0,745
 43,Schreiner,1-4-0,1355
-44,St. Thomas (TX),4-3-0,2810
-45,Carleton,0-2-0,118
+44,Chapman,4-0-0,134
+45,St. Thomas (TX),4-3-0,2810
 46,Austin,0-9-0,953
-47,Southwestern (TX),3-5-0,8746
-48,Crown (MN),0-2-0,30035
-49,Brevard,2-0-0,30094
-49,Centre,0-4-0,132
-51,Occidental,3-3-0,516
-52,Chapman,2-0-0,134
-53,Sewanee,3-1-0,652
-53,Wesleyan (GA),0-4-0,14718
+47,Carleton,0-2-0,118
+48,Southwestern (TX),3-5-0,8746
+49,Crown (MN),0-2-0,30035
+50,Brevard,2-0-0,30094
+50,Centre,0-4-0,132
+52,Sewanee,3-1-0,652
+52,Wesleyan (GA),0-4-0,14718
+54,Occidental,3-3-0,516
 55,Rhodes,1-3-0,573
 56,MUW,5-3-0,431
 57,St. Olaf,1-1-0,615
@@ -63,5 +63,5 @@ Rank,Team,Record,Team ID
 63,McMurry,0-3-0,8530
 64,Randolph,0-2-0,566
 65,Buena Vista,0-4-0,84
-66,Stevens,0-2-0,679
-67,Dallas,0-5-0,1044
+66,Dallas,0-5-0,1044
+67,Stevens,0-2-0,679
