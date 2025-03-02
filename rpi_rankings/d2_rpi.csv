@@ -18,8 +18,8 @@ Rank,Team,Record,Team ID
 17,West Ala.,8-4-0,358
 18,Ohio Dominican,1-1-0,30119
 19,Grand Valley St.,1-2-0,262
-20,CSU Pueblo,4-4-0,2720
-21,Okla. Christian,7-5-0,30179
+20,Okla. Christian,7-5-0,30179
+21,CSU Pueblo,4-4-0,2720
 22,St. Cloud St.,8-2-0,598
 23,Mount Olive,4-4-0,1245
 24,Slippery Rock,1-1-0,643
@@ -35,14 +35,14 @@ Rank,Team,Record,Team ID
 34,Western Wash.,10-0-0,1448
 35,Ferris St.,4-2-0,224
 36,Grambling,2-0-0,261
-37,Augusta,9-3-0,39
-38,Wayne St. (NE),2-3-0,1433
-40,Henderson St.,7-0-0,1123
-41,West Virginia St.,3-3-0,1439
-42,Emory & Henry,10-1-0,216
-43,Embry-Riddle (FL),6-5-0,9680
-44,Lane,0-2-0,347
-45,Black Hills St.,7-1-0,30134
+37,Black Hills St.,6-1-0,30134
+38,Augusta,9-3-0,39
+39,Wayne St. (NE),2-3-0,1433
+41,Henderson St.,7-0-0,1123
+42,West Virginia St.,3-3-0,1439
+43,Emory & Henry,10-1-0,216
+44,Embry-Riddle (FL),6-5-0,9680
+45,Lane,0-2-0,347
 46,Minnesota St.,5-3-0,383
 47,King (TN),3-3-0,30051
 48,Jackson St.,1-0-0,314
@@ -85,9 +85,9 @@ Rank,Team,Record,Team ID
 84,UMES,1-0-0,393
 86,Lock Haven,2-4-0,360
 87,Lincoln Memorial,8-3-0,1176
-88,Tiffin,3-1-0,1403
-89,CSUSB,6-4-0,93
-90,Texas Woman's,5-3-0,701
+88,Texas Woman's,5-3-0,701
+89,Tiffin,3-1-0,1403
+90,CSUSB,6-4-0,93
 91,Central Mo.,6-4-0,130
 92,Cal Poly Humboldt,10-5-0,291
 93,Tex. A&M Int'l,6-5-0,30090
@@ -162,8 +162,8 @@ Rank,Team,Record,Team ID
 163,Sul Ross St.,3-7-0,1390
 164,Ark.-Monticello,2-7-0,8411
 165,St. Thomas Aquinas,0-4-0,1348
-166,Hawaii Pacific,4-5-0,2696
-167,Colorado Mesa,4-4-0,11416
+166,Colorado Mesa,4-4-0,11416
+167,Hawaii Pacific,4-5-0,2696
 168,Bloomfield,0-2-0,984
 169,Delta St.,6-3-0,181
 170,Chowan,4-4-0,8875
@@ -173,8 +173,8 @@ Rank,Team,Record,Team ID
 174,Clarion,3-1-0,143
 175,MSU Denver,5-6-0,413
 176,Chadron St.,7-4-0,1012
-177,Regis (CO),6-6-0,568
-178,Western N.M.,0-7-0,1445
+177,Western N.M.,0-7-0,1445
+178,Regis (CO),6-6-0,568
 179,Hillsdale,5-4-0,280
 180,Central Wash.,2-3-0,1010
 181,Minot St.,4-6-0,30125
@@ -207,11 +207,11 @@ Rank,Team,Record,Team ID
 208,Chaminade,1-11-0,133
 209,Tex. A&M-Kingsville,6-4-0,696
 210,Clark Atlanta,3-10-0,144
-211,Adams St.,2-11-0,929
-212,Stanislaus St.,0-10-0,103
-213,Northern St.,2-5-0,1266
-214,Quincy,0-10-0,561
-215,Drury,2-4-0,1057
+211,Stanislaus St.,0-10-0,103
+212,Northern St.,2-5-0,1266
+213,Quincy,0-10-0,561
+214,Drury,2-4-0,1057
+215,Adams St.,2-10-0,929
 216,Ark.-Pine Bluff,1-2-0,2678
 217,Midwestern St.,3-9-0,1222
 218,Shaw,2-1-0,636
