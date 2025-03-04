@@ -43,8 +43,9 @@
       vertical-align: middle !important;
     }
     .team-logo img {
-      max-width: 50px;
-      height: auto;
+      width: 50px !important;
+      height: auto !important;
+      display: block;
     }
   </style>
 </head>
@@ -128,7 +129,7 @@
             console.log(cells);
             if (cells.length === cells.length) {
               $('#rankings tbody').append('<tr>' +
-                '<td><img src="' + cells[0] + '" alt="Team Logo" class="team-logo"></td>' +
+                '<td><img src="' + cells[0] + '" alt="Team Logo" class="team-logo" style="width: 50px"></td>' +
                 '<td><a href="../team_season_info?season=2025&teamID=' + cells[13] + '">' + cells[1] + '</a></td>' +
                 '<td>' + cells[2] + '</td>' +
                 '<td>' + cells[3] + '</td>' +

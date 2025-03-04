@@ -3,17 +3,34 @@
 <head>
   <title>Softball Statline</title>
   <link rel="icon" type = image/png href="logo_small.png">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
 
-    <style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="stylesheet.css">
+
+  <script src="toggle_darkmode.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch('header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    })
+  </script>
+
+  <style>
 
     @media screen and (max-width: 768px) {
-            .w3-hide-medium,
-            .w3-hide-large {
+            .mobile-scroll-container{
             display: block !important;
             }
             .w3-bar-item {
@@ -22,75 +39,328 @@
             .w3-dropdown-content {
             position: relative !important;
            }
+           
+           .team-header {
+            width: 90% !important;
+            margin-left: 5% !important;
+            margin-right: 5% !important;
+            height: 50vw !important;
+           }
+
+           #table-container {
+            width: 90% !important; 
+            margin-left: 5% !important;
+            margin-right: 5% !important;
+          }
+
+          td {
+            font-size: 3.5vw !important;
+          }
+
+          .team-name {
+            font-size: 8vw !important;
+          }
+
+          .team-record, .team-off, .team-def, .team-power {
+              font-size: 4vw !important;
+          }
+
+          .button-container {
+            margin-left: 0% !important;
+            width: 100% !important;
+          }
+          
+          .button-container button, .button-container select {
+            font-size: 12px !important;
+          }
+
+          .stats-button-container {
+            margin-left: 0% !important;
+            width: 100% !important;
+          }
+
+          .stats-button-container button {
+            font-size: 12px !important;
+          }
+
+          #search-bar {
+            margin-top: 120px !important;
+            width: 40% !important;
+            margin-left: 30% !important;
+          }
+
+          #teams-filtered {
+            width: 40% !important;
+            margin-left: 30% !important;
+            margin-bottom: 20px;
+          }
+
+
         }   
 
-    #table-container {
-      max-width: 800px; 
-      margin: 0 auto; 
+    #search-bar {
+      width: 20%;
+      margin-left: 50%;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      z-index: 9999; 
     }
 
-    table {
+    .dark-mode #search-bar {
+      background-color: black; /* Background color for dark mode */
+      color: white; /* Text color for dark mode */
+    }
+
+    #teams-filtered {
+      width: 20%;
+      max-height: 200px;
+      overflow: auto;
+      margin-left: 50%;
+      position: absolute;
+      z-index: 9999; 
+      background-color: white; /* Optional: to ensure visibility */
+      border: 1px solid #ccc; /* Optional: add border for styling */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: to add shadow for better visibility */
+      text-align: center;
+      border-radius: 10px;
+    }
+    
+    .dark-mode #teams-filtered {
+      background-color: black; /* Background color for dark mode */
+      color: white; /* Text color for dark mode */
+    }
+
+    #teams-filtered a {
+      text-decoration: none; /* Remove underline by default */
+    }
+
+    #teams-filtered a:hover {
+      text-decoration: underline; /* Add underline on hover */
+    }
+
+
+    .team-header {
+        display: grid;
+        width: 50%;
+        grid-template-columns: 30% 70%; /* 40% width for logo, 60% for content */
+        border: 1px solid #000000;
+        border-radius: 10px;
+        margin: 1% 35%;
+        height: 12vw;
+    }
+
+    .dark-mode .team-header {
+        border: 1px solid white;
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%; /* Takes full width of the grid column */
+        height: 100%; /* Creates a responsive square aspect ratio */
+        position: relative;
+    }
+
+    .logo {
+        width: 60%; /* Adjust to ensure some padding within the container */
+        height: 60%; /* Adjust to ensure some padding within the container */
+        object-fit: contain; /* Ensures the image fits within the container */
+    }
+
+    .content-container {
+        display: grid;
+        grid-template-rows: 50% 50%; /* Two rows with 60/40 split */
+        grid-template-columns: repeat(4, 1fr); /* Four equal-width columns for the bottom row */
+    }
+
+    .subcontainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #E15241;
+        border-radius: 5px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 2vw; /* Adjust as needed */
+    }
+
+    .team-name {
+        margin: 0; /* Removes default margin */
+        padding: 0; /* Removes default padding */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2.5vw;
+        font-weight: 700;
+        grid-column: span 4;
+        grid-row: 1;
+    }
+
+
+    .team-record, .team-off, .team-def, .team-power {
+        grid-row: 2; /* Place these in the second row */
+        display: flex; /* Center text horizontally and vertically */
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 1.5vw; /* Adjust font size as needed */
+        padding: 5px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+
+    #table-container {
+      border-radius: 15px;
+      border: 2px solid #cccccc;
+      max-height: 400px;
+      overflow: auto;
+      text-align: center;
+      margin-left: 35%;
+      width: 50%;
+      margin-bottom: 100px;
+    }
+
+    .dark-mode .table-container {
+      background-color: #202124;
+      border: 1px white solid;
+      color: white;
+  }
+
+    .history-table {
         width: 100%;
         border-collapse: collapse;
         table-layout: fixed; 
+        align-items: center; 
     }
 
-    th,
+    
+
     td {
-        border: 1px solid #ccc;
-        padding: 4px;
-        text-align: center;
-        width: auto;
+      padding: 8px;
+      text-align: left;
+      font-size: 18px;
+      font-weight: 400;
+      width: auto;
+      color: black;
+      text-align: center;
+  }
+
+    .dark-mode td {
+      color: white; 
     }
 
     th {
-        background-color: #f2f2f2;
+      color: grey;
+      font-size: 15px;
+      text-align: center;
     }
-    </style>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    .button-container {
+        display: flex;
+        justify-content: space-between; /* Space buttons evenly */
+        width: 50%; /* Set the width of the button container */
+        margin-left: 35%;
+    }
 
-      gtag('config', 'G-YFFKCYZJXV');
-    </script>
+    .button-container button, .button-container select {
+        flex: 1; /* Equal width for buttons and dropdown */
+        margin: 0 5px; /* Space between buttons */
+        padding: 10px;
+        font-size: 1vw; /* Adjust font size as needed */
+        border: 1px solid #000000;
+        border-radius: 20px;
+        background-color: #fff;
+        cursor: pointer;
+        text-align: center;
+      }
+
+    .button-container button:first-child {
+        margin-left: 0;
+    }
+
+    .button-container select {
+        flex: 2; /* Wider dropdown */
+    }
+
+    .button-container button:hover, .button-container select:hover {
+        background-color: #f0f0f0; /* Light grey on hover */
+    }
+
+    .pressed {
+        background-color: #f36c60 !important;
+        color: white;
+    }
+
+    .stats-button-container {
+      display: flex;
+      justify-content: space-between; /* Space buttons evenly */
+      width: 50%; /* Set the width of the button container */
+      margin-left: 35%;
+      margin-top: 20px;
+    }
+
+    .stats-button-container button {
+      flex: 1; /* Equal width for buttons and dropdown */
+      margin: 0 5px; /* Space between buttons */
+      padding: 10px;
+      font-size: 1vw; /* Adjust font size as needed */
+      border: 1px solid #000000;
+      border-radius: 20px;
+      background-color: #fff;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .mobile-hide {
+        display: none;
+    }   
+  </style>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-YFFKCYZJXV');
+  </script>
 </head>
 <body>
 
-  <div class="w3-top">
-    <div class="w3-bar w3-top w3-center-align w3-large">
-        <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
-                   Menu<i class="fa fa-caret-down"></i>
-                </button>
-                <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='../'">Home</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
-                </div>
-              </div>
-          </div>
-        <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
-            <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Home</a>
-            <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Players</a>
-            <a href="" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Teams</a>
-            <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
-            <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
-            <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
-        </div>
-      </div>
-</div>
+  <div id="header-container"></div>
 
+  <div id="search-container">
+    <input type="text" id="search-bar" placeholder="Search teams..." onkeyup="filterTeams()">
+    <div id="teams-filtered"></div>
+  </div>
 
-<!-- Header -->
-<div class="w3-center" style="position: relative; margin-top: 100px; margin-bottom: 50px"> 
-    <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+  <div class="team-header">
+    <div class="logo-container">
+      <img class="logo" id="team-logo">
+    </div>
+    <div class="content-container">
+      <p class="team-name" id="team-name"></p>
+      <p class="team-record" id="team-record"></p>
+      <p class="team-off" id="team-off"></p>
+      <p class="team-def" id="team-def"></p>
+      <p class="team-power" id="team-power"></p>
+    </div>  
+  </div>
+
+  <div class="button-container">
+    <button id="history-button" class="pressed">History</button>
+    <button id="stats-button">Stats</button>
+    <button id="schedule-button">Schedule</button>
+    <select id="season-select"></select>
+  </div>
+  <div class="stats-button-container">
+    <button id="hitting-button" style="display: none">Hitting</button>
+    <button id="pitching-button" style="display: none">Pitching</button>
   </div>
 
   <h1 style="text-align: center;"></h1>

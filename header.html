@@ -1,19 +1,26 @@
 <div class="w3-top">
-    <div class="w3-bar w3-top w3-center-align w3-large">
-    <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-        <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
-                Menu<i class="fa fa-caret-down"></i>
+    <div class="w3-bar w3-top w3-large mobile-scroll-container" style="display: none">
+        <div class="mobile-scroll-content">
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''">
+                <i class="fas fa-home"></i> Home
             </button>
-            <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href=''"><i class="fas fa-home"></i> Home</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'"><i class="fas fa-user"></i> Players</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'"><i class="fas fa-users"></i> Teams</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'"><i class="fas fa-clipboard"></i> Coaches</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'"><i class="fas fa-medal"></i> Leaders</button>
-                <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'"><i class="fas fa-trophy"></i> Rankings</button>
-            </div>
-            </div>
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">
+                <i class="fas fa-user"></i> Players
+            </button>
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_info'">
+                <i class="fas fa-users"></i> Teams
+            </button>
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">
+                <i class="fas fa-clipboard"></i> Coaches
+            </button>
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">
+                <i class="fas fa-medal"></i> Leaders
+            </button>
+            <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">
+                <i class="fas fa-trophy"></i> Rankings
+            </button>
         </div>
+    </div>
     <div class="w3-bar w3-top w3-left-align w3-large sidebar" style="display: flex; flex-direction: column; max-width: 15%; border-radius: 10px; border: 1px solid #E15241; padding: 10px; margin-left: 19%; margin-top: 1%">
         <img src="logo.png" id="logo" style="max-width: 90%; height: auto; margin-bottom: 5%; margin-left: 5%;">
         <a href="../" class="w3-bar-item w3-button sidebar-button" style="background-color: white; color: #E15241;"><i class="fas fa-home"></i> Home</a>
@@ -25,3 +32,42 @@
         <button id="dark-mode-button" class="w3-bar-item w3-button testbtn w3-padding-16 sidebar-button" style="background-color: white; color: black;" onclick="toggleDarkMode()"><i class="fas fa-moon"></i> Dark Mode</button>
     </div>
 </div>
+
+<style>
+    .mobile-scroll-container {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        background-color: #E15241;
+        padding: 15px 0; /* Adds vertical padding */
+        margin-bottom: 50px; /* Pushes the container down */
+        position: relative; /* Ensures it stays below other elements */
+        z-index: 10; /* Keeps it above background elements */
+    }
+
+    .mobile-scroll-content {
+        display: flex;
+        flex-wrap: nowrap; /* Prevent wrapping */
+        gap: 10px;
+        padding-left: 10px;
+    }
+
+    .mobile-scroll-content button {
+        flex-shrink: 0; /* Prevent shrinking */
+        min-width: max-content; /* Ensure buttons maintain their size */
+        padding: 10px 15px;
+        border: none;
+        background-color: #E15241;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        white-space: nowrap; /* Keep text in one line */
+    }
+
+    @media screen and (max-width: 768px) {
+        .mobile-scroll-container{
+            display: block !important;
+        }
+    }
+
+</style>

@@ -39,7 +39,6 @@ body.dark-mode {
         margin-left: 4% !important;
         margin-right: 4% !important;
         max-width: 100% !important;
-        margin-top: 20% !important;
     }
 }
 
@@ -48,6 +47,8 @@ body.dark-mode {
     display: flex;
     justify-content: center; 
 }
+
+
 
 #D1-rpi, #D2-rpi, #D3-rpi, #conf-table {
     width: 100%;
