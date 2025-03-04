@@ -540,7 +540,7 @@ function displaySeasonStats_gamelog(csvData) {
 
 // Default is history //
 
-if (teamId) {
+if (teamID) {
     fetch(csvFileName)
         .then(response => response.text())
         .then(csvData => {
