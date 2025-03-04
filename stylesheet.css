@@ -40,6 +40,10 @@ body.dark-mode {
         margin-right: 4% !important;
         max-width: 100% !important;
     }
+
+    .first-homepage-container {
+        margin-top: 250px !important; /* Added 250px top margin for the first container */
+    }
 }
 
 

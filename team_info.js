@@ -540,13 +540,15 @@ function displaySeasonStats_gamelog(csvData) {
 
 // Default is history //
 
-fetch(csvFileName)
-    .then(response => response.text())
-    .then(csvData => {
-        const parsedData = parseHistoryCSV(csvData);
-        displayHistory(parsedData);
-    })
-    .catch(error => console.error("Error fetching or parsing CSV:", error));
+if (teamId) {
+    fetch(csvFileName)
+        .then(response => response.text())
+        .then(csvData => {
+            const parsedData = parseHistoryCSV(csvData);
+            displayHistory(parsedData);
+        })
+        .catch(error => console.error("Error fetching or parsing CSV:", error));
+}
 
 // Check for Press of History/Stats/Schedule Button //
 
