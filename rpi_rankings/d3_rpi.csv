@@ -1,239 +1,239 @@
 Rank,Team,Record,Team ID
 1,Mary,1-0-0,30075
-3,Lincoln (MO),2-0-0,356
-4,Saint Elizabeth,4-0-0,9684
-5,Wilmington (OH),1-0-0,1461
-6,John Carroll,2-0-0,320
-7,CWRU,6-1-0,122
-8,George Fox,3-1-0,1094
-9,Wis.-Oshkosh,6-0-0,798
+3,Wilmington (OH),1-0-0,1461
+4,CWRU,6-1-0,122
+5,Lincoln (MO),2-0-0,356
+6,George Fox,3-1-0,1094
+7,Saint Elizabeth,4-1-0,9684
+8,Wis.-Oshkosh,6-0-0,798
+9,Concordia-M'head,4-2-0,161
 10,Redlands,11-1-0,567
 11,Rowan,4-0-0,259
-12,Bethany Lutheran,7-3-0,30038
-13,Texas Lutheran,9-0-0,1400
-14,Concordia-M'head,3-2-0,161
-15,Concordia Wisconsin,4-2-0,1036
-16,Misericordia,4-1-0,16142
+12,John Carroll,4-0-0,320
+13,Linfield,6-2-0,1179
+14,Concordia Wisconsin,4-2-0,1036
+15,Trine,4-3-0,30037
+16,East Tex. Baptist,11-1-0,1062
 17,Muhlenberg,2-2-0,453
 17,Stockton,4-0-0,681
-19,Linfield,6-2-0,1179
-20,East Tex. Baptist,11-1-0,1062
-21,Cal Lutheran,3-1-0,105
+19,Texas Lutheran,9-0-0,1400
+20,Bethany Lutheran,7-4-0,30038
+21,Dominican (IL),4-2-0,1332
+22,Cal Lutheran,3-1-0,105
 22,Central (IA),2-2-0,126
-23,Huntingdon,12-2-0,1130
-24,Randolph-Macon,5-1-0,565
-25,Saint Mary's (MN),9-1-0,612
-26,Neb. Wesleyan,3-1-0,462
-27,Trine,3-3-0,30037
-28,Va. Wesleyan,6-0-0,745
-29,Haverford,4-0-0,276
-30,Carnegie Mellon,1-3-0,119
-31,Eastern,5-1-0,8968
-32,Pomona-Pitzer,8-2-0,549
-33,Wis.-La Crosse,6-2-0,795
-34,Mary Hardin-Baylor,4-2-0,1203
-35,Centenary (LA),6-3-0,125
-36,Arcadia,0-4-0,966
-37,Lynchburg,5-1-0,374
-38,Benedictine (IL),5-1-0,296
-39,Lebanon Valley,4-2-0,351
-40,Grove City,2-2-0,265
-41,Calvin,3-1-0,114
-42,Hendrix,4-2-0,1124
-43,Berry,9-1-0,973
-44,Meredith,3-5-0,409
-45,Emory,4-0-0,217
-46,Penn St.-Altoona,0-2-0,25719
-47,Rose-Hulman,3-1-0,585
-48,St. Olaf,4-2-0,615
-49,Southern Va.,5-3-0,30164
-50,Albright,0-1-0,16
-50,Dickinson,3-0-0,185
-50,Waynesburg,6-0-0,1434
-53,Belhaven,6-5-0,30197
-54,York (PA),1-3-0,815
-55,Millsaps,5-4-0,426
-56,Aurora,3-1-0,42
-57,Texas-Dallas,1-1-0,23121
-58,Allegheny,3-3-0,19
-59,Agnes Scott,4-2-0,11324
-60,N.C. Wesleyan,3-5-0,491
-61,Mary Baldwin,5-2-0,389
-62,St. Thomas (TX),7-5-0,2810
-63,Westminster (MO),4-2-0,1450
-64,Concordia (TX),8-6-0,24400
-65,Earlham,2-0-0,195
-66,Bridgewater (VA),5-1-0,75
-67,Wis.-Superior,4-2-0,804
-68,Mt. St. Joseph,5-3-0,8567
-69,Rensselaer,3-3-0,570
-70,Pfeiffer,8-2-0,542
-71,Dubuque,6-2-0,192
-72,Chris. Newport,8-0-0,139
-73,Carleton,2-2-0,118
-74,Pacific Lutheran,4-2-0,1297
-75,St. John Fisher,4-3-0,601
-76,Drew,2-0-0,190
-77,Mass. Maritime,4-2-0,399
+24,Saint Mary's (MN),10-2-0,612
+25,Waynesburg,7-0-0,1434
+26,Huntingdon,14-2-0,1130
+27,Randolph-Macon,5-1-0,565
+28,Misericordia,4-2-0,16142
+29,Lebanon Valley,4-2-0,351
+30,Haverford,4-0-0,276
+31,Va. Wesleyan,6-0-0,745
+32,Penn St.-Altoona,0-2-0,25719
+33,Eastern,5-1-0,8968
+34,Lynchburg,5-1-0,374
+35,Neb. Wesleyan,3-1-0,462
+36,Centenary (LA),6-3-0,125
+37,Pomona-Pitzer,8-2-0,549
+38,Arcadia,0-4-0,966
+39,Wis.-La Crosse,6-2-0,795
+40,Mary Hardin-Baylor,6-2-0,1203
+41,Westminster (MO),2-2-0,1450
+42,Mt. St. Joseph,6-4-0,8567
+43,Calvin,3-1-0,114
+44,Hendrix,4-2-0,1124
+45,Texas-Dallas,1-1-0,23121
+46,Aurora,5-1-0,42
+47,St. Thomas (TX),7-5-0,2810
+48,Belhaven,6-5-0,30197
+49,Emory,4-0-0,217
+50,Meredith,3-5-0,409
+51,Berry,9-1-0,973
+52,Albright,0-1-0,16
+52,Dickinson,3-0-0,185
+54,Benedictine (IL),5-3-0,296
+55,Rose-Hulman,4-2-0,585
+56,Southern Va.,4-3-0,30164
+57,Agnes Scott,4-2-0,11324
+58,Millsaps,5-4-0,426
+59,St. Olaf,4-2-0,615
+60,Adrian,4-2-0,4
+61,Allegheny,3-3-0,19
+62,Wis.-Superior,4-2-0,804
+63,Rensselaer,5-3-0,570
+64,Pacific Lutheran,4-2-0,1297
+65,Wilkes,2-2-0,784
+66,Concordia (TX),8-6-0,24400
+67,Pfeiffer,8-2-0,542
+68,N.C. Wesleyan,3-5-0,491
+69,Grove City,2-3-0,265
+70,Carnegie Mellon,1-5-0,119
+71,Mary Baldwin,5-2-0,389
+72,Howard Payne,0-4-0,2741
+73,St. John Fisher,4-3-0,601
+74,LeTourneau,7-7-0,8490
+75,Drew,2-0-0,190
+76,Dubuque,6-2-0,192
+77,Earlham,2-0-0,195
 78,Heidelberg,3-1-0,278
-79,Lancaster Bible,3-1-0,30085
-80,Howard Payne,0-4-0,2741
+79,DePauw,3-3-0,177
+80,York (PA),1-5-0,815
 81,Augustana (IL),4-0-0,40
-82,Adrian,4-2-0,4
-83,LeTourneau,7-7-0,8490
-84,DePauw,3-3-0,177
-85,Averett,4-4-0,44
+82,Moravian,3-1-0,443
+83,Averett,4-4-0,44
+84,Chris. Newport,8-0-0,139
+85,Carleton,2-2-0,118
 86,Catholic,4-0-0,124
-87,MUW,8-4-0,431
-88,Elizabethtown,1-2-0,211
-89,Whittier,3-4-0,781
-90,Moravian,3-1-0,443
-91,Dominican (IL),2-2-0,1332
-92,Trinity (TX),11-4-0,715
-93,Tufts,1-5-0,717
-94,Salisbury,3-1-0,622
-95,Greensboro,7-5-0,263
-96,Claremont-M-S,5-0-0,142
+87,Tufts,1-5-0,717
+88,MUW,8-4-0,431
+89,Trinity (TX),13-4-0,715
+90,William Peace,5-3-0,17094
+91,Whittier,3-4-0,781
+92,Salisbury,3-1-0,622
+93,Greensboro,7-5-0,263
+94,Lancaster Bible,4-2-0,30085
+95,Claremont-M-S,5-0-0,142
+96,Bridgewater (VA),5-3-0,75
 97,WashU,5-2-0,755
-98,Edgewood,1-5-0,1066
-99,Franklin,2-1-0,2694
-100,Rhodes,4-8-0,573
-101,Simmons,2-2-0,640
-102,Messiah,4-2-0,411
-103,William Peace,5-3-0,17094
-104,Asbury,1-1-0,30243
-104,Baruch,2-0-0,58
-104,Bethel (MN),3-3-0,60
-104,Bowdoin,2-0-0,69
-104,Greenville,2-0-0,1111
-104,Lewis & Clark,2-0-0,22235
-104,Manchester,1-1-0,1192
-104,Marywood,0-3-0,397
-104,Me.-Farmington,0-2-0,379
-104,Millikin,0-2-0,424
-104,Mount Aloysius,0-1-0,30036
-104,Pacific (OR),0-2-0,2751
-104,Sarah Lawrence,0-2-0,30163
-104,Scranton,3-0-0,633
-104,SUNY New Paltz,2-2-0,475
-104,SUNY Oneonta,2-2-0,526
-104,Swarthmore,2-2-0,686
-104,Transylvania,2-0-0,28749
-104,Wash. & Jeff.,1-0-0,751
-104,Wooster,0-2-0,807
-124,Alvernia,2-4-0,938
-125,Luther,4-4-0,372
-126,Macalester,4-2-0,376
-127,Shenandoah,3-3-0,637
-128,TCNJ,1-1-0,712
-129,East. Mennonite,2-2-1,203
-130,Wilkes,2-2-0,784
-131,Ursinus,0-3-0,730
-132,Northwestern-St. Paul,2-4-0,30031
-133,Denison,2-3-0,182
-134,St. Scholastica,1-3-0,618
-135,Maryville (TN),3-7-0,396
-136,Elmira,0-2-0,213
-137,Marymount (VA),2-4-0,394
-138,Saint Benedict,4-6-0,595
-139,Concordia Chicago,2-2-0,160
-140,Simpson,1-0-0,641
-141,Hood,2-4-0,8404
-142,Guilford,5-5-0,1112
-143,Piedmont,4-6-0,21830
-144,Albion,2-5-0,15
-145,Rochester (NY),1-3-0,581
-146,Wartburg,1-5-0,750
-147,Wis.-Stevens Point,7-1-0,802
-148,Loras,4-2-0,364
-149,La Verne,5-2-0,341
-150,Salem (NC),1-3-0,30041
-151,Widener,3-2-0,783
-152,Gettysburg,4-1-0,258
-153,Occidental,4-8-0,516
-154,Mary Washington,1-7-0,390
-155,Chestnut Hill,2-1-0,21323
-156,Wis.-Platteville,5-1-0,800
-157,Houghton,1-3-0,30160
-158,Austin,0-14-0,953
-159,Webster,0-2-0,759
-160,Wis.-Eau Claire,6-2-0,793
-161,Lawrence,0-2-0,348
-161,Ripon,0-2-0,577
-163,Southwestern (TX),8-7-0,8746
-165,Elmhurst,0-2-0,212
-166,Penn College,2-2-0,30190
-167,Wilson,3-3-0,12973
-168,Rivier,1-3-0,18422
-169,JWU (Providence),3-3-0,22626
-170,LaGrange,5-9-0,1162
-171,Ferrum,2-6-0,225
-172,Susquehanna,1-3-0,685
-173,Emmanuel (MA),1-5-0,215
-174,Valley Forge,0-2-0,30166
-174,Wm. Paterson,1-3-0,787
-176,Lyon,1-3-0,22989
-177,Chapman,7-1-0,134
-178,Wis.-Stout,2-4-0,803
-179,Kean,4-2-0,329
-180,SUNY Delhi,4-4-0,30225
-181,Covenant,6-7-0,30111
-182,Alma,2-8-0,21
-183,Chatham,2-4-0,10972
+98,Mass. Maritime,4-2-0,399
+99,Edgewood,1-5-0,1066
+100,Wartburg,1-7-0,750
+101,Chestnut Hill,4-1-0,21323
+102,Franklin,2-1-0,2694
+103,Rhodes,4-8-0,573
+104,Messiah,4-2-0,411
+105,Rosemont,1-2-0,15882
+106,Denison,2-3-0,182
+107,Asbury,1-1-0,30243
+107,Bowdoin,2-0-0,69
+107,Greenville,2-0-0,1111
+107,Lewis & Clark,2-0-0,22235
+107,Manchester,1-1-0,1192
+107,Marywood,0-2-0,397
+107,Me.-Farmington,0-2-0,379
+107,Millikin,0-2-0,424
+107,Mount Aloysius,0-1-0,30036
+107,Pacific (OR),0-2-0,2751
+107,Scranton,2-0-0,633
+107,Simpson,1-0-0,641
+107,SUNY New Paltz,2-2-0,475
+107,SUNY Oneonta,2-2-0,526
+107,Swarthmore,2-2-0,686
+107,Transylvania,2-0-0,28749
+107,Wash. & Jeff.,1-0-0,751
+107,Wooster,0-2-0,807
+125,Bethel (MN),3-3-0,60
+126,TCNJ,1-1-0,712
+127,Macalester,4-2-0,376
+128,Ursinus,0-3-0,730
+129,Rivier,2-4-0,18422
+130,Saint Benedict,4-6-0,595
+131,Maryville (TN),3-7-0,396
+132,Hood,2-4-0,8404
+133,East. Mennonite,2-2-1,203
+134,Elmira,0-2-0,213
+135,Luther,4-4-0,372
+136,Simmons,3-3-0,640
+137,Northwestern-St. Paul,2-4-0,30031
+138,Alvernia,2-4-0,938
+139,Guilford,5-5-0,1112
+140,Marymount (VA),2-4-0,394
+141,Rochester (NY),1-3-0,581
+142,Wis.-Stevens Point,7-1-0,802
+143,Mary Washington,1-7-0,390
+144,La Verne,4-2-0,341
+145,Loras,4-2-0,364
+146,St. Scholastica,1-3-0,618
+147,Piedmont,6-6-0,21830
+148,Gettysburg,4-1-0,258
+149,Salem (NC),1-3-0,30041
+150,Wis.-Eau Claire,6-2-0,793
+151,Austin,0-14-0,953
+152,Occidental,4-8-0,516
+153,Albion,2-6-0,15
+154,Widener,3-2-0,783
+155,Wis.-Platteville,5-1-0,800
+156,Southwestern (TX),8-7-0,8746
+157,Shenandoah,3-3-0,637
+158,Lawrence,0-2-0,348
+158,Ripon,0-2-0,577
+160,JWU (Providence),3-3-0,22626
+161,Elmhurst,0-2-0,212
+162,Penn College,2-2-0,30190
+163,Webster,0-2-0,759
+164,LaGrange,5-9-0,1162
+165,Susquehanna,1-3-0,685
+166,Emmanuel (MA),1-5-0,215
+167,Kenyon,3-2-0,335
+168,Wm. Paterson,1-3-0,787
+170,Ferrum,2-6-0,225
+171,Concordia Chicago,2-2-0,160
+172,Lyon,1-3-0,22989
+173,Chapman,7-1-0,134
+174,Wilson,3-3-0,12973
+175,Alma,2-8-0,21
+176,Wis.-Stout,2-4-0,803
+177,Bluffton,4-4-0,987
+178,Kean,4-2-0,329
+179,Elizabethtown,1-3-0,211
+180,McMurry,4-5-0,8530
+181,Valley Forge,0-4-0,30166
+182,Covenant,5-7-0,30111
+183,Houghton,1-5-0,30160
 184,Clark (MA),4-2-0,145
-185,Monmouth (IL),1-6-0,438
-186,Washington Col.,1-1-0,753
-187,Ozarks (AR),5-6-0,23008
+185,Washington Col.,1-1-0,753
+186,Ozarks (AR),5-6-0,23008
+187,Roanoke,4-4-0,578
 188,Wis. Lutheran,0-5-0,8911
-189,Roanoke,4-4-0,578
-190,Brandeis,1-9-0,73
-191,Pitt.-Bradford,0-5-0,1315
-192,Brevard,2-2-0,30094
-193,Fontbonne,0-3-0,11538
-194,Hanover,2-2-0,1115
-195,McDaniel,0-1-1,773
-196,Crown (MN),0-3-0,30035
-197,Sweet Briar,5-4-0,687
-198,McMurry,3-5-0,8530
-199,Centre,1-5-0,132
-200,St. Catherine,3-3-0,597
-201,Juniata,1-3-0,325
-202,Shaw,0-2-0,636
-203,Hamline,3-3-0,268
-204,Bluffton,3-3-0,987
-205,UChicago,2-4-0,137
-206,Illinois Col.,2-4-0,297
-207,Methodist,4-8-0,412
-208,Saint Vincent,2-4-0,30064
-209,Randolph,0-6-0,566
-210,Mount Mary,1-7-0,30033
+189,Wentworth,1-5-0,762
+190,Monmouth (IL),1-4-0,438
+191,Brevard,2-2-0,30094
+192,Fontbonne,0-3-0,11538
+193,SUNY Delhi,4-4-0,30225
+194,Pitt.-Bradford,0-4-0,1315
+195,Brandeis,1-9-0,73
+196,Hanover,2-2-0,1115
+197,Chatham,2-6-0,10972
+198,Shaw,0-2-0,636
+199,McDaniel,0-1-1,773
+200,Sweet Briar,5-3-0,687
+201,St. Catherine,3-3-0,597
+202,UChicago,2-4-0,137
+203,Centre,1-5-0,132
+204,Illinois Col.,2-4-0,297
+205,Crown (MN),0-3-0,30035
+206,Juniata,1-3-0,325
+207,Hamline,3-3-0,268
+208,Methodist,4-8-0,412
+209,Pitt.-Greensburg,2-4-0,11839
+210,Randolph,0-6-0,566
 211,Knox,0-4-0,337
-212,Wentworth,0-4-0,762
-213,Sewanee,3-5-0,652
-214,Minn.-Morris,0-4-0,1226
-215,Stevens,1-7-0,679
-216,Pitt.-Greensburg,1-4-0,11839
-217,Shorter,2-0-0,30151
-218,Cedar Crest,0-3-0,14795
-219,VTSU-Johnson,1-4-0,324
-220,FDU-Florham,1-3-0,221
-221,Buena Vista,1-6-0,84
-222,Kenyon,2-2-0,335
-223,Coe,0-4-0,150
-224,Centenary (NJ),0-2-0,12884
-225,Dallas,2-12-0,1044
+212,Baruch,3-1-0,58
+213,Stevens,1-7-0,679
+214,Saint Vincent,4-4-0,30064
+215,Shorter,2-0-0,30151
+216,Sewanee,3-5-0,652
+217,Mount Mary,1-7-0,30033
+218,FDU-Florham,1-3-0,221
+219,Marian (WI),1-5-0,1196
+220,Minn.-Morris,0-4-0,1226
+221,VTSU-Johnson,1-4-0,324
+222,Coe,0-4-0,150
+223,Centenary (NJ),0-2-0,12884
+223,Sarah Lawrence,0-2-0,30163
+225,Buena Vista,1-7-0,84
 226,Beloit,1-2-0,53
-226,Rosemont,0-2-0,15882
-228,Hardin-Simmons,3-1-0,271
-229,VTSU Lyndon,0-7-0,30065
-230,Marian (WI),1-5-0,1196
-231,Spalding,0-6-0,23260
-232,Rutgers-Camden,0-4-0,588
-233,North Central (MN),0-5-0,30039
-234,Wesleyan (GA),0-6-0,14718
-235,Blackburn,1-1-0,64
-236,UW-River Falls,0-2-0,801
-237,Schreiner,2-9-0,1355
-238,Berea,1-3-0,30171
-239,Gallaudet,0-6-0,245
-240,Neumann,0-6-0,1254
+227,Cedar Crest,0-3-0,14795
+228,Dallas,2-12-0,1044
+229,Spalding,0-6-0,23260
+230,North Central (MN),0-7-0,30039
+231,Blackburn,1-1-0,64
+231,Rutgers-Camden,0-4-0,588
+233,Hardin-Simmons,3-2-0,271
+234,VTSU Lyndon,0-7-0,30065
+235,Wesleyan (GA),0-6-0,14718
+236,Gallaudet,0-6-0,245
+237,UW-River Falls,0-2-0,801
+238,Schreiner,2-9-0,1355
+239,Neumann,0-6-0,1254
+240,Berea,1-3-0,30171
