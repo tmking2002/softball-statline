@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Kelly Robichaud","Liberty League","0-0-0","  NaN"
-"2","2024","Kelly Robichaud","Liberty League","26-14-0","0.650"
-"3","2023","Kelly Robichaud","Liberty League","27-12-1","0.692"
-"4","2022","Hannah Quintana","Liberty League","21-17-0","0.553"
-"5","2021","Hannah Quintana","Liberty League","25-8-0","0.758"
-"6","2020","Hannah Quintana","Liberty League","2-6-0","0.250"
-"7","2019","Deb Pallozzi","Liberty League","28-9-1","0.757"
-"8","2018","Deb Pallozzi","Liberty League","35-13-0","0.729"
-"9","2017","Deb Pallozzi","Empire 8","33-12-0","0.733"
-"10","2016","Deb Pallozzi","Empire 8","35-10-0","0.778"
-"11","2015","Deb Pallozzi","Empire 8","21-14-0","0.600"
-"12","2014","Deb Pallozzi","Empire 8","26-14-0","0.650"
-"13","2013","Deb Pallozzi","Empire 8","25-15-0","0.625"
-"14","2012","Deb Pallozzi","Empire 8","32-14-0","0.696"
-"15","2011","Deb Pallozzi","Empire 8","30-14-0","0.682"
-"16","2010","Deb Pallozzi","Empire 8","34-15-0","0.694"
-"17","2009","Deb Pallozzi","Empire 8","27-16-0","0.628"
-"18","2008","Deb Pallozzi","Empire 8","36-12-0","0.750"
-"19","2007","Deb Pallozzi","Empire 8","35-9-0","0.795"
-"20","2006","Deb Pallozzi","Empire 8","40-7-0","0.851"
-"21","2005","Deb Pallozzi","Empire 8","31-14-0","0.689"
-"22","2004","Deb Pallozzi","Empire 8","28-15-0","0.651"
-"23","2003","Deb Pallozzi","Empire 8","30-11-0","0.732"
-"24","2002","Deb Pallozzi","Empire 8","37-13-0","0.740"
-"25","2001","Deb Pallozzi","-","31-15-0","0.674"
-"26","2000","Deb Pallozzi","-","33-12-1","0.733"
-"27","1999","Deb Pallozzi","-","29-13-0","0.690"
-"28","1998","Deb Pallozzi","-","31-14-0","0.689"
-"29","1997","Deb Pallozzi","-","30-16-0","0.652"
-"30","1996","Deb Pallozzi","-","25-11-0","0.694"
-"31","1995","Deb Pallozzi","-","26-16-0","0.619"
-"32","1994","Deb Pallozzi","-","29-13-0","0.690"
-"33","1993","Deb Pallozzi","-","17-16-0","0.515"
-"34","1992","Deb Pallozzi","-","20-11-0","0.645"
-"35","1991","Deb Pallozzi","-","26-14-0","0.650"
-"36","1990","Deb Pallozzi","-","17-15-0","0.531"
-"37","1989","Deb Pallozzi","-","10-19-0","0.345"
+"1",2025,"Kelly Robichaud","Liberty League","2-0-0",1
+"2",2024,"Kelly Robichaud","Liberty League","26-14-0",0.65
+"3",2023,"Kelly Robichaud","Liberty League","27-12-1",0.692
+"4",2022,"Hannah Quintana","Liberty League","21-17-0",0.553
+"5",2021,"Hannah Quintana","Liberty League","25-8-0",0.758
+"6",2020,"Hannah Quintana","Liberty League","2-6-0",0.25
+"7",2019,"Deb Pallozzi","Liberty League","28-9-1",0.757
+"8",2018,"Deb Pallozzi","Liberty League","35-13-0",0.729
+"9",2017,"Deb Pallozzi","Empire 8","33-12-0",0.733
+"10",2016,"Deb Pallozzi","Empire 8","35-10-0",0.778
+"11",2015,"Deb Pallozzi","Empire 8","21-14-0",0.6
+"12",2014,"Deb Pallozzi","Empire 8","26-14-0",0.65
+"13",2013,"Deb Pallozzi","Empire 8","25-15-0",0.625
+"14",2012,"Deb Pallozzi","Empire 8","32-14-0",0.696
+"15",2011,"Deb Pallozzi","Empire 8","30-14-0",0.682
+"16",2010,"Deb Pallozzi","Empire 8","34-15-0",0.694
+"17",2009,"Deb Pallozzi","Empire 8","27-16-0",0.628
+"18",2008,"Deb Pallozzi","Empire 8","36-12-0",0.75
+"19",2007,"Deb Pallozzi","Empire 8","35-9-0",0.795
+"20",2006,"Deb Pallozzi","Empire 8","40-7-0",0.851
+"21",2005,"Deb Pallozzi","Empire 8","31-14-0",0.689
+"22",2004,"Deb Pallozzi","Empire 8","28-15-0",0.651
+"23",2003,"Deb Pallozzi","Empire 8","30-11-0",0.732
+"24",2002,"Deb Pallozzi","Empire 8","37-13-0",0.74
+"25",2001,"Deb Pallozzi","-","31-15-0",0.674
+"26",2000,"Deb Pallozzi","-","33-12-1",0.733
+"27",1999,"Deb Pallozzi","-","29-13-0",0.69
+"28",1998,"Deb Pallozzi","-","31-14-0",0.689
+"29",1997,"Deb Pallozzi","-","30-16-0",0.652
+"30",1996,"Deb Pallozzi","-","25-11-0",0.694
+"31",1995,"Deb Pallozzi","-","26-16-0",0.619
+"32",1994,"Deb Pallozzi","-","29-13-0",0.69
+"33",1993,"Deb Pallozzi","-","17-16-0",0.515
+"34",1992,"Deb Pallozzi","-","20-11-0",0.645
+"35",1991,"Deb Pallozzi","-","26-14-0",0.65
+"36",1990,"Deb Pallozzi","-","17-15-0",0.531
+"37",1989,"Deb Pallozzi","-","10-19-0",0.345
