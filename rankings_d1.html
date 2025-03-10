@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Softball Statline - NCAA D1 Rankings</title>
+  <link rel="icon" type="image/png" href="logo_small.png">
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
+  <meta name="keywords" content="NCAA Softball, College Softball, D1 Softball, Division 1 Softball, NCAA Softball Rankings, Softball Standings, Softball Scores, Softball Stats, Softball RPI, Softball Power Rankings, Softball Bracketology, Softball Schedule, Softball Predictions, Softball Team Stats, Softball Player Rankings, Softball Performance Metrics, Softball Game Analysis, Women's College World Series, WCWS, Softball Tournament, Softball Conference Rankings, Softball Polls, Softball Strength of Schedule, Softball Playoff Picture, Softball Championship, Softball News, College Softball Highlights, Softball Records, Softball Season Leaders">
+
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'G-YFFKCYZJXV');
+    </script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch('header.html')
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById('header-container').innerHTML = data;
+              });
+      })
+    </script>
+
+    <script src="toggle_darkmode.js"></script>
+
+  
+    <script>
+      function toggleDropdown() {
+        var dropdown = document.getElementById("mobile-dropdown");
+        dropdown.classList.toggle("w3-show");
+      }
+    </script>
+  <style>
+
+    @media screen and (max-width: 768px) {
+        #table-container {
+          width: 90% !important; 
+          margin-left: 5% !important;
+          margin-right: 5% !important;
+          margin-top: 100px;
+        }
+
+        .w3-bar {
+          display: none !important;
+        }
+
+        .tooltip-text {
+          width: 80% !important;
+        }
+
+        td {
+            font-size: 4.5vw !important;
+          }
+      }
+
+    .dark-mode {
+        background-color: black;
+        color: white;
+    }
+
+    
+    #table-container {
+      border-radius: 15px;
+      border: 2px solid #cccccc;
+      max-height: 800px;
+      overflow: auto;
+      text-align: center;
+      margin-left: 35%;
+      width: 50%;
+      margin-bottom: 100px;
+    }
+
+    #table-container table {
+      width: 100%; /* Ensure table occupies the full width of the container */
+      margin: 0 auto; /* Center the table */
+      border-collapse: collapse; /* Optional: removes spaces between cells */
+    } 
+
+    .dark-mode #table-container {
+        background-color: black !important;
+        border: 1px solid white;
+        color: white;
+    }
+
+    .dark-mode #table-container table {
+        background-color: black !important;
+    }
+
+    .dark-mode #table-container td,
+    .dark-mode #table-container th {
+        background-color: black !important;
+        color: white !important;
+    }
+
+
+  td {
+      padding: 8px;
+      text-align: left;
+      font-size: 18px;
+      font-weight: 400;
+      width: auto;
+      color: black;
+      text-align: center;
+  }
+
+    .dark-mode td {
+      color: white; 
+    }
+
+    th {
+      color: grey;
+      font-size: 15px;
+      text-align: center;
+    }
+
+    /* Apply dark mode styles to DataTables */
+    .dark-mode .dataTables_wrapper {
+        color: white;
+    }
+
+    .dark-mode .dataTables_wrapper input,
+    .dark-mode .dataTables_wrapper select {
+        background-color: #333;
+        color: white;
+        border: 1px solid white;
+    }
+
+    /* Style the table in dark mode */
+    .dark-mode #rankings {
+        background-color: black !important;
+        color: white !important;
+    }
+
+    .dark-mode #rankings thead {
+        background-color: #444 !important;
+        color: white !important;
+    }
+
+    .dark-mode #rankings tbody tr {
+        background-color: black !important;
+        color: white !important;
+    }
+
+    .dark-mode #rankings_filter input {
+        background-color: #222 !important;
+        color: white !important;
+        border: 1px solid white !important;
+    }
+
+    .dark-mode #rankings_length select {
+        background-color: #222 !important;
+        color: white !important;
+        border: 1px solid white !important;
+    }
+
+    /* Style pagination buttons */
+    .dark-mode .dataTables_paginate .paginate_button {
+        background-color: #222 !important;
+        color: white !important;
+        border: 1px solid white !important;
+    }
+
+    .dark-mode .dataTables_paginate .paginate_button.current {
+        background-color: #555 !important;
+        color: white !important;
+    }
+
+    .info-icon {
+      position: relative;
+      cursor: pointer;
+    }
+
+    .tooltip-text {
+      visibility: hidden;
+      width: 600px;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      padding: 5px;
+      border-radius: 5px;
+      position: absolute;
+      z-index: 1;
+      bottom: 90%;
+      left: 50%;
+      transform: translateX(-50%);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .info-icon:hover + .tooltip-text {
+      visibility: visible;
+      opacity: 1;
+    }
+
+
+
+  </style>
+</head>
+
+<body>
+  <div id="header-container"></div>
+    
+    
+  
+  <div id="table-container">
+    <h1 style="text-align: center">2025 D1 NCAA Softball Rankings</h1>
+    <table id="rankings" style="width: 80%;">
+      <thead>
+        <tr>
+          <th></th>
+          <th>
+            Power Ranking
+            <i class="fa-solid fa-circle-info info-icon"></i>
+            <span class="tooltip-text">
+              Power rankings:<br>
+             1. Strength of Schedule (SOS) = Avg opponent RPI rank<br>
+             2. Offensive Rating = Runs scored vs. opponent avg allowed<br>
+             3. Defensive Rating = Runs allowed vs. opponent avg scored<br>
+             4. Model predicts overall rating, adjusted for SOS<br>
+             5. Normalized 0-1 → Teams ranked based on power rating
+            </span>
+          </th>
+          
+          <th>Past Week</th>
+          <th>Team</th>
+          <th>Record</th>
+          <th>RPI</th>
+          <th>NFCA</th>
+          <th>Offensive Rank</th>
+          <th>Defensive Rank</th>
+          <th>Q1</th>
+          <th>Q2</th>
+          <th>Q3</th>
+          <th>Q4</th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+          <th style="display: none;"></th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+
+
+  <script>
+    $(document).ready(function() {
+      $('#rankings thead th').css('text-align', 'center');
+      $('#rankings thead th').css('vertical-align', 'middle');
+
+      $.ajax({
+        url: 'rankings/d1_rankings.csv',
+        dataType: 'text',
+        success: function(data) {
+          var lines = data.split('\n');
+          for (var i = 1; i < lines.length - 1; i++) {
+            var cells = lines[i].split(',');
+            if (cells.length === cells.length) {
+              $('#rankings tbody').append('<tr>' +
+                '<td><img src="' + cells[0] + '" alt="Team Logo" class="team-logo" style="width: 50px"></td>' +
+                '<td>' + cells[11] + '</td>' +
+                '<td>' + cells[12] + '</td>' +
+                '<td><a href="../team_season_info?season=2025&teamID=' + cells[13] + '">' + cells[1] + '</a></td>' +
+                '<td>' + cells[2] + '</td>' +
+                '<td>' + cells[3] + '</td>' +
+                '<td>' + cells[4] + '</td>' +
+                '<td>' + cells[9] + '</td>' +
+                '<td>' + cells[10] + '</td>' +
+                '<td>' + cells[5] + '</td>' +
+                '<td>' + cells[6] + '</td>' +
+                '<td>' + cells[7] + '</td>' +
+                '<td>' + cells[8] + '</td>' +
+                '<td style="display: none;">' + cells[14] + '</td>' +
+                '<td style="display: none;">' + cells[15] + '</td>' +
+                '<td style="display: none;">' + cells[16] + '</td>' +
+                '<td style="display: none;">' + cells[17] + '</td>' +
+                '<td style="display: none;">' + cells[18] + '</td>' +
+                '<td style="display: none;">' + cells[19] + '</td>' +
+                '<td style="display: none;">' + cells[20] + '</td>' +
+                '<td style="display: none;">' + cells[21] + '</td>' +
+                '<td style="display: none;">' + cells[22] + '</td>' + 
+                '<td style="display: none;">' + cells[23] + '</td>' + 
+                '</tr>');
+            }
+          }
+
+          $('#rankings').DataTable({
+            "pageLength": 50,
+            "responsive": true,
+            "columnDefs": [
+              {"targets": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "className": "dt-right"},
+              {"targets": 9, "orderData": [14, 13], "type": "num-fmt"},
+              {"targets": 10, "orderData": [16, 15], "type": "num-fmt"},
+              {"targets": 11, "orderData": [18, 17], "type": "num-fmt"},
+              {"targets": 12, "orderData": [20, 19], "className": "dt-border-right"},
+              {"targets": 6, "orderData": 21, "type": "num-fmt"},
+              {"targets": 2, "orderData": 22, "type": "num-fmt"},
+              {"targets": [2], "render": function(data, type, row, meta) {
+                var absValue = Math.abs(parseFloat(data));
+                if (absValue > 0) {
+                  if (parseFloat(data) < 0) {
+                    return '<span style="color:green">&#x2B06;</span> ' + absValue;
+                  } else {
+                    return '<span style="color:red">&#x2B07;</span> ' + data;
+                  }
+                } else {
+                  return '<span style="color:grey">&#x21D4;</span> ' + absValue;
+                }
+              }}
+            ],
+            "width": "80%",
+            "escape": false,
+            "scrollCollapse": true,
+            "ordering": true,
+            "info": true,
+            "searching": true
+          });
+        }
+      });
+    });
+  </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8754067983414109"
+    crossorigin="anonymous"></script>
+  <!-- Rankings Page Ad -->
+  <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-8754067983414109"
+    data-ad-slot="7313531505"
+    data-ad-format="auto"
+    data-full-width-responsive="true"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</body>
+</html>
