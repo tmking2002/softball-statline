@@ -111,8 +111,8 @@ function findTeamRecordInfo(rankings, teamID) {
     const lines = rankings.split("\n")
 
     let record = "0-0";
-    let off_ranking = 0;
-    let def_ranking = 0;
+    let rpi = 0;
+    let sos = 0;
     let power_ranking = 0;
 
     for (let i = 1; i < lines.length; i++) {
@@ -124,15 +124,15 @@ function findTeamRecordInfo(rankings, teamID) {
 
         if(cur_ID == teamID) {
             record = currentLine[2].slice(0, -2);
-            off_ranking = currentLine[9];
-            def_ranking = currentLine[10];
+            rpi = currentLine[3];
+            sos = currentLine[22];
             power_ranking = currentLine[11];
             logo = currentLine[0];
             break;
         }
     }
     
-    return [record, off_ranking, def_ranking, power_ranking, logo];
+    return [record, rpi, sos, power_ranking, logo];
 
 }
 
@@ -156,19 +156,19 @@ fetch("rankings/d1_rankings.csv")
         const recordInfo = findTeamRecordInfo(csvData, teamID);
 
         const record = recordInfo[0];
-        const off_ranking = recordInfo[1];
-        const def_ranking = recordInfo[2];
+        const rpi = recordInfo[1];
+        const sos = recordInfo[2];
         const power_ranking = recordInfo[3];
         const logo = recordInfo[4];
 
         const recordContainer = document.querySelector('#team-record');
         recordContainer.innerHTML = "W-L<br>" + record;
 
-        const offRankingContainer = document.querySelector('#team-off');
-        offRankingContainer.innerHTML = "Off.<br>" + off_ranking;
+        const offRankingContainer = document.querySelector('#team-rpi');
+        offRankingContainer.innerHTML = "RPI<br>" + rpi;
 
-        const defRankingContainer = document.querySelector('#team-def');
-        defRankingContainer.innerHTML = "Def.<br>" + def_ranking;
+        const defRankingContainer = document.querySelector('#team-sos');
+        defRankingContainer.innerHTML = "SOS<br>" + sos;
 
         const powerRankingContainer = document.querySelector('#team-power');
         powerRankingContainer.innerHTML = "Power<br>" + power_ranking;
