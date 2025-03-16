@@ -207,7 +207,7 @@ function findPlayer(csvData, playerID) {
 
         if (cur_ID == playerID) {
             playerName = currentLine[2].slice(1, -1);
-            headshot_link = currentLine[7].slice(1, -2);
+            headshot_link = currentLine[7].slice(1, -1);
             break;
         }
     }
