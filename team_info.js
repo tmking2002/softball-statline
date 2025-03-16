@@ -492,7 +492,7 @@ function displaySeasonStats_gamelog(csvData) {
                 if (header === "Opponent") {
                     const a = document.createElement("a");
                     a.textContent = currentLine[header];
-                    a.href = "team_season_info?teamID=" + currentLine["Opponent ID"] + "&season=" + season;
+                    a.href = "team_info?teamID=" + currentLine["Opponent ID"] + "&season=" + season;
     
                     const td = document.createElement("td");
                     td.appendChild(a); // Append the link to the table cell

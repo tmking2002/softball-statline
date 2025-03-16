@@ -258,7 +258,7 @@ function displayHitting(gameInfo) {
                     const cell = document.createElement("td");
                     const playerLink = document.createElement("a");
                     playerLink.textContent = playerData[header];
-                    playerLink.href = `player_info?playerID=${playerData["Player ID"]}&season=${season}`;
+                    playerLink.href = `player_info?playerName=${playerData["Player"]}`;
                     
                     // Apply underline style to the player name
                     playerLink.style.textDecoration = "underline";
@@ -357,7 +357,7 @@ function displayPitching(gameInfo) {
 
                     const playerLink = document.createElement("a");
                     playerLink.textContent = playerData[header];
-                    playerLink.href = `player_info?playerID=${playerData["Player ID"]}&season=${season}`;
+                    playerLink.href = `player_info?playerName=${playerData["Player"]}`;
                     cell.appendChild(playerLink);
                     row.appendChild(cell);
 

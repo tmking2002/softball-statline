@@ -97,7 +97,7 @@ box <- rbind(hitting_box, pitching_box) %>%
   mutate(name = map2(player, season, split_name)) %>% 
   unnest_wider(name)
 
-
+headshots <- read_csv("players/data/player_headshots.csv")
 
 proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))
 
@@ -116,7 +116,8 @@ unique_names <- box %>%
          !str_detect(first, "[0-9]"),
          !str_detect(last, "[0-9]")) %>% 
   mutate(player = paste(first, last)) %>% 
-  select(player_id, player, teams, seasons, first, last) %>% 
+  merge(headshots, by="player", all = TRUE) %>% 
+  select(player_id, player, teams, seasons, first, last, headshot) %>% 
   arrange(player_id)
 
 teams <- read_csv("teams/data/all_teams.csv")

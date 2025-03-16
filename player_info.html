@@ -3,149 +3,437 @@
 <head>
   <title>Softball Statline</title>
   <link rel="icon" type = image/png href="logo_small.png">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get comprehensive game stats for NCAA Softball D1, D2, and D3. Analyze player performances and team statistics with Softball Statline.">
-    <meta name="keywords" id="keywords" content="NCAA Softball, Softball Stats, D1, D2, D3, College Softball, Softball Game Statistics, Player Performance Metrics, Softball Teams, Softball Scores, Softball Analysis, Softball Highlights, NCAA Softball Rankings, Softball Records, Softball Season, Softball Standings">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-red.css">
 
-    <style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="stylesheet.css">
+
+  <script src="toggle_darkmode.js"></script>
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8754067983414109"
+     crossorigin="anonymous"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch('header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('header-container').innerHTML = data;
+            });
+    })
+  </script>
+
+  <style>
 
     @media screen and (max-width: 768px) {
-          .w3-hide-medium,
-          .w3-hide-large {
-          display: block !important;
+            .mobile-scroll-container{
+            display: block !important;
+            }
+            .w3-bar-item {
+            text-align: center;
+            }
+            .w3-dropdown-content {
+            position: relative !important;
+           }
+           
+           .player-header {
+            width: 90% !important;
+            margin-left: 5% !important;
+            margin-right: 5% !important;
+            height: 50vw !important;
+           }
+
+           #table-container {
+            width: 90% !important; 
+            margin-left: 5% !important;
+            margin-right: 5% !important;
           }
-          .w3-bar-item {
-          text-align: center;
+
+          td {
+            font-size: 3.5vw !important;
           }
-          .w3-dropdown-content {
-          position: relative !important;
+
+          .player-name {
+            font-size: 8vw !important;
           }
+
+          .player-grad {
+              font-size: 4vw !important;
+          }
+
+          .button-container {
+            margin-left: 0% !important;
+            width: 80% !important;
+            margin-left: 10% !important;
+          }
+          
+          .button-container button, .button-container select {
+            font-size: 12px !important;
+          }
+
+          .stats-button-container {
+            margin-left: 0% !important;
+            width: 60% !important;
+            margin-left: 20% !important;
+          }
+
+          .stats-button-container button {
+            font-size: 12px !important;
+          }
+
+          #search-bar {
+            margin-top: 120px !important;
+            width: 40% !important;
+            margin-left: 30% !important;
+          }
+
+          #players-filtered {
+            width: 40% !important;
+            margin-left: 30% !important;
+            margin-bottom: 20px;
+          }
+
+          #headshot {
+            width: 20vw !important;
+          }
+
+          #season-select {
+            font-size: 3vw !important;
+            width: 20% !important;
+            margin-left: 40% !important;
+            margin-right: 40% !important;
+          }
+
+          #gamelog-container {
+            width: 90% !important; 
+            margin-left: 5% !important;
+            margin-right: 5% !important;            
+          }
+
+
         }   
 
-    #table-container {
-      max-width: 800px; 
-      margin: 0 auto; 
+    #search-bar {
+      width: 20%;
+      margin-left: 50%;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      z-index: 9999; 
     }
 
-    table {
-        width: 100%;
-        border-collapse: collapse;
+    .dark-mode #search-bar {
+      background-color: black; /* Background color for dark mode */
+      color: white; /* Text color for dark mode */
     }
 
-    th,
-    td {
-        border: 1px solid #ccc;
-        padding: 4px;
+    #players-filtered {
+      width: 20%;
+      max-height: 200px;
+      overflow: auto;
+      margin-left: 50%;
+      position: absolute;
+      z-index: 9999; 
+      background-color: white; /* Optional: to ensure visibility */
+      border: 1px solid #ccc; /* Optional: add border for styling */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: to add shadow for better visibility */
+      text-align: center;
+      border-radius: 10px;
+    }
+    
+    .dark-mode #players-filtered {
+      background-color: black; /* Background color for dark mode */
+      color: white; /* Text color for dark mode */
+    }
+
+    #players-filtered a {
+      text-decoration: none; /* Remove underline by default */
+    }
+
+    #players-filtered a:hover {
+      text-decoration: underline; /* Add underline on hover */
+    }
+
+
+    .player-header {
+        display: grid;
+        width: 50%;
+        grid-template-columns: 30% 70%; /* 40% width for headshot, 60% for content */
+        border: 1px solid #000000;
+        border-radius: 10px;
+        margin: 1% 35%;
+        height: 12vw;
+    }
+
+    .player-headshot {
+        width: 80%; /* Adjust to ensure some padding within the container */
+        object-fit: contain; /* Ensures the image fits within the container */
+    }
+
+    .dark-mode .player-header {
+        border: 1px solid white;
+    }
+
+    .headshot-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%; /* Takes full width of the grid column */
+        height: 100%; /* Creates a responsive square aspect ratio */
+        position: relative;
+    }
+
+    #headshot {
+        width: 6vw; /* Adjust to ensure some padding within the container */
+        object-fit: contain; /* Ensures the image fits within the container */
+    }
+
+    .content-container {
+        display: grid;
+        grid-template-rows: 50% 50%; /* Two rows with 60/40 split */
+    }
+
+    .subcontainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #E15241;
+        border-radius: 5px;
         text-align: center;
-        width: auto;
+        font-weight: bold;
+        font-size: 2vw; /* Adjust as needed */
+    }
+
+    .player-name {
+        margin: 0; /* Removes default margin */
+        padding: 0; /* Removes default padding */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2.5vw;
+        font-weight: 700;
+    }
+
+
+    .player-grad {
+        grid-row: 2; /* Place these in the second row */
+        display: flex; /* Center text horizontally and vertically */
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 1.5vw; /* Adjust font size as needed */
+        padding: 5px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+
+    #table-container {
+      border-radius: 15px;
+      border: 2px solid #cccccc;
+      max-height: 400px;
+      overflow: auto;
+      text-align: center;
+      margin-left: 35%;
+      width: 50%;
+      margin-bottom: 100px;
+    }
+
+    #gamelog-container {
+      border-radius: 15px;
+      border: 2px solid #cccccc;
+      max-height: 400px;
+      overflow: auto;
+      text-align: center;
+      margin-left: 35%;
+      width: 50%;
+      margin-bottom: 100px;
+      display: none;
+    }
+
+    #table-container table {
+      width: 100%; /* Ensure table occupies the full width of the container */
+      margin: 0 auto; /* Center the table */
+      border-collapse: collapse; /* Optional: removes spaces between cells */
+    } 
+
+    #gamelog-container table {
+      width: 100%; /* Ensure table occupies the full width of the container */
+      margin: 0 auto; /* Center the table */
+      border-collapse: collapse; /* Optional: removes spaces between cells */
+    } 
+
+    #table-container table tr:last-child {
+        background-color: #f2f2f2; /* Light grey background */
+        border-top: 2px solid #000000; /* Dark top border */
+        border-bottom: 2px solid #000000; /* Dark bottom border */
+    }
+
+    .dark-mode #table-container table tr:last-child {
+        background-color: #f2f2f24d; /* Light grey background */
+        border-top: 2px solid #000000; /* Dark top border */
+        border-bottom: 2px solid #000000; /* Dark bottom border */
+    }
+
+    .dark-mode .table-container {
+      background-color: #202124;
+      border: 1px white solid;
+      color: white;
+  }
+
+    
+
+    td {
+      padding: 8px;
+      text-align: left;
+      font-size: 14px;
+      font-weight: 400;
+      width: auto;
+      color: black;
+      text-align: center;
+  }
+
+    .dark-mode td {
+      color: white; 
+    }
+
+    th {
+      color: grey;
+      font-size: 15px;
+      text-align: center;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: space-between; /* Space buttons evenly */
+        width: 50%; /* Set the width of the button container */
+        margin-left: 35%;
+    }
+
+    .button-container button, .button-container select {
+        flex: 1; /* Equal width for buttons and dropdown */
+        margin: 0 5px; /* Space between buttons */
+        padding: 10px;
+        font-size: 1vw; /* Adjust font size as needed */
+        border: 1px solid #000000;
+        border-radius: 20px;
+        background-color: #fff;
+        cursor: pointer;
+        text-align: center;
+      }
+
+    #season-select {
+      flex: 1; /* Equal width for buttons and dropdown */
+      margin: 0 5px; /* Space between buttons */
+      padding: 10px;
+      font-size: 1vw; /* Adjust font size as needed */
+      border: 1px solid #000000;
+      border-radius: 20px;
+      background-color: #fff;
+      cursor: pointer;
+      text-align: center;
+      width: 20%;
+      margin-left: 50%;
+      margin-top: 20px;
+    }
+
+    .button-container button:first-child {
+        margin-left: 0;
+    }
+
+    .button-container select {
+        flex: 2; /* Wider dropdown */
+    }
+
+    .button-container button:hover, .button-container select:hover {
+        background-color: #f0f0f0; /* Light grey on hover */
+    }
+
+    .pressed {
+        background-color: #f36c60 !important;
+        color: white;
+    }
+
+    .stats-button-container {
+      display: flex;
+      justify-content: space-between; /* Space buttons evenly */
+      width: 30%; /* Set the width of the button container */
+      margin-left: 45%;
+      margin-top: 20px;
+    }
+
+    .stats-button-container button {
+      flex: 1; /* Equal width for buttons and dropdown */
+      margin: 0 5px; /* Space between buttons */
+      padding: 10px;
+      font-size: 1vw; /* Adjust font size as needed */
+      border: 1px solid #000000;
+      border-radius: 20px;
+      background-color: #fff;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    #hitting-button, #pitching-button {
+      width: 20% !important;
     }
 
     .mobile-hide {
         display: none;
     }   
+  </style>
 
-    th {
-        background-color: #f2f2f2;
-    }
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-    #stats-buttons {
-        display: flex;
-        justify-content: center;
-    }
-
-    #hitting-stats-container table th:last-child,
-    #hitting-stats-container table td:last-child {
-      border-right-width: 3px;
-    }
-
-    #hitting-stats-container table tr:last-child {
-      background-color: lightgrey; /* Set the background color of the last row to light grey */
-      border-top: 3px solid black; /* Set the thickness of the line above the last row */
-    }
-
-    #pitching-stats-container table th:last-child,
-    #pitching-stats-container table td:last-child {
-      border-right-width: 3px;
-    }
-
-    #pitching-stats-container table tr:last-child {
-      background-color: lightgrey; /* Set the background color of the last row to light grey */
-      border-top: 3px solid black; /* Set the thickness of the line above the last row */
-    }
-    </style>
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFFKCYZJXV"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-YFFKCYZJXV');
-    </script>
+    gtag('config', 'G-YFFKCYZJXV');
+  </script>
 </head>
 <body>
-  <div class="w3-top">
-    <div class="w3-bar w3-top w3-center-align w3-large">
-      <div class="w3-dropdown-hover w3-hide-medium w3-hide-large" style="display: inline-block; ">
-          <button class="w3-button w3-padding-16" style="background-color: #E15241; color: white;">
-                 Menu<i class="fa fa-caret-down"></i>
-              </button>
-              <div class="w3-dropdown-content w3-bar-block" style="background-color: #E15241; z-index: 2;">
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='../'">Home</button>
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='player_search'">Players</button>
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='team_search'">Teams</button>
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='coach_search'">Coaches</button>
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='leaders_search'">Leaders</button>
-                  <button class="w3-bar-item w3-button testbtn w3-padding-16" style="background-color: #E15241; color: white;" onclick="window.location.href='rankings/rankings_d1'">Rankings</button>
-              </div>
-            </div>
-        </div>
-      <div class="w3-bar w3-top w3-left-align w3-large" style="display: flex; flex-direction: column; max-width: 15%;">
-          <a href="../" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Home</a>
-          <a href="player_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #E15241; color: white;">Players</a>
-          <a href="team_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Teams</a>
-          <a href="coach_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Coaches</a>
-          <a href="leaders_search" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Leaders</a>
-          <a href="rankings/rankings_d1" class="w3-bar-item w3-button w3-hide-small w3-hover-white" style="background-color: #404040; color: white;">Rankings</a>
-      </div>
+
+  <div id="header-container"></div>
+
+  <div id="search-container">
+    <input type="text" id="search-bar" placeholder="Search players..." onkeypress="filterPlayers()">
+    <div id="players-filtered"></div>
+  </div>
+
+  <div class="player-header">
+    <div class="headshot-container">
+      <img class="headshot" id="player-headshot">
     </div>
+    <div class="content-container">
+      <p class="player-name" id="player-name"></p>
+      <p class="player-grad" id="player-grad"></p>
+    </div>  
+  </div>
 
-    <div class="w3-center" style="position: relative; margin-top: 100px;"> 
-      <img src="logo.png" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
-    </div>
+  <div class="button-container">
+    <button id="stats-button" class="pressed">Stats</button>
+    <button id="gamelog-button">Game Log</button>
+  </div>
+  <div class="stats-button-container">
+    <button id="hitting-button" class="pressed">Hitting</button>
+    <button id="pitching-button">Pitching</button>
+  </div>
+  <select id="season-select" style="display: none"></select>
 
-    <div class="w3-bar w3-theme w3-padding" id="stats-buttons">
-    </div>
-
-    <h1 style="text-align: center;"></h1>
-
-    <div id="hitting-stats" class="w3-container city w3-animate-opacity" style="margin-bottom: 100px;">
-      <div id="hitting-stats-container"></div>
-    </div>
-
-
-    <div id="pitching-stats" class="w3-container city w3-animate-opacity" style="margin-bottom: 100px;">
-      <div id="pitching-stats-container"></div>
-    </div>
-
-    <script>
-        function openTab(tabName) {
-            var i;
-            var x = document.getElementsByClassName("city");
-            for (i = 0; i < x.length; i++) {
-                x[i].style.display = "none";
-            }
-            document.getElementById(tabName).style.display = "block";
-        }
-
-        openTab('hitting-stats');
-    </script>
-
-    <script src="player_info.js"></script>
+  <h1 style="text-align: center;"></h1>
+  <div id="table-container"></div>
+  <div id="gamelog-container"></div>
+  <script src="papaparse.min.js"></script>
+  <script src="player_info.js"></script>
 </body>
 </html>
