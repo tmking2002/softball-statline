@@ -108,14 +108,14 @@ get_power_ratings <- function(scoreboard){
   
   runs_scored <- scoreboard_longer %>% 
     group_by(team) %>% 
-    summarise(avg_runs_scored = mean(runs),
+    summarise(avg_runs_scored = mean(runs, na.rm = T),
               games = n()) %>% 
     select(-games) %>% 
     drop_na()
   
   runs_allowed <- scoreboard_longer %>% 
     group_by(team) %>% 
-    summarise(avg_runs_allowed = mean(opponent_runs),
+    summarise(avg_runs_allowed = mean(opponent_runs, na.rm = T),
               games = n()) %>% 
     select(-games) %>% 
     drop_na()
@@ -124,7 +124,7 @@ get_power_ratings <- function(scoreboard){
     merge(runs_allowed, by.x = "opponent", by.y = "team") %>% 
     mutate(diff = runs - avg_runs_allowed) %>% 
     group_by(team) %>% 
-    summarise(offensive_rating = mean(diff),
+    summarise(offensive_rating = mean(diff, na.rm = T),
               games = n()) %>% 
     ungroup() %>% 
     drop_na()
@@ -133,7 +133,7 @@ get_power_ratings <- function(scoreboard){
     merge(runs_scored, by.x = "opponent", by.y = "team") %>% 
     mutate(diff = avg_runs_scored - opponent_runs) %>% 
     group_by(team) %>% 
-    summarise(defensive_rating = mean(diff),
+    summarise(defensive_rating = mean(diff, na.rm = T),
               games = n()) %>% 
     ungroup() %>% 
     drop_na()
