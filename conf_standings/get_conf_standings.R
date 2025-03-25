@@ -29,8 +29,7 @@ conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdatavers
   merge(conferences, by.x = "away_team", by.y = "team_name", all = T) %>%
   rename(away_conference = conference) %>%
   drop_na(home_conference, away_conference) %>%
-  filter(home_conference == away_conference &
-           anytime::anydate(game_date) < "2024-05-10")
+  filter(home_conference == away_conference)
 
 total_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
   drop_na(home_team, away_team) %>%
@@ -117,6 +116,14 @@ create_standings <- function(conference){
   return(standings)
 
 }
+
+prev_standings <- list.files(path = "conf_standings", pattern = "\\.csv$", full.names = TRUE)
+
+unlink(prev_standings)
+
+unique_confs <- unique(conferences$conference) %>% sort() %>% paste(collapse = ", ")
+
+write(unique_confs, file = "conf_standings/conferences.txt")
 
 for(i in 1:length(unique(conferences$conference))){
 

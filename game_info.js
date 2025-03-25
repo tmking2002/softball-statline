@@ -175,7 +175,7 @@ function parseCSV(csvData, type) {
     let headers;
 
     if (type === "hitting"){
-        headers = ['', 'Game ID', 'Team', 'Opponent', 'Player ID', 'Player', 'Pos', 'AB', 'R', 'H', 'RBI', 'HR', 'K', 'BB'];
+        headers = ['', 'Game ID', 'Game Date', 'Team', 'Opponent', 'Player ID', 'Player', 'Pos', 'AB', 'R', 'H', 'RBI', 'HR', 'K', 'BB'];
     } else {
         headers = ['', 'Game ID', 'Team', 'Opponent', 'Player ID', 'Player', 'IP', 'H', 'ER', 'BB', 'HB', 'SO', 'BF', 'HR', 'GO', 'FO']
     }
@@ -225,7 +225,7 @@ function displayHitting(gameInfo) {
             awayHeaderRow.appendChild(awayFirstColumnHeader);
 
             for (const header of headers) {
-                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos' || header === 'Player') {
+                if (header === "Game ID" || header === "Game Date" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos' || header === 'Player') {
                     continue;
                 }
                 const thHome = document.createElement("th");
@@ -248,7 +248,7 @@ function displayHitting(gameInfo) {
             }
 
             for (const header of headers) {
-                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos') {
+                if (header === "Game ID" || header === "Game Date" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'Pos') {
                     continue;
                 }
 
@@ -258,7 +258,7 @@ function displayHitting(gameInfo) {
                     const cell = document.createElement("td");
                     const playerLink = document.createElement("a");
                     playerLink.textContent = playerData[header];
-                    playerLink.href = `player_info?playerName=${playerData["Player"]}`;
+                    playerLink.href = `player_info?playerID=${playerData["Player ID"]}`;
                     
                     // Apply underline style to the player name
                     playerLink.style.textDecoration = "underline";
@@ -323,7 +323,7 @@ function displayPitching(gameInfo) {
             awayHeaderRow.appendChild(awayFirstColumnHeader);
 
             for (const header of headers) {
-                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO' || header === 'Player') {
+                if (header === "Game ID" || header === "Game Date" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO' || header === 'Player') {
                     continue;
                 }
                 const thHome = document.createElement("th");
@@ -347,7 +347,7 @@ function displayPitching(gameInfo) {
 
             for (const header of headers) {
 
-                if (header === "Game ID" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO') {
+                if (header === "Game ID" || header === "Game Date" || header === "Opponent" || header === "Team" || header === 'Player ID' || header === 'FO' || header == 'GO') {
                     continue;
                 }
 
@@ -357,7 +357,7 @@ function displayPitching(gameInfo) {
 
                     const playerLink = document.createElement("a");
                     playerLink.textContent = playerData[header];
-                    playerLink.href = `player_info?playerName=${playerData["Player"]}`;
+                    playerLink.href = `player_info?playerID=${playerData["Player ID"]}`;
                     cell.appendChild(playerLink);
                     row.appendChild(cell);
 

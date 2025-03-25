@@ -111,40 +111,7 @@
             <div class="w3-dropdown-hover">
                 <button class="w3-button w3-padding-16">Select Conference<i class="fa fa-caret-down"></i></button>
 
-                <div class="w3-dropdown-content w3-card-4 w3-bar-block scrollable-dropdown">
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'AAC')">AAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ACC')">ACC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'America East')">America East</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'ASUN')">ASUN</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Atlantic 10')">Atlantic 10</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big 12')">Big 12</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big East')">Big East</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big Sky')">Big Sky</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big South')">Big South</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big Ten')">Big Ten</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Big West')">Big West</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'C-USA')">C-USA</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'CAA')">CAA</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Horizon')">Horizon</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Ivy League')">Ivy League</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MAAC')">MAAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MAC')">MAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MEAC')">MEAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Mountain West')">Mountain West</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'MVC')">MVC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'NEC')">NEC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'OVC')">OVC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Pac-12')">Pac-12</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Patriot')">Patriot</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SEC')">SEC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SoCon')">SoCon</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Southland')">Southland</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Summit League')">Summit League</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'Sun Belt')">Sun Belt</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'SWAC')">SWAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'WAC')">WAC</button>
-                    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openConf(event,'WCC')">WCC</button>
-                </div>
+                <div class="w3-dropdown-content w3-card-4 w3-bar-block scrollable-dropdown" id="confDropdown"></div>
 
             </div>
             <div class="homepage-table" id="conf-standings"></div>
@@ -776,6 +743,31 @@
                         heading.textContent = confName;
                     })
             }
+
+            // Function to fetch the conferences from a text file and add buttons dynamically
+            function loadConferences() {
+                // Assuming your conferences text file is available and properly formatted
+                fetch('conf_standings/conferences.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        // Split the data by commas to get conference names
+                        const conferences = data.split(',').map(conf => conf.trim());
+                        
+                        // Get the dropdown container
+                        const dropdown = document.getElementById('confDropdown');
+
+                        
+                        // Loop through the conferences and create buttons
+                        conferences.forEach(conf => {
+                            const button = document.createElement('button');
+                            button.classList.add('w3-bar-item', 'w3-button', 'testbtn', 'w3-padding-16');
+                            button.textContent = conf;
+                            button.setAttribute('onclick', `openConf(event, '${conf}')`);
+                            dropdown.appendChild(button);
+                        });
+                    })
+                    .catch(error => console.error('Error loading conferences:', error));
+            }
             
             openConf(event, 'SEC')
             openSchedule(event, 'D1-schedule')  
@@ -783,6 +775,7 @@
             createDataTable_d1(yesterday)
             createDataTable_d2(yesterday)
             createDataTable_d3(yesterday)
+            window.onload = loadConferences;
         </script>
 
     </body>

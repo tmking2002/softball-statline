@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins', sans-serif; /* Apply Poppins font */
     background-color: white;
     color: black;
-    font-size: 18px !important;
+    font-size: 16px !important;
     transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for theme change */
 }
 
@@ -80,7 +80,7 @@ body.dark-mode {
 }   
 
 .homepage-container table {
-    width: 80%;  /* Set the table width to 80% of the container */
+    width: 90%;  /* Set the table width to 80% of the container */
     margin: 0 auto;  /* Centers the table inside the container */
     border-collapse: collapse; /* Optional: to make sure the borders don't have extra spacing */
 }

@@ -497,7 +497,7 @@ function displayGameLog_hitting(csvData) {
             if (header === "Box") {
                 const a = document.createElement("a");
                 a.textContent = "Box";
-                a.href = "game_info?gameID=" + currentLine["Game ID"];
+                a.href = "game_info?gameID=" + currentLine["Game ID"] + "&season=" + currentLine["Game Date"].slice(-4);
                 td.appendChild(a);
             } else {
                 td.textContent = currentLine[header];
