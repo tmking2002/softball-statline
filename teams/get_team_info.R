@@ -13,12 +13,17 @@ library(magrittr)
 
 print("TEAM INFO")
 
-team_ids <- "https://stats.ncaa.org/game_upload/team_codes" %>%
+team_ids <- tryCatch({
+  "https://stats.ncaa.org/game_upload/team_codes" %>%
     rvest::read_html() %>%
     rvest::html_table() %>%
     magrittr::extract2(1) %>%
     dplyr::filter(!(X1 %in% c("NCAA Codes", "ID"))) %>%
     `names<-`(c("team_id", "team_name"))
+}, error = function(e) {
+  message("team_ids is empty, skipping for today")
+  quit(status = 0)
+})
 
 d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_2025.RDS")))
 d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_2025.RDS")))
