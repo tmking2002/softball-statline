@@ -1,7 +1,7 @@
 Rank,Team,Record,Team ID
 1,Malone,1-0-0,30137
-2,Trine,25-4-0,30037
-3,Mary,1-0-0,30075
+2,Mary,1-0-0,30075
+4,Trine,26-4-0,30037
 5,Chris. Newport,29-3-0,139
 6,Salisbury,27-3-1,622
 7,Redlands,27-6-0,567
@@ -10,399 +10,399 @@ Rank,Team,Record,Team ID
 10,Huntingdon,34-3-0,1130
 11,Wis.-Whitewater,23-5-0,805
 12,CWRU,21-9-0,122
-13,Maine,1-0-0,380
-14,Va. Wesleyan,31-3-1,745
-15,Moravian,26-4-0,443
-16,Gettysburg,31-4-0,258
-17,East Tex. Baptist,30-2-0,1062
-18,Linfield,27-3-0,1179
-19,Tufts,17-13-0,717
-20,Simpson,26-4-0,641
+13,Va. Wesleyan,31-3-1,745
+14,Moravian,26-4-0,443
+15,Gettysburg,31-4-0,258
+16,East Tex. Baptist,30-2-0,1062
+17,Maine,1-0-0,380
+18,Simpson,26-4-0,641
+19,Linfield,27-3-0,1179
+20,Tufts,17-13-0,717
 21,Ill. Wesleyan,23-7-0,300
-22,Baldwin Wallace,24-2-0,46
-23,Wis.-Oshkosh,26-4-0,798
-24,Lebanon Valley,20-10-0,351
-25,Swarthmore,25-9-0,686
-26,WashU,25-5-0,755
+22,Wis.-Oshkosh,26-4-0,798
+23,Baldwin Wallace,24-2-0,46
+24,Swarthmore,25-9-0,686
+25,Central (IA),20-6-0,126
+26,Belhaven,28-7-0,30197
 27,Rochester (NY),17-9-0,581
-28,Central (IA),20-6-0,126
-29,Belhaven,28-7-0,30197
-30,Wartburg,19-11-0,750
-31,Mt. St. Joseph,21-7-0,8567
-32,Springfield,19-9-0,673
-33,Dominican (IL),21-7-0,1332
-34,Texas Lutheran,32-1-0,1400
-35,Randolph-Macon,30-5-0,565
-36,Wis.-Stevens Point,23-7-0,802
-37,Wis.-Eau Claire,21-9-0,793
-38,Ithaca,19-5-0,313
+28,Wartburg,19-11-0,750
+29,Williams,19-9-0,789
+30,Lebanon Valley,21-11-0,351
+31,WashU,26-5-0,755
+32,Mt. St. Joseph,21-7-0,8567
+33,Springfield,19-9-0,673
+34,Pfeiffer,24-7-0,542
+35,Dominican (IL),21-7-0,1332
+36,Texas Lutheran,32-1-0,1400
+37,Randolph-Macon,30-5-0,565
+38,Wis.-Stevens Point,23-7-0,802
 39,Ramapo,24-7-0,564
-40,Williams,17-9-0,789
-41,Pfeiffer,24-8-0,542
-42,Transylvania,18-3-0,28749
-43,Alfred,19-7-0,18
-44,Husson,15-9-0,1133
-45,MIT,18-8-0,398
+40,Ithaca,19-5-0,313
+41,Wis.-Eau Claire,21-9-0,793
+42,Transylvania,20-3-0,28749
+43,MIT,18-8-0,398
+44,Alfred,19-7-0,18
+45,Eastern,24-6-0,8968
 46,Wis.-La Crosse,18-14-0,795
-47,Eastern,24-6-0,8968
-48,Pacific Lutheran,19-9-0,1297
-49,Augustana (IL),20-4-0,40
-50,Babson,18-9-0,45
-51,Emory,25-6-0,217
-52,UMass Boston,25-4-1,401
-53,Chapman,22-6-0,134
-54,Manhattanville,18-6-0,382
-55,Lewis & Clark,21-7-0,22235
-56,Texas-Dallas,5-11-0,23121
-57,Bridgewater (VA),24-12-0,75
-58,Concordia Wisconsin,19-9-0,1036
-59,Rensselaer,22-8-0,570
-60,Bluefield St.,2-0-0,985
+47,Husson,15-9-0,1133
+48,Babson,18-9-0,45
+49,UMass Boston,25-4-1,401
+50,Emory,25-6-0,217
+51,Chapman,23-6-0,134
+52,Augustana (IL),18-4-0,40
+53,Bluefield St.,2-0-0,985
+54,Denison,19-10-0,182
+55,Texas-Dallas,5-11-0,23121
+56,Manhattanville,18-6-0,382
+57,Lewis & Clark,21-7-0,22235
+58,Bridgewater (VA),24-12-0,75
+59,Concordia Wisconsin,21-9-0,1036
+60,Rensselaer,22-8-0,570
 61,Adrian,17-12-0,4
-62,Wis.-Platteville,20-7-0,800
-63,Carthage,22-10-0,121
+62,Carthage,22-10-0,121
+63,Wis.-Platteville,20-7-0,800
 64,UChicago,15-15-0,137
-65,DePauw,18-10-0,177
+65,Wheaton (MA),21-9-0,779
 66,Mary Hardin-Baylor,21-10-0,1203
-67,Millikin,18-12-0,424
-68,Calvin,19-11-0,114
-69,Wesleyan (CT),19-9-0,764
-70,Luther,20-13-0,372
-71,Wheaton (MA),22-10-0,779
-72,Hiram,19-7-0,281
-73,Denison,21-10-0,182
-74,Pomona-Pitzer,22-11-0,549
-75,Trinity (TX),30-7-0,715
-76,Wittenberg,19-9-0,806
+67,DePauw,18-10-0,177
+68,Pacific Lutheran,19-11-0,1297
+69,Wesleyan (CT),20-10-0,764
+70,Millikin,18-12-0,424
+71,Calvin,19-11-0,114
+72,Luther,20-13-0,372
+73,Hiram,19-7-0,281
+74,Trinity (TX),30-7-0,715
+75,Framingham St.,21-9-0,238
+76,Stockton,21-13-0,681
 77,Hardin-Simmons,15-3-0,271
-78,Stockton,21-13-0,681
-79,Framingham St.,19-9-0,238
-80,Mount Union,17-10-0,452
-81,Berry,23-9-0,973
-82,Neb. Wesleyan,22-6-0,462
-83,Franklin,14-8-0,2694
-84,TCNJ,19-13-0,712
-85,Western New Eng.,16-8-1,775
-86,Messiah,24-7-0,411
-87,Catholic,21-9-0,124
-88,Middlebury,21-9-0,420
-89,St. John Fisher,21-11-0,601
-90,Endicott,15-10-0,8981
-91,Westfield St.,25-7-0,777
-92,Salem (WV),2-0-0,19117
-93,Saint Benedict,17-13-0,595
-94,Lake Forest,17-13-0,344
-95,Lynchburg,21-12-0,374
-96,Nichols,22-8-0,484
-97,Allegheny,19-13-0,19
-98,Geneva,21-10-0,30084
-99,George Fox,20-11-0,1094
-100,Muskingum,12-13-0,455
-101,Concordia (TX),24-10-0,24400
-102,Grove City,19-11-0,265
-103,Roger Williams,18-10-0,583
-104,John Jay,16-8-0,321
-105,West Virginia St.,1-0-0,1439
-106,Concordia-M'head,15-13-0,161
-107,Claremont-M-S,18-11-0,142
-108,WestConn,18-12-0,770
-109,Greenville,22-2-0,1111
-110,Saint Michael's,1-1-0,613
-112,Bethany Lutheran,21-11-0,30038
-113,N.C. Wesleyan,22-14-0,491
-114,Hamilton,12-6-0,267
-115,York (PA),12-20-0,815
-116,Bethel (MN),15-15-0,60
-117,Plymouth St.,17-10-0,548
-118,Macalester,22-10-0,376
-119,SUNY Geneseo,19-8-0,247
-120,St. Olaf,17-13-0,615
-121,Amherst,14-13-0,24
-122,Stevens,19-16-0,679
-123,Greensboro,23-9-0,263
-124,Rhode Island Col.,16-13-1,571
-125,North Central (IL),13-17-0,492
-126,Drew,17-16-0,190
-127,Otterbein,13-14-0,531
-128,Ursinus,19-16-0,730
-129,Colby,11-12-0,151
-130,Hartford,15-12-1,272
-131,Westminster (PA),20-9-0,1451
-132,Whittier,15-19-0,781
-133,St. Thomas (TX),25-10-0,2810
+78,Wittenberg,19-9-0,806
+79,Franklin,14-8-0,2694
+80,Western New Eng.,16-8-1,775
+81,Pomona-Pitzer,20-11-0,549
+82,Westfield St.,27-7-0,777
+83,TCNJ,19-13-0,712
+84,Mount Union,17-10-0,452
+85,Neb. Wesleyan,22-6-0,462
+86,Endicott,15-10-0,8981
+87,Berry,23-9-0,973
+88,Messiah,24-7-0,411
+89,Catholic,21-9-0,124
+90,Salem (WV),2-0-0,19117
+91,St. John Fisher,21-12-0,601
+92,Concordia-M'head,15-12-0,161
+93,Nichols,22-8-0,484
+94,Saint Benedict,17-13-0,595
+95,Middlebury,21-11-0,420
+96,Lake Forest,17-13-0,344
+97,Lynchburg,21-12-0,374
+98,George Fox,20-11-0,1094
+99,Allegheny,19-13-0,19
+100,Roger Williams,18-10-0,583
+101,Greenville,22-2-0,1111
+102,Geneva,21-10-0,30084
+103,West Virginia St.,1-0-0,1439
+104,Concordia (TX),24-10-0,24400
+105,Grove City,19-11-0,265
+106,Muskingum,12-13-0,455
+108,SUNY Geneseo,20-8-0,247
+109,N.C. Wesleyan,22-14-0,491
+110,Claremont-M-S,17-11-0,142
+111,Bethany Lutheran,21-11-0,30038
+112,Hamilton,13-7-0,267
+113,WestConn,18-12-0,770
+114,Plymouth St.,17-10-0,548
+115,Rhode Island Col.,16-13-1,571
+116,Macalester,22-10-0,376
+117,York (PA),12-20-0,815
+118,Whittier,15-18-0,781
+119,Marietta,17-9-0,385
+120,Manchester,14-10-0,1192
+121,St. Olaf,17-13-0,615
+122,Amherst,14-13-0,24
+123,Stevens,19-16-0,679
+124,Bethel (MN),14-15-0,60
+125,North Central (IL),13-15-0,492
+126,Otterbein,13-14-0,531
+127,Ursinus,19-16-0,730
+128,John Jay,18-8-0,321
+129,Greensboro,25-9-0,263
+130,Westminster (PA),20-9-0,1451
+131,Saint Michael's,1-1-0,613
+132,St. Thomas (TX),25-10-0,2810
+133,Misericordia,21-11-0,16142
 134,Wellesley,12-13-1,760
 135,Loras,18-14-0,364
-136,Alvernia,19-14-0,938
-137,Marietta,16-9-0,385
-138,Misericordia,21-11-0,16142
-139,Piedmont,22-17-0,21830
-140,Marian (WI),13-13-0,1196
-141,Muhlenberg,19-15-0,453
-142,Albertus Magnus,21-13-0,2798
-143,Kean,22-16-0,329
-144,Manchester,14-11-0,1192
-145,Wilkes,12-10-0,784
-146,Ohio Northern,13-17-0,517
+136,Marian (WI),13-13-0,1196
+137,Piedmont,22-17-0,21830
+138,Alvernia,19-14-0,938
+139,Muhlenberg,19-15-0,453
+140,Hartford,15-13-1,272
+141,Wilkes,12-10-0,784
+142,Ohio Northern,13-17-0,517
+143,Drew,17-17-0,190
+144,Carnegie Mellon,14-16-0,119
+145,Utica,17-7-0,733
+146,Millsaps,18-10-0,426
 147,Northwestern-St. Paul,23-11-0,30031
-149,Chestnut Hill,4-1-0,21323
-150,Bates,14-10-0,50
-151,Scranton,16-10-0,633
-152,Hope,17-11-0,286
-153,Millsaps,18-10-0,426
-154,La Verne,15-16-0,341
-155,Utica,18-7-0,733
-156,Wis.-Stout,10-16-0,803
-157,Meredith,17-17-0,409
-158,Dubuque,20-14-0,192
-159,Waynesburg,19-9-0,1434
-160,Carnegie Mellon,15-17-0,119
-161,Cal Lutheran,14-12-0,105
-162,Coe,11-23-0,150
-163,WPI,16-10-0,808
-164,Montclair St.,22-14-0,442
-165,Carroll (WI),11-16-0,120
-166,LaGrange,13-17-0,1162
-167,Benedictine (IL),17-13-0,296
-168,Kalamazoo,15-11-0,326
-170,Illinois Col.,22-15-0,297
-171,Spalding,11-15-0,23260
+149,Dubuque,20-14-0,192
+150,Albertus Magnus,21-13-0,2798
+151,Chestnut Hill,4-1-0,21323
+152,Montclair St.,22-12-0,442
+153,Cal Lutheran,14-10-0,105
+154,Bates,14-10-0,50
+155,Hope,17-11-0,286
+156,Colby,11-14-0,151
+157,La Verne,15-17-0,341
+158,Wis.-Stout,10-16-0,803
+159,Kean,20-16-0,329
+160,Waynesburg,19-9-0,1434
+161,WPI,17-10-0,808
+162,Carroll (WI),11-16-0,120
+163,Illinois Col.,21-15-0,297
+164,Coe,11-23-0,150
+165,Benedictine (IL),17-13-0,296
+166,Meredith,18-18-0,409
+167,Scranton,17-11-0,633
+168,Spalding,11-15-0,23260
+169,UW-River Falls,17-13-0,801
+170,Alma,11-15-0,21
+171,Kalamazoo,16-12-0,326
 172,DeSales,16-14-0,20
-173,UW-River Falls,17-13-0,801
-174,Bethany (WV),22-9-0,59
-175,LeTourneau,12-24-0,8490
-176,Franklin & Marshall,8-14-0,239
-177,Heidelberg,16-18-0,278
-178,St. Lawrence,18-12-0,607
-179,Bowdoin,12-16-0,69
-180,Alma,11-14-0,21
-181,Wooster,9-19-0,807
-182,Penn College,19-10-0,30190
-183,Clarkson,17-12-0,146
-184,Cortland,12-12-0,168
-185,Centenary (LA),17-17-0,125
-186,Wis.-Superior,25-5-0,804
-187,St. Catherine,14-20-0,597
-188,Wm. Paterson,15-15-0,787
-189,Rhodes,17-15-0,573
-190,Coast Guard,10-11-1,722
-191,JWU (Providence),21-13-0,22626
-192,SUNY New Paltz,13-13-0,475
-193,Pacific (OR),5-17-0,2751
-194,Roanoke,15-19-0,578
+173,Bowdoin,12-16-0,69
+174,LeTourneau,12-24-0,8490
+175,St. Lawrence,16-12-0,607
+176,Wooster,9-19-0,807
+178,Franklin & Marshall,8-14-0,239
+179,Penn College,19-10-0,30190
+180,Heidelberg,16-18-0,278
+181,LaGrange,15-17-0,1162
+182,Bethany (WV),22-10-0,59
+183,Cortland,12-12-0,168
+184,Clarkson,18-12-0,146
+185,Wis.-Superior,25-5-0,804
+186,Centenary (LA),17-17-0,125
+187,JWU (Providence),21-13-0,22626
+188,St. Catherine,14-20-0,597
+189,Rose-Hulman,12-10-0,585
+190,Wm. Paterson,15-15-0,787
+191,SUNY New Paltz,13-13-0,475
+192,Rhodes,16-15-0,573
+193,Roanoke,15-19-0,578
+194,Emerson,15-11-0,214
 195,Haverford,15-17-0,276
 196,Aurora,18-14-0,42
-197,Emerson,15-11-0,214
+197,North Park,13-17-0,496
 198,Averett,17-19-0,44
-199,Earlham,19-9-0,195
-200,Mary Baldwin,19-14-0,389
-201,Arcadia,10-20-0,966
-202,MSOE,12-16-0,20220
-203,North Park,12-16-0,496
-204,SUNY Oneonta,14-12-0,526
-205,Rose-Hulman,10-10-0,585
-206,Farmingdale St.,18-10-0,27892
-207,Eastern Conn. St.,11-15-0,200
-208,Ferrum,13-19-0,225
-209,Wilmington (OH),11-15-0,1461
-210,McDaniel,14-16-1,773
-211,MUW,16-12-0,431
-212,Asbury,16-12-0,30243
-213,Worcester St.,13-12-0,809
-214,UMass Dartmouth,14-14-0,656
-215,Concordia Chicago,18-11-0,160
+199,Willamette,13-11-0,785
+200,Arcadia,10-20-0,966
+201,Pacific (OR),5-17-0,2751
+202,Mary Baldwin,19-14-0,389
+203,Wilmington (OH),11-17-0,1461
+204,Earlham,19-9-0,195
+205,Eastern Conn. St.,11-15-0,200
+206,MSOE,12-18-0,20220
+207,SUNY Oneonta,14-12-0,526
+208,Southern Me.,15-13-0,662
+209,Coast Guard,9-10-1,722
+210,Farmingdale St.,18-10-0,27892
+211,Ferrum,13-19-0,225
+212,Concordia Chicago,18-11-0,160
+213,Susquehanna,11-16-0,685
+214,McDaniel,14-16-1,773
+215,Asbury,16-12-0,30243
 216,FDU-Florham,17-14-0,221
-217,NYU,11-23-0,479
-218,Penn St. Harrisburg,21-8-0,30081
-219,Southern Me.,13-13-0,662
-220,Susquehanna,11-16-0,685
-221,Hood,16-14-0,8404
-222,Maryville (TN),18-18-0,396
+217,UMass Dartmouth,14-14-0,656
+218,NYU,10-22-0,479
+219,Suffolk,11-13-0,684
+220,Worcester St.,15-12-0,809
+221,Maryville (TN),18-18-0,396
+222,Penn St. Harrisburg,22-8-0,30081
 223,Albion,10-16-0,15
-224,Penn St.-Behrend,13-14-0,538
-225,Shenandoah,17-17-0,637
-226,Lincoln (MO),2-0-0,356
-227,Nazareth,14-8-0,461
-228,Thiel,12-14-0,707
-229,Suffolk,11-13-0,684
-230,MCLA,12-9-0,486
-231,Washington Col.,10-22-0,753
-232,Trinity (CT),8-19-0,713
-233,Stevenson,20-9-0,21852
-234,Capital,12-16-0,117
-235,Hanover,9-13-0,1115
-236,Carleton,10-22-0,118
-237,VTSU Castleton,14-11-0,123
-238,McMurry,15-14-0,8530
-239,Southern Va.,11-20-0,30164
-240,Willamette,11-11-0,785
+224,Shenandoah,17-17-0,637
+225,Penn St.-Behrend,13-14-0,538
+226,MCLA,12-11-0,486
+227,Wentworth,12-17-0,762
+228,Lincoln (MO),2-0-0,356
+229,Washington Col.,10-22-0,753
+230,Curry,13-15-0,170
+231,Trinity (CT),9-19-0,713
+232,MUW,18-12-0,431
+233,Thiel,12-14-0,707
+234,VTSU Castleton,14-11-0,123
+235,Carleton,10-22-0,118
+236,Southern Va.,12-21-0,30164
+237,Hanover,9-13-0,1115
+238,Capital,12-16-0,117
+239,McMurry,15-14-0,8530
+240,Guilford,14-22-0,1112
 241,Wash. & Jeff.,12-15-0,751
-242,Guilford,14-22-0,1112
-243,Wentworth,11-17-0,762
-244,Hamline,13-19-0,268
-245,Methodist,13-20-0,412
-246,Occidental,8-23-0,516
-247,Curry,12-15-0,170
+242,Hood,17-15-0,8404
+243,Nazareth,15-8-0,461
+244,Occidental,8-23-0,516
+245,Rivier,14-12-0,18422
+246,Hamline,13-19-0,268
+247,Stevenson,20-10-0,21852
 248,Southwestern (TX),14-23-0,8746
-249,Mary Washington,10-24-0,390
-250,Dickinson,13-19-0,185
-251,Rutgers-Newark,11-23-0,589
-252,SUNY Poly,12-7-0,9500
+249,Dickinson,13-19-0,185
+250,SUNY Poly,14-7-0,9500
+251,Mary Washington,10-24-0,390
+252,Rutgers-Newark,11-23-0,589
 253,St. Norbert,9-23-0,614
-254,Rivier,13-12-0,18422
-255,Kenyon,11-10-0,335
-256,Delaware Valley,16-13-0,179
-257,Widener,13-20-0,783
-258,Saint Joseph (CT),16-10-0,8687
-259,Anderson (IN),9-16-0,939
-260,St. Joseph's (ME),13-17-0,605
-261,Penn St.-Altoona,19-10-0,25719
-262,John Carroll,11-15-0,320
+254,Whitworth,5-23-0,1454
+255,Penn St.-Altoona,19-10-0,25719
+256,John Carroll,11-15-0,320
+257,Delaware Valley,16-13-0,179
+258,Buffalo St.,15-11-0,85
+259,Methodist,12-20-0,412
+260,Elmhurst,6-21-0,212
+261,Fredonia,8-14-0,242
+262,Widener,13-20-0,783
 263,Penn St.-Berks,19-7-0,30044
-264,Buffalo St.,15-11-0,85
-265,Elmhurst,6-21-0,212
-266,Fredonia,8-14-0,242
+264,Wilson,15-10-0,12973
+265,Kenyon,12-11-0,335
+266,King's (PA),10-21-0,336
 267,RIT,8-19-0,580
-268,Whitworth,5-23-0,1454
-269,Wilson,15-10-0,12973
-270,William Peace,17-16-0,17094
-271,Saint Vincent,15-15-0,30064
-272,St. Scholastica,10-20-0,618
-273,New Jersey City,12-16-0,319
-274,Keene St.,14-12-0,330
-275,King's (PA),9-20-0,336
-276,Bridgewater St.,9-14-0,76
-277,Brandeis,7-21-1,73
-278,Cornell College,10-16-0,166
-279,Russell Sage,10-18-0,11036
-280,Lakeland,14-12-0,1164
-281,Smith,6-20-0,644
-282,Juniata,10-23-1,325
-283,Simmons,12-20-0,640
-284,East. Mennonite,10-22-1,203
-285,Elmira,6-15-1,213
-286,Oswego St.,8-14-0,530
-287,Grinnell,8-20-0,264
-288,Ohio Wesleyan,8-22-0,520
-289,Wis. Lutheran,9-18-0,8911
-291,Buena Vista,5-20-0,84
-292,Ozarks (AR),10-23-0,23008
-293,Carlow,11-21-0,30253
-294,Salem St.,15-13-0,621
-295,Lycoming,10-12-1,373
-296,Clark (MA),12-14-0,145
-297,St. Joseph's (L.I.),11-10-0,1340
+268,Simmons,13-19-0,640
+269,William Peace,17-16-0,17094
+270,Saint Vincent,15-15-0,30064
+271,St. Scholastica,10-20-0,618
+272,Keene St.,14-12-0,330
+273,Juniata,11-23-1,325
+274,Saint Joseph (CT),16-11-0,8687
+275,New Jersey City,12-16-0,319
+276,Lycoming,11-13-1,373
+277,Brandeis,7-22-1,73
+278,Lakeland,16-12-0,1164
+279,Anderson (IN),8-16-0,939
+280,Oswego St.,9-15-0,530
+281,Bridgewater St.,10-15-0,76
+282,Russell Sage,10-18-0,11036
+283,Cornell College,10-16-0,166
+284,Buena Vista,7-20-0,84
+285,Ozarks (AR),10-23-0,23008
+287,East. Mennonite,10-22-1,203
+288,St. Joseph's (L.I.),12-10-0,1340
+289,Clark (MA),13-14-0,145
+290,Smith,6-21-0,644
+291,Ohio Wesleyan,8-22-0,520
+292,Carlow,11-21-0,30253
+293,St. Joseph's (ME),12-19-0,605
+294,Salem St.,15-15-0,621
+295,Elmira,7-16-1,213
+296,Minn.-Morris,11-19-0,1226
+297,U New England,9-21-0,1255
 298,Marymount (VA),13-21-0,394
-299,Skidmore,8-20-0,642
-300,Minn.-Morris,11-19-0,1226
-301,Emmanuel (MA),11-18-0,215
-302,SUNY Brockport,10-19-0,78
-303,St. Joseph's (Brkln),17-8-0,30072
-304,Saint Elizabeth,17-16-0,9684
-305,Howard Payne,2-21-0,2741
-306,Rockford,15-14-0,582
-307,Sweet Briar,16-20-0,687
+299,Emmanuel (MA),11-18-0,215
+300,Skidmore,8-20-0,642
+301,Elizabethtown,9-21-0,211
+302,Pitt.-Greensburg,12-16-0,11839
+303,Wis. Lutheran,9-20-0,8911
+304,Mount Aloysius,12-11-0,30036
+305,SUNY Brockport,10-18-0,78
+306,St. Joseph's (Brkln),17-8-0,30072
+307,Saint Elizabeth,17-16-0,9684
 308,Edgewood,10-22-0,1066
-309,Mount Aloysius,12-11-0,30036
-310,Pitt.-Greensburg,11-15-0,11839
-311,U New England,7-20-0,1255
-312,Elizabethtown,8-20-0,211
-313,Lawrence,14-16-0,348
-314,Salve Regina,7-17-0,623
+309,Howard Payne,2-21-0,2741
+310,Rockford,15-14-0,582
+311,Sweet Briar,16-20-0,687
+312,Lawrence,14-16-0,348
+313,Augsburg,13-19-0,38
+314,Salve Regina,7-18-0,623
 315,Wheaton (IL),14-18-0,778
-316,St. Mary's (IN),8-14-0,8688
 317,Cedar Crest,16-15-0,14795
 318,Gordon,7-22-0,1099
-320,Augsburg,13-19-0,38
-321,Hendrix,9-11-0,1124
-322,New England Col.,12-18-0,467
-323,Schreiner,9-23-0,1355
-324,Austin,3-31-0,953
-325,Ripon,9-18-0,577
-326,Immaculata,13-16-0,303
-327,Mt. St. Mary (NY),5-15-0,1468
-328,Bluffton,12-18-0,987
-329,Puget Sound,5-20-0,557
-330,Thomas (ME),9-16-0,2758
-331,Randolph,5-28-0,566
-332,Covenant,13-23-0,30111
-333,Mitchell,12-17-1,30042
-334,Chatham,10-22-0,10972
-335,Mass. Maritime,11-13-0,399
-336,Old Westbury,12-14-0,524
-337,Union (NY),5-18-0,727
+319,Grinnell,8-22-0,264
+320,Bluffton,12-18-0,987
+321,Ripon,9-18-0,577
+322,Mt. St. Mary (NY),5-15-0,1468
+323,Puget Sound,5-20-0,557
+324,Schreiner,9-23-0,1355
+325,Immaculata,13-16-0,303
+326,St. Mary's (IN),8-14-0,8688
+327,Austin,3-31-0,953
+328,Covenant,13-23-0,30111
+329,Thomas (ME),9-16-0,2758
+330,Randolph,5-28-0,566
+331,Chatham,10-22-0,10972
+332,Old Westbury,12-14-0,524
+333,Union (NY),5-17-0,727
+334,Mass. Maritime,12-14-0,399
+335,Hendrix,9-12-0,1124
+336,New England Col.,11-19-0,467
+337,Agnes Scott,6-24-0,11324
 338,Rutgers-Camden,4-27-0,588
 339,Plattsburgh St.,5-18-0,547
-340,Agnes Scott,6-24-0,11324
-341,Westminster (MO),5-19-0,1450
-342,Lancaster Bible,11-18-0,30085
-343,SUNY Potsdam,7-18-0,552
-344,Purchase,9-11-0,30029
-345,La Roche,7-19-0,1163
-346,Fontbonne,6-11-0,11538
-347,Marywood,14-14-0,397
-348,Penn St.-Abington,13-20-0,30114
-349,Neumann,7-29-0,1254
-350,Dallas,7-31-0,1044
-351,Regis (MA),7-18-0,569
+340,Mitchell,12-18-1,30042
+341,Purchase,9-11-0,30029
+342,Fontbonne,6-11-0,11538
+343,Westminster (MO),5-19-0,1450
+344,Lancaster Bible,11-18-0,30085
+345,SUNY Potsdam,7-18-0,552
+346,Marywood,14-14-0,397
+347,La Roche,7-19-0,1163
+348,Neumann,7-29-0,1254
+349,Penn St.-Abington,13-20-0,30114
+350,Regis (MA),7-18-0,569
+351,Dallas,7-31-0,1044
 352,Webster,6-15-0,759
 353,Crown (MN),13-18-0,30035
 354,Pitt.-Bradford,8-19-0,1315
 355,Alfred St.,6-16-0,30170
-356,Centre,4-24-0,132
-357,Rosemont,8-23-0,15882
-358,Albright,3-24-0,16
-359,Gwynedd Mercy,7-21-0,12399
-360,Lasell,7-20-0,8486
-361,Hilbert,9-13-0,8398
-362,Notre Dame (MD),8-11-0,8600
-363,Sewanee,9-20-0,652
-364,Anna Maria,7-13-0,26
-365,Hunter,10-21-0,292
-366,Albany St. (GA),2-0-0,13
-366,Shorter,2-0-0,30151
-368,Houghton,6-19-0,30160
-369,Me.-Farmington,9-12-0,379
-370,Keuka,4-21-0,1159
-371,Brevard,7-15-0,30094
-372,Lyon,7-15-0,22989
-373,Blackburn,14-13-0,64
-374,Brooklyn,12-17-0,79
-375,Hartwick,6-23-0,273
+356,Rosemont,8-23-0,15882
+357,Albright,3-24-0,16
+358,Centre,4-24-0,132
+359,Lyon,9-15-0,22989
+360,Hunter,10-20-0,292
+361,Gwynedd Mercy,7-21-0,12399
+362,Hilbert,9-13-0,8398
+363,Lasell,7-20-0,8486
+364,Me.-Farmington,9-11-0,379
+365,Sewanee,9-20-0,652
+366,Notre Dame (MD),8-11-0,8600
+367,Houghton,6-20-0,30160
+368,Brevard,7-17-0,30094
+369,Keuka,4-23-0,1159
+370,Anna Maria,7-13-0,26
+371,Albany St. (GA),2-0-0,13
+371,Shorter,2-0-0,30151
+373,Blackburn,14-15-0,64
+374,Hartwick,6-22-0,273
+375,Brooklyn,12-17-0,79
 376,North Central (MN),3-28-0,30039
-377,Baruch,11-15-0,58
-378,Salem (NC),5-19-0,30041
-379,Monmouth (IL),4-27-0,438
-380,Lane,0-2-0,347
-381,SUNY Morrisville,7-11-0,30067
-382,Wesleyan (GA),1-23-0,14718
-383,Oberlin,2-27-0,515
-384,Fitchburg St.,4-20-0,227
+377,Salem (NC),5-19-0,30041
+378,Baruch,10-15-0,58
+379,Monmouth (IL),4-26-0,438
+380,SUNY Morrisville,7-12-0,30067
+381,Mount Mary,3-16-0,30033
+382,Lane,0-2-0,347
+383,Wesleyan (GA),1-25-0,14718
+384,Fitchburg St.,4-22-0,227
 385,Franciscan,3-19-0,30069
-386,Mount Mary,3-16-0,30033
-387,Centenary (NJ),5-20-0,12884
-388,SUNY Delhi,6-12-0,30225
-389,Beloit,7-27-0,53
-390,Valley Forge,2-25-0,30166
-391,Martin Luther,1-24-0,8597
-392,Shaw,0-2-0,636
-393,Olivet,0-14-0,525
-394,Lehman,7-15-0,279
-395,Keystone,3-17-0,30047
+386,Oberlin,2-25-0,515
+387,SUNY Delhi,7-13-0,30225
+388,Centenary (NJ),5-20-0,12884
+389,Martin Luther,1-24-0,8597
+390,Beloit,7-27-0,53
+391,Valley Forge,2-25-0,30166
+392,Keystone,3-18-0,30047
+393,Lehman,8-16-0,279
+394,Shaw,0-2-0,636
+395,Olivet,0-14-0,525
 396,Dean,5-13-0,30219
-397,Norwich,3-11-0,511
-398,Lesley,5-13-0,24317
-399,Gallaudet,3-27-0,245
+397,Lesley,5-13-0,24317
+398,Gallaudet,3-27-0,245
+399,Norwich,3-11-0,511
 400,VTSU Lyndon,4-13-0,30065
 401,Alverno,1-24-0,28746
-402,SUNY Canton,0-18-0,30165
-403,Me.-Presque Isle,2-16-0,30040
-404,Knox,0-25-0,337
-405,Cairn,0-17-0,1305
-406,Elms,2-27-0,532
-407,Principia,0-10-0,555
+402,Principia,0-12-0,555
+403,SUNY Canton,0-18-0,30165
+404,Me.-Presque Isle,2-16-0,30040
+405,Knox,0-25-0,337
+406,Cairn,0-17-0,1305
+407,Elms,2-27-0,532
 408,Berea,2-19-0,30171
-409,Eureka,6-18-0,218
-410,York (NY),3-16-0,2730
+409,York (NY),3-18-0,2730
+410,Eureka,6-18-0,218
 411,Sarah Lawrence,3-20-0,30163
 412,VTSU-Johnson,3-8-0,324
 413,Yeshiva,1-19-0,814
