@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Pam London","MAAC","18-22-0",0.45
-"2",2024,"Pam London","NEC","27-29-0",0.482
-"3",2023,"Pam London","NEC","18-29-0",0.383
-"4",2022,"Pam London","NEC","13-42-0",0.236
-"5",2021,"Pam London","NEC","15-23-0",0.395
-"6",2020,"Pam London","NEC","8-8-0",0.5
-"7",2019,"Pam London","NEC","28-27-0",0.509
-"8",2018,"Elizabeth Luckie (31-25)Pam London (31-25)","NEC","31-25-0",0.554
-"9",2017,"Elizabeth Luckie (23-28)Pam London (23-28)","NEC","23-28-0",0.451
-"10",2016,"Elizabeth Luckie (13-34-2)Pam London (13-34-2)","NEC","13-34-2",0.277
-"11",2015,"Elizabeth Luckie (14-30)Pam London (14-30)","NEC","14-30-0",0.318
-"12",2014,"Elizabeth Luckie (12-30)Pam London (12-30)","NEC","12-30-0",0.286
-"13",2013,"Elizabeth Luckie (24-30)Pam London (24-30)","NEC","24-30-0",0.444
-"14",2012,"Elizabeth Luckie (21-32)Pam London (21-32)","NEC","21-32-0",0.396
-"15",2011,"Elizabeth Luckie (29-21)Pam London (29-21)","NEC","29-21-0",0.58
-"16",2010,"Elizabeth Luckie (23-26)Pam London (23-26)","NEC","23-26-0",0.469
-"17",2009,"Elizabeth Luckie (26-28)Pam London (26-28)","NEC","26-28-0",0.481
-"18",2008,"Elizabeth Luckie (23-25)Pam London (23-25)","NEC","23-25-0",0.479
-"19",2007,"Elizabeth Luckie (16-28)Pam London (16-28)","NEC","16-28-0",0.364
-"20",2006,"Elizabeth Luckie","NEC","14-34-0",0.292
-"21",2005,"Elizabeth Luckie","NEC","15-23-0",0.395
-"22",2004,"Elizabeth Luckie","NEC","11-32-1",0.256
-"23",2003,"Elizabeth Luckie","NEC","17-30-0",0.362
-"24",2002,"Elizabeth Luckie","NEC","17-30-0",0.362
-"25",2001,"Elizabeth Luckie","NEC","19-24-0",0.442
-"26",2000,"Elizabeth Luckie","NEC","10-33-0",0.233
-"27",1999,"Elizabeth Luckie","-","15-28-0",0.349
-"28",1998,"Elizabeth Luckie","-","8-27-1",0.229
-"29",1997,"Elizabeth Luckie","-","19-22-1",0.463
-"30",1996,"Elizabeth Luckie","-","21-19-0",0.525
-"31",1995,"Elizabeth Luckie","-","34-10-0",0.773
-"32",1994,"Elizabeth Luckie","-","20-16-0",0.556
-"33",1993,"Elizabeth Luckie","-","24-9-0",0.727
-"34",1992,"Elizabeth Luckie","-","28-12-0",0.7
-"35",1991,"Elizabeth Luckie","-","27-8-0",0.771
-"36",1990,"Elizabeth Luckie","-","38-5-1",0.884
-"37",1989,"Elizabeth Luckie","-","25-14-0",0.641
+"1","2025","Pam London","MAAC","0-0-0","  NaN"
+"2","2024","Pam London","NEC","27-29-0","0.482"
+"3","2023","Pam London","NEC","18-29-0","0.383"
+"4","2022","Pam London","NEC","13-42-0","0.236"
+"5","2021","Pam London","NEC","15-23-0","0.395"
+"6","2020","Pam London","NEC","8-8-0","0.500"
+"7","2019","Pam London","NEC","28-27-0","0.509"
+"8","2018","Elizabeth Luckie (31-25)Pam London (31-25)","NEC","31-25-0","0.554"
+"9","2017","Elizabeth Luckie (23-28)Pam London (23-28)","NEC","23-28-0","0.451"
+"10","2016","Elizabeth Luckie (13-34-2)Pam London (13-34-2)","NEC","13-34-2","0.277"
+"11","2015","Elizabeth Luckie (14-30)Pam London (14-30)","NEC","14-30-0","0.318"
+"12","2014","Elizabeth Luckie (12-30)Pam London (12-30)","NEC","12-30-0","0.286"
+"13","2013","Elizabeth Luckie (24-30)Pam London (24-30)","NEC","24-30-0","0.444"
+"14","2012","Elizabeth Luckie (21-32)Pam London (21-32)","NEC","21-32-0","0.396"
+"15","2011","Elizabeth Luckie (29-21)Pam London (29-21)","NEC","29-21-0","0.580"
+"16","2010","Elizabeth Luckie (23-26)Pam London (23-26)","NEC","23-26-0","0.469"
+"17","2009","Elizabeth Luckie (26-28)Pam London (26-28)","NEC","26-28-0","0.481"
+"18","2008","Elizabeth Luckie (23-25)Pam London (23-25)","NEC","23-25-0","0.479"
+"19","2007","Elizabeth Luckie (16-28)Pam London (16-28)","NEC","16-28-0","0.364"
+"20","2006","Elizabeth Luckie","NEC","14-34-0","0.292"
+"21","2005","Elizabeth Luckie","NEC","15-23-0","0.395"
+"22","2004","Elizabeth Luckie","NEC","11-32-1","0.256"
+"23","2003","Elizabeth Luckie","NEC","17-30-0","0.362"
+"24","2002","Elizabeth Luckie","NEC","17-30-0","0.362"
+"25","2001","Elizabeth Luckie","NEC","19-24-0","0.442"
+"26","2000","Elizabeth Luckie","NEC","10-33-0","0.233"
+"27","1999","Elizabeth Luckie","-","15-28-0","0.349"
+"28","1998","Elizabeth Luckie","-","8-27-1","0.229"
+"29","1997","Elizabeth Luckie","-","19-22-1","0.463"
+"30","1996","Elizabeth Luckie","-","21-19-0","0.525"
+"31","1995","Elizabeth Luckie","-","34-10-0","0.773"
+"32","1994","Elizabeth Luckie","-","20-16-0","0.556"
+"33","1993","Elizabeth Luckie","-","24-9-0","0.727"
+"34","1992","Elizabeth Luckie","-","28-12-0","0.700"
+"35","1991","Elizabeth Luckie","-","27-8-0","0.771"
+"36","1990","Elizabeth Luckie","-","38-5-1","0.884"
+"37","1989","Elizabeth Luckie","-","25-14-0","0.641"

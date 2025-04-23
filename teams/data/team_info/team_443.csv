@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Josh Baltz","Landmark","26-4-0",0.867
-"2",2024,"Josh Baltz","Landmark","31-10-0",0.756
-"3",2023,"Josh Baltz","Landmark","38-12-0",0.76
-"4",2022,"John Byrne","Landmark","29-5-0",0.853
-"5",2021,"John Byrne","Landmark","31-3-0",0.912
-"6",2020,"John Byrne","Landmark","9-1-0",0.9
-"7",2019,"John Byrne","Landmark","32-7-0",0.821
-"8",2018,"John Byrne","Landmark","36-8-0",0.818
-"9",2017,"John Byrne","Landmark","36-6-0",0.857
-"10",2016,"John Byrne","Landmark","37-6-0",0.86
-"11",2015,"John Byrne","Landmark","38-8-0",0.826
-"12",2014,"John Byrne","Landmark","29-8-0",0.784
-"13",2013,"John Byrne","Landmark","30-12-0",0.714
-"14",2012,"John Byrne","Landmark","35-11-0",0.761
-"15",2011,"John Byrne","Landmark","37-9-0",0.804
-"16",2010,"John Byrne","Landmark","34-15-0",0.694
-"17",2009,"John Byrne","Landmark","35-11-0",0.761
-"18",2008,"John Byrne","Landmark","33-6-0",0.846
-"19",2007,"John Byrne","MAC Commonwealth","35-7-0",0.833
-"20",2006,"John Byrne","MAC Commonwealth","37-10-0",0.787
-"21",2005,"John Byrne","MAC Commonwealth","37-8-0",0.822
-"22",2004,"John Byrne","MAC Commonwealth","40-6-0",0.87
-"23",2003,"John Byrne","MAC Commonwealth","32-10-0",0.762
-"24",2002,"John Byrne","MAC Commonwealth","34-8-0",0.81
-"25",2001,"John Byrne","-","33-12-0",0.733
-"26",2000,"John Byrne","-","26-12-0",0.684
-"27",1999,"John Byrne","-","28-16-0",0.636
-"28",1998,"John Byrne","-","27-14-0",0.659
-"29",1997,"John Byrne","-","31-10-0",0.756
-"30",1996,"John Byrne","-","28-11-0",0.718
-"31",1995,"John Byrne","-","31-10-0",0.756
-"32",1994,"John Byrne","-","23-8-0",0.742
-"33",1993,"Mary Beth Spirk","-","15-6-0",0.714
-"34",1992,"Mary Beth Spirk","-","18-19-0",0.486
-"35",1991,"Mary Beth Spirk","-","23-10-0",0.697
-"36",1990,"Mary Beth Spirk","-","21-9-0",0.7
-"37",1989,"Mary Beth Spirk","-","13-7-1",0.65
-"38",1988,"Mary Beth Spirk","-","14-6-0",0.7
+"1","2025","Josh Baltz","Landmark","0-0-0","  NaN"
+"2","2024","Josh Baltz","Landmark","31-10-0","0.756"
+"3","2023","Josh Baltz","Landmark","38-12-0","0.760"
+"4","2022","John Byrne","Landmark","29-5-0","0.853"
+"5","2021","John Byrne","Landmark","31-3-0","0.912"
+"6","2020","John Byrne","Landmark","9-1-0","0.900"
+"7","2019","John Byrne","Landmark","32-7-0","0.821"
+"8","2018","John Byrne","Landmark","36-8-0","0.818"
+"9","2017","John Byrne","Landmark","36-6-0","0.857"
+"10","2016","John Byrne","Landmark","37-6-0","0.860"
+"11","2015","John Byrne","Landmark","38-8-0","0.826"
+"12","2014","John Byrne","Landmark","29-8-0","0.784"
+"13","2013","John Byrne","Landmark","30-12-0","0.714"
+"14","2012","John Byrne","Landmark","35-11-0","0.761"
+"15","2011","John Byrne","Landmark","37-9-0","0.804"
+"16","2010","John Byrne","Landmark","34-15-0","0.694"
+"17","2009","John Byrne","Landmark","35-11-0","0.761"
+"18","2008","John Byrne","Landmark","33-6-0","0.846"
+"19","2007","John Byrne","MAC Commonwealth","35-7-0","0.833"
+"20","2006","John Byrne","MAC Commonwealth","37-10-0","0.787"
+"21","2005","John Byrne","MAC Commonwealth","37-8-0","0.822"
+"22","2004","John Byrne","MAC Commonwealth","40-6-0","0.870"
+"23","2003","John Byrne","MAC Commonwealth","32-10-0","0.762"
+"24","2002","John Byrne","MAC Commonwealth","34-8-0","0.810"
+"25","2001","John Byrne","-","33-12-0","0.733"
+"26","2000","John Byrne","-","26-12-0","0.684"
+"27","1999","John Byrne","-","28-16-0","0.636"
+"28","1998","John Byrne","-","27-14-0","0.659"
+"29","1997","John Byrne","-","31-10-0","0.756"
+"30","1996","John Byrne","-","28-11-0","0.718"
+"31","1995","John Byrne","-","31-10-0","0.756"
+"32","1994","John Byrne","-","23-8-0","0.742"
+"33","1993","Mary Beth Spirk","-","15-6-0","0.714"
+"34","1992","Mary Beth Spirk","-","18-19-0","0.486"
+"35","1991","Mary Beth Spirk","-","23-10-0","0.697"
+"36","1990","Mary Beth Spirk","-","21-9-0","0.700"
+"37","1989","Mary Beth Spirk","-","13-7-1","0.650"
+"38","1988","Mary Beth Spirk","-","14-6-0","0.700"
