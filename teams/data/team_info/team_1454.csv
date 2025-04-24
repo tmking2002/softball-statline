@@ -1,27 +1,27 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Bob Castle","NWC","0-0-0","  NaN"
-"2","2024","Bob Castle","NWC","15-25-0","0.375"
-"3","2023","Bob Castle","NWC","23-19-0","0.548"
-"4","2022","Bob Castle","NWC","25-17-0","0.595"
-"5","2021","Bob Castle","NWC","15-23-0","0.395"
-"6","2020","Bob Castle","NWC","4-9-0","0.308"
-"7","2019","Cristal Brown","NWC","31-11-0","0.738"
-"8","2018","Cristal Brown","NWC","24-18-0","0.571"
-"9","2017","Cristal Brown","NWC","37-11-0","0.771"
-"10","2016","Cristal Brown","NWC","29-15-0","0.659"
-"11","2015","Cristal Brown","NWC","31-12-0","0.721"
-"12","2014","Cristal Brown","NWC","27-16-0","0.628"
-"13","2013","Cristal Brown","NWC","23-20-0","0.535"
-"14","2012","Cristal Brown","NWC","19-21-0","0.475"
-"15","2011","Joe Abraham","NWC","20-19-0","0.513"
-"16","2010","Joe Abraham","NWC","18-18-0","0.500"
-"17","2009","Joe Abraham","NWC","15-21-0","0.417"
-"18","2008","Clarence ""Fuzzy"" Buckenberger","NWC","16-21-0","0.432"
-"19","2007","Clarence ""Fuzzy"" Buckenberger","NWC","30-6-0","0.833"
-"20","2006","Clarence ""Fuzzy"" Buckenberger","NWC","26-14-0","0.650"
-"21","2005","Teresa Hansen-Lahar","NWC","23-14-0","0.622"
-"22","2004","Teresa Hansen-Lahar","NWC","29-8-0","0.784"
-"23","2002","Teresa Hansen-Lahar","NWC","5-29-0","0.147"
-"24","2001","Teresa Hansen-Lahar","-","7-28-0","0.200"
-"25","2000","Teresa Hansen-Lahar","-","6-27-0","0.182"
-"26","1999","Gary Blake","-","9-26-0","0.257"
+"1",2025,"Bob Castle","NWC","5-23-0",0.179
+"2",2024,"Bob Castle","NWC","15-25-0",0.375
+"3",2023,"Bob Castle","NWC","23-19-0",0.548
+"4",2022,"Bob Castle","NWC","25-17-0",0.595
+"5",2021,"Bob Castle","NWC","15-23-0",0.395
+"6",2020,"Bob Castle","NWC","4-9-0",0.308
+"7",2019,"Cristal Brown","NWC","31-11-0",0.738
+"8",2018,"Cristal Brown","NWC","24-18-0",0.571
+"9",2017,"Cristal Brown","NWC","37-11-0",0.771
+"10",2016,"Cristal Brown","NWC","29-15-0",0.659
+"11",2015,"Cristal Brown","NWC","31-12-0",0.721
+"12",2014,"Cristal Brown","NWC","27-16-0",0.628
+"13",2013,"Cristal Brown","NWC","23-20-0",0.535
+"14",2012,"Cristal Brown","NWC","19-21-0",0.475
+"15",2011,"Joe Abraham","NWC","20-19-0",0.513
+"16",2010,"Joe Abraham","NWC","18-18-0",0.5
+"17",2009,"Joe Abraham","NWC","15-21-0",0.417
+"18",2008,"Clarence ""Fuzzy"" Buckenberger","NWC","16-21-0",0.432
+"19",2007,"Clarence ""Fuzzy"" Buckenberger","NWC","30-6-0",0.833
+"20",2006,"Clarence ""Fuzzy"" Buckenberger","NWC","26-14-0",0.65
+"21",2005,"Teresa Hansen-Lahar","NWC","23-14-0",0.622
+"22",2004,"Teresa Hansen-Lahar","NWC","29-8-0",0.784
+"23",2002,"Teresa Hansen-Lahar","NWC","5-29-0",0.147
+"24",2001,"Teresa Hansen-Lahar","-","7-28-0",0.2
+"25",2000,"Teresa Hansen-Lahar","-","6-27-0",0.182
+"26",1999,"Gary Blake","-","9-26-0",0.257

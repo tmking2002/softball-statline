@@ -1,15 +1,15 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Ryan Heslin-Cunningham","Skyline","0-0-0","  NaN"
-"2","2024","Kaleigh Roop","Skyline","2-24-0","0.077"
-"3","2023","Kaleigh Roop","Skyline","2-20-0","0.091"
-"4","2022","Lauren Farina","Skyline","2-19-0","0.095"
-"5","2021","","Skyline","0-0-0","  NaN"
-"6","2019","Kevin Carbon","Skyline","17-17-0","0.500"
-"7","2018","Chelsea Sheehan","Skyline","16-16-0","0.500"
-"8","2017","Chelsea Sheehan","Skyline","10-21-1","0.323"
-"9","2016","Chelsea Sheehan","Skyline","9-22-0","0.290"
-"10","2015","Chelsea Sheehan","-","6-26-0","0.188"
-"11","2014","Chelsea Sheehan","-","2-16-0","0.111"
-"12","2013","Adriana Durso","-","2-26-0","0.071"
-"13","2012","Adriana Durso","-","1-18-0","0.053"
-"14","","","","69-225-1","0.235"
+"1",2025,"Ryan Heslin-Cunningham","Skyline","3-20-0",0.13
+"2",2024,"Kaleigh Roop","Skyline","2-24-0",0.077
+"3",2023,"Kaleigh Roop","Skyline","2-20-0",0.091
+"4",2022,"Lauren Farina","Skyline","2-19-0",0.095
+"5",2021,"","Skyline","0-0-0",NA
+"6",2019,"Kevin Carbon","Skyline","17-17-0",0.5
+"7",2018,"Chelsea Sheehan","Skyline","16-16-0",0.5
+"8",2017,"Chelsea Sheehan","Skyline","10-21-1",0.323
+"9",2016,"Chelsea Sheehan","Skyline","9-22-0",0.29
+"10",2015,"Chelsea Sheehan","-","6-26-0",0.188
+"11",2014,"Chelsea Sheehan","-","2-16-0",0.111
+"12",2013,"Adriana Durso","-","2-26-0",0.071
+"13",2012,"Adriana Durso","-","1-18-0",0.053
+"14",NA,"","","69-225-1",0.235

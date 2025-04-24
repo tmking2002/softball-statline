@@ -1,40 +1,40 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Aubrey Honeycutt","GLVC","1-6-0","0.143"
-"2","2024","Aubrey Honeycutt","GLVC","17-34-0","0.333"
-"3","2023","Laura North","NSIC","17-26-0","0.395"
-"4","2022","Kiki Stokes O'Connor","NSIC","24-28-0","0.462"
-"5","2021","Ashley Hickman","NSIC","13-30-0","0.302"
-"6","2020","Ashley Hickman","NSIC","6-11-0","0.353"
-"7","2019","Amanda Bradberry","NSIC","23-24-0","0.489"
-"8","2018","Amanda Bradberry","NSIC","20-24-0","0.455"
-"9","2017","Amanda Bradberry","NSIC","19-33-0","0.365"
-"10","2016","Amanda Bradberry","NSIC","41-18-0","0.695"
-"11","2015","Amanda Bradberry","NSIC","23-30-0","0.434"
-"12","2014","Amanda Bradberry","NSIC","21-28-0","0.429"
-"13","2013","Annie Van Wetzinga","NSIC","28-16-0","0.636"
-"14","2012","Annie Van Wetzinga","NSIC","18-35-0","0.340"
-"15","2011","Annie Van Wetzinga","NSIC","6-41-0","0.128"
-"16","2010","Christina Missildine","NSIC","15-21-0","0.417"
-"17","2009","Christina Missildine","NSIC","22-24-0","0.478"
-"18","2008","Christina Missildine","NSIC","12-31-0","0.279"
-"19","2007","Christina Missildine (13-23)Brent Kuker (6-9)","NSIC","19-32-0","0.373"
-"20","2006","Brent Kuker","-","14-31-0","0.311"
-"21","2005","Brent Kuker","-","16-27-0","0.372"
-"22","2004","Brent Kuker","-","28-18-0","0.609"
-"23","2003","Brent Kuker","American Rivers","21-17-0","0.553"
-"24","2002","Brent Kuker","American Rivers","11-21-1","0.344"
-"25","2001","Kris Hoff","-","10-33-0","0.233"
-"26","2000","Kris Hoff","-","11-23-0","0.324"
-"27","1999","Karla Gavin","-","12-20-0","0.375"
-"28","1998","Karla Gavin","-","9-24-0","0.273"
-"29","1997","Karla Gavin","-","7-21-0","0.250"
-"30","1996","Karla Gavin","-","8-28-0","0.222"
-"31","1995","Karla Gavin","-","6-25-0","0.194"
-"32","1994","Karla Gavin","-","6-24-0","0.200"
-"33","1993","Karla Gavin","-","5-19-0","0.208"
-"34","1992","Kris Fischer","-","11-15-0","0.423"
-"35","1991","Kris Fischer","-","10-22-0","0.312"
-"36","1990","Deb McCarty","-","6-24-0","0.200"
-"37","1989","Deb McCarty","-","9-23-0","0.281"
-"38","1988","Deb McCarty","-","1-23-0","0.042"
-"39","1987","Deb McCarty","-","2-16-0","0.111"
+"1",2025,"Aubrey Honeycutt","GLVC","12-26-0",0.316
+"2",2024,"Aubrey Honeycutt","GLVC","17-34-0",0.333
+"3",2023,"Laura North","NSIC","17-26-0",0.395
+"4",2022,"Kiki Stokes O'Connor","NSIC","24-28-0",0.462
+"5",2021,"Ashley Hickman","NSIC","13-30-0",0.302
+"6",2020,"Ashley Hickman","NSIC","6-11-0",0.353
+"7",2019,"Amanda Bradberry","NSIC","23-24-0",0.489
+"8",2018,"Amanda Bradberry","NSIC","20-24-0",0.455
+"9",2017,"Amanda Bradberry","NSIC","19-33-0",0.365
+"10",2016,"Amanda Bradberry","NSIC","41-18-0",0.695
+"11",2015,"Amanda Bradberry","NSIC","23-30-0",0.434
+"12",2014,"Amanda Bradberry","NSIC","21-28-0",0.429
+"13",2013,"Annie Van Wetzinga","NSIC","28-16-0",0.636
+"14",2012,"Annie Van Wetzinga","NSIC","18-35-0",0.34
+"15",2011,"Annie Van Wetzinga","NSIC","6-41-0",0.128
+"16",2010,"Christina Missildine","NSIC","15-21-0",0.417
+"17",2009,"Christina Missildine","NSIC","22-24-0",0.478
+"18",2008,"Christina Missildine","NSIC","12-31-0",0.279
+"19",2007,"Christina Missildine (13-23)Brent Kuker (6-9)","NSIC","19-32-0",0.373
+"20",2006,"Brent Kuker","-","14-31-0",0.311
+"21",2005,"Brent Kuker","-","16-27-0",0.372
+"22",2004,"Brent Kuker","-","28-18-0",0.609
+"23",2003,"Brent Kuker","American Rivers","21-17-0",0.553
+"24",2002,"Brent Kuker","American Rivers","11-21-1",0.344
+"25",2001,"Kris Hoff","-","10-33-0",0.233
+"26",2000,"Kris Hoff","-","11-23-0",0.324
+"27",1999,"Karla Gavin","-","12-20-0",0.375
+"28",1998,"Karla Gavin","-","9-24-0",0.273
+"29",1997,"Karla Gavin","-","7-21-0",0.25
+"30",1996,"Karla Gavin","-","8-28-0",0.222
+"31",1995,"Karla Gavin","-","6-25-0",0.194
+"32",1994,"Karla Gavin","-","6-24-0",0.2
+"33",1993,"Karla Gavin","-","5-19-0",0.208
+"34",1992,"Kris Fischer","-","11-15-0",0.423
+"35",1991,"Kris Fischer","-","10-22-0",0.312
+"36",1990,"Deb McCarty","-","6-24-0",0.2
+"37",1989,"Deb McCarty","-","9-23-0",0.281
+"38",1988,"Deb McCarty","-","1-23-0",0.042
+"39",1987,"Deb McCarty","-","2-16-0",0.111
