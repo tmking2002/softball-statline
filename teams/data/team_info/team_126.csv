@@ -1,53 +1,53 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"George Wares","American Rivers","21-6-0",0.778
-"2",2024,"George Wares","American Rivers","33-13-0",0.717
-"3",2023,"George Wares","American Rivers","33-11-0",0.75
-"4",2022,"George Wares","American Rivers","21-17-0",0.553
-"5",2021,"George Wares","American Rivers","20-14-0",0.588
-"6",2020,"George Wares","American Rivers","6-1-0",0.857
-"7",2019,"George Wares","American Rivers","27-10-0",0.73
-"8",2018,"George Wares","American Rivers","29-12-0",0.707
-"9",2017,"George Wares","American Rivers","32-10-0",0.762
-"10",2016,"George Wares","American Rivers","23-15-0",0.605
-"11",2015,"George Wares","American Rivers","34-12-0",0.739
-"12",2014,"George Wares","American Rivers","30-12-0",0.714
-"13",2013,"George Wares","American Rivers","32-10-0",0.762
-"14",2012,"George Wares","American Rivers","36-10-0",0.783
-"15",2011,"George Wares","American Rivers","39-9-0",0.812
-"16",2010,"George Wares","American Rivers","30-14-0",0.682
-"17",2009,"George Wares","American Rivers","36-8-0",0.818
-"18",2008,"George Wares","American Rivers","24-16-0",0.6
-"19",2007,"George Wares","American Rivers","27-13-0",0.675
-"20",2006,"George Wares","American Rivers","33-13-0",0.717
-"21",2005,"George Wares","American Rivers","28-12-0",0.7
-"22",2004,"George Wares","American Rivers","35-9-0",0.795
-"23",2003,"George Wares","American Rivers","41-5-1",0.891
-"24",2002,"George Wares","American Rivers","36-5-0",0.878
-"25",2001,"George Wares","-","41-10-0",0.804
-"26",2000,"George Wares","-","40-10-0",0.8
-"27",1999,"George Wares","-","34-11-1",0.756
-"28",1998,"George Wares","-","30-15-0",0.667
-"29",1997,"George Wares","-","35-12-0",0.745
-"30",1996,"George Wares","-","29-15-0",0.659
-"31",1995,"George Wares","-","35-13-0",0.729
-"32",1994,"George Wares","-","35-14-0",0.714
-"33",1993,"George Wares","-","38-2-0",0.95
-"34",1992,"George Wares","-","31-11-0",0.738
-"35",1991,"George Wares","-","42-6-0",0.875
-"36",1990,"George Wares","-","32-15-0",0.681
-"37",1989,"George Wares","-","36-11-0",0.766
-"38",1988,"George Wares","-","35-10-0",0.778
-"39",1987,"George Wares","-","33-10-0",0.767
-"40",1986,"George Wares","-","35-20-1",0.636
-"41",1985,"George Wares","-","19-14-0",0.576
-"42",1984,"Gary Boeyink","-","10-15-0",0.4
-"43",1983,"Gary Boeyink","-","10-9-0",0.526
-"44",1982,"Gary Boeyink","-","6-14-0",0.3
-"45",1981,"Gary Boeyink","-","3-23-0",0.115
-"46",1980,"Gary Boeyink","-","3-19-0",0.136
-"47",1979,"Gary Boeyink","-","5-6-0",0.455
-"48",1978,"Gary Boeyink","-","7-15-0",0.318
-"49",1977,"Gary Boeyink","-","11-12-0",0.478
-"50",1976,"Jim Van Hoeven","-","4-16-0",0.2
-"51",1975,"Gary Boeyink","-","3-11-0",0.214
-"52",1974,"Gary Boeyink","-","4-9-0",0.308
+"1","2025","George Wares","American Rivers","0-0-0","  NaN"
+"2","2024","George Wares","American Rivers","33-13-0","0.717"
+"3","2023","George Wares","American Rivers","33-11-0","0.750"
+"4","2022","George Wares","American Rivers","21-17-0","0.553"
+"5","2021","George Wares","American Rivers","20-14-0","0.588"
+"6","2020","George Wares","American Rivers","6-1-0","0.857"
+"7","2019","George Wares","American Rivers","27-10-0","0.730"
+"8","2018","George Wares","American Rivers","29-12-0","0.707"
+"9","2017","George Wares","American Rivers","32-10-0","0.762"
+"10","2016","George Wares","American Rivers","23-15-0","0.605"
+"11","2015","George Wares","American Rivers","34-12-0","0.739"
+"12","2014","George Wares","American Rivers","30-12-0","0.714"
+"13","2013","George Wares","American Rivers","32-10-0","0.762"
+"14","2012","George Wares","American Rivers","36-10-0","0.783"
+"15","2011","George Wares","American Rivers","39-9-0","0.812"
+"16","2010","George Wares","American Rivers","30-14-0","0.682"
+"17","2009","George Wares","American Rivers","36-8-0","0.818"
+"18","2008","George Wares","American Rivers","24-16-0","0.600"
+"19","2007","George Wares","American Rivers","27-13-0","0.675"
+"20","2006","George Wares","American Rivers","33-13-0","0.717"
+"21","2005","George Wares","American Rivers","28-12-0","0.700"
+"22","2004","George Wares","American Rivers","35-9-0","0.795"
+"23","2003","George Wares","American Rivers","41-5-1","0.891"
+"24","2002","George Wares","American Rivers","36-5-0","0.878"
+"25","2001","George Wares","-","41-10-0","0.804"
+"26","2000","George Wares","-","40-10-0","0.800"
+"27","1999","George Wares","-","34-11-1","0.756"
+"28","1998","George Wares","-","30-15-0","0.667"
+"29","1997","George Wares","-","35-12-0","0.745"
+"30","1996","George Wares","-","29-15-0","0.659"
+"31","1995","George Wares","-","35-13-0","0.729"
+"32","1994","George Wares","-","35-14-0","0.714"
+"33","1993","George Wares","-","38-2-0","0.950"
+"34","1992","George Wares","-","31-11-0","0.738"
+"35","1991","George Wares","-","42-6-0","0.875"
+"36","1990","George Wares","-","32-15-0","0.681"
+"37","1989","George Wares","-","36-11-0","0.766"
+"38","1988","George Wares","-","35-10-0","0.778"
+"39","1987","George Wares","-","33-10-0","0.767"
+"40","1986","George Wares","-","35-20-1","0.636"
+"41","1985","George Wares","-","19-14-0","0.576"
+"42","1984","Gary Boeyink","-","10-15-0","0.400"
+"43","1983","Gary Boeyink","-","10-9-0","0.526"
+"44","1982","Gary Boeyink","-","6-14-0","0.300"
+"45","1981","Gary Boeyink","-","3-23-0","0.115"
+"46","1980","Gary Boeyink","-","3-19-0","0.136"
+"47","1979","Gary Boeyink","-","5-6-0","0.455"
+"48","1978","Gary Boeyink","-","7-15-0","0.318"
+"49","1977","Gary Boeyink","-","11-12-0","0.478"
+"50","1976","Jim Van Hoeven","-","4-16-0","0.200"
+"51","1975","Gary Boeyink","-","3-11-0","0.214"
+"52","1974","Gary Boeyink","-","4-9-0","0.308"

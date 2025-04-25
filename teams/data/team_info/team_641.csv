@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Brent Matthias","American Rivers","28-4-0",0.875
-"2",2024,"Brent Matthias","American Rivers","27-13-0",0.675
-"3",2023,"Brent Matthias","American Rivers","23-17-0",0.575
-"4",2022,"Brent Matthias","American Rivers","19-18-0",0.514
-"5",2021,"Brent Matthias","American Rivers","16-18-0",0.471
-"6",2020,"Brent Matthias","American Rivers","0-0-0",NA
-"7",2019,"Brent Matthias","American Rivers","21-19-0",0.525
-"8",2018,"Brent Matthias","American Rivers","21-16-0",0.568
-"9",2017,"Brent Matthias","American Rivers","8-28-0",0.222
-"10",2016,"Kyle Owens","American Rivers","31-11-0",0.738
-"11",2015,"Henry Christowski","American Rivers","31-12-0",0.721
-"12",2014,"Henry Christowski","American Rivers","27-15-0",0.643
-"13",2013,"Henry Christowski","American Rivers","29-10-0",0.744
-"14",2012,"Henry Christowski","American Rivers","29-15-0",0.659
-"15",2011,"Henry Christowski","American Rivers","24-18-0",0.571
-"16",2010,"Henry Christowski","American Rivers","33-12-0",0.733
-"17",2009,"Henry Christowski","American Rivers","26-17-0",0.605
-"18",2008,"Henry Christowski","American Rivers","29-12-0",0.707
-"19",2007,"Henry Christowski","American Rivers","28-11-0",0.718
-"20",2006,"Henry Christowski","American Rivers","29-14-0",0.674
-"21",2005,"Henry Christowski","American Rivers","27-11-0",0.711
-"22",2004,"Henry Christowski","American Rivers","33-7-0",0.825
-"23",2003,"Henry Christowski","American Rivers","31-4-1",0.886
-"24",2002,"Henry Christowski","American Rivers","27-11-0",0.711
-"25",2001,"Henry Christowski","-","20-10-0",0.667
-"26",2000,"Henry Christowski","-","42-8-0",0.84
-"27",1999,"Henry Christowski","-","47-4-1",0.922
-"28",1998,"Henry Christowski","-","42-4-0",0.913
-"29",1997,"Henry Christowski","-","39-7-0",0.848
-"30",1996,"Henry Christowski","-","31-10-0",0.756
-"31",1995,"Shelley O'Meara","-","27-15-0",0.643
-"32",1994,"Shelley O'Meara","-","30-13-0",0.698
-"33",1993,"Shelley O'Meara","-","14-11-0",0.56
-"34",1992,"Shelley O'Meara","-","24-8-0",0.75
-"35",1991,"Shelley O'Meara","-","21-13-0",0.618
-"36",1990,"Shelley O'Meara","-","25-11-0",0.694
-"37",1989,"Shelley O'Meara","-","31-10-0",0.756
-"38",1988,"Shelley O'Meara","-","21-19-0",0.525
-"39",1987,"Shelley O'Meara","-","24-20-0",0.545
-"40",1986,"Shelley O'Meara","-","15-14-0",0.517
+"1","2025","Brent Matthias","American Rivers","0-0-0","  NaN"
+"2","2024","Brent Matthias","American Rivers","27-13-0","0.675"
+"3","2023","Brent Matthias","American Rivers","23-17-0","0.575"
+"4","2022","Brent Matthias","American Rivers","19-18-0","0.514"
+"5","2021","Brent Matthias","American Rivers","16-18-0","0.471"
+"6","2020","Brent Matthias","American Rivers","0-0-0","  NaN"
+"7","2019","Brent Matthias","American Rivers","21-19-0","0.525"
+"8","2018","Brent Matthias","American Rivers","21-16-0","0.568"
+"9","2017","Brent Matthias","American Rivers","8-28-0","0.222"
+"10","2016","Kyle Owens","American Rivers","31-11-0","0.738"
+"11","2015","Henry Christowski","American Rivers","31-12-0","0.721"
+"12","2014","Henry Christowski","American Rivers","27-15-0","0.643"
+"13","2013","Henry Christowski","American Rivers","29-10-0","0.744"
+"14","2012","Henry Christowski","American Rivers","29-15-0","0.659"
+"15","2011","Henry Christowski","American Rivers","24-18-0","0.571"
+"16","2010","Henry Christowski","American Rivers","33-12-0","0.733"
+"17","2009","Henry Christowski","American Rivers","26-17-0","0.605"
+"18","2008","Henry Christowski","American Rivers","29-12-0","0.707"
+"19","2007","Henry Christowski","American Rivers","28-11-0","0.718"
+"20","2006","Henry Christowski","American Rivers","29-14-0","0.674"
+"21","2005","Henry Christowski","American Rivers","27-11-0","0.711"
+"22","2004","Henry Christowski","American Rivers","33-7-0","0.825"
+"23","2003","Henry Christowski","American Rivers","31-4-1","0.886"
+"24","2002","Henry Christowski","American Rivers","27-11-0","0.711"
+"25","2001","Henry Christowski","-","20-10-0","0.667"
+"26","2000","Henry Christowski","-","42-8-0","0.840"
+"27","1999","Henry Christowski","-","47-4-1","0.922"
+"28","1998","Henry Christowski","-","42-4-0","0.913"
+"29","1997","Henry Christowski","-","39-7-0","0.848"
+"30","1996","Henry Christowski","-","31-10-0","0.756"
+"31","1995","Shelley O'Meara","-","27-15-0","0.643"
+"32","1994","Shelley O'Meara","-","30-13-0","0.698"
+"33","1993","Shelley O'Meara","-","14-11-0","0.560"
+"34","1992","Shelley O'Meara","-","24-8-0","0.750"
+"35","1991","Shelley O'Meara","-","21-13-0","0.618"
+"36","1990","Shelley O'Meara","-","25-11-0","0.694"
+"37","1989","Shelley O'Meara","-","31-10-0","0.756"
+"38","1988","Shelley O'Meara","-","21-19-0","0.525"
+"39","1987","Shelley O'Meara","-","24-20-0","0.545"
+"40","1986","Shelley O'Meara","-","15-14-0","0.517"

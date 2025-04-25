@@ -1,42 +1,42 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Amy Kvilhaug","ACC","20-23-0",0.465
-"2",2024,"Amy Kvilhaug","ACC","30-24-0",0.556
-"3",2023,"Amy Kvilhaug","ACC","24-28-0",0.462
-"4",2022,"Amy Kvilhaug","ACC","20-27-0",0.426
-"5",2021,"Amy Kvilhaug","ACC","13-32-0",0.289
-"6",2020,"Amy Kvilhaug","ACC","9-12-0",0.429
-"7",2019,"Ashley Obrest","ACC","18-35-0",0.34
-"8",2018,"Ashley Obrest","ACC","30-23-0",0.566
-"9",2017,"Ashley Obrest","ACC","31-22-0",0.585
-"10",2016,"Ashley Obrest","ACC","30-23-0",0.566
-"11",2015,"Ashley Obrest","ACC","27-24-0",0.529
-"12",2014,"Ashley Obrest","ACC","32-23-0",0.582
-"13",2013,"Ashley Obrest","ACC","14-38-0",0.269
-"14",2012,"Ashley Obrest","ACC","23-30-0",0.434
-"15",2011,"Jen Finley","ACC","15-31-0",0.326
-"16",2010,"Jen Finley","ACC","16-33-0",0.327
-"17",2009,"Jen Finley","ACC","18-33-0",0.353
-"18",2008,"Jen Finley","ACC","32-31-0",0.508
-"19",2007,"Jen Finley","ACC","15-31-0",0.326
-"20",2006,"Jen Finley","ACC","22-26-0",0.458
-"21",2005,"Jen Finley","The American","20-25-0",0.444
-"22",2004,"Jen Finley","The American","33-25-0",0.569
-"23",2003,"Jen Finley","The American","35-22-0",0.614
-"24",2002,"Jen Finley","The American","26-26-0",0.5
-"25",2001,"Jen Finley","The American","31-24-0",0.564
-"26",2000,"Jen Finley","The American","20-25-0",0.444
-"27",1999,"Jen Finley","The American","27-20-0",0.574
-"28",1998,"Jen Finley","-","38-14-1",0.731
-"29",1997,"Jen Finley","The American","36-13-0",0.735
-"30",1996,"Jen Finley","-","28-21-0",0.571
-"31",1995,"Nancy McGuire","-","29-23-0",0.558
-"32",1994,"Nancy McGuire","-","26-21-0",0.553
-"33",1993,"Nancy McGuire","-","15-21-0",0.417
-"34",1992,"Nancy McGuire","-","15-19-0",0.441
-"35",1991,"Nancy McGuire","-","25-12-0",0.676
-"36",1990,"Nancy McGuire","-","13-19-1",0.406
-"37",1989,"Nancy McGuire","-","23-12-1",0.657
-"38",1988,"Nancy McGuire","-","25-11-0",0.694
-"39",1987,"Nancy McGuire","-","16-17-0",0.485
-"40",1986,"Nancy McGuire","-","17-16-0",0.515
-"41",1985,"Nancy McGuire","-","19-11-0",0.633
+"1","2025","Amy Kvilhaug","ACC","1-2-0","0.333"
+"2","2024","Amy Kvilhaug","ACC","30-24-0","0.556"
+"3","2023","Amy Kvilhaug","ACC","24-28-0","0.462"
+"4","2022","Amy Kvilhaug","ACC","20-27-0","0.426"
+"5","2021","Amy Kvilhaug","ACC","13-32-0","0.289"
+"6","2020","Amy Kvilhaug","ACC","9-12-0","0.429"
+"7","2019","Ashley Obrest","ACC","18-35-0","0.340"
+"8","2018","Ashley Obrest","ACC","30-23-0","0.566"
+"9","2017","Ashley Obrest","ACC","31-22-0","0.585"
+"10","2016","Ashley Obrest","ACC","30-23-0","0.566"
+"11","2015","Ashley Obrest","ACC","27-24-0","0.529"
+"12","2014","Ashley Obrest","ACC","32-23-0","0.582"
+"13","2013","Ashley Obrest","ACC","14-38-0","0.269"
+"14","2012","Ashley Obrest","ACC","23-30-0","0.434"
+"15","2011","Jen Finley","ACC","15-31-0","0.326"
+"16","2010","Jen Finley","ACC","16-33-0","0.327"
+"17","2009","Jen Finley","ACC","18-33-0","0.353"
+"18","2008","Jen Finley","ACC","32-31-0","0.508"
+"19","2007","Jen Finley","ACC","15-31-0","0.326"
+"20","2006","Jen Finley","ACC","22-26-0","0.458"
+"21","2005","Jen Finley","The American","20-25-0","0.444"
+"22","2004","Jen Finley","The American","33-25-0","0.569"
+"23","2003","Jen Finley","The American","35-22-0","0.614"
+"24","2002","Jen Finley","The American","26-26-0","0.500"
+"25","2001","Jen Finley","The American","31-24-0","0.564"
+"26","2000","Jen Finley","The American","20-25-0","0.444"
+"27","1999","Jen Finley","The American","27-20-0","0.574"
+"28","1998","Jen Finley","-","38-14-1","0.731"
+"29","1997","Jen Finley","The American","36-13-0","0.735"
+"30","1996","Jen Finley","-","28-21-0","0.571"
+"31","1995","Nancy McGuire","-","29-23-0","0.558"
+"32","1994","Nancy McGuire","-","26-21-0","0.553"
+"33","1993","Nancy McGuire","-","15-21-0","0.417"
+"34","1992","Nancy McGuire","-","15-19-0","0.441"
+"35","1991","Nancy McGuire","-","25-12-0","0.676"
+"36","1990","Nancy McGuire","-","13-19-1","0.406"
+"37","1989","Nancy McGuire","-","23-12-1","0.657"
+"38","1988","Nancy McGuire","-","25-11-0","0.694"
+"39","1987","Nancy McGuire","-","16-17-0","0.485"
+"40","1986","Nancy McGuire","-","17-16-0","0.515"
+"41","1985","Nancy McGuire","-","19-11-0","0.633"

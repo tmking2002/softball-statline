@@ -1,38 +1,38 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Carolyn Biel","Great Northeast","9-18-0",0.333
-"2",2024,"Ellie Adams","Great Northeast","12-22-0",0.353
-"3",2023,"Ellie Adams","Great Northeast","12-24-0",0.333
-"4",2022,"Tara Petrocelli-McGloin","Great Northeast","11-25-0",0.306
-"5",2021,"Tara Petrocelli-McGloin","Great Northeast","0-0-0",NA
-"6",2020,"Tara Petrocelli-McGloin","Great Northeast","3-5-0",0.375
-"7",2019,"Tara Petrocelli-McGloin","Great Northeast","4-30-0",0.118
-"8",2018,"Tara Petrocelli-McGloin","Great Northeast","7-25-0",0.219
-"9",2017,"Nikki Panciocco","NECC","16-13-0",0.552
-"10",2016,"Nikki Panciocco","NECC","17-14-0",0.548
-"11",2015,"Nikki Panciocco","NECC","8-18-0",0.308
-"12",2014,"Nikki Panciocco","NECC","11-20-0",0.355
-"13",2013,"Lisa LeVierge","NECC","12-23-0",0.343
-"14",2012,"Lisa LeVierge","NECC","8-24-0",0.25
-"15",2011,"Lisa LeVierge","CNE","4-35-0",0.103
-"16",2010,"Lisa LeVierge","CNE","9-32-0",0.22
-"17",2009,"Robert McKinley","CNE","5-32-0",0.135
-"18",2008,"Robert McKinley","CNE","9-26-0",0.257
-"19",2007,"Robert McKinley","CNE","7-29-0",0.194
-"20",2006,"Heather Gilmour","CNE","13-25-1",0.342
-"21",2005,"Heather Gilmour","CNE","12-22-0",0.353
-"22",2004,"Heather Gilmour","CNE","9-27-0",0.25
-"23",2003,"Heather Gilmour","CNE","10-26-0",0.278
-"24",2002,"Johanna DiCarlo","CNE","3-27-0",0.1
-"25",2001,"Johanna DiCarlo","-","1-22-0",0.043
-"26",2000,"Elaine Schwager","-","14-21-0",0.4
-"27",1999,"Elaine Schwager","-","11-10-0",0.524
-"28",1998,"Joanne Ruane","-","16-6-0",0.727
-"29",1997,"Joanne Ruane","-","18-10-0",0.643
-"30",1996,"Joanne Ruane","-","20-6-0",0.769
-"31",1995,"Joanne Ruane","-","10-13-0",0.435
-"32",1994,"Joanne Ruane","-","11-10-0",0.524
-"33",1993,"Joanne Ruane","-","5-7-0",0.417
-"34",1992,"Joanne Ruane","-","5-12-0",0.294
-"35",1991,"Joanne Ruane","-","11-7-0",0.611
-"36",1990,"Joanne Ruane","-","10-7-0",0.588
-"37",1989,"Joanne Ruane","-","8-9-0",0.471
+"1","2025","Carolyn Biel","Great Northeast","0-0-0","  NaN"
+"2","2024","Ellie Adams","Great Northeast","12-22-0","0.353"
+"3","2023","Ellie Adams","Great Northeast","12-24-0","0.333"
+"4","2022","Tara Petrocelli-McGloin","Great Northeast","11-25-0","0.306"
+"5","2021","Tara Petrocelli-McGloin","Great Northeast","0-0-0","  NaN"
+"6","2020","Tara Petrocelli-McGloin","Great Northeast","3-5-0","0.375"
+"7","2019","Tara Petrocelli-McGloin","Great Northeast","4-30-0","0.118"
+"8","2018","Tara Petrocelli-McGloin","Great Northeast","7-25-0","0.219"
+"9","2017","Nikki Panciocco","NECC","16-13-0","0.552"
+"10","2016","Nikki Panciocco","NECC","17-14-0","0.548"
+"11","2015","Nikki Panciocco","NECC","8-18-0","0.308"
+"12","2014","Nikki Panciocco","NECC","11-20-0","0.355"
+"13","2013","Lisa LeVierge","NECC","12-23-0","0.343"
+"14","2012","Lisa LeVierge","NECC","8-24-0","0.250"
+"15","2011","Lisa LeVierge","CNE","4-35-0","0.103"
+"16","2010","Lisa LeVierge","CNE","9-32-0","0.220"
+"17","2009","Robert McKinley","CNE","5-32-0","0.135"
+"18","2008","Robert McKinley","CNE","9-26-0","0.257"
+"19","2007","Robert McKinley","CNE","7-29-0","0.194"
+"20","2006","Heather Gilmour","CNE","13-25-1","0.342"
+"21","2005","Heather Gilmour","CNE","12-22-0","0.353"
+"22","2004","Heather Gilmour","CNE","9-27-0","0.250"
+"23","2003","Heather Gilmour","CNE","10-26-0","0.278"
+"24","2002","Johanna DiCarlo","CNE","3-27-0","0.100"
+"25","2001","Johanna DiCarlo","-","1-22-0","0.043"
+"26","2000","Elaine Schwager","-","14-21-0","0.400"
+"27","1999","Elaine Schwager","-","11-10-0","0.524"
+"28","1998","Joanne Ruane","-","16-6-0","0.727"
+"29","1997","Joanne Ruane","-","18-10-0","0.643"
+"30","1996","Joanne Ruane","-","20-6-0","0.769"
+"31","1995","Joanne Ruane","-","10-13-0","0.435"
+"32","1994","Joanne Ruane","-","11-10-0","0.524"
+"33","1993","Joanne Ruane","-","5-7-0","0.417"
+"34","1992","Joanne Ruane","-","5-12-0","0.294"
+"35","1991","Joanne Ruane","-","11-7-0","0.611"
+"36","1990","Joanne Ruane","-","10-7-0","0.588"
+"37","1989","Joanne Ruane","-","8-9-0","0.471"

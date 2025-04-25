@@ -1,32 +1,32 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Kristen Duross","American Rivers","20-14-0",0.588
-"2",2024,"Andrea Bombace","American Rivers","10-25-0",0.286
-"3",2023,"Josh Keener","American Rivers","12-28-0",0.3
-"4",2022,"Jeff Lamb","American Rivers","24-9-0",0.727
-"5",2021,"Jeff Lamb","American Rivers","23-19-0",0.548
-"6",2020,"Jeff Lamb","American Rivers","10-4-0",0.714
-"7",2019,"Jeff Lamb","American Rivers","26-13-0",0.667
-"8",2018,"Wendi Wipperfurth","American Rivers","8-30-0",0.211
-"9",2017,"Wendi Wipperfurth","American Rivers","11-28-0",0.282
-"10",2016,"Wendi Wipperfurth","American Rivers","8-28-0",0.222
-"11",2015,"Wendi Wipperfurth","American Rivers","15-27-0",0.357
-"12",2014,"Wendi Wipperfurth","American Rivers","22-15-0",0.595
-"13",2013,"Wendi Wipperfurth","American Rivers","16-18-0",0.471
-"14",2012,"Wendi Wipperfurth","American Rivers","18-22-0",0.45
-"15",2011,"Wendi Wipperfurth","American Rivers","16-21-0",0.432
-"16",2010,"Corey Parr","American Rivers","10-25-0",0.286
-"17",2009,"Corey Parr","American Rivers","12-26-0",0.316
-"18",2008,"Corey Parr","American Rivers","14-20-0",0.412
-"19",2007,"Corey Parr","American Rivers","13-27-0",0.325
-"20",2006,"Elisha Perkins","American Rivers","8-32-0",0.2
-"21",2005,"Todd Huffman","American Rivers","8-26-0",0.235
-"22",2004,"Todd Huffman","American Rivers","12-24-0",0.333
-"23",2003,"Don Till","American Rivers","9-23-0",0.281
-"24",2002,"Don Till","American Rivers","6-32-0",0.158
-"25",2001,"Tina Deardorff","-","6-19-0",0.24
-"26",2000,"David Thielen","-","14-27-0",0.341
-"27",1998,"Jeff Brooks","-","14-17-0",0.452
-"28",1997,"Jeff Brooks","-","17-17-0",0.5
-"29",1996,"Randy Dolson","-","2-26-0",0.071
-"30",1995,"Randy Dolson","-","2-24-0",0.077
-"31",1994,"Vickie Moore","-","3-25-0",0.107
+"1","2025","Kristen Duross","American Rivers","0-0-0","  NaN"
+"2","2024","Andrea Bombace","American Rivers","10-25-0","0.286"
+"3","2023","Josh Keener","American Rivers","12-28-0","0.300"
+"4","2022","Jeff Lamb","American Rivers","24-9-0","0.727"
+"5","2021","Jeff Lamb","American Rivers","23-19-0","0.548"
+"6","2020","Jeff Lamb","American Rivers","10-4-0","0.714"
+"7","2019","Jeff Lamb","American Rivers","26-13-0","0.667"
+"8","2018","Wendi Wipperfurth","American Rivers","8-30-0","0.211"
+"9","2017","Wendi Wipperfurth","American Rivers","11-28-0","0.282"
+"10","2016","Wendi Wipperfurth","American Rivers","8-28-0","0.222"
+"11","2015","Wendi Wipperfurth","American Rivers","15-27-0","0.357"
+"12","2014","Wendi Wipperfurth","American Rivers","22-15-0","0.595"
+"13","2013","Wendi Wipperfurth","American Rivers","16-18-0","0.471"
+"14","2012","Wendi Wipperfurth","American Rivers","18-22-0","0.450"
+"15","2011","Wendi Wipperfurth","American Rivers","16-21-0","0.432"
+"16","2010","Corey Parr","American Rivers","10-25-0","0.286"
+"17","2009","Corey Parr","American Rivers","12-26-0","0.316"
+"18","2008","Corey Parr","American Rivers","14-20-0","0.412"
+"19","2007","Corey Parr","American Rivers","13-27-0","0.325"
+"20","2006","Elisha Perkins","American Rivers","8-32-0","0.200"
+"21","2005","Todd Huffman","American Rivers","8-26-0","0.235"
+"22","2004","Todd Huffman","American Rivers","12-24-0","0.333"
+"23","2003","Don Till","American Rivers","9-23-0","0.281"
+"24","2002","Don Till","American Rivers","6-32-0","0.158"
+"25","2001","Tina Deardorff","-","6-19-0","0.240"
+"26","2000","David Thielen","-","14-27-0","0.341"
+"27","1998","Jeff Brooks","-","14-17-0","0.452"
+"28","1997","Jeff Brooks","-","17-17-0","0.500"
+"29","1996","Randy Dolson","-","2-26-0","0.071"
+"30","1995","Randy Dolson","-","2-24-0","0.077"
+"31","1994","Vickie Moore","-","3-25-0","0.107"
