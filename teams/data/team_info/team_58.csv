@@ -1,26 +1,26 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Charles Martinez","CUNYAC","0-0-0","  NaN"
-"2","2024","Charles Martinez","CUNYAC","17-19-0","0.472"
-"3","2023","Charles Martinez","CUNYAC","17-15-0","0.531"
-"4","2022","Nicole Bellini","CUNYAC","21-18-0","0.538"
-"5","2021","Nicole Bellini","CUNYAC","0-0-0","  NaN"
-"6","2019","","CUNYAC","8-16-0","0.333"
-"7","2018","Victoria Tiso","CUNYAC","10-18-0","0.357"
-"8","2017","Melanie Pellegrino","CUNYAC","11-18-0","0.379"
-"9","2016","Melanie Pellegrino","CUNYAC","10-25-0","0.286"
-"10","2015","Melanie Pellegrino","CUNYAC","5-20-0","0.200"
-"11","2014","Jose Negroni","CUNYAC","3-18-0","0.143"
-"12","2013","Jose Negroni","CUNYAC","19-18-0","0.514"
-"13","2012","Jose Negroni","CUNYAC","17-27-0","0.386"
-"14","2011","Jose Negroni","CUNYAC","17-23-0","0.425"
-"15","2010","Jose Negroni","CUNYAC","23-22-0","0.511"
-"16","2009","Jose Negroni","CUNYAC","19-21-0","0.475"
-"17","2008","Jose Negroni","CUNYAC","23-25-0","0.479"
-"18","2007","Jose Negroni","CUNYAC","11-13-0","0.458"
-"19","2006","Jose Negroni","CUNYAC","14-21-0","0.400"
-"20","2005","Jose Negroni","CUNYAC","10-23-0","0.303"
-"21","2004","Jose Negroni","CUNYAC","11-11-0","0.500"
-"22","2003","Jose Negroni","CUNYAC","4-8-0","0.333"
-"23","2002","Jose Negroni","ECAC","10-13-0","0.435"
-"24","2001","Penny Weiner","-","2-14-0","0.125"
-"25","2000","Penny Weiner","-","1-13-0","0.071"
+"1",2025,"Charles Martinez","CUNYAC","11-20-0",0.355
+"2",2024,"Charles Martinez","CUNYAC","17-19-0",0.472
+"3",2023,"Charles Martinez","CUNYAC","17-15-0",0.531
+"4",2022,"Nicole Bellini","CUNYAC","21-18-0",0.538
+"5",2021,"Nicole Bellini","CUNYAC","0-0-0",NA
+"6",2019,"","CUNYAC","8-16-0",0.333
+"7",2018,"Victoria Tiso","CUNYAC","10-18-0",0.357
+"8",2017,"Melanie Pellegrino","CUNYAC","11-18-0",0.379
+"9",2016,"Melanie Pellegrino","CUNYAC","10-25-0",0.286
+"10",2015,"Melanie Pellegrino","CUNYAC","5-20-0",0.2
+"11",2014,"Jose Negroni","CUNYAC","3-18-0",0.143
+"12",2013,"Jose Negroni","CUNYAC","19-18-0",0.514
+"13",2012,"Jose Negroni","CUNYAC","17-27-0",0.386
+"14",2011,"Jose Negroni","CUNYAC","17-23-0",0.425
+"15",2010,"Jose Negroni","CUNYAC","23-22-0",0.511
+"16",2009,"Jose Negroni","CUNYAC","19-21-0",0.475
+"17",2008,"Jose Negroni","CUNYAC","23-25-0",0.479
+"18",2007,"Jose Negroni","CUNYAC","11-13-0",0.458
+"19",2006,"Jose Negroni","CUNYAC","14-21-0",0.4
+"20",2005,"Jose Negroni","CUNYAC","10-23-0",0.303
+"21",2004,"Jose Negroni","CUNYAC","11-11-0",0.5
+"22",2003,"Jose Negroni","CUNYAC","4-8-0",0.333
+"23",2002,"Jose Negroni","ECAC","10-13-0",0.435
+"24",2001,"Penny Weiner","-","2-14-0",0.125
+"25",2000,"Penny Weiner","-","1-13-0",0.071

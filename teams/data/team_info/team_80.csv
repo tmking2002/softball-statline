@@ -1,46 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Mary Holt-Kelsch","Ivy League","0-0-0","  NaN"
-"2","2024","Kate Wheeler","Ivy League","18-24-0","0.429"
-"3","2023","Kate Wheeler","Ivy League","13-26-0","0.333"
-"4","2022","Kate Wheeler","Ivy League","16-25-0","0.390"
-"5","2021","Kate Wheeler","Ivy League","1-1-0","0.500"
-"6","2020","Kate Wheeler","Ivy League","1-9-0","0.100"
-"7","2019","Kate Wheeler","Ivy League","12-27-0","0.308"
-"8","2018","Katie Flynn","Ivy League","11-28-0","0.282"
-"9","2017","Katie Flynn","Ivy League","16-29-0","0.356"
-"10","2016","Katie Flynn","Ivy League","18-23-0","0.439"
-"11","2015","Katie Flynn","Ivy League","13-21-0","0.382"
-"12","2014","Katie Flynn","Ivy League","4-34-0","0.105"
-"13","2013","Katie Flynn","Ivy League","10-28-0","0.263"
-"14","2012","Dee Dee Enabenter-Omidiji","Ivy League","10-27-0","0.270"
-"15","2011","Dee Dee Enabenter-Omidiji","Ivy League","14-22-1","0.389"
-"16","2010","Dee Dee Enabenter-Omidiji","Ivy League","20-22-0","0.476"
-"17","2009","Dee Dee Enabenter-Omidiji","Ivy League","12-26-0","0.316"
-"18","2008","Dee Dee Enabenter-Omidiji","Ivy League","8-26-0","0.235"
-"19","2007","Dee Dee Enabenter-Omidiji","Ivy League","10-33-0","0.233"
-"20","2006","Pam McCreesh","Ivy League","20-25-0","0.444"
-"21","2005","Pam McCreesh","Ivy League","14-18-1","0.438"
-"22","2004","Pam McCreesh","Ivy League","19-20-0","0.487"
-"23","2003","Pam McCreesh","Ivy League","16-23-0","0.410"
-"24","2002","Pam McCreesh","Ivy League","14-22-0","0.389"
-"25","2001","Chris Cochran","Ivy League","7-38-1","0.156"
-"26","2000","Chris Cochran","Ivy League","14-28-0","0.333"
-"27","1999","Chris Cochran","Ivy League","12-30-0","0.286"
-"28","1998","Deb Carreiro","-","10-29-0","0.256"
-"29","1997","Deb Carreiro","Ivy League","20-23-1","0.465"
-"30","1996","Deb Carreiro","-","24-14-0","0.632"
-"31","1995","Deb Carreiro","-","18-22-0","0.450"
-"32","1994","Deb Carreiro","-","14-24-0","0.368"
-"33","1993","Deb Carreiro","-","22-12-0","0.647"
-"34","1992","Phil Pincince","-","31-10-0","0.756"
-"35","1991","Phil Pincince","-","33-12-0","0.733"
-"36","1989","Phil Pincince","-","13-22-0","0.371"
-"37","1988","Phil Pincince","-","28-19-0","0.596"
-"38","1987","Phil Pincince","-","14-12-0","0.538"
-"39","1986","Phil Pincince","-","23-13-0","0.639"
-"40","1985","Phil Pincince","-","21-15-0","0.583"
-"41","1984","Phil Pincince","-","12-11-0","0.522"
-"42","1983","Phil Pincince","-","16-11-0","0.593"
-"43","1982","Phil Pincince","-","19-14-0","0.576"
-"44","1981","Phil Pincince","-","1-1-0","0.500"
-"45","1980","Phil Pincince","-","1-1-0","0.500"
+"1",2025,"Mary Holt-Kelsch","Ivy League","27-13-0",0.675
+"2",2024,"Kate Wheeler","Ivy League","18-24-0",0.429
+"3",2023,"Kate Wheeler","Ivy League","13-26-0",0.333
+"4",2022,"Kate Wheeler","Ivy League","16-25-0",0.39
+"5",2021,"Kate Wheeler","Ivy League","1-1-0",0.5
+"6",2020,"Kate Wheeler","Ivy League","1-9-0",0.1
+"7",2019,"Kate Wheeler","Ivy League","12-27-0",0.308
+"8",2018,"Katie Flynn","Ivy League","11-28-0",0.282
+"9",2017,"Katie Flynn","Ivy League","16-29-0",0.356
+"10",2016,"Katie Flynn","Ivy League","18-23-0",0.439
+"11",2015,"Katie Flynn","Ivy League","13-21-0",0.382
+"12",2014,"Katie Flynn","Ivy League","4-34-0",0.105
+"13",2013,"Katie Flynn","Ivy League","10-28-0",0.263
+"14",2012,"Dee Dee Enabenter-Omidiji","Ivy League","10-27-0",0.27
+"15",2011,"Dee Dee Enabenter-Omidiji","Ivy League","14-22-1",0.389
+"16",2010,"Dee Dee Enabenter-Omidiji","Ivy League","20-22-0",0.476
+"17",2009,"Dee Dee Enabenter-Omidiji","Ivy League","12-26-0",0.316
+"18",2008,"Dee Dee Enabenter-Omidiji","Ivy League","8-26-0",0.235
+"19",2007,"Dee Dee Enabenter-Omidiji","Ivy League","10-33-0",0.233
+"20",2006,"Pam McCreesh","Ivy League","20-25-0",0.444
+"21",2005,"Pam McCreesh","Ivy League","14-18-1",0.438
+"22",2004,"Pam McCreesh","Ivy League","19-20-0",0.487
+"23",2003,"Pam McCreesh","Ivy League","16-23-0",0.41
+"24",2002,"Pam McCreesh","Ivy League","14-22-0",0.389
+"25",2001,"Chris Cochran","Ivy League","7-38-1",0.156
+"26",2000,"Chris Cochran","Ivy League","14-28-0",0.333
+"27",1999,"Chris Cochran","Ivy League","12-30-0",0.286
+"28",1998,"Deb Carreiro","-","10-29-0",0.256
+"29",1997,"Deb Carreiro","Ivy League","20-23-1",0.465
+"30",1996,"Deb Carreiro","-","24-14-0",0.632
+"31",1995,"Deb Carreiro","-","18-22-0",0.45
+"32",1994,"Deb Carreiro","-","14-24-0",0.368
+"33",1993,"Deb Carreiro","-","22-12-0",0.647
+"34",1992,"Phil Pincince","-","31-10-0",0.756
+"35",1991,"Phil Pincince","-","33-12-0",0.733
+"36",1989,"Phil Pincince","-","13-22-0",0.371
+"37",1988,"Phil Pincince","-","28-19-0",0.596
+"38",1987,"Phil Pincince","-","14-12-0",0.538
+"39",1986,"Phil Pincince","-","23-13-0",0.639
+"40",1985,"Phil Pincince","-","21-15-0",0.583
+"41",1984,"Phil Pincince","-","12-11-0",0.522
+"42",1983,"Phil Pincince","-","16-11-0",0.593
+"43",1982,"Phil Pincince","-","19-14-0",0.576
+"44",1981,"Phil Pincince","-","1-1-0",0.5
+"45",1980,"Phil Pincince","-","1-1-0",0.5
