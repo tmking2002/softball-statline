@@ -1,41 +1,41 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Letty Olivarez","Big West","16-31-0",0.34
-"2",2024,"Letty Olivarez","Big West","5-46-0",0.098
-"3",2023,"Dan Sperl","Big West","7-43-0",0.14
-"4",2022,"Crissy Buck-Ziegler","Big West","8-37-0",0.178
-"5",2021,"Crissy Buck-Ziegler","Big West","0-0-0",NA
-"6",2020,"Crissy Buck-Ziegler","WAC","1-13-0",0.071
-"7",2019,"Crissy Buck-Ziegler","WAC","15-32-0",0.319
-"8",2018,"Crissy Buck-Ziegler","WAC","6-38-0",0.136
-"9",2017,"Crissy Buck-Ziegler","WAC","12-33-0",0.267
-"10",2016,"Crissy Buck-Ziegler","WAC","16-34-0",0.32
-"11",2015,"Crissy Buck-Ziegler","WAC","21-25-0",0.457
-"12",2014,"Crissy Buck-Ziegler","WAC","16-39-1",0.291
-"13",2013,"Crissy Buck-Ziegler","Pacific Coast Softball","15-34-0",0.306
-"14",2012,"Crissy Buck-Ziegler","Pacific Coast Softball","13-39-0",0.25
-"15",2011,"Kathy Welter","Pacific Coast Softball","17-35-0",0.327
-"16",2010,"Kathy Welter","Pacific Coast Softball","22-34-0",0.393
-"17",2009,"Kathy Welter","Pacific Coast Softball","28-23-0",0.549
-"18",2008,"Kathy Welter","-","22-25-0",0.468
-"19",2007,"Kathy Welter","CCAA","31-27-1",0.534
-"20",2006,"Kathy Welter","CCAA","52-12-0",0.812
-"21",2005,"Kathy Welter","CCAA","32-22-0",0.593
-"22",2004,"Kathy Welter","CCAA","44-20-0",0.688
-"23",2003,"Kathy Welter","CCAA","53-19-0",0.736
-"24",2002,"Kathy Welter","-","38-25-0",0.603
-"25",2001,"Kathy Welter","-","37-23-0",0.617
-"26",2000,"Kathy Welter","-","46-11-0",0.807
-"27",1999,"Kathy Welter","-","42-17-0",0.712
-"28",1998,"Kathy Welter","-","46-11-0",0.807
-"29",1997,"Kathy Welter","-","40-14-1",0.741
-"30",1996,"Kathy Welter","-","43-21-0",0.672
-"31",1995,"Kathy Welter","-","40-13-0",0.755
-"32",1994,"Kathy Welter","-","52-5-0",0.912
-"33",1993,"Kathy Welter","-","34-6-0",0.85
-"34",1992,"Kathy Welter","-","52-16-0",0.765
-"35",1991,"Kathy Welter","-","29-16-0",0.644
-"36",1990,"Kathy Welter","-","44-11-0",0.8
-"37",1989,"Kathy Welter","-","38-23-0",0.623
-"38",1988,"Kathy Welter","-","54-9-1",0.857
-"39",1987,"Kathy Welter","-","29-21-0",0.58
-"40",1986,"Kathy Welter","-","25-25-0",0.5
+"1","2025","Letty Olivarez","Big West","0-3-0","0.000"
+"2","2024","Letty Olivarez","Big West","5-46-0","0.098"
+"3","2023","Dan Sperl","Big West","7-43-0","0.140"
+"4","2022","Crissy Buck-Ziegler","Big West","8-37-0","0.178"
+"5","2021","Crissy Buck-Ziegler","Big West","0-0-0","  NaN"
+"6","2020","Crissy Buck-Ziegler","WAC","1-13-0","0.071"
+"7","2019","Crissy Buck-Ziegler","WAC","15-32-0","0.319"
+"8","2018","Crissy Buck-Ziegler","WAC","6-38-0","0.136"
+"9","2017","Crissy Buck-Ziegler","WAC","12-33-0","0.267"
+"10","2016","Crissy Buck-Ziegler","WAC","16-34-0","0.320"
+"11","2015","Crissy Buck-Ziegler","WAC","21-25-0","0.457"
+"12","2014","Crissy Buck-Ziegler","WAC","16-39-1","0.291"
+"13","2013","Crissy Buck-Ziegler","Pacific Coast Softball","15-34-0","0.306"
+"14","2012","Crissy Buck-Ziegler","Pacific Coast Softball","13-39-0","0.250"
+"15","2011","Kathy Welter","Pacific Coast Softball","17-35-0","0.327"
+"16","2010","Kathy Welter","Pacific Coast Softball","22-34-0","0.393"
+"17","2009","Kathy Welter","Pacific Coast Softball","28-23-0","0.549"
+"18","2008","Kathy Welter","-","22-25-0","0.468"
+"19","2007","Kathy Welter","CCAA","31-27-1","0.534"
+"20","2006","Kathy Welter","CCAA","52-12-0","0.812"
+"21","2005","Kathy Welter","CCAA","32-22-0","0.593"
+"22","2004","Kathy Welter","CCAA","44-20-0","0.688"
+"23","2003","Kathy Welter","CCAA","53-19-0","0.736"
+"24","2002","Kathy Welter","-","38-25-0","0.603"
+"25","2001","Kathy Welter","-","37-23-0","0.617"
+"26","2000","Kathy Welter","-","46-11-0","0.807"
+"27","1999","Kathy Welter","-","42-17-0","0.712"
+"28","1998","Kathy Welter","-","46-11-0","0.807"
+"29","1997","Kathy Welter","-","40-14-1","0.741"
+"30","1996","Kathy Welter","-","43-21-0","0.672"
+"31","1995","Kathy Welter","-","40-13-0","0.755"
+"32","1994","Kathy Welter","-","52-5-0","0.912"
+"33","1993","Kathy Welter","-","34-6-0","0.850"
+"34","1992","Kathy Welter","-","52-16-0","0.765"
+"35","1991","Kathy Welter","-","29-16-0","0.644"
+"36","1990","Kathy Welter","-","44-11-0","0.800"
+"37","1989","Kathy Welter","-","38-23-0","0.623"
+"38","1988","Kathy Welter","-","54-9-1","0.857"
+"39","1987","Kathy Welter","-","29-21-0","0.580"
+"40","1986","Kathy Welter","-","25-25-0","0.500"

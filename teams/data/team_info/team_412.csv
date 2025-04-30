@@ -1,34 +1,34 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Alex Allaman","USA South","14-24-0",0.368
-"2",2024,"Alex Allaman","USA South","19-21-0",0.475
-"3",2023,"Alex Allaman","USA South","20-20-0",0.5
-"4",2022,"Ron Simpson","USA South","23-21-0",0.523
-"5",2021,"Ron Simpson","USA South","10-26-0",0.278
-"6",2020,"Ron Simpson","USA South","9-9-0",0.5
-"7",2019,"Ron Simpson","USA South","11-28-0",0.282
-"8",2018,"Ron Simpson","USA South","8-32-0",0.2
-"9",2017,"Ron Simpson","USA South","8-30-0",0.211
-"10",2016,"Ron Simpson","USA South","9-31-0",0.225
-"11",2015,"Ron Simpson","USA South","19-19-0",0.5
-"12",2014,"Ron Simpson","USA South","11-26-0",0.297
-"13",2013,"Ron Simpson","USA South","23-21-0",0.523
-"14",2012,"Ron Simpson","USA South","27-15-0",0.643
-"15",2011,"Ron Simpson","USA South","21-19-0",0.525
-"16",2010,"Ron Simpson","USA South","18-23-0",0.439
-"17",2009,"Ron Simpson","USA South","17-26-0",0.395
-"18",2008,"Ron Simpson","USA South","35-12-0",0.745
-"19",2007,"Ron Simpson","USA South","33-10-0",0.767
-"20",2006,"Ron Simpson","USA South","39-8-0",0.83
-"21",2005,"Ron Simpson","USA South","33-12-0",0.733
-"22",2004,"Ron Simpson","USA South","30-14-0",0.682
-"23",2003,"Ron Simpson","USA South","38-10-0",0.792
-"24",2002,"Ron Simpson","-","27-14-0",0.659
-"25",2001,"Ron Simpson","-","29-17-0",0.63
-"26",2000,"Ron Simpson","-","28-15-1",0.651
-"27",1999,"Ron Simpson","-","32-12-0",0.727
-"28",1998,"Brenda Hillman","-","10-17-0",0.37
-"29",1997,"Brenda Hillman","-","19-17-0",0.528
-"30",1996,"Brenda Hillman","-","11-21-0",0.344
-"31",1995,"Karen Smith","-","21-23-0",0.477
-"32",1994,"Karen Smith","-","21-16-0",0.568
-"33",1993,"Karen Smith","-","7-22-0",0.241
+"1","2025","Alex Allaman","USA South","0-0-0","  NaN"
+"2","2024","Alex Allaman","USA South","19-21-0","0.475"
+"3","2023","Alex Allaman","USA South","20-20-0","0.500"
+"4","2022","Ron Simpson","USA South","23-21-0","0.523"
+"5","2021","Ron Simpson","USA South","10-26-0","0.278"
+"6","2020","Ron Simpson","USA South","9-9-0","0.500"
+"7","2019","Ron Simpson","USA South","11-28-0","0.282"
+"8","2018","Ron Simpson","USA South","8-32-0","0.200"
+"9","2017","Ron Simpson","USA South","8-30-0","0.211"
+"10","2016","Ron Simpson","USA South","9-31-0","0.225"
+"11","2015","Ron Simpson","USA South","19-19-0","0.500"
+"12","2014","Ron Simpson","USA South","11-26-0","0.297"
+"13","2013","Ron Simpson","USA South","23-21-0","0.523"
+"14","2012","Ron Simpson","USA South","27-15-0","0.643"
+"15","2011","Ron Simpson","USA South","21-19-0","0.525"
+"16","2010","Ron Simpson","USA South","18-23-0","0.439"
+"17","2009","Ron Simpson","USA South","17-26-0","0.395"
+"18","2008","Ron Simpson","USA South","35-12-0","0.745"
+"19","2007","Ron Simpson","USA South","33-10-0","0.767"
+"20","2006","Ron Simpson","USA South","39-8-0","0.830"
+"21","2005","Ron Simpson","USA South","33-12-0","0.733"
+"22","2004","Ron Simpson","USA South","30-14-0","0.682"
+"23","2003","Ron Simpson","USA South","38-10-0","0.792"
+"24","2002","Ron Simpson","-","27-14-0","0.659"
+"25","2001","Ron Simpson","-","29-17-0","0.630"
+"26","2000","Ron Simpson","-","28-15-1","0.651"
+"27","1999","Ron Simpson","-","32-12-0","0.727"
+"28","1998","Brenda Hillman","-","10-17-0","0.370"
+"29","1997","Brenda Hillman","-","19-17-0","0.528"
+"30","1996","Brenda Hillman","-","11-21-0","0.344"
+"31","1995","Karen Smith","-","21-23-0","0.477"
+"32","1994","Karen Smith","-","21-16-0","0.568"
+"33","1993","Karen Smith","-","7-22-0","0.241"
