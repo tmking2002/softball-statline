@@ -8,6 +8,11 @@ if (!require("lubridate", character.only = TRUE)) {
 }
 library(lubridate)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("BOX")
 
 proper=function(x) paste0(toupper(substr(x, 1, 1)), tolower(substring(x, 2)))
@@ -48,14 +53,14 @@ for(season in 2016:2025){
     # Attempt with uppercase division first
     try({
       url_upper <- paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", division, "_hitting_box_scores_", season, ".RDS")
-      cur_box <- readRDS(url(url_upper)) %>% mutate(picked = as.numeric(picked))
-    }, silent = TRUE)  # Continue silently on error
+      cur_box <- rio::import(url_upper) %>% mutate(picked = as.numeric(picked))
+    }, silent = TRUE)
     
     # If the first attempt fails, retry with lowercase division
     if (nrow(cur_box) == 0) {
       warning(paste("Retrying with lowercase division for", division))
       url_lower <- paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", tolower(division), "_hitting_box_scores_", season, ".RDS")
-      cur_box <- readRDS(url(url_lower)) %>% mutate(picked = as.numeric(picked))
+      cur_box <- rio::import(url_lower) %>% mutate(picked = as.numeric(picked))
     }
     
     box <- bind_rows(box, cur_box)
@@ -106,14 +111,14 @@ for(season in 2016:2025){
     # Attempt with uppercase division first
     try({
       url_upper <- paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", division, "_pitching_box_scores_", season, ".RDS")
-      cur_box <- readRDS(url(url_upper)) %>% mutate(ip = as.character(ip))
-    }, silent = TRUE)  # Continue silently on error
+      cur_box <- rio::import(url_upper) %>% mutate(ip = as.character(ip))
+    }, silent = TRUE)
     
     # If the first attempt fails, retry with lowercase division
     if (nrow(cur_box) == 0) {
       warning(paste("Retrying with lowercase division for", division))
       url_lower <- paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/", tolower(division), "_pitching_box_scores_", season, ".RDS")
-      cur_box <- readRDS(url(url_lower)) %>% mutate(ip = as.character(ip))
+      cur_box <- rio::import(url_lower) %>% mutate(ip = as.character(ip))
     }
     
     box <- bind_rows(box, cur_box)

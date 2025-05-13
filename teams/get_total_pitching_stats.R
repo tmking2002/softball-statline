@@ -3,6 +3,11 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("TOTAL PITCHING STATS")
 
 files <- list.files("teams/data/pitching_stats")

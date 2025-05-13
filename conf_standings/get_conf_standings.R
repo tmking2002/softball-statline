@@ -3,11 +3,16 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("CONF STANDINGS")
 
 cur_season <- 2025
 
-info <- try(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")), silent = TRUE)
+info <- try(rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS"), silent = TRUE)
 
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
@@ -17,26 +22,36 @@ conferences <- info %>%
   distinct(team_name, conference) %>% 
   mutate(conference = ifelse(conference == "CUSA", "C-USA", conference))
 
-conf_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
+conf_scoreboard <- try(
+  rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")),
+  silent = TRUE
+) %>%
   filter(home_team != away_team) %>% 
   drop_na(home_team, away_team) %>%
-  mutate(home_team = str_replace(home_team, "&amp;", "&"),
-         away_team = str_replace(away_team, "&amp;", "&"),
-         home_team = str_replace(home_team, "&#39;", "'"),
-         away_team = str_replace(away_team, "&#39;", "'")) %>%
-  merge(conferences, by.x = "home_team", by.y = "team_name", all = T) %>%
+  mutate(
+    home_team = str_replace(home_team, "&amp;", "&"),
+    away_team = str_replace(away_team, "&amp;", "&"),
+    home_team = str_replace(home_team, "&#39;", "'"),
+    away_team = str_replace(away_team, "&#39;", "'")
+  ) %>%
+  merge(conferences, by.x = "home_team", by.y = "team_name", all = TRUE) %>%
   rename(home_conference = conference) %>%
-  merge(conferences, by.x = "away_team", by.y = "team_name", all = T) %>%
+  merge(conferences, by.x = "away_team", by.y = "team_name", all = TRUE) %>%
   rename(away_conference = conference) %>%
   drop_na(home_conference, away_conference) %>%
   filter(home_conference == away_conference)
 
-total_scoreboard <- try(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))), silent = TRUE) %>%
+total_scoreboard <- try(
+  rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")),
+  silent = TRUE
+) %>%
   drop_na(home_team, away_team) %>%
-  mutate(home_team = str_replace(home_team, "&amp;", "&"),
-         away_team = str_replace(away_team, "&amp;", "&"),
-         home_team = str_replace(home_team, "&#39;", "'"),
-         away_team = str_replace(away_team, "&#39;", "'")) 
+  mutate(
+    home_team = str_replace(home_team, "&amp;", "&"),
+    away_team = str_replace(away_team, "&amp;", "&"),
+    home_team = str_replace(home_team, "&#39;", "'"),
+    away_team = str_replace(away_team, "&#39;", "'")
+  )
 
 team1_scoreboard <- total_scoreboard[c(9,1,4,5,8)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))
 team2_scoreboard <- total_scoreboard[c(9,5,8,1,4)] %>% `names<-`(c("date","team_name","runs","opponent_name","opponent_runs"))

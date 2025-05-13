@@ -15,62 +15,31 @@ if (!require("magrittr", character.only = TRUE)) {
 }
 library(magrittr)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("SCHEDULE")
 
-load_ncaa_softball_scoreboard <- function(season, division = "D1"){
+load_ncaa_softball_scoreboard <- function(season, division = "D1") {
+  if (!is.numeric(season)) return("Invalid Input")
+  if (!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
+  if (min(season) < 2012 | max(season) > 2025) stop("Invalid Season")
+  if (min(season) < 2016 & division != "D1") stop("Invalid Season")
   
-  if(!is.numeric(season)) return("Invalid Input")
-  
-  if(!(division %in% c("D1", "D2", "D3"))) stop("Invalid Division")
-  
-  if(min(season) < 2012 | max(season) > 2025) stop("Invalid Season")
-  if(min(season) < 2016 & division != "D1") stop("Invalid Season")
-  
-  if(length(season) == 1){
-    
-    if(division == "D1"){
-      
-      url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{season}.RDS?raw=true")
-      
-    } else{
-      
-      url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{division}_{season}.RDS?raw=true")
-      
-    }
-    
-    con <- url(url)
-    
-    on.exit(close(con))
-    
-    scoreboard <- try(readRDS(con), silent = TRUE)
-    
-  } else{
-    
-    scoreboard <- data.frame()
-    
-    for(i in 1:length(season)){
-      
-      if(division == "D1"){
-        
-        url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{season[i]}.RDS?raw=true")
-        
-      } else{
-        
-        url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{division}_{season[i]}.RDS?raw=true")
-        
-      }
-      
-      con <- url(url)
-      
-      on.exit(close(con))
-      
-      scoreboard <- rbind(scoreboard, try(readRDS(con), silent = TRUE))
-    }
-    
+  urls <- if (division == "D1") {
+    glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{season}.RDS?raw=true")
+  } else {
+    glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/ncaa_scoreboard_{division}_{season}.RDS?raw=true")
   }
   
-  return(scoreboard)
+  scoreboard <- lapply(urls, function(link) {
+    tryCatch(rio::import(link), error = function(e) NULL)
+  }) %>%
+    bind_rows()
   
+  return(scoreboard)
 }
 
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 

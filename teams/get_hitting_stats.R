@@ -3,6 +3,11 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("HITTING STATS")
 
 teams <- read_csv("teams/data/all_teams.csv") %>% 
@@ -45,52 +50,27 @@ get_stats <- function(box, season){
   
 }
 
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2016.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2016.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2016.RDS")))) %>% get_stats(., 2016),
-          "teams/data/hitting_stats/hitting_stats_2016.csv")
+library(rio)
+library(glue)
+library(dplyr)
 
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2017.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2017.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2017.RDS")))) %>% get_stats(., 2017),
-          "teams/data/hitting_stats/hitting_stats_2017.csv")
+years <- 2016:2025
 
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2018.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2018.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2018.RDS")))) %>% get_stats(., 2018),
-          "teams/data/hitting_stats/hitting_stats_2018.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2019.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2019.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2019.RDS")))) %>% get_stats(., 2019),
-          "teams/data/hitting_stats/hitting_stats_2019.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2020.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2020.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2020.RDS")))) %>% get_stats(., 2020),
-          "teams/data/hitting_stats/hitting_stats_2020.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2021.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2021.RDS")))) %>% get_stats(., 2021),
-          "teams/data/hitting_stats/hitting_stats_2021.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2022.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2022.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2022.RDS")))) %>% get_stats(., 2022),
-          "teams/data/hitting_stats/hitting_stats_2022.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2023.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2023.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2023.RDS")))) %>% get_stats(., 2023),
-          "teams/data/hitting_stats/hitting_stats_2023.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2024.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2024.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2024.RDS")))) %>% get_stats(., 2024),
-          "teams/data/hitting_stats/hitting_stats_2024.csv")
-
-write.csv(distinct(rbind(readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_2025.RDS")), 
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_2025.RDS")),
-                         readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_2025.RDS")))) %>% get_stats(., 2025),
-          "teams/data/hitting_stats/hitting_stats_2025.csv")
+for (year in years) {
+  urls <- c(
+    glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_{year}.RDS"),
+    glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_{year}.RDS")
+  )
+  
+  # Only D3 if not 2021
+  if (year != 2021) {
+    urls <- c(urls, glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_{year}.RDS"))
+  }
+  
+  df_list <- lapply(urls, function(link) rio::import(link))
+  
+  df <- distinct(bind_rows(df_list)) %>% get_stats(., year)
+  
+  write.csv(df, glue("teams/data/hitting_stats/hitting_stats_{year}.csv"), row.names = FALSE)
+}
 

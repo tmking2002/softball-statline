@@ -3,19 +3,26 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("GAME LOGS")
 
 get_game_log <- function(season) {
   
-  team_ids <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")) %>% 
+  team_ids <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS") %>% 
     filter(season == .env$season) %>% 
     select(team_name, team_id) %>% 
     distinct()
   
-  raw_scoreboard <- rbind(readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_", season, ".RDS"))),
-                          readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_", season, ".RDS"))),
-                          readRDS(url(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_", season, ".RDS")))) %>% 
-    drop_na(home_team_runs, away_team_runs, home_team, away_team) %>% 
+  raw_scoreboard <- rbind(
+    rio::import(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_", season, ".RDS")),
+    rio::import(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_", season, ".RDS")),
+    rio::import(paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_", season, ".RDS"))
+  ) %>%
+    drop_na(home_team_runs, away_team_runs, home_team, away_team) %>%
     mutate(
       home_team = gsub("&amp;", "&", home_team),
       away_team = gsub("&amp;", "&", away_team),

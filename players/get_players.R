@@ -1,7 +1,12 @@
 if (!require("tidyverse", character.only = TRUE)) {
   install.packages("tidyverse")
 }
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+
 library(tidyverse)
+library(rio)
 
 print("PLAYERS")
 
@@ -47,12 +52,7 @@ load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1
   box <- data.frame()
   
   for(i in url){
-    
-    con <- url(i)
-    
-    on.exit(close(con))
-    
-    cur <- readRDS(con)
+    cur <- rio::import(i)
     
     if(category == "Hitting"){
       cur <- cur %>% select(-picked)
@@ -61,7 +61,6 @@ load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1
     }
     
     box <- bind_rows(box, cur %>% mutate(game_id = as.character(game_id)))
-    
   }
   
   return(box)

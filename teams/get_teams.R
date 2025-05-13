@@ -3,9 +3,14 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("GET TEAMS")
 
-teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS")) %>% 
+teams <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS") %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80)
 

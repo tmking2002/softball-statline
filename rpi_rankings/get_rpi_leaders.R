@@ -1,6 +1,11 @@
 install.packages("tidyverse")
 library(tidyverse)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("RPI LEADERS")
 
 cur_season <- 2025
@@ -60,7 +65,8 @@ get_current_rpi <- function(scoreboard){
 team_ids <- read_csv("teams/data/all_teams.csv") %>% 
   select(team_name, team_id)
 
-d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")))
+# D1
+d1_scoreboard <- rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))
 
 d1_rpi <- get_current_rpi(d1_scoreboard) %>%
   merge(team_ids, by = "team_name") %>% 
@@ -70,7 +76,8 @@ d1_rpi <- get_current_rpi(d1_scoreboard) %>%
 
 write_csv(d1_rpi, "rpi_rankings/d1_rpi.csv")
 
-d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS")))
+# D2
+d2_scoreboard <- rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS"))
 
 d2_rpi <- get_current_rpi(d2_scoreboard) %>%
   merge(team_ids, by = "team_name") %>% 
@@ -78,16 +85,15 @@ d2_rpi <- get_current_rpi(d2_scoreboard) %>%
   `names<-`(c("Rank", "Team", "Record", "Team ID")) %>% 
   arrange(Rank)
 
-
 write_csv(d2_rpi, "rpi_rankings/d2_rpi.csv")
 
-d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_{cur_season}.RDS")))
+# D3
+d3_scoreboard <- rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_{cur_season}.RDS"))
 
 d3_rpi <- get_current_rpi(d3_scoreboard) %>%
   merge(team_ids, by = "team_name") %>% 
   select(rpi_rank, team_name, record, team_id) %>%
   `names<-`(c("Rank", "Team", "Record", "Team ID")) %>% 
   arrange(Rank)
-
 
 write_csv(d3_rpi, "rpi_rankings/d3_rpi.csv")

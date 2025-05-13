@@ -11,6 +11,11 @@ if (!require("magrittr", character.only = TRUE)) {
 }
 library(magrittr)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("TEAM INFO")
 
 team_ids <- tryCatch({
@@ -25,9 +30,10 @@ team_ids <- tryCatch({
   quit(status = 0)
 })
 
-d1_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_2025.RDS")))
-d2_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_2025.RDS")))
-d3_scoreboard <- readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_2025.RDS")))
+d1_scoreboard <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_2025.RDS")
+d2_scoreboard <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_2025.RDS")
+d3_scoreboard <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_2025.RDS")
+
 
 scoreboard <- rbind(d1_scoreboard, d2_scoreboard, d3_scoreboard)
 

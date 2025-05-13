@@ -8,19 +8,26 @@ if (!require("glue", character.only = TRUE)) {
 }
 library(glue)
 
+if (!require("rio", character.only = TRUE)) {
+  install.packages("rio")
+}
+library(rio)
+
 print("COACHING HISTORY")
 
 cur_season <- 2024
 
-teams <- readRDS(url("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS"), "rb") %>% 
+teams <- rio::import("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_team_info.RDS") %>% 
   mutate(season = ifelse(season == 1900, 2000, season)) %>% 
   filter(wins < 80 & head_coach != "")
 
-teams$ties[which(is.na(teams$ties))] <- 0
+teams$ties[is.na(teams$ties)] <- 0
 
-scoreboard <- rbind(readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS"))),
-                    readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS"))),
-                    readRDS(url(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS"))))
+scoreboard <- bind_rows(
+  rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_{cur_season}.RDS")),
+  rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D2_{cur_season}.RDS")),
+  rio::import(glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/ncaa_scoreboard_D3_{cur_season}.RDS"))
+)
 
 records <- rbind(scoreboard %>% select(away_team, away_team_runs, home_team_runs) %>% `names<-`(c("team_name", "runs", "allowed")),
                  scoreboard %>% select(home_team, home_team_runs, away_team_runs) %>% `names<-`(c("team_name", "runs", "allowed"))) %>% 
