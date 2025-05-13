@@ -68,7 +68,9 @@ get_pitching_data <- function(division, year) {
   
   for (url in urls) {
     try({
-      return(rio::import(url))
+      df <- rio::import(url)
+      df$ip <- as.character(df$ip)
+      return(df)
     }, silent = TRUE)
   }
   
