@@ -30,22 +30,22 @@ load_ncaa_softball_playerbox <- function(season = 2025, category, division = "D1
   if(category == "Hitting"){
     
     for(i in season){
-      if(division == "d3" & category == "Hitting" & i == 2021) {url <- c(url, "https://github.com/sportsdataverse/softballR-data/blob/main/data/D3_hitting_box_scores_2021.RDS"); next}
+      if(division == "d3" & category == "Hitting" & i == 2021) {url <- c(url, "https://github.com/sportsdataverse/softballR-data/raw/main/data/D3_hitting_box_scores_2021.RDS"); next}
       
-      url <- c(url, glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/{division}_hitting_box_scores_{i}.RDS"))
+      url <- c(url, glue::glue("https://github.com/tmking2002/softballR-data/raw/main/data/{division}_hitting_box_scores_{i}.RDS"))
     }
     
   } else if(category == "Pitching"){
     
     for(i in season){
-      if(division == "d3" & category == "Pitching" & i %in% 2016:2020) {url <- c(url, glue::glue("https://github.com/sportsdataverse/softballR-data/blob/main/data/D3_pitching_box_scores_{i}.RDS")); next}
+      if(division == "d3" & category == "Pitching" & i %in% 2016:2020) {url <- c(url, glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/D3_pitching_box_scores_{i}.RDS")); next}
       
-      url <- c(url, glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/{division}_pitching_box_scores_{i}.RDS"))
+      url <- c(url, glue::glue("https://github.com/tmking2002/softballR-data/raw/main/data/{division}_pitching_box_scores_{i}.RDS"))
     }
     
   } else if(category == "Fielding"){
     
-    url <- glue::glue("https://github.com/tmking2002/softballR-data/blob/main/data/d1_fielding_box_scores_2023.RDS")
+    url <- glue::glue("https://github.com/tmking2002/softballR-data/raw/main/data/d1_fielding_box_scores_2023.RDS")
     
   }
   
