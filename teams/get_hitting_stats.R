@@ -50,27 +50,40 @@ get_stats <- function(box, season){
   
 }
 
-library(rio)
-library(glue)
-library(dplyr)
-
 years <- 2016:2025
 
-for (year in years) {
+get_hitting_data <- function(division, year) {
   urls <- c(
-    glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_hitting_box_scores_{year}.RDS"),
-    glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_hitting_box_scores_{year}.RDS")
+    paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/d", division, "_hitting_box_scores_", year, ".RDS"),
+    paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/D", division, "_hitting_box_scores_", year, ".RDS")
   )
   
-  # Only D3 if not 2021
-  if (year != 2021) {
-    urls <- c(urls, glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_hitting_box_scores_{year}.RDS"))
+  for (url in urls) {
+    try({
+      return(rio::import(url))
+    }, silent = TRUE)
   }
   
-  df_list <- lapply(urls, function(link) rio::import(link))
+  warning(paste("No data found for division", division, "in", year))
+  return(NULL)
+}
+
+for (year in years) {
+  print(year)
   
-  df <- distinct(bind_rows(df_list)) %>% get_stats(., year)
+  dfs <- list(
+    get_hitting_data("1", year),
+    get_hitting_data("2", year)
+  )
   
-  write.csv(df, glue("teams/data/hitting_stats/hitting_stats_{year}.csv"), row.names = FALSE)
+  if (year != 2021) {
+    dfs <- append(dfs, get_hitting_data("3", year))
+  }
+  
+  df <- bind_rows(dfs) %>%
+    distinct() %>%
+    get_stats(., year)
+  
+  write.csv(df, glue::glue("teams/data/hitting_stats/hitting_stats_{year}.csv"), row.names = FALSE)
 }
 

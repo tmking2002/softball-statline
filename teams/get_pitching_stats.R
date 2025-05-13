@@ -60,12 +60,34 @@ get_stats <- function(box, season){
 
 years <- 2017:2025
 
+get_pitching_data <- function(division, year) {
+  urls <- c(
+    paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/d", division, "_pitching_box_scores_", year, ".RDS"),
+    paste0("https://github.com/sportsdataverse/softballR-data/raw/main/data/D", division, "_pitching_box_scores_", year, ".RDS")
+  )
+  
+  for (url in urls) {
+    try({
+      return(rio::import(url))
+    }, silent = TRUE)
+  }
+  
+  warning(paste("No data found for", division, year))
+  return(NULL)
+}
+
 for (year in years) {
-  df <- distinct(rbind(
-    rio::import(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d1_pitching_box_scores_{year}.RDS")),
-    rio::import(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d2_pitching_box_scores_{year}.RDS")),
-    rio::import(glue::glue("https://github.com/sportsdataverse/softballR-data/raw/main/data/d3_pitching_box_scores_{year}.RDS"))
-  )) %>% get_stats(., year)
+  print(year)
+  
+  dfs <- list(
+    get_pitching_data("1", year),
+    get_pitching_data("2", year),
+    get_pitching_data("3", year)
+  )
+  
+  df <- bind_rows(dfs) %>%
+    distinct() %>%
+    get_stats(., year)
   
   write.csv(df, glue::glue("teams/data/pitching_stats/pitching_stats_{year}.csv"), row.names = FALSE)
 }
