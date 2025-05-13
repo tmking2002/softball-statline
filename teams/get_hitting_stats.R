@@ -64,7 +64,7 @@ get_hitting_data <- function(division, year) {
     }, silent = TRUE)
   }
   
-  warning(paste("No data found for division", division, "in", year))
+  warning(paste("No data found for", division, year))
   return(NULL)
 }
 
@@ -73,12 +73,9 @@ for (year in years) {
   
   dfs <- list(
     get_hitting_data("1", year),
-    get_hitting_data("2", year)
+    get_hitting_data("2", year),
+    get_hitting_data("3", year)
   )
-  
-  if (year != 2021) {
-    dfs <- append(dfs, get_hitting_data("3", year))
-  }
   
   df <- bind_rows(dfs) %>%
     distinct() %>%
@@ -86,4 +83,5 @@ for (year in years) {
   
   write.csv(df, glue::glue("teams/data/hitting_stats/hitting_stats_{year}.csv"), row.names = FALSE)
 }
+
 
