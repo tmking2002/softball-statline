@@ -3,6 +3,11 @@ if (!require("tidyverse", character.only = TRUE)) {
 }
 library(tidyverse)
 
+if (!require("glue", character.only = TRUE)) {
+  install.packages("glue")
+}
+library(glue)
+
 if (!require("rio", character.only = TRUE)) {
   install.packages("rio")
 }
