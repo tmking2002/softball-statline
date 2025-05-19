@@ -1,39 +1,39 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","Kelliner Croushore","Patriot","0-0-0","  NaN"
-"2","2024","Karavin  Dew","Patriot","5-37-0","0.119"
-"3","2023","Karavin  Dew","Patriot","8-36-1","0.182"
-"4","2022","Caitlyn de la Haba","Patriot","10-37-0","0.213"
-"5","2021","Caitlyn de la Haba","Patriot","1-21-0","0.045"
-"6","2020","Caitlyn de la Haba","Patriot","1-11-0","0.083"
-"7","2019","Caitlyn de la Haba","Patriot","8-40-1","0.167"
-"8","2018","Caitlyn de la Haba","Patriot","7-42-0","0.143"
-"9","2017","Jexx Varner","Patriot","13-28-0","0.317"
-"10","2016","Jexx Varner","Patriot","13-32-0","0.289"
-"11","2015","Jexx Varner","Patriot","4-37-0","0.098"
-"12","2014","Jexx Varner","Patriot","10-32-0","0.238"
-"13","2013","Meaghan Asselta","Patriot","11-43-0","0.204"
-"14","2012","Meaghan Asselta","Patriot","14-40-0","0.259"
-"15","2011","Meaghan Asselta","Patriot","8-39-0","0.170"
-"16","2010","Jeanine Gunther","Patriot","15-33-0","0.312"
-"17","2009","Jeanine Gunther","Patriot","17-29-0","0.370"
-"18","2008","Jeanine Gunther","Patriot","27-24-0","0.529"
-"19","2007","Jeanine Gunther","Patriot","21-25-0","0.457"
-"20","2006","Jeanine Gunther","Patriot","20-28-0","0.417"
-"21","2005","John Wong","Patriot","11-34-0","0.244"
-"22","2004","John Wong","Patriot","10-32-0","0.238"
-"23","2003","John Wong","Patriot","5-31-0","0.139"
-"24","2002","John Wong","Patriot","6-31-0","0.162"
-"25","2001","John Wong","Patriot","8-33-0","0.195"
-"26","2000","John Wong","Patriot","6-20-0","0.231"
-"27","1999","Stacey Cagenello","Patriot","6-36-0","0.143"
-"28","1998","Stacey Cagenello","-","7-35-0","0.167"
-"29","1997","Stacey Cagenello","Patriot","11-24-0","0.314"
-"30","1996","Stacey Cagenello","-","14-23-0","0.378"
-"31","1995","Stacey Cagenello","-","10-33-0","0.233"
-"32","1994","Dale Franquet","-","5-29-1","0.147"
-"33","1993","Janet Malouf","-","4-32-0","0.111"
-"34","1992","Janet Malouf","-","4-31-0","0.114"
-"35","1991","Janet Malouf","-","5-26-2","0.161"
-"36","1990","Holly Hughes","-","6-25-0","0.194"
-"37","1989","Holly Hughes","-","6-25-0","0.194"
-"38","1988","Holly Hughes","-","9-26-0","0.257"
+"1",2025,"Kelliner Croushore","Patriot","7-30-0",0.189
+"2",2024,"Karavin  Dew","Patriot","5-37-0",0.119
+"3",2023,"Karavin  Dew","Patriot","8-36-1",0.182
+"4",2022,"Caitlyn de la Haba","Patriot","10-37-0",0.213
+"5",2021,"Caitlyn de la Haba","Patriot","1-21-0",0.045
+"6",2020,"Caitlyn de la Haba","Patriot","1-11-0",0.083
+"7",2019,"Caitlyn de la Haba","Patriot","8-40-1",0.167
+"8",2018,"Caitlyn de la Haba","Patriot","7-42-0",0.143
+"9",2017,"Jexx Varner","Patriot","13-28-0",0.317
+"10",2016,"Jexx Varner","Patriot","13-32-0",0.289
+"11",2015,"Jexx Varner","Patriot","4-37-0",0.098
+"12",2014,"Jexx Varner","Patriot","10-32-0",0.238
+"13",2013,"Meaghan Asselta","Patriot","11-43-0",0.204
+"14",2012,"Meaghan Asselta","Patriot","14-40-0",0.259
+"15",2011,"Meaghan Asselta","Patriot","8-39-0",0.17
+"16",2010,"Jeanine Gunther","Patriot","15-33-0",0.312
+"17",2009,"Jeanine Gunther","Patriot","17-29-0",0.37
+"18",2008,"Jeanine Gunther","Patriot","27-24-0",0.529
+"19",2007,"Jeanine Gunther","Patriot","21-25-0",0.457
+"20",2006,"Jeanine Gunther","Patriot","20-28-0",0.417
+"21",2005,"John Wong","Patriot","11-34-0",0.244
+"22",2004,"John Wong","Patriot","10-32-0",0.238
+"23",2003,"John Wong","Patriot","5-31-0",0.139
+"24",2002,"John Wong","Patriot","6-31-0",0.162
+"25",2001,"John Wong","Patriot","8-33-0",0.195
+"26",2000,"John Wong","Patriot","6-20-0",0.231
+"27",1999,"Stacey Cagenello","Patriot","6-36-0",0.143
+"28",1998,"Stacey Cagenello","-","7-35-0",0.167
+"29",1997,"Stacey Cagenello","Patriot","11-24-0",0.314
+"30",1996,"Stacey Cagenello","-","14-23-0",0.378
+"31",1995,"Stacey Cagenello","-","10-33-0",0.233
+"32",1994,"Dale Franquet","-","5-29-1",0.147
+"33",1993,"Janet Malouf","-","4-32-0",0.111
+"34",1992,"Janet Malouf","-","4-31-0",0.114
+"35",1991,"Janet Malouf","-","5-26-2",0.161
+"36",1990,"Holly Hughes","-","6-25-0",0.194
+"37",1989,"Holly Hughes","-","6-25-0",0.194
+"38",1988,"Holly Hughes","-","9-26-0",0.257
