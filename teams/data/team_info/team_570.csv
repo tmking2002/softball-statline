@@ -1,35 +1,35 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Amber Maisonet","Liberty League","27-11-0",0.711
-"2",2024,"Amber Maisonet","Liberty League","34-7-1",0.829
-"3",2023,"Amber Maisonet","Liberty League","31-11-0",0.738
-"4",2022,"Amber Maisonet","Liberty League","25-17-0",0.595
-"5",2021,"Amber Maisonet","Liberty League","10-5-0",0.667
-"6",2020,"Amber Maisonet","Liberty League","12-0-0",1
-"7",2019,"Amber Maisonet","Liberty League","28-11-0",0.718
-"8",2018,"Amber Maisonet","Liberty League","26-11-0",0.703
-"9",2017,"Amber Maisonet","Liberty League","27-14-0",0.659
-"10",2016,"Amber Maisonet","Liberty League","28-11-0",0.718
-"11",2015,"Amber Maisonet","Liberty League","20-15-0",0.571
-"12",2014,"Amber Maisonet","Liberty League","24-18-0",0.571
-"13",2013,"Amber Maisonet","Liberty League","26-15-0",0.634
-"14",2012,"Amber Maisonet","Liberty League","27-14-0",0.659
-"15",2011,"Amber Maisonet","Liberty League","26-11-0",0.703
-"16",2010,"Erika Lewis","Liberty League","19-18-1",0.514
-"17",2009,"Erika Lewis","Liberty League","26-14-0",0.65
-"18",2008,"Erika Lewis","Liberty League","27-13-0",0.675
-"19",2007,"Erika Lewis","Liberty League","25-10-0",0.714
-"20",2006,"Erika Lewis","Liberty League","35-6-0",0.854
-"21",2005,"Erika Lewis","Liberty League","20-8-2",0.714
-"22",2004,"Erika Lewis","Liberty League","22-12-0",0.647
-"23",2003,"Erika Lewis","Liberty League","15-14-0",0.517
-"24",2002,"Erika Lewis","Liberty League","21-16-0",0.568
-"25",2001,"Richard Suker","-","13-21-0",0.382
-"26",1999,"John Pastore","-","21-14-1",0.6
-"27",1998,"John Pastore","-","29-9-0",0.763
-"28",1997,"John Pastore","-","24-8-1",0.75
-"29",1996,"John Pastore","-","10-14-0",0.417
-"30",1995,"John Pastore","-","20-6-0",0.769
-"31",1994,"John Pastore","-","15-10-0",0.6
-"32",1993,"John Pastore","-","9-12-0",0.429
-"33",1988,"Deb Pallozzi","-","4-22-0",0.154
-"34",1987,"Deb Pallozzi","-","1-1-0",0.5
+"1","2025","Amber Maisonet","Liberty League","0-0-0","  NaN"
+"2","2024","Amber Maisonet","Liberty League","34-7-1","0.829"
+"3","2023","Amber Maisonet","Liberty League","31-11-0","0.738"
+"4","2022","Amber Maisonet","Liberty League","25-17-0","0.595"
+"5","2021","Amber Maisonet","Liberty League","10-5-0","0.667"
+"6","2020","Amber Maisonet","Liberty League","12-0-0","1.000"
+"7","2019","Amber Maisonet","Liberty League","28-11-0","0.718"
+"8","2018","Amber Maisonet","Liberty League","26-11-0","0.703"
+"9","2017","Amber Maisonet","Liberty League","27-14-0","0.659"
+"10","2016","Amber Maisonet","Liberty League","28-11-0","0.718"
+"11","2015","Amber Maisonet","Liberty League","20-15-0","0.571"
+"12","2014","Amber Maisonet","Liberty League","24-18-0","0.571"
+"13","2013","Amber Maisonet","Liberty League","26-15-0","0.634"
+"14","2012","Amber Maisonet","Liberty League","27-14-0","0.659"
+"15","2011","Amber Maisonet","Liberty League","26-11-0","0.703"
+"16","2010","Erika Lewis","Liberty League","19-18-1","0.514"
+"17","2009","Erika Lewis","Liberty League","26-14-0","0.650"
+"18","2008","Erika Lewis","Liberty League","27-13-0","0.675"
+"19","2007","Erika Lewis","Liberty League","25-10-0","0.714"
+"20","2006","Erika Lewis","Liberty League","35-6-0","0.854"
+"21","2005","Erika Lewis","Liberty League","20-8-2","0.714"
+"22","2004","Erika Lewis","Liberty League","22-12-0","0.647"
+"23","2003","Erika Lewis","Liberty League","15-14-0","0.517"
+"24","2002","Erika Lewis","Liberty League","21-16-0","0.568"
+"25","2001","Richard Suker","-","13-21-0","0.382"
+"26","1999","John Pastore","-","21-14-1","0.600"
+"27","1998","John Pastore","-","29-9-0","0.763"
+"28","1997","John Pastore","-","24-8-1","0.750"
+"29","1996","John Pastore","-","10-14-0","0.417"
+"30","1995","John Pastore","-","20-6-0","0.769"
+"31","1994","John Pastore","-","15-10-0","0.600"
+"32","1993","John Pastore","-","9-12-0","0.429"
+"33","1988","Deb Pallozzi","-","4-22-0","0.154"
+"34","1987","Deb Pallozzi","-","1-1-0","0.500"
