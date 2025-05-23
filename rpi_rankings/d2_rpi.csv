@@ -6,8 +6,8 @@ Rank,Team,Record,Team ID
 4,Southern U.,1-0-0,665
 6,Tampa,43-10-0,689
 7,Francis Marion,51-4-0,1085
-8,Central Okla.,48-9-0,1009
-9,Augustana (SD),45-9-0,41
+8,Central Okla.,47-9-0,1009
+9,Augustana (SD),45-8-0,41
 10,Saint Leo,35-13-0,608
 11,Rogers St.,37-11-0,30180
 12,AUM,39-12-0,30093
@@ -17,8 +17,8 @@ Rank,Team,Record,Team ID
 16,West Tex. A&M,51-8-0,767
 17,Montana,2-0-0,441
 18,Nova Southeastern,33-14-0,24639
-19,East Stroudsburg,47-12-1,197
-20,Saginaw Valley,48-13-0,591
+19,Saginaw Valley,49-13-0,591
+20,East Stroudsburg,47-12-1,197
 21,Barry,35-18-0,49
 22,Southern Ark.,40-6-0,1376
 23,Pace,46-11-0,533
@@ -32,16 +32,16 @@ Rank,Team,Record,Team ID
 31,West Florida,36-14-0,11740
 32,Angelo St.,42-14-0,25
 33,Mo. Southern St.,33-17-0,9012
-34,Shippensburg,36-20-0,638
-35,Minnesota St.,37-19-0,383
+34,Minnesota St.,37-19-0,383
+35,Shippensburg,36-20-0,638
 36,Embry-Riddle (FL),25-17-0,9680
 37,Kutztown,38-19-0,339
 38,Cal St. East Bay,33-15-0,98
 39,Mississippi Col.,34-15-0,429
 40,Winona St.,40-14-0,790
-41,Okla. Christian,34-20-0,30179
-42,Colo. Christian,39-11-0,11403
-43,Missouri Western,31-17-0,9013
+41,Missouri Western,31-17-0,9013
+42,Okla. Christian,34-20-0,30179
+43,Colo. Christian,39-11-0,11403
 44,Florida Tech,27-18-0,230
 45,West Ala.,27-15-0,358
 46,Alabama Huntsville,26-19-0,10
@@ -60,8 +60,8 @@ Rank,Team,Record,Team ID
 59,Saint Martin's,29-13-0,1343
 60,Okla. Baptist,33-13-0,30202
 61,San Fran. St.,35-18-0,628
-62,Shepherd,28-23-1,10870
-63,Wilmington (DE),35-19-0,1460
+62,Wilmington (DE),35-19-0,1460
+63,Shepherd,28-23-1,10870
 64,Hillsdale,38-15-0,280
 65,Tusculum,35-19-0,12830
 66,Emporia St.,27-21-0,1071
@@ -70,7 +70,7 @@ Rank,Team,Record,Team ID
 69,Colorado Mesa,34-12-0,11416
 70,Grove City,1-0-0,265
 71,Ga. Southwestern,25-23-0,1097
-72,UIndy,39-20-0,309
+72,UIndy,39-21-0,309
 73,Central Mo.,30-18-0,130
 74,Delaware St.,7-0-0,178
 75,Lander,24-24-0,1167
@@ -111,15 +111,15 @@ Rank,Team,Record,Team ID
 110,CSUSB,22-24-0,93
 111,Azusa Pacific,28-19-0,30146
 112,Bentley,25-21-0,56
-113,Lee,23-24-0,30013
-114,Ohio Dominican,26-24-0,30119
+113,Concordia-St. Paul,25-29-0,9081
+114,Lee,23-24-0,30013
 115,Trevecca Nazarene,22-19-0,30002
-116,Concordia-St. Paul,25-29-0,9081
+116,Ohio Dominican,26-24-0,30119
 117,Fairmont St.,33-19-1,1076
 118,King (TN),26-22-0,30051
 119,Lubbock Christian,32-20-0,30177
-120,Ill. Springfield,30-18-0,30050
-121,Northwood,28-20-0,510
+120,Northwood,28-20-0,510
+121,Ill. Springfield,30-18-0,30050
 122,UNC Pembroke,24-22-0,537
 123,Cal St. Monterey Bay,23-24-0,30055
 124,Mount Olive,23-24-0,1245
@@ -129,32 +129,32 @@ Rank,Team,Record,Team ID
 128,Chico St.,17-20-0,95
 129,UC-Colo. Springs,30-23-0,9754
 130,Dominican (CA),29-21-0,30118
-132,Wayne St. (NE),27-23-0,1433
+131,Wayne St. (NE),27-23-0,1433
 133,Northwest Mo. St.,20-24-0,507
 134,Anderson (SC),27-23-0,13028
-135,Maryville (MO),22-26-0,395
-136,West Liberty,31-24-0,1438
+135,West Liberty,31-24-0,1438
+136,Maryville (MO),22-26-0,395
 137,Slippery Rock,29-21-0,643
 138,Fort Hays St.,24-21-0,9011
 139,Simon Fraser,23-21-0,30127
 140,Southeastern Okla.,23-25-0,1371
 141,Southern N.H.,25-19-0,468
 142,Adelphi,24-27-0,3
-143,Truman St.,24-22-0,499
-144,Wayne St. (MI),24-30-0,757
+143,Wayne St. (MI),24-30-0,757
+144,Truman St.,24-22-0,499
 145,Lynn,15-26-0,20794
-146,Seton Hill,27-17-0,30063
-147,Wis.-Parkside,27-24-0,799
-148,Missouri S&T,19-28-0,435
-149,Newberry,22-28-0,1257
-150,Arkansas Tech,23-27-0,947
+146,Wis.-Parkside,27-24-0,799
+147,Seton Hill,27-17-0,30063
+148,Newberry,22-28-0,1257
+149,Arkansas Tech,23-27-0,947
+150,Missouri S&T,19-28-0,435
 151,CSU Pueblo,26-19-0,2720
 152,Eastern N.M.,26-24-0,206
 153,Minot St.,21-21-0,30125
 154,Hawaii Hilo,24-18-0,2697
 155,Assumption,21-27-0,36
-156,Saint Michael's,17-18-1,613
-157,Southwest Minn. St.,29-22-0,8736
+156,Southwest Minn. St.,29-22-0,8736
+157,Saint Michael's,17-18-1,613
 158,Tex. A&M-Kingsville,22-26-0,696
 159,Tex. A&M Int'l,18-29-0,30090
 160,Mars Hill,18-22-0,1199
@@ -162,8 +162,8 @@ Rank,Team,Record,Team ID
 162,Henderson St.,25-21-0,1123
 163,St. Lawrence,1-1-0,607
 164,Limestone,11-22-0,1174
-165,Rockhurst,18-25-0,1328
-166,St. Anselm,23-16-0,593
+165,St. Anselm,23-16-0,593
+166,Rockhurst,18-25-0,1328
 167,Indiana (PA),26-20-0,307
 168,Davis & Elkins,26-25-0,174
 169,Caldwell,23-24-0,995
@@ -181,9 +181,9 @@ Rank,Team,Record,Team ID
 181,Palm Beach Atl.,6-26-0,30045
 182,Texas-Dallas,12-17-0,23121
 183,Northwest Nazarene,19-21-0,1274
-185,Colo. Sch. of Mines,21-28-0,155
-186,Ashland,21-21-0,35
-187,Sioux Falls,20-26-0,30128
+185,Sioux Falls,20-26-0,30128
+186,Colo. Sch. of Mines,21-28-0,155
+187,Ashland,21-21-0,35
 188,Fort Valley St.,18-18-0,237
 189,Millersville,21-29-0,423
 190,Regis (CO),21-25-0,568
@@ -191,12 +191,12 @@ Rank,Team,Record,Team ID
 192,Mo.-St. Louis,18-23-0,436
 193,Chowan,18-28-0,8875
 194,Western Ore.,11-32-0,1446
-195,William Jewell,22-26-0,30120
+196,William Jewell,22-26-0,30120
 197,MSU Moorhead,16-34-0,1240
 198,Molloy,19-31-0,437
 199,Fla. Southern,7-39-0,233
-200,Concord,23-24-0,1028
-201,Bemidji St.,19-29-0,54
+200,Bemidji St.,19-29-0,54
+201,Concord,23-24-0,1028
 202,UVA Wise,20-26-0,30181
 203,Midwestern St.,19-29-0,1222
 204,Edward Waters,20-16-0,30244
@@ -211,8 +211,8 @@ Rank,Team,Record,Team ID
 213,Ouachita Baptist,18-31-0,1289
 214,Albany St. (GA),20-12-0,13
 215,Southwest Baptist,13-25-0,2755
-216,Mercy,23-22-0,407
-217,Minn.-Crookston,16-28-0,27854
+216,Minn.-Crookston,16-28-0,27854
+217,Mercy,23-22-0,407
 218,Western N.M.,13-35-0,1445
 219,Thomas More,21-25-0,1402
 220,Chadron St.,22-28-0,1012
@@ -231,8 +231,8 @@ Rank,Team,Record,Team ID
 233,California (PA),18-33-0,106
 234,Coker,12-28-0,1023
 235,Delta St.,12-35-0,181
-236,Lincoln (MO),14-31-0,356
-237,Staten Island,19-21-0,675
+236,Staten Island,19-21-0,675
+237,Lincoln (MO),14-31-0,356
 238,West Va. Wesleyan,16-28-0,9630
 239,Northern St.,10-36-0,1266
 240,Davenport,18-30-0,30221
@@ -249,7 +249,7 @@ Rank,Team,Record,Team ID
 252,Queens (NY),9-27-0,560
 253,Academy of Art,11-38-0,30123
 254,New Haven,11-30-0,470
-255,Southern Conn. St.,15-23-0,658
+256,Southern Conn. St.,15-23-0,658
 257,Shorter,13-29-0,30151
 258,Central Wash.,6-27-0,1010
 259,Salem (WV),23-26-0,19117
