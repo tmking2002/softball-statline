@@ -1,46 +1,46 @@
 "","season","head_coach","conference","record","win_perc"
-"1",2025,"Chris Blum","MAC Freedom","29-14-0",0.674
-"2",2024,"Chris Blum","MAC Freedom","22-14-0",0.611
-"3",2023,"Chris Blum","MAC Freedom","27-13-0",0.675
-"4",2022,"Richard Lipinski","MAC Freedom","27-9-0",0.75
-"5",2021,"Lindsay Freitag","MAC Freedom","24-6-0",0.8
-"6",2020,"Lindsay Freitag","MAC Freedom","10-2-0",0.833
-"7",2019,"Lindsay Freitag","MAC Freedom","30-13-0",0.698
-"8",2018,"Lindsay Freitag","MAC Freedom","23-18-0",0.561
-"9",2017,"Lindsay Freitag","MAC Freedom","21-22-0",0.488
-"10",2016,"Lindsay Freitag","MAC Freedom","26-14-0",0.65
-"11",2015,"Jennifer Probst","MAC Freedom","28-17-0",0.622
-"12",2014,"Jennifer Probst","MAC Freedom","25-17-0",0.595
-"13",2013,"Jennifer Probst","MAC Freedom","16-22-0",0.421
-"14",2012,"Jennifer Probst","MAC Freedom","28-17-0",0.622
-"15",2011,"Jennifer Probst","MAC Freedom","25-18-0",0.581
-"16",2010,"Jennifer Probst","MAC Freedom","28-18-0",0.609
-"17",2009,"Charlotte Slocum","MAC Freedom","28-16-0",0.636
-"18",2008,"Charlotte Slocum","CSAC","34-13-0",0.723
-"19",2007,"Charlotte Slocum","CSAC","29-16-0",0.644
-"20",2006,"Charlotte Slocum","CSAC","32-16-0",0.667
-"21",2005,"Charlotte Slocum","CSAC","31-11-0",0.738
-"22",2004,"Charlotte Slocum","CSAC","34-12-0",0.739
-"23",2003,"Charlotte Slocum","-","26-13-0",0.667
-"24",2002,"Charlotte Slocum","CSAC","26-17-0",0.605
-"25",2001,"Charlotte Slocum","-","27-11-0",0.711
-"26",2000,"Charlotte Slocum","-","35-13-0",0.729
-"27",1999,"Charlotte Slocum","-","30-14-0",0.682
-"28",1998,"Charlotte Slocum","-","30-12-0",0.714
-"29",1997,"Charlotte Slocum","-","30-12-0",0.714
-"30",1996,"Charlotte Slocum","-","38-6-0",0.864
-"31",1995,"Charlotte Slocum","-","27-12-0",0.692
-"32",1994,"Charlotte Slocum","-","27-5-0",0.844
-"33",1993,"Charlotte Slocum","-","14-11-0",0.56
-"34",1992,"Charlotte Slocum","-","30-10-0",0.75
-"35",1991,"Charlotte Slocum","-","22-12-0",0.647
-"36",1990,"Charlotte Slocum","-","20-11-0",0.645
-"37",1989,"Charlotte Slocum","-","12-11-0",0.522
-"38",1988,"Charlotte Slocum","-","15-6-0",0.714
-"39",1987,"Charlotte Slocum","-","12-8-0",0.6
-"40",1986,"Charlotte Slocum","-","12-6-0",0.667
-"41",1985,"Charlotte Slocum","-","10-5-0",0.667
-"42",1984,"Charlotte Slocum","-","12-5-0",0.706
-"43",1983,"Charlotte Slocum","-","12-8-0",0.6
-"44",1982,"Charlotte Slocum","-","10-9-0",0.526
-"45",1981,"Charlotte Slocum","-","10-8-0",0.556
+"1","2025","Chris Blum","MAC Freedom","0-0-0","  NaN"
+"2","2024","Chris Blum","MAC Freedom","22-14-0","0.611"
+"3","2023","Chris Blum","MAC Freedom","27-13-0","0.675"
+"4","2022","Richard Lipinski","MAC Freedom","27-9-0","0.750"
+"5","2021","Lindsay Freitag","MAC Freedom","24-6-0","0.800"
+"6","2020","Lindsay Freitag","MAC Freedom","10-2-0","0.833"
+"7","2019","Lindsay Freitag","MAC Freedom","30-13-0","0.698"
+"8","2018","Lindsay Freitag","MAC Freedom","23-18-0","0.561"
+"9","2017","Lindsay Freitag","MAC Freedom","21-22-0","0.488"
+"10","2016","Lindsay Freitag","MAC Freedom","26-14-0","0.650"
+"11","2015","Jennifer Probst","MAC Freedom","28-17-0","0.622"
+"12","2014","Jennifer Probst","MAC Freedom","25-17-0","0.595"
+"13","2013","Jennifer Probst","MAC Freedom","16-22-0","0.421"
+"14","2012","Jennifer Probst","MAC Freedom","28-17-0","0.622"
+"15","2011","Jennifer Probst","MAC Freedom","25-18-0","0.581"
+"16","2010","Jennifer Probst","MAC Freedom","28-18-0","0.609"
+"17","2009","Charlotte Slocum","MAC Freedom","28-16-0","0.636"
+"18","2008","Charlotte Slocum","CSAC","34-13-0","0.723"
+"19","2007","Charlotte Slocum","CSAC","29-16-0","0.644"
+"20","2006","Charlotte Slocum","CSAC","32-16-0","0.667"
+"21","2005","Charlotte Slocum","CSAC","31-11-0","0.738"
+"22","2004","Charlotte Slocum","CSAC","34-12-0","0.739"
+"23","2003","Charlotte Slocum","-","26-13-0","0.667"
+"24","2002","Charlotte Slocum","CSAC","26-17-0","0.605"
+"25","2001","Charlotte Slocum","-","27-11-0","0.711"
+"26","2000","Charlotte Slocum","-","35-13-0","0.729"
+"27","1999","Charlotte Slocum","-","30-14-0","0.682"
+"28","1998","Charlotte Slocum","-","30-12-0","0.714"
+"29","1997","Charlotte Slocum","-","30-12-0","0.714"
+"30","1996","Charlotte Slocum","-","38-6-0","0.864"
+"31","1995","Charlotte Slocum","-","27-12-0","0.692"
+"32","1994","Charlotte Slocum","-","27-5-0","0.844"
+"33","1993","Charlotte Slocum","-","14-11-0","0.560"
+"34","1992","Charlotte Slocum","-","30-10-0","0.750"
+"35","1991","Charlotte Slocum","-","22-12-0","0.647"
+"36","1990","Charlotte Slocum","-","20-11-0","0.645"
+"37","1989","Charlotte Slocum","-","12-11-0","0.522"
+"38","1988","Charlotte Slocum","-","15-6-0","0.714"
+"39","1987","Charlotte Slocum","-","12-8-0","0.600"
+"40","1986","Charlotte Slocum","-","12-6-0","0.667"
+"41","1985","Charlotte Slocum","-","10-5-0","0.667"
+"42","1984","Charlotte Slocum","-","12-5-0","0.706"
+"43","1983","Charlotte Slocum","-","12-8-0","0.600"
+"44","1982","Charlotte Slocum","-","10-9-0","0.526"
+"45","1981","Charlotte Slocum","-","10-8-0","0.556"

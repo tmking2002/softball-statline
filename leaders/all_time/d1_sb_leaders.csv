@@ -1,9 +1,9 @@
 "","team_id","player_id","rank","player","sb","season"
 "1",655,63542,1,"Jaquelyn Ramon",63,2019
-"2",388,17386,2,"Elicia D'orazio",59,2017
-"3",529,47130,3,"Kai Luschar",58,2025
-"4",655,43238,3,"Katie Lacour",58,2016
-"5",671,53048,3,"Keeli Milligan",58,2019
+"2",529,47130,2,"Kai Luschar",60,2025
+"3",388,17386,3,"Elicia D'orazio",59,2017
+"4",655,43238,4,"Katie Lacour",58,2016
+"5",671,53048,4,"Keeli Milligan",58,2019
 "6",434,26543,6,"Taylor Gadbois",56,2016
 "7",1004,83800,6,"Jenna Wildeman",56,2021
 "8",651,38726,8,"Alexis Johns",55,2022
@@ -52,8 +52,8 @@
 "51",365,1832,47,"Aliyah Andrews",42,2018
 "52",388,14622,47,"Alex Coleman",42,2023
 "53",655,22052,47,"Maddie Edmonston",42,2018
-"54",10411,28464,47,"Ansley Gilstrap",42,2018
-"55",10411,44162,47,"Denver Lauer",42,2024
+"54",10411,44162,47,"Denver Lauer",42,2024
+"55",10411,28464,47,"Ansley Gilstrap",42,2018
 "56",68,15149,56,"Moriah Connolly",41,2017
 "57",72,39968,56,"Kelly Kapp",41,2017
 "58",229,58972,56,"Madisyn Palmer",41,2017
@@ -73,8 +73,8 @@
 "72",1004,83800,63,"Jenna Wildeman",40,2022
 "73",112,47569,73,"Kelsi Maday",39,2017
 "74",164,48424,73,"Briana Marcelino",39,2022
-"75",388,17386,73,"Elicia D'orazio",39,2016
-"76",388,86469,73,"Morgan Zerkle",39,2017
+"75",388,86469,73,"Morgan Zerkle",39,2017
+"76",388,17386,73,"Elicia D'orazio",39,2016
 "77",450,28405,73,"Bridgette Gilliano",39,2022
 "78",553,77967,73,"Kearstin Tinsley",39,2025
 "79",610,86311,73,"Kimiko Zapanta",39,2018
