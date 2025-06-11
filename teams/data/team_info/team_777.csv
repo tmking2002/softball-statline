@@ -1,47 +1,47 @@
 "","season","head_coach","conference","record","win_perc"
-"1","2025","","MASCAC","0-0-0","  NaN"
-"2","2024","Joe Hough","MASCAC","28-13-1","0.683"
-"3","2023","Joe Hough","MASCAC","24-18-0","0.571"
-"4","2022","Skania Valencia","MASCAC","18-19-0","0.486"
-"5","2021","Colleen Bannister","MASCAC","9-19-0","0.321"
-"6","2020","Colleen Bannister","MASCAC","1-7-0","0.125"
-"7","2019","Colleen Bannister","MASCAC","12-25-0","0.324"
-"8","2018","Colleen Bannister","MASCAC","17-20-0","0.459"
-"9","2017","Colleen Bannister","MASCAC","19-18-0","0.514"
-"10","2016","Colleen Bannister","MASCAC","19-22-0","0.463"
-"11","2015","Lindsay Sawyer","MASCAC","11-19-0","0.367"
-"12","2014","Lindsay Sawyer","MASCAC","11-19-0","0.367"
-"13","2013","Lindsay Sawyer","MASCAC","7-28-0","0.200"
-"14","2012","Lindsay Sawyer","MASCAC","21-20-0","0.512"
-"15","2011","Lou Ann Simchak","MASCAC","22-19-0","0.537"
-"16","2010","Lou Ann Simchak","MASCAC","26-13-0","0.667"
-"17","2009","Lou Ann Simchak","MASCAC","23-14-0","0.622"
-"18","2008","Lou Ann Simchak","MASCAC","23-13-0","0.639"
-"19","2007","Lou Ann Simchak","MASCAC","20-14-0","0.588"
-"20","2006","Lou Ann Simchak","MASCAC","14-24-0","0.368"
-"21","2005","Lou Ann Simchak","MASCAC","15-22-0","0.405"
-"22","2004","Lou Ann Simchak","MASCAC","11-19-1","0.367"
-"23","2003","Lou Ann Simchak","MASCAC","16-12-0","0.571"
-"24","2002","Lou Ann Simchak","MASCAC","21-17-1","0.553"
-"25","2001","Lou Ann Simchak","-","13-21-0","0.382"
-"26","2000","Lou Ann Simchak","-","12-14-0","0.462"
-"27","1999","Lou Ann Simchak","-","9-22-0","0.290"
-"28","1998","Joe McGovern","-","16-14-0","0.533"
-"29","1997","Joe McGovern","-","16-17-0","0.485"
-"30","1996","Ken Magarian","-","17-11-0","0.607"
-"31","1995","Patricia Morano","-","16-17-0","0.485"
-"32","1994","Patricia Morano","-","10-18-0","0.357"
-"33","1993","Lisa Nordeen","-","10-18-0","0.357"
-"34","1992","Joyce O'Donnell","-","17-16-0","0.515"
-"35","1991","Joyce O'Donnell","-","15-12-0","0.556"
-"36","1990","Joyce O'Donnell","-","7-8-0","0.467"
-"37","1989","Joyce O'Donnell","-","14-10-0","0.583"
-"38","1988","Joyce O'Donnell","-","17-10-0","0.630"
-"39","1987","Joyce O'Donnell","-","20-7-0","0.741"
-"40","1986","Joyce O'Donnell","-","10-13-0","0.435"
-"41","1985","Joyce O'Donnell","-","18-13-0","0.581"
-"42","1984","Joyce O'Donnell","-","15-13-0","0.536"
-"43","1983","Joyce O'Donnell","-","17-15-0","0.531"
-"44","1982","Joyce O'Donnell","-","20-8-0","0.714"
-"45","1981","Joyce O'Donnell","-","7-17-0","0.292"
-"46","1980","Joyce O'Donnell","-","15-11-0","0.577"
+"1",2025,"","MASCAC","32-11-0",0.744
+"2",2024,"Joe Hough","MASCAC","28-13-1",0.683
+"3",2023,"Joe Hough","MASCAC","24-18-0",0.571
+"4",2022,"Skania Valencia","MASCAC","18-19-0",0.486
+"5",2021,"Colleen Bannister","MASCAC","9-19-0",0.321
+"6",2020,"Colleen Bannister","MASCAC","1-7-0",0.125
+"7",2019,"Colleen Bannister","MASCAC","12-25-0",0.324
+"8",2018,"Colleen Bannister","MASCAC","17-20-0",0.459
+"9",2017,"Colleen Bannister","MASCAC","19-18-0",0.514
+"10",2016,"Colleen Bannister","MASCAC","19-22-0",0.463
+"11",2015,"Lindsay Sawyer","MASCAC","11-19-0",0.367
+"12",2014,"Lindsay Sawyer","MASCAC","11-19-0",0.367
+"13",2013,"Lindsay Sawyer","MASCAC","7-28-0",0.2
+"14",2012,"Lindsay Sawyer","MASCAC","21-20-0",0.512
+"15",2011,"Lou Ann Simchak","MASCAC","22-19-0",0.537
+"16",2010,"Lou Ann Simchak","MASCAC","26-13-0",0.667
+"17",2009,"Lou Ann Simchak","MASCAC","23-14-0",0.622
+"18",2008,"Lou Ann Simchak","MASCAC","23-13-0",0.639
+"19",2007,"Lou Ann Simchak","MASCAC","20-14-0",0.588
+"20",2006,"Lou Ann Simchak","MASCAC","14-24-0",0.368
+"21",2005,"Lou Ann Simchak","MASCAC","15-22-0",0.405
+"22",2004,"Lou Ann Simchak","MASCAC","11-19-1",0.367
+"23",2003,"Lou Ann Simchak","MASCAC","16-12-0",0.571
+"24",2002,"Lou Ann Simchak","MASCAC","21-17-1",0.553
+"25",2001,"Lou Ann Simchak","-","13-21-0",0.382
+"26",2000,"Lou Ann Simchak","-","12-14-0",0.462
+"27",1999,"Lou Ann Simchak","-","9-22-0",0.29
+"28",1998,"Joe McGovern","-","16-14-0",0.533
+"29",1997,"Joe McGovern","-","16-17-0",0.485
+"30",1996,"Ken Magarian","-","17-11-0",0.607
+"31",1995,"Patricia Morano","-","16-17-0",0.485
+"32",1994,"Patricia Morano","-","10-18-0",0.357
+"33",1993,"Lisa Nordeen","-","10-18-0",0.357
+"34",1992,"Joyce O'Donnell","-","17-16-0",0.515
+"35",1991,"Joyce O'Donnell","-","15-12-0",0.556
+"36",1990,"Joyce O'Donnell","-","7-8-0",0.467
+"37",1989,"Joyce O'Donnell","-","14-10-0",0.583
+"38",1988,"Joyce O'Donnell","-","17-10-0",0.63
+"39",1987,"Joyce O'Donnell","-","20-7-0",0.741
+"40",1986,"Joyce O'Donnell","-","10-13-0",0.435
+"41",1985,"Joyce O'Donnell","-","18-13-0",0.581
+"42",1984,"Joyce O'Donnell","-","15-13-0",0.536
+"43",1983,"Joyce O'Donnell","-","17-15-0",0.531
+"44",1982,"Joyce O'Donnell","-","20-8-0",0.714
+"45",1981,"Joyce O'Donnell","-","7-17-0",0.292
+"46",1980,"Joyce O'Donnell","-","15-11-0",0.577
